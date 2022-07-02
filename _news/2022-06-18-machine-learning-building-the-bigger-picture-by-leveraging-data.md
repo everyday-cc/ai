@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/DeepLearning_dreamstime_Thodonal_248034571.62acc724f0f34.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"

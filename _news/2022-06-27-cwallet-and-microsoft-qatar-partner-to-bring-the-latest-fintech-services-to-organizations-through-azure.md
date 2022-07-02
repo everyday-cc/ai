@@ -67,20 +67,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "The future of fintech"
-    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
-    publishedDateTime: 2022-06-27T08:14:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Durango fintech company sells to NerdWallet for $120M"
     excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
     publishedDateTime: 2022-06-27T20:07:00Z

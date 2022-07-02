@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
-    excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona.  That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
-    publishedDateTime: 2022-07-01T21:44:00Z
-    webUrl: "https://www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-    ampWebUrl: "https://www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+    excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona. That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
+    publishedDateTime: 2022-07-02T00:58:00Z
+    webUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
+    ampWebUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
     type: article
     provider:
-      name: KTTV
-      domain: foxla.com
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
     quality: 15
 
 secured: "xjcuNUeodwUOk7u3LM27ElOdxb8kIaX1PZnaw6vroJ1JYDGn6dWDK9O8VN7dIuN2e/OT+TEQD33HhUttxMtK3GsyXZofeckmNDrWKQIHEjBBWKl9Etxcvs8yHIlfFIXzEQFu7KW/FwivgIUospDPMYwn6htPtHh/TAHP3p5UF8+3uecVwhYRk03suIpeggYa6omSnjFkkwXT0HCCneOht0u4j7D6WOAvUW7yNWeoLzA2URGLEHC4rweA48VndzxIJCDLp7IGuQvu6MLV/Ab9zfuwcz9yeNHobXqAZrdjupfeqiA85DUCl/4myadlLk19yGWJo6ly16OmWZpBxtwZtWkU4pszuUBle0pUOFacmUpl9YWJ8/DzVTX7E4yfMDvNipcJaDAYKhxn8Mx/U8HVayRsCYBo58yE2fONo1Pvwaq7V9eSLMKz2tgJGrqqWV3Y4bHzB/WXcZRlWrRWlQRc1osraoZa03d0ZkloNl6Hor0TdWXtRUx2fRYRboW07+u84Vc5JZR7agcjYY6Sq2h99Q==;GVqefb9aCafsNxubiQBvdQ=="

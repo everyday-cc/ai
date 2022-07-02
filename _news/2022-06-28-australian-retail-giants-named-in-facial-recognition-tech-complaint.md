@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/australian-retail-giants-target
 webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
 type: article
 quality: 84
-heat: 254
+heat: 234
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
         width: 1200
         height: 807
         isCached: true
-  - title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
-    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
-    publishedDateTime: 2022-06-27T08:10:00Z
-    webUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
     publishedDateTime: 2022-06-27T20:39:00Z
@@ -162,20 +148,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
-    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
-    publishedDateTime: 2022-06-27T08:15:00Z
-    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 52
-    images:
-      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
         isCached: true
   - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
     excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."

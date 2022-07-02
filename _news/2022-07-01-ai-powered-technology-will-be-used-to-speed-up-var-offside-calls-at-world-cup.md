@@ -3,8 +3,8 @@ category: news
 title: "AI-powered technology will be used to speed up VAR offside calls at World Cup"
 excerpt: "New AI-powered technology will be used at the Qatar World Cup, Fifa has confirmed, claiming it will halve the time taken to make VAR offside decisions"
 publishedDateTime: 2022-07-01T07:01:00Z
-originalUrl: "https://www.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup"
-webUrl: "https://www.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup"
+originalUrl: "https://www.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup?amp;amp;amp"
+webUrl: "https://www.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "FexWWGcQ2G/FN1ONXEJbj9cS7Xvc7Uw8lBkzwbQxpTmXdUi8C6f7XGqnG/VD248OZhCrvn5XXLl62LS0fZM4AWBm50cGxQl0+Rfen3++CylkBmcrkmiqRkKatsuveGao+YGmItrhrjZCJWrzHuIRCN2puCYGnmln3RujWfrFzfQTcK00rICaR65b1JPfzvgoIF/Ju/5wji0SdZUHj9Dt6lxnmI6JxW/aCtg+7xXo3h8TjBORQwTrkQ7MvFLgeZ3TldNRsayw7VLqSNIULIb6L/0p1UydS/FKIegEj2aR68HDGU6TggXD5aknh4BVvDQSBPzkRmLkJ/X+sTifvoqC01kuf+DOoWrhAea9qEolUj+O+2Of29IM1zcmgdgqOEndEissCapKH2vKLHOkettbfugnaKBddSO7syWwVwPvfzJ52p8k40Wfu1k6n2KaBka1lXMTmAU2S8G+Oq5zRvSObtQdEPovL3EukLlNMHulGsYthvonff3ZlnSxOu+tj/w2t92X6HjFdS14aF20WeC4KA==;oUzBeBXYpfucqArs4nHvGA=="
+secured: "gX8PIDxsqsMYDiVubt27R6JO2TFGZvSBIE4HLHYw6qKvrmK7xFV3IN6vWwLDuPuARScqcbcn/1HISjXeHN/1J1mCgo1ycQzcnSBMCBfZfKqjUVezR8wTxVddDqdsFIz+KcUyonvtBm0SpGTfq3O9oxlPcj1ts28NasE5Tp0EarWIhW/Vp3GN+6MSp0nXkWBxhWyj4UQABqYE53Gl9cOC858ifPT8QwhqVgu3HQOMSKW9ZIk9sa/kPymQ0DrwaWS/hkJi4ryRa8Q5BdiT5wVaG3mrrdoNc8eu9HGKCfl2a46olDqr7JbkkY19bj2MB9RDP8C1uR575bzg4sC+kKug4oj/hMRm4LIg9jNmJeenp2Y=;e1Q2UbTOymK79O00BI6QRQ=="
 ---
 

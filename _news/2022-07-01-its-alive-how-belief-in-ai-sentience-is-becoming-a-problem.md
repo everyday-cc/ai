@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T14:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
+  - title: "It's alive! How belief in AI sentience is becoming a problem"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T14:04:00Z
+    webUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
-        width: 2500
-        height: 1623
+      - url: "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Chatbot company Replika says many customers believe in AI sentience"
+    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T17:36:00Z
+    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
+    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 61
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "How belief in AI sentience is becoming a problem"
     excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
@@ -75,33 +89,21 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
+  - title: "Are chatbots conscious entities? The AI sentience conundrum"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
+    publishedDateTime: 2022-07-01T15:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
-    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
-    publishedDateTime: 2022-06-30T16:01:00Z
-    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
-        width: 708
-        height: 419
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "39Uu42gFcDbbmV0r6X80LVCe2WWV0HAJ1r0I1SrvlDtdjzEtT1b2VZ2HvlrJt7VzWgBJGYb6Fi4LLDZhIehk1dHosX95Tao36smzFaA1MRYlbYuq7n/Dha8pw6pyXi8fily5nbn85boDl9SOwTPTuK6M2Joe/5z26EcSR3Af5GsnYtJf4MDaKEtMPZG/7hAdMzY2fHvBhwH+CRQdJtWL1bVX/M0EwUIzPygKitrkTaH6wkEUB7/KbAyhXCs752gsk+qiKPcJ+0hkIk9RGHo9riEB9nGintXgHcCNJp1Dru0S/MiorYAH5k9E8C+evQBcFYnD6VjRgZxrgcnsnUt0BeT1fkzy6BsoWMkq4+kolss=;+HQG1pErV/Ykg6+Wcue5kA=="

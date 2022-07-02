@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tomahawk Robotics Adds Reveal Technology's Farsight Ai Into The Kinesis Ecosystem"
-excerpt: "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to share we have successfully demonstrated an initial integration of Reveal Technology's Farsight AI application into our Kinesis common control software."
-publishedDateTime: 2022-06-29T15:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9631185.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9631185.htm"
+title: "Tomahawk Robotics Adds Reveal Technology’s Farsight Ai Into The Kinesis Ecosystem"
+excerpt: "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to share we have successfully demonstrated an initial integration of Reveal Technology’s Farsight AI application into our Kinesis common control software."
+publishedDateTime: 2022-06-29T15:10:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-8e7ba9391a9ee280c8f6f637d3fd1aff"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-8e7ba9391a9ee280c8f6f637d3fd1aff"
 type: article
 quality: 64
 heat: 64
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1850411/Tomahawk_Robotics_Reveal.jpg"
-    width: 300
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "C4no2tA0suKIwsNHH6YcQCm79dZVSDYmptv6isgw7Z3PY5fJP7xFk53AwiILGcgIm/Rblbqjk+dMx3SVUXkG0Os33yAMrHHa70a6Pe+MHW9SdfX4CiVQfunSSm4BSyyS2o38G7k7bxhzPpnH2pkpPkRX5xc8ZZxJ6EzWY88fitgZYjT+BZPV1//3pboVSJX0GMmtj9QvoZvcgaoSQjX5B81wODXsBDoFUgGC9EZfMKYVxcAKfYzMPd6UnSoeHgPxpNuRf4/ZCJnGBCrwoElN8lq3gHS7tmqw8RumYayPrQFljo5x1I9hm9I4tJAFnTkuHYn0dZHpiMJF4QjOi5Nry5OXYaR5ogeppqvfMTTygaWSuBBO1MBXt4GuDt8+vZFelLSHEqjFZd37n2suKu55oNi54CyK3mkSs057jNg/GWLY9D/DnKT52SLqA7DNK3+nN3V46YPzjzap0srm3lK3xw18IJXjHWUzn53+n+GD70oNYaDK38bK/l+Rbe0rQ9a7lvnsj1P1CbeTLbnNJe3Sbw==;2KAP8TGIdLJJMonHJ6CwfQ=="
+secured: "ilw+Zjsouj3g0clCrG9aIVK8eaQMAtNlzFlxk0aSqqAsNc5ZDxBQbhqwPcDbH+eeVEzBK9lcTXK4MqCJ8PUIwJsJ4vucw/tsSunAm4JZ6gB8s+Q0QD+nmCh9vDTTlmbfOeMJKIgj5fNrJWY5Co7gje2vfYwGSeYkzLLM8oLS1nT5Si2ieXlXaZl6kaaZMC4Bq7nl5aUhWkQBsiF9hOQsxJ2UoHB0bD5oJc+PaslLxoDX2A2iJ2jgKPybNeCkCVSZhGOVjFkXZsrwGvkddmah2OVjLfZYf0GOYF4DEtY/Zgxav8hVSPlW/uPlaX1U+XZxiGFSbSHLAhNLTLpEWk+ChSLy6BLU/8gr14XtE5G0GxY=;Eq8X6lqGhR8Ea4a1q4TdQg=="
 ---
 

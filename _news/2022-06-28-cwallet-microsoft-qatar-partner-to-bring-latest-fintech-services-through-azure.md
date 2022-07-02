@@ -7,7 +7,7 @@ originalUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft
 webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
 type: article
 quality: 50
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
         width: 900
         height: 600
-        isCached: true
-  - title: "The future of fintech"
-    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
-    publishedDateTime: 2022-06-27T08:14:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Durango fintech company sells to NerdWallet for $120M"
     excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."

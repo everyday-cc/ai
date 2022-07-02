@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
-excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona.  That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
-publishedDateTime: 2022-07-01T21:44:00Z
-originalUrl: "https://www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-webUrl: "https://www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-ampWebUrl: "https://www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
-cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona. That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
+publishedDateTime: 2022-07-02T00:58:00Z
+originalUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
+webUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
+ampWebUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: KTTV
-  domain: foxla.com
+  name: FOX 5 Atlanta
+  domain: fox5atlanta.com
 
 topics:
   - Natural Language Processing
@@ -38,6 +38,6 @@ related:
         height: 470
         isCached: true
 
-secured: "F818SSNA1xPn+GSEw2n5hSdMYfUEaQbWxQQ7QrPcwT8c6T2f16EtlhKMY2w+GDue8TexQbZ1nI0O7fqyJVZ6HSNBnBBQDAlQ+5BCt6QgQ7WL4vLD2igcV6z18eXfaWWJHWkMKoVC3BoxmTA00pG40KwzhKgYrbSItHeKk5MG8MjGCq/OzQJhnqfPIpq8Mb8R4lPnzUIJNxAu1SfRoIoTzrw6lU/HZfcaYONwzKEcF4mLkdEMxjDERLms98bz/YAHT2sM+F16+YxzVIrodv6wVi3y47QdZgPq050pSS6cZQFRg07mQpyPYaJ2s8EV5UQHhvBTxuM/XKSMMXqeW3GvXDDipZ1REm2PdFa8F/Bk6+LXgCQRloDWbe25ZpQWv7gdKaE8dj3xjoP/RzKp0aIEhNeKASD8xvXin4ekhvP2pqOa5uaufOnsN+f4S/15JsRoJoOSFo62ugGFQoHZhYTHSJ10lSuz+qP+bGWHyGKkysWfKbjObMVRd/kMGoFLLLwouB/QHYtlUaBH5h45yWURJw==;Ao2pTtdiMdQMkD0s0M2ZwA=="
+secured: "Djy9I3MyXI8LStrkAFEbnfjL4OzqTwtRCnZ9P4RLpOZYnY7oxaCm1yltTyujlOfoXwFVt/ALxLlgWLmgJWlEddOQ9dyBC/WuMQREZZb5Xc2IGyG9iTKC1tbwk2j/wxiKqB6AiT4jdzfymrtLWHF0EWTwupMtNEK+9MxbDhsjpKAK56TEYAA7jVcfn88MLM3fzEMkEca3DRiX2TPb+lhuKSNor+dix9Yc868TM02OWOYM5xFMur9gVqs9IpzAa8lSug0xyEDb4DpfBT1oIwT9xq2NqH63UXBBqNr+7z3P7d33KkN3sTE23KMt7b5y4SCd/xBYz6SMOL0ejwEu6Anng+KVOh3/eJA+QgP74uszLi9L2zZxufCr1RscaV5om5UK2VyE+mdJ4DpRAEnRIa4CGITt2ncgA30TQXqsLskS0Tb3+ZoX6mzyhjn2AYCx2vEO5muzlH96vHTDsv2s2MTws6js+jCvQjTgYdcG/BRfVmfowyf3qfrFV1LUa23TxZ/72W40N7Cug048O8iHjBIm3g==;b8p3m4x7IlUzB+9tZUor7Q=="
 ---
 

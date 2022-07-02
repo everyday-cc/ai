@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/record-breaking-re
 webUrl: "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 400
     height: 233
     isCached: true
-
-related:
-  - title: "OPPO receives eight prizes in the Computer Vision and Pattern Recognition Conference 2022"
-    excerpt: "OPPO received a total of eight prizes in the CVPR challenges, including three first-place, one second place, and four third place prizes"
-    publishedDateTime: 2022-06-27T08:17:00Z
-    webUrl: "https://www.phoneworld.com.pk/oppo-receives-eight-prizes-in-the-computer-vision-and-pattern-recognition-conference-2022/"
-    ampWebUrl: "https://www.phoneworld.com.pk/oppo-receives-eight-prizes-in-the-computer-vision-and-pattern-recognition-conference-2022/amp/"
-    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/oppo-receives-eight-prizes-in-the-computer-vision-and-pattern-recognition-conference-2022/amp/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 50
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/06/Picture1-4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "6iqKPn/rfUuEWlkEsTY4vmqJ9XGi7ZsIC858KOOVc0pa288fPIDwYauMsFmg95XPr1wmdIdNyJqjbHOlpEtVYXs/OPBWHGfkK+NKGK649uxjm+ipr95/aYze0dgWvToDVS5PTHElan8CXIN55wAM6Ufzkvp+LkiMAlvZxjE6MVRhMtGgKsqPqeA8M+aBs/oU62aFq3VSHOUUyfigx8xHTYIbjEEPzwLqtRiQFvHpl6XXJ1hL5IlW6GUgusaZabPie43809DWW3Ra7+pqWBTgLosBJ6g0kF3h9mG19Nd0NxVHgWi8dhO3qjIz6Kfdu0cMO56EnepbUrKHy3b0fjmlYzEndZBiEEMT2rNQ5ZcB7W2ClJlUZ43Oap0aR29LMxm6uVZAeTE0+Z0t8wOpcHprhvW4/3CsAzXSEEw5ztc/0pLj41eSzV7ta/s108yfjEQ7yR/WtlcF6JwKbk78CHuqqbU4OFDssu+E40GAVc9SECxgMViZlNbENDl0+qSzUwMHgYMJJ3oR5JIgNS4XV2N3Lg==;Myg0lnG2389MHldaBUua7g=="
 ---

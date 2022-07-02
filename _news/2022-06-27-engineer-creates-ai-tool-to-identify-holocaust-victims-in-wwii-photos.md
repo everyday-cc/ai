@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Metro
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Face Recognition Can Identify Faces In WWII Photos"
-    excerpt: "Daniel Patt has developed an AI using face recognition technology that scans through a large amount of WWII photos"
-    publishedDateTime: 2022-06-27T08:26:00Z
-    webUrl: "https://fossbytes.com/ai-face-recognition-to-identify-faces-in-wwii-photos/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 54
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/06/FotoJet-3-min.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI identifies rocker Geddy Lee’s mother in Holocaust photos"
     excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
     publishedDateTime: 2022-06-28T18:20:00Z

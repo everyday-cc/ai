@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cfr.org/blog/artificial-intelligences-environmental-cost
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta builds AI models for realistic sound experience in VR environments"
-    excerpt: "Meta (formerly Facebook) has built three new artificial intelligence (AI) models designed to make sound more realistic in mixed and virtual reality experiences"
-    publishedDateTime: 2022-06-27T08:59:00Z
-    webUrl: "https://www.business-standard.com/article/technology/meta-builds-ai-models-for-realistic-sound-experience-in-vr-environments-122062700299_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-builds-ai-models-for-realistic-sound-experience-in-vr-environments-122062700299_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-builds-ai-models-for-realistic-sound-experience-in-vr-environments-122062700299_1.html"
+  - title: "Environmental impacts of AI will be determined by society"
+    excerpt: "Study co-author David Rolnick is an assistant professor of Computer Science at McGill University and a core academic member of Mila – Quebec AI Institute. “AI affects the climate in many ways, both positive and negative,"
+    publishedDateTime: 2022-06-30T17:26:00Z
+    webUrl: "https://www.earth.com/news/environmental-impacts-of-ai-will-be-determined-by-society/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
+      name: earth
+      domain: earth.com
+    quality: 37
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/25/full/1650910571-1674.jpg"
-        width: 620
-        height: 464
+      - url: "https://cff2.earth.com/uploads/2022/06/30112523/AI-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
 
 secured: "Vta6m/oTjF0Eab7kzst73vWuo6e00YaAmftzFFWcW0EYOwcBxfBUmdAm8bErSe6fTeRrqVxESIpKxH2nkepXxKdQfV7XsXnrnZQD0bUB85O0yJr44WCcQUuWGNfal3BdHewo/gtJ2ZJ7Qfa2KWyEV1/06bcNrWnEwvXk/2brW1jlzn6t/tDjOEeeuXbcisVyljxf61PIZHFjWLJHgkPlQGgBU0rp7k16wVWd44iuV23VXcJjo5ECx9KcQym3Ii8k21Vjw73O9euYxoLCrsPbbQyB5fznUEF8sEowPlOTOJQIMBaGTG0Kj9pT9YnMh44rLKAs/vpGvLjzBQdzB3rni6b0ezEN9i8Kd8u7F5Asfdw=;VqAkm85ZZb7l8ae1jy88Xw=="

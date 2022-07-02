@@ -24,18 +24,13 @@ topics:
 related:
   - title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
     excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-    publishedDateTime: 2022-06-30T19:02:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+    publishedDateTime: 2022-06-30T19:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "Modular raises $30M to ease AI development and deployment"
     excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
     publishedDateTime: 2022-07-01T00:44:00Z

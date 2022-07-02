@@ -53,7 +53,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -849,6 +849,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-a-4225-million-global-opportunity-for-artificial-neural-networks-by-2026-new-research-from-strategyr.md",
+      "title": "A $422.5 Million Global Opportunity For Artificial Neural Networks By 2026 - New Research From Strategyr'",
+      "excerpt": "FACTS AT A GLANCE A $422.5 Million Global Opportunity for Artificial Neural Networks by 2026 - New Research from StrategyR Global Artificial Neural Networks Market to Reach $422.5 Million by 2026 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104422398/A-4225-Million-Global-Opportunity-For-Artificial-Neural-Networks-By-2026-New-Research-From-Strategyr",
+      "originalUrl": "https://menafn.com/1104422398/A-4225-Million-Global-Opportunity-For-Artificial-Neural-Networks-By-2026-New-Research-From-Strategyr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/23/PN_d94994b4-3_Image_In_Body.jpg",
+          "width": 400,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-are-babies-the-key-to-the-next-generation-of-artificial-intelligence.md",
       "title": "Are babies the key to the next generation of artificial intelligence?",
       "excerpt": "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI.",
@@ -1333,49 +1376,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-inrule-technology-delivers-workflow-automation-to-democratize-ai-and-machine-learning.md",
-      "title": "InRule Technology delivers workflow automation to democratize AI and machine learning",
-      "excerpt": "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

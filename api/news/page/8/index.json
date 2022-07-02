@@ -2,59 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
-      "title": "Leading a movement to strengthen machine learning in Africa",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
-      "originalUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62b2f8a5be5a342016037d48_Avishkar%207.jpeg",
-          "width": 384,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-the-first-15tb-microsd-card-is-coming-to-destroy-your-budget.md",
       "title": "The First 1.5TB microSD Card Is Coming to Destroy Your Budget",
       "excerpt": "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1.",
@@ -1121,6 +1068,49 @@
         "AI",
         "AI Ethics",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-building-neural-networks-that-smell-like-a-brain.md",
+      "title": "Building neural networks that smell like a brain",
+      "excerpt": "And we know the number of neurons in each layer. This happens to resemble an artificial neural network, which means we were able to build a network that is structured in a similar way to a fruit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-01633-y",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-01633-y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01633-y/d41586-022-01633-y_23183550.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

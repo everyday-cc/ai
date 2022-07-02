@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer vision software startup Black.ai closes $5.4m Seed+ round"
-    excerpt: "Black.ai’s camera software enables users to better understand their physical environments and complex interactions that happen within them."
-    publishedDateTime: 2022-06-27T07:15:00Z
-    webUrl: "https://www.startupdaily.net/topic/funding/computer-vision-software-startup-black-ai-closes-5-4m-seed-round/"
+  - title: "Modular closes $30 million seed round to simplify the process of developing AI systems"
+    excerpt: "Modular, a startup creating a platform for AI system development, has raised $30 million in a seed funding round led by GV (formerly Google Ventures)."
+    publishedDateTime: 2022-06-30T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/06/30/modular-closes-30m-seed-round-to-simplify-the-process-of-developing-ai-systems/"
     type: article
     provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 54
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2022/06/Black.ai_Phoebe-Collier-Sebastien-Collier-Keaton-Okkonen-Karthik-Rajgopal-2.jpg"
-        width: 770
-        height: 507
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 41
 
 secured: "YZxiv9XgT7b/xLBqUdixMlT0MmEo/H7rooFmIzBSKAOtVToodviSDIlZ2RNRe7nS56R6MyKP4oWfFi/eFlEcx5gpW7X5HNTZhe3OgmXhehh4611fJp0CSPLN7XEDk5WXuJ6TYgZ5xlVV/9A3cnX8pbIQ1wdePIiyxv0VGTI29I9DJCFY0HY24Q+wN8H7IdG5K8Oz3+qA+O3yHqroeLaJBg+JJlyrYYjmxm8ehorXFf1vXzzEcOflyF4j8I5VjIa/w3oxurXBYvkH0D/QgPlliWlALSgCPIT0fYDU6wGovP4+dOdMib/RxowrkutKIeGVKN2i/IKncbXJIlBk3kXLjS4Aa8yc6wuhLoa/CwJI7tk=;Ja0UrJ2+C0jIjmQEICaMSg=="
 ---
