@@ -1,26 +1,26 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "BEIJING -- With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into ..."
 publishedDateTime: 2022-06-13T23:59:00Z
-originalUrl: "https://www.dailyherald.com/article/20220628/business/306289885"
-webUrl: "https://www.dailyherald.com/article/20220628/business/306289885"
+originalUrl: "https://kstp.com/kstp-news/business-news/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+webUrl: "https://kstp.com/kstp-news/business-news/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: KSTP
+  domain: kstp.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailyherald.com/storyimage/DA/20220628/business/306289885/AR/0/AR-306289885.jpg&updated=202206290650&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder"
-    width: 1200
-    height: 630
+  - url: "https://kstp.com/wp-content/uploads/AP/China_Self-Driving_Cars_46636.jpg"
+    width: 512
+    height: 341
     isCached: true
 
-secured: "Fy+vVwWMZkLxhTpdpTf/+tPRd+a6NaGyBW6F1yj79JTi9t6t8CtyQyAz+WRQimXd+rt6jReG+G4bScqWWV6BY5QG8EYexzWIhRRa7hbMRuzLn0NBUwoKPymJk6nkOQyKVLGMZ7SIlg7kmim8IY3kH+dCxTN4xWC8AELEvSsXJ5j9sFVNgTkBZmCAhSVTrMpUa6z4LiKaEcz4qv/4NyPT2pZadLuvAPTDj6IHnD233/PkJG/SY9pkavCZkRNtGmK+LfUflEVxUMyNllfPmmLA1eOP0KoXH3A09iQYgnLpCjL2eY/srjk+Ha1CY4WXwMOky/nCiJ3Wy5TL73+Z1/o28bAHy9I2W4/fRu4LmUZgpgA=;Y9FOMyENBIBKlG67DyTnsg=="
+secured: "azNvWafNtBBb+5cFB8OvgqkTUKnxads/oKm00bZsT76xHZoHSNMu+aLXwPBh8UGOObx7NlIJJW+gfWGMI3AvFyi9Cpzagu7AJEoE43wG4kG3/6zbzUIDe6bvc0SSVj7MAeX1hKa1GTbLB8PUqXX0j9WR4Z+zDA2X2vlXbO4lEOEcDrqUEs2yRVMViq/8CW2yWkoUFE8eabejfcGnJ0u0ORO7bbmjW0Jql6erCug6VjC41sZBvi9sBQ41CtvJBMnlXYZw1TUHhZM+w+EjwoyMo4G/JJAKC0MW89NWPuVRinX1udN11M3Ls9Fcp0B08DWj4DR84rmBIie5ceeUKLyeoHwfVDagTqnfb/Wf8lND9qU=;btivg2IYyHdGo1Sz+6pkhg=="
 ---
 

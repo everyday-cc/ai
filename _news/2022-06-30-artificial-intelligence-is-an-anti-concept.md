@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-30T10:00:00Z
 originalUrl: "https://www.aei.org/technology-and-innovation/artificial-intelligence-is-an-anti-concept/"
 webUrl: "https://www.aei.org/technology-and-innovation/artificial-intelligence-is-an-anti-concept/"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,7 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "0g1lhZXjhjRWENRd5GOfaI2iuCbRGUPz+O6OZ4lq2ZXYvMtV1W7PtoBuS9f1S0Cob6ZMdjHL0/sVqAGDw278O1NN6Sr7F2VR7xMrAtfG0KUwlu3Rx5AhTU48lNJHVpvpETeQhSXA4R6sov86GqRS4S9fYh6CmV+cWxf1avsDbf0Gj9jcvJhiQAH8PjOJsK4emab8JDpXjhU5noFkazzZsQA9ONOhO2GJgsnVDHDUyj+0ebxReEgpBwS3/EMjGztixrJmlqk47b6FMh7FrKKvt21AIzxyvFlm8ib/okFC9Ouc5a4/5klRn4II/oT8E0kRHfiayBEcQah+uq8jz8MXoeWvnl8ZNBhhjWf6c72NStA=;6RodxD1BlaUSjfA1ceHvcw=="
+secured: "sbxVM2q00J/YNmaPAPI4e8vMkMuPcoKYrsiTIqMkZHQaqdymUOOIGQ45xEDauJRjPz6Axch7hKj50a8AO3UJCe2jnS2+UGUnKTF0ZDrrGjNtiadyfCC8dV4WfGQMsXX4YVMtwxDj+4jDu3l0nL3H1SVl4LYIFgCYaNdHNwHjI1Cks6C/fABCNi85m15nH+P8Jf5N4VtR9CR6Ol0cPmYsbGu5J06FvOGJS6INfNmumb8JJ7g9vsGCsAvGOgoBI9ZS3OPJbDFDSQ7eSLGNskJp0OOO3KCoIgpuSV1myhPM2LJmimQw1GSxmISNNIp8LMO1vU4yqwtE9P729HpUH6myO1PBBzL/4TGxxwBKKvwRdDTCSCsKwc+hvR4l7UqYF5SuQAktZQsrcgXSaaD00I60PKN2S/8sd1s0tNZ5yoDK+XsJuaxuBGt6/ulWTAPz+2+asZ/uwuL+R6JDGkNkEjNOoxGgtl0rXbKoyTjQC7Klxa+JpLlbtfsHpJeg8rwZnmklGYc7HZJXFGt0CTRaA+i1Mw==;O/58xq+Ud4vLzmH9Fc55MA=="
 ---
 

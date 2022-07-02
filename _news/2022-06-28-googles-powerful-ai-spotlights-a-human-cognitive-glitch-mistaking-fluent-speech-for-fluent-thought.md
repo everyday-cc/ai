@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Google’s powerful AI spotlights a human cognitive glitch"
-    excerpt: "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ..."
-    publishedDateTime: 2022-06-27T17:10:00Z
-    webUrl: "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/06/typewriter-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Google’s AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
     excerpt: "Every time you engage in conversation, your mind automatically constructs a mental model of your conversation partner."
     publishedDateTime: 2022-06-30T14:00:00Z

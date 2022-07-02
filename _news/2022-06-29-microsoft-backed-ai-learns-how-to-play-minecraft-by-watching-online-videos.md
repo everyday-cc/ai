@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to
 webUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 43
-  - title: "An AI Was Trained To Play Minecraft With 70,000 Hours Of YouTube Videos"
-    excerpt: "OpenAI, the artificial intelligence research organization founded by Elon Musk, has trained an AI to play Minecraft almost as well as humans. It only took about 70,000 hours of binging YouTube videos."
-    publishedDateTime: 2022-06-27T18:15:00Z
-    webUrl: "https://www.ign.com/articles/ai-trained-to-play-minecraft-with-hours-of-youtube-videos"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 37
-    images:
-      - url: "https://assets1.ignimgs.com/2019/03/18/minecraft-1552946351168.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "W8zvlKWKuMsYpexdv5HJUsK7/SRVtE1dTQnSoeeIUZYj7XPz24Cu5W5YsClBJvUzpASg5E4woja1EjpDfi83UYb95YMvJWDeBO7FRFtmNpIg38L6HszTcWffWGZnK72BEqssCbewint27V0Puq0LgHmWrtOpvZTYNZ/DJ+KUirBCbbx5eu9boEO0ITpadMhClm/J9fa3ZiaxgtsQDay38fKzTblplWNM4TXpm1IF2PUES0xLz0Risu1BXA6+vbCkMGfQFCNMloMihOaICb183pOkkru8r/Tdpg8B7wLLSAGAzEjNMmQedzsw5iXevb4KBBMPUfUBgWWgPUWvY6ELBSC/Bq05xRWKu4Bd4fdauas=;H3Ty9DEJE3h7+uhcSKTcmg=="
 ---

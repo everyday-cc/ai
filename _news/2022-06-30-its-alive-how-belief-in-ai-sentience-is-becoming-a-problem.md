@@ -1,13 +1,13 @@
 ---
 category: news
 title: "It's alive! How belief in AI sentience is becoming a problem"
-excerpt: "An undated handout image from U.S. startup Replika shows a user interacting with a smartphone app to customize an avatar for a personal artificial intelligence chatbot, known as a Replika, in San Fran"
-publishedDateTime: 2022-06-30T09:04:00Z
-originalUrl: "https://www.reuters.com/news/picture/its-alive-how-belief-in-ai-sentience-is-idUSKBN2OB0SL"
-webUrl: "https://www.reuters.com/news/picture/its-alive-how-belief-in-ai-sentience-is-idUSKBN2OB0SL"
+excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+publishedDateTime: 2022-06-30T14:04:00Z
+originalUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
+webUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
 type: article
-quality: 69
-heat: 119
+quality: 67
+heat: 137
 published: true
 
 provider:
@@ -19,16 +19,31 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220630&t=2&i=1603087956&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5T0EG"
-    width: 810
-    height: 455
+  - url: "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
+  - title: "Chatbot company Replika says many customers believe in AI sentience"
+    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T17:36:00Z
+    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
+    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 61
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How belief in AI sentience is becoming a problem"
     excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
     publishedDateTime: 2022-06-30T15:50:00Z
@@ -77,6 +92,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Are chatbots conscious entities? The AI sentience conundrum"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
+    publishedDateTime: 2022-07-01T15:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Just how powerful is artificial intelligence becoming?"
     excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
     publishedDateTime: 2022-07-02T06:01:00Z
@@ -108,6 +139,6 @@ related:
         height: 720
         isCached: true
 
-secured: "9oflGZ/BKM/EUW9Hkhh10QzMLdlJCX31bch9mfEehenRIkgcFH7G1sNiTgoGvK7RuX6+jbUlWdMWUat5uOWiqNzEElgCQnLBdcvtJeiX+xg972uKz7uZHbfFgtRvHcNoICLQe2c0FzTtcYTN8280tWYHjMpZICH0wKnaCKNc4pQFNQiMC2medzVBFzfUTHl6kv9v+ToNWT4rvBD4c3NjiRjgouexZ+t1f5l3p4FrjQaoPSmlvQzqeZ4ucKhvVqw/SC4rq1ocfTgkLrmy9x0RRDeSj5Fu4WRbQox0x7osGWaLxUm2Qje1ABIHJpvhbeNdCZHUcufQFz+VTR7DDXFMfvT2fvb8+1j59fcZ7vRdW3w=;rYoatCJ0tCqBXeHH3GOBMQ=="
+secured: "62CVLrrJsGwaijfCpANflemDbOcV4XOz4LPuoyqfBYyXwIBQPaO+V+BcXNufEtzkOJ//j96d2bNrvlxIwkhkCEg55PFyt7aQamY2Y6BlETnZpPXqm2vz+YQLtiEZu/neVAtKAJtKbkUjVxOC48ht5Gno+W/6kfhyk9U45rPB7iYyqSn2Rxndf5+vgZKHXPLgFW2VT0v6bHJe1jzxBVGhQ3KQKJlA0s3ji6vLaDuDqP8gQBuAIvOrVdcwan+ZOMYpd4gF20/Z689E8J1KFG54Jw8elbptawBdUOEIvc9Fuch/D88NEPM+m2Tqc/JXqy51kwbcyvdA2hlKbzplH8lC4ADsShIH2EphLGnzVLbWr/Y=;wdcEm1BJLnyPjxJBQzsXoQ=="
 ---
 

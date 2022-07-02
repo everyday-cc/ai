@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Walmart turns to artificial intelligence as a way to compete with Amazon"
-    excerpt: "Having that many stores and managing that many employees, Walmart is feeling the sting of the labor shortage. In 2020, the pandemic set a course of events that mostly created a shortage of everything in the world market."
-    publishedDateTime: 2022-06-27T17:19:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article262912753.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 18
-
 secured: "O3afeluNqOKXnrbnEjZ4ER67oTt3hDPOhgbkPv5PXXjOAtWkxiAFxvWE2pDlP5Xh8/iTGNa1hMgsiQnFgh0Vfifw4NK4O45KacvE28bcvUrMVzdd1w/xY6QEK1Q3a6gTAo6KaJhzNt+0RHlXq/IlfEhrtDfFq8Jye+MMw9FoDn6OdQMLbP86/xZrADFnXN5l61a8L6KZdVf9Wf7SqqEvK7XbUq+ditBmDztFmjB8yRgNJZPmCx5oURh8vzSyjCZ2jmCqW6czHAjx9IUoc+uYsB679i8ZzBtV8/l1mTHTLeV64R97DRKYEPxPRbMfBHdeSBEHxetgO7JFnTUsFlJJgKbrbACijU98NzbAcvZuhbg8YhkbIFQcrzpgrbPlMlZTGyHbrMbIaY2XYZKeBxgMUTJt2Y1XHxJHkHxeb2BjIzQXl1NL/DRtWFABFgVwU/HGlPGbPD0KAS0hlgkpdikbGnl8FUJAIrpvqeTAaV5R4aSNjHQzGUKYcEngoXoaxMtlA1EMJzcnO83khGaJBJgudg==;cMePYXz9MblgtGB299TLIg=="
 ---
 

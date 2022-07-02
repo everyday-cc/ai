@@ -26,6 +26,22 @@ images:
     height: 242
     isCached: true
 
+related:
+  - title: "As NH GOP candidates jockey for Senate nomination, name recognition proves elusive"
+    excerpt: "When Don Bolduc worked the room inside the Windham library last week, it didn’t take long to shake hands. After all, just 12 people turned out."
+    publishedDateTime: 2022-07-02T10:00:00Z
+    webUrl: "https://www.sentinelsource.com/state_news/as-nh-gop-candidates-jockey-for-senate-nomination-name-recognition-proves-elusive/article_55b17f02-517d-5780-a72b-cb63788a6ab9.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 18
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/4/a1/4a156a80-d914-512b-8c21-2cdef15cff9f/62bf7d62bf803.image.jpg?crop=867%2C455%2C0%2C97&resize=867%2C455&order=crop%2Cresize"
+        width: 867
+        height: 455
+        isCached: true
+
 secured: "B1Z3n79AnOeY2n6aCqQhNjGlCfEcPK6Ik2/EERVqx6KN23aNDqQeadCQhULKHYTY+S8cU3Z1T5cQm4X9pj2lGUT5wRfky8FkkIhq6w2RblRcLr0djZIoxGn+KI9inzvxJWKfp9Z0pWZY+wqb4+5YjHrB7z0F4kXOKqOufc+3ACmhuW6XkUyaDuBcg2WADuoGsJ+Vw2ahps0t7mn8D1Oldj47FFFfeGLZFdkfonqoT9b0sd2gTfYHBt7yzQUPTN1SO2q0pVv1+MS+wuwpw+GSsVkIfHFW96+pAR3hF/6+AOcaIUkT1cAFeMW6HEWN878TwMpgezHtUEYeYBNAW3ufz6uNdD9tsFVgUzcUlW1c9Aa39kYlaSaJIgja6N0uwWoLwW/Chub11RK9qGZ7QV1Y8yOAoIindfpnuK7ECG+Ounq6tggwlGKJM755i2N+N4GgZ3n5OnVoV5qtv43+1yBKVw6iLMg+2xAvVSOzbw29Ybv29hgnwWKUast2BfB8B4rdnYNsbAx6sKwb93e9/hG/Kw==;CiCWnpwcagaejGxd41Zq3A=="
 ---
 

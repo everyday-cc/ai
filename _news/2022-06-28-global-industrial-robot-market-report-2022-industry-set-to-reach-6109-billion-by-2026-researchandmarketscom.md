@@ -33,6 +33,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-07-01T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Global Robotic Vision Market size is expected to reach $3.8 billion by 2028, rising at a market growth of 9.3% CAGR during the forecast period"
     excerpt: "Reportlinker.com announces the release of the report \"Global Robotic Vision Market Size, Share & Industry Trends Analysis Report By Component, By Application, By"
     publishedDateTime: 2022-06-28T13:40:00Z
@@ -43,15 +57,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-07-01T16:13:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
     quality: 0
 
 secured: "X0MMuAj5A155PvY/xZXKrclISjXt39VDP6a6LPK75SgxjYhEeZ8Hvf5m2iA+P1pY/BZ8wlE/nbq+a0UXpAF7lN9mSgrTYd3sEEKCZMupFLBiqZ2ZaZgc/tAk+sYGWzeHCAdpAlP//FULAiOxSv7bLYj6b7ASln9BjXO6+GkPx3lXJJ/c9EontgMoyQ1WPSCCgnUP8MhegRT6H99rxXQZg2fk+dIF1IS204mxrFWif/mZG9SP8naRGFjehXc9oo/UDGoeTohYO4vy2KmCkUpyrGt6CIdJVmR5r5VMLw/o2BS/JCg3wodO5vdhzlDEYj6hh15CmfnEEx0vv1kA+29sICmGr+qN1wA/dYQWG3UsYT0=;l7JKCE+y+HSALCciZ4HDaw=="

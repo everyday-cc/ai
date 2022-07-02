@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
+    excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
+    publishedDateTime: 2022-07-02T10:43:00Z
+    webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/"
+    ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 56
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg"
+        width: 1201
+        height: 629
+        isCached: true
   - title: "HDFC Bank-backed Lentra AI to acquire TheDataTeam"
     excerpt: "Digital lending platform Lentra AI, on Tuesday announced it has acquired artificial intelligence solutions company, TheDataTeam for an undisclosed amount. Post-acquisition Rangarajan Vasudevan, founder and chief executive officer of TheDataTeam will join ..."
     publishedDateTime: 2022-06-28T08:39:00Z
@@ -54,22 +70,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2017/09/hdfc_bank_reuter2.jpg"
         width: 810
         height: 506
-        isCached: true
-  - title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
-    excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
-    publishedDateTime: 2022-07-02T09:11:00Z
-    webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
-    ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 54
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg"
-        width: 1201
-        height: 629
         isCached: true
   - title: "How Artificial Intelligence is Shaping the Future of the Fintech Industry"
     excerpt: "Managers who work in the financial area, and UK-resident banks or investment companies, should always look for an optimal approach to customers, processes, and data. Embracing AI technologies may come in handy here."
