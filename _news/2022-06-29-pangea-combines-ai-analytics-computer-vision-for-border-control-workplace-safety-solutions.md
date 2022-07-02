@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
-    excerpt: "In a preemptive effort to trigger capital inflow into Ukraine for the post-war era, Deep Knowledge Analytics (DKA), the flag"
-    publishedDateTime: 2022-06-27T11:18:00Z
-    webUrl: "https://menafn.com/1104437838/Data-analytics-platform-launched-to-attract-1-billion-in-AI-and-DeepTech-investments-to-Ukraine"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/27/pr_13675_f48d8955_image_story.jpg"
-        width: 643
-        height: 361
-        isCached: true
   - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
     excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
     publishedDateTime: 2022-06-30T11:51:00Z

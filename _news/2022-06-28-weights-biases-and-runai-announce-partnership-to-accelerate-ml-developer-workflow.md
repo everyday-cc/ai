@@ -3,8 +3,8 @@ category: news
 title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
 excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
 publishedDateTime: 2022-06-27T18:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
 type: article
 quality: 49
 heat: -1
@@ -58,15 +58,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Nvidia partners with Run:ai and Weights & Biases for MLops Stack"
-    excerpt: "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia."
-    publishedDateTime: 2022-06-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack%EF%BF%BC/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Weights & Biases and Run:ai Make Business Alliance to Enhance ML Developer Workflow"
     excerpt: "Weights & Biases (W&B), and Run:ai, the leader in compute orchestration for AI workloads, have announced a joint partnership."
     publishedDateTime: 2022-06-28T09:53:00Z
@@ -77,6 +68,6 @@ related:
       domain: enterprisetalk.com
     quality: 30
 
-secured: "LJ+i58tvbhZzTLoI618Qmm8CknidjY7gNEVqT9eUsEoF+seNCZwE7ojdVfuQHfEQgk5i4lbFOWZMUD02ax48OkUfjnzIeX+nOGaRCguXY1rfb0E9Vr+AG2e2K5xZ5JF0AAjZxN5BEUPnjkbNkKXcVlKJzqmOurbt+PXCodV6Si3PCERgcypO8CxGWeboKCM+Do85gHJjay3VxtN31+q614nt5t5cJ0P87uPfUG8vXZkJI/0HrTXe9f3idCcWXe8MikB/tx1Yk4nyePaarJDtH7/iHVd241w1YW4PiqINTMVQbOuYiQpzgHFqFvs1MlXVOMZZJ2c5iQDDgwRhKNP6AZi9doLgRUUtAaNwVk/lcug=;oAPdqBwBYSYGfuwHbBEmYQ=="
+secured: "V6XRlww2gsRWMntPkesfBjdr0kWXdAaSBaC2cSl28fqWsX5mMeZa6pvd9ow0C80LbK4JZkhGLu8nzCYdXSHoQ3KNWISnH/5m31dvNQIESM7kwFFfLmGNdCX48oS15j36qlh7TVXVSY/Jsqw5OVjm6cx30pneXWn1DQkE2UMt6/PzIdxeT+NXmveTWcMKj6lKfrEak9Qyo33My6ruQVe2m9wHEpFfXHd+JFz0Lm4/u4/gWkuOfXTZQKEcrqna+hq6DsM9TZoL2c8hDQjkcp3QEJvvFAezTSgiUeUo1ibyeaY1po+kbw5SCsVOWIAcZua3+YamOGPYnEaBusUM9XbYU8w/a4Mv/gqAYp7oWFLDqpY=;aIa05DRXwHBwmGEgBY/O7A=="
 ---
 

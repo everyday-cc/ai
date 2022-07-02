@@ -48,6 +48,15 @@ related:
       name: Arutz Sheva
       domain: israelnationalnews.com
     quality: 25
+  - title: "AI identifies rocker Geddy Lee’s mother in Holocaust photos"
+    excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
+    publishedDateTime: 2022-06-28T18:20:00Z
+    webUrl: "https://www.timesofisrael.com/ai-identifies-rocker-geddy-lees-mother-in-holocaust-photos/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 17
 
 secured: "Rbiu1Xqq9bQEgmBjfZrxmAQ2s4KZjuJ6SJaEaA0b9DO2R79jkLU0qLaZQS5/9pvSA/2v1RFKxEwyGiANyp2W9aycpqLkfK7nzhPoEzboO33ybL7wAqXSUEqD1T1tid+ZIId3CqXNvIvSwxu+Y73Vcb+3j3Si+BnarH6gJ28lAk+DLBM/rwtdL/PmVCMBYApQ5ruUQz91WcacVuAGQgIXoIE4PADnU1YRGRHOTQjdrOw3WE+16liYF9qcLDaIpzPaKKKb65w4y5/uKotqqg7u/7GXxOmeXDddZTRoLD2rvr/GGWyqyCTul9KU50rjgMyqbhwhOycrqOjSZZKENFtlCjBE49cs/GqNFmiDxDBHUtx5D6+bnyeJ8wUo5956FBWFPJOXpSTXJrupnVi8XB+pfF6yMTP3ltkGFW/V32bYj4nMsBUgXkUy5wENiZFELbyjaXhPOySyq0SdYu/ZQhT/ZtYWPVLtq7lVAlGad9FhY5u5ec2Au9E/ds3DgS2RGPxvPbU+igmjD92Ny7BkRewIgg==;Vf9oSnG+L2VCNlQf9J0cbw=="
 ---

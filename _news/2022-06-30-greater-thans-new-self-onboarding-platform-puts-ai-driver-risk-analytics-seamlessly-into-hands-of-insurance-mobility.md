@@ -43,20 +43,6 @@ related:
         width: 844
         height: 633
         isCached: true
-  - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
-    excerpt: "In a preemptive effort to trigger capital inflow into Ukraine for the post-war era, Deep Knowledge Analytics (DKA), the flag"
-    publishedDateTime: 2022-06-27T11:18:00Z
-    webUrl: "https://menafn.com/1104437838/Data-analytics-platform-launched-to-attract-1-billion-in-AI-and-DeepTech-investments-to-Ukraine"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/27/pr_13675_f48d8955_image_story.jpg"
-        width: 643
-        height: 361
-        isCached: true
   - title: "Opaque Systems Raises $22 Million in Series A Funding To Bring Scalable, Multi-Party Analytics and AI to Confidential Computing"
     excerpt: "Founded by the pioneers of the MC2 open source project from UC Berkeley RiseLab, Opaque creates the first collaborative analytics and AI platform for confidential computing"
     publishedDateTime: 2022-06-28T13:00:00Z

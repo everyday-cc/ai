@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "It’s alive! How belief in AI sentience is becoming a problem"
+    excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
+    publishedDateTime: 2022-07-02T04:26:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-belief-artificial-intelligence-sentience-becoming-problem/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 41
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Can an AI bot convince you that it's sentient?"
     excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
     publishedDateTime: 2022-06-27T21:00:00Z

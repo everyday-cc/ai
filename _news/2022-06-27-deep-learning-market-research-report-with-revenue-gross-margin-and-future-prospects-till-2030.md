@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-res
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pharmaceutical Robots Market Size 2022 Top Companies Overview, Share, Growth, Report Analysis and Forecast to 2027"
-    excerpt: "The global pharmaceutical robots market size reached a value of US$ 161.84 Million in 2021. Looking forward, IMARC Group expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 10."
-    publishedDateTime: 2022-06-27T11:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pharmaceutical-robots-market-size-2022-top-companies-overview-share-growth-report-analysis-and-forecast-to-2027-2022-06-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Machine Learning Market 2022 Emerging Technologies, Global Growth, Share, Industry Size, Major Manufacturers, Regions, and Forecast to 2025"
     excerpt: "Global “Machine Learning Market” research report includes market size estimates, consumer growth, revenue share"
     publishedDateTime: 2022-06-29T06:37:00Z

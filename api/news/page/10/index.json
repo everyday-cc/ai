@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-22-ai-improves-cancer-treatment.md",
+      "title": "AI improves cancer treatment",
+      "excerpt": "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more",
+      "sourceUrl": null,
+      "webUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
+      "originalUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280",
+          "width": 510,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
+      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
+      "publishedDateTime": "2022-06-21T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGHP",
+        "domain": "myfox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.md",
       "title": "Walking helps some young and healthy people improve performance on cognitive tasks",
       "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources. However, this does not necessarily mean you should work on a big ...",
@@ -907,6 +949,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
+      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
+      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-kpmg-and-microsoft-collaborate-to-help-c-suites-predict-tax-outcomes-and-set-business-strategy-with-new-cloud-technologies.md",
       "title": "KPMG AND MICROSOFT COLLABORATE TO HELP C-SUITES PREDICT TAX OUTCOMES AND SET BUSINESS STRATEGY WITH NEW CLOUD TECHNOLOGIES",
       "excerpt": "Investment in new technology creates value for businesses in more than 140 jurisdictions globally; KPMG Digital Gateway, enabled by Microsoft Azure, is designed to provide real-ti",
@@ -1087,92 +1172,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
-      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "PRNewswire/ – Infobird Co., Ltd (NASDAQ:IFBD) (\"Infobird\" or the \"Company\"), a leading provider of AI-powered customer engagement solutions in China, today announced that it has",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27796726",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27796726",
-      "publishedDateTime": "2022-06-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics.md",
-      "title": "Nvidia’s new AI magic turns 2D photos into 3D graphics",
-      "excerpt": "After converting 2D images into 3D scenes, models, and videos, the company has turned its focus to editing. The GPU giant today unveiled a new AI method that transforms still photos into 3D objects that creators can alter with ease.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics",
-      "originalUrl": "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FUntitled-design-2-3.jpg&signature=5e6e1429a34631758a98e2f3b51997ce",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "It’s alive! How belief in AI sentience is becoming a problem"
+    excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
+    publishedDateTime: 2022-07-02T04:26:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-belief-artificial-intelligence-sentience-becoming-problem/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 41
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Can an AI bot convince you that it's sentient?"
     excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
     publishedDateTime: 2022-06-27T21:00:00Z
@@ -103,6 +117,6 @@ related:
         height: 419
         isCached: true
 
-secured: "9Vb7nTCEis+wKdvTkEC30C+FT/NAS7o/jy3c2+avcoN2DORAog4AFSgOiyD5cUXj6UtSOdNEUsLmmCvkedRLOYTZmMp2wqpxQesgcn0Q59HQ3QjersIzHanDo9nQnB29HMNsiInAohzjN6TAkrb29A4Sdx+KSsejyjrSu0uikCEyjFsKjXGPDA7DEcUPgmtVAvSrAt1Qz9ogpz398Dm0p21mTAuw8/Wtk7s1AzuuTUS+/Fwhzv4vWSGKWas4EuOA53AncT7swFU7jXwom139zht1JMMsjquuWdTr2u9B9cnabS/4FVlS0rR6ozgsSWg3lwCuQgER75LHAE3C2+0LIxjMw/VKXXs5yeZa/lVa5eo=;k34QOtBMomSSiQtEmeg3cw=="
+secured: "GgNbkdS5rOvD88VRbA6KME6exlUgwL0wyu6rU4i4T4L5HnhL1Coup8N3upPMmk4hdXa6PbQw99CwhOpI15zEjJ09hHW5wf49U3ExwxArBHVkN1qzOZ5xKH0oC8Xf5Pn0Hs9EtPGOndfxipBTZT09SR51d/abVHNhKHLMb0pLAfHXztuxiPKf1rBa1sJX5fcD88lUro+fjiJrC33OiT752Ta6A12fNemRIbiAawQTTDT8SdpMQhuvP0Zs8hMYf2Hi7CppZZ8xyBmlM9umRMW3zMJXoheM+MtyfD3oduaA/GA9pOguMcJmTuypjW9yV0ow2ngqWPLw42jGtM4SkXlRUKve5XQuGCnbd8uTso0Gc519Z9ZNuDxPLFGZaVdJUzlsiv+o8lz7SxIv+8IFNt88LrlNaN5GLdMWnp1YsR+zlYSFy6/X3WBVC91IsWr3rKUrUbfqEj3SKdslloSOtAfnlKKRPJSaLEnfEq2IJKhasqRJQAMxEZbdQMVMDgddKzp+jr8KD8QT8eAK6G3U79YLwQ==;0GVGpsEG0kJrf53xey8TaQ=="
 ---
 

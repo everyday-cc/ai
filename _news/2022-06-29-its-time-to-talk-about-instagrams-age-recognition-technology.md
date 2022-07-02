@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect"
-    excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-    publishedDateTime: 2022-06-27T12:33:00Z
-    webUrl: "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "A reporter tried the AI Instagram wants to use to verify age. Here's what it found"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
     publishedDateTime: 2022-06-27T23:30:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg"
         width: 640
         height: 356
-        isCached: true
-  - title: "Identifying Instagram Crowdturfers with Machine Learning"
-    excerpt: "Researchers in Italy and Iran claim to have formulated the first machine learning system capable of recognizing the ‘crowdturfing’ activity of human (rather than automated) influencer accounts on the Instagram platform."
-    publishedDateTime: 2022-06-28T14:09:00Z
-    webUrl: "https://www.unite.ai/identifying-instagram-crowdturfers-with-machine-learning/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
-        width: 800
-        height: 480
         isCached: true
   - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
     excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."

@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "India to get facial recognition tech at airports: Understanding how it will work"
-    excerpt: "Starting from 31 August, the facial recognition technology under the Centre's DigiYatra scheme will facilitate passengers to proceed at airports without the need for physical boarding pass or identity cards."
-    publishedDateTime: 2022-06-27T11:51:00Z
-    webUrl: "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html"
-    ampWebUrl: "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
+  - title: "AI no longer fringe tech for Indian companies: Bain & Company report"
+    excerpt: "India is also a global source of talent in data and AI skills; it produces 16 per cent of the world's AI talent pool, said the report"
+    publishedDateTime: 2022-06-28T07:27:00Z
+    webUrl: "https://www.business-standard.com/article/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 69
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg"
-        width: 640
-        height: 362
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Artificial intelligence no longer a fringe tech in India: report"
+    excerpt: "Artificial Intelligence (AI) is no longer a fringe technology in India. Although penetration in application is relatively low, the AI market in the country is witnessing a broad-based awareness and adoption among both enterprises and providers,"
+    publishedDateTime: 2022-06-28T03:33:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/24dnv0/article65575096.ece/alternates/LANDSCAPE_615/artificial%20intellignece.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Artificial Intelligence no longer a 'fringe' technology for Indian firms"
+    excerpt: "Although India only accounts for a small share of the global Artificial Intelligence (AI) market, it produces 16 percent of the world’s AI workforce, according to a recent report jointly published by consultancy firm Bain & Company,"
+    publishedDateTime: 2022-07-01T11:44:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/artificial-intelligence-no-longer-a-fringe-technology-for-indian-firms-8767661.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/artificial-intelligence-no-longer-a-fringe-technology-for-indian-firms-8767661.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/artificial-intelligence-no-longer-a-fringe-technology-for-indian-firms-8767661.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 56
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/01/ArtificalI-544x435.jpg"
+        width: 544
+        height: 435
         isCached: true
 
 secured: "hZ+9+lIkiVzZIhMsqVS9zyPplG+TlOqnJXsAYvZxVTp4x4gNEJ3VOwP9yyzXjWf49FgNAKh+Hh4QUUzACpUunxGYfSBWDFYCOh3Um2y/Cwc04swjXix+sK2IIuuAKP2QMcXr6BnHXukdjtb7LnEFIiSyJDs5RZQje9CK0S1GkTt/ihixDrLJ1O4SpyiTYH2i4Ew4NhHdaCta0hFSvu6cpoPacXZ/zVKwrph62UUyvWWQ6WgHmwwRGcb4LRMBTkWkOML9ar9NJOBw62QXX78kk4v9TTa3E6xdfXwxKhKAsK2X74+XRi25vIuCEZty3RHaqVSxvM0qkCf8amQ0/nxVT4aF0bhMwnNKNSgSbaTRo0dil18mah2I4wXsRnExSipsxJtd2GLDJjfKWer412oxU/n9Pl1Ty32zBgrvcWmrAsXZVJ/+vHO0CH+wsAFyJ9JpoeSxsLYCx+hHb8CTdxRy+tbDcwDurOnC75XDuEgpYWYNEzH3xg/bDNqgwvd4AgEScRu4Znbk/uJzFt3KXIRdqA==;n0cn5wW4mMpQOuXYHPTonQ=="

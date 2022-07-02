@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "It’s alive! How belief in AI sentience is becoming a problem"
+    excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
+    publishedDateTime: 2022-07-02T04:26:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-belief-artificial-intelligence-sentience-becoming-problem/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 41
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
     excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
     publishedDateTime: 2022-06-30T16:01:00Z

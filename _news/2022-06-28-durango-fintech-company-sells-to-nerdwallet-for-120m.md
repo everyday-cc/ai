@@ -61,20 +61,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
-    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
-    publishedDateTime: 2022-06-27T11:25:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
-    images:
-      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "iXKPCsHZGg2En3oqQKprV9sg1QLevj819eekaHiKpKEaZhY+iYLV/zDJpnUIIOf/E+F+FWWxjXj1hJdbbmWCvrlMCpUau+36qW/ilmqqAZO6qEN2SxRa2UM5qVxSeNyBrzDM8IK6CjMH05VZHgd2zp7Ho1QnSsxe8H12+4/PjoPhJl41IZ+Gankwzra8SrDjHOBCc5Kk+5IdcPfCjTsDdxYqfLjabkXVZ8Uwp4cjm+5JyzNk9OdreRjhn/hIEYohAZ4dYZlOliD8fjTypHBt8kFUKuafT441Aqs33RM9JmGxsOfTe5QDIe///6kWsELeC9Xdvmres3cBlMEFz2I67ySHpGMdD//cpGBRVPV0mGjDhc9ZlQ3rDHc3Q5N3I9u/zpxFHvYx5bV72MA5CVVzc86BEpMh76UI+/gZvbsk4Q3dldA0p9q7IPyIXneF+mfwH2Mta/K4Cf3RQq7wekPJQckuktFalIyqRcRhaXKMVHGwTpTPXDPKFmsYoc8oZzRgQuCBplt+XvrhM6m3Egbi8g==;OPfE65PegAhnccdJQWCxvg=="
 ---

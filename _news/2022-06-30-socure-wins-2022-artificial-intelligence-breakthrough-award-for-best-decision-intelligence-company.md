@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "CallMiner Named Best Overall AI-based Analytics Company in 2022 AI Breakthrough Awards"
-    excerpt: "Award recognizes CallMiner for its use of AI to analyze customer conversations at scale, driving improved customer experience and business transformation. CallMiner, the leading p"
-    publishedDateTime: 2022-06-27T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-27-callminer-named-best-overall-ai-based-analytics-company-in-2022-ai-breakthrough-awards"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 9
 
 secured: "C5UYguVoazGN+pZOOujldJxR5zvFZl7lLpIWmDRoT9Lm/E5bkZT+TXNAUL7L8Hkl8z7PKoEHBJxaxTAmvvYAJ+NkibiJCO0nIKm0gT42SsR5P6y8XxHpjWGo9EhlKVRfQtUPPCPkwbkRwcicIy3OHOw9yD4kmvlXB7wdj0pGzppR6di+KmJeulzjovL/1qzr21t+FGC1cWqjIDAZZhgz/WSXs6nUeBvPyN7TczZmU7d44p756UYss/+ty0DyOx31Kziz2WuW3eRUS5C48P9h/OMn5xNAROR1nKzvjkNs8xSyNM7K5WaP6uC4UYGrsPDry5jozNRypWjrPiV0bFbuQmZEj0UmK/aiwnLf6JoKq9M=;qWZIZnvdruLJObZTIXVEIg=="
 ---

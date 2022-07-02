@@ -42,19 +42,10 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Nvidia partners with Run:ai and Weights & Biases for MLops Stack"
-    excerpt: "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia."
-    publishedDateTime: 2022-06-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack%EF%BF%BC/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
     excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
     publishedDateTime: 2022-06-27T18:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
     type: article
     provider:
       name: WFMZ-TV

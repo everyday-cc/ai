@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-excerpt: "PRNewswire/ – Infobird Co., Ltd (NASDAQ:IFBD) (\"Infobird\" or the \"Company\"), a leading provider of AI-powered customer engagement solutions in China, today announced that it has"
-publishedDateTime: 2022-06-21T14:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an"
-ampWebUrl: "https://www.benzinga.com/amp/content/27796726"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27796726"
+excerpt: "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider."
+publishedDateTime: 2022-06-21T15:37:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "HiBJqeX1A4jvZBe0H0ObAr+7uj3uBeCF20DpecIOc6saLjM+Py5COZuyOhTBdXnzJTPwq4gWdye0bC5qRzQ50iQo1Hf3ebQ5MGCqeJLxv/JhJ9XcO8qSmGYjCmArOlNFeBOFahzHbMEbiqOJeUAcgP27dfb3dnUKxZi3M/QNIVsGhCrjoskxDUUpA/TE2xPtcZ0FLs45xZUp0FuRW2jGf3w9vnh9LCSQVmE6SPisgdqb48eenApHC1c7YT/a4DZtLgevT8fT0qDeU27X4/hRTmS0aSx3HXq+KUmfkMG4FrfrM/oHcwa+FghfJDG/rWiEu+xwGaVGeYK+b/Tgvc+qCNqJorudhtY28RQs4NvpEdo=;+dny9zzXjmiaSMkPSpfmhQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "tjLCR7eAr22vI8q341wCqNqhz3E4KseYUiChQfkffAxdmb3W7CFxLKRkQ6f1kx7na2DlDTFPpgC+MhyOj978TowvebaVpwO7OpenBDRE/SfoKJlXzgxDMgDoIZkG/5TL+zDVcNK69UjSATA6YPInwS5MjEWZQRVMqm2UJ+FPITEAZXkFqlyfPZaanolGLazxpEeuMdNe6J7g+9iZbCjMOjuIgeQnVjJe8jNBtU1b70+yswcw5zrX34Ju7t79a+n9ouy5NL0JTJhXveIuUgWfX8VffphDqcfdNIBRTWlJN6ZXgQPKrXKlj2M2PTgXGPUDQUi/baHGMiZ9313ObFVeCqjYfChkilO/f/cixLKxbdM=;huRA9NpIcfxMSqaqYl/B7g=="
 ---
 
