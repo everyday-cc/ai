@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-sto
 webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stocks-appears-to-reflect-financial-not-facial-recognition-market"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
+    excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
+    publishedDateTime: 2022-06-30T09:32:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "SenseTime’s Challenges Are Anything but Artificial"
     excerpt: "It’s never a good sign when shares tank the moment a lockup expires. Investors appear to be losing faith that the company can stay at the cutting edge of a fast-moving field."
     publishedDateTime: 2022-06-30T02:39:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-02T10:30:00Z
 originalUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/"
 webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Globe and Mail

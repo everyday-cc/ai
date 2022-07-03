@@ -1,20 +1,26 @@
 ---
 category: news
-title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "That came 18 months after Waymo started driverless ride-hailing ... Baidu has expanded into artificial intelligence, processor chips and other technology. It says its autonomous vehicles could ..."
-publishedDateTime: 2022-06-29T02:36:00Z
-originalUrl: "https://www.channel3000.com/i/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-webUrl: "https://www.channel3000.com/i/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+title: "China's Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into ..."
+publishedDateTime: 2022-06-29T02:21:00Z
+originalUrl: "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html"
+webUrl: "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html"
 type: article
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: Bowling Green Daily News
+  domain: bgdailynews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "QY5B9YaMrXqKIT5gnvZYz5FRDEgt57PQbbbPvAv32skrK4pC2fXqUzjtBCHz4OBRjuYB6B+mbocFfNtmBY3Ez6b8LcDY742NTp1E4lqFAfSll+d8OOhpblO6/+PmApqc7Z9Rw+jP0PxN2nhz1Md20xFdM0QjYz49dcVjFL6fk/CFu2lazHYXbO1I0lyUWyh2vrH3v7Er1mPygsM+PwMQD/D6HY+BOZPykY3pZZBtG1rwSrdGiClQduSdGlQUVzAFtEdG08J+ZNW4kMLGjFjjhsbrV48hkM/KKhTqp8RAyjL2FcnfaR+rY83wFVrm0INiwHeuqOoZ2VIQGc3Qgmlbr59JEvT8zcw2P+oyBexvHN8=;MGJbYIYbcg9I86GzalIoRA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/9/de/9ded45f0-093d-5dbb-b27e-7592b5b8d0ca/62bbaf872256e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "BJXe/pCUE9xHvrYM/uEt+j9h/1zA9sgzuelxWNW0X3ExZnrpeF45bBvOrzNE8BBGfGGKBmgWPmkPqTFjou1vMOOsMF7v8SnqJ8dnCOkwExyY6hDX45PdWsImJAtm+gG+fd/xz+pmYc57qPnZCspXVDV+yUHICeEsevVEFge3Ui5ttvpLZKvfdQ12xdwid99fpxKGq7+CrBsokJXda4vCoS5S71pH8qaTI/c9seUPSYntFMo5ngtfnQuHr+hX+EgEi0e33oHZwMbK+WHXpLd9P46ziiKg25hDjF8GleXGisAPGnyYqRM7zXYhssBXmNTlZPGMvWGiayGKmwbmBcyDaK5HB9GaoX36jAHGU+eZ9W0=;1buoDeq2wPoWm8eF1vXouQ=="
 ---
 

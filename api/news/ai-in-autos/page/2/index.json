@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
+      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
+      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
       "title": "Google’s AI Is Something Even Stranger Than Conscious",
       "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
@@ -1302,49 +1347,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
-      "title": "Baidu tipped to roll credits on iQIYI stake",
-      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
-      "publishedDateTime": "2022-06-16T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

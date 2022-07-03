@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
+    excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
+    publishedDateTime: 2022-06-30T09:32:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
     excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
     publishedDateTime: 2022-06-30T18:21:00Z

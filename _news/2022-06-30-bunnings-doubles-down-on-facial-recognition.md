@@ -50,17 +50,6 @@ related:
         width: 1000
         height: 699
         isCached: true
-  - title: "The Good Guys to pause facial recognition technology following backlash"
-    excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
-    publishedDateTime: 2022-06-29T01:28:00Z
-    webUrl: "https://www.9news.com.au/national/the-good-guys-to-pause-recording-customers-faceprints-following-backlash/113c5e59-42ff-4925-ae3b-755850f2f143"
-    ampWebUrl: "https://amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
-    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
-    type: article
-    provider:
-      name: Nine News Australia
-      domain: 9news.com.au
-    quality: 39
   - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
     excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
     publishedDateTime: 2022-06-29T08:47:00Z

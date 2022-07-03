@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T13:50:00Z
 originalUrl: "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/"
 webUrl: "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: FOX4 Kansas City

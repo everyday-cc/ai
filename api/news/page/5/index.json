@@ -2,6 +2,205 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-28-googles-powerful-ai-spotlights-a-human-cognitive-glitch.md",
+      "title": "Google’s powerful AI spotlights a human cognitive glitch",
+      "excerpt": "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
+      "originalUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/typewriter-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience.md",
+      "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
+      "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "originalUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg",
+          "width": 3000,
+          "height": 2035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "publishedDateTime": "2022-06-27T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
+      "title": "Why synthetic data makes real AI better",
+      "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
+      "originalUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1200224477_design_engineering_science.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
+      "publishedDateTime": "2022-06-27T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
+      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
+      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-instagram-is-testing-ai-that-verifies-your-age-with-a-selfie-scan-its-not-perfect.md",
       "title": "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect",
       "excerpt": "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is.",
@@ -991,195 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-choose-specific-timeseries-to-forecast-with-amazon-forecast.md",
-      "title": "Choose specific timeseries to forecast with Amazon Forecast",
-      "excerpt": "Today, we’re excited to announce that&nbsp;Amazon Forecast&nbsp;offers the ability to generate forecasts on a selected subset of items. This helps you to leverage the full value of your data, and apply it selectively on your choice of items reducing the time and effort to get forecasted results. Generating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/choose-specific-timeseries-to-forecast-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/choose-specific-timeseries-to-forecast-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/choose-timeseries.jpg",
-          "width": 1246,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T16:11:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-flawed-ai-makes-robots-racist-sexist.md",
-      "title": "Flawed AI makes robots racist, sexist",
-      "excerpt": "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/957065",
-      "originalUrl": "https://www.eurekalert.org/news-releases/957065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-how-ai-is-quietly-revolutionizing-the-back-office.md",
-      "title": "How AI is quietly revolutionizing the back office",
-      "excerpt": "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
-      "originalUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
-      "publishedDateTime": "2022-06-24T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-covid-cognitive-decline-more-widespread-than-thought-say-researchers-at-australias-first-long-covid-clinic.md",
-      "title": "COVID cognitive decline more widespread than thought, say researchers at Australia's first long-COVID clinic",
-      "excerpt": "And the team has found something startling. Around one quarter of the ADAPT study's participants were experiencing noticeable cognitive decline a year after getting COVID. And, some sort of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
-      "originalUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/ffb1a11f12f1797b90baf63522d04857?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=0&width=862&height=485",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101178450",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101178450",
-      "publishedDateTime": "2022-06-24T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

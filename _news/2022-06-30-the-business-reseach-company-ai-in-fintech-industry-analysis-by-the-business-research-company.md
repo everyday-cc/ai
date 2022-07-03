@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-business-reseach-company-ai-in-fintech-industry-analysis-by-the-business-research-company-008.htm"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,43 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese space company wins in top int'l AI competition"
-    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)."
-    publishedDateTime: 2022-06-29T03:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076"
+  - title: "Juniper Research: Future Digital Awards for Fintech & Payments 2022 - Now Open for Applications"
+    excerpt: "Juniper Research is pleased to announce the opening of the Future Digital Awards for Fintech & Payments 2022! Since 2008, the Future Digital Awards have been presented to financial industry companies at the forefront of their respective fields: companies that deliver imaginative and innovative products or services that have the potential to disrupt their ecosystems and provide significant benefits to their target audience."
+    publishedDateTime: 2022-06-30T07:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631483.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1848074/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
-    excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
-    publishedDateTime: 2022-06-30T09:32:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
-    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
-    publishedDateTime: 2022-06-29T04:22:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56423817-star-vision-aerospace-group-limited-chinese-space-company-wins-in-top-int-l-ai-competition-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1848088/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "MB6DS68J4pfXYlcSkzx/LIgmoILT8Wyq6w0rvi/GvVaRsc38vR9JFsiogZLs3uS8n/3yT4KN+trB1xah61ZXiHdxx76CO0OUeI6bdF1yULiz5Wman3fSZ/H6ZqMA4CicR1vkaBxK3BP049TlB4FXNbOyditCONmV1DerZAeOqX+kaWCVXns7vAgjajmpw3waq6LIGhS608+Me4+nMbaJ1h6LQlcCuKXkH3IhsWwn2jMtfBlePsZNdczqqbbfGK7M9EZfb3OdC4TaUxPeEMRWIR1RCaAskTr4suxwaF5BzYQ5HONOemqi83cbmZcduh42UvQzvljQGgPxeIRvZCZFAGg+TAX0H7UbYbHpI3HrZfg=;uFZCpcLjgmav+mLdtdHhlg=="
 ---

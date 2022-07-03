@@ -2,18 +2,28 @@
 category: news
 title: "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies"
 excerpt: "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform."
-publishedDateTime: 2022-06-30T16:10:00Z
-originalUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
-webUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
+publishedDateTime: 2022-06-30T14:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
-  name: Insurancenewsnet.com
-  domain: insurancenewsnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "0tM8oBBiTyJhaZ9mBpAdipanElAmBjmUEXNLDEW698w+zY9gdrCqvAJqv07++CH1OfWxBP/GTgL+ZqqgZgybdEMq0DQZIlvQZonhHeVdk1n1YNgFf17bBzsEkCDI53hK0lSqSBxCTEPbP3tqRRyzF9szEpFQHX3Wk5w/yZHEDhIbOjb0Y9G0cwCVMJTyCS1DsvFLBRwLNLwWdwhI/MCHpUNRml5CJ2YDDLqd8lPgwX+7bhmN5P0Xlj8dq963JbyzMIF3+bl+q85NHUxyOeSNPXVq8Sdw21jrFwWohb1g2uAaJCdBNSYHIgBa6e5QozOqhIkB7nhlIDYmv0YnFJidVAaG9gWnwv8SA0ZEXkP9e8r9vDrbZp/ZwVtPGApuhUDyDi6+xdHKMODC8anMJgp2kUp2iTzlwL7cXk27IZrjZJ471AZUY9OWe2gyZ7lZZkTLCC40UcK+jGeCjA7Tmnfo8BPGFwXxlct9Ekj9JZBMuxG/Oqd5bpjedWlt4GJtEGF0+sgX9d8jQ7zwIKOKxriN3Q==;aaSpI16Gfn4h3p6JYFnquw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Z4hDnP8u4qwURIvAPeSnIxMEc5UioJbJ72gLxV9wuS7XGio51T9kpkwDsRADb/vfl5VZfxLVYMYLGTAZBGsrBwI2vhXd1HFlsTE04do+cNefOjkSQgKi9i7cpfzLBBmcCEa41+3TexZr2p+BtJkTKOfWsq4VAgbhoKMpGHJIOYMuFyjrc/vnOZUvuh6zfhTrTARpyjejrej5kaIX8UhtCZ8G0I83Qr7ox+KUXAopw0LErGhZoxYmQg/5ItrUqZ/Snq8hYh1rdMQ8XLUGnlPYmIZ6ewUcSCDZcBcb00MYRnLHYj2whLbJQLocEDN9NgjhgejraPsCt+i8ZAjfJS9NcSW+k/ioDwp3Q2jCSVPN2Ps=;qg/n0JQtbRs9K+iiFars1A=="
 ---
 

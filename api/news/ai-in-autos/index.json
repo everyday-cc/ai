@@ -97,7 +97,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -214,6 +214,49 @@
       "provider": {
         "name": "Futurism",
         "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html",
+      "originalUrl": "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/9/de/9ded45f0-093d-5dbb-b27e-7592b5b8d0ca/62bbaf872256e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bowling Green Daily News",
+        "domain": "bgdailynews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1311,51 +1354,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

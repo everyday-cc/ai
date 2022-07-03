@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "ALSO READ: Beijing grants Baidu, Pony.ai new driverless robotaxi permits Founded in 2000 as a search engine operator, Baidu has expanded into artificial intelligence, processor chips and other ..."
-    publishedDateTime: 2022-06-29T04:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/29/1640322.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "China’s Baidu taxi races Waymo, GM to develop self-driving cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
     publishedDateTime: 2022-07-01T09:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/business/Industry/55-indigo-domestic-flight
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/55-indigo-domestic-flights-delayed-as-crew-call-sick-on-ai-recruitment-day-dgca-to-probe/article65595732.ece/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "55 per cent IndiGo flights delayed as crew call sick on AI hiring day"
+    excerpt: "Fifty-five per cent of IndiGo’s domestic flights were delayed on Saturday as a significant section of the cabin crew took sick leave, with sources in the industry saying they appeared to have gone to an Air India recruitment drive."
+    publishedDateTime: 2022-07-03T21:34:00Z
+    webUrl: "https://www.telegraphindia.com/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029"
+    ampWebUrl: "https://www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 57
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2020/Sep/1599251313_indigo.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "AI hiring: 55% of IndiGo flights delayed as crew call in sick"
+    excerpt: "Fifty-five percent of IndiGo’s domestic flights were delayed on Saturday as a significant number of cabin crew members took sick leave, with sources in the industry saying they ostensibly went for an Air India recruitment drive."
+    publishedDateTime: 2022-07-03T18:20:00Z
+    webUrl: "https://www.livemint.com/companies/news/ai-hiring-55-of-indigo-flights-delayed-as-crew-call-in-sick-11656872168980.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 17
   - title: "55% IndiGo domestic flights delayed as crew call sick on AI recruitment day"
     excerpt: "Fifty-five per cent of IndiGo's domestic flights were delayed on Saturday as a significant number of cabin crew members took sick leave, with sources in the industry saying they ostensibly went for an Air India recruitment drive."
     publishedDateTime: 2022-07-03T13:52:00Z

@@ -40,6 +40,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "To equip students with technology, Dubai’s group introduces coding and robotics in classroom"
+    excerpt: "The UAE government is taking a lot of initiatives focusing on early education to develop advanced skills suited for the 4th Industrial Revolution"
+    publishedDateTime: 2022-07-03T19:23:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/07/03/to-equip-students-with-technology-dubai-group-introduces-coding-and-robotics-in-classroom"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 38
 
 secured: "cbS1AEP+NVla+chWVTwNeXBYaNgLmMup8xWawMNIQqEK+2n3fnHGlv1kECE5d8J3HR3mFyJuV8QCyRlww6cPnIpxIiXbL5JsJxeeo/2QBzcwr5mZh/0GJsDJfRCYGFVTRpMzE3n1CHoA1y0UARc06Cls/SG2DM4WGl+zO98on5P74LYUPBZ8yyPjIm+JbqDmgj7cj6/vcwz5tuWbIUrk/I7iizsVMgf2BknGAM7KtooVeskf0KBkPT5h6ch0ecLymeIl+G8wJLpmGOPghXzMxVFTQYyBaBTPsl3pZR6SCg32EeI/OXO+vd17umgbguRHhXCKO+QufRSUvrSQ/1458kV+jBjaLuNPY0pYK45Eo9YwtW7pAPoBYbj7ghy7KQ+7c3fATzCmpJ7yFAxOERFZgQnKT3YrH/i+37KhLX6ASR+NAswPTgqfZjViXQojQW9KwgLaIHpk9b79p8BbaCYmeGORhfjcVSIhs/utcLdLNCNtygZpmSxHmRaRCutTCjJKRUlSfQa5RTdjk98hMHpBQw==;BUtQyqW8W+MIGvRCVXt82A=="
 ---

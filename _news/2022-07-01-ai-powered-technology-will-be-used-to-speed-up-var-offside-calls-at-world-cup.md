@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T07:01:00Z
 originalUrl: "https://www.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup"
 webUrl: "https://www.theguardian.com/football/2022/jul/01/fifa-ai-powered-technology-var-offside-world-cup"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Guardian

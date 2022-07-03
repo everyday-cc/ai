@@ -7,7 +7,7 @@ originalUrl: "https://www.theregreview.org/2022/06/30/chenok-how-can-governments
 webUrl: "https://www.theregreview.org/2022/06/30/chenok-how-can-governments-use-ai-to-improve-procurement/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,47 +22,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Using AI to Reduce Performance Risk in U.S. Procurement"
-    excerpt: "The U.S. government procurement system aspires to obtain the best goods and services, from the best private sector firms, at the best prices. To attain these goals and ensure that taxpayer dollars are appropriately safeguarded,"
-    publishedDateTime: 2022-06-29T04:04:00Z
-    webUrl: "https://www.theregreview.org/2022/06/29/tillipman-using-ai-to-reduce-performance-risk-in-u-s-procurement/"
-    type: article
-    provider:
-      name: theregreview
-      domain: theregreview.org
-    quality: 39
-    images:
-      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1351437621.jpg"
-        width: 799
-        height: 470
-        isCached: true
-  - title: "Lummus Digital Makes Strategic Business Alliance With LACC to develop AI powered Remote Performance Monitoring"
-    excerpt: "Lummus Digital has announced it has entered into an agreement with LACC, LLC, a subsidiary of Lotte Chemical USA Corporation"
-    publishedDateTime: 2022-07-03T11:00:00Z
-    webUrl: "https://enterprisetalk.com/news/lummus-digital-makes-strategic-business-alliance-with-lacc-to-develop-ai-powered-remote-performance-monitoring/"
-    ampWebUrl: "https://enterprisetalk.com/news/lummus-digital-makes-strategic-business-alliance-with-lacc-to-develop-ai-powered-remote-performance-monitoring/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lummus-digital-makes-strategic-business-alliance-with-lacc-to-develop-ai-powered-remote-performance-monitoring/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 37
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Lummus-Digital-Makes-Strategic-Business-Alliance-With-LACC-to-develop-AI-powered-Remote-Performance-Monitoring-01-1.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Enhancing player protection using artificial intelligence"
-    excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
-    publishedDateTime: 2022-06-30T23:04:00Z
-    webUrl: "https://www.intergameonline.com/igaming/news/enhancing-player-protection-using-artificial-intelligence"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 17
 
 secured: "gKT0kcYqQWdwXkv7XbdyWUZPE6zcow+9H5ME8qqfK5dnmJXC9VBXkY2VHgwGDfIr8Bvit1lJAjKPJQO6wbjreBgdzX/00E1OvnUtwuCfeTogf12gjWdCtsw0Rw/qChyMe+eFgJSFl32OhEPC/hu5CKS/E9Ge989UxzN20gyEMTzySFlzC6RWNlX05xLw3ij7DueQRdzFs2lOpG6xqDO2qY7IXUg12BvbU/TLjN9oPspqEU8PC4rTO/D9fsw9XY3h3Ndy7i5n9Ule62PPcRiwNTAVEJGA2uNpPCGBLBeDj2t4rwXAevBCFmTw8li/4QMj8xKM+fhvL2V1zL0PctksUsfp4admBDJdWXfXhN5YxqE=;fLtBpXfUCfk7c+Io7Xxgjw=="
 ---
