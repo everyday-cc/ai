@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Improving digital employee experiences must start with cybersecurity"
-    excerpt: "Ivanti's State of the Digital Employee Experience (DEX) study published this week provides insights into how enterprises move beyond trading off usability for cybersecurity and what's most important to new,"
-    publishedDateTime: 2022-06-28T21:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/"
-    ampWebUrl: "https://venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/03/2016-03-01T200913Z_1_LYNXNPEC202XZ_RTROPTP_3_POLAND.jpg?w=1200&strip=all"
-        width: 728
-        height: 485
-        isCached: true
   - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
     excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
     publishedDateTime: 2022-07-01T00:34:00Z

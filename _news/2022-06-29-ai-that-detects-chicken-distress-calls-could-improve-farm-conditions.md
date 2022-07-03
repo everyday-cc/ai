@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2326521-ai-that-detects-chick
 webUrl: "https://www.newscientist.com/article/2326521-ai-that-detects-chicken-distress-calls-could-improve-farm-conditions/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI could improve welfare of farmed chickens by listening to their squawks"
-    excerpt: "The technology correctly distinguished distress calls from other barn noises with 97% accuracy"
-    publishedDateTime: 2022-06-28T22:08:00Z
-    webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
-    ampWebUrl: "https://amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/ca1bc132743d99ea5758e8c30f44b0c8c40180a5/0_419_3507_2105/master/3507.jpg?width=620&quality=85&auto=format&fit=max&s=68ce0fa25a55cd13089ec74e9e4709dc"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "IZ2pqN9XqSqFXCeIFq4GzjQcvhV6YGszU8TdKTBMheJmJRqmKB/F+qib9ViRYC2RUdn3mLSpWB4iAi+agC/8x+OcWZVZO9T43yuKoCx0pSGkqMf1GPf3KMY9LJfIm3UyxGskc/e8GcxYCHQtcC7QIVcXoDAxL7xJFDjdcRDf+K5LFF6V1i3O/LVHsSJBMnyp9gsMXcHDsSWbrdYRnjI2+z2Vv9uNHUZnofROYFeWSegXhvrvta+kNjviK4vOgU0JM0GjWdCixdqhu+t/HQ8kWrQ+bJsXK7svZM0a8pCVibFq0ltfLHdTn998e26CC5vOhn1mJhDsejMmyuXqXJ4XC+JYapL3JmYPDgCStkk5vDVHnc1+oYW/Be0NNldk8oXrRHe4bisveQhkI0uZblL+sz52vp+tsohik2jDy4rY7ie+HR0UjvFe8XstnF+nSBzBPDEEV6oSXSuxYAW4JBJ6ecjNgxNfOMwUI/rRwdd6qvZcbr/C5muN/jHC+tTEym/Zpfr5uQjB9KEDw21gAI7Pvg==;kcIvQ2FvrQtK3BBxg0YFBA=="
 ---

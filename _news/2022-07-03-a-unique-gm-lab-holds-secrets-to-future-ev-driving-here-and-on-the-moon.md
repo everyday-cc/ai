@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-03T12:00:00Z
 originalUrl: "https://www.usatoday.com/story/money/cars/2022/07/03/hummer-ev-moon-rover-general-motors/7788833001/"
 webUrl: "https://www.usatoday.com/story/money/cars/2022/07/03/hummer-ev-moon-rover-general-motors/7788833001/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: USA Today

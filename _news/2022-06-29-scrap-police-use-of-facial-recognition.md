@@ -51,20 +51,6 @@ related:
         width: 681
         height: 329
         isCached: true
-  - title: "The Good Guys pauses facial recognition trial"
-    excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
-    publishedDateTime: 2022-06-28T20:38:00Z
-    webUrl: "https://www.itnews.com.au/news/the-good-guys-pauses-facial-recognition-trial-581959"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
-        width: 1138
-        height: 774
-        isCached: true
   - title: "The Good Guys to pause facial recognition technology following backlash"
     excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
     publishedDateTime: 2022-06-29T01:28:00Z

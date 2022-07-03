@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T19:39:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-29-nft-launch-based-on-rads-aitx-best-selling-and-award-winning-rosa-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-29-nft-launch-based-on-rads-aitx-best-selling-and-award-winning-rosa-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Daily Herald

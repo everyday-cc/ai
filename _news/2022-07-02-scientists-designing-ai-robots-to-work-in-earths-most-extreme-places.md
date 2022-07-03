@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
-    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
-    publishedDateTime: 2022-06-28T19:31:00Z
-    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 11
 
 secured: "5wD9jEL5SAKAKNqNmW4w2qREfNlAZ6uA4apLQfoiuEdb9MO32QkT3Y11kEROY+Jk4V74BbPmXdxk+5FZl+lG2ihlbKoSNLL9OZlBJL6/ZwaWPBjAUJLi4Uz4NU1gE8xyGcD733iKyNF3pHjYwzt7RhVLfRxOjIlocRKS4cpqWHRMyWT+5lxJNSqQk3ekcDNb7wJos8+2e0/QaeTDqH3b55o4a1fNFbSY5O3649QMxGsvIKG/S3SfvHoKnqWrIamargRK+mlJoWgb41xqZY+h+PRtn6m8JNedKBl38G5+A5FVOomnUDJQe38+Xf2QuUT62JqJjokR2WMDBZUU8GwBVjRiNJIHXppb24er9kFfWjO26XiIUrjDNsqvC78PeVD0PNIWtgTcZxIC4ysRqoncviWnVJsKpAQwFkk+smvcD2qj8K/SXZ003mNRI/WHby5JJTR9pajU7nrHut0bNxetbgMeO1RzPDi0YUB2m3ABdCizSX/cYFCretHpYqfFVC1pX/4xTYgPl4CBZHU06/rW9Q==;YSggcZdfzzqywYHBDYJBWA=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "J.B. Hunt trials self-driving trucks in Texas pilot"
-    excerpt: "Transportation provider teams with Waymo to haul furniture and appliances for Wayfair on route between Houston and Dallas"
-    publishedDateTime: 2022-06-28T19:34:00Z
-    webUrl: "https://www.dcvelocity.com/articles/54946-jb-hunt-trials-self-driving-trucks-in-texas-pilot"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 4
-
 secured: "9Yf75c7D7chw95KM/lwXR5sWi/OyjGSLmkEhpG5+L4I7Yl2K99KCHkvG8fMP5i04UEUI4L7yVaVqTUn1QREWFm03et/PeOSxp8RXtueLqkF+Vnrsg+XAbZM8JLHAcz4sqcX26qp0eBI3pNn+bzjBEi2au5d+YO62WpY+KOuPKT2fyfzqvQqnX07yJ473QQaWL3zaMRRklDvnH9BvOwOocrC90mc/TCuD5kE9x2bHvTHfu7ZXsENpgKdnqB5fM8h1fdfKhEJg7bkLOJrpyuV4c1Ah/iW2a/FMxUnF8TWkNp4gFrdID9i3GFGtBeycrZxXmNq8HMfGSWsdYu+OiSalN2rDHLwlw1hzEq0n6DfZgm//KztXdOETIH+/gmmkENZL2KxneHpIyh96kem1eKRNtRQrZMOVfDybbiOIpY/LwN4HIsphrQOwrzv8TsANPc5BpcnoZJOYMBsVnj7JE0NWcmvUUjFAlECuA0M+6Yo7WH8YDLLqGeraFaPBczZwleYgFbF/LNG1QW5qdL4cuOzjkA==;IAGBSjG0KcUNM8vNL1ICxQ=="
 ---
 

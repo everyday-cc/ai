@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:12:00Z
 originalUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 webUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: CNN
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "AI made these stunning images. Here’s why experts are worried"
+    excerpt: "CNN By Rachel Metz, CNN Business A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs. These are just a few of the text descriptions that people have fed to cutting-edge artificial intelligence systems in recent weeks,"
+    publishedDateTime: 2022-07-01T11:48:00Z
+    webUrl: "https://ktvz.com/news/2022/07/01/ai-made-these-stunning-images-heres-why-experts-are-worried-2/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 21
 
 secured: "ubzjGokaeHyzatpB3NrAydeSKEFPxtLjsfdmlOkTLa/r+w3d/F6XurPY0QjnVgVP/VXZKNgK3MGui6aXDrDPEwCReHoWJ0ftdMonzUvN0cy3DR3BCfp4XW3n5kQodPS4sQe7KZK5VmV7VIg50ciqYKYtZPnd//OJ04fKfdm5julmNt6iUPPsecw+pSs5SlvgpdsadDeTAwIUq2VpP+sinDaNjQ+b50q65uXZhiJcS2G2O05I7A9RRQtDsmayzgKTx8M4GoN38xM9ssm/kZAAyPAzus+xKWlNtnDgWVL74F20ijXHV/j+4mLl6olzhOlGeFsjlLhFI0iszIcY+uJ+dfWsooK+iXSdQJaVYle+AiZj0OyZ2KsU05yYZO/65a90BtWUA8GWm31ipPqV8DUFE7J3Hw1JzIwwPnf7+0bxB9cn7oHUwEYXv3gIbx0dt23ndsA7wH2VBfucq7i699LiZOVr5sxdtciS5MckKGhw2WPgKVKjJSlRz3lFkKsKzuztZyR740VxC7CMBFNvH1kJ4g==;cQDXWiqkncseydbNH0c3sA=="
 ---

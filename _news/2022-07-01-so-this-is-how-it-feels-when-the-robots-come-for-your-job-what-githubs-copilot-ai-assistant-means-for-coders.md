@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Individual devs can now use Github’s Copilot ‘AI assistant’ — will I be out of a job soon?"
+    excerpt: "Last week’s news about the wide release of a new “AI assistant” coding helper called GitHub Copilot gave me complicated feelings."
+    publishedDateTime: 2022-07-03T13:00:00Z
+    webUrl: "https://thenextweb.com/news/devs-use-github-copilot-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 37
   - title: "So this is how it feels when the robots come for your job: What GitHub's Copilot 'AI assistant' means for coders"
     excerpt: "I love writing code to make things: apps, websites, charts, even music. It's a skill I've worked hard at for more than 20 years."
     publishedDateTime: 2022-06-30T13:49:00Z

@@ -95,15 +95,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
-    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
-    publishedDateTime: 2022-06-28T19:14:00Z
-    webUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 32
 
 secured: "N0IiWoBqufd313JW68mUygVk64PxBqj/5PjPS2ADMO+cngqBRdYG7BTG3jFMKzfBrZmBHw6kpKE7hTkAhTponp3rAmh4eQwbGHymbDeDZfJgqpRh3j7bbQIjhqEcZDnbOKyZnReg0Bi+Ka0Yhb1S8JpQgO3oZSNi7Eq3sy9DYIRZt4KyAVzM+0Eev1V6Syt+BsS1GvBkhO5FQKb72lMmtilLQQHuSoGnD3tP4sszQUt9lW8yPi1lEM7/X79a077RuxJXvQx6Et89HlIFd9Xg7VL1UAkkuVd/dD307D5PCKd26Zm5GJ1S+8PKFzAbuph9NGltdJBCi9rHw1xaLca7x07oDoITCU1vDQfh1tgYVHzdUGZlMZfQtMErJ52s7hrqBQn/3/vZ0/KH47UPnZpr7h+2F6JosP/jMfQbIEBPcJcPiGEpcSyeRX6epG+jrp9nyWiruqS88NK+jP904/xqJTczSx7J0uJohCo4aflw3UBfvxN+Sa1S9B5nCtYmM0t7wDApN9nJt/7CqUj9fAzKUQ==;cHWX96lJvDQkTA6IdVAVjw=="
 ---

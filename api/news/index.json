@@ -46,6 +46,57 @@
       ]
     },
     {
+      "path": "_news/2022-07-03-an-ai-model-predicted-crime-in-us-cities-a-week-before-it-happened-it-was-right-nine-times-out-of-10.md",
+      "title": "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10.",
+      "excerpt": "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7",
+      "originalUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62c02a18ada84d0019b7dd7f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp",
+      "publishedDateTime": "2022-07-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-the-key-to-quantum-computing-ai-applications-flexible-programming-languages.md",
       "title": "The key to quantum computing AI applications: Flexible programming languages",
       "excerpt": "When enabled by flexible AI programming languages, quantum computing performs AI calculations much faster, and at a greater scale.",
@@ -287,7 +338,7 @@
       "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -581,7 +632,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1156,58 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-mahima-pushkarna-is-making-data-easier-to-understand.md",
-      "title": "Mahima Pushkarna is making data easier to understand",
-      "excerpt": "Five years ago, information designer Mahima Pushkarna joined Google to make data easier to understand. As a senior interaction designer on the People + AI Research (PAIR) team, she designed Data Cards to help everyone better understand the contexts of the data they are using. The Data Cards Playbook",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "originalUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mahima_Pushkarna_Keyword2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

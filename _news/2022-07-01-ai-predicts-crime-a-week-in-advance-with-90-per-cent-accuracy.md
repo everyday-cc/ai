@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2326297-ai-predicts-crime-a-w
 webUrl: "https://www.newscientist.com/article/2326297-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10."
+    excerpt: "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy."
+    publishedDateTime: 2022-07-03T10:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7"
+    ampWebUrl: "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/62c02a18ada84d0019b7dd7f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI Algorithm Predicts Future Crimes One Week in Advance With 90% Accuracy"
     excerpt: "A new computer model uses publicly available data to predict crime accurately in eight cities in the U.S., while revealing increased police response in wealthy neighborhoods at the expense of less advantaged areas."
     publishedDateTime: 2022-07-03T04:38:00Z

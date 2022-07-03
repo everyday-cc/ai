@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-03T12:39:00Z
 originalUrl: "https://www.zawya.com/en/press-release/companies-news/qatari-startup-rimads-wins-insurhack-mena-2022-t8vdef17"
 webUrl: "https://www.zawya.com/en/press-release/companies-news/qatari-startup-rimads-wins-insurhack-mena-2022-t8vdef17"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Zawya

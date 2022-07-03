@@ -56,15 +56,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
-    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
-    publishedDateTime: 2022-06-28T19:31:00Z
-    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 11
 
 secured: "9uBAyi2yvRq/QvkYWNncd5cRCjL9N0P5EklqjmIbUMWG3rNKOJSHlt8Qgyc4az5IDdEF6InpsQ8b4HBW1zIvWDPw9E73n7l+Y1U3Re5bedNevtP8xIqNxjlgWePAWXcRICa2XlXM/tL2x4NoM/fcwbN1pwgwdKjiNPc01ShOyCDi6pBe0q+jBdVbCpgEo6og5u8OI1TKWOsASpMUh0zhCOOE1b0LBVs4zB3nixyIOKu4YFv8d6n8eAj8SzWKZTdIHyLm4gYNd1P/F0gfru/5PFZIJ3ULyVzrAl0b3iJXFdQOwVcWIElq+h/eRSTu/gYzq/pS7/HFh6i0U0y6V/KGqY5SwAhWa+LVikqn/NElvIUgb8tB5nGxz9FROrYE0ozrZzaGETY5NyNP8YTLCpWSJ547PMFrw0XxbeorAH4AYlMEPgJDQIgKyK0Fgen4wZUTHjbIadGblGn5J281JSn5h36/75+IrMMqiz3Or6lefiMZPIgVx/GkJ4JGrHoIo/tvoXdz7tZljv/oA1DEDFH+RQ==;tJc+DNunRVmv9tDIoUVvWQ=="
 ---

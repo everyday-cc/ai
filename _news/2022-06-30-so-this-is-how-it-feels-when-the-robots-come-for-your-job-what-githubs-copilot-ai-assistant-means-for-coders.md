@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-job-github-copilot-ai.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-job-github-copilot-ai.amp"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Individual devs can now use Github’s Copilot ‘AI assistant’ — will I be out of a job soon?"
+    excerpt: "Last week’s news about the wide release of a new “AI assistant” coding helper called GitHub Copilot gave me complicated feelings."
+    publishedDateTime: 2022-07-03T13:00:00Z
+    webUrl: "https://thenextweb.com/news/devs-use-github-copilot-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 37
   - title: "So this is how it feels when the robots come for your job: what GitHub’s Copilot ‘AI assistant’ means for coders"
     excerpt: "Many in white-collar 'creative industries' that deal in text and images are starting to wrestle with their fears of being (at least partially) automated away."
     publishedDateTime: 2022-06-30T23:24:00Z
