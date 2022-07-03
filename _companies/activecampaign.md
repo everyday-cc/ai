@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActiveCampaign"
   url: "https://twitter.com/ActiveCampaign"
-  followers: 12517
+  followers: 12516
 
 locations:
   - Chicago, IL
