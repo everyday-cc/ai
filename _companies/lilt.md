@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lilthq"
   url: "https://twitter.com/lilthq"
-  followers: 5744
+  followers: 5743
 
 size: 2-10 employees
 yearFounded: 2015
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "X276tkkQhSf62vQKV9QNolcLh/HKcyiP+MDScWgegWH+JRzyQ0qnzHRT75oU/sWp8hO1vTpxzJfCEOi5yeVEaTHkuHB728C+zok5q5984kWhwGfniE/BfPzy+FCWno9yKdCpjZs7voPfh1jZKlaB8dCYuYEIGgvT745xFG7yCtav/B62TPyvGUWHggtQ0Yx/gpBExlRtrKvYoKYf3AqrKHhroOBXKNUBude2cz92LctSCsouG0eUfzLuFXuqgwN57eo+lEPZMkq98mPi3mk6mFmGvDLs9JSAXGjKcq56s7FV+EFH51hs4qmcB2ac1Nk7Ijs+eRPnMgZS8EjEvBfsk1ri5LknJlez81Ye5HVvdOlUFOKpsP/BuGJorgC41/TIFm21I7J/1Eb7lC1KiVBhmQkzX32hrb7nfQhO2fiP41c=;EMISCMt1PbWEvOWHZmJf1A=="
+secured: "InwHkmIFIJTVmqa3Nfm9pPhmxZ3bNwtSLASxBqVHeu9b2zNFV1KesZnUtXVaznRU7eZ/v4A2TmYb6k9eFoo1RtY9yXmDsooQqaDvyOE/erZNgkMB4gPQ0ssLvaWsKGyMMV5Yws2DwD9SFnCFoumCIqkYFWxsStEqCrTYxSqsJtNmSzFsBvMnEGstQ/+e9N6igvFFXcS1TmKR6JUG1vLfZZTk8qzyGxNF3i/bRyMWNe9EbWvJX6rvdmp/hiVWk6g5lN8BxJ/0T2vCZfDiCj2A0DclxHJedu2sCzegUsclGxJt34BqfCq7r2LCE0p3tRQvhWGRHyAeEmqgbll2XJ1jEtjlwVSaZ0Ipi6z+SjzsZHLoi6z3rSjuH3BxOluO2gbtUbgfFwj8zj0QF2T9co3sSjOHjn3tqA3izU1b9XkjrAc=;q/BaVX+3Z33oKthI4jYkqw=="
 ---
 
