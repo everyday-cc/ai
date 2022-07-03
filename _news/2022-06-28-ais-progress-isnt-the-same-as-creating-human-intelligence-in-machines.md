@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "BreachLock's Intelligence Report reveals rare industry insights from over 8,000 PenTests"
-    excerpt: "An unseen perk of using a SaaS-based delivery model is the collection of data points in an aggregated and anonymized manner from various Penetration Tests that feed into BreachLock's AI (Artificial Intelligence) platform to derive intelligence that is leveraged to create additional value for its clients."
-    publishedDateTime: 2022-06-28T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/breachlocks-intelligence-report-reveals-rare-industry-insights-from-over-8-000-pentests/article_f6013984-f48c-54fe-9d06-f678a436da4b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/6a/76abc69b-370f-5fb4-b64d-3e3109e9a0b9/626806aa3c9fb.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intelligence in the Modern World: The Opportunities and Barriers of Data in Today’s Investigations"
     excerpt: "It is easy to fall into traps, thinking that access to data equals insight, or that tools featuring artificial intelligence can generate answers to complex problems as easily as our iPhones can predict what we are trying to type. To derive insight from ..."
     publishedDateTime: 2022-06-29T11:04:00Z

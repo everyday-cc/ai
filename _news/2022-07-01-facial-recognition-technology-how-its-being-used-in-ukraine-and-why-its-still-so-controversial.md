@@ -33,20 +33,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Identifying Instagram Crowdturfers with Machine Learning"
-    excerpt: "Researchers in Italy and Iran claim to have formulated the first machine learning system capable of recognizing the ‘crowdturfing’ activity of human (rather than automated) influencer accounts on the Instagram platform."
-    publishedDateTime: 2022-06-28T14:09:00Z
-    webUrl: "https://www.unite.ai/identifying-instagram-crowdturfers-with-machine-learning/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "IwwiAqYVYoNjnF5+pNq+U30RYbu9dSB4eY1Txue83yppU0A0I+JX7QvMJ6IHpn/WP/bjN1tNRJasjMNNCFrXtkMNvIbon3Wkh7PF/f87raNvo8fTW6wRVASMT9LZ8bwMtdN0pZjtLj8BZnerFPlA9eOhCrFOZkPJjXM2/lR9VmikKrJ+I6tmtD+E4XfahGTokHB8XxLjUn/EzlFG5ShuvgTnZeqZxCWKmiSsoEf24VDZIjUYhGIdOB4rd8STlEoy9PoihxrZPC3aCFOxhMIPP+uQoHkiKovlB72UU6W4cX98npp4F25vT6FhO3xkLnDQD0QP2j5jbDAnQJXR1W6RTZ3Tdq6+Z3wlLYgbZvOPVg5O0qBzHHy5J6dV3MEWQEmy707f4qy42R/hnqlysk6QCwj/3f5kiUwtqtgSRWeDkFUnsbpdq2wzLZdAjVQR91oI2nsoWUC0Xn923VhGZ3BrclyvS45a7tGiHVxq8MmYj0V6Zz2My0kOqBG9JO6b+I0rPNCSIp+oycYIx/jfWVAGlQ==;5hI6MC8pWCZUTw53juBU2Q=="
 ---

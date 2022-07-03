@@ -1,27 +1,27 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into ..."
-publishedDateTime: 2022-06-29T02:21:00Z
-originalUrl: "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html"
-webUrl: "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html"
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "ALSO READ: Beijing grants Baidu, Pony.ai new driverless robotaxi permits Founded in 2000 as a search engine operator, Baidu has expanded into artificial intelligence, processor chips and other ..."
+publishedDateTime: 2022-06-29T04:44:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Bowling Green Daily News
-  domain: bgdailynews.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/9/de/9ded45f0-093d-5dbb-b27e-7592b5b8d0ca/62bbaf872256e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/06/29/1640322.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -106,6 +106,6 @@ related:
       domain: dallasnews.com
     quality: 32
 
-secured: "c4xETZaycpgbOP8PV5spC/QgSfk6blme4Pnog1hIgWIan4hpWdeahnvkw3Rn6Gxc5hoGK5iOruFflVUHtV93e+M/6d+LSsY6Ux9STR7Pu15AUpTfAn+sZT7tX9yN0tl/KGEJ9S2tEEuZ2GQdI0xsLuuC2oCFxmZuyhkuj4iBZiiPZktVpRuscXCetqBAj1DEbFIyT6htjxDTaQcV04BtMcDeLEbkbeiVgHlwhjgID4ppp5zsjkS5vMIbnCglUQm9NHGt+tSauydy42yQCamHqNg2jw3nYFeO3+1ypJZ3+R5/MGLeFrcGjBu+ldqFNOpLyDTnCog94BYiELVQOM706GidXpqxZRVEfCYSVqcmmG4=;bc9KEFPTzUGRWFpe9sTw1w=="
+secured: "4VyDvMyNBd2g2+XMJppajx0hn2l+j7PLsbRBjjxDkWhQj4KnqLEKcIkM4jYAJFr3ZjMwFdBcORfmSZc5FtbsApG7gwKy3aJTjNMuy9t56cxjjzAmus3dMuqEBvGvlQTDOmAqDTppb9JipeU5QaGAajSa0TKUVXLklULFznw1bKMQ9gCCEFFzJPvNrHtxN+t8swKvHwV0MdFOpBVkYbPQcx6WWs6LhTt4R72yoHNA4A2KPf34zlvk5Y0JQAD+kashTRZRfMFSZ2YUOL1r9lPGyJP5gBFzVE6nSsqLlc57BbweBQgERBH9e3VoTzD8Q14oXAMAG8C5KpqgyXb2D8XXUAVDzyaffEmeWon7ShcWytY=;qduHJ/vawKJDAmclfiMefQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-comp
 webUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Top Artificial Intelligence Companies in United States"
-    excerpt: "Tech - Today, the amount of generated data outpaces humans' ability to absorb, interpret, and make smart data-driven decisions. Here, AI comes in to assist us in"
-    publishedDateTime: 2022-06-28T14:57:00Z
-    webUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 41
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
-        width: 1023
-        height: 591
-        isCached: true
   - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
     excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
     publishedDateTime: 2022-06-29T04:22:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-
 webUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/"
 type: article
 quality: 54
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: SlashGear
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Road is opening up to allow self-driving cars on UK roads"
-    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
-    publishedDateTime: 2022-06-28T14:10:00Z
-    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
-    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    type: article
-    provider:
-      name: Evening Chronicle
-      domain: chroniclelive.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Highway Code updated with new rules for self-driving vehicles"
     excerpt: "New rules on the use of self-driving vehicles in Great Britain have come into effect in the Highway Code from today (1 July), paving the way for new technologies."
     publishedDateTime: 2022-07-01T13:50:00Z

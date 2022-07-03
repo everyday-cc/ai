@@ -1,30 +1,42 @@
 ---
 category: news
 title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-excerpt: "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,"
-publishedDateTime: 2022-06-30T19:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
+publishedDateTime: 2022-06-30T19:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
 type: article
-quality: 55
-heat: 65
-published: false
+quality: 65
+heat: 85
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
 related:
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
+        isCached: true
   - title: "VistaPath Secures $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
     excerpt: "VistaPath announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen"
     publishedDateTime: 2022-07-01T09:45:00Z
@@ -35,6 +47,6 @@ related:
       domain: enterprisetalk.com
     quality: 20
 
-secured: "rIImJkgT6G+b+Crx0KcQ+lG/ltrsTaEkeFrM5Mlo5wLgBIwkMNl00+NnQTpgTAGKTudIoYoIBePhegsLk1T1d2UKBJiqwlkYdO48drITSEd9g4Hzh/sfFlnFmLFN4oyhiiQN4EoFUDmhu9BP7rSxcDpbismcILRrTaBuuGgwnwe2MIk0Me+8HfObvoA19VsiAGpBx6b1bo13wcOPxPJQD+jMIDQ4995gx/8RZVot3mQZM0jDBvJywO3CJKDAiZys0shHjNKPT3RTCf4d49nM/mnK2yCGVAeZkvgNXKRRuyzcF3wW3kcVZBC2k1xWqrHRIvTTlqLECbboN2eEqE1wh4MbBOey6kP877PPRuP6cJg=;JmeLWW6q2TuuZaAdOlFXIw=="
+secured: "NVB6qB6uxZfIYN+VlaqB6t0zeJrNFcQFgbMTgmZDD92l/b2B7MYMfq3jiRMlYSClqVIQPNOv8Ty0FwpXPuWUkaQm+CPs1UBBa90bLB2K1CZh4KC6+6RKquB3fvGldriwJH9BC4WrIEfbI68zr8jg8rorwGcagDpKWvJh2ghvpgsJQpl4WayZIPveEmOMfRVPSQQJq9AN/3xBbBdBidbS6/m0cObKQQBrZiLFBKN1Sa341CR8CRnXF6xLwXaDb8+YRYdGyeCdJQREqLgq0Pjl/ENrbNaPbn1MiRN10RLnr+DKqxkAKuiFe4jK2wUfrHyNH2cZPqgpIrG3krVbt3httzDFDryWpFtSWVI8FRpr9rg=;NGCjmmu7t7cB2A8Llhes9Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://thebrunswicknews.com/new-law-set-to-bring-delivery-robots-
 webUrl: "https://thebrunswicknews.com/new-law-set-to-bring-delivery-robots-to-georgia/article_bfd425e1-8bdd-5d0f-a525-1eedc5179518.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 402
     isCached: true
-
-related:
-  - title: "New law to allow delivery robots in Georgia takes effect Friday"
-    excerpt: "Georgia is about to embark on a new form of transportation technology that fits the needs of the era of e-commerce."
-    publishedDateTime: 2022-06-28T14:00:00Z
-    webUrl: "https://www.northwestgeorgianews.com/rome/news/local/new-law-to-allow-delivery-robots-in-georgia-takes-effect-friday/article_150a5330-f70e-11ec-a687-1b4910aeb280.html"
-    type: article
-    provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/a/ac/aacca333-c73b-5a5a-b706-5fc2e81b364d/6244e8391448c.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OaWiRLzVuls/yK4wIVwnJFFp61Q4M4Tk0KdficCztOFDDeVhMDS7woLuy4mOwdOtfB0n2u6DVG+slGW+qMPk2NZkvrUDGqkqf+Bx3T+Q4WA4OmvArIDKh1wggQuW32xljz5+On66Tp1yMaukRey8szE7+ceHLY3PXNefhHCyihZT6bT9TXBcysOb/F6dKsBzdd0nb8/5t8jQBD62We6xNBRrCeWCj4A4orKgaF2u5kubty5jN207EFLwGUN7YkAeiAj6OIyTedJ8sNxnFW8hX8w1lWDbIsKFK7UGLiayakY0Fv59b7lyoLtLHg+GhSiQh3rX8cfZEBUqx+gyvRXnoT+F1+HcKSTGAnU1QXbaGkmFzfpPm10i5T5NmZBHVbzh4cZwI8uDw5PuVAL1OD8ZLVBORGxE3cD37tp5qW1esvVBGXzPfVlc5434mqlfybKVQXwXy1Ftbfi1xe6PqCqwqsPY/3sonXXwsEo6HINLgvLQRw0PAaXkJmDhB4Ei1uqz6OnYxC6Wux4pG1RKhZF6Yg==;vZkn8WxBxUknLrGY2vXkwA=="
 ---

@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human-robot-AI teamwork accelerates regenerative medicine"
-    excerpt: "A joint research group led by Genki Kanda at the RIKEN Center for Biosystems Dynamics Research (BDR) has developed a robotic artificial intelligence ... the robot must repeatedly produce the ..."
-    publishedDateTime: 2022-06-28T13:42:00Z
-    webUrl: "https://phys.org/news/2022-06-human-robot-ai-teamwork-regenerative-medicine.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 34
   - title: "New robotic AI system can autonomously determine the optimal conditions for growing replacement retina"
     excerpt: "A joint research group led by Genki Kanda at the RIKEN Center for Biosystems Dynamics Research (BDR) has developed a robotic artificial intelligence (AI) system for autonomously determining the optimal conditions for growing replacement retina layers necessary for vision."
     publishedDateTime: 2022-06-29T05:51:00Z

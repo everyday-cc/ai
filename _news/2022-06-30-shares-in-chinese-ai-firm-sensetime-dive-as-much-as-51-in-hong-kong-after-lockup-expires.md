@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Xi’s speech hailed for drawing blueprint for Hong Kong’s brighter future"
+    excerpt: "Entornointeligente.com / President Xi Jinping addresses a grand meeting held to celebrate the 25th anniversary of Hong Kong’s return to the motherland and the inaugural ceremony of the sixth-term government of the Hong Kong Special Administrative Region at the Hong Kong Convention and Exhibition Center on July 1,"
+    publishedDateTime: 2022-07-03T07:51:00Z
+    webUrl: "https://www.entornointeligente.com/xis-speech-hailed-for-drawing-blueprint-for-hong-kongs-brighter-future-2/"
+    type: article
+    provider:
+      name: Entorno Inteligente
+      domain: entornointeligente.com
+    quality: 38
+    images:
+      - url: "https://smart-reputation.com/wp-content/uploads/2018/09/logo_smart_transparente.png"
+        width: 402
+        height: 287
+        isCached: true
   - title: "Full text of Xi speech marking 25 years since Hong Kong's return to China"
     excerpt: "Today we are gathered here to celebrate this grand occasion marking the 25th anniversary of Hong Kong's return to the motherland, and to hold the inaugural ceremony of the sixth-t"
     publishedDateTime: 2022-07-02T08:02:00Z

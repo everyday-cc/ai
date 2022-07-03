@@ -1,26 +1,24 @@
 ---
 category: news
-title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "A Spanish foundation has recognized four scientists for their pioneering work in artificial intelligence. The four were named recipients on Wednesday of the 2022 Princess of Asturias Award for Technic"
-publishedDateTime: 2022-06-15T12:00:00Z
-originalUrl: "https://azdailysun.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_a33a34bf-e6a9-5690-9697-007e77787c69.html"
-webUrl: "https://azdailysun.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_a33a34bf-e6a9-5690-9697-007e77787c69.html"
+title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
+excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
+publishedDateTime: 2022-06-15T12:05:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
 type: article
 
 provider:
-  name: Arizona Daily Sun
-  domain: azdailysun.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/custom/image/265abe26-0cb1-11ea-b986-9b408788062f.jpg?resize=600%2C343"
-    width: 600
-    height: 343
-    isCached: true
-
-secured: "DnxI3QP80gP1zbDVO95g8a6sxB6X5VN3c1jcc1nxZcO3iwZPpOOCuF16nM79lHmEwyawkHS9yqYyFGiuICUjKeoGq5m5BTqjUhUYckGMMK0YHXdDj7aMJkLUAiwXlUWUQRthPbkYbK+gct9NueRVVlYORBrU+PB0AI5HvWHZA9U+objuEqhdkrnofhlGunrl8ZwlC6cM/c5E4R+ayATGPRaUMU/jsyX4bPlEaBZgRSULMtvj9yJgtzMymy7mCxAjm8lTKD1A3g6GinbgEGt3rI8/NjRQ+nz+pFGWsY5migIkGZd8oYMnqpXmYPuLJRoV2AwrdHlHE/1q6Z3EcB2NnAiaPiCl79PFJQfmTgCidlH781AkNtu8+NAFbqAhCc+DSMOOJrX92Var6vriZ+DBQRVplRP5U+GvIvWmeXHSA9Pyu4AYENKYDx76taetlRXLL8EZyZtqXCVPIYnpUD8uflk/k+lJRGybkvAbqrJU3+rKPc2zA5VbOy+bpMJTqFWHbgR1UAkyAG6OtW6CtZonVA==;xRt/OVdZqf5sYIgK9zknzg=="
+secured: "8X+5iCdCMqnoNKkTb/m8/9XpzDZVSgRIkhJhRVcdV8ezHuE0bm4ip/stNE0Dk+yj7NWOv9EHYZQyAR+Pj9j7GqDRIgj36vwXOtC/LXptWmcYFg+bD60p8CxbtbzimJUAzZOuQDNnh1qF8HzK5Jrp38qgf6bBv3P+M1j2oHkGDSSvu8puoN5EJwGYOlS5pXQXQB4Qfy1xa/5wj2uyPG7hagd+hXO+t2SLKQ0rHbZLjSAFQL9JW+Vxg0wu/BXF5bh4lNE+gsRIoMvS3Fx/7WdkAHGxJzkXhjRLJGk/4ngl177hQHEDUZfgfOqr75TroJfSBVXkGHMvUSnTop+9Cz1z3R49c854tfStK5Cqw0VmNnI=;cYGMrz5k70fh9Jak+BfPcg=="
 ---
 

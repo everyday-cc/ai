@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Smart Robotic Arms can Help Partially Paralyzed Man Feed Himself"
-    excerpt: "A partially paralyzed man manages to feed himself with a help of robotic arms using brain-machine interface (BMI). The findings of the study are published in the journal Frontiers in Neurorobotics . Two robotic arms - a fork in one hand,"
-    publishedDateTime: 2022-06-28T13:57:00Z
-    webUrl: "https://www.medindia.net/news/smart-robotic-arms-can-help-partially-paralyzed-man-feed-himself-207751-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
 secured: "qLnnZV1Tm8DYR4gl+20P5U2tsCBj2EvSrwD98sAD+QhcmVDa9WLVf4A6Ki0JTkaC9d46j5BJ1NF1C0T0aYpjr6ON+vstaT+S2bAaPwXJud3NlRwdjlBfMP1+MY3+J/lXf2CjGZlNy9veAwBJs5n5Smpfo6vqck0hCXaltLXYfTB6L4uBeuen9NyFFX77rVkOVuOe4/GtyGridiEo5q/KX0kbNp4DWvtyM5El8x6K5Ur84WyUmx3ilR/nZirfeCynOalrTvjMUMj54rqH8JASPNneATTizzn/GajxF8kdLo5ucZd5SRPmaT273biLMrc9IRcy/GRL423U4hjQ7toRVhCzpNtEly9FzfWRaNYbn2K+H82C0hMxz6RI9B5r8NXpRmeeDRIstV4c7IVr8cZoyv9oBCO91fW2ChMrTTMIO9YEeVslcJnFUhF9oUalvvJQJTCZq85gzhPuehtQ8xuVq4i7dbMx8iaap80XBluRnr19NkrdT99k+fvYjtldeMEW9tFYNk05+XcqpjKYzINvag==;VqNhxklcSd+/aDR51xd4Sw=="
 ---

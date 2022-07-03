@@ -62,20 +62,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Top Artificial Intelligence Companies in United States"
-    excerpt: "Tech - Today, the amount of generated data outpaces humans' ability to absorb, interpret, and make smart data-driven decisions. Here, AI comes in to assist us in"
-    publishedDateTime: 2022-06-28T14:57:00Z
-    webUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 41
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
-        width: 1023
-        height: 591
-        isCached: true
   - title: "The Business Reseach Company: AI in FinTech Industry Analysis By The Business Research Company"
     excerpt: "The Business Research Company's AI in FinTech market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, June 30, 2022 /PRNewswire/ -- The AI"
     publishedDateTime: 2022-06-30T16:07:00Z

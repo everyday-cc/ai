@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "India Lags In AI Research Activities; Needs To Equal China On Supercomputing Capabilities: Kant"
-    excerpt: "Government think tank Niti Aayog's outgoing chief executive Amitabh Kant on Tuesday said the country lags in artificial intelligence research activities, and also needs to elevate its supercomputing capabilities to those possessed by China."
-    publishedDateTime: 2022-06-28T13:21:00Z
-    webUrl: "https://www.outlookindia.com/business/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-kant-news-205335"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 7
 
 secured: "/YZgGPsG0KoFanPAsP4mcCI/VWBtvhRBcabJ9xHnIIu4xQFoW2wcKWoKm+P5kuhArYj//wc3YvGXItPZ5vRI3SebsH2VGcNbJwarZCLwK/080lsGP/iYI8g7sUiZf4CmdET6YYKwI0e8l+QQtczARosn6nIdh3vmwKvjwEem+kIwkO502SLC0Ut0YqD+ioiWmdk9EFjBNsstrA71S0oU6cjyf+wa3ZyTdBujUqR3/93PRFKbXJBuGrZh6J+CiefrxOTMw1gXww4cxBVEEbIeZ2bW4iHyHs+KxKkxwaZAKiJ+PvZi/jyPBPou24q6IWsmRwSUNHxJ8A3sHuUNN/QBzqC3FzWp+gcb1ZYHGytmGFE=;HHe0A5cCDIw3wDB+iJ4tTg=="
 ---

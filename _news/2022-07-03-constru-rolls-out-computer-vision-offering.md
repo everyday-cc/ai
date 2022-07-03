@@ -24,22 +24,6 @@ images:
     height: 470
     isCached: true
 
-related:
-  - title: "Constrafor Builds Construction Financial Automation Around Fintech Solution"
-    excerpt: "This construction software vendor is starting with a fintech proposition for advance payment loans and building operations software around it."
-    publishedDateTime: 2022-06-28T14:16:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/apps/article/22301532/construction-fintech-comes-first-in-constrafor-software-product"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 22
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/06/coi_bi.62bb086697426.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 996
-        height: 641
-        isCached: true
-
-secured: "rqYBasjaIj07K0RfGfD03zWgSDNoQ7Zt3O41Qt5Cx6xcAVX+TGM6860RIoodoAW2tSNkO18tglRtwkmWsN1dMjFwT7YDO6yoJpHvJnvEIq3Ig4+mXLSA1mZ/mkqp7RyfbRKgr/qsC3WAg2l/WzOxb5vD+LwTwtkGiBbhyodW+DCS5+efyguQb2csvK+nq2RyRc7n6LmMitWgbt+9zHtqwt3ryBqXnzucQzSCKsxzxoqNnuitpIdTGOa1y0WY98lcXaD3Ln871YL2jetdmBumhh0EZySntwezhObc3xYXXDL191Y6seN5yYFKq8vRSky8c1iq0E9DS2lKpCISg+nNmRLN7Jl3xP/2JWMX2Sd5VaM=;pe9YE63lPjbD0mMOi91HCw=="
+secured: "QI/TFkD+bwBJrDGkPp2NAsmyOeqvwGPHIyAiVQO3oPQXnYZL/Qf+EkPT5T+wbwxLH5gnyC9qpELtbQ++Qvx5lBEdr7YpsrlCkF55G41JXYdU60dwe7jIuzMvATViw8EfEE2rsEtaNy3Hwe994D4leFZvGHVC1fZy0inFvxnBKA8An0B0jET39usO4zBTHHL0ZKKRHOK1cUW2s3pNdgg+ZODWKjEemhwNdOKk/lfjPya9kYVr+2eZBnu74K7Bs3VfTtYRCp8mrasXjigaXqrpJcQKnn7Vndoxj/ZZObNHxfbRWwXBIkzwKdNzDUUOjTrJK6h96KD0iaL1UfsUN4sA1jmsd2921oU7gyZjsAJQCznea1PcNTSD+/rx0rNKgUZfb8G2NaZKcsIj/H47Gn9BDaKRzZQYar3BofikPeUkhfzAk0Mil70zVkxDEB44EYomijoICJiIu8gOJEmqfohdLScstqY3vDWTz7QbusmmBLFpspG+obiCE9+A22NpEFbn6BBbidD4UTzjjmHb+u/wtA==;A0vHpTvHG1oealnhADgEWw=="
 ---
 

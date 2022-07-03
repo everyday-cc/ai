@@ -40,20 +40,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "BreachLock's Intelligence Report reveals rare industry insights from over 8,000 PenTests"
-    excerpt: "An unseen perk of using a SaaS-based delivery model is the collection of data points in an aggregated and anonymized manner from various Penetration Tests that feed into BreachLock's AI (Artificial Intelligence) platform to derive intelligence that is leveraged to create additional value for its clients."
-    publishedDateTime: 2022-06-28T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/breachlocks-intelligence-report-reveals-rare-industry-insights-from-over-8-000-pentests/article_f6013984-f48c-54fe-9d06-f678a436da4b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/6a/76abc69b-370f-5fb4-b64d-3e3109e9a0b9/626806aa3c9fb.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5SNsI5DayLkLyWg6edTVYYWgvmWU6ZwquOeZ3sLV+gmygRFVtMkRiHu4ScPB4rhoAS50DfJAUnBkmmk4R8XACWwG49pr467LFCYkXeYUNHxlf31QtOVWkjZa8bRGx0gy15uf6F4T/8c5xfCh62Gsv3W359V29sYZkuUggAGrMtqn50QyniDCGwkoteaZyu1EI5LlVJRPuN0YRhFbZgvGdw87/rCcC8BRw2Ywpv0N/vpABpUufo0shF4dZgiEjpTZJcGc9wrZ+dIhmx5Hso6JBUgqaMqMnIgZ5TJ8cR0zrADjfcGG8+lwYUxib+O/zshPAOA/qe39PCDM4N+/RwddvaLYAmINoxIWDYVDZZVpeHg=;dclg+uMbO5PLldhNmcsTNw=="
 ---

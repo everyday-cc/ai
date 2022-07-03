@@ -7,8 +7,8 @@ originalUrl: "https://www.slashgear.com/910919/its-time-to-talk-about-instagrams
 webUrl: "https://www.slashgear.com/910919/its-time-to-talk-about-instagrams-age-recognition-technology/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: SlashGear
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Identifying Instagram Crowdturfers with Machine Learning"
-    excerpt: "Researchers in Italy and Iran claim to have formulated the first machine learning system capable of recognizing the ‘crowdturfing’ activity of human (rather than automated) influencer accounts on the Instagram platform."
-    publishedDateTime: 2022-06-28T14:09:00Z
-    webUrl: "https://www.unite.ai/identifying-instagram-crowdturfers-with-machine-learning/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
     publishedDateTime: 2022-06-30T18:47:00Z

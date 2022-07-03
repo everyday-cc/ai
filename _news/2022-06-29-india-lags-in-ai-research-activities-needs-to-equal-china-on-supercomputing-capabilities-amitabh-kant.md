@@ -38,15 +38,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 34
-  - title: "India Lags In AI Research Activities; Needs To Equal China On Supercomputing Capabilities: Kant"
-    excerpt: "Government think tank Niti Aayog's outgoing chief executive Amitabh Kant on Tuesday said the country lags in artificial intelligence research activities, and also needs to elevate its supercomputing capabilities to those possessed by China."
-    publishedDateTime: 2022-06-28T13:21:00Z
-    webUrl: "https://www.outlookindia.com/business/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-kant-news-205335"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 7
 
 secured: "SdH26GGjYWuhyc3weIrxZvLfpLvUzVFvQVQIe+Y6VVze4xVn944q6GLLcclsPwajoIXYqQqSD5Un7LVW3sGn+N6U/zyC8pwHFWzW/XsplwKCWzzJUVMxEj13CMwzbVaq9BMZfk5hMGVmJXNRo+P/5MIiJGrkhkmkG24SF4jJTI0os28gNvEMJ1EK16vIw7N3YMEtHBQiAbLcHzzsGB7oukTKodx6Bn+6mMCgojCTKQt/XDLIBpP3WUN/ZnXXQZDhxMtuXa+9CgAVyV/LQwsl63u8fTDvY5Bv1x6blt6OQXfHx4Sdsu9r25ag1505tLmY6iN0NO9aMen5nL8hVprujyuZTFhqqCWWY+qBTKJRMTc=;H+e5OAcltwAiUheNEDr76g=="
 ---

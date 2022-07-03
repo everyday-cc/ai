@@ -33,20 +33,6 @@ related:
         width: 1536
         height: 853
         isCached: true
-  - title: "AI facial recognition tech identifies rocker Geddy Lee’s mother in anonymous WII photos"
-    excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply AI facial recognition technology to photographs from the Holocaust."
-    publishedDateTime: 2022-06-28T13:52:00Z
-    webUrl: "https://www.clevelandjewishnews.com/jta/ai-facial-recognition-tech-identifies-rocker-geddy-lee-s-mother-in-anonymous-wii-photos/article_b263b4f7-a681-52cd-9dbf-66247e50d491.html"
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 46
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI identifies rocker Geddy Lee’s mother in Holocaust photos"
     excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
     publishedDateTime: 2022-06-28T18:20:00Z

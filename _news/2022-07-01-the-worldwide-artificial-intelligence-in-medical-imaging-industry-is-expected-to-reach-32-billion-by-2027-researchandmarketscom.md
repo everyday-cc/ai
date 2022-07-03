@@ -39,17 +39,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "The Global Robotic Vision Market size is expected to reach $3.8 billion by 2028, rising at a market growth of 9.3% CAGR during the forecast period"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Robotic Vision Market Size, Share & Industry Trends Analysis Report By Component, By Application, By"
-    publishedDateTime: 2022-06-28T13:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27882326/the-global-robotic-vision-market-size-is-expected-to-reach-3-8-billion-by-2028-rising-at-a-market-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27882326"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27882326"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "IwSWOdv9P9HX2fUBWxGCDpL2REaB1MIFlxvdGlhWy1jVOqTjmqbd82CvygUX0Son95CmauyPEPhtyTNPz3U1Wlh22R0OUS6yWWmGdxk24HirI++x/9/Uc2E3glgzkZY5jyepcDiMuEywvQIMCibwZfCAvfqh3pbOItycPm+oYncdELzPc7XWt5SQoLiCuI2/LYqwZR5tDYpq1zNCjmvlPkeWAl8ze9P0hlfJT00S9abwbQ8QZ3NbO+zaxq8bBe4nFqWeMBnskn8MDXmNnGeAmyDv15n7dwG2MppZJRJzi7ZhuZFrI/flCEq5LHH/llCpae3RrZcODJTHddw4sVsOYKAQNlamAcwlQLGfH6ayjKY=;gg82KFlnz0rtkwQCtKQzZA=="
 ---

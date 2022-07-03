@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implem
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How AI is transforming the future of healthcare"
-    excerpt: "The symptoms are alarming: It might start with lightheadedness ... With today’s innovations, medical devices incorporate AI and insights from data to amplify impact across the entire healthcare industry, improving patient diagnosis and treatment."
-    publishedDateTime: 2022-06-28T14:10:00Z
-    webUrl: "https://www.fastcompany.com/90764389/how-ai-is-transforming-the-future-of-healthcare"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/06/Medtronic-Hero-Image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "XFF3LXWC82FPJ/vQMJaNvL6V5WC+BsblxDgB6iKNlIVWmm9Zy6bHVazQTRV/elFfIgxq9Ie0AMrBH2n3FPfF3QuE4XxmfBZz0c5HY6ekZexodl9PTgxBdvR/QwFRh+GVML99RwhBqwlEn7PcbkzQ48Qt7noTUHeFISbQCuiNmq//vTnDcDbMHRItGBeplDtq2YmGAIoRB0SgGdRgENBDNFt7G4yz2IkJPiSfn433U8oNgEK4J3uL6xpk4HRxw2C+UMweM8WcAzg6jTGM8YOpFS9SsFu1Culv9YoO+XF518lOFFSA6w2PxdM5r/sqzp8opO7CsMmbqnCdn/V47Fe5qLa8auCjRLNOZrJs4OeXDdW6W59JhlNEWKkcs6YLEU5DZV78BOg5+xbwxSo2YPWsqk1GqfBvoCMFa7o6EP6+aHhitXKquN/CtJIwlG+uzOkhOSOan320Ln083980aSwIqWiOqKeJBCbC6ssE2rYNZF/mPVshbM30tgDQFwMs02wSoakm8Duy52mRO9CSLC4vsg==;RxxbW8qiHyZEJBfl5PxuAg=="
 ---

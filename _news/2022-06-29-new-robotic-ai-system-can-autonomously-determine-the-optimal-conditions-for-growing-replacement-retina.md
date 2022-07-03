@@ -38,15 +38,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Human-robot-AI teamwork accelerates regenerative medicine"
-    excerpt: "A joint research group led by Genki Kanda at the RIKEN Center for Biosystems Dynamics Research (BDR) has developed a robotic artificial intelligence ... the robot must repeatedly produce the ..."
-    publishedDateTime: 2022-06-28T13:42:00Z
-    webUrl: "https://phys.org/news/2022-06-human-robot-ai-teamwork-regenerative-medicine.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 34
 
 secured: "lf3sPbRq1yi2/zt8gZo4f/pMlM1pOnx7wfGQoY0iaWJFlsI3V+DYHMzwEKDZxmFyn+PXzu8o6k37c4GgoGDb5eCwFJ1duE88X9pR+BQ49UGnsj7gJ2E54OgUSky0fwb2qv3p/bXEkBiON80fqOHwCTc/SZOIb/FNxWWWI5brTi9xQfB2wmelbqZHILq/whPxNKZX15WSGQJvFvD0UHvrKBP7czNSdPEOoDD+EEmG+sXDijLHudT+mUvDAqmxmKi/6D017EhUXZcO4QAvryACydeGsQ/6Mdj10HTm7w1UvLOTXKZb9lfSbYuIz0p20GJa+OYuW/MQALP8smOTwOaM4VwBxvtwNoW3N3SQ4vIK3qk=;aXtIfkiz4y2kfVXIanQshQ=="
 ---

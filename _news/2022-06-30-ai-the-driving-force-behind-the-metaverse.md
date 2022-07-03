@@ -24,6 +24,22 @@ images:
     height: 1920
     isCached: true
 
+related:
+  - title: "Meta open sources three new AI-driven acoustic models for better sound in the metaverse"
+    excerpt: "Meta AI has open sourced three new models based on audio-visual perception that can help improve AR/VR experiences."
+    publishedDateTime: 2022-06-30T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/meta-open-sources-three-new-ai-driven-acoustic-models-for-better-sound-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-3.png"
+        width: 512
+        height: 262
+        isCached: true
+
 secured: "vLa9/ICedzQygDIq/YOIvJdXgAz55oSVPB7OXcHh26/HU92CTEXdZHK4eWOCZGidosOpAkL2lOcC9QNDMxM6TQLaJlxXQbabY4wrJF+nxO6t0WMRK9QAfaql6DfR2hc6K6q5fyr4mOVOry8lb3ngRRqC8hPKBdb4DmpvHaI5xQuzWFbzR6hJ6v8o5+KzYhnpnMKM462AuAHmk10q+QnFkmZNZlxxKCCtPsdQYQl6C9cKERJapbaTNk2eqfpMNRUm8uI+Nup9uS8DEmH4EGwT3Kte8d5kCUDkpd4f98/3NLCFM6hcr7jFrS4XuUFOmEU8IN7mEFhDUTQFLykC7nffJKWFeT396mRjYCF/BtCyUzAqWDbGL6EhtpdMRhPUaSyb3BSpY7GquMBjTij/Io01+A1JN7fB7QVGTtRCpgGrsD96f4t3Of8oqYoSsbjP3ihW6lJVFDieUztpTZUnxXerQYqdLy9lj0Wfikah+N9d5rhLvttRF8cDDh0lKCVqUuHa3E143LHrBO5dYXXcxShZRg==;PmtQSXSsXP+mLxqElmv7vw=="
 ---
 
