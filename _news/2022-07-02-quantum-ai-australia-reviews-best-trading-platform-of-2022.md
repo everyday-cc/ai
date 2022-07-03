@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/quantum-ai-australia-reviews-best-trading-pl
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 453
     height: 286
     isCached: true
+
+related:
+  - title: "Face recognition study in Australia is halted due to privacy concerns"
+    excerpt: "The second-largest appliance retailer in Australia has halted a shop trial of face recognition technology after a consumer organization alerted it to"
+    publishedDateTime: 2022-07-01T11:24:00Z
+    webUrl: "https://menafn.com/1104463973/Face-recognition-study-in-Australia-is-halted-due-to-privacy-concerns"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_1.jpg"
+        width: 800
+        height: 531
+        isCached: true
 
 secured: "Xl5xYsOpvsXwQnQ09PFX+sUJ3rWWC1kRZJx8YTgUlloHmIPh29O8E/JAn3y18TvZ9GEE3Ia/y3Gsd9Ths8aoHX5jLGGiyFdhk7QxLPndk47EzT3eNkoXN0JdwxPIvYf7POK7lpE8IPb1qjAtNGR6vOZEIcH1hZuZWluVHJ21MbvNfcvlsH/dW+rb1buSond5bixNeLmJJp1S1ncrKCMN5TgxcYS1BxaGKMTKnmgiHMfpC+BGb19zWG/3yX/Tkn2CgYvZ0SiGbTvp3LsYk3zjBfRAF5qXkZJ8R9sHAHh/5YFCzZ+AtAIer8HSPBTHBpN3mynffkkVMQK7mcP08ExcmIzfIAQA27J0u1xjhur1wNm9ft2ejGUC7PVzsGYK7UqsLN9aAHo80U3EdWON/CvgFNgT68s73aUnTWCe1GttbRoHzttpEFId4BHUvL3NClNPRm4yG1plBUfKZ1897RBwgQwEEs/eqWHGjWyDPOjdNsqZ51bkIb6s5QQYn3ehn7uV93MNybzJUkFxoAvvxGIXEw==;Oy1STdFaF/LrA+Tn8XxukA=="
 ---

@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech firm takes space at Liverpool’s Spine"
-    excerpt: "Having a fast-growing, leading UK Fintech brand located within the Sciontec AI space at The Spine will not only add to the dynamic ecosystem here, but it will be a driver for even greater job creation,"
-    publishedDateTime: 2022-06-28T07:10:00Z
-    webUrl: "https://www.placenorthwest.co.uk/fintech-firm-takes-space-at-liverpools-spine/"
+  - title: "The iPhone at 15: You wouldn’t have fintech without it"
+    excerpt: "Apple appears to quickly be morphing into a fintech company in 2022, but a decade and a half since its launch, you wouldn’t have the digitalisation of finance without its most successful product."
+    publishedDateTime: 2022-06-29T17:51:00Z
+    webUrl: "https://www.altfi.com/article/9466_the-iphone-at-15-you-wouldnt-have-fintech-without-it"
     type: article
     provider:
-      name: Place North West
-      domain: placenorthwest.co.uk
+      name: altfi
+      domain: altfi.com
     quality: 24
     images:
-      - url: "https://www.placenorthwest.co.uk/wp-content/uploads/The-Spine-LCC-p.Inform-Comms.jpeg"
-        width: 1024
-        height: 777
-        isCached: true
-  - title: "Fintech provider signs Sciontec deal at The Spine"
-    excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
-    publishedDateTime: 2022-06-28T07:03:00Z
-    webUrl: "https://www.insidermedia.com/news/north-west/fintech-provider-signs-sciontec-deal-at-the-spine"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Spine2-40876-1621522090-%281%29-65271-1653038839-67832-1656398370.jpg"
-        width: 578
-        height: 325
+      - url: "https://www.altfi.com/images/featured/the-iphone-at-15-you-wouldnt-have-fintech-without-it.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "iEXPKrMnLTxFJ+S3yDOmAPyn4pObSL+5F5Y4HPraf9gH+Pi3vafGcSZbqOJFS8XlFKYtHnF0mC+Uf6RcstwfeHWUkOzatLTkzq8fvoW3ljeTspPoo2VWUmjL0tkDOOFKGKjKnM/Dvy5SvyYkrIj7wJw/2KGh9NE/4oYccmbW8KwL/aymDDfhO5vo5GkFmDatPSGJrkvbbr7pTA3+Tbib+lEk5uTNMMsQShzBQEJX15Ja4k+97/93VBnnqsy8MsdiYNkAd3za888K5h5+l8kSeR7bqmWvxIp2qsBKD3CPdy1RRRCbBFg1Pknfq8BJECMEj+iUGmkbd4gdISaL6OWK9Pxao48srDSFWJPvaQQHuPc=;s5QtbDfeObm2tVCKeB2mCw=="

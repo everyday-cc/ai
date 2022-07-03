@@ -7,8 +7,8 @@ originalUrl: "https://www.slashgear.com/910919/its-time-to-talk-about-instagrams
 webUrl: "https://www.slashgear.com/910919/its-time-to-talk-about-instagrams-age-recognition-technology/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: SlashGear
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Instagram’s New AI Tool for Age-Verification"
-    excerpt: "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them."
-    publishedDateTime: 2022-06-28T07:38:00Z
-    webUrl: "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/"
-    ampWebUrl: "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1"
-    cdnAmpWebUrl: "https://www-techthirsty-com.cdn.ampproject.org/c/s/www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 59
-    images:
-      - url: "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg"
-        width: 640
-        height: 356
-        isCached: true
   - title: "Identifying Instagram Crowdturfers with Machine Learning"
     excerpt: "Researchers in Italy and Iran claim to have formulated the first machine learning system capable of recognizing the ‘crowdturfing’ activity of human (rather than automated) influencer accounts on the Instagram platform."
     publishedDateTime: 2022-06-28T14:09:00Z
@@ -59,6 +43,15 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
+    publishedDateTime: 2022-06-30T18:47:00Z
+    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
 
 secured: "sLDANMzG3Ckpz2A6IvfxbZc8BWpHyO79zzTWc63TvxbwUpq4HI/R2Pd0IuZY1hw/MQuA5s2qmkbSSwzNP7Bp4hzWRxb31udb91/pklxAdAwB50FagRIpshqk0utKneZi1sXlvW+lvLP/weEwoZTlPYPbZ1jIxV6JVbVYMT7zUJ81DOawrXaEVBS46zlI27TXZF/yQwrzrdv90v83CqlJsEWDCHCJi0Uyz6QKuTgonKv8cItgOz7fTr/tTk+BxfsQlxpzSb60u93yb+huX73mS2YztkXIZLOV/6RS+nroREH10GgHtc8PdlOGWVvGO9UWSe3w1DBTscry60Uu2u2xx7qOqWPcAQtYmZKO4lM78nK9anI7InmUSDANvsNJbx8eiS6spokL4qr8XygOtonxAYODXNV+Is8jV2G6gRXwmjIita9f+vE152yFvwDwQ6xLZDdF/cpzk8mwruZS1X8yNTU8RoRO4uuZ6RDSJ5ecJiaxkC8K6m7mRYA8HUV74N8vmMJdUQjvOYOCuv3VL/8/9g==;LDsebtTewnAJLLG/kezxyQ=="
 ---

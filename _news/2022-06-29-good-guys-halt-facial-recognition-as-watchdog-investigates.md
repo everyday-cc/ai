@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-a
 webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "‘UK government illegally utilizes facial recognition’"
-    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
-    publishedDateTime: 2022-06-30T14:42:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
+  - title: "Bunnings, Kmart dig in on facial recognition as scrutiny grows"
+    excerpt: "The Good Guys will “pause” its use of facial recognition technology following an investigation and subsequent complaint to the privacy regulator by a consumer group. But Bunnings and Kmart are digging in on their use of the controversial technology."
+    publishedDateTime: 2022-06-30T03:58:00Z
+    webUrl: "https://www.innovationaus.com/bunnings-kmart-dig-in-on-facial-recognition-as-scrutiny-grows/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
+      name: Innovation
+      domain: innovationaus.com
+    quality: 39
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "UK should immediately ban use of live facial recognition, warns report"
-    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
-    publishedDateTime: 2022-06-28T23:13:00Z
-    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "Marijuana, facial recognition, other laws take effect July 1"
-    excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
-    publishedDateTime: 2022-06-30T14:22:00Z
-    webUrl: "https://www.chron.com/news/article/Marijuana-facial-recognition-other-laws-take-17276652.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "DGAX4WEoVrpWmZ3mY6UHmKrDI5VtiJqAbuEmdKAZTPAtcXlObcsOIVcG85QeQx2ny3dlzn1MJAzIRAm8hMPwH9HJD1kzvXpbuEwbydqJTbzVh/WNc0W32Ib3uhKXoWwlwy23Ac18VI1eUiscH1JQNKp/swY92uoZgfRMbJNQl3Dst/7duyFqT3D+YNN6+63zqEM39j7WYV7Iof24zBR2syrVVieCpN1LWuF5NvAY0r1DloUddFbsNpwDe97b+Emg3gwJJwJnlJ7l3YO7XWJHFCJy/0UNa60vn9/HLcEcH0DdeRlBqyY7XYIy+ymTQNlr8ObdrkcO0JhnkD0Z5xc2Q+rAU3bnYNo80Q5OIury9QCIsyEaOd2LbbS093it2S00rl2HyhG3OvnDvZ5lk/VSef+9+51JXwJQUbn3ucgiq0YUDq/jpV0eYl8eJ+nKnau3JnWqug9dbxmnW781fXT2frFHTHTka9sBcdq5sgZ4Qh0A6pnoxmjD+UAwjTlHPCIC8sRZnIul0K9JtPq2pC3Qyg==;oe67gphue/7Cp4uWkc2aaQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-job-github-copilot-ai.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-job-github-copilot-ai.amp"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Battle of AI-coding assistants: GitHub Copilot vs Amazon CodeWhisperer"
-    excerpt: "Amazon claims that developers can speed up the development process with CodeWhisperer by simply writing a comment in their IDE's code editor."
-    publishedDateTime: 2022-06-28T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/battle-of-ai-coding-assistants-github-copilot-vs-amazon-codewhisperer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/git-hub-copilot-vs-code-whisperer.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "So this is how it feels when the robots come for your job: what GitHub’s Copilot ‘AI assistant’ means for coders"
     excerpt: "Many in white-collar 'creative industries' that deal in text and images are starting to wrestle with their fears of being (at least partially) automated away."
     publishedDateTime: 2022-06-30T23:24:00Z

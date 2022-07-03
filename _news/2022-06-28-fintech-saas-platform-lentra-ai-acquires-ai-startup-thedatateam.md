@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-s
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1201
         height: 629
         isCached: true
-  - title: "HDFC Bank-backed Lentra AI to acquire TheDataTeam"
-    excerpt: "Digital lending platform Lentra AI, on Tuesday announced it has acquired artificial intelligence solutions company, TheDataTeam for an undisclosed amount. Post-acquisition Rangarajan Vasudevan, founder and chief executive officer of TheDataTeam will join ..."
-    publishedDateTime: 2022-06-28T08:39:00Z
-    webUrl: "https://www.vccircle.com/hdfc-bank-backed-lentra-ai-to-acquire-thedatateam"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 54
-    images:
-      - url: "https://assets.vccircle.com/uploads/2017/09/hdfc_bank_reuter2.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "AI in FinTech Industry Analysis By The Business Research Company"
     excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
     publishedDateTime: 2022-06-30T17:26:00Z
@@ -84,20 +70,6 @@ related:
       - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/06/possessed-photography-jIBMSMs4_kA-unsplash-1-scaled.jpg"
         width: 2048
         height: 1474
-        isCached: true
-  - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending"
-    excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to ..."
-    publishedDateTime: 2022-06-28T07:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
-        width: 600
-        height: 500
         isCached: true
   - title: "Lentra Acquires AI Startup TheDataTeam to Accelerate Digital Lending Platform Business"
     excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness based on their unique financial journey."

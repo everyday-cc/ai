@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Speechmatics raises $62M for its inclusive approach to speech-to-text AI"
-    excerpt: "I wrote about an AI startup that’s building technology that can alter, in real time, the accent of someone’s speech. But what if the AI goal instead is to make it possible for people speaking in whatever way they do,"
-    publishedDateTime: 2022-06-28T07:02:00Z
-    webUrl: "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/image-1.jpg?w=680"
-        width: 679
-        height: 453
-        isCached: true
   - title: "Speechmatics raises $62m as AI speech-to-text progress delights investors"
     excerpt: "Speech-to-text leaders Speechmatics has raised $62m in Series B funding as the scaleup moves closer to its goal – a platform which understands every human voice in any language with human-level accuracy."
     publishedDateTime: 2022-06-30T07:02:00Z

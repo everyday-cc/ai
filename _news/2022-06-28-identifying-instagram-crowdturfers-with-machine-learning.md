@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Instagram’s New AI Tool for Age-Verification"
-    excerpt: "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them."
-    publishedDateTime: 2022-06-28T07:38:00Z
-    webUrl: "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/"
-    ampWebUrl: "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1"
-    cdnAmpWebUrl: "https://www-techthirsty-com.cdn.ampproject.org/c/s/www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 59
-    images:
-      - url: "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg"
-        width: 640
-        height: 356
-        isCached: true
   - title: "It's Time To Talk About Instagram's Age Recognition Technology"
     excerpt: "Instagram is working to make browsing safer for younger users through facial recognition software and other age verification methods."
     publishedDateTime: 2022-06-28T23:54:00Z
@@ -56,6 +40,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
+    publishedDateTime: 2022-06-30T18:47:00Z
+    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
 
 secured: "u7b8PDLm3z115QaXz3cswJJCmsxqFEL5Gl1hxMinKeVlNT8wNoz86HcyOlWUHZOXFXGHwel4nCRmuKEIObLhog4kvgLbRqEbZfpD14ooYSYjv05GUt/IeIuri0HcU0pOwKzkGWHDimz8eGoptlByTXS47Tp9L8Vubs5+uPZtQKCuBzdeIGT9RMgwJxT/qzc4wSEfu8/1TLIiykVSsLlYNauOcD9T2/FZnwJkyOb1EQ0Fdhw78xaN4XodkDs+RFhr0FovKLh1FaA6jctvuZyUmCoUo8fp5OXaQPHlZ3GCjMgywl8NOtg9jCPMvXVvhI/Ry2B7gTf+mNEAvF8tMFFlBd3OdUPXOunh0qG1iKzjOk3EeGAw0zG7fM9Z/SGBk128X6Ou4l00zN+ZsmUE7540PDb4vIu4fzqMl37oR/4x1nYzJbcQBpOU1ydueN7083RQEgd3OTk1ZJxBojbDJUDfGlfZ0dUqqvuRBMeaXdV4BmmM4n4saLj6qnQEn3rDoqNiNwPv6VbH0q6hlZ0DlLgdTg==;k/TOAUg3qxZ13AD2UTxU3A=="
 ---
