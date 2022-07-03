@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "fraugster"
   url: "https://twitter.com/fraugster"
-  followers: 788
+  followers: 787
 
 size: 11-50 employees
 yearFounded: 2014
