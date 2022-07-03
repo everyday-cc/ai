@@ -21,7 +21,7 @@ related:
   - title: "CWallet, Microsoft Qatar partner to bring latest fintech services to organisations through Azure"
     excerpt: "Fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping businesses with the latest tools to ensure safe and secure digital payments."
     publishedDateTime: 2022-07-02T17:23:00Z
-    webUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fintech-services-to-organisations-through-Azure"
+    webUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi"
     type: article
     provider:
       name: Gulf Times

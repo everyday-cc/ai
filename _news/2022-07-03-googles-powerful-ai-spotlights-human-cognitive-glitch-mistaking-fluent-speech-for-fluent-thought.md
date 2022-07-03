@@ -3,22 +3,22 @@ category: news
 title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
 excerpt: "Fluent expression isn't always proof of a mind at work, but the brain is primed to believe so. Here's why language is not a good test of sentience."
 publishedDateTime: 2022-07-03T01:30:00Z
-originalUrl: "https://madison.com/lifestyles/technology/article_6928d6ca-a138-55f4-84c0-4a58f848fa3a.html"
-webUrl: "https://madison.com/lifestyles/technology/article_6928d6ca-a138-55f4-84c0-4a58f848fa3a.html"
+originalUrl: "https://journalnow.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6d11c93f-ee85-5733-9d2a-4c18cbd59fd6.html"
+webUrl: "https://journalnow.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6d11c93f-ee85-5733-9d2a-4c18cbd59fd6.html"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Winston-Salem Journal
+  domain: journalnow.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/92/6928d6ca-a138-55f4-84c0-4a58f848fa3a/62bc9ae82b782.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/d1/6d11c93f-ee85-5733-9d2a-4c18cbd59fd6/62bc9a3704cc4.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
     width: 610
     height: 320
     isCached: true
@@ -43,6 +43,6 @@ related:
       domain: techxplore.com
     quality: 2
 
-secured: "3/Drjx2NNO2HTmHO6wE4lcp8t6UokQchOR2hrpJKfVpTL8KvxiyTEKdAc723XIn145oDUxTAFtgAoHyrgHN5XzKwB8A0rPWM0TjjHjqPxUz6M8e/vQC8JaisJI2jxJ3kArg54BgSo9FD5XOyh4+6RBhMkfrcnuRFbY7f8wT5avMr+TdVka/AJbmihRIZGrnrFOxgpJFwxpJLHjCODitdxQ1rTUucvBOmXEzWfIgu1W1Ga5DBp5T8LzM8XQdFFLDZAVppEnSo8RRsM+LYsg6JgWlo+K/YfUsA+1kgynlEqcFXqr3LMtYzD+WAoXr033ACJnLHKoXaBSEDjjmeFA4c6Ovvv6YMc8jFojkHvM5YXhQ=;q5USbJ9UVnmin+FSrkyCMg=="
+secured: "7PdVcdFlVzt7UMyi7/Q6JKpVGlGPJ+F0quHn393zRh5/FMl0Os+wYKznps0g2L2VezfyoVcMrBJKHOuTmdqPIkTP25BZL7qxCSaWi7Q/CTGWhfOnPQypDxB4BHDFYZN3X61IthAtKtX6otWDI1BfUO+elPkIXiLgwFy4D+q6wu3Aqqh2Z+eDlkPq+ArlUKfayacTXBsOZs4lA94CU8jEEsLtj7B7M/IXqGb9wtfjhNytw7eFUpwt5HKDWtO2kd/EzAUnLmRzV6pKtJWsfwG3EsdzjjCyVTziys4uGyDm3AsOYBT5HGRixyrojYtdWykmSEodvUKZosH2aLlDDENlVh1fpzPEnBCgxWCVox4ckxc=;R5E2W0EARjv6D4HjdzHBTw=="
 ---
 

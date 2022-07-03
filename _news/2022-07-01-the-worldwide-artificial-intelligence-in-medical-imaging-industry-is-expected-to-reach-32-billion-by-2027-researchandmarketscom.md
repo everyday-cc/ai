@@ -1,28 +1,21 @@
 ---
 category: news
 title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
+excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-07-01T16:13:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
 type: article
-quality: 8
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "The Worldwide NLP In Healthcare And Life Sciences Industry Is Expected To Reach $6.8 Billion By 2028"
@@ -60,6 +53,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "nNIVU9tMMhSTm/Qtogpet1R0eSwuFZSkuqae8ckOjiuMRKc9K0wB+UKrFYqU8CuESeqpfKdgon2YllWe7k3zmI7Z9E+edcjDN3VM9+q3AVtmuJMzW4x2qFCTF8+h/Op9Ob5oUkyJuIGEPhcbncwr9lF0KEwjeIMuetj3+PwfGtXFZvF+snVDZQtRyCtBbrjUjCq5ibyzqaURAnxraydmD9++ZYzREIq26fKQtUI2wGGejpkvOgypGG7FCO3rMhQlmDcsf70Nzj/CkU3jEYPtD863OrYOy3/YxjHl2tm2I06phHWq70oMospUUhFMvALS2+7NaeaglbZecpIVOrqBLq+QaqC64smfFDqIWDQwhfU=;RxvKOWsnbcQ2FRKYOzLnNw=="
+secured: "pZ4ui9m8uzdYvJpE7sl3OSjCaN4ZPCpeJJFaFzDRIksqc6DkpaRlwY6SxWWlpQe3ZuL0txXwv+NbQzBO/o44F3IRvr45A+uR5OGG6Ccer/bNNAaN9j9T2feBRdNAU1tG2LdZwNSTX0Sc2MetbtUYzJwwrZ/+wh1TU6uqGK8bdM3ByIWKYe6o4ksd0f9qqVtq3qXeH5M3F2u27tB5LbVK5/Mqkemsi5aDWA0KRpD5qeAjGeLrIC68rlezvnHB3MR9BKqch05uYDanw/aHBw5N/eXNzLytjIL8XkDIJO8PaPz0bzFOW+18NVdtckyu3DEHZSgUhriFe6MZYN2rPjgymhvwC6dLCyQkh+/Bx5HDNgc=;UUfDnAoMoS+q6kHCpaVuNA=="
 ---
 

@@ -1,22 +1,25 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence (AI) in Drug Discovery Market to reach $ 4.0 billion by 2027 at a CAGR of 45.7% - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,"
+excerpt: "The “Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,"
 publishedDateTime: 2022-06-28T10:52:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "fTOLDJhtMY+vWJLjMfoXl3puI3Ncs7uX7ucxMWmYnNQmOzss9AArKjwiuYGzHAzSX6aQmU8CVV4OakPtlCJS9ZvsrPksGVPdKz6ImLlsbfBs5EnWJXAhAwEKxqZYJFnqwuhtCPljRDOTkdquU5CnT5M6OWFsGhxtj4EUtyL+XGnenAfigfTkiF2GCea6Cp7pw4dNCaQRRq+ajg2qwT1uPgW3SD2gTDZMm4BdJvT1QvnEUlsjOPniW0W/ltldo/b8BdOaSVZZjLHLjGnvTP7XA2HfJQpYvRqNFmMiI5f9+X7aijCdA5CcIBichpo8gQe0UzRAO2w7Zz8OJvY2nms1SMU1hIUdH6JKLC56Bp+hrio=;T4LT5kRO24qBS6N85uLeiw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "i/E1FQt8lVW3dHKASRM4SaMtWPjXDcwZbRjE0XrtgKv2mHt0LJdI8FbtfU2kM2iVyqS3zcpF8WbJkxtCyLYI5UYZTegQI0OW8YkdnL3AdjaOGBF9kehkriNJAhwxK1AO9is/8+n16fdmhEbPkogUcgQRLBV4JX9ivTbIC0E0qaZgTwuIyfpfNnqK4ai14chM+WayeZeCSszlxcrmuqe/xktWCWprsrK4nQa0Orpe2rUFU2Mjjd023PThWKDo0+XF+9KNoy3Sf8jYeuDuvTvezkFSnnwbUbLWoaH1vKniHhJDM1cnhP5WfizRoA02lQw8EBc00VgQxNAI4Qi25K691WUfNgDjG2fGFRUU06XCeg8=;DYNBt+JcOrH/ovm3KFhBFg=="
 ---
 

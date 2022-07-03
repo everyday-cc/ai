@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Afghan clerics’ assembly urges recognition of Taliban govt"
-excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-publishedDateTime: 2022-07-02T15:56:00Z
-originalUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
-webUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
+title: "Afghan clerics' assembly urges recognition of Taliban govt"
+excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
+publishedDateTime: 2022-07-02T14:40:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/eaf39e57ac824969aca25a2894ea5d24/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -40,20 +42,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/GATHERING-e1656794769236.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "‘UK government illegally utilizes facial recognition’"
-    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
-    publishedDateTime: 2022-06-30T14:42:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Afghan clerics' assembly urges recognition of Taliban government"
     excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
@@ -102,6 +90,6 @@ related:
         height: 420
         isCached: true
 
-secured: "WbFuS9/vCtVrXWZ3OnofRLyRvGv7sp/dsKcTss4LDhIlrhnu4w/RMrt0pMJBv4KW9UCpHhu5eeug1bn0I8fqR1Ojug9UY+quiCdyQ/0v4OGoxDw5gTq5jFktZ4ZB7W5ZT4dobYfeb/thACzWn/iBePPz4/re5jvxVEL9yIeMokm2EJVtS1Ec4lv9HyS46AOJbQvlG9NISRTAoehkeidD31hNz1hurUYbm6+neVBKMNKvLXUO01g71UQ9TxVPqM/mZiOvvrV6OQQkIWspuKQxJlQtJWyA8v0+z7G1Mt+nabDiIu1n/R/xVzpxDGcND9LRjCjz5YHw4t8vk/6613ggAcQHR74E5csYCU8EC/yWnvk=;QWeYbtbPU8Uijef8tkfXSg=="
+secured: "Yb9IhaVKy7KDIT7YTYvKq1lqbvgeiYc7Kfsmm/1dadJ8qHRu7Sm6GqGprf+bcdWGMiBW6i52toDomT3vAThcqUxvAZfpV8I10HX2WEWXPMShtS9InsUzbNq55rL5c52uRLUivCjIZDGqQSDLaXbParwSmMM3r3llYSuxHp4jD7YkpTVEWBWrfuvjg9rUtcGrxSbur+stNCbbbkhaOzGZobyNVXFIpxZcLwsrwtPc4fxY1kvCqRyvUh8YrPtUUlcvhHQdZKP3XfKmCTWUaNVkJ8Xz5imDxLJl/Pibgd9R9bAa7v1KxLRRKSM0epNCwZ84fko4BpYzPKOWrh2hLCvysFqoH78CEsXaYKW2IJLvOj4=;O3stbMlMbd3CH8XbJ9Mogg=="
 ---
 

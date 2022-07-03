@@ -37,15 +37,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 29
-  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
-    excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
-    publishedDateTime: 2022-06-28T09:20:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 27
   - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
     excerpt: "Wealthcare Advisory Partners LLC lowered its position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the 1st quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-06-30T09:06:00Z
