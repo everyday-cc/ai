@@ -29,20 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Pangea combines AI analytics, computer vision for border control, workplace safety solutions"
-    excerpt: "Pangea has launched of a pair of AI solutions, one for preventing injuries in the construction industry, and the other for pre-arrival background checks."
-    publishedDateTime: 2022-06-28T23:28:00Z
-    webUrl: "https://www.biometricupdate.com/202206/pangea-combines-ai-analytics-computer-vision-for-border-control-workplace-safety-solutions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/28191755/Pangeas-AI-powered-technology-to-prevent-construction-workers-falls-from-scaffolding.-Photo-by-Pangea.jpg"
-        width: 844
-        height: 633
-        isCached: true
   - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility, and fleets"
     excerpt: "Greater Than (GREAT.SE), the global provider of DriverDNA for real-time insurance and predictive risk insights, has announced the first edition of a new self-onboarding solution for connected car services."
     publishedDateTime: 2022-06-30T12:23:00Z

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Pangea combines AI analytics, computer vision for border control, workplace safety solutions"
-    excerpt: "Pangea has launched of a pair of AI solutions, one for preventing injuries in the construction industry, and the other for pre-arrival background checks."
-    publishedDateTime: 2022-06-28T23:28:00Z
-    webUrl: "https://www.biometricupdate.com/202206/pangea-combines-ai-analytics-computer-vision-for-border-control-workplace-safety-solutions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/28191755/Pangeas-AI-powered-technology-to-prevent-construction-workers-falls-from-scaffolding.-Photo-by-Pangea.jpg"
-        width: 844
-        height: 633
-        isCached: true
   - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
     excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
     publishedDateTime: 2022-06-30T11:51:00Z

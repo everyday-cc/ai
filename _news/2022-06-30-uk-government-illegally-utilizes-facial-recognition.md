@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
-    excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
-    publishedDateTime: 2022-06-28T23:58:00Z
-    webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 39
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2018/02/The_Good_Guys_Wagga.jpg"
-        width: 1500
-        height: 1073
-        isCached: true
   - title: "BGHS graduate receives national recognition for artistic talent"
     excerpt: "Bowling Green High School graduate Sam Garvin’s talent as an artist has paid off, as he received national recognition for his art at the 2022 Scholastic Art & Writing Awards"
     publishedDateTime: 2022-07-03T04:15:00Z
@@ -54,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK should immediately ban use of live facial recognition, warns report"
-    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
-    publishedDateTime: 2022-06-28T23:13:00Z
-    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Marijuana, facial recognition, other laws take effect July 1"
     excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
     publishedDateTime: 2022-06-30T14:22:00Z

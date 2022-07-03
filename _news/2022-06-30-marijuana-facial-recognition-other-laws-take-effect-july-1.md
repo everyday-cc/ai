@@ -33,20 +33,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
-    excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
-    publishedDateTime: 2022-06-28T23:58:00Z
-    webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 39
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2018/02/The_Good_Guys_Wagga.jpg"
-        width: 1500
-        height: 1073
-        isCached: true
   - title: "BGHS graduate receives national recognition for artistic talent"
     excerpt: "Bowling Green High School graduate Sam Garvin’s talent as an artist has paid off, as he received national recognition for his art at the 2022 Scholastic Art & Writing Awards"
     publishedDateTime: 2022-07-03T04:15:00Z
@@ -61,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK should immediately ban use of live facial recognition, warns report"
-    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
-    publishedDateTime: 2022-06-28T23:13:00Z
-    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "OSIwEjcy+8c02iUui5p19a7uM2OxdS8M/eGgvoIvkEVm2roPWlRA6/sKR6G3Sh9eUGwApnEVq7/FIgeDge8EFkTdaVvSo3lQjHUilGBXef01CmONCGbjwJ57bS2q/xyzndfcXVH+B3VMi+hjqNbpWXfjGcnnG8l233wzGLp1gcb2T1Ju2IspOAoh6RklRwPViq3145IWt90/9UVmjzlcCAAA2jA6NdO8hJWYH29s807GH00DH7uKIi5LVxjlmcUG/UXdnwQtoaP4kNjlQc/MmWBfhyUfYBbIDPErLG7meriISxPizRdZuAxlUzsRYAmPC6W0oPEUeyImAVonhqPRxOumkoXo3jWiZF1wqtBaAc8xk6nTEXvEPWZfQoRV/1XA71uI3q/4YO/jlt2hSThrAVna50YWcAj382kQFCY1M/y2ixJVbXW2TGUYu9i1r/AhIM+ImOEJ2kBRVEhozN3DpWOpmPYbBjglS+flXwZ1HDeJylej6L8XjIwm9Z5ehZvhwEasW/cOF9BXgYoLXqPOsw==;6mbO6y/8wzW2IQRYUCwONA=="
 ---

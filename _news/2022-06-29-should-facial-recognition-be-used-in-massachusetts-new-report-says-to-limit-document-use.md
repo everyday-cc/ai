@@ -7,7 +7,7 @@ originalUrl: "https://www.wickedlocal.com/story/regional/massachusetts/2022/06/2
 webUrl: "https://www.wickedlocal.com/story/regional/massachusetts/2022/06/29/facial-recognition-use-commission-suggests-documenting-limiting-massachusetts-aclu-digital-fourth/9660776002/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Massachusetts Institute of Technology: Exploring emerging topics in artificial intelligence policy"
-    excerpt: "Members of the public sector, private sector, and academia convened for the second AI Policy Forum Symposium last month to explore critical directions and questions posed by artificial intelligence in our economies and societies."
-    publishedDateTime: 2022-06-29T00:09:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-exploring-emerging-topics-in-artificial-intelligence-policy/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-exploring-emerging-topics-in-artificial-intelligence-policy/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-exploring-emerging-topics-in-artificial-intelligence-policy/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 45
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "qyaJ0xFZ8l3AOfBdvySSqxCK/jO5YSlIcxKZeEw9rk61NDuUOriiV7kiXoNUmgwrIXmYqkH1V6UIu6xJK1iFyBG36UTg2K8subQmcT+IyX0688w3PoSIrpBflBr+TLQlfQyOZEM5HP1SlQVbBJUn7tEMA37KQv6d884BONt8iqki91PhLsjLid4fDgwS8cJyQolBrhLdorkriun0WF+MZgEV9DCc+Ssz7f8Lhm1z1DngkTZeLw7rIsZBZAkMdTIbBY7sx/hrdowWsbRYzDV848ETl2wELoVZM0yXuuz+l7U7xc0Y+qP/WBZgfkdNIOPNGZOX3EiBrhn4GdcwquOVgP5KZla0pwfGjm+Wgq7UmWY=;3EB0Dq2XifiTMHWMD35d4Q=="
 ---

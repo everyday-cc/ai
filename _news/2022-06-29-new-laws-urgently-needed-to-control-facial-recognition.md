@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
+    publishedDateTime: 2022-06-30T18:47:00Z
+    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
 
 secured: "Ea62mIMRx2wRM0E6Aw7q9C+LjhGxxfqG23yeHFnvriOcnGvvOmeIuUokuPiK12agHDk/d5aUODyKGSdjNRezeCS3VzC+ZBsqB8mk+Lee7rJWOe/CDDdOTvpEr0oeA6dRVU3D3fhtYChO5DPTmWpTFWQT2roqKFUs172vZtTJBKLR4RgjTy8LgSq/3djKHAC6Jyn+I4FSvdb/97RZGv7KU0luhKerHrQSvmEmkcl+5PGsNbZCVdNIzKyS3yREREAvg1FkPR0kNQArq+wfdQookGLrF11O9JgiJyXqFL+7TjB9JZFTgsf4DB7VTxhPpsxnGt03ZNzsk0whIs3gahZQsD2BZ+77Au7VBd/rJbGrQfoNklpq+lkUAwqqYSZC87+lZ1U1Bv7rLHUUi6fpi9jWegwNAm6BcgDTtYEKS1dX8DVsm409+avL9MgRI6UCCqz5EsectUejz+RC56j4bBFpZcCXbkMMOHCUraWy+xNYkxM8SYb1oSNRgWxtyyGXdoLl+zJZ7dDMrC/8SS79DSQQsw==;6i9OOH4HKz34q3eWyBAnXw=="
 ---

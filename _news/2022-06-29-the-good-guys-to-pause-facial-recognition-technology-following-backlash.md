@@ -32,20 +32,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
-  - title: "Woolworths denies using AI and facial recognition despite leak claiming otherwise"
-    excerpt: "Woolworths says the leaked internal training module detailing how it uses the controversial technologies to stop theft was a mistake."
-    publishedDateTime: 2022-06-29T00:49:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/woolworths-ai-and-facial-recognition/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 49
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2016/10/new-woolworths-store.jpg"
-        width: 681
-        height: 329
-        isCached: true
   - title: "Scrap police use of facial recognition"
     excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
     publishedDateTime: 2022-06-29T16:29:00Z
