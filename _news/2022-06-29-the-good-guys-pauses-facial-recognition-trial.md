@@ -39,22 +39,6 @@ related:
         width: 810
         height: 522
         isCached: true
-  - title: "Australian chain store pauses facial recognition trial"
-    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
-    publishedDateTime: 2022-06-28T06:53:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s750"
-        width: 750
-        height: 456
-        isCached: true
   - title: "Australian firm halts facial recognition trial over privacy fears"
     excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
     publishedDateTime: 2022-06-28T07:19:00Z

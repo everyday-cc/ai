@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/95147-brain-connected-robot-arms-ena
 webUrl: "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html"
 type: article
 quality: 84
-heat: 125
+heat: 124
 published: true
 
 provider:

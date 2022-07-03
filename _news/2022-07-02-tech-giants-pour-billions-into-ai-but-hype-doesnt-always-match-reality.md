@@ -28,8 +28,8 @@ images:
 related:
   - title: "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality"
     excerpt: "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations."
-    publishedDateTime: 2022-06-29T12:13:00Z
-    webUrl: "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_lista_pos4"
+    publishedDateTime: 2022-06-29T12:33:00Z
+    webUrl: "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4"
     ampWebUrl: "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394"
     type: article

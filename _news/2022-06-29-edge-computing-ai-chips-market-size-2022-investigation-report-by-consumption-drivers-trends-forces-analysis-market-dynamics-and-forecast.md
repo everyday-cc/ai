@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-
 webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-size-2022-investigation-report-by-consumption-drivers-trends-forces-analysis-market-dynamics-and-forecast-to-2028-2022-06-29"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,38 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning in Education Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028"
-    excerpt: "Machine Learning in Education Market 2022-2028 A New Market Study, Titled \"Machine Learning in Education Market"
-    publishedDateTime: 2022-06-28T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-education-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-28"
+  - title: "Machine Learning Operations Market Size, Share, Future Scope, Competitive Landscape, Latest Innovation and Forecast Report by 2028"
+    excerpt: "Machine Learning Operations (MLOps) is the process of taking an experimental Machine Learning model into a production system. The word is a compound of \"Machine Learning\" and the continuous development practice of DevOps in the software field."
+    publishedDateTime: 2022-06-29T19:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-6-29-machine-learning-operations-market-size-share-future-scope-competitive-landscape-latest-innovation-and-forecast-report-by-2028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-  - title: "Deep Learning Market Assessment 2022-2028: Industry Size, Share and Top Key Players"
-    excerpt: "The Global Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market ..."
-    publishedDateTime: 2022-06-30T13:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-assessment-2022-2028-industry-size-share-and-top-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Machine Learning Market 2022 Emerging Technologies, Global Growth, Share, Industry Size, Major Manufacturers, Regions, and Forecast to 2025"
-    excerpt: "Global “Machine Learning Market” research report includes market size estimates, consumer growth, revenue share"
-    publishedDateTime: 2022-06-29T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-emerging-technologies-global-growth-share-industry-size-major-manufacturers-regions-and-forecast-to-2025-2022-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "+Qvsrv36DdOoT37uK4p0Ei2Uv+Sv0NKSID7deJZA0M5cp3AceHjx9GECFboySXd2PKVkLnSrykOnejjdga5Dnu+4j8FdD2nzzXtnb2WL6Qz4GdgJKsSRNinpHemFy9XPpDq4CmInxQL9KcfRrg3yvZ//kqjLNTCs/BKzzSJaKzyomMN/4calPArh6Xdvhyy+9bddE/zRduu/+JF5WdishsOm8q2O7i+gCHhoLcXBsq4CVW2DGJPvMhqsRBs8M2S5EyVtmJWilBxfHyl/5+UheC/gtey0VgG4OdQTQvA7vreqQY+xPoSG4zZKH58UOSSxfjur+dO/Zxbrwb7vidZARtIp4awfzFLWbnnjp1BwKy0=;VbG/nVf+uhWqxfoPg/jDDg=="
 ---

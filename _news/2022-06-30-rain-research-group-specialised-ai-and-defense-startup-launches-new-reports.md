@@ -1,28 +1,26 @@
 ---
 category: news
 title: "RAIN RESEARCH GROUP - SPECIALISED AI AND DEFENSE STARTUP LAUNCHES NEW REPORTS"
-excerpt: "RAIN Research Group, an international research firm, released specialised research and analysis in the defense and artificial intelligence sector. Norine MacDonald QC,"
-publishedDateTime: 2022-06-30T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/rain-research-group---specialised-ai-and-defense-startup-launches-new-reports/article_f0da1ffc-316a-53d3-8010-57cfa6dd2643.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/rain-research-group---specialised-ai-and-defense-startup-launches-new-reports/article_f0da1ffc-316a-53d3-8010-57cfa6dd2643.html"
+excerpt: "RAIN Research Group, an international research firm, released specialised research and analysis in the defense and artificial intelligence sector. Norine MacDonald QC, the firm's founding President: 'We have launched reports that offer unprecedented insights for startups,"
+publishedDateTime: 2022-06-30T13:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446"
+webUrl: "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "EOxMT9IVNfL1jjKv/LcKMV09aKcbpeoTco+F1sagzbYPB3Zrza14bnj5DQyaKTeX6JvCVHMcF9bUq7BgyFDov0eqmt9V2jtIwFS8Wq7gb96MhefiZSAmnnhN9XiLroge92lJ4eK+KEqPWFA+e8FoESSvXD9ER3/8otHvziFgE01iNoNSxk0StFt6f8GApA434ghio9mNXButyLFld7LW8trnXj6Q6P/qspxtwvtmg6SO+NCqcKoAsNNkskWVukNjcUkJhN+XU2GhmO1QsRHKBmvB/b+jdnp+BA1xgJvuAShZ+dIobu62xPlZDsxZmIFprFcPTOA7rwbU2wCnhhQGbjlDdw/e5U400h0gj55hH2o=;Jol+SQUt2Cw9Lz+vkqlarw=="
+secured: "TSYvitgwu8FuRj6c/63OqW1L4/KnkJtHbwgq79aFyMKd/CaqxJqhK4JX4AMY5n97hpfSwH714Q8POVoCCVRJvSegIEBa+J6D1mnuhq4mJRDcAQTJ6rZacczePkh+MWYc++inzJRTNbMuFlUPPDIXeyl74kIaNQz9jyTeDNE3m2dXFvE2xr7liPCeBdZ2Bzh1c6JC1x2nbr06RQNuEYuerFX3/9i8Qc/7KZsAhplznuKy574eVkPq/be+1Q8U//n/NHfrV41BiI57buEhrIoVkwS7Z4f6oXUibBf2qfoBvlw93n8+4HBjidwwHlKSCoOiNk9yBf1UNcCReyQQ91X4FCdlSGKEnJI62RF0hefMeEA=;xXdxMrtXUTkSGb5k0Ng1RQ=="
 ---
 

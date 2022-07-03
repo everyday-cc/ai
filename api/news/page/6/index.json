@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-06-25-the-smartest-way-to-play-the-autonomous-vehicle-boom.md",
-      "title": "The Smartest Way to Play the Autonomous Vehicle Boom",
-      "excerpt": "Breuer “invented” the concept of self-driving cars. At the time, it was considered a wild concept from a zany novelist. But over the following century, Breuer’s concept of autonomy inspired ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
-      "originalUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2022/02/electric-autonomous-vehicles-city.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-25-on-crm-viva-adds-to-microsofts-organized-chaos-of-apps.md",
       "title": "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps",
       "excerpt": "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365.",
@@ -1127,6 +1084,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-aws-sent-a-snowcone-to-space.md",
+      "title": "AWS sent a Snowcone to space",
+      "excerpt": "At its re:Mars conference, Amazon today announced that it quietly sent one of its AWS Snowcone edge computing and storage devices into space on the Axiom mission to the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/",
+      "originalUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image002.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/amp/",
+      "publishedDateTime": "2022-06-23T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-06-23-how-babies-can-unlock-the-next-generation-of-artificial-intelligence.md",
-      "title": "How babies can unlock the next generation of artificial intelligence",
-      "excerpt": "“These exciting developments have been achieved thanks to machine learning, which uses enormous datasets to train artificial neural network models. However, progress is stalling in many areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/business/technology/how-babies-can-unlock-the-next-generation-of-artificial-intelligence-41780694.html",
-      "originalUrl": "https://www.independent.ie/business/technology/how-babies-can-unlock-the-next-generation-of-artificial-intelligence-41780694.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.ie/business/technology/9a979/41780692.ece/AUTOCROP/w1240h700/Businesswoman%20creating%20artificial%20intelligence%20in%20a%20digital%20brain%203D%20rendering",
-          "width": 1240,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.md",
       "title": "AI adoption to add $500 billion to India's GDP by 2025: Nasscom",
       "excerpt": "The AI adoption in four key sectors -- BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60% of the total $ 500 billion opportunity ...",
@@ -1147,6 +1104,58 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-how-ai-creates-photorealistic-images-from-text.md",
+      "title": "How AI creates photorealistic images from text",
+      "excerpt": "Have you ever seen a puppy in a nest emerging from a cracked egg? What about a photo that’s overlooking a steampunk city with airships? Or a picture of two robots having a romantic evening at the movies? These might sound far-fetched, but a novel type of machine learning technology called text-to-image",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
+      "originalUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Final_Hero_Image_Imagen_Parti.max-1300x1300.png",
+          "width": 1300,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
+      "publishedDateTime": "2022-06-22T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

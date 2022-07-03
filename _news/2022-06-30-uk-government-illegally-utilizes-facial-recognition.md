@@ -7,7 +7,7 @@ originalUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-governmen
 webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,77 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Taliban seek international recognition after men-only gathering"
-    excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."
-    publishedDateTime: 2022-07-02T20:51:00Z
-    webUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/"
-    ampWebUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
+  - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
+    excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
+    publishedDateTime: 2022-06-28T23:58:00Z
+    webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 39
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/GATHERING-e1656794769236.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2018/02/The_Good_Guys_Wagga.jpg"
+        width: 1500
+        height: 1073
         isCached: true
-  - title: "Afghan clerics' assembly urges recognition of Taliban government"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-    publishedDateTime: 2022-07-02T15:24:00Z
-    webUrl: "https://english.ahram.org.eg/NewsContent/2/9/470973/World/International/Afghan-clerics;-assembly-urges-recognition-of-Tali.aspx"
+  - title: "UK should immediately ban use of live facial recognition, warns report"
+    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
+    publishedDateTime: 2022-06-28T23:13:00Z
+    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
     type: article
     provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 24
-    images:
-      - url: "https://english.ahram.org.eg/Media/News/2022/7/2/41_2022-637923784708567229-856.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Afghan clerics’ assembly urges recognition of Taliban govt"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-    publishedDateTime: 2022-07-02T15:56:00Z
-    webUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "Marijuana, facial recognition, other laws take effect July 1"
+    excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
+    publishedDateTime: 2022-06-30T14:22:00Z
+    webUrl: "https://www.chron.com/news/article/Marijuana-facial-recognition-other-laws-take-17276652.php"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-  - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
-    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
-    publishedDateTime: 2022-07-02T13:40:00Z
-    webUrl: "https://www.ibtimes.com/talibans-large-gathering-ends-calls-international-recognition-3560043"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 4
-  - title: "Taliban's large gathering ends with calls for international recognition"
-    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
-    publishedDateTime: 2022-07-02T19:55:00Z
-    webUrl: "https://www.investing.com/news/world-news/talibans-large-gathering-ends-with-calls-for-international-recognition-2843424"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 4
-  - title: "Without participation of political figures in jirga, formal recognition of Taliban not possible: Afghan ex-politicians"
-    excerpt: "Criticising Afghanistan national assembly, former politicians said that without the participation of political figures at such gatherings, the formal recognit"
-    publishedDateTime: 2022-07-01T20:55:00Z
-    webUrl: "https://www.malaysiasun.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1656709393.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "H7AdB3dEprZ6Wl0dI+gnILLEFlKsF2ABBtR0POAVu7PB5T+JFSqrnloiLikWQcyJT20Zizr+pH9wqoOTSXQKsxEg9aOVOyN4BBFcDRW8cJCyIxvyN4trdDtAUnpdWBtrDn3g/pWc+4UWFhma68Sp20+/A4HdG+WG5tJtb8ZT506cFtVgN0PxFPRtOdL4WbNYChP0mfc7oNliBdf/VbUc8OdiQ7tZH9G+rjKvGt63s+XhNcu3nI8PCW7cohcoCmTG3u2/RpdNgosci7pRbZr7XGW5lwxQ/pmD65RGzGaJ82MVkVXRu0vMRY12WvePiTW3csK9apFSveAtNyTOhlFKggSU2JIktlEBYe9qxOXSRnCRuK4TC0fGpLY1G7vCPSQMOtGE+PIia4F0DMEeAKhd+WPR0MtAhrmyXFjktgdy1mhOWv9YfgqmaMo6MSMzHWoJzQ9xl3rIH3o6uL93i2b41c9f2/1AtvwXghWHLJEGAEfCxfEhksuQuoRB/pEsNqXKULFqNg6aVaPCfhDOLZzH1g==;n3W6YmA0I0J88YuS5UDjgQ=="
 ---

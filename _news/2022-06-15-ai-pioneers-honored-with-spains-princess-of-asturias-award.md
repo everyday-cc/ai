@@ -1,24 +1,26 @@
 ---
 category: news
-title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
+title: "AI pioneers honored with Spain's Princess of Asturias Award"
 excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
-publishedDateTime: 2022-06-15T12:05:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+publishedDateTime: 2022-06-15T12:11:00Z
+originalUrl: "https://www.startribune.com/ai-pioneers-honored-with-spains-princess-of-asturias-award/600182264/"
+webUrl: "https://www.startribune.com/ai-pioneers-honored-with-spains-princess-of-asturias-award/600182264/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Google AI
   - AI
 
-secured: "LCKDlrih300j/FMdWFtInuqXgJLWUkJaUzANHtD8FYj8ac/ApK/JTfxVHW4nuousNz2Zf/f1WCXtDuIlG89crN3qt7G9alCPbVQzyxveNUfJBCaZd7GV2ML4C2jTcEHRz7wX4RlvlFc22vRsfAq9doTyOYX1XQJeUzVlcmlDKcSM3iBwBKm6QVY8VGZFGvhH54E2MbscfcbPvPYEmMmQo7LNfo5yDe2Sn5JzcWfHLVkgD7rh30DuwEbE8kCFtjpJ0+ptv+E0MxiM48yA3MT6vNZgPUFiVZIYPGeT3Jfw3gkTH55NoDC7fOBFr/RCZWYhp7JTGAjaQZNwpdqtryCX/P7Dkzp9o+8y5riEplq3Ptc=;F+qzl2hinNf0BknrAAGzpQ=="
+images:
+  - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1656676840"
+    width: 1680
+    height: 876
+    isCached: true
+
+secured: "ICwCLz69fmYwE2QuhZU/YdpKy80PaH+BOccgVqL6GjGD8uS172KSXx1xz9L+3pMTjdNsKMWt0vR82h7KP4FoUw55xk+zAe8REByJ7ForB7dCd53XZbyPZEXNQcBzNcS0Iq56xltX/ZPGIVMIur5Wgc8OWaE+1VfEApuSyCLNX6qvwhj0On5RUnp60CUVD/o6delvVispYz+bSVNMCIUA3qOxl7OHbkTiuBgWpBs8ceFk5WnEzy6SVmqzBOqWrrFhFY28DirNuiogeocG+tJ/6n+3fZmwakTtGad177Tf+4859Cs6u3CkcFURV4rXpEFkJsVtRce9sKy35mCL2OgeIYqOZLKiHWM3W/uOPP/S+N0=;8lTB4AgBFWY2dOydLZcb+g=="
 ---
 
