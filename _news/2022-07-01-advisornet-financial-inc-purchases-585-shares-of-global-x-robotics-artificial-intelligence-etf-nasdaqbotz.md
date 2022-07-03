@@ -37,6 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 37
+  - title: "AdvisorNet Financial Inc Sells 845 Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
+    excerpt: "AdvisorNet Financial Inc lowered its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 44.2% during the first quarter, HoldingsChannel.com reports. The fund owned 1,"
+    publishedDateTime: 2022-07-03T08:54:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/03/advisornet-financial-inc-sells-845-shares-of-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 30
   - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
     excerpt: "Wealthcare Advisory Partners LLC lowered its position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the 1st quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-06-30T09:06:00Z

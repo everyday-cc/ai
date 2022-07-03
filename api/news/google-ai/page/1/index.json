@@ -404,35 +404,35 @@
     },
     {
       "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
-      "title": "AI Pioneers Honored With Spain’s Princess of Asturias Award",
-      "excerpt": "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ...",
+      "title": "AI pioneers honored with Spain’s Princess of Asturias Award",
+      "excerpt": "A Spanish foundation has recognized four scientists for their pioneering work in artificial intelligence. The four were named recipients on Wednesday of the 2022 Princess of Asturias Award for Technic",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award",
+      "webUrl": "https://azdailysun.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_a33a34bf-e6a9-5690-9697-007e77787c69.html",
+      "originalUrl": "https://azdailysun.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_a33a34bf-e6a9-5690-9697-007e77787c69.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/custom/image/265abe26-0cb1-11ea-b986-9b408788062f.jpg?resize=600%2C343",
+          "width": 600,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T05:05:00-07:00",
+      "publishedDateTime": "2022-06-15T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Arizona Daily Sun",
+        "domain": "azdailysun.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

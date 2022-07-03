@@ -23,34 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Semantic segmentation data labeling and model training using Amazon SageMaker"
-    excerpt: "In computer vision, semantic segmentation is the task of classifying every pixel in an image with a class from a known set of labels such that pixels with the same label share certain characteristics. It generates a segmentation mask of the input images. For example, the following images show a segmentation"
-    publishedDateTime: 2022-06-28T16:22:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/semantic-segmentation-data-labeling-and-model-training-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/28/semantic-segmentation-sagemaker.jpg"
-        width: 1996
-        height: 998
-        isCached: true
-  - title: "Deep demand forecasting with Amazon SageMaker"
-    excerpt: "Every business needs the ability to predict the future accurately in order to make better decisions and give the company a competitive advantage. With historical data, businesses can understand trends, make predictions of what might happen and when, and incorporate that information into their future"
-    publishedDateTime: 2022-06-28T16:12:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deep-demand-forecasting-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/20/Demandforecast-V2.png"
-        width: 895
-        height: 314
-        isCached: true
   - title: "Use a custom image to bring your own development environment to RStudio on Amazon SageMaker"
     excerpt: "RStudio on Amazon SageMaker is the industry’s first fully managed RStudio Workbench in cloud. You can quickly launch the familiar RStudio integrated development environment (IDE), and dial up and down the underlying compute resources without interrupting your work, making it easy to build machine learning"
     publishedDateTime: 2022-06-29T22:04:49Z
@@ -74,15 +46,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 60
-  - title: "New built-in Amazon SageMaker algorithms for tabular data modeling: LightGBM, CatBoost, AutoGluon-Tabular, and TabTransformer"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2022-06-28T18:13:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-built-in-amazon-sagemaker-algorithms-for-tabular-data-modeling-lightgbm-catboost-autogluon-tabular-and-tabtransformer/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 42
 
 secured: "pN9IbFebUtsb7wttGAJ6vxx9oXDGSYljUagO1zz9wYcZcSXnflt/MtFd+KWd1CCaCLMzYHQJ/2MOe2KWfGMtA3422CjGdiZhlt+SSU5kyzE0z+iA7gyxkBkg0J08m9ZpWwonQ7slqazJYghyKncLnMSXCbAwnXE5MT2cyK+akCrosp3SEjF43kLruLaIJqjWFTiPSg7nZ3pmP2i+t9krhI1pN1kzrHFgusOFNga02uVrPxOC+/wt3wZof5Ws78scT8Ddj0KqjG10NJQn15lrYb/hl+OdGy/OZuq9hBzZ+HgeIMebqttWHvdzG/TxV1abtgKmPS2gWje8Mm7yxCsq9Iaf/chBOdfUrOugbKE555E=;ZjICxl1CfaKfK19i5MWi4A=="
 ---

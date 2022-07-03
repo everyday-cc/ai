@@ -19,36 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "UK decides AI still cannot patent inventions"
-    excerpt: "The UK's Intellectual Property Office has decided artificial-intelligence systems cannot patent inventions for the time being. Patents assign the ownership of a new invention to its creator. A recent IPO consultation found many experts doubted AI was currently able to invent without human assistance."
-    publishedDateTime: 2022-06-28T16:32:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-61896180.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-61896180.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61896180.amp"
+  - title: "Edge Computing AI Chips Market Size 2022 Investigation Report by Consumption, Drivers, Trends, Forces Analysis, Market Dynamics and Forecast to 2028"
+    excerpt: "Jun 29, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge Computing AI Chips"
+    publishedDateTime: 2022-06-29T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-size-2022-investigation-report-by-consumption-drivers-trends-forces-analysis-market-dynamics-and-forecast-to-2028-2022-06-29"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1730A/production/_120668949_gettyimages-640351119.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Brits say that AI cannot invent stuff yet"
-    excerpt: "A recent IPO consultation found many experts doubted AI was currently able to invent without human assistance. Current law allowed humans to patent inventions made with AI assistance, the government said, despite \"misperceptions\" this was not the case."
-    publishedDateTime: 2022-06-29T09:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55067-brits-say-that-ai-cannot-invent-stuff-yet"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Machine Learning Operations Market Size, Share, Future Scope, Competitive Landscape, Latest Innovation and Forecast Report by 2028"
+    excerpt: "Machine Learning Operations (MLOps) is the process of taking an experimental Machine Learning model into a production system. The word is a compound of \"Machine Learning\" and the continuous development practice of DevOps in the software field."
+    publishedDateTime: 2022-06-29T19:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-6-29-machine-learning-operations-market-size-share-future-scope-competitive-landscape-latest-innovation-and-forecast-report-by-2028"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/50af9d48f260bb6779ef3fa155f106d8_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "tYtW/pDT0gdCil73/qbQNoxmj82MYjFEuA1d5sVXkRLAIbe+27oySuHXW0jIhWBHULsGX0MOsHpzhDcx/NHHSaq1deJqikKaz0IfgCNUoFKGSgZT1uLdOBFFQOxN82CC6dqDNvH7zvlGQYleCT+PHgcIlNTnokTEdzRIjtnVdyCj/KQUVILhgx6ZmsBNUg+tS2ctENstoPMz7Kj++G7CE9tepyUZkZNLx02/wxuur3Rsi3BQq9YJwTfnLcEmrube3YXG4RomMDTWWcqcynBi6MJpmIFEsvaZGtW8nPxSCQNeyobHhiR4hkYWsPlVJ249HA8nxHtp9y6hU7Cq2Iz6l4s7QunK4LCvIt9m4CGp+dM=;PJN6rqu7SFdDSQ7yYjtzsg=="
 ---

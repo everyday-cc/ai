@@ -28,6 +28,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 41
+  - title: "AdvisorNet Financial Inc Sells 845 Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
+    excerpt: "AdvisorNet Financial Inc lowered its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 44.2% during the first quarter, HoldingsChannel.com reports. The fund owned 1,"
+    publishedDateTime: 2022-07-03T08:54:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/03/advisornet-financial-inc-sells-845-shares-of-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 30
   - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
     excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
     publishedDateTime: 2022-07-01T09:04:00Z

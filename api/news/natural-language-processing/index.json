@@ -210,49 +210,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-30-speechmatics-raises-62m-as-ai-speech-to-text-progress-delights-investors.md",
-      "title": "Speechmatics raises $62m as AI speech-to-text progress delights investors",
-      "excerpt": "Speech-to-text leaders Speechmatics has raised $62m in Series B funding as the scaleup moves closer to its goal – a platform which understands every human voice in any language with human-level accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridgeindependent.co.uk/business/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/",
-      "originalUrl": "https://www.cambridgeindependent.co.uk/business/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridgeindependent.co.uk/_media/img/09PX553QDLF67JDO3K26.jpg",
-          "width": 986,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/",
-      "cdnAmpWebUrl": "https://www-cambridgeindependent-co-uk.cdn.ampproject.org/c/s/www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/",
-      "publishedDateTime": "2022-06-30T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cambridgeindependent",
-        "domain": "cambridgeindependent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
       "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
       "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
@@ -1431,6 +1388,58 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-how-an-nlp-pioneers-new-company-is-evolving-conversational-ai.md",
+      "title": "How an NLP pioneer’s new company is evolving conversational AI",
+      "excerpt": "Xembly aims to help business people to better organize and schedule their work lives, with an automated NLP-powered AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/",
+      "publishedDateTime": "2022-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

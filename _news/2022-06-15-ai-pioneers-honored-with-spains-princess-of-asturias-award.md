@@ -1,24 +1,26 @@
 ---
 category: news
-title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
-excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
-publishedDateTime: 2022-06-15T12:05:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+title: "AI pioneers honored with Spain’s Princess of Asturias Award"
+excerpt: "A Spanish foundation has recognized four scientists for their pioneering work in artificial intelligence. The four were named recipients on Wednesday of the 2022 Princess of Asturias Award for Technic"
+publishedDateTime: 2022-06-15T12:00:00Z
+originalUrl: "https://azdailysun.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_a33a34bf-e6a9-5690-9697-007e77787c69.html"
+webUrl: "https://azdailysun.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_a33a34bf-e6a9-5690-9697-007e77787c69.html"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Arizona Daily Sun
+  domain: azdailysun.com
 
 topics:
   - Google AI
   - AI
 
-secured: "8X+5iCdCMqnoNKkTb/m8/9XpzDZVSgRIkhJhRVcdV8ezHuE0bm4ip/stNE0Dk+yj7NWOv9EHYZQyAR+Pj9j7GqDRIgj36vwXOtC/LXptWmcYFg+bD60p8CxbtbzimJUAzZOuQDNnh1qF8HzK5Jrp38qgf6bBv3P+M1j2oHkGDSSvu8puoN5EJwGYOlS5pXQXQB4Qfy1xa/5wj2uyPG7hagd+hXO+t2SLKQ0rHbZLjSAFQL9JW+Vxg0wu/BXF5bh4lNE+gsRIoMvS3Fx/7WdkAHGxJzkXhjRLJGk/4ngl177hQHEDUZfgfOqr75TroJfSBVXkGHMvUSnTop+9Cz1z3R49c854tfStK5Cqw0VmNnI=;cYGMrz5k70fh9Jak+BfPcg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/custom/image/265abe26-0cb1-11ea-b986-9b408788062f.jpg?resize=600%2C343"
+    width: 600
+    height: 343
+    isCached: true
+
+secured: "Ue8YegnE576VAnUpl6nsjHFio2XPIVTDIs4jOes+x74ibvnokAQBW1zbycNS15ZD307yxMPLG9GfwSsBsFQnLxSWMN6IPLyG1JNNy06yhYxCPXY1LKZr8BSGQyyFr6JIhcoQagMuXN9WpjFFE5q589ztiAwYb1ZZ9TisSVBzN/6tUVV2h3CGxSE1sqBLRsBn6z3yycRkF/VZ0EvaH1NW7w5lR2wgd2BAsqF1xejAfdh+zSNruLSNFEAWN+HPj3YjcOZQxZ69RFfsf9lR+vUH5MomOPpY5YKpTAeQSRPwIVJFV0g8+p+7vsFT1LTYmp7WMgvyQ4c/9mGxHQd5ULxNHzlEOfNhX/MnVujYMp+wagg=;laWd7SHvcZWLwc9/HQvuAA=="
 ---
 

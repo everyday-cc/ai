@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to predict hip surgery outcomes"
-    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose diseases in early stages. Now it’s newest use can give patients more control over their surgery outcomes."
-    publishedDateTime: 2022-06-28T16:11:00Z
-    webUrl: "https://www.winknews.com/2022/06/28/using-ai-to-predict-hip-surgery-outcomes/"
-    type: article
-    provider:
-      name: WINK NEWS
-      domain: winknews.com
-    quality: 37
-    images:
-      - url: "https://cdn.winknews.com/wp-content/uploads/2022/06/Capture76-1.png"
-        width: 1901
-        height: 1066
-        isCached: true
   - title: "How Can Governments Use AI to Improve Procurement?"
     excerpt: "Government agencies have experimented with AI to improve the procurement process.  The IBM Center for the Business of Government has released four lessons learned from these innovative efforts, which can help guide agencies,"
     publishedDateTime: 2022-06-30T04:09:00Z

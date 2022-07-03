@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Xi’s speech hailed for drawing blueprint for Hong Kong’s brighter future"
-    excerpt: "Entornointeligente.com / President Xi Jinping addresses a grand meeting held to celebrate the 25th anniversary of Hong Kong’s return to the motherland and the inaugural ceremony of the sixth-term government of the Hong Kong Special Administrative Region at the Hong Kong Convention and Exhibition Center on July 1,"
-    publishedDateTime: 2022-07-03T07:51:00Z
-    webUrl: "https://www.entornointeligente.com/xis-speech-hailed-for-drawing-blueprint-for-hong-kongs-brighter-future-2/"
+  - title: "Xi's speech hailed for drawing blueprint for Hong Kong's brighter future"
+    excerpt: "President Xi Jinping on Friday made an address at the meeting celebrating the 25th anniversary of Hong Kong's return to the motherland and the inaugural ceremony of the sixth-term government of the Hong Kong Special Administrative Region."
+    publishedDateTime: 2022-07-03T06:00:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202207/03/WS62c125b1a310fd2b29e6a069.html"
     type: article
     provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
+      name: 中国日报网
+      domain: chinadaily.com.cn
     quality: 38
     images:
-      - url: "https://smart-reputation.com/wp-content/uploads/2018/09/logo_smart_transparente.png"
-        width: 402
-        height: 287
+      - url: "http://img2.chinadaily.com.cn/images/202207/03/62c125b1a310fd2bec93c7c3.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Shares in Chinese AI firm SenseTime dive as much as 51% in Hong Kong after lockup expires"
     excerpt: "It dropped to trade as low as HK$2.91 apiece, lowest ever and below its IPO price of HK$3.85. Read more at straitstimes.com."

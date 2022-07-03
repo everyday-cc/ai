@@ -57,6 +57,22 @@ related:
         width: 1361
         height: 1021
         isCached: true
+  - title: "Decoding India’s Fintech Future: Five Takeaways From Fintech Summit 2022"
+    excerpt: "At Inc42’s Fintech Summit 2022, startups, investors and other stakeholders came together to chart a course for the future of fintech in India"
+    publishedDateTime: 2022-07-03T02:30:00Z
+    webUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/"
+    ampWebUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 43
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/Social-5.png"
+        width: 1201
+        height: 629
+        isCached: true
   - title: "How Artificial Intelligence is Shaping the Future of the Fintech Industry"
     excerpt: "Managers who work in the financial area, and UK-resident banks or investment companies, should always look for an optimal approach to customers, processes, and data. Embracing AI technologies may come in handy here."
     publishedDateTime: 2022-06-29T14:43:00Z

@@ -28,6 +28,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
+  - title: "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications"
+    excerpt: "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications."
+    publishedDateTime: 2022-06-29T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "c2hD04B2jtyLkoqct2jrOkqbrBQXR5d+NaqDSD0K76IaCeT0TC14vwRSAgMgJULym3kW7w7d4sVXDp28xCX90lzW4niUlQ2E3D+wzVLy/d5XzVcSNP5nmxf7eIV0qSuzEcqZ2otbHjF0yD3azRO/cBZeiG5Hd0jVzbKx1hS73HIeYbqHAQ5MtYYShMHyOzLqJ3fvvvQ44jTA9PkZ/omd8ZeRjMX+L3ge0w8VO6qyL4K46VjhDWT1jtwyOuVlbkqxbNpNuGL4lktpdPTgyWxzxGZ3mUy4Jt9W11ZxSL9iqXdzkgnPJA1omIObuaRI/OK9c8u+235gHN5FLC0WgiIWxHBrgcbD9QEwyM2Bz0rQl4M=;uypa6e93QxQtfZrn0X6bRA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.tvbeurope.com/live-production/canon-aims-to-transform-
 webUrl: "https://www.tvbeurope.com/live-production/canon-aims-to-transform-live-sports-with-help-from-amds-versal-ai-core"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2560
     height: 1337
     isCached: true
-
-related:
-  - title: "AMD Versal AI Core To Power Canon Free Viewpoint Video System"
-    excerpt: "AMD will provide Canon with its Versal AI Core series, which leverages AMD AI Engine technology, for the Canon Free Viewpoint Video System which is expected to transform live sports broadcast and webcast viewing."
-    publishedDateTime: 2022-06-28T15:25:00Z
-    webUrl: "https://www.tvtechnology.com/news/amd-versal-ai-core-to-power-canon-free-viewpoint-video-system"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/fQdeGV5uLXjoaQkXARaCcP-1200-80.jpg"
-        width: 563
-        height: 316
-        isCached: true
 
 secured: "7mqFmokx1ZWfxqzgKGubCPIt7w9kS7gqYUOk1PaJQuwhK6cMcNnhG244jk4l7v6BNoH9p1vUJKPInAnQ1na1DHAVMpcYP/RSdSq/SyWWqvnKJd2JqhXDsBBxXRwP6lTyoEOiS5xUlRSXz2J5KiuricRE2+HKx00VhMLTbNpAwwp+0MN7dlujy9lViggeezfXEp3ItQLeLBOaK15hTjUkgKI+EWMaFf1IYCcx8Oz+0P3QlOg9GT0vjhqwCs0tOtoCC3EyRLuZYZATO5B2y9P9rDGs6QhpUm6uPV9P86+z1R3lXyKdm6hUnP9pFTEqCIPzsPhIUilUJPp5eenSDddf2FPwjjCB+SGSnMR+TKfzXATcoTof961smeVwExfupJ96WBSecD6mZdPYgMGUn/Od7NNPSpwJ3SBqukA+flBheEMEfrJiP2ov5MhURLalkzi9pjLj0YqQJbGZ/0YEh1crTc6l5BO3a+oHOBJC47UKrXgWDhGWyWPIa9KVb2nxVn2vZLGvycEf8+rJqpHBoAMz6A==;NS1fSKk4v6VaBLxcrejOQw=="
 ---

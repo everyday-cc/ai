@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/07/It-is-important-for-fintech-players-to-talk-to-the-regulators-educate-them-interact-with-them-and-create-a-regulatory-system_feature.jpg"
         width: 1361
         height: 1021
+        isCached: true
+  - title: "Decoding India’s Fintech Future: Five Takeaways From Fintech Summit 2022"
+    excerpt: "At Inc42’s Fintech Summit 2022, startups, investors and other stakeholders came together to chart a course for the future of fintech in India"
+    publishedDateTime: 2022-07-03T02:30:00Z
+    webUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/"
+    ampWebUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 43
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/Social-5.png"
+        width: 1201
+        height: 629
         isCached: true
   - title: "AI in FinTech Industry Analysis By The Business Research Company"
     excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"

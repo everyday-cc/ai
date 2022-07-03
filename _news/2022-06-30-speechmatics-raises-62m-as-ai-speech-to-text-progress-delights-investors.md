@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cambridgeindependent.co.uk/business/amp/speechmatics-rai
 cdnAmpWebUrl: "https://www-cambridgeindependent-co-uk.cdn.ampproject.org/c/s/www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: cambridgeindependent
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speechmatics to extend voice biometrics, speech recognition accuracy with $62M funding round"
-    excerpt: "Speechmatics raises $62 million in a Series B funding round led by Susquehanna Growth Equity with participation from existing investors AlbionVC and IQ Capital."
-    publishedDateTime: 2022-06-28T16:02:00Z
-    webUrl: "https://www.biometricupdate.com/202206/speechmatics-to-extend-voice-biometrics-speech-recognition-accuracy-with-62m-funding-round"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
-        width: 940
-        height: 500
-        isCached: true
   - title: "Speech Analyst Speechmatics Raises $62m"
     excerpt: "British-based automated speech recognition platform Speechmatics has raised $62m in a Series B round of funding which it will use to support expansion across the US and Asia-Pacific, and to improve infrastructure - particularly the capacity of it data centre."
     publishedDateTime: 2022-06-30T17:48:00Z

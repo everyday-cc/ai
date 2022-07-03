@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Brings Back Enhanced Autopilot at Half the Cost of Full Self-Driving"
-    excerpt: "Enhanced Autopilot offers a middle ground between Autopilot and Full Self-Driving, with additional highway and parking assist features for $6,000."
-    publishedDateTime: 2022-06-28T15:32:00Z
-    webUrl: "https://www.cars.com/articles/tesla-brings-back-enhanced-autopilot-at-half-the-cost-of-full-self-driving-451181/"
-    ampWebUrl: "https://www.cars.com/amp/articles/tesla-brings-back-enhanced-autopilot-at-half-the-cost-of-full-self-driving-451181/"
-    cdnAmpWebUrl: "https://www-cars-com.cdn.ampproject.org/c/s/www.cars.com/amp/articles/tesla-brings-back-enhanced-autopilot-at-half-the-cost-of-full-self-driving-451181/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 57
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2022-01-dynamic-exterior-profile-sedan-white-scaled.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "c9BjPJBG2+HDdEVrgJEWlkfhlYwK/W/ubRy7v0rNACB9KxU/ZuFqwqOKx6Nu96CwbysXQlqrj9aoYkOX1Njwad0gs9PdwshSBSdCf1hz1pImaRxsp0obJ644Ylre7zwNS5eoLSTPCfExUz6rlGT+4Qb59YxCtS8KHEpGjtcFYXhKmt0JZ9275Nq2Wg3z09wad/+2L+seWuIIZKHqO0lJnJECV74ntJF3mxCY5A7zXqASjxhzW8FOic40Pm0brbsYYN4MwBWfYlyKzOyX3Z4I0ZzDY7GWW+zwtku/mW4DUcWL6PbhB84+zHbiu7OACoQujnpuj4xZEoRSbmPoU8wZAjh2OPrMZTacrabLfbEv8+s=;x+7eNIryAU7FD/+9SCTmxA=="
 ---

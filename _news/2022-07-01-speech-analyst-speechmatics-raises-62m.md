@@ -35,20 +35,6 @@ related:
         width: 986
         height: 677
         isCached: true
-  - title: "Speechmatics to extend voice biometrics, speech recognition accuracy with $62M funding round"
-    excerpt: "Speechmatics raises $62 million in a Series B funding round led by Susquehanna Growth Equity with participation from existing investors AlbionVC and IQ Capital."
-    publishedDateTime: 2022-06-28T16:02:00Z
-    webUrl: "https://www.biometricupdate.com/202206/speechmatics-to-extend-voice-biometrics-speech-recognition-accuracy-with-62m-funding-round"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
-        width: 940
-        height: 500
-        isCached: true
 
 secured: "ale1ZDqax3bwDBEAtDIcQwWWmgWqVjF+NdTm+Eo+7H8Ns9U1B0SkdqiwBTgI93M+6EcYkkpK9ELzmMNVwbsc89P6krFEV0ZDK19oaQe4yrcOWXHEVHyTjYCrIBPPNZhSsUNuPdnGEKfe5A90ZhqUapUeKbM8sIBop03MUb5L8obXhy1sWL15eZ0ZcNW6BG/0+yhMqu3c5hLtknBglKlc303wW63kZ6oPt6ajuAffkfPu/JXQ0/ba14AR7/hIdaRMpuQLCym1jW/iNCCYNSMyTn7jejiXPjzFcpFw0tioexky+qShxZJ01a+5M3/mmKhV7HrQUWIDvVCr66Jlz6qYpd4nhATPssQsj0c/JDxRxJS14fc1uQ+0pAhgfO2GmjSMBpZUOe5h52BRHOWIoIQB/6VYZs4DwVHHHCTYMwj0Hp4TWVhIRtDaUM6ani2Y2s6GmXJx9cu/xqriqxYcW65T6bkfUI6/yIp/8oaBkasvKnom70A39q/lqtfEQS4cp9IKohTfI/8yMltvcNZTZwfD4Q==;Jj/MDWsa+HXXyh0EiG9UNw=="
 ---

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
-excerpt: "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022"
-publishedDateTime: 2022-07-01T21:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264"
-webUrl: "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264"
+excerpt: "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ..."
+publishedDateTime: 2022-07-01T22:28:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 type: article
-quality: 41
-heat: 41
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - Computer Vision
@@ -28,6 +24,6 @@ images:
     height: 233
     isCached: true
 
-secured: "So0cyxRkFxFLyYBJpZpLZRaJ22nfXOYcUeiGbp3MwOyQ3sukDPc9OuXQ2Wk7BvHpSscM7V2vGdWRyCsILjKjKRSP+chvlog5EXeQOBcm6O4VXGIBbp3gSw9SXTkGAOMiaVXUnAD8u+4fMEaAjHsl3Orxr0Kq4wf/DawWHVF1mpbrjqjF9zEZlbGwJpLek5XuJa9pd3qaA7g/LI1P5mrd4WoC7VooUl/ChkwrnaIJH+6lN2utK7EwB3CskjS4ozGfrgbQTOKNpbJRfJARb0elIJueDj8L1qIN+XSpnHgEb/UqA/kkiIRN0c1IuDdRI4AU+czme4Zas7Pp+WljLUPX0ZQ1b185iAxCqmHxwNU1ch0=;vJDJ1X7EmM7fWBydKk68WA=="
+secured: "FKgHJu8amJxan9StFSGDzCR6JvAjuafd7nwdREUFa2k0MlU05UjRO86FWzu0NaKFUppgrviUrFdXVoiIyZldpiPR0DF/mVDs6bRCNx9FqH0tRt851/Ixm5w5udZGiqz61WJWHSGJ+BSAgZHbE3F5foNEeGpQ/bS03WeNfABXX8hOx5HZv97lB2E/QisToLwldNcPvvlim7BDQcXZ0u76IHF5o+EMgZ/sEoXT8YczBPRaKChFCrdxej0o6s/0mcoBvt86KigOdfnz/BPrvvr5tEWU/AqcQ+copu8R8f0+M5kXyJDF+xAg+xQy7/8R2dHqAezGE5Bp06wVMyiGPiKbrdxBGW5hi52iz/iLt4twdSQ=;9LxUstQHDKK/93JRfyQX7Q=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 829
         height: 718
         isCached: true
-  - title: "Paralysed man feeds himself using his mind and smart robotic hands"
-    excerpt: "A partially paralysed man who had been unable to use his fingers for about 30 years fed himself dessert using his mind and some smart robotic hands"
-    publishedDateTime: 2022-06-28T16:33:00Z
-    webUrl: "https://www.newscientist.com/video/2326434-paralysed-man-feeds-himself-using-his-mind-and-smart-robotic-hands/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/28155055/sequence-01.00_00_04_12.still002.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "IlU7vDf27BJr46kqxlYJWt68CFkFidelhtbYO9FIkBIJBLoudYGa8fFGkwd/bOLWrlY/gqQ3cMskF+rvK/akRDjlnpKqZL90O7gVW/sFfdjMrK5k7IkPjzeq/Yx+FnvsOM5KbCfL1U/qbueUHTax6DJrZE4dJ00Ew3ZOgFmaMbtiVT7sUGZ2Irq2Jp5oFqBgoyIGqXPzdxSpC4//5fps7XWo6IMnXbWe8cBHG342FE66xUD9ZlhU0URYHY+dI0VmxKxsMXYSmhqzCb00Qv6LLhBPfhiCND7pq+f5ObJpysTq3/l/2xKVa7PNzMnXzeoKf1QuLcWYVAkWVGWN783/+nAWdo5XEapRanAWKXNOpXMGlkhnb/BYmftnzAgUycfxMLV2NDbCHe/tM6/w52XdYA5G6YuaHB0EX7+xXXOYkmZZDLELmdZlYteFE3y94hauq0XIfMo+m3mTnDN534tT+YAIUMNMUS73pGOVEPVRdbGxJcbWD4FgaWuy3tXB3zl5rQQh0LIpNv2QInzzcHLsPw==;5eptSuUtS8VDZaH6UUY4Fw=="
 ---
