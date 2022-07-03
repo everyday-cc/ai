@@ -30,6 +30,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
+  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
+    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
+    publishedDateTime: 2022-06-30T16:01:00Z
+    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 31
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
+        width: 708
+        height: 419
+        isCached: true
 
 secured: "X7dRj/5oO7DhHM/oQokY4+W52Aj7z3YJRalt6+X/Y5aaMd/8N0W7CPX91yPOhTalNMdSIGa1S2GkoVOcJP2M1hsIZYjqwnb3k1xXs7zALNjFjO5GpPYGhaMyR8GtGMmlvf++rD9R2cE3BPsrNQfo3UCGTOdoSIml1/RaGTOLMEzMAZaRZXJWBlVhD/63cm7ZpGSOy5WO6heFtp2aNadSOc6STgWEMe8TiKLBIb9QCh6+yfw/lppo1m3TD63kZKg5xuTf0cueJ7EjCUZnAQY8Y5G7t22mqqfFk8MDtQt5B/Z/vHQa21FAklaWT2xZG+3EVv6/VOFDPFxmjGA1Q13hSbQbxhD+ob/4DcD3kyQm5B0=;iHvOPxVWF72IhzIqIHKK6g=="
 ---

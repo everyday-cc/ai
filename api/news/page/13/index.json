@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-21-driverless-trains-will-become-more-attractive-than-striking-employees.md",
+      "title": "Driverless trains will become 'more attractive than striking employees'",
+      "excerpt": "Speaking to The Telegraph on Monday, Mr Shapps predicted that support for bringing in driverless trains – the technology for which exists – will soar this week. Mr Shapps said: “Every hour ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/politics/2022/06/20/grant-shapps-rail-strikes-will-make-public-demand-driverless/",
+      "originalUrl": "https://www.telegraph.co.uk/politics/2022/06/20/grant-shapps-rail-strikes-will-make-public-demand-driverless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/politics/2022/06/20/TELEMMGLPICT000300274433_1_trans_NvBQzQNjv4BqB0kPDfEJHmx8uZd_9tUv7YnlD9VzwhkrYRykakve5GE.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-learning-analytics-and-ai-best-practices-from-fractal.md",
       "title": "Learning Analytics And AI Best Practices From Fractal",
       "excerpt": "Analytics and AI groups within companies can learn best practices for working with their own internal clients from companies like Fractal Analytics.",
@@ -1083,40 +1126,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-artificial-intelligence-may-diagnose-dementia-as-accurately-as-clinicians.md",
-      "title": "Artificial intelligence may diagnose dementia as accurately as clinicians",
-      "excerpt": "June 20 (UPI) --To solve the conundrum of how to get timely medical care to people with memory loss or other impaired cognitive functioning, a new study suggests that artificial intelligence may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Merck launches Merck Digital Sciences Studio for healthcare startups"
+    excerpt: "Rahway: Merck, known as MSD outside the United States and Canada, has announced the launch of the Merck Digital Sciences Studio (MDSS) to enable the generation of innovative technologies for drug discovery and development."
+    publishedDateTime: 2022-07-03T10:30:00Z
+    webUrl: "https://medicaldialogues.in/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 61
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2022/07/02/179884-merck.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "Merck to Help Healthcare Startups with Digital Sciences Studio"
     excerpt: "Merck today announced the launch of the Merck Digital Sciences Studio to enable the generation of innovative technologies for drug discovery"
     publishedDateTime: 2022-06-29T17:37:00Z

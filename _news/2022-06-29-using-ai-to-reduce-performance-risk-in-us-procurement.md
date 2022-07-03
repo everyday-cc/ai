@@ -39,6 +39,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Lummus Digital Makes Strategic Business Alliance With LACC to develop AI powered Remote Performance Monitoring"
+    excerpt: "Lummus Digital has announced it has entered into an agreement with LACC, LLC, a subsidiary of Lotte Chemical USA Corporation"
+    publishedDateTime: 2022-07-03T11:00:00Z
+    webUrl: "https://enterprisetalk.com/news/lummus-digital-makes-strategic-business-alliance-with-lacc-to-develop-ai-powered-remote-performance-monitoring/"
+    ampWebUrl: "https://enterprisetalk.com/news/lummus-digital-makes-strategic-business-alliance-with-lacc-to-develop-ai-powered-remote-performance-monitoring/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lummus-digital-makes-strategic-business-alliance-with-lacc-to-develop-ai-powered-remote-performance-monitoring/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 37
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Lummus-Digital-Makes-Strategic-Business-Alliance-With-LACC-to-develop-AI-powered-Remote-Performance-Monitoring-01-1.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Enhancing player protection using artificial intelligence"
     excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
     publishedDateTime: 2022-06-30T23:04:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-30T12:12:00Z
 originalUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
 webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: kvia.com
 
 topics:
-  - AI Ethics
-  - AI
   - Facebook AI
+  - AI
 
 images:
   - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
@@ -36,6 +35,6 @@ related:
       domain: ktvz.com
     quality: 21
 
-secured: "JNR/nUrUXgH3kwEZzxvzgoYlNljB5Vmr6iD+C25Kcim+RsXbuYTpcfwWw1RWKD++t4Tq4mLjiguWdTjP6V1md+/e5rZhfWnZKoFcCu0xf7jSPxfJnQjD/9T1m64sCLkGiVPNk6bCVuCbJU2f7kE428qtLSaCZCu9UcolY1DNjGU/SboZVByr4ewxMVjmS7lFYwjWDya5+2NIatrH3ksHMmw6XTTQzp0yI9pK4GuJGaqmuCFeBa5v+bDZ+WutQoQCCMM0PmfLAz5dSOE4Kbdg7dCQh6VmLM0ME767/mqblBskjEboYeA0RDq2nsX5c7rb94RswJT0ZGylmg71ZogFFioI9YCxK0XsvXZ0ml42jMeayktyakvmQA52ftUrnJPgBGIWPbd9M0/RLoz+JDaALzlsIDiRfpOrrT8gbGFQDbNFEimG5epU1Za7aG7+AZs0AsQwtEZ8kREP2df4ibZ4lwjClzszUFBEg6QK5oBVvgLU/+MNwPZTvsqi9n+GnbGYF/N03vrH91vG/s2d4TUjsg==;yUATq00+j7nmDJ7hlCAZzA=="
+secured: "YZXfATMnbcSz3kBBKbTuLJqBkuslXFlrAabGm25F/vEEEZwcXFQe8DLj8r9/ZfZD25jvAXhbSupwrK4aIumqZvPAZQYh5T50DDk7svtvPmBT8/3pnNa0fqUy6ci0pasLIHWFDjhfd0ppTBTA10bmEyGZzx8AVXQrqEq6OXTsHLpf3KlO8dRfDK77f7wh5RGJMuezvx8umW39P9sFKjzi5qKaqeZ1u3vxAsAnYF6NtFSRyKcuJxLCuA79UArbi8LjU4kSxs1zA2g0AUoPRs7EPKVfMiW9puJ7nd47U+iJWLFdAfsj/Dltm5A7+f7NLyRbZT8aFBYgl+uHZbMiV4088kfl/SP6TEBZFKtL/mOuY5o=;P72y3gTivc2//Ktx6NOpmw=="
 ---
 

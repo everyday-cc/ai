@@ -7,7 +7,7 @@ originalUrl: "https://njbmagazine.com/njb-news-now/merck-to-help-healthcare-star
 webUrl: "https://njbmagazine.com/njb-news-now/merck-to-help-healthcare-startups-with-digital-sciences-studio/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Merck launches Merck Digital Sciences Studio for healthcare startups"
+    excerpt: "Rahway: Merck, known as MSD outside the United States and Canada, has announced the launch of the Merck Digital Sciences Studio (MDSS) to enable the generation of innovative technologies for drug discovery and development."
+    publishedDateTime: 2022-07-03T10:30:00Z
+    webUrl: "https://medicaldialogues.in/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 61
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2022/07/02/179884-merck.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "Merck launches accelerator programme for AI startups"
     excerpt: "US pharma Merck is offering 12 places in a new digital sciences accelerator to startups applying tech like AI and machine learning to drug discovery and development"
     publishedDateTime: 2022-06-30T09:23:00Z

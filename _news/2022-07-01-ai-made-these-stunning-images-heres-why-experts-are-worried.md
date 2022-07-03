@@ -28,7 +28,7 @@ related:
     provider:
       name: KVIA
       domain: kvia.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
         width: 1280

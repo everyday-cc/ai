@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 106
 published: true
 
 provider:
