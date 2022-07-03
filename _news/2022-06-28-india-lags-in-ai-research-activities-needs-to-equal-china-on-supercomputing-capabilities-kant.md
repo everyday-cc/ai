@@ -46,15 +46,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 34
-  - title: "India lags in AI research activities, needs to equal China on supercomputing capabilities: Amitabh Kant"
-    excerpt: "\"We lag behind in terms of core and applied research,\" Kant said, adding that in high quality research, India still trails behind US and China and wil.."
-    publishedDateTime: 2022-06-28T12:53:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant/92523249"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 3
 
 secured: "AX0yV8eC7AO/EEpJAyCRwLwwfCBoQ/qNOzj4HB1IkPmGYWHy8k8pY4T/nMjRzdibXxZ7PvgM0hjQ8Yy70DT+yrAWAHbHXKSRTQiPBuUcaiiQezOaXdo9rFLOj+ZeDz+8v5WROKwfUDnbtp84gI8rJQhsj6Te+dQ1Z3vd6kWsuvILEIA1KQwi1WoByscB8nv0m8YcBVcTQdZIpW6y3q4EiVpVXZtYQZDsMr726y2LYuijmpckNaHnj37WsKEauY0VpTz6groTGGDqBJg7WN1zRgXKgqdmDQDbeUyZ2X3K7UGDw9QB37hbDqB9fpmtY48kNF8vpir420hGNxzIoo5xuUwBnSgFo9EfvHy5lVxmco8kN9Hth1o06kb+uH2LXv91X9nhuaxNVAL+Q2BTS1bwMUYiV58QdhrYN/dcq8Kx4R4wthJ61YjyYimeSs1cB+YdVMZiMJeFJqSeYlfdZsmCjseLMZbEouYJGJ80hdNinpC5yIcR7V1CJtJvJXy3ZTrjWT+L25lB7JaVUsTZgn6t4Q==;e/NFZC0v40T4hMF8AqQgzA=="
 ---

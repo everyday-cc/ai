@@ -1,22 +1,28 @@
 ---
 category: news
-title: "UK should immediately ban use of live facial recognition, warns report"
-excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
-publishedDateTime: 2022-06-28T23:13:00Z
-originalUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
-webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
+title: "BGHS graduate receives national recognition for artistic talent"
+excerpt: "Bowling Green High School graduate Sam Garvin’s talent as an artist has paid off, as he received national recognition for his art at the 2022 Scholastic Art & Writing Awards"
+publishedDateTime: 2022-07-03T04:15:00Z
+originalUrl: "https://www.bgdailynews.com/news/bghs-graduate-receives-national-recognition-for-artistic-talent/article_74626d7d-78c9-538f-bddf-de09d1af377b.html"
+webUrl: "https://www.bgdailynews.com/news/bghs-graduate-receives-national-recognition-for-artistic-talent/article_74626d7d-78c9-538f-bddf-de09d1af377b.html"
 type: article
-quality: 19
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Bowling Green Daily News
+  domain: bgdailynews.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/4/76/4769c309-2dd4-5b09-a95a-a0fc2d70d9b4/62c04c937f8c3.image.jpg?crop=1246%2C654%2C0%2C503&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "‘UK government illegally utilizes facial recognition’"
@@ -47,20 +53,15 @@ related:
         width: 1500
         height: 1073
         isCached: true
-  - title: "BGHS graduate receives national recognition for artistic talent"
-    excerpt: "Bowling Green High School graduate Sam Garvin’s talent as an artist has paid off, as he received national recognition for his art at the 2022 Scholastic Art & Writing Awards"
-    publishedDateTime: 2022-07-03T04:15:00Z
-    webUrl: "https://www.bgdailynews.com/news/bghs-graduate-receives-national-recognition-for-artistic-talent/article_74626d7d-78c9-538f-bddf-de09d1af377b.html"
+  - title: "UK should immediately ban use of live facial recognition, warns report"
+    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
+    publishedDateTime: 2022-06-28T23:13:00Z
+    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
     type: article
     provider:
-      name: Bowling Green Daily News
-      domain: bgdailynews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/4/76/4769c309-2dd4-5b09-a95a-a0fc2d70d9b4/62c04c937f8c3.image.jpg?crop=1246%2C654%2C0%2C503&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "Marijuana, facial recognition, other laws take effect July 1"
     excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
     publishedDateTime: 2022-06-30T14:22:00Z
@@ -71,6 +72,6 @@ related:
       domain: chron.com
     quality: 19
 
-secured: "jhI84hFUEw1QX2SWk9y2lLeAUx9AdfWamGcbO9EsUEier/GJMmXu4b+WhgM1uJfoSKL5BatJUq26o9LdhaR3QsStQ3U2rxdIm8xfpX2/iMjEW5Y9MtoQv+x9mdY2DBrs02T6ZH6ZRxDkAb5m2Mxw3szvVbyVxXS08mXH1CBljsYu+w2xJbh0ElIl/1rEHKNNZIWWPeLJrWn4dBW4ZNZYy6TgdAZlYdVB2L0uf/PaZ9UKs3MHJGrfd0mGnExHo4xWVnUQFPbPqpNyO1rC5trW0VcOEUunvCwzXNEw82lxwXf5YoJXeamhnb1QViSm77H1GQZ+rwu9NLngk8Msqe1XRUVmYpMrq9ninWXuK4YRO+ld/pxtsmtrksCDK+yrMnSxEa71F3wCh+md15xo/sFYzLVe9h+IHW10adxomOkiFvgn7K0SRo1svpiX592/dNtdN9l+BmopfwlcakJyzyON4naJbLBjuB499sQ8HjuFU7jDNNcHYDTQ+1vIV93P+QpPO/0x8VUe76tY0eFphxORzQ==;GWGRrzcgc+whknGy7ze97Q=="
+secured: "CjDm+bvJE1xSjm+Me6asv4WXqL2RKsHhUS1RftYSS6fPWO2QXby3S9VVIJm3P2Y3kVJ20aglsOqKUwei+car2u0sLeUGIhwAPEN3VZz2fIUL4PwJkY7GeqL57y/z3KNUBxL+xFr378ahwVkWnEtYReWWF9pOs8NT8eKKS7lNLxqVo8bTXI90CiBzXhtkPdXq8oUWN8JByZeFfdRkAMbgDvjE7ZqwKA9zajYafyu7MyujSEyPuVUz5ywsM6X6TPeG5V38IJ96I8Fn8hRkFc4dnFna3OEfBWA0PbjylhyAWgGBMnJxadYdiCfuDrr+x6mu+58PkUeCFiad4w+XU9yT8tT/oEuhxFLpONjhdfbi8po=;1j/y7aPdknSgNvvuu/JKnA=="
 ---
 

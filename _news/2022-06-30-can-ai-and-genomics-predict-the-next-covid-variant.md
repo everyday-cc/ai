@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ca
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Psychology Today
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Tool Could Predict the Next Coronavirus Variant"
-    excerpt: "The model, which uses machine learning to track the fitness of different viral strains, accurately predicted the rise of Omicron BA.2 and Alpha"
-    publishedDateTime: 2022-06-28T12:23:00Z
-    webUrl: "https://www.scientificamerican.com/article/this-ai-tool-could-predict-the-next-coronavirus-variant/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
   - title: "MSU researchers use AI to stay ahead of COVID-19 and other diseases"
     excerpt: "The National Institutes of Health have awarded Michigan State University researchers $2.7 million to continue developing artificial intelligence algorithms that predict key features of viruses as they evolve."
     publishedDateTime: 2022-06-30T19:28:00Z

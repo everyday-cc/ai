@@ -1,21 +1,28 @@
 ---
 category: news
 title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-07-01T16:13:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "The Worldwide NLP In Healthcare And Life Sciences Industry Is Expected To Reach $6.8 Billion By 2028"
@@ -32,15 +39,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Global Industrial Robot Market Report 2022: Industry Set to Reach $61.09 Billion by 2026 - ResearchAndMarkets.com"
-    excerpt: "Analysis By Industry, By Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2026” report has been added to ResearchAndMarkets.com’s offering. The global industrial robot market in 2021 was valued at US$33."
-    publishedDateTime: 2022-06-28T11:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-715506a4e9154d4986cbec51aa69a0d0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
   - title: "The Global Robotic Vision Market size is expected to reach $3.8 billion by 2028, rising at a market growth of 9.3% CAGR during the forecast period"
     excerpt: "Reportlinker.com announces the release of the report \"Global Robotic Vision Market Size, Share & Industry Trends Analysis Report By Component, By Application, By"
     publishedDateTime: 2022-06-28T13:40:00Z
@@ -53,6 +51,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "pZ4ui9m8uzdYvJpE7sl3OSjCaN4ZPCpeJJFaFzDRIksqc6DkpaRlwY6SxWWlpQe3ZuL0txXwv+NbQzBO/o44F3IRvr45A+uR5OGG6Ccer/bNNAaN9j9T2feBRdNAU1tG2LdZwNSTX0Sc2MetbtUYzJwwrZ/+wh1TU6uqGK8bdM3ByIWKYe6o4ksd0f9qqVtq3qXeH5M3F2u27tB5LbVK5/Mqkemsi5aDWA0KRpD5qeAjGeLrIC68rlezvnHB3MR9BKqch05uYDanw/aHBw5N/eXNzLytjIL8XkDIJO8PaPz0bzFOW+18NVdtckyu3DEHZSgUhriFe6MZYN2rPjgymhvwC6dLCyQkh+/Bx5HDNgc=;UUfDnAoMoS+q6kHCpaVuNA=="
+secured: "IwSWOdv9P9HX2fUBWxGCDpL2REaB1MIFlxvdGlhWy1jVOqTjmqbd82CvygUX0Son95CmauyPEPhtyTNPz3U1Wlh22R0OUS6yWWmGdxk24HirI++x/9/Uc2E3glgzkZY5jyepcDiMuEywvQIMCibwZfCAvfqh3pbOItycPm+oYncdELzPc7XWt5SQoLiCuI2/LYqwZR5tDYpq1zNCjmvlPkeWAl8ze9P0hlfJT00S9abwbQ8QZ3NbO+zaxq8bBe4nFqWeMBnskn8MDXmNnGeAmyDv15n7dwG2MppZJRJzi7ZhuZFrI/flCEq5LHH/llCpae3RrZcODJTHddw4sVsOYKAQNlamAcwlQLGfH6ayjKY=;gg82KFlnz0rtkwQCtKQzZA=="
 ---
 

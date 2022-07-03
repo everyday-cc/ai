@@ -23,6 +23,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "AI Algorithm Predicts Future Crimes One Week in Advance With 90% Accuracy"
+    excerpt: "A new computer model uses publicly available data to predict crime accurately in eight cities in the U.S., while revealing increased police response in wealthy neighborhoods at the expense of less advantaged areas."
+    publishedDateTime: 2022-07-03T04:38:00Z
+    webUrl: "https://scitechdaily.com/ai-algorithm-predicts-future-crimes-one-week-in-advance-with-90-accuracy/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 36
+    images:
+      - url: "https://scitechdaily.com/images/Technology-Cyber-Crime.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
 secured: "R1KXPCXu0ODmY4ueKU44IT0rwrsaDMEOuw1H+GMaZM+dtzOx8hz8pPP9hr5yYhz5NLKjEQqwrlkKop/Zr5en2k2Usy343kaDuurg8qupHVvQj82sUOiA9z/h5v5deG2r575P2lJlR7l6sNqKoLUJeN1m0mihpbPkpBTRCRPX8TFHLsQCJXtSAavUkbWYbOatr41uVQjwp2eJpNAxrJJMv3YThoDoM2+YDjPqdvxTgOBLuEPpyyjNPZt5y2A3kKgcfmLKHixjIeg/1wIUSrJQ6O6rD8hYlgwGrk5x2YdxDze3T+h8dmE8IhuLn9GizVCJJUrfuFhUtJ21N7FmnPXF0FdlxWIKwV/rQAhlzT46zSfUegjMjO1tM7U38CbIlQVitIpZW7Ue12/wvDRGjQZqjwmWfj8UadUQQ8oJihI3tihKPEqD/MD7EMwqlU0dkL25/vD53XPCxvGq8os2KJLCDRoPEU4rdhFako/IATOa/HLjcwVW1mlbzneINxeGclij2UQpqdt4vijApT9TZeUX+A==;0R3EZzlxo4CP6YxVOaZx5g=="
 ---
 

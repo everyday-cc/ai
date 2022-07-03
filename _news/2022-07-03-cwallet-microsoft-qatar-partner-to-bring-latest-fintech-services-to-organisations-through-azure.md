@@ -3,8 +3,8 @@ category: news
 title: "CWallet, Microsoft Qatar partner to bring latest fintech services to organisations through Azure"
 excerpt: "Fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping businesses with the latest tools to ensure safe and secure digital payments."
 publishedDateTime: 2022-07-02T17:23:00Z
-originalUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi"
-webUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi"
+originalUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fintech-services-to-organisations-through-Azure"
+webUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fintech-services-to-organisations-through-Azure"
 type: article
 quality: 41
 heat: 41
@@ -35,6 +35,6 @@ related:
       domain: itp.net
     quality: 16
 
-secured: "slQlHZgLyAObhwqXWIWnY4kkf7SO0R7EZXa5lpopMukMw/dK1XYGPdv9Bmtq9mwVx6gmB/CaV5yzdt6iwdbbQ1Y4Lh9XCbK2/gLXfxXaXplzfWQ77kquyUVhVWR9CQnRoUBZ0giMdtvYO4QyK/vYQCAeQa/N+JuGy3vUSA8QIacOYsAs6YNIrbUkpvCYO2afC2nntleKdGmq3GPadAi4aoJHM1k4/J7aiouXpoI4iyxTJRGWo0aqYTKQH4x6Rt53kcGbx/NelEgkDqeQkx6zs7l5c/IM49kf6SoiLBSnEOLSMOIoUyqjSeGC7Cx68yPEpNby759Uou7yi8Ho3EBDwL3VgmWMY8nDJOzT3GnXXU8=;UecnAL/dYA9v2UCvahishA=="
+secured: "DpiMoZmSjL01Tfnp1/oL6gStfqSeKxHExTzOB8G71vTwnx75U2DAHPhIRRpCS1KmLYKz0F5UwmyvtnIl2UjnWWGB4vxijbuytt5ln5l4OfsbPr8OgLyN47S3flRN9VvWlXSvRkPOCd26IE4JCXMIcOQzcsGNqwcVxtR/Ap0U15tbk6i52Cu+CF0WBDfUJDk5z0uyklWIkT1R/Qc261JwUwV5XJwHKiJQQI5iDVO9bc6qFlH26cN+5Rn/nAW2SxR/bFPHkxeE8GoF49RxIvQzCtUMqIQrza0guC6aQOnHL2IaQ0fdPRb2KvBQMP2otqfjpnh3IzwKOdvPQXAK/DIivjgQUd/lC3/CMkjxIaUhz0g=;crhWMjNDaGWjKyRVLMG8gA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/95147-brain-connected-robot-arms-ena
 webUrl: "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Partially paralyzed man maneuvers a pair of robotic prostheses to feed himself"
-    excerpt: "Two robotic arms – a fork in one hand, a knife in the other – flank a seated man, who sits in front of a table, with a piece of cake on a plate."
-    publishedDateTime: 2022-06-28T12:55:00Z
-    webUrl: "https://www.news-medical.net/news/20220628/Partially-paralyzed-man-maneuvers-a-pair-of-robotic-prostheses-to-feed-himself.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 30
   - title: "Smart Robotic Arms can Help Partially Paralyzed Man Feed Himself"
     excerpt: "A partially paralyzed man manages to feed himself with a help of robotic arms using brain-machine interface (BMI). The findings of the study are published in the journal Frontiers in Neurorobotics . Two robotic arms - a fork in one hand,"
     publishedDateTime: 2022-06-28T13:57:00Z

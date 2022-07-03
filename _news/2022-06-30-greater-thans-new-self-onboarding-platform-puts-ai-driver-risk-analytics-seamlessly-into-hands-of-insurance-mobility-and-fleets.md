@@ -42,6 +42,20 @@ related:
         width: 844
         height: 633
         isCached: true
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
+        isCached: true
   - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
     excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
     publishedDateTime: 2022-06-30T11:51:00Z
@@ -53,20 +67,6 @@ related:
       name: Europa Press
       domain: europapress.es
     quality: 13
-  - title: "Opaque Systems Raises $22 Million in Series A Funding To Bring Scalable, Multi-Party Analytics and AI to Confidential Computing"
-    excerpt: "Founded by the pioneers of the MC2 open source project from UC Berkeley RiseLab, Opaque creates the first collaborative analytics and AI platform for confidential computing"
-    publishedDateTime: 2022-06-28T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/opaque-systems-raises-22-million-in-series-a-funding-to-bring-scalable-multi-party-analytics/article_686a1a7b-a3f8-5ae7-aa1e-5c1d46ef8d35.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/28/a280bf42-4eb1-5eb4-a8b2-9b2ca8683992/62bafc523f8df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
-        width: 1194
-        height: 627
-        isCached: true
 
 secured: "tXwXWStat4SGYrLafZGqnGtYfpYWta3Vb2ubpEPWsdJUReO0gUl2KYt7btLZYMNWuD7DjE4Ys/bkjZfr3LSQN8pa2VLxr8OF4dYn8joWKpBb3i19bN04YFsr0hRXTFVJFX/1QWpBgJFab5FLdD8r1uyFfZi9exTpLqe6ohaS15nLQaT5GztnlMdIVy+UOKSDs1ENc3t9+kRSvTW7uVrwYfSpZH3yEMH2vV9OgZTLfuRXmDtGFZ2Xx5yuy+sh6zISLm/+pspv4CDrBbV+s8nvo6zx8NlNLq8exEyqUslMIhXUNfAn07iex670GSn0slRXJEAzsNt9V0nwOAxKtC/CCFCvmxHBylUlJoZj6INJlvw=;+AJR5eleu1zacX+gPIkiRQ=="
 ---

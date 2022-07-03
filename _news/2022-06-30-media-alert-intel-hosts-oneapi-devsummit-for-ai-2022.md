@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Media Alert: Intel Hosts oneAPI DevSummit for AI 2022"
-excerpt: "Intel will host a live virtual event - oneAPI DevSummit for AI 2022 - focused on building AI applications that seamlessly scale from edge to cloud. This press release features multimedia. View the full release here:  This one-day event is designed for researchers,"
-publishedDateTime: 2022-06-30T16:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-media-alert-intel-hosts-oneapi-devsummit-ai-2022-/2022/06/30/9632050.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-media-alert-intel-hosts-oneapi-devsummit-ai-2022-/2022/06/30/9632050.htm"
+excerpt: "Intel will host a live virtual event – oneAPI DevSummit for AI 2022 – focused on building AI applications that seamlessly scale from edge to cloud. This press release features multimedia. View the full release here:   (Graphic: Intel Corporation) This one-day event is designed for researchers,"
+publishedDateTime: 2022-06-30T15:02:00Z
+originalUrl: "https://www.kentuckytoday.com/news/business/media-alert-intel-hosts-oneapi-devsummit-for-ai-2022/article_5d67d079-d320-5f56-b6e2-a87d1a4d4ac5.html"
+webUrl: "https://www.kentuckytoday.com/news/business/media-alert-intel-hosts-oneapi-devsummit-for-ai-2022/article_5d67d079-d320-5f56-b6e2-a87d1a4d4ac5.html"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Kentucky Today
+  domain: kentuckytoday.com
 
 topics:
   - AI
 
-secured: "6SKbbMvlRGIblyuL22Y8/FYjrLwqn5FM0bNZzHqyToZDxox+FzSTGMVZRCuODb34r6qqOBTW3ThIR1GEVl4LQOmefxG1jg+mO9KiB/AeXb1BcqvrwP5vIq3whyTXTZmFp04EHGqhRBmDfsuFdiPW02mem1D5sGhM9U9t+kY32MIuKPPp/fUAEbtkKPTRuS/zzWM4UTIrZcFVlTZ4O/ovIm4oVxWnt1/hlFw0Qkwury9S32IYQLRYomc9Cm3rSmqoObHnR3Em0Zcx5BBZgq9Mf5NpEUWnyriHdN+g9t0Xg+GcxGo0FyLdYMGNFy6nEpsM6HFd/aNXs16xlez6nJdn7V4BEy+MCsStMF7EDJeKoeUylzyb7L9xCIohptGAUP4PGDHFGpsq4HaZZiGZXLIim1h+kGIVx2X6j0Kue7aoKSI3J0146w98yi3PVzeQwajdWUNxOfvhJmeCi5W06Xbg28O7JMJiJBq1df01F8uU8tRGevqYvAmsEqXdxkUFiTBzz/LruNGXhmMA3by+Mvaeag==;CQxYKY4LDW8OXII8NUmGWQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/1/d3/1d38f865-3c6d-5c80-a7bb-8e1659135e68/62bdbb928228b.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "VuOD3APlj6kUPRBa2aSd1iNtTW3xxpIA0wX+cv3lsKyJWs13rDT48gmeRokf0azZeIXUXdPZkPEz2iwgUIOw5R1WNPNuN33EL6tzi+gl4v9xFqLeKIf49BSSdf9ARGKWs65Vt5NoL0ZyiN3JNNVIPSeiM54XvVtc8Zc5mC9dq4T9XISixazzpaENIldgBalseaLSNtL2x/4/TXVysbduDxr71npLk5JniXZ8TrJ4mEwzYlkCbeyPyhiCR2En4o2aq0wRz7m76eJ9Jji4MrLAXr5WAGW3iq4niJutX9EnPxbqoSrENl9Xvu9XMe2fwLlhWGIf+Ar9IZ8LgDtJoQy58hHOemrVmB+Bd4SRdS5bfSw=;XqvckT8miQ7dXkH5PzNkPA=="
 ---
 

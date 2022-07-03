@@ -40,6 +40,20 @@ related:
         width: 1500
         height: 1073
         isCached: true
+  - title: "BGHS graduate receives national recognition for artistic talent"
+    excerpt: "Bowling Green High School graduate Sam Garvin’s talent as an artist has paid off, as he received national recognition for his art at the 2022 Scholastic Art & Writing Awards"
+    publishedDateTime: 2022-07-03T04:15:00Z
+    webUrl: "https://www.bgdailynews.com/news/bghs-graduate-receives-national-recognition-for-artistic-talent/article_74626d7d-78c9-538f-bddf-de09d1af377b.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/4/76/4769c309-2dd4-5b09-a95a-a0fc2d70d9b4/62c04c937f8c3.image.jpg?crop=1246%2C654%2C0%2C503&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK should immediately ban use of live facial recognition, warns report"
     excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
     publishedDateTime: 2022-06-28T23:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Cybersecurity pioneers share their views on how organisations can protect against future large-scale ransomware attacks"
-    excerpt: "Ahead of the five-year anniversary of NotPetya (June 27th), cybersecurity leaders from Gigamon, DigitalXRAID and CYFOR Secure have weighed in on what has changed, and how organisations can"
-    publishedDateTime: 2022-06-28T12:26:00Z
-    webUrl: "https://www.sourcesecurity.com/news/cybersecurity-pioneers-share-views-organisations-protect-co-1593159800-ga-co-1656408557-ga-co-1656409690-ga.1656412796.html?ref=nav"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 0
 
 secured: "+5TvgTWdqhez8YRaVkoW6DA2LJ6X8Y6zRdHteKZMbQDpsFDzHba+Dt22d9VCxmPp3ERFQkmJSEf204ptfVz8IjkoydC69WbL2YO+VnA14CD3q1lHz5R8nXe6zmpHF4lCTjxjxKT2kgi93JR/vHoC+GISTC+5S32kE14JZZOJ6mtNb1TlvX7yTs8TpWJ3eUEwwidaB0QbIlJ1DMCQrL54y5cvOdaqSKOcPkZt2kQBgJmtxiYYDN2Pq565S1WGFgFwlcxNVnEwmzwAoETuyOBtP+kDUSjHhnHF/lwlULyEv+YSQzsGHCGVv9nsrONNnAFefPTAC0vgqQoV9jHP9a6vffXwZDmBCF04A1QmUwJs036Mq9SlYVR6noyxBFHxC6ci+GrFvX5n1q0IroeoqCzBhnZ7KNgsm7dM5v3JpcGldkLWGXE5scKI27LH6Ggt/gRc4mb7WZxeU5KSNngBVkQXLhWd4ZZfGjbs1cQp6FdoEFvYMYFX65AvdOxxNgCLT9Yn08BwnU7atDYAKvNb0hYoGQ==;dFfO/Y80N3CigcgQFzhQHQ=="
 ---

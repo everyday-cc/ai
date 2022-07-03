@@ -39,22 +39,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
-    excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
-    publishedDateTime: 2022-06-28T12:28:00Z
-    webUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 51
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2022/06/shopping-cart-with-pill-foils-copy-space.jpg"
-        width: 1024
-        height: 551
-        isCached: true
   - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
     excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
     publishedDateTime: 2022-06-30T14:06:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam"
-    excerpt: "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ..."
-    publishedDateTime: 2022-06-28T11:19:00Z
-    webUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
     excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
     publishedDateTime: 2022-07-02T10:43:00Z
@@ -57,6 +41,22 @@ related:
         width: 1201
         height: 629
         isCached: true
+  - title: "Fintech Players Need To Talk, Educate & Interact With Regulators: TV Mohandas Pai"
+    excerpt: "On Inc42's Fintech Summit, Aarin Capital’s TV Mohandas Pai opined that fintech stakeholders need to have a dialogue with the regulators."
+    publishedDateTime: 2022-07-01T08:07:00Z
+    webUrl: "https://inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 54
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/It-is-important-for-fintech-players-to-talk-to-the-regulators-educate-them-interact-with-them-and-create-a-regulatory-system_feature.jpg"
+        width: 1361
+        height: 1021
+        isCached: true
   - title: "AI in FinTech Industry Analysis By The Business Research Company"
     excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
     publishedDateTime: 2022-06-30T17:26:00Z
@@ -71,19 +71,19 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Lentra Acquires AI Startup TheDataTeam to Accelerate Digital Lending Platform Business"
-    excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness based on their unique financial journey."
-    publishedDateTime: 2022-06-28T12:58:00Z
-    webUrl: "https://financialit.net/news/lending/lentra-acquires-ai-startup-thedatateam-accelerate-digital-lending-platform-business"
+  - title: "100 most influential AI leaders in India — 2022"
+    excerpt: "Analytics India Magazine brings to you its annual list of the Most Influential AI Leaders In India for the year 2022."
+    publishedDateTime: 2022-06-30T05:51:00Z
+    webUrl: "https://analyticsindiamag.com/ai-100/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 29
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://financialit.net/sites/default/files/lentra.png"
-        width: 1366
-        height: 768
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/ai-100-1.jpeg"
+        width: 2048
+        height: 930
         isCached: true
 
 secured: "UwHST8riNzb3wugDSQTQ7Ng0nexEDKn0W02LRrn+70jFcdNjaoFVQk/TtQn+HQhG+u1i8/uXxJ4CoIFXlG9lqWuAwcY4ezM7Q/GwYziMpew7n5G5MUUV6vnldc1PHHnoQ5zvTioGHaqTKqnYftVNJNMSeNBRxaEyiBb0Py6FvVfHTZ6mnIAaOIi6n76yegPPjjOksyZdAls4HsWm/gp/LHO/m64CpUn5CLZVHX1uyhv6OtTUyk5Shct8qN076jeL7KJYzIllhH7Rp5QdsPrC/Aesai0SroLyCQNoCqHnTnbMqFw+9JAcWU+dnsGmGmnPkWCmTnZiVPOjXKUnm7de3OS/oQragoTJL6aLXM39ncGKoTwiEiEfGi91WyMPHFfUPEDAdNscb7BpRKKzijMlb5Vs8ua9MefY9uMwfHpp/JFwj0fU5X7JFuAy/rENQa2T+VETcS825FWZ1BSn/cfOGDqh54UbRoOHdVH6ZvsvjE0suAT5eWWOlVyjXjSGlvt5yEMbfIAh1trg36aSV4Zy0A==;GZFnqepLsrKLpAKD3GNRVg=="

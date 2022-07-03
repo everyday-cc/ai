@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-ta
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AI Chipmaker Hailo Makes Business Alliance with Renesas to Enable Automotive Customers to Seamlessly Scale from ADAS to Automated Driving"
-    excerpt: "Hailo announced its collaboration with Renesas, a premier supplier of advanced semiconductor solutions, to deliver a powerful and"
-    publishedDateTime: 2022-06-28T12:35:00Z
-    webUrl: "https://enterprisetalk.com/news/ai-chipmaker-hailo-makes-business-alliance-with-renesas-to-enable-automotive-customers-to-seamlessly-scale-from-adas-to-automated-driving/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 1
 
 secured: "q9ysvRR600vajnZaJbUOSjpL4LKzTHQGpqXZ7BATuhUo2HnnyagspG77EWjdH0iWvZJyCkjCcL1co8SdpLNNvcbgOtCVOXqgmrVlXqhFgsJHSmaYuTBJ8rI/zKTdDHMEsj3VfmKVyBTt3tZu1sdZFKkbMoq2+TDtHmzp6NAa+tqnNf517z6deunMfio1VBeYLgFvCJJzYaIN+7gR2Mj+fhPG1Kc+DiyStpRG432vrAk6ftKqcVZxp4REZS0Sj6Dx3xk4nD2DRrrV9lmSiu3k0Y842kN2tXU05xES03eAjDf1ypOkG3/1PxqULi1UVD2V5rJZ91U0xzPJjBfrDLh/IaKwmG3lIbheEfVJZJRDyq4=;1V/rip8BiG22vdNYyPBfMA=="
 ---

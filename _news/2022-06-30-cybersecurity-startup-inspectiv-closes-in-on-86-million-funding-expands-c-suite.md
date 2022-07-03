@@ -85,15 +85,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Cybersecurity pioneers share their views on how organisations can protect against future large-scale ransomware attacks"
-    excerpt: "Ahead of the five-year anniversary of NotPetya (June 27th), cybersecurity leaders from Gigamon, DigitalXRAID and CYFOR Secure have weighed in on what has changed, and how organisations can"
-    publishedDateTime: 2022-06-28T12:26:00Z
-    webUrl: "https://www.sourcesecurity.com/news/cybersecurity-pioneers-share-views-organisations-protect-co-1593159800-ga-co-1656408557-ga-co-1656409690-ga.1656412796.html?ref=nav"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 0
 
 secured: "jFIVTs4bhmeLZvcwr4y6llc5mos8LMcyWZFqcuEgqz10sDxFU7XgnMrO0yXokYkYAcvm5ZK5lTOXFdINZdbBbbkmzjBuQVlp7usHKtaMU2moIUM01biUMf9joMWSHe+3p05euGhrmKQb+yFfOtL5Pmebej2wkyAfYBFORqCFjC74w8YNNpP6/yMCW5SPpko4C9tthn488fGyk0IUpGOCdK3RWhTrgZ+0whVTJJVj2doWlXKZBQXYAUeTS2KW5HMu+SeTboVZ67D5NjtgVucyv/ZA6rxjQ0xvnd7SX9Gz4PW+qnq4G0VsqEGfiJLtKWLVj590pRn+sLzdh15J+LtI/FPwXPM3jP2ixCDpGiJo3NQ=;f6kzDWZ/4j3GURYtLtEL8Q=="
 ---

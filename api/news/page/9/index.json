@@ -840,19 +840,19 @@
     {
       "path": "_news/2022-06-22-cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-a-single-device.md",
       "title": "Cerebras Systems Sets Record for Largest AI Models Ever Trained on a Single Device",
-      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced, for the first time ever, the ability to train models with up to 20 billion parameters on a single CS-2 system – a feat not possible on any other single device.",
+      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced, for",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-901236deb6c3469cb0aa669f753a9ad3",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-901236deb6c3469cb0aa669f753a9ad3",
+      "webUrl": "https://www.marketwatch.com/press-release/cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-a-single-device-2022-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-a-single-device-2022-06-22",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -862,12 +862,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T06:02:00-07:00",
+      "publishedDateTime": "2022-06-22T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

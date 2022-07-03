@@ -24,24 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-    excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-    publishedDateTime: 2022-06-30T19:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+  - title: "Snowplow raises $40M to help enterprises ‘create’ data for AI and analytics"
+    excerpt: "London-based Snowplow Analytics, which enables enterprises to create behavioral datasets for AI and BI use cases, today announced it has raised $40 million in a series B round of"
+    publishedDateTime: 2022-06-30T12:30:00Z
+    webUrl: "https://venturebeat.com/2022/06/30/snowplow-raises-40m-to-help-enterprises-create-data-for-ai-and-analytics/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-  - title: "VistaPath Secures $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-    excerpt: "VistaPath announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen"
-    publishedDateTime: 2022-07-01T09:45:00Z
-    webUrl: "https://enterprisetalk.com/news/vistapath-secures-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "Pangea combines AI analytics, computer vision for border control, workplace safety solutions"
+    excerpt: "Pangea has launched of a pair of AI solutions, one for preventing injuries in the construction industry, and the other for pre-arrival background checks."
+    publishedDateTime: 2022-06-28T23:28:00Z
+    webUrl: "https://www.biometricupdate.com/202206/pangea-combines-ai-analytics-computer-vision-for-border-control-workplace-safety-solutions"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 20
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/28191755/Pangeas-AI-powered-technology-to-prevent-construction-workers-falls-from-scaffolding.-Photo-by-Pangea.jpg"
+        width: 844
+        height: 633
+        isCached: true
+  - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
+    excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
+    publishedDateTime: 2022-06-30T11:51:00Z
+    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-thans-new-self-onboarding-platform-puts-ai-driver-risk-analytics-seamlessly-into-hands-of-insurance-mobility-20220630134054.html"
+    ampWebUrl: "https://amp.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-thans-new-self-onboarding-platform-puts-ai-driver-risk-analytics-seamlessly-into-hands-of-insurance-mobility-20220630134054.html"
+    cdnAmpWebUrl: "https://amp-europapress-es.cdn.ampproject.org/c/s/amp.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-thans-new-self-onboarding-platform-puts-ai-driver-risk-analytics-seamlessly-into-hands-of-insurance-mobility-20220630134054.html"
+    type: article
+    provider:
+      name: Europa Press
+      domain: europapress.es
+    quality: 13
+  - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility, and fleets"
+    excerpt: "Greater Than (GREAT.SE), the global provider of DriverDNA for real-time insurance and predictive risk insights, has announced the first edition of a new self-onboarding solution for connected car services."
+    publishedDateTime: 2022-06-30T12:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631705.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kD35GEazE28+vp+aAeS8988zb79shfz9+aRwgCRbsEzbjqImEYN+lCUGWezeLJZT0BYdYj3xqgDUaCKSpRw7ckz2in5LTjTd2ckKScGFSaQxxuri0DYw4q8WyIpLqDZob03+65yQBcA1FQ6yBDkdq/WDp0rgOY78uJPvbn1OF9cnn35GDHPzK2kUu9CJ7RBz3/943eECfRDtnq3+9Mu5CDCIevllVtUhr6qeCiFXdGHQJEEBW8S1hqIocaGwJ9sQ0E9ya1ZbsCM/l6xjgEqD/rvXhP57RqQbn+OVqRlkesi8Lj+xxS/vJhNewoABa2u2gASzMVLkmu/btEpAeil9UF64rFJjIsFFdgkrGEqq1iZZ8eahOGfksP8wNohoftrRVPrlJtTV2eJHA5fEFJggVkqD0srL2dsk4YzLx2Zia4+4ef4YMjqrcf2HGJko3mvEM68HOgb3PCFFBozXu5DMoxceskAw2IyfqHoOpEZgqOwM0jxmJ0Vg9yhWHhxdEWVYRDen/jie6+0KhLTR+rFbGA==;vR9ppzCmJg+LnG3hUOGXOg=="
 ---

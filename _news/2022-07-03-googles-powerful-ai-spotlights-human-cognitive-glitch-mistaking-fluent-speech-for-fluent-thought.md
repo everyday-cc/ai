@@ -3,22 +3,22 @@ category: news
 title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
 excerpt: "Fluent expression isn't always proof of a mind at work, but the brain is primed to believe so. Here's why language is not a good test of sentience."
 publishedDateTime: 2022-07-03T01:30:00Z
-originalUrl: "https://journalnow.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6d11c93f-ee85-5733-9d2a-4c18cbd59fd6.html"
-webUrl: "https://journalnow.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6d11c93f-ee85-5733-9d2a-4c18cbd59fd6.html"
+originalUrl: "https://buffalonews.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_cd6dd579-9283-524d-9917-e60f2cdb45e8.html"
+webUrl: "https://buffalonews.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_cd6dd579-9283-524d-9917-e60f2cdb45e8.html"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Winston-Salem Journal
-  domain: journalnow.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/d1/6d11c93f-ee85-5733-9d2a-4c18cbd59fd6/62bc9a3704cc4.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/c/d6/cd6dd579-9283-524d-9917-e60f2cdb45e8/62bc9a668fc2a.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
     width: 610
     height: 320
     isCached: true
@@ -33,16 +33,7 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 7
-  - title: "Google's powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
-    excerpt: "When you read a sentence like \"This is my story...,\" your past experience tells you that it's written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi,"
-    publishedDateTime: 2022-06-28T12:59:00Z
-    webUrl: "https://techxplore.com/news/2022-06-google-powerful-ai-spotlights-human.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 2
 
-secured: "7PdVcdFlVzt7UMyi7/Q6JKpVGlGPJ+F0quHn393zRh5/FMl0Os+wYKznps0g2L2VezfyoVcMrBJKHOuTmdqPIkTP25BZL7qxCSaWi7Q/CTGWhfOnPQypDxB4BHDFYZN3X61IthAtKtX6otWDI1BfUO+elPkIXiLgwFy4D+q6wu3Aqqh2Z+eDlkPq+ArlUKfayacTXBsOZs4lA94CU8jEEsLtj7B7M/IXqGb9wtfjhNytw7eFUpwt5HKDWtO2kd/EzAUnLmRzV6pKtJWsfwG3EsdzjjCyVTziys4uGyDm3AsOYBT5HGRixyrojYtdWykmSEodvUKZosH2aLlDDENlVh1fpzPEnBCgxWCVox4ckxc=;R5E2W0EARjv6D4HjdzHBTw=="
+secured: "1rjUVAV7XPgdmoBeVJDQyiNRBK2s3Ig+1pJjPlUpJTGZluQZ84OixRkUaAg7SMocJctQvU6KxOPmfYV8273eEZCbdIEVPDIugy+sQywYzMMlOx4W5f+/WzmVKn3LV2jcjjnqL3zECe2L4aJLBZcjikK1XNHYKgVEQrLdTq0KTRyQc0idgJUL+OkQdEZ7z9zI9Dmx9lTq+nc3IY2KYDTLe2QdeGzszry74w92V6Sn+XRIEO0LrLrh/MY/SyERW5oVeONJIvEre5NIPpQerRYmTiYxajmvQm69BWSid74nA8ZVaUbDlwvyzJMLMxC59NiMruE+sAFVRgxPMDEDWGt0VQk4KPhmlM3g7nagWUsZBJA=;jtIhWFMzCAv46lAN/6Jp6g=="
 ---
 

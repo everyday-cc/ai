@@ -34,15 +34,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "This AI Tool Could Predict the Next Coronavirus Variant"
-    excerpt: "The model, which uses machine learning to track the fitness of different viral strains, accurately predicted the rise of Omicron BA.2 and Alpha"
-    publishedDateTime: 2022-06-28T12:23:00Z
-    webUrl: "https://www.scientificamerican.com/article/this-ai-tool-could-predict-the-next-coronavirus-variant/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
 
 secured: "FpbSjXpBP+554UIGCjGjMOJe55fBImSEEgc4+fccbfzUIARQmCZ0CP/985Gcy5XgcBuAlYOqOIDuePN2of1Au/SgjCt+l2AWfg0aT8p/PmDINCv6rIDsFhcx9c1NcgV9p2hhX2d/BNXfhi6q2pvAFaU6WzKoxLmBkEJjrvubiIpTthtbzj4ORWhcKpFTINqmCMW9jkrAGtRaWcqjjdMC1bd6uz83c3d+TYK16TgJUfF1SOqvvWMbx59y+g3d2xZbz9z4KS/Q7onsOzNLw946roEnPhjElD9mLTAn0GrBroD2YMhkzkuVTEeMKegtKrmMc+M8G9w1H/lWWQSUXXIlgFNgJOX0KBxTll9jD3X+I8g=;69pWkWV4ZQKB4NaZz5zGmw=="
 ---

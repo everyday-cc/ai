@@ -25,17 +25,6 @@ images:
     height: 383
     isCached: true
 
-related:
-  - title: "India lags in AI research activities; needs to equal China on supercomputing capabilities, says Niti Aayog's Kant"
-    excerpt: "\"We lag behind in terms of core and applied research,\" Kant said, adding that in high quality research, India still trails behind US and China and will have to take efforts to catch up."
-    publishedDateTime: 2022-06-28T12:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-says-niti-aayogs-kant/articleshow/92523052.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 0
-
 secured: "kUiAA02r1Hez69eJIAK3RBHgl4jGApFd59EnDmUqL0sM2TqFRxEdrlXEsgD17HfedFeiMn2K4MRFgqG50OAltYycKT1M3yHuG0Ig8YkNV9fW1G5jJ4D+QLyC52k+GJN3lZko+Cr1poYQImJS19/91Hyn4XrvJxvwB1B3x8HcPFo8Q7lFtDEWM8GTxJCM0YzJgPN75NHl4Duy7N7T+JCYVPd2R1kbvkhWIUnEClJRNf4pc23ECz8UROwGAALRcqT0NfsotulBWjZ0hAsvlm12eaRJL8KPqiT6fJBL+WzG0SAVWKA8sHOA9PRCHcgXFyxPZV0mf8CJCDWBxEX7YcLQOfe5asyEVxEbFQihVESitwE=;8m+jX/6LV3wPBY/6nhXJZw=="
 ---
 

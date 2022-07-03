@@ -45,15 +45,6 @@ related:
       name: Outlookindia
       domain: outlookindia.com
     quality: 7
-  - title: "India lags in AI research activities, needs to equal China on supercomputing capabilities: Amitabh Kant"
-    excerpt: "\"We lag behind in terms of core and applied research,\" Kant said, adding that in high quality research, India still trails behind US and China and wil.."
-    publishedDateTime: 2022-06-28T12:53:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant/92523249"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 3
 
 secured: "/YZgGPsG0KoFanPAsP4mcCI/VWBtvhRBcabJ9xHnIIu4xQFoW2wcKWoKm+P5kuhArYj//wc3YvGXItPZ5vRI3SebsH2VGcNbJwarZCLwK/080lsGP/iYI8g7sUiZf4CmdET6YYKwI0e8l+QQtczARosn6nIdh3vmwKvjwEem+kIwkO502SLC0Ut0YqD+ioiWmdk9EFjBNsstrA71S0oU6cjyf+wa3ZyTdBujUqR3/93PRFKbXJBuGrZh6J+CiefrxOTMw1gXww4cxBVEEbIeZ2bW4iHyHs+KxKkxwaZAKiJ+PvZi/jyPBPou24q6IWsmRwSUNHxJ8A3sHuUNN/QBzqC3FzWp+gcb1ZYHGytmGFE=;HHe0A5cCDIw3wDB+iJ4tTg=="
 ---

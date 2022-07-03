@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Partially paralyzed man maneuvers a pair of robotic prostheses to feed himself"
-    excerpt: "Two robotic arms – a fork in one hand, a knife in the other – flank a seated man, who sits in front of a table, with a piece of cake on a plate."
-    publishedDateTime: 2022-06-28T12:55:00Z
-    webUrl: "https://www.news-medical.net/news/20220628/Partially-paralyzed-man-maneuvers-a-pair-of-robotic-prostheses-to-feed-himself.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 30
 
 secured: "lYVK98A1lbVwbMeoExvP2jHc3ejToYyhO2682FqfNl3FK6gJwEe8begFErvwd09jx3ManhPf/xRPlCHhLqEvSK7YzGGjvKWXwfiqpQVHkIDdujCXDV/ZZ+l/1W4w0d5qVp5G1wpazzVIWjbzsLPgQymGdYl9yE4IXwAsFgkmxxQKzJKHK1arhGhw7F9ITFzWgxpwldb39pKo2Ujir8Cb5zyQ6vL0YocwWuXsnw5gjfZScdpNi2EvFEJYWqZ0A0QkvcDJhY45dc8kn5gftAXMxIxZyfyauLHuxX/fH5ViOBn0wD9hdMaSAHnAUCGipoh2UeO6qo764j2w8RwibmPTWa/MbtZpcZ4ALZkI/GmCewJs1dNoxAn2/bKAR6Xa+Ni3vZG/4+2wzNnQzZDjVzfsoSrVeQUV71CXEurTfQ5Wxct9Oe7LQDv0zusQ/PebqVaA717DEVLyo1TeKRdvE3x49zfThnrYwqP9gAVIJwhYeIugAlCf/IjUQly2thPnc4O/ZTT0R8TOH17V8LpzzZnD4A==;oxeCOGs/VI5nxDoCO5j8IA=="
 ---

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "ALEIA, LAUM and Omexom Launch the AUTEND Project to Accelerate Nuclear Power Plant Inspections With Artificial Intelligence"
-excerpt: "ALEIA, a startup specializing in Artificial Intelligence (AI), and Omexom NDT Engineering & Services, a subsidiary of VINCI Energies, in collaboration with the Laboratoire d'Acoustique de l'Université du Mans (LAUM) UMR CNRS,"
+excerpt: "ALEIA, a startup specializing in Artificial Intelligence (AI), and Omexom NDT Engineering & Services, a subsidiary of VINCI Energies, in collaboration with the Laboratoire d'Acous"
 publishedDateTime: 2022-06-30T11:41:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-30-aleia-laum-and-omexom-launch-the-autend-project-to-accelerate-nuclear-power-plant-inspections-with-artificial-intelligence"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-30-aleia-laum-and-omexom-launch-the-autend-project-to-accelerate-nuclear-power-plant-inspections-with-artificial-intelligence"
+originalUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-6-30-aleia-laum-and-omexom-launch-the-autend-project-to-accelerate-nuclear-power-plant-inspections-with-artificial-intelligence"
+webUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-6-30-aleia-laum-and-omexom-launch-the-autend-project-to-accelerate-nuclear-power-plant-inspections-with-artificial-intelligence"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI
 
-secured: "o1T9uecba6XsU88TznTH/vRC6LLV2eyMLI8ddeUbt6dQqo9HAiEC0ZABBZqRUU1Jxbm3jELSbSnwLJ0FLGe8ZRa9ra4ACP5k8l2l9KLZWdRWRTNYMEcWZpV42bCB0DAxpuNF0m6ien1STAYhKXWuNNUaVPh+CmD+8y9vRWtFYURhl5YjtHtOQB1H+nn6YM/OVRzxCCIqiXW07Lxpr0EWpwHRplU/8VWXvOTirURzii9orpVaBl+iMyeuPaGuhYrRGCMFhgiCg44n4gOJdz3PFmSFsyM1EbPSIOsMkIAp6tkHLY48jcB52/tB9CtVhkBBrbFLfmnxMerVUkZEc5rK0uyI1Vnk97mvltNYA40yrC8=;puMxKpjtx8ffgcuNp7dCBw=="
+secured: "SGRryVv68Gh5tfLSbEulln5KnWIYVx5NSwd7I/VSP7OqxOhhbXOC7wLzpLkYwliXztj+Q1rB86lyFM/o78m3l6GhoVoeQiSJ1hVUNLb7+HvMGw2mzDtq9oY8J7NbqWmnndrMTEPas9Xwm68DmuEFyuKMRiwxCctKXLoiEmxQI4xb6blUtMVnLYR9vvgTnxaPYxYrb5h8TWZ5C4VlXriKlZJ7XAhShIQ4+TeAUYxCsEkeYAbZfq1oAmyrm+d2eiYbHEPEmNIfNbv5X5ks3BqfZfrSIWl0xQ70t1qRFWXQ0NVGGqCi2jTkFZCuAQCw6EKnDPwz0bk9vsNlbrx4/lFQBkEo4sVH0Envt8i8kEYFceA=;tuWV798JR0uCnKDjBysJlA=="
 ---
 
