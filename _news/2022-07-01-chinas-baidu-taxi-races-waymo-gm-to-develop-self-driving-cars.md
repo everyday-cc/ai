@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
-    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services."
-    publishedDateTime: 2022-06-29T17:00:00Z
-    webUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/waymo.jpg"
-        width: 375
-        height: 360
-        isCached: true
   - title: "Waymo opens a new self-driving trucking hub in Lancaster"
     excerpt: "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,"
     publishedDateTime: 2022-06-30T04:08:00Z
@@ -68,6 +52,29 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "BMW's Newest Electric Car Is Self-Driving In An Unexpected Way"
+    excerpt: "BMW is bringing self-driving technology to a select number of is 7-series cars for a trial beginning this month."
+    publishedDateTime: 2022-07-01T23:10:00Z
+    webUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 54
+    images:
+      - url: "https://www.slashgear.com/img/gallery/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/l-intro-1656713192.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Terrifying Video Shows Self-Driving Tesla Head Into Oncoming Traffic"
+    excerpt: "In a reent video YouTuber HyperChange had his own rather terrifying incident while testing out Tesla's half-baked Full Self-Driving feature."
+    publishedDateTime: 2022-07-02T19:43:00Z
+    webUrl: "https://futurism.com/the-byte/terrifying-video-self-driving-tesla-oncoming-traffic"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "XSrKujpa473AGY99ntaAQzSEtPJAY/c4PNlcjCH+5Vo5phQxIAvRwl37+R8rmFmAti99lZ5wR33E12kZNqKfXVNGzTWttIR4XM2Wiv9zdYfmzjFB98Wm/cgKFmlopEAx9heLo84r3PA7mvQuxwRG3wUZ2FljMmEsAJNcYT45J/P3nvd7TF/r5/MKjoFRB5lm2ZE7JsTwP7jl7TZVjlsd/qtHh+VwekuI9gDc/Jczfjdd6oeU+svnOe4pddkuP20rCgSsuvy66EwDXRqQJ+PpvL0XeFnKZzL7bkoYdSSJMGmBwT+Re95Ya2ebaNWr8/qY7TWtRj+aTqRzKkeqSqHMRGqtDqemm41Qp5+Uw50jJNs=;mxTAyYtqr/tCt5adGB/T1Q=="
 ---

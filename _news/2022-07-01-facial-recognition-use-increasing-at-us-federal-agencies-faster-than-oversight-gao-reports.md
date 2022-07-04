@@ -36,20 +36,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
-  - title: "Scrap police use of facial recognition"
-    excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
-    publishedDateTime: 2022-06-29T16:29:00Z
-    webUrl: "https://www.voice-online.co.uk/news/uk-news/2022/06/29/scrap-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 41
-    images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/06/rsz_gettyimages-849090846.jpg"
-        width: 1000
-        height: 699
-        isCached: true
   - title: "Bunnings doubles down on facial recognition"
     excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
     publishedDateTime: 2022-06-29T23:14:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-n
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Dallas Morning News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
-    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services."
-    publishedDateTime: 2022-06-29T17:00:00Z
-    webUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/waymo.jpg"
-        width: 375
-        height: 360
-        isCached: true
   - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
     excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars."
     publishedDateTime: 2022-06-30T22:41:00Z
@@ -68,6 +52,29 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "BMW's Newest Electric Car Is Self-Driving In An Unexpected Way"
+    excerpt: "BMW is bringing self-driving technology to a select number of is 7-series cars for a trial beginning this month."
+    publishedDateTime: 2022-07-01T23:10:00Z
+    webUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 54
+    images:
+      - url: "https://www.slashgear.com/img/gallery/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/l-intro-1656713192.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Terrifying Video Shows Self-Driving Tesla Head Into Oncoming Traffic"
+    excerpt: "In a reent video YouTuber HyperChange had his own rather terrifying incident while testing out Tesla's half-baked Full Self-Driving feature."
+    publishedDateTime: 2022-07-02T19:43:00Z
+    webUrl: "https://futurism.com/the-byte/terrifying-video-self-driving-tesla-oncoming-traffic"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "LzKmz39n3C8Q4+Mvy2zIg7WUdrdfrhl+5qNrsLXd6Ed2k/RsxxEOseA9zbfLze6E91RvJoXo8PBAHSTt+j3h3qW7ghLc5tjogcN7Qj1t2ONVCTHNiLyQgIjWVCZbKUYtlPDeeph5Z8/GvhxwxSlLjKRr8WIv2v07hFKX1o/z/R/KmR7g8CaNDW5P9lqajaM9tlO7ddy+P6W2jhvjm8Hpukh/xWUCJv4wdrDiglz6UjVaeAEH5wYzDbQRcgK8DXOJxzsg6quUwdBSC/HSb8oqVfqj9jtu8N/0shqACQxyiR06P1aiP/DHvcrm0O4l7pmzWtTJbol5kKXcTGbxwt/Q8dI5J5TWF4IYNW6WHOXmrSnaC83P1JgbsqowyMzpXn7zS1ONT7fNFlGNE/NjVoMP7RqGLR2+Sy1zKc4z94OTs3OT9LeVAVD2GI0b6h2d2/BYb1kV2ebefol+t2u541kmHn92Dp21Yu9chGnrHzpigBqLWfSQKaJAVRdl46kJu0vRHflCDs5uiDnyxvb1PBmeFA==;MmqzXqBtoKPbU6/jaUWeug=="
 ---

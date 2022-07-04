@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Space Bots: Manchester Experts Designing AI Robots To Work In Most Extreme Places"
+    excerpt: "The University of Manchester said ‘hot robotic’ systems were originally designed to work in radioactive environments. The post Space Bots: Manchester Experts Designing AI Robots To Work In Most Extreme Places appeared first on Zenger News."
+    publishedDateTime: 2022-07-04T07:37:00Z
+    webUrl: "https://rollingout.com/2022/07/04/space-bots-manchester-experts-designing-ai-robots-to-work-in-most-extreme-places/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 49
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2022/07/6df74644-9b98-4445-b666-93dc54df60e1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "rkPknacHN66xXb9vyRmZgeuFW0ScvJbRe+oJyr0Ytu7u2BubthIwmIyTGo7NrpErKCwTjcI+Pw8uGoKxMnrW2xAbqSPFg5suJJH2+xIX4Ti25kDx4OsAT1Jn3cqlnJv5URBdaEQyZFUhwkLhYXNdOqeyUkdaOz5Y/kXIlDvQbzLSe+hIl/f9ZDV9uS0n7UfBpnsfUAOoihZpvsSyijd69rNZkCY8+D3GyAkD3tVe2aE6HQjG7N0DZ+KFcdIXlNwZBSKH7HyKaTS1brwmadypNp7YI/0BzoeLwlV2idMER9XKYuoA5/R22OMTj2eipesaWaJmp/bLmYkOFBUQ86qsv46AAVo1mCAOJ/pN1vGPAVc=;dcARZtKEkPCyRkh3upUGPw=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "How This Entrepreneur Has Revolutionised Everyday Trading, Leveraging AI And Data Analytics"
+    excerpt: "Muhammad Haider, a serial entrepreneur with his AI enabled trading toolkit platform Tradytics, has strategically disrupted the market of amateur trading with the help of the innovative use of artifici"
+    publishedDateTime: 2022-07-04T09:39:00Z
+    webUrl: "https://www.entrepreneur.com/article/430735"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 57
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656927318-Haider1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Snowplow raises $40M to help enterprises ‘create’ data for AI and analytics"
     excerpt: "London-based Snowplow Analytics, which enables enterprises to create behavioral datasets for AI and BI use cases, today announced it has raised $40 million in a series B round of"
     publishedDateTime: 2022-06-30T12:30:00Z

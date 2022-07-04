@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 30
+  - title: "AE Wealth Management LLC Increases Position in C3.ai, Inc. (NYSE:AI)"
+    excerpt: "AE Wealth Management LLC lifted its position in C3.ai, Inc. (NYSE:AI – Get Rating) by 7.3% in the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
+    publishedDateTime: 2022-07-04T08:32:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/04/ae-wealth-management-llc-increases-position-in-c3-ai-inc-nyseai.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
 
 secured: "uUHmoJZ185iX8gXi9m6zGH9bcQUsYXESQ5gs7m03FcFEaDG5IaObYzvO19lM105plMtlpQXwuL1VS8TKzttYjhFnfwijCCr/Wf8vt31kp8wiX/0ef/8TsfkM5WGdYC7Ls0Pn90yfIPMR38yMugYz1CXEASt4/r/Ypa505BtEaTeyMuRB7SOZmyNmoeDNDcdKyOS8IM8P5sixq5hJ1g9mhpsBLb0briWmU+fm+tqakJ12hLYNnTlCYPbFdp2SgDTH5KbWFELaYhm+yNgUfo8WKfMaaKPoQc4lUZNIQ1Ut8dlfKWPLTWJHRxFfn/mPwyxWjrTZevfEUQ2boOniOd3GkBn5tB8xds7tD3NjJTbluXo=;75jcKV4qhMAdiyqIq1q6bA=="
 ---

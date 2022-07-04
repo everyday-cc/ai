@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/06/30/snowplow-raises-40m-to-help-ent
 webUrl: "https://venturebeat.com/2022/06/30/snowplow-raises-40m-to-help-enterprises-create-data-for-ai-and-analytics/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "How This Entrepreneur Has Revolutionised Everyday Trading, Leveraging AI And Data Analytics"
+    excerpt: "Muhammad Haider, a serial entrepreneur with his AI enabled trading toolkit platform Tradytics, has strategically disrupted the market of amateur trading with the help of the innovative use of artifici"
+    publishedDateTime: 2022-07-04T09:39:00Z
+    webUrl: "https://www.entrepreneur.com/article/430735"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 57
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656927318-Haider1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
     excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
     publishedDateTime: 2022-06-30T11:51:00Z

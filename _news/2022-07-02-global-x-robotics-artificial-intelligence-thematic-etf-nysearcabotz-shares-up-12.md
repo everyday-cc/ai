@@ -53,6 +53,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 30
+  - title: "AE Wealth Management LLC Increases Position in C3.ai, Inc. (NYSE:AI)"
+    excerpt: "AE Wealth Management LLC lifted its position in C3.ai, Inc. (NYSE:AI – Get Rating) by 7.3% in the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
+    publishedDateTime: 2022-07-04T08:32:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/04/ae-wealth-management-llc-increases-position-in-c3-ai-inc-nyseai.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
 
 secured: "y6yE7CJroGqFA5wLnjWAT7uW4zQPBBPAc3tts9fnSdV7arHsOVtbjuQ1oVKP5iIYkDv1PP5Y302OTLj8ViA6IJseZuEjJvEbtHtHNYwiWPwZ8MW0Rpttv5TXeTiOrlPJU//GCo3hspS4dc1p83T/qIFoA/Odj/hQB1ZqlZIBbAJMB9Fjhs8VnZhJHsz4QDf7v/Rxu0dAGTdvKr+FckNVNx014uQ9v/FDLVnDq2znw1K64LSL2ytAtCllEY60lu2vqO8KPxjSIImIYzLaReKb/fagTX1GyG4IYo5cjq/G4gCioWfZTlWWc7e0VWTDZDtAf+SUferi+zmzb0or3jISxAFDt/iDTKskeN09Vj0uYGcY35ikUActAJvSfyrYOqtuqgMG1+5mHgD+Ik3yq2gbzF4R7tMcXQs1sIlJDslyo+4cN/PjSLUCXoOzEhCPD4DSoDC6cqsXY2NQPUUIPEhIdwzaL26FHCPtzZkDnIeH0ObVjqjpYk2hjY276tdGoWlAwr3BBaGuiXnaYKtk7t4sNA==;YtoXjVd05XmIuLiJkl/jSA=="
 ---

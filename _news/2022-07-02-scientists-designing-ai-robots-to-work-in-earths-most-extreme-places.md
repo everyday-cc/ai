@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Space Bots: Manchester Experts Designing AI Robots To Work In Most Extreme Places"
+    excerpt: "The University of Manchester said ‘hot robotic’ systems were originally designed to work in radioactive environments. The post Space Bots: Manchester Experts Designing AI Robots To Work In Most Extreme Places appeared first on Zenger News."
+    publishedDateTime: 2022-07-04T07:37:00Z
+    webUrl: "https://rollingout.com/2022/07/04/space-bots-manchester-experts-designing-ai-robots-to-work-in-most-extreme-places/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 49
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2022/07/6df74644-9b98-4445-b666-93dc54df60e1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Flawed AI makes robots racist and sexist"
     excerpt: "Researchers have shown that common AI training models like CLIP result in robots gravitating to men over women and white people over people of colour"
     publishedDateTime: 2022-07-01T08:00:00Z

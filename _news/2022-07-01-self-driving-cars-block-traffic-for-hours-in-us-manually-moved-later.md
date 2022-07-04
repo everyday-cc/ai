@@ -55,6 +55,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 30
+  - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
+    excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
+    publishedDateTime: 2022-07-04T09:46:00Z
+    webUrl: "https://www.businesscar.co.uk/news/2022/july/fleets-should-make-major-contribution-to-self-driving-cars-inquiry,-fleetcheck-argues"
+    type: article
+    provider:
+      name: Business Car
+      domain: businesscar.co.uk
+    quality: 17
+    images:
+      - url: "https://www.businesscar.co.uk/imagegen.ashx?width=650&image=/media/3744508/autonomous_car_driving_on_road.jpg"
+        width: 650
+        height: 391
+        isCached: true
 
 secured: "rR3zerZ/bFKlDaHeSyJWw2QyQx2D/BFXNScrbysDbr3nGHmlYSzW4qkMOWP3v4fHWWpmKlxlJxTYdMOZmrpVYM7nwKRjnNv9XzUh5o/PD3imh8nqmTx5J1TZbY2UF18/xfwB0Hl9NyI2uhlrZN+sryI3W89x0jXoWhnAsw+bsFUBJwYn8elPo7OvIL8/76eqxE8g8955Z1nfFdTJ81Ld/SdQcDHwqMdnYOvFzonCxLF/o3Hkl9vPXmHiq7gp8Nga/c4gTt/JXcn+REwvAthadlz/tX/jBmuM99ynfn8WYYUm/D9Dd3B03h3qBbUpuyYvh6QFsdZoxS1skmD4Gb5BGEdBlRvHLCbxpX5z/eOywKJOvrJeZY5yUeoQP6G/gCb69vsFGEQM837sSjghSKXxFrejJv8sLjaP7VWE5eo+3qhZhLe9vy/ZDi9dx66QXoLV/KKgS120wCior1aNVBRzonBT+gP8PXEEp54oVtWEkd+r3q8KygehZYw5KspK5Qy4KSf7rkD0MmlyOuZPuOD//g==;JUxtLugD++3SG7PKIxHsNw=="
 ---
