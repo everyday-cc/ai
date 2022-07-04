@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T10:30:00Z
 originalUrl: "https://www.sourcesecurity.com/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html?ref=nav"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SourceSecurity

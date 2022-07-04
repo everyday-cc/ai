@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Prostate Cancer: AI can Make a Big Difference for Clinicians and Patients"
+    excerpt: "Artificial intelligence (AI) can help improve prostate cancer patient lives, but International cooperation is needed."
+    publishedDateTime: 2022-07-04T14:35:00Z
+    webUrl: "https://www.medindia.net/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 56
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/prostate-cancer-treatment.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Riiid and Latin American Education Leader Casa Grande introduce New AI-Powered Test Preparation Application for Colombia"
     excerpt: "Innovative AI solution to help up more than half a million high school students a year better prepare for their futuresSAN RAMON, Calif., June"
     publishedDateTime: 2022-06-30T13:32:00Z
@@ -35,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Here's an AI's interpretation of what lies beyond Michelangelo's 'Creation of Adam'"
+    excerpt: "They range from criticising people for putting stock in randomly generated art—which was of course met with praise for our lord and saviour RNGsus (opens in new tab)—to references surrounding the great Flying Spaghetti Monster,"
+    publishedDateTime: 2022-07-04T15:43:00Z
+    webUrl: "https://www.pcgamer.com/heres-an-ais-interpretation-of-what-lies-beyond-michelangelos-creation-of-adam/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 31
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Y4CkBXsqcC2UoPMayTuTgd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
     excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
     publishedDateTime: 2022-07-04T02:49:00Z

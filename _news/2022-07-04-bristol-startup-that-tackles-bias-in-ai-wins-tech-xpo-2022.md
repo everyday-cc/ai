@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T12:09:00Z
 originalUrl: "https://www.bristol247.com/business/news-business/bristol-startup-that-tackles-bias-in-ai-wins-tech-xpo-2022/"
 webUrl: "https://www.bristol247.com/business/news-business/bristol-startup-that-tackles-bias-in-ai-wins-tech-xpo-2022/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Bristol24-7

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T13:00:00Z
 originalUrl: "https://www.impulsegamer.com/ai-the-somnium-files-nirvana-initiative-pc-review/"
 webUrl: "https://www.impulsegamer.com/ai-the-somnium-files-nirvana-initiative-pc-review/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Impulse Gamer

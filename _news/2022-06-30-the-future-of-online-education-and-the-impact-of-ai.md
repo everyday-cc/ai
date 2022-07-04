@@ -7,8 +7,8 @@ originalUrl: "https://knowtechie.com/the-future-of-online-education-and-the-impa
 webUrl: "https://knowtechie.com/the-future-of-online-education-and-the-impact-of-ai/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: KnowTechie
@@ -39,6 +39,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Robots in Production: What has Changed, and Why Understanding the Role of AI is a Key to the Future"
+    excerpt: "IEN Europe talks to Oliver Giertz, Strategic Product Manager Servo & Robotics, Mitsubishi Electric, Factory Automation EMEA - on why more robots will appear in new places as they become smarter, and why this actually is a good idea."
+    publishedDateTime: 2022-07-04T13:38:00Z
+    webUrl: "https://www.ien.eu/article/robots-in-production-what-has-changed-and-why-understanding-the-role-of-ai-is-a-key-to-the-future/"
+    type: article
+    provider:
+      name: ien
+      domain: www.ien.eu
+    quality: 20
 
 secured: "q2y4dbQCBEOnHDahHKwKTUJ72JwBZQOczZlnsCejmxOozvDoy6wvHftpWoCDw24iMsbm/A0dKLwXQBdt9J79MrPrYpmsSsr9u3ySARrkNzLu6z/eIMJxOY4be06aLKH/WG03f0IfhTvpFz5p4peajb4r4iCo73QouHr3zJke9w5DhjrJWeMig0ZOJHr78M9/gXAYlA45BFYegbB0PiaWDEUwHGeCN217K1xefC/bb/wNNZJY5MWoy8QBDQkBVDy3nZpmy6xtszPUtM0fvozS+AzBv61kOUgi7V4Hgk2AwalxAeiKUqnIP84PjqvaMQnl/bOeTrrUtjC+Qda1k9qYxwfd7BlLZJzINPxe6KM4Fz4=;EzZPSZydkU2DNzRe6i0a9g=="
 ---

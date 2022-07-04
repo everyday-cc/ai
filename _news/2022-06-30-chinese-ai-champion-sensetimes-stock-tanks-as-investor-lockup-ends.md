@@ -36,6 +36,15 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
+    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
+    publishedDateTime: 2022-07-04T13:34:00Z
+    webUrl: "https://www.news.com.au/world/asia/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 17
 
 secured: "0y1Q8k6cnWcrAPF0Gb4KbvcQjZz6JAQzm1phm/x2lVKJ/eHd0XnFa17bIiBpb2BeARbSrJ4CXvR9bzJ4DuaVjMTvnyTGpT5nmJf6IWRJzV3IukwnF4Hx+9KpZw3kgxW7uu3JuxfHcC18ZP7UwyWFY2xKyFlUvShcyOIAXBgx535nqyBQdNFzY1t+ifUvjJ2QS7p2rC49hxSH6CHLb9/iICfXZLwsiIRsXaRBbG/po3SBOEXLzWZmKDkLvqIzfBxcrNyblgDqFr0pKMW7+wSQ0ITTvoi5usBxUKC+8NW6hN80S4VUAIpskmK5QksMJzIQ8S/3sfCW27JPAR1qzfn5y4H+5VyrAT1JszwccR47Y7uEFcGLA/iORzWxCREip98Vzh0u6GyyBURlpwcEwA1uiKMJRTZJa0t49y4Lmg/vdKzrE+76/PTZ9HG/RoblP7TF3z1Xt5tU9Dm3KBw41DiIMFB/YjRmPYfhz+dGkUtoqtkIOZusFmo9jRda3vFOzlJ/ZnbC+lHNq0EvFpRYSCn0kA==;IOCOke1BsDaE/cJ3lx/hbQ=="
 ---

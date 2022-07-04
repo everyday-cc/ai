@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T13:31:00Z
 originalUrl: "https://www.pharmiweb.com/press-release/2022-07-04/2022-research-report-on-augmented-reality-ar-in-healthcare-players-include-beyeonics-brain-powe"
 webUrl: "https://www.pharmiweb.com/press-release/2022-07-04/2022-research-report-on-augmented-reality-ar-in-healthcare-players-include-beyeonics-brain-powe"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: PharmiWeb

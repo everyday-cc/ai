@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "sw0vCuQtYLkMQskuwCiO5d8vA2QBsQQ/GpNg+i9PLAtIzQgzQVkhGw5JQH0aEQolWRRQwGC5NAlP/NVtvv+9+ElR4L5fZmzyW/7H6C+bj7e7CO1jD1Z28nBO8BF4dohuuDwOmgLv2eoBOmrmM2XJBvybUEX4PpJbgQqpGk4vaq+V1bO/fbhbUimF2nUdvDtRzULIs0oj8BhIfbhroonO/96b2jVFt5W1PUIMOnxySN6mFHF0nrTHzhxeCuEe3NZFVkJ/0BUNLqBSfdvQr9TrDAiYnzcU082NJ3lLDuCT7KynFul84dnLA87H2kXWFAHTRJnGHoIPOCRmKL506SqROZ4AKIrT9brU6L3z4jaKy5s=;RCeubNA31uuCpWfNYDEc2A=="
+images:
+  - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
+    width: 400
+    height: 258
+    isCached: true
+
+secured: "xc9dzQk1q1rGc7HPsonl0YjmZofb93BYFxCjgVamLVpudS6PZOFJ1g7rhMYvidcpWaYf2S/5soDZ3MUcJ3zffU0MmB4SpRywrCR3KnCvnMNeue1tlR9PcuYNocIPtLdsjUX3iaX2iZL//iGgHrNSegST5DxRlHQKzqwuucezGqFx6VbJkQEXVrdD37dkaxPz6O0lAnk/6ttbBC1kwZi+xy2N41vqXfFsNLQexeAhsIRsXz6apVz+EM8M9ktLE8IxpDlNKAQ259BszsHQuzpPmDR+RvkMvJomaSgfGQE7b/iJQV13wnm4MIv6Hhd9iP4PpilZ1ncPSvO2oJpDPxGzpID4jE6gHWBw1Uuksl/xrh8=;fKB6QXpfHzL6uu5beU7oww=="
 ---
 

@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Use a custom image to bring your own development environment to RStudio on Amazon SageMaker"
-    excerpt: "RStudio on Amazon SageMaker is the industry’s first fully managed RStudio Workbench in cloud. You can quickly launch the familiar RStudio integrated development environment (IDE), and dial up and down the underlying compute resources without interrupting your work, making it easy to build machine learning"
-    publishedDateTime: 2022-06-29T22:04:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-custom-image-to-bring-your-own-development-environment-to-rstudio-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/29/Featured-images-for-ml9305.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Secure Amazon SageMaker Studio presigned URLs Part 1: Foundational infrastructure"
     excerpt: "You can access Amazon SageMaker Studio notebooks from the Amazon SageMaker console via AWS Identity and Access Management (IAM) authenticated federation from your identity provider (IdP), such as Okta. When a Studio user opens the notebook link, Studio validates the federated user’s IAM policy to authorize"
     publishedDateTime: 2022-06-30T19:36:21Z

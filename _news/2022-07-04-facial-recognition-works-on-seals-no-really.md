@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/environment/facial-recognition-software-seals
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp"
 type: article
 quality: 59
-heat: 119
+heat: 120
 published: true
 
 provider:

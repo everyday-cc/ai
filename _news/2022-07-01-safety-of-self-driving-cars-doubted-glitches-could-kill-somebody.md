@@ -26,6 +26,22 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "MPs launch inquiry into self-driving cars"
+    excerpt: "Inquiry launched into self-driving cars. MPs to look at what needs to happen to prepare for the arrival of self-driving cars, including regulation and insurance process. The safety of self-driving cars will also be examined. The Transport Committee ..."
+    publishedDateTime: 2022-06-30T00:00:00Z
+    webUrl: "https://www.honestjohn.co.uk/news/driving-1/2022-06/mps-launch-inquiry-into-self-driving-cars/"
+    type: article
+    provider:
+      name: HonestJohn.co.uk
+      domain: honestjohn.co.uk
+    quality: 24
+    images:
+      - url: "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17359106/driverless-car.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "uNP8K/+PDZDypoiGoZn6JVxUkvGk/ZLoQBZc7XVun6BoLCHQtxp7Fsu4YcNMsE/5a5yLOcgjR9drS5hnKBzedeLxsAwOe+2AT9OLKqRThlF0hx6pPHRsPgqXvwcbx3kyYrrsvvMfPz33RvIaC7cxfKOt4b0uWxzRWtlWHYntlePGJMzn3If1PTAIFWPHW3M8TkcQEeMw+JhEEah6VQWEGMOZRCu99BfliPZUcPRQzt7WRzL2dl+dCMeVWxAI2DOaTjHt9X6hmHm+MpGU9rjqo6Ya8seJeoeZjF5jiXN6c+b3KTRQlA2BI5uG3CliILuBAo2/o8njX8hqIz5CfZXH8paswHrLV5G0o20D4lliaVk=;oQqHHIExGCTm5CBsBgHZSw=="
 ---
 

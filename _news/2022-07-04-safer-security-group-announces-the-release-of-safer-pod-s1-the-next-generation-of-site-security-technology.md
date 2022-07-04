@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T13:22:00Z
 originalUrl: "https://www.sourcesecurity.com/news/safer-security-group-safer-pod-s1-next-generation-site-security-technology-co-4414-ga-co-1557224325-ga-co-1652250188-ga-npr.1656932447.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/safer-security-group-safer-pod-s1-next-generation-site-security-technology-co-4414-ga-co-1557224325-ga-co-1652250188-ga-npr.1656932447.html?ref=nav"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: SourceSecurity

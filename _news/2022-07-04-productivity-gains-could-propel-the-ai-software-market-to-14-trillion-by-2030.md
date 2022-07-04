@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T12:08:00Z
 originalUrl: "https://seekingalpha.com/article/4521640-productivity-gains-could-propel-the-ai-software-market-to-14-trillion-by-2030"
 webUrl: "https://seekingalpha.com/article/4521640-productivity-gains-could-propel-the-ai-software-market-to-14-trillion-by-2030"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Seeking Alpha

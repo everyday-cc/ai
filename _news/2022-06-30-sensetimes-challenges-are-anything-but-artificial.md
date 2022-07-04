@@ -33,6 +33,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
+    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
+    publishedDateTime: 2022-07-04T13:34:00Z
+    webUrl: "https://www.news.com.au/world/asia/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 17
 
 secured: "ZGJbdRz7NVuVGKVkV+DT0NzE4/Do46EU5rMsy7DAQ0wUHoDKVpTWMi5EyNEN93JqXICe8d7/1GhF3VK5bWdVyJEunX/HgnBnWXwEjtrXal6JB9R27LpTfauzWf5i10IAMXxSE+uN90+cUzvorHJu2PHlxxNVE+IVnRGAnZNwxhAZWX3kzP97K29qgahylijHS+8x3MZH/xr5q7WeFCgShMhfyzFensy8YXLoE+bbGsAaND2YFGgahLLqcmP5duH+hNaYI0QCodopJpDsPTDdzGwIQzQX8+u671pqMSoyfRAK5wA5WScmNSWLk5cFiQkS0c3nOXiuwdFI6YON2hy6cC8BxvczN7W/GhE1eT8YfVQ=;MkWMyrHI+5fe2ftCdgTlVQ=="
 ---

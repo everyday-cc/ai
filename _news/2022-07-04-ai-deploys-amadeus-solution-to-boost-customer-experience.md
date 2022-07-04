@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T13:45:00Z
 originalUrl: "https://www.thehindu.com/business/ai-deploys-amadeus-solution-to-boost-customer-experience/article65599541.ece"
 webUrl: "https://www.thehindu.com/business/ai-deploys-amadeus-solution-to-boost-customer-experience/article65599541.ece"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Hindu
