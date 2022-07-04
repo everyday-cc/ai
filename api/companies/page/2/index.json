@@ -23,7 +23,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 83499
+        "followers": 83501
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -167,7 +167,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 28835
+        "followers": 28834
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -220,7 +220,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 17533
+        "followers": 17535
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -277,7 +277,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 20539
+        "followers": 20542
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -465,7 +465,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 13174
+        "followers": 13175
       },
       "yearFounded": 0,
       "locations": [
@@ -631,7 +631,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 74630
+        "followers": 74635
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1088,7 +1088,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 13491
+        "followers": 13492
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1106,7 +1106,7 @@
       "heat": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1531934258163597316/kZ4kx3lC_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1543913514481459203/a_Pp0not_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Babylon Health",
@@ -1488,7 +1488,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 5070
+        "followers": 5071
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
