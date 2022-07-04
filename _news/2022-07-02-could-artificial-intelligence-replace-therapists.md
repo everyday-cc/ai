@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/c
 ampWebUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/blue_planet_studio_shutterstock.jpg?itok=vp9Js1ws"
@@ -26,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "MZeeRcfl/eu6pra12UV+zMZfzmmNrBoj4vuX108yjpatHn37shspYWmmuyRgDx4giBWUFPA2XxyshOooQNazNZgOzrQL+hD7FpaGiXyTbGMZsChjzeeYeUXrc6Mg34NwnUKHFNabM2UVS8ia6I+sFlv/gFhwWpXLDjVenaEU40edSYk62SRr4gHEsx9ToZs0b3u546z5tmJosocCCxulh4Pt0IQnL/90h7Kdvqi6ZgIcEIj9xuaNigL/JTyK9XEr+yMpuuBkDUhWEVCx0J0+bQ/sX8NOsovJfgzjV+vDp1mLVcgF92/l5GRYPfMW5LngEb8PBKD5qbQfuHOjIo/EC3d23At+GLbKUOk3WqQIdM0=;tUfx/zGjbzlBm7CImosqwg=="
+secured: "yyFUdVasGK4SSe5FIF/1ZNcv2PkVAtQIOeca7wxnXR4yXWPRzXq5kDTDQm6VvIytvyYSD6nM7oV7m7CgWlHgRmx1h4TaTVNeAKB+NnASTMqkKEn1CjFXa0bjMf7MIgamVjM6mK7/dTfvotBu2Haz2lorEaKCCU4l+of1ggMvr7k8eu1U278fIqYp5IMMifAiwl8//fOVcwZaGeQJPdqC1SUzDKsby/J7FEhGZsKcTr1+R3Vh38SNPN516t4vfoqvGI76VnTW8K26Ex+lzs5EI++MWDHj6y+X5De8mJ5ikTQ6/MMytJGOGHMMQ4C/r/LLVLdTLORMFiFS9PLALeYgj9zjUR//nvAxZ3uI8g33UfwjT82UTbwTvl3QKlGkVXeS0BxsA0iZ0k5oEKknkH9Qr3vL8wfPBljAtc7vCX5nhsygCfn52ZI/I4+uc6sk6ct32LRuCxVNt5LqFYQF9Rs8mz0+s0dsKRdelSrpX56qIICxexY1tSEkbMcQ/Rh1nEP4q8Cjwtt+9K/se8dX50VYRQ==;gXVItvsLkq5+UlEI386tqA=="
 ---
 

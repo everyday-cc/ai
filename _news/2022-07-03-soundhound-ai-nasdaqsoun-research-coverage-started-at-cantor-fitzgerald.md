@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "SoundHound AI (NASDAQ:SOUN) Shares Gap Up to $3.20"
-    excerpt: "SoundHound AI, Inc. (NASDAQ:SOUN – Get Rating)’s stock price gapped up prior to trading on Monday . The stock had previously closed at $3.20, but opened at $3.32. SoundHound AI shares last traded at $3."
-    publishedDateTime: 2022-06-29T08:54:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/29/soundhound-ai-nasdaqsoun-shares-gap-up-to-3-20.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 17
   - title: "SoundHound AI (NASDAQ:SOUN) Hits New 12-Month Low at $2.41"
     excerpt: "SoundHound AI, Inc. (NASDAQ:SOUN – Get Rating) reached a new 52-week low on Friday . The stock traded as low as $2.41 and last traded at $2.55, with a volume of 23124 shares changing hands. The stock had previously closed at $2."
     publishedDateTime: 2022-07-03T09:08:00Z

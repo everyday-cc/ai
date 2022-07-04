@@ -33,7 +33,7 @@ related:
     provider:
       name: CRN Australia
       domain: crn.com.au
-    quality: 39
+    quality: 41
     images:
       - url: "https://i.nextmedia.com.au/News/typing-data-analytics-software-1.jpg"
         width: 610

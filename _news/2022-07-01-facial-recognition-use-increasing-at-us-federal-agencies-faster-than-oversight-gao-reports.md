@@ -64,20 +64,6 @@ related:
         width: 766
         height: 431
         isCached: true
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
-    publishedDateTime: 2022-06-29T08:47:00Z
-    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
-    type: article
-    provider:
-      name: iothub.com.au
-      domain: iothub.com.au
-    quality: 36
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "2t6XUrCUlu7z7kpOVO70PzM0y3Vh2Reqi3+mf1xFM/J1ad2HUJfdguBtspToPHnf1adIcCQK2yifGm6DqbCEfjXyQLrJyc47xsY10mHG3Snpl6nJE8K/DLCDwHYYyMdUliLxenk8sgxLn8KTRK6S3qyrdQSDz6DRduur/jXB8Zbswo8xe2NH7XnTcTB0h59hBfuVn4h6pvQ/+Xn9vFbFnVefE4Ps91vyNYT4wmsrRxd6oayIaSfbtzMOTor+/NXXp9igcNzEnMm9oii1c0JGfZN5QciV++ALZYrfOkbyvI6PmB4V3jJx9PQaPurF+0fKVKG+d9tWSuDe6++mqg6c0KbwSSwqRGbkNkcHGxmVPJUGEFat8gprVdrjLnMuhSJPACDjc+8+W3uQNPiSb6RlTQ4U5CRPWhe1daToN2R1cIeeyqC1jWq2X60F1loVRJ0axWRePZn2v5WH1YXsflRm9TULvHYP/nvNPm/YqkqKxkk5jWcmI3Yg6BgRwhMVHV1wggTm6VNsxGjK5sbRZwIIvQ==;jTBV1Y9NDaBVBR6UKJEaQw=="
 ---

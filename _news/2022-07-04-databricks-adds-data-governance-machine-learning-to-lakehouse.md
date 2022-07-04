@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-03T20:21:00Z
 originalUrl: "https://www.crn.com.au/news/databricks-adds-data-governance-machine-learning-to-lakehouse-582139"
 webUrl: "https://www.crn.com.au/news/databricks-adds-data-governance-machine-learning-to-lakehouse-582139"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.nextmedia.com.au/News/typing-data-analytics-software-1.jpg"

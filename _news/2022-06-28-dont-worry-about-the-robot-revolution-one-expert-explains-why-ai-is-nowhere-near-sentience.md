@@ -3,26 +3,26 @@ category: news
 title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
 excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
 publishedDateTime: 2022-06-27T17:20:00Z
-originalUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-webUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-ampWebUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
-cdnAmpWebUrl: "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+originalUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
 type: article
 
 provider:
-  name: Valley Public Radio
-  domain: kvpr.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/08aed3e/2147483647/strip/true/crop/3000x1848+0+94/resize/880x542!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F06%2FAP20007048093657.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/f498abb/2147483647/strip/true/crop/466x262+167+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F9c%2Fb3f8e53c42d8b3dc05218ee5d8cf%2F6231720129-0044d66eef-c.jpg"
+    width: 430
+    height: 242
     isCached: true
 
-secured: "PJQvg0fe4xonu7r4jLFsqor4MZS4EkDwf3PPIQ+9c16pgFuDnv32RtpaH3kpyX7U4L96AEPubkIZDefY08sv8XCV41SFlPePKiVAOiSpijp/8Ccj+d44mXgT0AGDZZc9bmLc8CJmEsBYv/2idDLC4OL61Jj+VKdHdK7kJzTHXvXp+VHT1ck5fS042fRoOSmO5bcyes/73C0uaNPVw1EWz65eiDE0K2sZpKAHPguftkB+GQhOT84rjd4viSrIPHpnJ2KrllflOtPdZIvVWuR1jsx9thwpHgFGDw6uY9uTmy7v5xJ8UG4vF7syHdv0ULAAS/mnxSzz2IrqGg6EQiubIsZRU+udLp27kAkYGegBmCs=;DDRncxJXKC7iWkwCkyx+YQ=="
+secured: "xEQPis3NZCbjCE0ZCkUwqjet+wUbwbVcOUe7bhX6bBgAqPjUQEOE6BVPsQ8+HZ9dtqxJI/kmhWK0mLaU8cJSQBppl+HZ2cLOkYWXsjCM2w/l/IHARaEuUaUSumYR/N9Cb5+Qn61PPvr1iN8A7/jS9g50ZQ6aLrrqpBfPc/OO/sQG/B2v5K34QsbTS1Fmo/roNZKdnMnX+wJFEVw4sLXys/uLZmOzKbxTnTWZAyaX7uTDh8Sjnj+qn+FIaoeIB6Tz3mLZDOuMG2pGxEPdfMI24mj+/kRj9u8c5rMMylK55PdLNQ08s7WBiltrOwTtv3zGfSoud2jpaMXEy+DJ0p2Oh9OzTZmGZBrvcUQpOgReYng=;8rmbtZRRNyJHaLgXAG6skw=="
 ---
 
