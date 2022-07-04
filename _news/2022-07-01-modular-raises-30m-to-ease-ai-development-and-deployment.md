@@ -24,24 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-    excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-    publishedDateTime: 2022-06-30T19:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+  - title: "Looking for silicon that’s actually designed for AI development? Look to the cloud first"
+    excerpt: "Meanwhile, the GPU architectures touted as enabling the AI revolution are both expensive and in short supply. And while GPUs may excel for training AI models, their advantage when it comes to inference is not always so clear cut."
+    publishedDateTime: 2022-06-30T10:04:00Z
+    webUrl: "https://www.theregister.com/2022/06/30/looking_for_silicon_thats_actually/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-  - title: "VistaPath Secures $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-    excerpt: "VistaPath announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen"
-    publishedDateTime: 2022-07-01T09:45:00Z
-    webUrl: "https://enterprisetalk.com/news/vistapath-secures-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 20
+      name: theregister
+      domain: theregister.com
+    quality: 50
+    images:
+      - url: "https://regmedia.co.uk/2022/06/22/g-core-labs-advertorial2.jpg"
+        width: 2400
+        height: 1111
+        isCached: true
 
 secured: "kD35GEazE28+vp+aAeS8988zb79shfz9+aRwgCRbsEzbjqImEYN+lCUGWezeLJZT0BYdYj3xqgDUaCKSpRw7ckz2in5LTjTd2ckKScGFSaQxxuri0DYw4q8WyIpLqDZob03+65yQBcA1FQ6yBDkdq/WDp0rgOY78uJPvbn1OF9cnn35GDHPzK2kUu9CJ7RBz3/943eECfRDtnq3+9Mu5CDCIevllVtUhr6qeCiFXdGHQJEEBW8S1hqIocaGwJ9sQ0E9ya1ZbsCM/l6xjgEqD/rvXhP57RqQbn+OVqRlkesi8Lj+xxS/vJhNewoABa2u2gASzMVLkmu/btEpAeil9UF64rFJjIsFFdgkrGEqq1iZZ8eahOGfksP8wNohoftrRVPrlJtTV2eJHA5fEFJggVkqD0srL2dsk4YzLx2Zia4+4ef4YMjqrcf2HGJko3mvEM68HOgb3PCFFBozXu5DMoxceskAw2IyfqHoOpEZgqOwM0jxmJ0Vg9yhWHhxdEWVYRDen/jie6+0KhLTR+rFbGA==;vR9ppzCmJg+LnG3hUOGXOg=="
 ---

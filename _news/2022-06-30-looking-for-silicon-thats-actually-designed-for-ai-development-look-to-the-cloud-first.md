@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2400
     height: 1111
     isCached: true
+
+related:
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
+        isCached: true
 
 secured: "OQVTTrEv1NBXKTfN+5O4ygDgHjRKhjZeTZJgOxYKAc2aQj7OWQeV99GEGmATKlSZ+kQxeI9DBWGobvfefHnHkh1oh1+Xa881brDr9v0DWAJNLkY+n5gR+iavuo14FYKVi7HEEkZV+MDvtBJ/fH9Nyqt+A2Z8LGLnIf9pm80N9X5j3CCobuXp2X7ltztb96U8RNUMHSpU4r+KCCWy49XUjb4GIvYaxTPjl0gFrljiITyvT0UCMfk20iCPkNk1LVW9TMCGSZAnWM6TSulTP23b7btX96H3ZBlQvL0BTgZ1X9r3muJlOiMXhWhWO+Oyx79hgMkTTyOAYBMgjtrVu0W95Fpwg0znVrpumuHt3R8TVVC/mQgjes8TWduElIE04vSgzvIoU5AOxiJYE4UDMe26VG8GmlF+kKr1H7Jvw21++HS60+GWqX2GySy/8Gz207wxUBQGJPfmqhhy6OD8OATKVxJLWKH9IKn+jYjyjwTxcOG2cV3Ax3TfUa/yIUwZZNNB3qdY2t/bARUvld8NYyaruQ==;sg4ZIq8LtUN+JGKcR8AuJA=="
 ---

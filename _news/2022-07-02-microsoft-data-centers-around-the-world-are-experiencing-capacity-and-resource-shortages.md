@@ -43,19 +43,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CWallet announces partnership with Microsoft Qatar"
-    excerpt: "FinTech start-up CWallet has partnered with Microsoft Qatar to digitally transform thousands of organizations by equipping"
-    publishedDateTime: 2022-06-29T10:37:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
+  - title: "Microsoft retires AI facial analysis tool"
+    excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
+    publishedDateTime: 2022-06-30T02:56:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-retires-ai-facial-analysis-tool.html"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
-        width: 600
-        height: 500
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20azure.jpg"
+        width: 821
+        height: 462
         isCached: true
   - title: "Microsoft's Intelligent Cloud revenue worldwide up 7.8% in Q2'22"
     excerpt: "According to TradingPlatforms.com, Microsoft’s Intelligent Cloud Revenue jumped by 7.8% from Q1 2022 to Q2. The company generated approximately $18.33 billion in revenue from in"

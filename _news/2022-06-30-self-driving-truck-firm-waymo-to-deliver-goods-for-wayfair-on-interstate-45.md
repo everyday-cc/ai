@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-go
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201768656_201768656-ad342a272c4e4110968c9d9f7caad4ac_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
-        isCached: true
-  - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
-    excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."
-    publishedDateTime: 2022-06-29T10:15:00Z
-    webUrl: "https://www.wdio.com/good-morning-northland/airbnb-bans-parties-wayfair-self-driving-deliveries-niantic-nba-all-world/6513307/"
-    type: article
-    provider:
-      name: WDIO
-      domain: wdio.com
-    quality: 49
-    images:
-      - url: "https://www.wdio.com/wdioimages/repository/2022-06/Airbnb_bans_parties_Wayfair_self_driving_deliveries_and_Niantic39s_NBA_Allworld-syndImport-061507.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "s8VkAMTbJMB5uzJ3imTsbgDxAMpcZANMvFBOcSiRqyrK+r4kq+3po7/gP1Xh1/dCdKSBgY9D/82mJqw8FpzdFSQ77TvhqFmzi52j1AZMSWJKsOHrlnCIADyXe4oTUOoOusC8hz32OjjDgnD3OTaPtAvQtteLC+NxU2gEzVgaYbSDitSB27YW+ND2yuOD/L37FRzsswZqU+hWcNtIS1FOCyRy71w0bR0dyI+eqB5B+s/xCB0NDxtWoXrIbXRc7E9qppDIkbaUh6lH5E4EbTUXajepDSo9d9w53kAIyLTE9xobZnjG2gCcdOdzqNvPZjDUdEUJR2JP5i0DRmpHd2GI3ETQWQke1SLCD8u2iE/9gRVqz8i5iQUo6xnL9KkcFfk9bT+2M5qneCBOj2GFbaJJ+uG88OUYyRPcaMXTUYDQeUsYGaHzpiZ0bN7fd9VTZ1GpDGNDYaADsIL/Dw4RB8f3Ovirh1sy+tPPpSYJrd5wU4yK+eKrKhbBXIGTKyni70hFCbCtHlrxHYxZ5ZTJshy63Q==;/KljAmYoEiXDD5qf0fjiNg=="
