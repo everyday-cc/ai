@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/merck-launches-
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 2121
         height: 1193
         isCached: true
-  - title: "Merck launches Digital Sciences Studio for tech-driven startups"
-    excerpt: "Merck (MRK) said it launched Merck Digital Sciences Studio ((MDSS)) to generate technologies for drug discovery and development.The Kenilworth, N.J.-based company"
-    publishedDateTime: 2022-06-29T12:04:00Z
-    webUrl: "https://seekingalpha.com/news/3852781-merck-launches-digital-sciences-studio-for-tech-driven-startups"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "zYffFG5TUrTYo7nrM9vS2knuPWdTsgWfI75qL991SeWXv4X3lfcgfIic/YbFq5Ca2J7iqbOb83uLHAjWLjGxe1zfeULJIZMZ4ssbva0xw/1OBXNTtsr6Gzt5qgZWXvnTne6HH1ZLIvJxjggLkjXgZZHlcr6QZ+u/TZ4CiF/fRjrJRSgSQEPDokkC5MEWGeCNJqSspesirouGBGsi6ncVswaUR1IlbQWsjYganvDKEOGz7Z/dkjVMdr/4+IUYf+wECsRYuN4h7gaWtga3DuGoCD6a1sD/uWMm/7gPI2BHZUhmNik78HjrF2tHSFOLWCeavZ4vgiyTR6egMICWr/PXsqCzUgQTcwmIiTe9Zzmzf6w=;BphviKk3+SCJFz81BfKt7A=="
 ---

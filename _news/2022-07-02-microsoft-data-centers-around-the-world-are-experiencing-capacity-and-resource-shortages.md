@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-
 webUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html"
 type: article
 quality: 60
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2022-06-29T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
+  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
+    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
+    publishedDateTime: 2022-07-01T00:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Microsoft retires AI facial analysis tool"
     excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
     publishedDateTime: 2022-06-30T02:56:00Z

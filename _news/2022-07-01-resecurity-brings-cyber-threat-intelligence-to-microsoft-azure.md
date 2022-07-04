@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-
 webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Business Insider
@@ -23,51 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "How AI Can Help Solve Cybersecurity’s Predicament"
-    excerpt: "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical."
-    publishedDateTime: 2022-06-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
+  - title: "Microsoft data centers around the world are experiencing capacity and resource shortages"
+    excerpt: "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating"
+    publishedDateTime: 2022-07-02T15:09:00Z
+    webUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg"
+        width: 1920
+        height: 1024
         isCached: true
-  - title: "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite"
-    excerpt: "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\""
-    publishedDateTime: 2022-06-30T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/"
-    ampWebUrl: "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/"
+  - title: "Microsoft retires AI facial analysis tool"
+    excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
+    publishedDateTime: 2022-06-30T02:56:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-retires-ai-facial-analysis-tool.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62bdae5523e0787000d54849/0x0.png?format=png&crop=823,386,x20,y119,safe&width=1200"
-        width: 823
-        height: 386
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20azure.jpg"
+        width: 821
+        height: 462
         isCached: true
-  - title: "Revealed: The drinks companies leading the way on cybersecurity"
-    excerpt: "Nestlé and Lotte Chilsung are among the drinks manufacturers so far best set up in the area of cybersecurity, according to data and analytics group GlobalData. According to analysis set out by GlobalData,"
-    publishedDateTime: 2022-06-30T16:34:00Z
-    webUrl: "https://www.just-drinks.com/analysis/revealed-the-drinks-companies-leading-the-way-on-cybersecurity/"
+  - title: "Microsoft's Intelligent Cloud revenue worldwide up 7.8% in Q2'22"
+    excerpt: "According to TradingPlatforms.com, Microsoft’s Intelligent Cloud Revenue jumped by 7.8% from Q1 2022 to Q2. The company generated approximately $18.33 billion in revenue from in"
+    publishedDateTime: 2022-06-30T07:43:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsofts-intelligent-cloud-revenue-worldwide-up-78-in-q222-o1kdqvdl"
     type: article
     provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 24
+      name: Zawya
+      domain: zawya.com
+    quality: 39
     images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/06/SaxlC-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://static.zawya.com/version/c:ZDEwMmVjNmYtNTA0Yy00:Zjk4MTIx/fintech-crypto-china.jpg?f=187%3A100&q=0.75&w=3840"
+        width: 728
+        height: 389
         isCached: true
 
 secured: "WxOafVLo3vhHBh/xGlFK2YTpMTs/6TGOypsQc0awbKFz1Y57AxFuw290ikLisdox1VGZ0SSuGeFonphFFH931U8OglYCV2WWx046egcWPgghMydWeD9B5NOnbfK8zQ93+qGdyXTRZtSBTaHM3ycec3G5Eq0QeMoFa8WRDWqiiuHttVly7AiE6r29e2v62TzCRuGMzciYjzNWXsTyKIJuddTCo06W+K0s7Thnm11RLXCY+aZcRtKaJ6Nq7qaVbsF4mkG6w0F9UWHJRgqWQxDLwZGJJ345Urp5mJl5nQG9i7IngXEXPfIBV24+Z1HSnaQdrUSGONQ1BWGPqujdjvYwxr75FQE9L7lS01RX5eBgllEYToQwvUQsZC3kHnUPX9XqXIdCMpLgnKXlo9nqZO9r3aZFD2kt2e24u5nFwCeNV6tSnJJzf6aZo1ebZgEjjQoTQVr+zmjyZrkdpGtppSW8/qqNl7FxTjxGRSRqIEJITFA1sfVgBTF/rYpsOLSVKx3ONCqRT3AoFsDqP5VrR0+SWA==;+WdB33R11i88kAluJpANjQ=="

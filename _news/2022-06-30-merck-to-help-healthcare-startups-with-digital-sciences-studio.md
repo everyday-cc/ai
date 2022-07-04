@@ -56,15 +56,6 @@ related:
         width: 2121
         height: 1193
         isCached: true
-  - title: "Merck launches Digital Sciences Studio for tech-driven startups"
-    excerpt: "Merck (MRK) said it launched Merck Digital Sciences Studio ((MDSS)) to generate technologies for drug discovery and development.The Kenilworth, N.J.-based company"
-    publishedDateTime: 2022-06-29T12:04:00Z
-    webUrl: "https://seekingalpha.com/news/3852781-merck-launches-digital-sciences-studio-for-tech-driven-startups"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "7ubmi/DQajYCVd3Qg6dk6FiX1vtalwzVTw0pEtIh/4bUOVB7vGwR+5/9KO83Dja58qoKEPi2cGzsAQmgIU8sE9NZ0/YxVaXApgXbx3NQ8AGfvOn/iuL4Yd5xInGXdbaXTXDCMIeSTWY3irHA4orjo6d+MKspJSyaodqGE/IU8x9jdCdzL8Sgfl/NPr9i8ULiHDoy7ftWpRs76LdqsvZXOyzWX1R7Z+Z0rrInovB+tJXsAWMuchb9XGhZOjAYpvqhP+VE85FDyHT7DMMr6XPN+4JAJolCxtXcwASrRIEvhVIJghSUEo2cwl7oT3lKrQkTXooH2KI93SJZRJylEQcQnxs2lWY47c8ZO5zW4N50YiaGBg+oysBwvDuyt0V/I7IhclFeuBiL/jZwmW/SV1baCABcITXk4VMM0n7gRSuf+xjQ6nDIyQwSaCq7zvk/58Cmf5GIeCofrxcwvzKmaHoDde+pRySNLVq8duU9Ehbtbpr5e8vcyATjn4dvqwtq1AfdH3ifjJm9g9pWAOizSjL9rQ==;rQkXpYLh3gMTXA9WbLyVYw=="
 ---

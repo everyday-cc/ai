@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-b
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Wall Street Journal
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality"
-    excerpt: "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations."
-    publishedDateTime: 2022-06-29T12:33:00Z
-    webUrl: "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-568242/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tech Giants Pour Billions Into AI, but Hype Doesn't Always Match Reality"
     excerpt: "After years of companies emphasizing the potential of artificial intelligence, researchers say it is now time to reset expectations."
     publishedDateTime: 2022-07-02T05:40:00Z

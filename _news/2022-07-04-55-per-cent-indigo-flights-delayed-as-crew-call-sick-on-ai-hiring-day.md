@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/8ta85y/article65595748.ece/alternates/LANDSCAPE_615/IMG_31VJPG4-INDIGO_4_1_9T87LUSN.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "55% IndiGo flights delayed as crew call sick on AI recruitment day"
+    excerpt: "The Tata Group took control of Air India on January 27. It plans to buy new planes and improve its services, and it recently started a recruitment drive for fresh cabin crew members."
+    publishedDateTime: 2022-07-04T05:50:00Z
+    webUrl: "https://www.onmanorama.com/news/india/2022/07/04/indigo-flight-delays-as-air-india-soars.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 37
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/india/images/2022/1/19/indigo-ians.jpg"
+        width: 1248
+        height: 650
         isCached: true
   - title: "AI hiring: 55% of IndiGo flights delayed as crew call in sick"
     excerpt: "Fifty-five percent of IndiGo’s domestic flights were delayed on Saturday as a significant number of cabin crew members took sick leave, with sources in the industry saying they ostensibly went for an Air India recruitment drive."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/environment/facial-recognition-software-seals
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "New laws urgently needed to control facial recognition"
-    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
-    publishedDateTime: 2022-06-29T11:46:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
-        width: 1024
-        height: 536
         isCached: true
   - title: "Facial recognition's creep into commercial spaces - are we ready?"
     excerpt: "Australian consumer group CHOICE outed three retailers - Bunnings, The Good Guys and KMart - for collecting the biometric data of their customers. The watchdog last week referred the trio to Australia's privacy regulator,"

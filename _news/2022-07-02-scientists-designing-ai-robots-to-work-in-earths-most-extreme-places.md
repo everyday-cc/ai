@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to identify chick distress calls in large poultry farms"
-    excerpt: "A team of researchers from the City University of Hong Kong, working with several colleagues from the U.K., has modified an AI application for use in detecting chick distress calls in noisy environments."
-    publishedDateTime: 2022-06-29T12:50:00Z
-    webUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.html"
-    ampWebUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/poultry-farm.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Flawed AI makes robots racist and sexist"
     excerpt: "Researchers have shown that common AI training models like CLIP result in robots gravitating to men over women and white people over people of colour"
     publishedDateTime: 2022-07-01T08:00:00Z

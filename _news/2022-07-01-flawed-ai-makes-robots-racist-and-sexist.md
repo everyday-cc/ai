@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using AI to identify chick distress calls in large poultry farms"
-    excerpt: "A team of researchers from the City University of Hong Kong, working with several colleagues from the U.K., has modified an AI application for use in detecting chick distress calls in noisy environments."
-    publishedDateTime: 2022-06-29T12:50:00Z
-    webUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.html"
-    ampWebUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/poultry-farm.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
 
 secured: "rkPknacHN66xXb9vyRmZgeuFW0ScvJbRe+oJyr0Ytu7u2BubthIwmIyTGo7NrpErKCwTjcI+Pw8uGoKxMnrW2xAbqSPFg5suJJH2+xIX4Ti25kDx4OsAT1Jn3cqlnJv5URBdaEQyZFUhwkLhYXNdOqeyUkdaOz5Y/kXIlDvQbzLSe+hIl/f9ZDV9uS0n7UfBpnsfUAOoihZpvsSyijd69rNZkCY8+D3GyAkD3tVe2aE6HQjG7N0DZ+KFcdIXlNwZBSKH7HyKaTS1brwmadypNp7YI/0BzoeLwlV2idMER9XKYuoA5/R22OMTj2eipesaWaJmp/bLmYkOFBUQ86qsv46AAVo1mCAOJ/pN1vGPAVc=;dcARZtKEkPCyRkh3upUGPw=="
 ---

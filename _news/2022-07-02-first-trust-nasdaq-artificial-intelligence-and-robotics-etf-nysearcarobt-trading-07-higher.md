@@ -19,6 +19,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
+    excerpt: "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ..."
+    publishedDateTime: 2022-06-30T09:06:00Z
+    webUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 63
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks7.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
     excerpt: "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The stock traded as high as $20.57 and last traded at $20.57. 452,"
     publishedDateTime: 2022-07-02T06:12:00Z
@@ -37,24 +53,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 30
-  - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-    excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
-    publishedDateTime: 2022-07-01T09:04:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/01/advisornet-financial-inc-purchases-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 29
-  - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
-    excerpt: "Wealthcare Advisory Partners LLC lowered its position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the 1st quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-06-30T09:06:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 23
 
 secured: "icFt9YrnxmSZxMR0nOYMfmYroxLDcItNBT6ZLtF3ib6hC0EIckSQ3ojRT1nOZH2U4xJcOut19hfvTLg7xWFw5s5D6Dz6WUUvnNf4GyXRp0k5R0TfCed8vB0Nc6hpChPB0/bQuoY/mPaJ5DQyGXmEuAZNUxpMOf8ZHD7zKYmm65Ow6fD2Dp+EH3V39RcDSRpBqtxZDTpEhSIbP5mOvewtHsfZsahwEuZMUovpBWSg5AorAHD0veaw4YVQCkcuQ+bCWYJQ9FwM2FeWvopLSVUHrL1xQdcOfrYutn1fWEb0eA6MC/fJ9h7AKqe5xpt9/YRJ1uS0tEwM1xGKX4afhc5QPnbJi0bUwIAr9+DX9mVRGzNfBSDqCAR0p93OktJndAsd+tsDY/MtpLKdnu0V9mEszSmQfiF1OF+TNpA98nWZSI5aGOys9OMDR6ETvmjHU4pEO3I7NFxkMek/2Zz0J+OMS4f0zuzYiTiv6EQJqn+t7F1762MZH7I1kuukRDoJlHxo1wkt1fAhZyFhTrla8Hfs5w==;CgoxcgSL3WXWHgD1V/vpHA=="
 ---

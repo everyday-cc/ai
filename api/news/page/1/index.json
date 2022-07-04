@@ -10,7 +10,7 @@
       "originalUrl": "https://www.telegraphindia.com/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -52,7 +52,7 @@
       "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -146,7 +146,7 @@
       "originalUrl": "https://medicaldialogues.in/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -370,58 +370,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-02-microsoft-data-centers-around-the-world-are-experiencing-capacity-and-resource-shortages.md",
-      "title": "Microsoft data centers around the world are experiencing capacity and resource shortages",
-      "excerpt": "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html",
-      "originalUrl": "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg",
-          "width": 1920,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-02-tv-mohandas-pai-on-the-future-of-fintech-in-india-and-the-power-of-data-ai.md",
       "title": "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI",
       "excerpt": "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022",
@@ -560,7 +508,7 @@
       "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1178,6 +1126,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-resecurity-brings-cyber-threat-intelligence-to-microsoft-azure.md",
+      "title": "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure",
+      "excerpt": "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

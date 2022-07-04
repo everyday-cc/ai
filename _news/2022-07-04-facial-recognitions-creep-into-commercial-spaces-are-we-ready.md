@@ -69,20 +69,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "New laws urgently needed to control facial recognition"
-    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
-    publishedDateTime: 2022-06-29T11:46:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
     excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
     publishedDateTime: 2022-06-30T18:21:00Z

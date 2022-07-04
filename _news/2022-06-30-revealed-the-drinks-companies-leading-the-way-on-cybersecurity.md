@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Solve Cybersecurity’s Predicament"
-    excerpt: "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical."
-    publishedDateTime: 2022-06-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite"
     excerpt: "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\""
     publishedDateTime: 2022-06-30T16:00:00Z
@@ -57,15 +41,6 @@ related:
         width: 823
         height: 386
         isCached: true
-  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
-    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
-    publishedDateTime: 2022-07-01T00:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "XawLoYVqYULdKTvnl221hN6Su7DbRpN7ZM07zsZgQeDJ+WlEFB80djTlAsOTyxNIDDomjFPHyZ1MK2/DiFnq1dMeqz+oy+DMXPBKLXQSkU09KE9t0D2P5kOOpzT7QKHj2exhpHB2s++fVDEQ3xODBVZWbD8iN2MprgDiZCCZdn1vjMiA+7Rkc5LwIrLIDnePkgZU+dRXY3IyG0QCZgehKyUncQQUMKi5RJDwA5kZM3QxNcYI+bTVBkyFtmJFsIwtXn2KSmcYUoc2yMDSTqrHzl4T22j2gqj+msXnlGR909H12HJOm3BT3DRecVVY2n6STgX1Lyg1gVXB/+xmg3XXIwiiqQC2RFMsld88sddiCSg20mQFrwkHEOBNLyDlcttAJIAJi9uvFSIaeGo1Ws1sYadHucP9za6zjwp4hudQTc4KKdsOoZzsgJlVn5JqqF7Bfm2kp/oDmKXd//JLhM3FvCbYpIuAc1sBoztbA85gLMb6dCnwfkBTuQNSL0WFUjOJ82Ab1hSVw8e5yYsCvgMWrg==;iLdq6PC4AsQsEnJh8RKtiQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bankingdive.com/news/bank-regulators-heightened-scruti
 webUrl: "https://www.bankingdive.com/news/bank-regulators-heightened-scrutiny-of-ai-highlights-third-party-risk/626301/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 770
     height: 364
     isCached: true
-
-related:
-  - title: "Adopting AI To Manage Regulatory Complexity"
-    excerpt: "Regulatory compliance exercises already pose a significant challenge to legal departments, made harder by both the unprecedented volumes of legal and enterprise data that needs to be reviewed and the complex corporate operating structures that often see relevant information siloed across different storage locations,"
-    publishedDateTime: 2022-06-29T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/adopting-ai-to-manage-regulatory-complexity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "Obe0qY2b9YXI2W6H9FofUDrIjBicyzCsceCQq8ujtWbAT44dwcYFkgqmsCH7SVE8NziOqiBaLz/5dtf9mNl3u6OYOoQoMgntz2bDXE35SHe3mzr++NB94kezQga09kQnRIYKYOH8PbyunpTQDoIU3h4SM6ib8rLPHe5Y/PhG1r0JG/T2jCGR2CGEzksjrj6X89xVpSx2fZqj06Zb+oNUeWbaq0VwKMSne+MqoH4ZZwN9zjwYmzTnKpwI765TJFvu22276iWVybigog8SMiamIecN9e8WMEBohitnCM/4iTC31VGrNenB5WZFpztWkTLuKqP4unjfZVgiY7RMkIPK8gY4p//leQkRF0Cvlb0buO92UOW1D0jGp7UTLGxrn1lvvFrWI6/6X/gLUeSQrqCcPleatRsfVTxeW0+qC3Ra1tFWGSxZ6+O6X9KtXiGE5GQnY8GdaenGZbC0Ho6mlm70CmUJq6wjhv8SgjOQa8Xw3ZtQTRbzKZpThgnphIpjGJ7s0laDjX2gNrAoYNXGMcHqHw==;uXYx6t402V2RKxnqcDCzTg=="
 ---
