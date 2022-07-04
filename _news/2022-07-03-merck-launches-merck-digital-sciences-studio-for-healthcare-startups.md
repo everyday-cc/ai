@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/merck-launches-
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/merck-launches-merck-digital-sciences-studio-for-healthcare-startups-95387"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Merck to Help Healthcare Startups with Digital Sciences Studio"
-    excerpt: "Merck today announced the launch of the Merck Digital Sciences Studio to enable the generation of innovative technologies for drug discovery"
-    publishedDateTime: 2022-06-29T17:37:00Z
-    webUrl: "https://njbmagazine.com/njb-news-now/merck-to-help-healthcare-startups-with-digital-sciences-studio/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 41
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2021/09/ThoughtLeaders_Web.jpg"
-        width: 775
-        height: 500
-        isCached: true
   - title: "Merck launches accelerator programme for AI startups"
     excerpt: "US pharma Merck is offering 12 places in a new digital sciences accelerator to startups applying tech like AI and machine learning to drug discovery and development"
     publishedDateTime: 2022-06-30T09:23:00Z

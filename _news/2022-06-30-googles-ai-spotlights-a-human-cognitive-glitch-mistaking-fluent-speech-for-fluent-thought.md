@@ -21,14 +21,14 @@ related:
   - title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
     excerpt: "Fluent expression isn't always proof of a mind at work, but the brain is primed to believe so. Here's why language is not a good test of sentience."
     publishedDateTime: 2022-07-03T01:30:00Z
-    webUrl: "https://chippewa.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_7ca58dd8-93ca-5a54-83d7-46c4e0185eea.html"
+    webUrl: "https://journalnow.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6d11c93f-ee85-5733-9d2a-4c18cbd59fd6.html"
     type: article
     provider:
-      name: Chippewa Herald
-      domain: chippewa.com
+      name: Winston-Salem Journal
+      domain: journalnow.com
     quality: 23
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/7/ca/7ca58dd8-93ca-5a54-83d7-46c4e0185eea/62bc9a7e36913.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/d1/6d11c93f-ee85-5733-9d2a-4c18cbd59fd6/62bc9a3704cc4.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
         width: 610
         height: 320
         isCached: true

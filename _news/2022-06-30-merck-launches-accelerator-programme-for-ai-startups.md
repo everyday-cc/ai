@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 960
         isCached: true
-  - title: "Merck to Help Healthcare Startups with Digital Sciences Studio"
-    excerpt: "Merck today announced the launch of the Merck Digital Sciences Studio to enable the generation of innovative technologies for drug discovery"
-    publishedDateTime: 2022-06-29T17:37:00Z
-    webUrl: "https://njbmagazine.com/njb-news-now/merck-to-help-healthcare-startups-with-digital-sciences-studio/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 41
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2021/09/ThoughtLeaders_Web.jpg"
-        width: 775
-        height: 500
-        isCached: true
 
 secured: "flLfwE+VnEZxA94qSlri2tDXrbIODlSZvK76XN1WGQRnOVkMarPyZ153DNklZhZCW13opl9N0ogv5584YiOOtIpTv6IucHOoc4SU7GiBdTYbbnWTENHIF1Ej4FaiQnHjx3iJEvEs0XYa3lv9f00z+ASpJLx3taDC7GrgnnUl8fVaoe6FZ+6NT1dkn5skRbsSkeHvUGMXjCA/TUApr/UWuEB1sTKbuq8HG74sXVkgzk9Om9ZtEZqewNewpxWvVeOjK8eBqR2jKRsEYFcNPaw/5iNXc8PzcO1Gl0lBXy0+YuoaBVhjJvuqb4SZSjkEfq9qXXHG5LDuZ2ZhTYD9vRqE7dhQ6AP3ebCxxRORWtZdmNVtkIspyYpk/mFAXpzd6/IJIwa6V9tk1DAoJns4Sn/+8qwU7isGAILivt/p0/fUhT6ZDT1D3kVvwDJP0g0xhG+4Y2Zsvj3MBSevsL3O+RRIK4loY1EAAwh3evs20bDafbtmNTCFYiZ9ebfkse6JmDI8tuezsKh+WYQyZo11p7R92Q==;6IhukiNexVYSvta+68sfSg=="
 ---

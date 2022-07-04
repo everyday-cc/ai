@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Forbes
@@ -31,45 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "Google, Nvidia split top marks in MLPerf AI training benchmark"
-    excerpt: "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ..."
-    publishedDateTime: 2022-06-29T18:06:00Z
-    webUrl: "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/"
+  - title: "Viettel Enters AI Collaboration with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions."
+    publishedDateTime: 2022-07-01T03:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 688
+      - url: "https://mma.prnewswire.com/media/1851865/Image_1.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Nvidia and Google win top spots in MLPerf Training machine learning competition"
-    excerpt: "Nvidia Corp. and Google LLC have won top spots in the MLPerf Training machine learning competition, the organization that hosts the competition detailed today. MLPerf Training is run by the MLCommons Association,"
-    publishedDateTime: 2022-06-29T20:58:00Z
-    webUrl: "https://siliconangle.com/2022/06/29/nvidia-google-win-top-spots-mlperf-training-machine-learning-competition/"
+  - title: "Viettel Enters AI Partners with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam"
+    publishedDateTime: 2022-07-01T09:43:00Z
+    webUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/"
+    ampWebUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/nvidia.png"
-        width: 800
-        height: 425
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Intel Benchmarks Show Habana Gaudi2 AI Machine Learning Chip Trouncing NVIDIA's A100"
-    excerpt: "After unveiling its second generation Habana Gaudi2 AI processor last month with some preliminary performance figures, Intel has followed suit with internally run benchmarks with impressive results."
-    publishedDateTime: 2022-06-29T18:15:00Z
-    webUrl: "https://hothardware.com/news/intel-benchmarks-habana-gaudi2-ai-machine-learning-chip"
+  - title: "Inspur Information AI Servers with NVIDIA A100 Tensor"
+    excerpt: "MLPerf is the world's most influential benchmark for AI performance. It is managed by MLCommons, with members from more than 50 global leading AI companies and top academic institutions, including Inspur Information,"
+    publishedDateTime: 2022-07-01T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-ai-servers-with-nvidia-a100-tensor-/2022/07/01/9632556.htm"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 44
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+  - title: "NVIDIA AI Learning and Research Center launched at GL Bajaj Campus"
+    excerpt: "This first-of-its-kind AI Research Centre at GL Bajaj campus will assist students with huge opportunities in India’s IT sector and start-up ecosystem"
+    publishedDateTime: 2022-07-01T13:01:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/nvidia-ai-learning-and-research-center-launched-at-gl-bajaj-campus-101656679734780.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 17
 
 secured: "NMCX6mxBwC4WyU5LEsCx5a5fRIsyzSvYpXncjq2m63GK+ZZHrRqJSjAcAMtIKD0Q0DocvXyLYSuX6zWWFbXnbQWV+xH+K6xN+r6Pmnn4XDE1BBWImFy56YaODteg+oRXT38tOCCBKFnQIEzUbJH3Jv069TxblA1juhZhMlfWBXCjhtIoxbKPH+OUGDrVEEv/DD1k6+OodWBJ4lVWxWdA08HaHGTRd8cwI/FnndSBMC6xrgI9t56p+Xq5mHbyJhxWkvW0lgTsmL33se8ds/TD3MA+TJwpeLIgoBUF4ia04R7H0UU8FYrmg2VezQL4SPV4PpP7XJtQbIWG4NCVtxjzBfPvk3g8Od4qy9XOPnUDm7Sr3GxsLHUAN6S1aC3Fg4VzYJa/OOSKOndisxFfLRaklpb/Vioh0mRO26cFh3Msvg5YYJXv4ffI8vvQLsY5kxGfgdT1qW7e5228MfdA/zsWgkxldhrx8rha/O4jhwf9nRJJC8GAYEsC+czdzeUHN3MObSSfK9yu1iiNF/Sr36eCnA==;vcXRPLSIlIIuQVNbZfjayA=="
 ---

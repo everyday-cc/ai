@@ -47,7 +47,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.sify.com/uploads/cixin_liu_3books_cover_800_vm3gTIdghabeh.jpg"
         width: 800
@@ -68,6 +68,6 @@ related:
         height: 262
         isCached: true
 
-secured: "nEa78hLd0ECy6LfXusTd0mRe+a4jvYPMDKAUbdGDlR+Eyl2AgEHAqrTpI+S5J9QZ+jU4FCc3rqoq+wYQc1E5Ca9FIbhECrTlPVyyVoaSkXNmDTGlCCmMy5kOBmvKrDnEWg5y6efzm/SIfRHCva4hzP2qeVT/DQ+D9J15WCeTOT9I54vFKFBpPXZpi3PxbrVQhAjtdjh3wBJlqzRzLpV/5OOLNPhhZzYrdaCNzXYxvQvC78VQuYf58saDUQYO4MbhESJ5EQEMHoD/h+igBdfDHaOLaHaN3D+mKmgR6tCdEPzMfLPs+aom1cZbzFoNypciOP0ggjrKwLAYtaoIcLfxc74fjEYrP7w8lTJnNCMclq4=;Su5Udq9EPjbUdJADorS3mA=="
+secured: "klzLw33WhYcFvngjSbex7aI+WpLDJU7oj/sECYA1b0WKlp51hf/LCnga9zlvJ7el8UyvVLuFrxzfnKuYiqXJJd3Zu7aDde0x9nYjMw178GSNmO2U3rHafPL+r6RmMnUwIHNBxkIRMk4TqXEeK6s4iahxbDx6WBvp1I2jDg0j+4VFn4xKpGKt6EvvqxBsEekUmBUEgYVx6dOGFo0gKWNcfFiyMQIbcIX6xahBSlKD659P4f3BqN341/7kQ/vVnTgmUX5RYrhd/t1iyaPqBl0L3IdK4O84U/VnONBduWzkIyK+GZaSwHLXfgPc5h59PzKgzK0gQ/3VkqoiI/njirGRqD8fuwXCa7KDs6p8ictgNs4wbBjUNLAkR06Gki+uX5DRckmJxqhILNNZ0NoUnR1AMgQww41WwAsW3WZZoelE13RburjjnV+xz0lP1FYC0p8ueWj291KhQStEsu4W5vodpoRAhWGbjRg9LQ6laJTW3fpKofD/22ZXPP2zsIT6Q9TvIMYDdU/TQmaxxRYiMmDdhg==;aRZs+ciL2IOTxUJ2uAhm8w=="
 ---
 

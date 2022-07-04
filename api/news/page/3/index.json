@@ -2,6 +2,91 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-30-waymo-opens-a-new-self-driving-trucking-hub-in-lancaster.md",
+      "title": "Waymo opens a new self-driving trucking hub in Lancaster",
+      "excerpt": "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
+      "originalUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/I3ZJpQ8RKNjwwQTVFERFUkW1z-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GL4BTWS6TVE63IINRYM7KYHAW4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
+      "publishedDateTime": "2022-06-29T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-mcd-school-students-to-be-made-aware-of-waste-management-through-ai.md",
+      "title": "MCD School Students To Be Made Aware Of Waste Management Through AI",
+      "excerpt": "MCD has launched a new initiative to make students of its schools aware of waste management through artificial intelligence, officials said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uu7om23idwwd0odl_1656559653.jpeg",
+          "width": 768,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "publishedDateTime": "2022-06-29T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
       "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
       "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
@@ -693,49 +778,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg",
-          "width": 2600,
-          "height": 1733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-29-tesla-fires-200-people-working-on-its-unfinished-self-driving-tech.md",
       "title": "Tesla Fires 200 People Working on Its Unfinished Self-Driving Tech",
       "excerpt": "Tesla is gutting a part of its Autopilot department, cutting around 200 jobs from its office in San Mateo, California, CNBC reports.",
@@ -1132,63 +1174,12 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store.md",
-      "title": "The Role Of AI And Edge Computing In Building The Checkout-Free Store",
-      "excerpt": "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6183e5d5ee59e3b06ef1404b/0x0.jpg?format=jpg&width=1200",
-          "width": 1028,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
-      "publishedDateTime": "2022-06-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-29-aurora-mobile-brings-jpush-to-amazon-web-services-marketplace.md",
       "title": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace",
-      "excerpt": "The launch of JPush once again demonstrates the strong recognition that Aurora Mobile commands for its robust products and services among global leaders in the industry. AWS Marketplace users can now directly purchase and experience JPush easily.",
+      "excerpt": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace. SHENZHEN, China, June 29, 2022 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the Co",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm",
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1198,11 +1189,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T03:21:00-07:00",
+      "publishedDateTime": "2022-06-29T03:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Aurora Mobile Brings JPush to Amazon Web Services Marketplace"
-excerpt: "The launch of JPush once again demonstrates the strong recognition that Aurora Mobile commands for its robust products and services among global leaders in the industry. AWS Marketplace users can now directly purchase and experience JPush easily."
-publishedDateTime: 2022-06-29T10:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm"
+excerpt: "Aurora Mobile Brings JPush to Amazon Web Services Marketplace. SHENZHEN, China, June 29, 2022 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the Co"
+publishedDateTime: 2022-06-29T10:34:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "7qgBDx6L1UmjeWOb/dtoA6+FgDptiUGFMFOHZyqZYKwCChpx+D6lAOvLhXtRsBSepvIZLbP0zDife+WfPATn72v8EoLycy4pJiN+t8JCbaHYEgS9jim3fa4eSp8M+8UsBwFtfJlZmyzfGKdFYX74DD+IfTdXuOPezhGiFk4eLxHMY0LUEcY7Re+lBrU8EqCIRCk/H9DWunnoukO1zXSyXvDgHRJ8xtP+TlJFS7DDqkS3i8YXmT3heHfn3Avz5mTGrLIrFv2MtiE1fik3Qhk+/ddcrWcY8jcl+knFk/0ekDtyH8eU8+r7B0B5sd4xJmk49/t0Wcj04Vig7tmxCv8Egv2GzsS5DX+W9ynXwZiOkmg=;hF8tRHdQTidiT+q73fzLDg=="
+secured: "LERRSrBAm14va9mjWGuC0OBxGy0MxwXD5pVWxsNkkeUsm/Wvxxj5S0vdltlfKVw8/S6ohg9Lj32WVNy8nFPl/EuHPWrKTpmk5Sq5cs+4OK6JgoqL8DAbmwsypa6RU+Wd/6ne8xLZegeTWvVE2LOBZSoLmEL8IhOw+7+0vcW3/XbHE1AnkAuXPh1FicejbWHQ6cJrtjUtJDef5OILe6Iqj4r5xNonXNcr0a0N6PJCizZxNgV0cDSfM1K3n2OD2JbFsxFWo2o42mhFdye6Z731un3pmJTXDCGUaRUNQcvArdR7pLE+5g200Umkpm6PBZfmjG7qr2Sae176SpWYq4MXWQasH1xv7TCNDSsSzRD9FLk=;BXdkACmWlzAC60NQ9SpUHA=="
 ---
 

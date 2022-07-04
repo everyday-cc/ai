@@ -47,7 +47,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.sify.com/uploads/cixin_liu_3books_cover_800_vm3gTIdghabeh.jpg"
         width: 800

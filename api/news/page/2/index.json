@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-01-viettel-enters-ai-collaboration-with-nvidia.md",
-      "title": "Viettel Enters AI Collaboration with NVIDIA",
-      "excerpt": "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1851865/Image_1.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-07-01-iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence.md",
       "title": "IIT Delhi to curate robotics curriculum for schools of excellence",
       "excerpt": "Through this curriculum, students will be trained in different aspects of robotics and automation which will in the field, they said.",
@@ -180,6 +128,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-nvidia-loses-the-ai-performance-crown-at-least-for-now.md",
+      "title": "NVIDIA Loses The AI Performance Crown, At Least For Now",
+      "excerpt": "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
+      "publishedDateTime": "2022-06-30T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -334,6 +334,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-chatbot-company-replika-says-many-customers-believe-in-ai-sentience.md",
+      "title": "Chatbot company Replika says many customers believe in AI sentience",
+      "excerpt": "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
+      "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
+      "publishedDateTime": "2022-06-30T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI",
         "AI in Healthcare"
       ]
@@ -648,20 +692,20 @@
     },
     {
       "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It's alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "title": "It’s alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
-      "originalUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
+          "width": 2500,
+          "height": 1623,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -669,23 +713,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T07:04:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
+      "publishedDateTime": "2022-06-30T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -694,7 +729,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1169,49 +1204,6 @@
         "Computer Vision",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-waymo-opens-a-new-self-driving-trucking-hub-in-lancaster.md",
-      "title": "Waymo opens a new self-driving trucking hub in Lancaster",
-      "excerpt": "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
-      "originalUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/I3ZJpQ8RKNjwwQTVFERFUkW1z-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GL4BTWS6TVE63IINRYM7KYHAW4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
-      "publishedDateTime": "2022-06-29T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

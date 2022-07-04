@@ -228,49 +228,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg",
-          "width": 2600,
-          "height": 1733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-29-tesla-fires-200-people-working-on-its-unfinished-self-driving-tech.md",
       "title": "Tesla Fires 200 People Working on Its Unfinished Self-Driving Tech",
       "excerpt": "Tesla is gutting a part of its Autopilot department, cutting around 200 jobs from its office in San Mateo, California, CNBC reports.",
@@ -300,6 +257,49 @@
       "provider": {
         "name": "Futurism",
         "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "Apollo driving platform was launched in 2017, self-driving taxi service 3 years later China's Baidu races Waymo, GM to develop self-driving cars Beijing: With no one at the wheel, a self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048",
+      "originalUrl": "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/29/China_Self-Driving_Cars_00621_181ae12b58e_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null

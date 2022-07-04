@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-04T09:22:00Z
 originalUrl: "https://www.sify.com/technology/self-driving-ai-riding-the-wave-of-the-future-news-ai-analytics-wheiNjgffhgbi.html"
 webUrl: "https://www.sify.com/technology/self-driving-ai-riding-the-wave-of-the-future-news-ai-analytics-wheiNjgffhgbi.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.sify.com/uploads/cixin_liu_3books_cover_800_vm3gTIdghabeh.jpg"
@@ -67,6 +68,6 @@ related:
         height: 262
         isCached: true
 
-secured: "UexmoDKDQUDR1rmcrE1RxtI77izcDUBr21GC7GYqniKWtBqIDueJrBEhsfIWnO3y2X4hWM87l1q8NOTDbiV9f0tyL80uS/2xauwODpKDlpIPW/gc1mFTxhl0mrWXxZLAOjnpT+pf62vPX4a3aLhgILwuwryyNj1jmGYL9ScpK/wCQ/BvTrxrwcnCq5IUoa7vbWSkD0gwt+X2AE3w7NkYTaLisWtUS9YiIDys81MBBNavBAwmJZ0RCa4BotGYVNssIvVegVaukOHOVCg9PGqJFK23kIWu21v8hZWUjzb/ZNd46X5qvxFI/kN+Wg+1nnZPvmLuG9GbwQQeLdwuBYyYo9H/1wXSCNOXgSBfWIaDMgE=;TZbIt4K1LNnZC6r6eN6PEw=="
+secured: "WyyQLH4b8zCsandtD8fS5hB0bDzwR1L3BlEYjUmphMn9HxxmF+NPJE2K8kaoQn/XvTnF/ZAkPpdNNOIxw7djfxDm4ffphA4F6i0eu+tAmH/wbpfslCB6zrGXG/unlw7H+NXUGhznKMLBS71tvtPbGMHWjsTJ4KD9W8tyxjOwx03r2idmYXvxXQ0FdUHj80e5q/KIXHpRvcN8t9llbauzSVaXkeiKVxUsN/n0SbWJ8Qm+uqwVoSLRfKeH882Yg40ZecQIdxlHJ4PImRAaSUx7mTrcpkdWFXPNXjJAg6UddhU37MU7ITfvkmaNkjuq+bk/iKGkmMETbaV2zU2QhfQWjccf2/9dHNcuRLRajGwQCdg19aF6t8UABMwZgUofpLIoCri2Oyl5Aw/vVwmvKiATtJC4RFZmb3WrEpLtzs3xsvl7DTKx0ITK0Rhkyu9gUdzQFx7VouMHKksONnnO/y73A9TOwQpmTAF4Mb2qNuH7QqdVimUdg0CXc5l2kecc25byljSGn2+3OaLTMlSp6ohJTQ==;AvaufhQO6uLJ/V2vB8jb4w=="
 ---
 
