@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins
 webUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai builds maps for first driverless cabs"
-    excerpt: "Dubai is preparing to launch its first fleet of “self-driving” taxis in 2023. Vice President Sheikh Mohammed bin Rashid, who announced the plan in May, has set a target of 25% of Dubai journeys to be driverless by 2030."
-    publishedDateTime: 2022-06-30T04:54:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/06/dubai-builds-maps-first-driverless-cabs"
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars."
+    publishedDateTime: 2022-06-30T22:41:00Z
+    webUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+    ampWebUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
     type: article
     provider:
-      name: Al-Monitor
-      domain: al-monitor.com
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "China’s Baidu taxi races Waymo, GM to develop self-driving cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-07-01T09:00:00Z
+    webUrl: "https://www.hotsr.com/news/2022/jul/01/chinas-baidu-taxi-races-waymo-gm-to-develop-self/"
+    type: article
+    provider:
+      name: The Sentinel-Record
+      domain: hotsr.com
     quality: 54
     images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-06/GettyImages-1236906074.jpg?h=1d34674f&itok=fmXAqAhQ"
-        width: 1200
-        height: 628
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201768656_201768656-ad342a272c4e4110968c9d9f7caad4ac_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Open-sourcing simulators for driverless cars"
     excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."

@@ -41,15 +41,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Highway Code updated with new rules for self-driving vehicles"
-    excerpt: "New rules on the use of self-driving vehicles in Great Britain have come into effect in the Highway Code from today (1 July), paving the way for new technologies."
-    publishedDateTime: 2022-07-01T13:50:00Z
-    webUrl: "https://fleetworld.co.uk/highway-code-updated-with-new-rules-for-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Fleet World
-      domain: fleetworld.co.uk
-    quality: 4
 
 secured: "nu0Kl+j5G8CDATFD9kcn9Zwlfv0VpMtQMfDHHxWWGfMCX+s7bNcKTAo3cHvo0kF+2Ywq1HtwEe/wXrSaE3RqJbPNQIoSa3MQ0wP2KYjWQWCQMsk9dkx7YZ01n7QX4MQYBTrxnwKrxpW807M+Vay78Dg/VfXtwpC/7Pc401sXCrM0sfWuR23v6pm1gDlkHjo2AYp13k9xv7iXFJs9RXW0LV8cib+DOJrPEnoz6Z6Mu8AixQNmxpu+Kak84jL2n5QuHI4J4WHMooHSqNaNr4hLtDICUUrWo0qa8zInQmDfX2oMYgeiMLb39ml5qVRdNRP+iMOg87zYDvAuGgJcTYc3jzcu3TEqj2DOysTJ4vuCQL4=;w7j8rc3Dm+Auo/uMg36PQA=="
 ---

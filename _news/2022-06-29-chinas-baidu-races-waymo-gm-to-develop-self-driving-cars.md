@@ -1,20 +1,26 @@
 ---
 category: news
 title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "Apollo driving platform was launched in 2017, self-driving taxi service 3 years later China's Baidu races Waymo, GM to develop self-driving cars Beijing: With no one at the wheel, a self-driving ..."
-publishedDateTime: 2022-06-29T06:15:00Z
-originalUrl: "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048"
-webUrl: "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048"
+excerpt: "BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into ..."
+publishedDateTime: 2022-06-29T02:21:00Z
+originalUrl: "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html"
+webUrl: "https://www.bgdailynews.com/news/international/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_f1cc5cba-4bed-5bd0-afc9-a218466e6da7.html"
 type: article
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Bowling Green Daily News
+  domain: bgdailynews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "YtTZxmBkdUkbivrROMTh962feiEmadkcUNkD3Y2Db7QuDTbaYlvlbGvttdF5GzmDg0MzeH2ZL4zjG5zB8iJNmClUwCogOl27whSln+ahK8KJZf2wjNpJKHe+Ot3XpxUzYBzTC810+Fdop6rFvsQXSUEQz6+R1LrJiHu3aM7MnLQt9dK5hMjrZsYGMKOw0d7tz8525/pZ8Qh73tCOAqOFXhXN7HLi6SAH5pNPw4eblnL5MDjR4C92C7CtEa47xDO9KGyrMEjBWTHDvEUUr9J9bf7riHdg8dm8Tg6GA0rI+oTTJ8ZVmFuCfrExlvS3SHG1bP8kaUIGXm+BKs/jPHqYSPQl2Rltb7CooQbbdDCh+sg=;Xba8hXf/Wj3+1O/aCLKjXg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/9/de/9ded45f0-093d-5dbb-b27e-7592b5b8d0ca/62bbaf872256e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Xso3u+lS43zT1AQxmW/PnklRN81tnvfHKtlZp2xTXyFPiJDmmH8J3QtpZXtAwc1hL4Mgw3oEGjtYfMWWnRgpRsGdO08lg0408aZMApcTTMQTdMg1UIQ5uiaF1VSiMVOv+v8jwFAfgz6X9g39AKPYpKBD0jZHzkqcjncuSvjVQBmgCd/sExOVAvQgrJ2kCc9AQCtBQzVV5pWDiRX4/kHXx4fbsEl3iEjP5WltY3WGg2aEkLWUxlH01kByP8Jpy/HhtVrdDCNMZSictKn6zWqr7W1DjBcq8qSjU7QeXAXAuFqaY/vaNb0oUN5vpf8HrfJb8UWA7Nbkp2BI4DxuPLekvnW6eteg4uRVvKxrMYfo1E4=;dnPdQcHac9o6LNKarEnoKg=="
 ---
 

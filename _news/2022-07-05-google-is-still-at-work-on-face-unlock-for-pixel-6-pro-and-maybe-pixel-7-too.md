@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T18:40:00Z
 originalUrl: "https://chromeunboxed.com/google-face-unlock-pixel-6-pro-pixel-7-tensor-2/"
 webUrl: "https://chromeunboxed.com/google-face-unlock-pixel-6-pro-pixel-7-tensor-2/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: chromeunboxed.com

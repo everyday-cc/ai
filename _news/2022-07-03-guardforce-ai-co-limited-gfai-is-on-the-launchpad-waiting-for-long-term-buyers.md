@@ -46,20 +46,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Shares in Chinese AI firm SenseTime dive as much as 51% in Hong Kong after lockup expires"
-    excerpt: "It dropped to trade as low as HK$2.91 apiece, lowest ever and below its IPO price of HK$3.85. Read more at straitstimes.com."
-    publishedDateTime: 2022-06-30T04:46:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/sensetime-dives-as-much-as-51-in-hong-kong-after-lockup-expires"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 28
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/30/md_sensetime_30062022.jpg?VersionId=aS_XTxKj2ewyxqpRhklxaD87h3lxCTdj"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Full text of Xi speech marking 25 years since Hong Kong's return to China"
     excerpt: "Today we are gathered here to celebrate this grand occasion marking the 25th anniversary of Hong Kong's return to the motherland, and to hold the inaugural ceremony of the sixth-t"
     publishedDateTime: 2022-07-02T08:02:00Z

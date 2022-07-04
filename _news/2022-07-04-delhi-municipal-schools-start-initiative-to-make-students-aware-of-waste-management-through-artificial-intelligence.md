@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "MCD School Students To Be Made Aware Of Waste Management Through AI"
-    excerpt: "MCD has launched a new initiative to make students of its schools aware of waste management through artificial intelligence, officials said on Wednesday."
-    publishedDateTime: 2022-06-30T03:27:00Z
-    webUrl: "https://www.republicworld.com/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 57
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uu7om23idwwd0odl_1656559653.jpeg"
-        width: 768
-        height: 437
-        isCached: true
   - title: "MCD School Students To Made Aware Of Waste Management Through AI"
     excerpt: "The programme is a unique initiative in educating students about artificial intelligence. The municipal corporation, through the initiative, has aimed to infuse a scientific approach among the school students."
     publishedDateTime: 2022-06-30T05:19:00Z

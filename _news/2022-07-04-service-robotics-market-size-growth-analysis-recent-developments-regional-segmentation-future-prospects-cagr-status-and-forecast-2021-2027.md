@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T05:56:00Z
 originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: MarketWatch
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Blood Cancer Drugs Market Recent Developments, Growth Opportunities Forecast Report 2022-2029 | DataM Intelligence"
+    excerpt: "Major key companies which are contributing to the growth of the Blood Cancer Drugs Market include Amgen Inc., AstraZeneca PLC, Bayer AG, Celgene Corporation, Eli Lilly. Bristol-Myers Squibb Company, Gilead Sciences,"
+    publishedDateTime: 2022-06-30T18:10:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-7-1-blood-cancer-drugs-market-recent-developments-growth-opportunities-forecast-report-2022-2029-datam-intelligence"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "FCEZLG7Of+QEssDPFIGuFf4iz7yl1XrYQxQkLfcorMb0LncOyw9BKIjkbAzxnRzt4MG1gkCHJa4WyrnQzMKSFzpF9sqwRQViWdK4hXeZJq45O1sgC38VzOxAJThkS/m8AwqE8H0uoCHM/RXdDz48ePhtL7p7M4poyUq4a5l5uBmGJIjOqtaM31S08AwZ9hwZV/hWDp5GyuEp5KP/7HCApWM8iPuwX+alUmTmCO0pRs+1GAJjEydNJ/wBSndExJltfkCo/N4WhaWKSdo6xJekbYzfP3Cs4hCi2v+mGAaRQUrb2gen1RmSMAL4VkCUcZRwyYXvrrY82u77Ttpsyyu/quaK7u3bKCAMGBaRBGMUJRM=;0CufSKbfacpJJHYrgVVC/w=="
 ---

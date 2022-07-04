@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T13:29:00Z
 originalUrl: "https://www.theguardian.com/books/2022/jul/04/the-big-idea-should-we-care-about-sentient-machines-ai-artificial-intelligence?amp;amp;amp"
 webUrl: "https://www.theguardian.com/books/2022/jul/04/the-big-idea-should-we-care-about-sentient-machines-ai-artificial-intelligence?amp;amp;amp"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

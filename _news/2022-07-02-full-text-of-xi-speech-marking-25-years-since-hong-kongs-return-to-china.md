@@ -53,20 +53,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Shares in Chinese AI firm SenseTime dive as much as 51% in Hong Kong after lockup expires"
-    excerpt: "It dropped to trade as low as HK$2.91 apiece, lowest ever and below its IPO price of HK$3.85. Read more at straitstimes.com."
-    publishedDateTime: 2022-06-30T04:46:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/sensetime-dives-as-much-as-51-in-hong-kong-after-lockup-expires"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 28
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/30/md_sensetime_30062022.jpg?VersionId=aS_XTxKj2ewyxqpRhklxaD87h3lxCTdj"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Guardforce AI Co. Limited (GFAI) Is On The Launchpad, Waiting For Long-Term Buyers."
     excerpt: "Guardforce AI Co. Limited (NASDAQ:GFAI) concluded the trading at $0.45 on Friday, July 01 with a fall of -0.70% from its closing price on previous day. Taking a look at stock we notice that its last check on previous day was $0."
     publishedDateTime: 2022-07-02T18:11:00Z
