@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New laws urgently needed to control facial recognition"
-    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
-    publishedDateTime: 2022-06-29T11:46:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
     publishedDateTime: 2022-06-30T18:47:00Z

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2022/06/minecraft-openai-machine-learning-algorithm-plays-games.jpeg"

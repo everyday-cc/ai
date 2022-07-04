@@ -39,7 +39,7 @@ related:
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
         width: 700
@@ -53,7 +53,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
+    quality: 21
 
 secured: "OBr79sel4lQ/UdaLq42zx9i2NDltOP7aLamKaPP2uUjxI8r4PDW2LvpQ3B59ow13CN9UM2kiV7+AyKPNzuGusvCSh+fVdkRNX2A23uwBWhagkeaNNibcOuj+kQZgSjrzbSxfuklQCAmdLFrWSgnDZTUFy1xlJSpUap5FcmWq2+/qT6pyw4uTj7IheAlOYCHpQs5rns77+XbPU3mOgNjeISNMzPfL4rBZbS1Wv6YISBDmF06qJwOSWmSecFqOGiz30lkKzvt8fopbsAfLXLIzwnSrOuuXG96viuXAdflJqaC3Xee9u1sn3zJrc/wL/aIJ0l/6/KpY2Q3CRseYQT9v1YaTEri8zbJx74gubpj+b/sB7nQUk5pngDBPhhau4AeqRHa6vvk6gVaNxge5AiA2H8iZ72jvrmMcX5JVWvWuJVps1kA7ozvio3l+YqEYytdMNdW5VAjUgHjIe1mGpk/it5egpU6jvZ5NIi3cmwzflr9hRdc7rXObN3rO0njiZI96nmUjcoDwuYA4/TjJFOIu/w==;L9ZgnOFInzz7356gWgRLEw=="
 ---

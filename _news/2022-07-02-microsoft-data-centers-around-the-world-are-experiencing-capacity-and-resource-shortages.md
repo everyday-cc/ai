@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-
 webUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html"
 type: article
 quality: 60
-heat: 91
+heat: 90
 published: true
 
 provider:

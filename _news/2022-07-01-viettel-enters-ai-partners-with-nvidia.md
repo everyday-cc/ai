@@ -8,7 +8,7 @@ webUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/
 ampWebUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
@@ -48,7 +49,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
+    quality: 21
 
 secured: "7/pqDGlvvPuILgWmZYCDqfLX7BResLkKCSA7vvmt52DOUsWBfYfbtM7Bp+82uwCMUF25glbUQdHMTbUA8ks9WMwu48UyPypj1SVdhMc1Y1JQkUVnWt+QdHqEiGnjPav8+Oqr8W7gMd8TQqDhf+L1xzaMJCrqYzbVGOUF8580eFVtEIi2mP9QQvQiFrzUh2uUkkYYuZh2oj2hlSwGu1LCuafGA/4DIx11H9oXipcT65j2ciS8KDeJ8HhFUyN00uZUtRwx/dyH1/55TC9gN0EkG+1tUU8BYebQYRtiXEN8kJ6G9DT1Ju4318jGEtMc62m2Gd8IRKs20CP3AQYhaFcswGmKrGeZ+F/3axwy86WyZi4=;dNuOlrMtucuVoeaMczdEYw=="
 ---

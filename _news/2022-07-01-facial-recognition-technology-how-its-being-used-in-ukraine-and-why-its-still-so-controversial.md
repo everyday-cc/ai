@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New laws urgently needed to control facial recognition"
-    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
-    publishedDateTime: 2022-06-29T11:46:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "IwwiAqYVYoNjnF5+pNq+U30RYbu9dSB4eY1Txue83yppU0A0I+JX7QvMJ6IHpn/WP/bjN1tNRJasjMNNCFrXtkMNvIbon3Wkh7PF/f87raNvo8fTW6wRVASMT9LZ8bwMtdN0pZjtLj8BZnerFPlA9eOhCrFOZkPJjXM2/lR9VmikKrJ+I6tmtD+E4XfahGTokHB8XxLjUn/EzlFG5ShuvgTnZeqZxCWKmiSsoEf24VDZIjUYhGIdOB4rd8STlEoy9PoihxrZPC3aCFOxhMIPP+uQoHkiKovlB72UU6W4cX98npp4F25vT6FhO3xkLnDQD0QP2j5jbDAnQJXR1W6RTZ3Tdq6+Z3wlLYgbZvOPVg5O0qBzHHy5J6dV3MEWQEmy707f4qy42R/hnqlysk6QCwj/3f5kiUwtqtgSRWeDkFUnsbpdq2wzLZdAjVQR91oI2nsoWUC0Xn923VhGZ3BrclyvS45a7tGiHVxq8MmYj0V6Zz2My0kOqBG9JO6b+I0rPNCSIp+oycYIx/jfWVAGlQ==;5hI6MC8pWCZUTw53juBU2Q=="
 ---

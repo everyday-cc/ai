@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition works on seals. No, really."
+    excerpt: "SealNet is a brand new facial recognition for, you guessed it, seals. Biologists have been training and testing it in Maine for two years."
+    publishedDateTime: 2022-07-03T21:00:00Z
+    webUrl: "https://www.popsci.com/environment/facial-recognition-software-seals/"
+    ampWebUrl: "https://www.popsci.com/environment/facial-recognition-software-seals/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2022/07/01/baby-harbor-seal-facial-recognition.jpg?auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "New York school districts plan facial recognition security despite ban"
+    excerpt: "The moratorium has not prevented a pair of school districts from receiving approval to deploy systems that use facial recognition technology."
+    publishedDateTime: 2022-06-29T23:08:00Z
+    webUrl: "https://www.biometricupdate.com/202206/new-york-school-districts-plan-facial-recognition-security-despite-ban"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
+        isCached: true
   - title: "‘UK government illegally utilizes facial recognition’"
     excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
     publishedDateTime: 2022-06-30T14:42:00Z
@@ -33,20 +63,57 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "BGHS graduate receives national recognition for artistic talent"
-    excerpt: "Bowling Green High School graduate Sam Garvin’s talent as an artist has paid off, as he received national recognition for his art at the 2022 Scholastic Art & Writing Awards"
-    publishedDateTime: 2022-07-03T04:15:00Z
-    webUrl: "https://www.bgdailynews.com/news/bghs-graduate-receives-national-recognition-for-artistic-talent/article_74626d7d-78c9-538f-bddf-de09d1af377b.html"
+  - title: "New laws urgently needed to control facial recognition"
+    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
+    publishedDateTime: 2022-06-29T11:46:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
     type: article
     provider:
-      name: Bowling Green Daily News
-      domain: bgdailynews.com
-    quality: 24
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/4/76/4769c309-2dd4-5b09-a95a-a0fc2d70d9b4/62c04c937f8c3.image.jpg?crop=1246%2C654%2C0%2C503&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
+        width: 1024
+        height: 536
         isCached: true
+  - title: "Facial recognition's creep into commercial spaces - are we ready?"
+    excerpt: "Australian consumer group CHOICE outed three retailers - Bunnings, The Good Guys and KMart - for collecting the biometric data of their customers. The watchdog last week referred the trio to Australia's privacy regulator,"
+    publishedDateTime: 2022-07-03T23:36:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018848166/facial-recognition-s-creep-into-commercial-spaces-are-we-ready"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--FzlnniPn--/c_scale,f_auto,q_auto,w_1050/4MOE0QW_image_crop_107655"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
+    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
+    publishedDateTime: 2022-06-30T18:21:00Z
+    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stocks-appears-to-reflect-financial-not-facial-recognition-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
+        isCached: true
+  - title: "Steep drop in SenseTime stock appears to reflect financial, not facial recognition market"
+    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
+    publishedDateTime: 2022-06-30T18:24:00Z
+    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stock-appears-to-reflect-financial-not-facial-recognition-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 10
 
 secured: "OSIwEjcy+8c02iUui5p19a7uM2OxdS8M/eGgvoIvkEVm2roPWlRA6/sKR6G3Sh9eUGwApnEVq7/FIgeDge8EFkTdaVvSo3lQjHUilGBXef01CmONCGbjwJ57bS2q/xyzndfcXVH+B3VMi+hjqNbpWXfjGcnnG8l233wzGLp1gcb2T1Ju2IspOAoh6RklRwPViq3145IWt90/9UVmjzlcCAAA2jA6NdO8hJWYH29s807GH00DH7uKIi5LVxjlmcUG/UXdnwQtoaP4kNjlQc/MmWBfhyUfYBbIDPErLG7meriISxPizRdZuAxlUzsRYAmPC6W0oPEUeyImAVonhqPRxOumkoXo3jWiZF1wqtBaAc8xk6nTEXvEPWZfQoRV/1XA71uI3q/4YO/jlt2hSThrAVna50YWcAj382kQFCY1M/y2ixJVbXW2TGUYu9i1r/AhIM+ImOEJ2kBRVEhozN3DpWOpmPYbBjglS+flXwZ1HDeJylej6L8XjIwm9Z5ehZvhwEasW/cOF9BXgYoLXqPOsw==;6mbO6y/8wzW2IQRYUCwONA=="
 ---

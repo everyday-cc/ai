@@ -35,6 +35,20 @@ related:
         width: 1000
         height: 968
         isCached: true
+  - title: "A Skill Called “O”: People Vary a Lot in How Well They Recognize, Match or Categorize the Things They See"
+    excerpt: "A newly identified skill, dubbed \"O\" is a generalized ability that may help you to succeed at tasks that demand perceptual decisions."
+    publishedDateTime: 2022-07-03T20:49:00Z
+    webUrl: "https://neurosciencenews.com/perceptual-decisions-o-20952/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 7
+    images:
+      - url: "https://neurosciencenews.com/files/2022/07/o-object-recognition-neurosicences-publoic.jpg"
+        width: 770
+        height: 745
+        isCached: true
 
 secured: "uuHMUg+Fq1GTd7VrX/25hVIu6j57qNur7U5PHtsHCiQSAkjuItVbqKtBx4ozxEuydKf/NR/Bonta6lAXb0gpnVcDno0iO3O63xj6cR3hLvNTfH4BiaBl6FPKVE0YwsDYbws6QPdMN3pJobhdNmL6P1/+/z0ls0zqwZ9IocSvaIWE/ba6FpTyuA+rofQtHt3TwEbCelP6OaHItN3olHcaukD3i+SQjM2JeGc2UR3F1YJ8eiAjEx+XC+KN26Fgc8ZOxWQHp2katH4KfPPB0as5t6JRKMP4WOE7Xl2W/Tagn5YZbkFRDrdbmVoogoSsIxjgRAS6r6w2yMF7Zb91ZEiqI5eOc1kGR7ZhUwN6QJmsQ9g=;qEV1oDVzPcUVp2pFWXciTQ=="
 ---

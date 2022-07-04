@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-20-callminer-introduces-combined-workforce-intelligence-capabilities-to-elevate-agent-experience-and-drive-improved-customer-outcomes.md",
+      "title": "CallMiner Introduces Combined Workforce Intelligence Capabilities to Elevate Agent Experience and Drive Improved Customer Outcomes",
+      "excerpt": "CallMiner, the leading provider of conversation intelligence to drive business improvement, today announced new and expanded workforce intelligence capabilities to help organizations improve the performance and experience of contact center and customer service agents,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-samsung-ventures-eyes-israeli-ai-its-a-neureality.md",
       "title": "Samsung Ventures Eyes Israeli AI, It’s A NeuReality",
       "excerpt": "Israel is a smart young nation with a track record in showing determined focus and a steadfast belief in itself - but how did it get so AI smart? Part of the answer is down to a young motivated educated",
@@ -1089,60 +1123,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-how-ml-powered-video-surveillance-could-improve-security.md",
-      "title": "How ML-powered video surveillance could improve security",
-      "excerpt": "This can include count-based alerts when the number of people in a certain area exceeds a set limit, alerts triggered by object identification or, where applicable, face recognition. Video content ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "originalUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1311084163-e1652290730534.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "publishedDateTime": "2022-06-18T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

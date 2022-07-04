@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-01T14:36:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-inspur-information-ai-servers-with-nvidia-a100-tensor-/2022/07/01/9632556.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-ai-servers-with-nvidia-a100-tensor-/2022/07/01/9632556.htm"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 related:
   - title: "Viettel Enters AI Collaboration with NVIDIA"
@@ -43,7 +44,7 @@ related:
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
         width: 700
