@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://imagevars.gulfnews.com/2022/06/29/China_Self-Driving_Cars_00621_181ae12b58e_medium.jpg"
-    width: 540
-    height: 405
-    isCached: true
-
-secured: "82F49Ch33r8dpXJqqOQ7kHRSRQ/cmZxegPMVirzU2svd6Zr93rYR30CFgswLt+9xqN/YkNcgjOkcp6rs5BUOzYhAeXochz9CoI/2/DgAlDUS166zMKJj5uoMxU1sxEWMfkaU6Ou6OipSwd5E1HQEn9yhFALjk4locz9240G1aRDq+rxNVDHfFvKuu5VBlhCaJn753bQvEnh/Gu7oS+RoT6sjpmnYOxQwqaxK9jBWmp5TsScuTo7M5RG/HKd1CGSrzE+WkPFlhi4C7yGRHFIHkgBvRj2Gk5bURE+MWlVWyjhqvY81gGwzspyd2yRMqJPflTg3ZJ1D2RZ5fm2Cvmd3PQSVGY87Jp3p3oLhbTsJQaY=;Q+0mdEymBwD2BBfnhP08WA=="
+secured: "YtTZxmBkdUkbivrROMTh962feiEmadkcUNkD3Y2Db7QuDTbaYlvlbGvttdF5GzmDg0MzeH2ZL4zjG5zB8iJNmClUwCogOl27whSln+ahK8KJZf2wjNpJKHe+Ot3XpxUzYBzTC810+Fdop6rFvsQXSUEQz6+R1LrJiHu3aM7MnLQt9dK5hMjrZsYGMKOw0d7tz8525/pZ8Qh73tCOAqOFXhXN7HLi6SAH5pNPw4eblnL5MDjR4C92C7CtEa47xDO9KGyrMEjBWTHDvEUUr9J9bf7riHdg8dm8Tg6GA0rI+oTTJ8ZVmFuCfrExlvS3SHG1bP8kaUIGXm+BKs/jPHqYSPQl2Rltb7CooQbbdDCh+sg=;Xba8hXf/Wj3+1O/aCLKjXg=="
 ---
 

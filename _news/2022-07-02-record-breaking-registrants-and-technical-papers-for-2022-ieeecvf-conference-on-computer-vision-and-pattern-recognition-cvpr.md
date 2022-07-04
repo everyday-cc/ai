@@ -2,28 +2,19 @@
 category: news
 title: "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 excerpt: "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ..."
-publishedDateTime: 2022-07-01T22:28:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+publishedDateTime: 2022-07-01T22:48:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+webUrl: "https://fox40.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 type: article
-quality: 11
-heat: 11
-published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: FOX40
+  domain: fox40.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1852465/CVPR_exhibits.jpg"
-    width: 400
-    height: 233
-    isCached: true
-
-secured: "FKgHJu8amJxan9StFSGDzCR6JvAjuafd7nwdREUFa2k0MlU05UjRO86FWzu0NaKFUppgrviUrFdXVoiIyZldpiPR0DF/mVDs6bRCNx9FqH0tRt851/Ixm5w5udZGiqz61WJWHSGJ+BSAgZHbE3F5foNEeGpQ/bS03WeNfABXX8hOx5HZv97lB2E/QisToLwldNcPvvlim7BDQcXZ0u76IHF5o+EMgZ/sEoXT8YczBPRaKChFCrdxej0o6s/0mcoBvt86KigOdfnz/BPrvvr5tEWU/AqcQ+copu8R8f0+M5kXyJDF+xAg+xQy7/8R2dHqAezGE5Bp06wVMyiGPiKbrdxBGW5hi52iz/iLt4twdSQ=;9LxUstQHDKK/93JRfyQX7Q=="
+secured: "JJp9z1wVHDUSVAXR507rWTFau5LE0ODN9Miiz7zhQtZtkfJejRkjVak7XhjouRKKOOCj5+gr2HzST1uVpjMjpE1t+kPeW6+w44tu5IlsBjghPo7S86XE+OM5R2oEoj2lAEGcvLa8G2ypleOCaDvhlXrQoVMRDfd7per9o9jBx2aalaLZFd8+P3OS3ks6uYGlXhQc4aVy2eMJdG0DsazKEExWizaQ85PBHN/BltXopfDZzZ6js4U0Bf/tRr01F+E+Y70+NK9U7okmbT023VYGy4lJHPypUws9BO1ssKds/mf+2SLM6LkkyBcU+55htMYykfCTQnXlRN0IGmcqJLjVwXFAY0pU3kge2louX9poS3A=;qdNqwyb2ay6rdL0XDi87kg=="
 ---
 

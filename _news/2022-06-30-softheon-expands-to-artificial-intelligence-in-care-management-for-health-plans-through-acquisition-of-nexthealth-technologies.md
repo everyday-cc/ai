@@ -6,23 +6,15 @@ publishedDateTime: 2022-06-30T16:10:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
 webUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
   name: Insurancenewsnet.com
   domain: insurancenewsnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "WA03v0m9ZqdKHuP+FccS4CehI/clUI/IvJHPB6UZ0RiTTDNWeRP6eCrxN4ZrONh/SEqWsAUaq1soLa82ue7dMeSAGR2SshPH0TBq6Fq04W+cxpTI/JAO6R/9q1HJdWiLLSzw+TvBxVwHyc16ifAAt28DF406ALJHCKxVd8w6tNvFDOT7r+2bHKC28SWDInTCbA452omlMBTvyz4pcJf2L0eo/cyVMFUooxBdeDY5W9kkqqhwzg/ZUfgqgjFliFOTJPt+357fLkrB0Lr78VqLiGwqEZmNUCB+zqZyY7lAYiVvYbAWg7jHVg1uDyAFpIl/BtBwnBX/8qhN8nVoj0cyUH6lTPy85ZQ9UTeIgL/TWgc=;L8Fg5z72jOD+nrtFz/4fXA=="
+secured: "c6/Ik3NAxpM+LawtQAxSMqyci8CZklUkdxeEtKM3+LEvMgg90r0dvyr8h7ZyHV6sr2seMorVcs4zEWdJi1tJ4clrMCZeLG/egXwA3E8LEy6RPqezqFCl8TD49HexhZ3/BSPmG5JFiYiSsLxPNXcbWqC0Kfn1OZY8Ufw2kLVsSRWk9Wit3B014Mdu2kyTakT/oRLLWKydN+ZjXZHs/AmOzm2I2CADORiOcKNGn5JlFkcLZwejPQenkAFe8T3MAoudfNpMvfhPnh4Es1gDDXX1hXVO/HIjp0B4C251prSrSFL29zPtk85DCQp9nUY/ZoYGS4HXkG5GmFcTQtAVwWXVikme/T1hq1XqA0fiEJb5Kj3/faejyWKSXspYF+1Bji0NdNAvckPlrBZV1HQw1bjaHM/0bUpcikTKNoW4FsuxCgCj+jMJR2AKaUNUMFquf0BOSb1yOzNLF9IQ7J3Si1FTZsDKDflufNTMTu7T4vKhvT9rIWimDmOtH74T2RUK2M4aAixiRmElR/kLS2V/7rYaEQ==;nz2Kyj63ilpjBJSKHUC83g=="
 ---
 
