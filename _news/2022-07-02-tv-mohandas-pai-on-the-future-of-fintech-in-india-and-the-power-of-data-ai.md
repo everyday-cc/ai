@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
 type: article
 quality: 56
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: inc42.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Retaining Talent Will Be A Challenge For Fintech: TV Mohandas Pai"
+    excerpt: "Aarin Capital’s chairman TV Mohandas Pai stated that there is going to be a global war for high-quality talent within the fintech ecosystem."
+    publishedDateTime: 2022-07-04T06:49:00Z
+    webUrl: "https://inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
+    ampWebUrl: "https://inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/Retaining-talent-and-spawning-innovation-is-going-to-be-the-big-challenge-for-fintech-SOCIAL-1.jpg"
+        width: 1201
+        height: 629
+        isCached: true
   - title: "Fintech Players Need To Talk, Educate & Interact With Regulators: TV Mohandas Pai"
     excerpt: "On Inc42's Fintech Summit, Aarin Capital’s TV Mohandas Pai opined that fintech stakeholders need to have a dialogue with the regulators."
     publishedDateTime: 2022-07-01T08:07:00Z
@@ -42,64 +58,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/07/It-is-important-for-fintech-players-to-talk-to-the-regulators-educate-them-interact-with-them-and-create-a-regulatory-system_feature.jpg"
         width: 1361
         height: 1021
-        isCached: true
-  - title: "Decoding India’s Fintech Future: Five Takeaways From Fintech Summit 2022"
-    excerpt: "At Inc42’s Fintech Summit 2022, startups, investors and other stakeholders came together to chart a course for the future of fintech in India"
-    publishedDateTime: 2022-07-03T02:30:00Z
-    webUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/"
-    ampWebUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 43
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/07/Social-5.png"
-        width: 1201
-        height: 629
-        isCached: true
-  - title: "AI in FinTech Industry Analysis By The Business Research Company"
-    excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
-    publishedDateTime: 2022-06-30T17:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-industry-analysis-the-business-research-company-/2022/06/30/9632089.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "How Artificial Intelligence is Shaping the Future of the Fintech Industry"
-    excerpt: "Managers who work in the financial area, and UK-resident banks or investment companies, should always look for an optimal approach to customers, processes, and data. Embracing AI technologies may come in handy here."
-    publishedDateTime: 2022-06-29T14:43:00Z
-    webUrl: "https://www.deadlinenews.co.uk/2022/06/29/how-artificial-intelligence-is-shaping-the-future-of-the-fintech-industry/"
-    type: article
-    provider:
-      name: Deadline News
-      domain: deadlinenews.co.uk
-    quality: 38
-    images:
-      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/06/possessed-photography-jIBMSMs4_kA-unsplash-1-scaled.jpg"
-        width: 2048
-        height: 1474
-        isCached: true
-  - title: "100 most influential AI leaders in India — 2022"
-    excerpt: "Analytics India Magazine brings to you its annual list of the Most Influential AI Leaders In India for the year 2022."
-    publishedDateTime: 2022-06-30T05:51:00Z
-    webUrl: "https://analyticsindiamag.com/ai-100/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/ai-100-1.jpeg"
-        width: 2048
-        height: 930
         isCached: true
 
 secured: "FCm6bqXy/0WO0Iy/ZHOsD5+egC7mdBYnsUPoN1HiBI9/gE97bxc22EK4yzEtQJd8yY0P7mNHp8gGNOEK7EMSA9dkOI7ywYnRjr0087oIFJg7edxAvBFyhudvUbX0iGfoADuvjVfPUcQ3mjSaCux67bXmDAYDz9wBnXbL5Etlz5tTzhUr4SsuQ4XEa6AqWKHlgbz92q9Pn1gQIMPbqpwf2+op/2tmojPkHovEWgqwEa9ctqRHIFTERD1lcVTyR5Cz+hbtLGSmTBOGddYeMbVy1SPlRoZgrHyE0AHv9mEwBru6TBgfFqRhyM6UP8GND2h5Z8Bx5d4hqYJGhMNMM/pGShqlJStb+m4R/73mPW+9JTaQo2nmvn2Sc2Hntoffhw4xm0XlDJmGfqEUEwQD/+fBIK5o9FWsDA2UidXX9e5TI/O4Jcrir6WUQNRuN8dMc5cjOT48zmDBHjRd0Qssdmc08iU0aMtMkpnanlo7WYiNa7DS3ViWmtdYBVz2TG597CRYApBf+3RS66s7anIDKH18fA==;kc1tj2HIbgTkRnClcbfRZQ=="

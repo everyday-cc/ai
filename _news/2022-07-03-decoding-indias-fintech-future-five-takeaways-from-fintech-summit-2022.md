@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takea
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
-    excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
-    publishedDateTime: 2022-07-02T10:43:00Z
-    webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/"
-    ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 56
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg"
-        width: 1201
-        height: 629
-        isCached: true
-  - title: "Fintech Players Need To Talk, Educate & Interact With Regulators: TV Mohandas Pai"
-    excerpt: "On Inc42's Fintech Summit, Aarin Capital’s TV Mohandas Pai opined that fintech stakeholders need to have a dialogue with the regulators."
-    publishedDateTime: 2022-07-01T08:07:00Z
-    webUrl: "https://inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 54
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/07/It-is-important-for-fintech-players-to-talk-to-the-regulators-educate-them-interact-with-them-and-create-a-regulatory-system_feature.jpg"
-        width: 1361
-        height: 1021
-        isCached: true
   - title: "AI in FinTech Industry Analysis By The Business Research Company"
     excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
     publishedDateTime: 2022-06-30T17:26:00Z
@@ -73,34 +41,45 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "How Artificial Intelligence is Shaping the Future of the Fintech Industry"
-    excerpt: "Managers who work in the financial area, and UK-resident banks or investment companies, should always look for an optimal approach to customers, processes, and data. Embracing AI technologies may come in handy here."
-    publishedDateTime: 2022-06-29T14:43:00Z
-    webUrl: "https://www.deadlinenews.co.uk/2022/06/29/how-artificial-intelligence-is-shaping-the-future-of-the-fintech-industry/"
+  - title: "Inc42 Fintech Summit 2022 Is Here: 60+ Speakers, 20 Sessions Decoding Hottest Fintech Trends In India"
+    excerpt: "Inc42, in partnership with Slack, Akamai, Manipal Technologies and Beams Fintech Fund, is hosting the Inc42 Fintech Summit 2022 on July 1-2."
+    publishedDateTime: 2022-06-30T06:05:00Z
+    webUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/"
+    ampWebUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
     type: article
     provider:
-      name: Deadline News
-      domain: deadlinenews.co.uk
-    quality: 38
+      name: inc42.com
+      domain: inc42.com
+    quality: 29
     images:
-      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/06/possessed-photography-jIBMSMs4_kA-unsplash-1-scaled.jpg"
-        width: 2048
-        height: 1474
+      - url: "https://inc42.com/wp-content/uploads/2022/06/Launch-Article_Fature-Image-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
-  - title: "100 most influential AI leaders in India — 2022"
-    excerpt: "Analytics India Magazine brings to you its annual list of the Most Influential AI Leaders In India for the year 2022."
-    publishedDateTime: 2022-06-30T05:51:00Z
-    webUrl: "https://analyticsindiamag.com/ai-100/"
+  - title: "StrongHer Ventures Fund II Invests in Leading Women-Led and Focused Startups Across Fintech, Future of Work, Healthcare, Consumer, and Web 3.0"
+    excerpt: "StrongHer Ventures comes in as an early-stage investor for boosting women’s entrepreneurship across Fintech, Future of Work, Health, Consumer, and Web 3.0. Key differentiation factors include strategic funding,"
+    publishedDateTime: 2022-06-30T21:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-health-entrepreneurship-8e0ff7016d16b79563d66e360f3d86eb"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/ai-100-1.jpeg"
-        width: 2048
-        height: 930
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Juniper Research: Future Digital Awards for Fintech & Payments 2022 - Now Open for Applications"
+    excerpt: "Juniper Research is pleased to announce the opening of the Future Digital Awards for Fintech & Payments 2022! Since 2008, the Future Digital Awards have been presented to financial industry companies at the forefront of their respective fields: companies that deliver imaginative and innovative products or services that have the potential to disrupt their ecosystems and provide significant benefits to their target audience."
+    publishedDateTime: 2022-06-30T07:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631483.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "qyc3Zd7/Lm/zvPMI4BBiWZg8xqlSGcViAXY8/kVB3clOlrA2geE7AkVQ6toeC5xZ+WaBS1xmo901mDpF1CiyHptgX2LeMUSi9H0CNYAyYeeUEzVMa05y0rKaNQIaUtB58zTeAsl1i6gs9uKQEklZ4dgYxrKDsjGPFE9vVBTLfNcYb+og0un8jpov/TkHu4TGNvpwgXyJFuCkmwKj82JwBDlahR5uzicjcl8iGJmN6P8Bv9eFIzUSZ+pTuISvuWntGIvrl3IKkLUz4+Lpm3ErH6cVyWDDsCUn4GKHdw+azxntwFsyqj6aeMYoSASnoNwkSAsVD4hUdI1B/VbwF0DyPJ9amrxPhC3VeDjF6a8H+eMphLK8dRAgaug07FOxmVL0spGIQKwNyJheoXAwvBzs3hEmI06YL++202K/n0hnBnLQidZKCI2NzvUd8RgXFdF70YCxhm15G4I5djK1AQbY3Sg8IB2qFUdOVgjL4DXKzeiBIqSnCRSgcssUbGl+07ZAMuhGTFqO2cZz8UZk+GUUfA==;TyUxsUZUK/C5wrxlNYbplA=="
 ---

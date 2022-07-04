@@ -19,19 +19,65 @@ topics:
   - AI
 
 related:
-  - title: "The Business Reseach Company: AI in FinTech Industry Analysis By The Business Research Company"
-    excerpt: "The Business Research Company's AI in FinTech market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, June 30, 2022 /PRNewswire/ -- The AI"
-    publishedDateTime: 2022-06-30T16:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-business-reseach-company-ai-in-fintech-industry-analysis-by-the-business-research-company-008.htm"
+  - title: "Decoding India’s Fintech Future: Five Takeaways From Fintech Summit 2022"
+    excerpt: "At Inc42’s Fintech Summit 2022, startups, investors and other stakeholders came together to chart a course for the future of fintech in India"
+    publishedDateTime: 2022-07-03T02:30:00Z
+    webUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/"
+    ampWebUrl: "https://inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/decoding-indias-fintech-future-five-takeaways-from-fintech-summit-2022/amp/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 27
+      name: inc42.com
+      domain: inc42.com
+    quality: 43
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/Social-5.png"
+        width: 1201
+        height: 629
+        isCached: true
+  - title: "AI in FinTech Industry Analysis By The Business Research Company"
+    excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
+    publishedDateTime: 2022-06-30T17:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-industry-analysis-the-business-research-company-/2022/06/30/9632089.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Inc42 Fintech Summit 2022 Is Here: 60+ Speakers, 20 Sessions Decoding Hottest Fintech Trends In India"
+    excerpt: "Inc42, in partnership with Slack, Akamai, Manipal Technologies and Beams Fintech Fund, is hosting the Inc42 Fintech Summit 2022 on July 1-2."
+    publishedDateTime: 2022-06-30T06:05:00Z
+    webUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/"
+    ampWebUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 29
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/06/Launch-Article_Fature-Image-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "StrongHer Ventures Fund II Invests in Leading Women-Led and Focused Startups Across Fintech, Future of Work, Healthcare, Consumer, and Web 3.0"
+    excerpt: "StrongHer Ventures comes in as an early-stage investor for boosting women’s entrepreneurship across Fintech, Future of Work, Health, Consumer, and Web 3.0. Key differentiation factors include strategic funding,"
+    publishedDateTime: 2022-06-30T21:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-health-entrepreneurship-8e0ff7016d16b79563d66e360f3d86eb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "+z3shOlLOmwDFxz/SO70DTg6f/cNNOh7NxqJjdXfV2HS4BZm9zsgPvNxBnvJZhOh6u/bmonY7qhd1LnA6num6KZ25VLXRZIragEqhiPmA4lTK+xlMhvXow76F56uNthJO6t1Xy3h5m67v96ISdwmJuohSrDaYA5bGK1NwnY1xWZuqHQVjhno/hx3krCQPARZ0m/mOa5VSzd7sEJpykbR+2UM9PiXqrAwQGTwcj4GWANSz0+pzyLFih+jAEebnvwIAMUR/R5dwbc6cDGGhzrOJbt77mkp3x8ci6Jwzg/rjDIjhSUq9/vjik4pffTYA3olbAlQAVKFXihDS6kfQvsVlpsIen4SgTqVEEW/I+7zMDY=;b+aLyLu2zWVk0+4GCKnMLA=="

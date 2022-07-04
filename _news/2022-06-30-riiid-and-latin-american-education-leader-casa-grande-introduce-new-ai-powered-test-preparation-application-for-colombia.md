@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/riiid-and-latin-am
 webUrl: "https://markets.businessinsider.com/news/stocks/riiid-and-latin-american-education-leader-casa-grande-introduce-new-ai-powered-test-preparation-application-for-colombia-1031560431"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,38 @@ provider:
 topics:
   - AI
   - AI in Education
+
+related:
+  - title: "Only through international cooperation can AI improve patient lives"
+    excerpt: "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
+    publishedDateTime: 2022-07-04T07:55:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
+        width: 2880
+        height: 2262
+        isCached: true
+  - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
+    excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
+    publishedDateTime: 2022-07-04T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20220703/Greater-global-coordination-needed-for-AI-enhanced-diagnostics-treatment-to-save-lives-of-prostate-cancer-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 15
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "fs94jfkAFdHR8VfWzg4ll5YSYcuQo9yqqYdsnbtLdjix3igkuBwRgh9ijX5vtPxmX3Ll0b2mPRr1Z1owpSIPuG9Abg0m2ojd71K1rh/Sa8Wa0zM0rIfe48WBYvxNEcv0YdIXhRSLPJWI7eQvr+cySKFJnWtw9aGBz6+45I9W7MYtri9yHb4RhwEcAMoonebojVwCiYlL/sg/WbuJYprVIYahVkv6cf/zJ2BX128bj24wM2XyACJWTeVSWnctirOEZyT5y0mECuV8hOmbZ1FjJ+J4H2k1pp9Kmxk1nNy+pRcDtEmJ9w5ndz8Ra+00VD0rgGzk9jI6XZHH79d7QGloYb1TrZx0+EXXdbtDll+TPMcwaNz1+FeY6vGpcL0+JdXu+fKnj1PxjEEzU03gKdUWLJqXEBELpZ/ifXmZsNmqiU2WpppXoHowUW7MabXNigFD7EpBEEAV+z4+tR66WeXshOU5MFTSYe51LuvK8gQlvWNeGlnWOPp68nwWeBpSwnpbuyFEOLaeP3+VaP62OdTLgg==;3qI7M4L34BmOV9+rjtaQfg=="
 ---

@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-04-only-through-international-cooperation-can-ai-improve-patient-lives.md",
+      "title": "Only through international cooperation can AI improve patient lives",
+      "excerpt": "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg",
+          "width": 2880,
+          "height": 2262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp",
+      "publishedDateTime": "2022-07-04T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai.md",
+      "title": "Retaining Talent Will Be A Challenge For Fintech: TV Mohandas Pai",
+      "excerpt": "Aarin Capital’s chairman TV Mohandas Pai stated that there is going to be a global war for high-quality talent within the fintech ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "originalUrl": "https://inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/07/Retaining-talent-and-spawning-innovation-is-going-to-be-the-big-challenge-for-fintech-SOCIAL-1.jpg",
+          "width": 1201,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "publishedDateTime": "2022-07-03T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-55-per-cent-indigo-flights-delayed-as-crew-call-sick-on-ai-hiring-day.md",
       "title": "55 per cent IndiGo flights delayed as crew call sick on AI hiring day",
       "excerpt": "Fifty-five per cent of IndiGo’s domestic flights were delayed on Saturday as a significant section of the cabin crew took sick leave, with sources in the industry saying they appeared to have gone to an Air India recruitment drive.",
@@ -370,21 +455,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-02-tv-mohandas-pai-on-the-future-of-fintech-in-india-and-the-power-of-data-ai.md",
-      "title": "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI",
-      "excerpt": "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022",
+      "path": "_news/2022-07-02-ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems.md",
+      "title": "AI Ethics Starkly Questioning Human Voice Cloning Such As Those Of Your Deceased Relatives, Intended For Use In AI Autonomous Systems",
+      "excerpt": "AI Ethics questioning whether human voice cloning such as using your deceased relatives is appropriately being used in AI autonomous systems.",
       "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "originalUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg",
-          "width": 1201,
-          "height": 629,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb86dbc92b5006564a638a/0x0.jpg?format=jpg&crop=2032,1354,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -392,14 +477,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "publishedDateTime": "2022-07-02T03:43:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
+      "publishedDateTime": "2022-07-02T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -408,8 +502,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -612,7 +706,7 @@
       "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1084,92 +1178,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence.md",
-      "title": "IIT Delhi to curate robotics curriculum for schools of excellence",
-      "excerpt": "Through this curriculum, students will be trained in different aspects of robotics and automation which will in the field, they said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/1/w600X390/IIT.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
-      "publishedDateTime": "2022-06-30T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-resecurity-brings-cyber-threat-intelligence-to-microsoft-azure.md",
-      "title": "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure",
-      "excerpt": "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

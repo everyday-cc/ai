@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-
 cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 932
     height: 470
     isCached: true
+
+related:
+  - title: "Tesla’s layoffs hit Autopilot team as AI develops"
+    excerpt: "The layoffs were first reported by Bloomberg Tuesday and confirmed by CNN Business. Data annotation specialists use software tools to manually label objects in video clips collected from Tesla vehicles."
+    publishedDateTime: 2022-06-29T21:01:00Z
+    webUrl: "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 64
 
 secured: "8VP4JpFgl8stsA5NGtCUE/NFqtPcMK47Hnw29OC0NYkWHzfQKddjtLjYij8WCKilB1CNI6P4AfJYLKhKj9OXtuWebX7Ny72u93TYpGcCiTDXMGWC083FmlotdtP8VI1Ir/KEIn/HF72k0g9ouQEAVUapZMuDR45XOSqaiduQxQNu6tODIpK5Xv3qRv4HRFHgvdhiIju9hQEUy5M/oUVXn5yWpikMEjTWvSVkRiozCviD4abtyVcEs6ZtMlP/JFgH9UjwOxyCJQh7fjc96FAedY4FCrWVIwd2Hsk1tUvwwg7bhBPynvIq0K2Hm5uT66BKRKqO2wWCmPPiBDup3JdAUhEL6PYqyZazZsahefg/CHu/ocP7MltvCUxCl5t6Nd4tsltZfdvgtkXSbNw0YzGrTdpr7Lo6RkIEhxDVLMLl0fazYDSvY/q/cdzctc9biPjh9PlVoTxbrV57UpVVmnOBB2jTVucbIkHfCED66JgKYA6p+5YAOPhJTzYieGe4hYwpeuptqS0+Q8OyaIN3kcOf5w==;flKxcLnTed68RLYTCC6PNg=="
 ---
