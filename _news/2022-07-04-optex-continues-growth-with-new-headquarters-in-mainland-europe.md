@@ -3,14 +3,9 @@ category: news
 title: "Optex continues growth with new headquarters in Mainland Europe"
 excerpt: "OPTEX, the global sensor manufacturer, has opened its new European headquarters in the Netherlands to better serve and support security customers throughout mainland Europe.New facilityThe"
 publishedDateTime: 2022-07-04T10:30:00Z
-originalUrl: "https://www.sourcesecurity.com/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html"
-webUrl: "https://www.sourcesecurity.com/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html"
-ampWebUrl: "https://www.sourcesecurity.com/amp/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html"
-cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html"
+originalUrl: "https://www.sourcesecurity.com/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/optex-continues-growth-headquarters-mainland-europe-co-1261-ga.1656905242.html?ref=nav"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: SourceSecurity
@@ -20,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "KNNkMitnnEQEhY25D09ivGihoJ+pN/SetpGLavc/YhqtK74wdTBHF0htE/s4xVByseap4IBOgucuQj6YnYpdNmBdAYEdNRHOLovifLS8dEBW8Iomsm1PerdQqbNCbphsjeYPSLnUAmTDdQ1s1LJeR4vdIInatY4rxL7IlwYue7d963YXnxWiOYAfvCtxG9+3xer/vzUeRco44/NqhAy35eMu/4oczZ0NZsp7l+d+Gzy/fsKvZdOItbcK8No7SFgSzSKu9qS44Ph1U1FJDHXLSALb1uzms9YWe3QGRbgkA331f0OrD1cNz5VOsJIsNTuUCG7PM8mwDWS6HzH6dDn+pvR3NojQfFdsuqj8BPMluG/jItvF9WJzHCYEKYIkWAt2bynRIOci7vi6dxtggaNoMnQC0M2rr953jmwGFjfyUvZ7CGmr4CU4CXf/dtDnNdudpUgb0Rj4eNGV4FyB35B21m0jlaXwEdf40OGpwqacghYxx0XhwwFa6a3uom2jBJhkPT2m5QMno2GDzP3W+srGIQ==;dUICsEyghNLwKXV9rQDD5Q=="
+secured: "R25K8iGxZhrqQ/JJ/mGm8udcGn27N9cVHo+2KjHCuybu2DGamcM3dcQxGVv74nocK0j4Xqpu0MF5lOwV9Kv+nP2J1vhy63nHoLt8EA3BKNng+jF+JamShEChXSXKKUYBoD6AGWahTqAzX0j2jJ/bvg6KeoHitrDTwhfh9JXbiZNqrVZ8mlZHQx0rvJpk/1yYa4FrZguQN/EbM7Mex2HIGfE+ngKLNNsMD/lVReG/Qh8QydexrkyvpyvkOhiBL10CEj0q7tCSLuLk8aJB7VYNmfuo5ZssEyK2xfxh4kStoD5HHivT02JGLk27BAwl3rM5ao0cJ7C5/VAcpOnpk/t7HfXTL39PTAjzCgNlq78bXDc=;QWWk3+NXQzJrttAR2pWjnw=="
 ---
 
