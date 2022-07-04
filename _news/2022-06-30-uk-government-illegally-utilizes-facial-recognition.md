@@ -42,20 +42,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "New York school districts plan facial recognition security despite ban"
-    excerpt: "The moratorium has not prevented a pair of school districts from receiving approval to deploy systems that use facial recognition technology."
-    publishedDateTime: 2022-06-29T23:08:00Z
-    webUrl: "https://www.biometricupdate.com/202206/new-york-school-districts-plan-facial-recognition-security-despite-ban"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
-        isCached: true
   - title: "Facial recognition's creep into commercial spaces - are we ready?"
     excerpt: "Australian consumer group CHOICE outed three retailers - Bunnings, The Good Guys and KMart - for collecting the biometric data of their customers. The watchdog last week referred the trio to Australia's privacy regulator,"
     publishedDateTime: 2022-07-03T23:36:00Z

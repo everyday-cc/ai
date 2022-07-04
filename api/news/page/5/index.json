@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-28-spotting-objects-from-space-is-easy-this-challenge-is-harder.md",
+      "title": "Spotting Objects From Space Is Easy. This Challenge Is Harder",
+      "excerpt": "SMART stands for Space-based Machine Automated Recognition Technique ... “A lot of what we see out there today is ‘Can I find a particular object?’” says Jack Cooper, the program’s manager. “And SMART is trying to figure out what all those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/",
+      "originalUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62ba5377403df153e6760426/master/pass/SMART-AI-Satellite-Images-Construction-Sites-science-1166454983.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/amp",
+      "publishedDateTime": "2022-06-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom.md",
+      "title": "Worldwide Artificial Intelligence (AI) in Drug Discovery Market to reach $ 4.0 billion by 2027 at a CAGR of 45.7% - ResearchAndMarkets.com",
+      "excerpt": "The “Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Acquired by Creative Financial Designs Inc. ADV",
       "excerpt": "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ:BOTZ opened at $21.47 on Tuesday. The firm’s 50 day moving average price is $22.95 and its 200 day moving average ...",
@@ -1055,21 +1149,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
-      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
-      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "path": "_news/2022-06-27-mps-launch-investigation-into-self-driving-vehicles.md",
+      "title": "MPs launch investigation into self-driving vehicles",
+      "excerpt": "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "webUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
+      "originalUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1079,63 +1173,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "publishedDateTime": "2022-06-27T08:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-were-at-risk-of-creating-a-generation-of-racist-and-sexist-robots-study-shows-artificial-intelligence-quickly-becomes-bigoted-after-learning.md",
-      "title": "'We're at risk of creating a generation of racist and sexist robots': Study shows artificial intelligence quickly becomes bigoted after learning 'toxic stereotypes' on the internet",
-      "excerpt": "Fears have been raised about the future of artificial intelligence after a robot was found to have learned 'toxic stereotypes' from the internet. The machine showed significant gender and racial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/27/13/59577011-0-image-a-34_1656333163498.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "publishedDateTime": "2022-06-27T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1145,59 +1187,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-instagram-is-testing-ai-that-verifies-your-age-with-a-selfie-scan-its-not-perfect.md",
-      "title": "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect",
-      "excerpt": "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "publishedDateTime": "2022-06-27T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
+        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-05-chinese-researchers-claim-they-have-ai-capable-of-reading-minds.md",
+      "title": "Chinese researchers claim they have AI capable of reading minds",
+      "excerpt": "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
+      "originalUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
+      "publishedDateTime": "2022-07-04T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
+      "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
+      "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
+      "originalUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/07/human-resources-g52f502e44_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
+      "publishedDateTime": "2022-07-04T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-obsbot-tiny-4k-is-a-petite-uhd-webcam-with-ai-powered-tracking.md",
+      "title": "OBSBOT Tiny 4K is a petite UHD webcam with AI-powered tracking",
+      "excerpt": "Webcams aren't generally smart, but the OBSBOT Tiny 4K UHD webcam is, thanks to AI-powered tracking and autofocus support. Learn more about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
+      "originalUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/OBSBOT-Tiny-PTZ-4K-UHD-Webcam-with-AI-and-gimbal.jpg?p=1",
+          "width": 1776,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
+      "publishedDateTime": "2022-07-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-china-turns-to-automation-and-robotics-to-solve-aging-problem.md",
       "title": "China Turns to Automation and Robotics to Solve Aging Problem",
       "excerpt": "Senior Product Manager The impact of an aging population has taken a toll on China’s economy. Industrial automation and robotics could be the solution. The largest existential threat facing China is its declining population – the impact of an aging population on the country’s economy has the potential to be highly unsavory and should not be ignored by global investors.",
@@ -274,7 +410,7 @@
       "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1021,152 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-the-feds-dont-know-how-often-theyre-using-facial-recognition.md",
-      "title": "The Feds Don't Know How Often They're Using Facial Recognition",
-      "excerpt": "At a congressional hearing, members learned that multiple government agencies don't know how many of their employees are using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
-      "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp",
-      "publishedDateTime": "2022-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-implementing-change-part-three-how-to-move-ai-forward-in-healthcare.md",
-      "title": "Implementing Change Part Three: How To Move AI Forward In Healthcare",
-      "excerpt": "Rick Newell, MD MPH is CEO of Inflect Health, Chief Transformation Officer at Vituity, and passionate about driving change in healthcare. I’ve explained some of the many ways artificial intelligence could vastly improve healthcare at all levels ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/",
-      "publishedDateTime": "2022-07-01T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-risk-transfer-is-the-key-to-successful-ai.md",
-      "title": "Risk Transfer Is The Key To Successful AI",
-      "excerpt": "The most significant challenge, as it pertains to AI, that businesses face is inventing new workflows to leverage AI in existing or new business models, allowing them to significantly grow their market share within existing or new areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/amp/",
-      "publishedDateTime": "2022-07-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

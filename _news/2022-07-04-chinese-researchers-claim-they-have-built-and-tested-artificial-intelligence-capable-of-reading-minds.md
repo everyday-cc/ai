@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Chinese researchers claim they have AI capable of reading minds"
+    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
+    publishedDateTime: 2022-07-04T17:46:00Z
+    webUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/"
+    ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 608
+        isCached: true
   - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
     excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
     publishedDateTime: 2022-06-30T09:32:00Z
@@ -27,20 +43,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "SenseTime’s Challenges Are Anything but Artificial"
-    excerpt: "It’s never a good sign when shares tank the moment a lockup expires. Investors appear to be losing faith that the company can stay at the cutting edge of a fast-moving field."
-    publishedDateTime: 2022-06-30T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/business/sensetimes-challenges-are-anything-but-artificial/2022/06/30/f6c8922a-f847-11ec-81db-ac07a394a86b_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 22
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
 
 secured: "fWDh/Q5bMM8+RiB4fHkefWzkwUaXUaONI10lJHmeOyFWQ5Nq0KmjqP13LTaN7XqzOSeXwO5TSCPhKaTIALavDyPIy3tVy/7FXsL7Ape60osHlCKDq1VYzdQCoWxtiSgPMyRrqfjC3E2eF34cUpuy5oCjUBABVTDxh5WOjQEBp8/whf0dAyYJCBPi033jct5/n5qIBrb6BHXN33qddpstm380aYLf5v1MCc0gjf89oYE7LB99mgLRAHGk3084rWQR5jog4OqqLxZdnxGdUvMqOQCVtPbar81ewpHuieIGZGfMzBXTorKeja+4BnSJak/xGnmbt/5gn149FQbSXZk6a+xIS6Hm3iKPolfT5WfppKUnhj4ZdpjSbft9eOmLDcynCvz23y8sUsJYSlX8I0tHwA/wfK7gwitQm4tIWSbvJxxtZc0oeI9sko8fLMtKEt9AUviz1WvCoNma6Zb96SMdl6PIm3OxASloZfRsmmo7jR7YI+nQ94Pc1coxQz4UyTnHQK1osNcN5M2cPwBspU/ZhQ==;WfpV/CV+JP+gFPj7HofBUA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1000
     height: 1422
     isCached: true
+
+related:
+  - title: "MSU researchers use AI to stay ahead of COVID-19 and other diseases"
+    excerpt: "The National Institutes of Health have awarded Michigan State University researchers $2.7 million to continue developing artificial intelligence algorithms that predict key features of viruses as they evolve."
+    publishedDateTime: 2022-06-30T19:28:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/957627"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
 
 secured: "tVw51cu5+7NHkEeBX/GwHu8K2vd2k0CSIarMvhEf8SsooqtiVQ2yEwDl4Z3Bg1LoJm/W42YRO03Vpb3Py9ROZRj17JR0u1faHPckObPBfeFAc1+ZWWn27Pwk0tNOIgXZgw1fYmzakLc5BQDA8INpyAwLO7+sMnEwoHF1ZnShgQ/dEqOPTLPdUvvSLDrETFxUChRv67rX2mb4athzfIq7DE53+tC3JFJGl+0+fX/nue4s5QVxpeYSmrodrDwhoDL95e4Jh90Kje9ospA6A9TpuSG5LKt7Wkt3VZvKNvxh/469SRclyjlUKDi5YaEooRLaw0T1WP7O1tCj5A6vMRqo9jATl9qRNDUTjKSXcduJjvjn00o9O22kOBzZLb0sF3H0DTP3djI1/Bg+CzD8LKLgs3VfxqZS3aZs8T6UaXyvbiN2pnp3RO4aoWsR2MwMdxIAf/QMYpvDHGe43E67oiJw61y0N09L5MAa6sbeJDqwScuqQPPRyPD+HZo1V25ZG/FYvbMmA8f0uYRbWe8MCFNUxw==;ZT8BXGkBFfeip6rlhC/tYA=="
 ---

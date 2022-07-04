@@ -36,20 +36,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
-  - title: "Bunnings doubles down on facial recognition"
-    excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
-    publishedDateTime: 2022-06-29T23:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/bunnings-doubles-down-on-facial-recognition.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
-        width: 766
-        height: 431
-        isCached: true
 
 secured: "2t6XUrCUlu7z7kpOVO70PzM0y3Vh2Reqi3+mf1xFM/J1ad2HUJfdguBtspToPHnf1adIcCQK2yifGm6DqbCEfjXyQLrJyc47xsY10mHG3Snpl6nJE8K/DLCDwHYYyMdUliLxenk8sgxLn8KTRK6S3qyrdQSDz6DRduur/jXB8Zbswo8xe2NH7XnTcTB0h59hBfuVn4h6pvQ/+Xn9vFbFnVefE4Ps91vyNYT4wmsrRxd6oayIaSfbtzMOTor+/NXXp9igcNzEnMm9oii1c0JGfZN5QciV++ALZYrfOkbyvI6PmB4V3jJx9PQaPurF+0fKVKG+d9tWSuDe6++mqg6c0KbwSSwqRGbkNkcHGxmVPJUGEFat8gprVdrjLnMuhSJPACDjc+8+W3uQNPiSb6RlTQ4U5CRPWhe1daToN2R1cIeeyqC1jWq2X60F1loVRJ0axWRePZn2v5WH1YXsflRm9TULvHYP/nvNPm/YqkqKxkk5jWcmI3Yg6BgRwhMVHV1wggTm6VNsxGjK5sbRZwIIvQ==;jTBV1Y9NDaBVBR6UKJEaQw=="
 ---

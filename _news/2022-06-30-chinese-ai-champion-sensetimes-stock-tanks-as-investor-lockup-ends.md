@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-
 webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "SenseTime’s Challenges Are Anything but Artificial"
-    excerpt: "It’s never a good sign when shares tank the moment a lockup expires. Investors appear to be losing faith that the company can stay at the cutting edge of a fast-moving field."
-    publishedDateTime: 2022-06-30T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/business/sensetimes-challenges-are-anything-but-artificial/2022/06/30/f6c8922a-f847-11ec-81db-ac07a394a86b_story.html"
+  - title: "Chinese researchers claim they have AI capable of reading minds"
+    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
+    publishedDateTime: 2022-07-04T17:46:00Z
+    webUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/"
+    ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 22
+      name: New York Post
+      domain: nypost.com
+    quality: 57
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 608
         isCached: true
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
     excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
