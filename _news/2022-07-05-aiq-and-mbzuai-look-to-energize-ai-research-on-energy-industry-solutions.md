@@ -23,6 +23,17 @@ images:
     height: 2634
     isCached: true
 
+related:
+  - title: "AIQ and MBZUAI to advance AI research in UAE"
+    excerpt: "The two organisations will collaborate on a wide range of advanced technologies as well as the exploration of a joint lab or research and development centre. AIQ and MBZUAI to advance AI research in UAE."
+    publishedDateTime: 2022-07-05T11:32:00Z
+    webUrl: "https://www.itp.net/emergent-tech/aiq-and-mbzuai-to-advance-ai-research-in-uae"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
+
 secured: "PkyBK9hUa7o1Vfk0iRlVfuApuuTNEP6tN4orX0f9hJ5AkQ3ek1I4Ra7mXWewtQ7/gMkfJG4815vgzKpla8bfYCgWQRnfBMh9nwjacFUuUxSxbpm313Etwvc1RI7msy2fhq6iOYzdX552tM5A2huWMlp13xBF6egKoBhG+2DN3kUENs5XhRbKQUhl8DB9hzzDQo9O43fSfOqd79f8Hy6LD1z8tiHvRwq1aXyi+x663QdGSXc/m7N4yu0Q5YS+vR/BkY9Xhvsqu5ho9O/CsRCcs1+89cUMMMKYDIazfh3fBcvNuMGj/v/KlVQJc72Dg/XzMP/6E3zOwDebKgpDDv9c9RGwUGJYeTJR6xNEfTSuWqI=;8hr3CF4n4uQAazIzQh6Low=="
 ---
 

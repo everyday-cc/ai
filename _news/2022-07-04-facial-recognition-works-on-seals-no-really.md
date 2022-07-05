@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/environment/facial-recognition-software-seals
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp"
 type: article
 quality: 59
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -55,29 +55,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
-    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
-    publishedDateTime: 2022-06-30T18:21:00Z
-    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stocks-appears-to-reflect-financial-not-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
-        width: 2000
-        height: 1040
-        isCached: true
-  - title: "Steep drop in SenseTime stock appears to reflect financial, not facial recognition market"
-    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
-    publishedDateTime: 2022-06-30T18:24:00Z
-    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stock-appears-to-reflect-financial-not-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
 
 secured: "uqVRHt+OKUt5r3cnEqnstHaDrTeOw/k3DjjpKv/1SIVEHnxT78i0zljjBTkPbks0XJPsY4s4wHSdlosziFXQKl4W/v8Jl17jvEFiJw0Tj1JoQ/6Mr4zaXtuNSoO8eWjhC+cYji0SlfRw9xSgz6968vu0CItiMJjwwcduxtoi32pYVQtz2IBMqWdiTnL0G2CrEdglP7np15jVbfOZP6sAtIzdQfrZhexiY36YIwMJ4dc3hXfgPQeXwvaCLXTNMBXF24meyc+vCyIPNGbiVkHAoodGqxVdPVLIWR4W1OWfBcX/UVfcB3GI6nXP2TKmCp1kIvGpq4ZJDqqcZ1G7+SHsYaYZQDGSC59PPSYu1M486MZ6GpzYUidlWV8lip/8UBfhHl5x7jlRN13mKaQL9jtHBzwkhD1LHUFXnUjA4MmD9vdA0AtoyW0vB0TBxuI5vtNgWdvhxvL8CnhrHaKjPdExtB9yOqZf+t4Q3aEzvb/71FuxN0/GJUv/0/p1axpKpkGLgg4ZlUVz+So6OiBnYCSZZw==;owu1oHb95RU2ZIYZvoZpUg=="
 ---

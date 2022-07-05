@@ -55,29 +55,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
-    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
-    publishedDateTime: 2022-06-30T18:21:00Z
-    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stocks-appears-to-reflect-financial-not-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
-        width: 2000
-        height: 1040
-        isCached: true
-  - title: "Steep drop in SenseTime stock appears to reflect financial, not facial recognition market"
-    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
-    publishedDateTime: 2022-06-30T18:24:00Z
-    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stock-appears-to-reflect-financial-not-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
 
 secured: "8XNvkhTrrrJWxzRKHNPpxoubIocgc5ba+qQOROgO4MjEgehpof4YVEz+LfVDIoc1csip33wDIm1eb4aMUASBdy0DsQbldyWeRin2kSQASL0O1WivcWTroNYxRNwKlCs2Mi/rM/4ujpsr+v5Sc0gfy/PDoiisyNexTKIj9IGqtzvmYfmAc/zMCdpXqO4uKQQEkjPJy4jSIpr9gGzgTmmIrWkxCuCcUUIRyP8KBE5jQHp/sEzUc4ZjnG+eUew49fj1e9dEs2QtrSU9iCKmQJ0zcakhDbJ7w8SD+xA5PxOo5mpdY3FckFEiFlkVz+IBUOPJ1TIFzecWxOov1bot5eDIdkrZekIUY7RQ+nliCy/ID8c=;3Ewv3B7vDeXAdQSMlufWyg=="
 ---

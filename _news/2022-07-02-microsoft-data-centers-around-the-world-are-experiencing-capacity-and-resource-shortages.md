@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Is Scrapping Some Bad A.I. Facial Recognition Tools"
+    excerpt: "As an outspoken proponent to properly regulate facial recognition technology, Microsoft﻿ announced it would get rid of its A.I. tools in this space. The tech giant is ending its role in the potential for facial recognition technology abuse,"
+    publishedDateTime: 2022-07-05T10:19:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/1139859542/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 943
+        isCached: true
   - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
     excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
     publishedDateTime: 2022-07-01T00:34:00Z
@@ -38,6 +54,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
+    excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
+    publishedDateTime: 2022-07-04T11:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-uk-stops-accepting-new-customers-for-some-services-due-to-supply-shortages/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 44
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZQhVXkJWA6OwL0ATHo45vgIxEflJNVBDWbOFkIeG34iO97/j0e8eqEnzMzvLpTKyxTXsQ8JaNPV17ATof7R7Q5ond6HuXH+0f/ofBVsp7HkGpbvpeeN5IX3J4JwdLomF8noRbAUg8h6Zx4Sd0D1txr3/OrKVIV5E04k5hzv9mCSnPa+NvSX70zIsaTcfiZVsNZ2DJnxuCZlo9W+uSAP+VwxkdHWv1UhMMkypHf3Z/Tc5+2itN62277M5SB3HVnOEP5AQum7Bjp5B6XSQ80j0GM6+Dm5mDP7da1sMNbkZsA/IH7eOVyipA3gqGKZaxUUiPyoxAa3rm/3TxAuobZDxh0qMIuG49S9lntR+behNCZ60LLS9RmRT7gVHTbge7Q8sXD/98FfJi+YnQ83fzeIoFupUQXqwleGvKgVbZZtyhdg/ZEtRrBqwBhSMntZWkCTuZffaXKvXW5mTwFDw2ny3iL/U4VXe3IWagaSTqXebVO7K1bkZh6oOpjNlmKJQoEfrK5S3Q+D7Ij97z1/faC3T3w==;JkTf83NrLTgK+yrSLzNYzQ=="
 ---

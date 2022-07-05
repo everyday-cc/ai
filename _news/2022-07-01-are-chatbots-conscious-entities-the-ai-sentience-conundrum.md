@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/are-chatbots-conscious
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chatbot company Replika says many customers believe in AI sentience"
-    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
-    publishedDateTime: 2022-06-30T17:36:00Z
-    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
-    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 61
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Locally made AI chatbot pulls global clients"
     excerpt: "Local technology company Reve Chat is now facilitating access to information for citizens of Mexico while protecting their personal data with its AI-enabled chatbot, underscoring the Bangladesh tech industry’s growing clout in the global markets."
     publishedDateTime: 2022-07-05T04:00:00Z

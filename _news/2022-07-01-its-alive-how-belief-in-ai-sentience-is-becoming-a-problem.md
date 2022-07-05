@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Is the business concerned about AI sentience?"
+    excerpt: "However, last month, Google developer Blake Lemoine made a claim that his discussions with an AI chatbot demonstrated it was sentient, which reignited the argument over whether AIs are capable of feeling emotions as humans are capable."
+    publishedDateTime: 2022-07-05T11:00:00Z
+    webUrl: "https://bestgamingpro.com/is-the-business-concerned-about-ai-sentience/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Does-AI-sentience-matter-to-the-enterprise.png"
+        width: 600
+        height: 365
         isCached: true
 
 secured: "39Uu42gFcDbbmV0r6X80LVCe2WWV0HAJ1r0I1SrvlDtdjzEtT1b2VZ2HvlrJt7VzWgBJGYb6Fi4LLDZhIehk1dHosX95Tao36smzFaA1MRYlbYuq7n/Dha8pw6pyXi8fily5nbn85boDl9SOwTPTuK6M2Joe/5z26EcSR3Af5GsnYtJf4MDaKEtMPZG/7hAdMzY2fHvBhwH+CRQdJtWL1bVX/M0EwUIzPygKitrkTaH6wkEUB7/KbAyhXCs752gsk+qiKPcJ+0hkIk9RGHo9riEB9nGintXgHcCNJp1Dru0S/MiorYAH5k9E8C+evQBcFYnD6VjRgZxrgcnsnUt0BeT1fkzy6BsoWMkq4+kolss=;+HQG1pErV/Ykg6+Wcue5kA=="

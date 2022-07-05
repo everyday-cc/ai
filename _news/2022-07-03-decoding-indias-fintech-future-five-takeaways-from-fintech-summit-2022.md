@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in FinTech Industry Analysis By The Business Research Company"
-    excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
-    publishedDateTime: 2022-06-30T17:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-industry-analysis-the-business-research-company-/2022/06/30/9632089.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "StrongHer Ventures Fund II Invests in Leading Women-Led and Focused Startups Across Fintech, Future of Work, Healthcare, Consumer, and Web 3.0"
     excerpt: "StrongHer Ventures comes in as an early-stage investor for boosting women’s entrepreneurship across Fintech, Future of Work, Health, Consumer, and Web 3.0. Key differentiation factors include strategic funding,"
     publishedDateTime: 2022-06-30T21:24:00Z

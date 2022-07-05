@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-uk-stop
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-uk-stops-accepting-new-customers-for-some-services-due-to-supply-shortages/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Microsoft Is Scrapping Some Bad A.I. Facial Recognition Tools"
+    excerpt: "As an outspoken proponent to properly regulate facial recognition technology, Microsoft﻿ announced it would get rid of its A.I. tools in this space. The tech giant is ending its role in the potential for facial recognition technology abuse,"
+    publishedDateTime: 2022-07-05T10:19:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/1139859542/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 943
+        isCached: true
+  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
+    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
+    publishedDateTime: 2022-07-01T00:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Microsoft data centers around the world are experiencing capacity and resource shortages"
+    excerpt: "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating"
+    publishedDateTime: 2022-07-02T15:09:00Z
+    webUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
 
 secured: "ySaDIYtqGYjltTNZ7iVBxJmqCUcHNrneyWVJu42zA7woGF7kbTZCSMYZDyW0CI+DqUD9ZuFWDvSDx2LNdOkfU5lIW72yIOGDxqLyW3LZAq7MLejKqfEwnmxX5E6La4Wdmp5Mf9s5FKhNKRNUeXYUPm1IlfZV8K4jP4ZBN6WGvBWZxWK1kZC9DJguToq4nv+BSKfuk8XRYALg1CJmUO8Z4VmWwSgUmOsQ9palJfL89u2mX9/dbdEQmRpMeW1d0ZJnH2Z45/fMSWPdO8ippaGF+jpAq+NB+AZP4Dhs9ZcApf8vfbQJGH2Mew3IMMysiS0fdQ+P4c5XPbzuM0LJmcO9rjdKyuUSiz0gMo5mFODX893Q5tm1F4xvzAVPJdIkUCkqYFDSxwslSXJxoHxqv9SWzlFB4QrGjYIgaIFzj+25y4ULo4YKcmbJhyUqiEibxE2HVZ4+DUDk/8jGPbh1gq3D7o3ZxdyNMbvD4ZGrIi1yfbvRwn7T5u/OQVpUVNAr4No6AGy3peHJM1l2UqucfHavgw==;RAJAKh3D2hM6RsWIjD75Kg=="
 ---

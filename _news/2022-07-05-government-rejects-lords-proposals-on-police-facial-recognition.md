@@ -55,30 +55,7 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
-    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
-    publishedDateTime: 2022-06-30T18:21:00Z
-    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stocks-appears-to-reflect-financial-not-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
-        width: 2000
-        height: 1040
-        isCached: true
-  - title: "Steep drop in SenseTime stock appears to reflect financial, not facial recognition market"
-    excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
-    publishedDateTime: 2022-06-30T18:24:00Z
-    webUrl: "https://www.biometricupdate.com/202206/steep-drop-in-sensetime-stock-appears-to-reflect-financial-not-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
 
-secured: "jTx+IpugwtBOozprcxEjGoAPvWjzLLkXINecddEIcDVBkUoFQSnnwBmvczQ7jIb5itdtJy7XQufD8s5Da7nwPBNE/3K1J/SF8K4PLl83GuQewWNAwB1oGq9758br3eJJy7RZfo5Wf+/hStBwZlhgACDR0E9+CBTrUdi4NlxGIpH3rZ6dZWnkoIBR1DQjTlXhrACdW/zfxXG+pd8nY61o8xM/L5v3jh4hEI0n2IBunZgXhqlW1/JdcR6ZdDAVY1Z47ALru/xYqYTIXollXeydSck7V+iOc1X5lVojUcn+GalOSuHPZR+QINRo2CV5apAn9krDcSvjUDSKTxYiCVzTVaBb408IJtaRPE3LIAQUJYE=;lAbymlC3VtW0Dz0yoVneOw=="
+secured: "6+H7v+dsVHknwHmL0EKBPFSpHiFku0GMAv1nTxsi5vwCVsg0co3IEZEaipiz7v46yj4xrxonJiEUGZlkwg5YMKCi7pLAASyxkai8Oifmn5/cLo+yY/td3bkjhAhNspuo4srfQVdvA4p6KCk4t77mldgCqOJAkCK+KXQGhfE4/W5XJCPZKv/m0qjxuP8CSdw+j8IyHhM7VQS9vJ1IF+uXN8qpr8cJN3HjNpUvzMdcYIHomWVq9N2MLhJBg5tDcv8XrXU3fswCN51yEKZHUAxnlhJKtPuQh/VB+IiRoHdoP4aCkwV25qQ3lD7rRqhGPctI3K74eldcoVF9XM98xNzRsgUKzPr4QdqTTEZspwJXKXTPVIWVT+pBXmalt98UO+hghqlzb7SqDTScJZNd8iozhl5Sq/sK7s4RrPN2gA4upGhiQctqk7Nm+avQ+Hv8/oyVi+fKmy0v3/ICkqTxbhYCblyx/QG7DpGQF5E7q/fvRY1SN/Z1na9TAaliNgM0A/gXZEdx3hW0HEt423JJfvrF0Q==;CzExnTtsIu+P/wzJic+sWg=="
 ---
 

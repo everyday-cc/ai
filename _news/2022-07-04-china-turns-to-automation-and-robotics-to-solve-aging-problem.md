@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/china-turns-to-automation-and-roboti
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -19,17 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "IIT Delhi plans for robotics and automation"
-    excerpt: "The Delhi Board of School Education (DBSE) has roped in experts from IIT Delhi to design the robotics and automation curriculum for the city government's Schools of Specialised Excellence"
-    publishedDateTime: 2022-06-30T18:18:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-delhi-plans-for-robotics-and-automation-751290"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 34
 
 secured: "ckcjIwqlw/DoBGA9G2qCurGbWvEOX7vvqsWqHioAlyDyhkZe6haHDnjeDwNWbHFfL/lg1uplpGv0PRL5IM3uwm9Ci6FF6w82phgTYvTtmrvOdLx+QWIaLjPZ8eNa8XicSuW+9Qf3YNDvY/DPM3L7Ba7xAJoiEQWls3Ys4wJKK9JVqeV0zLNJ6xZI6sCU3fFfh9LOOKRjccRsuCYYumLhedUgK3VcrRgGJxZWuIM6xQE3aTU07IaFrov8NkgPlT3QIL2Nvp7dLOMq5/swmfZNUJs4uutuVbWy6UVLIwq0x0ASwvRQoy7I08qG1lvFKGHPl3RYWDxpe+3TGu5QhB/YLwMhj9a0rBNz8ssfsHuDqeyv3E0Kk8KHmkmIPwdOdb3YFUU7B2Ta8YjaS3I3oEAoUrw3dWttGipn8gxRIejpeNrNohQUNAh1HP6gbdC9xl+4Hn4LXTjNaSVuS+qdmd700BlYLhhGWQuRREZs2MuBmu2ulDDs4IyQQrHS0ZUqlBBjaLMnJECEtajq/F/EuOYOQA==;/ICwF8aFUz6M+TGjpn27Mw=="
 ---
