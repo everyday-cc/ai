@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fundbox"
   url: "https://twitter.com/fundbox"
-  followers: 7960
+  followers: 7961
 
 size: 51-200 employees
 yearFounded: 2013
@@ -34,7 +34,7 @@ tags:
   - FinTech
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1532019939082522624/KncbnnPN_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1544386950542479360/A8C9jk0t_400x400.png"
     width: 400
     height: 400
     isCached: true
