@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
-    excerpt: "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ..."
-    publishedDateTime: 2022-06-30T09:06:00Z
-    webUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 63
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks7.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
     excerpt: "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The stock traded as high as $20.57 and last traded at $20.57. 452,"
     publishedDateTime: 2022-07-02T06:12:00Z
@@ -53,15 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 37
-  - title: "AE Wealth Management LLC Increases Position in C3.ai, Inc. (NYSE:AI)"
-    excerpt: "AE Wealth Management LLC lifted its position in C3.ai, Inc. (NYSE:AI – Get Rating) by 7.3% in the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-07-04T08:32:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/04/ae-wealth-management-llc-increases-position-in-c3-ai-inc-nyseai.html"
+  - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
+    excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
+    publishedDateTime: 2022-07-01T09:04:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/01/advisornet-financial-inc-purchases-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
     type: article
     provider:
       name: Defense World
       domain: defenseworld.net
-    quality: 17
+    quality: 29
 
 secured: "2TyPWgrs9HQ1OyPFwu0AK0SpAdNR/fi3k/COjbj0Ensm4z+dXxNpXZ+MBNzFQk2bhHVlUFlZa2CBPU4F+QaRq0NuvoN2gc7tPpVVbujetHC+WqEcgBBUbmVezNxoCkuF/uUPpd92NJc0WIno3yAGvGXs3lyTwjK2+gDD0nMzkOBxZF4AIyHy+yer06VNfqIr5Du3/rTKvjO6vNrJj+z3IBrxLli4V25kaqiHVRTYTS9RsWbxfI2qDCp/BIHe4oh2GfYdtSx77fLRStUA834iTpSzhfnkTWPIRrChGRZDZpznWMu0fActu2nKsPWERMfpGyg2ZTN+Q5a64sXvSITY5FldaGxYYlVapw3G1ytGFClqMTYu71aagyk2E27I9wwF4AWG0UQ3EqFJMGkiKKyQ0NOsHyTY1VTVpgRF9YEfMhPjCOvfg00A/oQbKX8a77UyOYRWSMChnsUxl6qnVHs66LnzxtaBIt0AOI420+DxtdN1WkGgbhkkseaIPQvh2TCDieOYlzEtWbFMdEvqTBkt8A==;TBnzjQsI/RBiHjwO9GAFkw=="
 ---

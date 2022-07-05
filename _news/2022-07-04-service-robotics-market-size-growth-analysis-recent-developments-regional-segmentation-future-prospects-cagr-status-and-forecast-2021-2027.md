@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,14 +23,42 @@ topics:
   - AI
 
 related:
-  - title: "Blood Cancer Drugs Market Recent Developments, Growth Opportunities Forecast Report 2022-2029 | DataM Intelligence"
-    excerpt: "Major key companies which are contributing to the growth of the Blood Cancer Drugs Market include Amgen Inc., AstraZeneca PLC, Bayer AG, Celgene Corporation, Eli Lilly. Bristol-Myers Squibb Company, Gilead Sciences,"
-    publishedDateTime: 2022-06-30T18:10:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-7-1-blood-cancer-drugs-market-recent-developments-growth-opportunities-forecast-report-2022-2029-datam-intelligence"
+  - title: "AI Marketing Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
+    excerpt: "AI Marketing Market Outlook: Global \"AI Marketing Market\" 2022: - AI Marketing Market report thoroughly scrutinizes"
+    publishedDateTime: 2022-07-01T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-07-01"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "An Exponential AI On A Quest To Deliver Marketing Solutions To The Businesses"
+    excerpt: "On a global scale, the market revenue for Artificial Intelligence (AI) is growing rapidly and is expected to surge till 2027. IDC, the market research firm evaluated that the global AI market will surpass half a trillion dollars by the year 2024."
+    publishedDateTime: 2022-06-30T14:54:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/06/30/452727-an-exponential-ai-a-quest-deliver-marketing-solutions.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jun/8764310085-e-mail-marketing-2745489_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Cloud Computing Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+    excerpt: "The Cloud Computing Market is projected to grow at a robust CAGR of 13.7% and is predicted to reach from US$ 517.9 Billion in 2022 to US$ 1.9 Trillion in 2032. While Asia Pacific’s technology expenditure has surged,"
+    publishedDateTime: 2022-07-01T09:36:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/01/cloud-computing-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032-2/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
     quality: 0
 
 secured: "FCEZLG7Of+QEssDPFIGuFf4iz7yl1XrYQxQkLfcorMb0LncOyw9BKIjkbAzxnRzt4MG1gkCHJa4WyrnQzMKSFzpF9sqwRQViWdK4hXeZJq45O1sgC38VzOxAJThkS/m8AwqE8H0uoCHM/RXdDz48ePhtL7p7M4poyUq4a5l5uBmGJIjOqtaM31S08AwZ9hwZV/hWDp5GyuEp5KP/7HCApWM8iPuwX+alUmTmCO0pRs+1GAJjEydNJ/wBSndExJltfkCo/N4WhaWKSdo6xJekbYzfP3Cs4hCi2v+mGAaRQUrb2gen1RmSMAL4VkCUcZRwyYXvrrY82u77Ttpsyyu/quaK7u3bKCAMGBaRBGMUJRM=;0CufSKbfacpJJHYrgVVC/w=="

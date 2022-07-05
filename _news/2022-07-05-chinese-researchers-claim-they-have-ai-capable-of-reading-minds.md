@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
-    excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
-    publishedDateTime: 2022-06-30T09:32:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
     excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
     publishedDateTime: 2022-07-05T00:20:00Z
@@ -56,6 +47,6 @@ related:
       domain: news.com.au
     quality: 17
 
-secured: "1gHOVbZk7v+HG9G8Ik99/mfH9bCGDlDXrxCmUYLfsqdeyg1BKJYW1F1C2zO0KkbJ5RUt6dNFviQY8zpkzjUFa5YavOmyZbIRy5GVPoCQvvHFBv0gmFmjIffLH7+bGJf7FoejLPMzvWVmUo3yBHtroF6OyIxHjXy9JSKqi0Cg5R0bRQemzxlOP9eaNx1dKZLjIUTUN011fEP4hD0XmFYnT2ANWQEmg7NVu4A/CHlEyJhz7FUyEqLFPsV1EOQObTwkoFZoeMAaOHX7s+YSP55flvnjY6848tjDd5wADSrkExLTIlpohw4wRYReZJzLnYhlOyXP4O0gA1gldz0tOARCcqe8WiyZT3sgj+rRlD30qo4=;m8bmxsCsveGDxwn0WvsxTQ=="
+secured: "ptaU1L8jdVVelBVM9emE1TvYSW5KgbmOKoDbfax8qoijhrK61ROekXRuBrWtrWpQkxdEelTfZW3UAYNwSxDuGFfxqWPfL5vB7z09jyew+3xr2g8h3ZQh+uHhXJKKECdb150WpbmEDwq8T6fmHtb4Pir38v4EQlbOySqnxE3lOH7EDSlTwcXne/vmabfywHInzM6ImPhEB995vWnPlLNJbLOlVftltOIPkzrbOd4afvO7xYl85JY/q4dUPcgeEcYuyJp7MkiQwDePqdS5G3YciBFhzKq+Ua+G5YlpDM6JjqOMO52cM+3/f1e5w5MzuHUEZ/4SzVoI1OaDwEhkFEGF1FtNC/mikD9ktKkMmFhM7cdXnWI8pfNyBg+88LUyE4Hz59gBGz0BGkudfRtTdqBGhr0/Q/+lr9CJf2eSDmoF+2iVx+v2k/GzIV3lm6/JJDXOpalF3+CYgIXVJ38uueZNka4tNWzq5NYyZMkynBXv8XhHuHsAyo/JmtxS2lZGu7ncBO70teZ8UZtdQ4nRVSz1fw==;drKUTqviVmeWSEvTCfp4hw=="
 ---
 

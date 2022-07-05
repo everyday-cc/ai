@@ -24,35 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi’s Hub71 is getting an AI Centre of Excellence"
-    excerpt: "AI could unlock $5.5 trillion to $12.6 trillion in value globally by 2030 and offer immense potential in sectors that are of strategic importance to Abu Dhabi’s socio-economi"
-    publishedDateTime: 2022-06-30T10:08:00Z
-    webUrl: "https://gulfnews.com/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625"
-    ampWebUrl: "https://gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625"
+  - title: "Does AI sentience matter to the enterprise?"
+    excerpt: "Does the enterprise need to be concerned with AI sentience? Not yet, experts say. Even if such an algorithm were to arise, would it be all that useful in a practical sense?"
+    publishedDateTime: 2022-07-04T13:20:00Z
+    webUrl: "https://venturebeat.com/2022/07/04/does-ai-sentience-matter-to-the-enterprise/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/06/30/Hub71-and-e-_181b4149c0d_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Hub71 and e& enterprise to launch AI Center of Excellence in Abu Dhabi"
-    excerpt: "Located at Hub71, the AI Centre of Excellence (AI CoE) will enable companies and startups to develop, deploy and scale cutting-edge applications implementing enterprise AI use cases for various indust"
-    publishedDateTime: 2022-06-30T10:19:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/hub71-and-e-and-enterprise-to-launch-ai-center-of-excellence-in-abu-dhabi-uc412rku"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "How Will We Know When Artificial Intelligence Is Sentient?"
+    excerpt: "Ethicists debate what sentience means for AI, while computer scientists struggle to test for it."
+    publishedDateTime: 2022-06-30T14:35:00Z
+    webUrl: "https://www.discovermagazine.com/technology/how-will-we-know-when-artificial-intelligence-is-sentient"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
     images:
-      - url: "https://static.zawya.com/version/c:ZTgxOTg5NzQtOWRmNC00:ZDlkNDMw/signingceremony-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/4rSgYq0yVaTQgOqX1FUzNj/ab97e12b99393a95a22085642921edad/shutterstock_2108132924.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Hub71, e& enterprise set up UAE’s first-ever AI Centre of Excellence"
     excerpt: "The AI CoE will provide a platform for AI solutions to be built and scaled from Abu Dhabi. Hub71, e& enterprise set up UAE's first-ever AI Centre of Excellence. Abu dhabi, Badr Al-Olama, e&, e& enterprise,"

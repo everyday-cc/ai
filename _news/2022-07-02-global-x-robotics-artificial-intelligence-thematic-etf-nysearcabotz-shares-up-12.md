@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artifici
 webUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
-    excerpt: "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ..."
-    publishedDateTime: 2022-06-30T09:06:00Z
-    webUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 63
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks7.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.7% Higher"
     excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) traded up 0.7% during mid-day trading on Friday . The company traded as high as $37.50 and last traded at $37.40."
     publishedDateTime: 2022-07-02T06:12:00Z
@@ -53,15 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 30
-  - title: "AE Wealth Management LLC Increases Position in C3.ai, Inc. (NYSE:AI)"
-    excerpt: "AE Wealth Management LLC lifted its position in C3.ai, Inc. (NYSE:AI – Get Rating) by 7.3% in the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-07-04T08:32:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/04/ae-wealth-management-llc-increases-position-in-c3-ai-inc-nyseai.html"
+  - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
+    excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
+    publishedDateTime: 2022-07-01T09:04:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/01/advisornet-financial-inc-purchases-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
     type: article
     provider:
       name: Defense World
       domain: defenseworld.net
-    quality: 17
+    quality: 29
 
 secured: "y6yE7CJroGqFA5wLnjWAT7uW4zQPBBPAc3tts9fnSdV7arHsOVtbjuQ1oVKP5iIYkDv1PP5Y302OTLj8ViA6IJseZuEjJvEbtHtHNYwiWPwZ8MW0Rpttv5TXeTiOrlPJU//GCo3hspS4dc1p83T/qIFoA/Odj/hQB1ZqlZIBbAJMB9Fjhs8VnZhJHsz4QDf7v/Rxu0dAGTdvKr+FckNVNx014uQ9v/FDLVnDq2znw1K64LSL2ytAtCllEY60lu2vqO8KPxjSIImIYzLaReKb/fagTX1GyG4IYo5cjq/G4gCioWfZTlWWc7e0VWTDZDtAf+SUferi+zmzb0or3jISxAFDt/iDTKskeN09Vj0uYGcY35ikUActAJvSfyrYOqtuqgMG1+5mHgD+Ik3yq2gbzF4R7tMcXQs1sIlJDslyo+4cN/PjSLUCXoOzEhCPD4DSoDC6cqsXY2NQPUUIPEhIdwzaL26FHCPtzZkDnIeH0ObVjqjpYk2hjY276tdGoWlAwr3BBaGuiXnaYKtk7t4sNA==;YtoXjVd05XmIuLiJkl/jSA=="
 ---

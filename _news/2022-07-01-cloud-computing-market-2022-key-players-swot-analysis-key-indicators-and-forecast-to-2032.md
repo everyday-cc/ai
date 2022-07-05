@@ -19,20 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market Assessment 2022-2028: Industry Size, Share and Top Key Players"
-    excerpt: "The Global Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market ..."
-    publishedDateTime: 2022-06-30T13:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-assessment-2022-2028-industry-size-share-and-top-key-players"
+  - title: "AI Marketing Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
+    excerpt: "AI Marketing Market Outlook: Global \"AI Marketing Market\" 2022: - AI Marketing Market report thoroughly scrutinizes"
+    publishedDateTime: 2022-07-01T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-07-01"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "An Exponential AI On A Quest To Deliver Marketing Solutions To The Businesses"
+    excerpt: "On a global scale, the market revenue for Artificial Intelligence (AI) is growing rapidly and is expected to surge till 2027. IDC, the market research firm evaluated that the global AI market will surpass half a trillion dollars by the year 2024."
+    publishedDateTime: 2022-06-30T14:54:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/06/30/452727-an-exponential-ai-a-quest-deliver-marketing-solutions.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jun/8764310085-e-mail-marketing-2745489_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Service Robotics Market Size, Growth Analysis, Recent Developments, Regional Segmentation, Future Prospects, CAGR Status, and Forecast 2021-2027"
+    excerpt: "Astute Analytica released a new research report on the global Service Robotics Market. The global market study looks into a variety of subjects, such as opportunities, market size, development, innovation,"
+    publishedDateTime: 2022-07-04T05:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "Leo2o0PNpcD6B5U28ZpfEq9qgblTRCIe0BapkwmgZGRJH5CnC473zSrP1lu/JBMRiP2Q387KTQJFAqckTYgqH5ZyUBJDRtFEc2Gf6AxsfiM7Sm6WYeqVhGKQRe90tVw3kFwl8c9stw1d6uAnVQravSE3W13MmBCcSPRCMPwlJFu8vHcD3vkUTnrQcAaQB/bx13YIcggwgxLxZ588mYJf/m8qqHcxhlXi2rvELdVcqQBuCytk/ZuXVbjY+1mrX42hSHyGHOW3zYF+u9GcJN4l1UKiydetJyZ/bmygGXifrFm5p1tTIyBbCNWPQqOIX9T5+uto3Cny1RvEk9QR5wRKsKIf1ZhB+K5gFwfh9E8368Y=;Xzs8gO8OEVL+TojcMguYDw=="
 ---

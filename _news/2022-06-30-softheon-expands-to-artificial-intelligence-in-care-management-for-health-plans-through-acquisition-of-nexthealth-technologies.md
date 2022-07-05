@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies"
-excerpt: "Sayan shared, \"Artificial Intelligence in healthcare is here, and we are seeing the incredible impact it can have on both members and carriers. Our goal has been to make healthcare more affordable ..."
-publishedDateTime: 2022-06-30T14:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies-1031560764"
-webUrl: "https://markets.businessinsider.com/news/stocks/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies-1031560764"
+excerpt: "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform."
+publishedDateTime: 2022-06-30T16:10:00Z
+originalUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
+webUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
 type: article
-quality: 21
-heat: 21
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Insurancenewsnet.com
+  domain: insurancenewsnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JHTqufLjYvnvrhJPY3N0lxtacShIjtP+nidW/tvpmYF645hxtiBlyHvSHpfpoKexU3gf2fpwpRHz7Vk6g9HAol/VruZx26Si46bNiGcfYkMeSWKMrxdW9E+4f89Ytwd4Qd1BJksucYnAglK8y2D8TWigJuvxeBbFBWuQj0MSypVXt94lzL9entv8MNp1NBxcB9BWJw9IFxK5mmfpW7LZAhjcGMd5h/fWswtRiWmQChJkLyIGyP/hLzPxUYwMtHiiZVONEaddNLfJrsL2HXKtjFJKWNd4C6KdjHZStmMCuXOzR1Sr6Nxe9ekJT1KxjuY74wHFwlM47IGW18jKi1WuTamrDB5iiTkNSzhBvsFTYxg=;paKHgOlD7E3h47/CSvuSow=="
+images:
+  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "jbPsNiFD1uFUUKmgbalSu3WX/LcewgHV9YPAB8P1RgP0BapE4WxYsaeujWjbqD6lYd4tesMoVc2Q0l7m7Ujn5N2p0QNNw7zFREGvwlWDVSk7A3l2OokFq3buy8kP+3sZm22oSs2MAUEeTgy69S6t0k3mfaltz9XNdC0adnGu3hSGA5Qu2nfCwrkxLkOntXL9R9oIiuBU2nOh8BfwjN+oQ+WptgxDvG3Q7si4XCy1e4Mj4m5eRRVz3TKYMmw9gth+JKQMAs0CRAjelazA4MZVG9nLrkP+AAyFnb3vODZ72gGczllZyEJU3F7vebIvTLfP4/0eOsro/grsP06Q3xX3HNL2SmURLYqC5FT0i2q4KOg=;pyPCdrKfERvCuP/c7/OFGQ=="
 ---
 

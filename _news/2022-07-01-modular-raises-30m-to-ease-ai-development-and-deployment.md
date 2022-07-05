@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Looking for silicon that’s actually designed for AI development? Look to the cloud first"
-    excerpt: "Meanwhile, the GPU architectures touted as enabling the AI revolution are both expensive and in short supply. And while GPUs may excel for training AI models, their advantage when it comes to inference is not always so clear cut."
-    publishedDateTime: 2022-06-30T10:04:00Z
-    webUrl: "https://www.theregister.com/2022/06/30/looking_for_silicon_thats_actually/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
+  - title: "Modular closes $30 million seed round to simplify the process of developing AI systems"
+    excerpt: "Modular, a startup creating a platform for AI system development, has raised $30 million in a seed funding round led by GV (formerly Google Ventures)."
+    publishedDateTime: 2022-06-30T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/06/30/modular-closes-30m-seed-round-to-simplify-the-process-of-developing-ai-systems/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 50
-    images:
-      - url: "https://regmedia.co.uk/2022/06/22/g-core-labs-advertorial2.jpg"
-        width: 2400
-        height: 1111
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
 
 secured: "kD35GEazE28+vp+aAeS8988zb79shfz9+aRwgCRbsEzbjqImEYN+lCUGWezeLJZT0BYdYj3xqgDUaCKSpRw7ckz2in5LTjTd2ckKScGFSaQxxuri0DYw4q8WyIpLqDZob03+65yQBcA1FQ6yBDkdq/WDp0rgOY78uJPvbn1OF9cnn35GDHPzK2kUu9CJ7RBz3/943eECfRDtnq3+9Mu5CDCIevllVtUhr6qeCiFXdGHQJEEBW8S1hqIocaGwJ9sQ0E9ya1ZbsCM/l6xjgEqD/rvXhP57RqQbn+OVqRlkesi8Lj+xxS/vJhNewoABa2u2gASzMVLkmu/btEpAeil9UF64rFJjIsFFdgkrGEqq1iZZ8eahOGfksP8wNohoftrRVPrlJtTV2eJHA5fEFJggVkqD0srL2dsk4YzLx2Zia4+4ef4YMjqrcf2HGJko3mvEM68HOgb3PCFFBozXu5DMoxceskAw2IyfqHoOpEZgqOwM0jxmJ0Vg9yhWHhxdEWVYRDen/jie6+0KhLTR+rFbGA==;vR9ppzCmJg+LnG3hUOGXOg=="
 ---
