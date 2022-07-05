@@ -1,0 +1,24 @@
+---
+category: news
+title: "Use Amazon SageMaker Data Wrangler in Amazon SageMaker Studio with a default lifecycle configuration"
+excerpt: "If you use the default lifecycle configuration for your domain or user profile in Amazon SageMaker Studio and use Amazon SageMaker Data Wrangler for data preparation, then this post is for you. In this post, we show how you can create a Data Wrangler flow and use it for data preparation in a Studio environment"
+publishedDateTime: 2022-07-05T18:43:31Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
+type: article
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+secured: "P9vq6LhagJyuijrLH82WqPzaVTxm+uJ6D8k65yVyS4OkNYDXZhlwEuWVn3AH/zzP/exSVQUjVUU+guyBsjwr1ycBJVhs8BE0XCvAWtJ7s9cFAahQmXBz3p8x6+4QWsu/WUWas8qkk04t0bJTFGl45U2G3icyOxIf7gC5dDWTNRNkSJYjaD9Dg6y/KZ8ZUD7g6pQeL31mH7IqBqicGGzTMSWs6rzmEzEmG2NYD7egFMcKdVw6w+UrrjdbbhmTTXTO/PVQ3HuGsNYTaqNEsZt3zUIGD5KTF5wRa60rgZGbAPPsH+xtam3uVSayBquC73Gu4lE83jLUj7i1cNsgTHBWdqGf5bZbYCdZe5lOv5QHB/M=;UN+ACXQBdDqHm8Mi2VkkMA=="
+---
+

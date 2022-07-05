@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/Kt4G2msYkJZow2RgcmGPyF-1200-80.jpg"
