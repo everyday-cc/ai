@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T19:06:00Z
 originalUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html"
 webUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

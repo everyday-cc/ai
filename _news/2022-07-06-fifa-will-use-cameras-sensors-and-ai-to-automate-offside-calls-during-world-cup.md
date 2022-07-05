@@ -39,6 +39,29 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 67
+  - title: "AI Is Calling The Shots At The 2022 FIFA World Cup"
+    excerpt: "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past."
+    publishedDateTime: 2022-07-05T20:05:00Z
+    webUrl: "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
+    images:
+      - url: "https://www.slashgear.com/img/gallery/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/l-intro-1657047046.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI-Enhanced System to Track Players for Offside Calls at 2022 World Cup"
+    excerpt: "The system uses cameras to track players’ field positions and a sensor inside the ball to detect offside activity and generate an alert for referees to review."
+    publishedDateTime: 2022-07-05T19:53:00Z
+    webUrl: "https://www.pcmag.com/news/ai-enhanced-system-to-track-players-for-offside-calls-at-2022-world-cup"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
     excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
     publishedDateTime: 2022-07-01T16:02:00Z

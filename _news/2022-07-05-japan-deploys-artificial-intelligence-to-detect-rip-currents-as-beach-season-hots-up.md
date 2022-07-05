@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2022/jul/05/japan-deploys-artifici
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan deploys artificial intelligence to detect rip currents as beach season hots up"
+    excerpt: "AI system identifies currents and bathers, and sends a warning to lifeguards via a smart watch"
+    publishedDateTime: 2022-07-05T17:09:00Z
+    webUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
+    images:
+      - url: "https://i.guim.co.uk/img/media/2328ea01a4bbf67afdf96f50846982ecab245db4/0_0_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=c6d2e6511d0f26ad8933eebb26a942ab"
+        width: 620
+        height: 372
+        isCached: true
   - title: "East Japan beach introduces AI system to warn about rip currents, prevent accidents"
     excerpt: "A beach in this eastern Japan city has introduced an artificial intelligence (AI) system to warn about rip currents and prevent"
     publishedDateTime: 2022-07-03T22:00:00Z

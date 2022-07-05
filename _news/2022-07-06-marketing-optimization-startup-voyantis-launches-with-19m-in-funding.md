@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T18:15:00Z
 originalUrl: "https://siliconangle.com/2022/07/05/marketing-optimization-startup-voyantis-launches-19m-funding/"
 webUrl: "https://siliconangle.com/2022/07/05/marketing-optimization-startup-voyantis-launches-19m-funding/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SiliconANGLE

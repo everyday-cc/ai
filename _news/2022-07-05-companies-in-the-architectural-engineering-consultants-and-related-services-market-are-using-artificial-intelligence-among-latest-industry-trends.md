@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/07/g27955431/companies-in-the
 ampWebUrl: "https://www.benzinga.com/amp/content/27955431"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27955431"
 type: article
-quality: 1
-heat: 1
+quality: 3
+heat: 3
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
 type: article
 quality: 57
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,29 @@ images:
     isCached: true
 
 related:
+  - title: "The Chinese Government Claims That Its AI Can Read Minds"
+    excerpt: "Reports indicate China has again leveraged technology for dystopian purposes, this time allegedly using artificial intelligence to gauge party loyalty."
+    publishedDateTime: 2022-07-05T19:52:00Z
+    webUrl: "https://www.slashgear.com/917086/the-chinese-government-claims-that-its-ai-can-read-minds/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 47
+  - title: "Scientists in China claim to have developed 'mind-reading' artificial intelligence"
+    excerpt: "Researchers in China reportedly claimed this month that they had developed artificial intelligence capable of reading the human mind, though full information about the alleged breakthrough remains elusive shortly after it was announced."
+    publishedDateTime: 2022-07-05T19:54:00Z
+    webUrl: "https://justthenews.com/world/asia/scientists-china-claim-have-developed-mind-reading-artificial-intelligence"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 46
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2022-07/GettyImages-1327058469_0.jpg?h=119335f7&itok=cpXvCYpW"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
     excerpt: "Researchers in China claimed to have developed software that can acutely analyse facial expressions and brain waves to monitor subjects' attention to \"thought and political education\". China's stringent police state has been radically upscaled over the past decade,"
     publishedDateTime: 2022-07-04T22:12:00Z

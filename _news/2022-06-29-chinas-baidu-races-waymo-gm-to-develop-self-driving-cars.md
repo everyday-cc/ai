@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "RmvyluoYiZycOvhQjxcBgjKwQnbVCU/QE5Ayn9Xmqc66OgEcLuC6D18OfFKkTqsyCFZTs5ALWnYp+4DeoK99BMXQ55pojeCaa7jCfpfLqFdLxW9q1lJI5qa2afIiC6RHczTk+r+6AkVxy+UFDOv9AHRqBWtCGD7Pm70XsORv+wL0pxZXNhQ8TmnxyzV1Ljwy+OOf3wju0+9o0241owmNIBh8NXqlrlgOUv9zzRDAtUO3cR2Qa9s3763tEegj2ist4WNbHku/p5mmXdruexHzLRSVaUqu74/3xHM17f1KAWv5fHQTsm0/aOgckT1jr9IIubpSYA2bD2O9WXzIdYc30yBsDPtO3ZZPIA4DZ18uuuk=;DqY4Lv+u35s8Sy68MEYkuw=="
+images:
+  - url: "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg"
+    width: 2600
+    height: 1733
+    isCached: true
+
+secured: "wxCh4aqnjX6DDjZxhJpHfhgczzY0NDbCNRFKwPSy38i3xtCV5Ek/EVqhWICNjwUkDOm1vqOxutignboCgcWyTGUDbjc1vV5HgpzCakQJMxka9lJy+NkdOK+aXDAxiOCX2J8p3nX1AloD0MKGtEt5vwR3qEYSaI94mOIOYUwrRFi/hgRNc43QmxjIcc0NUtvYaRO7pFgpkSRT0gvdXfzKhuEI8/yVkFS2/7etDx/XpAH2e3rluZHAsaPKz3+dKYfAfi+JnltWDZaCLPYGr4kiL4Tp6S2lJsHxDnHAf/tnkVf5G15J4Jd21voQVZhTSw5ov11a2So0vr76bTUU+ITChf1oiGhioXemVlkNqDghihY=;rkCOustZeV0y6TUGWoeapQ=="
 ---
 

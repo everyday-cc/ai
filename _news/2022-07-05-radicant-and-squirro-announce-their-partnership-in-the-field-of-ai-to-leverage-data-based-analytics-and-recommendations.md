@@ -1,18 +1,18 @@
 ---
 category: news
 title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
-excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
-publishedDateTime: 2022-07-05T12:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
-webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
+excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. \"Our partnership with Squirro is an excellent example of co-creation: we are integrating the world-leading AI solutions from Squirro with solutions from the world's leading technology companies such as Google Cloud and Salesforce."
+publishedDateTime: 2022-07-05T12:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-5-radicant-and-squirro-announce-their-partnership-in-the-field-of-ai-to-leverage-data-based-analytics-and-recommendations"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-5-radicant-and-squirro-announce-their-partnership-in-the-field-of-ai-to-leverage-data-based-analytics-and-recommendations"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
@@ -42,6 +42,6 @@ related:
       domain: responsesource.com
     quality: 0
 
-secured: "xjbl6k9MiOE4AGV+mnJSsDWpLYFuDn9lGhE4gXFmlY6O36MXPnpeYS/Drk2nwN0yX2iXMaxZ/aSFSoJBgVKseeUZO/2YOvIFtFb5iwZQ7APWdr+AGHjEAW6057bGWiCe2shq2sh547VzHxQdVaKhIG3nYlId8ZJHRcAybSOf74F6/xVkr7LqO311zbX2yHuVfl0PSXekfEXURjpeUIewt7J3bthigwBLfs1GG1YMBFY5ubO1HPJzOaMmd82u4W7dQxbyxrgso2Ec6ZjM1nqgKWIvMnp9HhCOFDVxn1lKLmGzHzdBgAWa99AEQgNRK7csW0bjzkYV1P5y3o0+scdwgo6Ttyq7VYTscy0fpqNTheY=;SDrpUgcTQNzW9LBCFOWzfQ=="
+secured: "TX005TKYmpq/JpDwKvzuyls9BYVW8Xu9MbVEKKWO8YD1Vm5KxKCdUFZxbr4O2BaBFf/c1Nj00Qh5LGGpFb73I6WqE0D+iflP6t6JlW55TP8w/vJWBaidQrK7xkjk9FlJZyYwC1yO9oSG7Gr7YxYXVxzdFUxMYVuk8H57O1jM/eBx79pMJo4sXSLZbxHFMySZN4TRf98SsISxh7BzX3FgTVXDYgO9k3/LtxZ1G0p3qFc09m0KyVCOpdOE4YJlYJ3rIAn494Vn5bwRqOp1M0CTBcHvF0NyEIO+xgBzpcmCqosHugSC/2buiNbzeCp6oTXWyKNbAFeEf0Q7UMu+gCiFzcHS2A+WiR0xmBrcce8iwS9SfuYWKceoFmCtD27SobNmm8mlBjiwC3GPDhHAaCwnGy/lYO7+ffJttASXciTQIWys1+oVcw9sW2Aq8ojX/0TIxwtoy60cJQhIgpSMryx5r+7XsEg2h+n5RGrUvP1VoWz7V2zA/79S6BxUf8eTGQNeLVMwAVEdoyMbcTehC29vGg==;orPMKRzWZX9OuWVYhkccVg=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 560
     isCached: true
 
+related:
+  - title: "Atlanta-Area Improvement District Eyes Self-Driving Shuttle"
+    excerpt: "The Cumberland Community Improvement District, a public-private assessment district in northwest Atlanta, is considering an autonomous electric shuttle for a planned three-mile route through the district."
+    publishedDateTime: 2022-07-05T19:24:00Z
+    webUrl: "https://www.govtech.com/fs/atlanta-area-improvement-district-eyes-self-driving-shuttle"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 4
+
 secured: "ha8Ci82OFYemfOgHZ92c5RM84jirY0d4Cnp3PPnv9ne47bnKO4SqIXdpNZdKCPPb1Fq3z2M1Nz5TAgB0l+ZLCc5TDtsENBCPMrZuJODRmIWBXst9KUs7JcN5EzgLnkeavwwEtn8nEaeyL/L9bouGSxNxDs1htD/Z63Ito+waHcUoF26oMJ4h2y9zooUkFQHZUid7QzQ9tGRONZwr9L8J3D+pzmAWjlxEmCSL6yZNrOHcoRVqNpDPqPDgokld00H5P6QwPNaHnLkMjQT0/kAkBivbgKL4jifd98HzcL3e0GL/IRtghrMe7L5yun2j5k06FgHx2jQ9KgPb6q/AzPHMqBz7cTBrtqNYqYexBgYemH1TjYc94IvQH4gNJ4AG2/8rZUz0k1SFqQ5Z6nFLDtFZHUFUN23EhLpDcpie5IykYQe6vKphcHymvk4YD9USSUtbJmORh2izdu0RP8IFYf1UsWZ+viBCQndrgQlpeg5IVTmNYr7l6Vg1l3uqXmMDEP9+CNkS+jThrOXaHZ9/6PZDbQ==;tMNYNdVu6ogpM3Ltf/g1GA=="
 ---
 

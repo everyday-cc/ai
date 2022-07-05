@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T18:43:31Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: AWS

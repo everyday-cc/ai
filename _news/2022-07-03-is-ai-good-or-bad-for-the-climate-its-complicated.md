@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-02T22:10:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/06/220628113336.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220628113336.htm"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 secured: "8milhAlPMl1jER5m+k+/4VnB4M502A3PF7S4WPsDecEaJlTUZl9/YmtfL5zS//UjOoQcwEuz/fmlieFMpM5nPRhJ5b+eZn4YKBp7OrTxk+MRH6xWIh57RMV4yO/juhvO8xTL36efHxedUEK1o25PqGCHM3QrUwrWYa8LwJdDTmY9woE0AF31YPXLyHD5HV8Wjhsi+2RbsNk5qzo75gGDoQCOHeTeEXh+6o/hSye3aJPO9OdHbTrgvgI/OtqIlzXVbD5+p5djVckRiGEpTDaAXuz7oFlXGNm0nckfPI7MZl8r0LSlC80dl7ppu6FwTqvHv9hYOCzcMs9HAKiNn24BQ+9elZ6P6naiPmEYQV0HRPI=;Fk//FCtZiSrIQds8B3CUYA=="
 ---

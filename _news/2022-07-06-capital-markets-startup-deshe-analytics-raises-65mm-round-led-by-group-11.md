@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T18:11:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11-1031568367"
 webUrl: "https://markets.businessinsider.com/news/stocks/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11-1031568367"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider

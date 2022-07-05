@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T19:56:00Z
 originalUrl: "https://www.biometricupdate.com/202207/incode-extends-facial-recognition-technology-to-new-hospitality-sector-client"
 webUrl: "https://www.biometricupdate.com/202207/incode-extends-facial-recognition-technology-to-new-hospitality-sector-client"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Biometric Companies
