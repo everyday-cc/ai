@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An Exponential AI On A Quest To Deliver Marketing Solutions To The Businesses"
-    excerpt: "On a global scale, the market revenue for Artificial Intelligence (AI) is growing rapidly and is expected to surge till 2027. IDC, the market research firm evaluated that the global AI market will surpass half a trillion dollars by the year 2024."
-    publishedDateTime: 2022-06-30T14:54:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/06/30/452727-an-exponential-ai-a-quest-deliver-marketing-solutions.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jun/8764310085-e-mail-marketing-2745489_960_720.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Cloud Computing Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
     excerpt: "The Cloud Computing Market is projected to grow at a robust CAGR of 13.7% and is predicted to reach from US$ 517.9 Billion in 2022 to US$ 1.9 Trillion in 2032. While Asia Pacific’s technology expenditure has surged,"
     publishedDateTime: 2022-07-01T09:36:00Z

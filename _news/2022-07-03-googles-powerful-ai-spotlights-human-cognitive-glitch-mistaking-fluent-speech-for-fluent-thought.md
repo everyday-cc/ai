@@ -1,24 +1,25 @@
 ---
 category: news
 title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
-excerpt: "Fluent expression isn't always proof of a mind at work, but the brain is primed to believe so. Here's why language is not a good test of sentience."
-publishedDateTime: 2022-07-03T01:30:00Z
-originalUrl: "https://qconline.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_7255b80b-9337-54e9-b2a4-3c92a2a139f0.html"
-webUrl: "https://qconline.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_7255b80b-9337-54e9-b2a4-3c92a2a139f0.html"
+excerpt: "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ..."
+publishedDateTime: 2022-07-03T01:34:00Z
+originalUrl: "https://auburnpub.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_534cb5e4-5178-575f-8972-7ea60f42b073.html"
+webUrl: "https://auburnpub.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_534cb5e4-5178-575f-8972-7ea60f42b073.html"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: The Dispatch / The Rock Island Argus
-  domain: qconline.com
+  name: Auburn Citizen
+  domain: auburnpub.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/7/25/7255b80b-9337-54e9-b2a4-3c92a2a139f0/62bc9a9eb2f83.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/5/34/534cb5e4-5178-575f-8972-7ea60f42b073/62bc9a341cc3a.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
     width: 610
     height: 320
     isCached: true
@@ -33,16 +34,7 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 18
-  - title: "Google’s AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
-    excerpt: "Every time you engage in conversation, your mind automatically constructs a mental model of your conversation partner."
-    publishedDateTime: 2022-06-30T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/06/30/googles-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 7
 
-secured: "EEEO9ZdRjjVYo2FluZykt5WoHKmA8rPRfWDiYFHeMy0PciwAoDOrzuhBz4OCdnnv/7M8LVAPkBpvnIwLOBBIWtTkbjnypTWvjwV6yJbhhZVL0/LjVmLKW8PlTXqUWi9COuF3BZCmzEi7j3TfW30B9obQVIs1p0Txi0lh1DaiM/hqEPeq4ZGwjMcpnInlmw1NYd/dnqqyn4eMsFFjU0bown7/B+kduF3OHmslWKN8XAK+dwBOyaPzcNF7d2OEEb+OM1p8VogXScaN6qd3dcqwpPDbEYdMeQofYAagsY+t/ktjxAYAcBoIbOQwT/q1eEyBX3Qmj/A9Qgn7y4Z7Ayybczi5hQ0EroFuDAYbjaQKt0c=;6ANtflS73AgzBqX1vzEixg=="
+secured: "5Wxy6+hzRGZZkR3lFvRLRAOQ4nXk9fdypRG+XMv2XVSR7cSuk4k52Gdi6ftgXC5E1DpoNayPmztr7b5gWEwHMsUUukqYlqC642M5BiqyBOrJRBOXP+4YGkVghsfH+WGidN4oURuD262I9oKi9tqEWQaO4yezRfgw8w8HYmEU05U58V/ZCe72QVY0j3qd0WBzBEkMKiYQM5JNtz2KKlR8X1WCsvo5ZAb9PzrBzmc4kXywC09oxP2NgTZ3suEedCvQSjVW5z6/EAyK6nNRpCGcLRaPKwTjec65W8RHz9STcxA/F+xatUdjBgNw61Cco3A/Pnyop5fb50ET57WNbAXS/1Tr85wQSGFPnbw7eTPq9Jk=;Q3JCE/E9tBNiRcHZJ8mSSQ=="
 ---
 

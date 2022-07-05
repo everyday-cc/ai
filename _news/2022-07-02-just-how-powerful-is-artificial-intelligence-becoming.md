@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How believing AI 'behaving like humans' is becoming problematic"
-    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
-    publishedDateTime: 2022-06-30T14:48:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "It's alive! How belief in AI sentience is becoming a problem"
     excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave a.."
     publishedDateTime: 2022-07-01T05:30:00Z
@@ -72,15 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Enhancing player protection using artificial intelligence"
-    excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
-    publishedDateTime: 2022-06-30T23:04:00Z
-    webUrl: "https://www.intergameonline.com/igaming/news/enhancing-player-protection-using-artificial-intelligence"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 17
 
 secured: "BjO5r2S4vmXuOaehEjiRYh84PMrTJgGR/65GPqp+qrwK3+5peyP1QzI2TYwmZYFPRzAtCKk7Smiq2dM3trAbMdzFYGssxKpopVV54SI1wGIq3ae7pQWe21TRfwl3RfJt5XjifEw2KIr4n1cSaWNK92wR5+K8pHmF4sHAoQ72hp8pKXhL0KC3nNAL3eEzPvF+AWU8l2MfYlLefiMLk0bN45bJWqSSgUhqBS/OeXlSIBEOrVfQ/lfc0U3xp01wieEw3Farcc0gSisF+lRtO1TV6tkAhmhO3JCW+JfQFT8kULam849lX4Ro3VzNxvu9CbI623Bqyl3EdZYnld6IL4E7Ghwx9FfuvxbwaM3zxt9PXEg=;DA753nOhCx1k1waFUKso4g=="
 ---

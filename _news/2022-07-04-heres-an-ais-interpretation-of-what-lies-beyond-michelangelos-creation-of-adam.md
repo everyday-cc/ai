@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Riiid and Latin American Education Leader Casa Grande introduce New AI-Powered Test Preparation Application for Colombia"
-    excerpt: "Innovative AI solution to help up more than half a million high school students a year better prepare for their futuresSAN RAMON, Calif., June"
-    publishedDateTime: 2022-06-30T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/riiid-and-latin-american-education-leader-casa-grande-introduce-new-ai-powered-test-preparation-application-for-colombia-1031560431"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
     excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
     publishedDateTime: 2022-07-04T02:49:00Z

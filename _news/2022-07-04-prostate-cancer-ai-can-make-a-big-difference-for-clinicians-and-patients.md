@@ -42,15 +42,6 @@ related:
         width: 2880
         height: 2262
         isCached: true
-  - title: "Riiid and Latin American Education Leader Casa Grande introduce New AI-Powered Test Preparation Application for Colombia"
-    excerpt: "Innovative AI solution to help up more than half a million high school students a year better prepare for their futuresSAN RAMON, Calif., June"
-    publishedDateTime: 2022-06-30T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/riiid-and-latin-american-education-leader-casa-grande-introduce-new-ai-powered-test-preparation-application-for-colombia-1031560431"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Here's an AI's interpretation of what lies beyond Michelangelo's 'Creation of Adam'"
     excerpt: "They range from criticising people for putting stock in randomly generated art—which was of course met with praise for our lord and saviour RNGsus (opens in new tab)—to references surrounding the great Flying Spaghetti Monster,"
     publishedDateTime: 2022-07-04T15:43:00Z

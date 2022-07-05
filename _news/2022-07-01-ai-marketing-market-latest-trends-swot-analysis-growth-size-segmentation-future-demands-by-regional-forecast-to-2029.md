@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-late
 webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-07-01"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "An Exponential AI On A Quest To Deliver Marketing Solutions To The Businesses"
-    excerpt: "On a global scale, the market revenue for Artificial Intelligence (AI) is growing rapidly and is expected to surge till 2027. IDC, the market research firm evaluated that the global AI market will surpass half a trillion dollars by the year 2024."
-    publishedDateTime: 2022-06-30T14:54:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/06/30/452727-an-exponential-ai-a-quest-deliver-marketing-solutions.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jun/8764310085-e-mail-marketing-2745489_960_720.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Service Robotics Market Size, Growth Analysis, Recent Developments, Regional Segmentation, Future Prospects, CAGR Status, and Forecast 2021-2027"
     excerpt: "Astute Analytica released a new research report on the global Service Robotics Market. The global market study looks into a variety of subjects, such as opportunities, market size, development, innovation,"
     publishedDateTime: 2022-07-04T05:56:00Z

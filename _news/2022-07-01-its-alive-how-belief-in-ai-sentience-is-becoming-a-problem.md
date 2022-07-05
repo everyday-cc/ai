@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How believing AI 'behaving like humans' is becoming problematic"
-    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
-    publishedDateTime: 2022-06-30T14:48:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Just how powerful is artificial intelligence becoming?"
     excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
     publishedDateTime: 2022-07-02T06:01:00Z
@@ -73,15 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Enhancing player protection using artificial intelligence"
-    excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
-    publishedDateTime: 2022-06-30T23:04:00Z
-    webUrl: "https://www.intergameonline.com/igaming/news/enhancing-player-protection-using-artificial-intelligence"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 17
 
 secured: "39Uu42gFcDbbmV0r6X80LVCe2WWV0HAJ1r0I1SrvlDtdjzEtT1b2VZ2HvlrJt7VzWgBJGYb6Fi4LLDZhIehk1dHosX95Tao36smzFaA1MRYlbYuq7n/Dha8pw6pyXi8fily5nbn85boDl9SOwTPTuK6M2Joe/5z26EcSR3Af5GsnYtJf4MDaKEtMPZG/7hAdMzY2fHvBhwH+CRQdJtWL1bVX/M0EwUIzPygKitrkTaH6wkEUB7/KbAyhXCs752gsk+qiKPcJ+0hkIk9RGHo9riEB9nGintXgHcCNJp1Dru0S/MiorYAH5k9E8C+evQBcFYnD6VjRgZxrgcnsnUt0BeT1fkzy6BsoWMkq4+kolss=;+HQG1pErV/Ykg6+Wcue5kA=="
 ---

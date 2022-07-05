@@ -35,20 +35,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "‘UK government illegally utilizes facial recognition’"
-    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
-    publishedDateTime: 2022-06-30T14:42:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Facial recognition's creep into commercial spaces - are we ready?"
     excerpt: "Australian consumer group CHOICE outed three retailers - Bunnings, The Good Guys and KMart - for collecting the biometric data of their customers. The watchdog last week referred the trio to Australia's privacy regulator,"
     publishedDateTime: 2022-07-03T23:36:00Z
@@ -77,15 +63,6 @@ related:
         width: 2000
         height: 1040
         isCached: true
-  - title: "Marijuana, facial recognition, other laws take effect July 1"
-    excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
-    publishedDateTime: 2022-06-30T14:22:00Z
-    webUrl: "https://www.chron.com/news/article/Marijuana-facial-recognition-other-laws-take-17276652.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "O53I86rdY6MPbs+T3+MD7eAz+OQY+hwh4zjE7fDDnK05SQUeMPRBsshpaTqFwDnKn6BBHwgJU/DvUfB1RrrPF4DLDLHjr2H6W9DUl8VMzZGtPu6CVR8+VnqGmzXXcXXmp4T8kDBphNnI4UmN9gwFK4UI6A+w+8NpOYAXLxtgIxO+woFJXolvEJvoUrOgCl/PoQTk34/plFHrZ7PY6dJy6mMNr1bhIHDPsmD7QgBfFf5fU98iMjwNT1er/SmOJOeA0jxAai+mOyRzCBZzZKYCAXj9lc1YUbgHAApG9d8Sb13evEmzENn+wS2i4CMlE50pF90/x0m6UUg7yck37IagwsT0JLJPwPE178ZwZmku/9iz1K2Pntnm0/buxDIlKYGePSI/3R3i+yNb41TFBIUMNQlUTZmhSSIXv9EH05uOFmIwrIwibmiLtqGYSTv2feS3BO4gmCXafCTqzOLkD3xB1fTTmMD44b740BQ3laY+Jc7B9kbh7/BPAs0vqv8J4IMKuIgZWjFzVbBhJxX7FIJSEw==;kZbYXN/0vA+wYHoZbC/E6A=="
 ---

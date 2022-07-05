@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "So this is how it feels when the robots come for your job: What GitHub's Copilot 'AI assistant' means for coders"
-    excerpt: "I love writing code to make things: apps, websites, charts, even music. It's a skill I've worked hard at for more than 20 years."
-    publishedDateTime: 2022-06-30T13:49:00Z
-    webUrl: "https://techxplore.com/news/2022-06-robots-job-github-copilot-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-robots-job-github-copilot-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-job-github-copilot-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/so-this-is-how-it-feel.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "So this is how it feels when the robots come for your job: what GitHub’s Copilot ‘AI assistant’ means for coders"
     excerpt: "Many in white-collar 'creative industries' that deal in text and images are starting to wrestle with their fears of being (at least partially) automated away."
     publishedDateTime: 2022-06-30T23:24:00Z
