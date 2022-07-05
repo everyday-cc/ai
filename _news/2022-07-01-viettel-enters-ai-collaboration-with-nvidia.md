@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Business Insider
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Loses The AI Performance Crown, At Least For Now"
-    excerpt: "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,"
-    publishedDateTime: 2022-06-30T23:48:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 621
-        isCached: true
   - title: "Viettel Enters AI Partners with NVIDIA"
     excerpt: "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam"
     publishedDateTime: 2022-07-01T09:43:00Z
@@ -70,15 +54,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "NVIDIA AI Learning and Research Center launched at GL Bajaj Campus"
-    excerpt: "This first-of-its-kind AI Research Centre at GL Bajaj campus will assist students with huge opportunities in India’s IT sector and start-up ecosystem"
-    publishedDateTime: 2022-07-01T13:01:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/nvidia-ai-learning-and-research-center-launched-at-gl-bajaj-campus-101656679734780.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 17
 
 secured: "OBr79sel4lQ/UdaLq42zx9i2NDltOP7aLamKaPP2uUjxI8r4PDW2LvpQ3B59ow13CN9UM2kiV7+AyKPNzuGusvCSh+fVdkRNX2A23uwBWhagkeaNNibcOuj+kQZgSjrzbSxfuklQCAmdLFrWSgnDZTUFy1xlJSpUap5FcmWq2+/qT6pyw4uTj7IheAlOYCHpQs5rns77+XbPU3mOgNjeISNMzPfL4rBZbS1Wv6YISBDmF06qJwOSWmSecFqOGiz30lkKzvt8fopbsAfLXLIzwnSrOuuXG96viuXAdflJqaC3Xee9u1sn3zJrc/wL/aIJ0l/6/KpY2Q3CRseYQT9v1YaTEri8zbJx74gubpj+b/sB7nQUk5pngDBPhhau4AeqRHa6vvk6gVaNxge5AiA2H8iZ72jvrmMcX5JVWvWuJVps1kA7ozvio3l+YqEYytdMNdW5VAjUgHjIe1mGpk/it5egpU6jvZ5NIi3cmwzflr9hRdc7rXObN3rO0njiZI96nmUjcoDwuYA4/TjJFOIu/w==;L9ZgnOFInzz7356gWgRLEw=="
 ---

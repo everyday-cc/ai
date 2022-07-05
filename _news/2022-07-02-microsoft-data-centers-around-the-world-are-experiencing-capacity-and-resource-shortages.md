@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 943
         isCached: true
-  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
-    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
-    publishedDateTime: 2022-07-01T00:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
     excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
     publishedDateTime: 2022-07-04T11:33:00Z

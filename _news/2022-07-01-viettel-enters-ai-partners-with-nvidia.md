@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Loses The AI Performance Crown, At Least For Now"
-    excerpt: "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,"
-    publishedDateTime: 2022-06-30T23:48:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 621
-        isCached: true
   - title: "Viettel Enters AI Collaboration with NVIDIA"
     excerpt: "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions."
     publishedDateTime: 2022-07-01T03:48:00Z
@@ -66,15 +50,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "NVIDIA AI Learning and Research Center launched at GL Bajaj Campus"
-    excerpt: "This first-of-its-kind AI Research Centre at GL Bajaj campus will assist students with huge opportunities in India’s IT sector and start-up ecosystem"
-    publishedDateTime: 2022-07-01T13:01:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/nvidia-ai-learning-and-research-center-launched-at-gl-bajaj-campus-101656679734780.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 17
 
 secured: "7/pqDGlvvPuILgWmZYCDqfLX7BResLkKCSA7vvmt52DOUsWBfYfbtM7Bp+82uwCMUF25glbUQdHMTbUA8ks9WMwu48UyPypj1SVdhMc1Y1JQkUVnWt+QdHqEiGnjPav8+Oqr8W7gMd8TQqDhf+L1xzaMJCrqYzbVGOUF8580eFVtEIi2mP9QQvQiFrzUh2uUkkYYuZh2oj2hlSwGu1LCuafGA/4DIx11H9oXipcT65j2ciS8KDeJ8HhFUyN00uZUtRwx/dyH1/55TC9gN0EkG+1tUU8BYebQYRtiXEN8kJ6G9DT1Ju4318jGEtMc62m2Gd8IRKs20CP3AQYhaFcswGmKrGeZ+F/3axwy86WyZi4=;dNuOlrMtucuVoeaMczdEYw=="
 ---

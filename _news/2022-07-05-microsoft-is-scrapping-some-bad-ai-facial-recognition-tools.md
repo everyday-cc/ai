@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
-    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
-    publishedDateTime: 2022-07-01T00:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft data centers around the world are experiencing capacity and resource shortages"
     excerpt: "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating"
     publishedDateTime: 2022-07-02T15:09:00Z

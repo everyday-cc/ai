@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modular raises $30M to ease AI development and deployment"
-    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
-    publishedDateTime: 2022-07-01T00:44:00Z
-    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
-        width: 1030
-        height: 577
-        isCached: true
   - title: "The future of AI in Sports decision making"
     excerpt: "We will almost never forget the “Hand of God” goal by Diego Maradona in the 1986 World Cup quarter-finals match between Argentina and England. It is, however, the dawn of"
     publishedDateTime: 2022-07-05T07:56:00Z

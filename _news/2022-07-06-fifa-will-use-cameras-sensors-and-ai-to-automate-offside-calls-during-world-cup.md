@@ -1,0 +1,65 @@
+---
+category: news
+title: "FIFA will use cameras, sensors and AI to automate offside calls during World Cup"
+excerpt: "FIFA officials are turning to technology to help boost the accuracy and efficiency of offside calls made during games. A semi-automated offside technology will be deployed for the FIFA World Cup 2022 in Qatar."
+publishedDateTime: 2022-07-05T17:10:00Z
+originalUrl: "https://www.techspot.com/news/95190-fifa-use-cameras-sensors-ai-automate-offside-calls.html"
+webUrl: "https://www.techspot.com/news/95190-fifa-use-cameras-sensors-ai-automate-offside-calls.html"
+type: article
+quality: 62
+heat: -1
+published: false
+
+provider:
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-05-image-11.jpg"
+    width: 2991
+    height: 2003
+    isCached: true
+
+related:
+  - title: "FIFA Will Use AI to Track Players' Bodies During World Cup"
+    excerpt: "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November."
+    publishedDateTime: 2022-07-05T16:40:00Z
+    webUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399"
+    ampWebUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+  - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
+    excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
+    publishedDateTime: 2022-07-01T16:02:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
+    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 27
+  - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
+    excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
+    publishedDateTime: 2022-07-01T17:20:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-07-01/how-fifa-is-using-artificial-intelligence-to-curb-online-harassment-ahead-of-the-world-cup"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 7
+
+secured: "A9x15xfg5GTMpUNPoeuFz6o9qFMjKdZ8Lx4MhJOwLQpIzeAvWAhLuCQnEmjk5dsLdKZeY52tvLrizhS4nliTv7Krsdt02AYx38bpQNjSZj6uARF87ERNdCbKrId5B1dkA6cwUzU6hhOaHAmVkKWlpQbiKKUHDV3jpim47lHmALOE3nBWlY/ilmQ0x/QoZJEbPqgGIapqNF9W8l14AOyZT1TKyCQ98N6AyseorSjpgTnqUyOVPBeu+ytZch4g0sd2l8rIbcvMbp1BeHZ75S7QErpkqEDK2DQMMMEuG8HkFfmogSqdy+BqX94CekFUK7yh2UYtA1PYo8cEizpifUx2bIwp+uwxRUi5JFbsJ+VHvdI=;huRxZGRDm3AAR4oOudckBQ=="
+---
+

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
+      "title": "7 key Microsoft Azure analytics services (plus one extra)",
+      "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
+      "originalUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/cso_budgets_data_analytics_charts_money_finance_thinkstock_475775688_2400x1600-100808344-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
+      "publishedDateTime": "2022-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system.md",
+      "title": "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?",
+      "excerpt": "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "publishedDateTime": "2022-06-29T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-aurora-mobile-brings-jpush-to-amazon-web-services-marketplace.md",
       "title": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace",
       "excerpt": "Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the “Company”), a leading provider of customer engagement and marketing technology services in China,",
@@ -1048,92 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ibm-saudis-king-saud-university-partner-to-advance-skills-development.md",
-      "title": "IBM, Saudi’s King Saud University partner to advance skills development",
-      "excerpt": "King Saud University (KSU), the first public university in the Saudi Arabia has announced its collaboration with IBM aimed at advancing skills development through artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/ibm-saudis-king-saud-university-sign-mou-to-advance-skills-development-through-ai/",
-      "originalUrl": "https://gulfbusiness.com/ibm-saudis-king-saud-university-sign-mou-to-advance-skills-development-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2022/06/KSU_IBM-Signing_Image-2.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030.md",
-      "title": "IBM collaborates with King Saud University to advance skills development through AI and support the Kingdom’s Vision 2030",
-      "excerpt": "Disclaimer: The contents of this press release was provided from an external third party provider. This website is not responsible for, and does not control, such external content. This content is provided on an “as is” and “as available” basis and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:NTc3MjhkM2YtNWVjZi00:MzA4NDc1/ksu_ibmsigning_image2-jpg.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
