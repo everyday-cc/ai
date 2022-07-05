@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 96764
+        "followers": 96767
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 218231
+        "followers": 218232
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -178,7 +178,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 24908
+        "followers": 24907
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -230,7 +230,7 @@
       "twitter": {
         "username": "armorblox",
         "url": "https://twitter.com/armorblox",
-        "followers": 445
+        "followers": 439
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -286,7 +286,7 @@
       "twitter": {
         "username": "lingochamp",
         "url": "https://twitter.com/lingochamp",
-        "followers": 1452
+        "followers": 1453
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2012,
@@ -508,7 +508,7 @@
       "twitter": {
         "username": "verbit_",
         "url": "https://twitter.com/verbit_",
-        "followers": 1488
+        "followers": 1489
       },
       "size": "51-200 employees",
       "yearFounded": 0,
@@ -560,7 +560,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 13172
+        "followers": 13174
       },
       "yearFounded": 0,
       "locations": [
@@ -721,7 +721,7 @@
       "twitter": {
         "username": "Speechmatics",
         "url": "https://twitter.com/Speechmatics",
-        "followers": 1440
+        "followers": 1442
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -741,7 +741,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1531714105366691840/4JFlsTZS_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1544233130164453376/NV6AAFMr_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Speechmatics",
