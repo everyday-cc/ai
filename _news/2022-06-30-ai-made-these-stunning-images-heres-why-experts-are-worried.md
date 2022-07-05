@@ -1,46 +1,20 @@
 ---
 category: news
-title: "AI made these stunning images. Here's why experts are worried"
-excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
-publishedDateTime: 2022-06-30T12:12:00Z
-originalUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-webUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+title: "AI made these stunning images. Here’s why experts are worried"
+excerpt: "OpenAI and Google Research have acknowledged many of the issues and risks related to their AI systems in documentation and research, with both saying that the systems are prone to gender and ..."
+publishedDateTime: 2022-06-30T13:06:00Z
+originalUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
+webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
 type: article
-quality: 89
-heat: 99
-published: true
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
-
-related:
-  - title: "AI made these stunning images. Here’s why experts are worried"
-    excerpt: "CNN By Rachel Metz, CNN Business A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs. These are just a few of the text descriptions that people have fed to cutting-edge artificial intelligence systems in recent weeks,"
-    publishedDateTime: 2022-07-01T11:48:00Z
-    webUrl: "https://ktvz.com/news/2022/07/01/ai-made-these-stunning-images-heres-why-experts-are-worried-2/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 21
-
-secured: "LsiVzcTgv0WRsWEBWObgdiOTBaY7LYm4W27LsyaxWEW+sGSll4IcmnNFXODVbdgl7x8a+9LSGHPQO0wVPskcsFmGuzPE+CXE5K8GdvkWZfjDGxgLLGzyFCqQ3HHWogJq72/UUpEBYI7cez/5oXmLX2bTrWI8ohqUrRHUFIHQutVo9U1/qz0aao3Pd9Nek32oEBp9CLpxfpW3uWatIJz5BC2wX0uwokDUT0PgFQ+t7LwUwMiq3OL5x429cUcSjYR73AtLJgYZQI9ycCnuISOn72wJBA+ShFNx0wQY8rqpV8L5lvmXq4kX0Oqp+9qOGXGEaVCtJ7X9stnGjuQyORjElVrPji7rOzl/M6kgtdIMnk3CHaJLWBwSTdXUp6HpOBasU1fuLXCLIZ/ifcgsuy/niG9oWZLTs/2Kb3PZyenPh4z4xWra4B3d5PEzZ26iBx+bCSJKM3sO5T+PNrnGuiq1+WbFYFDC5GjdVrKdZT10PvzmMOzfcOhM0tPGrlSOycT0ZuCMnfMXD0DjfzV97FeTwg==;gAPgl8j5e23ic45y3THQbg=="
+secured: "MlKUH2X4oBx+54LhqYQCWdXR2XeF4f5C078jdU7XgtAlPo3ONvQhjdWkb0rR/4ZhZL7cTbOZIwpixnDRIH5L6mZUEhXDPLw2Gra0LQ/3AQXpS078XpsgYVr5Uz5/ckqU3OitNtF0qok9W7lhZjm5l9N4/VYCjNVAM8BGXWsbhEfayynWBfCb46Yfy8K/x62SubTzDggqzKuwoo835BrJYLATqxkli0xLjsfQCyjjfH+AMxaxXdxou2SqsT3IEuT7B7FyMiao1HfLkwQlI6ZfKG+RJR5PuNT8HYTAOxlDwwCGXuRem3f6vJsRYoDvdMyu3t4lZwfaa6516xoB3xU0HuCFUZBiZ/TBKOlBpHXQjso=;G9PAm1/oY/doeGqX1ryC5Q=="
 ---
 

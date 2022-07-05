@@ -1,25 +1,20 @@
 ---
 category: news
-title: "Indian Relief Foundation and AISeon Healthcare Technologies Launch the first SEED Innovation Hub in Mumbai"
-excerpt: "PTI takes no editorial responsibility for the same.) The hub will use non-invasive and non-radiation technology to screen non-communicable diseases Mumbai, Maharashtra, India (NewsVoir) India's first-of-its-kind,"
-publishedDateTime: 2022-07-05T11:31:00Z
-originalUrl: "https://www.theweek.in/wire-updates/business/2022/07/05/pwr23-indian-relief-foundation.html"
-webUrl: "https://www.theweek.in/wire-updates/business/2022/07/05/pwr23-indian-relief-foundation.html"
-ampWebUrl: "https://www.theweek.in/wire-updates/business/2022/07/05/pwr23-indian-relief-foundation.amp.html"
-cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2022/07/05/pwr23-indian-relief-foundation.amp.html"
+title: "Indian Relief Foundation and AISeon Healthcare Technologies launch the first SEED Innovation Hub in Mumbai"
+excerpt: "India's first-of-its-kind, state-of-the-art SEED Innovation Hub for screening and early detection of non-communicable diseases was launched at Mumbai's Lion Tarachand Bapa Hospital, Sion, Mumbai on July 2,"
+publishedDateTime: 2022-07-05T12:26:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Business/20220705/3959453.html"
+webUrl: "https://news.webindia123.com/news/articles/Business/20220705/3959453.html"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "BOxxIdP1XwZmd9hUNGerFKsy7E6/9xUPQF5CVrcq9PD8WRM/7Co+zrKkdEzOk/NbmvZCy8llXi8LYwqg3Ricjrpn3wAUlxH+G2jZ89zPqa9A413BnWucvjAVed63McyZr+lRzSJgch5NgHTpS3O60UWnTipL917n01FDpLPj81Sw2pcImLKpB2U/dQdopC/wQovv1nHdu2vdtZgZfUYOirs/8GJ5+XHtPVTABtjr8F7VWf+x7yK6aWbBk1Jjq06iImWOEuzsPmUZyVT/JmkctBc2sxdZs7reRvaYcaJnZjinYYOyh6D/+SUN7r3vcqnIVzWQxQSP5VoP8+pBOv52MQkijwCCo4iJeU8lujp3eWM=;nEYZC+Xp8nrZXM832VR8HQ=="
+secured: "Q8sCV4NzDdyVa9+qruBxrfTjUkFFt89agQ9AcDximf1d1I3VlyJqeGFgkxDsOExt1DUTrMS3bCewJitQ0he+NKCXK6hx0DdV3x4qTEhT9WvoaW7cPmKLcPhR25p1PBX+/q5SfYPOWMvC+vIt7jJkmMhCDiClmN06p36eAWgKDuNKyLwQKfAMrKj3QnrPWIWp8mc9E2FlFRdShgi8uGVM+L1V0XBVw0AeZpOyORI55DOBJJ8wveWnlrSgPQbkFr0k2J3/8LPOgj67H7YAp2K07hMq5YE0cckO33iHqIqS7NlKWIc24XE+0Yh1g5Nxitbfaelp6gJMSz7h5ilTpev4+cEFBOiUBixVIL4PfNw6Dfk=;fdT1j+bPn7aMNvprs1rR+g=="
 ---
 
