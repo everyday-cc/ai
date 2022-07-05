@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use AI to detect new family of genes in gut bacteria"
+    excerpt: "Using artificial intelligence, researchers have discovered a new family of sensing genes in enteric bacteria that are linked by structure and probably function, but not genetic sequence. The findings offer a new way of identifying the role of genes in unrelated species and could lead to new ways to fight intestinal bacterial infections."
+    publishedDateTime: 2022-07-05T00:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220704094229.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "MSU researchers use AI to stay ahead of COVID-19 and other diseases"
     excerpt: "The National Institutes of Health have awarded Michigan State University researchers $2.7 million to continue developing artificial intelligence algorithms that predict key features of viruses as they evolve."
     publishedDateTime: 2022-06-30T19:28:00Z

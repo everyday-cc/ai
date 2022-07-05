@@ -34,6 +34,15 @@ related:
         width: 1000
         height: 1422
         isCached: true
+  - title: "Researchers use AI to detect new family of genes in gut bacteria"
+    excerpt: "Using artificial intelligence, researchers have discovered a new family of sensing genes in enteric bacteria that are linked by structure and probably function, but not genetic sequence. The findings offer a new way of identifying the role of genes in unrelated species and could lead to new ways to fight intestinal bacterial infections."
+    publishedDateTime: 2022-07-05T00:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220704094229.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "FpbSjXpBP+554UIGCjGjMOJe55fBImSEEgc4+fccbfzUIARQmCZ0CP/985Gcy5XgcBuAlYOqOIDuePN2of1Au/SgjCt+l2AWfg0aT8p/PmDINCv6rIDsFhcx9c1NcgV9p2hhX2d/BNXfhi6q2pvAFaU6WzKoxLmBkEJjrvubiIpTthtbzj4ORWhcKpFTINqmCMW9jkrAGtRaWcqjjdMC1bd6uz83c3d+TYK16TgJUfF1SOqvvWMbx59y+g3d2xZbz9z4KS/Q7onsOzNLw946roEnPhjElD9mLTAn0GrBroD2YMhkzkuVTEeMKegtKrmMc+M8G9w1H/lWWQSUXXIlgFNgJOX0KBxTll9jD3X+I8g=;69pWkWV4ZQKB4NaZz5zGmw=="
 ---

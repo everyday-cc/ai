@@ -55,15 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Juniper Research: Future Digital Awards for Fintech & Payments 2022 - Now Open for Applications"
-    excerpt: "Juniper Research is pleased to announce the opening of the Future Digital Awards for Fintech & Payments 2022! Since 2008, the Future Digital Awards have been presented to financial industry companies at the forefront of their respective fields: companies that deliver imaginative and innovative products or services that have the potential to disrupt their ecosystems and provide significant benefits to their target audience."
-    publishedDateTime: 2022-06-30T07:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631483.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "o/ayOA54yt9Z52kU5VKfo0D24XZSO7dMQG8XTgdja7pLd1yRSGsX4gAYztPfFIYgPeR8A9Q+e7O7dxZECRmA5rMIQuRUeGzDdLXEjNLtXwAL73uDaptn1Tu5e4OzVGJTllS01NXhY73lUItBoRcMPTZZBiqzGQ7WKgMgftsqY7l8Qziyk7o7VwTlcYfpuTYG4Yqlpzq+qAY2QTgECx+oFeXcEdirDpYwfwYdSufbB092qbC+Ie8wOzq9yV5mCqTcWdOsbioLl1IkzasJLaKbKaJzB11Psw22UWupzLL+w05v91yZrmMwv2ie4ETBMeouRv+2wU76Ua2hDy07PPMVkTLTiT49CFe8EmAMK/SQ0lWg5fZ5HlzG7J/OI9byC35qcG23+0XbElLtZEUbo75lG8VNN+oHleNOevalMCoJiit8JJmSmijyw8lk+0rLcyFODCuVbiwWBbi4YzdXBhpXuA8+NkyubqCyYphNs4kneDAKUD++lbdTnIqTyTvUwjZneLQfoop5dZpSiRX1ahXiOQ==;JLdHuI7jv4hrmGnaYrlqIg=="
 ---

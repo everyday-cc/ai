@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
-excerpt: "Researchers in China claimed to have developed software that can acutely analyse facial expressions and brain waves to monitor subjects' attention to \"thought and political education\". China's stringent police state has been radically upscaled over the past decade,"
-publishedDateTime: 2022-07-04T22:12:00Z
-originalUrl: "https://www.nzherald.co.nz/technology/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/QVB2WSU4CKWX4Y4362N24WVR6U/"
-webUrl: "https://www.nzherald.co.nz/technology/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/QVB2WSU4CKWX4Y4362N24WVR6U/"
+excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
+publishedDateTime: 2022-07-05T00:20:00Z
+originalUrl: "https://www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
+webUrl: "https://www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
+ampWebUrl: "https://www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326?amp"
+cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326?amp"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The New Zealand Herald
-  domain: nzherald.co.nz
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - AI
-
-images:
-  - url: "https://www.nzherald.co.nz/resizer/ReLKrt6JaW-l6clw4tQY6R8x1JY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UK264NKOYC2WIXTNIEEJX5DLRY.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Chinese researchers claim they have AI capable of reading minds"
@@ -59,6 +55,6 @@ related:
       domain: news.com.au
     quality: 17
 
-secured: "rIkO7M/m/IkyOuPFAra6hRdjLSWf+9AsBfLw6vZ3fhLLcoSLgVhP7iSriHxhoj/FNw8NxPTZZHUS2vEHzUKvUSac+rTqFYq8hC3ZvlFDFbbjskP1i3+8gOZcezI/JbnmEUTkSAWOmsr7lOEhD7rm3HC7iVd32OwDUW66PY4LlmYyxrlUlHSC3YZtjiG+zpZMs4MlxVRTbCJkT/ONizS9MFtMvfCheMOcqmedeBgvjec2AYhzX0FAmJphKz1PDetxEDonHN25/qhLm4UCq4aYfIZkHmVI+Oe2izVv54HMgR4MeLGDSw/1W+d3lvRfCjVMKHRAQtSbWergFNR5KZUiWJO5UdC/KMa7GJCVBCQe8YM=;tnBDQXtpEM0cUmFpbj2JMA=="
+secured: "dIn10N57alEIeg/VWwaTTBNH5neLcUK8IseDK2FUf+bZYlIGobVvxpUtmYHFHunuCzpzvhzyYCOGySA79AgXlMTWgRkZL3u54nwGhOZBE2k0n2ZWx9pkAmLyyj6vgwjO3hklkvC1AamvqvAYZNMJnq9ydJ4upHEw8sFD7DvT1wul2lzp8NYygvXXbRbWkxvRXNtsi9Xy8QTbsYaYKMWj9/0Gy4MmvI9/yXmcm8wSy/ynoZkOTMe6XJ9oDCEM+F7FubT0HIdxUMZ71q1i6SMExii0hFQO4bfK8AyrR7WspETtDr5v/G/qPphzLeji7/OzhYylYip7bifkbqU/iPfTpFFGLsim3chyKgby6wDx0VvZzczJulq6zkQOzre99txOkhQNyOy/xblmo3ecMBX1MlsQEsZLtrzBqQFERkltybdTjrJtDMvL6keWrm9j3JNqwyMRofZxFC5YgEQqmOgQfAAEaBvFkP6N/n3d4TfQ6draSZQSRam/wWsD9VuHC7AGd0QIAPwQG/aDhbwDhQC8sQ==;KExOr7OGzem7ftC3PI4GhA=="
 ---
 

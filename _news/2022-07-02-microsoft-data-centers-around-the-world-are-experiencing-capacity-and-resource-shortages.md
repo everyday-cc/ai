@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft's Intelligent Cloud revenue worldwide up 7.8% in Q2'22"
-    excerpt: "According to TradingPlatforms.com, Microsoft’s Intelligent Cloud Revenue jumped by 7.8% from Q1 2022 to Q2. The company generated approximately $18.33 billion in revenue from in"
-    publishedDateTime: 2022-06-30T07:43:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsofts-intelligent-cloud-revenue-worldwide-up-78-in-q222-o1kdqvdl"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:ZDEwMmVjNmYtNTA0Yy00:Zjk4MTIx/fintech-crypto-china.jpg?f=187%3A100&q=0.75&w=3840"
-        width: 728
-        height: 389
-        isCached: true
 
 secured: "ZQhVXkJWA6OwL0ATHo45vgIxEflJNVBDWbOFkIeG34iO97/j0e8eqEnzMzvLpTKyxTXsQ8JaNPV17ATof7R7Q5ond6HuXH+0f/ofBVsp7HkGpbvpeeN5IX3J4JwdLomF8noRbAUg8h6Zx4Sd0D1txr3/OrKVIV5E04k5hzv9mCSnPa+NvSX70zIsaTcfiZVsNZ2DJnxuCZlo9W+uSAP+VwxkdHWv1UhMMkypHf3Z/Tc5+2itN62277M5SB3HVnOEP5AQum7Bjp5B6XSQ80j0GM6+Dm5mDP7da1sMNbkZsA/IH7eOVyipA3gqGKZaxUUiPyoxAa3rm/3TxAuobZDxh0qMIuG49S9lntR+behNCZ60LLS9RmRT7gVHTbge7Q8sXD/98FfJi+YnQ83fzeIoFupUQXqwleGvKgVbZZtyhdg/ZEtRrBqwBhSMntZWkCTuZffaXKvXW5mTwFDw2ny3iL/U4VXe3IWagaSTqXebVO7K1bkZh6oOpjNlmKJQoEfrK5S3Q+D7Ij97z1/faC3T3w==;JkTf83NrLTgK+yrSLzNYzQ=="
 ---

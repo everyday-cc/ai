@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
+    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
+    publishedDateTime: 2022-07-05T01:13:00Z
+    webUrl: "https://www.12news.com/video/tech/self-driving-cars-were-responsible-for-12-crashes-in-arizona-in-the-last-year/75-633758fa-5206-49b1-8e6e-825758583446"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 21
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/e56c44af-91da-4583-8cec-4433f7203761/e56c44af-91da-4583-8cec-4433f7203761_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
     excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona.  That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
     publishedDateTime: 2022-07-02T00:45:00Z

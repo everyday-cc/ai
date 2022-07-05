@@ -1,25 +1,24 @@
 ---
 category: news
 title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
-excerpt: "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ..."
-publishedDateTime: 2022-07-03T01:34:00Z
-originalUrl: "https://auburnpub.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_534cb5e4-5178-575f-8972-7ea60f42b073.html"
-webUrl: "https://auburnpub.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_534cb5e4-5178-575f-8972-7ea60f42b073.html"
+excerpt: "Fluent expression isn't always proof of a mind at work, but the brain is primed to believe so. Here's why language is not a good test of sentience."
+publishedDateTime: 2022-07-03T01:30:00Z
+originalUrl: "https://mtstandard.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_ab2fce00-5a17-54eb-99f5-eb1d3c30fdcb.html"
+webUrl: "https://mtstandard.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_ab2fce00-5a17-54eb-99f5-eb1d3c30fdcb.html"
 type: article
-quality: 25
-heat: 25
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Auburn Citizen
-  domain: auburnpub.com
+  name: The Montana Standard
+  domain: mtstandard.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/5/34/534cb5e4-5178-575f-8972-7ea60f42b073/62bc9a341cc3a.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/a/b2/ab2fce00-5a17-54eb-99f5-eb1d3c30fdcb/62bc9aec268e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
     width: 610
     height: 320
     isCached: true
@@ -44,6 +43,6 @@ related:
       domain: singularityhub.com
     quality: 7
 
-secured: "GzZ81SzHIQDgmyxKDQQN+sZ1min9WmUdFQoFqWgdW8fxT9Pr/O1TTr6tVm+QM69r2bFLNwnR7GlHIFI/ZL54YpcWvjVvpJL2W0BbEpm4WqNXXcj9WgrVrrYlnR7XVzAWSQJ7FWvP0RvkMmmcefv6I+z6+9ZqBNy9y4vQEl2SLxATBI6lbq/55d+e0PV50jKejJrzZdGJjBwC+vCKOXUUcjuuG6nBqaQeglw+eH27fwNgMnMo0tzjIPJYyn0Es4Aq/kp+Ms1cNB9dAIm+tfCbZ8Wp6uGn97yDmRECIh0exuno7Zg40epnYgjWu23rGutk25wEYQGO842gH8yuAJNS6J937cGbOSRlxUDB3B3PBgg=;PnRasyWHT37L3jmzDkQEUg=="
+secured: "EOnDLyckE8O6HNdVj6ZFulEzh6NtD2BZSPcpakpH40S+ZhiMkKc4nNKbiHMXEVN9k/nd6nlSb6OC+ymyQcb/nlD0t6j9sCOiaf/Hg8UaXhlcr2YL1PINQ4hPSd9ujghXu7eZdbdkrUV3HSQjhkdKA28oMvS8s9gFb4loeUMLHUH8EwqEuD4ePrTVE/zscYiJEtKbZBpIiMcxiHOBxO79xfAiXiuHnUhTvLHHUBFqOsZPpKLtNGwzSL5A0SaTPK2jJjn+g0eoapj8PnsZZSrEpU37bs9Jj+Qstwx3nSpAsnsFQrYDsva1hNY17xFOS5+iOXWyYzyhSmRRDQeJVF/YvsvKwujhiG7Yp/dATeimhp0=;hB3QCGOnJ58SRtGSxB+umg=="
 ---
 

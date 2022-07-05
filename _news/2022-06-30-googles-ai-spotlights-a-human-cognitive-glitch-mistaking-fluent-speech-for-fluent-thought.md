@@ -19,16 +19,16 @@ topics:
 
 related:
   - title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
-    excerpt: "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ..."
-    publishedDateTime: 2022-07-03T01:34:00Z
-    webUrl: "https://auburnpub.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_534cb5e4-5178-575f-8972-7ea60f42b073.html"
+    excerpt: "Fluent expression isn't always proof of a mind at work, but the brain is primed to believe so. Here's why language is not a good test of sentience."
+    publishedDateTime: 2022-07-03T01:30:00Z
+    webUrl: "https://mtstandard.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_ab2fce00-5a17-54eb-99f5-eb1d3c30fdcb.html"
     type: article
     provider:
-      name: Auburn Citizen
-      domain: auburnpub.com
-    quality: 25
+      name: The Montana Standard
+      domain: mtstandard.com
+    quality: 23
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/5/34/534cb5e4-5178-575f-8972-7ea60f42b073/62bc9a341cc3a.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/a/b2/ab2fce00-5a17-54eb-99f5-eb1d3c30fdcb/62bc9aec268e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
         width: 610
         height: 320
         isCached: true

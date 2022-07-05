@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "HP and NVIDIA release ‘unique’ fintech sitcom"
-    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series, Get Ahead."
-    publishedDateTime: 2022-07-01T10:55:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40561/hp-and-nvidia-release-unique-fintech-sitcom"
+  - title: "AI In Fintech Global Market To Grow At Rate Of 28% Through 2026"
+    excerpt: "AI In FinTech Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's AI In FinTech Globa"
+    publishedDateTime: 2022-07-05T00:12:00Z
+    webUrl: "https://menafn.com/1104475361/AI-In-Fintech-Global-Market-To-Grow-At-Rate-Of-28-Through-2026"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
-        width: 480
-        height: 270
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?806474"
+        width: 333
+        height: 250
         isCached: true
-  - title: "HP ‘Gets Ahead’ with fintech sitcom"
-    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
-    publishedDateTime: 2022-07-01T10:30:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40561/hp-gets-ahead-with-fintech-sitcom"
+  - title: "The Business Reseach Company: AI in FinTech Industry Analysis By The Business Research Company"
+    excerpt: "The Business Research Company's AI in FinTech market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, June 30, 2022 /PRNewswire/ -- The AI"
+    publishedDateTime: 2022-06-30T16:07:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-business-reseach-company-ai-in-fintech-industry-analysis-by-the-business-research-company-008.htm"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
-        width: 480
-        height: 270
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "iEXPKrMnLTxFJ+S3yDOmAPyn4pObSL+5F5Y4HPraf9gH+Pi3vafGcSZbqOJFS8XlFKYtHnF0mC+Uf6RcstwfeHWUkOzatLTkzq8fvoW3ljeTspPoo2VWUmjL0tkDOOFKGKjKnM/Dvy5SvyYkrIj7wJw/2KGh9NE/4oYccmbW8KwL/aymDDfhO5vo5GkFmDatPSGJrkvbbr7pTA3+Tbib+lEk5uTNMMsQShzBQEJX15Ja4k+97/93VBnnqsy8MsdiYNkAd3za888K5h5+l8kSeR7bqmWvxIp2qsBKD3CPdy1RRRCbBFg1Pknfq8BJECMEj+iUGmkbd4gdISaL6OWK9Pxao48srDSFWJPvaQQHuPc=;s5QtbDfeObm2tVCKeB2mCw=="

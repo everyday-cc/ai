@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-
 webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg"
         width: 1920
         height: 1024
-        isCached: true
-  - title: "Microsoft's Intelligent Cloud revenue worldwide up 7.8% in Q2'22"
-    excerpt: "According to TradingPlatforms.com, Microsoft’s Intelligent Cloud Revenue jumped by 7.8% from Q1 2022 to Q2. The company generated approximately $18.33 billion in revenue from in"
-    publishedDateTime: 2022-06-30T07:43:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsofts-intelligent-cloud-revenue-worldwide-up-78-in-q222-o1kdqvdl"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:ZDEwMmVjNmYtNTA0Yy00:Zjk4MTIx/fintech-crypto-china.jpg?f=187%3A100&q=0.75&w=3840"
-        width: 728
-        height: 389
         isCached: true
 
 secured: "WxOafVLo3vhHBh/xGlFK2YTpMTs/6TGOypsQc0awbKFz1Y57AxFuw290ikLisdox1VGZ0SSuGeFonphFFH931U8OglYCV2WWx046egcWPgghMydWeD9B5NOnbfK8zQ93+qGdyXTRZtSBTaHM3ycec3G5Eq0QeMoFa8WRDWqiiuHttVly7AiE6r29e2v62TzCRuGMzciYjzNWXsTyKIJuddTCo06W+K0s7Thnm11RLXCY+aZcRtKaJ6Nq7qaVbsF4mkG6w0F9UWHJRgqWQxDLwZGJJ345Urp5mJl5nQG9i7IngXEXPfIBV24+Z1HSnaQdrUSGONQ1BWGPqujdjvYwxr75FQE9L7lS01RX5eBgllEYToQwvUQsZC3kHnUPX9XqXIdCMpLgnKXlo9nqZO9r3aZFD2kt2e24u5nFwCeNV6tSnJJzf6aZo1ebZgEjjQoTQVr+zmjyZrkdpGtppSW8/qqNl7FxTjxGRSRqIEJITFA1sfVgBTF/rYpsOLSVKx3ONCqRT3AoFsDqP5VrR0+SWA==;+WdB33R11i88kAluJpANjQ=="
