@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202207/03/WS62c125b1a310fd2b29e
 webUrl: "https://global.chinadaily.com.cn/a/202207/03/WS62c125b1a310fd2b29e6a069.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre"
-    excerpt: "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by"
-    publishedDateTime: 2022-06-30T11:47:00Z
-    webUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 62
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Full text of Xi speech marking 25 years since Hong Kong's return to China"
     excerpt: "Today we are gathered here to celebrate this grand occasion marking the 25th anniversary of Hong Kong's return to the motherland, and to hold the inaugural ceremony of the sixth-t"
     publishedDateTime: 2022-07-02T08:02:00Z
@@ -53,15 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Guardforce AI Co. Limited (GFAI) Is On The Launchpad, Waiting For Long-Term Buyers."
-    excerpt: "Guardforce AI Co. Limited (NASDAQ:GFAI) concluded the trading at $0.45 on Friday, July 01 with a fall of -0.70% from its closing price on previous day. Taking a look at stock we notice that its last check on previous day was $0."
-    publishedDateTime: 2022-07-02T18:11:00Z
-    webUrl: "https://stocksregister.com/2022/07/02/guardforce-ai-co-limited-gfai-is-on-the-launchpad-waiting-for-long-term-buyers/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 11
 
 secured: "UlFrmWUUd9pMTQQrA8zlMdH6WKCW4WKJ8JAbuIVwOdnHNFpq307saE1RumLv1HWdEnlKhWaVnFuBn/DXgFSCtNGfi+6XrB9t1h82wKK2R8BSAeSrmWAALxZB6M0wfEWJ9lnwZT8Ctq7xMJqKz42zHdG6XF+EtoBMUo3HclKDKdsshxzkSnTYwSMWi9Dz259mbm0weWpKJBk2gFlnH29EQ7IUKrjmePOHsJcaIqjn7IwewoKVXSpJ4CsM266co+faMJh/z+yIklsJWnW/h5hCsVrp0VyEae0iaq7mZFTMSHkoNz5nH/vl1HqN7bwzD/+UQ/PIeCy6fDa3XfjyOTnlEK4bSbXQI5p3kRAjtMSu3Po=;DmoogLOcNICxPsrz1V/hPA=="
 ---

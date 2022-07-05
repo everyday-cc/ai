@@ -43,6 +43,15 @@ related:
         width: 2400
         height: 1597
         isCached: true
+  - title: "iKVA represents Cambridge AI at Europe’s first Deeptech demo day"
+    excerpt: "KVA, the Cambridge-based AI-enabled knowledge management software solutions company, presents its innovative technology to 75 investors from more than 60 investment firms at Europe’s only Deeptech demo day,"
+    publishedDateTime: 2022-07-05T05:48:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/ikva-represents-cambridge-ai-europes-first-deeptech-demo-day"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 17
 
 secured: "lTuAkOxOP/vbtI723dpnW1JSJAtjsAg+4+7hKJ0DMmLDmNgoS3Yi3txfNSJLMv9GhfPBxwrpi2tfkGarTrJR0wb2nBUaI7+mblt1IM2gTkQ8kO8VaPoE2p68JKXwRnFRw4daQ3UmZLEZ5hoJ+/5iqhtNopSJLD4uUaxSkloW7ryckTd4GnR/SfNwR7597Gducc+HNFcNOUiuSlQpCRFripqWyB2lO4oapuAfi2kw0cNe5rDxcNfwD7ryWt/j06ndC096BXZQeuZWv72TqXYjPWacUQ0ilGygfJopDSYy5aTsIidAeukfbwxezgVpMm13rL9VSu1XCFTJFbBGr7FC5symHW5UslMeUSIdlOyShipl/2NnHdzqInuilLoQfbllDIP5EBar1YbPcGExgp10bPReTF/PyG8o42nMkN77WYQLwJerHaJg2cRttBWIlLXJf7Tb1SqLVhTg+Sr4FcDSeZM+vpqvfK2gbF3mzvb+NERTrxyVNITtdv2Li2VRyhkHKkKj7b6Gx9/WrAU1uvJWTg==;1NXLZ0mHxOqPkqChJvcScw=="
 ---

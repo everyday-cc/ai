@@ -66,15 +66,6 @@ related:
       name: India Today
       domain: indiatoday.in
     quality: 31
-  - title: "IIT Delhi experts roped in for robotics, automation curriculum for schools of specialised excellence"
-    excerpt: "IIT Delhi experts have been roped in for their expertise. The IIT Delhi experts will be helping students in designing robitics and automation curriculum for the School of Specialised Excellence which is in the city of elhi."
-    publishedDateTime: 2022-06-30T12:46:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-delhi-experts-roped-in-for-robotics-automation-curriculum-for-schools-of-specialised-excellence-article-92575090"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 19
 
 secured: "pKpBtEhdYl6YGRUHBHX9ktWZUMXoo2KhCADG53ZqMb23oQNUrD0roBBcxmZkGuhV1TcBxn7XIKmprRedYNrzbx53fP7MHqkb9UoduNohIsEM6OOzjkE50gzM6PfBHPvkuZE7aoO3YKiuS4/FLPXUpMyEv20CsLwM64qSNFwg4q6O6ME8NYYZLu8Va3jQYTCtlo9if/6bry/ui7Fsgu3FDpwCeFc99RfDiq0IMbNFfNcMuqx/1xtoBi7QHBYP0J/8jvVNJh4re51nZ30LgTJEh9XSDE+PjSqLWgE7nzZyOVWXg6gel7GBAGHZ354osSXHeqwGrrV8TGPOVr96F5TAoopCzJgzm2ecBzjYJwTirKQ=;Jd/HRKtxowbw9PzlMudLLg=="
 ---

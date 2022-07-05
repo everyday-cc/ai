@@ -7,7 +7,7 @@ originalUrl: "https://ktvz.com/news/2022/07/01/ai-made-these-stunning-images-her
 webUrl: "https://ktvz.com/news/2022/07/01/ai-made-these-stunning-images-heres-why-experts-are-worried-2/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -18,24 +18,6 @@ topics:
   - AI Ethics
   - AI
   - Facebook AI
-
-related:
-  - title: "AI made these stunning images. Here's why experts are worried"
-    excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
-    publishedDateTime: 2022-06-30T12:12:00Z
-    webUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "lqJB9pEp7OKbcJ0vZGzPZBYpRcQmn5aI7NXzQ5sxL+uVNJmOayp7NYra8F7bN7Z1i1eVXOX0oGP0Du1WN94X6m23GLWful+Ai89Mwfn/3T984XOWyDhiUnoAPdCnuEppjK4ruJ4MEV5HmKUZOdROhHg2LNl28jubD0rPW1BAWiQ5rsSexpZrFDbbp98EDqeaPuZci8uw2Onzx3fc4YVYx33r9jqP+TJXSMNFvkWfnPTqd5cZWttcFf1cUCarhqvG9zhLUxC7EkWZlM2DTa6d/PI/+5cLEVgelMjEtHierO+1QVYZ1ImKEkV062ROHZnG2cn0zwxWJoOCIWYsjG3gD87bgT2Uzu2B+ylrL6KnIck=;qWhdW8EbxKKKxvJTegvk1g=="
 ---

@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "IIT Delhi experts roped in for robotics, automation curriculum for schools of specialised excellence"
-    excerpt: "IIT Delhi experts have been roped in for their expertise. The IIT Delhi experts will be helping students in designing robitics and automation curriculum for the School of Specialised Excellence which is in the city of elhi."
-    publishedDateTime: 2022-06-30T12:46:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-delhi-experts-roped-in-for-robotics-automation-curriculum-for-schools-of-specialised-excellence-article-92575090"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 19
 
 secured: "qh4LfYFbN2JJ3FzjZLDVXlJiDgviPNsLzNIVuFSa7PYQEf1MCuNsdoGOfQtJWdQJn02ufr6BaE1G5p31wD5xZW8wLg2625ExhrBNthb3nflItkBVrNamOENYfby0sEFxeLDNnzmP4v4yw8V4TSfK4ELW0cINCeWh+mJLshDyNpyfdu+lq9TL0m0xWNklszXd/tgzeYf0UDcuKdHOEObqEFtOIyQEOSl/ngviafWYn5AluzIgn+wdRs/Uh8UUyZ9jDfseZPwyn7IgPkP9cYru20lTfGRQSJ+Ol2e60mvOfHzOxp4MiF0g0skE8RwGuq2Ujm2cSRufIcMJekLZ+l1Fp9JMAZRbjvj0LsXSeZhWF4atfE1TCWzR7Yu0KX5M/e/DTr3CuSgLLAo7v7aOfJTv6coxHjBwc/RYYxXbqUIfSXszjK0n3pIkGx8rT2jFKbPdCpjiKSq7HO29p9ZlZ4Y2Y1/8CBjrCwLFq2ZCaPaXTezMgVaiSeXm7ZVHEGiQuqCnB/z4VGKmtfKwry4PzdIK5g==;g/QnqoS8gMX8KcCAZC+DNA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/europe-law-outlaw-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-law-outlaw-ai/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "iKVA represents Cambridge AI at Europe’s first Deeptech demo day"
+    excerpt: "KVA, the Cambridge-based AI-enabled knowledge management software solutions company, presents its innovative technology to 75 investors from more than 60 investment firms at Europe’s only Deeptech demo day,"
+    publishedDateTime: 2022-07-05T05:48:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/ikva-represents-cambridge-ai-europes-first-deeptech-demo-day"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 17
 
 secured: "0KqhIRWSN+H/ZoM4Toiihe1tesMnnoHYpVN4GuJfzg60kLMGf8ioofQgjtAS7kRTjQB16N2mRuscjg75tq2mPNp9GCR3p7onbMxDBfGRn6IwWWiXikSi+JcJ55m8I8E40nJq+BCFDvsjA0QbZkm+t3jM6pjfQtKgT4TR7dwSoSrFC07VSsHQGwcW+bayyHd3KvSJNloE40RKxZ9pGG8ihmMWXEhX1SiA/CU14uhJKQZUgSORVvObsmtsgmd1S1MusgegkBgGDVv7l40mQom36xOFE6frCEHe7MjnG4MZxJtymkdoUWG9FBpBM7QyCVfciyChzVthpv11bCZLL7fXuFRSNH1201qIdmnfLQRHGDovyRxTIJy6aqYRvO394lnssNwKZuXfj95Xwh4J9OsJnoi2DKeKMFB25z8m4Ljh6+xxMmOeGNNKgjdGUOiVzikxldsqQhcxLZUgiJSWax0yT2fEgGmLyiSamESd3d96q3qnBpqHeaojMYeQawBtEgGd9MvJgFpdpZ8+e3XAOJDA9w==;+j/Rdz8WUKw/4Uv8ZuKo+A=="
 ---

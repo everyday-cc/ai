@@ -27,16 +27,19 @@ images:
 
 related:
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
-    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
-    publishedDateTime: 2022-07-05T00:20:00Z
-    webUrl: "https://www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
-    ampWebUrl: "https://www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/online/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326?amp"
+    excerpt: "Researchers in China claimed to have developed software that can acutely analyse facial expressions and brain waves to monitor subjects' attention to \"thought and political education\". China's stringent police state has been radically upscaled over the past decade,"
+    publishedDateTime: 2022-07-04T22:12:00Z
+    webUrl: "https://www.nzherald.co.nz/technology/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/QVB2WSU4CKWX4Y4362N24WVR6U/"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
     quality: 37
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/ReLKrt6JaW-l6clw4tQY6R8x1JY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UK264NKOYC2WIXTNIEEJX5DLRY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
     excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
     publishedDateTime: 2022-07-04T13:34:00Z

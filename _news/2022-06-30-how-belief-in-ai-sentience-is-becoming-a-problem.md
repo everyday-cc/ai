@@ -27,97 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T14:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
+  - title: "Chatbot company Replika says many customers believe in AI sentience"
+    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T17:36:00Z
+    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
+    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: New York Post
+      domain: nypost.com
+    quality: 61
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
-        width: 2500
-        height: 1623
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "How believing AI 'behaving like humans' is becoming problematic"
-    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
-    publishedDateTime: 2022-06-30T14:48:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "It's alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave a.."
-    publishedDateTime: 2022-07-01T05:30:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
+  - title: "Are chatbots conscious entities? The AI sentience conundrum"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
+    publishedDateTime: 2022-07-01T15:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92587380,imgsize-87554,width-1200,height-628,overlay-etcio/it-s-alive-how-belief-in-ai-sentience-is-becoming-a-problem.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Just how powerful is artificial intelligence becoming?"
-    excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
-    publishedDateTime: 2022-07-02T06:01:00Z
-    webUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence"
-    ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
     quality: 57
     images:
-      - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656597150/editorial/2022/MWE1110.briefing.main_PNA87P.jpg"
-        width: 1260
-        height: 710
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
-    publishedDateTime: 2022-07-02T04:26:00Z
-    webUrl: "https://www.rappler.com/technology/features/how-belief-artificial-intelligence-sentience-becoming-problem/"
+  - title: "Locally made AI chatbot pulls global clients"
+    excerpt: "Local technology company Reve Chat is now facilitating access to information for citizens of Mexico while protecting their personal data with its AI-enabled chatbot, underscoring the Bangladesh tech industry’s growing clout in the global markets."
+    publishedDateTime: 2022-07-05T04:00:00Z
+    webUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146"
+    ampWebUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
     type: article
     provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 41
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
     images:
-      - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
-    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
-    publishedDateTime: 2022-06-30T16:01:00Z
-    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
-        width: 708
-        height: 419
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/07/05/locally-made-ai.jpg"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "fbg4UzAHQVHkzI714HBfecCvIuZX7SXpBbni9Jkec/FiURuDw/vkfmYd2jaIFFa0LM2VkEyNdPXKhV1jKultReSdMafqBGKRMISPArhrccSQMe6DlWPDEPJ4ehg88VOWsg8kMLE/mtX7b+eA6ArMp/1Y8w4GAB0LH3/uSYsqjeOB5LJLq8DAIRtWK7IY64o1uy+YF8mOljTpyCDWq/569w4ItVMNOj0Mt1oONtklFuUzICBIbBprePiEtB+3gty4WfoLnXILObUuLOyMFZf03NDdDvYNwUQR2myM6o1Z44QKTIr0Q21SjIHqW82Nik4Anr52O0VPw75sJITqUy/L3jWS+05x+wswkW1evTvNt8YDjf8k4EjmsoG8MoDPyae0FX/uYs+t7+AmZs8euvghyAMEylc6zLvzVe3Qvf0NrAWgSGbna0wDSHbyuuKzqudoEx+kvVbkVBI80zgyRpjQQe9+LM5n2RNllDYSzk1dRd5RK0FWJnPq5cT11fdVaTPR1FRFZpy9M+rX3g2IkZikQA==;LAJfYyeMa56SYtEKrzTlEg=="

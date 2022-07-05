@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/enterprise-apps/conversatational-ai/"
 webUrl: "https://www.eweek.com/enterprise-apps/conversatational-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: eWeek
@@ -26,6 +26,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
+    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
+    publishedDateTime: 2022-06-30T16:01:00Z
+    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 31
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
+        width: 708
+        height: 419
+        isCached: true
 
 secured: "+eKOGwV/A18LJzIM+iIuGujqU+f/2Mr4/9LERTa8j+NxLCHOhtr3CyD9NZmIuf+bC/Z5JiWcQbILBlbuqVp9r2rRXWvAhDCvyfWeoErSTm4WutdQV8EHhF/ejgGxqUKofQftOoTI5Gy/J0nnbSZjMYZbHUeTN3Vr3CfIBoj9RaxnSN6a413IwtgeAE927J+kY9Qbnb5EFdRZx7mQwtzkyRdRHyY4pppa2yfyF5eLT5rFMwRwW8jfLlRG63+TIwH6Cia5dveJ8sipMHmsEfeinSfdeEHLWREaLUzyg0j3CQcFVzLQrNZuLW0WbNroQ8FKgOp1C080DN+mfSc6iy5HTwtjyEAucXbplPWfTvaw39J+YvoxwpZKsbC/4RFTCTjw+z/1QuHTX3S1G4qJ7nF24FRjMCTLNAqvFDLO6OZX7SDJ8WhFhFIvFLawnl/HKGU3kFGHUIm9kIqNm1EUhGgst5Xf+4oT/HrHL5uw1ANlBnCSaojBiD0bg3ZGT7VV/Tn9zEYwuXoRurjJttAZJuZGPg==;OvmLkTDoi+qBIlq2QFakvg=="
 ---

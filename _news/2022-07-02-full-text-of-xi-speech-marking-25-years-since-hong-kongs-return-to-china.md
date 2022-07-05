@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre"
-    excerpt: "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by"
-    publishedDateTime: 2022-06-30T11:47:00Z
-    webUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 62
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Xi's speech hailed for drawing blueprint for Hong Kong's brighter future"
     excerpt: "President Xi Jinping on Friday made an address at the meeting celebrating the 25th anniversary of Hong Kong's return to the motherland and the inaugural ceremony of the sixth-term government of the Hong Kong Special Administrative Region."
     publishedDateTime: 2022-07-03T06:00:00Z
@@ -53,15 +39,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Guardforce AI Co. Limited (GFAI) Is On The Launchpad, Waiting For Long-Term Buyers."
-    excerpt: "Guardforce AI Co. Limited (NASDAQ:GFAI) concluded the trading at $0.45 on Friday, July 01 with a fall of -0.70% from its closing price on previous day. Taking a look at stock we notice that its last check on previous day was $0."
-    publishedDateTime: 2022-07-02T18:11:00Z
-    webUrl: "https://stocksregister.com/2022/07/02/guardforce-ai-co-limited-gfai-is-on-the-launchpad-waiting-for-long-term-buyers/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 11
 
 secured: "teo7bB4n1sKHvwiOV49jwXsZfdQUHYPzqySNGgF+CN44DuNuAyDcBl/xXppg9o+5MFCCSOf0+IQAK5OaQJPiKj2pL23JfcXVbi+uNU6CcSosmTJYRQ4t1JsBk7f0GQBy99LHur+C8R2gtPzTNRzcJ02W1r3AjFArgUS61RcQ3z0tjSjxed5/LfE5WyITX0mVqIhB/5InoVTQVuUvucnQkOyQ5kg6GHUCR3P24XXX9cnyKMUNbSUZL1ZNPcJlNa0UkPCGDujd2aiAP/NKYxt6Xgir/fP2JnlqOz0pRdxyijmiqbr08wLsk6CCBdP7gbbcdaBHZMJREPMHnTQExmCuIA2hzA0Yl2ztXaoJGAORm5c=;B84dyFg4Ye04RUOxPTkBhg=="
 ---

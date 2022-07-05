@@ -2,14 +2,14 @@
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
 excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
-publishedDateTime: 2022-06-21T05:41:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+publishedDateTime: 2022-06-21T09:30:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
 type: article
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 258
     isCached: true
 
-secured: "nj0mXhnBLyfa72FN1TCKTW62ITkWEEh0jDFHGUz6uvpueP0m7UIbH2O3g/StHCby3hB/1ZDNzdSetoR4dMYTPkx8sADHwbvVWrWbExhkS0DQcNcpTFdU6TTKErLw9VJpS4IUbdExHzu4Zaz/ev9lvTIeSC5l/ZLdnxEtGbuDkVt3se1ddmtO3aOlFRZUeUWpkK8kU6xmUKRHqOSwwnfJ9pWUJ08+dkTlCySCW9fZySlRJCknnYbaCZzIZ85gc8iZ6J/Jxg9fDJWF9iH/wYUQOxmqK6JdyS52O6NI2evQk3hU7We0vo+YCwywjMNXczctdAIznMAYAvR7m7jfy0FSwpm8Z8VAjLiNxRZ0X7fx/iw=;M1cOSvTxasR6tgaMeputvA=="
+secured: "3sW52Ji9avCFXy4wNPZ3qjfNXK1dkxycmBsFrkiumTX8SIV3+0/wLkSuQOtMuNkYATFTtzQ33g2rBvF3W3d5ZDOyZ/enahxSOFIvZaf+phuEbSehmGWsUkZhWtRRXwPN1lGqEYvfDv8eixKzwiCGrkePZ+zFNrmrlYWKw0X5Ywo5RfUTo2LslB70F7JNQAZ7MBzRhrLvuXCrZvjSHqqLjmN+OiMIRPSR2g6PVC0XysVJlbVMIM6up0S2Vjdy86bsvaShC86hqUBiUDdZq0LflrXQ0OzWIpLfXN0sCsTCyhaHtk7ntI5x6u2QoiRDNK53rP+fYOpiuP+d9jUR7SSd0OedRRmscz/3kmOvFlPgPUg=;FTIgLMtE3tKxpVb2AEjl5A=="
 ---
 

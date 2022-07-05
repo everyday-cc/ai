@@ -42,6 +42,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "How belief in AI sentience is becoming a problem"
+    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-06-30T15:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Locally made AI chatbot pulls global clients"
+    excerpt: "Local technology company Reve Chat is now facilitating access to information for citizens of Mexico while protecting their personal data with its AI-enabled chatbot, underscoring the Bangladesh tech industry’s growing clout in the global markets."
+    publishedDateTime: 2022-07-05T04:00:00Z
+    webUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146"
+    ampWebUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/07/05/locally-made-ai.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "r3e9KHcGLq7gMxAPwM9T2aqDDU4q/2OSOGJkwmXq0v1cJqKzK6KPiCsvu/32Ouoi/+T+1LEZg5jltkOxgxf0Jx0yrSJam6u5UQ2dn6OsBROHtnAsuURSveSenQ0crniwVU/7BPepZWhBq8OsP0ZoMe8JBwZqKjpPBSSc525TcGAp2kL/eF6hYMX7Yhkb+TgeluUDG5V0c8ozgLdDNGdFfiI+wPlxzfVEyNspaYLIJtQGc4ZZX9LpRbbwvoyw6LaU+CyryHK+vRa/7J5qM3Fxa2W4JWJK3bMheR+DuaGCtoI//Q13r5uEwq0+hW4bpdw7QGgdzICm0R7/4NZBei1kfFITsiNRMqSRo2IrR8ZI17k=;hYP0HYT/lIrM+UvUFn8EAA=="
 ---

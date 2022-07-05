@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: India Today
       domain: indiatoday.in
     quality: 31
-  - title: "IIT Delhi experts roped in for robotics, automation curriculum for schools of specialised excellence"
-    excerpt: "IIT Delhi experts have been roped in for their expertise. The IIT Delhi experts will be helping students in designing robitics and automation curriculum for the School of Specialised Excellence which is in the city of elhi."
-    publishedDateTime: 2022-06-30T12:46:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-delhi-experts-roped-in-for-robotics-automation-curriculum-for-schools-of-specialised-excellence-article-92575090"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 19
 
 secured: "davDamSQZKFnhd8b+DbDOSrlwgVQLWSQsx6Balx8+HQz3LS+YFqLX3VW5YDTCbCVP58itzwQlg7PoZlJUoylbMowNTRpWQX776669lBfQPcPs0FRxVOF7wh4Z0CI/RdFGJiwbi3A+ehpENcY9PKxFJ0OQhlgv+3zqWrNXKlry790xBwS2M6ghjrh1kx+MVE/F/X9rIPZsAjjMygnzjsYKrd+uyNBp8bNqNUABxHot/InkxAv+G/ixQ4M5Y1Ec7qRaMmWYOTnh66kxmliTUeBTrBupy1Ynip59MOde5ibBbjzWBSXYSfLCrfheHPB/1Ei7mOxXpC14dFyjKMVdR4+qQgkF/IvTfWLfPaspExYw+g=;3+Jredp4rLWMbNOVn8ItjA=="
 ---

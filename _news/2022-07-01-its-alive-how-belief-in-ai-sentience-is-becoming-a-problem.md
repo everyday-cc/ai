@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T14:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
-        width: 2500
-        height: 1623
-        isCached: true
-  - title: "How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T15:50:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "How believing AI 'behaving like humans' is becoming problematic"
     excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
     publishedDateTime: 2022-06-30T14:48:00Z
@@ -105,20 +73,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
-    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
-    publishedDateTime: 2022-06-30T16:01:00Z
-    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
+  - title: "Enhancing player protection using artificial intelligence"
+    excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
+    publishedDateTime: 2022-06-30T23:04:00Z
+    webUrl: "https://www.intergameonline.com/igaming/news/enhancing-player-protection-using-artificial-intelligence"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
-        width: 708
-        height: 419
-        isCached: true
+      name: InterGame
+      domain: intergameonline.com
+    quality: 17
 
 secured: "39Uu42gFcDbbmV0r6X80LVCe2WWV0HAJ1r0I1SrvlDtdjzEtT1b2VZ2HvlrJt7VzWgBJGYb6Fi4LLDZhIehk1dHosX95Tao36smzFaA1MRYlbYuq7n/Dha8pw6pyXi8fily5nbn85boDl9SOwTPTuK6M2Joe/5z26EcSR3Af5GsnYtJf4MDaKEtMPZG/7hAdMzY2fHvBhwH+CRQdJtWL1bVX/M0EwUIzPygKitrkTaH6wkEUB7/KbAyhXCs752gsk+qiKPcJ+0hkIk9RGHo9riEB9nGintXgHcCNJp1Dru0S/MiorYAH5k9E8C+evQBcFYnD6VjRgZxrgcnsnUt0BeT1fkzy6BsoWMkq4+kolss=;+HQG1pErV/Ykg6+Wcue5kA=="
 ---

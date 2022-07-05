@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/five-foundations-towards-a-moral-future-
 webUrl: "https://bestgamingpro.com/five-foundations-towards-a-moral-future-in-ai-development/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The future of online education and the impact of AI"
-    excerpt: "Online education is here to stay, no doubt. The practicality and accessibility of online courses cannot be denied."
-    publishedDateTime: 2022-06-30T11:44:00Z
-    webUrl: "https://knowtechie.com/the-future-of-online-education-and-the-impact-of-ai/"
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/01/apple-education-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
         isCached: true
-  - title: "Robots in Production: What has Changed, and Why Understanding the Role of AI is a Key to the Future"
-    excerpt: "IEN Europe talks to Oliver Giertz, Strategic Product Manager Servo & Robotics, Mitsubishi Electric, Factory Automation EMEA - on why more robots will appear in new places as they become smarter, and why this actually is a good idea."
-    publishedDateTime: 2022-07-04T13:38:00Z
-    webUrl: "https://www.ien.eu/article/robots-in-production-what-has-changed-and-why-understanding-the-role-of-ai-is-a-key-to-the-future/"
-    type: article
-    provider:
-      name: ien
-      domain: www.ien.eu
-    quality: 20
 
 secured: "j1DK5q4kI4uCE27LQnIjoTH5dRcUaCJA5RboGEKtD0+mxoK9si0qP4CE5wDTVHXFw4q1cuRjKlqJ9rEZ51tArdZuYfn2Z9m1vsllMmhs+ohsFIpH0Bd6zeoMc6sogpPnaSABUQxMlYQjhTvnG4xn9boh+kFzxH5uCV+omf1qsy/HW8CAgaXf3xm7vh3gmKC8tiORBOo9BnSpJ0yQ2bg8xvOlrkCbLWb9vO4ql1c/rHOmP5hIV/pjaGa24+rM5NliCFWGLbqxft/zvu2z0rXo0BGHAWevKXXzaXJRRUjdyuZxcGYt5wm7aQrfcCIYTmg9iSbV17uM9G4AYKEuAYchqxvaDHRDpA9bJZAKKmiKlX72K0q5B8QNZAlRdhtXHG20wwX91NPGmc7yWuBaVQpFQgVinHKNh5fuXtrNAs2pZWZvMoTld55FiUp994kiOUjMMGsDzUvRoZJhqcTpTO1FrY8TrIK+UwOo8p2X057SRkE2XFoHOrDXX48rGXNCstMbp12XBBmvQOty4Xa6q3yxJg==;rHqaR+kqyPosk3H7DVCm+w=="
 ---

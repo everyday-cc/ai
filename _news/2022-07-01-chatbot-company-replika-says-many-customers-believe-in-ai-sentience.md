@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How belief in AI sentience is becoming a problem"
+    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-06-30T15:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Are chatbots conscious entities? The AI sentience conundrum"
     excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
     publishedDateTime: 2022-07-01T15:01:00Z
@@ -43,6 +59,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Locally made AI chatbot pulls global clients"
+    excerpt: "Local technology company Reve Chat is now facilitating access to information for citizens of Mexico while protecting their personal data with its AI-enabled chatbot, underscoring the Bangladesh tech industry’s growing clout in the global markets."
+    publishedDateTime: 2022-07-05T04:00:00Z
+    webUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146"
+    ampWebUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/07/05/locally-made-ai.jpg"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "jhCNH3zHAkoeaUkrmEaP7ZY3YvXAoFBTlzwWhHnWfgmEJVvt75kO8b0qK8dlAqI8FuTCYxAJwtBAt7saRrYEWF/xF6vchA9l1/Hjjlb/ebGAKURjI+e7e7Hvk3A43C+MHBrYZNtOzCvVPGp6FGlIDgt1EN63MXnnQ9JblmgRP0rxfq9klbVyOsY3WGdPvtUSa7muxjqAVNDgIPk2OK7j9FezHqu2QpwAeHRE4EpsnAwMyUaAlg40wJjCSK715jFdEVF5Ds6AFVaS1ws1Efg2xp0amI+RXO0ROQ/nxx2JoWKrExI2XKv8bjA+7bjd/0wO8a3kYHQJwWFGFhaVlmbOKEJHP5t0/siGDvWisvZr7nPcU0fpMuFCT6RmZShCRt0v1EDxd8MNAjqU32LgMKxFKuRW/vc+ptiJo8emxaFCfOTIDEvbihIziGqwn9aXQSPC2mMMvwG+UBqr9MfJScb6OaDe6+hJQmI2Rt7QyE+R6Rh9I6778r6sJIGXZZGMod76wMnidzMjzcIrJE0I14Jl8Q==;qdh0UJ8yuJ1DA2WwYkACSg=="

@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Modular closes $30 million seed round to simplify the process of developing AI systems"
-    excerpt: "Modular, a startup creating a platform for AI system development, has raised $30 million in a seed funding round led by GV (formerly Google Ventures)."
-    publishedDateTime: 2022-06-30T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/30/modular-closes-30m-seed-round-to-simplify-the-process-of-developing-ai-systems/"
+  - title: "Five foundations towards a moral future in AI development"
+    excerpt: "Science produces the future without knowing what the future will be,” he said in the 1960s, a statement that still resonates true today. Future civilization will be dominated by artificial intelligence (AI),"
+    publishedDateTime: 2022-07-02T11:47:00Z
+    webUrl: "https://bestgamingpro.com/five-foundations-towards-a-moral-future-in-ai-development/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Building-responsible-AI-5-pillars-for-an-ethical-future.png"
+        width: 600
+        height: 365
+        isCached: true
 
 secured: "kD35GEazE28+vp+aAeS8988zb79shfz9+aRwgCRbsEzbjqImEYN+lCUGWezeLJZT0BYdYj3xqgDUaCKSpRw7ckz2in5LTjTd2ckKScGFSaQxxuri0DYw4q8WyIpLqDZob03+65yQBcA1FQ6yBDkdq/WDp0rgOY78uJPvbn1OF9cnn35GDHPzK2kUu9CJ7RBz3/943eECfRDtnq3+9Mu5CDCIevllVtUhr6qeCiFXdGHQJEEBW8S1hqIocaGwJ9sQ0E9ya1ZbsCM/l6xjgEqD/rvXhP57RqQbn+OVqRlkesi8Lj+xxS/vJhNewoABa2u2gASzMVLkmu/btEpAeil9UF64rFJjIsFFdgkrGEqq1iZZ8eahOGfksP8wNohoftrRVPrlJtTV2eJHA5fEFJggVkqD0srL2dsk4YzLx2Zia4+4ef4YMjqrcf2HGJko3mvEM68HOgb3PCFFBozXu5DMoxceskAw2IyfqHoOpEZgqOwM0jxmJ0Vg9yhWHhxdEWVYRDen/jie6+0KhLTR+rFbGA==;vR9ppzCmJg+LnG3hUOGXOg=="
 ---
