@@ -56,22 +56,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Inc42 Fintech Summit 2022 Is Here: 60+ Speakers, 20 Sessions Decoding Hottest Fintech Trends In India"
-    excerpt: "Inc42, in partnership with Slack, Akamai, Manipal Technologies and Beams Fintech Fund, is hosting the Inc42 Fintech Summit 2022 on July 1-2."
-    publishedDateTime: 2022-06-30T06:05:00Z
-    webUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/"
-    ampWebUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 29
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/06/Launch-Article_Fature-Image-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Juniper Research: Future Digital Awards for Fintech & Payments 2022 - Now Open for Applications"
     excerpt: "Juniper Research is pleased to announce the opening of the Future Digital Awards for Fintech & Payments 2022! Since 2008, the Future Digital Awards have been presented to financial industry companies at the forefront of their respective fields: companies that deliver imaginative and innovative products or services that have the potential to disrupt their ecosystems and provide significant benefits to their target audience."
     publishedDateTime: 2022-06-30T07:21:00Z

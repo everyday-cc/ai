@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "12 self-driving cars crashed in Arizona in the last year"
+    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022. This marks the first time that the federal government is keeping track of crashes involving autonomous cars whether they have a safety driver in them or not."
+    publishedDateTime: 2022-07-04T23:34:00Z
+    webUrl: "https://www.12news.com/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    ampWebUrl: "https://www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 44
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/523a3c88-43d9-48ef-8ccf-ffa7732e44b3/523a3c88-43d9-48ef-8ccf-ffa7732e44b3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "A new section for self-driving vehicles has been added to the Highway Code"
     excerpt: "The changes are included in a new section in The Highway Code which can be accessed for free on GOV.UK. Currently only vehicles with advanced driver assistance systems are availab"
     publishedDateTime: 2022-07-01T09:44:00Z

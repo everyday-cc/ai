@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins
 webUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201768656_201768656-ad342a272c4e4110968c9d9f7caad4ac_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
-        isCached: true
-  - title: "Open-sourcing simulators for driverless cars"
-    excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."
-    publishedDateTime: 2022-06-30T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/open-sourcing-simulators-for-driverless-cars/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Mit-vista.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "gbKpafTt7NcFh3jFV8zqZG1nUBuDCQJwTOB/H/pcFV3FSCbhIM1bYxmw3tctz3TEhKM9Wcajrhg4fVh7kMB1NACnQqYqv5kdG3tCkPyDgJJIWbwAhVOnhobpfNoyBdOaJELrDvRTsBVcCj75+7pKxtkd2G+Vr0PXUIZgm9AdTHn66GFlwaJLx9t7FVJu5bLc70PJTyVvT9pkNFIXKqrTDKrBqhvE5eqQnHgy86AMBQrPGZKQ6w/kTjRVEs0K5FfWoNUBUqv64E/iCt8Z4F1unaFMNCVEGnsi+Tn6A7lo3TP+wtQSxTuIEKG8MXJwE5v2MyQpb7wv0tc8CcFufzl2FTX3U4+lLBFaOCUKDS/0HHI+auQzNQJ4bfF9Wc+BVsgtjaz0N5tksURlP2WDrvgI+vvGiN3hVesOLMX5Xb2N2o+D2DYB5/PM0KGN5pDnx1154GN2XuUooOU9SUanPlCfXSpYwDCVLYxGnQZCLVvsL6DOr6eNKshFyc+Q7hknLsDfOAkVFluriwCn5iWqBZnrVw==;5vK4dvPpPEdvGvaT3MJy+A=="

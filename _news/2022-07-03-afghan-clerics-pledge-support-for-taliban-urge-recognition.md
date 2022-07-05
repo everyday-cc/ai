@@ -71,6 +71,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Afghan Clerics’ Assembly Urges Recognition of Taliban Government"
+    excerpt: "The gathering of Taliban officials and supporters warned Afghans against “any kind of cooperation” with the ISKP, the Islamic State’s Afghan affiliate."
+    publishedDateTime: 2022-07-04T22:30:00Z
+    webUrl: "https://thediplomat.com/2022/07/afghan-clerics-assembly-urges-recognition-of-taliban-government/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 24
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/07/sizes/td-story-s-2/thediplomat_2022-07-04-021821.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
     excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
     publishedDateTime: 2022-07-02T13:40:00Z

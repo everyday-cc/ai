@@ -41,6 +41,22 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "12 self-driving cars crashed in Arizona in the last year"
+    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022. This marks the first time that the federal government is keeping track of crashes involving autonomous cars whether they have a safety driver in them or not."
+    publishedDateTime: 2022-07-04T23:34:00Z
+    webUrl: "https://www.12news.com/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    ampWebUrl: "https://www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 44
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/523a3c88-43d9-48ef-8ccf-ffa7732e44b3/523a3c88-43d9-48ef-8ccf-ffa7732e44b3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "nu0Kl+j5G8CDATFD9kcn9Zwlfv0VpMtQMfDHHxWWGfMCX+s7bNcKTAo3cHvo0kF+2Ywq1HtwEe/wXrSaE3RqJbPNQIoSa3MQ0wP2KYjWQWCQMsk9dkx7YZ01n7QX4MQYBTrxnwKrxpW807M+Vay78Dg/VfXtwpC/7Pc401sXCrM0sfWuR23v6pm1gDlkHjo2AYp13k9xv7iXFJs9RXW0LV8cib+DOJrPEnoz6Z6Mu8AixQNmxpu+Kak84jL2n5QuHI4J4WHMooHSqNaNr4hLtDICUUrWo0qa8zInQmDfX2oMYgeiMLb39ml5qVRdNRP+iMOg87zYDvAuGgJcTYc3jzcu3TEqj2DOysTJ4vuCQL4=;w7j8rc3Dm+Auo/uMg36PQA=="
 ---

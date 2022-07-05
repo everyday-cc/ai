@@ -50,20 +50,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Open-sourcing simulators for driverless cars"
-    excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."
-    publishedDateTime: 2022-06-30T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/open-sourcing-simulators-for-driverless-cars/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Mit-vista.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "XSrKujpa473AGY99ntaAQzSEtPJAY/c4PNlcjCH+5Vo5phQxIAvRwl37+R8rmFmAti99lZ5wR33E12kZNqKfXVNGzTWttIR4XM2Wiv9zdYfmzjFB98Wm/cgKFmlopEAx9heLo84r3PA7mvQuxwRG3wUZ2FljMmEsAJNcYT45J/P3nvd7TF/r5/MKjoFRB5lm2ZE7JsTwP7jl7TZVjlsd/qtHh+VwekuI9gDc/Jczfjdd6oeU+svnOe4pddkuP20rCgSsuvy66EwDXRqQJ+PpvL0XeFnKZzL7bkoYdSSJMGmBwT+Re95Ya2ebaNWr8/qY7TWtRj+aTqRzKkeqSqHMRGqtDqemm41Qp5+Uw50jJNs=;mxTAyYtqr/tCt5adGB/T1Q=="
 ---

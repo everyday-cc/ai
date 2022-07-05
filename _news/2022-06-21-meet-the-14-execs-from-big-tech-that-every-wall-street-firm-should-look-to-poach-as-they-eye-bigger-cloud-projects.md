@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"

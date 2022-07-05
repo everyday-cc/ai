@@ -41,22 +41,6 @@ related:
         width: 1201
         height: 629
         isCached: true
-  - title: "Inc42 Fintech Summit 2022 Is Here: 60+ Speakers, 20 Sessions Decoding Hottest Fintech Trends In India"
-    excerpt: "Inc42, in partnership with Slack, Akamai, Manipal Technologies and Beams Fintech Fund, is hosting the Inc42 Fintech Summit 2022 on July 1-2."
-    publishedDateTime: 2022-06-30T06:05:00Z
-    webUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/"
-    ampWebUrl: "https://inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/1-day-to-go-before-inc42-fintech-summit-2022-kicks-off-20-sessions-to-decode-the-hottest-trends-across-indias-fintech-economy/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 29
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/06/Launch-Article_Fature-Image-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "StrongHer Ventures Fund II Invests in Leading Women-Led and Focused Startups Across Fintech, Future of Work, Healthcare, Consumer, and Web 3.0"
     excerpt: "StrongHer Ventures comes in as an early-stage investor for boosting women’s entrepreneurship across Fintech, Future of Work, Health, Consumer, and Web 3.0. Key differentiation factors include strategic funding,"
     publishedDateTime: 2022-06-30T21:24:00Z

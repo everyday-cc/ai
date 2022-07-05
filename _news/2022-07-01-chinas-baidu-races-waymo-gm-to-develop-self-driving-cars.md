@@ -49,20 +49,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Open-sourcing simulators for driverless cars"
-    excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."
-    publishedDateTime: 2022-06-30T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/open-sourcing-simulators-for-driverless-cars/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Mit-vista.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "N0IiWoBqufd313JW68mUygVk64PxBqj/5PjPS2ADMO+cngqBRdYG7BTG3jFMKzfBrZmBHw6kpKE7hTkAhTponp3rAmh4eQwbGHymbDeDZfJgqpRh3j7bbQIjhqEcZDnbOKyZnReg0Bi+Ka0Yhb1S8JpQgO3oZSNi7Eq3sy9DYIRZt4KyAVzM+0Eev1V6Syt+BsS1GvBkhO5FQKb72lMmtilLQQHuSoGnD3tP4sszQUt9lW8yPi1lEM7/X79a077RuxJXvQx6Et89HlIFd9Xg7VL1UAkkuVd/dD307D5PCKd26Zm5GJ1S+8PKFzAbuph9NGltdJBCi9rHw1xaLca7x07oDoITCU1vDQfh1tgYVHzdUGZlMZfQtMErJ52s7hrqBQn/3/vZ0/KH47UPnZpr7h+2F6JosP/jMfQbIEBPcJcPiGEpcSyeRX6epG+jrp9nyWiruqS88NK+jP904/xqJTczSx7J0uJohCo4aflw3UBfvxN+Sa1S9B5nCtYmM0t7wDApN9nJt/7CqUj9fAzKUQ==;cHWX96lJvDQkTA6IdVAVjw=="
 ---

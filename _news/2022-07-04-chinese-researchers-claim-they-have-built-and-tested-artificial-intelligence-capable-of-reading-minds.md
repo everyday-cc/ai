@@ -43,6 +43,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
+    excerpt: "Researchers in China claimed to have developed software that can acutely analyse facial expressions and brain waves to monitor subjects' attention to \"thought and political education\". China's stringent police state has been radically upscaled over the past decade,"
+    publishedDateTime: 2022-07-04T22:12:00Z
+    webUrl: "https://www.nzherald.co.nz/technology/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/QVB2WSU4CKWX4Y4362N24WVR6U/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 37
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/ReLKrt6JaW-l6clw4tQY6R8x1JY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UK264NKOYC2WIXTNIEEJX5DLRY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fWDh/Q5bMM8+RiB4fHkefWzkwUaXUaONI10lJHmeOyFWQ5Nq0KmjqP13LTaN7XqzOSeXwO5TSCPhKaTIALavDyPIy3tVy/7FXsL7Ape60osHlCKDq1VYzdQCoWxtiSgPMyRrqfjC3E2eF34cUpuy5oCjUBABVTDxh5WOjQEBp8/whf0dAyYJCBPi033jct5/n5qIBrb6BHXN33qddpstm380aYLf5v1MCc0gjf89oYE7LB99mgLRAHGk3084rWQR5jog4OqqLxZdnxGdUvMqOQCVtPbar81ewpHuieIGZGfMzBXTorKeja+4BnSJak/xGnmbt/5gn149FQbSXZk6a+xIS6Hm3iKPolfT5WfppKUnhj4ZdpjSbft9eOmLDcynCvz23y8sUsJYSlX8I0tHwA/wfK7gwitQm4tIWSbvJxxtZc0oeI9sko8fLMtKEt9AUviz1WvCoNma6Zb96SMdl6PIm3OxASloZfRsmmo7jR7YI+nQ94Pc1coxQz4UyTnHQK1osNcN5M2cPwBspU/ZhQ==;WfpV/CV+JP+gFPj7HofBUA=="
 ---
