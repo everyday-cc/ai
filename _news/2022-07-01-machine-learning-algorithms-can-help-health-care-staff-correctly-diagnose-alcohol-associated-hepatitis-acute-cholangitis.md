@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Machine Learning Can Help Diagnose Alcohol-Associated Hepatitis from Other Conditions"
+    excerpt: "A Mayo Clinic research study that appears in Mayo Clinic Proceedings highlights the potential for machine-learning algorithms to assist in clinical decision-making in cases of uncertainty. The inability to obtain a reliable history from patients with altered mental status or lack of access to imaging modalities may force providers to make a determination that is based on a limited amount of objective data."
+    publishedDateTime: 2022-07-05T12:00:00Z
+    webUrl: "https://www.genengnews.com/topics/translational-medicine/machine-learning-can-help-diagnose-alcohol-associated-hepatitis-from-other-conditions/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 12
   - title: "Machine-learning algorithms can help correctly diagnose alcohol-associated hepatitis, acute cholangitis"
     excerpt: "Acute cholangitis is a potentially life-threatening bacterial infection that often is associated with gallstones. Symptoms include fever, jaundice, right upper quadrant pain, and elevated liver enzymes."
     publishedDateTime: 2022-07-01T12:18:00Z

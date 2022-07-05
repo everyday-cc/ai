@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T12:09:00Z
 originalUrl: "https://www.tweaktown.com/news/87226/new-democratic-ai-can-distribute-wealth-better-than-humans/index.html"
 webUrl: "https://www.tweaktown.com/news/87226/new-democratic-ai-can-distribute-wealth-better-than-humans/index.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: TweakTown

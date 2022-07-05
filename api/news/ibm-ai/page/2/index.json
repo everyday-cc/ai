@@ -2,6 +2,423 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-30-ibm-adds-side-order-of-nlp-to-mcdonalds-ai-drive-thru-chatbots.md",
+      "title": "IBM adds side order of NLP to McDonald's AI drive-thru chatbots",
+      "excerpt": "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/30/ibm/",
+      "originalUrl": "https://www.theregister.com/2022/05/30/ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg",
+          "width": 5782,
+          "height": 3854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/30/ibm/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/",
+      "publishedDateTime": "2022-05-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
+      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
+      "excerpt": "(Reuters) - IBM has set a new goal for propelling ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in ...",
+      "sourceUrl": null,
+      "webUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
+      "originalUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20220510&t=2&i=1599069924&r=LYNXNPEI490JM&w=800",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ロイター",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-quantum-computers-could-change-the-world-provided-they-can-work.md",
+      "title": "Quantum computers could change the world — provided they can work",
+      "excerpt": "Watson Research Center, the Eero Saarinen-designed, 1960s Jet Age-era headquarters for IBM Research. Deep inside that building, through endless corridors and security gates guarded by iris ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
+      "originalUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/2c6JClH139Y24DQHXaZkpf9E2Pw=/0x0:4032x3024/1400x1050/filters:focal(1688x1122:2332x1766):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70903719/IMG_4484.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
+      "publishedDateTime": "2022-05-24T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles.md",
+      "title": "IBM is calling on all companies to adhere to its responsible AI and data principles",
+      "excerpt": "They should also be able to explain how AI reaches a decision and show proof for that. According to the company, those principles are built into Watson. IBM believes that any company putting AI on ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/05/Dd9CHKPVQAAsCI6.jpg",
+          "width": 1024,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
+      "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
+      "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European",
+      "sourceUrl": null,
+      "webUrl": "https://www.mancunianmatters.co.uk/news/20052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate-2/",
+      "originalUrl": "https://www.mancunianmatters.co.uk/news/20052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mancunianmatters.co.uk/wp-content/uploads/2022/05/IBM-AI-Adoption-Index-2022_UK_Image.png.gallery.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mancunian Matters",
+        "domain": "mancunianmatters.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-ai-driven-support-system-assists.md",
+      "title": "AI-driven support system assists",
+      "excerpt": "VietNamNet Bridge – The Ministry of Health has chosen three hospitals to pilot the IBM Watson for Oncology, an artificial intelligence (AI)-driven clinical decision support system.",
+      "sourceUrl": null,
+      "webUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
+      "originalUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.vnncdn.net/v1/icon/return.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vietnamnet",
+        "domain": "vietnamnet.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
+      "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
+      "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European nations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
+      "originalUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mancunianmatters.co.uk/wp-content/uploads/2022/05/IBM-AI-Adoption-Index-2022_UK_Image-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mancunian Matters",
+        "domain": "mancunianmatters.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028.md",
+      "title": "Healthcare AI Market Size & Share, Industry Analysis, Key Trends, Growth, Value Chain, Business Opportunities and Forecasts 2022-2028",
+      "excerpt": "Healthcare AI Market Dynamics 2022-2028 ... Imagen Technologies, IBM Watson Health, Health Fidelity, Google Deepmind Health, GE Healthcare, Apple London, UK — (SBWIRE) — 05/17/2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
+      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
+      "excerpt": "IBM had to sell off Watson Health-- once considered one of IBM's \"strategic imperatives.\" While IBM is still gunning for a leadership position in AI, the company won't be focusing on \"moonshots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "publishedDateTime": "2022-05-15T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-an-optimist-at-the-helm-of-ibm.md",
       "title": "An Optimist at the Helm of IBM",
       "excerpt": "Over the past 30 years, IBM has changed drastically, becoming a major player in cloud computing and artificial intelligence. And during those decades, Arvind Krishna was rising through the ranks of Big Blue,",

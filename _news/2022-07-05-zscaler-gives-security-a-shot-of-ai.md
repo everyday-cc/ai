@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T12:10:00Z
 originalUrl: "https://venturebeat.com/2022/07/05/zscaler-gives-security-a-shot-of-ai/"
 webUrl: "https://venturebeat.com/2022/07/05/zscaler-gives-security-a-shot-of-ai/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

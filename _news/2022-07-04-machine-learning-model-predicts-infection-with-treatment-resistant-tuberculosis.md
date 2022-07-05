@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T08:36:00Z
 originalUrl: "https://www.technologynetworks.com/drug-discovery/news/machine-learning-model-predicts-infection-with-treatment-resistant-tuberculosis-363284"
 webUrl: "https://www.technologynetworks.com/drug-discovery/news/machine-learning-model-predicts-infection-with-treatment-resistant-tuberculosis-363284"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: technologynetworks

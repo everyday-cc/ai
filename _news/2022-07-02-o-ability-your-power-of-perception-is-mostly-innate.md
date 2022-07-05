@@ -37,15 +37,6 @@ related:
         width: 1024
         height: 415
         isCached: true
-  - title: "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'"
-    excerpt: "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,"
-    publishedDateTime: 2022-06-30T19:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 0
 
 secured: "+Fou+OVYbK2U6mA0C2XX9bYDUqHxqbsh8yRs7D1dm4g5bQeR5tpGMqOwQG/9bMTMhbLOos52Xo/Q59A/BGobKsAAsy/4TJAU4TXSR3rSX00hy6UvqngeFJRBt4STrYb61gI5w4YgkT6YZwgpE6aNMro6UdWgKbMvo5mcHZE2UaZoBOmX9Ieo9JW1GmVIT/opYFmW5NRKjKqpbeXW7416Je671rR8KRM08VWp2Z9eXf1viHyRHH/M9uYy6w7QKMA84hLnHL36b2cXQq7HXl/z/h8ONe5trjaaVBdNMMTWPcTx++dgLXkJ1X1wc9aZII6v0oMaZ7s5MqjzHRxyzAwzW3x7gll6azAqph4recW6D02lK6XDjikE5DEmLe+z6relJ6KwKQ7GAuQ6yK1D1quOywI7LrU0uWA0NbpX/B8IxaqMdu9DJj1jL+kgFfx5uaT84PyA1aIR+M21mfz5ov9HvzWtBCizUN/dbEWudoQtFscOSUr3uCmzlx9NWMq/GgfSbkcL5dI6C0mIsxG4KjcrQQ==;zXHF/Sbq35SZrhgaocYlOg=="
 ---

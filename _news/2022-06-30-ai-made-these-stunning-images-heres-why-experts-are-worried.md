@@ -1,20 +1,32 @@
 ---
 category: news
-title: "AI made these stunning images. Here’s why experts are worried"
-excerpt: "OpenAI and Google Research have acknowledged many of the issues and risks related to their AI systems in documentation and research, with both saying that the systems are prone to gender and ..."
-publishedDateTime: 2022-06-30T13:06:00Z
-originalUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
-webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
+title: "AI made these stunning images. Here's why experts are worried"
+excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
+publishedDateTime: 2022-06-30T12:12:00Z
+originalUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+webUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 type: article
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
-secured: "MlKUH2X4oBx+54LhqYQCWdXR2XeF4f5C078jdU7XgtAlPo3ONvQhjdWkb0rR/4ZhZL7cTbOZIwpixnDRIH5L6mZUEhXDPLw2Gra0LQ/3AQXpS078XpsgYVr5Uz5/ckqU3OitNtF0qok9W7lhZjm5l9N4/VYCjNVAM8BGXWsbhEfayynWBfCb46Yfy8K/x62SubTzDggqzKuwoo835BrJYLATqxkli0xLjsfQCyjjfH+AMxaxXdxou2SqsT3IEuT7B7FyMiao1HfLkwQlI6ZfKG+RJR5PuNT8HYTAOxlDwwCGXuRem3f6vJsRYoDvdMyu3t4lZwfaa6516xoB3xU0HuCFUZBiZ/TBKOlBpHXQjso=;G9PAm1/oY/doeGqX1ryC5Q=="
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+secured: "oAB/o6ku5ScVhQ+8EnVDQZKMQqKtTncnj/b9HjZB/bhyRz1e98KjBG9jYXHAEZTSbKu1PXrbn+KM32h1536LFej7BrrqhSwNGU/+UNXUHuNEFrmU/N1rB6FVb0xa9bHLwA3BXGs1G5c1i7ulJAvTbl5KstwwuPwlZyPY2KJ4OHNoPANR99M3lJ9iPstGR18x+q0bbamTbGYNmWz4CY3rYvR6iSNyyccd2L0RcPYJQTaEWfgL5MUW4biakLyCNhflCTRmygd+jFVJDP6qlhgCpCsnxatxuolOinO+sDauUQLA9i3/j/GMkIELJGaaxg+pmNHxf1vM5yyuNvXhqweuR5oye9+PfV6ahh6hsg1MA+o=;NWNmPYR6OjzKbbrHSyFBoA=="
 ---
 

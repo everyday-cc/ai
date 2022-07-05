@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T11:56:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advancements-in-technology-will-shape-the-future-of-healthcare/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advancements-in-technology-will-shape-the-future-of-healthcare/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: India Times

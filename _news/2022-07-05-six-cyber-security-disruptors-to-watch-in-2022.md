@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T12:34:00Z
 originalUrl: "https://www.itpro.co.uk/security/cyber-security/368424/six-cyber-security-disruptors-to-watch-in-2022"
 webUrl: "https://www.itpro.co.uk/security/cyber-security/368424/six-cyber-security-disruptors-to-watch-in-2022"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: IT Pro

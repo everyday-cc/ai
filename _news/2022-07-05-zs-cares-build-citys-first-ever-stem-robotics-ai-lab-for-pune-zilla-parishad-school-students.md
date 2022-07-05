@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T12:32:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-zs-cares-build-citys-first-ever-stem-robotics-/2022/07/05/9633236.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-zs-cares-build-citys-first-ever-stem-robotics-/2022/07/05/9633236.htm"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: TMCnet

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/virginia-lifts-police-facial-recognition-ban-acl
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/virginia-lifts-police-facial-recognition-ban-aclu-1849135533/amp"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://media.wusa9.com/assets/WUSA/images/e88c10eb-fd25-40dc-b3ba-c2b8f6c0af88/e88c10eb-fd25-40dc-b3ba-c2b8f6c0af88_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Marijuana, facial recognition and other new Virginia laws take effect on Friday"
-    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. Here is a look those measures a"
-    publishedDateTime: 2022-06-30T22:49:00Z
-    webUrl: "https://www.dailypress.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 35
-    images:
-      - url: "https://www.dailypress.com/resizer/jAG-_2DS9bJJEPZmuCsLjsWsgVM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UDUQHF4OV56YHOQEME7BUTF5VE.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "aRyiF6KhXJoOxtpPADYRIR4avCXrcjKJPjh0b1+pJaqpSAJBladorxJ+OLZrqUEjb0OBwg0jKRpkTJ1pbkhWAT0z9yhRthNY5rWMdj+g8HykDHCYLrIreOU4u/47M9Mu/VxQkA2XK2tR+9e8kw0S6u1eZ3GcQE6a9ocb2Iix1h3PFGW+9RQdtjPiB39PxGYLScB5h6RAMX9nGuHH5rw1qOFhju9EIu+GfdMozSpNE9epnZBeiESHD3eD38HVftYsz8163X+bZhNVJ1iOV/vSr5kPouaY32Yl52xhr6WQUCFLuEwnPPHmvd15OoWf27j5/gnpHkmIT5FabPC6LXMeexdDCZMfEEiEn7F8dIIQ0lVnyOjSBOOwITmkI1qeb6AHBewZa2NTf19TlNAA06t2Wy1tjXOgwgSFoEZD0g12JMTZA6RUUPe+S9qH+qWxfHUGq7XxM4mDPMmsnQuShyN/Oe3Q727C9pZjOzhCQKQwh1UgIVcxk0/o9C8HmJkMn6vQ43lbSbsMiZaOt3JDvX/VOQ==;OtwCoxMLthyC32Fn0Vv7fQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/china-turns-to-automation-and-roboti
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

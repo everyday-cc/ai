@@ -2,51 +2,19 @@
 category: news
 title: "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'"
 excerpt: "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,"
-publishedDateTime: 2022-06-30T19:03:00Z
-originalUrl: "https://www.seattlepi.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
-webUrl: "https://www.seattlepi.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
+publishedDateTime: 2022-06-30T17:03:00Z
+originalUrl: "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
+webUrl: "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Scientists Have Measured a Perceptual Ability Called 'O'. How Good Is Yours?"
-    excerpt: "Like snowflakes, no two people are exactly the same. You're probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information."
-    publishedDateTime: 2022-07-01T06:33:00Z
-    webUrl: "https://www.sciencealert.com/scientists-have-measured-a-perceptual-ability-called-o-how-good-is-yours"
-    ampWebUrl: "https://www.sciencealert.com/scientists-have-measured-a-perceptual-ability-called-o-how-good-is-yours/amp"
-    cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/scientists-have-measured-a-perceptual-ability-called-o-how-good-is-yours/amp"
-    type: article
-    provider:
-      name: ScienceAlert
-      domain: sciencealert.com
-    quality: 41
-    images:
-      - url: "https://www.sciencealert.com/images/2022-07/images/2022-06/processed/ColouredRubberDucksOnATileShelf_1024.jpg"
-        width: 1024
-        height: 415
-        isCached: true
-  - title: "'O' Ability: Your Power of Perception Is Mostly Innate"
-    excerpt: "Like snowflakes, no two people are exactly the same. You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solvi"
-    publishedDateTime: 2022-07-01T20:35:00Z
-    webUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html"
-    ampWebUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
-    cdnAmpWebUrl: "https://www-realclearscience-com.cdn.ampproject.org/c/s/www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 24
-
-secured: "uPKPZ7yCuELEQ7suh2O4HSFpPR7gmmJv19FCBtxha4LAkGyvxvXoQIa6oe1rHZ9nVtFMKbYholfNnWPPwBFImIXHd/5PeEBToPgvO6wgIP/3DZ6rRnYNKcSm/THzlsKIQfEpqo4tiW/WGDXg7pcHWsERfat7TwEgMjMbS0h0o+kCbyXm3hdhUggN/YOqEbSyIKVH5TPqsgI6LY4foeBUUywpKDQSpCEbg5whblduIWpRRrCO7/Wjsc0wroKridsUA/n+pAIPzQCX6uKod6HHDbkNvfRTb0G6otvN9j7kP8DK8Beb5Co3+LnOXHGszg2Og171rpZRx1SX9xCMw6embVrL8mkRDUQiTct/kRrJngQLVl7POc1vNVpQAiphReHU5uZVfv6X0GxOr/DH19KaOWdmy93/Pa7iaUCO+5EAsL5nBJCwrHOd4jh9mKptvcKqXVjQqG9TihWxqzIccZsI3mWu6YbN7r7j+gpdE+ywybUogWXRndmSUZuVf3DutthYR3qYgKdTedk3tvcfxPr+9Q==;a5UTbCdVz8bC76vdNxi/tw=="
+secured: "suzpIvs7r1Ft+Gir6RtdMnJigRC8Ir6+2HB/nylGx+foyaCFE8U2GTQ8fjlrOfWujuTqdbWB/GJHm2Ix6czE43jmCKRmGt1W8NJjgiKnnRpQoLaH9MXzCqnTmFJQJWT4yczlxhZsFZ3gDR5Fxyv4fvK0tpcmaQhb9i9+dvPGcsTZs3uDCZMuNamyz0niZsK46Yejld3KC2P+uWn7teTF37EQa8FpnowfBc9IlsodPgI05zKF8/F4cC4ZzbrkbEKm+uKgDZFgTy1jbbPOsTFeGUBp397Tsj3daCNBEz2bXmjN0aHs3+hR07HpasTPUCz3W0PL59qf9HUSTXzWxtuEEz3R5YwyCeXXM2WIiMkNiPhtpkQBjPTYGQ0ZKgs8+d8GPV9E/eDRk09aCDh4sL2zodVoHgSF7HQNSPRxzcqwQcaeb237ANQnSucle8bUC60IHezqvq1jSGQbKJJjVfet9hejibTfL6uyNTQAZWMdMivSpXgfX8YsJmrzjHFIfRTrAc/MAOSeibwQ7Xjqq8SUoQ==;bTaoWy/PwmrrcwMXUgQPaQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:29:00Z
 originalUrl: "https://www.bizjournals.com/louisville/inno/stories/partner-content/2022/07/05/6-principles-for-entrepreneurial-ecosystems.html"
 webUrl: "https://www.bizjournals.com/louisville/inno/stories/partner-content/2022/07/05/6-principles-for-entrepreneurial-ecosystems.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Business Journals

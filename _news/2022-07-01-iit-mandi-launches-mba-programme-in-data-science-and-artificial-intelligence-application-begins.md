@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 663
         isCached: true
+  - title: "Designing next generation analog chipsets for AI applications"
+    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices."
+    publishedDateTime: 2022-07-05T14:02:00Z
+    webUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg"
+        width: 1000
+        height: 773
+        isCached: true
   - title: "Quantum computing’s linchpin Flexible programming languages are needed for AI applications"
     excerpt: "The development of quantum computing has the potential to fundamentally alter the way we think about artificial intelligence (AI). Artificial general intelligence (AGI) is now within striking distance thanks to this advancement,"
     publishedDateTime: 2022-07-02T16:03:00Z

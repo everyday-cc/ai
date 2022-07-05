@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:18:00Z
 originalUrl: "https://venturebeat.com/2022/07/05/intel-habana-overtakes-nvidia-in-latest-mlperf-results/"
 webUrl: "https://venturebeat.com/2022/07/05/intel-habana-overtakes-nvidia-in-latest-mlperf-results/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

@@ -57,6 +57,29 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
+    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
+    publishedDateTime: 2022-07-05T01:13:00Z
+    webUrl: "https://www.12news.com/video/tech/self-driving-cars-were-responsible-for-12-crashes-in-arizona-in-the-last-year/75-633758fa-5206-49b1-8e6e-825758583446"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 21
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/e56c44af-91da-4583-8cec-4433f7203761/e56c44af-91da-4583-8cec-4433f7203761_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Highway Code updated with new rules for self-driving vehicles"
+    excerpt: "New rules on the use of self-driving vehicles in Great Britain have come into effect in the Highway Code from today (1 July), paving the way for new technologies."
+    publishedDateTime: 2022-07-01T13:50:00Z
+    webUrl: "https://fleetworld.co.uk/highway-code-updated-with-new-rules-for-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 4
 
 secured: "nu0Kl+j5G8CDATFD9kcn9Zwlfv0VpMtQMfDHHxWWGfMCX+s7bNcKTAo3cHvo0kF+2Ywq1HtwEe/wXrSaE3RqJbPNQIoSa3MQ0wP2KYjWQWCQMsk9dkx7YZ01n7QX4MQYBTrxnwKrxpW807M+Vay78Dg/VfXtwpC/7Pc401sXCrM0sfWuR23v6pm1gDlkHjo2AYp13k9xv7iXFJs9RXW0LV8cib+DOJrPEnoz6Z6Mu8AixQNmxpu+Kak84jL2n5QuHI4J4WHMooHSqNaNr4hLtDICUUrWo0qa8zInQmDfX2oMYgeiMLb39ml5qVRdNRP+iMOg87zYDvAuGgJcTYc3jzcu3TEqj2DOysTJ4vuCQL4=;w7j8rc3Dm+Auo/uMg36PQA=="
 ---

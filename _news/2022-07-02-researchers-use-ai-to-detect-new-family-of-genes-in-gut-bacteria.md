@@ -35,14 +35,14 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "MSU researchers use AI to stay ahead of COVID-19 and other diseases"
-    excerpt: "The National Institutes of Health have awarded Michigan State University researchers $2.7 million to continue developing artificial intelligence algorithms that predict key features of viruses as they evolve."
-    publishedDateTime: 2022-06-30T19:28:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/957627"
+  - title: "Artificial Intelligence Detects New Family of Genes in Gut Bacteria"
+    excerpt: "Using artificial intelligence, UT Southwestern researchers have discovered a new family of sensing genes in enteric bacteria that are linked by structure and probably function, but not genetic sequence. The findings, published in PNAS, offer a new way of ..."
+    publishedDateTime: 2022-07-04T00:00:00Z
+    webUrl: "https://www.technologynetworks.com/genomics/news/artificial-intelligence-detects-new-family-of-genes-in-gut-bacteria-363280"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: technologynetworks
+      domain: technologynetworks.com
     quality: 17
 
 secured: "tVw51cu5+7NHkEeBX/GwHu8K2vd2k0CSIarMvhEf8SsooqtiVQ2yEwDl4Z3Bg1LoJm/W42YRO03Vpb3Py9ROZRj17JR0u1faHPckObPBfeFAc1+ZWWn27Pwk0tNOIgXZgw1fYmzakLc5BQDA8INpyAwLO7+sMnEwoHF1ZnShgQ/dEqOPTLPdUvvSLDrETFxUChRv67rX2mb4athzfIq7DE53+tC3JFJGl+0+fX/nue4s5QVxpeYSmrodrDwhoDL95e4Jh90Kje9ospA6A9TpuSG5LKt7Wkt3VZvKNvxh/469SRclyjlUKDi5YaEooRLaw0T1WP7O1tCj5A6vMRqo9jATl9qRNDUTjKSXcduJjvjn00o9O22kOBzZLb0sF3H0DTP3djI1/Bg+CzD8LKLgs3VfxqZS3aZs8T6UaXyvbiN2pnp3RO4aoWsR2MwMdxIAf/QMYpvDHGe43E67oiJw61y0N09L5MAa6sbeJDqwScuqQPPRyPD+HZo1V25ZG/FYvbMmA8f0uYRbWe8MCFNUxw==;ZT8BXGkBFfeip6rlhC/tYA=="

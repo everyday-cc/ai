@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
+      "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
+      "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "originalUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9411a919483b45a96f423ef5d2fc198e85feafc1/2022/07/01/86d710b8-0303-4e57-8529-c789deded6df/gettyimages-1279453193.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "publishedDateTime": "2022-07-01T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
+      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
+      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "publishedDateTime": "2022-07-01T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit acquires natural language processing company MeaningCloud",
+      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "publishedDateTime": "2022-07-01T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
       "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
       "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
@@ -61,7 +209,7 @@
       "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -92,49 +240,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-the-feds-dont-know-how-often-theyre-using-facial-recognition.md",
-      "title": "The Feds Don't Know How Often They're Using Facial Recognition",
-      "excerpt": "At a congressional hearing, members learned that multiple government agencies don't know how many of their employees are using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
-      "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp",
-      "publishedDateTime": "2022-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -821,6 +926,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-01-people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call.md",
+      "title": "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'",
+      "excerpt": "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php",
+      "originalUrl": "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-what-it-takes-to-create-and-implement-ethical-artificial-intelligence.md",
       "title": "What It Takes To Create And Implement Ethical Artificial Intelligence",
       "excerpt": "Artificial intelligence “acts” unethically in ways that are different from humans, even if the harms that both AI and humans can cause are similar. For example, even if both humans and AI can ...",
@@ -911,8 +1050,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -1068,152 +1206,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-how-believing-ai-behaving-like-humans-is-becoming-problematic.md",
-      "title": "How believing AI 'behaving like humans' is becoming problematic",
-      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp",
-      "publishedDateTime": "2022-06-30T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-how-john-deere-grew-data-seeds-into-an-ai-powerhouse.md",
-      "title": "How John Deere grew data seeds into an AI powerhouse",
-      "excerpt": "John Deere’s status as a leader in AI innovation did not come out of nowhere. These days, the company has been enjoying the fruit of its AI labors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/",
-      "originalUrl": "https://venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/r4f167299_rrd_@1x.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/amp/",
-      "publishedDateTime": "2022-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-pitch-your-startup-at-tc-sessions-robotics.md",
-      "title": "Pitch your startup at TC Sessions: Robotics",
-      "excerpt": "Robotics 2022 – is coming back virtually July 21. It’s slated to be one of the best programming lineups in the robotics industry with luminaries like U.S. secretary of labor, Marty Walsh; inventor Dean Kamen;",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics-Sessions.webp?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:45:00Z
 originalUrl: "https://www.huffpost.com/entry/kesha-lee-music-engineer-artist_n_62bf1156e4b065b10ad410c6"
 webUrl: "https://www.huffpost.com/entry/kesha-lee-music-engineer-artist_n_62bf1156e4b065b10ad410c6"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: HuffPost

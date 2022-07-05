@@ -7,7 +7,7 @@ originalUrl: "https://www.hotsr.com/news/2022/jul/01/chinas-baidu-taxi-races-way
 webUrl: "https://www.hotsr.com/news/2022/jul/01/chinas-baidu-taxi-races-waymo-gm-to-develop-self/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars."
-    publishedDateTime: 2022-06-30T22:41:00Z
-    webUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-    ampWebUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
+  - title: "BMW's Newest Electric Car Is Self-Driving In An Unexpected Way"
+    excerpt: "BMW is bringing self-driving technology to a select number of is 7-series cars for a trial beginning this month."
+    publishedDateTime: 2022-07-01T23:10:00Z
+    webUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 54
+    images:
+      - url: "https://www.slashgear.com/img/gallery/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/l-intro-1656713192.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "XSrKujpa473AGY99ntaAQzSEtPJAY/c4PNlcjCH+5Vo5phQxIAvRwl37+R8rmFmAti99lZ5wR33E12kZNqKfXVNGzTWttIR4XM2Wiv9zdYfmzjFB98Wm/cgKFmlopEAx9heLo84r3PA7mvQuxwRG3wUZ2FljMmEsAJNcYT45J/P3nvd7TF/r5/MKjoFRB5lm2ZE7JsTwP7jl7TZVjlsd/qtHh+VwekuI9gDc/Jczfjdd6oeU+svnOe4pddkuP20rCgSsuvy66EwDXRqQJ+PpvL0XeFnKZzL7bkoYdSSJMGmBwT+Re95Ya2ebaNWr8/qY7TWtRj+aTqRzKkeqSqHMRGqtDqemm41Qp5+Uw50jJNs=;mxTAyYtqr/tCt5adGB/T1Q=="
 ---

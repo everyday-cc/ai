@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:49:00Z
 originalUrl: "https://www.smechannels.com/amd-powers-real-time-ai-processing-at-the-edge-for-canon-free-viewpoint-video-system/"
 webUrl: "https://www.smechannels.com/amd-powers-real-time-ai-processing-at-the-edge-for-canon-free-viewpoint-video-system/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: NETGEAR

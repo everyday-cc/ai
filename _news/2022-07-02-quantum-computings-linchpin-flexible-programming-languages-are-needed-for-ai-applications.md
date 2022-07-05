@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 663
         isCached: true
+  - title: "Designing next generation analog chipsets for AI applications"
+    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices."
+    publishedDateTime: 2022-07-05T14:02:00Z
+    webUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg"
+        width: 1000
+        height: 773
+        isCached: true
   - title: "IIT Mandi launches MBA Programme in Data Science and Artificial Intelligence, application begins"
     excerpt: "IIT Mandi announced the launch of Masters in Business Administration, MBA programme in Data Science and Artificial Intelligence starting fall semester in the year 2022. The Indian Institute of Technology,"
     publishedDateTime: 2022-07-01T09:55:00Z

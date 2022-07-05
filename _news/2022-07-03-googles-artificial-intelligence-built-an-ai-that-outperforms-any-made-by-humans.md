@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/google-artificial-intelligence-built-ai/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai/amp"
 type: article
 quality: 69
-heat: 79
+heat: 70
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "Google researchers develop AI that can answer math questions"
-    excerpt: "Google LLC today detailed Minerva, an internally developed neural network that can answer mathematical questions and tackle other complex topics such as physics. Minerva is a natural language processing model."
-    publishedDateTime: 2022-06-30T20:49:00Z
-    webUrl: "https://siliconangle.com/2022/06/30/google-researchers-develop-ai-can-answer-math-questions/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/google-2.png"
-        width: 718
-        height: 395
-        isCached: true
 
 secured: "bUrnGvPDNrXhQyDRSSo7IK6aKeFkmdfreupL/Ap3zbrFltLgtyYnHd53BxAI0aO4eAflXFf4RQEqgPyG3bTDW4Aa7FZ6ESODlMHLNfd9CLql6o8wAe31pSy6/1f5UvrbpgldAtVpPnBAE+3qkq96qz6EhaRLrpZ6L2XFoZ6jKNG33A1BJKxctzXJ3AuS9hpDPNWxuiOk5NdX0/RjqWv6xEOqSxokM/mx5IQ8K+H3Ei41JfbTNzhe/xIPrZxzCyJXpC3agrXRUaM1ztJweqhIxb8NLMG5+Sj10E3GMNyLMVcwo8z7kd8pbs4Ed6kI7Gpv+NbESZsSpQtZQ34GaPJBDisBXcn/aDcZRwMUeFoxruY=;z/MZy4LMEtHXpAZHgEu7WA=="
 ---

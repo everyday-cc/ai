@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T12:10:00Z
 originalUrl: "https://www.pcgamer.com/this-ai-will-tell-you-whether-youre-being-paid-enough-or-too-much/"
 webUrl: "https://www.pcgamer.com/this-ai-will-tell-you-whether-youre-being-paid-enough-or-too-much/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: PC Gamer

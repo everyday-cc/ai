@@ -25,33 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
-    excerpt: "Halsey responded to fans on social media following Sunday's concert in Arizona where she voiced pro-choice views, prompting some audience members to leave the show."
-    publishedDateTime: 2022-06-30T21:34:00Z
-    webUrl: "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion"
-    ampWebUrl: "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp"
+  - title: "Highway Code adds new section on self-driving cars - What the rules are"
+    excerpt: "No vehicles in Britain have been classed as self-driving yet but this could change as soon as next year. The government advises that self-driving modes should be limited with the"
+    publishedDateTime: 2022-07-01T14:47:00Z
+    webUrl: "https://www.dailyecho.co.uk/news/20250269.highway-code-adds-new-section-self-driving-cars/"
+    ampWebUrl: "https://www.dailyecho.co.uk/news/20250269.amp/"
+    cdnAmpWebUrl: "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/20250269.amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 65
+      name: Southern Daily Echo
+      domain: dailyecho.co.uk
+    quality: 44
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/1200/675/a831e3da-halsey.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.dailyecho.co.uk/resources/images/12848179/?type=responsive-gallery"
+        width: 650
+        height: 433
         isCached: true
-  - title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
-    excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona.  That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
-    publishedDateTime: 2022-07-02T00:45:00Z
-    webUrl: "https://www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-    ampWebUrl: "https://www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+  - title: "12 self-driving cars crashed in Arizona in the last year"
+    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022. This marks the first time that the federal government is keeping track of crashes involving autonomous cars whether they have a safety driver in them or not."
+    publishedDateTime: 2022-07-04T23:34:00Z
+    webUrl: "https://www.12news.com/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    ampWebUrl: "https://www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
     type: article
     provider:
-      name: FOX6 Milwaukee
-      domain: fox6now.com
-    quality: 15
+      name: KPNX
+      domain: 12news.com
+    quality: 44
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/523a3c88-43d9-48ef-8ccf-ffa7732e44b3/523a3c88-43d9-48ef-8ccf-ffa7732e44b3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "A new section for self-driving vehicles has been added to the Highway Code"
+    excerpt: "The changes are included in a new section in The Highway Code which can be accessed for free on GOV.UK. Currently only vehicles with advanced driver assistance systems are availab"
+    publishedDateTime: 2022-07-01T09:44:00Z
+    webUrl: "https://www.newsandstar.co.uk/news/20248916.new-section-self-driving-vehicles-added-highway-code/"
+    type: article
+    provider:
+      name: News and Star
+      domain: newsandstar.co.uk
+    quality: 22
+    images:
+      - url: "https://www.newsandstar.co.uk/resources/images/13946702/"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Highway Code updated with new rules for self-driving vehicles"
+    excerpt: "New rules on the use of self-driving vehicles in Great Britain have come into effect in the Highway Code from today (1 July), paving the way for new technologies."
+    publishedDateTime: 2022-07-01T13:50:00Z
+    webUrl: "https://fleetworld.co.uk/highway-code-updated-with-new-rules-for-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 4
 
 secured: "OGryTvBXtvTljcppNKTlEX5IS4Yj60K44gTvqj2q6fDt0xpMSziQhpCFNtH9zgPhmH0aBkoXk6WgWIVTp4J9+akQLn6gGvDARTFO8dMMjb8fCCFBy75dK7/wERQZZL7czK+6a5j5eaqrc6c6NnszFk4WBhCUMmpVrmbiuE/tc+VQuY7CdPnJid27aT2i+NPmyY5b/oD2vEgqAE9L/zrnaIbYieXebHhNNQ7IkdgIlfE3hdG4rlf3hzr2ruwPlXwyFPvpQ8gLAn59Vb0d8ZTChKyupm/8+GjUp4TOjCWmJOmPSsRAPXgXrPSpTk1u3PilarJrJQe/m3uo47lK2KVHX2nsfbH55eJrQRd/QhsFg/TzXCjvUUAzdeqoovg+/tzSMfTMjYASx/k0HcG61dFNR86kJ5jY6x94QKlDIkIcdF0R9GAlHdt4dsPtLQbpT1cVc5XAEWswhQz3jfzrsRvMZkiVLakZKjgRk/qDqhE9WGsgRQ4oNPvWqo4Xi3z8Du/okUO6weOsmjqfxZELRymAxw==;HeHswAJmWocuDsWiz3JOVg=="
 ---

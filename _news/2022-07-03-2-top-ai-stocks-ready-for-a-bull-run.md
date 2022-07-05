@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-03T11:52:00Z
 originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-2"
 webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-2"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:

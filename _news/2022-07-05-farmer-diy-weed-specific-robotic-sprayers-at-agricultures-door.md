@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:39:00Z
 originalUrl: "https://www.agweb.com/news/crops/crop-production/farmer-diy-weed-specific-robotic-sprayers-agricultures-door"
 webUrl: "https://www.agweb.com/news/crops/crop-production/farmer-diy-weed-specific-robotic-sprayers-agricultures-door"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AgWeb

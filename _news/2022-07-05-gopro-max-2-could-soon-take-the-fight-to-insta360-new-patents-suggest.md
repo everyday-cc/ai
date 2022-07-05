@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T11:59:00Z
 originalUrl: "https://www.techradar.com/news/gopro-max-2-could-soon-take-the-fight-to-insta360-new-patents-suggest"
 webUrl: "https://www.techradar.com/news/gopro-max-2-could-soon-take-the-fight-to-insta360-new-patents-suggest"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: TechRadar
@@ -19,6 +22,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "uM8A3SJf8kWK36OhOb/L47MvV9uYZRdUClz2LU/sd+L8PerML9GXlwjdeN4E935IFB1r2Ez9Hx5ajKR7ZHWlqs2tToizLQOYGMnuwZh4th5ZxxSTPyVgkEetgITQnVGp1Sv8lttMQQEHoOPLNuzn7O15ZpfZ7KbQ8UQcCR2M+cY7la+GB11NrohUPi8j48ULPR1Nce5aBMDCjuRLwy8G0jtpommcSSlqyu1GhBlf6wwqP4MVOIx+DuR6ektSSghdwsHY9Awun/ZfEVI4ycLSOEiF8f8gVUyl8EZtiux7CpeOiHaE2huUxPAfNap7ZIkGSK36r/aEAoIkjF51PyfBZTBKois1KHjCjsOzwkDChfE=;qW7E1mL/35Vq4bgRtYmnuA=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/7gSgvT32gAEEzo7W6PKBG4-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "msdzTAN47f80s3x8zqJsDBPozs8mhK4y+9uKqIx1Q+kSFNPtMKYELtNICDKO5mIWpTEn8/TVDr5YX0i27t6ZMiyzFBR1/50MJR1hly1TYF/6bLGbhvtgJSOJzqhRLgaFWQ75FxawKWCXVhj9wHAA3tkjbL86C9BmBH8JiFMZdJtr5+vduXRVHIn7ln4LlYifgnJLcdQI7yOs9obn3nMuKUSlDPKmhQScVGjTtMX19jmSFJIQ6eSzNjgMnfV1wLUkN4oCFD8FZE9p8Hp4X6Qj+z7l2dJKGYT6scllFC3uESDXXLxvWgTvaGgCaKFmnnW+EylK0BaeUh6MFXGM3+qgccJ0QHOSpQrAlhRwcU9DGR8=;8/vpJhSIaIho1Z04qJAWtw=="
 ---
 

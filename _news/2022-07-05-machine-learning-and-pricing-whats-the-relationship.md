@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T05:30:00Z
 originalUrl: "https://www.state-journal.com/sponsored/machine-learning-and-pricing-whats-the-relationship/article_6819e6b2-fc5e-11ec-a548-0f9d1c321c92.html"
 webUrl: "https://www.state-journal.com/sponsored/machine-learning-and-pricing-whats-the-relationship/article_6819e6b2-fc5e-11ec-a548-0f9d1c321c92.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: State Journal

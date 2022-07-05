@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:50:00Z
 originalUrl: "https://techxplore.com/news/2022-07-ai-equitable-policy-funds-online.html"
 webUrl: "https://techxplore.com/news/2022-07-ai-equitable-policy-funds-online.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

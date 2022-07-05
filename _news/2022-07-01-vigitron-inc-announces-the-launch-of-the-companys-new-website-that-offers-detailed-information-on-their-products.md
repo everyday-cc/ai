@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/vigitron-company-new-website
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,20 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Kogniz Introduces Computer Vision Platform for Gun Detection"
-    excerpt: "Advanced AI-based computer vision company Kogniz has announced its ready-to-deploy gun detection module as part of the latest version of its technology, which predicts, detects, and resolves safety and operational problems."
-    publishedDateTime: 2022-06-30T20:41:00Z
-    webUrl: "https://www.unite.ai/kogniz-introduces-computer-vision-platform-for-gun-detection/"
+  - title: "Safer Security Group announces the release of Safer Pod S1, the next generation of site security technology"
+    excerpt: "Relentlessly innovative security sector specialist, Safer Security Group, has unveiled the next generation of site security technology, with the official launch of its Safer Pod S1.The"
+    publishedDateTime: 2022-07-04T13:22:00Z
+    webUrl: "https://www.sourcesecurity.com/news/safer-security-group-safer-pod-s1-next-generation-site-security-technology-co-4414-ga-co-1557224325-ga-co-1652250188-ga-npr.1656932447.html?ref=nav"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/cctv-surveillance-camera-7267551_1280.jpg"
-        width: 942
-        height: 600
-        isCached: true
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 3
 
 secured: "uQf6+ZTAB2iulE7nOP876KTx0hleWOcqMT1CFZlEETCjlytLNfNga4ZmIm12gha14gxrywlW1VA9rICB5sniRCtv+D1vJk3ndT361GaGhDWto6KBxyMd6JCZet63/kpjL+Fk6uqGdhBarEakJstY8XIZhVyGVQJwy2Xist3sZyfDke3j2uJgULf3bv+dcF4+Pte0rrvvst42MS2XEmhMwXEmc594Mv7Futufs8u+JhaPIgXxHxSh3HoGWUvrDfWPaiWtpGz9u84Jzx6Yts8GhOIASyan4eo8aB4kbMkJunUij92pclQ7etJXQQ0rlibwa08S/6ZgDM3Ev4n3FUkr7nRaZF49GPzIRFtdGcKfJqzLDReghbfBn9rXhARcRIVQhdKMXlxNmzE3k0Ej2hcNvZxWMcAYMGnXkOE4zq8QEbiLHB5vSgC0LNya3TSFeLKH41A0BoONNHJ/xDnumh0HK0uENoljcCXBLXmnIz2FQ0i366O0zWREQgcAkVp119dGdCauFGMGpRO6Ob+1nuBbAw==;G1pZ+7sm/yMDlVu2oDg49w=="
 ---

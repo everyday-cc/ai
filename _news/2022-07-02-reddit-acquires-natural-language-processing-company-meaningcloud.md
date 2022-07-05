@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 19
+  - title: "Reddit acquires language processing company MeaningCloud"
+    excerpt: "Aligned with the efforts to optimize the value of content on Reddit, the platform has announced the acquisition of MeaningCloud."
+    publishedDateTime: 2022-07-05T11:29:00Z
+    webUrl: "https://www.socialsamosa.com/2022/07/reddit-acquires-language-processing-company-meaningcloud/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 4
 
 secured: "CvtRiLPs0UyeM0DUnKr6IAIj8uROzRPqY5koODVSrxYMMzppo9BndRdNH+YFNEb783NlTmrusTuiC8DH9V3doClqM/4LM8z+Ci2kpsqyd4D7odGyM74bWhs2Km9BZmtrY9grkYuE0qAW24ewv/LuODse88cE1xccpwc+7Xqxl1Oj+W0eFODECkrOrjJ1/aTJufxiqGo8LSF8D1z9dHqiWVMc+dVATu8bVuxXf2+EzT123Ri+Roz2d2mEplPGCOl0I068f5BVnEdVoajcPjJWhcPtG2mPNTV9YnDA8i787l8A2jZFZqGXJn6mhf7Wy0Rkt+1QwEFpQ1HeYLKRWe7814hbqm4fkDantIQ1LC+kL7HyUMYSoVm4vmnY0+qr4uInDlEtmGCs14AmK35iFV4rPXRpGTnBSe15X9DSHndQh4VHu/5d/cBz1uja+QArUQLLBWZnhIY0+AMGC9wYtoptPlZ0HJhR6NW73RTkVObwtF2+1h4V/rjkAcafXcFQVk5zcICQCjXQJ3XrrUwreIatyw==;H78bm7fv/38gJm2VopAy6w=="
 ---

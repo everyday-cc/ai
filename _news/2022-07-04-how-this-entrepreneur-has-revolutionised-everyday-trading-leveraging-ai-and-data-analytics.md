@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/430735"
 webUrl: "https://www.entrepreneur.com/article/430735"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: Entrepreneur
@@ -26,6 +26,26 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
+    excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
+    publishedDateTime: 2022-07-05T12:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+  - title: "radicant and Squirro announce their partnership in the field of artificial intelligence (AI) to leverage data-based analytics and recommendations"
+    excerpt: "Zurich, July 5, 2022 – radicant, the first sustainable, digital and collaborative internet-based financial services company which is aligned with the UN's 17 Sustainable Development Goals, is"
+    publishedDateTime: 2022-07-05T08:00:00Z
+    webUrl: "https://pressreleases.responsesource.com/news/102958/radicant-and-squirro-announce-their-partnership-in-the-field-of/"
+    type: article
+    provider:
+      name: responsesource.com
+      domain: responsesource.com
+    quality: 0
 
 secured: "pHjTg4xsYD5Egu2HsQEvM3/mHsWFDQvtLmBbNyIy0TeT5EcCDYWgpYOhUvvh2CYhYNKIoj3rMtjPyUIFCZqHwJT40zs9n7XHwonnovkzJIzxbHX37nEzINoikk12ZYvDwl7qQQuk7IgPgjs2x/1XXL8nGapn34502cTp7YcqKCTKog03Hfg8MGNmZi1l5op2rKHw8ylEUf6ZtxP2Zbym5lasERBIUOoLPh4AI1CO5Cc5Uj289wWHUQ8Fo4VpHAYlkoVYkf14AzAwCMXDnC2JnPAqXXYO7ppr0PR8tjZL7HJgV3xKMRfcSujepp00p8rkZIxn5w8Es8iyFxeGFHnTTmgGHHXnoDzap/7721u3xkyJaEwpbHnKQIIJSr5UYAOIlWuM8Jk7O1TxnOivhPpQL6VLsnqnrOIkT+quE2QtnifpMu5yTF6aGshKz6mQykgnC7i53DR5OI9CxU/59fScjI7oPT6DNnb3+3wfZqPa9dfZ+MeA1XXbk38evLZWvKocH8Yp3O9Utpc5OPW3nrm+2w==;yNdsKg+YK2nzLTVv/2cp+Q=="
 ---

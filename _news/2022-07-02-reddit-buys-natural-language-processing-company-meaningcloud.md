@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Reddit acquires language processing company MeaningCloud"
+    excerpt: "Aligned with the efforts to optimize the value of content on Reddit, the platform has announced the acquisition of MeaningCloud."
+    publishedDateTime: 2022-07-05T11:29:00Z
+    webUrl: "https://www.socialsamosa.com/2022/07/reddit-acquires-language-processing-company-meaningcloud/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 4
 
 secured: "LWSKPAoz8AMf18XtAibtCsKjaSZpGluW7Vt05Z3HtCvofkPDJvz/brMHbt80lpozv+0PvVF0wLS5G9kchgcaFtjkkEXadR3hyvTdwzrRnMMYbCRPNHENP6nj8dDUSu1XWS3pjrEelJ/TG4ZJ3KXlPjsM1Ov5YOJAVWrtUfXvV7NPyIYVA2U0uo9fGDQwKyi29OB8EyGcMWda3Hia+le3REpu9Zat5RBky4HAkG4e03R281MyM3uyuEgpkPYzx7+7ii1LiwaCrlqbUSwkRk48rrbE4VaUJBIvkYtp35zLuduy6OrZVpAMrs6VnsT3QCe6h9MrJ5UXAECWXD8qldWbFFwYm/zn4/aAt04OwVXxtK14Hn2QexEMq2dJdA8OcwBj1tREcY90Ggj9m73zHrtnGkPq/OHTqesAjue/ovtAcm1qFsBOazoqMqF2D9Tw44ipBCwny3PzXp9/yL40rnI9dfpVAzpkVHxsEiuBt4sIUNai41K3z/VgugonJvc1CeDVqaXdApLUGd04NoBL+tNK9A==;AuBu2KkDDS3Br0jPewg7Kw=="
 ---

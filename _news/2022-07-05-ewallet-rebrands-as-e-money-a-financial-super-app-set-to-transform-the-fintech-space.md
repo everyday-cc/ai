@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-05T13:22:00Z
 originalUrl: "https://www.zawya.com/en/press-release/companies-news/ewallet-rebrands-as-e-and-money-a-financial-super-app-set-to-transform-the-fintech-space-fne9y94z"
 webUrl: "https://www.zawya.com/en/press-release/companies-news/ewallet-rebrands-as-e-and-money-a-financial-super-app-set-to-transform-the-fintech-space-fne9y94z"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Zawya
