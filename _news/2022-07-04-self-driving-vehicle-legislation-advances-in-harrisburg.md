@@ -3,18 +3,18 @@ category: news
 title: "Self-driving vehicle legislation advances in Harrisburg"
 excerpt: "House Bill 2398 recently passed through the Pennsylvania House of Representatives. It heads to the Senate for consideration next."
 publishedDateTime: 2022-07-04T08:25:00Z
-originalUrl: "https://www.wnep.com/article/news/state/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
-webUrl: "https://www.wnep.com/article/news/state/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
-ampWebUrl: "https://www.wnep.com/amp/article/news/state/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
-cdnAmpWebUrl: "https://www-wnep-com.cdn.ampproject.org/c/s/www.wnep.com/amp/article/news/state/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
+originalUrl: "https://www.fox43.com/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
+webUrl: "https://www.fox43.com/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
+ampWebUrl: "https://www.fox43.com/amp/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
+cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WNEP
-  domain: wnep.com
+  name: FOX43
+  domain: fox43.com
 
 topics:
   - AI in Autos
@@ -26,6 +26,6 @@ images:
     height: 641
     isCached: true
 
-secured: "G4hes57oWDsDS3iUYux2/wktQKR2+czg9bucnMmU+a7cMJY5iCqGvQRGQPvYWe24MA0wBAz38g6R9OVr3lTM+O4kPX16lzquKYuXrJEAvbmL9CLGLWWoXYEBNhE/nituN1J5Hj5LTacFrgBJbQOK/kwNJFg2MMQokvA2FF0gQy3602NAGOyRM4aob4bN1uM+hHCUHqmQW1fKmHjkoRsvz57hUJtYJuX5knmtqMog12rExNJSdGocSdiTMHzZQphLVGvNf861zBD26Z2lNezjBvzGjYS7tY1I6vUBxW+GsAaLWt9Hz8zm77KwkjdnDHx9yFtDxhzYIysqQK+eu9TB9Gx2mBtRddwxXtpK36F/4vk4ccSxc0abnG2hxzsAVn5N+BEgROzL665SksJZdOaZdjIcecTvYpKx9+nLKfNBmsp5gHukJkKmBzFk6usFtcwonSCW+tNyZwBGCcEjvdq1qcB1SbEf+IAv4+WCKRn1jZF6i0zp8p7ZxnGXNL0ept7auDp+He3lNpJ3gbiVrzW9LA==;GZq56rUg43o7VCIrae48XA=="
+secured: "kclm05mkpia802w1rxf5l5HtsgxV3H6fLY+nIlg65Slmie7CVV4BYzGMIP0e50A5B4tKeZK2ZqplMK5vQ9mQ6JLJRz89/vFXcKE2vpTz16SBCYpE/iNCd4h/4LfkAJEbnW+BrJD76DYgUA02VpMqqXFdQOqMb/5VdAsBH/BacQ1BmqeW1jcHabbxiMqRoOWVwEzNAVOXHPt5F5nO2Ud3kzRWg2P1xx6Fs8e3eKNxx1f6OYipW5m2nQdQg2fmbK6eRIKWVbGwiwCJ1jBo8wDMS69fICz7iN3kDtvtddPAf3fmw7BFDkFQCdCM9WF+IGZR4Far86r7WcOVs/sfYYCVV7yn+uw7/tT547J3DeiN8lE=;FAe/RtT7QPemqWDADwTCaQ=="
 ---
 

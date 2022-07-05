@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Business Reseach Company: AI in FinTech Industry Analysis By The Business Research Company"
-    excerpt: "The Business Research Company's AI in FinTech market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, June 30, 2022 /PRNewswire/ -- The AI"
-    publishedDateTime: 2022-06-30T16:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-business-reseach-company-ai-in-fintech-industry-analysis-by-the-business-research-company-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "The world’s first fintech sitcom is just what you’d imagine"
     excerpt: "Where Netflix has Stranger Things, Disney+ has Obi-Wan and Apple TV+ Ted Lasso, HPE has Get Ahead, the “ world’s first fintech sitcom ”. Episode one is out, from which it’s fair to say that HPE probably shouldn’t expect the kind of rights offer secured by televisual wallpaper like Friends and The Big Bang Theory."
     publishedDateTime: 2022-07-01T15:00:00Z

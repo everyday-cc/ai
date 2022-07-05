@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T15:50:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Are chatbots conscious entities? The AI sentience conundrum"
     excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
     publishedDateTime: 2022-07-01T15:01:00Z

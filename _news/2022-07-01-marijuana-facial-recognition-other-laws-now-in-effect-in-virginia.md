@@ -38,22 +38,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 66
-  - title: "Virginia lifts ban on police facial recognition technology"
-    excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
-    publishedDateTime: 2022-06-30T15:29:00Z
-    webUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022"
-    ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
-    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
-    type: article
-    provider:
-      name: WTVR
-      domain: wtvr.com
-    quality: 59
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/484/ab537de11df9456cb23cbc1d7e732de9/484559d726fb4bf0a2e672ddacb2c07f/poster_4bd9a0b83c914d0cbfab1db5c30d361a.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Marijuana, facial recognition and other new Virginia laws take effect on Friday"
     excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. Here is a look those measures a"
     publishedDateTime: 2022-06-30T22:49:00Z
@@ -68,15 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Marijuana, facial recognition, other Virginia laws take effect July 1"
-    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday."
-    publishedDateTime: 2022-06-30T15:20:00Z
-    webUrl: "https://wtop.com/virginia/2022/06/marijuana-facial-recognition-other-laws-take-effect-july-1/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 19
 
 secured: "eakeSk4Fvy6UVxbhehKQhTDfGS7AHiJHog4XcMp/WqssrRAHNxagl8HPr5cN/pUu1GAR1vaWWvR/nFKrCxvtgWd4o60VKGavl8DQysFU9OHEm+zdExCYQGfx+FFqFX45KjoXsQwtyMWTYu2xXoXMCEvglYzKIjD3ASDSadRJwMeOghQX3Fx9J6NjXITDJlFvgYVaR6/qBYGvFM5Tr7hEFCTP0LMirImvuRlQsbGBCei2gVwjdYcuOsIKc4ixNuP7oQctofx9mULM9H4k+Gi6jw8s3OzC5vTuo7YPC+0PyKXnNNvV40y2/CMIJOviPQ7YPfUcHM+3BzigWrU15ImahbrXBzkHwNNZEACgk6cqUoYTTAeBzovy/ZoXUVHHOElAHvLibYmL4TyFJpknuQ8NpRTOmdJBu6E1OShTaBogttTBmvTjJtFbzUxMLDWHD4HmpLasijYVekEhcZ0JPzC7mRmGKZAdRKPhe53/YE0jHN3sj/NWzLcsR5pHYMPE35hKv41KzJrhJPRMNIQ1JVVyFw==;kN3Z0szwJRyZtEiSzGv0dA=="
 ---

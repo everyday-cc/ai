@@ -2,17 +2,17 @@
 category: news
 title: "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 excerpt: "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ..."
-publishedDateTime: 2022-07-01T22:48:00Z
-originalUrl: "https://fox40.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
-webUrl: "https://fox40.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+publishedDateTime: 2022-07-01T22:28:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: FOX40
-  domain: fox40.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 233
     isCached: true
 
-secured: "w1C8NyzehFlN53pY6hNzR6CN8QudFZFaHc9R6UjZSc8nA2uKgfcV9deM7m5Z/0+UhngYPjiM89v5azDzNJFrz0IGaxMNtwTPoh1p9RxuptvMdWyrq+tQZ/JYJZTrtO+jZrq1dBcljt2YwPZbfgyBjynhLORfp4b0IPU4npKofkO6qoAbJVNgTtqKQkp/It2LlMwqBCpPd5b+eLQjf4C5rmqBz5VQfhLKf3ewCucoHKF3zBal0JW9vjLGRx/R6XX800oKbbnmfI8FWtC3KL5f2xgw3+7pohQGol8EIDudgziS/FcqSa66IdLBQhYWaJ2VletOGPbV97Z/2nK8b+pXqOUAybzwZr6o6bhvA7WRd5A=;l1TrJeeiKoPCL+7SK8wC9A=="
+secured: "+JoNwPibqkbgsADGwtHGDEEF0Hp22mHkfjWlYYjXMyZVUiTPon37nwD7HA1J64VMsHrFnuLJUlH11U2/XcGCN5WT+1R0K5M89onByAqJKLVsBqM8J8C9Mz9uUISp8VSLUIMCrbihrz0MGbSXndzkpTYbwkxHHCg17nyBBkHLxQRYN1wabykQWxv2ssQdl8iJGZp0KBD1Esv9ikRTrMVUZ/Ovxq3sBevmJ08srPvXQOGI4P7giMxwQq4NGYw269MZm7sIUGBS3+xw0a9mtkr02f+AlFMn7J4eTasTeAzF1pHl1vHebBtomUJpMrcGEMzHYW57lRfgVk4qEHDBz4oNBzhdvIUh/dqXjMHu/bDV5ao=;eVU/YP87iQ8zpH/LoqWCvw=="
 ---
 

@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Enterprise hits and misses - blockchains are mutable, sentient AI is debatable, and retailers face loyalty and price tensions"
+    excerpt: "This week - will retailers salvage a volatile 2022 with a holiday surge? Plus: blockchain security gets called out, as does TikTok on data privacy. Big tech is still quiet on data privacy, and supply chain leaders face the analytical whip."
+    publishedDateTime: 2022-07-05T09:32:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 32
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
+        width: 411
+        height: 292
+        isCached: true
   - title: "Hub71 And E& Enterprise To Launch The UAE's First AI Center Of Excellence (AI Coe) In Abu Dhabi"
     excerpt: "Located at Hub71, the AI Centre of Excellence (AI CoE) will enable companies and startups to develop, deploy and scale cutting-edge applic"
     publishedDateTime: 2022-07-03T22:57:00Z

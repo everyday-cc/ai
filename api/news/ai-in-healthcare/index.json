@@ -201,7 +201,7 @@
       "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -237,21 +237,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It’s alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
+      "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
+      "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
+      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
-          "width": 2500,
-          "height": 1623,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -259,13 +259,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
-      "publishedDateTime": "2022-06-30T07:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

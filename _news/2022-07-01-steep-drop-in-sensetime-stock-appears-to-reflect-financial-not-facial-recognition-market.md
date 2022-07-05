@@ -49,6 +49,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Government rejects Lords proposals on police facial recognition"
+    excerpt: "The UK Government has decided not to follow most of the recommendations made in the Lords Justice and Home Affairs Committee's (JHAC) inquiry into police technology, which advocated changing the way law enforcement agencies use AI and algorithmic technologies."
+    publishedDateTime: 2022-07-05T08:05:00Z
+    webUrl: "https://www.computing.co.uk/news/4052389/government-rejects-lords-proposals-police-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/2b75531/5f686a71-7942-438f-9f9d-b43a83da6d7c/8/eye-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Steep drop in SenseTime stocks appears to reflect financial, not facial recognition market"
     excerpt: "It has been a wild ride for SenseTime share prices, with an initial price of HK$3.85 doubling in the weeks following its public stock launch."
     publishedDateTime: 2022-06-30T18:21:00Z

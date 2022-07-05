@@ -36,22 +36,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 66
-  - title: "Virginia lifts ban on police facial recognition technology"
-    excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
-    publishedDateTime: 2022-06-30T15:29:00Z
-    webUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022"
-    ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
-    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
-    type: article
-    provider:
-      name: WTVR
-      domain: wtvr.com
-    quality: 59
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/484/ab537de11df9456cb23cbc1d7e732de9/484559d726fb4bf0a2e672ddacb2c07f/poster_4bd9a0b83c914d0cbfab1db5c30d361a.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Marijuana, facial recognition, other laws now in effect in Virginia"
     excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology,"
     publishedDateTime: 2022-07-01T12:36:00Z
@@ -68,15 +52,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Marijuana, facial recognition, other Virginia laws take effect July 1"
-    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday."
-    publishedDateTime: 2022-06-30T15:20:00Z
-    webUrl: "https://wtop.com/virginia/2022/06/marijuana-facial-recognition-other-laws-take-effect-july-1/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 19
 
 secured: "ot4/qUDBoqew2Z0iyBX7g2Gnc5oFSrl9oOeDN7PUZF9Pp0Y7crL5OOu+06/tvcDRya9DiEQDNe9tmKZopc3bBSZ+aVpQdX7PySfqQWmK/Cn4Pmw20tHj2v7O0GJC6aIF21GfUsGvjBUeLsxxtGtPc4HkVKEJbjWiflyLi5fHljsUzWi0Uh/Tc+2mcLVu0DLmXh4Ua3qlHfxZaGhwVQwNzi2nLP8ll/e1iUfbj0NcB+7xV3urZVdOgzBjhJ34G1f5V0BHaSkchBOfnqXtCymVubxujJhls+GFSWRK55MERnymlrHA3YH3HXV3qnVa2H07mZ5jtoPjSC4Yqu11nFwwfo2sj2MeW83+bZA72JPk9/Hg9N+lDjbukqmiSPgvD6dgAzrRIi9Ph54mlHxTZllVYfHznN01ZFeALZ4iN3r9pToXKBKPSYGi32JwRyhpRPitKKR1XTyrSk4n1a+a39nzE5uk/Vnt8vP5SW0lI5N9aKkhfOewsposH/jPXdthPbNjEXxj0YML98ohteKqGBt8Bw==;+ehTIHD4cgokP/T1976PKw=="
 ---

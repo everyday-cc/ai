@@ -104,7 +104,7 @@
       "originalUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -453,7 +453,7 @@
       "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -873,7 +873,7 @@
       "originalUrl": "https://gizmodo.com/virginia-lifts-police-facial-recognition-ban-aclu-1849135533",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -904,57 +904,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-salesforce-chief-scientist-silvio-savarese-on-conversatational-ai.md",
-      "title": "Salesforce Chief Scientist Silvio Savarese on Conversatational AI",
-      "excerpt": "A tool that enables users to create executable code using simple English prompts indicates that conversational AI is gaining still more adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/conversatational-ai/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/conversatational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/07/eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1155,6 +1104,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
+      "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
+      "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Weird-Stock-Photography-Haje-Kamps-websize.jpeg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/wirestock-getty/amp/",
+      "publishedDateTime": "2022-07-01T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "IIT Delhi's IHFC To Design Robotics And Automation Curriculum For SoSE"
-    excerpt: "The Delhi Board of School Education (DBSE) is collaborating with the Indian Institute of Technology, Delhi to design a robotics and automation curriculum for the Schools of Specialized"
-    publishedDateTime: 2022-06-30T15:09:00Z
-    webUrl: "https://www.thehansindia.com/news/national/iit-delhis-ihfc-to-design-robotics-and-automation-curriculum-for-sose-751263"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/06/30/1300483-sose.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "qh4LfYFbN2JJ3FzjZLDVXlJiDgviPNsLzNIVuFSa7PYQEf1MCuNsdoGOfQtJWdQJn02ufr6BaE1G5p31wD5xZW8wLg2625ExhrBNthb3nflItkBVrNamOENYfby0sEFxeLDNnzmP4v4yw8V4TSfK4ELW0cINCeWh+mJLshDyNpyfdu+lq9TL0m0xWNklszXd/tgzeYf0UDcuKdHOEObqEFtOIyQEOSl/ngviafWYn5AluzIgn+wdRs/Uh8UUyZ9jDfseZPwyn7IgPkP9cYru20lTfGRQSJ+Ol2e60mvOfHzOxp4MiF0g0skE8RwGuq2Ujm2cSRufIcMJekLZ+l1Fp9JMAZRbjvj0LsXSeZhWF4atfE1TCWzR7Yu0KX5M/e/DTr3CuSgLLAo7v7aOfJTv6coxHjBwc/RYYxXbqUIfSXszjK0n3pIkGx8rT2jFKbPdCpjiKSq7HO29p9ZlZ4Y2Y1/8CBjrCwLFq2ZCaPaXTezMgVaiSeXm7ZVHEGiQuqCnB/z4VGKmtfKwry4PzdIK5g==;g/QnqoS8gMX8KcCAZC+DNA=="
 ---

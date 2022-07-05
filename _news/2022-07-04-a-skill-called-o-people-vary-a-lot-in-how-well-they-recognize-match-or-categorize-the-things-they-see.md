@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 968
         isCached: true
-  - title: "People vary a lot in how well they recognize, match or categorize the..."
-    excerpt: "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,"
-    publishedDateTime: 2022-06-30T16:03:00Z
-    webUrl: "https://www.ctpost.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 3
 
 secured: "LgUmRm8NUCnFaod0GZG4Mq17ZZn1LT3ePxknJ1jTtgq6ShevLky6gnspNmjLv1YNaGNUwGC/lIe8YsRUrwusBXUKlR68mXI7c4kYWYjYrO1/OV1mUmmzYSDbga26vXCZBPIxq73hQhAc/+oJd53/c7yejfm5Smt+Y/87kReZUROg11PNy+7Vke3BXwMxMwysd525hSowNV6XvEPnT7oT6Kr4EWm+ntEOdViMh54s/Ea1yaLz8MFcJ8AH6Ipbd6jGgVnuRwKo2rnEL1CYZvKFIOp3KMdqtoBm5pXjFu0vN3mh3AX5nQHH5OQIjXdgqqXH83/9uzoTyyHShlMbSVFjXCcW8PvtpSYhqtYqHHWSHrXO8atVccnoKFmNW8rAjugfAV8bI+fVE8kPjXob2SvV2lqRk0c5ljyXqruxF9Qt41hWyIPSxwCD9kIOFV1OBIXrMeOTTkEn88ni38ihha2JlzwRBopmn+JqU5Uda0n6294Icy8/UaHxd4FD1CBJAnp2syoVCouqLwRNV2AhremOzg==;r24oGBi4VOpalIRKD/+VwA=="
 ---

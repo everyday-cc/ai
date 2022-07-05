@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/62bcdad7042ab1ffde99c514/master/pass/Border-Patrol-Greece-AI-Polygraphs-Business-1233365255.jpg"
