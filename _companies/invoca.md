@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4498
+  followers: 4497
 
 size: 201-500 employees
 yearFounded: 2008
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "WDYps490JGY1WADRicz/45/s6o+e9adoJo0oqat8n6iCQmfEvF4VgSxzfkeJM/xZjfQ2jsMrIBopbdQ5XqhidkWVGcurgC5rK2VZnylrcBxvxfyVS3Jwuyn/GlqPOpMl2833dMfRUe5/RQuExLKj/3Y3Qq+qjVSGXId35gnoY2XlOCsDXcZWC1JL0Brg3aWjcjIrwqy2oIkWZ4R9EeEXTGoTVOCdpAkTdlc2Y/kNQXc0P6QgWklcNa+z017DWxToo3zH58i5qSO5u9auyIEDiFAsfSnwatRHmva9gRG+3m5F1NQ7U3UqBdOTv46BL5IVS1m6hGDCbD6zKCZd+bzLGVUHDIV+v/JiRHhI3fSNEJ0AS/AqgaeCqlRcmSf/N32EcyPU+3KRRhsCyPFFXLntZlR5zirBFk0rZEAoyAf/2i0=;4fzgv2wYUCNCD32+CXTqSg=="
+secured: "3/EQRw73OPAa/gEFKe8khDF49GGM5lzygzGArSstL/TF0P8hb7AoWQSuepP6bg8kuIPw3SuC5HvS4GV/lDH4apVOjWDUlKXXPQPj/8PwWYHBYPdvqCbEKGFNECB3VmU5hfyi2K5OS6xzb3pagXB3c0ovnueUb+lqElkCN8ypoGgWec/VLRTRSgT3EQPKY7+oPs6d5cu3AZcb4myG7rmqMX1OgmbNfnJl2+fxJEuKyWA60UNxW703f8snhMmclYef5Mn05K0t15FX8TerQakCVyxvNCGgBVE4y8vWK1Wtk5aCcrsixmAfFtTKKWl6PA4JkmuuZV83nb7Rn/GbD7Snl+J7BoanLx+ixxVyzu1QI3aXlvmmC5nR0q14TrwJzNcYXjBhwYW4dKUabnpPbUKjx8DZMsPA1H1icxBJa6/hAkk=;akENPT7bwRqZVzRP3Dy9Xg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 72
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "ufqJbrpU1pt5KXtam+ptViignOS7vinbUFoX7KZSfyVGWCINZBjZIeEz+w67+4aVlyVbpRD1wGT9m4ZTVEXXQo5hZlsTBGzD7gf4Rab7273isC0AmempsNTy7ztkBe9Y/65cSQjDaBtkPRipJWzPZoUeRw0XPT5RC6/bYncZaS3UhXH3+nnTJ33CpW1QKE7SLswEZYXRuJ9yjaQVke7P96xYUyN661gG5Yk7cu7QKyytOyykQbJ6c0UC/C9R+Sh/13pTR3Peuk+EuFJlLkmjUXkefGqsTn3XrFVxW/B4/i2z94E9gtmFlsfHbTimHw7N9S0iZLYo7YYGz62Lo5l6nYTTsVGJVSbqmdk2H1YvLl6FPCLghgIQp7YGxmYdhFGKg6RNC32QNGNilnf8XloSo1ipa5JyifCX2ZJ9Bvx3sUs=;AILybrHbSJNTpwB/K8js1A=="
+secured: "z08HGhU6pIi+XR/Zpq+8pYNinHo3Cbj2AnotyPgDPRnmYom8cvlvMM21TUFZXPhE5eXJRPTRBni794imKWAMKdrcEnDPI98DKUimz2//BbN+fA9x+hKbls1AcQaXHB07tefF/kelWhrmumEVB51F21n5/epjyti2rUYU6XMzBiC7G+VZtCkRqP0qUMEZ0mw+TPflrlgV0Ibjs+h+HWCmUNSXtb+nGUbUZCKmp1YE8tjw7VaHa1JkI4nF1DSV+ZyRIm128KRuaFixY4dmYXureT57YcUp5ofGpmoPDhit3lhfljAZnqLTu6X2or4NfzQiLBEZJ3TR3Zc0gOX06IsSwoT0c51yGLLiVZ/LL2gJYe1k84PSFlehgpqYezrUrCy5UUuosUtZN+7mve7tEmuHw4VcMiEZEY7I6r3qQdXWyFw=;B/K4aSgYrhCw5WKpuhBZaQ=="
 ---
 

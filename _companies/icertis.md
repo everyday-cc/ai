@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Icertis"
   url: "https://twitter.com/Icertis"
-  followers: 3278
+  followers: 3279
 
 size: 501-1,000 employees
 yearFounded: 2009
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "19YVONUTn32bmO6WMYIH10keaA/h37DVo8n+KKRh9uCniwZcU/n5ANu0RmNqdiyUFa1GyxY3IzsUsSULVoGnH8VzN6pnP0INpHHe4THFKm17NJ64EVY8AkMx3sbvx/8BahTUi/qhIqoW+4w33lnxjJqsJ+qOVskyOuklrsJSQ6J80yfz0r0BkszOsfjmITXVke8kN0HkO/yf7Tv7xAAQBYrdlgh78L8Vc7ZuvdvqLU86mlLqtXZn5dWD1aTVODONYdZmsgoEtZoqbJ+Abq1dgtErEidULpJhsUP1La9F+3SrRcYQyW0kRuiff71JrqUEFzZYkA/VAWZb7nvbkjpQvCqN1TNgO1GsSymFLKF6urEe+YH0F4L0m/DXSmuQJOadRzoSF5tZCllLo9oI3PhEG6P2n0d9xAHNJo9KKcaV21U=;k/GyVHA+pyWhJbSL8Kgriw=="
+secured: "6zH3owdnI9TOqfHXAlfKG+zcGlOHM8oDFSe7W+CxX7KWI0g+gI5zVJ+cgDPD+I2rAjBFYgHkyy2jKCYVtU19qVvqd4F8Zq8cyqPMwj+trxR1oIiK3UV3NT+hUkPX3eEsUqdyCOq036vaivYIr/xuqe90iMz4ZvlFiHlsHwyDm7LIcoaJyx0e5WAQPmeEyYLcl8uiM69+UTDl+Ry+VOJ1H6IZ2sd7NjQjjgGGk23dbMqnNkAICklsEhiiCQhcZxdYRfh7Qpge0sosu/4KADMVqk4Bpeq52tJfbe6HkFe5Qx7MofoVB5rCPJUlw/Vxxvsb391ySXBpk+lKFkP9rzy7AwJUdpYXvQ7I7k3++8lWfCfWof+DJwXMOBzIrwb84QwsKE06uaDlfCVpI+jXhB9h5q1N9CvafSOiwc2Jnx3iZGM=;2WYmrDQ9adAQ5kNzCnjLow=="
 ---
 
