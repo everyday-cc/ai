@@ -50,20 +50,6 @@ related:
         width: 411
         height: 292
         isCached: true
-  - title: "Hub71 And E& Enterprise To Launch The UAE's First AI Center Of Excellence (AI Coe) In Abu Dhabi"
-    excerpt: "Located at Hub71, the AI Centre of Excellence (AI CoE) will enable companies and startups to develop, deploy and scale cutting-edge applic"
-    publishedDateTime: 2022-07-03T22:57:00Z
-    webUrl: "https://menafn.com/1104471852/Hub71-And-E-Enterprise-To-Launch-The-UAEs-First-AI-Center-Of-Excellence-AI-Coe-In-Abu-Dhabi"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/03/M_8791eimage_story.jpg"
-        width: 1280
-        height: 855
-        isCached: true
 
 secured: "b32VcYZqWp5/He4nMORi9ZqSbJp7bM0rYwNzK+lGpz9t+Rjeo5STMBRdygpFYNXKipXB6O/j/w3Q05i5MTX4aTTB+4Vowt5nErTcSPQMd4yKL/WO3QMcne81JdJbmSd9iQ2Yzdu0h3PHgqsS8FvaUEYR0RXB06cRbD0od5QKjOedqUYsc0//vLh+NqM0vA8Ea126WgewoZNLgpK1qOutkb/J0EP2x965wFOEzAs0Mpiv/S+NX2q550zv9iCSTYR5sTut9FOX3gyh8MOJ6cqJ1LX4XhKetl2+cV3O+d7um3VXLN+2JOqYVCMWs5+o8Qg0GSpfrnvcqFWqps1wpBj+KR339pQr2pbEsZ7psW+8PciTVIZK3j+XsSlfCsML7HScwqnvaMB4jOpdIxnQErWoC9SmydkqGVWlfhyTAvltzd20vO4maR/gWBnZjlBtsF+lEBsA/iUwK76+LmxDBIXWydEViQHHs1EHvWulfTxeg78uFmhDdMDJSdHfXyC8K/8oBCLqh3XGOeF3PTz+nADJhA==;evf1gMHeJOBpAv71qBoTCg=="
 ---

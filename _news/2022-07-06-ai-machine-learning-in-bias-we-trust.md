@@ -27,7 +27,7 @@ related:
     provider:
       name: Security Week
       domain: securityweek.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256

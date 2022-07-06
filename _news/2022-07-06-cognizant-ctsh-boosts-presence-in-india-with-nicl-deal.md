@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T15:02:00Z
 originalUrl: "https://www.nasdaq.com/articles/cognizant-ctsh-boosts-presence-in-india-with-nicl-deal"
 webUrl: "https://www.nasdaq.com/articles/cognizant-ctsh-boosts-presence-in-india-with-nicl-deal"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

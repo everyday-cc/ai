@@ -27,49 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "12 self-driving cars crashed in Arizona in the last year"
-    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022. This marks the first time that the federal government is keeping track of crashes involving autonomous cars whether they have a safety driver in them or not."
-    publishedDateTime: 2022-07-04T23:34:00Z
-    webUrl: "https://www.12news.com/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
-    ampWebUrl: "https://www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
+  - title: "Stop working in silos and start driving a real digital transformation agenda"
+    excerpt: "Here are three actions to reposition leadership so they can drive growth, success and digital transformation within your organization"
+    publishedDateTime: 2022-07-06T20:13:00Z
+    webUrl: "https://venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/"
+    ampWebUrl: "https://venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/amp/"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/523a3c88-43d9-48ef-8ccf-ffa7732e44b3/523a3c88-43d9-48ef-8ccf-ffa7732e44b3_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-764777669.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
         isCached: true
-  - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
-    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
-    publishedDateTime: 2022-07-05T01:13:00Z
-    webUrl: "https://www.12news.com/video/tech/self-driving-cars-were-responsible-for-12-crashes-in-arizona-in-the-last-year/75-633758fa-5206-49b1-8e6e-825758583446"
+  - title: "Business leaders back AI and ML as necessary tools in driving consumer satisfaction"
+    excerpt: "At Salesforce Live India, CEOs of HDFC Limited and Asian Paints sit in discussion at the Salesforce Live India event to talk about the large digital disruption and growth strategies, including AI"
+    publishedDateTime: 2022-07-06T14:09:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/business-leaders-back-ai-and-ml-as-necessary-tools-in-driving-consumer-satisfaction-121219.html"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 21
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 50
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/e56c44af-91da-4583-8cec-4433f7203761/e56c44af-91da-4583-8cec-4433f7203761_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
-    excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
-    publishedDateTime: 2022-07-04T09:46:00Z
-    webUrl: "https://www.businesscar.co.uk/news/2022/july/fleets-should-make-major-contribution-to-self-driving-cars-inquiry,-fleetcheck-argues"
-    type: article
-    provider:
-      name: Business Car
-      domain: businesscar.co.uk
-    quality: 17
-    images:
-      - url: "https://www.businesscar.co.uk/imagegen.ashx?width=650&image=/media/3744508/autonomous_car_driving_on_road.jpg"
-        width: 650
-        height: 391
+      - url: "https://exchange4media.gumlet.com/news-photo/121202-big1.jpg"
+        width: 730
+        height: 395
         isCached: true
 
 secured: "tEX9yCMxSDCrHxPDs+Fxqz9VAW2UK/Jo7Or/N3GjVS//zRnrdU7YCZSYERK9rjlUl7Xa/fSKg/Nn0waffrkg3TNcKJwL9RO7NKJk5olLOM4O+DfPIeDtqRHmeEIPU5CbNU/XvtLXL/ZQY7EYHdsXMnCvcVBu5qT3DIkxpwUQ4asHuWRQlDulciBMzWu4Xz+tuEoGhwdS55VX7bEca+pLLXgNox3wXedDfCwitqf6qIMPKCP6jwCtw7hum6onE0DHvm59V4k76wBq1mHZlEgDYrdjuOxmehp0p8A+yLWzkP2h6p9eVJK1sYZgn33wgxDENWSmDnMtWWWRBgDj4Q+AIJ3XcROZPg1wa4rSrjNliTQ=;UKuXbWmSH4lJTeUiR4qcDw=="

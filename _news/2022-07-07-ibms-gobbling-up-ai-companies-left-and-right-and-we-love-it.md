@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T18:07:00Z
 originalUrl: "https://thenextweb.com/news/ibm-positions-itself-as-global-big-data-boss-with-latest-acquisition"
 webUrl: "https://thenextweb.com/news/ibm-positions-itself-as-global-big-data-boss-with-latest-acquisition"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Next Web

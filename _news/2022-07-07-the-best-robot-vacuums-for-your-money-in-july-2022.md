@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T18:21:00Z
 originalUrl: "https://appleinsider.com/articles/22/07/06/the-best-robot-vacuums-for-your-money-in-july-2022"
 webUrl: "https://appleinsider.com/articles/22/07/06/the-best-robot-vacuums-for-your-money-in-july-2022"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AppleInsider

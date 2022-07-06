@@ -64,6 +64,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 34
+  - title: "IISc develops next-generation analog chipsets for AI applications"
+    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework for the creation of next-generation analog computing chipsets, which may operate quicker and with less"
+    publishedDateTime: 2022-07-06T18:09:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/iisc-develops-next-generation-analog-chipsets-for-ai-applications-752241"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
 
 secured: "X3EUMbqc3UnBpbFbmvkj1X7HHXCSJlLOwarQcRdq8rj7OxVpxR0oVhgc9+BG6FndVB441IMCc9FuvAHg7CrQSQFXd3uRGBNzfAK3RFIFq9osVoYN4TuHelobQxVvfW3PqSivQuoDPNJs/k9A6BlqlGMK76RS16jTsO7pAVROdOqixyb3+ggdWFss/Wi8FIqB+ckQf5vyNGUs6d84UjPI8m7f/1xVdQkLe+WHpzpa6ZjfesotIXAPAly31326K4H8iM3pLmQL+Z1dLlWTqzABZ5Q4qrwqGfinneR2O5lNTdBDh7CeR72BBXjVVzJKM9teFSE02RAV+4GKcutu60y1chLdlxYgN2D0Xgkt13nAprQ=;x4GZfF1CxDtB8ZnvxywpPA=="
 ---

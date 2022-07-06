@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-01T22:48:00Z
 originalUrl: "https://fox40.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 webUrl: "https://fox40.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 type: article
-quality: 11
-heat: 11
-published: false
 
 provider:
   name: FOX40
@@ -24,6 +21,6 @@ images:
     height: 233
     isCached: true
 
-secured: "RbDncSlyyI9y1ho+7yzwa1YHn8OxzWI/1qaO710bQRE6Rsl5u/OrztDCWamSlL1ZAjfIfwfS3W6wVN9kpZBD9LAyas1CfWaIUhyL6hT+u/A7f+VNP3H+JHr/QTwOM5FFaCm7YiPGcGLZqFxb94Cx0qHbapI2YTyYCN2C1a6K0EbJvahkkZ+24hnPUEhlsmQhCYa+k0WQxTV0M8MmI3RMKKWtEaf/yWnB/TpzPNbYw5qAH3kIYk4DUtAexKHp05pfEdSwJ/sAQ1uQpVCuTxeUYXYPZw5h3eW5S8UldqYYvr9LOW4xZlP4OzvmvZPPk6fam04QlA03sEP3J7K9bbbsCUtVVWBGXZg8GY/wCLMVDI8=;DwthVHSbFx4adXz22+akQA=="
+secured: "DGQwqbmeRD4N0+3KA4dqjJbxNZB2sTJLjp4zBUK+Ef8XqgmSuFcUDu4K8ClhW1mxRslY+puNuiVcjogU/9BPZvl8WNwKLafw/F/eeJCSiBKmmdJ0UAesDbszULYfUNqnsx0cBBnKzK0TsGX+dorfEhEm33UAGAgPYNQ/sPaKerX7cqL7paMJirhUL8p4SoNbC5/JfxV4w3tCDZBaEIbHaywSPHCaWam7CihvhfISHLrB1JNkHHud6B1MGfq/S3KL7A+FZzdh0NP2kDGQAl4WOQMlSsi8BE8wg8OnXyuiY4oqUmibcxyX/DWOD6BhwmwoHSy9zwS3pNNczrQtSPYEuJyyCfjpO2YHtT5AoELuCWk=;N6HRJNb0FjqhdkwfZeKMOg=="
 ---
 

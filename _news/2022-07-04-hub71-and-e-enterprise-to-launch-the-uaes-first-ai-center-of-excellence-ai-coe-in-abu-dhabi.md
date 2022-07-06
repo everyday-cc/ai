@@ -24,45 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Does AI sentience matter to the enterprise?"
-    excerpt: "Does the enterprise need to be concerned with AI sentience? Not yet, experts say. Even if such an algorithm were to arise, would it be all that useful in a practical sense?"
-    publishedDateTime: 2022-07-04T13:20:00Z
-    webUrl: "https://venturebeat.com/2022/07/04/does-ai-sentience-matter-to-the-enterprise/"
+  - title: "Center of Excellence in Artificial Intelligence at NSUT"
+    excerpt: "A Centre of Excellence in Artificial Intelligence was inaugurated at Netaji Subhash University of Technology (NSUT) on Wednesday. Inaugurating the Centre, Deputy Chief Minister Manish Sisodia said universities need to move away from conventional ideas and think out-of-the-box for the progress of the country to gain momentum."
+    publishedDateTime: 2022-07-06T20:17:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Is the business concerned about AI sentience?"
-    excerpt: "However, last month, Google developer Blake Lemoine made a claim that his discussions with an AI chatbot demonstrated it was sentient, which reignited the argument over whether AIs are capable of feeling emotions as humans are capable."
-    publishedDateTime: 2022-07-05T11:00:00Z
-    webUrl: "https://bestgamingpro.com/is-the-business-concerned-about-ai-sentience/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Does-AI-sentience-matter-to-the-enterprise.png"
-        width: 600
-        height: 365
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "Enterprise hits and misses - blockchains are mutable, sentient AI is debatable, and retailers face loyalty and price tensions"
-    excerpt: "This week - will retailers salvage a volatile 2022 with a holiday surge? Plus: blockchain security gets called out, as does TikTok on data privacy. Big tech is still quiet on data privacy, and supply chain leaders face the analytical whip."
-    publishedDateTime: 2022-07-05T09:32:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty?amp"
+  - title: "CENTRE OF EXCELLENCE IN ARTIFICIAL INTELLIGENCE"
+    excerpt: "Get latest Centre Of Excellence In Artificial Intelligence news and updates. Explore Centre Of Excellence In Artificial Intelligence photos, videos and information on Times Now"
+    publishedDateTime: 2022-07-06T19:31:00Z
+    webUrl: "https://www.timesnownews.com/topic/centre-of-excellence-in-artificial-intelligence"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 32
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
-        width: 411
-        height: 292
-        isCached: true
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 17
 
 secured: "aUPezEnxNjbNNHW9InNCdNc39hzCS9v5HUaizEkCZwGFh1+m+qc53si8vHAS3cFZ84rM+wxekXsGEis/GWJeGHN1AxW/qf8QtwqAf5hrJPR/v5sDxg3EjLu4QR5NQ+Xw1/YlXIdmvVgtX5JH8LaGKlAGDfw4/yBYOELbGIV7qUhfkrInaspW0dEunW7ttjx3tb6/fx/H7Imv0CMorDOpeoE4lGUOD9KnxlriE4keHep2jclDziKlB0ERH4+Gi2WcI+zPZOB1wVr7zLfzvxiLJw7atVjlVbihaZUxmN+4YBNju3mvNrN/I/bKypgJVwe0dPaSC/Jv9GiakNLccHV0LVv1TKStKnDc3184tUa1shVM9FCzlKH0FkpSbobBRacRTR+K4TpnKABraqq7ZBQTDg7Le7gAzGRx78bjMeVJOYCesMRaSq5QedKim4q3akd1eS5x8fu1f/tCAmGNoXGToCIzgT0kGZjw7wfYLA9jbl3fMkvhZkRrtb0LybO70B6Dii/bt8WqXKkPUd2P02p/Ig==;Y2uMy/1xFn46lcI1XNOGTg=="
 ---

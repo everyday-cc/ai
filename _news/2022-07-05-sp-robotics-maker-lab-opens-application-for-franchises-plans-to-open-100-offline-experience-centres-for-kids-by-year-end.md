@@ -35,6 +35,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres"
+    excerpt: "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality"
+    publishedDateTime: 2022-07-06T21:56:00Z
+    webUrl: "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "SP Robotics Maker Lab to Open 100+ Offline Experience Centres; Opens Application for Franchises"
     excerpt: "AI-based edutainment company SP Robotic Works is now expanding its operations by opening 100+ ‘Maker Labs’ in 3 cities by year end."
     publishedDateTime: 2022-07-04T06:45:00Z

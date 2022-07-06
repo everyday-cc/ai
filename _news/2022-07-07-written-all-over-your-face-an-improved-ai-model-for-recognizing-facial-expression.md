@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T19:56:00Z
 originalUrl: "https://techxplore.com/news/2022-07-written-ai-facial.html"
 webUrl: "https://techxplore.com/news/2022-07-written-ai-facial.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: techxplore

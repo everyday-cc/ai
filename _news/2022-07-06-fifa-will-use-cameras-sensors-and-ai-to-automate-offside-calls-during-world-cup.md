@@ -62,6 +62,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "AI Referee Will Track Players' Individual Limbs at World Cup"
+    excerpt: "FIFA — international overlord of soccer-slash-football — will be implementing a complex offsides-detecting AI system at the forthcoming World Cup."
+    publishedDateTime: 2022-07-06T19:34:00Z
+    webUrl: "https://futurism.com/the-byte/ai-referee-players-limbs-world-cup"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 17
 
 secured: "8x+4LXa6oJWdFfFQSoC7HUWMQir4rtKHfAZYecF6vRLmkcKL/sAkHaVZkhMWdYELQaqFqAkZ0QDC38OC0NMaoW8cpNGpy9OpqnTzPOxk72CQbI+IEJnyTjEnljPWxNLfcOgG5Oh0IuKx6smXFwI57NErJEYZORcfkc5CGrghXAwsirt+fma0u8ff6GLvysSeAqPNrNjqujKiasdWKGgT0G96ZleopukmXrsu+4VNcDAHBXwAoKPdCzzLG5bDs5bfSswJCzIOgqkat+6y3ebLrpZtgsB3mrM0DM9nH2//tPsNHQk6jdHWQlsYJTMrRQyD2aXUsL44JVDOHZAIIKqybSq5QGLhLCF5mQAeOXjHIJGaROyRWV44nnTCFxls/MzG1DKXpN5swfBshkfFXQYZr7Mx7/V3CzkrkbrXN9GEj6dbeVzZBY2tst7TmpQ5hpkdAIAV/S6zd+VH+kVLtpYI3JowoxjYA01SWyB74wkeMiuIb40U5PFVL9B2EoMV8xvB63Zj3lF9M18yVEvRM/TAWQ==;xl8CBgcOcyySDwRhUWyF6w=="
 ---

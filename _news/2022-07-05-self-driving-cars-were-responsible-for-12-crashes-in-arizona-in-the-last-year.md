@@ -41,22 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Several self-driving cars simultaneously stop working in US, block traffic for hours"
-    excerpt: "More than half a dozen self-driving cars of Cruise simultaneously stopped operating in a San Francisco street recently, blocking the traffic for a couple of hours. The company's employees arrived at the location and had to manually move the autonomous vehicles."
-    publishedDateTime: 2022-07-02T17:13:00Z
-    webUrl: "https://inshorts.com/en/news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 37
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/2_sat/img_1656780889526_700.jpg?"
-        width: 1024
-        height: 664
-        isCached: true
   - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
     excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
     publishedDateTime: 2022-07-04T09:46:00Z

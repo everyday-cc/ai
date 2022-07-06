@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
 type: article
 quality: 67
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "AI Referee Will Track Players' Individual Limbs at World Cup"
+    excerpt: "FIFA — international overlord of soccer-slash-football — will be implementing a complex offsides-detecting AI system at the forthcoming World Cup."
+    publishedDateTime: 2022-07-06T19:34:00Z
+    webUrl: "https://futurism.com/the-byte/ai-referee-players-limbs-world-cup"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 17
 
 secured: "gvr4hFg6gTIu3eKsByayGjnhduI42XyeRzKNnkEbxDq6DCLfKBdn4juOfAq5Jm/w2BcV3mMj2Wn8jGHrXeURWnQFrCesC0QaXuzNhck+iVggHV6lVjwQnqtqYKtRIWjXRUugPAOAOLvKDMZzyA6HA7cubTu1cYtwNBHkLdMChV/pzc7QXJN0Wdginic+iZbrSk7WJwLZDuIaZLrlbYZvoP9ahLo1f1qEU2MOpSA4f881TY9XB4mEquzeI46R3MYR/8NeYM+LDOw5OqvR04d6C2z1vrMed+/CwnEnaHGhSPTGNmrtmpYq/JxmKkpfgENP2LZ9QRIXSjQJpblaBKjinn8SagJqe3gcE1UBrYlTO4FPtRlLCDDswnra5ubxqm7pS7QzLOTqL1Gh3GBPcdQ5rQP5kHsybB75HpFwVOQoTZOstlX9S8mqH6sAqbui6wh/vyca4oVNVeA2muqRP4GxL19Pp2O8gk0heJjuhkQfDVidp0x5wwdjucMeYwfmQKg7amFL5ffqewDNvsOl8cI3Gg==;l3R/Ty3WApI0b5XdVjHvdQ=="
 ---

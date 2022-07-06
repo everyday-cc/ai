@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T18:53:00Z
 originalUrl: "https://www.eweek.com/networking/artificial-intelligence-network-challenges/"
 webUrl: "https://www.eweek.com/networking/artificial-intelligence-network-challenges/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: eWeek

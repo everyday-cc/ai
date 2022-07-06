@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 665
         isCached: true
-  - title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
-    excerpt: "Acquisition helps enterprises catch 'bad data' at the source Extends IBM's leadership in observability to the full stack of capabilities for IT"
-    publishedDateTime: 2022-07-06T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databand-ai-acquisition-1031570027"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM buys Israeli data observability co Databand.ai"
     excerpt: "IBM says the acquisition of the Tel Aviv-based company will help it catch 'bad data' at source. US tech giant IBM (NYSE: IBM) today announced it has acquired Israeli provider of data observability software company Databand."
     publishedDateTime: 2022-07-06T12:00:00Z
@@ -69,6 +55,29 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
+    excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
+    publishedDateTime: 2022-07-06T21:50:00Z
+    webUrl: "https://www.govinfosecurity.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 37
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ibm-buys-startup-databandai-to-address-data-quality-issues-showcase_image-6-a-19518.jpg"
+        width: 860
+        height: 520
+        isCached: true
+  - title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
+    excerpt: "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ..."
+    publishedDateTime: 2022-07-06T14:01:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 5
 
 secured: "I2iOUJ1bJOpKXYzl06P/fspD9Y5BKeS8SyLN86UxjJsccVc58x10RJcWgeTgCO8OQkk0TFTM8nY5ogMHwCR5NapNJ9SOofAIuAhUbeokxFPtXQBEXoJe9eDHH2G0C+HV7W0w5z2Zd8SzIsRy/nG0/ayO89IRlfrqvdKAPF/ClnftBjEyEKWJ4fanpPazu/zZVFBXJmOValY/q0CKVQVyDtw6BAgbYb8+QR5aWb/tx3LhgoV7s1bP1cC6k4yl0mqQMkwc8Ey4IwX+saHi/URAOX2rkL6nVyO+VSmGEts0oMCd6q+JWqq6LuDr2rYBKQ1KeG5uJYRZIFBxkmD/qOidgnxsYo7fwYBrSpkVhz61zKU=;6taMPrpkNzINL1vozJc1og=="
 ---

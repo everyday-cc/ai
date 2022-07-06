@@ -63,6 +63,15 @@ related:
         width: 500
         height: 250
         isCached: true
+  - title: "IISc develops next-generation analog chipsets for AI applications"
+    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework for the creation of next-generation analog computing chipsets, which may operate quicker and with less"
+    publishedDateTime: 2022-07-06T18:09:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/iisc-develops-next-generation-analog-chipsets-for-ai-applications-752241"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
 
 secured: "pauG2ZH3iV9q+jrm3/W15Tai3ckdjO4wo1SAp3ALUa/rPIgCxncSliHC4LuK0goVh1TlLdks2Fhzk+oVy+Z3be6ZjD9Xkl3qDpJH+PkkQ/MtMNjALKp33bhvMOqaiNeHV24KCk9kgFptlebln5gcQSRd175EmvXnAGIjczjQWLOL3hAYnegCeXZ0kF35ybQxNDjRupgyP7n0h4P3J2VMDRFt1Ohk/kTzNi+HbKgpXyRag8wle/lZxWoWYzjcTniJtCR7zA7M0WfvtuUoS1RqJmAVzTVHCfTo4tRymp05kK+lUGKVhQocSRPXjiTzSW2topsp554r8+M+xJajbVHX263cosnNa9zZqoSV45p16TTpK3AVJSyiKQfoqFt3HP6ovYIVSs9g4LuC9uqZx6H8kNRg2uvZwbYe4ePKj5kAnnFKHDj3/gnQMGp5L+K2he/jdEDjNmCI79J81scjH09EWJVW4CsQAfH/0Z6SV45lq3rxgNmmuzuOdZPJ81lSxOIVzyfmeSVfLehSiaApm7IRMg==;vwb50g9qpLxPNdlP3zqUfQ=="
 ---

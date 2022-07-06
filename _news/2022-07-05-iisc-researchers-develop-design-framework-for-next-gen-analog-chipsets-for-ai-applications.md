@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/iisc-researchers-develop
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
+    quality: 34
+  - title: "IISc develops next-generation analog chipsets for AI applications"
+    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework for the creation of next-generation analog computing chipsets, which may operate quicker and with less"
+    publishedDateTime: 2022-07-06T18:09:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/iisc-develops-next-generation-analog-chipsets-for-ai-applications-752241"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 34
 
 secured: "SamLIVyw8Lq9mnXKrlraelUZnGLRj124kdimdVvex9/KtByqf58H0IazGYcx5hH7zS2nAodqrls8xiuh8qChozjeBIbsTDy+WCsCy1XzlMe5Q41MTRUpvbZmMehIqlw6buGzAQBsxd4s1g56GRKDvGIrngf8dsctkORu0nnHXOAchXxVyxGIqoEATP92awvwYdOWizg2IXz4aJSC5CA7bDXVPlfIQR9nqSUI0kHV7Zr7hTClmiFHx1VvO1gvjD0rU05Nc/wcltdzMl8u1wbB+0ATHH4/+Sqa37LYsFV+ffcFeGfun6Ha5WQqVDjbc7W/cHQSjmP7j0tqsVIgeadfsHkdM1jmmZAu5nDDyizPr3juas/hniwq8v546ipHfx7aUwUwu7w9LkV0IW2Wx3VzudE7fjj2hVGEZLMuofL1rdoUwTGmU/sNQx8ASAMoIdpeFrnv8x0nZ7CkIblTleHpI9NLlyi9NEl8ohUrOnb7RPzyI2ksCRaWwhoITo8utx9iPulMs76HabAZ0sS2DhiZQg==;F0kKqnIxVb+tEtlxtwkk3A=="

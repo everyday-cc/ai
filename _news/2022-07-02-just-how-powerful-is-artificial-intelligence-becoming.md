@@ -9,7 +9,7 @@ ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/6050
 cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1260
     height: 710
     isCached: true
-
-related:
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
-    publishedDateTime: 2022-07-02T04:26:00Z
-    webUrl: "https://www.rappler.com/technology/features/how-belief-artificial-intelligence-sentience-becoming-problem/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 41
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BjO5r2S4vmXuOaehEjiRYh84PMrTJgGR/65GPqp+qrwK3+5peyP1QzI2TYwmZYFPRzAtCKk7Smiq2dM3trAbMdzFYGssxKpopVV54SI1wGIq3ae7pQWe21TRfwl3RfJt5XjifEw2KIr4n1cSaWNK92wR5+K8pHmF4sHAoQ72hp8pKXhL0KC3nNAL3eEzPvF+AWU8l2MfYlLefiMLk0bN45bJWqSSgUhqBS/OeXlSIBEOrVfQ/lfc0U3xp01wieEw3Farcc0gSisF+lRtO1TV6tkAhmhO3JCW+JfQFT8kULam849lX4Ro3VzNxvu9CbI623Bqyl3EdZYnld6IL4E7Ghwx9FfuvxbwaM3zxt9PXEg=;DA753nOhCx1k1waFUKso4g=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres"
+    excerpt: "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality"
+    publishedDateTime: 2022-07-06T21:56:00Z
+    webUrl: "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "SP Robotics Maker lab opens application for franchises; plans to open 100+ offline experience centres for kids by year end"
     excerpt: "SP Robotics Maker Lab is India's largest network for students to learn Robotics and Coding. They offer Complete Experiential learning for students of age 7 to 17+ with 10+ Courses in Scratch Programming,"
     publishedDateTime: 2022-07-05T06:55:00Z

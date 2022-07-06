@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T12:31:00Z
 originalUrl: "https://www.thewhig.com/globe-newswire/dmg-granted-crypto-patent-based-on-machine-learning-for-walletscore-aml-technology"
 webUrl: "https://www.thewhig.com/globe-newswire/dmg-granted-crypto-patent-based-on-machine-learning-for-walletscore-aml-technology"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Kingston Whig-Standard

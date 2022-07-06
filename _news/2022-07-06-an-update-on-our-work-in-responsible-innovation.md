@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T18:00:00Z
 originalUrl: "https://blog.google/technology/ai/an-update-on-our-work-in-responsible-innovation/"
 webUrl: "https://blog.google/technology/ai/an-update-on-our-work-in-responsible-innovation/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Google
