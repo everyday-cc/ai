@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Several self-driving cars simultaneously stop working in US, block traffic for hours"
+    excerpt: "More than half a dozen self-driving cars of Cruise simultaneously stopped operating in a San Francisco street recently, blocking the traffic for a couple of hours. The company's employees arrived at the location and had to manually move the autonomous vehicles."
+    publishedDateTime: 2022-07-02T17:13:00Z
+    webUrl: "https://inshorts.com/en/news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 37
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/2_sat/img_1656780889526_700.jpg?"
+        width: 1024
+        height: 664
+        isCached: true
   - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
     publishedDateTime: 2022-07-05T01:13:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://media.12news.com/assets/KPNX/images/e56c44af-91da-4583-8cec-4433f7203761/e56c44af-91da-4583-8cec-4433f7203761_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
+    excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
+    publishedDateTime: 2022-07-04T09:46:00Z
+    webUrl: "https://www.businesscar.co.uk/news/2022/july/fleets-should-make-major-contribution-to-self-driving-cars-inquiry,-fleetcheck-argues"
+    type: article
+    provider:
+      name: Business Car
+      domain: businesscar.co.uk
+    quality: 17
+    images:
+      - url: "https://www.businesscar.co.uk/imagegen.ashx?width=650&image=/media/3744508/autonomous_car_driving_on_road.jpg"
+        width: 650
+        height: 391
         isCached: true
 
 secured: "01r2leM0nMWN8Qzza9Abvs56nIgRVkuJqc7VIlBJy9bg7/p96N7LZbZhr/R5cLvYEGp0IxsKwBqqPRFOXZ0o0i2+F+GGomTiETTozmFSkX3GA5F02IjFyhSQCVZGq7zWue9BKIOWzilJ585zXgEVGJlgQjQEliIg+KIJZ80pYyEi9eLPQallMSZI91sMY8otWtskrT469wzxICr84uH5dUCQWWbNT9GjoTjCZsNz94me+oCcwrdLXUci3Zn/bkdctQxYE0+4YQUkFYkivykVsrRXHD9JQ6yUDr4DPh3Wsz3m1uyLThf8fS1SQY4wfJDNSTx+3AjXTWwJpms0oOIIdZisrGb0hfnLPbLb60Uacx3d7h48lSfJzV7q8KHSfEkTe8C5zmPn/CA1bEUBa0gID+du+P9ofp8ThBLAtEKBTgUMrVgF/wOuBOTuPzjjyEIR/QRn05volazJ56m6BgE4vFctLJK+QcQFtTuozyG+zfYML3yeChXp0VCUyYFf7pJ/MO0appwpKS8wf0jEa7CKEA==;qu9goiocaimm5NIPbWbWog=="

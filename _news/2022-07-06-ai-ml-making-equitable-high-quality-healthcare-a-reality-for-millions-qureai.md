@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai"
-excerpt: "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,"
-publishedDateTime: 2022-07-06T06:40:00Z
-originalUrl: "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/"
-webUrl: "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/"
+excerpt: "Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays, CTs, and ultrasounds in less than a minute, making equitable and high-quality healthcare a reality across the globe."
+publishedDateTime: 2022-07-06T06:45:00Z
+originalUrl: "https://in.investing.com/news/ai-ml-making-equitable-highquality-healthcare-a-reality-for-millions-qureai-3264738"
+webUrl: "https://in.investing.com/news/ai-ml-making-equitable-highquality-healthcare-a-reality-for-millions-qureai-3264738"
 type: article
 quality: 68
 heat: 78
 published: true
 
 provider:
-  name: Canindia.com
-  domain: canindia.com
+  name: Investing.com
+  domain: investing.com
 
 topics:
   - AWS AI
@@ -21,9 +21,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-    width: 696
-    height: 436
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "MgSHYUoX7FzjU37O7vc6GgYASwBy1VqlqDhyhuJ8Gy56DJdW1P3Ahnf5NlTiQAomG6zpsebXLQVpN6i/qpt74eZkwmVg+OxoY1KlgmnsZYUY0QfcolGuZudbExqxoVWwIamkKtd0iOoc9xeGQ6th9IZ4GBcqTf5Dbcfrl8Au/wxTfjQpWJ2mp4wIdLyScFDR244ZthPesvAo5rsYMrnWhA8rie5Ew/Mec8nso4aTKRyhHxyPev905oIpjFotzFhCvzc/obOSirIXf3SS/VHIe+BVWNP+h9KfvJCTqAMskTjj2tqVYiccmuUM1qFY41RAyU4f/48niDX8/aMKHwM/hh9Hll/izQaR80v9B/jafoE=;OVwUl4WGYMy1HdOwJicOHA=="
+secured: "LXS+o2fyvkbWkY4lmTBF6Lpw2w7GQkw2N8523eAB7n52PkCk8YAsli3ycFwqvNYJJokXRI8POKrFzpWNuwzgUL/F1U9VsLNnJ6c13MUrVP+gyuUeF7Dd/yvu+I0h/wu+cMtNxU9Tc2DsTIejFd3yX8yXlQIxTD4xJyxT8xmwDhXYAPM68giMxgi/gbHmieJ8DPSNeoFwEgXVc1ESDlDa42FTJ5bWPivvmWyYeiiU6hzegpXkXHgJ+NDvbdj3BjQkZ937GSu2C1gIcd1JVAVgfZnY0u6wSg+KC5JkkBrHugCt+m/nzte821msfAaUx7bEn+uX62BWWlNnfcDEOhFyjYbuYdUq1u16piPnMKug2Ak=;mQwHY2zhB/bRZhcR9rDpmg=="
 ---
 

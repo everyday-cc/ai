@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-co
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1"
 type: article
 quality: 82
-heat: 82
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 563
     isCached: true
 
-secured: "HA2naF+fQxBoyBblgJ0B3IcnqeAnJfCiBL0mWSRX1p8zUaa22KBFyL4Ps4BIGU6THdBdilkDzZ3UMgV9dM2uw1Ll/dFg8K1w2HrXdmkZvElToeaq9ruQzeKcis85WTERdq2EEPTRpW794sM4TCWMOMUHT/pXZFr3opshaLg2a8SZPC8/VFwDUD3fi71LcAuEpPtmSQ3tAe6B7vsNpg4PYRlOQ6CCA7B3X7ZPy5gB5fKskrSuEKZi0DDm0NSIJZTYC/mVf9IvheQcbFGdmXznO2XcoOvDn985YTERUqDozR4ONIwHODThdPIp1w0gbcnoeQvKdNUPjLuX/V7LhSiCvLY6kUrdSJ0LvtJzbwiheGA=;oZAc5HUVMhnJb5qMYLQvAg=="
+secured: "7JXN7jOehlfbCAgCU38PYnq//ONy3H9iAY6IqPJ5RtjRjh1DK1woGmloOP4Kb+NRUbJPZu6MMOShq6oHmLbGpU7OnouT2QIOSOnMXlY7/t+LFUqKuQeZHxWqAvjrnV/NS/Gc7LNl+xDYN1I69ySAip2hFqbY678pNvFlgziegqGlFnQwJrvvVHadBvcV0NcfekLFNHAc7x4UDukpRryqplqTh9FyUzD7b2PJgH/dJIUEE1CD/Holo+P+pyUTQ/XagBrMKRdhXTSY1x7gqhsBbzUciGm1QYAoy2Vz03WSVtSDZNR46tHvhGoSy3Xb/2FDjaA1rspoaGI0QN0uGVPrfcunnTQ9jZH6YbqHJlepGRCHg+7uJO/CVdPX2Qyolo2iB7KuSsOZxelUcZ/mXDQnjQly7t/sORSC0+pdKf5YKOyPFBVApweqEIHNrgFcuS0fnGjHUE6G6JZ6R1tn3d43He9JproeFNC2HrkYX4Ojmrv5bN3fC23SvNO/K2/GexxJl8sll8RkBpkSR4h8UCVSwA==;gWs/imurue0Qlc8X6IbgXA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-time
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

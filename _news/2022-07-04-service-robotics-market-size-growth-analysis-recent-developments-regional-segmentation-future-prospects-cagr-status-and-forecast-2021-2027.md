@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Deep Learning Market Is Expected To Reach USD 68.71 Billion At A CAGR Of 41.5% And Forecast To 2027"
-    excerpt: "Deep Learning Market Is Expected To Reach USD 68.71 Billion By 2027 At A CAGR Of 41.5 percent. Maximize Market Research has published a report on the Deep Learning Market that provides a ..."
-    publishedDateTime: 2022-07-04T11:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-deep-learning-market-is-expected-to-reach-usd-68-71-billion-at-a-cagr-of-41-5-and-forecast-to-2027"
+  - title: "Computer Vision Market 2022 with (COVID-19) Impact Analysis"
+    excerpt: "The Computer Vision Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
+    publishedDateTime: 2022-07-04T06:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-with-covid-19-impact-analysis"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 21
+    quality: 39
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-3-600x337.png"
         width: 600

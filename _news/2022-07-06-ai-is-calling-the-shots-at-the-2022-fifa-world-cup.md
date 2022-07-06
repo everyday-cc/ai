@@ -62,15 +62,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
-    excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
-    publishedDateTime: 2022-07-01T17:20:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2022-07-01/how-fifa-is-using-artificial-intelligence-to-curb-online-harassment-ahead-of-the-world-cup"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 7
 
 secured: "CogSGoIkBHO2D25csoD8+mcPGA7JT6+YxjRsJqvQhNNkDx5uHx1JhllyfoJqRy7dRTHRcuYb3W0mfNsht+RwAgK5jg4eGMkNcQW+YzjOfceVdsexnquwqiNlmoBc8B+CWu/IwqW/t7GCVOsRpBLJNHNZGYJ7Xr06CinCKF9IhY5cw/E6sR1i4HwqmcqNPKVwMGRQEaCjHt4oTmBGxEU+PR2flYrqa8USK779q9Bstd+pRYxnwqpJuDBCDhBfGf3ablrqldADikPmofG1iRl3MjobfCzAReVwSuCInze3QdUXNEvf3uPzZeBu+5aHUJhwGf69JDnOnUkVsAuH7cnsE8buXMUjkwLMc9h6WlDtIHIkb4dPgA7iLYrGje2/uj5ovglhPDbpubs2rNtdwTWf0iqNTcC8E7cAPbiQTnzwmhJa3lREMD47hRvD5Yv1uZSQSUhm5rZH6V1mZymu5R99YFfxelaocSKTIuE83D7b6PuYL2/NwCtLIFbbrz3CxYgFb7z76xYyoLUILTJwBMbFEA==;h/oVcmAwdrHHCro0wyyfXA=="
 ---

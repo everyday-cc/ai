@@ -1,18 +1,17 @@
 ---
 category: news
-title: "BlackSky Chief Innovation Officer Dr. Patrick O’Neil to Present on AI and Machine Learning at AWS re:MARS 2022"
-excerpt: "Chief Innovation Officer Dr. Patrick O’Neil will be speaking at AWS re:MARS 2022 in Las Vegas on the core artificial intelligence capabilities that enable the company’s end-to-end dynamic monitoring capabilities."
-publishedDateTime: 2022-06-22T11:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-ccbbfb8ad7cb451ca51550153fe5627d"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-ccbbfb8ad7cb451ca51550153fe5627d"
+title: "BlackSky Chief Innovation Officer Dr. Patrick O'Neil to Present on AI and Machine Learning at AWS re:MARS 2022"
+excerpt: "Company to conduct live demonstrations of AI-enabled dynamic monitoring from space BlackSky Technology Inc. (NYSE: BKSY) Chief Innovation Officer Dr. Patrick O'Neil will be speaking at AWS re:MARS 2022 in Las Vegas on the core artificial intelligence capabilities that enable the company's end-to-end dynamic monitoring capabilities."
+publishedDateTime: 2022-06-22T15:30:00Z
+originalUrl: "https://www.barrons.com/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707"
+webUrl: "https://www.barrons.com/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707"
+ampWebUrl: "https://www.barrons.com/amp/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AWS AI
@@ -20,11 +19,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "9QL4m6ZcYtAIPa3ENcnC3g5IgTNQhTGIOBIh1mpu3B/H85LcWxZ/zQ9n7GDr//NU9YDOMJUzmxPZmucNuVU4kkiFHd8ZV94GS6Sx1jlgCoLZR8LDKxVzpnD8WFf5jzx6cfm1YsvoZ7vGSCNoBA8PGQsZZyDShKjHzfieJptcjQs1oCJ9cVUkOU8IVWj+WLZbGyjPKeRvoPwT6OKIBiYg9jctZcaOv0M2962N0pfII3NLpWzaSXGt/2gxx7lgHo3Uduliet8OgaTzhidpaX7f1mBmWNi8RKMaBS8DRUJnhCNWUMoucYjX6hmUO81a7dZZvoCDGr0HZwmf4L3jX+ORR71Gxt6Vv69UWVVqIZ4OpTM=;LwREE5tSaeZ9mYDeB+RQjw=="
+secured: "Sl+ETrXX2nJ3IeThp10sXJ3N49WRXyNUNIv1ygW7tPV/ouZPV/n/j5PuC4kmWi5YO5bCZV1fIWWsq/iK7ft6lWgyPH8HfOTaYSyEyWJqqM3NN1Vscq/ERU8tgl0fCwEHiudCrY/z02bQXdxUyIknSFiuKcIMB00qVJ3GPOUMk1b/b/MYKKgdkbWfpgn44eme7LscTSlbgR9dUPPLSARNh0eTwbfnXPiEbLV1pmkQBt98Qx1GWwi9DP1kmkZWt8TaKxd+pLFR+RQCVjksoEoZ2kW0Wb8vyAPeJNbXiu74WDigwvHZQiq6j+ROsvM3JlZjWp+1hDGu/reYAIXBCBuxkSdGUep0KLhRgDux5A+XqoE=;DBHgSZYAlRvhJKIaTJYWKA=="
 ---
 

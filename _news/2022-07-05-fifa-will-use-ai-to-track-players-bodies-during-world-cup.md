@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
 type: article
 quality: 67
-heat: 109
+heat: 100
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
-    excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
-    publishedDateTime: 2022-07-01T17:20:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2022-07-01/how-fifa-is-using-artificial-intelligence-to-curb-online-harassment-ahead-of-the-world-cup"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 7
 
 secured: "gvr4hFg6gTIu3eKsByayGjnhduI42XyeRzKNnkEbxDq6DCLfKBdn4juOfAq5Jm/w2BcV3mMj2Wn8jGHrXeURWnQFrCesC0QaXuzNhck+iVggHV6lVjwQnqtqYKtRIWjXRUugPAOAOLvKDMZzyA6HA7cubTu1cYtwNBHkLdMChV/pzc7QXJN0Wdginic+iZbrSk7WJwLZDuIaZLrlbYZvoP9ahLo1f1qEU2MOpSA4f881TY9XB4mEquzeI46R3MYR/8NeYM+LDOw5OqvR04d6C2z1vrMed+/CwnEnaHGhSPTGNmrtmpYq/JxmKkpfgENP2LZ9QRIXSjQJpblaBKjinn8SagJqe3gcE1UBrYlTO4FPtRlLCDDswnra5ubxqm7pS7QzLOTqL1Gh3GBPcdQ5rQP5kHsybB75HpFwVOQoTZOstlX9S8mqH6sAqbui6wh/vyca4oVNVeA2muqRP4GxL19Pp2O8gk0heJjuhkQfDVidp0x5wwdjucMeYwfmQKg7amFL5ffqewDNvsOl8cI3Gg==;l3R/Ty3WApI0b5XdVjHvdQ=="
 ---

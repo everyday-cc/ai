@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
 type: article
 quality: 57
-heat: 99
+heat: 97
 published: true
 
 provider:

@@ -4,19 +4,19 @@
     {
       "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
       "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
-      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
+      "excerpt": "Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays, CTs, and ultrasounds in less than a minute, making equitable and high-quality healthcare a reality across the globe.",
       "sourceUrl": null,
-      "webUrl": "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/",
-      "originalUrl": "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/",
+      "webUrl": "https://in.investing.com/news/ai-ml-making-equitable-highquality-healthcare-a-reality-for-millions-qureai-3264738",
+      "originalUrl": "https://in.investing.com/news/ai-ml-making-equitable-highquality-healthcare-a-reality-for-millions-qureai-3264738",
       "featuredContent": null,
       "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png",
-          "width": 696,
-          "height": 436,
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T23:40:00-07:00",
+      "publishedDateTime": "2022-07-05T23:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Canindia.com",
-        "domain": "canindia.com",
+        "name": "Investing.com",
+        "domain": "investing.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1162,6 +1162,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-blacksky-chief-innovation-officer-dr-patrick-oneil-to-present-on-ai-and-machine-learning-at-aws-remars-2022.md",
+      "title": "BlackSky Chief Innovation Officer Dr. Patrick O'Neil to Present on AI and Machine Learning at AWS re:MARS 2022",
+      "excerpt": "Company to conduct live demonstrations of AI-enabled dynamic monitoring from space BlackSky Technology Inc. (NYSE: BKSY) Chief Innovation Officer Dr. Patrick O'Neil will be speaking at AWS re:MARS 2022 in Las Vegas on the core artificial intelligence capabilities that enable the company's end-to-end dynamic monitoring capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707",
+      "originalUrl": "https://www.barrons.com/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/blacksky-chief-innovation-officer-dr-patrick-o-neil-to-present-on-ai-and-machine-learning-at-aws-re-mars-2022-01655897707",
+      "publishedDateTime": "2022-06-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-aws-beefs-up-contact-center-solution-with-new-ai-capabilities.md",
       "title": "AWS beefs up contact center solution with new AI capabilities",
       "excerpt": "AWS promised to be different and use artificial intelligence (AI) to take contact centers in an entirely different direction. Initially, some were skeptical a new vendor could have success ...",
@@ -1412,60 +1456,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
-      "title": "Best Machine Learning Platforms 2022",
-      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

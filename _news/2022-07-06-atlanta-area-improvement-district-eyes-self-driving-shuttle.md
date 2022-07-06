@@ -22,7 +22,7 @@ related:
   - title: "Cumberland CID eyes self-driving electric shuttle"
     excerpt: "As part of its efforts to improve connectivity and promote alternative transportation options within its borders, the Cumberland Community Improvement District is in the midst of a study looking at"
     publishedDateTime: 2022-07-04T21:35:00Z
-    webUrl: "https://www.mdjonline.com/news/local/cumberland-cid-eyes-self-driving-electric-shuttle/article_338f8c0e-f32f-11ec-818b-2b9199481a76.html"
+    webUrl: "https://www.mdjonline.com/news/cumberland-cid-eyes-self-driving-electric-shuttle/article_338f8c0e-f32f-11ec-818b-2b9199481a76.html"
     type: article
     provider:
       name: Marietta Daily Journal
