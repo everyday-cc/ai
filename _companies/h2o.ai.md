@@ -33,7 +33,7 @@ tags:
   - Open Source
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1532063809749254146/uGcSgWPL_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1544773142735904768/kzCzotmK_400x400.jpg"
     width: 400
     height: 400
     isCached: true

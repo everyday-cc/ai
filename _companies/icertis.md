@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Icertis"
   url: "https://twitter.com/Icertis"
-  followers: 3279
+  followers: 3278
 
 size: 501-1,000 employees
 yearFounded: 2009
