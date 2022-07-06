@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Aurora Mobile Brings JPush to Amazon Web Services Marketplace"
-excerpt: "Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the “Company”), a leading provider of customer engagement and marketing technology services in China,"
-publishedDateTime: 2022-06-29T09:02:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/aurora-mobile-brings-jpush-to-amazon-web-services-marketplace/article_64002cd8-c7a3-5fa6-bfc6-111a744ccd6d.html"
-webUrl: "https://www.kentuckytoday.com/news/business/aurora-mobile-brings-jpush-to-amazon-web-services-marketplace/article_64002cd8-c7a3-5fa6-bfc6-111a744ccd6d.html"
+excerpt: "The launch of JPush once again demonstrates the strong recognition that Aurora Mobile commands for its robust products and services among global leaders in the industry. AWS Marketplace users can now directly purchase and experience JPush easily."
+publishedDateTime: 2022-06-29T10:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm"
 type: article
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "17hV6qr3jTXRRoOSkLmw8oI00Pvj4/UBj2rU5Qkw5rGZFvk6FeT3Rai3Lp5UgL6z2xgw0oYCv9IROm8FgJcqjADrM98w6Uzxf27nLssm275je+ysPvImHgf++MFWYeNJP2VY5iNNq7wny7yijIj8CdQJsA6uhUH6j+SzySbBa5R3PlFiEcYy1SJCz2vSvUAF480HM7fXijF2//gmG16LxHZNKX4uNI/RJmY/jDJgnh800rO55TwnGo6C7xsCCOhenPAVV42uex5oPOb7EmzTstNZlv2K9tSBsgvmjJwBbC8fTLtyK/9pcNx8iJkG4hI6HC+6PpqpL5S16+jgKdC0X3L5Xb17PPyn0+MGqvV5ukK2Sh/J8dRCVXHWxVB9kK8PJBBh2QtBkQtkQYo5LZl2VgFw7/rtyZTjJw25ncN8DFT4AEbw6tdATiMVfucsXa2M8FJ3XO0O/zCKoOqd5TwqV85uktvj0p/faBGIzQbJeHDCYrJCodJCanFfU8rM7urynOoyK6C0fkbp48fG5tGbkA==;60tSnNbMZjdY9EpzER/hKg=="
+secured: "M81Hn5WDRA/+xpdLZPRQ1KAA9UxIck6cGyYi4NPHic19sIwtgsbY2pg0y67E3Beu+Xrk70/5lopjiSL8gP+959X0YUMMHPar3Kkw1V5NKoF1FgZA0lexZTGfj5TWv4Z9cjLInQf51uQtBe+0XdxMa2lNgTNqq6ggEcXZpDnKNK0XQuhIupEMu3dTDTILjV+6fwEH81Dko5E7XEUaMP6Mv2FrPo425cVRxo7xJd7QzzvQDrEUM5rh35xXfJV8eQbMTaLsi95YUztGYhkpvL23sooarEDvI0cbxom2/1Cqn4mz23795nWV1hvtnvtRr3GNP95DWD1BbCKi7WyqqmSLmeSzO5iKZowsU7NNFXcHVao=;hjDMMi2fRHatGrF5mUqV5Q=="
 ---
 
