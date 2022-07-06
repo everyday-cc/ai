@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-
 webUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Highway Code updated with new rules for self-driving vehicles"
-    excerpt: "New rules on the use of self-driving vehicles in Great Britain have come into effect in the Highway Code from today (1 July), paving the way for new technologies."
-    publishedDateTime: 2022-07-01T13:50:00Z
-    webUrl: "https://fleetworld.co.uk/highway-code-updated-with-new-rules-for-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Fleet World
-      domain: fleetworld.co.uk
-    quality: 4
 
 secured: "kGuA6xhgbwuR4XSZMnh2ucxwsSjlgWzy8zi4bHFkxZ88uijkQ/BsE4w66eAqDqWJDPBNCek8Wn2hcDSPKk32rsk0791S32PBML7iU4aHBAyFlSOkL5vnzFXgoNvAspyzMTqNLnRwaYY0ft0uMHE2pVykq/lb3h3O2rCiGMg1YzMKkmJ8iXbkUfhwPDy0Elk3lA0O/iik9wxTY10+D80uY/7JIeEsL5FbBEUtt5KF6s8YEaf/bPMypgyisf0PS0eEWXXwX4rp2FeCySbW90Uf6NI2o9i6mGnYdxAMpPrejHytCcRqx9u2W13+ei0RJDrILVXs9IawSWARjTm5wkBBhGkmU8ugzcUjguHJqetp2YhSuWvWSO2+6GyzVLwiX6q7orgUeCrdqGt49hC1RNVSRPJ1hDWHYqc/HjZ+B4oTHNW0xoOxrwN9+Whq5FKOatMRaIJyf6eY41n+228c9xHDgWivVlzAm6kA/XLEI7E46l8BCoKlTEVzLQUEyR9BMrK7N2pzezf6/eHsA+1tOomeRg==;F7AX3tx4P8/Jm3nwlC1WMg=="
 ---

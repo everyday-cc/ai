@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Highway Code adds new section on self-driving cars - What the rules are"
-    excerpt: "No vehicles in Britain have been classed as self-driving yet but this could change as soon as next year. The government advises that self-driving modes should be limited with the"
-    publishedDateTime: 2022-07-01T14:47:00Z
-    webUrl: "https://www.dailyecho.co.uk/news/20250269.highway-code-adds-new-section-self-driving-cars/"
-    ampWebUrl: "https://www.dailyecho.co.uk/news/20250269.amp/"
-    cdnAmpWebUrl: "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/20250269.amp/"
-    type: article
-    provider:
-      name: Southern Daily Echo
-      domain: dailyecho.co.uk
-    quality: 44
-    images:
-      - url: "https://www.dailyecho.co.uk/resources/images/12848179/?type=responsive-gallery"
-        width: 650
-        height: 433
-        isCached: true
   - title: "12 self-driving cars crashed in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022. This marks the first time that the federal government is keeping track of crashes involving autonomous cars whether they have a safety driver in them or not."
     publishedDateTime: 2022-07-04T23:34:00Z

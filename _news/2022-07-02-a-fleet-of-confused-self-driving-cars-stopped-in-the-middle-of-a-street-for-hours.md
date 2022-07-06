@@ -64,15 +64,6 @@ related:
         width: 650
         height: 391
         isCached: true
-  - title: "Self-driving cars block traffic for hours in US, manually moved later"
-    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
-    publishedDateTime: 2022-07-01T13:23:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=974692"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 4
 
 secured: "HRREu/oAus3lMJfFADyQFt6Rk9v9yCyzCbCHZ9cAtmrRWZKzKl9DB6T7+yhjdHs0F6ZtqufaRo9QPKT1ZeNHTUQyM+jmWgud+dLaVTTCE/qvAZdM04ghtHaqZcyEqqIG7PKUtghnadR6AJ58oTLnev9THGI9URkYxhPSOAnPpXtASJqVpeZUGgCzT019GQ9Oi7g46RKVmFjIvBycgsF8KZCvPjhAlJgx8IomWZ5kGDXEaAFQu75sBTy48oJ4CX5wH1XIfbYWSZuLFQQSLrMYBu5QDAi9vjTftp1ItcTd5bEODDHzdqFJBUphbU6fPLFhXKcxjYn1EpvuGRKAPF7HzpnBSORWuEYPoiKpiKhzUEIxvpZBNSJF4/tcyFkwS1UMRzfJ+Es3UHNykKer+sdoMWeTRmu3CkQH25TgIJ0zLxBsymCK2f+oUlL9JYbBlTAP5sVFVmHKnuMyzCzRyQZSfWdlUqNy3ak6+zCXxZHNdgQwF/57l6G/rLjG++D+qJP+5zLW0Lcd2LrYNcnFrHh2jw==;PfCWn+8S+2hJG/dhLKnhGQ=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The world’s first fintech sitcom is just what you’d imagine"
-    excerpt: "Where Netflix has Stranger Things, Disney+ has Obi-Wan and Apple TV+ Ted Lasso, HPE has Get Ahead, the “ world’s first fintech sitcom ”. Episode one is out, from which it’s fair to say that HPE probably shouldn’t expect the kind of rights offer secured by televisual wallpaper like Friends and The Big Bang Theory."
-    publishedDateTime: 2022-07-01T15:00:00Z
-    webUrl: "https://www.ft.com/content/0f398279-7e57-49f3-bc8a-a67c78d4e9db"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "e& to transform UAE’s fintech space with new financial super app"
     excerpt: "As the first wallet licenced by the Central Bank in the UAE, e& money will aim to enable new growth opportunities for the telecom and financial services sectors. Through the rebra"
     publishedDateTime: 2022-07-05T13:44:00Z

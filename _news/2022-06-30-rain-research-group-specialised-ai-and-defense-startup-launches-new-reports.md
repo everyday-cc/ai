@@ -1,27 +1,25 @@
 ---
 category: news
 title: "RAIN RESEARCH GROUP - SPECIALISED AI AND DEFENSE STARTUP LAUNCHES NEW REPORTS"
-excerpt: "RAIN Research Group, an international research firm, released specialised research and analysis in the defense and artificial intelligence sector. Norine MacDonald QC, the firm's founding President: 'We have launched reports that offer unprecedented insights for startups,"
-publishedDateTime: 2022-06-30T13:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446"
-webUrl: "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446"
+excerpt: "We offer unprecedented insights for those engaging with AI and defense.' Headquartered in Virginia, the company's advisory board includes retired senior military officers. The RAIN 500 ..."
+publishedDateTime: 2022-06-30T13:53:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220630PH04451/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220630PH04451/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports/"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
-  - AI Ethics
 
-secured: "Mthh2cLbV46leBnyse05cB8aVcYgK8ien+8rTiWn1cFuEsJY2BJYPDLmB2l/DclI6o2yQTKJ3OF/st3WwbsoBEHslpJZDBLvnpRbl4IQxsQB1eUydoXVc1XYWFAyewziRk2xy30hl7yeLjKstntYQVuI8HzcKkl4UpSTLM/+dwsPK9AyBLyegFg4Z9L+gfGdLuwLszjJBJ1V3DhTBLaqDzk1tGuw+6l0GNN67Iu6DA1vYEU0EUGJNiS4eUX62MFCC0hS0a1yZ9EJAm6MRuuC3cqIQVILzFYHKE9DJ16qmNWYE2oSVbl8qBkCJZ6blHvZ4WrTO8g+2s22B5vw13uGhuwKj5HEODDA70CNQoQA30s=;+MWJpDBHQ0Q8Yhfjcp7Ggw=="
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+secured: "0GRAyuNeW3f2K1NAdt1sqUilQVcTnThPcrjiS/ZqqKGqylP2eQPP/bUYkf/x4XI8lvzmzsGA9MEzN7ImyeyWakHS58FtE0/Zjxp3H6DgF3UaTuneI3OkSEmqNL+AC7SyEB5yfnoRHwTW3ZquuTVLVVKxHBL3zcfiSIhqQI1EMM2cP4trks89tpDdDkcSQYLqMckw/HmR8zF7dhzCIIaJXyB+EcdiMBehTNmfanakKlUyPovJcX4f/8fFww8/RocqfRWoFCpDwARzFM76NtKrcpuJUB/lUX827s7xa9fF3UHrLSxXCzyNzUuHisRFRFGB5qY3tZ0KWkblMG5WJ09nweGPCF9KSSqva21h3w1WcR8=;cIddau83oHHYf8UTPRA5jA=="
 ---
 

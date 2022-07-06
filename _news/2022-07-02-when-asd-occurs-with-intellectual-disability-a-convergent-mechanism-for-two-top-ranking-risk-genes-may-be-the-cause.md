@@ -41,15 +41,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "When autism spectrum disorder occurs with intellectual disability, a convergent mechanism for two top-ranking risk genes may be the cause"
-    excerpt: "A convergent mechanism may be responsible for how two top-ranked genetic risk factors for autism spectrum disorder/intellectual disability (ASD/ID) lead to these neurodevelopmental disorders."
-    publishedDateTime: 2022-07-01T13:45:00Z
-    webUrl: "https://www.buffalo.edu/news/releases/2022/06/027.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 0
 
 secured: "J3ni2hdP2QQYof8agDkfkbn+vPoSuiEIv4I2BauKNpdntyU5fuSgYsMj30rqtNoLUErO2yj59p9j8LAJwTeMkpwobUjHgkd8rn2L3hDX46xGs2rrMvdY5W8EAmuW6hOjj07wtPO1JZjEnyV0aVcN18IekzLga5/knssCNbDDoSODxhaA1hUajpTtXK+0i1k/tlWQ7VuDNRij/Zs62inSeuVOyeOFVhJN2/9xBFt4Nqhr92zaO2Te/QQtl/qGyUW9n5awCxpIRyvHed7OoQa3Yyy6K+8kK42k/g/MtwTg4m7tbCyYZTi+tpkjQeMKlYh89NgoJZ7LHOFnzJvkeMtYmpeCB9y++ZKhVx39Y3ujst1rKAx05s6a1biJ/UXB4kQYVkQDBcIxELA5fV7V6DUKpD7n3+NsTgJGMI0lfZhSaIDEZ1+RYWZYVMfw3odO7WK1aEB1j4MMZShV5/kwSUMPVTxS64IlxGrZk27APWJiIHDbrgxxbMO2MzlEqfwZwwWALb3sN0+ERO6VnTAvMIVbhA==;eZuycAj2J4KWUeCrq6I3iQ=="
 ---

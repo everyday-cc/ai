@@ -61,15 +61,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 30
-  - title: "Self-driving cars block traffic for hours in US, manually moved later"
-    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
-    publishedDateTime: 2022-07-01T13:23:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=974692"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 4
 
 secured: "gdYTTt4Qj1pAdSdX2D3gcwdoAYUkLTaIMT/m0A1JyykdRb2fFfuxiV5uYBb8FwdhXC3q3Rb3jF5lFiWImcz+gBhG4zEEncfmphuaqO/DkhjZM9fAaiS0YypLaeUoh3ALYFau6uWVgeOWS3OUF8d3D1FZAFprwS7AjFiLlQphuUwGOGTG6104W2NI87fiOiU+9i+Zz0EKJMqQxUpuYk/Chv85YrU8a2kIQPLFDBgcbH7UCaKlQl4uuN98Wk/pJJrm9vQXoYrq66NINGGY4GQmjUC4tsINDtNyCHe3S8cyAq9ogxL3i8zpwbgwLvuT5ajENrWy0oi9a8j3Zd4jhWV4KijqlSRT/rY9nhYo1NPDckA=;2GQMqQwyZmecylvz9FbI7g=="
 ---
