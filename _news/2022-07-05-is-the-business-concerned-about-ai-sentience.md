@@ -25,51 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "It's alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave a.."
-    publishedDateTime: 2022-07-01T05:30:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380"
+  - title: "Are chatbots conscious entities? The AI sentience conundrum"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
+    publishedDateTime: 2022-07-01T15:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92587380,imgsize-87554,width-1200,height-628,overlay-etcio/it-s-alive-how-belief-in-ai-sentience-is-becoming-a-problem.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Just how powerful is artificial intelligence becoming?"
-    excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
-    publishedDateTime: 2022-07-02T06:01:00Z
-    webUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence"
-    ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
     quality: 57
     images:
-      - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656597150/editorial/2022/MWE1110.briefing.main_PNA87P.jpg"
-        width: 1260
-        height: 710
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
-    publishedDateTime: 2022-07-02T04:26:00Z
-    webUrl: "https://www.rappler.com/technology/features/how-belief-artificial-intelligence-sentience-becoming-problem/"
+  - title: "Locally made AI chatbot pulls global clients"
+    excerpt: "Local technology company Reve Chat is now facilitating access to information for citizens of Mexico while protecting their personal data with its AI-enabled chatbot, underscoring the Bangladesh tech industry’s growing clout in the global markets."
+    publishedDateTime: 2022-07-05T04:00:00Z
+    webUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146"
+    ampWebUrl: "https://www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/locally-made-ai-chatbot-pulls-global-clients-3064146?amp"
     type: article
     provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 41
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
     images:
-      - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/07/05/locally-made-ai.jpg"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "b32VcYZqWp5/He4nMORi9ZqSbJp7bM0rYwNzK+lGpz9t+Rjeo5STMBRdygpFYNXKipXB6O/j/w3Q05i5MTX4aTTB+4Vowt5nErTcSPQMd4yKL/WO3QMcne81JdJbmSd9iQ2Yzdu0h3PHgqsS8FvaUEYR0RXB06cRbD0od5QKjOedqUYsc0//vLh+NqM0vA8Ea126WgewoZNLgpK1qOutkb/J0EP2x965wFOEzAs0Mpiv/S+NX2q550zv9iCSTYR5sTut9FOX3gyh8MOJ6cqJ1LX4XhKetl2+cV3O+d7um3VXLN+2JOqYVCMWs5+o8Qg0GSpfrnvcqFWqps1wpBj+KR339pQr2pbEsZ7psW+8PciTVIZK3j+XsSlfCsML7HScwqnvaMB4jOpdIxnQErWoC9SmydkqGVWlfhyTAvltzd20vO4maR/gWBnZjlBtsF+lEBsA/iUwK76+LmxDBIXWydEViQHHs1EHvWulfTxeg78uFmhDdMDJSdHfXyC8K/8oBCLqh3XGOeF3PTz+nADJhA==;evf1gMHeJOBpAv71qBoTCg=="

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
+    excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
+    publishedDateTime: 2022-07-05T23:38:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-drops-emotion-recognition-facial-analysis/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 41
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/07/Artificial-Intelligence-04-1088x725-1.jpg"
+        width: 1088
+        height: 725
+        isCached: true
 
 secured: "ZQhVXkJWA6OwL0ATHo45vgIxEflJNVBDWbOFkIeG34iO97/j0e8eqEnzMzvLpTKyxTXsQ8JaNPV17ATof7R7Q5ond6HuXH+0f/ofBVsp7HkGpbvpeeN5IX3J4JwdLomF8noRbAUg8h6Zx4Sd0D1txr3/OrKVIV5E04k5hzv9mCSnPa+NvSX70zIsaTcfiZVsNZ2DJnxuCZlo9W+uSAP+VwxkdHWv1UhMMkypHf3Z/Tc5+2itN62277M5SB3HVnOEP5AQum7Bjp5B6XSQ80j0GM6+Dm5mDP7da1sMNbkZsA/IH7eOVyipA3gqGKZaxUUiPyoxAa3rm/3TxAuobZDxh0qMIuG49S9lntR+behNCZ60LLS9RmRT7gVHTbge7Q8sXD/98FfJi+YnQ83fzeIoFupUQXqwleGvKgVbZZtyhdg/ZEtRrBqwBhSMntZWkCTuZffaXKvXW5mTwFDw2ny3iL/U4VXe3IWagaSTqXebVO7K1bkZh6oOpjNlmKJQoEfrK5S3Q+D7Ij97z1/faC3T3w==;JkTf83NrLTgK+yrSLzNYzQ=="
 ---

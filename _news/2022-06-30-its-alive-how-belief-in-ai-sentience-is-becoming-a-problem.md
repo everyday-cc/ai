@@ -1,30 +1,28 @@
 ---
 category: news
-title: "It's alive! How belief in AI sentience is becoming a problem"
-excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
-publishedDateTime: 2022-06-30T09:04:00Z
-originalUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
-webUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
+title: "It’s alive! How belief in AI sentience is becoming a problem"
+excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+publishedDateTime: 2022-06-30T14:00:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
+webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
-  - AI Hardware
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg"
-    width: 1200
-    height: 628
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
+    width: 2500
+    height: 1623
     isCached: true
 
-secured: "99sX/zmk70x4ndd0o4fUzYVSt05bQkNOiOBHkPX4Qwacb2HJ5rHTwHJ9ILbLMn6NuKlbkdlnsn4jTIffH/N7Xn/e/PvKkjN7oNpZql876Sie0xmB0mWZ9pup5qg2scd3s61T9JrnL6qv3iZhRpz3GLkXj18KEG+0gZxYLFPneLIG8YaaF2pMYshUfqOupusxVt1x2++tVlcwW4CSlKQfYB7jLT0zDSmOvhiIv9Z95yfVXDxKvcDwrkfArtYQ2LjhuF4Ig8Y/lApgxfGMUws3d/mFnA87nv+aDL+L1HAxsjgRDDk1eV6Oh+Y6qQv4HI871MbXCzlt1JZMPYbFxQTQCHUOCWpCy8lN5P0Dw5hWBww=;eNpb2W4iEiFIuyiddbuNEw=="
+secured: "lOdGM5QRgQyPKO8n5GzCyYDOR9fupuAk99mJpby7Jq7+zkv/qj5aN02qL76zMpfPBgrgpUVKXRpr1ox0kCiNVEHskoXv8jmLTPBM5j7ZzsrYd8HcE0KNevR3xsEzmy02DAvh/54oOnNea0IGYGk9N6BR/VkxmxCx5mB4Wr9HAuLwd/7wiC37owdbJ3UezBhYsuYrVeSaYJ9Sn7yRvLHe7RuO0c9XxkHjIWa4OeffR6WevFiNi6v8+bmGOlzESIy+o7Rqh6WMe+fdNZ71+nvKmc2HlJdvmmOOdMzSx2sOnBWU84IPfAUKV+ZUXC1XwUs0gsqSo1/T1gfSCv/k6RRB3sog/QZVv+MBCS1E2erNJxw=;nVPWV42PrC/ylU7K7gLbXw=="
 ---
 
