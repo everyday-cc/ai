@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using artificial intelligence to improve crop performance"
+    excerpt: "Research conducted by The Ohio State University is using AI to detect crop stressors and the long-term goal is to help farmers boost their profitability. In this Voice of Soy, Dr. Scott Shearer from the Department of Food,"
+    publishedDateTime: 2022-07-06T17:57:00Z
+    webUrl: "https://brownfieldagnews.com/managing-for_profit/using-artificial-intelligence-to-improve-crop-performance/"
+    type: article
+    provider:
+      name: Brownfield Ag News
+      domain: brownfieldagnews.com
+    quality: 19
 
 secured: "XyIGZDuMB7v7j8r6jos9NJtVO3u3dlqmlx38WVfYv2ZHpHAImuqdIBfq4EDESauteUiKlEo9uTxTqrlc5F17mo9wMwQkxct9vFM+QkRsHTUjcdpbRDdaXeDxI1DiIrYpyXoc7jWWL5O3l+SOd4hK60jSLeODX20mgH3hFYUCyfAkmaV0xt22BW25f1P6+aphl/82tbdVarcmyrYKWQ1xoKCMHHc+kACXo9/7zvn0BkbRVChVE7iQc3EdlcwUt9ZgqY00ca9Tj6A8CjE9HFjNKy5MA4F+bHjy2BE8BXv84PQ+Mhzwozy1j/BIDK4F2hpIvELFYhHF11bGtL6WoaPTm/F8Q4EnDQBPoQU5A88fmnrkpixKLsUZPdNJ+O/5ajPNC5VP+ipHEz2y3VwZhHm3EHSANLTXnQFeAcvlYBdFdoxooL9lVy3N1tTE6FBGXVUnq8WiKh8BchJiamjJBZmNrTEcC8XPvjfCeB6DqIw+Jji0yUFXYHhVu2FXLb7EQziyF2sEv4xhOLhi0H0oUlPmVQ==;lM23EF1jsuK5AiwMNsEOKw=="
 ---

@@ -2,26 +2,25 @@
 category: news
 title: "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year"
 excerpt: "Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-publishedDateTime: 2022-06-28T19:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year-1031555698"
-webUrl: "https://markets.businessinsider.com/news/stocks/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year-1031555698"
+publishedDateTime: 2022-06-28T19:00:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-south-korea-00c622d69bc584f9f2701d9ec278c095"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-south-korea-00c622d69bc584f9f2701d9ec278c095"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "YgVYGUtbnoLpPm0EsnrlEXKMsgEhU3zSH4YK+onIUpsBVkh1bsukvi7jDgYOPVHLSYdYFArq0rjJ6fNUHiSRDgUNH6+mugh6SsaK1uARz9HDDpbQMBeECh2MJkEmC7k96Vgi26CYEb40yHEU/ZJF0RhscHJdxp0gHvFKFVLHtqjoDsmvKzTLHW49UL4hPEquykeDLbI5JEecfKsR99Wp8Qto7S2dV0Dei65VdCkhq0OaO6OWV9zMSV2P8HzfnuDOUDY8WUKkTjDnFKJhhiDOH75yZL144bTqakPuVVw8G3FOut1VuZfbGXnXZ8NpuYFbXVTv+7+PwG0YvEvSWpWHVEzlOAiUavo4gDE9yqIy9mUv4Nh13aXz6mO1GBVuNS9ySUpwwXAex0+RfdVjgCuhwQqSYwJS1jXKlZTvpGk1pgVCTLUPgn22WDRQsc+DWHc3XmHbYemW0Xl3+Fw/nfNcB0vgjBk0Tp2cj5BODTWe7zjKaPvPPPoCFiLdWNk/kviJLlb6EgabTc/WXvKD5NyoFw==;TIES6sle+psMpLkNmG9qrw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "oK4f8C/lv3wcb6NcqylwWswo09vj3TxSk/Mkl7Gmp3DvKTMJC6wOYJba0jnB9TbI6QTUVSQO1oZH6Utltmc8LW70FsuYAQYqrYIlJLfOdu3FlYuhEId1T0bgJkkgzwiKcH+h43sJ4YIldTQzjhqCXEVcnd3DvPZMAYbWQR4lCM03ij5UoEzFbyjM6TcmQfMxcWH7zQC8WcQKuQgclCt6vDRiWT4eEef/tkKJFZlHv8nDm1nICT5hoIJG3cnOtYajkm3TNwIMLi6Ut14V3n7XPcyCqa+H6OXtWC6J0QWqJClOxfpxwZotc5RBJIPt7wIGGzsHXS/Qhv+yyOM6nf7w9RJxegP2IWlJPOz8fkznU50=;9hKcZ6JV5CMZKZRbhXn4SQ=="
 ---
 

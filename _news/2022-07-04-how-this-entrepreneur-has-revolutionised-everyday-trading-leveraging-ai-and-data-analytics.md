@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/430735"
 webUrl: "https://www.entrepreneur.com/article/430735"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AMPEL BioSolutions' Precision Medicine Breakthrough Predicts Drug Options with RNA Analytics & Machine Learning"
+    excerpt: "AMPEL BioSolutions today announces a breakthrough in precision and personalized medicine that could modernize the way doctors treat patients across a wide variety of diseases including autoimmunity, infectious disease and cancer."
+    publishedDateTime: 2022-07-06T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ampel-biosolutions-precision-medicine-breakthrough-predicts-drug-options-with-rna-analytics-machine-learning-1031570238"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "ICC Qatar And Moody's Analytics Hold Seminar On Financial Crimes And AI"
     excerpt: "and financial crime detections by infusing machine learning (ML) systems and artificial intelligence (AI) in their day-to-day operations. It also discussed the current supply chain challenges ..."
     publishedDateTime: 2022-07-06T13:28:00Z

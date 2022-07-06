@@ -9,8 +9,8 @@ ampWebUrl: "https://www.springfieldnewssun.com/news/mercy-health-using-artificia
 cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Springfield News-Sun
@@ -41,6 +41,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Using artificial intelligence to improve crop performance"
+    excerpt: "Research conducted by The Ohio State University is using AI to detect crop stressors and the long-term goal is to help farmers boost their profitability. In this Voice of Soy, Dr. Scott Shearer from the Department of Food,"
+    publishedDateTime: 2022-07-06T17:57:00Z
+    webUrl: "https://brownfieldagnews.com/managing-for_profit/using-artificial-intelligence-to-improve-crop-performance/"
+    type: article
+    provider:
+      name: Brownfield Ag News
+      domain: brownfieldagnews.com
+    quality: 19
 
 secured: "S5QQkdoiEOA80gS32AuVu3mx+0GJVOCeqlvKSmp2/xPeQzMnEeWV6SFBxcneTrAWAgDIR9QOOM9/gdRDNdwiM1gWBrlgNQv6r/ImXjjMGiiPesYku4DYICnBOf9MiFgsrF0ZGm/h/gmFjan2aEAohSI72MHt68aIR/eQwfNA/gsaGfaAwj8kiFDc73c5jHsZyJXTvxe8afpGMqb9L5bEG3mQn0FyZZ21Id5CcWSO5Hbs1D30qxPDmGOTilx0Ax3vVg6h93RzVdYU2fC8A3yb1jaCvnHXpb10qWPas32c1hALSZk1VxX5ieldeyaS7ZMLZj++9551GiHU94SfT5nYuMW08jX3/U/o8E9vvTiewU8=;0TLMbcQ2HuOCC9qHbFlopQ=="
 ---

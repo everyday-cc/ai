@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/viral/iit-madras-develops-artifi
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
+    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
+    publishedDateTime: 2022-07-06T17:23:00Z
+    webUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226"
+    ampWebUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 54
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92697226,imgsize-100,width-1280,height-720,resizemode-75/92697226.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
     excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
     publishedDateTime: 2022-07-05T05:21:00Z
@@ -59,6 +75,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "AI tool for personalised cancer diagnosis developed"
+    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and"
+    publishedDateTime: 2022-07-06T17:39:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/ai-tool-for-personalised-cancer-diagnosis-developed-752229"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/06/1301565-i.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Engineers Create AI Railroad Trespassing Detection Tool"
     excerpt: "A team of engineers at Rutgers has developed an AI-enabled tool that can detect trespassing on railroad crossings, helping reduce the increasing number of fatalities taking place over the past ten years."
     publishedDateTime: 2022-07-02T13:56:00Z
@@ -88,6 +118,6 @@ related:
         height: 250
         isCached: true
 
-secured: "cntInOBMOIDr+lAN/pQMbtX1Ph7be4no3/m+m4rcgr3eVbnhgpAh075xG06COyXYTfsTLVX8eZAJYn9CxxesgxG6PCZ4KV/tF0HbA7Gvx0pjHGlfbHhjHYHUpKGboI4mPOXac5/kSU6RIF4KunshmwVFZaNKLO0+WLmqrzEr3YJzBgh+OZhn4PA4tduHmkgJb+UrVv+TonhxlxkKYiqC/R1Ild6qOYQm+QnBR3lFp0yLpA3UCJUV2aHZnUBtMrAq66ObANSz6UkQsVVM52M0wDpPzkJ3DgvCbRe7SpG0pyafmkSSOVwswGqrwhX/LZllChuWb22PG4Ob3cnMmJfRafO5IpQOin/VLW5Nw99Nj/s=;Sr+QDORE54+NdSOgdB/j4g=="
+secured: "vCsEZ16okFRHIBJrvX/yFlR191aRC0B4M2BkC+7Ma2gkx1fGVyLBq4bj1soM00h63wafCu+AHAHk/+S1i3WxN9W9+NaVzUoEmWUdvfXE3zHm3BPYVuhRIya2tqPM+BAW51864HHq+KMJZG9LxVdpfTyrCWExQWpMpTmc1I9IXEltXzgggOegGsgB4WYeBEeTvUySWGHFOu1sRLa4Hw3rbvS+GqOdHdZfUimFLeQuwgdvz9ziD8Ocexnry9lfljRMKdhOKxoWI8bdb8rIxSxUoq7FHwvmRLyqZVO6Qgr+kDT9mxkKxuLy6lj+1VJebCgwXA79K2lqNrJhakjnIBO+8m59x/FoSbiKTM09tC3n4nmzpKpxlHXwNNNRmYOv20V0cCKA3WfSLFRhiwgtFe3ASfX5mqjMf2Kifsz4lKYJyM4ZrXSO4ejbS16465kB92YhHRhYaxCvaw4k0tLIrnVNRZbbNBJaXXxKMq524ariRPchqYUSXTl9o6XCHe+rcl5R+qGb5dxgPFNrSRbdfC9e3g==;aVlpi4+osGlH5sVpHdaw9A=="
 ---
 

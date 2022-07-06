@@ -16,6 +16,6 @@ topics:
   - AI
   - AI in Marketing
 
-secured: "5GTNxyxXbJlN2IkAlmHYCUvJdEjQOt6bMZY3vO6HC4PQ/PK/VqnfsMp/7eHhMyGGBRm4EbirmUuIqjvaF99i4DW2xSYBsNnLKcLq2yWUub0hq74D4vPoDBmmbEZhFzI2XBn8GVs+gy5TEREN7Xcsh5CBh+bENbtyDfWXFYQ20faTIJkLMT5L6UFrM7uT97t6im2mn2wEy8lOuc40PsSzyXSnGe/UuDPqnD1Sgd2jULpMRx+mJkGPcnXi2Mu6shAVmQdi1fSXFFE4I8psA+UWbjxn/r/zWJjlg3Q4ylBawWnBGtv4kAk3xDL/RbJmLf8kzvo/7oY/emMyPOcAShNCMdaB1Y8t2+/GZQG/EAv4pY4=;dEjwURe6U+YDVsRsqY9bhw=="
+secured: "cuvFS3Kc6UjtYytpqvlQVO5Uf9ZaoUJGlqB9nVOp/xjls/+jN/pl8pzh3vCriPbJE2RriQIcYdFHwMp79ixO1A+Ya+mOhtUDBE2WKngSKnnPWj1NrrQ/ILouJotzYoo7Nj0m4kxOT1z5qqvgA7szOF2NCJeQre3xVwMQTTlvsCDdesdJRTzNKn5QM0OXQYvCzXOUbHxqvx0+FoVYJnregKY7gktIHUqmNBT2eIaK7oiXGHxGGqS0ByRK/zok+o3Waljsrq+ue7U6crHIUmidLAuk7UnU/sgFXmp51b0+XQs88HPr1/R+5DucomRldroL6/ZHZ+K+BdcWDndpcEctnCNMosa599Eq9RCwVv8Lx8Y=;FdbWsuUcQzoKwvvdoWDtkQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "These simple changes can make AI research much more energy efficient"
-    excerpt: "Tweaking the settings of the cloud service an algorithm runs on can have a big impact, researchers found. But not many people bother to do it."
-    publishedDateTime: 2022-07-06T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/06/1055458/ai-research-emissions-energy-efficient/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 21
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
     excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
     publishedDateTime: 2022-07-04T13:34:00Z

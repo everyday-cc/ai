@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vodafone and Google’s new mega AI is the best of big tech and telco collaboration"
+    excerpt: "AI Booster can handle thousands of machine learning tasks a day and will ‘have a considerable impact on people’s roles, learning, and ways of working’ at UK operator Vodafone."
+    publishedDateTime: 2022-07-06T12:44:00Z
+    webUrl: "https://telecoms.com/516280/vodafone-and-googles-new-mega-ai-is-the-best-of-big-tech-and-telco-collaboration/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/12/iStock-1298763661.jpg"
+        width: 1365
+        height: 768
+        isCached: true
 
 secured: "PWSOSoKOR5R6hTEd1sMXQiPJVAxS/1eih59q2x5g+Vw5ylVxwRpXJD1RlypeKXBuSWRoZU+oYbafKBrw2GOdx8xIsnbLwYBXIt2sVS3t59x+mZZ/r0mwnyBC/pl4SwfXgg5eNxjypKMTfzgjRB8SuvB5tRo1GbYsiHGaRr58lrze/NKY4LWromwBD9od4SSh1Q5yoyMV14K+3vG3k32q5nFSlku7qDzcrxvR/j0FWZPpPvtVg/ChH7COSNKRTURJAeSfiyJSH1f7hOq0nxR39hmtJO6WJTt4UcyL2qiC1wVOhERQ0BfxmDa3S0pUSxGixmTYNe1a+rhtL06Wx9ePU/fNf6GStyDbkcWTopFJ5RI=;DS77VMPMFcrRwmxtN+9Otg=="
 ---

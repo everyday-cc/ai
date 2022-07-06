@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-06T14:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databand-ai-acquisition-1031570027"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databand-ai-acquisition-1031570027"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
@@ -43,6 +44,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1091444622.jpg?w=1024"
         width: 1024
         height: 665
+        isCached: true
+  - title: "IBM Acquires Observability Platform Databand.ai"
+    excerpt: "IBM has announced the acquisition of data observability software vendor Databand.ai. Today’s announcement marks IBM’s fifth acquisition of 2022. The"
+    publishedDateTime: 2022-07-06T12:00:00Z
+    webUrl: "https://www.datanami.com/2022/07/06/ibm-acquires-observability-platform-databand-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/IBM-Observability-Logo.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "IBM buys Israeli data observability co Databand.ai"
     excerpt: "IBM says the acquisition of the Tel Aviv-based company will help it catch 'bad data' at source. US tech giant IBM (NYSE: IBM) today announced it has acquired Israeli provider of data observability software company Databand."

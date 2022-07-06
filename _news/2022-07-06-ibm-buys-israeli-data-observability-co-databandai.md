@@ -48,11 +48,25 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM Acquires Observability Platform Databand.ai"
+    excerpt: "IBM has announced the acquisition of data observability software vendor Databand.ai. Today’s announcement marks IBM’s fifth acquisition of 2022. The"
+    publishedDateTime: 2022-07-06T12:00:00Z
+    webUrl: "https://www.datanami.com/2022/07/06/ibm-acquires-observability-platform-databand-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/IBM-Observability-Logo.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "+CDy8xL5riGgVr9EfVt5PmgZjX7JwfabuF1+PDL9p58ty4osZiY4KjaXoQJcTPmk+Gx56yPcTXBC52qIXen3efySGV0m2mjIx2kqS6M4ZWtbAdu1nkGnS2uVnNPStiPRsB7TVFtVemK9KpcpfxRKE4hRO6iQlc36O7AK0TbIiXYUHOkexe6uaEdnYOUXW72cg1QyiMVMFCaRi50v0tK8YRTq0JgHHG5oiL0FTifPVXI6WJX3Tc0/Qqd7d5UPnEHxytiwrJ28Ki6Q9enkuRp/DUv0N7Hb15s6rC8n57edM5bN+DMz3t/AkaBHYpAdh5t4j1VwnASyZ2C1T7Rt0WyCCmZ2gJ6JnEZeY8Mp9xSDO24=;3KB4Ta86VIce/N9qiztQBQ=="

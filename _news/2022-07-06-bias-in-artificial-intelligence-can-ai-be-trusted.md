@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-06T14:38:00Z
 originalUrl: "https://www.securityweek.com/bias-artificial-intelligence-can-ai-be-trusted"
 webUrl: "https://www.securityweek.com/bias-artificial-intelligence-can-ai-be-trusted"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"

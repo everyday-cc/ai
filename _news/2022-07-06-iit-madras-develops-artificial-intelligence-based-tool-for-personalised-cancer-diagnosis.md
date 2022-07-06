@@ -43,6 +43,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
+    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
+    publishedDateTime: 2022-07-06T17:23:00Z
+    webUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226"
+    ampWebUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 54
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92697226,imgsize-100,width-1280,height-720,resizemode-75/92697226.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
     excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
     publishedDateTime: 2022-07-05T05:21:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "AI tool for personalised cancer diagnosis developed"
+    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and"
+    publishedDateTime: 2022-07-06T17:39:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/ai-tool-for-personalised-cancer-diagnosis-developed-752229"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/06/1301565-i.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Engineers Create AI Railroad Trespassing Detection Tool"
     excerpt: "A team of engineers at Rutgers has developed an AI-enabled tool that can detect trespassing on railroad crossings, helping reduce the increasing number of fatalities taking place over the past ten years."
@@ -88,6 +118,6 @@ related:
         height: 250
         isCached: true
 
-secured: "ZUGU2Z3qWvsrLPEUVf8TfZm469FsPeZyyibpLDevxXJscTwVHzG/7/PF6p0Wip1fXnrf3riCtyAbdHQmZ2a6pNVS/6c5pLfQSqycUMLZJTGXt0F+hqp0PqLXbXedROJn+YjiLSFlmTi17agALuKykoXporTFE5uhMQkggmW+102S3qxELTJ1p0sDSnYoA8beg6xcUE+KIVvY1C9FsY3S8KH1kI1yE6EQh0c8ay3K8fWXJ3IBsw0KwLtBC2VDXVMIN4ZQl+DfqLRNi3Ebmp6HBEitCnWyR6qJX0VzV6RLbt8BYY4NAyZwSlR/OWnkVb5A/CHOsOakdOuIVhlHBek5ez0Q9AAgOEmzkYloCYdtMGs=;GPCzX9JHXee8e5eofO1JLw=="
+secured: "Ne0IMMShdnRcDKehmWBAztKi+7Q8mEfyjB4prMMjt+pW4q5WdzBHvi/tYF6HCGZX3QCucu4txLKup1miCG4Ghy3c0WL03zy8LT6BWrOEArbr3JDXq/3Afm/uffwK2fWc5tA4HqxWMTEz0RuaanoDaXvmFI85um+iapJ16aXVjJNp3bSuBXH/BFG3lhC2l27Ebe/TyFGGiZyuESaJlEFyexCKibYjdUThTsWd4jySgFuP1gO8CNfOwN2spbxYlXv6sthOrAEJhG5mCxpPtPZ5OxffG4fRcg8FAemMTE0I1yWMJeNkqO8MXSyMFQ2bDEs56EsXIPoi+N4B477iAi7b/i5IMVAun0dQfRrQ3n+qDekAhPPsUnHb0x1/yC7plV5G1XdzyCYsGQYkf87NkQa8D26QE3spPgpHD+ctEbgTDSLVgvYEik1YfT9qsV5bORLH1BpAK/wkjQ84UOvqAmPkOF01YkSR6xvTYaLi2DqJpz0AylPS9XN5YgpmaqDg70vEBera36zC+tMe5hWovGbzsQ==;6BvEfkRdn2/GxZtmAiFHAQ=="
 ---
 

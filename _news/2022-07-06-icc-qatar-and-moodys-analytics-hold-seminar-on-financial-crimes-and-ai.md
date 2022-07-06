@@ -33,6 +33,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "AMPEL BioSolutions' Precision Medicine Breakthrough Predicts Drug Options with RNA Analytics & Machine Learning"
+    excerpt: "AMPEL BioSolutions today announces a breakthrough in precision and personalized medicine that could modernize the way doctors treat patients across a wide variety of diseases including autoimmunity, infectious disease and cancer."
+    publishedDateTime: 2022-07-06T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ampel-biosolutions-precision-medicine-breakthrough-predicts-drug-options-with-rna-analytics-machine-learning-1031570238"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
     excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
     publishedDateTime: 2022-07-05T12:24:00Z

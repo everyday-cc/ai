@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -39,11 +39,25 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM Acquires Observability Platform Databand.ai"
+    excerpt: "IBM has announced the acquisition of data observability software vendor Databand.ai. Today’s announcement marks IBM’s fifth acquisition of 2022. The"
+    publishedDateTime: 2022-07-06T12:00:00Z
+    webUrl: "https://www.datanami.com/2022/07/06/ibm-acquires-observability-platform-databand-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/IBM-Observability-Logo.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "IBM buys Israeli data observability co Databand.ai"
     excerpt: "IBM says the acquisition of the Tel Aviv-based company will help it catch 'bad data' at source. US tech giant IBM (NYSE: IBM) today announced it has acquired Israeli provider of data observability software company Databand."
@@ -60,6 +74,6 @@ related:
         height: 392
         isCached: true
 
-secured: "4yEwF6YJyOI7+MYBg5h2aaxt/BE/LOpRIBzl753uZN5CMbTnBnpskHNLwwcH2XhUvQXHVkT7gfqGCukzZ/z8PmWBstCS2TVCAJcjU6WMl2l7895YFAcXzvQ2lDOlnyoEZQpZuBgrXwK1aRHUXYbpVMAQdUux/ZCLpjOYKNor/ZqeK5siaJKslNgAI4fM9qG2xOAen9edjyQk3kz02GMCtOrv9dE+1B8aZFXH6xEnGjPCXHrnz+cx6p6q2E3OcHb7EfrD3c3H29p+uXjg1RivgZQCLVn/Glub/PDyAWp8k+e3/wok77t1s4wOkV1Eu25EFzmqOsSoAaUyfME5DfN0W3JsExJcMQUlcmt073Dc140=;4penbSW2f8Jy+eamPFRWoA=="
+secured: "4OD8XHhCiqoQwkNwoXQE5TvOzk0zNhNHyMWeArcFKWYD6zHGSbVIx1XCyfglqpO7NyUPvrGjzHJLX5zSYBxpaH62NyUU0E4uleMfkD4BmImLMYrWXjUA34nlqBaSz613A8vxq0DrHeewZId4v6ovYMDnObOvGPqhhXGMDk9wRQrRtCrtP8Dp0EFu1Amt44koVj0Px0fXeGOC34FWBh9LHZlbs7prg4V5v1EaEsQsf4LTHHrW4tsBSx4x62csCUPIgB8maE4BRIxV5oxXKcp6N14jQT+wcWZV9DBOnFtM1JsLZun34hSbMFdWvsqGIDGTZhPpeWnE6atxHuFRlLhf1zyBQZx8G74i1MJSEQZMxd4jBl+lf9uAhVW7eiiGGLQfNxTPtTExHEO9teZAu9StGdEy9W62twWphTiLRqcdPN/ItYhK6jpN2VaH5EaRgevdbpfrpFkp3yh5DgBNd9OuQCjbRgzqnETgH349FBZqsIUDraBTnBKcTp6WHsdp4df/UcSec+s9CoRTJZlEgxUb8w==;zJ6Ylv2y2vC/9G6svMFI+g=="
 ---
 
