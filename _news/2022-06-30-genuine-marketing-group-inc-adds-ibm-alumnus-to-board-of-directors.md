@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Genuine Marketing Group Inc. adds IBM Alumnus to Board of Directors"
-excerpt: "Genuine Marketing Group Inc. announces the appointment of William Le Voir-Barry to Chief Technology Officer and GMG Board Member. On June 22nd, the company"
-publishedDateTime: 2022-06-29T18:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html"
+excerpt: "As a seasoned Blockchain and Technology portfolio executive, William (Bill) brings over a decade of Blockchain; Cloud; Cognitive / AI, NFT and Digital Currency experience. Serving as IBM Watson ..."
+publishedDateTime: 2022-06-29T18:25:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220629cg04668/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220629cg04668/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
   - AI in Marketing
 
-secured: "V2QU0h6BEcz9lCv1AMyK9OGc7BVL5ToMMNCLkBqCMSDRUNcDCq9oWAnBv6FHNYbf1SilVIgWbm1mo16bx62RXZOYvEz24fxPCOnBI/EzUfwJEFXLfuB5Ymbi+Dgrp1/Xfu6NebSVGiZCj645J/j7uDYcAcghUwPIRTHEndqhpSpUgtDSOASy0P/Ijr2tm198SLP7avZHtP0mXqHw+0wyv09/7Z3/8E1CnKufUIvTKcZJ9/5cV0oID7ECYEveZkEmZsYuHab27FeQQ02Iw41NaFmN1pCIRLJqJoQ6a7yG8cChVNBjxJlHXEF8iJXKDmDYyazyF8iLyOjtT/Kbe0TZE9qinLEX1gO6RRoNSg9O+kjsPpR4Y3TNWY9hFj6VpSATSnSI0oDPRr3hWySk8y2ACVnQfZ9xaRiKfVzkImLxGB2ANJJeDpigtzYwfsrz35Vo2Z8FT1w0leeYswWiKqHmyEgE8RsP301rE+Q//k8/+c0PWvvirabVdC/DMKfUP/cliKFGCP+IAqzoFcPys0Qw3Q==;u5JVATZF+jBF29cvkNn4Dw=="
+secured: "sNH4/OrT07C7r1z/pNeFMPTlX5tfPQZ4AsbuQck6uvoUR2DtjyD91N2De2X7cwjb5hcVFeGSpFe7KvPZLwRP9BmeW+bc2k28UzzZcTZwaObF/HUsrB9Nz82Osyx8VS6D1V07YoceMulWvffGdzbpqIMEaxYijAVcxvm4rHFNU3/Rt4Rs3cGLCQ2Sk5XDvy6UfgSdC/h4sp4BytvUsP2Q9kVIE/+lV/zism9t+oUetqK3ppoASZuUMvq52/eIXQdzkWhePL7+gW8SJ9JpcIYlfkhKzjIMygD3e+Zq2KVlnePphOiVwsaGdRZV/NbBWwh2q4j6ql6wnm7kggrg/T1tQIunNFwvvopOVa4ZILncqdI=;N6ZoaP9DBu26YwpMOYFcJQ=="
 ---
 

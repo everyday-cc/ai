@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-05T23:13:00Z
 originalUrl: "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lot-more-complicated/"
 webUrl: "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lot-more-complicated/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 81
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.slashgear.com/img/gallery/the-debate-about-ai-just-got-a-lot-more-complicated/l-intro-1657056546.jpg"

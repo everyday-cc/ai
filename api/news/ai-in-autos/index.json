@@ -349,6 +349,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-global-automotive-ai-market-2022-updated.md",
+      "title": "Global Automotive AI Market 2022 updated",
+      "excerpt": "AI may be seen working its magic through robots assembling the first nuts and bolts of an automobile or in a driverless automobile that uses artificial intelligence and sensing to safely navigate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-automotive-ai-market-2022-updated",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-automotive-ai-market-2022-updated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/399280e484917b5b6e33cff110ab7913dbd74011-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
       "title": "Tesla Stock Split Seen Drawing AI Investors",
       "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
@@ -1282,40 +1325,6 @@
       "provider": {
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-aurrigo-gets-into-gear-for-rural-uk-self-driving-first.md",
-      "title": "Aurrigo gets into gear for rural UK self-driving first",
-      "excerpt": "Its self-driving pods are designed to provide mobility within urban areas, shopping malls, airports, university campuses, science parks and other areas that are poorly served by traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first",
-      "originalUrl": "https://www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first?amp=1",
-      "publishedDateTime": "2022-06-21T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

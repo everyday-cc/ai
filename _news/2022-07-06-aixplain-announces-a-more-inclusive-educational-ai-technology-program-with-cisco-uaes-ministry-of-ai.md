@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-05T22:47:00Z
 originalUrl: "https://menafn.com/1104483108/Aixplain-Announces-A-More-Inclusive-Educational-AI-Technology-Program-With-Cisco-UAEs-Ministry-Of-AI"
 webUrl: "https://menafn.com/1104483108/Aixplain-Announces-A-More-Inclusive-Educational-AI-Technology-Program-With-Cisco-UAEs-Ministry-Of-AI"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://menafn.com/updates/pr/2022-07/05/EP_5a782image_story.png"
@@ -24,6 +25,6 @@ images:
     height: 265
     isCached: true
 
-secured: "sPK6Xk+v+CG72CpybzfIujcQsRrEcLbt+l1fNPgEMJjYrKXClxZYiOLMlBGfQrOlIwMdt2y+T/j5yPsmvfCEoHBctPVO69NiiIbvPMW7QY1e0N6Ih1otx0OkV6TJgVgx6v+GiofU40ACv/RIZsx5o8aSmVOaLvAMWxCKOr1/10lkaZYhi2qpQuvTvv48IK92fXqK+Z+6gtPPRFbxowZMvXBB0s/lMIhSVhBDIUzcghlOITImyt7UWEVB8C3DEv63klx7c7zIzEQ5pkTa8d3lKc/STQr7/sy4SJASvH1QoBYyTP8S9j1/LNxnkInu59he1Thfainglc+cswis1zJtQPIdxyQ7rhoo2EgcL/sk8TU=;j1XISpleFlATxao60eV0IA=="
+secured: "n0LHxvf2kL6u8rXTJS6aallR3/iFCUfyd5EoCM58q2YVvidYYawBLx4n5zczDZc493DcSnGSfVdkNU8FbkMK1GiInvyVjs6C4ZPJj5NMBihJbvlxS3jhyQTtfVN5+UN5D0yG2HEvSmoH4A3CEf41VyDvWknL+esh2+tXepL49qNLGbC8SvdzQa3hp3k84nAAsickOAXYMPZ4JMRUDsrEeepgie8heLPEN9/v3OZtnaltxEEkpNf5D7qkL5lXhtU9iKYiYgv9enBlys0K1qdg2qk0K7lVstR1TcUn9yd/gPecfWfxQQp0yJ9r4bqzfm0s/2O/MkWhfgOw7NFziMmgCRZ+eoYQRrvy2onoVC++wymZOZraT/BEbFyxD/pms4dzkGpXZQ28wSz2uAdxkpWMOxqgfURbY0x7FZQSgvTvv1THl/oHKKcj87KUeDm9Zit6wtIlf7DTaR9/KqIO41OvmZWhGClJwlbGKwcJq52cYarqkBMN8WiBkNo518eoAPlodI19Fa0UGGA0zfWfkCLcvA==;oEiktej0YyP+DGGRgzokvg=="
 ---
 

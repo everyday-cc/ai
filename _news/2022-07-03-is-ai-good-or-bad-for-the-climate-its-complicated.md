@@ -31,7 +31,7 @@ related:
     provider:
       name: SlashGear
       domain: slashgear.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.slashgear.com/img/gallery/the-debate-about-ai-just-got-a-lot-more-complicated/l-intro-1657056546.jpg"
         width: 1600

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://rollingout.com/wp-content/uploads/2022/07/6df74644-9b98-4445-b666-93dc54df60e1.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Flawed AI makes robots racist and sexist"
-    excerpt: "Researchers have shown that common AI training models like CLIP result in robots gravitating to men over women and white people over people of colour"
-    publishedDateTime: 2022-07-01T08:00:00Z
-    webUrl: "https://gadget.co.za/flawed-ai-makes-robots-racist-and-sexist/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2019/04/Ai-Artificial-Intelligence-Droid-Robot-Android-2228610.jpg?resize=960%2C600&#038;ssl=1"
-        width: 960
-        height: 600
         isCached: true
 
 secured: "5wD9jEL5SAKAKNqNmW4w2qREfNlAZ6uA4apLQfoiuEdb9MO32QkT3Y11kEROY+Jk4V74BbPmXdxk+5FZl+lG2ihlbKoSNLL9OZlBJL6/ZwaWPBjAUJLi4Uz4NU1gE8xyGcD733iKyNF3pHjYwzt7RhVLfRxOjIlocRKS4cpqWHRMyWT+5lxJNSqQk3ekcDNb7wJos8+2e0/QaeTDqH3b55o4a1fNFbSY5O3649QMxGsvIKG/S3SfvHoKnqWrIamargRK+mlJoWgb41xqZY+h+PRtn6m8JNedKBl38G5+A5FVOomnUDJQe38+Xf2QuUT62JqJjokR2WMDBZUU8GwBVjRiNJIHXppb24er9kFfWjO26XiIUrjDNsqvC78PeVD0PNIWtgTcZxIC4ysRqoncviWnVJsKpAQwFkk+smvcD2qj8K/SXZ003mNRI/WHby5JJTR9pajU7nrHut0bNxetbgMeO1RzPDi0YUB2m3ABdCizSX/cYFCretHpYqfFVC1pX/4xTYgPl4CBZHU06/rW9Q==;YSggcZdfzzqywYHBDYJBWA=="

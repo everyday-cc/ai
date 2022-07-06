@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-05T23:38:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-drops-emotion-recognition-facial-analysis/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-drops-emotion-recognition-facial-analysis/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/07/Artificial-Intelligence-04-1088x725-1.jpg"
@@ -71,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4low/mzbrGp3ThPXmKL7vk8aFB0Y7jCAJvFAatgcRXlnoNDhtw00a3bnkwizarQZF/QN4U92vY2F5Wl1ziLmiNFM+Lf2Po3wiRtUPR4XjY+e0xYcqckBBtBd9Ke1OSz4BpEXjvEhqn2dgfwxGPs7tGJSybLH0iSSLm8bqpmtd+gQArcHjpt5wl7fDENEK6ot8UydID/S1IbymHnGb/8MX33MfWaQGr3LuD9ieTnGemdMzb/GuJdxQmz2oNVf9nkXSVzrPwQ2vdPGvEpN8ZK0y92m3xEpd+6E6HgUt0S/Gg+sQ+VSetqd8Y8uHCIC82weWxVNJFhUNogUECfzimVqhPDGMhNXZDNEpE0qQaj++FU=;oY+6VpKUgFayv24aDS3Sbw=="
+secured: "6H484Zdu7T24t8mRedynWH/dZVViQ6M5AUlsNjvdaK5PIq7w/looNIALWXkbqC4U9jl/iKSkq8lHBufzK7aEci8fkSx0pjNpEj8GPtQvtytEQcthUzel1tfF3s6Qvnl0uLWijcA1MgwLGvAAs7SPavjsxAJ+XiLehyXR3CSr74KFXqnB/x1EcQGL3arJhan9wXFRPf9N0sEpNEM04JETpF6auXk8TNdn2+TPSZODtgjtY5m4z5lQied4x1cNxtRu7VEQbr8NR+7fbOklwp8GaRCH1QcP/rQKdGk/1Bds6QTyEVb7JAI8bapIlnWh28YN2UzJywRM3P63BkIKtFpx0SB3b5au/WU6nULiAgvNQlqLwfqJcGqjFa3/LauQOEQQu5JVyqQKEmfOoSwDM9mmQdX+vB/hIQB/ovTTt0Yfv8U+H2SjpiChsOHBiE0B4fiPbieIvlkHW6AeWa+pmD8b1IhcS5tdi0DJbJJji3/2NA7aGi42sN6XAZjKfBrNGY2VGM6TbCeN0Vj5fLAvSQFiGQ==;/BL007iSWqnNaf5bYu1HFw=="
 ---
 

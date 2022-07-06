@@ -43,22 +43,6 @@ related:
         width: 1201
         height: 629
         isCached: true
-  - title: "Fintech Players Need To Talk, Educate & Interact With Regulators: TV Mohandas Pai"
-    excerpt: "On Inc42's Fintech Summit, Aarin Capital’s TV Mohandas Pai opined that fintech stakeholders need to have a dialogue with the regulators."
-    publishedDateTime: 2022-07-01T08:07:00Z
-    webUrl: "https://inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-players-need-to-talk-educate-interact-with-regulators-tv-mohandas-pai/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 54
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/07/It-is-important-for-fintech-players-to-talk-to-the-regulators-educate-them-interact-with-them-and-create-a-regulatory-system_feature.jpg"
-        width: 1361
-        height: 1021
-        isCached: true
 
 secured: "FCm6bqXy/0WO0Iy/ZHOsD5+egC7mdBYnsUPoN1HiBI9/gE97bxc22EK4yzEtQJd8yY0P7mNHp8gGNOEK7EMSA9dkOI7ywYnRjr0087oIFJg7edxAvBFyhudvUbX0iGfoADuvjVfPUcQ3mjSaCux67bXmDAYDz9wBnXbL5Etlz5tTzhUr4SsuQ4XEa6AqWKHlgbz92q9Pn1gQIMPbqpwf2+op/2tmojPkHovEWgqwEa9ctqRHIFTERD1lcVTyR5Cz+hbtLGSmTBOGddYeMbVy1SPlRoZgrHyE0AHv9mEwBru6TBgfFqRhyM6UP8GND2h5Z8Bx5d4hqYJGhMNMM/pGShqlJStb+m4R/73mPW+9JTaQo2nmvn2Sc2Hntoffhw4xm0XlDJmGfqEUEwQD/+fBIK5o9FWsDA2UidXX9e5TI/O4Jcrir6WUQNRuN8dMc5cjOT48zmDBHjRd0Qssdmc08iU0aMtMkpnanlo7WYiNa7DS3ViWmtdYBVz2TG597CRYApBf+3RS66s7anIDKH18fA==;kc1tj2HIbgTkRnClcbfRZQ=="
 ---

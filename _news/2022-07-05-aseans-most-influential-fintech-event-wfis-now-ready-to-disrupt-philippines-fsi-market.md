@@ -1,29 +1,25 @@
 ---
 category: news
 title: "ASEAN's most influential fintech event - WFIS, now ready to disrupt Philippines' FSI market"
-excerpt: "The launch of 'Digital Payments Transformation Roadmap 2020-2023' by the Central bank of the Philippines (BSP) has been driving major fintech investments in the country. To give an estimate, the"
-publishedDateTime: 2022-07-05T06:10:00Z
-originalUrl: "https://www.asiaone.com/business/aseans-most-influential-fintech-event-wfis-now-ready-disrupt-philippines-fsi-market"
-webUrl: "https://www.asiaone.com/business/aseans-most-influential-fintech-event-wfis-now-ready-disrupt-philippines-fsi-market"
+excerpt: "Philippines, a 2-day FSI summit, will shed light on Philippines' fintech market on 16-17 August 2022 at Sofitel Philippine Plaza in Manila.MANILA, July 5, 2022 - (ACN Newswire) - The launch of 'Digita"
+publishedDateTime: 2022-07-05T07:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/a27948029/aseans-most-influential-fintech-event-wfis-now-ready-to-disrupt-philippines-fsi-market"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/a27948029/aseans-most-influential-fintech-event-wfis-now-ready-to-disrupt-philippines-fsi-market"
+ampWebUrl: "https://www.benzinga.com/amp/content/27948029"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27948029"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/asiaone_default.jpg?h=ec041e41&itok=EJdnUcAA"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "Vx6OKTfQ/OxHawDXXm26a+B+th6dEzwDx7pZmzfgcmdZOzqoL/VRHE2EXmuWEcYq3g5jbgIHPnHJtRNAkqsrZp+2AeFoqEfYN4mL1bAN4/kMyAyTe5PHt+ccvap7q6eJbX26EAZ3RgTY3MD19QBw4Xyh4aURxfPUVEn46DwThexoDlBAfh56XDoJnRY5eaEI/Rxfan4qRZrLdrUiRRkvcfWbzPJvpGdh+JPkOC1tAO7sjh3bkjpLmlYTuubcW+pDULo0+rlXQ6zVIToT+y5azjvXddPabfvsJl2/LnAePWO48g/obuRPeCEmYWvjsENdLcBs9IPj6fWqxf2UuoHYSvIO8j+2LPL84cKCsAnZGoIp0PmE0SU4KT7RLq11rCZJoyNKGJXoRLave95/1lFiLtNx+6Yer23JlCQkKKN6r3Nktrv0EXkbg8RljmcBBG+olBb9W39xaVWbDXRX8WfTmi4y9XqJ5/YGoHf7v5h6Vt7Z0FmKLoQCLw3QE6co9PsmKTsyWRBMp0OsQM03KCm8CQ==;RNqV6QDYLaTW2pjAZID7GA=="
+secured: "4kDdjn5YL95JZhoZAKrLzL/9pL6oFGDhAG85hdGlritvA4easEsE2/Hjak7bQXtGz/yyzrV5XLke0VDTzCBUSAQ71aONt674zI5FefubzsD+dTlK5w/j5kE9jjExwsD5x8SBAfyZ0ouhZH0hkbOX0UwigvvHn+x3oHBp16iICEzf6D9IwXQpVQFEPFT16diIRE8VHpXgvSiieHRMSZo63yLvuW9XYRPJt6vZI15kHt9gA+jPKHiKcYFGDufhcl4x7Zg2JvIeI+Osp9NkRvjPuTabyHZ6nl0q/g2KFydDBa3/alLq5WLJizOVnnSpvngxFxMUAo5sBEY5ZsG1L961Cr/8DRyIoF7RIrkwt+lZZyc=;2Q9vgriOPj37APSjI57BzA=="
 ---
 

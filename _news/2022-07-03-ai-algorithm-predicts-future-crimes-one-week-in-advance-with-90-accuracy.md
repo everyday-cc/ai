@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI predicts crime a week in advance with 90 per cent accuracy"
-    excerpt: "An artificial intelligence that scours crime data can predict the location of crimes in the coming week with up to 90 per cent accuracy, but there are concerns how systems like this can perpetuate bia"
-    publishedDateTime: 2022-07-01T09:01:00Z
-    webUrl: "https://www.newscientist.com/article/2326297-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/30111333/SEI_112352851.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "F0uTlB05uBP/IBYE9b61VslTTFRXcepqwFOPV2sH2NxxpRkGrOy5zWKcCZk6/UZCY2MOEfL2pI/WlCKib4GW0daoBmVyIOJJZrpuKwLLM6WqSuMTo06ZaPnEq/gp0X/x9ZsO9U3WRfWwR+o36p3LCgZLi0OcwAyC1ZOQ8sDh1jUf6bhGgg+DdQ+7pbX4XReturjs/5j2EnqZbVKS37gxf+P29xvTURtlxzj/RDy5O4BzzF6wD6oYP6bANpCMgTXQD51v+A/xFYpcneN1u2I5Bn1ix/PC5kWyteL2EWb4b19Dtpy1w5pXtU7eh6kyuBMktkQPBX/tC3iE8ZI4j1t98mbVGVX63248jqSVjjUzY5U=;pgSkichv8JHAcNaIqUhGvA=="
 ---
