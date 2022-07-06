@@ -1,21 +1,27 @@
 ---
 category: news
 title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
-excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. \"Our partnership with Squirro is an excellent example of co-creation: we are integrating the world-leading AI solutions from Squirro with solutions from the world's leading technology companies such as Google Cloud and Salesforce."
-publishedDateTime: 2022-07-05T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-5-radicant-and-squirro-announce-their-partnership-in-the-field-of-ai-to-leverage-data-based-analytics-and-recommendations"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-5-radicant-and-squirro-announce-their-partnership-in-the-field-of-ai-to-leverage-data-based-analytics-and-recommendations"
+excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
+publishedDateTime: 2022-07-05T12:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
+webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How This Entrepreneur Has Revolutionised Everyday Trading, Leveraging AI And Data Analytics"
@@ -42,6 +48,6 @@ related:
       domain: responsesource.com
     quality: 0
 
-secured: "TX005TKYmpq/JpDwKvzuyls9BYVW8Xu9MbVEKKWO8YD1Vm5KxKCdUFZxbr4O2BaBFf/c1Nj00Qh5LGGpFb73I6WqE0D+iflP6t6JlW55TP8w/vJWBaidQrK7xkjk9FlJZyYwC1yO9oSG7Gr7YxYXVxzdFUxMYVuk8H57O1jM/eBx79pMJo4sXSLZbxHFMySZN4TRf98SsISxh7BzX3FgTVXDYgO9k3/LtxZ1G0p3qFc09m0KyVCOpdOE4YJlYJ3rIAn494Vn5bwRqOp1M0CTBcHvF0NyEIO+xgBzpcmCqosHugSC/2buiNbzeCp6oTXWyKNbAFeEf0Q7UMu+gCiFzcHS2A+WiR0xmBrcce8iwS9SfuYWKceoFmCtD27SobNmm8mlBjiwC3GPDhHAaCwnGy/lYO7+ffJttASXciTQIWys1+oVcw9sW2Aq8ojX/0TIxwtoy60cJQhIgpSMryx5r+7XsEg2h+n5RGrUvP1VoWz7V2zA/79S6BxUf8eTGQNeLVMwAVEdoyMbcTehC29vGg==;orPMKRzWZX9OuWVYhkccVg=="
+secured: "4mFzYERN+SSDSc28zfeMifExk1SjQ5SekFWem7gMi0rvOya1ejwxyOFXlttC5ZxZvOUV7bjk2VLBbeTPdbtWeFifDlkvp2ZAMwRWnTTBwyiPv4/+dMjjqeJVl5nFazrt7OSPr6SxMc7dk1/1GvyAuRQFWLRA1k44o1ygE3irxspiIdaDA3LOqF42VBndkuZv+mzpniL7LmrD4NHrYznAWLsgTgC5X691aY4hK9P9pPLI9eNw3Kmg+hNVHgVWIyIL90orQ2qs3k2sFg2YTm9TxCsstsFwJmJG3yFZBxJfFGUd77UVlrTKIzcGvs77w/0V8etvyoa0QeLwxKxKR9x8WVRS9wJ9qdP4fZM7qx14s1s=;yM17nAxYuy6a8UsZ4A5thA=="
 ---
 

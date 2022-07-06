@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/iisc-researchers-develop
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms"
 type: article
 quality: 66
-heat: 76
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "IISc researchers develop design framework for next-gen analog chipsets to make AI applications fast"
+    excerpt: "Next- generation analog computing chipsets for artificial intelligence (AI) applications, could become a whole lot faster and consume less power, thanks to a design framework developed by researchers at the Indian Institute of Science (IISc)."
+    publishedDateTime: 2022-07-06T05:28:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976188"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 40
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sq_bhargavi_jan23.jpg"
+        width: 280
+        height: 250
+        isCached: true
+  - title: "Iisc Researchers Develop Design Framework For Next-Gen Analog Chipsets To Make AI Applications Faster"
+    excerpt: "Next- generation analog computing chipsets for artificial intelligence (AI) applications, could become a whole lot faste"
+    publishedDateTime: 2022-07-06T04:33:00Z
+    webUrl: "https://menafn.com/1104484172/Iisc-Researchers-Develop-Design-Framework-For-Next-Gen-Analog-Chipsets-To-Make-AI-Applications-Faster"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?918830"
+        width: 500
+        height: 250
+        isCached: true
   - title: "IISc designs framework for analog chipsets for AI applications"
     excerpt: "Indian Institute of Science (IISc) researchers have developed a design framework to build next-generation analog computing chipsets that ma."
     publishedDateTime: 2022-07-05T11:30:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/business/access-healthcare-to-hire-18000-pe
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hindu
@@ -42,6 +42,20 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/pize2e/article65603644.ece/alternates/LANDSCAPE_615/Vardhman_Jain.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "News: Access Healthcare to hire over 18,000 employees in a year"
+    excerpt: "Healthcare BPO Access Healthcare has announced that it is going to hire over 18,000 employees in next twelve months. The new hires are primarily expected to be placed in Chennai, Coimbatore, Noida, Pune,"
+    publishedDateTime: 2022-07-06T04:59:00Z
+    webUrl: "https://www.peoplematters.in/news/recruitment/access-healthcare-to-hire-over-18000-employees-in-a-year-34485"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1654594033/ad-drezxt5v.png"
+        width: 990
+        height: 550
         isCached: true
 
 secured: "QsjEcVezJ3KsCm6a39SCvGBMD+k0xUgrL6cUHWBKA+gx6WGgogA4UmhkX+XWklghs6LBvqE87iUu1QsVwbInumvoLH0gHKXhG/fYKpfR4gnqyBKXSBAKk5afL/SLJAGj9huj7pNblGoDNduUuaFF9Vuf8rzBtVpkO1ABCs9dck3xVpfPI2gC8HBv7LlBt8pNOVlHRPs+XXz0WSWE47NcQsifN731rsE6bFW1OXxvaQ5C5XPlryySbfH5XSmv1rQSEKh/rnybyF14nE93qoFRbxC8QqKYByqVDnYGnOrljFPwMFus7OKsMAoZ2yyPGGk/zJAE4+cq9dBmaYTRQYVk0IydQ4rfu+21j/BENyiqunE=;r52YIZEgMM0zivspfAwa8A=="

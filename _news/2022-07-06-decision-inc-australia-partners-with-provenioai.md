@@ -40,20 +40,6 @@ related:
         width: 453
         height: 286
         isCached: true
-  - title: "Face recognition study in Australia is halted due to privacy concerns"
-    excerpt: "The second-largest appliance retailer in Australia has halted a shop trial of face recognition technology after a consumer organization alerted it to"
-    publishedDateTime: 2022-07-01T11:24:00Z
-    webUrl: "https://menafn.com/1104463973/Face-recognition-study-in-Australia-is-halted-due-to-privacy-concerns"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_1.jpg"
-        width: 800
-        height: 531
-        isCached: true
 
 secured: "Q0vGb61WKzeAbhunvsgkvIE9h2IbVAn61UU2WXJ+K3aQZiMbr1m80+l7tPDiLr4wiSKhAJHTxVpJ0ZVGNgKS4iGv6z95K5BP98uVwuAqm8J6B1+kiGbDO2a2y4qor0alXv1oW/tDJZcSqIeabZ9PCBi3aY3ssVIikFFPk6nnlb+G3HGyUwZR38EQBOP/L/2bMO7wSKZoulRyCJK3J4uy2M8GihMRi4JGpUmH3FYCXQdaWYuZM4pGGRtbycOV+KJ/qXl/J2TO56DoIPCgKQzeaP0xb73zXVLomQJ6pERqOr3PYdCWi+bpVTwnei6fwFnTM9yWY0VCCUH9nww+zWlCV5JmMeQzQ2S39X6+cXvIQZA=;KC6fFYyzJjX54w288dUSSA=="
 ---

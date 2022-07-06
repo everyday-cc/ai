@@ -33,14 +33,19 @@ related:
         height: 1333
         isCached: true
   - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
-    excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. \"Our partnership with Squirro is an excellent example of co-creation: we are integrating the world-leading AI solutions from Squirro with solutions from the world's leading technology companies such as Google Cloud and Salesforce."
-    publishedDateTime: 2022-07-05T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-5-radicant-and-squirro-announce-their-partnership-in-the-field-of-ai-to-leverage-data-based-analytics-and-recommendations"
+    excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
+    publishedDateTime: 2022-07-05T12:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "1iuj/kb2imKnnSLXB5cWKTzstaUeo5RsSXjHQWRPc8xSqLn4dE1zOs2pBgdbKGWYsM72M/qWDlVPj50R6qGhn+SeDWi5ca6+18TC7PBr48Z5jAXBR3z+psXc3xvauxZPAvTgQ0YpESTYvbl8k5QBe4Hd/kAHkWZpuEhWYDuFlG7jCPYyfcioahTzWLIGELWBiEd3PHvRL56UyrqogCXyiTRB4z7c0ICaDdVeZG4NpKQkA/BkgjyXj7rS6HsNtoCrG7VeBbf/p/92xa1AZYtanT4SqGKu2oba+Kv7sKBoKa4xrIh5PHY0kqImF7jK1P3Gm9kXAv+djGxmCxmcugQVLF3ikby5h4YTpTEap3+3sOQ=;heoFOTgLPFjEGeAo4vzoxg=="
 ---

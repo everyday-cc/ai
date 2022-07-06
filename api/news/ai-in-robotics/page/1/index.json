@@ -175,49 +175,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-02-quantum-ai-australia-reviews-best-trading-platform-of-2022.md",
-      "title": "Quantum AI Australia Reviews – Best Trading platform of 2022",
-      "excerpt": "Bitcoin is the most traded cryptocurrency in the world. Traders have been earning thousands of dollars by trading this digital asset.  However, one question every trader, especially beginner traders,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/",
-      "originalUrl": "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/07/Screenshot-2022-07-02-011549.png",
-          "width": 453,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/",
-      "publishedDateTime": "2022-07-01T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
       "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
       "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
@@ -794,17 +751,17 @@
       "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
       "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
       "sourceUrl": null,
-      "webUrl": "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience",
-      "originalUrl": "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience",
+      "webUrl": "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience",
+      "originalUrl": "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/08aed3e/2147483647/strip/true/crop/3000x1848+0+94/resize/880x542!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F06%2FAP20007048093657.jpg",
-          "width": 880,
-          "height": 542,
+          "url": "https://npr.brightspotcdn.com/dims4/default/26ca46d/2147483647/strip/true/crop/1800x1013+0+93/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2FMicron_Boise.jpg",
+          "width": 430,
+          "height": 242,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -812,13 +769,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true",
-      "cdnAmpWebUrl": "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true",
+      "ampWebUrl": "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true",
+      "cdnAmpWebUrl": "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true",
       "publishedDateTime": "2022-06-27T10:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Valley Public Radio",
-        "domain": "kvpr.org",
+        "name": "Boise State Public Radio",
+        "domain": "boisestatepublicradio.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1305,6 +1262,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4.md",
+      "title": "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4",
+      "excerpt": "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "originalUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Messenger",
+        "domain": "the-messenger.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

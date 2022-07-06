@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-se
 ampWebUrl: "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 98
+heat: 98
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000"
@@ -29,6 +30,6 @@ images:
     height: 667
     isCached: true
 
-secured: "WSIe3roaUSVjWZS7sJC21JEmM/vBTC9RxhujrDfR7zGZaVW8g23sRyJuI3oEjPUicyWNBrMrcf0BAklE4/A8MTHQTT2lG4BhgY1moNulEQ14IkB38iz867vfwW0Khws5RsJa9O+eKpA3u8E26n35zXR2KQC4Vum/1tAi9bAM37Xq7byAASDXvpkofwaG/uZcGfJwj7d6wyQDpPvVZtLVqgZK06yqv0VkxNstvtwbdr5qC1B5tEwju4mG4buYOWpX8ZlffEoPkimMxSWMLuSGt2xoZdoErrNaoHq8/+wlRAouB3gyCpFazvQ3heygODDojrJoMFTG/3YnC2wT+7H5Egs9e6nHDfejbxVy9VbLXK0=;pp8AqYcEu3Kb9OZ1eLkgIw=="
+secured: "LE+fddhApoQVfg/WDNIoXul7LbyqqHwzhbgNx9Z55LkNLx0Z5esP8ymbwLRmjo3bkonTGLcPncoeVeZFOHdCY0Kb0rMYaXg550fszIQl0dk95SAx+JlDy5ybaqh3FE+khkP/mu/Dc2nTe7LYSrCb0EL+9aDr+dNoRAyb9i5i8fg+kQzHBNs08LIUvcYx4jlec8Lt8k9Amn8CtlK4GTei1LiJGG5on3q0NRYuWYqpmzYThGZOv2MOZT0uFf74YRbNPOMrs5dumyNvT1quma2wLXLMZIF4ipRlkf/eD6yOPmolgy+18kAmfQ70R+h3qWdsRqbVB3s5plkABc52uiuVRIGgxKQIMN2lnLi6lzkN1zslxUlvdZ3MlrL2Nh+3NPReTU8DBfibUT/UaCxYgyvttKLTnKFH7IEM1k598IrJJxIrEYz2+DbnmPUU69i25LCir2ssysFx4Vg2d7JWioXSenaOuBLp5nJXlCoQ3cV+yyz+8USnR2ixMQqJJdCunXJYAzz7en2ju23I39ZNJchEnw==;G6HtUrpcPRfV5Dm4PMpRiA=="
 ---
 

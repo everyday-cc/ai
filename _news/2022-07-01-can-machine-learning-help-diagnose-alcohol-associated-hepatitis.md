@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 9
-  - title: "Machine-learning algorithms can help correctly diagnose alcohol-associated hepatitis, acute cholangitis"
-    excerpt: "Acute cholangitis is a potentially life-threatening bacterial infection that often is associated with gallstones. Symptoms include fever, jaundice, right upper quadrant pain, and elevated liver enzymes."
-    publishedDateTime: 2022-07-01T12:18:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-machine-learning-algorithms-correctly-alcohol-associated-hepatitis.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 0
   - title: "Machine-learning algorithms can help distinguish acute cholangitis and alcohol-associated hepatitis"
     excerpt: "Acute cholangitis is a potentially life-threatening bacterial infection that often is associated with gallstones. Symptoms include fever, jaundice, right upper quadrant pain, and elevated liver enzymes."
     publishedDateTime: 2022-07-01T13:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Marketing Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
-    excerpt: "AI Marketing Market Outlook: Global \"AI Marketing Market\" 2022: - AI Marketing Market report thoroughly scrutinizes"
-    publishedDateTime: 2022-07-01T11:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-07-01"
+  - title: "Global Deep Learning Market Is Expected To Reach USD 68.71 Billion At A CAGR Of 41.5% And Forecast To 2027"
+    excerpt: "Deep Learning Market Is Expected To Reach USD 68.71 Billion By 2027 At A CAGR Of 41.5 percent. Maximize Market Research has published a report on the Deep Learning Market that provides a ..."
+    publishedDateTime: 2022-07-04T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-deep-learning-market-is-expected-to-reach-usd-68-71-billion-at-a-cagr-of-41-5-and-forecast-to-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-3-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "FCEZLG7Of+QEssDPFIGuFf4iz7yl1XrYQxQkLfcorMb0LncOyw9BKIjkbAzxnRzt4MG1gkCHJa4WyrnQzMKSFzpF9sqwRQViWdK4hXeZJq45O1sgC38VzOxAJThkS/m8AwqE8H0uoCHM/RXdDz48ePhtL7p7M4poyUq4a5l5uBmGJIjOqtaM31S08AwZ9hwZV/hWDp5GyuEp5KP/7HCApWM8iPuwX+alUmTmCO0pRs+1GAJjEydNJ/wBSndExJltfkCo/N4WhaWKSdo6xJekbYzfP3Cs4hCi2v+mGAaRQUrb2gen1RmSMAL4VkCUcZRwyYXvrrY82u77Ttpsyyu/quaK7u3bKCAMGBaRBGMUJRM=;0CufSKbfacpJJHYrgVVC/w=="

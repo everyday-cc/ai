@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
 type: article
 quality: 67
-heat: 117
+heat: 119
 published: true
 
 provider:

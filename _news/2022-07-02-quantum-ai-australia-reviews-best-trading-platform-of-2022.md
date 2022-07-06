@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/quantum-ai-australia-reviews-best-trading-pl
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Impacts
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition study in Australia is halted due to privacy concerns"
-    excerpt: "The second-largest appliance retailer in Australia has halted a shop trial of face recognition technology after a consumer organization alerted it to"
-    publishedDateTime: 2022-07-01T11:24:00Z
-    webUrl: "https://menafn.com/1104463973/Face-recognition-study-in-Australia-is-halted-due-to-privacy-concerns"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_1.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Decision Inc. Australia Partners With Provenio.ai"
     excerpt: "Decision Inc. Australia, a leading independent data and analytics consultancy, has expanded its offering to clients in the retail, FMCG, manufacturing, supply chain and logistics sectors by partnering with provenio."
     publishedDateTime: 2022-07-06T02:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/34361/20-year-indian-students-machine-l
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1"
 type: article
 quality: 89
-heat: 101
+heat: 102
 published: true
 
 provider:

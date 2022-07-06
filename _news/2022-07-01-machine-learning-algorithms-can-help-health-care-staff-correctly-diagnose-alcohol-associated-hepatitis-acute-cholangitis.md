@@ -48,15 +48,6 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 12
-  - title: "Machine-learning algorithms can help correctly diagnose alcohol-associated hepatitis, acute cholangitis"
-    excerpt: "Acute cholangitis is a potentially life-threatening bacterial infection that often is associated with gallstones. Symptoms include fever, jaundice, right upper quadrant pain, and elevated liver enzymes."
-    publishedDateTime: 2022-07-01T12:18:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-machine-learning-algorithms-correctly-alcohol-associated-hepatitis.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 0
   - title: "Machine-learning algorithms can help distinguish acute cholangitis and alcohol-associated hepatitis"
     excerpt: "Acute cholangitis is a potentially life-threatening bacterial infection that often is associated with gallstones. Symptoms include fever, jaundice, right upper quadrant pain, and elevated liver enzymes."
     publishedDateTime: 2022-07-01T13:10:00Z
