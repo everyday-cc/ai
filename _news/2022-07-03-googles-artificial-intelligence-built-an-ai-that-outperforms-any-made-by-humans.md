@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/google-artificial-intelligence-built-ai/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai/amp"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Futurism

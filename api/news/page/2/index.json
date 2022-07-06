@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-07-03-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
-      "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
-      "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
+      "path": "_news/2022-07-04-only-through-international-cooperation-can-ai-improve-patient-lives.md",
+      "title": "Only through international cooperation can AI improve patient lives",
+      "excerpt": "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications.",
       "sourceUrl": null,
-      "webUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "originalUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
+      "webUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://wp-assets.futurism.com/2017/12/image2-1200x799.jpg",
-          "width": 1200,
-          "height": 799,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg",
+          "width": 2880,
+          "height": 2262,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://futurism.com/google-artificial-intelligence-built-ai/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai/amp",
-      "publishedDateTime": "2022-07-02T13:10:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp",
+      "publishedDateTime": "2022-07-04T00:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,278 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-55-per-cent-indigo-flights-delayed-as-crew-call-sick-on-ai-hiring-day.md",
+      "title": "55 per cent IndiGo flights delayed as crew call sick on AI hiring day",
+      "excerpt": "Fifty-five per cent of IndiGo’s domestic flights were delayed on Saturday as a significant section of the cabin crew took sick leave, with sources in the industry saying they appeared to have gone to an Air India recruitment drive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029",
+      "originalUrl": "https://www.telegraphindia.com/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2020/Sep/1599251313_indigo.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029",
+      "publishedDateTime": "2022-07-03T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-facial-recognition-works-on-seals-no-really.md",
+      "title": "Facial recognition works on seals. No, really.",
+      "excerpt": "SealNet is a brand new facial recognition for, you guessed it, seals. Biologists have been training and testing it in Maine for two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
+      "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/07/01/baby-harbor-seal-facial-recognition.jpg?auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp",
+      "publishedDateTime": "2022-07-03T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-employee-experience-automation-human-ai-care-for-your-workforce.md",
+      "title": "Employee experience automation: Human-AI care for your workforce",
+      "excerpt": "Apps for AI-enabled automation are for more than customer support and engagement. They offer value for many people-management activities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
+      "originalUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
+      "publishedDateTime": "2022-07-03T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
+      "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
+      "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
+      "originalUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
+      "publishedDateTime": "2022-07-03T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-an-ai-model-predicted-crime-in-us-cities-a-week-before-it-happened-it-was-right-nine-times-out-of-10.md",
+      "title": "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10.",
+      "excerpt": "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7",
+      "originalUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62c02a18ada84d0019b7dd7f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp",
+      "publishedDateTime": "2022-07-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
+      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
+      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
+      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -53,7 +324,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -893,291 +1164,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-viettel-enters-ai-collaboration-with-nvidia.md",
-      "title": "Viettel Enters AI Collaboration with NVIDIA",
-      "excerpt": "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1851865/Image_1.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence.md",
-      "title": "IIT Delhi to curate robotics curriculum for schools of excellence",
-      "excerpt": "Through this curriculum, students will be trained in different aspects of robotics and automation which will in the field, they said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/1/w600X390/IIT.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
-      "publishedDateTime": "2022-06-30T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure.md",
-      "title": "Resecurity(R) Brings Cyber Threat Intelligence to Microsoft Azure",
-      "excerpt": "Brings Cyber Threat Intelligence to Microsoft Azure Jun 30, 2022 (PRNewswire via COMTEX) -- PR Newswire LOS ANGELES, June 30,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure-2022-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure-2022-06-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-prefrontal-cerebellar-dynamics-during-post-success-and-post-error-cognitive-controls-in-major-psychiatric-disorders.md",
-      "title": "Prefrontal-cerebellar dynamics during post-success and post-error cognitive controls in major psychiatric disorders",
-      "excerpt": "Center for Psychiatric Neuroscience, Feinstein Institutes for Medical Research, Manhasset, NY, USA Division of Psychiatry Research, Zucker Hillside Hospital, Glen Oaks, NY, USA Department of Psychiatry, Zucker School of Medicine at Hofstra/Northwell ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-nvidia-loses-the-ai-performance-crown-at-least-for-now.md",
-      "title": "NVIDIA Loses The AI Performance Crown, At Least For Now",
-      "excerpt": "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
-      "publishedDateTime": "2022-06-30T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.md",
-      "title": "Halsey responds to fans who left Arizona concert following her speech supporting abortion",
-      "excerpt": "Halsey responded to fans on social media following Sunday's concert in Arizona where she voiced pro-choice views, prompting some audience members to leave the show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion",
-      "originalUrl": "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/1200/675/a831e3da-halsey.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp",
-      "publishedDateTime": "2022-06-30T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

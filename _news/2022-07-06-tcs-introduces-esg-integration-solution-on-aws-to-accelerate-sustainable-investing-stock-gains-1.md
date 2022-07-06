@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T13:10:00Z
 originalUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-introduces-esg-integration-solution-on-aws-to-accelerate-sustainable-investing-stock-gains-1-122070600107_1.html"
 webUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-introduces-esg-integration-solution-on-aws-to-accelerate-sustainable-investing-stock-gains-1-122070600107_1.html"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: India Infoline

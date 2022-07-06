@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Reddit acquires natural language processing company MeaningCloud"
-    excerpt: "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,"
-    publishedDateTime: 2022-07-01T20:28:00Z
-    webUrl: "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/"
-    ampWebUrl: "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Reddit buys natural language processing company MeaningCloud"
     excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors."
     publishedDateTime: 2022-07-02T07:18:00Z

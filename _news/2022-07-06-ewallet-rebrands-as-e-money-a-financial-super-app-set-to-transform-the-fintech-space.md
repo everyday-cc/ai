@@ -1,29 +1,27 @@
 ---
 category: news
-title: "eWallet rebrands as e& money, a financial super app set to transform the fintech space"
-excerpt: "(formerly Etisalat Group) today announced that eWallet is undergoing a major transformation into a new fintech company called e& money. As the fintec"
-publishedDateTime: 2022-07-06T06:11:00Z
-originalUrl: "https://www.albawaba.com/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
-webUrl: "https://www.albawaba.com/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
+title: "eWallet rebrands as e& money, a financial super app set to transform the FinTech space"
+excerpt: "(formerly Etisalat Group) recently announced that eWallet is undergoing a major transformation into a new FinTech company called e& money"
+publishedDateTime: 2022-07-06T14:50:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/ewallet-rebrands-as-e-money-a-financial-super-app-set-to-transform-the-fintech-space/"
+webUrl: "https://ibsintelligence.com/ibsi-news/ewallet-rebrands-as-e-money-a-financial-super-app-set-to-transform-the-fintech-space/"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: IBS
+  domain: ibsintelligence.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-07/image%20-%202022-07-06T091600.603.png?itok=eyInbPWx"
-    width: 3200
-    height: 2359
+  - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+    width: 600
+    height: 500
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: zawya.com
     quality: 0
 
-secured: "kJ/zjn0RTgxhbjNklTqwa/n+YQDi68wviVXddRKAPea77M62L7nwPMqjwdWtceFXZn58gT3H3srLjKM7V8GdJQD4klsckRwVsy2pEjb+/NDkorrmrbmAqQrGOTLbni7J3/SsvyCxnhApd8d/wg/zY7YEplwX2bfhVeUux2V99S8mGlSjUCSfbr+ssiLpo46UM2YZ2Kf0nPJKcTAB3O3ZZZMxwC1CLxvg5GQsTkWUwq2/5NJ2sHtyVI2iEMnBoRhbfn1xCJvD2p/Owfwn37Y0tyJMGJ1ZjpbHcnDSdrF4GkqKUgFTj0uebusqu/mUVXd2syfRfU6X6aMUsFv6F0SIhHJsuUluSuQiKOdQq+VZaPE=;N6ZX48WcS0dzCRiaGLb2Sg=="
+secured: "ExDda3SP8mlqoBerNPaEXXJE2fWaWIhfT/lZQKjFHk/EixRRHf+R6szpvAKQdmrFNoTlrfjONzhY+S4QrWGQaQrmTQR68y5zkIbY5Lf3aJRXN3nKB7ypZjZhBEd94ynsus+dX95A5UXsp8pNiDo8P17d5kgcJvyrD0SQax4icyNEgwcU1riQdIyw2L4hVkmNh3I8/ELi1cT5eD7Hmuun7tH/5dVKrXcTpKv0m7s4UeWxh/s/RfZp3LdJxBSNLlg9+T/fUdGe0f0Rp37iwq4A2X6ILGvtGnZduX8OzGce3l2DGL9CCjpMXljujd0ran5o5xwiXcZICwDLLhtGvQ4Wxrn4GOahZ0nS+US3Oem85Sw=;afiJVu6F9WpnCMtM2cKbWw=="
 ---
 

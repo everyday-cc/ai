@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T08:36:00Z
 originalUrl: "https://inc42.com/buzz/m2p-fintech-cloud-lending-platform-finflux-expand-product-portfolio/"
 webUrl: "https://inc42.com/buzz/m2p-fintech-cloud-lending-platform-finflux-expand-product-portfolio/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: inc42.com

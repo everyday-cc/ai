@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T13:03:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56483117-mostly-ai-opens-up-its-synthetic-data-platform-to-revolutionize-software-testing-for-mid-market-companies-004.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56483117-mostly-ai-opens-up-its-synthetic-data-platform-to-revolutionize-software-testing-for-mid-market-companies-004.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T07:10:00Z
 originalUrl: "https://www.gim-international.com/content/article/reconstructing-3d-buildings-using-deep-learning"
 webUrl: "https://www.gim-international.com/content/article/reconstructing-3d-buildings-using-deep-learning"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GIM International

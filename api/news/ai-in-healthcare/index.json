@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
-      "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
-      "excerpt": "Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays, CTs, and ultrasounds in less than a minute, making equitable and high-quality healthcare a reality across the globe.",
+      "title": "AI, ML Making Equitable, High-Quality Healthcare A Reality For Millions: Qure.Ai",
+      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and q",
       "sourceUrl": null,
-      "webUrl": "https://in.investing.com/news/ai-ml-making-equitable-highquality-healthcare-a-reality-for-millions-qureai-3264738",
-      "originalUrl": "https://in.investing.com/news/ai-ml-making-equitable-highquality-healthcare-a-reality-for-millions-qureai-3264738",
+      "webUrl": "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi",
+      "originalUrl": "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942894",
+          "width": 375,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T23:45:00-07:00",
+      "publishedDateTime": "2022-07-06T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,10 +40,52 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Healthcare",
         "AI",
-        "Machine Learning",
-        "AI in Healthcare"
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment.md",
+      "title": "IIT Madras develops Artificial Intelligence-based tool for cancer treatment",
+      "excerpt": "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment",
+      "originalUrl": "https://www.freepressjournal.in/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2022-07/44f38a9e-a2cc-41b2-b342-6bb7667aa49e/GettyImages_1011146302_scaled_e1593524069226_450x300.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment",
+      "publishedDateTime": "2022-07-06T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -327,10 +369,10 @@
     {
       "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
       "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
-      "excerpt": "Sayan shared, \"Artificial Intelligence in healthcare is here, and we are seeing the incredible impact it can have on both members and carriers. Our goal has been to make healthcare more affordable ...",
+      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies-1031560764",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies-1031560764",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -340,21 +382,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T07:17:00-07:00",
+      "publishedDateTime": "2022-06-30T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -397,6 +430,40 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-retrace-achieves-ehnac-healthcare-network-accreditation.md",
+      "title": "Retrace Achieves EHNAC Healthcare Network Accreditation",
+      "excerpt": "Retrace , a leader in dental artificial intelligence and the first native-built AI healthcare clearinghouse providing digital infrastructure for US health care, announced today it has achieved full accreditation with the Healthcare Network Accreditation Program (HNAP) for Electronic Health Networks (EHN) from the Electronic Healthcare Network Accreditation Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -987,6 +1054,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution.md",
+      "title": "BioMech, ēlizur Announce Partnership Integrating AI-Enabled Motion Analytics into Physical Therapy Solution",
+      "excerpt": "BioMech Health and ēlizur announce an agreement to integrate BioMech Lab Into the Shoulder Strengthening and Stabilization System (SSS).",
+      "sourceUrl": null,
+      "webUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
+      "originalUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ptproductsonline.com/wp-content/uploads/2022/06/integration.jpg",
+          "width": 978,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physical Therapy Products",
+        "domain": "ptproductsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-global-gene-therapy-market-report-to-2031-players-include-novartis-bluebird-bio-spark-therapeutics-and-cellectis-researchandmarketscom.md",
       "title": "Global Gene Therapy Market Report to 2031 - Players Include Novartis, Bluebird Bio, Spark Therapeutics and Cellectis - ResearchAndMarkets.com",
       "excerpt": "The \"Gene Therapy Global Market Report 2022, Vector, Application, End Users\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global gene therapy market.",
@@ -1221,139 +1331,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
-      "title": "Accurate diagnosis of brain tumors using artificial intelligence",
-      "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/accurate-diagnosis-of.jpg",
-          "width": 2880,
-          "height": 1347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
-      "publishedDateTime": "2022-06-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-what-if-an-artificial-intelligence-program-actually-becomes-sentient.md",
-      "title": "What if an Artificial Intelligence program actually becomes sentient?",
-      "excerpt": "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.capeandislands.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient",
-      "originalUrl": "https://www.capeandislands.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cape and Islands NPR",
-        "domain": "capeandislands.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-using-artificial-intelligence-to-improve-business-decisions.md",
-      "title": "Using Artificial Intelligence To Improve Business Decisions",
-      "excerpt": "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
-          "width": 753,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
-      "publishedDateTime": "2022-06-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

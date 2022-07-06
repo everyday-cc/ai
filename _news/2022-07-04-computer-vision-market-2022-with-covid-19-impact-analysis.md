@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-with
 webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-with-covid-19-impact-analysis"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Market Forecast to 2025 -Covid-19 Impact and Global Analysis - Market Segmentation, Market Share, Market Size"
+    excerpt: "Global \" Artificial Intelligence (AI) Market \" 2022 Research Report is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,"
+    publishedDateTime: 2022-07-05T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-to-2025--covid-19-impact-and-global-analysis---market-segmentation-market-share-market-size-2022-07-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Service Robotics Market Size, Growth Analysis, Recent Developments, Regional Segmentation, Future Prospects, CAGR Status, and Forecast 2021-2027"
     excerpt: "Astute Analytica released a new research report on the global Service Robotics Market. The global market study looks into a variety of subjects, such as opportunities, market size, development, innovation,"
     publishedDateTime: 2022-07-04T05:56:00Z

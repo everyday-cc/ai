@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T13:54:00Z
 originalUrl: "https://www.greenbiz.com/article/how-ai-can-help-finance-sector-advance-toward-climate-solutions"
 webUrl: "https://www.greenbiz.com/article/how-ai-can-help-finance-sector-advance-toward-climate-solutions"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: GreenBiz

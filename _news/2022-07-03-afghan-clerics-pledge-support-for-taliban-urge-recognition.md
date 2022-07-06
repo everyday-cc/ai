@@ -85,6 +85,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "US Says ‘It's Too Early’ to Consider Recognition of Taliban"
+    excerpt: "The United States says no foreign government is contemplating legitimacy for Taliban rule in Afghanistan, even as the insurgent-turned-Islamist group next month will mark the first year of its return to power in Kabul."
+    publishedDateTime: 2022-07-06T15:31:00Z
+    webUrl: "https://www.voanews.com/a/us-says-it-s-too-early-to-consider-recognition-of-taliban-/6647419.html"
+    ampWebUrl: "https://www.voanews.com/amp/us-says-it-s-too-early-to-consider-recognition-of-taliban-/6647419.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-says-it-s-too-early-to-consider-recognition-of-taliban-/6647419.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
   - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
     excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
     publishedDateTime: 2022-07-02T13:40:00Z
@@ -103,20 +114,6 @@ related:
       name: Investing.com
       domain: investing.com
     quality: 4
-  - title: "Without participation of political figures in jirga, formal recognition of Taliban not possible: Afghan ex-politicians"
-    excerpt: "Criticising Afghanistan national assembly, former politicians said that without the participation of political figures at such gatherings, the formal recognit"
-    publishedDateTime: 2022-07-01T20:55:00Z
-    webUrl: "https://www.malaysiasun.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1656709393.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "46UzpcgO122F95xEOy7PC0WG1kfEftfNRBCmtnbEF+EkrMuem2JD53cZ6Pn4jGS9aN1tjBc1kiPSv6Sb4eYeOUykWHDemh55wv4GS57G56v/5GG4dyW2nzdEdSR7s67xeBJIrH7xJJAqAeBAt0YdSJuc3Dkynf752coh2UMR+vGTFPTU9DWsnjBc/NIvSDqzIwJWjf3/ChJ8gsmV1hpxyOSeHZqBR2YVO/AJpMSWaJP51uTGu1htEvLo1ML2dcBfjkovUr3N1hofi7/MZXqmWmQD1vnGdjqQCeGHBQFRXcPMTidJpIx+xgx5sizdK8QVkuj/tmrF0YMO6o7mZ+9lEmhzO4Vc7wN35Rah8s8N5sOY/XrpgscgzVKMQaE7FVrsOL2cZDMoxgDqM8KvjCLOIgzrrDscBBM2eI/2UPFioeu5uarHf/fRfPEEZnaTERwJ+8W5GIVunB3pIJPyz1q7e1bYc0hClYDrf4Nuvddv1EQYljmdFHgiZ9DZNisbJbR22O9vDm4XBTBwq7X3B2xROQ==;OobdCCv061RrLgo9bGG4tw=="
 ---

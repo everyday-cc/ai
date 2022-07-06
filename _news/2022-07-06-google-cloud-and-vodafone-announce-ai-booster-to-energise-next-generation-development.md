@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/368441/google-cloud-and-vodafone-ann
 webUrl: "https://www.itpro.co.uk/cloud/368441/google-cloud-and-vodafone-announce-ai-booster-to-energise-next-generation-development"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "AIQ and MBZUAI look to energize AI research on energy industry solutions"
-    excerpt: "AIQand Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) have signed a Memorandum of Understanding (MoU) that"
-    publishedDateTime: 2022-07-05T09:45:00Z
-    webUrl: "https://menafn.com/1104478444/AIQ-and-MBZUAI-look-to-energize-AI-research-on-energy-industry-solutions"
+  - title: "Vodafone builds on its Google Cloud relationship with AI Booster"
+    excerpt: "Vodafone is doing a lot of application development on Google Cloud Platform (GCP)The focus with GCP is data analytics and the automation of software developer"
+    publishedDateTime: 2022-07-06T15:24:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 57
     images:
-      - url: "https://menafn.com/updates/pr/2022-07/05/pr_11999_8ca74d8a_image_story.jpg"
-        width: 4000
-        height: 2634
+      - url: "https://assets.telecomtv.com/assets/telecomtv/vodafone-14356.jpeg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "PWSOSoKOR5R6hTEd1sMXQiPJVAxS/1eih59q2x5g+Vw5ylVxwRpXJD1RlypeKXBuSWRoZU+oYbafKBrw2GOdx8xIsnbLwYBXIt2sVS3t59x+mZZ/r0mwnyBC/pl4SwfXgg5eNxjypKMTfzgjRB8SuvB5tRo1GbYsiHGaRr58lrze/NKY4LWromwBD9od4SSh1Q5yoyMV14K+3vG3k32q5nFSlku7qDzcrxvR/j0FWZPpPvtVg/ChH7COSNKRTURJAeSfiyJSH1f7hOq0nxR39hmtJO6WJTt4UcyL2qiC1wVOhERQ0BfxmDa3S0pUSxGixmTYNe1a+rhtL06Wx9ePU/fNf6GStyDbkcWTopFJ5RI=;DS77VMPMFcrRwmxtN+9Otg=="

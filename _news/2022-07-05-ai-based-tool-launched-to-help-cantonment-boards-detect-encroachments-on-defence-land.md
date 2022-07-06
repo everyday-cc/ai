@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonme
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "CoE-SURVEI: Defence lands under watch of AI-based software that detects unauthorized constructions and encroachments"
-    excerpt: "SURVEI, established by Directorate General Defence Estates at National Institute of Defence Estates Management, leverages the latest technolog.."
-    publishedDateTime: 2022-07-05T10:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments/92675815"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments/92675815"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments/92675815"
+  - title: "IIT Madras develops Artificial Intelligence-based tool for cancer treatment"
+    excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
+    publishedDateTime: 2022-07-06T10:18:00Z
+    webUrl: "https://www.freepressjournal.in/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
+    ampWebUrl: "https://www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 57
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92675815,imgsize-5046,width-1200,height-628,overlay-etcio/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments.jpg"
-        width: 1200
-        height: 628
+      - url: "https://gumlet.assettype.com/freepressjournal/2022-07/44f38a9e-a2cc-41b2-b342-6bb7667aa49e/GettyImages_1011146302_scaled_e1593524069226_450x300.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "IIT Madras develops Artificial Intelligence-based tool for personalised cancer diagnosis"
+    excerpt: "The new tool was able to successfully predict both the existing oncogenes and tumour-suppressor genes like TP53, and PIK3CA, among others, and new cancer-related genes as well."
+    publishedDateTime: 2022-07-06T09:53:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 50
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/1/w600X390/The_fight_Against.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Engineers Create AI Railroad Trespassing Detection Tool"
+    excerpt: "A team of engineers at Rutgers has developed an AI-enabled tool that can detect trespassing on railroad crossings, helping reduce the increasing number of fatalities taking place over the past ten years."
+    publishedDateTime: 2022-07-02T13:56:00Z
+    webUrl: "https://www.unite.ai/engineers-create-ai-railroad-trespassing-detection-tool/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/rails-3309912_1280.jpg"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "IIT Madras develops AI tool for personalised cancer diagnosis"
+    excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
+    publishedDateTime: 2022-07-06T09:06:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976266"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sq_bhargavi_jan23.jpg"
+        width: 280
+        height: 250
         isCached: true
 
 secured: "FZYV/SPdosHJXeXt9M81oFK+zCMSt8Xzr7nOWFXEj81OcgoYeJJkWiOB8d/w+61m5lV71FhsrHaWtQnNT/qePYSwQ9yC67V6M787UdZCEtKBh/9wWUf1SJz6iCF9ThU82jpu+S5mCgfvlirQ+9q2TXIZhkxzBrjeOeYMpqWmjJZ8kjEySvLLgZIlNN80SNNxUbikdX1GEWNARsW5UEMPjNGNxQJcYYE1DAx1fDxGo37fHm453hUlY9iNKoYtNE0PC7E4SaukY/omZuSQknCoHwDe7DpFMmvzPbe+yqptO53/UCsKh6sdBEaWO67Pv7k6b0/1zGmNbG8SzsYLecTsDS+sIM4Xrhuis5ISy5MU7vI=;OVlb5FboO3xfIPX7QuKJZA=="

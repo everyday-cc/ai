@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T12:13:00Z
 originalUrl: "https://www.balcanicaucaso.org/eng/Areas/Balkans/Digital-Fortress-Europe-3-dystopic-surveillance-218439"
 webUrl: "https://www.balcanicaucaso.org/eng/Areas/Balkans/Digital-Fortress-Europe-3-dystopic-surveillance-218439"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Osservatorio Balcani e Caucaso

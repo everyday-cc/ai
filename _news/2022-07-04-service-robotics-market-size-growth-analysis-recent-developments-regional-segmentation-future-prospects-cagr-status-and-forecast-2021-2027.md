@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) Market Forecast to 2025 -Covid-19 Impact and Global Analysis - Market Segmentation, Market Share, Market Size"
+    excerpt: "Global \" Artificial Intelligence (AI) Market \" 2022 Research Report is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,"
+    publishedDateTime: 2022-07-05T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-to-2025--covid-19-impact-and-global-analysis---market-segmentation-market-share-market-size-2022-07-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2022 with (COVID-19) Impact Analysis"
     excerpt: "The Computer Vision Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
     publishedDateTime: 2022-07-04T06:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://business.scoop.co.nz/2022/07/06/decision-inc-australia-par
 webUrl: "https://business.scoop.co.nz/2022/07/06/decision-inc-australia-partners-with-provenio-ai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "Quantum AI Australia Reviews – Best Trading platform of 2022"
-    excerpt: "Bitcoin is the most traded cryptocurrency in the world. Traders have been earning thousands of dollars by trading this digital asset.  However, one question every trader, especially beginner traders,"
-    publishedDateTime: 2022-07-01T20:16:00Z
-    webUrl: "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/"
-    ampWebUrl: "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/Screenshot-2022-07-02-011549.png"
-        width: 453
-        height: 286
-        isCached: true
 
 secured: "Q0vGb61WKzeAbhunvsgkvIE9h2IbVAn61UU2WXJ+K3aQZiMbr1m80+l7tPDiLr4wiSKhAJHTxVpJ0ZVGNgKS4iGv6z95K5BP98uVwuAqm8J6B1+kiGbDO2a2y4qor0alXv1oW/tDJZcSqIeabZ9PCBi3aY3ssVIikFFPk6nnlb+G3HGyUwZR38EQBOP/L/2bMO7wSKZoulRyCJK3J4uy2M8GihMRi4JGpUmH3FYCXQdaWYuZM4pGGRtbycOV+KJ/qXl/J2TO56DoIPCgKQzeaP0xb73zXVLomQJ6pERqOr3PYdCWi+bpVTwnei6fwFnTM9yWY0VCCUH9nww+zWlCV5JmMeQzQ2S39X6+cXvIQZA=;KC6fFYyzJjX54w288dUSSA=="
 ---

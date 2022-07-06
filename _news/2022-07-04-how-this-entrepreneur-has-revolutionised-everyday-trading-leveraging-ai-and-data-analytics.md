@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "ICC Qatar and Moody’s Analytics hold seminar on financial crimes and AI"
-    excerpt: "Doha: The International Chamber of Commerce Qatar (ICC Qatar) in collaboration with Moody s Analytics organized a seminar on June 28 on Fighting"
-    publishedDateTime: 2022-07-06T06:20:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/06/07/2022/icc-qatar-and-moodys-analytics-hold-seminar-on-financial-crimes-and-ai"
+  - title: "ICC Qatar And Moody's Analytics Hold Seminar On Financial Crimes And AI"
+    excerpt: "and financial crime detections by infusing machine learning (ML) systems and artificial intelligence (AI) in their day-to-day operations. It also discussed the current supply chain challenges ..."
+    publishedDateTime: 2022-07-06T13:28:00Z
+    webUrl: "https://menafn.com/1104485801/ICC-Qatar-And-Moodys-Analytics-Hold-Seminar-On-Financial-Crimes-And-AI"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20220706_1657088515-953.jpg?1657088515"
-        width: 1000
-        height: 606
-        isCached: true
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
   - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
     excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
     publishedDateTime: 2022-07-05T12:24:00Z

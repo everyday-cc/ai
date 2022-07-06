@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "eWallet rebrands as e& money, a financial super app set to transform the fintech space"
-    excerpt: "(formerly Etisalat Group) today announced that eWallet is undergoing a major transformation into a new fintech company called e& money. As the fintec"
-    publishedDateTime: 2022-07-06T06:11:00Z
-    webUrl: "https://www.albawaba.com/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ewallet-rebrands-e-money-financial-super-app-set-transform-fintech-space-1483203"
+  - title: "eWallet rebrands as e& money, a financial super app set to transform the FinTech space"
+    excerpt: "(formerly Etisalat Group) recently announced that eWallet is undergoing a major transformation into a new FinTech company called e& money"
+    publishedDateTime: 2022-07-06T14:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ewallet-rebrands-as-e-money-a-financial-super-app-set-to-transform-the-fintech-space/"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 36
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 16
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-07/image%20-%202022-07-06T091600.603.png?itok=eyInbPWx"
-        width: 3200
-        height: 2359
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
         isCached: true
 
 secured: "KR6qn8DBua+HyYPYvF5vowNwfGQ/jQFwvce44F9+ttc3Gh+U3LBmQBN6AtDQ9eTI1wt2t6LCorfJnFWNjNPEVZOK+z483edU7tlG1Hi7OQtQlsEtS3sI3IX7koPGAUenSXXHbAxsBX2ZtYY+qBZCQ5JLdjUiIMPtvXyB3r/RBxyIRHAtOF7FMBtu5cU97JWJH7Uv9SLKMXYKB9S037MUrzTaidEfdFC0Y/saBBaOETo2HOBOuUFQ5akn1Ja7O+brAERSM8rkqzugNi+Rw/pODYO3SH529FZVopVKNrnJvWEKHaMHQiP0833VdzSmsWERiVw0IjrzatF+uI9C7Tst63f8hlo1VXVlmuACedtAkHj2DgjFFiphhaNkkJbBBVe/HU3GoPu6Tz29CxtMmik43o0hxR7+cZIONgE38xmLLD3tpHzsXZLIJ7UodhYZEwImpoL5FpZlANaNf/qG+qPGCQMMGYIy1Bg2ei+DE7OrCqGYU0c2hyE/tde6XKla/qO3XX8rfylZ1Jw7MfaHuuESHQ==;Oln2tmEPwlIFSvTJSC4aeQ=="

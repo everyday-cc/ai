@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.theengineer.co.uk/media/0nuow2ar/adobestock_224332680.jpeg?width=1200&height=630&mode=crop"

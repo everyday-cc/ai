@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-04T08:25:00Z
 originalUrl: "https://www.fox43.com/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
 webUrl: "https://www.fox43.com/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: FOX43

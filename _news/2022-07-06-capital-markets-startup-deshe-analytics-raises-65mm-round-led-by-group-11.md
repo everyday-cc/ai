@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Capital Markets Startup Deshe Analytics raises $6.5MM round led by Group 11"
-excerpt: "Israeli fintech Deshe Analytics provides investors with AI-based stock analysis for all public companies and in all languagesTEL AVIV, Israel"
-publishedDateTime: 2022-07-05T18:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11-1031568367"
-webUrl: "https://markets.businessinsider.com/news/stocks/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11-1031568367"
+excerpt: "Deshe Analytics announced a $6.5 million seed funding round led by Group 11, with participation from Psagot Investment House and the"
+publishedDateTime: 2022-07-06T09:54:00Z
+originalUrl: "https://enterprisetalk.com/news/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11/"
+webUrl: "https://enterprisetalk.com/news/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11/"
+ampWebUrl: "https://enterprisetalk.com/news/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/capital-markets-startup-deshe-analytics-raises-6-5mm-round-led-by-group-11/amp/"
 type: article
-quality: 45
-heat: 45
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - AI
 
-secured: "AOSChKLlSrxL3oON513GJoLMcZLiMUkE4KVR8WjdJgegEAAmumkxHh2OdMNUZAV/sP5wwU75JEcgSJhEh+r4nm5RtLL7pg1NEmuCuUB+Df7WWGwxo4CmA+gv4Wb/sgnTE3s4ap8iOX7yxkQk6/tb7Xt0ifYENymL/eAz9zIfh8aQVA6kZ2x/l/eXYKV5rqzCHOR8AQ+8wqi6dd4y/K+dgEQFpTZzn6TyizHMt9xxUUtDSoptN5SuBtrjPblSeSk0dOQvBxU2GQZd84JNxncA5NceAmr0MbBXI7pdt+qo5iPwLC1JvSGRWrKD2qslRvUsnsM2jqEUEB6SQf2WdV7XJt60U3lVFY2o1nENwbCvFiw=;b1YfHYgTLel7DymaOF3sNQ=="
+images:
+  - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Deshe-Analytics_-a-startup-in-the-capital-markets_-raises-_6.5-million-in-a-round-headed-by-Group-11-01.jpg"
+    width: 700
+    height: 400
+    isCached: true
+
+secured: "0tAm0U36T2F9jyEJfhMbxrlvEIZrE2Kz9eOxRCshGKN0B6TFTl+KBGmq2diE8xPmJU8ok3r0hCnCsld1Sh10d5CP21Lj5sMPUX1Bwbe5rnfJB/kOsW/1YSIiKwwtK3yvPA8ma0uNviKIwWlkSbmkuF8viL1SR5iEyoW//47LcUgRUfxtKXlQ6XVX80mT/KXphtMeqv5dBYNloka03blXYgSLT8bJ5G9IkAKSkpvF5dpSXWLOo+JX220hjNuMlBP7wB5tk1sKR8TccJ2jsJOzr9/HVcYXfx0UHWXqRIz/9j9LwtBPEqEpdrwZlro/8EiWViC5MOjMmVxCuFByZl9Ih+4xIH2fdA2C/oVpKvBf6MQ=;hCaWJJSkjd1qp27R+YqFoA=="
 ---
 

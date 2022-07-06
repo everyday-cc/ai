@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/enough-with-the-ai-washing%EF%BF%BC/"
 webUrl: "https://analyticsindiamag.com/enough-with-the-ai-washing%EF%BF%BC/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics India Magazine

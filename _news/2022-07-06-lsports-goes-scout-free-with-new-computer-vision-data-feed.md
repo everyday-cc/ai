@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T08:01:00Z
 originalUrl: "https://sbcnews.co.uk/featurednews/2022/07/06/lsports-computer-vision-data/"
 webUrl: "https://sbcnews.co.uk/featurednews/2022/07/06/lsports-computer-vision-data/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: sbcnews.co.uk

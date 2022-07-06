@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T13:55:00Z
 originalUrl: "https://www.proactiveinvestors.com.au/companies/news/986742/mgc-pharma-launches-data-collecting-online-doctor-app-with-machine-learning-algorithm-986742.html"
 webUrl: "https://www.proactiveinvestors.com.au/companies/news/986742/mgc-pharma-launches-data-collecting-online-doctor-app-with-machine-learning-algorithm-986742.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Proactiveinvestors UK
