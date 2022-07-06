@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-23-uncovering-links-between-grit-and-cognitive-function.md",
+      "title": "Uncovering links between grit and cognitive function",
+      "excerpt": "A new analysis of the personality trait of grit found that people who showed higher levels of grit also had different patterns of cognitive performance—but not necessarily enhanced cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uncovering-links-betwe.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.amp",
+      "publishedDateTime": "2022-06-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-octoml-ceo-mlops-needs-to-step-aside-for-devops.md",
       "title": "OctoML CEO: MLOps needs to step aside for DevOps",
       "excerpt": "\"We can just use DevOps, but for that you need to be able to treat the machine learning model as if it was any other piece ... include a myriad of public cloud instances from AWS, GCP, and Azure, and support for different versions of CPU — x86 and ...",
@@ -1287,59 +1330,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best.md",
-      "title": "Report: AWS, Azure and GCP evaluated for overall performance — which is best?",
-      "excerpt": "Join AI and data leaders for insightful talks and ... The report evaluates the performance of AWS, Azure and GCP for common Online Transaction Processing (OLTP) workloads. Testing shows that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
-      "originalUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
-      "publishedDateTime": "2022-06-15T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

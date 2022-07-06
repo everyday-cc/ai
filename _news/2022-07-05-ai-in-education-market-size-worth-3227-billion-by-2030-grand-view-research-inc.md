@@ -19,20 +19,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-07-01T16:13:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Robot Preventive Maintenance Market to Garner USD 10.05 Billion by 2030, states a Report by Next Move Strategy Consulting"
     excerpt: "According to the report published by Next Move Strategy Consulting, the global robot preventive maintenance market generated USD 4.23 billion in 2021, and is expected to"
     publishedDateTime: 2022-07-05T12:30:00Z

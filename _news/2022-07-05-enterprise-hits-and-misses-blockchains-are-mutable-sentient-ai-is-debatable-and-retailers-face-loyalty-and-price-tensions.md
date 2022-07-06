@@ -36,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Is the business concerned about AI sentience?"
+    excerpt: "However, last month, Google developer Blake Lemoine made a claim that his discussions with an AI chatbot demonstrated it was sentient, which reignited the argument over whether AIs are capable of feeling emotions as humans are capable."
+    publishedDateTime: 2022-07-05T11:00:00Z
+    webUrl: "https://bestgamingpro.com/is-the-business-concerned-about-ai-sentience/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Does-AI-sentience-matter-to-the-enterprise.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Hub71 And E& Enterprise To Launch The UAE's First AI Center Of Excellence (AI Coe) In Abu Dhabi"
     excerpt: "Located at Hub71, the AI Centre of Excellence (AI CoE) will enable companies and startups to develop, deploy and scale cutting-edge applic"
     publishedDateTime: 2022-07-03T22:57:00Z

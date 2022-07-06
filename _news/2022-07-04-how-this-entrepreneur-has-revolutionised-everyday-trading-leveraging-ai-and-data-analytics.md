@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/430735"
 webUrl: "https://www.entrepreneur.com/article/430735"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "ICC Qatar and Moody’s Analytics hold seminar on financial crimes and AI"
+    excerpt: "Doha: The International Chamber of Commerce Qatar (ICC Qatar) in collaboration with Moody s Analytics organized a seminar on June 28 on Fighting"
+    publishedDateTime: 2022-07-06T06:20:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/06/07/2022/icc-qatar-and-moodys-analytics-hold-seminar-on-financial-crimes-and-ai"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220706_1657088515-953.jpg?1657088515"
+        width: 1000
+        height: 606
+        isCached: true
   - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
     excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
     publishedDateTime: 2022-07-05T12:24:00Z

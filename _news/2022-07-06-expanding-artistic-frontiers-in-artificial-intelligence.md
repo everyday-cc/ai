@@ -5,9 +5,11 @@ excerpt: "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAU
 publishedDateTime: 2022-07-05T19:06:00Z
 originalUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html"
 webUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp"
 type: article
-quality: 19
-heat: 19
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -17,7 +19,14 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
-secured: "MxHV5WwEwBhSZCrBTheaAJhtmVXApqX4G8ukQWDgCJyte9TEJH80lCaMLvG2LrGES0OQ40aQOvxNEyC3iOi6kKbXU79QEyiYS8PeZu4JQGfbqCJbGglK9ZQCOrMSjasAXZ1bGt3OUEaFEdI42CmjbRN+5jXn//iwHJqTO3v+Bvxem0nR7B5/KY3jSZ4h7btDJqGs3V/rFEogum2NlDwGOWWlCqH0Mjgm97zNFJOLATCCeR8kEATH1NwTDALhpqmFWdZinkgODSXcXIT9KUW51w8HAiS2Rqf74T2a3YOkkWBY2v0UPfUwxNVDgdyFkGTsxaYFGPGGN6iy3fl0m0a4DlK8xscOs6SrhJEgqTxlpWagqHTMyZBQ/M+9BTKkDDcR82GV3HfwCbCW6HneeTpnDe5svWp9Q5pHmolrDDLTjVuetflBxP3BJZXlWkMWlbBtWEF1QcgPLw3JDRAOEPhpDVPfASFbWZuLjmJNJtLysQo6IFlCvuifXWTeuhgqb6REwGKbEp2ZdIWz3zX53abxeA==;NLpzcXlnRvFk0j0Xz68gyA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg"
+    width: 711
+    height: 450
+    isCached: true
+
+secured: "SWrV19hJP44rlg0RbePiCs/75tBx/dftd8VWSsCOFqlT4+2IctJOwnsJzAFxAh4rBgsfRPhuLNpOG/aftKgUNJ99rtr8NPxc88r/IDu7ciE4DonYhC3Wlw5uXJJrllj22b1QuNXR+Sbq3KKQJ7vucnzQIFMl+X+P5jKuyoTAjYVicVTc4i7YDnQNLRjpGKIqiz5PXuClcOT9FmiA3zvBCiMNByccyC8q7ne9haNXQqdXcpwLFjYw4n/PH5dJ5bFEKdpodYd56h4g2LgDk0wxgG505Kh6MAy15c1Fff8ceypLtDNwTxw9jF72GjDG3Lc7cxKphY7MiJwrqzw8kYJvvELCm0mVXQD1jVoPn+itU0o=;32D4GZkxzzC3Yti9FmfJuQ=="
 ---
 

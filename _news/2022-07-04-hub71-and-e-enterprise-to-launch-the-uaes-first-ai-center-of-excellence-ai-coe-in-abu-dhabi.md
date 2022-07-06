@@ -33,6 +33,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Is the business concerned about AI sentience?"
+    excerpt: "However, last month, Google developer Blake Lemoine made a claim that his discussions with an AI chatbot demonstrated it was sentient, which reignited the argument over whether AIs are capable of feeling emotions as humans are capable."
+    publishedDateTime: 2022-07-05T11:00:00Z
+    webUrl: "https://bestgamingpro.com/is-the-business-concerned-about-ai-sentience/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Does-AI-sentience-matter-to-the-enterprise.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Enterprise hits and misses - blockchains are mutable, sentient AI is debatable, and retailers face loyalty and price tensions"
     excerpt: "This week - will retailers salvage a volatile 2022 with a holiday surge? Plus: blockchain security gets called out, as does TikTok on data privacy. Big tech is still quiet on data privacy, and supply chain leaders face the analytical whip."
     publishedDateTime: 2022-07-05T09:32:00Z

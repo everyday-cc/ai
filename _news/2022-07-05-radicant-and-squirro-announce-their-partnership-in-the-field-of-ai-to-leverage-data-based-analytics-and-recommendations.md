@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "ICC Qatar and Moody’s Analytics hold seminar on financial crimes and AI"
+    excerpt: "Doha: The International Chamber of Commerce Qatar (ICC Qatar) in collaboration with Moody s Analytics organized a seminar on June 28 on Fighting"
+    publishedDateTime: 2022-07-06T06:20:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/06/07/2022/icc-qatar-and-moodys-analytics-hold-seminar-on-financial-crimes-and-ai"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220706_1657088515-953.jpg?1657088515"
+        width: 1000
+        height: 606
+        isCached: true
   - title: "radicant and Squirro announce their partnership in the field of artificial intelligence (AI) to leverage data-based analytics and recommendations"
     excerpt: "Zurich, July 5, 2022 – radicant, the first sustainable, digital and collaborative internet-based financial services company which is aligned with the UN's 17 Sustainable Development Goals, is"
     publishedDateTime: 2022-07-05T08:00:00Z

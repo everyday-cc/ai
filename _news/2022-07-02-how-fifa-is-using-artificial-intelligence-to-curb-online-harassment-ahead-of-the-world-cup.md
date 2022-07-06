@@ -66,17 +66,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
-    excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
-    publishedDateTime: 2022-07-01T16:02:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
-    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 27
 
 secured: "D3pxJUfbnj22rbNNrt4MSU3WcJ3jOP8F2ih1VCDFK3PNAiDnRSgSCOGYmIkqiXadljE5Scpjt8ilyN9g/JOyJRLcvvhd15xbSeamZv3HFkHX0DlT9pW1lC/1BOfwVk7kR8LLKAs4Mc1/9DKJXx0FDEzZ+zGz8FeS25jX8YHNN+ljQXP+96UDMUi6dAeoiKA6yXI/kZpoIzneY5ucT2v6UHAUbX8m24gGfYvvyCM0kEcf0QotXNJYIdYcEC5EMyEW8wQkuhresFPofDn/WF/gXfel0JnF8i5LfZNrheN97ySi4QXcweix2cRQsJkTQJL8AyFEpxh9dqJ+qrejBULHNH/Uyw/JShzrf6VwtWYcGVM=;vMgxpmv+fHuBLYEQdN0FGw=="
 ---

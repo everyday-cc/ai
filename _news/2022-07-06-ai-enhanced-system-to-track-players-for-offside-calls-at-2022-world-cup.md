@@ -63,17 +63,6 @@ related:
         isCached: true
   - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
     excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
-    publishedDateTime: 2022-07-01T16:02:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
-    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/07/01/artificial-intelligence-world-cup"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 27
-  - title: "How FIFA is using artificial intelligence to curb online harassment ahead of the World Cup"
-    excerpt: "In recent years, some fan fervor has crossed the line into online harassment as many players have become the target of abuse on social media."
     publishedDateTime: 2022-07-01T17:20:00Z
     webUrl: "https://www.boisestatepublicradio.org/2022-07-01/how-fifa-is-using-artificial-intelligence-to-curb-online-harassment-ahead-of-the-world-cup"
     type: article

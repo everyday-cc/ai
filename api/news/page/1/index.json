@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
+      "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
+      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/",
+      "originalUrl": "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png",
+          "width": 696,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canindia.com",
+        "domain": "canindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors.md",
       "title": "Xiaomi 12S Ultra and 12 Pro come with Elliptic Labs’ AI-powered proximity sensors",
       "excerpt": "Elliptic Labs, a provider of artificial intelligence (AI) software and virtual smart sensors, debuted “INNER BEAUTY,” AI-powered proximity sensors, on Xiaomi‘s most recent flagship products, the Xiaomi 12S Ultra and Xiaomi 12 Pro.",
@@ -216,7 +261,7 @@
       "originalUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -765,7 +810,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/430735",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1128,49 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
-      "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
-      "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "originalUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2017/12/image2-1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/google-artificial-intelligence-built-ai/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai/amp",
-      "publishedDateTime": "2022-07-02T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

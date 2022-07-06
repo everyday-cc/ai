@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
+      "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
+      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/",
+      "originalUrl": "https://www.canindia.com/ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png",
+          "width": 696,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canindia.com",
+        "domain": "canindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-20-year-indian-students-machine-learning-software-to-be-sent-to-space.md",
       "title": "20 Year Indian Student’s Machine Learning Software To Be Sent To Space",
       "excerpt": "A student from India studying in the Nanyang Technological University (NTU) in Singapore, has developed a machine learning software along with his team consisting of 4 other students from the same institution.",
@@ -1323,49 +1368,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-giving-ai-cars-a-memory-may-help-navigate-challenging-conditions.md",
-      "title": "Giving AI Cars a \"Memory\" May Help Navigate Challenging Conditions",
-      "excerpt": "Cars using artificial neural networks have no memory of the past and are in a constant state of seeing the world for the first time – no matter how many times they’ve driven down a particular road before. The researchers have produced three concurrent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362901/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901-640x360.jpg?cb=20220622",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

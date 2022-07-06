@@ -2,19 +2,19 @@
 category: news
 title: "When machine learning meets surrealist art meets Reddit, you get DALL-E mini"
 excerpt: "DALL-E is the AI image generator social media users are employing to crank out bizarre art memes that range from beautiful to horrifying."
-publishedDateTime: 2022-07-05T09:01:00Z
-originalUrl: "https://www.kvpr.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
-webUrl: "https://www.kvpr.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
-ampWebUrl: "https://www.kvpr.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini?_amp=true"
-cdnAmpWebUrl: "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini?_amp=true"
+publishedDateTime: 2022-07-05T14:01:00Z
+originalUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+webUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+ampWebUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini?_amp=true"
+cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini?_amp=true"
 type: article
 quality: 56
 heat: 56
 published: false
 
 provider:
-  name: Valley Public Radio
-  domain: kvpr.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - Machine Learning
@@ -26,6 +26,6 @@ images:
     height: 542
     isCached: true
 
-secured: "bSrlRtIxkRdkCXMrvtk5ciSDbF3UtQaHU6czI+k6G9KJQfiojInourUdIyaDN1ycV2JX3c1GI7tlSM1R+GVStKtkrCOc/3eU1QzjnB6PSDZ6+IJwFi8ZzUXVeIvaQM2njNW/4MVGiXDEaEwrWBHN4ssuP7o3ZJ3n1UzzeeWEvLQX8IOravocssUYokZLrpYCBVTurAFzLqYCY6T5HagjSulnb9pSddhkmKZbI3zE4riRWJa+3XRaG1+hKjjaxPIO+2Vjb7ej3HcTnS6Xjn5ybGCWgxHFBFKnWYoA+czQLpNGVXV20QAaspVdyPaT2LdN8ggZlJnaPSrdb4sHmjEMr58xeatHEg7vhjKtxXTirjg=;jaBV+/nkO+vGrdHUYaICyA=="
+secured: "uKLwQLgbZMH3aIiORKcn4OzIU0lttfEiXFfwmB3NDS0H0iegS2z4pWHaFhZAiO3gL/rwPXWoSE4eBp8HMm/cn8oh9LCvyzIKOhjn2S5l9n/tMkLBM7gjnww9shjIPNyBkD3+O3ZALZX843F4tOXXaTeP55BfsgUlR/sj3zUaH3vAA+PrqlqOvaPyaoxI7fiHspTnjeDTVd3ZuYox3AMoAaWgt6Hr+7+sjkYnkIscoUBxuDcQA83R80GnNUKJ0JnLIgOGSsBKFtIeT6flVvU+FHBuLijYEPZ1DNIbIFyTwKTwiH2uCz9P236BLZBlbP/jPUujaG4fnXzlSV3y+zaaJLGSCybh+PjznMyOt4KAs74=;6NswXYEvO4HI0JJKx1UagA=="
 ---
 
