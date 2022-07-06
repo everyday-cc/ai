@@ -43,20 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "A new section for self-driving vehicles has been added to the Highway Code"
-    excerpt: "The changes are included in a new section in The Highway Code which can be accessed for free on GOV.UK. Currently only vehicles with advanced driver assistance systems are availab"
-    publishedDateTime: 2022-07-01T09:44:00Z
-    webUrl: "https://www.newsandstar.co.uk/news/20248916.new-section-self-driving-vehicles-added-highway-code/"
-    type: article
-    provider:
-      name: News and Star
-      domain: newsandstar.co.uk
-    quality: 22
-    images:
-      - url: "https://www.newsandstar.co.uk/resources/images/13946702/"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
     publishedDateTime: 2022-07-05T01:13:00Z

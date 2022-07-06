@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-04T05:01:00Z
 originalUrl: "https://www.discovermagazine.com/health/how-bias-can-creep-into-health-care-algorithms-and-data"
 webUrl: "https://www.discovermagazine.com/health/how-bias-can-creep-into-health-care-algorithms-and-data"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/24PzrDX6O8yckKsrDbk9AB/f6f2045a9852947f725a93f4e510217e/Medical_bias.jpg"

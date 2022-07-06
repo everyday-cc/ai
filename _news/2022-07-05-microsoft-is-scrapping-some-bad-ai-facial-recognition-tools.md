@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
 type: article
 quality: 106
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg"
         width: 1920
         height: 1024
+        isCached: true
+  - title: "Cloud4C Achieves the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C, a leading global multi-cloud migration and managed services provider announced that it has earned the Kubernetes on Microsoft Azure"
+    publishedDateTime: 2022-07-06T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/cloud4c-achieves-kubernetes-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_189.jpg?h=7de12b8a&itok=19Fgh0JO"
+        width: 600
+        height: 316
         isCached: true
   - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
     excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"

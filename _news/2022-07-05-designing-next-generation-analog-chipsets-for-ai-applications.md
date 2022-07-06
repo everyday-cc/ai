@@ -57,20 +57,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "IIT Mandi launches MBA Programme in Data Science and Artificial Intelligence, application begins"
-    excerpt: "IIT Mandi announced the launch of Masters in Business Administration, MBA programme in Data Science and Artificial Intelligence starting fall semester in the year 2022. The Indian Institute of Technology,"
-    publishedDateTime: 2022-07-01T09:55:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-mandi-launches-mba-programme-in-data-science-and-artificial-intelligence-application-begins-article-92595587"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 24
-    images:
-      - url: "https://static.tnn.in/thumb/msid-92595587,imgsize-100,width-1280,height-720,resizemode-75/92595587.jpg"
-        width: 1279
-        height: 720
-        isCached: true
 
 secured: "03918XBnS44SyWfcG0GNPJwXc0HQuGn7IGGVKcr8e2EILu1Z1bOyyoUrHijEUfP2g7zfoxqzset4S8hCGUvCWGELvdnWaX+QHBJaRiCz8a7arxyW0Eq7s+w42DY7y+WoLUfnPj7g6hd6ElrfpHkIZaeOLzcvcxsjt3GT85329s1uEBpqqthFpL5UUD2fVs5rS5VACEZMbAV09cHT2JW8AtellCHPa3p286ZCiH2OXLbeV3pDFSiCl82hdECh1Rx+EZBcQ4whuxDiADPOOHYvFihxLseUYoXIMoyuX3axCGIq/4TIZix8uDcagYXUMXRpO7kiTNm5+Hv4lePaLCXlUHNxG8TBw/IP5jjpyroBSlT4F/yvV7exZ9dAa9voRYE0CLmEJoUCo/cNymVW6MESac6olqBrOdp03nhmKGo6Hj6eYfB/kG7/qNvjLctrV2jRlr3aJCSe83g/v02KrTjQdILRn5wEwEkzAG2jNkRYK7eT63wKrlCwxZFx6RO23bN3Ld89QqxBOoV4wH11aMsnlw==;+6FXeixVyeGRbqsLmCCYcg=="
 ---

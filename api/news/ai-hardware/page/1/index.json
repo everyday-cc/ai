@@ -384,58 +384,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It's alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
-      "originalUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
       "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
       "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
@@ -1392,6 +1340,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-human-machine-interfaces.md",
+      "title": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces",
+      "excerpt": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces. Ideal for automation, smart buildings, network cameras",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/21/9624814.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/21/9624814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

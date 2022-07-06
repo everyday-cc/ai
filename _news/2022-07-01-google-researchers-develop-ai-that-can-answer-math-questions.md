@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Math for AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/google-2.png"

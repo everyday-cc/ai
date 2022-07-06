@@ -57,20 +57,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "A new section for self-driving vehicles has been added to the Highway Code"
-    excerpt: "The changes are included in a new section in The Highway Code which can be accessed for free on GOV.UK. Currently only vehicles with advanced driver assistance systems are availab"
-    publishedDateTime: 2022-07-01T09:44:00Z
-    webUrl: "https://www.newsandstar.co.uk/news/20248916.new-section-self-driving-vehicles-added-highway-code/"
-    type: article
-    provider:
-      name: News and Star
-      domain: newsandstar.co.uk
-    quality: 22
-    images:
-      - url: "https://www.newsandstar.co.uk/resources/images/13946702/"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "OGryTvBXtvTljcppNKTlEX5IS4Yj60K44gTvqj2q6fDt0xpMSziQhpCFNtH9zgPhmH0aBkoXk6WgWIVTp4J9+akQLn6gGvDARTFO8dMMjb8fCCFBy75dK7/wERQZZL7czK+6a5j5eaqrc6c6NnszFk4WBhCUMmpVrmbiuE/tc+VQuY7CdPnJid27aT2i+NPmyY5b/oD2vEgqAE9L/zrnaIbYieXebHhNNQ7IkdgIlfE3hdG4rlf3hzr2ruwPlXwyFPvpQ8gLAn59Vb0d8ZTChKyupm/8+GjUp4TOjCWmJOmPSsRAPXgXrPSpTk1u3PilarJrJQe/m3uo47lK2KVHX2nsfbH55eJrQRd/QhsFg/TzXCjvUUAzdeqoovg+/tzSMfTMjYASx/k0HcG61dFNR86kJ5jY6x94QKlDIkIcdF0R9GAlHdt4dsPtLQbpT1cVc5XAEWswhQz3jfzrsRvMZkiVLakZKjgRk/qDqhE9WGsgRQ4oNPvWqo4Xi3z8Du/okUO6weOsmjqfxZELRymAxw==;HeHswAJmWocuDsWiz3JOVg=="
 ---

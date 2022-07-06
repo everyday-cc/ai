@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Computing Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Cloud Computing Market is projected to grow at a robust CAGR of 13.7% and is predicted to reach from US$ 517.9 Billion in 2022 to US$ 1.9 Trillion in 2032. While Asia Pacific’s technology expenditure has surged,"
-    publishedDateTime: 2022-07-01T09:36:00Z
-    webUrl: "https://www.fmiblog.com/2022/07/01/cloud-computing-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032-2/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "FCEZLG7Of+QEssDPFIGuFf4iz7yl1XrYQxQkLfcorMb0LncOyw9BKIjkbAzxnRzt4MG1gkCHJa4WyrnQzMKSFzpF9sqwRQViWdK4hXeZJq45O1sgC38VzOxAJThkS/m8AwqE8H0uoCHM/RXdDz48ePhtL7p7M4poyUq4a5l5uBmGJIjOqtaM31S08AwZ9hwZV/hWDp5GyuEp5KP/7HCApWM8iPuwX+alUmTmCO0pRs+1GAJjEydNJ/wBSndExJltfkCo/N4WhaWKSdo6xJekbYzfP3Cs4hCi2v+mGAaRQUrb2gen1RmSMAL4VkCUcZRwyYXvrrY82u77Ttpsyyu/quaK7u3bKCAMGBaRBGMUJRM=;0CufSKbfacpJJHYrgVVC/w=="
 ---

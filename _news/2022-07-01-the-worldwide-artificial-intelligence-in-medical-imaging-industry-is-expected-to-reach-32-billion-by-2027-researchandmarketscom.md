@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide NLP In Healthcare And Life Sciences Industry Is Expected To Reach $6.8 Billion By 2028"
-    excerpt: "The 'Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report By Component, By Solution Type, By End User, By NLP Type, By Deployment Mode, By Organization Size,"
-    publishedDateTime: 2022-07-01T09:41:00Z
-    webUrl: "https://menafn.com/1104463669/The-Worldwide-NLP-In-Healthcare-And-Life-Sciences-Industry-Is-Expected-To-Reach-68-Billion-By-2028"
+  - title: "AI In Education Market Size Worth $32.27 Billion By 2030: Grand View Research, Inc."
+    excerpt: "The global AI in education market size is expected to reach USD 32.27 billion by 2030, according to a new report by Grand View Research, Inc. The"
+    publishedDateTime: 2022-07-05T13:16:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56476515-ai-in-education-market-size-worth-dollar-32-27-billion-by-2030-grand-view-research-inc-008.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?362989"
-        width: 374
-        height: 250
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 28
+  - title: "Global Robot Preventive Maintenance Market to Garner USD 10.05 Billion by 2030, states a Report by Next Move Strategy Consulting"
+    excerpt: "According to the report published by Next Move Strategy Consulting, the global robot preventive maintenance market generated USD 4.23 billion in 2021, and is expected to"
+    publishedDateTime: 2022-07-05T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27951542/global-robot-preventive-maintenance-market-to-garner-usd-10-05-billion-by-2030-states-a-report-by-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "IwSWOdv9P9HX2fUBWxGCDpL2REaB1MIFlxvdGlhWy1jVOqTjmqbd82CvygUX0Son95CmauyPEPhtyTNPz3U1Wlh22R0OUS6yWWmGdxk24HirI++x/9/Uc2E3glgzkZY5jyepcDiMuEywvQIMCibwZfCAvfqh3pbOItycPm+oYncdELzPc7XWt5SQoLiCuI2/LYqwZR5tDYpq1zNCjmvlPkeWAl8ze9P0hlfJT00S9abwbQ8QZ3NbO+zaxq8bBe4nFqWeMBnskn8MDXmNnGeAmyDv15n7dwG2MppZJRJzi7ZhuZFrI/flCEq5LHH/llCpae3RrZcODJTHddw4sVsOYKAQNlamAcwlQLGfH6ayjKY=;gg82KFlnz0rtkwQCtKQzZA=="
 ---

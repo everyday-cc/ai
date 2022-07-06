@@ -28,6 +28,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 28
+  - title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-07-01T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "QYxkmePJc8/iCH0C7r/CNexjfIBeCIk26PJVrdOthx9V5zYPpsSe2c8sOxXA0w98PxGXUaYnRh0zTB5GrnfkNBg8brxhIZIW2XcUCuQlYg7/6vV9mj9irro0NYrjIPVowt46uDO0ubujbYsa4g0SC2Rt9cm+8ikCyg/YSCnIyzrx8fb8qNcj2D1tJ/xNOUwCjJxocbGu99PdORcJEfnjWKBDK6U2GOcWReZnpmO9isgU25iLO9nAgvNcHW8MwQvC1k4JIOijiSgq94S+s/MylLA0v4mbHacR+BMuII5eEnITS4F+NoMwGZ1peEg97LZhtSGmiBlTiWlgoWjcT9hgEihmYfuMBqIVtDM+oK+YJCQ=;l4DRstiL5e1dm7ltpJ/vaQ=="
 ---

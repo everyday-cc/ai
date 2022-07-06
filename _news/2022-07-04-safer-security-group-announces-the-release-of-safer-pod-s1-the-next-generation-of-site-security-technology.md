@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/safer-security-group-safer-pod
 webUrl: "https://www.sourcesecurity.com/news/safer-security-group-safer-pod-s1-next-generation-site-security-technology-co-4414-ga-co-1557224325-ga-co-1652250188-ga-npr.1656932447.html?ref=nav"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -18,19 +18,6 @@ topics:
   - AI in Robotics
   - AI
   - AI in Security
-
-related:
-  - title: "Vigitron, Inc. announces the launch of the company’s new website that offers detailed information on their products"
-    excerpt: "Vigitron, Inc., the globally renowned manufacturer of network solutions designed for security applications, has announced the release of its new website. The new website is easy to navigate,"
-    publishedDateTime: 2022-07-01T09:54:00Z
-    webUrl: "https://www.sourcesecurity.com/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 17
 
 secured: "mVARDHwGM+pnE1yIaifQP2SNEknuLQSnyl4wrL/gIGwEg20Qo9DQtFo9Grt+r7pYSBY15xN5LdFeUSfN8gfmvFMIxnNF/l/JZMx8ljqtaFXdDIMxVjVtimWndDylkWuPc7JN+b/zg4crm+1gsfk+VB+ueJ/BTxIcuKXVQzxVrUqftgkDXaJh4RB2Qlp1agfnWt7PjwlT9h4Hd9oDDDImK6Tn+Lp7iORTEkriR+WHoGbqv0NKPALn2cWDlqmcXnq1lRaibpHyHvZ3PbuMw2YDphLca4N3fWIa76b1AbT7lz755vBbP7IhrHlRSxSTIA0J6VaBRV295a3nZF/lHoo6W3uEo1/LHREyRnsqH4uwtG0=;L/zweKI2fmejmAFPQGDB4A=="
 ---

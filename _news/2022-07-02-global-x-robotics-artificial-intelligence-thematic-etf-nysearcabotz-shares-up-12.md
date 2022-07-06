@@ -37,15 +37,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 30
-  - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-    excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
-    publishedDateTime: 2022-07-01T09:04:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/01/advisornet-financial-inc-purchases-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 29
 
 secured: "y6yE7CJroGqFA5wLnjWAT7uW4zQPBBPAc3tts9fnSdV7arHsOVtbjuQ1oVKP5iIYkDv1PP5Y302OTLj8ViA6IJseZuEjJvEbtHtHNYwiWPwZ8MW0Rpttv5TXeTiOrlPJU//GCo3hspS4dc1p83T/qIFoA/Odj/hQB1ZqlZIBbAJMB9Fjhs8VnZhJHsz4QDf7v/Rxu0dAGTdvKr+FckNVNx014uQ9v/FDLVnDq2znw1K64LSL2ytAtCllEY60lu2vqO8KPxjSIImIYzLaReKb/fagTX1GyG4IYo5cjq/G4gCioWfZTlWWc7e0VWTDZDtAf+SUferi+zmzb0or3jISxAFDt/iDTKskeN09Vj0uYGcY35ikUActAJvSfyrYOqtuqgMG1+5mHgD+Ik3yq2gbzF4R7tMcXQs1sIlJDslyo+4cN/PjSLUCXoOzEhCPD4DSoDC6cqsXY2NQPUUIPEhIdwzaL26FHCPtzZkDnIeH0ObVjqjpYk2hjY276tdGoWlAwr3BBaGuiXnaYKtk7t4sNA==;YtoXjVd05XmIuLiJkl/jSA=="
 ---

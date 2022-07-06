@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1024
         isCached: true
+  - title: "Cloud4C Achieves the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud4C, a leading global multi-cloud migration and managed services provider announced that it has earned the Kubernetes on Microsoft Azure"
+    publishedDateTime: 2022-07-06T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/cloud4c-achieves-kubernetes-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_189.jpg?h=7de12b8a&itok=19Fgh0JO"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
     excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
     publishedDateTime: 2022-07-05T23:38:00Z
