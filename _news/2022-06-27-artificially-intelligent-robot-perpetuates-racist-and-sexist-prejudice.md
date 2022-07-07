@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/06/27161237/SEI_111293227.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/07/how-gamification-and-ai-can-revam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/07/how-gamification-and-ai-can-revamp-insurance/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
         width: 2880
         height: 2262
+        isCached: true
+  - title: "Standardisation body calls for AI definition, categorisation to be decided as standards"
+    excerpt: "The European Telecommunications Standards Institute (ETSI) suggested that the definition of AI and categorisation of high-risk applications are left to technical standards in a letter sent to the European Commission and obtained by EURACTIV."
+    publishedDateTime: 2022-07-07T15:08:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/standardisation-body-calls-for-ai-definition-categorisation-to-be-decided-as-standards/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 29
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/07/shutterstock_1163505310-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "AI cannot be named as inventor on patent applications:"
     excerpt: "The European Patent Office has taken note of the written decisions published by the Boards of Appeal today and welcomes the clarification on the topic of AI named as inventor."

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
+      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
+      "excerpt": "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality. Well, AI is here now and we still aren’t ready for it.",
+      "sourceUrl": null,
+      "webUrl": "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.html",
+      "originalUrl": "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/c/c4/cc4f50ae-7d9f-5a03-8be0-d3c6af064307/626ad17c4f635.image.jpg?crop=331%2C381%2C198%2C44",
+          "width": 331,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.amp.html",
+      "cdnAmpWebUrl": "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.amp.html",
+      "publishedDateTime": "2022-07-06T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Crosse Tribune",
+        "domain": "lacrossetribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
       "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
       "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1382,59 +1426,6 @@
       "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
       "publishedDateTime": "2022-06-16T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ai-weekly-lamdas-sentient-ai-debate-triggers-memories-of-ibm-watson.md",
-      "title": "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson",
-      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
-      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
-      "publishedDateTime": "2022-06-16T04:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

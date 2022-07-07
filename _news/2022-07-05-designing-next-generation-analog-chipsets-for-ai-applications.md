@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
     provider:
       name: The Hans India
       domain: thehansindia.com
+    quality: 34
+  - title: "Reforming Prior Authorization with AI and Machine Learning"
+    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 34
   - title: "Moving to AI in action: how law firms can overcome inertia and embrace next-generation technology"
     excerpt: "Download the guide to read more about how SearchFlow is making AI accessible and value-adding for law firms, lowering the barriers to entry and making AI in action a reality."

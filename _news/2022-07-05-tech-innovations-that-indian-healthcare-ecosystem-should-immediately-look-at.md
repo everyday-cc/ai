@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "GE Healthcare opens 5G innovation lab in India"
+    excerpt: "GE Healthcare (NYSE:GE) announced today that it inaugurated its first 5G innovation lab around the globe in Bengaluru, India. The company aims to use the 5G innovation lab to position itself at the forefront of groundbreaking advances in patient care,"
+    publishedDateTime: 2022-07-07T14:35:00Z
+    webUrl: "https://www.massdevice.com/ge-healthcare-5g-innovation-lab-india/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 39
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Indian Relief Foundation and AISeon Healthcare Technologies launch the first SEED Innovation Hub in Mumbai"
     excerpt: "India's first-of-its-kind, state-of-the-art SEED Innovation Hub for screening and early detection of non-communicable diseases was launched at Mumbai's Lion Tarachand Bapa Hospital, Sion, Mumbai on July 2,"
     publishedDateTime: 2022-07-05T12:26:00Z

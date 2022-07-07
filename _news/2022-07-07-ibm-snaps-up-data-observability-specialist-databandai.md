@@ -172,6 +172,24 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "IBM acquires data observability startup Databand.ai"
+    excerpt: "IBM recently acquired data observability startup Databand.ai. The technology improves data quality to fix large-scale problems. The Israeli company"
+    publishedDateTime: 2022-07-07T12:22:00Z
+    webUrl: "https://www.techzine.eu/news/data-management/82738/ibm-acquires-data-observability-startup-databand-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+  - title: "IBM Eyes Data Observability Market with Databand.ai Acquisition"
+    excerpt: "IBM today announced it has acquired Databand.ai, a leading provider of data observability software that helps organizations fix issues with their data, including errors, pipeline failures and poor qua"
+    publishedDateTime: 2022-07-07T12:46:00Z
+    webUrl: "https://www.smechannels.com/ibm-eyes-data-observability-market-with-databand-ai-acquisition/"
+    type: article
+    provider:
+      name: NETGEAR
+      domain: smechannels.com
+    quality: 19
 
 secured: "2UYS5R6Aqk4I7z1XICnKN9iegwWNrIeCo1JQQ6wGYGHzSIghBxwItbW0w3qUhfGd8rOz25wectT8w1qrPtEZke7w/9tptN9IjVo/R/4uDIknJRMUIkEZGEbxl1hBs96rSqrpiyhRmOmkskJ35hW3gequA+ZwVDmv+/z41UVujXt19qQBdvXmRxJm/wEKCqGDa8C+HVvo6vnAfaxvZHNJPcYLx061kYvpIIoby/U/MvF9LTtIvF64hY8BsZm/QX+WopeCj31yvQ1joaURsyd3IDhnazjXVVMEDpnANdWT5wWb5G96YjUW5kp6yto2fD8Y7EWhuxwYqQv+poJKtIsUDKwrc5wiLpDKUQncbw0K0YQ=;LyY6tH4mF3lA56aviLS3nQ=="
 ---

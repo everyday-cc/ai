@@ -29,7 +29,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000"
         width: 1000

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T12:11:00Z
 originalUrl: "https://seekingalpha.com/article/4522176-palantir-investors-underestimating-ai"
 webUrl: "https://seekingalpha.com/article/4522176-palantir-investors-underestimating-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha

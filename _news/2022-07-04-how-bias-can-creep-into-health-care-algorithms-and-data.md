@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How AI Can Boost Rural Connectivity & Healthcare"
+    excerpt: "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G."
+    publishedDateTime: 2022-07-07T15:01:00Z
+    webUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/"
+    type: article
+    provider:
+      name: Pragativadi
+      domain: pragativadi.com
+    quality: 56
+    images:
+      - url: "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png"
+        width: 748
+        height: 445
+        isCached: true
   - title: "AI wants to revolutionize healthcare—it may be doing more harm than good"
     excerpt: "Proponents of AI In healthcare say it can revolutionize medicine. But those pushing it ignore long-standing problems."
     publishedDateTime: 2022-07-06T18:42:00Z

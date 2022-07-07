@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Worldwide Radar System Industry to 2027 - Featuring BAE Systems, Dassault Aviation and Raytheon Among Others - ResearchAndMarkets.com"
-excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The global radar system market reached a value of US$ 32.3 Billion in 2021."
+excerpt: "The global radar system market reached a value of US$ 32.3 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 42.1 Billion by 2027, exhibiting a CAGR of 4.52% during 2021-2027."
 publishedDateTime: 2022-07-04T15:20:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/covid-health-general-dynamics-corp-fc16ed51771042aa917eae359511b106"
-webUrl: "https://apnews.com/press-release/BusinessWire/covid-health-general-dynamics-corp-fc16ed51771042aa917eae359511b106"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-4-worldwide-radar-system-industry-to-2027-featuring-bae-systems-dassault-aviation-and-raytheon-among-others-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-4-worldwide-radar-system-industry-to-2027-featuring-bae-systems-dassault-aviation-and-raytheon-among-others-researchandmarketscom"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "hSxZXuditeOYyePSLue5chQBX4cUtz+rQawsYTE4YYQ0xfbEV0CpE6hISih9o5JJg9LUps81otsxbuLEj131Tg69kU4/mbr5d3+bT70rom6J1GdZN9QQc5KKH8Eh98vCfblh6sEMczsMn22UIit5iipHsoQOeZ+Bnm6D/FJqChwGZT7AeQtLzOxzolnJVfkTRTXGjnVVrsLUskIb5jBCukr5YkMGe5d7YZi/10BCKwn4zmbZPA4GS78rITuEASgmEMXFwB+bd4NjZxQh4GAXjgICMWsC67OXJuN3TcCfLgcs3lB8Rcd112J52cuLC+Ta0Net2Qf4O0ST3WnOiWHlS9q3UE3hl9X09VSDeajTDsQ=;0avhcQDZEpPkgtcZ3MTIlA=="
+secured: "jE2cVFJJXjRju0BCfrHjhWNCZxgbIHt/ZNR1t+NFLdKyj+RisC3y9usi1qCqck45jE4DmfWM4xj1keTE0sgoEhM6Gf5Ej+EX8t0gcoXcDEXTSAmckjf//ap5d3oSqLkK+fGPnywLbWN8n9mOx/xCK5fjZUUsy0IFE61A8+OZXhctSNS+8lPLiVhXk/ef0gFP/hH7eM4lSDqEVrpZEqy6GmvwyhAeWygAYBk6hRuV2WfvddWAnAsewG+vg7Y1X/Q11CZ5rIShdbFHVYIPL+F+p/iZiDnN9Hq9moPoZTA2TPbZGQ7pULrYfzH0rQn4FoYcBAduk8hEQZ5esAccbE90g5ngGLSrlsoGkZXHLrKpAU4=;gRhU0hbBVKIXEZUP08IETg=="
 ---
 

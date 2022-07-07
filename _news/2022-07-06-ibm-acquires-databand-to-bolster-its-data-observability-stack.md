@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -173,6 +173,24 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "IBM acquires data observability startup Databand.ai"
+    excerpt: "IBM recently acquired data observability startup Databand.ai. The technology improves data quality to fix large-scale problems. The Israeli company"
+    publishedDateTime: 2022-07-07T12:22:00Z
+    webUrl: "https://www.techzine.eu/news/data-management/82738/ibm-acquires-data-observability-startup-databand-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+  - title: "IBM Eyes Data Observability Market with Databand.ai Acquisition"
+    excerpt: "IBM today announced it has acquired Databand.ai, a leading provider of data observability software that helps organizations fix issues with their data, including errors, pipeline failures and poor qua"
+    publishedDateTime: 2022-07-07T12:46:00Z
+    webUrl: "https://www.smechannels.com/ibm-eyes-data-observability-market-with-databand-ai-acquisition/"
+    type: article
+    provider:
+      name: NETGEAR
+      domain: smechannels.com
+    quality: 19
 
 secured: "4OD8XHhCiqoQwkNwoXQE5TvOzk0zNhNHyMWeArcFKWYD6zHGSbVIx1XCyfglqpO7NyUPvrGjzHJLX5zSYBxpaH62NyUU0E4uleMfkD4BmImLMYrWXjUA34nlqBaSz613A8vxq0DrHeewZId4v6ovYMDnObOvGPqhhXGMDk9wRQrRtCrtP8Dp0EFu1Amt44koVj0Px0fXeGOC34FWBh9LHZlbs7prg4V5v1EaEsQsf4LTHHrW4tsBSx4x62csCUPIgB8maE4BRIxV5oxXKcp6N14jQT+wcWZV9DBOnFtM1JsLZun34hSbMFdWvsqGIDGTZhPpeWnE6atxHuFRlLhf1zyBQZx8G74i1MJSEQZMxd4jBl+lf9uAhVW7eiiGGLQfNxTPtTExHEO9teZAu9StGdEy9W62twWphTiLRqcdPN/ItYhK6jpN2VaH5EaRgevdbpfrpFkp3yh5DgBNd9OuQCjbRgzqnETgH349FBZqsIUDraBTnBKcTp6WHsdp4df/UcSec+s9CoRTJZlEgxUb8w==;zJ6Ylv2y2vC/9G6svMFI+g=="
 ---

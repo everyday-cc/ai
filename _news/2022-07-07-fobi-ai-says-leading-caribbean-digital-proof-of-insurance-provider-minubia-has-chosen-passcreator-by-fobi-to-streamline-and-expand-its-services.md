@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T13:14:00Z
 originalUrl: "https://ca.proactiveinvestors.com/companies/news/986912/fobi-ai-says-leading-caribbean-digital-proof-of-insurance-provider-minubia-has-chosen-passcreator-by-fobi-to-streamline-and-expand-its-services-986912.html"
 webUrl: "https://ca.proactiveinvestors.com/companies/news/986912/fobi-ai-says-leading-caribbean-digital-proof-of-insurance-provider-minubia-has-chosen-passcreator-by-fobi-to-streamline-and-expand-its-services-986912.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Proactiveinvestors

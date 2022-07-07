@@ -37,6 +37,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "BangDB launches APIs for AI, Graph and Stream processing for emerging use cases in data analytics"
+    excerpt: "AI database firm BangDB has launched the REST APIs for its converged data platform. BangDB is the world's highest performance database which makes it highly suitable for modern applications that require predictive real-time analysis for fast moving data from devices,"
+    publishedDateTime: 2022-07-07T13:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-apis-for-ai-graph-and-stream-processing-for-emerging-use-cases-in-data-analytics-1031573216"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "ICC Qatar And Moody's Analytics Hold Seminar On Financial Crimes And AI"
     excerpt: "and financial crime detections by infusing machine learning (ML) systems and artificial intelligence (AI) in their day-to-day operations. It also discussed the current supply chain challenges ..."
     publishedDateTime: 2022-07-06T13:28:00Z

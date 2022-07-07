@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T13:32:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-clinical-trials-glaucoma-1ce30e4f0d3915741d4ca9b60a55c85e"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-clinical-trials-glaucoma-1ce30e4f0d3915741d4ca9b60a55c85e"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Associated Press

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-se
 ampWebUrl: "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/"
 type: article
-quality: 98
-heat: 108
+quality: 100
+heat: 110
 published: true
 
 provider:

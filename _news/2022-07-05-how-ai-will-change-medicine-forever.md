@@ -50,7 +50,7 @@ related:
       domain: adsadvance.co.uk
     quality: 39
     images:
-      - url: "https://www.adsadvance.co.uk/media/images/banners/967.png"
+      - url: "https://www.adsadvance.co.uk/media/images/banners/972.jpg"
         width: 300
         height: 250
         isCached: true

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T12:00:00Z
 originalUrl: "https://news.crunchbase.com/quarterly-and-annual-reports/na-startup-funding-declines-q2-2022-monthly-recap/"
 webUrl: "https://news.crunchbase.com/quarterly-and-annual-reports/na-startup-funding-declines-q2-2022-monthly-recap/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: crunchbase

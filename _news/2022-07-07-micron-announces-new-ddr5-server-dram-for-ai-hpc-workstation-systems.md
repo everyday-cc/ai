@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T00:43:00Z
 originalUrl: "https://www.tweaktown.com/news/87253/micron-announces-new-ddr5-server-dram-for-ai-hpc-workstation-systems/index.html"
 webUrl: "https://www.tweaktown.com/news/87253/micron-announces-new-ddr5-server-dram-for-ai-hpc-workstation-systems/index.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TweakTown

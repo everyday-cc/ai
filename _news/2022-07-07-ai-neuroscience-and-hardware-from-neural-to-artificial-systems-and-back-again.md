@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/957972"
 webUrl: "https://www.eurekalert.org/news-releases/957972"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial intelligence is giving way to new tools for neuroscience research"
+    excerpt: "The study of artificial intelligence (AI) and neuroscience have many things in common. At its core, neurosciences aim to better understand the brain by deciphering its complex networks and processes."
+    publishedDateTime: 2022-07-07T13:09:00Z
+    webUrl: "https://www.news-medical.net/news/20220707/Artificial-intelligence-is-giving-way-to-new-tools-for-neuroscience-research.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 14
 
 secured: "DIdjYvCUdvf2WHAmEcv0Kq1je9+rQ0iEyosk5To8dE6UidgOJIPhYzyiIpvJELxL0772+nNJZN/oxDvRqvL0raV5fJESNVSe4cYe4XO5KGO263VSoKTar7J81jhuq8SK/Nf3emJ9HocM/UVNCJe3idBJgCMqnNAVNRtvlzeUDelBfNnDxQSEy+Wy8D9tUy08k5PK/L5bIFbDeiCeNcpgWBc0+DUl632r6apL2z+xWmWW3xauyhNpzgoeQlxidIDH/rO2wsfn3RZvea0cWEctib0Temc93uyYxESBUZ0GfVF3h/jYV5dOnisYc2qZ2qUBL9IUAynAU88q9l+0JJMzG0DQJGlQiVaoTr9575nZPak=;qEQS4dybREuCSF7z2w3p1g=="
 ---

@@ -24,6 +24,26 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Text-To-Speech Market Size is Projected To Reach USD 5790.1 Million By 2028 At A CAGR of 12.3% - Valuates Reports"
+    excerpt: "Text-to-Speech market is segment by Type - English, French, German, Italian, Korean, Others, by Application - Automotive and"
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/text-to-speech-market-size-is-projected-to-reach-usd-5790-1-million-by-2028-at-a-cagr-of-12-3-valuates-reports-881449045.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
+  - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
+    publishedDateTime: 2022-07-07T12:49:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-worldwide-robotic-software-platforms-market-to-reach-us113-billion-by-the-year-2026-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+
 secured: "546I8i40PtnUevUrPbZnOiHIoxWyMdM7wezXgV4MzoyAOV2BXLe55Er5B1/R1lYKgRqhO/Va+3ddsLdfvdeJtoQTleWj6qy1mryBIz8DHKURe8DcP4UpbvmeqWwA18gdFpeaPupoysmsmz0W2tchHNuDSDAycR7JVnsO6EzVajZtLJWyYgkT8dXAJRpQHyqOH/qGUW5KKJBvixpjwIYKl9Hr+H3RY3f9V05Qu2EXddt1FaCDrSav8q9AoVY2U0PIP1mZlzGQxvUgEknxMzvdTBg7Ajl8cg1YzCTv0Ap/xvMQ37lvvS9fhVJRDUwD+AzOv82hTMryrcZHwuUUsN2TYI+/Q0n2T72DjbPDxC3cXHQ=;SH1P5TuWXP5PxWAdTtShxQ=="
 ---
 

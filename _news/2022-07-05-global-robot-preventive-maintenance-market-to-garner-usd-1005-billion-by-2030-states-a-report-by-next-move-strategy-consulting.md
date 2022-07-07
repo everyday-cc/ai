@@ -28,6 +28,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 28
+  - title: "The Worldwide Self-checkout Systems Industry is Expected to Reach $10.5 Billion by 2030 - ResearchAndMarkets.com"
+    excerpt: "The global self-checkout systems market size is expected to reach USD 10.50 billion by 2030. It is expected to expand at a CAGR of 13.3% from 2022 to 2030. Gilbarco Inc. Increased demand for automation and technology advancements focused on reducing theft incidences are significant factors driving the market."
+    publishedDateTime: 2022-07-07T13:56:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-the-worldwide-self-checkout-systems-industry-is-expected-to-reach-105-billion-by-2030-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "QYxkmePJc8/iCH0C7r/CNexjfIBeCIk26PJVrdOthx9V5zYPpsSe2c8sOxXA0w98PxGXUaYnRh0zTB5GrnfkNBg8brxhIZIW2XcUCuQlYg7/6vV9mj9irro0NYrjIPVowt46uDO0ubujbYsa4g0SC2Rt9cm+8ikCyg/YSCnIyzrx8fb8qNcj2D1tJ/xNOUwCjJxocbGu99PdORcJEfnjWKBDK6U2GOcWReZnpmO9isgU25iLO9nAgvNcHW8MwQvC1k4JIOijiSgq94S+s/MylLA0v4mbHacR+BMuII5eEnITS4F+NoMwGZ1peEg97LZhtSGmiBlTiWlgoWjcT9hgEihmYfuMBqIVtDM+oK+YJCQ=;l4DRstiL5e1dm7ltpJ/vaQ=="
 ---

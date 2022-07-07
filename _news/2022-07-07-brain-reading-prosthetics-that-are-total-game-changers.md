@@ -22,17 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Microfluidic-based soft robotic prosthetics promise relief for diabetic amputees"
-    excerpt: "(2022, June 28). Microfluidic-based soft robotic prosthetics promise relief for diabetic amputees: Pneumatic actuators can control fit of prosthetic sockets, reducing pain and skin ulcerations."
-    publishedDateTime: 2022-07-02T22:10:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220628113334.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
-
 secured: "AxtCGIr7UOGedVC4j7nRF45O5tOWTeVcHTJpLIENz2tBkP2bVGw3DW8e9Zg1eEJQuLg7a6u3/B+0HoPJeRp4NsZwUS8IWzR62AueR8bEhUf4L7F1xQ9lEiqqHildQyr4hPVK4w2BaNOLVwX8pIQCxnL3QBaEYW7Gn3Tup5pnNNBh2cRU5zQXm1eCmX4e0pxloz6imqgviTbCA/TiSBBFbwONxxW5Dadsi71Sgo6tYsiU7vSL/g2uLQgGhGh4UMx7exQvcDSfdVj3LmIOw59OYBoDABEuug5NzGJe/vj4mLZ20RNAalLHIDxNGj+srANxRsnmjVC3RzCsVtJf65d8E6aYmtPZGG2A2VQsBZ0iFIwqwavbrno4hQurgTKB8BstTcRXbzG9vwDDJZO5GMIC95Ai4qgrMgldnYwZp5BwbpsxSAV3Ewu06yWpAu8+yEux6GxCSLbH8CzT2qryk+/B0GLCg4IgPq+hNKdLerYppKyYI5Ve9QWzL8cgh7LQ3X0ajFgyNZpqLykhIlEKZRGjsw==;+zrc+/wSp+1MhhMgyIhueQ=="
 ---
 

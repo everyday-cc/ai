@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lo
 webUrl: "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lot-more-complicated/"
 type: article
 quality: 69
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1600
     height: 897
     isCached: true
-
-related:
-  - title: "Is AI good or bad for the climate? It's complicated"
-    excerpt: "As the world fights climate change, will the increasingly widespread use of artificial intelligence (AI) be a help or a hindrance? In a paper published this week in Nature Climate Change ..."
-    publishedDateTime: 2022-07-02T22:10:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220628113336.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "4R7dIBg7CBDUSivR8fBChqfNk98lXebe2xhHz2oQgAZxPCy98r3moKrOE9r3jOvzXbN7aFARfgo9cUdT9oDkfTWUYhkvA6GjUE+xoo0V9H/Y+xfsH8HICQhz/+Myi5Q4r0Gb3VTriDTGeP2s5S+d7b98FphLXH5yFO04SSKLut8jHLfiWKtZ6IUCsOGFrF3xqMLjZWRL5Y9qnrBX/GWXlBe9vuCQaCMIr1Asl74Z81kN0aou49yOl6EwSJEG9kF+OQSsDPTb2ghfc2RnyIjHDDBYKkGKOnoli45GGsVxfgrNIpSN3ulyKd84v0q2VF/dKh0gHHuPFz7pTFWuSOdQrLBC+brCt/waE5cAi2AdwdinYBYMj7swE2nxjqSiax1JhqCayguHKiOjAmKmUu2ZbxHw1VjaGpvl7Q7i8LVircMAziC+JYDJ0mK9nBK6yoFn9JakEVKkqTaSgfTifBpl/dfLBG3AuuKnPlrfoB0EwrweE4Ibx3HptfrSZ3FumPcGQJxiKyXdQ+hSGQ+AXIZfSg==;T9b8f0ramtkhOsxxqjVYoQ=="
 ---

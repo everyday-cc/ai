@@ -116,6 +116,15 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 34
+  - title: "Reforming Prior Authorization with AI and Machine Learning"
+    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "kr5aa/Gydmpl+KXE1QUUlmKFbePO+3sJ/n4g2kIUglB+GVsu9c5dB6CmrZ34uQ0GtF2ZIkT0OUeQHEBt1bCB2v6PoYfgqdrvNpycT2QKoWMBcZ+aXCp47+Hd8nvYSphO7IK2rL6pJnUFNsoHZfrz0dYWOXgvo1I7baDvBnLxyHR/16sPiHSodbWUP0wRmWM7lT78pNf3ZT2RaS7w26zDz1DCc9p4QuXjOoZJ1MZwZBWyVYzrLFOAIrtHudk6IzOkxYp7qKVFYTtYJmtEc8+roDv/renElo8ecm5ZA1e24l+GK684KkAil65frYRzrgtwjVGR7U/2AoveSGLKvCKGS9cPxtKd/naz+O70WkkanQw=;9wLyQSVG7IwLlQeiX2OzGA=="
 ---

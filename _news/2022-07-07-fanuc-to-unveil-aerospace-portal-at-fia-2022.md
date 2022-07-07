@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T13:44:00Z
 originalUrl: "https://www.adsadvance.co.uk/fanuc-to-unveil-aerospace-portal-at-fia-2022.html"
 webUrl: "https://www.adsadvance.co.uk/fanuc-to-unveil-aerospace-portal-at-fia-2022.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Advance

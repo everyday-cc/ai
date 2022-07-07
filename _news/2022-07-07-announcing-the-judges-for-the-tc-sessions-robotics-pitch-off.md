@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/07/07/announcing-the-judges-for-the-tc-sessions-robotics-pitch-off/"
 webUrl: "https://techcrunch.com/2022/07/07/announcing-the-judges-for-the-tc-sessions-robotics-pitch-off/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

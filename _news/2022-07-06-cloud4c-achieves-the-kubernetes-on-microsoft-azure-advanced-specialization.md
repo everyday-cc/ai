@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "TRaiCE Now Available in the Microsoft Azure Marketplace"
+    excerpt: "TRaiCE Inc. today announced the availability of the TRaiCE application in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. TRaiCE customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2022-07-07T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/chicago-b6c6b305324052b5146bd9e844e74640"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
     excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
     publishedDateTime: 2022-07-04T11:33:00Z
@@ -85,6 +99,15 @@ related:
         width: 1088
         height: 725
         isCached: true
+  - title: "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year"
+    excerpt: "The data activation company recognized out of over 3,900 nominations across more than 125 countries SAM RAMON, Calif., July 7, 2022 /PRNewswire/ -- WANdisco, the data activation company"
+    publishedDateTime: 2022-07-07T13:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56498219-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 23
 
 secured: "GeAJ+6Nm74Pj48vjjVeELCS/aHFH95KbbkJj5pC352Rw32ft8YAFLzIunkvyIEUkeKjKpGzlzgybySO6QEA/nbLSGDApUgHssGXekTVtCKwHmVgEDNG6iXWsVzfOOp97NqMEKx4YiAchj2kTDXy7LzO8mFMfZ3kSfSaGY1HUP89hjTQtiMdALbik2GIbU5kA/pQA62I9HO0p+ZE3lz97NCEsVJ13WVq5kl6epl433AR6AxIaO7Ik6J81dcyzar+qc6QQRTBHXvwPr1RvMXM7raf6lqdlEtya5IneDfCEc1ebfZEPyKCO2wlEVGuz93wdIL86kv6nhumx7NgTETqK8bZL375REQ6M2N0PLBEDXVNLVQlDvw3sW0TwOrILU/ukrG2jC6y5pXlpiFARmDbis60XczUOwhY97uZQmT9kiwFSJsNivC8c0eXLzHh8RH1kV49t6VeS3eZ93Swq0Syf7UfLBwOdv4N7iKLKFefkAVZaZy+FSs0hEB8VOtk7mvkjIVLcwj5G+t09sJpvp6q0cQ==;9IJonfComNsUDoz7htaZTQ=="
 ---

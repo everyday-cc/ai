@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-06T12:43:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/07/193321-wiseworks-ai-acquires-1-2m-in-funding/"
 webUrl: "https://www.crowdfundinsider.com/2022/07/193321-wiseworks-ai-acquires-1-2m-in-funding/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "TRaiCE Now Available in the Microsoft Azure Marketplace"
+    excerpt: "TRaiCE Inc. today announced the availability of the TRaiCE application in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. TRaiCE customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2022-07-07T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/chicago-b6c6b305324052b5146bd9e844e74640"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cloud4C Achieves the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, a leading global multi-cloud migration and managed services provider announced that it has earned the Kubernetes on Microsoft Azure"
     publishedDateTime: 2022-07-06T00:00:00Z
@@ -87,6 +101,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year"
+    excerpt: "The data activation company recognized out of over 3,900 nominations across more than 125 countries SAM RAMON, Calif., July 7, 2022 /PRNewswire/ -- WANdisco, the data activation company"
+    publishedDateTime: 2022-07-07T13:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56498219-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 23
 
 secured: "6H484Zdu7T24t8mRedynWH/dZVViQ6M5AUlsNjvdaK5PIq7w/looNIALWXkbqC4U9jl/iKSkq8lHBufzK7aEci8fkSx0pjNpEj8GPtQvtytEQcthUzel1tfF3s6Qvnl0uLWijcA1MgwLGvAAs7SPavjsxAJ+XiLehyXR3CSr74KFXqnB/x1EcQGL3arJhan9wXFRPf9N0sEpNEM04JETpF6auXk8TNdn2+TPSZODtgjtY5m4z5lQied4x1cNxtRu7VEQbr8NR+7fbOklwp8GaRCH1QcP/rQKdGk/1Bds6QTyEVb7JAI8bapIlnWh28YN2UzJywRM3P63BkIKtFpx0SB3b5au/WU6nULiAgvNQlqLwfqJcGqjFa3/LauQOEQQu5JVyqQKEmfOoSwDM9mmQdX+vB/hIQB/ovTTt0Yfv8U+H2SjpiChsOHBiE0B4fiPbieIvlkHW6AeWa+pmD8b1IhcS5tdi0DJbJJji3/2NA7aGi42sN6XAZjKfBrNGY2VGM6TbCeN0Vj5fLAvSQFiGQ==;/BL007iSWqnNaf5bYu1HFw=="
 ---

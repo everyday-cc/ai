@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta’s new open-source AI is a step towards a universal language translator"
+    excerpt: "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems."
+    publishedDateTime: 2022-07-07T13:17:00Z
+    webUrl: "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Meta’s new open-source AI takes step towards a universal language translator"
     excerpt: "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems."
     publishedDateTime: 2022-07-06T16:05:00Z
@@ -144,6 +158,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/fb256ef7f5897de72cfcc989adddcdab20180495/2022/07/06/c54239bf-3249-43b3-845c-1b295a4f12d6/metalanguage.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Meta AI machine to solve language barrier in Africa, others"
+    excerpt: "NLLB-200, a single AI machine that translates across 200 different languages, including 55 African languages with state-of-the-art results, has been"
+    publishedDateTime: 2022-07-07T15:15:00Z
+    webUrl: "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/"
+    ampWebUrl: "https://businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/"
+    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 61
+    images:
+      - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Meta.png?resize=450%2C300&ssl=1"
+        width: 450
+        height: 300
         isCached: true
   - title: "Meta open sources early-stage AI translation tool"
     excerpt: "Tech giant MetaAhas created a single artificial intelligence (AI)-based model capable of translating across 200 different languages, including many no.."
@@ -261,6 +291,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Meta creates AI Model that translates 200 languages to make content more accessible"
+    excerpt: "The AI model by Meta named NLLB-200 has the ability to translate translate 200 different languages, and with an estimated efficiency of 44%."
+    publishedDateTime: 2022-07-07T13:09:00Z
+    webUrl: "https://www.socialsamosa.com/2022/07/meta-creates-ai-model-that-translates-200-languages-to-make-content-more-accessible/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 48
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/07/11-1.jpg"
+        width: 803
+        height: 419
+        isCached: true
   - title: "Meta’s AI Model Translates 200 Languages"
     excerpt: "Meta (parent company of Facebook and Instagram) posted news titled: “New AI Model Translates 200 Languages, Making Technology Accessible to More People”."
     publishedDateTime: 2022-07-07T07:10:00Z
@@ -272,6 +316,15 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
+  - title: "Meta says its AI model is the first to translate 200 languages"
+    excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
+    publishedDateTime: 2022-07-07T11:48:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-translation-200-languages"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 36
 
 secured: "poRcDa1mdagBy854vy4mtyX335xxklrTmagii9ZcmhTfVuNDQ2egx/V5HGW8rA8Q8Kze6EsGiLI0W8W5wHB+XDd8NrCrPiZ7FqBGIV31I4BjvzAxRxSeQ9JVZzbevky337JklCwP6ytYb8DX7isFQECtoHBWl3IJt+OKw/qfb6I/NSryV8NSbWOvzc8GeAH1yGGVOT2P9jgIIB9EKkynRevp1m5+2/Pp3bXctYdLL06ZG5UEXbHznSllEYC1/cZi7euyhB17AOemKAj3VTCapCAS5pNor/17hCyH5EsqWjqX+esZURcwjufvPYAFxC2Pw1GO10M9mhYyTryIMgM8bTTtsrrCo7gJZYJNILsabOs=;3jw9uuM5rSdV2luHNess0w=="
 ---

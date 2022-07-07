@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T11:59:00Z
 originalUrl: "https://www.just-drinks.com/analysis/the-four-stages-of-iot-development-how-we-get-to-a-fully-automated-world/"
 webUrl: "https://www.just-drinks.com/analysis/the-four-stages-of-iot-development-how-we-get-to-a-fully-automated-world/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Drinks

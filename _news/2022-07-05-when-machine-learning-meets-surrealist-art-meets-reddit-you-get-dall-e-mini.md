@@ -2,19 +2,30 @@
 category: news
 title: "When machine learning meets surrealist art meets Reddit, you get DALL-E mini"
 excerpt: "DALL-E is the AI image generator social media users are employing to crank out bizarre art memes that range from beautiful to horrifying."
-publishedDateTime: 2022-07-05T14:01:00Z
-originalUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
-webUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+publishedDateTime: 2022-07-05T09:01:00Z
+originalUrl: "https://www.ualrpublicradio.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+webUrl: "https://www.ualrpublicradio.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+ampWebUrl: "https://www.ualrpublicradio.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini?_amp=true"
+cdnAmpWebUrl: "https://www-ualrpublicradio-org.cdn.ampproject.org/c/s/www.ualrpublicradio.org/npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini?_amp=true"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: KUAR
+  domain: ualrpublicradio.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "HePYitVAzNgPu4ojad5/Uw9meLeYxsmoIOlfV9QQmWP+bGosB/XUDjDqCmfqEiO4TGmLW4XfLrnjYx8zkUJA7aJBeQ4MQWjpiOSOIOgwwqn9iKaPs/CzkzjqiqWd7842DnQ5NPFJV92G3cwGyEbXqcq89yQac7/WuKytjvhOq5zuj8hVJJ+9+vUXVm6Jz3nAF5ksrFqEuxjrqZY95ga2QnIFRKQ/tN1EFGoGaORe7Wh2pkPH5cH2vz0UWgO3zSeRasmwXEC3OhF/LShKl7JUgMah1fXLxnLike5hywpjCyVnjuiq32gI3Vptw2UmU+izVq6EJROsAHGQMHiQ+1HsGOJzBCXWrPfzf2cZh+rZfGlQwtw0RRMbaSjb6eKJg6yYS/wsQBEJ2RDw5GRKsGjA/XrtUcA2hHUKCkZozxlELf9UliyFMqi+Piko0YizTFtYEtooTF0JknswtGQ599f/ShjQIa4+soARP9bUqLAAr+CGiT35WdrDkTy0Ivj+1gWjnNboEHWSjfdkfPUcI/z91w==;2OKn78+oIoFjsAcJRbzLmg=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/0a46f1c/2147483647/strip/true/crop/827x509+0+55/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F29%2Fdall-e_baby_parkour-35803c784f626449a086197cf101b4c11a34b929.jpg"
+    width: 880
+    height: 542
+    isCached: true
+
+secured: "WVRkdOdED1F59qeItHv7ErFUbi9Dm/hQ+Z4vZscDoeWMvh3/t06NbVM5q1ezKKhkljtMdbYTvgi1kg0UlPMjQ1O6WRWc5kMsAYag6jVwyylRxzU8ybsd1kY03y9DsuC5nem9neO4Eqrsz6B1Jo3djJe54pjsJCGwbejYNwFKOqVQ1gQkAgyT/JlrDVJGlF+b1NJbwhST5HCtS4SXK5m7Z7PGAovhCNm2hM00tHKnMp1GfrEO1yFL5oyOxmRAMXZuGbDXKg6zdba8YFOFlGUlX9rKOgSjueUE3zXHt037JUFJoNBdv0TUujcq25jTBLBunk1G7vAyr5EZ7GDA+inBhjm3GLM16LMsTfaB4WhsLGw=;va9+qh4pob031Rga/rnjAQ=="
 ---
 

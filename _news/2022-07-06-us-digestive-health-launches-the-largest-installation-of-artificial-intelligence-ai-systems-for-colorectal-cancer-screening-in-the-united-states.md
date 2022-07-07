@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T12:05:00Z
 originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
 webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
+    excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
+    publishedDateTime: 2022-07-04T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20220703/Greater-global-coordination-needed-for-AI-enhanced-diagnostics-treatment-to-save-lives-of-prostate-cancer-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 15
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "rhqEz8IqJi1bMbugQAhV4HxDWnFIjAKuPHOHBaZ6VtGoZVDPjI0fxPvfEya1fSc5aQ+UyMNgW9z9x17w8Yghwl+/84vW4tPYg5NuFkUq8i+Ovzy64E+jVijluC784oY6YLNCTbQpbS0gTyp13XcOmY5ZJvhRXbK6cYM5ZEiAJrCvxYfkMHQj5hbBkwXEV8a5WUiPKqPGFxx7gwALQ7vGuCCt7VSg7cSR+SnGG5T24QCiINZeK/RQJmeDiVu9olBBrwz65WVlT9KEjBGDJs6GxZejQFvBoIznPRvbjHaAnSJXZD4C6klcEV+fogLQLTs6PCDFAf9ogZ1PGA8JcYmJGsrgjyT4NHEURFJpXyqcQcU=;/9SI/dhtw9zXv7w7sLmniw=="
 ---

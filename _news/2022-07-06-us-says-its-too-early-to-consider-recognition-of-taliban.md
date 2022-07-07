@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Taliban seek international recognition after men-only gathering"
-    excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."
-    publishedDateTime: 2022-07-02T20:51:00Z
-    webUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/"
-    ampWebUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/GATHERING-e1656794769236.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Afghan clerics pledge support for Taliban, urge recognition"
     excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
     publishedDateTime: 2022-07-03T08:17:00Z
@@ -65,15 +49,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Taliban's large gathering ends with calls for international recognition"
-    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
-    publishedDateTime: 2022-07-02T19:55:00Z
-    webUrl: "https://www.investing.com/news/world-news/talibans-large-gathering-ends-with-calls-for-international-recognition-2843424"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 4
 
 secured: "mkfX4yNH5ptoKat+FL6Ipz7GTxI7Nrh6Bn/WtVbnPavQ07bngY7couR86+NHqJYHjqps/KgfhA/NE/U/V70dApgU0on4pFQY44sKklTDwU9Xvsc4DnKdITiCubiZwfYUKz+lGt8lZ3OXTqVLDF2l8aAZsCBxjvCKQhDD0CrcNXj4s7veo/98EOh5tYok7X1mkCEUGfT5rMwjKE8N9+hk6KwGAQiw14Moa8nfA14M7ePQG/rQMYNOHAhQWYFXhhbiVfwkZzYsiVTncG9f0n1VTtTLX4PmBJVELuko0jK/gbYjVVG6b4hcOWeZ7lVd729mHtYqMiHkEhRasmtX+KOjFo46WXey9C4XVXxlpTvn9Ni+1CYBoNyVQcEGWUfL5s9LOkm2mKaGOL53cgE3cc/0+0JYI+SSbikmGt6jLFRfTbQwOe7ok8N7q9RCpY8yvEd56LkOGQI85U36f25kFE5+GF2qJRmRD09xC4zzJ/x6gEXWzUHYoRoXWOs0KzihXZVCz60v8hvqolSTUvOYuDlQFA==;38G/sIl/j3pdgx/mga9rzQ=="
 ---

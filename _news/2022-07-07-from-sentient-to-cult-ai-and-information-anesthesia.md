@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T12:32:00Z
 originalUrl: "https://blogs.timesofisrael.com/from-sentient-to-cult-ai-and-information-anesthesia/"
 webUrl: "https://blogs.timesofisrael.com/from-sentient-to-cult-ai-and-information-anesthesia/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Times of Israel

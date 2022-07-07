@@ -1,21 +1,32 @@
 ---
 category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
-excerpt: "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,"
+excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality. Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
-webUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
+originalUrl: "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.html"
+webUrl: "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.html"
+ampWebUrl: "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.amp.html"
+cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.amp.html"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: La Crosse Tribune
+  domain: lacrossetribune.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
   - AI Ethics
 
-secured: "FXxL1KCGnYc2e4GxBt7D0lKtBdjckyT/96rUSvyfUTNzJJmQ45cSPAmHecrE0R2ZhsJnvpD73EYZw12qYc3VV1zIVYkXzfGtY6Dxcg56hcrJp4AX2nLUtWKIYx6NVn7zg0LkQrejRv8njmI0L1pcwXMbLeFWMEUL0PGOII95Hqp02PqnuPkZKBlJIlyEXSP6NmQ4Bfy7e5CWPUPyF/kS0QejFkvNlKtXzUBByJgT89YXUKYR/JfCJvrMyqifQkm+p9HAYdKdn/foP+O/jFWVLPEfA8ccAJdCHkQRv/I2LBeeRy9PbU1WG7jgOfute96G0qWpqGMA6PnNfWnB/cFfO7h2fSBFrWAceLS4ik6SdQiJIl2/P2f4FUBW2Jk1niJf1CLiULuVztyVu2KfrwGSO3tOEKw1gcUlcB7cV0/84ImbveG2GZx02BarAWfKFV+TgjePCkFoe0sbv8VRuFD1XertTbMVOX3ZqMbwmwnFxH1qFJZO8alsvhE3Jh6rczrB8BvxpcevqResKMhYRQ/Jbg==;ExU87HBQyFaV/s48fBRW8w=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/c/c4/cc4f50ae-7d9f-5a03-8be0-d3c6af064307/626ad17c4f635.image.jpg?crop=331%2C381%2C198%2C44"
+    width: 331
+    height: 381
+    isCached: true
+
+secured: "psyx96Y/rydOn0E+O1HcqIsJxz7BKvaQrfK3obwuN/i4rJ+LKDR+wnVuf7yn4wHkmEpQRsIHPxsIGb9kYJLFsMP7fwLMsIVjzDNS75N7W2zsRdwsLtjzeA0oYDbw/ZjfRalIhlHQOMv3fMKlkDOPOmkC32TlFFuoh7m4CyKqNEjeeiLMjnNNQp8MiH9yiQ49XgohzX5NOWvfctTUWJbC3aMvj+OgsQKLgh5shkWw0M8Qc09QmHY/JnV4Vz0UlBHXQYGOZvwPWb434s8Pr5V+qKUCt/y975+vrkGvYh1aCIiSG4WVclha39vMnnDOcqzpx5YEA70J0Fntqz6fbvRJYAHDTheQUpW79+GDpvVoCYQ=;bevRATcYLh2pmB3Espvrew=="
 ---
 

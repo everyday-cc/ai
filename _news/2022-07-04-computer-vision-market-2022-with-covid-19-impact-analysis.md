@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Surveillance Camera Market Size, Share and Analysis To Grow At An Annual Rate Of 20.06% Through 2026"
+    excerpt: "An analysis of AI Surveillance Camera market has been provided in the latest report added at Market Study Report that primarily focuses on the market trends, demand spectrum, and future prospects of this industry over the forecast period."
+    publishedDateTime: 2022-07-07T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-market-size-share-and-analysis-to-grow-at-an-annual-rate-of-2006-through-2026-2022-07-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "Deep Learning Market 2022-2028 is Recovering from Covid-19 Outbreak- More Details About Key Players and Future Analysis"
     excerpt: "Deep Learning market is anticipated to grow in the forecast period owing to driving factors such as increasing awareness towards healthcare of livestock and companion animals and government ..."
     publishedDateTime: 2022-07-05T14:35:00Z
@@ -62,6 +71,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "New AI To Detect COVID-19 From Chest CT Scans"
+    excerpt: "Artificial intelligence (AI) offers an opportunity to rapidly screen and effectively monitor COVID-19 cases on a large scale."
+    publishedDateTime: 2022-07-07T12:57:00Z
+    webUrl: "https://www.onlymyhealth.com/new-ai-to-detect-covid-19-from-chest-ct-scans-1657197381"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 17
   - title: "Computer Vision Technologies Market Latest Innovation, Upcoming Trends, Top Companies, Growth, Regional Analysis and Forecast by 2029"
     excerpt: "The consistent Global Computer Vision Technologies Market research report presents the solutions that empower to arrive at smart, fast, and precise decisions for the business so that it grows and ..."
     publishedDateTime: 2022-07-05T05:31:00Z

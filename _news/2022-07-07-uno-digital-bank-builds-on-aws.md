@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T13:50:00Z
 originalUrl: "https://www.finextra.com/pressarticle/93299/uno-digital-bank-builds-on-aws"
 webUrl: "https://www.finextra.com/pressarticle/93299/uno-digital-bank-builds-on-aws"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Finextra

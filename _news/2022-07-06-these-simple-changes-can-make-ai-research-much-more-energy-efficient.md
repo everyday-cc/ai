@@ -36,6 +36,15 @@ related:
         width: 1227
         height: 818
         isCached: true
+  - title: "The Download: a military AI boom, and China’s industrial espionage"
+    excerpt: "Why business is booming for military AI startups Exactly two weeks after Russia invaded Ukraine in February, Alexander Karp, the CEO of data analytics company Palantir, made his pitch to European leaders."
+    publishedDateTime: 2022-07-07T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/07/1055551/download-military-ai-boom-warfare-china-industrial-espionage/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "RgZT658XDn/6fh1g3UavyipJnWkuj78Q0jQYAzSJpkjhOhPXjjsX3tHWrIC9b5QjaKFmBDCy9DQq1l9Ix9tJoVTDly4fx6AfQCWe1QH9sacimH6F4NnjuvEwz+UY0JTJnNkxM1nns5twRHJ8mMeqw9jishZ/BDDv/9wQBlW8ON9BxhpQreMRqlxciQB+L9PZTOS9JQ7c+jxmx4RgU3trURxAlyotNClV0lKfHdwpbEeeNrmFXZW5mFKzLP3xAcZJY6ILjZc1LaI65Zb9SauUrP+zOkuEN8GCXndDHvC1tDLN1nkkptLlHarMmrJKl2kJMGFXgkFKFcnZw19J6fd+AjT4/qSxMLKMNF3T6nDvl2Lr0KaWolmSygmPEy5VM1wVwQDzJW81B7hFakLeY9PKY2Esz0EJ0GoBg0uuquBFSlRCASioZLGGkrOGXmBsEa/+4oomTj+w4MxoLM/cxv/q8pPFf2p4oCYJvWYF2Fy/DkxfxeLUXohPCkViCi+oTbhDyKMYX3Xm8XXBjWVatmS6ZQ==;8nGqdEREWjHsmCYxJrqiug=="
 ---
