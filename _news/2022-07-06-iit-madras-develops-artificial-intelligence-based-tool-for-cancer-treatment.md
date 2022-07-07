@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
+    excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
+    publishedDateTime: 2022-07-07T11:54:00Z
+    webUrl: "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 52
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IIT Madras develops Artificial Intelligence-based tool for personalised cancer diagnosis"
     excerpt: "The new tool was able to successfully predict both the existing oncogenes and tumour-suppressor genes like TP53, and PIK3CA, among others, and new cancer-related genes as well."
     publishedDateTime: 2022-07-06T09:53:00Z

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "actyv.ai hires top industry leaders to head Customer Engagement and Banking verticals"
-    excerpt: "Ambarish Ojha and Sumit Khaneja join enterprise SaaS platforms with B2B BNPL embedded Bengaluru, July 06, 2022: actyv.ai, the AI-powered Enterprise SaaS start-up embedded with B2B BNPL, to - Mediawire"
-    publishedDateTime: 2022-07-07T09:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/actyv-ai-hires-top-industry-leaders-to-head-customer-engagement-and-banking-verticals/articleshow/92721315.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/actyv-ai-hires-top-industry-leaders-to-head-customer-engagement-and-banking-verticals/amp_articleshow/92721315.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/actyv-ai-hires-top-industry-leaders-to-head-customer-engagement-and-banking-verticals/amp_articleshow/92721315.cms"
+  - title: "actyv.ai hires top industry leaders to head customer engagement and banking verticals"
+    excerpt: "India], July 7 (ANI/Mediawire): actyv.ai, the AI-powered Enterprise SaaS start-up embedded with B2B BNPL, today announced executive leadership appointments to further boost the company's growth strategy."
+    publishedDateTime: 2022-07-07T11:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/actyv-ai-hires-top-industry-leaders-to-head-customer-engagement-and-banking-verticals-122070700712_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/actyv-ai-hires-top-industry-leaders-to-head-customer-engagement-and-banking-verticals-122070700712_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/actyv-ai-hires-top-industry-leaders-to-head-customer-engagement-and-banking-verticals-122070700712_1.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Business Standard
+      domain: business-standard.com
     quality: 50
     images:
-      - url: "https://static.toiimg.com/thumb/msid-92721315,width-1070,height-580,imgsize-613847,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/07/full/20220707150812.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "JsC54Nk3M/W0su2cl+Ed/Vf4LUCkIJuA9U697G+lDCPawUJ3+JawWgmE1vON9mpFC54zO0HTBdHHyANCljLNKl8+ek0SDKqnPfJ7dJFXqkocKWtKZIQZtn4eieAg2vVA+EGwm+oTEJdwmqoD/e/IlqfXV45v0tYQa7Nms23auNhV5m2hPJpVIfGYHFUuV58AvK6NOx2FM362btWJBHmrqij6Aq4Qfxnj1KwTlxBZZosoulT5hLZ2j+Q02ng7NUIyzvqqsplSfLc51I7xZkiva2lekc6D8MMzKbnMUaOdC5kIGpzau8i3yigFDfwLGIMKKss7nrfYvml/zihD/XIsPaClOWGTSy+fKqlmpi/Mglg=;dLFt/65malxvi0skC+evmg=="

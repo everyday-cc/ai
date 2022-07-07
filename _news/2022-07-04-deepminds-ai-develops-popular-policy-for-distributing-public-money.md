@@ -41,6 +41,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "AI could do better job of managing economy than humans, DeepMind research suggests"
+    excerpt: "New research suggests artificial intelligence could redistribute wealth and resources more effectively than humans and help end inequality - but scaling it up on a world scale wouldn't be easy"
+    publishedDateTime: 2022-07-07T11:23:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp"
+    type: article
+    provider:
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 68
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article27420698.ece/ALTERNATES/s615/1_FILES-BRITAIN-POLITICS-JOHNSON-VOTE.jpg"
+        width: 615
+        height: 409
+        isCached: true
 
 secured: "G0aEvBUt47s52ozrYS8hIMLOvkAAwu1ypsgMo55cdjGTEg5dulx2I3/M7R687hGHqPKoojgZmdh1wiAf/7OL1LoKbNWNGzZSd8KXsHLy/8SVKW8ROPST7HBkSYUYPv8ilBToG5XJCsr6i9B02o+GC+SRsD2JLktNFbApkrL6Z7h51VbFolBJZ393CneBD+x9bPyiHU1OsSsMGcMGT+IDRGJHquMmTLkuazDVIu7bvR13mKrJi/l77XSr6ISe8OgHwUKKKr+e+HYcD4+T8bLVqzUnO3r6nZLqQGHzlxkqfFVoeLk7/dc6tIcwhnTE/++DnqLFSVT6D1MMrJQg1l1pg7zJfDwI+MW3uDI7Y/WLJ/Q=;Hxfl84oM+Eu/IfOxeBXuZA=="
 ---

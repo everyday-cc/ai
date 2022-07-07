@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/06/elonmusk_red_0.jpg"

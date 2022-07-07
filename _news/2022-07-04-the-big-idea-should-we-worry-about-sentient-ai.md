@@ -25,14 +25,14 @@ related:
   - title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
     excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
     publishedDateTime: 2022-07-07T01:15:00Z
-    webUrl: "https://godanriver.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_383bb4f8-0848-5918-b241-3d9a406ffb9e.html"
+    webUrl: "https://tdn.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_451f4b0b-caa9-57f7-8fa4-661f1905a36b.html"
     type: article
     provider:
-      name: GoDanRiver.com
-      domain: godanriver.com
+      name: The Daily News
+      domain: tdn.com
     quality: 50
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/3/83/383bb4f8-0848-5918-b241-3d9a406ffb9e/62bef01ed92af.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/4/51/451f4b0b-caa9-57f7-8fa4-661f1905a36b/62bef0cbde8e6.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
         width: 1196
         height: 628
         isCached: true

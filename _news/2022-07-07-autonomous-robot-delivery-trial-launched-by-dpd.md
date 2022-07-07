@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DPD to launch autonomous delivery robots in UK"
+    excerpt: "DPD to launch autonomous delivery robots in UK - read more about this with Parcel and Postal Technology International"
+    publishedDateTime: 2022-07-07T10:51:00Z
+    webUrl: "https://www.parcelandpostaltechnologyinternational.com/news/last-mile/dpd-to-launch-autonomous-delivery-robots-in-uk.html"
+    type: article
+    provider:
+      name: parcelandpostaltechnologyinternational
+      domain: parcelandpostaltechnologyinternational.com
+    quality: 39
+    images:
+      - url: "https://www.parcelandpostaltechnologyinternational.com/wp-content/uploads/2022/07/Screenshot-2022-07-07-at-11.46.56.jpg"
+        width: 1400
+        height: 670
+        isCached: true
   - title: "DPD autonomous delivery robots launching in the UK"
     excerpt: "DPD has announced that it is launching autonomous delivery robots in the UK, the robots will be used in Milton Keynes and they will deliver up to 30"
     publishedDateTime: 2022-07-05T11:10:00Z

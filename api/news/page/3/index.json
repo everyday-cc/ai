@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-02-ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems.md",
+      "title": "AI Ethics Starkly Questioning Human Voice Cloning Such As Those Of Your Deceased Relatives, Intended For Use In AI Autonomous Systems",
+      "excerpt": "AI Ethics questioning whether human voice cloning such as using your deceased relatives is appropriately being used in AI autonomous systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb86dbc92b5006564a638a/0x0.jpg?format=jpg&crop=2032,1354,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
+      "publishedDateTime": "2022-07-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
+      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
+      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-2-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-2-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-facial-recognition-software-mental-healthcare-in-schools-among-63-new-alabama-laws.md",
       "title": "Facial recognition software, mental healthcare in schools among 63 new Alabama laws",
       "excerpt": "On July 1, more than 60 new laws went into effect in Alabama, among those are laws regarding facial-recognition software and mental healthcare in schools. State Senator Arthur Orr sponsored several new laws in the 2022 legislative session,",
@@ -1076,110 +1163,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-brain-connected-robot-arms-enable-paralyzed-man-to-feed-himself.md",
-      "title": "Brain-connected robot arms enable paralyzed man to feed himself",
-      "excerpt": "A paralyzed man has fed himself for the first time in 30 years by remote-controlling robotic arms with his brain. Researchers at Johns Hopkins University in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
-      "originalUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/06/2022-06-30-image-24.jpg",
-          "width": 829,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-federal-incentives-wont-fix-ais-market-failure-in-healthcare.md",
-      "title": "Federal Incentives Won’t Fix AI’s “Market Failure” In Healthcare",
-      "excerpt": "If the EHR incentive program failed in terms of achieving interoperability and led to adverse unintended consequences, should we be applying a similar policy playbook to AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdf3950a8847e2bc364b90/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/amp/",
-      "publishedDateTime": "2022-06-30T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.valdostadailytimes.com/news/business/ganymed-robotics-
 webUrl: "https://www.valdostadailytimes.com/news/business/ganymed-robotics-raises-21m-to-complete-the-development-of-its-next-generation-surgical-robot-and/article_5b2e5a92-f190-5b18-9025-4f0a8b108b20.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Concrete.ai developers prepare for software platform commercialization"
-    excerpt: "Concrete.ai is preparing for general release of its pioneering data science platform, programmed to reduce costs and embodied carbon intensity (CO2e) in concrete construction. Ahead of the launch, the company is filling key management positions and executing an exclusive,"
-    publishedDateTime: 2022-07-05T12:05:00Z
-    webUrl: "https://concreteproducts.com/index.php/2022/07/05/concrete-ai-developers-prepare-for-software-platform-commercialization/"
+  - title: "Ganymed Robotics Raises €21M in Series B Funding"
+    excerpt: "Ganymed Robotics, a Paris, France-based developer of computer vision software and robotics technologies for orthopedic surgeons, raised €21m in the first close of its Series B funding"
+    publishedDateTime: 2022-07-07T09:34:00Z
+    webUrl: "https://www.finsmes.com/2022/07/ganymed-robotics-raises-e21m-in-series-b-funding.html"
     type: article
     provider:
-      name: Concrete Products
-      domain: concreteproducts.com
-    quality: 17
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 69
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/07/Logo_Ganymed_White002.jpeg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "QKz8tBW95iX567gj9dz06ceFNO0MMSbg8kmhZ9UQGeF93HpvSibNZosRxpYPqxvtGVckcPbDzYjY/eJepvcd8wLfcq3V8slxIKC3EBJk5rP55YqQEplBMx0EKyrcYMTQv7S6oGaP3vFzmr1Yb7u6d0ucbIpZKVc2tsPxB9wDRz2pYT00eSolsSxCGrSjyiWkRj+2r/Wt9zQits9YdKpN8vXvi/DWXbiZoiY++GuyAJv7N0n8En9PdccoS5H+WAXc3prQA7A7GgWg+HJi8ubA1+SL9vPhFjj/VD0ILMld9IGTjtj7sBcwvxMPPve5M90KohTrHYrTqS1wHJvrIntoFS06/YT7H30QeYNvQqsujVg=;SLfVBjlesXRG/3UikAfeLg=="
 ---

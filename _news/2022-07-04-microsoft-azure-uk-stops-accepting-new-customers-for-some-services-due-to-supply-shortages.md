@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 943
         isCached: true
+  - title: "Microsoft backs off facial recognition analysis, but big questions remain"
+    excerpt: "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t."
+    publishedDateTime: 2022-07-07T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html"
+    ampWebUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 92
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cloud4C Achieves the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, a leading global multi-cloud migration and managed services provider announced that it has earned the Kubernetes on Microsoft Azure"
     publishedDateTime: 2022-07-06T00:00:00Z

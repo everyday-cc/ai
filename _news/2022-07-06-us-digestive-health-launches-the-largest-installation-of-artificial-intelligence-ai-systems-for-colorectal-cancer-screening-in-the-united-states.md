@@ -3,11 +3,11 @@ category: news
 title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
 excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
 publishedDateTime: 2022-07-06T12:05:00Z
-originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
-webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
+originalUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
+webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
 type: article
-quality: 16
-heat: 16
+quality: 14
+heat: -1
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+ONydkGpyLw6QJuZX/sXsTqNerYuf6VtGWRjVf6vSRePhlbKJr6MjHWP+pkrMStWfoCoxrq1rnDqpwY/3tyV6B9oX0OTAxBg3Z1ebELvu5levq0E1fdy2RdzeOkgNvmf9UJiQxBi6W99DdaNejA57XR3VcVW1OCSAikHdeEIx7QFz31si6RWPnD2sYErDXj/3SAdSj1NMiOfZEp8+AEo2+NHhKk8JComFfB/kHq/E5dqJVSv6WltcFmX+p+nz+AnjvoSqObe9gfVTYJQ6czRgbMvVsPeEgvtV8vpRFT9bL1lS/7fszmbOu/316r1PQzoLIEhdvzzYZnJD530BDlckGUQd2HDCJoaF9+iX+sVB3E=;PSyiENrFOlbpfZAEMbEkDA=="
+secured: "FPWRSBxMuszYx99D3cnVj+7r5SKKjTWAvZFC9nE1djKzNQJK2ZDQFbBxUpDnRa4rFCylAdlVO+JVMw0q/zPspY3GeuOeuQ0muGSaCNb4QKC5s91L+yqi76Dd85nqE8GSubnFQHXdGQwIDvGd+gtfCaXu5WHyEwFtaVAnQG7rZW7Ae08wuUxNsfjvp8lBXlBSldhmKYEn7sNCtnn1fLhPR26Tca6AC7lHSouNxBEMPmiMBUCd/51Y1+F3zBOGSHJelN7KfKPUi8Q5COedi+6H8E1gEgEOKLuJ863CEb5B3dQpQUpkX1Mz3wn+LurbjwdxN6HULpg6opIE4rFlTyqL8rZwW/ZAp6CCN081EXuL454=;wICy7Pev9pMz/YzCwO43ww=="
 ---
 

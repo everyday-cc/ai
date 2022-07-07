@@ -205,6 +205,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta Builds AI Machine That Can Translate 55 African Languages"
+    excerpt: "Meta yesterday said it has built the first open source single artificial intelligence (AI) machine that can translate across 200 different languages,"
+    publishedDateTime: 2022-07-07T10:48:00Z
+    webUrl: "https://leadership.ng/meta-builds-ai-machine-that-can-translate-55-african-languages/"
+    type: article
+    provider:
+      name: LEADERSHIP Newspaper
+      domain: leadership.ng
+    quality: 56
+    images:
+      - url: "https://leadership.ng/wp-content/uploads/2022/07/Meta.jpg"
+        width: 1708
+        height: 750
+        isCached: true
   - title: "Meta Builds AI Model that Translates Across 55 African Langauges"
     excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia. Meta says they worked with professional translators for each of these languages to develop a reliable benchmark that can automatically assess translation quality for many low-resource languages."
     publishedDateTime: 2022-07-07T07:39:00Z
@@ -259,6 +273,6 @@ related:
       domain: geeknewscentral.com
     quality: 39
 
-secured: "XxUUngTxiiqHU1xd9FyoI8yTIo1ydsVJWE/BGPTHARUPzuaTGClbvgiZMbJuMa4I9UseRcQWBubmFlpoYRpENpjXhK6ghkhyyjbCxWKEjuRsuAN8GmTHuOsVvpiSAU1eKSq+yb+8d3php6USgkt5taouMO8bq43kQOvz0nCS94NsPqJy0AM1pfZYl+hyex2mPkUu9sieAEuTxj+BHDu8k1e0Kjq27tkNjVuTo53qMqMOuNpjWRoFoIL9cx3C/EqJcqWikyoU706lK++loNY6g646iByrKMQHVB8U18BNL69QCcpMhnlnlBfiaiEEekTmpwHlkROeG+yXXEVS4KPnpSCZGaOJug2z70MFM+MNdyY=;T++mQPwZhhEeYzky/GIN9g=="
+secured: "1ebsW2HDRJlA3+YcPZ/em+DU0uKjBx22gH+QYJt8Rou4H/RF3rp0OegPAUUWv4WtKcF1VH8IpQGfpOU+A0IaKfCLE2OqIFXTKTJY26umveHMHIyHEzDXHcaM/zIthUJz+xN72j4y+XCaf3l0aUoryZl3PzrtfvSAlr2Z7sQja5ETHmudZF7kw72T9xjKhljFiLYSwRSjBXmmgqsNiAyYqClbxZ4hL2OFhRKHteRkZj75yQzghSoMtl3R03VnF9IJK+U2yn3DgbgA7pSFMl52IZSEgnmqcm7T4Q2WRI+h+8VREu7ue158Dxy+yok0ntGbwywe8kDokU3sOQNnBJz57ew0XNZSqDZugoz8XYLjTYW9afyym9eCKBXlTZjXg+WhdcHJ19M6EvW3QGZ+L9zvKdpocJUenKn6BMA/dxPeDoTID6387X8sMehniW8vQamO9CVLcT8wx3yPugolOeIRrUGUC3HgkGKDMpi4WGtswFfsLpIeqTUCgs0HR6DA7oqmNYZLMYZt1K+t+7gvluDMqQ==;WO2wA0fZgdcegKjxXvL1mQ=="
 ---
 

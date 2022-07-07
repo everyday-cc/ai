@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220703/Greater-global-coordina
 webUrl: "https://www.news-medical.net/news/20220703/Greater-global-coordination-needed-for-AI-enhanced-diagnostics-treatment-to-save-lives-of-prostate-cancer-patients.aspx"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -27,12 +27,12 @@ related:
   - title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
     excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
     publishedDateTime: 2022-07-06T12:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
+    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 16
+    quality: 14
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

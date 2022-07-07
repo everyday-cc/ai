@@ -36,20 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Is the business concerned about AI sentience?"
-    excerpt: "However, last month, Google developer Blake Lemoine made a claim that his discussions with an AI chatbot demonstrated it was sentient, which reignited the argument over whether AIs are capable of feeling emotions as humans are capable."
-    publishedDateTime: 2022-07-05T11:00:00Z
-    webUrl: "https://bestgamingpro.com/is-the-business-concerned-about-ai-sentience/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Does-AI-sentience-matter-to-the-enterprise.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "IHQi0Pg0hXbG8M6f74CdgVtyQQWm6YuVCaAQSGxmCfznuiyq6eUBpEXtvfHKN4ZnyqQHSz++aMf08VbBBGJUH/P2c5CgO9td/60a/6dZwq9WuKs3XNzqtdFvSNmRgVtnA96huG1vCitNrUd14v+DoYvEhgD+bcFOjH5I9SS8bFk6LOS4Y1Eg/Ww4ELH0v2fSFjbAzn0RVQgDYQNuKC5AtAlvjif9rm37U0Asd5H4Kx+rBO1dZ7sR4aw+y8s2T/P2GemkoAVtmSXsv/OquNq3IFNcG+yKdbAsfaBWfCmHQCoE+JN8dKIui3aPfzLG19PygcCrCMJR/5tscBxo+e3cOkujFgVHwYsYPFox00af6knQiA36vQeqYo/EqN4sOXcN+L7MMOPwEfR6w6OPTRluy1pRQZznvErNM698hfPrTu4JN3/l8cVhDAUFHn/JjtOL4R1oS9QKoOHpujLT6FqF2Eg1AZB9loweei786bn43tYtcDlNK3En4HHsc+bxItHuKckCi5AToFstmN9wgSrzyg==;Jbdn2s64ABYbpszsOcj+xg=="
 ---

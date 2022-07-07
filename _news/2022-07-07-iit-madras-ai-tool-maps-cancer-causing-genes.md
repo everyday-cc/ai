@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-too
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
     quality: 54
     images:
       - url: "https://static.tnn.in/thumb/msid-92697226,imgsize-100,width-1280,height-720,resizemode-75/92697226.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
+    excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
+    publishedDateTime: 2022-07-07T11:54:00Z
+    webUrl: "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 52
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg"
         width: 1280
         height: 720
         isCached: true

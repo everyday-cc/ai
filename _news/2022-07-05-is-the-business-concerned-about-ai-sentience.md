@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Does AI sentience matter to the enterprise?"
-    excerpt: "Does the enterprise need to be concerned with AI sentience? Not yet, experts say. Even if such an algorithm were to arise, would it be all that useful in a practical sense?"
-    publishedDateTime: 2022-07-04T13:20:00Z
-    webUrl: "https://venturebeat.com/2022/07/04/does-ai-sentience-matter-to-the-enterprise/"
+  - title: "LaMDA: The hype about Google AI being sentient"
+    excerpt: "The article has been authored by Sanur Sharma, an associate fellow, Manohar Parrikar Institute for Defence Studies and Analyses."
+    publishedDateTime: 2022-07-07T10:20:00Z
+    webUrl: "https://www.hindustantimes.com/ht-insight/economy/lamda-the-hype-about-google-ai-being-sentient-101657187512974.html"
+    ampWebUrl: "https://www.hindustantimes.com/ht-insight/economy/lamda-the-hype-about-google-ai-being-sentient-101657187512974-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/ht-insight/economy/lamda-the-hype-about-google-ai-being-sentient-101657187512974-amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Enterprise hits and misses - blockchains are mutable, sentient AI is debatable, and retailers face loyalty and price tensions"
-    excerpt: "This week - will retailers salvage a volatile 2022 with a holiday surge? Plus: blockchain security gets called out, as does TikTok on data privacy. Big tech is still quiet on data privacy, and supply chain leaders face the analytical whip."
-    publishedDateTime: 2022-07-05T09:32:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-blockchains-are-mutable-sentient-ai-debatable-and-retailers-face-loyalty?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 32
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
-        width: 411
-        height: 292
+      - url: "https://images.hindustantimes.com/img/2022/07/07/1600x900/lambda_1657188976217_1657188997809.jpg"
+        width: 1600
+        height: 899
         isCached: true
 
 secured: "b32VcYZqWp5/He4nMORi9ZqSbJp7bM0rYwNzK+lGpz9t+Rjeo5STMBRdygpFYNXKipXB6O/j/w3Q05i5MTX4aTTB+4Vowt5nErTcSPQMd4yKL/WO3QMcne81JdJbmSd9iQ2Yzdu0h3PHgqsS8FvaUEYR0RXB06cRbD0od5QKjOedqUYsc0//vLh+NqM0vA8Ea126WgewoZNLgpK1qOutkb/J0EP2x965wFOEzAs0Mpiv/S+NX2q550zv9iCSTYR5sTut9FOX3gyh8MOJ6cqJ1LX4XhKetl2+cV3O+d7um3VXLN+2JOqYVCMWs5+o8Qg0GSpfrnvcqFWqps1wpBj+KR339pQr2pbEsZ7psW+8PciTVIZK3j+XsSlfCsML7HScwqnvaMB4jOpdIxnQErWoC9SmydkqGVWlfhyTAvltzd20vO4maR/gWBnZjlBtsF+lEBsA/iUwK76+LmxDBIXWydEViQHHs1EHvWulfTxeg78uFmhDdMDJSdHfXyC8K/8oBCLqh3XGOeF3PTz+nADJhA==;evf1gMHeJOBpAv71qBoTCg=="

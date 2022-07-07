@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 665
         isCached: true
+  - title: "IBM snaps up data observability specialist Databand.ai"
+    excerpt: "The acquisition will help IBM address the “full spectrum” of observability, as well as capitalise on predicted market growth"
+    publishedDateTime: 2022-07-07T11:37:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 67
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "IBM Acquires Observability Platform Databand.ai"
     excerpt: "IBM has announced the acquisition of data observability software vendor Databand.ai. Today’s announcement marks IBM’s fifth acquisition of 2022. The"
     publishedDateTime: 2022-07-06T12:00:00Z

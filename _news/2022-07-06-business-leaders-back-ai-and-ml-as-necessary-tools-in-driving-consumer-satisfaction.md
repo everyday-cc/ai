@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "Several self-driving cars simultaneously stop working in US, block traffic for hours"
-    excerpt: "More than half a dozen self-driving cars of Cruise simultaneously stopped operating in a San Francisco street recently, blocking the traffic for a couple of hours. The company's employees arrived at the location and had to manually move the autonomous vehicles."
-    publishedDateTime: 2022-07-02T17:13:00Z
-    webUrl: "https://inshorts.com/en/news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 37
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/2_sat/img_1656780889526_700.jpg?"
-        width: 1024
-        height: 664
-        isCached: true
 
 secured: "Z9nlrpvZ7Gr0RwtQPiMPPuSxIZ+qKedGsbL8Ov++cbygCxKwYPHf0mvBVg2M8VuxInU7eHXC3Ge9qRC2rhyz59rayRXLdEH+H/1EnVLsB0GgdsYZ/ZWYrejQ46FoPvzEhU5UCVSLcK9cAcKE1e7O5k+w8k8WOeSzSdLWC6mcoT1FZrNxd88asJIgU+qmhBy6WXGEbC5hEQerWafTOuUoGUxiCGraHwBZUDNkiEkizeWEOnZlyt6zIkrtaWtdbHokcyQgN71HjvNk0CYfeS6mfSrOykEA4FUaL2uUlH4SREZ5N/eJ3N4EF0rHsil6wXtdsGwDRU3Q4F9OJAflFeSEFkZtibxAD8LVKB3PxxWfKyeie2ev2mWE+OkoxGDec/SGmqkmojzq4Sg6XyLF+3AyQriNpJfYEpoBcX2R4T8zm/FXpooEFEM3ZRuRBGsNf7CIJhq73TrPPjC3yLOYReg8WCRz0AhK3fCHF+2KMgokUUEmNLybSXpOloaA0j9P+WGul06mGNZzGnwMpPXJAcskYg==;h3htjqz+iWfSoPi/+TXLzg=="
 ---
