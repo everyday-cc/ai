@@ -570,49 +570,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It’s alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
-          "width": 2500,
-          "height": 1623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
-      "publishedDateTime": "2022-06-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-30-rain-research-group-specialised-ai-and-defense-startup-launches-new-reports.md",
       "title": "RAIN RESEARCH GROUP - SPECIALISED AI AND DEFENSE STARTUP LAUNCHES NEW REPORTS",
       "excerpt": "RAIN Research Group, an international research firm, released specialised research and analysis in the defense and artificial intelligence sector. Norine MacDonald QC, the firm's founding President: 'We have launched reports that offer unprecedented insights for startups,",
@@ -1062,6 +1019,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
+      "title": "It's alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
+      "originalUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },

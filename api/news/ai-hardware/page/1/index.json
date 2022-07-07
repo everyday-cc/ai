@@ -201,21 +201,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-05-iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications.md",
-      "title": "IISc researchers develop design framework for next gen analog chipsets for AI applications",
-      "excerpt": "This type of chipset is especially helpful for Artificial Intelligence (AI)-based applications like object or speech recognition like Alexa or Siri or those that require massive parallel computing operations at high speeds,",
+      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
+      "title": "Designing next generation analog chipsets for AI applications",
+      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/articleshow/92680803.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/articleshow/92680803.cms",
+      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1569289,msid-92680834/2-aryabhatchiptestenv.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
+          "width": 1000,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -223,13 +223,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms",
-      "publishedDateTime": "2022-07-05T06:08:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "publishedDateTime": "2022-07-05T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -240,8 +240,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
@@ -518,6 +517,58 @@
         "name": "The Daily Star",
         "domain": "thedailystar.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
+      "title": "It's alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
+      "originalUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1368,49 +1419,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-engineers-build-artificial-intelligence-chip.md",
-      "title": "Engineers build artificial intelligence chip",
-      "excerpt": "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg",
-          "width": 347,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
-      "publishedDateTime": "2022-06-21T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -23,16 +23,16 @@ topics:
 
 related:
   - title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
-    excerpt: "A few weeks ago, a Google engineer was placed on administrative leave after he said a chatbot created by his employer had achieved sentience. The company said its"
+    excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
     publishedDateTime: 2022-07-07T01:15:00Z
-    webUrl: "https://lexch.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_927ba31b-4ce5-5707-854c-38f550a6866b.html"
+    webUrl: "https://godanriver.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_383bb4f8-0848-5918-b241-3d9a406ffb9e.html"
     type: article
     provider:
-      name: Lexington Clipper Herald
-      domain: lexch.com
+      name: GoDanRiver.com
+      domain: godanriver.com
     quality: 50
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lexch.com/content/tncms/assets/v3/editorial/9/27/927ba31b-4ce5-5707-854c-38f550a6866b/62bef0546c1a8.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/3/83/383bb4f8-0848-5918-b241-3d9a406ffb9e/62bef01ed92af.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
         width: 1196
         height: 628
         isCached: true

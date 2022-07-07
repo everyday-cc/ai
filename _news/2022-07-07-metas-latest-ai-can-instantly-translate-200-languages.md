@@ -223,6 +223,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta’s AI can translate 200 languages in real time"
+    excerpt: "However, it seems Meta's AI is going to solve this issue now. Following this, the company launched No Language Left Behind (NLLB) project,"
+    publishedDateTime: 2022-07-07T08:42:00Z
+    webUrl: "https://www.phoneworld.com.pk/metas-ai-can-translate-200-languages-in-real-time/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 54
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/00.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Meta introduces AI model to translate 200 languages, including 55 African languages"
     excerpt: "In a Facebook post made by Meta CEO Mark Zuckerberg, he expressed his satisfaction with this new AI model, named NLLB-200"
     publishedDateTime: 2022-07-06T21:31:00Z
@@ -249,6 +263,6 @@ related:
       domain: geeknewscentral.com
     quality: 39
 
-secured: "rD+m32MQhLBKL95u3cfZuYYW7d9pQDDkZOQjMraG6/xUyg1z8nN2ZhWexexLS4RKypf6nET+scDxte4bYaIc4b1YSLLhQHoHbo1BpZVhjGqA40WQBSkBNh8KsTEhToqbglKOPZ50PqNTyLO9jH1Ra2838Ay1xFLteA4xX2Lh0ASRBP+qIoeq7WbovsoegL+17XTWsiBj5w5wE0LsItWX9aIZXVL6XsL7yhgXfHwDGmflOu+yn1bvalhPjHF/LVjPTgSN0As4Ej8Ojv+GBXQSnKS6giQx6VJOKVzoosEWTnOEwNBw77cIUaCZOdfDIEZh75BoPhR/2cyTSuilQf+tnm29Ww4BFPo6laOx+SrCDOk=;x5Rx3og4NMzjVc0Xk3h70A=="
+secured: "5Hu1bUV4E+GeoMioYtGK4urOJM0/RQQWdyTengy43kEuAurMRCGBXKvxqYglpVb6q3Pfm98gdMf5aQzxOrNJ9U+28dwjP6snWhn9AaGZfvyC2aNVy/ZzmIAkYE1u/8485HkRFd+Q8E2PwMdg2aA3TDcECJFbKuMrxoJA2O9XiMkzo3clfCHJQC33woWXyttusriCQ9yoccqxftxQphi6LO7TNeIg//amLwm3M2NVeJPG27BKpBJaBHaZ4jEFYgZjnKPl9YIW3Xn3CE3lmwoIgj6lfAxim+pFhgYEF2SH2HuRcf8LXc9SAuDZ1wmN+eTal6g9ExZX6mh23ht7awnbM15C+gUMJue3HcsuIn889/209vL86zVgrVOKkhjxbKuuj8g6czotjb8TqOTF/DNzvDAIw1WrdzNMewPyuIL9gmnhJKf3Zi9gJ84VpIFa7jxdluXqIardqSINcRwkm1RaxwN17YoWP687vMBofSwkVJsZ+ZE1j6uS9SV/AHZiP2RnGXfjIMLzgMgZsAKnxI0FDw==;2KS7pJR1wIsvlUW6LgSrUw=="
 ---
 

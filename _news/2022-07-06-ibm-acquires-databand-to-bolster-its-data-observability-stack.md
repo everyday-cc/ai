@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM acquires Israeli startup Databand.ai"
+    excerpt: "American software giant IBM has announced the acquisition of an Israeli data startup. All Databand.ai employees will join the IBMs R&D center in Israel"
+    publishedDateTime: 2022-07-07T08:48:00Z
+    webUrl: "https://www.geektime.com/databand-ai-acquired-by-ibm/"
+    ampWebUrl: "https://www.geektime.com/databand-ai-acquired-by-ibm/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/databand-ai-acquired-by-ibm/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2022/07/Screen-Shot-2022-07-07-at-11.12.03.png"
+        width: 952
+        height: 636
+        isCached: true
   - title: "IBM Acquires Observability Platform Databand.ai"
     excerpt: "IBM has announced the acquisition of data observability software vendor Databand.ai. Today’s announcement marks IBM’s fifth acquisition of 2022. The"
     publishedDateTime: 2022-07-06T12:00:00Z

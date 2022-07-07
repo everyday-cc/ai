@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Designing next generation analog chipsets for AI applications"
+    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices."
+    publishedDateTime: 2022-07-05T14:02:00Z
+    webUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg"
+        width: 1000
+        height: 773
+        isCached: true
   - title: "IISc researchers develop design framework for next gen analog chipsets for AI applications"
     excerpt: "This type of chipset is especially helpful for Artificial Intelligence (AI)-based applications like object or speech recognition like Alexa or Siri or those that require massive parallel computing operations at high speeds,"
     publishedDateTime: 2022-07-05T13:08:00Z
@@ -55,6 +71,20 @@ related:
         width: 280
         height: 250
         isCached: true
+  - title: "Frontera Group Announces AI Powered Live Streaming Solution"
+    excerpt: "The result for our broadcast customers will be a significant cost reduction while maintaining professional quality production,” said Andrew De Luna, interim CEO of Frontera Group. Frontera’s recent acquisition of Intellimedia Networks continues to position Frontera as a prime provider of technology solutions that disrupt existing applications in broadcast,"
+    publishedDateTime: 2022-07-05T12:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-entertainment-sports-c1330a513f87cf6ad4908d24f3be4ebe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IISc designs framework for analog chipsets for AI applications"
     excerpt: "Indian Institute of Science (IISc) researchers have developed a design framework to build next-generation analog computing chipsets that ma."
     publishedDateTime: 2022-07-05T11:30:00Z
@@ -73,6 +103,20 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 34
+  - title: "Moving to AI in action: how law firms can overcome inertia and embrace next-generation technology"
+    excerpt: "Download the guide to read more about how SearchFlow is making AI accessible and value-adding for law firms, lowering the barriers to entry and making AI in action a reality."
+    publishedDateTime: 2022-07-04T16:01:00Z
+    webUrl: "https://www.legalfutures.co.uk/associate-news/moving-to-ai-in-action-how-law-firms-can-overcome-inertia-and-embrace-next-generation-technology"
+    type: article
+    provider:
+      name: Legal Futures
+      domain: legalfutures.co.uk
+    quality: 24
+    images:
+      - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
+        width: 636
+        height: 417
+        isCached: true
 
 secured: "X3EUMbqc3UnBpbFbmvkj1X7HHXCSJlLOwarQcRdq8rj7OxVpxR0oVhgc9+BG6FndVB441IMCc9FuvAHg7CrQSQFXd3uRGBNzfAK3RFIFq9osVoYN4TuHelobQxVvfW3PqSivQuoDPNJs/k9A6BlqlGMK76RS16jTsO7pAVROdOqixyb3+ggdWFss/Wi8FIqB+ckQf5vyNGUs6d84UjPI8m7f/1xVdQkLe+WHpzpa6ZjfesotIXAPAly31326K4H8iM3pLmQL+Z1dLlWTqzABZ5Q4qrwqGfinneR2O5lNTdBDh7CeR72BBXjVVzJKM9teFSE02RAV+4GKcutu60y1chLdlxYgN2D0Xgkt13nAprQ=;x4GZfF1CxDtB8ZnvxywpPA=="
 ---

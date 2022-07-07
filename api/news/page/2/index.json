@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-06-ai-robo-doctor-speeds-up-sight-saving-technology.md",
+      "title": "AI Robo-Doctor Speeds Up Sight-Saving Technology",
+      "excerpt": "A humanoid robot has quickened sight-restoring research by finding the best conditions to grow replacement retina layers from human stem cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "originalUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2072140/ai-robo-doctor.jpg",
+          "width": 2000,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "publishedDateTime": "2022-07-05T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-fifa-will-use-ai-to-track-players-bodies-during-world-cup.md",
       "title": "FIFA Will Use AI to Track Players' Bodies During World Cup",
       "excerpt": "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November.",
@@ -182,21 +233,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-05-iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications.md",
-      "title": "IISc researchers develop design framework for next gen analog chipsets for AI applications",
-      "excerpt": "This type of chipset is especially helpful for Artificial Intelligence (AI)-based applications like object or speech recognition like Alexa or Siri or those that require massive parallel computing operations at high speeds,",
+      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
+      "title": "Designing next generation analog chipsets for AI applications",
+      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/articleshow/92680803.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/articleshow/92680803.cms",
+      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1569289,msid-92680834/2-aryabhatchiptestenv.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
+          "width": 1000,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -204,13 +255,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms",
-      "publishedDateTime": "2022-07-05T06:08:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "publishedDateTime": "2022-07-05T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -221,8 +272,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
@@ -234,7 +284,7 @@
       "originalUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -693,48 +743,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-only-through-international-cooperation-can-ai-improve-patient-lives.md",
-      "title": "Only through international cooperation can AI improve patient lives",
-      "excerpt": "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg",
-          "width": 2880,
-          "height": 2262,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp",
-      "publishedDateTime": "2022-07-04T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

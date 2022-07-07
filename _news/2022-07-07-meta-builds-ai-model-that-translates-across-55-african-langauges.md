@@ -220,6 +220,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta’s AI can translate 200 languages in real time"
+    excerpt: "However, it seems Meta's AI is going to solve this issue now. Following this, the company launched No Language Left Behind (NLLB) project,"
+    publishedDateTime: 2022-07-07T08:42:00Z
+    webUrl: "https://www.phoneworld.com.pk/metas-ai-can-translate-200-languages-in-real-time/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 54
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/00.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Meta introduces AI model to translate 200 languages, including 55 African languages"
     excerpt: "In a Facebook post made by Meta CEO Mark Zuckerberg, he expressed his satisfaction with this new AI model, named NLLB-200"
     publishedDateTime: 2022-07-06T21:31:00Z
@@ -246,6 +260,6 @@ related:
       domain: geeknewscentral.com
     quality: 39
 
-secured: "/i6CJGKs9pgjnl5LoEISFSAOrb4vuibec8HTA/P1UwHNnpWLiMluPk1loyWF7QI8mQRxizU1ZCRbUpHDCWAsa1bzF93rzgRv3BaoNAs+A/sQOMaR0UKiQspkE+MMU7SbdnIb5qFat+FC7Z9IDBB3GZj0YgRfXJ5PaeVHq1OY1gtz4E3YE3MQsYfBrmKHhGPhK9BIia8qEYR8Ok9QUB9B5q5SIY1B77SedlWj1YJyJmMrNIe4u/5wdEPyofIH/v5Te3IUcRQpf7tqQcv0RvmPSF8EZSVkPrz0VM4u3AH3ECqJkx6v0Lut0sIn5IxklvSNYGZvKhNbmZmHmggOFvjnF3Y9/ilUxyudb/byX/OmpTU=;QMMTSZSjtW3f4s5RUMjEDA=="
+secured: "C5IL1AOtCh24XzJ6sYEs3FEez6QU69fIeINZFJMyhxGO6b6nlc8jOKhrwOtIPOkTwP3R/DxfarM4y5j3qE60yhw8rnBRpYvEd1KImSB6ue4rNgF5tTex3TuW04kcjDeB0mxiaaCBX+5MaZJKPRBm7dXVOB9ytwYi/yDSzzfXiFP/ZMm2M+fSOBu2qUhIdTatIZrEBXZSrx4sNk+i8ymzU+JHK+77ymcul0APR4/JtK0tsK5wXhvzDCBRmUlVAMHooEIuT59hMOHWpa54FGA4G2d0vdz0mi3gmhh7IGTlvTK1bU7vAq1iFcBHmSx7Y9GrniCAOmbmZAzKjhm9ejRUqNaVtlKFvL3TJudsk/S59xlngXKhOlVhKayApcJ+328Hi/FHkWIBkkQGz8CEM3Bdk9waR8ZdJWKbPCfc9QBj5b55tDalfsXUz/uwU1294njNH5tPYgMJWyzWkqghPelfK5YBfQ0HPR4fJwzxSrlFGDSZF2Wu4gSotAMgxYjBTvz+hGstZfykbZALwGD2hPnx7g==;D5GAuQW9y/BBFomkC0Sj9w=="
 ---
 

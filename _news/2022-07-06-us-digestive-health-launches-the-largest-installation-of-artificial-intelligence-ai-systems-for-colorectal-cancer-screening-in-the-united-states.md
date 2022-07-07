@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
+    excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
+    publishedDateTime: 2022-07-04T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20220703/Greater-global-coordination-needed-for-AI-enhanced-diagnostics-treatment-to-save-lives-of-prostate-cancer-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 15
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
 secured: "+ONydkGpyLw6QJuZX/sXsTqNerYuf6VtGWRjVf6vSRePhlbKJr6MjHWP+pkrMStWfoCoxrq1rnDqpwY/3tyV6B9oX0OTAxBg3Z1ebELvu5levq0E1fdy2RdzeOkgNvmf9UJiQxBi6W99DdaNejA57XR3VcVW1OCSAikHdeEIx7QFz31si6RWPnD2sYErDXj/3SAdSj1NMiOfZEp8+AEo2+NHhKk8JComFfB/kHq/E5dqJVSv6WltcFmX+p+nz+AnjvoSqObe9gfVTYJQ6czRgbMvVsPeEgvtV8vpRFT9bL1lS/7fszmbOu/316r1PQzoLIEhdvzzYZnJD530BDlckGUQd2HDCJoaF9+iX+sVB3E=;PSyiENrFOlbpfZAEMbEkDA=="
 ---
 

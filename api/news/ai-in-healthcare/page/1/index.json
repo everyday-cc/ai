@@ -10,7 +10,7 @@
       "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -492,49 +492,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It’s alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
-          "width": 2500,
-          "height": 1623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
-      "publishedDateTime": "2022-06-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1348,6 +1305,51 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
+      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
+      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning"
       ]
     }
   ],

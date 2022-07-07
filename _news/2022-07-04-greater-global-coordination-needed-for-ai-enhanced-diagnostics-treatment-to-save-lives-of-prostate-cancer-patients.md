@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Only through international cooperation can AI improve patient lives"
-    excerpt: "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
-    publishedDateTime: 2022-07-04T07:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
+  - title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
+    excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
+    publishedDateTime: 2022-07-06T12:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
-        width: 2880
-        height: 2262
-        isCached: true
-  - title: "Here's an AI's interpretation of what lies beyond Michelangelo's 'Creation of Adam'"
-    excerpt: "They range from criticising people for putting stock in randomly generated art—which was of course met with praise for our lord and saviour RNGsus (opens in new tab)—to references surrounding the great Flying Spaghetti Monster,"
-    publishedDateTime: 2022-07-04T15:43:00Z
-    webUrl: "https://www.pcgamer.com/heres-an-ais-interpretation-of-what-lies-beyond-michelangelos-creation-of-adam/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 31
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Y4CkBXsqcC2UoPMayTuTgd-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "aa62oVerwgOpRaHf40ekEIm8W/uIVRW+C+Q9uJzQQIPtpDyVBymnQ4UdOnK8BX8hjxVYEZzDYbLj7yCqIfNWHSHUhKIBnhR4aD7uwjDJZxxY2Vr6aKxSM6xz3RwLpLRX2A/fPy+1m43XljOfnuSJBHOayXeVJoeYOJhZr3MNp+BFnfY2NrKoIc2n0T0qkOlXgy0LYplkVGjpQ+Nr67uMaAzb1Kr0EQTHO0dBJEgVCFV9duz66mEly5yEQt+bmKX22Jm7cJeb/FybwZNlQmP1wCgrZwCjv2D2puOi9A/o8n7a0b1fFQ0Pz2z294efOwzWWDLdSa38tTmX4zWmR0BMS7ptx0tJdF5ldQM1d5f/074=;ZKxB02Oh75KF+1ASpl6J/g=="

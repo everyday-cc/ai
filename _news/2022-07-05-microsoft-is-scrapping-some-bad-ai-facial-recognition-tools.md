@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft data centers around the world are experiencing capacity and resource shortages"
-    excerpt: "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating"
-    publishedDateTime: 2022-07-02T15:09:00Z
-    webUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
   - title: "Cloud4C Achieves the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, a leading global multi-cloud migration and managed services provider announced that it has earned the Kubernetes on Microsoft Azure"
     publishedDateTime: 2022-07-06T00:00:00Z

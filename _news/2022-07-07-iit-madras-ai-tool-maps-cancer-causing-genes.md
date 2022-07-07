@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-too
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2022-07/44f38a9e-a2cc-41b2-b342-6bb7667aa49e/GettyImages_1011146302_scaled_e1593524069226_450x300.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 450
         height: 300
+        isCached: true
+  - title: "IIT Madras develops AI tool that can predict cancer-causing genes"
+    excerpt: "Researchers at IIT Madras have developed an artificial intelligence tool that is capable of predicting cancer-causing genes in an individual. The tool called 'PIVOT' can help in devising personalised cancer treatments,"
+    publishedDateTime: 2022-07-07T09:50:00Z
+    webUrl: "https://inshorts.com/en/news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/7_thu/img_1657173273447_432.jpg?"
+        width: 1080
+        height: 1748
         isCached: true
   - title: "Prostate Cancer: AI can Make a Big Difference for Clinicians and Patients"
     excerpt: "Artificial intelligence (AI) can help improve prostate cancer patient lives, but International cooperation is needed."

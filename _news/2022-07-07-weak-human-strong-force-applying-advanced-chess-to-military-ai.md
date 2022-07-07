@@ -7,7 +7,7 @@ originalUrl: "https://warontherocks.com/2022/07/weak-human-strong-force-applying
 webUrl: "https://warontherocks.com/2022/07/weak-human-strong-force-applying-advanced-chess-to-military-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 888
     isCached: true
 
-secured: "sUdo+0Q2FsxenYiDnaDAm4sRbAQWUnqcvSItfpaVUh+itP4ooUNTbg6xKofyfdN0pdzU8SPxkECmC5c2B2fezz8XnYadKTPtXC4rNJb1j+VDvDxvH8NZsWrvxROFbHqUSPkyVsUOZWEae8ne66yHx5omASR4QXjJXWfclxb0yyApvAor/m8awcUk0G6dHNNQb2+GgtdVbbKpE0r6EW528W40ywlADuJ2awKldfu3A89icLK3Sy0zgMR3t93Tb9mpJ8wcYCluyq37zMCu88egzaF6+Mnz3azwYvTtRA79mS4hb18OdXZfrB7B4SBGkvJDamxt1yMTO0KFXQMQUVhyhhkXgOzcWatcI3Eq8DynnqA=;RzarjEYy1AWL72uIC95ktQ=="
+related:
+  - title: "Why business is booming for military AI startups"
+    excerpt: "The invasion of Ukraine has prompted militaries to update their arsenals—and Silicon Valley stands to capitalize."
+    publishedDateTime: 2022-07-07T09:26:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/07/1055526/why-business-is-booming-for-military-ai-startups/"
+    ampWebUrl: "https://www.technologyreview.com/2022/07/07/1055526/why-business-is-booming-for-military-ai-startups/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/07/1055526/why-business-is-booming-for-military-ai-startups/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/5111995.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+
+secured: "ZgazmTrQtBFL+s6hEPJ8ZHSPlPZxo8En1Lyb6zF+6RcDBm0+0DoZebBn9CJyMJDIaBqorJP3EVRo3vVcO3ImbfKhXmePwr2j/3AOm9OQ56CWfxe0CsGi2CvL3SD6XWHKYkFZ2Cii59oGhqyovBNcsLyOTY3EIWuDa0PTAeYtZW6FkvKTR2VL2j++5U3/UxQbjpTPWXbNQH+EnYjJhE8iwnYcY6s1KZwZHUKvJpf7KH0+h/bKDmkKIAbmsZSEG7SqKPh9UocRWPbU5/Ry+O1bBtiK8mWySKQ4bmmHEA0rmBDNEAA2OHDj/De1KKyofA+7UyhKmTmZmoZApYdAB5a5Hgjyr7TAe4hBGbwD8n5MH2+OkPHhlB7hN/a55i6Ol884LwGrNedCjXF1Xzxz0xES3+eSRgX2uVspGjEoQWypVLankGIh3nXtZ/MAgY3azU1l0IrmUA70ObqysmFi/zUGDpSQtBRNX9/ftMmwRUbKJhBs/xTaRFaw86Yv7jo4FE5vAvY5f/QuYKcilDaa8TGxGA==;5UBtZsxf3JsG7j09IVM4Gw=="
 ---
 

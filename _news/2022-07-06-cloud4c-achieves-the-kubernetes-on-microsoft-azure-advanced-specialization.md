@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 943
         isCached: true
-  - title: "Microsoft data centers around the world are experiencing capacity and resource shortages"
-    excerpt: "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating"
-    publishedDateTime: 2022-07-02T15:09:00Z
-    webUrl: "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-02-image.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
   - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
     excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
     publishedDateTime: 2022-07-04T11:33:00Z

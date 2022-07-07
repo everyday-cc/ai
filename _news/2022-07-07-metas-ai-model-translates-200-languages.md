@@ -229,6 +229,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta’s AI can translate 200 languages in real time"
+    excerpt: "However, it seems Meta's AI is going to solve this issue now. Following this, the company launched No Language Left Behind (NLLB) project,"
+    publishedDateTime: 2022-07-07T08:42:00Z
+    webUrl: "https://www.phoneworld.com.pk/metas-ai-can-translate-200-languages-in-real-time/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 54
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/00.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Meta introduces AI model to translate 200 languages, including 55 African languages"
     excerpt: "In a Facebook post made by Meta CEO Mark Zuckerberg, he expressed his satisfaction with this new AI model, named NLLB-200"
     publishedDateTime: 2022-07-06T21:31:00Z

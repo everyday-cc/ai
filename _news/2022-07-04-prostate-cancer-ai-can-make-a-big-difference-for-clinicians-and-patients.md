@@ -58,6 +58,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "IIT Madras develops AI tool that can predict cancer-causing genes"
+    excerpt: "Researchers at IIT Madras have developed an artificial intelligence tool that is capable of predicting cancer-causing genes in an individual. The tool called 'PIVOT' can help in devising personalised cancer treatments,"
+    publishedDateTime: 2022-07-07T09:50:00Z
+    webUrl: "https://inshorts.com/en/news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/7_thu/img_1657173273447_432.jpg?"
+        width: 1080
+        height: 1748
+        isCached: true
   - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
     excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
     publishedDateTime: 2022-07-06T17:23:00Z
