@@ -54,6 +54,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
+    excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
+    publishedDateTime: 2022-07-06T22:38:00Z
+    webUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
+        width: 609
+        height: 343
+        isCached: true
   - title: "IBM buys Israeli data observability co Databand.ai"
     excerpt: "IBM says the acquisition of the Tel Aviv-based company will help it catch 'bad data' at source. US tech giant IBM (NYSE: IBM) today announced it has acquired Israeli provider of data observability software company Databand."
     publishedDateTime: 2022-07-06T12:00:00Z
@@ -78,6 +92,6 @@ related:
       domain: asiaone.com
     quality: 5
 
-secured: "VdIQhEYsN38WNFFRVZQuXbw88PHSF5mEWCqwY1b5jvZny3BM07yLQnOGC93A2uQoxCAV2fehIf6Y3gHqUFuXfMdXv9ac4G4DkYbWiBT7Oo8Bfu3hXx+nosm9/p9QMUo96SPX5S4c7ODT60eEGDFksFb3HEvgPjG2uzIv1Jqd+XXnj3vpzg1rXqZRdoA/WOO/aky7+stFBLHEbjz9BO0CrJ6df+1W3euNgBkJW3eMx17Tu+DCS3dGiAdOQb8g9m6LUbpIcZqncUVKU1tI3lYVLRdSJgZy+9devMBDTa2yHcS62zNLB6IKPuFtS3jtaj50JjYh4mX1192G5vJ87cX/Ok82LbVPF3X8o6R3KAjYwCQ=;JaTRKe4e6uYMKX/7Y3wutg=="
+secured: "fClXitWRrbCI2MIn/l6ziczDb8QhSEc0/SJ2hZTj9XyAm9Z28DlysALcoJO7jwad1e1aXAdt3N0Y7jeMWxpkKIya+FSoIyi3IltDRDtnRo0HUQrIFOTd3UhXSR3jo9kXpsEp5rDBiW502hJMdsdU2WC9ZmjLYYcHAuTjvgvXhsJ8nlCTttS9wtZpNnalSbj94HnutHeGhgErbn/+8DgPGBx2M8ofYHgQ6PrAjFFjEc97Iq1vawCz0xqoEK5F0l2aWZXfr0D1pkyPBe0l0vK7aXy+Y+B8E/kZoVn+FT5EkpdicSp1BVIktr3CEHTlZQnxXoGjQpEoUXez1GChfxONNVq4rEw0X2uhnrWTjrTtIUg9FR/iJY2g6uQ4VHPW21BNEaWB7GkNT4jAPcLKKaQXnsaGgNC1MOYOgdmn9jOjl6qrtGKluzNcSoPWJP1LjqnkWE9trdthgMh9xUDoX+LyViJ8lgAVr/x5b4anVoLXj0PqxKIcj18GhW6mawChhhvsmDxmYL6YL7pL0ORdLP/7fQ==;3SOPYyeCXJc5siAsj97zuw=="
 ---
 

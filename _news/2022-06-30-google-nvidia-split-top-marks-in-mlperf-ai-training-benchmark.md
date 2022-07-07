@@ -26,6 +26,7 @@ topics:
   - Computer Vision
   - Natural Language Processing
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp"

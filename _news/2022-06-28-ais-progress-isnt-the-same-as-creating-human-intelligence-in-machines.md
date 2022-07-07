@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000"

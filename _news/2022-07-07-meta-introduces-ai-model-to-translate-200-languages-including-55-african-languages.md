@@ -60,15 +60,15 @@ related:
         isCached: true
   - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
     excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
-    publishedDateTime: 2022-07-06T21:13:00Z
-    webUrl: "https://au.pcmag.com/news/94974/metas-latest-ai-can-instantly-translate-200-languages"
+    publishedDateTime: 2022-07-06T22:29:00Z
+    webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 86
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_4cuw.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -160,34 +160,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta’s AI Machine Translation Research Helps Break Language Barriers"
-    excerpt: "Meta announced that it has built and open sourced 'No Language Left Behind' NLLB-200, a single AI model that is"
-    publishedDateTime: 2022-07-06T16:14:00Z
-    webUrl: "https://www.techbooky.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
-    type: article
-    provider:
-      name: https//www.techbooky.com
-      domain: techbooky.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/07/NLLB-1.jpg?fit=1920%2C1080&ssl=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Meta's AI machine translation research helps break language barriers"
-    excerpt: "Meta announced that it has built and open sourced 'No Language Left Behind' NLLB-200, a single AI model that is the first"
-    publishedDateTime: 2022-07-06T20:04:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/266426/Meta&"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-07-06-1720060.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Meta's AI can translate between 204 languages, including rare ones"
     excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
     publishedDateTime: 2022-07-06T13:19:00Z
@@ -203,6 +175,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UH/IqYohttyArU2FM8P0QlD19ko4k/1DVmepS4IkC9icShAV6fCDfxL3dIdvYmn1g0EcPse9lAt4HK6jsiWFKORn1VK0N0DaMIg98+G7YBq/ICsVE320g/rJr0uE8Bl0xEh89VB7l1Jtz7owvbrann0TyYoaAzntrUC/O7AD7CQAyHenJJlwSRi9aZmdEjjG1y7UVM7+8S3s9YmgLDdpWOGW1TD2SUR31+EOzEAbIRvfjyJwgPCMYTX6npjlpKv8FdcNwYxPXP8jidpPY1NdtkaT4D8uH2eOmuKQcw/8uEo5WbfxAfORIBF6jg/DI4nS3dLJfqK4dTmnipdfKtM5rFDJz+0+n+5/P1OanK2hza0=;IycPMXnVaTwYKIK9WXqlNg=="
+secured: "Q+idEzR9yPqT0PCzinPvOCYvp3pFulU6zCpQZFeFFe73jMvWWKG7vjMXMLOBMLG5Yd+NYXcE4wi5MWoRJb6uqyahBUPT5OQ4KH7r67FoD7RxY7VodrnFFQfl3/1lHMcGrlcNZjdPSiVc8lXfqqhcsDryxUWBLqX/mvIuo7u454h840ABOV+QujyqPF+oejp0W/8FK5MORr16slVsCfPPqumbEB2IJYgvSFbLIygbr4gdHxsg4NPO5jXAfGWYRuzaCtURm98ZDY9rs0vANgilqZ4PPI9gy8TTYoBWQU5oq13y7r9fN5L9nfo1efe7S81eFp8WUrMYH0XS/JxNcp6ivdvw4VSFY2wH0LpEQJ8tg/LtgR0GLHA1PIvC0+X06pCrHnMTSwlsHYNkpgMJoVQ7lEKgg1CbPBmo1c29AK8tj24qzjD3Ca9ZbDryL33Nm4GmeSt9H+wUk4FKvE/O9FBPRVgixvoYoW0njVmAxZrEDljWYhE6KaN7KMqRefvSDt6X56CMx29TAOei/EiQhMrhBQ==;qiK5+7OEWbAZYjXOpecyGw=="
 ---
 

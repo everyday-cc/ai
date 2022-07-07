@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/03/employee-experience-automation-hu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

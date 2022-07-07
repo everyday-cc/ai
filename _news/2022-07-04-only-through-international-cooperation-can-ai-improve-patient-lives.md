@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

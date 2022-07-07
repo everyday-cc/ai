@@ -3,19 +3,19 @@
   "value": [
     {
       "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
-      "title": "AI, ML Making Equitable, High-Quality Healthcare A Reality For Millions: Qure.Ai",
-      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and q",
+      "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
+      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi",
-      "originalUrl": "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi",
+      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=976241",
+      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=976241",
       "featuredContent": null,
       "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942894",
-          "width": 375,
+          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/northern_square4.jpg",
+          "width": 280,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T06:10:00-07:00",
+      "publishedDateTime": "2022-07-06T06:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,10 +40,10 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AWS AI",
         "AI",
         "Machine Learning",
-        "AWS AI"
+        "AI in Healthcare"
       ]
     },
     {
@@ -467,17 +467,17 @@
       "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
       "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
       "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -487,11 +487,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:10:00-07:00",
+      "publishedDateTime": "2022-06-30T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -570,6 +570,58 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year.md",
+      "title": "DDN Wins Artificial Intelligence Breakthrough Award for Third Consecutive Year",
+      "excerpt": "Prestigious Award Recognizes DDN AI and Machine Learning Solutions in Enterprise Digital Transformation, Business Analytics, Research, and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -796,7 +848,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Machine Learning"
       ]
     },
     {
@@ -1295,51 +1348,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

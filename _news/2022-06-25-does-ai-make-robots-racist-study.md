@@ -5,6 +5,8 @@ excerpt: "A new study found that a robot operating with a widely used, internet-
 publishedDateTime: 2022-06-25T11:38:00Z
 originalUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-710355"
 webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-710355"
+ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-710355/amp"
+cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-710355/amp"
 type: article
 quality: 34
 heat: 34
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/495545"
+    width: 640
+    height: 428
+    isCached: true
 
 related:
   - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"

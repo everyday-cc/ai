@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/environment/facial-recognition-software-seals
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/2b75531/5f686a71-7942-438f-9f9d-b43a83da6d7c/8/eye-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Technology commission formally asks city for moratorium on facial recognition technology"
+    excerpt: "While some populations are being harmed by this technology at higher rates than others, all residents lose when government deploys emerging technology in an indiscriminate and secretive manner,” states the commission’s final white paper on facial recognition tech that sums up the panel’s thinking."
+    publishedDateTime: 2022-07-06T23:36:00Z
+    webUrl: "https://lbpost.com/news/technology-commission-formally-asks-city-for-moratorium-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Long Beach Post
+      domain: lbpost.com
+    quality: 30
+    images:
+      - url: "https://img.lbpost.com/wp-content/uploads/2021/11/25081947/FE_3jvEXwAUVLX1.jpg"
+        width: 2463
+        height: 1514
         isCached: true
 
 secured: "uqVRHt+OKUt5r3cnEqnstHaDrTeOw/k3DjjpKv/1SIVEHnxT78i0zljjBTkPbks0XJPsY4s4wHSdlosziFXQKl4W/v8Jl17jvEFiJw0Tj1JoQ/6Mr4zaXtuNSoO8eWjhC+cYji0SlfRw9xSgz6968vu0CItiMJjwwcduxtoi32pYVQtz2IBMqWdiTnL0G2CrEdglP7np15jVbfOZP6sAtIzdQfrZhexiY36YIwMJ4dc3hXfgPQeXwvaCLXTNMBXF24meyc+vCyIPNGbiVkHAoodGqxVdPVLIWR4W1OWfBcX/UVfcB3GI6nXP2TKmCp1kIvGpq4ZJDqqcZ1G7+SHsYaYZQDGSC59PPSYu1M486MZ6GpzYUidlWV8lip/8UBfhHl5x7jlRN13mKaQL9jtHBzwkhD1LHUFXnUjA4MmD9vdA0AtoyW0vB0TBxuI5vtNgWdvhxvL8CnhrHaKjPdExtB9yOqZf+t4Q3aEzvb/71FuxN0/GJUv/0/p1axpKpkGLgg4ZlUVz+So6OiBnYCSZZw==;owu1oHb95RU2ZIYZvoZpUg=="

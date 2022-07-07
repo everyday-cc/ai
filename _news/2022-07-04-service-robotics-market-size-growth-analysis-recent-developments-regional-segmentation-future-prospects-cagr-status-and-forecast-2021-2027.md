@@ -51,6 +51,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Deep Learning Market 2022-2028 is Recovering from Covid-19 Outbreak- More Details About Key Players and Future Analysis"
+    excerpt: "Deep Learning market is anticipated to grow in the forecast period owing to driving factors such as increasing awareness towards healthcare of livestock and companion animals and government ..."
+    publishedDateTime: 2022-07-05T14:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-2028-is-recovering-from-covid-19-outbreak-more-details-about-key-players-and-future-analysis"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/d21d0d778e04d58690322fb5f23eab3bdd277d12-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "FCEZLG7Of+QEssDPFIGuFf4iz7yl1XrYQxQkLfcorMb0LncOyw9BKIjkbAzxnRzt4MG1gkCHJa4WyrnQzMKSFzpF9sqwRQViWdK4hXeZJq45O1sgC38VzOxAJThkS/m8AwqE8H0uoCHM/RXdDz48ePhtL7p7M4poyUq4a5l5uBmGJIjOqtaM31S08AwZ9hwZV/hWDp5GyuEp5KP/7HCApWM8iPuwX+alUmTmCO0pRs+1GAJjEydNJ/wBSndExJltfkCo/N4WhaWKSdo6xJekbYzfP3Cs4hCi2v+mGAaRQUrb2gen1RmSMAL4VkCUcZRwyYXvrrY82u77Ttpsyyu/quaK7u3bKCAMGBaRBGMUJRM=;0CufSKbfacpJJHYrgVVC/w=="
 ---

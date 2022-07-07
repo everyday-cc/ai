@@ -55,6 +55,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Technology commission formally asks city for moratorium on facial recognition technology"
+    excerpt: "While some populations are being harmed by this technology at higher rates than others, all residents lose when government deploys emerging technology in an indiscriminate and secretive manner,” states the commission’s final white paper on facial recognition tech that sums up the panel’s thinking."
+    publishedDateTime: 2022-07-06T23:36:00Z
+    webUrl: "https://lbpost.com/news/technology-commission-formally-asks-city-for-moratorium-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Long Beach Post
+      domain: lbpost.com
+    quality: 30
+    images:
+      - url: "https://img.lbpost.com/wp-content/uploads/2021/11/25081947/FE_3jvEXwAUVLX1.jpg"
+        width: 2463
+        height: 1514
+        isCached: true
 
 secured: "8XNvkhTrrrJWxzRKHNPpxoubIocgc5ba+qQOROgO4MjEgehpof4YVEz+LfVDIoc1csip33wDIm1eb4aMUASBdy0DsQbldyWeRin2kSQASL0O1WivcWTroNYxRNwKlCs2Mi/rM/4ujpsr+v5Sc0gfy/PDoiisyNexTKIj9IGqtzvmYfmAc/zMCdpXqO4uKQQEkjPJy4jSIpr9gGzgTmmIrWkxCuCcUUIRyP8KBE5jQHp/sEzUc4ZjnG+eUew49fj1e9dEs2QtrSU9iCKmQJ0zcakhDbJ7w8SD+xA5PxOo5mpdY3FckFEiFlkVz+IBUOPJ1TIFzecWxOov1bot5eDIdkrZekIUY7RQ+nliCy/ID8c=;3Ewv3B7vDeXAdQSMlufWyg=="
 ---

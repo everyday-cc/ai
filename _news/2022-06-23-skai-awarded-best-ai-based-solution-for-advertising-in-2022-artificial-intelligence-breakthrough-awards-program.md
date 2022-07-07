@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 related:
   - title: "How AdSkate is reinventing online advertising with AI"

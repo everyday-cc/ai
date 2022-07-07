@@ -21,18 +21,18 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI, ML Making Equitable, High-Quality Healthcare A Reality For Millions: Qure.Ai"
-    excerpt: "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and q"
-    publishedDateTime: 2022-07-06T13:10:00Z
-    webUrl: "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi"
+  - title: "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai"
+    excerpt: "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,"
+    publishedDateTime: 2022-07-06T13:31:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976241"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 68
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942894"
-        width: 375
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/northern_square4.jpg"
+        width: 280
         height: 250
         isCached: true
 

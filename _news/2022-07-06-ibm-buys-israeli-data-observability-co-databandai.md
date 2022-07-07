@@ -54,6 +54,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
+    excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
+    publishedDateTime: 2022-07-06T22:38:00Z
+    webUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
+        width: 609
+        height: 343
+        isCached: true
   - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
     excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
     publishedDateTime: 2022-07-06T21:50:00Z

@@ -2,25 +2,25 @@
 category: news
 title: "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies"
 excerpt: "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform."
-publishedDateTime: 2022-06-30T16:10:00Z
-originalUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
-webUrl: "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies"
+publishedDateTime: 2022-06-30T14:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-20744293e8bf44bf618efa80445296bf"
 type: article
 
 provider:
-  name: Insurancenewsnet.com
-  domain: insurancenewsnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "G4+pTyfDhKNxYqazGThY3/kLLpbapJvGgEsXXN1iKnWwqPQg5fFUGBQ1JIWsxNexmhTDWkgTJOQ95ZwZqoST0ncJx9UW1XP/46a+ZQv/1HdIWyZ6gM5HBhE9eF+rKWQjlneHTsF9jeUxXdhwVH5LD4ctbsnRijjtfOcHwIWqnhY4R32+TMjgnfmmhi0g4tQ54sjaJ5pS0GV5pKuJdOaJUm27e8rotQ+qeFWzNw7EW0SUF0y4mva6YnZ9IVkC4SNbUYbbF28mmIa86So+Nhwoh+yghfZErNe16AwVpj0jXQzJyZ9LTYsG1oaeHJKsccFXfDd00BIP22+OMHqsgSc0gU7wwP/CDIxudRrCkG0qnGI=;LFyBiCdYZGclEH+t8yNrBQ=="
+secured: "A6pGiIWyOErV4q5U7DkUzeNGLoxQMnEtxE7wuKscyv4T3uLInxsbV5pwFbIaH4MLp7a5TERoCXgZBCTXvSh/hH7oX7gT7uXjvy9j0wPih+ruH4mytIrrwf9O0i9+luGSyTQBKQW10rYuts2u6p30Lu87AwEKEo5OpbpiohzbELh7iaBIPSA1rjsmq7N9YuxHKp1kB7HbOEOgPVv/hxlFB0Ydr0ucFUC3Dr7vFXnzxOY88qGerIf2+GlY7BGhW2o02xj8cZjJPfRm32qFpXalQA/JDZIu3rzo39KzRl8KmnF8YpNtJ00fm4ojwd1FBBLt0EoCBEBioxXrZ7aAKEodhMlLu4tXt2A10Xx8+7r4SKU=;KRucF2een2WVecagogsXQg=="
 ---
 

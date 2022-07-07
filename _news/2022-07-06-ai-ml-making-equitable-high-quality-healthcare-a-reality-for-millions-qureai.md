@@ -1,28 +1,28 @@
 ---
 category: news
-title: "AI, ML Making Equitable, High-Quality Healthcare A Reality For Millions: Qure.Ai"
-excerpt: "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and q"
-publishedDateTime: 2022-07-06T13:10:00Z
-originalUrl: "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi"
-webUrl: "https://menafn.com/1104485008/AI-ML-Making-Equitable-High-Quality-Healthcare-A-Reality-For-Millions-QureAi"
+title: "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai"
+excerpt: "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,"
+publishedDateTime: 2022-07-06T13:31:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976241"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976241"
 type: article
 quality: 68
 heat: 78
 published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
+  - AI in Healthcare
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942894"
-    width: 375
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/northern_square4.jpg"
+    width: 280
     height: 250
     isCached: true
 
@@ -37,6 +37,6 @@ related:
       domain: business-standard.com
     quality: 53
 
-secured: "pRVXP7rM9QQt704l2OEL1shkYCLDfHCtjgJlwzvEGeojurZKX7CVrQGuFsfP40O2vtBjR6HUW6TF6XXTFvnzIItc5IfOzQMtNSzb0Zx/sMKY0g4nsMdw3j99cwRaH4Uq0ZEeWazzfvGpvXaquiejRsAwqKB/6vLZzguoSHsijwLNmZFD7APsaVrO73HRimzsXjaVGfNA/pm9txv4DFuyWtvqGYBjnBFQpo1Gzj7BuIKpyzedck5hFSC1QsFJ4HgGSkCayJGD37BQitVtv6bcwmMrGy2xE+V/KS5LsZOS4YvY6P7UdUo+DdeBJq8VfuJaioYHq/mRgU50kcugobv5V0mMsTF23hmME//E+CATRMw=;uX2R0NXtolT6mq7zexiPdQ=="
+secured: "oXWithSOJ+mjlPFJl4+Gb5IGQ2RV275IPPs0cPXiPR/FtY2ChK5QuG15mXIZWAYRYpY15ymzSjHoKw4acZWuNGVWnpzdIjzbmocD+/QrQu8Vux+cMF+npFl1iYw4vjbN1ruWAbAtC3EmlkB4I7SGpoLV2vHqfOWz1Zq28geQmUD5ihA/JOwrlxLtGgdALUeDvMtWf5KUiYsJ2f7/fJ/sg6q3zk0N+pPdkGJerbNpCDYrQ3hPUwfsmiMyyCFeQe7bE1K38N+mX7iVRvBn+tmS/QivP7lnqUU4vWncDSsuyTCrydPxJzTBho57pyxOgltqPTLr8ouU9xqYAvXXXh6eSaTpmvhg6Wb3daV6r8sxKW8=;bJ4wntuxmOrulcm5do3ewA=="
 ---
 
