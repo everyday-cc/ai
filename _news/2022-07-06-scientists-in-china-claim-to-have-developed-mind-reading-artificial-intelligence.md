@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2022-07/GettyImages-1327058469_0.jpg?h=119335f7&itok=cpXvCYpW"
