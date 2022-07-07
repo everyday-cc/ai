@@ -24,42 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "The future of financial services is AI-powered and experience-led"
-    excerpt: "A 2022 financial services research reveals that consumers expect financial services institutions (FSIs) to provide easy, transparent experiences and concern for both their financial health and security."
-    publishedDateTime: 2022-07-07T13:10:00Z
-    webUrl: "https://www.zdnet.com/article/the-future-of-financial-services/"
+  - title: "The Role of AI Ethics in Network Monitoring"
+    excerpt: "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed."
+    publishedDateTime: 2022-07-07T17:57:00Z
+    webUrl: "https://www.eweek.com/networking/ai-ethics-network-monitoring/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "EU AI Act remains murky for financial services"
-    excerpt: "The EU Artificial Intelligence Act’s broad scope and definitions leave many financial services firms perplexed on the exact details of what will be regulated and how to be compliant"
-    publishedDateTime: 2022-07-05T08:00:00Z
-    webUrl: "https://www.iflr.com/article/2ab8wjf0lpfosxfm1o074/eu-ai-act-remains-murky-for-financial-services"
+      name: eWeek
+      domain: eweek.com
+    quality: 64
+  - title: "Artificial Intelligence Eases Network Challenges"
+    excerpt: "Many technology vendors have used artificial intelligence to transform their products. This is evident in areas like unified communications, contact centers and cybersecurity. Yet one area of IT that has yet to see AI play a significant impact is the network."
+    publishedDateTime: 2022-07-06T18:53:00Z
+    webUrl: "https://www.eweek.com/networking/artificial-intelligence-network-challenges/"
     type: article
     provider:
-      name: IFLR
-      domain: iflr.com
-    quality: 37
+      name: eWeek
+      domain: eweek.com
+    quality: 49
+  - title: "Artificial intelligence in the driving seat"
+    excerpt: "Defence data scientists and engineers have come close to setting a world record time in a DeepRacer artificial intelligence challenge. The participants, from the Defence, Science and Technology Laboratory (Dstl),"
+    publishedDateTime: 2022-07-07T07:48:00Z
+    webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html?play=1"
+    type: article
+    provider:
+      name: Advance
+      domain: adsadvance.co.uk
+    quality: 39
     images:
-      - url: "https://assets.euromoneydigital.com/dims4/default/b809668/2147483647/strip/true/crop/600x315+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F68%2F3b%2F5312dd204b2eb7407d74680bdf88%2Fartificial.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The future of 5G: More features, more spectrum, more AI"
-    excerpt: "If you work in telecommunications or a close industry watcher, it may seem that 5G has been dominating discussion for nearly a decade."
-    publishedDateTime: 2022-07-06T13:57:00Z
-    webUrl: "https://www.rcrwireless.com/20220706/5g/the-future-of-5g-more-features-more-spectrum-more-ai"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/www.rcrwireless.com/wp-content/uploads/2021/10/featured-image-RCR-wireless-logo-.jpg?fit=1200%2C628&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.adsadvance.co.uk/media/images/banners/967.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "+9x79BE+wdlIc1+b23TOfQpQSt20oraz/9zuszmt3ktwiCijH3/18Uwj4R0VVxJt2NMuLuORdeXUEpUSjLVD6RdafmN6rfLcuizsDZmtqsXDUkS7von0ir6TK5zPo/dpKse29GP+gUBJwGCMK9P7Ti5W2tpWb5TVgnu3KPU9okIe/j4H6OC4ouhYjQle3jaWxJWxqpTHM/hBvI/SRs6Ynr+Im+Rl+H1E6rfP24HYxNCE7uDtYVAf4DJoMVeWZBph2zWy0Jy/yXA0EEDVZPl8CSJec8jk2drxW/7ohvwLimDb6jdJ6Obmu+6amsigaF3Lk3ZmUHi1UNwyDjx6LrfsxlBdULH1cj+urdD+JevwOlc=;q2c263FiTcIWtkoHtSSA/Q=="

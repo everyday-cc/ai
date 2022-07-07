@@ -2,6 +2,230 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-metas-new-ai-research-may-boost-translations-on-facebook-instagram.md",
+      "title": "Meta’s new AI research may boost translations on Facebook, Instagram",
+      "excerpt": "Facebook's parent company Meta has announced a new AI model for language translation and its research could improve translation on Facebook and Instagram.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
+      "originalUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/a-series-of-social-media-app-icons-on-a-colorful-smartphone-screen.jpg?p=1",
+          "width": 1500,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
+      "publishedDateTime": "2022-07-06T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-watch-ai-objectives-increasingly-involve-marketing.md",
+      "title": "WATCH: AI objectives increasingly involve marketing",
+      "excerpt": "Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence (AI). Marketing’s core activities are understanding customer needs, matching them to products and services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "originalUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tSMl4zFEp3h4YUwB7nlte-8DPk1bI0ZTY9j96GC1ooO2MyFMThSXt85Yp8e0xRbLqP6_1G_YGSCsfhja6sSPMuWm291T4PrSyLwgKrtR67oG-w=s750",
+          "width": 750,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "publishedDateTime": "2022-07-06T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-vodafone-builds-on-its-google-cloud-relationship-with-ai-booster.md",
+      "title": "Vodafone builds on its Google Cloud relationship with AI Booster",
+      "excerpt": "Vodafone is doing a lot of application development on Google Cloud Platform (GCP)The focus with GCP is data analytics and the automation of software developer",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/",
+      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/vodafone-14356.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/",
+      "publishedDateTime": "2022-07-06T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-scientists-demonstrate-machine-learning-tool-to-efficiently-process-complex-solar-data.md",
+      "title": "Scientists demonstrate machine learning tool to efficiently process complex solar data",
+      "excerpt": "Big data has become a big challenge for space scientists analyzing vast datasets from increasingly powerful space instrumentation. To address this, a Southwest Research Institute team has developed a machine learning tool to efficiently label large,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.html",
+      "originalUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/swri-scientists-demons.jpg",
+          "width": 2880,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.amp",
+      "publishedDateTime": "2022-07-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-the-download-tweaking-ai-for-energy-efficiency-and-chinas-leaked-data.md",
+      "title": "The Download: Tweaking AI for energy efficiency, and China’s leaked data",
+      "excerpt": "These simple changes can make AI research much more energy efficient What’s the news?: Deep learning is behind machine learning’s most high-profile successes. But this incredible performance comes at a cost: training deep-learning models requires huge amounts of energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/",
+      "originalUrl": "https://www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/N_DS-_F915pblu1zdTwFFT0qJEXbeV6EXbcCrIgtzFqozn5ujjEBU0djvsaZ3NYavWAkGLkTYZoFLzaXUj465E-sqUu90BI_FFL9KF9IWxj8ie8MHMQaGV-CU_z42-Fi_1ui2gEZfRc8jJH53Ss",
+          "width": 1227,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/amp/",
+      "publishedDateTime": "2022-07-06T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
       "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
       "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
@@ -213,7 +437,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -825,7 +1049,7 @@
       "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -952,244 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up.md",
-      "title": "Japan deploys artificial intelligence to detect rip currents as beach season hots up",
-      "excerpt": "AI system identifies currents and bathers, and sends a warning to lifeguards via a smart watch",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up",
-      "originalUrl": "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2328ea01a4bbf67afdf96f50846982ecab245db4/0_0_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=c6d2e6511d0f26ad8933eebb26a942ab",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up",
-      "publishedDateTime": "2022-07-04T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings.md",
-      "title": "Words matter: AI can predict salaries based on the text of online job postings",
-      "excerpt": "An AI model has been created that can predict the salary of job postings based on the text used with an 87% accuracy rate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/",
-      "originalUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/investing-e1652369195161.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/amp/",
-      "publishedDateTime": "2022-07-04T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-chinese-researchers-claim-they-have-ai-capable-of-reading-minds.md",
-      "title": "Chinese researchers claim they have AI capable of reading minds",
-      "excerpt": "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
-      "originalUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
-      "publishedDateTime": "2022-07-04T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
-      "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
-      "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "originalUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/human-resources-g52f502e44_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "publishedDateTime": "2022-07-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-obsbot-tiny-4k-is-a-petite-uhd-webcam-with-ai-powered-tracking.md",
-      "title": "OBSBOT Tiny 4K is a petite UHD webcam with AI-powered tracking",
-      "excerpt": "Webcams aren't generally smart, but the OBSBOT Tiny 4K UHD webcam is, thanks to AI-powered tracking and autofocus support. Learn more about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
-      "originalUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/OBSBOT-Tiny-PTZ-4K-UHD-Webcam-with-AI-and-gimbal.jpg?p=1",
-          "width": 1776,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
-      "publishedDateTime": "2022-07-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

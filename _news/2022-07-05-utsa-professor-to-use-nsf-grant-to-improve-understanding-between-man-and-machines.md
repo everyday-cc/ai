@@ -24,6 +24,17 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "Machine learning begins to understand human gut"
+    excerpt: "The communities formed by human gut microbes can now be predicted more accurately with a new computer model developed in a collaboration between biologists and engineers, led by the University of Michigan and the University of Wisconsin."
+    publishedDateTime: 2022-07-07T19:09:00Z
+    webUrl: "https://phys.org/news/2022-07-machine-human-gut.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
+
 secured: "kn76MT72wBLgtYTzwq5aMrUZcxPk0Wbwu9aCy6eoO06e4aOHBW6HvLR9bPaix8B1YKr/slcvhOArq5fFn6aRkuwbuUScpJVIovOrpIVbKcsGhoSuLAQjXqG6x+8PS+4cMsl32gVbKt2CFRk4krRl/R2c1eERzOWVT5VxQ1JcdiTkoBsw7UlnP8ElTsZ4nYTFxzaORPXKTw85dEOjnmLYXIvJSfac4t8Ovr5a0fhVH2dgBHFlXZcI91RQdrMn101o2UpHmOhAcmB2dqFLqJ50flN2vS9xEnfcixV77Ub6jIhWj1rvOpHrIe5/6qUEFN29nlnRjieoAzWuDDYzIriKEYoT9TbdZnBBFJL6WY8DN4odId5kQoN7PU6Xfds3vENUVOXUM5HnGqXsae5TkHoPYWJwG0eUqr4BgtUHKnZkJFC/MMVN1eZ0hymTezfUVrujmejR8ip2gFDFlhV5Td9PI0TT3wvhrsIywVmgM8QqdCLFAQ6UY1Ue68m6Ycq+qYpGwkLlvGIdmAZjPXv63xXxeQ==;xx60BEnt6K2JvclF+8LfNA=="
 ---
 

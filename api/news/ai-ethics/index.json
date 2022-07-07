@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-08-the-role-of-ai-ethics-in-network-monitoring.md",
+      "title": "The Role of AI Ethics in Network Monitoring",
+      "excerpt": "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "originalUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-artificial-intelligence-is-evolving-imagine-dali-art-painted-by-a-bot.md",
       "title": "Artificial Intelligence is evolving: Imagine Dali art painted by a bot",
       "excerpt": "General AI looks reachable but we must watch out for human tics and foibles inherited by machines",
@@ -1397,59 +1440,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson.md",
-      "title": "AI Weekly: LaMDA’s ‘sentient’ AI triggers memories of IBM Watson",
-      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
-      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
-      "publishedDateTime": "2022-06-16T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

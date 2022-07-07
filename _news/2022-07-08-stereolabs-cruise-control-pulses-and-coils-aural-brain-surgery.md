@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T19:39:00Z
 originalUrl: "https://www.thestranger.com/music/2022/07/07/76103144/stereolabs-cruise-control-pulses-and-coils-aural-brain-surgery"
 webUrl: "https://www.thestranger.com/music/2022/07/07/76103144/stereolabs-cruise-control-pulses-and-coils-aural-brain-surgery"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Stranger

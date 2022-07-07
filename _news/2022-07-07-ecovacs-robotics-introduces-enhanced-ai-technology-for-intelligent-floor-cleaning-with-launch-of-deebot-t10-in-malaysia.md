@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "To equip students with technology, Dubai’s group introduces coding and robotics in classroom"
+    excerpt: "The UAE government is taking a lot of initiatives focusing on early education to develop advanced skills suited for the 4th Industrial Revolution"
+    publishedDateTime: 2022-07-03T19:23:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/07/03/to-equip-students-with-technology-dubai-group-introduces-coding-and-robotics-in-classroom"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 38
   - title: "First in Malaysia to harness power of award-winning AI supercomputer"
     excerpt: "NVIDIA RECENTLY announced that the University of Nottingham Malaysia (UNM) is the first in the country to deploy the Nvidia DGX A100 system to provide the high performance computing (HPC) performance needed for artificial intelligence (AI) research ..."
     publishedDateTime: 2022-07-07T00:48:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-05T19:54:00Z
 originalUrl: "https://justthenews.com/world/asia/scientists-china-claim-have-developed-mind-reading-artificial-intelligence"
 webUrl: "https://justthenews.com/world/asia/scientists-china-claim-have-developed-mind-reading-artificial-intelligence"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 

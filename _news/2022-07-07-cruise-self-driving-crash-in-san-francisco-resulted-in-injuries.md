@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
+    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
+    publishedDateTime: 2022-07-07T20:41:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries-nhtsa-investigating"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Cruise Taxi Is Broadsided By a Prius in San Francisco and No One Knows What Happened"
     excerpt: "According to the company, the taxi was attempting a left turn in front of an oncoming Toyota Prius on the intersection of Geary Boulevard and Spruce Street when the two collided. The Prius was in the rightmost turning lane but traveled straight through the intersection while speeding and,"
     publishedDateTime: 2022-07-07T15:20:00Z

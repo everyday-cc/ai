@@ -2,6 +2,248 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-07-drive-efficiencies-with-cicd-best-practices-on-amazon-lex.md",
+      "title": "Drive efficiencies with CI/CD best practices on Amazon Lex",
+      "excerpt": "Let’s say you have identified a use case in your organization that you would like to handle via a chatbot. You familiarized yourself with Amazon Lex, built a prototype, and did a few trial interactions with the bot. You liked the overall experience and now want to deploy the bot in your production environment,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-efficiencies-with-ci-cd-best-practices-on-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-efficiencies-with-ci-cd-best-practices-on-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/18/Featured-image-ml-9064-1.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T14:28:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-discover-how-to-step-up-your-ai-game-on-day-1-at-transform.md",
+      "title": "Discover how to step up your AI game on Day 1 at Transform",
+      "excerpt": "If you haven’t yet embraced artificial intelligence (AI) and machine learning (ML) in your operations – or plan to embrace them – it’s time to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/",
+      "originalUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/amp/",
+      "publishedDateTime": "2022-07-07T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-who-is-shivon-zilis-meet-the-neuralink-exec-and-ai-expert-who-had-twins-with-elon-musk.md",
+      "title": "Who is Shivon Zilis? Meet the Neuralink exec and AI expert who had twins with Elon Musk",
+      "excerpt": "Neuralink exec Shivon Zilis is reported to be the mother of Elon Musk's 9-month-old twins, who were born weeks prior to his second child with Grimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "originalUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62c7374e99259b00181e5dcc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
+      "publishedDateTime": "2022-07-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler.md",
+      "title": "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler",
+      "excerpt": "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T11:44:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-the-role-of-ai-ethics-in-network-monitoring.md",
+      "title": "The Role of AI Ethics in Network Monitoring",
+      "excerpt": "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "originalUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-chip-makers-press-for-standardized-fp8-format-for-ai.md",
       "title": "Chip Makers Press For Standardized FP8 Format For AI",
       "excerpt": "Nvidia introduced its GH100, the first GPU based on the new “Hopper” architecture, which is aimed at both HPC and AI workloads, and importantly",
@@ -196,22 +438,13 @@
       "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
       "excerpt": "Microsoft and Amazon Web Services have been awarded Ukraine's peace prize for their efforts in helping keep the nation's digital infrastructure online during the Russian invasion.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
-      "originalUrl": "https://www.techradar.com/in/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "webUrl": "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "originalUrl": "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -623,48 +856,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-07-how-ai-is-saving-food-waste.md",
-      "title": "How AI is saving food waste",
-      "excerpt": "Retailer Shoprite is using machine learning to reduce wastage, keeping food out of landfills and reducing greenhouse gases",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
-      "originalUrl": "https://www.businesslive.co.za/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/ZTiOm3BNMkBfuCmVeszxIxdvuOCermiGBoJqYXvYSWquB8MZv6IP6kM9lEMot13E5t-2wq4zOXvhhkEqyqA5XWOqStODravM_gaHu4cu9TO1H1E=s750",
-          "width": 750,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
-      "publishedDateTime": "2022-07-06T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
       "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
       "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
@@ -965,159 +1156,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-07-metas-new-ai-research-may-boost-translations-on-facebook-instagram.md",
-      "title": "Meta’s new AI research may boost translations on Facebook, Instagram",
-      "excerpt": "Facebook's parent company Meta has announced a new AI model for language translation and its research could improve translation on Facebook and Instagram.",
+      "path": "_news/2022-07-07-precision-accuracy-scale-and-experience-all-matter-with-ai.md",
+      "title": "Precision, Accuracy, Scale – And Experience – All Matter With AI",
+      "excerpt": "When it comes to building any platform, the hardware is the easiest part and, for many of us, the fun part. But more than anything else, particularly at",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
-      "originalUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/a-series-of-social-media-app-icons-on-a-colorful-smartphone-screen.jpg?p=1",
-          "width": 1500,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
-      "publishedDateTime": "2022-07-06T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-watch-ai-objectives-increasingly-involve-marketing.md",
-      "title": "WATCH: AI objectives increasingly involve marketing",
-      "excerpt": "Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence (AI). Marketing’s core activities are understanding customer needs, matching them to products and services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "originalUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/tSMl4zFEp3h4YUwB7nlte-8DPk1bI0ZTY9j96GC1ooO2MyFMThSXt85Yp8e0xRbLqP6_1G_YGSCsfhja6sSPMuWm291T4PrSyLwgKrtR67oG-w=s750",
-          "width": 750,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "publishedDateTime": "2022-07-06T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-vodafone-builds-on-its-google-cloud-relationship-with-ai-booster.md",
-      "title": "Vodafone builds on its Google Cloud relationship with AI Booster",
-      "excerpt": "Vodafone is doing a lot of application development on Google Cloud Platform (GCP)The focus with GCP is data analytics and the automation of software developer",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/",
-      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/vodafone-14356.jpeg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/",
-      "publishedDateTime": "2022-07-06T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-scientists-demonstrate-machine-learning-tool-to-efficiently-process-complex-solar-data.md",
-      "title": "Scientists demonstrate machine learning tool to efficiently process complex solar data",
-      "excerpt": "Big data has become a big challenge for space scientists analyzing vast datasets from increasingly powerful space instrumentation. To address this, a Southwest Research Institute team has developed a machine learning tool to efficiently label large,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.html",
-      "originalUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.html",
+      "webUrl": "https://www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/",
+      "originalUrl": "https://www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/swri-scientists-demons.jpg",
-          "width": 2880,
-          "height": 1597,
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg",
+          "width": 432,
+          "height": 293,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1125,13 +1178,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.amp",
-      "publishedDateTime": "2022-07-06T07:52:00-07:00",
+      "ampWebUrl": "https://www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/amp/",
+      "publishedDateTime": "2022-07-06T10:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1141,51 +1194,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-the-download-tweaking-ai-for-energy-efficiency-and-chinas-leaked-data.md",
-      "title": "The Download: Tweaking AI for energy efficiency, and China’s leaked data",
-      "excerpt": "These simple changes can make AI research much more energy efficient What’s the news?: Deep learning is behind machine learning’s most high-profile successes. But this incredible performance comes at a cost: training deep-learning models requires huge amounts of energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/",
-      "originalUrl": "https://www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/N_DS-_F915pblu1zdTwFFT0qJEXbeV6EXbcCrIgtzFqozn5ujjEBU0djvsaZ3NYavWAkGLkTYZoFLzaXUj465E-sqUu90BI_FFL9KF9IWxj8ie8MHMQaGV-CU_z42-Fi_1ui2gEZfRc8jJH53Ss",
-          "width": 1227,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/amp/",
-      "publishedDateTime": "2022-07-06T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

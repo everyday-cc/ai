@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The future of AI in Sports decision making"
-    excerpt: "We will almost never forget the “Hand of God” goal by Diego Maradona in the 1986 World Cup quarter-finals match between Argentina and England. It is, however, the dawn of"
-    publishedDateTime: 2022-07-05T07:56:00Z
-    webUrl: "https://www.thecable.ng/the-future-of-ai-in-sports-decision-making"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 37
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2-680x365_c.jpg"
-        width: 680
-        height: 365
-        isCached: true
   - title: "The future of 5G: More features, more spectrum, more AI"
     excerpt: "If you work in telecommunications or a close industry watcher, it may seem that 5G has been dominating discussion for nearly a decade."
     publishedDateTime: 2022-07-06T13:57:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T18:57:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/07/07/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/07/07/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Business Journals

@@ -33,15 +33,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Indian Relief Foundation and AISeon Healthcare Technologies launch the first SEED Innovation Hub in Mumbai"
-    excerpt: "India's first-of-its-kind, state-of-the-art SEED Innovation Hub for screening and early detection of non-communicable diseases was launched at Mumbai's Lion Tarachand Bapa Hospital, Sion, Mumbai on July 2,"
-    publishedDateTime: 2022-07-05T12:26:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20220705/3959453.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
 
 secured: "7UK4Q+iFRGlO4fSmPoUt8vS3DIkBizerdP/syi+gCrLRsuaLSadROJdU6TxF7gX7Obq/em5GhAFEMNrfV0omp0zu5hR4aZybsOm/78uGOCgRXtF0616Y84Cr23erfLMWfCG5IaHuZuVQyFv5+JDfE8/5z/op4nkatV+761MlCJC+I5kWgxeWTiLQPlimIPLI5d5TstaNDb/4Ri3WOLaJTRhCMttLpU0OOZbhkfF+9P+9uzz4Iuxno9ue2Ll6HgWccSRz0TW2E3yOVUyZV7VI0b7whaJHsPixJqNQ5bCw/kg4g7XFpAP9y1MeIEykt6iNADllwf41/ySfUVHHLaou3E94LWMXbA11bsGZ01SbgHiIolmcpJbSm73CE+a+EQX2rchsBwLmtihYkxSXtMqsh7MCHGjG3TsIXyavCecQtPekQ2JOQ5VNs3AmVD1w/0GuZ4xgYn2dMCL9K3dqovjxECMcLPDstxIwwv0LdIYs4sg+NRhArvN5+MhulUC/lHbRx7qXbO2071hic+O6GuiiuQ==;wuaCDpSF2VjVp76Ons9YOQ=="
 ---

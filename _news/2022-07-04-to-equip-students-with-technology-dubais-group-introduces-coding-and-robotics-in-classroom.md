@@ -19,33 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Leams to introduce robotics, IR4.0 course in UAE schools"
-    excerpt: "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready"
-    publishedDateTime: 2022-07-03T04:33:00Z
-    webUrl: "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn"
+  - title: "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Malaysia"
+    excerpt: "With the new company mission of “Robotics for all”, ECOVACS also launch the new DEEBOT T10, allowing more consumers to enjoy the cutting-edge innovation and"
+    publishedDateTime: 2022-07-07T02:00:00Z
+    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/07/07/ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-malaysia/148137"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
+      name: malaymail
+      domain: malaymail.com
+    quality: 47
     images:
-      - url: "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "LEAMS Education Launches Game-Changing Initiative Introducing IR4.0 And Robotics To Make Students Future-Ready"
-    excerpt: "LEAMS Education Launches Game-Changing Initiative Introducing IR4.0 and Robotics to make Students Future-Ready <a href ="
-    publishedDateTime: 2022-07-03T05:36:00Z
-    webUrl: "https://menafn.com/1104469224/LEAMS-Education-Launches-Game-Changing-Initiative-Introducing-IR40-And-Robotics-To-Make-Students-Future-Ready"
+  - title: "First in Malaysia to harness power of award-winning AI supercomputer"
+    excerpt: "NVIDIA RECENTLY announced that the University of Nottingham Malaysia (UNM) is the first in the country to deploy the Nvidia DGX A100 system to provide the high performance computing (HPC) performance needed for artificial intelligence (AI) research ..."
+    publishedDateTime: 2022-07-07T00:48:00Z
+    webUrl: "https://www.thestar.com.my/starpicks/2022/07/07/first-in-malaysia-to-harness-power-of-award-winning-ai-supercomputer"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 51
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2022-07/03/DPN_264b9image_story.jpg"
-        width: 580
-        height: 380
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/07/1650251.jpg"
+        width: 620
+        height: 405
         isCached: true
 
 secured: "dZtN/vgdK3S4G5WAFpBaX8eFBp+k/duATRmII/KbGZQmDZS5kxJOfLet8gMbGuoYfCPCK1U8qaoyq/D75pX92syLla2/8nL0TR8+3OvGe+7AOvN5PYTW8hBbRdVgsiylbO6YFL7e2qPd4PCAYvxKTQ9GQlCkYmHVvQl+c6yNzQw2xXwi35z486QBSLDhy7q0pitqVWnJE+etczNiA8nY2DAxsoEcPZq5sXf+MsWMWX9uChqS6PaTexjWcCDr9hvZgEe1+DfNop5lv9r0m0OKtR78BwA44mRd62Zikx9e/yBehNurWOoe2a5HfpU0Clnj4KvsqsGz+YGc8HERZfCM9UKhuYqrlK4XHJWPd7Eo9FU=;JWEAcc2WdNR5F0yXjs8duw=="

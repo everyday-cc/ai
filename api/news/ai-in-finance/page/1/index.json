@@ -319,6 +319,104 @@
       ]
     },
     {
+      "path": "_news/2022-06-28-deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference.md",
+      "title": "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference",
+      "excerpt": "Improving accuracy of voice transcription using continuous learning. The conference will also feature ... 19th conference will include C-suite executives from top global banks, financial institutions, and corporations with many prospects and clients ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference",
+      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png",
+          "width": 596,
+          "height": 252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030.md",
+      "title": "Machine Learning as a Service Market Report 2022 Market Size by Key Players, Types, Applications, Countries, Forecast by 2030",
+      "excerpt": "financial summary, business strategy and planning, SWOT analysis and current developments. The Machine Learning as a Service Market is segmented on the lines of its component, organization size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-how-are-fintech-companies-helping-msmes-increase-customer-reach.md",
       "title": "How Are Fintech Companies Helping MSMEs Increase Customer Reach",
       "excerpt": "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ...",
@@ -895,17 +993,17 @@
       "title": "New hybrid machine learning forecasts lake ecosystem responses to climate change",
       "excerpt": "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html",
-      "originalUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html",
+      "webUrl": "https://www.eurekalert.org/news-releases/956268",
+      "originalUrl": "https://www.eurekalert.org/news-releases/956268",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hybrid-machine-lea.jpg",
-          "width": 2880,
-          "height": 1620,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/885cfaa6-617b-4f78-a506-d75325ad7c37/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -913,13 +1011,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp",
-      "publishedDateTime": "2022-06-20T12:53:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T12:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1220,83 +1318,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-pleo-selects-lucinity-to-provide-trusted-ai-powered-aml-software-as-it-continues-to-scale.md",
-      "title": "Pleo Selects Lucinity to Provide Trusted AI-powered AML Software as it Continues to Scale",
-      "excerpt": "Pleo, the Danish $4.7B FinTech used by 20,000 companies across Europe, has selected Lucinity as its central hub for Financial Crime Prevention after a rigorous selection process. Founded in 2015, Pleo offers smart spending solutions for forward-thinking companies through a streamlined approach to expense management.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/payments/pleo-selects-lucinity-provide-trusted-ai-powered-aml-software-it-continues-scale",
-      "originalUrl": "https://financialit.net/news/payments/pleo-selects-lucinity-provide-trusted-ai-powered-aml-software-it-continues-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_1_10.png",
-          "width": 900,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3ai-nyseai.md",
-      "title": "Head-To-Head Comparison: Tenet Fintech Group (OTCMKTS:PKKFF) versus C3.ai (NYSE:AI)",
-      "excerpt": "C3.ai has a beta of 0.64, indicating that its stock price is 36% less volatile than the S&P 500. Comparatively, Tenet Fintech Group has a beta of 3.29, indicating that its stock price is 229% more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/amp/",
-      "publishedDateTime": "2022-06-13T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

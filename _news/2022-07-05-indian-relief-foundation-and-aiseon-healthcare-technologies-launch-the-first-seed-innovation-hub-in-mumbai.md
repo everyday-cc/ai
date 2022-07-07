@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "GE Healthcare opens 5G innovation lab in India"
-    excerpt: "GE Healthcare (NYSE:GE) announced today that it inaugurated its first 5G innovation lab around the globe in Bengaluru, India. The company aims to use the 5G innovation lab to position itself at the forefront of groundbreaking advances in patient care,"
-    publishedDateTime: 2022-07-07T14:35:00Z
-    webUrl: "https://www.massdevice.com/ge-healthcare-5g-innovation-lab-india/"
+  - title: "Xiaomi 360º Home Security Camera 1080p 2i with AI human detection launched in India"
+    excerpt: "Xiaomi 360º Home Security Camera 1080p 2i has been introduced to the Indian market. The Xiaomi 360º Home Security Camera 1080p 2i comes with AI human motion detection and two-way real-time communication."
+    publishedDateTime: 2022-07-07T17:14:00Z
+    webUrl: "https://www.gizmochina.com/2022/07/07/xiaomi-360o-home-security-camera-1080p-2i-ai-human-detection-launched-india/"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 39
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
-        width: 770
-        height: 500
-        isCached: true
-  - title: "Tech innovations that Indian healthcare ecosystem should immediately look at"
-    excerpt: "There is no doubt that technology is the driver of growth and success for modern businesses.  From manufacturing to hospitality, to retail and to finance, technology is being adopted by several companies across all"
-    publishedDateTime: 2022-07-05T12:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-innovations-that-indian-healthcare-ecosystem-should-immediately-look-at/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 16
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 58
 
 secured: "Q8sCV4NzDdyVa9+qruBxrfTjUkFFt89agQ9AcDximf1d1I3VlyJqeGFgkxDsOExt1DUTrMS3bCewJitQ0he+NKCXK6hx0DdV3x4qTEhT9WvoaW7cPmKLcPhR25p1PBX+/q5SfYPOWMvC+vIt7jJkmMhCDiClmN06p36eAWgKDuNKyLwQKfAMrKj3QnrPWIWp8mc9E2FlFRdShgi8uGVM+L1V0XBVw0AeZpOyORI55DOBJJ8wveWnlrSgPQbkFr0k2J3/8LPOgj67H7YAp2K07hMq5YE0cckO33iHqIqS7NlKWIc24XE+0Yh1g5Nxitbfaelp6gJMSz7h5ilTpev4+cEFBOiUBixVIL4PfNw6Dfk=;fdT1j+bPn7aMNvprs1rR+g=="
 ---

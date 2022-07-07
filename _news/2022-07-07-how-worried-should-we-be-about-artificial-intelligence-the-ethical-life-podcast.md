@@ -3,18 +3,38 @@ category: news
 title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
 excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
 publishedDateTime: 2022-07-07T01:15:00Z
-originalUrl: "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html"
-webUrl: "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html"
+originalUrl: "https://godanriver.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_383bb4f8-0848-5918-b241-3d9a406ffb9e.html"
+webUrl: "https://godanriver.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_383bb4f8-0848-5918-b241-3d9a406ffb9e.html"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
-  name: The Eagle
-  domain: theeagle.com
+  name: GoDanRiver.com
+  domain: godanriver.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "q6NRDNpWnEX0x1Cv7YUIpTEl3U7EJ6CjOKRp0h4RwUOm6qbP5l1Or0/Hh8LyvsM5YblNvpcDLQrFdoNh2UaGLdcLMsgTDras+i61swGe6Qx1cE4TCTLLUVS9B1KjV5TY4vfV8LAO3Pj6xeJPviFdcw+PrV3deQ6GwcuzGXi1K5RxLSDp8mcCiHhH82wp4qd4iYJXuW7JQfIPBMF89onZAJ+R3xSqFo6WwoYX5QwkeduYzC6aZqmA6s3WDvILd9g5zT6iD7ltHmiRTvdanhsHfqsI/S+HOECCmWCy0en3O5rldtj6LxU/Ju1u8JNyQptwKiBRW2sb/u0Y/1m/pU4RnGb6t+07lT4wPGfJd+T4HqvW54pHMC3k2udDPmwDvorO+lpJtd05wvIVcj+wg2Nd8SbHlxGI2nHU8ummT9/3/fVaU6dJw6RzeB4uG7eo4VEM6AZzcY7E2+b85S6ZQDA8iXYtytBiSPGKxKqme9Th8RtDumd8A/CsKJLsCtwNyS1M1VAKvK8ZO643z4MyX87uZQ==;Bjp/jHQXkrWw88lm9l90rw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/3/83/383bb4f8-0848-5918-b241-3d9a406ffb9e/62bef01ed92af.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
+    isCached: true
+
+related:
+  - title: "The big idea: should we worry about sentient AI?"
+    excerpt: "A Google employee raised the alarm about a chatbot he believes is conscious. A philosopher asks if he was right to do so"
+    publishedDateTime: 2022-07-04T13:29:00Z
+    webUrl: "https://www.theguardian.com/books/2022/jul/04/the-big-idea-should-we-care-about-sentient-machines-ai-artificial-intelligence?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+
+secured: "kvJ2pNMHdZZW+G0TyDg+ImtqJwz+304SIfZeWP22f75AktFF3WtsNny5g83y2O02/6KhbZ+E8H0vR+xpeAW6m+FufsbP8giS8seIDCHpUC0bhDnhmwU+xFb4QALXT1eCbHisTHW6mxcmRPoANy7djjym8eHJHqvxtEZqfcDJuO20UrsjvnOo0bjpgemNBO/qS3IqMOz8pwzue9uhidkU8F3aFKORWwbhkRwlXg1uclM1AVpXBOdwjtdHaP60kqx/Qk5YAvoygAHYjbOWZGPhrHn62dg+Dia3fCoxiYjh+YPYeWxFumAwjLBhwBH1izOA6iiA9O/QGAihZOBcP6WAURN4bOkCurszsZrRYWmK8Ig=;JN5cHXWR8Qw2qr33ESxNmA=="
 ---
 

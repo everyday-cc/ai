@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
+    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
+    publishedDateTime: 2022-07-07T20:41:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries-nhtsa-investigating"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FQUkRTNvxVs9WbS07xBKp+MufW28YdrRfT9TRhFQc3+1rdShJ2nzjhSBLtdTv7j//h/7axfBsBUfmiQNE5tasV+1mgGmAn6z/6DWfQPgjg+XYGZirpyJsmt8SUqSCmPU+G8H1gfvS0v/INnLZLg3+LfkaLgRmB4maezqWbskNODmu+nXbFH1JWFYu8GsrX6BE9PuhEl5cWOoMrGVKWcXphynR6JQYSjQuxCE/s/ccWif6nLqcYxMvfIes/fJQk+Md32/0svnwq3cjpRcZt/tc4OPVCu+t27fJTshXYC1R/8VSF302ZUK2QNr/IHGfeSwvCz5hLJ7QyWRsI7bR5Nq+bTeTlPqKa3bZaL+ATtUgegTXNSOZy9W137wpYvy5M5hoKDTRFrpWmhozgYcnl/b8ClUivRyvngOIGxhNuDoV1rPWxifBmfusBll1Om83QgMPJfJMgvuol9OY4zhGljXVayC/SIlM2SFUA4aN22FLzPOiouGefbe4M7AGJxfbcI1m5ZIv4w4hA52r9Ij5cEobQ==;QowGPCyE35YCZ/CiJT84SA=="
 ---

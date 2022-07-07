@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T19:58:00Z
 originalUrl: "https://www.slashgear.com/920198/the-most-haunting-robots-that-are-actually-real/"
 webUrl: "https://www.slashgear.com/920198/the-most-haunting-robots-that-are-actually-real/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: SlashGear

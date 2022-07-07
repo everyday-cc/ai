@@ -142,6 +142,15 @@ related:
         width: 636
         height: 417
         isCached: true
+  - title: "Self Learning Neuromorphic Chip Market Size, Share and Demand Forecast by 2028 : Next Generation of AI and ML in Neuromorphic Computing Technology"
+    excerpt: "A self-learning neuromorphic chip that aims to make machines think and learn more like humans.North America region is dominating the global self-learning neuromorphic chip market with the largest market revenue."
+    publishedDateTime: 2022-07-07T19:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-7-self-learning-neuromorphic-chip-market-size-share-and-demand-forecast-by-2028-next-generation-of-ai-and-ml-in-neuromorphic-computing-technology"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 15
 
 secured: "DFPJ/Fkx7CSkqVma1Jw2Juzxi2tXiiLvOYLjjO8BjTsWsrfcOWyOdFolOTWwVSoSTAnO9rYTBbsVslYZrNkmfv1D0vFU5RkcPp6yNJDH94Lc9ASKvffPbVegtff/Jovb7s1dP3U8bTSbYmO37u2nuSubDFlPXmqtc/GMWyYTZT85lspEUJr1d0p7kuJyqQjNi/kDnPiXbPqXa+5lckdbtBpAQOhPNOAXfmBwS6FrUX02UytLipZbSi5NomMpk/+KN22k1cksoTnrNjkjfxsI01s4q8A370HvFQ7vYzL1QHlhoMI2c6deBw0snfwq0Qx1OhQe/DL2adN3spvb35kwvgpFTYOweTUAIOqsXApGmBk=;59zsYHPteOEDiPpzmHOw0w=="
 ---

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The future of AI in Sports decision making"
-    excerpt: "We will almost never forget the “Hand of God” goal by Diego Maradona in the 1986 World Cup quarter-finals match between Argentina and England. It is, however, the dawn of"
-    publishedDateTime: 2022-07-05T07:56:00Z
-    webUrl: "https://www.thecable.ng/the-future-of-ai-in-sports-decision-making"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 37
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2-680x365_c.jpg"
-        width: 680
-        height: 365
-        isCached: true
 
 secured: "S7q+wCBhXoFInpNCoOfjilwDf+qLnjWaqpH9Zzer4OH2gPTMHVJ6rbCuMTYJMXTCSd6ojJhhHjvUHfv5go8mv5lHL97GsxEINVl5/AMr6V9dqFIe2BG2lzeye7R9fvYOc6VjibwAoAQsy/2ZZmb0XUrgm+5m1g+FDlwz9CzLwk9zXOwpuJ0AbnliQAJKkFFuf8fWP2E9QJjFNbaMfULW2I1x27w+ZYiqPhFd0l8tbR5eyZU2ivB8iawV75K14eWTluYjV8nwp7Gz5ylofa12OQ9CkBSupTvjI558VTsuS/B2Ri9MhWG0VQHOnteSjXHax/61dR9cwbrjuPVuxIsKY5SEBec6rqoc78ey0pt8MqsIiMz2avYoK+4m0gpqX3mA+/JJAavnv87SRgitdp42uK6FCoUE4AS6bX0kX7QAcw2Ewo6XtjRuSmtqXeY93KSCPZM4QKH5cuI2gjOOCLAEVSkx9IFip9Sf03kwvHh/BflLfmfgMDPDGZGmDTx+RmNeAoF4e9AX9Xybe1ds2gplYw==;cdmUzi3i6ftUcRG1d30uQA=="
 ---

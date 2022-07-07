@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler"
+    excerpt: "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical"
+    publishedDateTime: 2022-07-07T18:44:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
 
 secured: "P9vq6LhagJyuijrLH82WqPzaVTxm+uJ6D8k65yVyS4OkNYDXZhlwEuWVn3AH/zzP/exSVQUjVUU+guyBsjwr1ycBJVhs8BE0XCvAWtJ7s9cFAahQmXBz3p8x6+4QWsu/WUWas8qkk04t0bJTFGl45U2G3icyOxIf7gC5dDWTNRNkSJYjaD9Dg6y/KZ8ZUD7g6pQeL31mH7IqBqicGGzTMSWs6rzmEzEmG2NYD7egFMcKdVw6w+UrrjdbbhmTTXTO/PVQ3HuGsNYTaqNEsZt3zUIGD5KTF5wRa60rgZGbAPPsH+xtam3uVSayBquC73Gu4lE83jLUj7i1cNsgTHBWdqGf5bZbYCdZe5lOv5QHB/M=;UN+ACXQBdDqHm8Mi2VkkMA=="
 ---

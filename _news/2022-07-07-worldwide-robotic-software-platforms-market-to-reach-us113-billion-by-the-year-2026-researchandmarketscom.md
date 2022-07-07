@@ -34,13 +34,13 @@ related:
         height: 337
         isCached: true
   - title: "Text-To-Speech Market Size is Projected To Reach USD 5790.1 Million By 2028 At A CAGR of 12.3% - Valuates Reports"
-    excerpt: "Text-to-Speech market is segment by Type - English, French, German, Italian, Korean, Others, by Application - Automotive and"
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/text-to-speech-market-size-is-projected-to-reach-usd-5790-1-million-by-2028-at-a-cagr-of-12-3-valuates-reports-881449045.html"
+    excerpt: "The global Text-to-Speech market size is projected to reach USD 5790.1 million by 2028, from USD 2543.1 million in 2021, at a CAGR of 12.3% during 2022-2028. Major factors driving"
+    publishedDateTime: 2022-07-07T15:04:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634928.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
     quality: 0
 
 secured: "+0rpRO0rhgN+G2HdcpNw+pQlN5Bc3LpCi8U4M9JksEHIyNabhtBMowaTZd6h5Gojhiq/Z9bMvxXBQ5Y8vwpuqeIScsE7ztP5/Nwdscqd3/vbwV1gUV0KR62VVdryy7gCShVggDyBnm5pfu5KuZcrYVZfG0mY7K2g7IFel5Qq/7ljHbYGpNBCxolrXxJfEyOYg/vpAFMkBc4koL8TjrdLRG2aFf31e39Xdb72e93TR0xoIB6YjSHCD8Rjkr2IxLgauUlyzRVYupCBER/VpUR33o/j1kar/GCSlJxnynekxjfx+NIsKs35F37N+G5Kf7WnD6da7v4Y1redn+7jXYVZO6oJGQB2TcAUH5AiMmOMfxI=;tU0OWr7hmE4KdmyPkt1doA=="

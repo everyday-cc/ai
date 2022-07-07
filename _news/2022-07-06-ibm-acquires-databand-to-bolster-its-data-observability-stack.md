@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
         width: 609
         height: 343
+        isCached: true
+  - title: "IBM Acquires Israeli Data Observability Startup Databand.ai"
+    excerpt: "Databand.ai works to help companies alleviate data errors, pipeline failures, and poor data quality before the company’s bottom line is impacted. By acquiring Databand.ai, IBM hopes to strengthen its software portfolio across artificial intelligence,"
+    publishedDateTime: 2022-07-07T20:10:00Z
+    webUrl: "https://nocamels.com/2022/07/ibm-databand-data-observability/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/07/ibm.jpg"
+        width: 1200
+        height: 757
         isCached: true
   - title: "IBM buys Israeli data observability co Databand.ai"
     excerpt: "IBM says the acquisition of the Tel Aviv-based company will help it catch 'bad data' at source. US tech giant IBM (NYSE: IBM) today announced it has acquired Israeli provider of data observability software company Databand."

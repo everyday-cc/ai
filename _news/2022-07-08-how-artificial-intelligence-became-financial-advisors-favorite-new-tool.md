@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T18:53:00Z
 originalUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
 webUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: American Banker

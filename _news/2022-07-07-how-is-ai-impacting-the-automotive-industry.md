@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI could end the stock image industry as we know it"
-    excerpt: "The global stock images and videos market was valued at USD 4.68 billion in 2021. Since the early 2000s, companies like Shutterstock and  have ruled the stock image industry. All was well until AI came along."
-    publishedDateTime: 2022-07-04T05:54:00Z
-    webUrl: "https://analyticsindiamag.com/ai-could-end-the-stock-image-industry-as-we-know-it/"
+  - title: "AI-Enhanced License Plate Security Camera Leads the Industry"
+    excerpt: "Rolling a truck or dispatching a tech when something fails wastes a lot of resources, so reliable operation is job #1 for us.” IC Realtime’s latest product is an AI-enhanced license plate camera. Known as an Automated Number Plate Reader (ANPR),"
+    publishedDateTime: 2022-07-07T20:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-379614334a5e8568a16e2d386ee74c2b"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/imagen-google.jpg"
-        width: 1600
-        height: 900
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "dS7WWU8TMf65REkVnTyEPTi+QkH6ybascRecCGzUSx6jKRwT91EWTiSMHaAom9yCjoXGpbo0nUBhsGgqvAOJR/yCkSCYZr2ldUU9MTWU6NtMYjj2k9WfZUpvD0apSyGAgaIDDIn7ZRF4mKDivWj5G76pzAO9P0yX1JE7Px6EINYEThbnVpO0nArTNVP0/H+vRZlozexjS92Tq0jgt7a246acFF3xS+ruksLs0t+9v8+iX+CJtwIJ2QLG7PZSPI/jyQrJ2BBFkcTjH2qNXzai8/vWe191bgJ3nMuyUiQSW3/tEJtyD4SBAARo8MU6gbxQ2rbM5GdIRv9HSeBQr2oQoGmwTSiGlYSSaWaVnOoy4/80dLfNpHweXraTdcaMeSEe+ZQE66cCah9NknivwoxVwF9mo3ZpWx0Zs8xjEX9nAI6pKH1gUrNDg3XyYuzybHv3YOC3Zb0Hpq3Yh3w+3WHnUfWtDHviX9nveyCADasaD+RErbKjiuPaGhgDtivVgEKK+J1pVSV5EAO63OKpbO2rzw==;EOGCqyy7bjLklIAhKrpGdQ=="

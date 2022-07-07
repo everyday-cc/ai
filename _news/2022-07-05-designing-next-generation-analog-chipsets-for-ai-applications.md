@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
         width: 636
         height: 417
         isCached: true
+  - title: "Self Learning Neuromorphic Chip Market Size, Share and Demand Forecast by 2028 : Next Generation of AI and ML in Neuromorphic Computing Technology"
+    excerpt: "A self-learning neuromorphic chip that aims to make machines think and learn more like humans.North America region is dominating the global self-learning neuromorphic chip market with the largest market revenue."
+    publishedDateTime: 2022-07-07T19:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-7-self-learning-neuromorphic-chip-market-size-share-and-demand-forecast-by-2028-next-generation-of-ai-and-ml-in-neuromorphic-computing-technology"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 15
 
 secured: "03918XBnS44SyWfcG0GNPJwXc0HQuGn7IGGVKcr8e2EILu1Z1bOyyoUrHijEUfP2g7zfoxqzset4S8hCGUvCWGELvdnWaX+QHBJaRiCz8a7arxyW0Eq7s+w42DY7y+WoLUfnPj7g6hd6ElrfpHkIZaeOLzcvcxsjt3GT85329s1uEBpqqthFpL5UUD2fVs5rS5VACEZMbAV09cHT2JW8AtellCHPa3p286ZCiH2OXLbeV3pDFSiCl82hdECh1Rx+EZBcQ4whuxDiADPOOHYvFihxLseUYoXIMoyuX3axCGIq/4TIZix8uDcagYXUMXRpO7kiTNm5+Hv4lePaLCXlUHNxG8TBw/IP5jjpyroBSlT4F/yvV7exZ9dAa9voRYE0CLmEJoUCo/cNymVW6MESac6olqBrOdp03nhmKGo6Hj6eYfB/kG7/qNvjLctrV2jRlr3aJCSe83g/v02KrTjQdILRn5wEwEkzAG2jNkRYK7eT63wKrlCwxZFx6RO23bN3Ld89QqxBOoV4wH11aMsnlw==;+6FXeixVyeGRbqsLmCCYcg=="
 ---
