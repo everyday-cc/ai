@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-07T00:38:00Z
 originalUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
 webUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
@@ -139,6 +140,6 @@ related:
         height: 316
         isCached: true
 
-secured: "mLdxGYquiZ+D4kuKKJmsh55pP01TW9zqOxP0XfaAPLpm5r/s1iNt5AoqgWwd7jO7wgkTceV3PXjWmhq8ys5eklN/BgMzOGYV4sE5WATyoGRt/nf4YDAKoBCPbriu7C97/Qo+r6b/BE1vxArtvV7m+DOezKJ4dGc+qK/92QxdYeVNYcKl6Jav200DGyN9lr11ifK5o44RaM86mcgPGjGilGYTj4li2R5Tb3W8bwM00Vbv5v2q4do+/uu3LLQlirZwwyuUJlBuVAgz6ovAxovlnLQHC87LtNoruL3/dBVk4I2dKW2b8lEdNscatUkmOS/5VmMO4Vg58q+8FQKg3m+Sh/1VUwh7JXeeDIrdHj9+L/Y=;ZELU7aFZEpl5rUaJVdaHzw=="
+secured: "wIVBaBbkuGupfFAURCHWx0y2iZCHAhlj+UUdbiLUejI+wBDYz4bB1SnnOynxMBvXrZbzRS8JUYqwjHcgvsQcn4lODjC6roaz3p1c6kZ88tbDcvrwaJHDnRHE1q+HDvhnGPXNWqTEZ7VdjOghYLgvULLkLtsNoudGDySqarUEVZclQjhboqzjUv/KDEPvybd9jpbhy7FSeZJJd6X6HLLJVAFopanjz5b++89SQZXGlI5P4lFmxdS5B5pPVw3ue9pJ/X31bN3GzvMN1VyBgt7evbO4eC7tZQIYqX/NuAGAKcOnPaSERBGgdwGkb9IX6GWoLazOrS93oxEu0G15ZZG7RbTi9IpAnMjCB4qrqELM79zUUW319rHpokqiVJTz6rcHagDNp3Q7Zaq1/vePM5XZLFHhG/Gg5+79d4HdlJbfHJzabQTJriMJZZ3isZLNRtPg3D1qEPhVea4cNHixHKe8enpLFbTmmjmbyDHcOlMi1O+6F+4awwf71TR1uw7zlhOEzfDTtB3edZe6iyjXLG9Dsw==;SBGriQeFsLAS2hmy4be6fQ=="
 ---
 

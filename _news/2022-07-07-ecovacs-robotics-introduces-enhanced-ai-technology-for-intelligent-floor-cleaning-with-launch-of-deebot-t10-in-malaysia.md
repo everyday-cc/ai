@@ -25,6 +25,22 @@ images:
     height: 630
     isCached: true
 
-secured: "E+vvQGELwlvg/R8T5CKlKjFfRV6qB6IXwyLcSDcNwzRHMuQd9Lw5T/hBJUutD0BPXzk3Yi1ENix3KJCKRbQtwlDu7tUueTC7Xfk+Hh55vOXXfsWF13BSdMxaEhI8jrjYa80jwkaD056YFx9V3ZBqj0CRq2Js5XbTc0BvFlo7NMp9rx2MWartmhvXaZmTLM/JH07NgDBL3aoia6i6QWw8WK6/W1FFSEu8a3hEG9YIbvFL20H5fwK202iblhlQb10QINj+Cu/AXP6IrFI/xDxQAnunDikbgoj6pNn9DmzBO3yUswU+vkqA3wDoPXYuSFalX5ww7EKyFrvpZ62Z9MCa1Q0RQ3aOKMpq5KM7wR48PpY=;oG9LsQTBghv+cTG1zuUxCA=="
+related:
+  - title: "First in Malaysia to harness power of award-winning AI supercomputer"
+    excerpt: "NVIDIA RECENTLY announced that the University of Nottingham Malaysia (UNM) is the first in the country to deploy the Nvidia DGX A100 system to provide the high performance computing (HPC) performance needed for artificial intelligence (AI) research ..."
+    publishedDateTime: 2022-07-07T00:48:00Z
+    webUrl: "https://www.thestar.com.my/starpicks/2022/07/07/first-in-malaysia-to-harness-power-of-award-winning-ai-supercomputer"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/07/1650251.jpg"
+        width: 620
+        height: 405
+        isCached: true
+
+secured: "1+7ipFlcIjv3uSbwzGvU0BdqH8pHRLcHSsT5kphpnpKwjlxnqZG9SgX5JP5MR2sGYjwW9m2b+JjWrZ+B7oi5P3hCaDY+0cWGJYGnIYDJ1c5UsT0WSLm9cKSWGU5k7Vs3uzbNGK5uDSpUoHm4tEEWljuVCdWLkmDAgC9pMdP1swXJciLugSxlt6cQ/hhhLftPzw+38VjZmN+wOAazQlYBaJCWaOxUAD45aUTnhrtakYwv/99vpo5KZtVYi2rskd9s5V9534fsNJeT1nSOFetAc3LfVWLN+rKZNEbbmtzDMs39kN/PMWJcp2/iWBXmcTsy8AzvAlALfqr0J1fAAqOeZj4tiH9kCpbM2hsQBm9brdP8SdKkGgHvxLy2r1ev+qqdDUU/CWvtrIVFn9AsoDC+ZbXVsQtgk5QiTJdb+1fcixg66RYSizSyYq3VUL+Jk1Etfi5w7hhd1LU4nLbeUDWIPHjZXzdDDmpwtx8PAt5/8vBXzZAgU/oL2OuyQLnLOwl12p5ECb/R8ODtVffozg0YXg==;O0ZGfgbi9T/Zx/U4fmYAcA=="
 ---
 

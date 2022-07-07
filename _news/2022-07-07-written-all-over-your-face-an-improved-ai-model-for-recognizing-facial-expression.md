@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Written all over your face: An improved AI model for recognizing facial expression"
-excerpt: "When it comes to our state of mind and emotions, our faces can be quite telling. Facial expression is an essential aspect of nonverbal communication in humans. Even if we cannot explain how we do it,"
-publishedDateTime: 2022-07-06T19:56:00Z
-originalUrl: "https://techxplore.com/news/2022-07-written-ai-facial.html"
-webUrl: "https://techxplore.com/news/2022-07-written-ai-facial.html"
+excerpt: "Thanks to advances in technology, computers can do a pretty good job when it comes to recognizing faces. Recognizing facial expressions, however, is a whole different story. Many researchers working in the field of artificial intelligence (AI) have tried to tackle this problem using various modeling and classification techniques,"
+publishedDateTime: 2022-07-07T04:42:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/958080"
+webUrl: "https://www.eurekalert.org/news-releases/958080"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "pDLSw9/LyN1L6quMeJa3Nj19p7btg+2VFuZJBhPcuEj4KOyxZ4me3bCcRgNXURv4Iv6gPlJHb77VPuEo0z04jvwM5WT1V7GxmF+WUH/WCuEE0fYOHQIZodztpu8Ffq/1ig2XtDrxpa3muMiE/E4ZdOWf3MMMlJrkGqf8OoLewibWyo3mXG8JKCLqQgKSruVs8LWndKHmaZ0CrZBSY2s6XhObSKM7mrs4/IunNFCx7nT7/a49owpobeuknK6iTrvpjyjhnUqn+QFLdT981Zi1rhWdOakJ/jW9SpuE7YgpxA/R5K9i1RICU3iSth53U9y1YZzTEa4zIWTC0ozu7nncdTcKvupk9AQFnPzH8usnxGibA7/wcxyoBmt+RiUUqOQG4PkqvlEElSuCHB0/V1aPgxitiyxzywvWqvO+hG0JOKhvpmJRX+S5PLJizN9V3UtqbHc26Unf3en7Rnw604/LkapuaQhyvs7Y61rPRJojDQRpIYQNDwTzSatDk6xzFpCGix8NT45A2HkAuNaYH5yVsA==;WKWSZIORJiSKiOo9D5+Knw=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2dbd5fc2-6b2a-4f0c-ae5e-6b3cc08bec31/Rendition/low-res/Content/Public"
+    width: 700
+    height: 342
+    isCached: true
+
+secured: "UyKXIBGJF1YAQcB+SPhy9/gFTBaP6rvW4IiN/ZQMCDClZPfZivP/jWF2LESEZ3FCvtaOqCAJzElHGToMbzwiRZ4MD94TnrxO2zahaNSuKBkGWg5m6nwW7/MY5ljl9diTE7yWVKLgahTOIyutIp8Z/E8mP+NN8kC+LMSenQ3+fUbSFiJ+seA5TbV43T58MrbigUTWZ5SjxSd6Mh4zpKb2AMQJZs37qhREiOu8jE2UcEgFOZnKuSahxSaQ3YRQSsGQ/6dUgYEuN4LwouB5mTrFvPrG9RdHOWR5lx1h+ekqWPOU+zGjE3sh3eRzTFJTnONv+aO3VLoaIJaRK11Ny2PSyQITJfRM+XsudC2jQygkWCU=;ccjJ33nWVZBDVNqbQbb8Sg=="
 ---
 

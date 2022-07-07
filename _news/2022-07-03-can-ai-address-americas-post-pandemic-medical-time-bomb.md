@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medica
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-based hiring tools can violate Americans with Disabilities Act"
+    excerpt: "Failing to provide a reasonable accommodation necessary for an applicant to be evaluated fairly by an algorithm or AI-based tool; Using a decision-making tool that “screens out"
+    publishedDateTime: 2022-07-07T05:30:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/diversity-inclusion/ai-based-hiring-tools-can-violate-americans-with-disabilities-act/412254"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/035/0305_637927685472024800.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Anumana Announces Issuance of New American Medical…"
     excerpt: "Ground-breaking codes will facilitate the use, adoption, and pathway for potential reimbursement of AI-enhanced ECG-based algorithms, including Anumana’s pipeline of AI-enhanced ECG-based algorithmsCAMBRIDGE,"
     publishedDateTime: 2022-07-06T15:50:00Z

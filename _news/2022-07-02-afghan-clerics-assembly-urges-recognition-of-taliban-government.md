@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan clerics’ assembly urges recognition of Taliban govt"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country’s Taliban-led government."
-    publishedDateTime: 2022-07-02T15:50:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/jul/2/afghan-clerics-assembly-urges-recognition-of-talib/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/jul/2/afghan-clerics-assembly-urges-recognition-of-talib/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/jul/2/afghan-clerics-assembly-urges-recognition-of-talib/"
+  - title: "Afghan clerics' assembly urges recognition of Taliban govt"
+    excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
+    publishedDateTime: 2022-07-02T14:40:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 44
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/30/afghanistan_64088_c0-208-5000-3124_s1200x700.jpg?74d48b7b24509088c15947da9892024c1a07cb57"
-        width: 1200
-        height: 700
+      - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Taliban seek international recognition after men-only gathering"
     excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."

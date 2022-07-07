@@ -2,9 +2,9 @@
 category: news
 title: "Meta's Latest AI Can Instantly Translate 200 Languages"
 excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
-publishedDateTime: 2022-07-06T22:29:00Z
-originalUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
-webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
+publishedDateTime: 2022-07-06T21:13:00Z
+originalUrl: "https://au.pcmag.com/news/94974/metas-latest-ai-can-instantly-translate-200-languages"
+webUrl: "https://au.pcmag.com/news/94974/metas-latest-ai-can-instantly-translate-200-languages"
 type: article
 quality: 86
 heat: -1
@@ -24,7 +24,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_4cuw.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -152,6 +152,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tech firms slug it out to create ultimate AI translator"
+    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,"
+    publishedDateTime: 2022-07-07T05:43:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator"
+    ampWebUrl: "https://dunyanews.tv/amp/english/658931.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 59
+    images:
+      - url: "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Meta open-sources an AI model that can translate across 200 languages"
     excerpt: "No Language Left Behind model can translate across 200 languages, many of which are not supported by current commercial tools."
     publishedDateTime: 2022-07-06T16:24:00Z
@@ -195,6 +211,6 @@ related:
         height: 400
         isCached: true
 
-secured: "1MBl7Z+8IBP/G1TYViM5ESR0QxZgsef4SZ0M86thst4nLH1exsJT3dyY2bZtoBeymAcagQCMikNcFjORUR7fLJxpwLeFRqmW0SzVL/K3jhsVwFk+QDjyrAstq886ng/OWeFdfwECyMxrWAVMSbFG8CmAzVtMlpZTkZfiIkqTzchWmM/QTzYW63kTMSqygzJqt/Iuflc8Y8tjmjbBM2pqCE7GQr9Qo8S8Ge+coWFZdEQz664wr84520eK6nXrYUGeMdbrO85OHXgKWb5ZOb3Qdkz5mvCJtuuKtPsdFSPjl43MJanQhSZCGCoFCjPFvPcXLvauVSPiJlK52/CoFV5p9or2vBRJ9ywNumDIsHoFWKw=;1sxqQHdo+JBP0kgzOHlrdQ=="
+secured: "025wUonDhTTr0maldORxGS3qxcV30QFNTOZMurCGFQADH6WwjYu8N8/QF4xklop0HbJHO2giLqUAlGksVXkp8cpQTitXn2fwAOo25v4BOLXqx7U12IXBv2nhEi3OjxotTpdC9FD++Fgvx2iCt471FXf8o+qE5bxL9Usk6aLqbCcWIkc39r0dQCgkq7m3jnWcnYkLSbl0iLHckiJoyq3OqS6N5hJGwg9lHiHRuFGO44qmhxfHPlMEczPfjMUJQB4ZwEtekknYq/UWnE+rt+k2HH4+Doj/OFc3BmoVlHk+we7iZ4+x/EtUd6DTBpRqao5nCgt8KIaywnrNpsSncpawlQxrDcDhX5JrCjKicSoPrfo=;GVsIvyWuM1cHEInFk/SHsQ=="
 ---
 

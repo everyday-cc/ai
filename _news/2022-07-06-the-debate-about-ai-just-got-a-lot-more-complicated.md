@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lo
 webUrl: "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lot-more-complicated/"
 type: article
 quality: 69
-heat: 81
+heat: 82
 published: true
 
 provider:

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-based hiring tools can violate Americans with Disabilities Act"
+    excerpt: "Failing to provide a reasonable accommodation necessary for an applicant to be evaluated fairly by an algorithm or AI-based tool; Using a decision-making tool that “screens out"
+    publishedDateTime: 2022-07-07T05:30:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/diversity-inclusion/ai-based-hiring-tools-can-violate-americans-with-disabilities-act/412254"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/035/0305_637927685472024800.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "American Law Firms Successfully Leveraging the Power of Artificial Intelligence"
     excerpt: "Artificial Intelligence is a tool that is being used across many sectors today, including by forward-focused law firms keen to evolve. There are many different ways in which this innovative tech can make a big difference operationally."
     publishedDateTime: 2022-07-05T20:29:00Z

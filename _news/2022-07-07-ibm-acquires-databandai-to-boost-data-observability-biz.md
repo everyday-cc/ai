@@ -68,6 +68,20 @@ related:
         width: 500
         height: 315
         isCached: true
+  - title: "IBM acquires data observability vendor Databand.ai"
+    excerpt: "The term “ data observability ,” as defined by Databand.ai, is the blanket term for understanding the health and the state of data in a system that allows a business to identify, troubleshoot, and resolve data issues in near real-time."
+    publishedDateTime: 2022-07-07T00:38:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
     excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
     publishedDateTime: 2022-07-06T22:38:00Z
@@ -95,20 +109,6 @@ related:
       - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1625238893/direct/shutterstock_1092369071_iykaze.jpg"
         width: 800
         height: 392
-        isCached: true
-  - title: "IBM acquires data observability vendor Databand.ai"
-    excerpt: "The term “ data observability ,” as defined by Databand.ai, is the blanket term for understanding the health and the state of data in a system that allows a business to identify, troubleshoot, and resolve data issues in near real-time."
-    publishedDateTime: 2022-07-07T00:38:00Z
-    webUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
     excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
@@ -139,6 +139,6 @@ related:
         height: 316
         isCached: true
 
-secured: "f83b/t7OgYuXpq7JwkMc1bbKSZy/akgxR3N0A6lYUAL4IBvSVOcEiQFIZfrgdYi6O77lFMQOm5wMyOTqDDkCnrnWUDSl7OM+w0y+IOyck5yvclMAyIt0CTXscRGUX7nbqKCYPrpPNKAqUBXA+QQwc2VRhOh+zijvWrn7KAIVxafY2bnqTqzeNy9IBkxZGhsysFfZQrp404BYsDK/VFswQOSKdGrbcJgEzgXRrIdhbBJq2LRx3MIVCW2ZiZZ0F11Y44pMr5QzNzzVowCnYLul05TD9Cn8iZZMO3YnMhFT4AfJoyHRSVap4IHDF81VRnf8AZqkYpbVrgPARM1WVKR3C2eZe4wMmHMF7RF0GyVOA+0=;xIZI2RPNSxEh3b6wA2jjgQ=="
+secured: "Be9hefqrj8y4fz8nLPzvKHSmQiXkBFuhpsfk2vThHHA2MITtYZUN0hwb/qbEBEadFaxc8MfEzpJv8qOrNfllRMvzPMnKqIiQK6MRBhpXri3Okv/WC4lTAsNsR/1jlY6Lr3dYWOxZt4RNC5VmYsOlRKP4zoFOolHQvNOkhfHV2fiFxhC0dkxsDQCtuUT3u5Btg1iB6ZUrN0oeLlp2cezkrUflpv+ZbmBl7AexFQ1N2vfpuqpeXFx52WU2jL4K4mEiUS6G54P+z974N7gFV5hhuD7ru/tZxCgn2oadqzVTL1JH1JxGnGWb6alB27QztuApEXxCBABiUKioMT9zJ3b0fYoHWcnO7W9QH9XxTcpnaC5GJoGq/+C6z5dO4dVwD1/Iizo2PHEUR78goNoqHX2sbkzE6JQnG15wsRjKlixy3SjXPQb/ymWePwTuIVpT02HZ+oGYVQrwICTKyI+aOP8qZON8M9yWBBalzX0baP0lc6fbf6aYzCpaHGoUUG/SUIvl5H91+f5PlTVmPikOZzYPhg==;NuG3IbLG0NAOAV428eS8Vw=="
 ---
 

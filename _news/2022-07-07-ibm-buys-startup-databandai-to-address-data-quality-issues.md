@@ -68,6 +68,20 @@ related:
         width: 500
         height: 315
         isCached: true
+  - title: "IBM acquires data observability vendor Databand.ai"
+    excerpt: "The term “ data observability ,” as defined by Databand.ai, is the blanket term for understanding the health and the state of data in a system that allows a business to identify, troubleshoot, and resolve data issues in near real-time."
+    publishedDateTime: 2022-07-07T00:38:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
     excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
     publishedDateTime: 2022-07-06T22:38:00Z
@@ -95,20 +109,6 @@ related:
       - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v1625238893/direct/shutterstock_1092369071_iykaze.jpg"
         width: 800
         height: 392
-        isCached: true
-  - title: "IBM acquires data observability vendor Databand.ai"
-    excerpt: "The term “ data observability ,” as defined by Databand.ai, is the blanket term for understanding the health and the state of data in a system that allows a business to identify, troubleshoot, and resolve data issues in near real-time."
-    publishedDateTime: 2022-07-07T00:38:00Z
-    webUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "IBM acquires Databand.ai to boost data observability biz"
     excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
@@ -139,6 +139,6 @@ related:
         height: 316
         isCached: true
 
-secured: "PYdP1t3y1FGI7dRahGi122Q0Ec+ln9RLQnvv/48IhT+9wuiF8/9tgHEZFiEbysKAPWVpJfn+yAaFABFI+/0yFvjSACxbr5b0aMv7lP/ItNbeWHp6ItnKHIX27MdFFIVjbNHhhBpfXLEtvhCJZH2sk7V3IRaCV2wBpL/g2cLM1utevs0LS7V8Owp9F4MQSTQ2sHbbTJfxEOk8bT3TdryUCvpgeGUF+YHVeydQJUbTLaqX5M/jY9fsFzrZYB1AkbjOkpK3Qd6qWDYXeGTUiiKGcGbb8Yl8RbBikVPdWYb1xhpz2bfdpOk2bbPjdy9W4tZBeA+yesMvZKKknxu1l8xwNSJ6f+yRLIDFo/qahanWLsI=;AC6IAarDNgLdKYzQavGSOw=="
+secured: "TiFmivFb7xFfUj+k+8uLao11TFBxXT9oTFQpSWupV7crAl3w/upOI5G49oO1gAi7DI3Zi6FdaK0guW9bpORcWaSutpjz43WPGgLf+syb8VM2Xplc1fFOBwpaWkdAvOmdDYkQksm16LucE1kxBcUgahLkULSs9gGRVXi7w8hzsEfrjxnrvr69h0r58iKvkZnLKbA+qYrZD0K6tZS1B2rRUfk8WM9AOEgDhpGVkCQMVRzsnhgh2s1CEK0Lz1/V/z6np4wQtxP3BAR6lpwsNRw0HU3HisLgPl+IJpdVtrdxkZGkMjMg/6lBPZhYU5uRP+uYigsJU92suEwj3PPZxtxVnaco9scLDCeaCgFjSGHIzJ/OoSYNWOq9+77HHpfPlFaGD06E7Ed+cDDX2MGt9WCA/AP+x4GA+w3WGtmyuoKo1UreF2+ovB+t4LJ+POQ23f4wBx1pL3ZpB+cVf+ABAjhDv9ghM2QxNNfsGoVjBQLg3t7xYED/9dM+vO7z78yAqhBhhl8AFjtqcdX8k2W/69DH0A==;4/3k6Nh0dzfVy4p+v5Jhtg=="
 ---
 

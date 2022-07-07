@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-co
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1"
 type: article
 quality: 82
-heat: 84
+heat: 85
 published: true
 
 provider:

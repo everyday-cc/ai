@@ -431,6 +431,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-06-scientists-demonstrate-machine-learning-tool-to-efficiently-process-complex-solar-data.md",
+      "title": "Scientists demonstrate machine learning tool to efficiently process complex solar data",
+      "excerpt": "Big data has become a big challenge for space scientists analyzing vast datasets from increasingly powerful space instrumentation. To address this, a Southwest Research Institute team has developed a machine learning tool to efficiently label large,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.html",
+      "originalUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/swri-scientists-demons.jpg",
+          "width": 2880,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-scientists-machine-tool-efficiently-complex.amp",
+      "publishedDateTime": "2022-07-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
       "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
       "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
@@ -484,7 +527,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -833,7 +876,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -936,7 +979,7 @@
       "originalUrl": "https://www.slashgear.com/917481/the-debate-about-ai-just-got-a-lot-more-complicated/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1155,58 +1198,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-mashgin-taps-computer-vision-to-improve-checkout-experience.md",
-      "title": "Mashgin taps computer vision to improve checkout experience",
-      "excerpt": "With its computer vision-powered self-checkouts, Mashgin wants to drive the future of the checkout experience at stadiums and grocery stores.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
-      "originalUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Mashgin-kiosk-e1656953769657.png?fit=800%2C482&strip=all",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
-      "publishedDateTime": "2022-07-05T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

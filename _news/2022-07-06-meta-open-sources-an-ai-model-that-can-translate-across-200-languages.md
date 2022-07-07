@@ -60,15 +60,15 @@ related:
         isCached: true
   - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
     excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
-    publishedDateTime: 2022-07-06T22:29:00Z
-    webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
+    publishedDateTime: 2022-07-06T21:13:00Z
+    webUrl: "https://au.pcmag.com/news/94974/metas-latest-ai-can-instantly-translate-200-languages"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 86
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_4cuw.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -161,6 +161,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-92712708,imgsize-23398,width-1200,height-628,overlay-etcio/meta-open-sources-early-stage-ai-translation-tool.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tech firms slug it out to create ultimate AI translator"
+    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,"
+    publishedDateTime: 2022-07-07T05:43:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator"
+    ampWebUrl: "https://dunyanews.tv/amp/english/658931.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 59
+    images:
+      - url: "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Meta's AI can translate between 204 languages, including rare ones"
     excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
