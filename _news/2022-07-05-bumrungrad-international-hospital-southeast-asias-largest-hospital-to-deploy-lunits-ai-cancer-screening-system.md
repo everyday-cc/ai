@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect"
-publishedDateTime: 2022-07-05T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
-webUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
+excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region Lunit,"
+publishedDateTime: 2022-07-05T01:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/259602"
+webUrl: "https://www.ryt9.com/en/anpi/259602"
 type: article
-quality: 30
-heat: 30
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
-  - Facebook AI
+
+images:
+  - url: "https://www.ryt9.com/img/files/20220705/iq5bc521ad2860a2e98d5b918f231a4973.jpg"
+    width: 1472
+    height: 978
+    isCached: true
 
 related:
   - title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
@@ -39,6 +40,6 @@ related:
         height: 398
         isCached: true
 
-secured: "OiFCb1cpmg69cZsrZGXDbkahKwmwcUfGnVUh1mtNfaLTIUkUwKcX72YetaJpNcqkm9tl9dVfJj4i5glzNFXQfBjnS8CDsnCMwFMq/yr6/Ftl9rlngcLHhtOW4/4j1saR8A/xfu0ziInT9pG/NgaiotBoa7c3CxDMAcPghLfrRMGE1gAtgwkqoAXCUqyv3ZxrcpYD4yU4akqoCpDaUZbOyDnSI+HSfXl6Sa5ct7K9oDLAO9Knboljx2Jchzlbyn8er/CkKfyHiCeE/aLr0vPl6f9LxI/T5nCzR+SgM1PfemPyWjnKQhzEBxo3VvPngNt4tTrE+gQfxB+1AoNsvC41TQVBg1hG7/Fb2PmUVrHebKQ=;Hwr+Y7X29mET8zMnQwHvYg=="
+secured: "yHRC0rAe0Yiwx21lM4/r/7Gdy8+03PxXy29ZoIvqVOsuSUQaIWsu4VOMf4p+wGRMjLdVcFMaC0J1ieT9ZL9hJlc+70hIcNqjvXx5qTNzI74lpnjRuNA38tsnFhQCaUhoHC6zVAdbYadx1OZfAyRtdMsztp+/olNBRr9Qw2hjWbg7QWEVdBMC/rSuZmIxSsiFHORi6q+mQhLxPZXFIm3lh9Q2b3sgFGUP2MkZN+HeCchANXZ8DfqxO2fSP4edAV93fSuGKyRkb9lWUHOawtzS+/gCZHJjH0TVu0ZYu87hlVQaqM7iWaFVKiTqmtUuC+sjXw5WqWROx3gRrAD9GwLNDPayPE8viuX79ympmPB8VrQ=;EvFiDQ8X8/8YBhkFARqOQA=="
 ---
 

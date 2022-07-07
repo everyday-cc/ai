@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 665
         isCached: true
-  - title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
-    excerpt: "Acquisition helps enterprises catch 'bad data' at the source Extends IBM's leadership in observability to the full stack of capabilities for IT"
-    publishedDateTime: 2022-07-06T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databand-ai-acquisition-1031570027"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM Acquires Observability Platform Databand.ai"
     excerpt: "IBM has announced the acquisition of data observability software vendor Databand.ai. Today’s announcement marks IBM’s fifth acquisition of 2022. The"
     publishedDateTime: 2022-07-06T12:00:00Z
@@ -67,6 +53,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/IBM-Observability-Logo.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "IBM acquires data observability firm Databand.ai"
+    excerpt: "Databand’s data observability platform allows data engineers to tackle challenges associated with bad data at source."
+    publishedDateTime: 2022-07-07T02:41:00Z
+    webUrl: "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115701.jpg"
+        width: 500
+        height: 315
         isCached: true
   - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
     excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
@@ -82,19 +82,61 @@ related:
         width: 609
         height: 343
         isCached: true
-  - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
-    excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
-    publishedDateTime: 2022-07-06T21:54:00Z
-    webUrl: "https://www.inforisktoday.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
+  - title: "IBM acquires data observability vendor Databand.ai"
+    excerpt: "The term “ data observability ,” as defined by Databand.ai, is the blanket term for understanding the health and the state of data in a system that allows a business to identify, troubleshoot, and resolve data issues in near real-time."
+    publishedDateTime: 2022-07-07T00:38:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-acquires-data-observability-vendor-databandai-582322"
     type: article
     provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "IBM acquires Databand.ai to boost data observability biz"
+    excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
+    publishedDateTime: 2022-07-07T03:15:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-acquires-databandai-to-boost-data-observability-biz-nid-219436-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/317fIx8L.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
+    excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
+    publishedDateTime: 2022-07-06T21:50:00Z
+    webUrl: "https://www.govinfosecurity.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
     quality: 37
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ibm-buys-startup-databandai-to-address-data-quality-issues-showcase_image-6-a-19518.jpg"
         width: 860
         height: 520
+        isCached: true
+  - title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
+    excerpt: "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ..."
+    publishedDateTime: 2022-07-06T14:01:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 25
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/Databand_0.jpg?h=d4270dac&itok=J-_WlxGQ"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "+CDy8xL5riGgVr9EfVt5PmgZjX7JwfabuF1+PDL9p58ty4osZiY4KjaXoQJcTPmk+Gx56yPcTXBC52qIXen3efySGV0m2mjIx2kqS6M4ZWtbAdu1nkGnS2uVnNPStiPRsB7TVFtVemK9KpcpfxRKE4hRO6iQlc36O7AK0TbIiXYUHOkexe6uaEdnYOUXW72cg1QyiMVMFCaRi50v0tK8YRTq0JgHHG5oiL0FTifPVXI6WJX3Tc0/Qqd7d5UPnEHxytiwrJ28Ki6Q9enkuRp/DUv0N7Hb15s6rC8n57edM5bN+DMz3t/AkaBHYpAdh5t4j1VwnASyZ2C1T7Rt0WyCCmZ2gJ6JnEZeY8Mp9xSDO24=;3KB4Ta86VIce/N9qiztQBQ=="

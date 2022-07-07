@@ -44,19 +44,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta’s AI Machine Translation Research Helps Break Language Barriers"
-    excerpt: "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results."
-    publishedDateTime: 2022-07-06T23:02:00Z
-    webUrl: "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/"
+  - title: "Meta’s AI machine translation research helps break language barriers"
+    excerpt: "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen"
+    publishedDateTime: 2022-07-06T23:44:00Z
+    webUrl: "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
     type: article
     provider:
-      name: nigeriacommunicationsweek
-      domain: nigeriacommunicationsweek.com.ng
-    quality: 54
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 56
     images:
-      - url: "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg"
-        width: 650
-        height: 550
+      - url: "https://i4.ytimg.com/vi/OwLDghdIKJM/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "M/Jkok/J35X8pGPCy2+3eFVKopeKrwuXdrMrRoUusiU07FYwGNugz1LFHdX/k6Zs8V7HCjHrr9oyLi+6FaabIgVF4ws0WjWrZ4C3oEyLBW70S0kajhm72njLaRbD26mvt0WKtD7Jv4bgfME8k2h0GcXmdC4Uaf26yvtKD8IthjkovTRzsxpNMrvSNlcCwCXl7DMywjPNc1SiqfU7nPdR1Haq2TsR6kqhD59WLTaMubfG+4rozeQwsVkPabdvFwTpaI46mwvYczYAHe9muw94NkT1tbjDl21sh9fN5FaJaEW5vLoyh4wLAYs1LO+iXBGV7b4lhpLxiyxv9C1sUiFHt0kFP75v92pRjy8hTbJchUA=;HKJGa8yohko6GQL1Vtju8Q=="

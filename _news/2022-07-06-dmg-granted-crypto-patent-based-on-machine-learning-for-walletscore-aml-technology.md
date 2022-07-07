@@ -1,24 +1,30 @@
 ---
 category: news
 title: "DMG Granted Crypto Patent based on Machine Learning for Walletscore AML Technology"
-excerpt: "DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (“DMG” or the “Company”), a vertically integrated blockchain and cryptocurrency technology company, announces the issuance of a patent by the US Patent and Trademark Office (USPTO) for U."
-publishedDateTime: 2022-07-06T12:31:00Z
-originalUrl: "https://www.thewhig.com/globe-newswire/dmg-granted-crypto-patent-based-on-machine-learning-for-walletscore-aml-technology"
-webUrl: "https://www.thewhig.com/globe-newswire/dmg-granted-crypto-patent-based-on-machine-learning-for-walletscore-aml-technology"
+excerpt: "This technology allows Walletscore to automatically flag financially risky activities, enabling transaction requests to be monitored in real-time for further review - and potentially be removed - before committing them to the Blockchain."
+publishedDateTime: 2022-07-06T12:32:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/cryptocurrency-technology-blockchain-patents-be1e129841acd7cb255fe171789ec89f"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/cryptocurrency-technology-blockchain-patents-be1e129841acd7cb255fe171789ec89f"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Kingston Whig-Standard
-  domain: thewhig.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "h4TcMmki14CsVkK3tkKzbSbKVhPWGkE13kO83nhi1+qAJjbHsM28WtWaiEUaN0Ii6JPwZxZ8Js9l+r/Pg3ykgp0z+Iy5UQ5gkKHa2KDINLhgfvXBdXE5e3hi9RUnDU4ozDwntSU1SJycM8SAe927oXpWrop3lTbeC76XBS+sb2JYzx5FHFLOAgj+IeDSxSAXbEZq4+qOJDTWfl2jCbzedp+mQUYhMtK+egIZQYXWk0LE7epTz1qtxthX15mlZaArsuvQwFBAqAakZ6TtctzfuekVNimwxRVNoYReseYKXlL/I7Vp5IZed9dBG2gkqA1qUFtZmq1oe5DTFiGF2fx6yVPgofWt6xxgfs+2/CCTbFo=;QVmGMX6Cle8DwJg1s0P6AA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "5RUhVtMYWetd8KTUv1lF1U9rTGF/k3lUeusIt8+5FIFkXaLKLSL1srEKc/krve/XJqGdUFQBfcjYqeQdhED9iVFi1pYXjQ8YelruK/y3bny7vf1ZEEJvlt+5ZO0njAZPJ5krUVMHz005D/3zP+p9d5U9uj88w5lmNc0yQlvTGAsmra4cWFJUgGpt0ytX3p0WLHnR/NXFaZMW+kSRsl4EgQt33FcLJS1wRAKjFZQOP98OQ07XJFAlveIeI+eoiCWqdX+hQd3OxUWq8QdUM3RJLpRPD/+xRqNUxY/BWCPdzLQedyHkfXFW8O5EwV0AOS9OawlHHsKJ80+LP5bcnICLmKOdKG8CJu5rH9zSjsSzwhY=;krASxdZVgZxKrXjYC7bG8Q=="
 ---
 

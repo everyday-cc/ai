@@ -40,22 +40,6 @@ related:
         width: 2880
         height: 2262
         isCached: true
-  - title: "Prostate Cancer: AI can Make a Big Difference for Clinicians and Patients"
-    excerpt: "Artificial intelligence (AI) can help improve prostate cancer patient lives, but International cooperation is needed."
-    publishedDateTime: 2022-07-04T14:35:00Z
-    webUrl: "https://www.medindia.net/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 56
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/prostate-cancer-treatment.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
     excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
     publishedDateTime: 2022-07-04T02:49:00Z

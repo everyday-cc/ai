@@ -40,22 +40,6 @@ related:
         width: 2880
         height: 2262
         isCached: true
-  - title: "Prostate Cancer: AI can Make a Big Difference for Clinicians and Patients"
-    excerpt: "Artificial intelligence (AI) can help improve prostate cancer patient lives, but International cooperation is needed."
-    publishedDateTime: 2022-07-04T14:35:00Z
-    webUrl: "https://www.medindia.net/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 56
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/prostate-cancer-treatment.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Here's an AI's interpretation of what lies beyond Michelangelo's 'Creation of Adam'"
     excerpt: "They range from criticising people for putting stock in randomly generated art—which was of course met with praise for our lord and saviour RNGsus (opens in new tab)—to references surrounding the great Flying Spaghetti Monster,"
     publishedDateTime: 2022-07-04T15:43:00Z

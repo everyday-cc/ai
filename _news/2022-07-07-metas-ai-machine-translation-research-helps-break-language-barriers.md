@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Meta’s AI Machine Translation Research Helps Break Language Barriers"
-excerpt: "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results."
-publishedDateTime: 2022-07-06T23:02:00Z
-originalUrl: "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/"
-webUrl: "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/"
+title: "Meta’s AI machine translation research helps break language barriers"
+excerpt: "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen"
+publishedDateTime: 2022-07-06T23:44:00Z
+originalUrl: "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
+webUrl: "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: nigeriacommunicationsweek
-  domain: nigeriacommunicationsweek.com.ng
+  name: MyJoyOnline
+  domain: myjoyonline.com
 
 topics:
+  - Facebook AI
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg"
-    width: 650
-    height: 550
+  - url: "https://i4.ytimg.com/vi/OwLDghdIKJM/hqdefault.jpg"
+    width: 480
+    height: 360
     isCached: true
 
 related:
@@ -54,6 +55,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "OaBLMB8+C0NmfSvKXxksWpT148tMWxPrGHcIpxiVsHKq5t/VkAvsOsUSgDxehOE82qAUlb2uasKGjjkjgVhG7aNbUHwmfCTRq372qg7lGeTWKspCE9DtIFcafMw9hbiQ2BzaWPECqdCdnGtQ/64SCwMjOTl7YGS+Csh3uK5AzXrkYAeBglUt9aLZdwL4RJoRTWj8S307Wyl1lq6fETdOoVzZa6WSaQSY4q4bzPC36Cf25bdEe0QEkGWjnm0DvDHIZfQZ/sv3lJi0g+NMID9zoBsV6JuUMIBEI0hb+Sl7pb2NRjeKj1YHYH1TiTnOPUphO+AZZNsJF9k0dGOuLGGNb16Xhh6U7OCYOTgyErFsqk8=;cy5LpLqGq4YpGJErPoajmQ=="
+secured: "CxF8oMzzZ966iEJVCyb6hISpgin5IcER7WkwzGXna90aK+uNoYdvIAY6dHE8+jJ1DlpdcZ+oPNrPuix7nwVmwC/gY1cqFWCPG6FsNIg4d0Z27PH1Z7h+daDxGzcZx8TRPLGO1XeApw+dp72G7cElk7uEN8oalrBzRwPKObalHiSctHQwus4/K16AN1uxAh4F4v+JEdNR6Sy0TQb3Lo/yoJ8jzZzbGs8mQ0Km856TP/NZEajbAGuUrpsXa24/H2Mx0tkG8FzhN3JeUW/S1lqfR43ubJS3Y8DxZs/6Dbc/UZZo6Ie2T1xqFfyR/I1A0iAj/aSqIyFQKl0O+Lq5Z9tTmZOCD5EXtuci1HSKjaI9ANY=;mN4uCC1nv7jZale6tsySaw=="
 ---
 

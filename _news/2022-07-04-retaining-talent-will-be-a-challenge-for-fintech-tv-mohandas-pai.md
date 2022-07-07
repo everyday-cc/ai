@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fint
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/retaining-talent-will-be-a-challenge-for-fintech-tv-mohandas-pai/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1201
     height: 629
     isCached: true
-
-related:
-  - title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
-    excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
-    publishedDateTime: 2022-07-02T10:43:00Z
-    webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/"
-    ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 56
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg"
-        width: 1201
-        height: 629
-        isCached: true
 
 secured: "9G5JJrmGOok6VkKGaV8PPEtF/00Wgn46Ghh+IHHelJaXsQ9VSW2lBX5Lsd3/7Tw/zUpC5zLbSG3QWwp4mZB0bQf0XvWgp85CCtq0wMSFGt7HwK3nSQaDzwmq9eX0n4uLLZEEfw3AcXXI7mL4/4CCKYzNZUIO5QFrIQq99icGBWyA3NMILCMoIPD9m0ENgbpzw2s9yfiynoZTzxmdvSLFRZp5aWLe4tKnA6ft244xwb1px0wMuoEswcrKOJVcCulhITYSK8Reh0p85TzypaR4oOX/vc28F1UB0o8KN48lZVKgoslANwrqk/IYeCKjFl+dIly5OMgPhe/pkH/XHy2Fz+T+/E97WJdvsaVIzarjYjCQdDiP6YSnNp69gH6YlYCjtuGo7neBFEmKS2xijVNXPOllOpB4fo4DhUwlPZG/wpv6iE5zCf1ML9CCaw8v3VYflqEFQM18iS8E2ywCn8MBB8DwJK4+GG1pG+Ly2Ub/AiZxpBPb2FnyWCL1hejACIlRdvWir3r8l+dbWfi2ZKzYJQ==;sBYgJuWwHftOMGOGNDhJig=="
 ---

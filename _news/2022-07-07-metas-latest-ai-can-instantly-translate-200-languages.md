@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Meta's Latest AI Can Instantly Translate 200 Languages"
-excerpt: "The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from, and we will use it to enable expert-quality translations in hundreds of languages,"
-publishedDateTime: 2022-07-06T21:06:00Z
-originalUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
-webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
-ampWebUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
-cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
+excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
+publishedDateTime: 2022-07-06T22:29:00Z
+originalUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
+webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
 type: article
-quality: 104
+quality: 86
 heat: -1
 published: false
 
@@ -21,13 +19,14 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.620.jpg"
-    width: 620
-    height: 349
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -137,6 +136,22 @@ related:
         width: 636
         height: 406
         isCached: true
+  - title: "Meta open sources early-stage AI translation tool"
+    excerpt: "Tech giant MetaAhas created a single artificial intelligence (AI)-based model capable of translating across 200 different languages, including many no.."
+    publishedDateTime: 2022-07-07T02:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92712708,imgsize-23398,width-1200,height-628,overlay-etcio/meta-open-sources-early-stage-ai-translation-tool.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meta open-sources an AI model that can translate across 200 languages"
     excerpt: "No Language Left Behind model can translate across 200 languages, many of which are not supported by current commercial tools."
     publishedDateTime: 2022-07-06T16:24:00Z
@@ -180,6 +195,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cVktrXVyhnLUFhnuHOMbYD9fd1h83v4wSPQf3ppS6+axRCade9N+tFcTwRgbSogpbWabfk2Y81tGNsITw2pw20W2tkMro0gcna2exCA29GPjrL7/WCs1XDxjYyOFiii6mZ/235SBflKDvNrjLqNn5UH4nQIbrgnwnIbcK3hFFOMIht+uXy0bGKVOn2VQI/Z8bK/dNaojMQ9UzGr3mTn56l2m2+aWMnm3/5kegdMEcBf8f85HnhUyutUczFBbY5BxUimzfagUwPsrVblshZzNCxLwFVOAOjFTBdP+PyTAUcExAIIPtI/IaWEH/GhJ4ucDp3k0BU4WdIbsZH1fSfEaD8cMFW5wp6SrPcXBb/deK08=;a//XeBtU2w+Nq/01ghu2zw=="
+secured: "1MBl7Z+8IBP/G1TYViM5ESR0QxZgsef4SZ0M86thst4nLH1exsJT3dyY2bZtoBeymAcagQCMikNcFjORUR7fLJxpwLeFRqmW0SzVL/K3jhsVwFk+QDjyrAstq886ng/OWeFdfwECyMxrWAVMSbFG8CmAzVtMlpZTkZfiIkqTzchWmM/QTzYW63kTMSqygzJqt/Iuflc8Y8tjmjbBM2pqCE7GQr9Qo8S8Ge+coWFZdEQz664wr84520eK6nXrYUGeMdbrO85OHXgKWb5ZOb3Qdkz5mvCJtuuKtPsdFSPjl43MJanQhSZCGCoFCjPFvPcXLvauVSPiJlK52/CoFV5p9or2vBRJ9ywNumDIsHoFWKw=;1sxqQHdo+JBP0kgzOHlrdQ=="
 ---
 

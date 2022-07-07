@@ -24,17 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Give accurate info on facial-recognition technology: CIC to Delhi Police"
-    excerpt: "Criticizing Delhi Police for giving ‘incorrect’ replies to RTI queries on the usage of face-detection technology, the CIC has directed Delhi Police to furnish revised responses seeking information about its use in the investigations of northeast Delhi riots,"
-    publishedDateTime: 2022-07-05T13:45:00Z
-    webUrl: "https://www.livemint.com/news/india/give-accurate-info-on-facial-recognition-technology-cic-to-delhi-police-11657024455427.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 3
-
 secured: "dSQmKZqndy4egQA1NfvaXyuzYgJfkGr3xh89o8zdqvxJPLdHI1/4aIrILsAHWok8Mou4C/Q1+V4yQ+PHr4WyW7LFHfne7b6Yzr4AIJMQBRDSk87BDwrXWYTpF7yuGphI9Q23slCgjDyYf6sXq7KPHeqwFF1k7WGkaa4orTGHfKQMk2wZpH5PMAYJ48sSDTgRGAhiKYc4XfprTcUHT/AMoecEz6bl3/Uge1LkhVu94dhqoLEP70tIawpNeAsbk6l1V2f1S+Fu+haZBQUTDtQBoD/LP81oWFhIh8TAuDZt9VEofWpFNSTeUk7qimhYy/ZKdYJuQ3FfNKY6byIDzMSUOmmnJA7oK54BdzvF/XDHSb5ocHpZbVguyMs3CUnueasBql2hNUPHkB5xapmSbOzxRbGBt0QaHL1KQzF4bxcUUY45/ukPSEgo3MniehIRer1c8ELHK8CzU5x3tH8h1/tk+NzzMnix0FvdTiS40a7kKiMlvBfir/8LdIocGgIkielnCBsXfcknRz+saBK48bO36Q==;/Peb5UwKFoWKjb8UOHgXEQ=="
 ---
 

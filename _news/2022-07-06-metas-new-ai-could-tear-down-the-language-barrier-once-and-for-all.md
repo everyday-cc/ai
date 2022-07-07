@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
-    excerpt: "The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from, and we will use it to enable expert-quality translations in hundreds of languages,"
-    publishedDateTime: 2022-07-06T21:06:00Z
-    webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
-    ampWebUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 104
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Meta’s open-source AI model leaves no language behind"
     excerpt: "Meta announced a breakthrough in its No Language Left Behind initiative — a single AI model that translates over 200 different languages."
     publishedDateTime: 2022-07-06T18:46:00Z
@@ -74,6 +58,20 @@ related:
     quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/07/Meta_NLLB_main.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
+    excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
+    publishedDateTime: 2022-07-06T22:29:00Z
+    webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 86
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -136,6 +134,22 @@ related:
       - url: "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/10/Mark-Zuckerberg--636x406.jpg"
         width: 636
         height: 406
+        isCached: true
+  - title: "Meta open sources early-stage AI translation tool"
+    excerpt: "Tech giant MetaAhas created a single artificial intelligence (AI)-based model capable of translating across 200 different languages, including many no.."
+    publishedDateTime: 2022-07-07T02:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92712708,imgsize-23398,width-1200,height-628,overlay-etcio/meta-open-sources-early-stage-ai-translation-tool.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Meta open-sources an AI model that can translate across 200 languages"
     excerpt: "No Language Left Behind model can translate across 200 languages, many of which are not supported by current commercial tools."

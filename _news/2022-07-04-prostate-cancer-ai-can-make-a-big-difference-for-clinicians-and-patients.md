@@ -26,49 +26,111 @@ images:
     isCached: true
 
 related:
-  - title: "Only through international cooperation can AI improve patient lives"
-    excerpt: "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
-    publishedDateTime: 2022-07-04T07:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
+  - title: "IIT Madras AI tool maps cancer-causing genes"
+    excerpt: "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies"
+    publishedDateTime: 2022-07-07T03:35:00Z
+    webUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/"
+    ampWebUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "IIT Madras develops Artificial Intelligence-based tool for cancer treatment"
+    excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
+    publishedDateTime: 2022-07-06T10:18:00Z
+    webUrl: "https://www.freepressjournal.in/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
+    ampWebUrl: "https://www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
-        width: 2880
-        height: 2262
+      - url: "https://gumlet.assettype.com/freepressjournal/2022-07/44f38a9e-a2cc-41b2-b342-6bb7667aa49e/GettyImages_1011146302_scaled_e1593524069226_450x300.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 450
+        height: 300
         isCached: true
-  - title: "Here's an AI's interpretation of what lies beyond Michelangelo's 'Creation of Adam'"
-    excerpt: "They range from criticising people for putting stock in randomly generated art—which was of course met with praise for our lord and saviour RNGsus (opens in new tab)—to references surrounding the great Flying Spaghetti Monster,"
-    publishedDateTime: 2022-07-04T15:43:00Z
-    webUrl: "https://www.pcgamer.com/heres-an-ais-interpretation-of-what-lies-beyond-michelangelos-creation-of-adam/"
+  - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
+    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
+    publishedDateTime: 2022-07-06T17:23:00Z
+    webUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226"
+    ampWebUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 31
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Y4CkBXsqcC2UoPMayTuTgd-1200-80.jpg"
+      - url: "https://static.tnn.in/thumb/msid-92697226,imgsize-100,width-1280,height-720,resizemode-75/92697226.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "IIT Madras develops Artificial Intelligence-based tool for personalised cancer diagnosis"
+    excerpt: "The new tool was able to successfully predict both the existing oncogenes and tumour-suppressor genes like TP53, and PIK3CA, among others, and new cancer-related genes as well."
+    publishedDateTime: 2022-07-06T09:53:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 50
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/1/w600X390/The_fight_Against.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "AI tool for personalised cancer diagnosis developed"
+    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and"
+    publishedDateTime: 2022-07-06T17:39:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/ai-tool-for-personalised-cancer-diagnosis-developed-752229"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/06/1301565-i.jpg"
         width: 1200
-        height: 675
+        height: 720
         isCached: true
-  - title: "Greater global coordination needed for AI-enhanced diagnostics, treatment to save lives of prostate cancer patients"
-    excerpt: "The largest prostate cancer biopsy dataset – involving over 95,000 images – has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
-    publishedDateTime: 2022-07-04T02:49:00Z
-    webUrl: "https://www.news-medical.net/news/20220703/Greater-global-coordination-needed-for-AI-enhanced-diagnostics-treatment-to-save-lives-of-prostate-cancer-patients.aspx"
+  - title: "IIT-Mandi to start MBA in AI from next semester"
+    excerpt: "Prof Laxmidhar Behera, Director, IIT, Mandi, has said the IIT, Mandi, will start an MBA programme in data science and artificial intelligence."
+    publishedDateTime: 2022-07-03T01:01:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/iit-mandi-to-start-mba-in-ai-from-next-semester-408952"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 15
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_678269707.jpg"
+        width: 660
+        height: 395
+        isCached: true
+  - title: "IIT Madras develops AI tool for personalised cancer diagnosis"
+    excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
+    publishedDateTime: 2022-07-06T09:06:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976266"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sq_bhargavi_jan23.jpg"
+        width: 280
+        height: 250
         isCached: true
 
 secured: "CEZcnr9SplnYQ87AKyKkD+ZW9+rYuLTO173wardHcUw/LleHWrSk7bmrO7magUqbG9gLSViu+YJHwOhLvVh7liLlYkg3d1+rbOKx9fAZXD7I5apzScUvFZf25VMb6DsAPqVdEeZhbwj2Yt5BkHvJRLh1NBwrSwmw5am9bzDgnwxPepRcnaQroIqTa5SISKBQI8HmOe5tJqAjMMr5L5zBMegHnWeCbh/5x7VTuIHEFblU8Jw3y1QxzoERzUdd/goFva5nkjZA5j1+CEBh9SscswOUbyNwECjrz/4o7ZoqNXyn2Nk/sEMlSTTI6Dm93UirPYe2u2EvJA4HcctOyhhK8ST10scAt/RbmaodSfh0vmE=;+Eqz66adplyYhG9VplxM0Q=="

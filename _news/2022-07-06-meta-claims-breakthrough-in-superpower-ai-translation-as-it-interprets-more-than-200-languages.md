@@ -3,8 +3,8 @@ category: news
 title: "Meta claims breakthrough in 'superpower' AI translation as it interprets more than 200 languages"
 excerpt: "It's the latest news from the controversial field of artificial intelligence, with hopes that it could revolutionise translation techniques."
 publishedDateTime: 2022-07-06T16:29:00Z
-originalUrl: "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868"
-webUrl: "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868"
+originalUrl: "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868?dcmp=snt-sf-twitter"
+webUrl: "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868?dcmp=snt-sf-twitter"
 ampWebUrl: "https://news.sky.com/story/amp/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868"
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "Md28iB4Oj0yIu2jPNZYZwSPDdcN3CfPFB8Jbh8OR0OCoJbw//HnVixrR3nPuOzkrttaFfwmd/ywrQG0znceRGKpMz3l/UR9wfui51mbH1DIxWzmolDyEs34GciT+sYy65fEwgRB3PfRim0o08RhxZMeK+vCk9MTBGHcJT+iZn3G6eCp7gvDJzU3Q/Ww5lXXIUCjApiji30ftsOBSSFXpfS55Dv9g4KyTt9NjRHjmsQ1x/3aSqgAbu0Z5WbgPYgS19Kfs22eoCvuqh2NceOWb9wM2SdeTlSglFTjxRJzcepOFAwd7quYbuUBBTjl0QpQMryD6kGGX3P5pBw5BmYw2xOGU+fljh8qXWEKzLaD5p4o=;8ELdpeernJfKlmoOrRoAzQ=="
+secured: "66ZJaQEHJ1KxTSUNoL1WX+Rw6oSuKr3l5482uBSyHT9FYb+w/wt3fxT4j+0slITfvnEPqkM57sDT97TvZmBCJKnkCgWPPK3TFVtpshuVQ5WlPr5vl6ndqhOi7xB8yLAp0ogrjSLPH7EOyyJaOcDTharnpGn/8XC3ywHyNAnBlaHXtz1QRIi7Gahzl57T5h/ij/3oM1wa//KCwRH6a4y86RkCFm/ntVeJgPGH622oHLsaImBAdT0th/J9hBulBFNeXHzaRJm6PcmbB7ysbeANTh3piI2qWL5V4cdhgWB8LDlg36BSKgsn4wCBtx9zoewJ6nsGLYa1/t+T6ke2A+hmACcpoYkAMizupMmaMXxf2SQ=;i0PiZ+ktdHEMXp8UiohXUQ=="
 ---
 

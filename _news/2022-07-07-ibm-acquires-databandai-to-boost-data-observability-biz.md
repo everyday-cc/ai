@@ -1,27 +1,26 @@
 ---
 category: news
-title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
-excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
-publishedDateTime: 2022-07-06T22:38:00Z
-originalUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
-webUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
+title: "IBM acquires Databand.ai to boost data observability biz"
+excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
+publishedDateTime: 2022-07-07T03:15:00Z
+originalUrl: "https://www.siliconindia.com/news/general/ibm-acquires-databandai-to-boost-data-observability-biz-nid-219436-cid-1.html"
+webUrl: "https://www.siliconindia.com/news/general/ibm-acquires-databandai-to-boost-data-observability-biz-nid-219436-cid-1.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: SiliconIndia
+  domain: siliconindia.com
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
-    width: 609
-    height: 343
+  - url: "https://www.siliconindia.com/news/newsimages/317fIx8L.jpg"
+    width: 570
+    height: 367
     isCached: true
 
 related:
@@ -69,6 +68,20 @@ related:
         width: 500
         height: 315
         isCached: true
+  - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
+    excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
+    publishedDateTime: 2022-07-06T22:38:00Z
+    webUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
+        width: 609
+        height: 343
+        isCached: true
   - title: "IBM buys Israeli data observability co Databand.ai"
     excerpt: "IBM says the acquisition of the Tel Aviv-based company will help it catch 'bad data' at source. US tech giant IBM (NYSE: IBM) today announced it has acquired Israeli provider of data observability software company Databand."
     publishedDateTime: 2022-07-06T12:00:00Z
@@ -96,20 +109,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "IBM acquires Databand.ai to boost data observability biz"
-    excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
-    publishedDateTime: 2022-07-07T03:15:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-acquires-databandai-to-boost-data-observability-biz-nid-219436-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/317fIx8L.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
     excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
@@ -140,6 +139,6 @@ related:
         height: 316
         isCached: true
 
-secured: "Yw0nRQ8IbF2ZFgLGi9PyplZ/S0Xu+PVVi9zA1qI+YZocA4aQ8bAB4xOtPwz5WrNosAj7fsn6JvSj63zfXp8BJjD5ZvWKOdoxCI0VxwVNWuEGrYTM+uS3LmS0G9OA9k+O8HTJMkrgQRLu5Pdm1KtomDJbeeFqpA7cacX9c2+/LWglYSL3fvbWZYpo6WfRwfynxJTASRDJ94UKqgGSj0IZWzVQ7wdh54efZixVbOf3tkWn7cwqp3ki4d+zhC6pd8GyEpQqlyolwG0avI3Iu5lDlI4cc8tX34I/8/oSJzXz68Xhbw3QXgj+fNwNfNh+CqTrBF1VLZMo15bAsRD/GxOHoA7ldKJsc7v1msoWPsT7TYq+DQjC7m8UFnDarJ6bKNdpalCqGGr+A4KvH/Xqh2xMHFDR+tpLOXApRUaApuT+58Z1T7DnPlbPdl5DYIiTred3XCrXhGUu1748MvzYngxDbFy3vKitU2anyEuw5yms41iHpIPYC+oVcLyTJt7lG6vk1O3K/Q8yGOCW1Zwf6+ST6g==;td4IAS8yuotj/J7cI2CVaw=="
+secured: "f83b/t7OgYuXpq7JwkMc1bbKSZy/akgxR3N0A6lYUAL4IBvSVOcEiQFIZfrgdYi6O77lFMQOm5wMyOTqDDkCnrnWUDSl7OM+w0y+IOyck5yvclMAyIt0CTXscRGUX7nbqKCYPrpPNKAqUBXA+QQwc2VRhOh+zijvWrn7KAIVxafY2bnqTqzeNy9IBkxZGhsysFfZQrp404BYsDK/VFswQOSKdGrbcJgEzgXRrIdhbBJq2LRx3MIVCW2ZiZZ0F11Y44pMr5QzNzzVowCnYLul05TD9Cn8iZZMO3YnMhFT4AfJoyHRSVap4IHDF81VRnf8AZqkYpbVrgPARM1WVKR3C2eZe4wMmHMF7RF0GyVOA+0=;xIZI2RPNSxEh3b6wA2jjgQ=="
 ---
 

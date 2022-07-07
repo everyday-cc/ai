@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Palantir likely to benefit from government's usage of facial recognition tech: BofA"
-    excerpt: "Palantir Technologies (PLTR) is likely to see a benefit from the increased usage of facial recognition technology by the U.S"
-    publishedDateTime: 2022-07-05T13:21:00Z
-    webUrl: "https://seekingalpha.com/news/3854159-palantir-likely-to-benefit-from-governments-usage-of-facial-recognition-tech-bofa"
+  - title: "A draft CMU policy would allow campus police to use facial recognition technology"
+    excerpt: "CMU did not respond to repeated questions on whether the university currently uses facial recognition technology."
+    publishedDateTime: 2022-07-06T18:59:00Z
+    webUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
+    ampWebUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
+    cdnAmpWebUrl: "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
+      name: Veterans Services
+      domain: publicsource.org
+    quality: 54
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
+      - url: "https://www.publicsource.org/wp-content/uploads/2022/07/facial-recog.jpg"
+        width: 1800
+        height: 1200
         isCached: true
 
 secured: "dLANwjDFxqF35est5214bO5aBmR4aiDxx5VMdEO6Fnb3AxXBQtOZ6K8TcpRBxGhlrz3axOEietqxPxXRb5WZ3cj8Uxi2E6QtoLEv2jUzeefl5MQv5/MnUOAmhd3cJCPnm9Zvimk0A5c5Z4iubeVuNLUJsXzC1c3+Pyyacpaok96OKumQXUjuIVuVIXz0QBBlXRlHz73a3Ug0Buxjabtu1BxUgkyamn48JeKjcLzZdIHj7+7hzaBVMK3ucb+iXX7/hQ1Mt6iWPsSYwyfE+mf6AXjbpF8Dy76uKQw/peYgIuJUJVT2pjw0M1APjw5/Thj6Hu+mr4tcPZ4TJg050lUmIsISFpr8gkdenbDhzLzJCKdmpQ7L3KS6XqwMPvl4RidzanJTfN8ulKhRCrQjqdgxljLl9C9LVYapDN4GTsmNMhpJ9dUeWRXd3xpfsd8Llzq7DjcGR3mGK+DSRjcpQbAovgnS5DP9r8538qYHoLqVfYTbNvbn42Pzob/c8RZbT0yt6vGVsAdERp26+AXS4rAvJA==;HSyQ5KLVEu4sH+kvPCpN2g=="
