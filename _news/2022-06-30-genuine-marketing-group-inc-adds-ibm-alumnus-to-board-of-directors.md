@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Genuine Marketing Group Inc. adds IBM Alumnus to Board of Directors"
-excerpt: "As a seasoned Blockchain and Technology portfolio executive, William (Bill) brings over a decade of Blockchain; Cloud; Cognitive / AI, NFT and Digital Currency experience. Serving as IBM Watson ..."
-publishedDateTime: 2022-06-29T18:25:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220629cg04668/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220629cg04668/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors"
+excerpt: "Genuine Marketing Group Inc. announces the appointment of William Le Voir-Barry to Chief Technology Officer and GMG Board Member. On June 22nd, the company"
+publishedDateTime: 2022-06-29T18:04:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
   - AI in Marketing
 
-secured: "5kcjDejTp6AZJdUB2gjSEzuzaDhVuDxkuKBtxCCf+VgVlU32eSeqF87/9rev+sjNeQ4UkCmHFzfOX2sYFTxioTENgyHi/k4aC3bCHabS2XQVuu5mCX6YXSLojWLGFOLw25bOgPtOtsKCjHpO4tMnqvKCZvRMoz+4PKsRKZihoKQIs4D8sz7F1vS5eMe7uPyauaHzIsV3xc6gpuwMr+JnBCnnXklPy9jwdE4NA1VthOb1qrOxmGmMp0/YETKmWOl9IQH7CQW+hUFCKmrcZCXwBBoEvr9Npl7QEyC4lWt1rLBHaJIP+HPhhHZn+UhX4qeLrinwntBTGxR2vX7um0vxlt1Tt13QqlushPbNnadqsdw=;odS6XUCR2nbtpAFLa7pKeQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/b2/8b21842b-b8a6-59b5-8be9-6a713d302324/62bc9509c5036.image.jpg?crop=968%2C508%2C418%2C0&resize=968%2C508&order=crop%2Cresize"
+    width: 968
+    height: 508
+    isCached: true
+
+secured: "5AD2kfj8jq/r82xcyIc8FXJK1QPmHGpCyVAx/gKsgDXZnP5ZoyzdxGDu8SdSQWAlDNxcohPc/g1LrjQH1DPaXg6loN3PKdBkAQfUy8sFdngNSzRcvLsxC81iGyqwF9X1FTD30lLBiLKzuO6IxfTmI3+cXLSNGpkbyeXWbTzowZdeTPYM144Q9Dqgd3ELu1Wg//Zz8KsZ1cU2T/ASsHqXgC4aZfTdhC6Xd5YJKXw0BN45q9X9zXbUmieURruBrjPm8z5FdT45iclpXgj+vb2fKZSdRfUPtH7OqbIP8rDM3er2PhPuedAC/8xU5MRlPD56lak3smSIqWuy8RxcsXvlJCayVYl4/0bkL77gptNTICc=;vUqz/Ra/l7at7sXa04YnuQ=="
 ---
 

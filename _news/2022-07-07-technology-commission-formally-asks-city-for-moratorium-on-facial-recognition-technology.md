@@ -69,7 +69,21 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Rank One opens East Coast office to serve federal facial recognition market"
+    excerpt: "Rank One Computing has opened an office in the Vantage Ventures accelerator offices at WVU, with the intention to locate ten staff there this year."
+    publishedDateTime: 2022-07-06T20:09:00Z
+    webUrl: "https://www.biometricupdate.com/202207/rank-one-opens-east-coast-office-to-serve-federal-facial-recognition-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/06160542/ROC-WVU.png"
+        width: 921
+        height: 691
+        isCached: true
 
-secured: "nqQdPL0TAAHoexxTasfaXDMvMsKRva5fk/X5xZfh1K+jA76jJE1MtKJ4Sthb8f4WvMmZyOEGh5lv2SGISvaiiPfdvTVFC16T5hN41hVeeV79Feij7wD6H4JHmbAdX60Bai3GooLkdB7cYKVU33Ya/tLCu2XBsL6mn4XKmaTgMkJyaNdIJoZDda7X5nNgpRb17yoUYsGR1tOIj63k50cQdBGycjCjsjBe9Kw5EkkF6slIEKOsiXlTOpA6BYqIg23AbXqE5IWSnja3x5St33j6/jYQTo2erC0pz1NCCwSBrmvdPljWcSgRrMMJYlyzk2EJiKnPNUEDC4cAb2++II34glK7olmfQA2l1WRsvdoWHII=;FTlOqj834iLvpma2H7qmhA=="
+secured: "LKxzv9cQeQhSKPdWAmWE13IYdmHHYkhmkL2nGUoDPaaMi3t2K9DlMiToDhtiEHKMgUMBwoLAX1Qncx67+QugU+SymOkFNS0UUOjGwNoPFS+W8NB0NbbEFU9Vhmc/j71ghpFow3/XOfiOP5V1p3wkEkSAJgXRWBQpzC7EZW9dGSDtSSEpg2UxTsLA5retf16diP1ZsDqJ7e4mP/rcgxmrJ+G9oLeUddf+W4FD8CLppDNor+OiBuyhmyr5mFh5PwT0ujqxmJTEKFTUyfZJAxcIHyHNz9C51zFBdEJKM5LXrckYXiQ4LoOw3sBpTY5RRzJJeW67rIxzZ48I/mnbLXztWCFSVpzhYMnTyRasRiRdl3IfjhjwlEP9VB1TDMQC1Q8JUP8qltHoRApW+1ooc9jh4XnMwftnhMqoL2/aZvaZkIswnx4sP8DUdeJccGtiV8T1+0WNfw0ots2JQOjWJWYTJAO9s8LWHALoksfpHtTwCwiX5SZmDSK837XG06leusVrMh8M/hYeBdpq9r3WPMp2ZA==;63S5XejQF0pPgqgmhpnnkw=="
 ---
 

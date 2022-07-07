@@ -56,24 +56,33 @@
     {
       "path": "_news/2022-06-30-genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors.md",
       "title": "Genuine Marketing Group Inc. adds IBM Alumnus to Board of Directors",
-      "excerpt": "As a seasoned Blockchain and Technology portfolio executive, William (Bill) brings over a decade of Blockchain; Cloud; Cognitive / AI, NFT and Digital Currency experience. Serving as IBM Watson ...",
+      "excerpt": "Genuine Marketing Group Inc. announces the appointment of William Le Voir-Barry to Chief Technology Officer and GMG Board Member. On June 22nd, the company",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220629cg04668/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220629cg04668/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/b2/8b21842b-b8a6-59b5-8be9-6a713d302324/62bc9509c5036.image.jpg?crop=968%2C508%2C418%2C0&resize=968%2C508&order=crop%2Cresize",
+          "width": 968,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T11:25:00-07:00",
+      "publishedDateTime": "2022-06-29T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

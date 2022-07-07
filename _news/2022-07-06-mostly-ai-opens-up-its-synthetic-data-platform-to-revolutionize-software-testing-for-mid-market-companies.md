@@ -1,22 +1,22 @@
 ---
 category: news
 title: "MOSTLY AI Opens up Its Synthetic Data Platform to Revolutionize Software Testing for Mid-market Companies"
-excerpt: "MOSTLY AI's synthetic data platform, including a free edition, improves quality, velocity, productivity and security of software testing MOSTLY AI, who pioneered the creation of AI-generated synthetic"
-publishedDateTime: 2022-07-06T13:03:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56483117-mostly-ai-opens-up-its-synthetic-data-platform-to-revolutionize-software-testing-for-mid-market-companies-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56483117-mostly-ai-opens-up-its-synthetic-data-platform-to-revolutionize-software-testing-for-mid-market-companies-004.htm"
+excerpt: "MOSTLY AI's synthetic data platform, including a free edition, improves quality, velocity, productivity and security of software testing MOSTLY AI, who pioneered the creation of AI-generated synthetic data,"
+publishedDateTime: 2022-07-06T07:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/b27964705/mostly-ai-opens-up-its-synthetic-data-platform-to-revolutionize-software-testing-for-mid-market-co"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/b27964705/mostly-ai-opens-up-its-synthetic-data-platform-to-revolutionize-software-testing-for-mid-market-co"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "Y8tYnm9sMK04EGYiwc8i9aeNZt2Do0KXw15RcsrEOpc6MxmwsmPBLDY2hSIh0M/8TFUAuPLo/+K9jjjYe0d1+9pgF2pQ95OBa3FNtsrKavhR0RtY51JYWE/IWiaaTS0nDrERlYHSvs5Pugd6RefRpmIW1YZuL8V08KTuAwnUTSydc/z9Olt+ERWiZIIIEV2dynfizrGRVyjJB8iv/jCN5ch8DHA392L4/uIh2dqaTnZ0N3VByK3O2e46VLd+i6xqsyhLPb5nvC8bcgDKy8Ux6cDckkDnMwUtl3QbctZNRGp3l6nFIaA7C4sWsRbo75EBtpZMgeavFTKxVuur96jW646MW/oJdaX7+ySjGfTG9Y8=;VNeUCROuvHqAGX+CaMBgDg=="
+secured: "3okkhJBXNjQnBD+x+gKN+pLVALOGeIC/wOPMXXKTq9l3e0FP492ywcfYE7aXL9TplvOUum7AjD6wPo9kRN2Lr1fQ3vKI1bsPaMpWPaEwGqG20Env905nRGiNPsIvcEADn5QgvAHoAV9tcY0bfwwl1Kdm187NtJjByMqvrBYpmMQLfpmA7IOpqT6J0eFtxBrn3ge+833NdqGSuLEzeb1Ah+geiCbo76VBVCjlXGGSHRNjbSXtNZ5pu+e1OCIZ8uBU/VUI1hrTYePjvHKUbgSMDCMO08eqsaLrDJQ9+N3yiXCat3P+LAcgpYFV1g4bDTNW0goL5CVpMociD063xBwBf+3d2ZG4lZi1C66ldKW61g0=;PoDA5/o6yxYvxakBouJiwg=="
 ---
 

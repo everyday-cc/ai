@@ -55,6 +55,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Rank One opens East Coast office to serve federal facial recognition market"
+    excerpt: "Rank One Computing has opened an office in the Vantage Ventures accelerator offices at WVU, with the intention to locate ten staff there this year."
+    publishedDateTime: 2022-07-06T20:09:00Z
+    webUrl: "https://www.biometricupdate.com/202207/rank-one-opens-east-coast-office-to-serve-federal-facial-recognition-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/06160542/ROC-WVU.png"
+        width: 921
+        height: 691
+        isCached: true
   - title: "Technology commission formally asks city for moratorium on facial recognition technology"
     excerpt: "While some populations are being harmed by this technology at higher rates than others, all residents lose when government deploys emerging technology in an indiscriminate and secretive manner,” states the commission’s final white paper on facial recognition tech that sums up the panel’s thinking."
     publishedDateTime: 2022-07-06T23:36:00Z

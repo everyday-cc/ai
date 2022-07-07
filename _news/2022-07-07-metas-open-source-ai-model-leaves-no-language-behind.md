@@ -49,18 +49,20 @@ related:
         height: 630
         isCached: true
   - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
-    excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
-    publishedDateTime: 2022-07-06T22:29:00Z
-    webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
+    excerpt: "The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from, and we will use it to enable expert-quality translations in hundreds of languages,"
+    publishedDateTime: 2022-07-06T21:06:00Z
+    webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
+    ampWebUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 86
+    quality: 104
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.620.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Meta's new AI could tear down the language barrier once and for all"
     excerpt: "Trained using one of the world’s most powerful AI supercomputers, the No Language Left Behind (NLLB) model is already supporting advanced translation features across Meta’s su"

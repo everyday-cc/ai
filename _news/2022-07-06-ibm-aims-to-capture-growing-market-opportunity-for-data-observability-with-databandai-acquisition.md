@@ -1,22 +1,31 @@
 ---
 category: news
 title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
-excerpt: "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ..."
-publishedDateTime: 2022-07-06T14:01:00Z
-originalUrl: "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition"
-webUrl: "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition"
+excerpt: "Acquisition helps enterprises catch 'bad data' at the source Extends IBM's leadership in observability to the full stack of capabilities for IT"
+publishedDateTime: 2022-07-06T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databand-ai-acquisition-1031570027"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databand-ai-acquisition-1031570027"
 type: article
-quality: 5
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "IBM acquires Databand to bolster its data observability stack"
@@ -79,12 +88,12 @@ related:
         isCached: true
   - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
     excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
-    publishedDateTime: 2022-07-06T21:50:00Z
-    webUrl: "https://www.govinfosecurity.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
+    publishedDateTime: 2022-07-06T21:54:00Z
+    webUrl: "https://www.inforisktoday.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
     type: article
     provider:
-      name: HHS
-      domain: govinfosecurity.com
+      name: Info Risk Today
+      domain: inforisktoday.com
     quality: 37
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ibm-buys-startup-databandai-to-address-data-quality-issues-showcase_image-6-a-19518.jpg"
@@ -92,6 +101,6 @@ related:
         height: 520
         isCached: true
 
-secured: "4evehItB9uLv9BCBEH2j2+1XR7YJFBQDEITHeRdHWJSuZaDFpN6kez3Gb2S2VClmmCUFtWbOEp7ppq5IJUDiKvLbRlZ1grLEv/duaz2oWNMdbjXEahMgHBjPVhQthJkTeqxy0JQ2dnfyfOdyoeTC++Q38ZC5TBGXT8P80lRCKGllZT+GVMEMAtiaqmW4OEoIu6f6Pfep7mIg0hXvptV/VPij9D8NVW7Tbc5IWG7BJmfOzNXjmX83c/Enc+zJkmeLZafzDFsazvvnjrAmuEwD9NhRtCRHftfMddNSU1TPRVFRiw7yYh7TTkBEJFi0tVdXSEG0MxciEAP23jrip4UNH3VfsMg7AqFqwzF1atvqy5Ne43GlMNHUPWXlaGCdcF9W/x+Eupzc77+7m8sT9sa78vGj47bX6HEvmedXr7G+2y+0y8KdDORWybGKnOoEyBadaJstjgWadttLDw4WAilYxio/k+zg1bokfwTiSjFI+QNOBZT2cAzf4Aq33g5i7Be7C/3nV4ckz+ZMfikTxMCURA==;5um+5mmkSaA8GbVRt2on1w=="
+secured: "tDMBuQsq9Ux4xLSPz5xUu66/zn5RlcXDjeOsyS6zA6qC/2E4KnHK/5i1s6i2kZmX0jGCxIYQcFeai9XMRogs+p2+SrPnEMxLyA/XFv9mto2U50roM2FLGsgzv3BflmjMzMc9X3Z3OEzk7KysCGibxWSsBaULIrQSYJwN7lWLy+hrWL2dKiEJvppVpXl6hQG8zB+849FxJz69TdaD4ViKJE73loUfhXuJQKJuhppKdemiFk4Jux1o6/bX4OVfvak6wrdGSb12KjVeJ3DGiPS3SvN8EuEKW1FaUDKCgOR2rcCidRVlmRKOt6u7RSn7jBoZJzow+UURvJYslopvS6kW84dkdaD0ROou27R9s33rfIY=;tPkH675m/cYq4iKBt1KRRQ=="
 ---
 

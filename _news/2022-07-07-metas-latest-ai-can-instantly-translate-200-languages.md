@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Meta's Latest AI Can Instantly Translate 200 Languages"
-excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
-publishedDateTime: 2022-07-06T22:29:00Z
-originalUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
-webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages"
+excerpt: "The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from, and we will use it to enable expert-quality translations in hundreds of languages,"
+publishedDateTime: 2022-07-06T21:06:00Z
+originalUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
+webUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
+ampWebUrl: "https://uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/141367/metas-latest-ai-can-instantly-translate-200-languages?amp=1"
 type: article
-quality: 86
+quality: 104
 heat: -1
 published: false
 
@@ -19,14 +21,13 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_9tpr.620.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
@@ -179,6 +180,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DzYWQXbZfrM9CjJN1rzg7dTGgPphgS7yNZMZSpcEqsDbXH2MkQ5t3UHIchQjXtSBO7Pas7e2bL4fRo6n7Yq3DCQV5HKjXASgIZE+8uuWZZGhxKBfxyuyR+G/0EyOI0Hniy4cCZq9TMZIfoMkR42ROY6z1K/V7Yhz4wjNeXp9VnNe2HkLYOnwl0FWX48rP38YyN5VKZXFMpn7RXLzk/zqJxys01cqPWd5mHn+pJIqtYsXYY81UebJlSz+n374RDwFqKFl1eQcGr7KudaMUYA2Xwq6QZy4YhX7wDHrkaQ4T389WnVhy6BD/bLTCfLMU9tonfbcM0YtapImyQPCU4d8vLVdkn38aUeXg+MOJjobwLQ=;QnFei3Fgxk4S1gCH2KeT0g=="
+secured: "cVktrXVyhnLUFhnuHOMbYD9fd1h83v4wSPQf3ppS6+axRCade9N+tFcTwRgbSogpbWabfk2Y81tGNsITw2pw20W2tkMro0gcna2exCA29GPjrL7/WCs1XDxjYyOFiii6mZ/235SBflKDvNrjLqNn5UH4nQIbrgnwnIbcK3hFFOMIht+uXy0bGKVOn2VQI/Z8bK/dNaojMQ9UzGr3mTn56l2m2+aWMnm3/5kegdMEcBf8f85HnhUyutUczFBbY5BxUimzfagUwPsrVblshZzNCxLwFVOAOjFTBdP+PyTAUcExAIIPtI/IaWEH/GhJ4ucDp3k0BU4WdIbsZH1fSfEaD8cMFW5wp6SrPcXBb/deK08=;a//XeBtU2w+Nq/01ghu2zw=="
 ---
 
