@@ -2,28 +2,19 @@
 category: news
 title: "When machine learning meets surrealist art meets Reddit, you get DALL-E mini"
 excerpt: "DALL-E is the AI image generator social media users are employing to crank out bizarre art memes that range from beautiful to horrifying."
-publishedDateTime: 2022-07-05T13:01:00Z
-originalUrl: "https://news.wfsu.org/all-npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
-webUrl: "https://news.wfsu.org/all-npr-news/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+publishedDateTime: 2022-07-05T14:01:00Z
+originalUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
+webUrl: "https://www.wuwm.com/health-science/2022-07-05/when-machine-learning-meets-surrealist-art-meets-reddit-you-get-dall-e-mini"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: WFSU
-  domain: wfsu.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/c62cceb/2147483647/strip/true/crop/827x434+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F29%2Fdall-e_baby_parkour-35803c784f626449a086197cf101b4c11a34b929.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "BWnXH1PnH24lTQ0QK8TDXEYzNM3Oukd66CKVwqujHVjQ5EmayWldAfTxH+nzSFFRuYKPDA7jO2C4tOBmcYG8JhB4MjPoXKWQs3gTpk7uSsXAcdOek43V2jF5MWE/ZoHjhXss1dkN7SuJksd2F/Sbrm2dqkQoDpXnxCaSdNytrQNycathWwB3UGUUabPM39uyYvwEm9AA1KSWRD5b4lmJ04X0bg5bCSXHiVkf6otGgRqnevsVA2Hy039a2kS99s9gEzbf6Axk2AAvYGel+AeJKN0gZZ++62QN6ibz1bBuxEuANyHbFvngEghxKUTJfSZCp/Ky1PZig86wiTS82oRixFwxHP3zGA2MxZo6SvWiVSI=;yDaFCtceTKTaFxL204IimQ=="
+secured: "HePYitVAzNgPu4ojad5/Uw9meLeYxsmoIOlfV9QQmWP+bGosB/XUDjDqCmfqEiO4TGmLW4XfLrnjYx8zkUJA7aJBeQ4MQWjpiOSOIOgwwqn9iKaPs/CzkzjqiqWd7842DnQ5NPFJV92G3cwGyEbXqcq89yQac7/WuKytjvhOq5zuj8hVJJ+9+vUXVm6Jz3nAF5ksrFqEuxjrqZY95ga2QnIFRKQ/tN1EFGoGaORe7Wh2pkPH5cH2vz0UWgO3zSeRasmwXEC3OhF/LShKl7JUgMah1fXLxnLike5hywpjCyVnjuiq32gI3Vptw2UmU+izVq6EJROsAHGQMHiQ+1HsGOJzBCXWrPfzf2cZh+rZfGlQwtw0RRMbaSjb6eKJg6yYS/wsQBEJ2RDw5GRKsGjA/XrtUcA2hHUKCkZozxlELf9UliyFMqi+Piko0YizTFtYEtooTF0JknswtGQ599f/ShjQIa4+soARP9bUqLAAr+CGiT35WdrDkTy0Ivj+1gWjnNboEHWSjfdkfPUcI/z91w==;2OKn78+oIoFjsAcJRbzLmg=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/01/Rules-Regulations-1024x768.jpg"

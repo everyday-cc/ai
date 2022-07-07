@@ -1,0 +1,19 @@
+---
+category: news
+title: "Remidio’s Medios AI shows significant promise in last-mile Screening for Referable Glaucoma"
+excerpt: "Treatment options for managing Referable Glaucoma - a stage where immediate treatment improves prognosis, exist, but a simple test to screen has been elusive. Today, the only way to detect is through complex investigations often requiring multiple devices handled by Glaucoma Specialists."
+publishedDateTime: 2022-07-07T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-clinical-trials-glaucoma-1ce30e4f0d3915741d4ca9b60a55c85e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-clinical-trials-glaucoma-1ce30e4f0d3915741d4ca9b60a55c85e"
+type: article
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+
+secured: "v3PgSgUwYIcYsQiWqChwg3sOqBtseYyognxKxuwOQznyEOaNnUOAFajzDDNwicJLt98PATz9TvNzP+coj2OO/4fRnHCvUkp+AZHhrMPWyu40FU06c7MAmE8V5uiKLkE1xfBUmf6o0mMjKJsOCDw385pR3MVMKipdH4Y59W22Iv57SYFjyDaKjSjwdwA408GhVvJHj1oaioB7loUc2xQqs6U5b+owQ2wnvrzLfRwc1wTfiz3t6ulTAjd0kb7/LHkSDN0QZT9CubKSWpDF9rouH4gg0CoXOfwKMC4QlOL1WlvMsP7gqMMDRUKG5R7lgNR4cFpNey1+T3htknw937pNvmhwEnqGFDqQQzRMXW4gCgo=;SqrVnN3xuzv9gtEFjYODZg=="
+---
+

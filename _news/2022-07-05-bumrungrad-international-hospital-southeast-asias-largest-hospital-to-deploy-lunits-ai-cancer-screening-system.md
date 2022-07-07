@@ -1,49 +1,20 @@
 ---
 category: news
 title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect"
-publishedDateTime: 2022-07-05T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
-webUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
+excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region Lunit,"
+publishedDateTime: 2022-07-05T01:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/259602"
+webUrl: "https://www.ryt9.com/en/anpi/259602"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1852570/Lunit_Chest_x_ray_diagnosis__Bumrungrad_International_Hospital.jpg"
-    width: 400
-    height: 266
-    isCached: true
-
-related:
-  - title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-    excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft Azure Aim to detect cancer in early stages and"
-    publishedDateTime: 2022-07-04T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/bumrungrad-international-hospital-southeast-asias-largest-hospital-deploy-lunits-ai-cancer"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 18
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2022/Lunit_Chest_x_ray_diagnosis__Bumrungrad_International_Hospital.jpg?itok=Fn7qtBdj"
-        width: 599
-        height: 398
-        isCached: true
-
-secured: "HrS996NuRWPGgJegU6wFlIHJ6YKts5EnahWVoPtr00IM7J44c+YZ1LmHlbl45yjaHwXJQxGI0n+AHhdUOSx3TgR1JjdNnKpyB4MrV+NvuMl5QYAObG26HtGdVyn/jDfMnUhZ2nZm4OsVDVyXDlnaewbo4Toglpdxp/DV85i2PT10aqd/us3J9CtW3sIj3AyR/UG+EXIhtOVMQWTgGuwDST8vyWozpmnQyk+NowXmrenwa3DXrdWcq31uwJdM1mCPFpiAOKeROaXqMu9m7OUJq0X5DYdQ1wc/Cu8U9gmMvWP7t5DxbYH3a43ndq2xBXh0Teci4I+Y48NqXxlEm0NB6gROmDotGLDeMUpnxXocja0=;3XZIcVFk16IM0OqJtyWmoA=="
+secured: "6JgPNaGS7JaA5LQg3U3zIZ15+WHcrYKj8uQOh0vE2w8SNpZ11tGshSiPKu44ulVad2DV6IzZ0lSoMHPqHAHeaen7//qZZkUdjgYHXGcz8Iz/ieQTlth5H0u6USA5zU/gzFul6gpOJ2TOvqYqi6/ajiEyqcYlxJ10n7H3e5uZXx0xGVRw+FAMS0qaVNbkdXP6dhxV9mThopvsrU5aEndzoP5ZeBLoQoEjjeXILF/2+mxC4fXJR9OEyVCE07OVWCN/yDUgfVSUEZNMOvcfxoRE4mlqB5v3JpJjoF6dYUR2zRXXjNzC2HZg+BBzCUvdQBoix8IB6YNwjb7RoZ9ehUgbcEi4Mccz5w4O7pVmTsvgiNRp2KUWKpk2smw5Sh4kqClIZCyJcJQHqN0wMw8L7Z9VEZA5eYY7wvwRmYo2lN//Jczf2UFpXcTwTsVYvf0m9I80s4hvQX2P8iwkhijUzNAIODQ6sHe/ojPlmAJZbKWwlg+QbP9Owl0zK3bN3iWkf8vU6ol6nkiH8/x0WuPlCe30VQ==;pFD8i369L+lx0AXHzJu0SQ=="
 ---
 

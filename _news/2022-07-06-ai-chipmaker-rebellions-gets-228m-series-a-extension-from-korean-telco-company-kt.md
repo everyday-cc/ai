@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000"
