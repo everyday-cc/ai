@@ -41,6 +41,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Shenzhen Lays Out China’s First Rules for Self-Driving Cars"
+    excerpt: "These are ‘hands on’ shared control, ‘hands off’ autonomous driving where the vehicle can perform most functions itself, and the ‘eyes off’ and ‘mind off’ levels of self-driving autos. Self-driving refers to Levels Three to Five of autonomous driving of which Levels Three and Four still must have a safety officer in the car."
+    publishedDateTime: 2022-07-07T07:39:00Z
+    webUrl: "https://www.yicaiglobal.com/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars/16572102904517.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
     excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
     publishedDateTime: 2022-07-04T09:46:00Z

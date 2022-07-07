@@ -60,18 +60,32 @@ related:
         height: 675
         isCached: true
   - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
-    excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
-    publishedDateTime: 2022-07-06T21:13:00Z
-    webUrl: "https://au.pcmag.com/news/94974/metas-latest-ai-can-instantly-translate-200-languages"
+    excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced(Opens in a new window) in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
+    publishedDateTime: 2022-07-06T21:17:00Z
+    webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-instantly-translate-200-languages"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 86
+    quality: 84
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/m/metas-late/metas-latest-ai-can-instantly-translate-200-languages_4cuw.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/070IFBc208oZ2EEnD8cdMWf-1.fit_lim.size_1200x630.v1657134325.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "No Language Left Behind: Meta's new AI model can translate 200 languages"
+    excerpt: "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub."
+    publishedDateTime: 2022-07-07T07:44:00Z
+    webUrl: "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 83
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2022/07/1657179489_287605911_512850337132384_8138110729340998362_n_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Meta's new AI could tear down the language barrier once and for all"
     excerpt: "Trained using one of the world’s most powerful AI supercomputers, the No Language Left Behind (NLLB) model is already supporting advanced translation features across Meta’s su"
@@ -177,6 +191,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta Builds AI Model that Translates Across 55 African Langauges"
+    excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia. Meta says they worked with professional translators for each of these languages to develop a reliable benchmark that can automatically assess translation quality for many low-resource languages."
+    publishedDateTime: 2022-07-07T07:39:00Z
+    webUrl: "https://www.itnewsafrica.com/2022/07/meta-builds-ai-model-that-translates-across-55-african-langauges/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 56
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/07/AI-Translation-Model-1-696x452.jpg"
+        width: 696
+        height: 452
+        isCached: true
   - title: "Meta's AI can translate between 204 languages, including rare ones"
     excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
     publishedDateTime: 2022-07-06T13:19:00Z
@@ -205,6 +233,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Meta’s AI Model Translates 200 Languages"
+    excerpt: "Meta (parent company of Facebook and Instagram) posted news titled: “New AI Model Translates 200 Languages, Making Technology Accessible to More People”."
+    publishedDateTime: 2022-07-07T07:10:00Z
+    webUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/"
+    ampWebUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 39
 
 secured: "u7V/Hbwi4N15Xomjvo1J+gUCNC+jREQVdidsGal7PoeAElwGLRGZbtmYWt399gPJp6LyD9UGRXMzuQjqCWO9DKIA8vRJ4SSn+QRzX3+znxFtJP7W9eQyF9JC2XBvJ8+gvkrCH3bCr7f03OYoqlPY6gzNVmcsqOFP7e6Nd1wNzS3IQ+yhdN3z+E3NZY5ro5LDEWQiqz9ixEFnoNGgpjTXTF8LzhjK3oV+N4shl8f4vM8L0/gcivSaB3b+GLhvBj9xrpWp5I7iKU0p+HsPjq94PFvh0J5jwN4Tkx57q+2eJX48oTzCnPwjTz8Sd/+aehx53KTUnx6qU22+rMgDuKUKIirik5f3HHisRhFUuzGVxHM=;Coh+xTGJQxkEwbN4BvLL6g=="
 ---

@@ -3,22 +3,19 @@ category: news
 title: "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'"
 excerpt: "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,"
 publishedDateTime: 2022-07-02T10:30:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-2-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-2-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "c8Fnf3XwyFsSAeOYoCzzB0qlz1LykF1VLiA4wkONCohEdhrySaknHNglfpw3v7zZAkhUqjOVhQq/+41cRMWyKJkyNApV9RLBwxgK9R/q/DtwEdQOonEMkMNpxkLzvwVblFWAzLNW+TTuwqymPoKNMlbQHbPEHcKPFTM5lKJi7MV3hkJw0Qf4fxUs/DN/k0+lkMhqQZSmRk1KjW+7Lln7/C2415+Rrs9yKkg6R0r2bO42xkfCoHeTaST1MYMvutdoD+p4EYYjtwMXBUQ2TA/9LWhR+lBqfT3RPAXiZSH/HZuMn1pGeTQ7TNU5Cl+YvzWxbkhpHq+OdBBYxMIE6aYrdecKgsW1Or4Yl1ghQ96hByI=;FTWS3iwIKHzcLiWxG+H6eQ=="
+secured: "Sm7q1SxWxS2Qw6kR/Q1KwHunYWDqK76dixpJuq+AUJzpMlaN/e4u/yaN4aW0zwxGqdOf+PUAFhBEZnyULt3eUyXeft5w26jGP6U5+9cW/s2/WgO2kM/3/AMoCPQcmxUYSt3d8Sb+lYO57EL72O09F40NWcq7/FZ4tP9n7LlyIbvw5jCRsCPA07UuESKwO5yk6FMCWhDieBbnvM3nEM3Zdu++RYeN+pPIEdmCgfzAWBrddZlQIy+u7dDkbKumYG9kMQceVxPXq61jXrpR8ASL3I2L0Uh23NLiTltYg/ve2Mf07//Mqc9Ji9Cu1pKIZ3T4JyJfJwdjuc99acHccFMm2w1TKT/JuaGe+eQ3DDiQD9Y=;b2bF/e2PAifu8TDPhOrXNA=="
 ---
 

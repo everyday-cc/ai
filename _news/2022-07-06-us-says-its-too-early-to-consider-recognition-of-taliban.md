@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Afghan clerics' assembly urges recognition of Taliban govt"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
-    publishedDateTime: 2022-07-02T14:40:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Taliban seek international recognition after men-only gathering"
     excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."
     publishedDateTime: 2022-07-02T20:51:00Z
@@ -95,15 +79,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
-    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
-    publishedDateTime: 2022-07-02T13:40:00Z
-    webUrl: "https://www.ibtimes.com/talibans-large-gathering-ends-calls-international-recognition-3560043"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 4
   - title: "Taliban's large gathering ends with calls for international recognition"
     excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
     publishedDateTime: 2022-07-02T19:55:00Z

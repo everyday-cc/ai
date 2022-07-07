@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Shenzhen Lays Out China’s First Rules for Self-Driving Cars"
+    excerpt: "These are ‘hands on’ shared control, ‘hands off’ autonomous driving where the vehicle can perform most functions itself, and the ‘eyes off’ and ‘mind off’ levels of self-driving autos. Self-driving refers to Levels Three to Five of autonomous driving of which Levels Three and Four still must have a safety officer in the car."
+    publishedDateTime: 2022-07-07T07:39:00Z
+    webUrl: "https://www.yicaiglobal.com/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars/16572102904517.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
     publishedDateTime: 2022-07-05T01:13:00Z
