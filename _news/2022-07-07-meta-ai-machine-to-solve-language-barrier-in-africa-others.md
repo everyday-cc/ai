@@ -250,6 +250,22 @@ related:
         width: 696
         height: 452
         isCached: true
+  - title: "Meta’s Going After a Universal Translator. Its AI Now Works for 200 Languages"
+    excerpt: "Meta's translator is some of the most extensive work that’s been done in the field, particularly with low-resource languages."
+    publishedDateTime: 2022-07-07T17:38:00Z
+    webUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/"
+    ampWebUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/07/universal-translator-hands-on-phone.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Meta's AI can translate between 204 languages, including rare ones"
     excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
     publishedDateTime: 2022-07-06T13:19:00Z
@@ -327,6 +343,6 @@ related:
       domain: siliconrepublic.com
     quality: 36
 
-secured: "7rVC63oqCUEO+hLSHYZMUXWGyuoGlWNv3zRJiphNnk2cbeOf7eDGBIEhlaWf4ImJTkFGzQ0qkZ8S5Z2c7MgOrcC2Z92Agtxb0WCIZyZj5Rmvefjk+skCAXH5Fa/N3UDo5+0y03THt6n6QUP+gIBE3m85o7HCV8Qhcl3ZrEMVi37Y9KTGG2PC16Biq7lxclWtgBUmDXLeMN4wGevxJdQQskwEI+bQ/x0HW/ssX22Bg+Xt0XlNTNxZhrB4w4jguaEUDAiQowF5/K5iwf4Q432KHbtPqLCvfZwM2M3S73sc/JU4T+6zhcIS5g0vIJcKG56hFAsl7dzD985aW/bWbrj6+G27T+bto2PsOrxFgkO8emE=;LMhuguK/8a+tGWo0GsDMIQ=="
+secured: "jMtONIB9h4fQOqxpLb73lb2mVkeL/k4d67nIuMiE1DPQDhKd3yzDBKZHaG0qLrgo/gBpnAdsCiu5RyW3orRptQvssPvQ+7ZZv+DC2KV0SoXUAqpoYko5NezQFguiyR8yHi36EXslvkFWLPMS4pp2y7alj3stcb07NYZLAiw8zNHKJdoPCi1CtjurhZjNT33OI7vH49HN1wHqtHJZyXukX3YXyvyFq5iaYRrx1f7od6WUKMdXXa336e5sQOdCT4PYGNjm5cox7nscBpXEvTaTBtCfeeGXCCTawtwyxTjoq75sL/otMhPXBi5ebtg/tB15Z6U60mSBP6yHC801r7jfw0lXNzMVIdDrK26mXBgTd3NLN6c/EN8OdO/37W229klbojrvsE0JCrsr8H3wS6GJOFyWoWHx4rPquSqxd2hr5wWhIMEWsAg67TIY4J6v0TlhhhrDhbtxlGA0s/steTLVb8/8TthDa7gdf36Bf8tAWAvOQoEzFkEra7tE9eBgmvhAS15jI2Ne8aVg2uBkAzbtyw==;Ldx6CQvaVWmSxiL6SdFItw=="
 ---
 

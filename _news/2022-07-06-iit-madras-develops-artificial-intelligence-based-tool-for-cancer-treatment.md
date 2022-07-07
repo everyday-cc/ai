@@ -137,20 +137,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "IIT-Mandi to start MBA in AI from next semester"
-    excerpt: "Prof Laxmidhar Behera, Director, IIT, Mandi, has said the IIT, Mandi, will start an MBA programme in data science and artificial intelligence."
-    publishedDateTime: 2022-07-03T01:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/iit-mandi-to-start-mba-in-ai-from-next-semester-408952"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_678269707.jpg"
-        width: 660
-        height: 395
-        isCached: true
   - title: "IIT Madras develops AI tool for personalised cancer diagnosis"
     excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
     publishedDateTime: 2022-07-06T09:06:00Z

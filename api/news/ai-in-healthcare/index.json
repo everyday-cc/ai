@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
+      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
+      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "publishedDateTime": "2022-07-07T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-iit-madras-ai-tool-maps-cancer-causing-genes.md",
       "title": "IIT Madras AI tool maps cancer-causing genes",
       "excerpt": "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies",
@@ -10,7 +63,7 @@
       "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -42,50 +95,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
-      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
-      "excerpt": "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality. Well, AI is here now and we still aren’t ready for it.",
-      "sourceUrl": null,
-      "webUrl": "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.html",
-      "originalUrl": "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/c/c4/cc4f50ae-7d9f-5a03-8be0-d3c6af064307/626ad17c4f635.image.jpg?crop=331%2C381%2C198%2C44",
-          "width": 331,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.amp.html",
-      "cdnAmpWebUrl": "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_65a4fdd3-0b6a-5db5-9794-fc9177d2f827.amp.html",
-      "publishedDateTime": "2022-07-06T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Crosse Tribune",
-        "domain": "lacrossetribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     },
     {

@@ -259,6 +259,22 @@ related:
         width: 696
         height: 452
         isCached: true
+  - title: "Meta’s Going After a Universal Translator. Its AI Now Works for 200 Languages"
+    excerpt: "Meta's translator is some of the most extensive work that’s been done in the field, particularly with low-resource languages."
+    publishedDateTime: 2022-07-07T17:38:00Z
+    webUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/"
+    ampWebUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/07/universal-translator-hands-on-phone.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Meta's AI can translate between 204 languages, including rare ones"
     excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
     publishedDateTime: 2022-07-06T13:19:00Z

@@ -150,20 +150,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "IIT-Mandi to start MBA in AI from next semester"
-    excerpt: "Prof Laxmidhar Behera, Director, IIT, Mandi, has said the IIT, Mandi, will start an MBA programme in data science and artificial intelligence."
-    publishedDateTime: 2022-07-03T01:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/iit-mandi-to-start-mba-in-ai-from-next-semester-408952"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_678269707.jpg"
-        width: 660
-        height: 395
-        isCached: true
 
 secured: "WQQR28iwTBQq5PlSyjzqQQ8/eRjkNdEZpnqi2TAevq6ggX08PY3qlYj6qaChZTJnK0lyjhgH5dD8fVJf+ILZ0eRNXBZXBTLvwx+IxyB52go1aVhk93dzAxsr1WpS/dfxagred705kyx/oh7UJS81umq7OjfMHPGE+1azcmfEJ1t6ASITZL0cyfpOstv/4qXM2J7pSqOf1SeqF29LVNWpp8NC2+7dtZulQik1oSMFQCCZgSL+ZHSbugNY9Yv9FkzDnyDWSUIt9neb0rUiDjxcDWZ59zvsHi1fFDl6vfLmuC9Gha/49NpJX4Yi0YcRXvcpK/ajqihH/f6Cyx4Js430//5ERWud8/qRwOTzsGAnOqM=;4DUjp5WoYZ1+PeECAwY7Vw=="
 ---

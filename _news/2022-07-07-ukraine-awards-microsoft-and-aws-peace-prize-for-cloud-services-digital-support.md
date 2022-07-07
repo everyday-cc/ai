@@ -29,7 +29,7 @@ related:
   - title: "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts"
     excerpt: "Microsoft and Amazon Web Services have been awarded Ukraine's peace prize for their efforts in helping keep the nation's digital infrastructure online during the Russian invasion."
     publishedDateTime: 2022-07-07T14:55:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
+    webUrl: "https://www.techradar.com/in/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
     type: article
     provider:
       name: TechRadar

@@ -30,6 +30,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
+  - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
+    excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."
+    publishedDateTime: 2022-07-07T16:48:00Z
+    webUrl: "https://www.financial-planning.com/news/meet-the-fintech-trying-to-eliminate-crises-for-financial-caregivers"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 15
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/edb22d1/2147483647/strip/true/crop/5120x2688+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F15%2Fdc%2F33315c51428bb4c9dab3f9825160%2Fadobestock-225777852.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bnRbTjXDmpLvsPCvlsNvYmt8FyXMtuDwr1MCSanPiZJx8hKeOkTgkSRGXJE0FPE/yRnxj3ylzEWuJ2uFfP7afNetYp1XjblbTzyUE8XFmjTlQ5zbqt5wfLVUYUXIg8DzCe7Kxd6yUL6EQtK2X/wuA910h6doY+XeYIMGFi08jqL27uzrwBxjBf6Coo3rUb1+u5oWm6Ns3s6FVJvRDIVD+zHEimLtU6gdzPRIl7YNAuTyeNjnmP01gMnMQKDqyKudRyzgNnNgmMu8zex13yYpg4vVJJM+q8ND3SVCQo9K29dW4VV2qgJQ9QfaDC+GhCU94lt0D+pWSo51AgfMB2v/SiB5s1VJ5uYv5q3k8Vp0SAtlIL8Dhku0vowF0COLdw4SKFh4Kh/mmnIOOzF7LPOt0zfM82BrDuN/oZKIfkbzE9RE7FUs2dDCDT98PVgG5PRtBe3irIVpJhp1GHayDc6rKFOy9DNfa3ZrHUMxhWHMGAr4MM61AoKx5LmcH2nX+y0hr9lfvaKj+hsiSXaF9EppSA==;eWn5kjpCQgB91JELk1N1cQ=="
 ---

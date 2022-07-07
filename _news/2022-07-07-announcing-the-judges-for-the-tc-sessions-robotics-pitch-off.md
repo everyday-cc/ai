@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/07/07/announcing-the-judges-for-the-tc
 webUrl: "https://techcrunch.com/2022/07/07/announcing-the-judges-for-the-tc-sessions-robotics-pitch-off/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,33 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics"
+    excerpt: "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence."
+    publishedDateTime: 2022-07-07T16:32:00Z
+    webUrl: "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/"
+    ampWebUrl: "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_cage_to_stage-1.jpg?w=1024"
+        width: 1024
+        height: 535
+        isCached: true
+  - title: "Outlook on the Drone-in-a-Box Solutions Market to 2028 – Percepto, Airobotics, American Robotics, Azur Drones Among Others | Vantage Market Research"
+    excerpt: "In recent years, the demand for artificial intelligence (AI) used for drone technology is growing rapidly. Major players are investing heavily in novel technology for"
+    publishedDateTime: 2022-07-07T09:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27982591/outlook-on-the-drone-in-a-box-solutions-market-to-2028-percepto-airobotics-american-robotics-azur-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
 secured: "8ZWrrGcjAhFqUBHxssg1RQOj5JEML36gGgGNJ6lBPg3dxVDGhY2I5Eaj33mMrNQL0oefnEi+poZG/T2vi7x+cVzTWFhr+a7r4u6nMsyqLDodV8Ij7DyNir4SgIhRFzD6KpWlmKibm6sRm/WGaWGFZEMV5Qls/vzBYX4WvqJ8vQg/niHyzv7M6/8h7NWM+cnWLLBIwwvCdEBNj9ntJ136ZjwrdtDYwbttGo4CF7TSiusUhiKZnOJHhjxzepghXU3ZcWKRilq9HSELv4GXN6I3IUttnHWP4XMqLwMT/nlrSkOu75WHKRJ8YnTkaaNlS2ZkhixcYa5SqI3FAzmiseK7EEGXAirX6FTEuiRrkXT/ZMvuvzS/gYn+/CMCUCArX8lyMbxuZBsCdCr1ar706MuUUU8iNkxyx9oQEwFd+lFS7vLBElYb1VcYKpCaEDCXkAU20+vIgyWndYnL0isMiVL1TE6+h+RpXloMB6xXxJB1+7SacOxby7d6+dHIsoc6pZm9qTxLryzsoNrbJe3dvRSiqA==;97etjWeAbrA/DOIl6MF7rA=="
 ---

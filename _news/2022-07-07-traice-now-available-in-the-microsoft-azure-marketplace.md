@@ -71,6 +71,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Amazon and Microsoft deny using Flickr pics for facial recognition, as suits test limits of privacy law"
+    excerpt: "Facing a pair of related lawsuits, Amazon and Microsoft both acknowledge that people working on their respective facial-recognition technologies downloaded IBM’s “Diversity in Faces” photo database — compiled from"
+    publishedDateTime: 2022-07-06T18:25:00Z
+    webUrl: "https://www.geekwire.com/2022/amazon-and-microsoft-deny-using-flickr-pics-for-facial-recognition-as-suits-test-limits-of-privacy-law/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 50
   - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
     excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
     publishedDateTime: 2022-07-04T11:33:00Z

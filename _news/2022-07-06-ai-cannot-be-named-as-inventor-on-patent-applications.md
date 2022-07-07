@@ -50,6 +50,20 @@ related:
         width: 2880
         height: 2262
         isCached: true
+  - title: "Rethinking insurance with the use of gamification and AI"
+    excerpt: "The firm plans to expand into the North American and U.S. markets with its gamified life and health insurance concept. With more than half a million British clients already insured, the business thinks that the U."
+    publishedDateTime: 2022-07-07T16:21:00Z
+    webUrl: "https://bestgamingpro.com/rethinking-insurance-with-the-use-of-gamification-and-ai/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 37
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/How-gamification-and-AI-can-revamp-insurance.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Standardisation body calls for AI definition, categorisation to be decided as standards"
     excerpt: "The European Telecommunications Standards Institute (ETSI) suggested that the definition of AI and categorisation of high-risk applications are left to technical standards in a letter sent to the European Commission and obtained by EURACTIV."
     publishedDateTime: 2022-07-07T15:08:00Z

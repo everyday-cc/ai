@@ -85,6 +85,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Amazon and Microsoft deny using Flickr pics for facial recognition, as suits test limits of privacy law"
+    excerpt: "Facing a pair of related lawsuits, Amazon and Microsoft both acknowledge that people working on their respective facial-recognition technologies downloaded IBM’s “Diversity in Faces” photo database — compiled from"
+    publishedDateTime: 2022-07-06T18:25:00Z
+    webUrl: "https://www.geekwire.com/2022/amazon-and-microsoft-deny-using-flickr-pics-for-facial-recognition-as-suits-test-limits-of-privacy-law/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 50
   - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
     excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
     publishedDateTime: 2022-07-05T23:38:00Z

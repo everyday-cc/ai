@@ -56,6 +56,20 @@ related:
         width: 2880
         height: 2262
         isCached: true
+  - title: "Rethinking insurance with the use of gamification and AI"
+    excerpt: "The firm plans to expand into the North American and U.S. markets with its gamified life and health insurance concept. With more than half a million British clients already insured, the business thinks that the U."
+    publishedDateTime: 2022-07-07T16:21:00Z
+    webUrl: "https://bestgamingpro.com/rethinking-insurance-with-the-use-of-gamification-and-ai/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 37
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/How-gamification-and-AI-can-revamp-insurance.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "AI cannot be named as inventor on patent applications:"
     excerpt: "The European Patent Office has taken note of the written decisions published by the Boards of Appeal today and welcomes the clarification on the topic of AI named as inventor."
     publishedDateTime: 2022-07-06T13:29:00Z

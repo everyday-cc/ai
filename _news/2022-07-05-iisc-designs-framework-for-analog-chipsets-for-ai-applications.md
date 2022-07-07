@@ -51,6 +51,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Creating an AI Implementation Strategy"
+    excerpt: "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly."
+    publishedDateTime: 2022-07-07T16:35:00Z
+    webUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy"
+    ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "IISc researchers develop design framework for next-gen analog chipsets to make AI applications fast"
     excerpt: "Next- generation analog computing chipsets for artificial intelligence (AI) applications, could become a whole lot faster and consume less power, thanks to a design framework developed by researchers at the Indian Institute of Science (IISc)."
     publishedDateTime: 2022-07-06T05:28:00Z

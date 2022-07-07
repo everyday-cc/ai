@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-ca
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Nasdaq
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
+    excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."
+    publishedDateTime: 2022-07-07T16:48:00Z
+    webUrl: "https://www.financial-planning.com/news/meet-the-fintech-trying-to-eliminate-crises-for-financial-caregivers"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 15
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/edb22d1/2147483647/strip/true/crop/5120x2688+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F15%2Fdc%2F33315c51428bb4c9dab3f9825160%2Fadobestock-225777852.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "e& to transform UAE’s fintech space with new financial super app"
     excerpt: "As the first wallet licenced by the Central Bank in the UAE, e& money will aim to enable new growth opportunities for the telecom and financial services sectors. Through the rebra"
     publishedDateTime: 2022-07-05T13:44:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-in
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "sejI8ZHZLnt7FNhMXWF6tmTS+ND0A4fw5xDZRg0rNX9SCET347ekNS5VKkNXmOAdKrI/zvVT/23rjECCPAjIFIcF0dCmLk0pfDL+14wUZiBq2xsrBEFyo3X0zQ9yIglApdZ7rOow5PIKGn20clsbIFTJMXQLW09ihOPOVgOsddWxHPba5BNyQ8FOnXmUbb3bA/NEO5CVtKkqeP8MpRwPAY01i9PdAMVfJRHLM9S+0sAz0XfnGK3g1PIdzDAqrInCNxrQi+SgHatmcLMrRbxt8J/7gAJKfDXXgXr+b1lPX61FD/fN2cxmF3sbiahHGx6ZWbWqighBJ2ddcICHk5Imc+a2jsC/fI+bglKiyH6UVPI=;jeb2cVCWaoi6wZITdEryGA=="
+secured: "5ezQydqR0hmZH2qiY+LTlCR44NuO1bJN0jUKn8Jrr9SEFveIl/pK94S1X1+sywIlpeiaV/AKEOqXu8LbX8zk/jhvtlliCGEwpjBPTVb2MM5QmtTmqJfCKUKoz2a+7MShz4lL/hzoNgvjSS5EXQexdCs38MjawxKqfHQ4oB5iSLxvIkm+7ntVq8NqysaqaDRJD4IqU0RkH7SNOS8jwy0/GvwT5voD4U7S5IS1nG6UxGHb+8i2BrhMVZs1ijcnoXejIiDbVTBdSOPTJ44DxRYWXaHf45H2EGsnnX4zESB1Xf6lrl4WsFNpNTq+qqCCarRtkcH2jpEA2LbkFucXH5hflsrF3eveIaQQ5IG3muu0b8MMYmFi474I7rZxXA5VxkCip5pPZ7y9tLhuhPc3LS40wtq+3rrKqPszb6UbkqWMCXV1U+Nze26NTQY7hFJkcQpUNW0+/zXHSy5WD12m1E+VgU3O13P0xO42uQaul7wmLdFK9ndNSkfOZvoys4BynDipt00nf6lzzml/q+qkaVYpbQ==;zFQYBUYU7bPNBD1PvugZCQ=="
 ---
 
