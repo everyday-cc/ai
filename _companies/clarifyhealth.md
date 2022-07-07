@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifyhealth"
   url: "https://twitter.com/clarifyhealth"
-  followers: 1123
+  followers: 1124
 
 size: 51-200 employees
 yearFounded: 2015
@@ -31,7 +31,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1532349433920294912/ix4SiyoT_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1545138578572791808/cisIf-Ku_400x400.png"
     width: 400
     height: 400
     isCached: true
