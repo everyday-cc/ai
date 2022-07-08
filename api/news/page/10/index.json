@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-27-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
+      "title": "Govt. unveils W1tr spending package for AI chip dominance",
+      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "publishedDateTime": "2022-06-27T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
       "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
       "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
@@ -1121,49 +1164,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Flagship Harbor Advisors LLC",
-      "excerpt": "Flagship Harbor Advisors LLC raised its holdings in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% in the first quarter, according to the company in its most recent filing with the Securities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/",
-      "publishedDateTime": "2022-06-25T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

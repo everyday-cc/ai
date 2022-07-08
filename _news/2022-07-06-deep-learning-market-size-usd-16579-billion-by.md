@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Text-To-Speech Market Size is Projected To Reach USD 5790.1 Million By 2028 At A CAGR of 12.3% - Valuates Reports"
-excerpt: "The global Text-to-Speech market size is projected to reach USD 5790.1 million by 2028, from USD 2543.1 million in 2021, at a CAGR of 12.3% during 2022-2028. Major factors driving"
-publishedDateTime: 2022-07-07T15:04:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634928.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634928.htm"
+title: "Deep Learning Market Size USD 165.79 Billion by..."
+excerpt: "Furthermore, deep learning analytics that are cloud-based assist institutes in lowering operational costs as well as infrastructure and storage costs. Furthermore, it provides superior security ..."
+publishedDateTime: 2022-07-06T12:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/g27967810/deep-learning-market-size-usd-165-79-billion-by-2030-with-a-cagr-of-28-93-report-by-market-researc"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/g27967810/deep-learning-market-size-usd-165-79-billion-by-2030-with-a-cagr-of-28-93-report-by-market-researc"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
 
 related:
@@ -33,15 +33,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Deep Learning Market Size USD 165.79 Billion by..."
-    excerpt: "Furthermore, deep learning analytics that are cloud-based assist institutes in lowering operational costs as well as infrastructure and storage costs. Furthermore, it provides superior security ..."
-    publishedDateTime: 2022-07-06T12:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27967810/deep-learning-market-size-usd-165-79-billion-by-2030-with-a-cagr-of-28-93-report-by-market-researc"
+  - title: "Text-To-Speech Market Size is Projected To Reach USD 5790.1 Million By 2028 At A CAGR of 12.3% - Valuates Reports"
+    excerpt: "The global Text-to-Speech market size is projected to reach USD 5790.1 million by 2028, from USD 2543.1 million in 2021, at a CAGR of 12.3% during 2022-2028. Major factors driving"
+    publishedDateTime: 2022-07-07T15:04:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634928.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
   - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
     excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
     publishedDateTime: 2022-07-07T12:49:00Z
@@ -52,6 +52,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "eN139aKfYdVy+3wCK36RJ5d24qAozKALicFRMUlu5mgB2ipVEMHMj6Xp6/TDQSpxr4tztira58lm6hs6Em1Ue/kvM5zDPPSe6EEew0omlTq3bE3aQdT0Bspd1HxOvDGXmSr15WwLmqTCGEOVL3iZQL9cR8fuMmdrarrgXg+Ggc7MDZ9GOyGwBYwUffQ+No/VQ31mlbbp5RzwjPKa/d3D2IFtKEbktsBCwSrPcJq4UjP7EiQrn2a81JwihKNysOKYnQ/Am3YOS/qE0I+cRzRuvU9zIuHFZcRBNOffRalORoXUg8QE2xdbhjGVkJW47qkmN6OpiaVvFEGyFysmZc20KVfmBC1QbUqHf/t5hSPdE8I=;tRBZeLHldyw2smjZUNFnRw=="
+secured: "yqlaGnY1hIoe97JzDNSHUJyq4Y5okn3ZYQCHSc34N+FYJIueRNc1HYCwO3PBAx5qvzuBWOcvpXD0AtcaoVTyr30NXm2ooIhrSLJvLgA63OosjO2OSBRAsQXPhSo7rOpXvduZ56papWEe1rUpWrvquaChEQIe2eAH+/9laTGT7OzDuW0Bb9g7HA8BOES54kkLcDOMYxYOytNgk0OMQOpqNVWUt6Jtzf22IOHEihBiQ8FSFCqkgfY+L5fcFTy03pnhxRCi9wN7s6Ng0+EoPb4y3/cxyT57cLDZwwRR00XmIU4h9E8G6g1eBcLs+SEmA4GoFMLJByw87uya4QGh3tUB4a/RtsevE9J7YmaYy7xef88=;OaHvLO+K0HKUip5tzMwf9Q=="
 ---
 

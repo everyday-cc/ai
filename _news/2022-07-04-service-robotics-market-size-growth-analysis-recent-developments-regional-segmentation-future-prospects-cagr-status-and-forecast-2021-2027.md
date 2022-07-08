@@ -51,6 +51,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Deep Learning Chipset Market 2022 : Segment Overview, Company Profiles, Regional Analysis and Forecast 2026 with Top Countries Data"
+    excerpt: "\"Deep Learning Chipset Market\" Research Report 2022 provides key analysis on the market status of the Deep Learning Chipset manufacturers with best facts and figures, meaning, definition, SWOT analysis,"
+    publishedDateTime: 2022-07-08T00:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2022-segment-overview-company-profiles-regional-analysis-and-forecast-2026-with-top-countries-data-2022-07-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Surveillance Camera Market Size, Share and Analysis To Grow At An Annual Rate Of 20.06% Through 2026"
     excerpt: "An analysis of AI Surveillance Camera market has been provided in the latest report added at Market Study Report that primarily focuses on the market trends, demand spectrum, and future prospects of this industry over the forecast period."
     publishedDateTime: 2022-07-07T12:33:00Z

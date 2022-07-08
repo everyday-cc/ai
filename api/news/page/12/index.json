@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-24-cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers.md",
+      "title": "Cruise’s driverless autonomous cars start giving rides to paying passengers",
+      "excerpt": "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/",
+      "originalUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/",
+      "publishedDateTime": "2022-06-24T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net.md",
       "title": "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net",
       "excerpt": "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks.",
@@ -1069,49 +1121,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-instagram-tests-using-ai-other-tools-for-age-verification.md",
-      "title": "Instagram tests using AI, other tools for age verification",
-      "excerpt": "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID.",
-      "sourceUrl": null,
-      "webUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
-      "originalUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRDO",
-        "domain": "krdo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

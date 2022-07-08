@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Self-driving tech firm Argo AI lays off unknown number of employees"
+title: "Self-driving tech firm Argo AI lays off about 150 employees"
 excerpt: "Argo AI confirmed an undisclosed number of employees were cut. The self-driving tech firm said its overall business plans and partnerships remain unaffected."
-publishedDateTime: 2022-07-07T22:51:00Z
-originalUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-unknown-number-employees"
-webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-unknown-number-employees"
+publishedDateTime: 2022-07-08T00:10:00Z
+originalUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-about-150-employees"
+webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-about-150-employees"
 type: article
 quality: 39
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: autonews.com
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
@@ -34,10 +34,10 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Self-driving tech firm Argo AI lays off about 150 employees"
+  - title: "Self-driving tech firm Argo AI lays off unknown number of employees"
     excerpt: "Argo AI confirmed an undisclosed number of employees were cut. The self-driving tech firm said its overall business plans and partnerships remain unaffected."
-    publishedDateTime: 2022-07-08T00:10:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-about-150-employees"
+    publishedDateTime: 2022-07-07T22:51:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-unknown-number-employees"
     type: article
     provider:
       name: Automotive News
@@ -58,6 +58,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "0lh6fzz4duADAngZ6ZDmK6g2dZasWKG9W/A6+CN3w42gdSaNn6K+wLrFhHvyTQ8zYbJzNPgk/bbleE7+aIjJV8HccSsq0zsyQqUoJzSPkMrlPux05ODb8J0YGL7OIxrz2jGZlm6Ei4akcy6MEb6+bvnETgC9/wV5mn7Dp3CUrnWwhTYSAr5jYoTmmmepAt0H1FaCkeC0iaJ6bJ9WwRanjlvuOgfLq448xgHcRD8MfoHeLq+3TVtJecX9f6bglRI2XNUrkpaYIRaMCukcy2zEKgVGdKn7l5btBWCn1QpKeIi3yM7M5fNyIM1uiDPAd4lnPrdPZJe/OgmWauSQcSgASU4h716JoK43nBIzQBKE4qZCPdxSCDT+bF4wnTd4GahvK87Aq9Mav/3Wp7Z9zXalMfo0z22Qtd4XJSZ+pzXA3qRLYUob9YjhnmhOjpZRrak1uQN4iwZ9axEoldlhqGHORuHsqudWp/5TimA21C9FoTf31TZ5kJ3B1XT7u22/S0PED7ZIyYmlxOdrhS6VNpq77Q==;Rs+d3jbv99VS5QMuE31qDg=="
+secured: "ha0bSwL4lxnTL6KKEEXxDBEgUxu6A+qJBhS3GxOLMGea2cUhfExH/oz/52LQN5NwQAMXYgwtz/80h59h4LWb57vL2owzGjFiXDoKIx0HBvUSFl3Rs2Z6tJb8Q8Ku9Nh1yhlnkmfMFUT5qHLtPAQ4c99Bp+Xt/UbxhD26df152Eao69t0g+ITT5pUvrrKZLQzXs9MlFrSuj5zlWHY+pp+fEKdFGO3lJ6cwR7xbn10sYH6AAkJvwNyEr2Xzyt2DgjqrLrndfALj6vxUtse6aD7fBzJJf32LpjHNGJ5870hFxzxkPRq1jCbEvTuJTeSWRAYMPQ/9pRLn2d9U1zaL5tG3AmbjYsXAF9uEif5RXjVmgk=;GYycJSSxraDOkgKiUavkSA=="
 ---
 

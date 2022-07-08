@@ -7,7 +7,7 @@ originalUrl: "https://thediplomat.com/2022/07/afghan-clerics-assembly-urges-reco
 webUrl: "https://thediplomat.com/2022/07/afghan-clerics-assembly-urges-recognition-of-taliban-government/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan clerics pledge support for Taliban, urge recognition"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-    publishedDateTime: 2022-07-03T08:17:00Z
-    webUrl: "https://www.nwaonline.com/news/2022/jul/03/afghan-clerics-pledge-support-for-taliban-urge/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/07/02/5A2Afghanistan0703_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "US Says ‘It's Too Early’ to Consider Recognition of Taliban"
     excerpt: "The United States says no foreign government is contemplating legitimacy for Taliban rule in Afghanistan, even as the insurgent-turned-Islamist group next month will mark the first year of its return to power in Kabul."
     publishedDateTime: 2022-07-06T15:31:00Z
