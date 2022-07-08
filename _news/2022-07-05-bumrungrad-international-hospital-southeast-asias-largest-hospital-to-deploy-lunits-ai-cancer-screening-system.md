@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect"
-publishedDateTime: 2022-07-05T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
-webUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
+excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region Lunit,"
+publishedDateTime: 2022-07-05T01:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/259602"
+webUrl: "https://www.ryt9.com/en/anpi/259602"
 type: article
-quality: 28
-heat: 28
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.ryt9.com/img/files/20220705/iq5bc521ad2860a2e98d5b918f231a4973.jpg"
+    width: 1472
+    height: 978
+    isCached: true
 
 related:
   - title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
@@ -37,7 +39,16 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
+    excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
+    publishedDateTime: 2022-07-06T12:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
-secured: "f14m6cpBY72bhc+z/eHg5EyK9O8Lg6TWBD5bPuFBCeYs/Jr0D+WujjogizU75cxB21mTvBHX36+kr2+fHmXkac21knCGg/AmCKqaBk6nCt7T29YiLqftQOSnvlPGdYWo16+LhKpMhDoC+tOkAKGuRDFElp4leS6evVkZYMTZHBZMd2zNbsVgIT5wYZoAeIcGfxdDl3Q6YuSKuXbguyZ+s+wXRKiQdL/I9/dEh1X6ZUK+NWENDNcuJT6ZS1UEueBK04++ynxCs0XnluQgBftRWQNC4hzR8VBw9rnWAm2wV381jN8uNCdMg0vEvyuPIEBpr5YfhcZt/B1RCubfMCKH8dbyH8RjK5EnfV6Q+3HZgi0=;9NzDInsWWEISiv0nT7exYQ=="
+secured: "tB3nj/Tk+G4i55TdGdABvs8e/59ayybo/lXlt7+BiYlibXtxw/1wIdcGInIe9tT8Cw4ZkFPY+GeF17klYZK1NH+Y8DYTn0FHMHQdIEWCeCnyrwS9703DHpWJ98HuccQww0xbkpKEBF/EO9gt0xOOqtNo/LIs3AjH302gWhAWiNOpAxhxFRPFgNQvOOzjS1KLZtUzTKCQrKEwilQjyWYdR2UrxeRO+KJZgbQ6k0XMqNwMG4xgzM98BEogMUxhxjiLi6XFs2q84SO8y5TAzPK4eMAz3Ufdb4Nc8wrP0ctISsd3SI8Y088S4hUnejNVeFPMiQWh8yeceFhcyzu7sY/4wPaJ8WSsmb9rKAzATuudnEA=;ZtPrhXgXs8kcO9LqypgnjA=="
 ---
 

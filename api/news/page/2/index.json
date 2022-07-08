@@ -629,7 +629,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1093,7 +1093,7 @@
       "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1124,7 +1124,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {

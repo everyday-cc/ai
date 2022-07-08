@@ -23,17 +23,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
-    excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
-    publishedDateTime: 2022-07-06T12:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-
 secured: "aa62oVerwgOpRaHf40ekEIm8W/uIVRW+C+Q9uJzQQIPtpDyVBymnQ4UdOnK8BX8hjxVYEZzDYbLj7yCqIfNWHSHUhKIBnhR4aD7uwjDJZxxY2Vr6aKxSM6xz3RwLpLRX2A/fPy+1m43XljOfnuSJBHOayXeVJoeYOJhZr3MNp+BFnfY2NrKoIc2n0T0qkOlXgy0LYplkVGjpQ+Nr67uMaAzb1Kr0EQTHO0dBJEgVCFV9duz66mEly5yEQt+bmKX22Jm7cJeb/FybwZNlQmP1wCgrZwCjv2D2puOi9A/o8n7a0b1fFQ0Pz2z294efOwzWWDLdSa38tTmX4zWmR0BMS7ptx0tJdF5ldQM1d5f/074=;ZKxB02Oh75KF+1ASpl6J/g=="
 ---
 

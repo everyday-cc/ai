@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-bumrungrad-international-hospital-
 webUrl: "https://www.tmcnet.com/usubmit/-bumrungrad-international-hospital-southeast-asias-largest-hospital-deploy-/2022/07/04/9632955.htm"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -26,14 +26,28 @@ images:
 
 related:
   - title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-    excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect"
-    publishedDateTime: 2022-07-05T13:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
+    excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region Lunit,"
+    publishedDateTime: 2022-07-05T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/259602"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
+      name: RYT9
+      domain: ryt9.com
+    quality: 18
+    images:
+      - url: "https://www.ryt9.com/img/files/20220705/iq5bc521ad2860a2e98d5b918f231a4973.jpg"
+        width: 1472
+        height: 978
+        isCached: true
+  - title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
+    excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
+    publishedDateTime: 2022-07-06T12:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "tcIr3g0Kt02m+wEHsseuNQGgaTeeoyo5vo/ORFgPLVGuHVA1L06s7+Goc4re8TkV6CZPJg3iqRhGRhhJW9F2HJ32ZeQWTuzRRMmKrw1OvvsdvjsqNoh+FzYiCvciUvoSDtY/lA8PsU41ianPEcHu+Ibb1WlGjC97OAsfmoJ2lJWcE/h1p58NJour4zp3EW/dMLTWfDE0zI7wdLpmPqSQP5p6+Hxg8lpaWT/4eRieyrKxWKZm4rYXZhWFD8lQlshFfHLetKu2FxjfK/NE5fseaSYHjSTqYDip71YjMNwhK1QLuk2zaqfq/w2WerGb67Xg2vrvtYTzZkIw3rRFj0HVbmpWobRAE+VTxrq5TSHJjHE=;aBYGf4vsa81AwnIEoENtdg=="
 ---

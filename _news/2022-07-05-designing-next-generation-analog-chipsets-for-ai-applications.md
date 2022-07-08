@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.htm
 ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
 type: article
-quality: 74
-heat: 174
+quality: 76
+heat: 176
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg"

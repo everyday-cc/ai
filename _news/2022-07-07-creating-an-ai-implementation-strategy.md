@@ -37,7 +37,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg"
         width: 1000

@@ -30,6 +30,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
+  - title: "Europe’s Next 10 Fintech Unicorns"
+    excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
+    publishedDateTime: 2022-07-08T05:00:00Z
+    webUrl: "https://fintechnews.ch/fintech/europes-next-10-fintech-unicorns/53783/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/07/Europes-Next-10-Fintech-Unicorns.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
     excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."
     publishedDateTime: 2022-07-07T16:48:00Z

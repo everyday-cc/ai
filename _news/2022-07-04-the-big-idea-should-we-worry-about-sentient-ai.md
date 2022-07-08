@@ -25,14 +25,14 @@ related:
   - title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
     excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
     publishedDateTime: 2022-07-07T01:15:00Z
-    webUrl: "https://mtstandard.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0dd086ef-b1ac-54a3-8572-c21781f60bc4.html"
+    webUrl: "https://tdn.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_451f4b0b-caa9-57f7-8fa4-661f1905a36b.html"
     type: article
     provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 48
+      name: The Daily News
+      domain: tdn.com
+    quality: 50
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/0/dd/0dd086ef-b1ac-54a3-8572-c21781f60bc4/62bef03072670.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/4/51/451f4b0b-caa9-57f7-8fa4-661f1905a36b/62bef0cbde8e6.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
         width: 1196
         height: 628
         isCached: true
