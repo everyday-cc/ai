@@ -33,7 +33,7 @@ related:
   - title: "Japan deploys artificial intelligence to detect rip currents as beach season hots up"
     excerpt: "AI system identifies currents and bathers, and sends a warning to lifeguards via a smart watch"
     publishedDateTime: 2022-07-05T04:02:00Z
-    webUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
+    webUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up?ref=nextbigwhat"
     ampWebUrl: "https://amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
     type: article

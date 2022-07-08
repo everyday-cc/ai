@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/06/5-AL-CONSUMER-ALERT-DEEP-FAKE-SCAM-ST-PKG.Consolidated.01.transfer_frame_0.jpg?w=1280"

@@ -3,8 +3,8 @@ category: news
 title: "Japan deploys artificial intelligence to detect rip currents as beach season hots up"
 excerpt: "AI system identifies currents and bathers, and sends a warning to lifeguards via a smart watch"
 publishedDateTime: 2022-07-05T04:02:00Z
-originalUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
-webUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
+originalUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up?ref=nextbigwhat"
+webUrl: "https://www.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up?ref=nextbigwhat"
 ampWebUrl: "https://amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/05/japan-deploys-artificial-intelligence-to-detect-rip-currents-as-beach-season-hots-up"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EbfJllzlc7x7IHwvHLryQ0juB51siOhTWw2DamYyPxfsUorcHTF+aH7+KkFgXvROXq1sxUlz4hR4t0QQjEuSuqYaS7ubugPkTqi4cExyMxrAhkA68CKM2t2UogvE/tXnyG4zl/fQkwZqg+MaLTwmd6862LxMfnitBjcnDWs3t3C1iRXvta0hj4zhusRbGZp4kq1r68XagIhN7m3DgVLbQ14KyEFAk7KzXlr99inD5BpNHBaOkqcZ+NW8xzXHEwrOooJu5QrhBF05M1JrBoWFXSJacXcNmybjDr9aT+smWt8+Qatlaoq1hrB5QpYlAzhHQ5LiHpA90hMlt45a4+cYyV64t3LQJT6+Wvf0oZkTGRs1eLVrpTyZgKaAjKIsq579/h+PjU0QYj1u3KjDnrvi07WF5OMN9xMB5tRAFFLxgqmWPQGRJ93ra1chIBXVWOVaSubOIuvoxAk69Tk0w8fr1fvoWxANFVVj4jem1GPVMypLWKU6ciZrc1VZLg79W+zs0aPOuxpmzq35hr+KxA6Cpg==;iQuZDnRO3nazXmFke+UOZQ=="
+secured: "zmr2pM6CmUWBoZov7qEHxeRaCogUELllRqr9K5Mqsspeoy39Nvq5U+LmblK5R3y7To9G0BO7gCK/Z4FPMjf0YIiKSzcSnbcHzQ4GH0DzWd/S9egFl4N59CJtBlcMAZoD+xgTAWOvQAYFsHNrv3GxolHbdpSeByx5QIN+WYMH3nBElZPTtWpBz/J42YLvP6ilWr9tArCke62Hu1RSFS3Av5gAHaVkgXFH6GTPzPUTOSi5BTwqPsv+s4ApEcqFMBPHgBAgbuKH+uqeXCdwncHYqn14V11beEmkawQj9IS3nC8TNaSqztP6cFZ/0vJ4D5LF7/sE9IuxuW6bhkhkD1/e5rGHU9vEPXTDeCtXjGj5LYA=;Owds4O9wfOUoZK0cbfaUDw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.hcamag.com/us/specialization/diversity-inclusion/ai-ba
 webUrl: "https://www.hcamag.com/us/specialization/diversity-inclusion/ai-based-hiring-tools-can-violate-americans-with-disabilities-act/412254"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Address America’s Post-Pandemic Medical Time Bomb?"
-    excerpt: "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods."
-    publishedDateTime: 2022-07-03T10:40:00Z
-    webUrl: "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346"
-    ampWebUrl: "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Anumana Announces Issuance of New American Medical…"
-    excerpt: "Ground-breaking codes will facilitate the use, adoption, and pathway for potential reimbursement of AI-enhanced ECG-based algorithms, including Anumana’s pipeline of AI-enhanced ECG-based algorithmsCAMBRIDGE,"
-    publishedDateTime: 2022-07-06T15:50:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-07-06/anumana-announces-issuance-of-new-american-medical-association-cpt-category-iii-codes-for-novel-ecg"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 22
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "American Law Firms Successfully Leveraging the Power of Artificial Intelligence"
     excerpt: "Artificial Intelligence is a tool that is being used across many sectors today, including by forward-focused law firms keen to evolve. There are many different ways in which this innovative tech can make a big difference operationally."
     publishedDateTime: 2022-07-05T20:29:00Z
@@ -63,6 +33,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 13
+  - title: "North American Startup Funding Fell Further In Q2"
+    excerpt: "Startup financing fell across all stages in the second quarter of 2022, with the drop most extreme at the latest stages."
+    publishedDateTime: 2022-07-07T12:00:00Z
+    webUrl: "https://news.crunchbase.com/quarterly-and-annual-reports/na-startup-funding-declines-q2-2022-monthly-recap/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 2
 
 secured: "K6QMvtSQK6V440RTZZJQTNj9Ohg0CiaXoWNoFOdAHwsApHvjQyv6jCLkdsmWGmfAZw39rAeDKSNF05yiiOvPMeajG1OYbP8AzYhjD0c0ovoePJIhfXjl8kLmP1FqU3w5NEQZYbH000QjtLFhokoQ2xeXWaM0DWPpprSfBpHmoAcnQwnUd5/kgIJ+1k0XSjN4GhEDaliFkp+ZI0kJSIC9d2WfzOCOEKBW1T/96/wJ3Q+uROh8vz49rPQLOI9+3rJG2IgPPoHeKa/un21fIQrWx0DXrd6/HxZ7O4MqNlkS/2Z60Y5PgV3TzWcj2QXqNvRgoAjmGyUh4KTf6sXmXF2n6F457eMDWtkiU7Kyr1MarEM=;dWHjse4i3w34rSkkTfo6Ow=="
 ---

@@ -93,7 +93,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 50
+    quality: 52
   - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
     excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
     publishedDateTime: 2022-07-04T11:33:00Z

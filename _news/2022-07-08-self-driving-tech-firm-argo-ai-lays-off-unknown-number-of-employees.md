@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ford, VW-backed Argo AI lays off 150 workers, slows hiring"
+    excerpt: "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow."
+    publishedDateTime: 2022-07-08T02:14:00Z
+    webUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/"
+    ampWebUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Self-Driving Startup Argo AI Lays off About 150 Employees"
     excerpt: "Self-driving startup Argo AI said on Thursday it had laid off about 150 employees as it makes adjustments to its business plans. The company, backed by Ford Motor Co and Volkswagen AG, said \"with incredible growth and progress made in our mission to deploy driverless vehicles,"
     publishedDateTime: 2022-07-08T00:17:00Z

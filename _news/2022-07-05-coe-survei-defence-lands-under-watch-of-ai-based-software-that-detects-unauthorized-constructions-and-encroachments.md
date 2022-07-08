@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "AI-based software to detect illegal constructions on defence land"
+    excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
+    publishedDateTime: 2022-07-08T03:12:00Z
+    webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 37
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "Q/M+KQUhTJYrT6bsU1TQYEsgrZdwKASqgiPTg0aSnMbg2xYkMNU8f5su0s57OkljM3wG03w8MZMwbO3C1TkWsI8iZ/2n3vtuz9krpraitaufiUnzEv8xzPY44+9tvfrY5H6baoOoOtB2bCszvBBBYStFPtWG8MCtGY/sOCTmaXVgZCWHuXXobhLLYgBAb6fOy23ykdU3OgGHVWNIp2U7/QsLsNkGHfHOIarPvJu1YGlTizC3gzy0kIm9dFs4OxhPGcMN5a+80U/814TkgVzTNFZgqK0kOoNZ3QoMcQbepoLu14JTx/GG+uESwGxEEuWWKyInv7eltzdRf0SzLkKXihwb2nkqb3UmsElQNTBfVWk=;c5B7UvVA2yQ+2AFxq7nekw=="
 ---

@@ -67,6 +67,20 @@ related:
         width: 700
         height: 342
         isCached: true
+  - title: "Xiaomi’s car real-life picture shows self-driving features – LIDAR sensors on the roof"
+    excerpt: "Xiaomi is known to be working on its first car, which will be mass-produced by the first quarter of 2024. It was spotted with lidar sensors."
+    publishedDateTime: 2022-07-08T02:26:00Z
+    webUrl: "https://techstory.in/xiaomis-car-real-life-picture-spotted-with-self-driving/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 16
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/07/106859814-1616728027721-gettyimages-1230594866-Xiaomi-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "v7IHfbeK7F3iY17PtX8Rh2kICbOQDyQ8icHfL+0g7+MAspmTpy4qg58yzndV5Xa4ZyreLQ/GNa9NFm3bolnKLS+KI7KId0fBW+U369ZaVpI/jwUfiM/jWxHEwSYgHVg84jtf2AMJKYyFKSaTVcOKCXy8zhMhLFrH8XAcnhPtwuvK8Zu9jufy6NzV3RgZcwrRRAL+k+wA3gwdTv9lT+H5qjsFvVEBp1E+KPio8aCmcyhaTStOoLF2u4TR9xyL9LI0LQTkQE5UAo/VHwV0fNXfFFCH+Ptm0j7W/bFQ7uhVBbLCoeQtMSaMwdn3i2SVdop6atSfY9CmXkJ0BrPInFn8ngQoNtT/zvFC+WrQbGzjnA8=;xP+a37IgC5S95I8nuSehQA=="
 ---

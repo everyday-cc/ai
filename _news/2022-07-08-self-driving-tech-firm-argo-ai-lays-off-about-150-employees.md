@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ford, VW-backed Argo AI lays off 150 workers, slows hiring"
+    excerpt: "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow."
+    publishedDateTime: 2022-07-08T02:14:00Z
+    webUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/"
+    ampWebUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Self-Driving Startup Argo AI Lays off About 150 Employees"
     excerpt: "Self-driving startup Argo AI said on Thursday it had laid off about 150 employees as it makes adjustments to its business plans. The company, backed by Ford Motor Co and Volkswagen AG, said \"with incredible growth and progress made in our mission to deploy driverless vehicles,"
     publishedDateTime: 2022-07-08T00:17:00Z
@@ -58,6 +74,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "ha0bSwL4lxnTL6KKEEXxDBEgUxu6A+qJBhS3GxOLMGea2cUhfExH/oz/52LQN5NwQAMXYgwtz/80h59h4LWb57vL2owzGjFiXDoKIx0HBvUSFl3Rs2Z6tJb8Q8Ku9Nh1yhlnkmfMFUT5qHLtPAQ4c99Bp+Xt/UbxhD26df152Eao69t0g+ITT5pUvrrKZLQzXs9MlFrSuj5zlWHY+pp+fEKdFGO3lJ6cwR7xbn10sYH6AAkJvwNyEr2Xzyt2DgjqrLrndfALj6vxUtse6aD7fBzJJf32LpjHNGJ5870hFxzxkPRq1jCbEvTuJTeSWRAYMPQ/9pRLn2d9U1zaL5tG3AmbjYsXAF9uEif5RXjVmgk=;GYycJSSxraDOkgKiUavkSA=="
+secured: "sNyDaG+u9J3alSJzJgwqqqdACGYfh4udJqsWno4t9WCRwbq6I/2c93PlioONOWyGHRsUvZdti9/5lYe/jC31jzcgj72xMmY5DbCqWDwmAiuUdDo4yWgPlM6ZGmOn1miKtqhc3HYeN6YaZsEfLqkUaFEknaX7x3IUU2IsVCmehVvwG1Lc+rnwKGE6Y+K3GMyQtc/EJRk4hQPhjSjNFmL2VX38He4PbUuQj7EcCfq0d7OVTFh2f48vdPNaTKTw+HZ8mNo4Ddp/ZSiciuSObGFasYdUCUqUJlU0YP3eq/wOVcM8RKhXkYxzEZa7F2a+HflxobzgA2/09U5d4wcHkAjZ2s1I1UgzC9c7/pWV6msu62zhmvgYCecupHLgZJe8MIdsvbSHnTqWNudxpwRhYCEMZB59UozxCbJ7LCqIi+omPoquNVrMvqOvqA/l5WFXX+LIF7N6lgcBFnl/hxJCB/jty+m5ehM2E9SewtRN1JFFbScR0j6ortGIuXmMQCyZdAtU6wvoQI+8R/iLVUnx85krJw==;TBPMZBqhg/UQpKiQQmRkpw=="
 ---
 

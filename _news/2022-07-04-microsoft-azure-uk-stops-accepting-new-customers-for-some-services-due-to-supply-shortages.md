@@ -107,7 +107,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 50
+    quality: 52
   - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
     excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
     publishedDateTime: 2022-07-05T23:38:00Z

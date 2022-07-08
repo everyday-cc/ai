@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/807c80dc-21c3-4a42-8493-d8e32581f451/Rendition/low-res/Content/Public"
         width: 700
         height: 342
+        isCached: true
+  - title: "Xiaomi’s car real-life picture shows self-driving features – LIDAR sensors on the roof"
+    excerpt: "Xiaomi is known to be working on its first car, which will be mass-produced by the first quarter of 2024. It was spotted with lidar sensors."
+    publishedDateTime: 2022-07-08T02:26:00Z
+    webUrl: "https://techstory.in/xiaomis-car-real-life-picture-spotted-with-self-driving/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 16
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/07/106859814-1616728027721-gettyimages-1230594866-Xiaomi-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "8GwYcj1VR+jQb9PdHQg9ji3VsHCcQHPovYpLsF1VRMBwPVOf4b5DyaRydi9neQHNyf4bpDhIZy+YDB2duCFTCrtm/BMWvv0BFZldCQfOo7R+tsX0vjupNgft2DVa9DUYcK2gkkA0m346XzYPf5IeDqzw8SQ6baAKKVDcmSVvPXk/kR/yvzDgGjMPqaFzLsJ03KqEfWmmCizT9UZLeOKEIegX8BQVUq2zgYw+taeUCvOE2VKHOMpDKosSy+WQ9SSBms5QFFaVfFBE+ZRZsm9nb1IKR6VYN5ls3W4sQgHnVpME2jod+thy8Tr2TRvpFDRo81jzk6rUR0ExHxMffVF08WLBK7+zA1rEnAoBJz3t1/PDpbNztAUSBLdfEAJxBOrSn07dAKKXsS/gQStfEyNaAb/qcFlXkzs7cHwQ1JCIoifkF76YUItgZBd70npMMCSC8kIDss7qbYDfTaa0ZWuPRSNNZPlerxVZYNXr496sfJaDd2PyJEsau3CiCSy9WoYvulZXbR0SdMBmhpRO4lUeaw==;QLr6+X6zeJqRwVkUsv8feA=="

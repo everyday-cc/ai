@@ -71,6 +71,22 @@ related:
         width: 952
         height: 636
         isCached: true
+  - title: "IBM buys data observability software Databand.ai"
+    excerpt: "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020."
+    publishedDateTime: 2022-07-08T02:48:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "IBM acquires data observability firm Databand.ai"
     excerpt: "Databand’s data observability platform allows data engineers to tackle challenges associated with bad data at source."
     publishedDateTime: 2022-07-07T02:41:00Z

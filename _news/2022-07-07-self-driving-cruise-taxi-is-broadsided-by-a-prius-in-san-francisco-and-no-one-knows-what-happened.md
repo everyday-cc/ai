@@ -35,6 +35,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NHTSA Investigating California Crash Involving Cruise Self-Driving Taxi"
+    excerpt: "A Cruise driverless taxi was broadsided while attempting a left turn in an intersection last month; occupants of both vehicles suffered minor injuries."
+    publishedDateTime: 2022-07-08T02:28:00Z
+    webUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608"
+    ampWebUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+  - title: "Feds Probe Crash of Self-Driving Car in San Francisco That Caused Minor Injuries"
+    excerpt: "A Cruise vehicle operating in driverless autonomous mode was involved in a crash that caused minor injuries on June 3 in San Francisco."
+    publishedDateTime: 2022-07-08T02:34:00Z
+    webUrl: "https://timesofsandiego.com/business/2022/07/07/feds-probe-crash-of-self-driving-car-in-san-francisco-that-caused-minor-injuries/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 19
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2022/07/Cruise-Self-Driving-Car.jpg"
+        width: 831
+        height: 599
+        isCached: true
   - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
     excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
     publishedDateTime: 2022-07-07T20:41:00Z

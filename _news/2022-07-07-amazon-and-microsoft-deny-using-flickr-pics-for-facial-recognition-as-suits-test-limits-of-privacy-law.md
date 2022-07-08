@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-06T18:25:00Z
 originalUrl: "https://www.geekwire.com/2022/amazon-and-microsoft-deny-using-flickr-pics-for-facial-recognition-as-suits-test-limits-of-privacy-law/"
 webUrl: "https://www.geekwire.com/2022/amazon-and-microsoft-deny-using-flickr-pics-for-facial-recognition-as-suits-test-limits-of-privacy-law/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+  - AWS AI
 
 related:
   - title: "Microsoft Is Scrapping Some Bad A.I. Facial Recognition Tools"

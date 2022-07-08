@@ -68,6 +68,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Xiaomi’s car real-life picture shows self-driving features – LIDAR sensors on the roof"
+    excerpt: "Xiaomi is known to be working on its first car, which will be mass-produced by the first quarter of 2024. It was spotted with lidar sensors."
+    publishedDateTime: 2022-07-08T02:26:00Z
+    webUrl: "https://techstory.in/xiaomis-car-real-life-picture-spotted-with-self-driving/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 16
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/07/106859814-1616728027721-gettyimages-1230594866-Xiaomi-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "IRlDio+qRR1T1hkd/T2a70pK5+DRjlck5OCbdoKxBUCHv7qFpafVXi4U9JTwTViH7tz8H5py9DcoRoFPF/9n0OgLmajDFngRLvHxlNPenu5zDFxdCrO6LDcmNQfXECv4DhXFSQAwYWhjAb3OpQVE4xDskY6tB+C29gwt+GOK7PtHh1813PaIvXru/sl5wHNpAxFTNGJi72w2F5cbkCpgR3aJXL7dLWhWGnLuHG0NxToanWYFvHQFgzhRweHxcpwi309N02N0Lz3q7UweooMamzK9l/49uKhMx3NaevokHfHku1MYNkgHIlCcXl9RIFVohDJlVU9zXE0ZT9d8iO0pgPzdL6ezuBdpuAy2xBYtJkvS91t9i1Ua/cEE28m19BvstiLpPyuf1i3hCQKVr8qI+EvEQaCEw+t1ZA6IoS0I7Q3Nf7R9X3jvGws854dyvEtR6pG+u0Na8fo4TxGOiaca20XGuzdZU4UxLl4v0vQFIOEp2OJt2m7nuD76vdrtig4YF5y49Kz2Np9FOa1IqdbEOQ==;paTUgiISXVZDQ+QAsmQ8Hg=="
 ---

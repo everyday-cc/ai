@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2022-07-07/self-d
 webUrl: "https://money.usnews.com/investing/news/articles/2022-07-07/self-driving-startup-argo-ai-lays-off-about-150-employees"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Ford, VW-backed Argo AI lays off 150 workers, slows hiring"
+    excerpt: "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow."
+    publishedDateTime: 2022-07-08T02:14:00Z
+    webUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/"
+    ampWebUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Self-driving tech firm Argo AI lays off about 150 employees"
     excerpt: "Argo AI confirmed an undisclosed number of employees were cut. The self-driving tech firm said its overall business plans and partnerships remain unaffected."
     publishedDateTime: 2022-07-08T00:10:00Z
