@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-07T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/958187"
 webUrl: "https://www.eurekalert.org/news-releases/958187"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/19afbd9e-3fb8-4cc7-a7fa-98605bd82cbe/Rendition/low-res/Content/Public"

@@ -41,6 +41,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Ford, Volkswagen-backed startup Argo AI bids goodbye to 150 employees"
+    excerpt: "According to TechCrunch, the layoffs account for about 5 per cent of its more than 2,000 global workforces, according to sources familiar with the company's actions"
+    publishedDateTime: 2022-07-08T08:26:00Z
+    webUrl: "https://www.business-standard.com/article/international/ford-volkswagen-backed-startup-argo-ai-bids-goodbye-to-150-employees-122070800464_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/ford-volkswagen-backed-startup-argo-ai-bids-goodbye-to-150-employees-122070800464_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/ford-volkswagen-backed-startup-argo-ai-bids-goodbye-to-150-employees-122070800464_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2015-08/20/full/1440063888-9199.gif"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Ford, VW-backed self-driving startup Argo AI fires 150 employees"
     excerpt: "Argo AI, a US-based startup which works on self-driving vehicle technology, has fired around 150 employees. \"We are making prudent adjustments to our business plan to best continue on a path for success,"
     publishedDateTime: 2022-07-08T06:27:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/8_fri/img_1657255250905_525.jpg?"
         width: 1080
         height: 720
+        isCached: true
+  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
+    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
+    publishedDateTime: 2022-07-08T08:43:00Z
+    webUrl: "https://www.deccanherald.com/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 57
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/07/08/ford-afp-1124858-1657269785.jpg"
+        width: 700
+        height: 394
         isCached: true
   - title: "Self-Driving Startup Argo AI Lays off About 150 Employees"
     excerpt: "Self-driving startup Argo AI said on Thursday it had laid off about 150 employees as it makes adjustments to its business plans. The company, backed by Ford Motor Co and Volkswagen AG, said \"with incredible growth and progress made in our mission to deploy driverless vehicles,"
@@ -104,6 +136,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "SNRk0LkqRDG7uRbag7W3kFXmhT74aim9KE/uJuUQAwcQt2uraxke2+WPvyL+IpyKzsOZc3/JKmt0C54mTKQNKLAZ1O4mWP7h3UTn9Em11bIwZn6lSMp7mEb8rCnlYY7qaz79F5mIZyEs/6NpXrmI0qGxPh9DTnYcK0XfoI1LNGbL6o4z7IAA42dsSgUMUofkvhJLsvoNKOmWYolEMMZ1t/d5CdpFhr4aZt34+/3LNTRBQeBLYl1A71RxUA2st1wyi/7ye5lUrH0mRk2kHFU9j0dlOy9mqevZ5q9aNOR/yVGbNyv1jRsXby7USfphRW16psqVAN237gKOzsdSBlXRezCAA2jNUwMB98I7WULPB0I=;weEtJXIgpduskQbGKQUMOg=="
+secured: "wH/b7NjydmhQ1OJu9p/0GMSIhhvrRELVaujV/kjP4X+pZM53IpOYNQYiFmkAkLcVuz1JyrGGlJ7Tr3oIlbGYyGLEFSfxzCleZ778kUfhnbWdNhj4+RlGGAaIqhbVWXtqbY3qGQ6Ro96CQTXWw9KYfBcz+/hndEEOm5iPyQexaoSXjoziaw1CY6lHxjhXEinBM9MuoesMZrFfkoPnYTGKq/ZJare/cxjQv2NvDhKUuleou5CE7TVjvcl3/hdHDMIg2bX61SbyS0l4vH3KW9DGwoXY12jIz4bmNnQIsmrgHgBJ+A2CVGeXpS0Ry7GnHmqnOXfO9sMdsFRC+Eqs8RQuzlgMmSbxSrVH1vjbNYokLW52TBhfGUA8c/L4O2YApFoR9K/foyAz0wonlVIo/vy0ckxddobGjDSpTFJoCK7VcDgWrE4toNwhGl2WAQt7Fkka5wHFuXzOG1//yjpalgv2b4jyeFFupBhYHVvlEsAll8IYQO0vPEs4LpgA9a0efsfS493HWJ0rGB+lkO10sJ95fQ==;jRLJ7x1Pn0iwOLaJXP4tRg=="
 ---
 

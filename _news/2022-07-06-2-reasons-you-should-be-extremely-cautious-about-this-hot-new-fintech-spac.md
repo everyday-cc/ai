@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-ca
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/07/Europes-Next-10-Fintech-Unicorns.png?x30842"
         width: 1024
         height: 567
+        isCached: true
+  - title: "The best paying UK jobs in fintech"
+    excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
+    publishedDateTime: 2022-07-08T09:23:00Z
+    webUrl: "https://www.finextra.com/the-long-read/444/the-best-paying-uk-jobs-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/444.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
     excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."

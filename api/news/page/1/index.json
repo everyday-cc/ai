@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-08-this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.md",
+      "title": "This brilliant app can turn your text into a smooth AI-driven voice for thousands off the regular price.",
+      "excerpt": "Through the use of AI, Speechnow allows users to generate computer voice recordings in a handful of easy steps. Through the use of advanced algorithms, Speechnow customers can create a voice with up to 800 different variations in languages,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html",
+      "originalUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/07/sale_314201_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html/amp",
+      "publishedDateTime": "2022-07-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-nokia-iisc-open-coe-in-networked-robotics-in-bengaluru.md",
       "title": "Nokia, IISc open CoE in Networked Robotics in Bengaluru",
       "excerpt": "The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),..",
@@ -10,7 +61,7 @@
       "originalUrl": "https://telecom.economictimes.indiatimes.com/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -53,7 +104,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -248,6 +299,59 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-accelerate-aiml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore.md",
+      "title": "Accelerate AI/ML with the new IPU-based cloud platform by G-Core Labs & Graphcore",
+      "excerpt": "By Seva Vayner, Director of Edge Cloud at G-Core Labs More and more businesses are looking to implement artificial intelligence and machine learning into their processes and solutions. Machine learning models can impact businesses across all verticals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
+      "originalUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1024х683.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -950,6 +1054,48 @@
       ]
     },
     {
+      "path": "_news/2022-07-07-how-ai-is-saving-food-waste.md",
+      "title": "How AI is saving food waste",
+      "excerpt": "Retailer Shoprite is using machine learning to reduce wastage, keeping food out of landfills and reducing greenhouse gases",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
+      "originalUrl": "https://www.businesslive.co.za/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/ZTiOm3BNMkBfuCmVeszxIxdvuOCermiGBoJqYXvYSWquB8MZv6IP6kM9lEMot13E5t-2wq4zOXvhhkEqyqA5XWOqStODravM_gaHu4cu9TO1H1E=s750",
+          "width": 750,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
+      "publishedDateTime": "2022-07-06T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
       "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
       "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
@@ -1051,150 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-center-of-excellence-in-artificial-intelligence-at-nsut.md",
-      "title": "Center of Excellence in Artificial Intelligence at NSUT",
-      "excerpt": "A Centre of Excellence in Artificial Intelligence was inaugurated at Netaji Subhash University of Technology (NSUT) on Wednesday. Inaugurating the Centre, Deputy Chief Minister Manish Sisodia said universities need to move away from conventional ideas and think out-of-the-box for the progress of the country to gain momentum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece/amp/",
-      "publishedDateTime": "2022-07-06T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda.md",
-      "title": "Stop working in silos and start driving a real digital transformation agenda",
-      "excerpt": "Here are three actions to reposition leadership so they can drive growth, success and digital transformation within your organization",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/",
-      "originalUrl": "https://venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-764777669.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/amp/",
-      "publishedDateTime": "2022-07-06T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions.md",
-      "title": "Social Infrastructure Startup Intros Raises $1.3M To Automate Community Member Introductions",
-      "excerpt": "As more activities between groups of people start online, the need to efficiently connect members of a community rises for the billions of people across the globe. Intros.ai provides automated “introductions that happen over email,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c1d3a1bc444b00415bfc24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/amp/",
-      "publishedDateTime": "2022-07-06T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

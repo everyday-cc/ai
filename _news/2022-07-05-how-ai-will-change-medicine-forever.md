@@ -40,6 +40,20 @@ related:
         width: 750
         height: 496
         isCached: true
+  - title: "How Artificial Intelligence helps fight climate change"
+    excerpt: "A new report by an international body into Ecological Footprint Initiative, Planet Alliance in collaboration with Boston Consulting Group (BCG) and BCG GAMMA, on artificial intelligence, AI, has revealed that it can help address issues of climate change."
+    publishedDateTime: 2022-07-08T07:52:00Z
+    webUrl: "https://www.vanguardngr.com/2022/07/how-artificial-intelligence-helps-fight-climate-change/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 37
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
+        isCached: true
 
 secured: "QEBAgAtk28s3XVW1XOB6CQAMKiWJWIwlLLAXtBi79GVpVUyey0wpNtcF+Y31HTlxFOTGnQLwaEE3h9gkOrwfnItqKGL4yNy0gSU6K5YosNr67EAHvTOUv9yaOck0d7PcJo2xmU5bQUzZYekOvhE5NexkMsqlBgLuFi/u4EIywjYVGWogzWYIyqV26GW3Z+WnfVaHfX6+hSOKpY7cGvAxjdCgnogqAEHIp9YvQ2u/sCW33LbMm8+2eVubg9mqn5gWXbZoWsgMKxlY88RMj4qXUuAwXs+AeHdjy80k9gCd3VYnlEwsXqQ2KDmki8iTFue5uFTda5IklxLBgrcKp5zw4ak91vK8IALYhkz/1eGmYyYe5FyAcJIBlV6Bq62cahUUDylfe/pEgpUa8O/tbbcmSfFdNwu29iI+3epAl5OW0dWLP+7XAxycqmgN/AIMCxdUjM1OuK3vpVF6Z1loe1O6TzAln/8zCQW/m3lmpHkeZTySHr2746CxgDraBiBdGqVOl16tSa1v++kLHaBnDKkOzw==;9dz7juqer7AAw/qyE6IG7Q=="
 ---

@@ -317,6 +317,20 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "Meta Claims ‘Breakthrough’ in Machine Translation for Low-Resource Languages"
+    excerpt: "Meta AI’s No Language Left Behind project deploys AI model to translate between 200 languages, with special focus on low-resource languages."
+    publishedDateTime: 2022-07-08T08:45:00Z
+    webUrl: "https://slator.com/meta-claims-breakthrough-in-machine-translation-for-low-resource-languages/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 51
+    images:
+      - url: "https://slator.com/assets/2022/07/Meta-Low-Resource-Language-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Meta introduces AI model to translate 200 languages, including 55 African languages"
     excerpt: "In a Facebook post made by Meta CEO Mark Zuckerberg, he expressed his satisfaction with this new AI model, named NLLB-200"
     publishedDateTime: 2022-07-06T21:31:00Z
@@ -344,6 +358,34 @@ related:
       - url: "https://www.socialsamosa.com/wp-content/uploads/2022/07/11-1.jpg"
         width: 803
         height: 419
+        isCached: true
+  - title: "Meta’s AI helps break language barriers"
+    excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia"
+    publishedDateTime: 2022-07-08T08:52:00Z
+    webUrl: "https://gadget.co.za/metas-ai-helps-break-language-barriers/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 41
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/07/meta-language-ai.jpeg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Meta launches AI machine for translation research"
+    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
+    publishedDateTime: 2022-07-08T08:00:00Z
+    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 39
+    images:
+      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Meta says its AI model is the first to translate 200 languages"
     excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."

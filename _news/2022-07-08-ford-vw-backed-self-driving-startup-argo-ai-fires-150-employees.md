@@ -42,6 +42,38 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Ford, Volkswagen-backed startup Argo AI bids goodbye to 150 employees"
+    excerpt: "According to TechCrunch, the layoffs account for about 5 per cent of its more than 2,000 global workforces, according to sources familiar with the company's actions"
+    publishedDateTime: 2022-07-08T08:26:00Z
+    webUrl: "https://www.business-standard.com/article/international/ford-volkswagen-backed-startup-argo-ai-bids-goodbye-to-150-employees-122070800464_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/ford-volkswagen-backed-startup-argo-ai-bids-goodbye-to-150-employees-122070800464_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/ford-volkswagen-backed-startup-argo-ai-bids-goodbye-to-150-employees-122070800464_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2015-08/20/full/1440063888-9199.gif"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
+    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
+    publishedDateTime: 2022-07-08T08:43:00Z
+    webUrl: "https://www.deccanherald.com/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 57
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/07/08/ford-afp-1124858-1657269785.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Self-Driving Startup Argo AI Lays off About 150 Employees"
     excerpt: "Self-driving startup Argo AI said on Thursday it had laid off about 150 employees as it makes adjustments to its business plans. The company, backed by Ford Motor Co and Volkswagen AG, said \"with incredible growth and progress made in our mission to deploy driverless vehicles,"
     publishedDateTime: 2022-07-08T00:17:00Z
@@ -103,6 +135,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "YirOFHkg8bAE7h7QXqOB9uM8T616vah60ToXwUPAtImTWiT6TJhfjPcVS+HuhZg6WZsACddD1b/rONcA1CUMvQOO3JslfgFaqx6YLfRCdZUGoK8u+D2JPCGKjyztwoM5oWUMMuEFEZVbQdHm6Zhw/N3MTqm00KqOvYpfhnnRS2xAHxkg7B+pEWfRrpKdW5x8qmomqleBGkPHkc1qMfdQdte3Te6huQFyze7c5nZYMjli1CX50wqd6nfdHHGMTgOPr4QwsEFannaLANRUH6sA49nMYqhSYM6w6nyN1PfzxHHApGY6t4wLpVwIab54JPTxfrXR93Wz3JD3Eb7/rHQgfeEJDleMk+KfOUEkgte5U1k=;nvZhAgD36eczzUEnTdGAJQ=="
+secured: "DK00NmwWEoiwK5vGGFuXtsOHnz5cKaKeVZDJHL1pXPUv7cjMEKYG6qC7WW0lS1P8+koRjfXjrTYNuTtBwL1G9x39zK/2pwj7NSmfwDOFBeTS9N/QQyvyYBZojsxV55jzNSmAzH1IFJUldtF8+uuYQcQdW//g3wdAGkWhJTN0pOV+hqoH0bhUDJQ9cCRdBY3CNcQSrAmiaQbFMA+EYExeiUPmOlbl1PPTdo37zjSIzEaNiJJg8GMKak3FqZQPYpsLiDxy1Cx9HpkMIjN+nu/SdGQimK3Z5aQmaEYw1IbmThOFDkn3muQXXcwfA9oAsn4kDyuGYoWu7b4oyMVFPyMDvUFN3hvlOzYE7FAhuPs5j7cHBH+ceszlLo5qdYyUXP8qNlRovxeNjydGbKhvxtWVtY+pa8Di+tZPnmwAwHe6DPa2puERshLFiaqEqWpwH6OGsBiJN1R7b7/k1lkgXE1wnBzjyRxmRmncWBaAUEjrMRV0jQIhQSoG2hszxfOI9R1urDAflq1jj+5sT1UH2vK6mA==;ZwZVEJ2c8eMLEl9nGd3Esw=="
 ---
 
