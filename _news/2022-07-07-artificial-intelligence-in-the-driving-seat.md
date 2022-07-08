@@ -3,9 +3,12 @@ category: news
 title: "Artificial intelligence in the driving seat"
 excerpt: "Defence data scientists and engineers have come close to setting a world record time in a DeepRacer artificial intelligence challenge. The participants, from the Defence, Science and Technology Laboratory (Dstl),"
 publishedDateTime: 2022-07-07T07:48:00Z
-originalUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html?play=1"
-webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html?play=1"
+originalUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html"
+webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: Advance
@@ -15,6 +18,46 @@ topics:
   - AWS AI
   - AI
 
-secured: "pqQM8icGI/H4I7CObEaa+TRUbOAKFG5Du2q5w25oUV/l6SVxrdlbgC9g98jyy1lUka+w76dQguLQ9etWR+S0/SwGLbiC8x8lSrPeSC2PwnUaTKJ9RwytX8Ggd53KC2nhi4b8V3BX6TjRPTknnskMQTNmESnyoKNCPWO81V9s7oY+6OhCgOwMhB8rO36V2BuQUoLjn+Ehoto95XxIN9Nvnw3kE9fSAQ6PR/0Oi3254sxSRXjy9vQXIG+M74v6IyNQ20Nq6iw40Sk28+dCRhKErTvPkLAr1dl5wwihckBwqRX4maZuXNEjEPXojZ1d+MINVBTp7Xa07SOBdsWIcVpZxPVG88mHE0ZFewDovTGKY4aPaZXrtpaMTCbPuUJbBoevJH1r/6CldaCJ6yt5oZ+7zXuJ3PeYf/CslHhdAPIvPOsRpn2zdpPl0Wecekby0fF44Mi1VD1R0kEgV6fOyuajld96W0kuO1g037jvhAcXp0vu+mGHSfLwmC9kf0TC2+OB2dcvf4I8iahk97kOfRR1lQ==;h02M3M3RvLyg4lmdg3Ddig=="
+images:
+  - url: "https://www.adsadvance.co.uk/media/images/banners/972.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+related:
+  - title: "The Role of AI Ethics in Network Monitoring"
+    excerpt: "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed."
+    publishedDateTime: 2022-07-07T17:57:00Z
+    webUrl: "https://www.eweek.com/networking/ai-ethics-network-monitoring/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
+  - title: "Artificial Intelligence Eases Network Challenges"
+    excerpt: "Many technology vendors have used artificial intelligence to transform their products. This is evident in areas like unified communications, contact centers and cybersecurity. Yet one area of IT that has yet to see AI play a significant impact is the network."
+    publishedDateTime: 2022-07-06T18:53:00Z
+    webUrl: "https://www.eweek.com/networking/artificial-intelligence-network-challenges/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 49
+  - title: "The future of AI in Sports decision making"
+    excerpt: "We will almost never forget the “Hand of God” goal by Diego Maradona in the 1986 World Cup quarter-finals match between Argentina and England. It is, however, the dawn of"
+    publishedDateTime: 2022-07-05T07:56:00Z
+    webUrl: "https://www.thecable.ng/the-future-of-ai-in-sports-decision-making"
+    type: article
+    provider:
+      name: TheCable
+      domain: thecable.ng
+    quality: 37
+    images:
+      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2-680x365_c.jpg"
+        width: 680
+        height: 365
+        isCached: true
+
+secured: "OAliTisdtJih8DiLmjx5qolxKybEuSCRmJdddwF1JXhUKB3+BfJnOQIcEzqcHj/S3QBLaElIkRHL3OI4eb4jJDASZehLZi1yomSf5BYwXGwslkIxcOeqOi4gzicjDaFmPlEB2YQl/ls7zt4t2Dm6nJO3HGzwj1iQbC0l4qFvhv/5kFzuESAr5i3tsrbIzCGKv2rM3sSmcRUaVtivIJ/ewAU4r0mcXMdAOf7y4AmmnGQL2b4lOW0JvImMMZ5ZCZf1H4CMO6Z61g97vd5GwDzk17je5R1/pQ1hcH7buft7WMz2gY3VD5RjVWNNpmdYzeR52rqEMAE5+d8GdVNlY+gGHRODGngXvHrLt9gDVXHQ7s8=;T92RdXBZ/u06ZzqyHvIezg=="
 ---
 

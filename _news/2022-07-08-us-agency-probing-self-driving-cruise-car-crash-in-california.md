@@ -1,29 +1,27 @@
 ---
 category: news
-title: "U.S. agency probing self-driving Cruise car crash in California"
-excerpt: "The U.S. National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
-publishedDateTime: 2022-07-08T15:06:00Z
-originalUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california"
-webUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california"
-ampWebUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
-cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
+title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
+excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
+publishedDateTime: 2022-07-07T22:20:00Z
+originalUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
+webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: blogs.driving.ca
-  domain: driving.ca
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/07/Chevrolet-Cruise-Bolt-robotaxi-driverless-autonomous-self-driving.jpg"
-    width: 1800
-    height: 1200
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -108,7 +106,16 @@ related:
       name: NBC New York
       domain: nbcnewyork.com
     quality: 4
+  - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
+    excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
+    publishedDateTime: 2022-07-08T20:12:00Z
+    webUrl: "https://www.autobodynews.com/index.php/western/item/26648-gm-s-cruise-self-driving-car-crash-injures-multiple-people.html"
+    type: article
+    provider:
+      name: Autobody News
+      domain: autobodynews.com
+    quality: 4
 
-secured: "mbxlSnHM4/+wKLIrrXsz09/3QnAKTKynzHf3RnMzcq2DonS48Y21F7sngn9otrW/F0Jzv0YfMCjg6up1+mYa0DhKFXWgVMykUV5pVoNSCfyAD7NwTERWgotGCvxMjwUvBEOsYjC2cRqo5HNTm+jR2QuejudoPJWVQwJKoCNUBLB1pOpO7I6NchirUcS69mXJBMEWcLVXu/beAm6WtZiZ0MCOfdsSZJJuHouz6ZQ7nYRIDkaHfITWsc0/Nga9JD2Nbxfk3W+AaYzLocdhH5Av/uMcM6j5Sc6SmlX26OhE2aQ0kgJXdXQRvczeeMkCJcpTh1t3/ecIB5eZwvElrkl2VA5iPGWtZUAETyp0UGNO/Xs3RQr+j8FH+D1DDgdoF5L2b7Q2b8I/CpZJZVepxvdbaDpQ3+cjNnP3aaA4cckA1CA8MdQDLwz0Q2zpTzwpIVWtHYURKPlUog/MfPrKk49x920ILzU4FHSaXFfnX2Ag0O1/jTakVqMds/If0Jb3glJEGXo3dVBUPnRMXwgXY3TzRg==;6YnQVdvh3nsq1WJbr/vnYw=="
+secured: "6q62iB1Hk5bo9crB8CvWg02wb+pRZmg3aOyvywPCZPH8s34KFTuTjHq8/39iZQV8xMeQMI5YpO7NpWV4SLQEmDUMuei4wVc74IAyEikYQVGcxDG2JC5Ohvv9MEc1/UchK6Gs+HjWHFwMH6aUqqTU/YyIaicdB9gibIqyK/Waz0/82jL+HgY9VzkTRCbMjjmpkLyrBmm+kES3C1k2+OFbVxDOigrrzaqe6WKNbDasjMl8lJzHA442GMyWpui5UXuZ5spO8wBeZ/GM8sLOHCazDISPGiCrMrYeH7A4mzYjTK/JqHqOosmcCw+KQWWXXle3vSqjNFajjdEJr9TxbXrqhhv5kjzsWyafwrkBbfr5EMY=;RXRe9W4CkRRcFXSbCiyGBA=="
 ---
 

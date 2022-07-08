@@ -45,6 +45,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Ford and VW-backed self-driving company shuts down DC operations"
+    excerpt: "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company."
+    publishedDateTime: 2022-07-08T20:06:00Z
+    webUrl: "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ford, Volkswagen-backed startup Argo AI bids goodbye to 150 employees"
     excerpt: "According to TechCrunch, the layoffs account for about 5 per cent of its more than 2,000 global workforces, according to sources familiar with the company's actions"
     publishedDateTime: 2022-07-08T08:26:00Z
@@ -198,6 +214,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 3
+  - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
+    excerpt: "Strip District-based autonomous vehicle startup Argo AI LLC confirmed reports of recent layoffs at the company, making it one of the first tech firms in the region to become part of a broader trend where an industry downturn is resulting in many tech companies opting for workforce reductions across the country."
+    publishedDateTime: 2022-07-08T18:54:00Z
+    webUrl: "https://www.wpxi.com/news/business/layoffs-autonomous-vehicle-startup-argo-ai-brings-trend-seen-across-tech-industry-pittsburgh/WYRHKAPAIFEX5LCB6IPHBCU3QE/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
     quality: 3
 
 secured: "3XjsQzZA1PHUgQDs4QB1qMBszPpkFGhL95sEG9mpU+LS6dMpcENtHcsIr+EOfYobcfvG4xw0U0eW29RyDUkA4jnQw8gdh0w2MUlr/HbF2AHZl6XrhUV1xkmEIUkJ3j3OvcdnL+Ne9HdiL2I7aQ/5eRipUGSt8aS/rtxBbSZXPb1zH2ardhwFPYreaFhyS1zcXI5u4nmUIYkIz4hL2ubq+oWi4OQzHb93tMUjZEd1Lnsq3ngcYjBwmFYYXdhxElJm+aiVDHL0IP/U37C5gajHBdD7nlrHHOqZVeIpYbGV+kVKIz5Y72a0MaMR5DuJ1fI2p9iXNTM+izIQJYhfNRS5sYu3UUyC2vSfWwNcUM334DO0o0gwBqy0qA/JA1EPQdNx08xzYjvliw9xEgRpRJH65IVYOaDh0jYc3uGGns7seGtFiJVwVwJpLp9rLbJNz4mWzYlmeOzG0KWc+HI5FR6a0o+hUySefHogx7AU6CVQADt0xpTL5nYy6NRxxWqqssMXUM54jPE4Osj8eK+Js5DRyw==;cOUzDiKnSYedQRQnkpO6Xg=="

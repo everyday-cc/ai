@@ -42,6 +42,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Ford and VW-backed self-driving company shuts down DC operations"
+    excerpt: "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company."
+    publishedDateTime: 2022-07-08T20:06:00Z
+    webUrl: "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ford-Backed Driverless Car Startup Lays Off 150 Workers"
     excerpt: "Argo AI laid off about 150 workers this week, a belt-tightening measure following years of fast-paced hiring. The layoffs represented about 6% of the company’s more than 2,000-person workforce, a spokesperson said."
     publishedDateTime: 2022-07-08T13:08:00Z
@@ -193,6 +209,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 3
+  - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
+    excerpt: "Strip District-based autonomous vehicle startup Argo AI LLC confirmed reports of recent layoffs at the company, making it one of the first tech firms in the region to become part of a broader trend where an industry downturn is resulting in many tech companies opting for workforce reductions across the country."
+    publishedDateTime: 2022-07-08T18:54:00Z
+    webUrl: "https://www.wpxi.com/news/business/layoffs-autonomous-vehicle-startup-argo-ai-brings-trend-seen-across-tech-industry-pittsburgh/WYRHKAPAIFEX5LCB6IPHBCU3QE/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
     quality: 3
 
 secured: "O3pmQ9tOG9C4OEpGyT31WelrngeeLe4hvKY9W4Gj07zi0+1EUS+LJf+1K6MVyuKM42+rrFUCHKYhI08nnbZr+lCeGIBr7xPAScGs3m8qBHiNjGC1ePZ0FiFZ+UJrEZFf6Ya/NfkHc069YI2I/OL5eLd8xXTPz2Qzn/hGKEd8bjVEC2qORRmzML49VwfYT9arqAIcRG+A+9Dikip2+mejcbiRzEC+tYMQXgve6Xquka01oo+LeJLu+W53HzhxzXcQDfPpU4alddgXeEqC2toZ8BjEkg2jE7QujrLPbxMSdZooJPZjbEzKPHnZet5JF9/PitrLQBSGKkz334fyzY0DZlwhAkEiAGPfSgsa2Jb9OPuH2ByHiHqM8ECTpxcU6q7AIa85d4Uv5Bddw6bCswkiGp49sKWqmAv7o6y45hnRTKkW1+rELmwhsqk3LUOVUclgcT1DTH0Fvqvq1fPaHthFD1Ubriu/9aOaQwoKrgNf9HNz9vk8lNZ6mHIeF2gJLt3AL7Ibh0ABNXoN2r6kbF1n2w==;O6P3uchicd53e7q4PsGYew=="

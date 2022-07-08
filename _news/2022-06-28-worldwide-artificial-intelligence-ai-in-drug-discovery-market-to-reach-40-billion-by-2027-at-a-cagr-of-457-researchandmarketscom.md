@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence (AI) in Drug Discovery Market to reach $ 4.0 billion by 2027 at a CAGR of 45.7% - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,"
+excerpt: "The “Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,"
 publishedDateTime: 2022-06-28T10:52:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "kAjljsbqrDacfax2d2kw8P4S3ROj6u29n8Nk0MhVTIa8SWl9J6JDapGQJf7adL5GW8DP1L5PV/zFrGxJXz3PBgDGl9Wiq0sIID3I4ZJ6ryBmTgfg4J52/xYvXmJaTI3IVapgcDNAD2owiCT4dS2eGj0oQOaJSk6UlAXSlZb4r0ua5qfxsKja0sxWhLZDpPkwso2zfO6/a98A/3p8CsW09C/FgMZdRXgcQvO0Gr0aAeb1hHuBegFEQlDzZbcbq6YQAFghNuoAlJ7ffjW76Du1j3g4n9NmM3qnl270Ys2LpYLI3iqXuR1fM6+82N6tMs2IUXfRZGtf7MJGmWJuXyZRH2N1BB1DGzXYgfbBeYnzSwc=;iU6vJptsjiB3neXX2gc6Ng=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "xw5SpdPCL0E98kBcloy/m+1NA26WABQ6napDzejoFkhDo5iD22e89xHDAnPW6/xL6q7m4MNleKZx0wEz9JSRiX3Dw81Fza4bOAhNmj92Cc5BRtB3pPqe0EgEeOF2+tQzQsHxPNlZLclJ36CgzCirSwmxzdV1z1fmf8KFuSAUJS9DEWlXvtAzh67Gf+QtnHem0j9GJrIA0PCwseJ1L0BbC5SU/34Y+IwV6VRpGUqQu522bntCcFOgO+0tEQQ5FL4D1g7RMwPLYIPgYpcF57DcwhjyF1/mV2R97AukfBbDkLSWT1Al4qTCfrqKqm2yHHmeoby/wqYTKfPHZb2MX1RuZiry3vNFJko8z9aGfDC3/ZE=;awT3jtDJUgldC/dRFT3SNQ=="
 ---
 

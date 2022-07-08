@@ -39,6 +39,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Why a Voice to Parliament will benefit more than just Indiginous communities"
+    excerpt: "There has been much talk about how a Voice to Parliament will benefit Indigenous Australians. What is less known is that there are other groups of Australians who also stand to benefit."
+    publishedDateTime: 2022-07-08T20:16:00Z
+    webUrl: "https://www.news.com.au/national/why-a-voice-to-parliament-will-benefit-more-than-just-indiginous-communities/news-story/215f2a34baf114fce23174ecfde90f28"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 1
 
 secured: "TDiLYVEH+iToVSnfbrwhVWrHGdLp++MLTO1OcBprfXZD2xksYiaQQKg3IO/FVkpTFfTkXvsK/PDLGHBPGQF9BRwZBpwTJhFvYxH3CEyrV+mU8iNsWPS6rUZ2ZskOZw2pc4zmfC+3iMZZ8guaehCkK2WaBpbHfLV0VPB9QDWlYA/mGkIPDT5iaYSbGJigaFf4cFD8JMncfbXBNSr/7bWdhYmua0luFOu6yfAoQS68DiFDQWFWNVjDnZvrOPbPZ2Oot9VddgS5SJcrdE3mNarRx5XppyMp7JvH3GTtANWeP5jP7vHLUXBw7CUd28j3iS+HAXfSr58voqDeZv96SLEVVhqRYG34o2V2TQBCCxWz5V5jeW/y9zVbX1BNhTrAL4UWUyQgxm/WLBX73cuJPG51C06oSV5sLL7w/Se9b5yJYt+qjH0hTgIt1/k1fO1jJJtQGb95JqMjE/uqyr1y2MDvIL5fRPm+RX2gP6b5tdIguztwoNsRth247Ubw+OAIbBZ3l0btp0dfwMP1cgl7JgcJyw==;uFALywuomN78oLUM02FKNg=="
 ---

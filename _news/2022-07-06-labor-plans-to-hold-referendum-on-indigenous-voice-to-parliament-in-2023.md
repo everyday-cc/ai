@@ -40,6 +40,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 4
+  - title: "Why a Voice to Parliament will benefit more than just Indiginous communities"
+    excerpt: "There has been much talk about how a Voice to Parliament will benefit Indigenous Australians. What is less known is that there are other groups of Australians who also stand to benefit."
+    publishedDateTime: 2022-07-08T20:16:00Z
+    webUrl: "https://www.news.com.au/national/why-a-voice-to-parliament-will-benefit-more-than-just-indiginous-communities/news-story/215f2a34baf114fce23174ecfde90f28"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 1
 
 secured: "CrkJKX/mqbcI/UEFgn9apioOjsGvjs/W3v0wCq1kuuYkgxob9N9G39dfOjrH03W86N/DBfi2+qBotVb87pHMw9P1of5x3J+eIqXdrOBhQUbAJ02PXu32pCgepSRK++zcRatuuWBvTh+GRO3SjeX0XSEycP/Uugg/woaV/VS4IO/uQ86OR1iiZ0TqpLe7g/mdbdw6TZKwxJ0LCFDZYruUBRl3kyi1orDOeGmtXrriVTOytGj9cYrG+OKOnMS6WOATnZh2NZs9nB4jwglHM+ntLoiiULEEYEOihBFPMKcECqxObM4/gD3uzA41rBMMOiXX9b6Etu6reF5rlz6U92m5uKp/FDyslT84rj+vD4hPSK0bkXq1WIv/NbLdzrXxi6P6+85xhtP973AAxvW4ZlIOyh5Sxy6p5KWPKbY/CCEpagNoD+5gp6xxQvzBF6tJT53vmrwNzpbgTqceZRsCMB3SMFk1C5tZqEzO2YLEa4yCDHTmIzclC9xr+MNXf9zKddQxwEoLjEtstuhqZ7hpWOBUpQ==;gSNvvGn0+Jh6ACPKneUHNw=="
 ---

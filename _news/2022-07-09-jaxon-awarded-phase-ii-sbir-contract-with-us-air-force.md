@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T18:24:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de"
 webUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press

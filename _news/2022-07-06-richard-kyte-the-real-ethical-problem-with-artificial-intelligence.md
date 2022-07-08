@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T16:45:00Z
 originalUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
 webUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Fredericksburg.com

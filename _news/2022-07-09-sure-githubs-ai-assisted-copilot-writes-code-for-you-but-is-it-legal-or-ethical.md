@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-r
 ampWebUrl: "https://www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:

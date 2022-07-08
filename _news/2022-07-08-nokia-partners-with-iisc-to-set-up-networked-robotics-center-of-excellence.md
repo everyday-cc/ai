@@ -95,6 +95,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Nokia partners with IISc to set up networked robotics center of excellence"
+    excerpt: "Finnish telecom gear maker Nokia has partnered with Indian Institute of Science to set-up Nokia Center of Excellence in networked robotics at IISc Bengaluru. The Center of Excellence (CoE) will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),"
+    publishedDateTime: 2022-07-08T19:20:00Z
+    webUrl: "https://www.dailyexcelsior.com/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 32
   - title: "Nokia partners with Indian Institute of Science to establish Networked Robotics Center of Excellence"
     excerpt: "Nokia and the Indian Institute of Science (IISc) open Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru."
     publishedDateTime: 2022-07-08T11:43:00Z

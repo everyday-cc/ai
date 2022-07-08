@@ -65,20 +65,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "How Bias Can Creep into Health Care Algorithms and Data"
-    excerpt: "Health care is rife with bias. Without careful attention, AI will perpetuate those inequities."
-    publishedDateTime: 2022-07-04T05:01:00Z
-    webUrl: "https://www.discovermagazine.com/health/how-bias-can-creep-into-health-care-algorithms-and-data"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 26
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/24PzrDX6O8yckKsrDbk9AB/f6f2045a9852947f725a93f4e510217e/Medical_bias.jpg"
-        width: 1188
-        height: 924
-        isCached: true
 
 secured: "Y9ENrEbdBOQ01QHkRUBX3AlpguHZNVi1+FYn+vYxVoBYJiFLrWV7lUktUruviXqbkMO7/pcdbRy/LmJ2GLvoGv/qbD7UtopkoiKVYlgXgLiNCoBEehavOVHzFtymrvuc91aijIj0OCTTJXOuaMZDkfQ+MtV/Zu2mysyCP62oOXCn+4F7sIYpBFmG8riUqXOPWzeiGDfcpVuudjhp+JWS3QQlXEninWeo5Y+p2lHPyIrGBHTCtk5v3oviRY1Tvc6JFDBDz13CsYe4Vb5xZ59eA5RXtJVtBMnDLrCYHHARkWm0mvuTIDf90CTrKSp2ZUFHxIzo33ZdlzLwOGmnBbzEGBviKr8Z3S5M2xzJRPHg2GSQaaCKQqFS32WhrDTNrNMVRNhMF1/U0qBLEj+OX1gKvwFJf7pSo5JtuZwqPz/V2An4XEq8RWsUW3RB3ZhaHfHbFyyWWAqZbv+E0ejoknMcEShFC5c/mNbqP8d5IDeKka+sUS5zs5QYH0FfzB7dmPdihWCNrxahGhi+VeZ2lEvnjw==;5AcHVJ6cj4HWbww6d5RCeA=="
 ---

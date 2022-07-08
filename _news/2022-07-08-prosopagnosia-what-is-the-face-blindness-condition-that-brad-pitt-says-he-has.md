@@ -71,6 +71,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Yes, face blindness is a real condition"
+    excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
+    publishedDateTime: 2022-07-08T21:51:00Z
+    webUrl: "https://www.12news.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+    ampWebUrl: "https://www.12news.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 44
+    images:
+      - url: "https://media.12news.com/assets/VERIFY/images/a4afdbd3-5585-4f46-a600-33887839fe06/a4afdbd3-5585-4f46-a600-33887839fe06_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Brad Pitt Says He Suffers From Face Blindness—What Is Prosopagnosia?"
     excerpt: "Brad Pitt believes he has undiagnosed prosopagnosia. The condition affects a person’s ability to recognize faces. Pitt said he has struggled with it for years, and that it has often made him come off as egotistical and smug in social situations."
     publishedDateTime: 2022-07-08T11:30:00Z

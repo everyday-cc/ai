@@ -41,21 +41,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "U.S. agency probing self-driving Cruise car crash in California"
-    excerpt: "The U.S. National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
-    publishedDateTime: 2022-07-08T15:06:00Z
-    webUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california"
-    ampWebUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
+  - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
+    excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
+    publishedDateTime: 2022-07-07T22:20:00Z
+    webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
     type: article
     provider:
-      name: blogs.driving.ca
-      domain: driving.ca
-    quality: 44
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/07/Chevrolet-Cruise-Bolt-robotaxi-driverless-autonomous-self-driving.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Server outage causes Cruise self-driving cars to block traffic"
     excerpt: "Around 60 autonomous cars began behaving erratically and ended up blocking traffic in San Francisco due to a server outage. Self-driving car company Cruise, which is majority owned by GM, had an outage in late July that caused traffic disruptions around the city."
@@ -107,6 +105,15 @@ related:
     provider:
       name: NBC New York
       domain: nbcnewyork.com
+    quality: 4
+  - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
+    excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
+    publishedDateTime: 2022-07-08T20:12:00Z
+    webUrl: "https://www.autobodynews.com/index.php/western/item/26648-gm-s-cruise-self-driving-car-crash-injures-multiple-people.html"
+    type: article
+    provider:
+      name: Autobody News
+      domain: autobodynews.com
     quality: 4
 
 secured: "0rDwo8JOCALtVMDS8o+e6C/bqXZTbzNgeMf0jovSaI30Q+xkR/asnYRpXRmzQz0D3R2nYCnGizVzRkLl+hf2eYfYeEyQYdjulXYijby+NxBsBKCn5YtOftgzt+TL/PnXhP8YP9IEonKgaTseiCU6q9F0qkmRjT7hDWqtNGLrTGqc7YzmY3eH+G0sHbXNV+KoHt9fUrOq1LlgdSbtdxkEMRpx9Lyml1s0+Rn0QlrmMBU7aAJwhbSYKnOu/LumoZlhhu+EHPMS3KHDY6ln5tUP2i2Gsx9SUdEyO+Jil07/isRzmt2S3UlBzoM4U5pCozu2dxqT/ZJ/CENU2TkOIo561wg+JTAK0gB23Qir5OexWXo=;VBI8CwNX6IS4k9//fMO8Bg=="

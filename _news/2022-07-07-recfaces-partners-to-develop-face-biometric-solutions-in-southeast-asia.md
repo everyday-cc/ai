@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1812
         isCached: true
+  - title: "Face biometrics vendors Oosto and FaceTec identify limitations to NIST FRVTs"
+    excerpt: "Oosto is the latest example of a vendor pointing out the limitations of the highly-regarded FRVT from NIST, following similar commentary from FaceTec."
+    publishedDateTime: 2022-07-08T21:25:00Z
+    webUrl: "https://www.biometricupdate.com/202207/face-biometrics-vendors-oosto-and-facetec-identify-limitations-to-nist-frvts"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
 
 secured: "PvBZtk2TQuJ/7FEUjxY662w0Cje59djYkEiNAo5310E7DZafSsFOja82w7VvCvt0egzeutSFlCTegEchFeK5rfs9TDQxBCu3sClHIVMHUO5QuLFAhB/FJv5OdeLPkXnax+9IfD2Hz7XfcZaR9aSE9YxYWFOgK9WVVZZERQlBndu8iM8Y4s0qpNquqk0VScBaHwO5UfUGkLEcuubbM5omjo72Wh7GFDmpHmi2azjTAINw6SxSTgxoXv4FDPV5KulxXh+v7PTfLwV1DOJRIr4fA2G0JacC3lKM8zWIO7NEjjhbjIDEGuPI9SXZlLra2/lwnmmL9lFlgKwMzuNoHPwrtNzwmdE5JXmAgvqbMgShLMo7UfPEkm5/C4k0haj+ixVNheZ8sikDSl93tgg4K0NILDak63vLgTzJfdxAntF3KijT6ndwdT+uiRCCc+XmVIRPMPNcA8uoLTlAC9KbylyfWb09M8ejp14vxyrlvbEbcu0TXbQa+zMLPTUwDV2Mh2pc52MYJqHUXvhOI6nAPmDjoA==;LYHrBJIdHoH0ZEegUz31Sg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-06T12:35:00Z
 originalUrl: "https://www.fastcompany.com/90766642/this-ai-algorithm-supposedly-predicts-big-city-crime-before-it-happens-is-that-a-good-idea"
 webUrl: "https://www.fastcompany.com/90766642/this-ai-algorithm-supposedly-predicts-big-city-crime-before-it-happens-is-that-a-good-idea"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Fast Company

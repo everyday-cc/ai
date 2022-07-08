@@ -67,20 +67,6 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 33
-  - title: "How Bias Can Creep into Health Care Algorithms and Data"
-    excerpt: "Health care is rife with bias. Without careful attention, AI will perpetuate those inequities."
-    publishedDateTime: 2022-07-04T05:01:00Z
-    webUrl: "https://www.discovermagazine.com/health/how-bias-can-creep-into-health-care-algorithms-and-data"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 26
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/24PzrDX6O8yckKsrDbk9AB/f6f2045a9852947f725a93f4e510217e/Medical_bias.jpg"
-        width: 1188
-        height: 924
-        isCached: true
 
 secured: "udWuQKKseeSVWtzMOrTPUIOVX5DG/uewEAeK52fecpQQL1CxXQ6hmDilj1kSEfxkLUiRAdgDCo0K9rd3jsQQIj2j+rjyZ7PikA+usAViogn+IDK6DgSjE2UTTpTpdV/B5L6c2STKymhRmb94yR/nFzh1VQzcn36CfDqthjdAHt/ZdbBn2W5c/pnKaRF2bjx95TafqsHRhjysWKz/kfcK77B2z3K/fd3j1mntdoH9iTTHNnnOoTg8PO3VyPyHYc5KTkxKOMqDfiWZEljXrRYbDHXQrghunxePfNL6Oddg/SWXeqxWW3AFBfP4ZxYnWpqIsXdEPuezN3Qs7OUx6oBaG5aRrMIjw8O3QyxFz2S7gA6VWJsEMadz4C/srJy//AjKbFbO07azOuffBTKr1zDy3Cr0C67k26XHlwX6hWkriJvPbgp0PlI5JOMe8bp8hWlM4yauyGNGO0XDgihK+kQbvrfKhRdRksZ6YdWCPNT4z7Tv9KMtx6nnD1d5HrWasDcG2icXaFdKYELJ4ciWyS6+tw==;okzf+6myWZls9X8P0HvsPQ=="
 ---
