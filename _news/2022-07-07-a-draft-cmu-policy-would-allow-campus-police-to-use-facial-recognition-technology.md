@@ -9,8 +9,8 @@ ampWebUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-ca
 cdnAmpWebUrl: "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Veterans Services
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Government rejects Lords proposals on police facial recognition"
+    excerpt: "The UK Government has decided not to follow most of the recommendations made in the Lords Justice and Home Affairs Committee's (JHAC) inquiry into police technology, which advocated changing the way law enforcement agencies use AI and algorithmic technologies."
+    publishedDateTime: 2022-07-05T08:05:00Z
+    webUrl: "https://www.computing.co.uk/news/4052389/government-rejects-lords-proposals-police-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/2b75531/5f686a71-7942-438f-9f9d-b43a83da6d7c/8/eye-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Give accurate info on facial-recognition technology: CIC to Delhi Police"
     excerpt: "Criticizing Delhi Police for giving ‘incorrect’ replies to RTI queries on the usage of face-detection technology, the CIC has directed Delhi Police to furnish revised responses seeking information about its use in the investigations of northeast Delhi riots,"
     publishedDateTime: 2022-07-05T13:45:00Z

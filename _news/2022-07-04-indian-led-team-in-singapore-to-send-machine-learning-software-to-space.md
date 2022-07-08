@@ -43,6 +43,15 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "Teachers as driving forces in transforming students' learning process"
+    excerpt: "School students have characteristics that differ from one another, such as their learning styles and self-development requirements, with some being either"
+    publishedDateTime: 2022-07-08T13:34:00Z
+    webUrl: "https://en.antaranews.com/news/238425/teachers-as-driving-forces-in-transforming-students-learning-process"
+    type: article
+    provider:
+      name: Antara News
+      domain: antaranews.com
+    quality: 4
 
 secured: "P9dgFxmsAwEAHsseGC7yWtMCnyhfoE0b5k4DGdRW3u0RlbK2jncOhERXGEoORU28rwzb2Ha8L7J0ehZLgFWngWVM3kPsWj+iCCITDUlsi2GPCUrChSsUxFzaTw5F23gXHQA+/6fBxpU0Ff2tuev+PFwncD6GMRA5PxTgOfhlR2d/VtgQB0xR131ePQPEBQKtWXqO+mRaX28KaTN7ljbyMx+yicwVg+FR/c3IRAz1ICrX7TVCeSXSvD+RrUmIpOWJCX7o3c5c8fhHP/kA5eNxG33cwllPzbGHeVUn/Oudz3/T1JjqEI2+Ur4BA5MBpJHKgMU8e5PkgyPEYFjCNRfiOzHrA2Gpe45NFVozEKop2ZjhZGjXEPU6P5K7r+q/GuD/ZufTZSKWE4uBcChrRhjwKAWriB+OzAokNJjwWhRTE/t6kgsugMAukE46NgZtxzj9pCqfA7CgjFp8abPzsSDj6t7i7nVV7dNxAe43xPn785XC6/iMr94Lm0Eu++mBtQN4Jh0dG6sqW2ZDinNN/2NCrA==;ppd1K72FX1wRbpzhlrYzEA=="
 ---

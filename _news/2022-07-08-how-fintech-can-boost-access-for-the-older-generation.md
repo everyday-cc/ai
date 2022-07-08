@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T12:47:00Z
 originalUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
 webUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Raconteur
@@ -14,6 +17,70 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC"
+    excerpt: "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022."
+    publishedDateTime: 2022-07-06T09:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
+  - title: "Europe’s Next 10 Fintech Unicorns"
+    excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
+    publishedDateTime: 2022-07-08T05:00:00Z
+    webUrl: "https://fintechnews.ch/fintech/europes-next-10-fintech-unicorns/53783/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/07/Europes-Next-10-Fintech-Unicorns.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "The best paying UK jobs in fintech"
+    excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
+    publishedDateTime: 2022-07-08T09:23:00Z
+    webUrl: "https://www.finextra.com/the-long-read/444/the-best-paying-uk-jobs-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/444.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
+    excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."
+    publishedDateTime: 2022-07-07T16:48:00Z
+    webUrl: "https://www.financial-planning.com/news/meet-the-fintech-trying-to-eliminate-crises-for-financial-caregivers"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 15
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/edb22d1/2147483647/strip/true/crop/5120x2688+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F15%2Fdc%2F33315c51428bb4c9dab3f9825160%2Fadobestock-225777852.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "e& to transform UAE’s fintech space with new financial super app"
+    excerpt: "As the first wallet licenced by the Central Bank in the UAE, e& money will aim to enable new growth opportunities for the telecom and financial services sectors. Through the rebra"
+    publishedDateTime: 2022-07-05T13:44:00Z
+    webUrl: "https://www.itp.net/business/e-to-transform-uaes-fintech-space-with-new-financial-super-app"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 4
 
 secured: "7oChLEo4rlVBOJrnccOiCEJABj/mge6BoEC72wTADNR3xbUu3DAHPbWB0NQMc/rqAIXC5wrhzlU/qETWEjRzo03+ptR9O9GZEVYGCbolrtwUBg4CK67fC4H4gjA0HR4zaSXx2glS3dTIAN0rRcy1jyv10KclIOA9fXsyak8KLku8N5ebIkigHKJjatN/ytjDp4wPuuHxrxqn8aQ8diOb7yV/CqPPEEDaZYH42RQYMc1s6qXWve3QEaFk2tHBI6Y4+TsuyvAdTxdPkx6zaTmksjGVe4DZXulFr62OP/DfMOAJ7Jar1ATEx7Si/JVHo/RKwHMbQAWrkk6gQfG5AjGwjGgp/zOcA9cJYCwg/vtqaBCrHcGlN7o2QQkbjaj6UoLwrGgqCVq5eXNMjnja29mfoqhNeq75wuU7seuFHOIWMUFn8UD571sZ4b35cZX3pcD878LVrXmFqwl6eLE8f7TBW0F0X+WGImFWk4CZ/bsjhncj20+ks8mkC1Ggydgy4H0ZPHnn0FcaZPEzsy3AKZl91A==;OrammcgEqPF1ccKAr44r3w=="
 ---

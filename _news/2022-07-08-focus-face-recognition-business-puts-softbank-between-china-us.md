@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/softbank-jcv-facial-recognition/fo
 webUrl: "https://www.reuters.com/article/softbank-jcv-facial-recognition/focus-face-recognition-business-puts-softbank-between-china-u-s-idUSL3N2XH17R"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 800
     height: 555
     isCached: true
+
+related:
+  - title: "SoftBank under pressure over links with ‘blacklisted’ Chinese facial recognition firm"
+    excerpt: "Softbank is under pressure after it emerged one of its subsidiaries, which sells technology to prominent US enterprises, may use facial recognition systems sourced from a Chinese company blacklisted by the US government."
+    publishedDateTime: 2022-07-08T15:08:00Z
+    webUrl: "https://www.techcentral.ie/softbank-under-pressure-over-links-with-blacklisted-chinese-facial-recognition-firm/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 32
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/07/SenseTime.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "SB3+YEYHBf0rKKmOrdvwC45odumixjnQmwgokhD3DGvX9wX6PQkCG6a+OE3AwGJRr/60R5tenttorjiO6H9PmWRtppLGm773uwPZ9RDj1M8o+E7elRt0WfDYO5tluhRWTG5cRlr1223A/c/B62jiNR9aM5lK8zDJePkFXVJegqTXrNqsfztsuyHhZ+JXlpnSpT7eNXFDIgiBet0VoOeuwF6UnHsNSvQbBy/3uQkC+fMc1snAbBKjittUmrar+Wp1ReEqUw/cklFmxvC6q329cRy3tgyAchRZ5ejU+O94lKeIsgQ6gBgkqFTm0uHMoZXDV9x1Z6jbCRkdTudCtiqdqA8DTD2DpAgx2YLl9M2AgZM=;OEf1Q5NxAfClzJ3Jmxs5lw=="
 ---

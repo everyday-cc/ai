@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How fintech can boost access for the older generation"
+    excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
+    publishedDateTime: 2022-07-08T12:47:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 4
 
 secured: "bnRbTjXDmpLvsPCvlsNvYmt8FyXMtuDwr1MCSanPiZJx8hKeOkTgkSRGXJE0FPE/yRnxj3ylzEWuJ2uFfP7afNetYp1XjblbTzyUE8XFmjTlQ5zbqt5wfLVUYUXIg8DzCe7Kxd6yUL6EQtK2X/wuA910h6doY+XeYIMGFi08jqL27uzrwBxjBf6Coo3rUb1+u5oWm6Ns3s6FVJvRDIVD+zHEimLtU6gdzPRIl7YNAuTyeNjnmP01gMnMQKDqyKudRyzgNnNgmMu8zex13yYpg4vVJJM+q8ND3SVCQo9K29dW4VV2qgJQ9QfaDC+GhCU94lt0D+pWSo51AgfMB2v/SiB5s1VJ5uYv5q3k8Vp0SAtlIL8Dhku0vowF0COLdw4SKFh4Kh/mmnIOOzF7LPOt0zfM82BrDuN/oZKIfkbzE9RE7FUs2dDCDT98PVgG5PRtBe3irIVpJhp1GHayDc6rKFOy9DNfa3ZrHUMxhWHMGAr4MM61AoKx5LmcH2nX+y0hr9lfvaKj+hsiSXaF9EppSA==;eWn5kjpCQgB91JELk1N1cQ=="
 ---

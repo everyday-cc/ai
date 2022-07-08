@@ -62,6 +62,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
+    excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
+    publishedDateTime: 2022-07-08T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28001567/chatbot-market-worth-10-5-billion-by-2026-report-by-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
   - title: "Autonomous Data Platform Industry Forecasts to 2027 - Rising Volume of Complex and Unstructured Data is Driving Market Growth - ResearchAndMarkets.com"
     excerpt: "The \"Autonomous Data Platform Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022-2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21."
     publishedDateTime: 2022-07-06T14:28:00Z

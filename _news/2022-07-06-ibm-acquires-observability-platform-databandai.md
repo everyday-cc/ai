@@ -88,6 +88,15 @@ related:
         height: 390
         isCached: true
   - title: "IBM acquires data observability firm Databand.ai"
+    excerpt: "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ..."
+    publishedDateTime: 2022-07-06T16:56:00Z
+    webUrl: "https://www.infoworld.com/article/3665758/ibm-acquires-data-observability-firm-databand-ai.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 49
+  - title: "IBM acquires data observability firm Databand.ai"
     excerpt: "Databand’s data observability platform allows data engineers to tackle challenges associated with bad data at source."
     publishedDateTime: 2022-07-07T02:41:00Z
     webUrl: "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/"

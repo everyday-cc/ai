@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/feature-engineering-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 54
+  - title: "Onboard PaddleOCR with Amazon SageMaker Projects for MLOps to perform optical character recognition on identity documents"
+    excerpt: "Optical character recognition (OCR) is the task of converting printed or handwritten text into machine-encoded text. OCR has been widely used in various scenarios, such as document electronization and identity authentication. Because OCR can greatly reduce the manual effort to register key information"
+    publishedDateTime: 2022-07-08T12:29:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/onboard-paddleocr-with-amazon-sagemaker-projects-for-mlops-to-perform-optical-character-recognition-on-identity-documents/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 44
 
 secured: "VkskVgVVXkDXQn7uEFPuPx2AKFGEgT20/RNic7LiRqVOOJ5peRoCjfUh/MXuvQSJgLtyqN2tdzInjLS/QT32Z+IfJHKcdA8J45taBoYe0ZLTncnpPpiRA6azYZ1RIGGJZ5L9A0QRnjIjwb5R03tj+a4dF6RZ/ASC/YZFbE2WX74NPGbRrlotHo8ZXdPwR50Y2njg3e32Gy1Z0fBgtMIRoOcSzdu34V/iJipzOJUuDAe+HmkW8mpUGPvoi7uodAzuwlKLXLHyRZqs1Fl99QNJGmkoq3dwe76Q7Akuu7RX7glRHG39ou/r9PtxEeUpXxvDfOr/wprrLkTwgwAPQnnomiAXxWtLCFbavu9JrDGfgJU=;0Tr87sovm8rJY3pKZWoOMQ=="
 ---

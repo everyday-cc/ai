@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
-excerpt: "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,"
+excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
-webUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
+originalUrl: "https://kearneyhub.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f5f3b3fa-f35e-513d-8b21-c97b23b94cc7.html"
+webUrl: "https://kearneyhub.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f5f3b3fa-f35e-513d-8b21-c97b23b94cc7.html"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: Kearney Hub
+  domain: kearneyhub.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI Ethics
 
-secured: "PLgCEqSiTFOjLbZ7OfQsEvNF3d6DRSY2Hv7Szr4SLdN3EAJpsYiHgCZZwqkH6K3e+K8cYuQGuqZdG7Pc8PCSkrfb8ZHrvXOCgDpY4/UFxS3i7kYdWlrG1R/hKXnWNfE0cZHcd9DAlIo7fA/KpZWG8d5XOR4rNHvs8RANVtpfLdB2WVX7LwarhwCS7wauosE62fiGJ6CoX5kssSPwSeeXFWWdt0PdWHOExWRzF/ULw/XuYN9JMHjbNCxFFUfREegnK6AZKSlX4EWs7y8rmLG5G+YP6NecL8dG4ODPoZBS0/VO1tCX5G7xFdFmK6TlcS9IZfnNJvZxZRbXIraCTVjYXGxenheGkZvdXW23tAfjiTBXDbQGh5RStEmiGxa+g3bVg/vgVDN/UpbkLaq5vqextQi/+8J4AQR8Nhwrho3PMIxlTOMOiH1KCY0zupDu11k3hkHryjUusHhc2OklSSjt5dGks9AwyjauYT9Pb4i5ADNK3JWzD4ADjtItnu1PfI1pqPPyuS1VTgD7N7sJQxbXkQ==;fr+eXl16XaeEnbmcCOPdhw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/kearneyhub.com/content/tncms/assets/v3/editorial/f/5f/f5f3b3fa-f35e-513d-8b21-c97b23b94cc7/62c454edbfd08.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
+    width: 749
+    height: 393
+    isCached: true
+
+secured: "ShWSGs95gwZykuVLH1eF9qIozcpfyNk9FwVjhsmnfsWwDx2EaOn399HP1ehWQE4HTZK7Rp62cdicbLPuwUp8IzNyCM0FYwY835Zr4FDGcVHICxTDHaKYTCiLwJndbGhOAPPjiVLhfu1WOWg8pWVZMLkq70uzqFbcKZPT8YTYOOuO4JXDkWjniD0PTgEqJA2QY1ztrm/cZQkMNGEQAc4JrM61p/W43uyC7K+//vNJlenEjvvX8gVJQukd24ORtslUfcNggkYXxg7WZfxoc8yEVCiNYzo7jAz5N3bIo+Ckcfu5IPwDto68USaY+hNEyZdJ5nFD0pzGJ8u9vTommKkzdS1Ny8KEvEzX/RWkP7iy7tg=;zw+pkzbVxqry2L41CyDPjQ=="
 ---
 

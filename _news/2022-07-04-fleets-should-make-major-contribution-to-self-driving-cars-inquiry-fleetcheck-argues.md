@@ -41,6 +41,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "U.S. agency probing self-driving Cruise car crash in California"
+    excerpt: "The U.S. National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
+    publishedDateTime: 2022-07-08T15:06:00Z
+    webUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california"
+    ampWebUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/07/Chevrolet-Cruise-Bolt-robotaxi-driverless-autonomous-self-driving.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Shenzhen Lays Out China’s First Rules for Self-Driving Cars"
     excerpt: "These are ‘hands on’ shared control, ‘hands off’ autonomous driving where the vehicle can perform most functions itself, and the ‘eyes off’ and ‘mind off’ levels of self-driving autos. Self-driving refers to Levels Three to Five of autonomous driving of which Levels Three and Four still must have a safety officer in the car."
     publishedDateTime: 2022-07-07T07:39:00Z
@@ -54,20 +70,6 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars/16572102904517.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
-    excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
-    publishedDateTime: 2022-07-07T22:20:00Z
-    webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
@@ -83,6 +85,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
+    excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
+    publishedDateTime: 2022-07-08T13:18:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 4
 
 secured: "gdYTTt4Qj1pAdSdX2D3gcwdoAYUkLTaIMT/m0A1JyykdRb2fFfuxiV5uYBb8FwdhXC3q3Rb3jF5lFiWImcz+gBhG4zEEncfmphuaqO/DkhjZM9fAaiS0YypLaeUoh3ALYFau6uWVgeOWS3OUF8d3D1FZAFprwS7AjFiLlQphuUwGOGTG6104W2NI87fiOiU+9i+Zz0EKJMqQxUpuYk/Chv85YrU8a2kIQPLFDBgcbH7UCaKlQl4uuN98Wk/pJJrm9vQXoYrq66NINGGY4GQmjUC4tsINDtNyCHe3S8cyAq9ogxL3i8zpwbgwLvuT5ajENrWy0oi9a8j3Zd4jhWV4KijqlSRT/rY9nhYo1NPDckA=;2GQMqQwyZmecylvz9FbI7g=="
 ---

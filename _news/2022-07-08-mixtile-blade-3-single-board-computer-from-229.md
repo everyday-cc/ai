@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T10:45:00Z
 originalUrl: "https://www.geeky-gadgets.com/mixtile-blade-3-single-board-computer-08-07-2022/"
 webUrl: "https://www.geeky-gadgets.com/mixtile-blade-3-single-board-computer-08-07-2022/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Geeky Gadgets

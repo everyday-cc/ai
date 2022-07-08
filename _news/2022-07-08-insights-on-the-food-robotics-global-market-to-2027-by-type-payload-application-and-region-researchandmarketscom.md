@@ -48,6 +48,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
+    excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
+    publishedDateTime: 2022-07-08T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28001567/chatbot-market-worth-10-5-billion-by-2026-report-by-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
   - title: "Worldwide Radar System Industry to 2027 - Featuring BAE Systems, Dassault Aviation and Raytheon Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The global radar system market reached a value of US$ 32.3 Billion in 2021."
     publishedDateTime: 2022-07-04T15:20:00Z

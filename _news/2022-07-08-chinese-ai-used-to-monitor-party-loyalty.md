@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chinese AI tool can ‘check loyalty of party members’"
+    excerpt: "A new research paper published in China purports to have shown how an artificial intelligence (AI) solution is able to check if people are loyal to the Chinese Communist Party (CCP)."
+    publishedDateTime: 2022-07-08T13:12:00Z
+    webUrl: "https://www.techerati.com/news-hub/chinese-ai-tool-can-check-loyalty-of-party-members/"
+    type: article
+    provider:
+      name: techerati
+      domain: techerati.com
+    quality: 19
   - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
     excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
     publishedDateTime: 2022-07-04T13:34:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-07-world-self-calibrated-photonic-chip-in
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.amp"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Develop Self-calibrated Photonic Chip"
+    excerpt: "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways."
+    publishedDateTime: 2022-07-08T14:11:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip"
+    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 61
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg"
+        width: 500
+        height: 240
+        isCached: true
   - title: "Australian team creates first ‘self-calibrated’ photonic-chip"
     excerpt: "Researchers at Monash and RMIT universities in Melbourne, Australia, have led a project to develop an advanced photonic integrated circuit (PIC) that builds bridges between data superhighways, which the team says will “revolutionize the connectivity of current optical chips and replacing bulky 3D-optics with a wafer thin slice of silicon."
     publishedDateTime: 2022-07-08T11:35:00Z

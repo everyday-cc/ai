@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "How Wimbledon is keeping its eyes on the ball with IBM tech"
+    excerpt: "We visited Wimbledon to get a sneak peek of how IBM is using data and AI to help Wimbledon engage with fans in its ‘pursuit of greatness’."
+    publishedDateTime: 2022-07-08T14:08:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/wimbledon-2022-results-ibm-watson-technology"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/a-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "Jtlilpr9w/Z7CkuPEI7vp3V4MGkpX2WuhV/u1D4Xj/0visvIk3mAyqk7L6YaUPdVfoIFuhbQfnfCHvx1yoVgvEhbKFA6S40eYySpAuFsW4p1JMb9+vAi2fbZ//aKraGGN8RlqwANQpuFjvK+8qTdgximKc2bMgzgLsz92Iib92eMO15bXeu7sVrCYytY8/+4IMDLpEZv0YXYr/EEp5A2ELVIPaiUoALZHW+oUrrIblQgCPiWZStcUXq27LPlWMKxBKWa/7uXHFxvj93kcNRrZMzrHyaXFonvUC3WRJ24NKpYJrW41ksFuGLoMBMfqPAEBznyLl75718WZnVNEF6UgkyJxDisV16fLwrgttuqt1JDAEEXUgKdOP/yLF7rvYXEK/kbzs4Xt13QVYIGxJZXryxuZMmnbUyO49sz7hLPr1eYCo9sGvdqt7OIJ2Ef2hgABA7AsovDZdJz/MHDRDu99DuVtsaDTMC2xgVqA0R/zczQUGENexqZwxCYLJ6ftIQEJfMN2kx/xPUPc5lnLTqrfQ==;pMKSy+bDWFZlP71yILkElA=="
 ---
 

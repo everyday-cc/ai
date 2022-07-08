@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/34361/20-year-indian-students-machine-l
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1"
 type: article
 quality: 89
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Teachers as driving forces in transforming students' learning process"
+    excerpt: "School students have characteristics that differ from one another, such as their learning styles and self-development requirements, with some being either"
+    publishedDateTime: 2022-07-08T13:34:00Z
+    webUrl: "https://en.antaranews.com/news/238425/teachers-as-driving-forces-in-transforming-students-learning-process"
+    type: article
+    provider:
+      name: Antara News
+      domain: antaranews.com
+    quality: 4
 
 secured: "kj0134fv0BphEcYiu8Zy8ZGh94Uvgvi555G6+uc910mgaH2J/iMDDSvAh4SoZq+YeUVcfkRjCihkpZQOBYkVPNiinBjBgkMx+ttDX3Vp8soXeh5tdefM/bAU/Uwfuyp+u/9jTr/L7v9tvddc/UIEYg4JmQj1gG4SJXzndp0Z8rDIwb0YBZBjEBHRgOHTxg+M9CTjh33uD1ElmhKsFRaSXOCW4XgnokGtdWp8PuhWC1b7Ifu/0jZ4qOy97oCZzqepgQQ2yiofCjBkat45j0uoHbTvVe8k2qkkwjO/AZiev4ax7CwndRAOPX5hxtcVJR1trqS/m+/hloRs4w8HEPb6ZYawyMobjf9mGRGVbDb8Z3l33IT+33Ywcy5z7Z9q/JrqQ5C2EU0eiWFAicQ7WzEfIB+kTC7ox4Og83wk3XeE2LBdy0qS4XnRyXaTj7Cv/Vkr3cY9g5NYrQN0tYIVpGfvVxAOjCxWzaO7MJwZ/QGnQsBeYGq+HFnGPHb9SQnhdFnSTJTx/CnV0i8Cb0S8op/mog==;Ba6rbwRqcQg7j2iDYW3tJQ=="
 ---

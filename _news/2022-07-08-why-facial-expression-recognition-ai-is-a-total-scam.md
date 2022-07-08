@@ -135,6 +135,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 23
+  - title: "Introducing Facial Recognition Software for Seals"
+    excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
+    publishedDateTime: 2022-07-08T12:00:00Z
+    webUrl: "https://www.smithsonianmag.com/science-nature/introducing-facial-recognition-software-for-seals-180980349/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
 
 secured: "fgd1PBAsovP291kn6gw0ykfV4Rowci4CeYQwwUn7BjdJrBsu/FtEA8dDg3jFOXX474RcWMbDTWAlFIsVcY/lIa+emjmgr4S7TqE2UaZns9/Ec5Chvfezle2pqlg+rV6UoVHjMpYGdqpD+f62g1/7/eW9Vr5Vx2GpIwEpsRIofoOtvKC48BzubTzkPf84bBr1RhH4QUgcpG0l2IiPGMC5yQqg2AjFuGplpwzDPOhZeP/iqjYy1Mv+Fz9cJ9qIwnUnkNUYWB0rx0tucb9GRwMOCirw5e0+dwf1nlef39N2Q8J2aiUT7kCDlGl/yG1tdV/8VD/rBI7QYqok+WEt1nL9fYE8Gfc8IgvYxBH2j7ZhXqNIXbBeqNLz6Dj9RDZ2i0KyCmCZjzD6f8GFk2Fbkgwc32EuACCE0v9MQNJV+96aVH9dOlebGE3qeZGd/juSg+Wdo0tOKjhxk1JlI47EuxQNpMzGL6SmTLMr9/XteZEvcNoclsmSBK//BS+dsBQ1leTX9ZV+I1p0HLLeG5Gs7hbt+Q==;L0nqhs3g67G2aSPIinwu9w=="
 ---

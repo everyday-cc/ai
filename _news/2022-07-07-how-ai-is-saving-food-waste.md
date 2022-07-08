@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "How To Fight Climate Change Using AI"
+    excerpt: "AI is a game-changing critical enabler that has the potential to speed up humanity's race against climate change. With AI, we have a chance to build a more resilient future for us all. AI can help reducing emissions,"
+    publishedDateTime: 2022-07-08T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How AI Will Change Medicine Forever"
     excerpt: "An explosion of artificial-intelligence technology could reshape the health-care landscape as we know it."
     publishedDateTime: 2022-07-05T15:00:00Z

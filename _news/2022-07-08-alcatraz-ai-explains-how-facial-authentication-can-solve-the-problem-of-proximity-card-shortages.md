@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T12:59:00Z
 originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/alcatraz-ai-explains-facial-authentication-solve-co-1554360262-ga.1657254121.html"
 webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/alcatraz-ai-explains-facial-authentication-solve-co-1554360262-ga.1657254121.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: SourceSecurity

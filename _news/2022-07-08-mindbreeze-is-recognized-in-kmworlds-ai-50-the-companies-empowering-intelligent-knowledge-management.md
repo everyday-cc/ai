@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T13:03:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-chicago-e0331938ddfd47c4a65f72d9d09d0428"
 webUrl: "https://apnews.com/press-release/business-wire/technology-chicago-e0331938ddfd47c4a65f72d9d09d0428"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Associated Press

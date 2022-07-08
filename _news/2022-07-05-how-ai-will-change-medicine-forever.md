@@ -40,6 +40,15 @@ related:
         width: 750
         height: 496
         isCached: true
+  - title: "How To Fight Climate Change Using AI"
+    excerpt: "AI is a game-changing critical enabler that has the potential to speed up humanity's race against climate change. With AI, we have a chance to build a more resilient future for us all. AI can help reducing emissions,"
+    publishedDateTime: 2022-07-08T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Artificial Intelligence helps fight climate change"
     excerpt: "A new report by an international body into Ecological Footprint Initiative, Planet Alliance in collaboration with Boston Consulting Group (BCG) and BCG GAMMA, on artificial intelligence, AI, has revealed that it can help address issues of climate change."
     publishedDateTime: 2022-07-08T07:52:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
+      "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
+      "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
+      "originalUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg",
+          "width": 690,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
+      "publishedDateTime": "2022-07-06T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-iit-madras-ai-tool-maps-cancer-causing-genes.md",
       "title": "IIT Madras AI tool maps cancer-causing genes",
       "excerpt": "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.businesslive.co.za/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -148,7 +200,7 @@
       "originalUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -290,6 +342,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-a-draft-cmu-policy-would-allow-campus-police-to-use-facial-recognition-technology.md",
+      "title": "A draft CMU policy would allow campus police to use facial recognition technology",
+      "excerpt": "CMU did not respond to repeated questions on whether the university currently uses facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
+      "originalUrl": "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.publicsource.org/wp-content/uploads/2022/07/facial-recog.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
+      "publishedDateTime": "2022-07-06T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Veterans Services",
+        "domain": "publicsource.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -718,7 +813,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 368,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -772,7 +867,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -876,7 +971,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1024,7 +1119,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1090,110 +1185,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors.md",
-      "title": "Xiaomi 12S Ultra and 12 Pro come with Elliptic Labs’ AI-powered proximity sensors",
-      "excerpt": "Elliptic Labs, a provider of artificial intelligence (AI) software and virtual smart sensors, debuted “INNER BEAUTY,” AI-powered proximity sensors, on Xiaomi‘s most recent flagship products, the Xiaomi 12S Ultra and Xiaomi 12 Pro.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Elliptic-Labs-Xiaomi.jpeg",
-          "width": 439,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1",
-      "publishedDateTime": "2022-07-05T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-ai-chipmaker-rebellions-gets-228m-series-a-extension-from-korean-telco-company-kt.md",
-      "title": "AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT",
-      "excerpt": "South Korean AI chip developer Rebellions has raised a $22.8 million ($30 million) extension to its Series A financing from a strategic investor KT, one of the largest telecom companies in South Korea.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
-      "originalUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
-      "publishedDateTime": "2022-07-05T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Finance"
       ]
     }
   ],

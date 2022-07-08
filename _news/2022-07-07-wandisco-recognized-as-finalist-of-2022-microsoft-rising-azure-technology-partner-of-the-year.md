@@ -130,6 +130,15 @@ related:
         width: 1088
         height: 725
         isCached: true
+  - title: "Introducing Facial Recognition Software for Seals"
+    excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
+    publishedDateTime: 2022-07-08T12:00:00Z
+    webUrl: "https://www.smithsonianmag.com/science-nature/introducing-facial-recognition-software-for-seals-180980349/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
 
 secured: "eMO1eRLrrZ6Ls57k5414uYOx6vNTliaHpIbCfZSEU4RpuhVcePU16NfeAqTY6BlFkBVLK49YuhMBw+P6VWxFrG86NWsowAHT+4AAHjaTgM7JDx/R9LBSfoN9TlDzy5/FRxh2BQXprcnN+h8o2HKpwqI1Feq9W8DsAGgw7Om3D8f18P8ca5l1OomlSCJRfWMy5Rwh+/ipHEFedToixQXh8wjPRrpJEeuoZ5VJHF25TEfhUeoQk95k0UJrSqHL2LpDxEkhMmAzfpen3I0iLkyUHzSayRYABkvfdYtCUtdOtchjCn8nzvzAm0QxLH+ULqLDuhU7r131lsflGQcK6MZ+JdsATHSrFJNIL4GNnnfUO+g=;28CNVT43I9Z5Q9E2m2R9jA=="
 ---

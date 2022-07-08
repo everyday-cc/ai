@@ -25,64 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition works on seals. No, really."
-    excerpt: "SealNet is a brand new facial recognition for, you guessed it, seals. Biologists have been training and testing it in Maine for two years."
-    publishedDateTime: 2022-07-03T21:00:00Z
-    webUrl: "https://www.popsci.com/environment/facial-recognition-software-seals/"
-    ampWebUrl: "https://www.popsci.com/environment/facial-recognition-software-seals/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp"
+  - title: "A draft CMU policy would allow campus police to use facial recognition technology"
+    excerpt: "CMU did not respond to repeated questions on whether the university currently uses facial recognition technology."
+    publishedDateTime: 2022-07-06T18:59:00Z
+    webUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
+    ampWebUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
+    cdnAmpWebUrl: "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
+      name: Veterans Services
+      domain: publicsource.org
+    quality: 54
     images:
-      - url: "https://www.popsci.com/uploads/2022/07/01/baby-harbor-seal-facial-recognition.jpg?auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://www.publicsource.org/wp-content/uploads/2022/07/facial-recog.jpg"
+        width: 1800
+        height: 1200
         isCached: true
-  - title: "Facial recognition's creep into commercial spaces - are we ready?"
-    excerpt: "Australian consumer group CHOICE outed three retailers - Bunnings, The Good Guys and KMart - for collecting the biometric data of their customers. The watchdog last week referred the trio to Australia's privacy regulator,"
-    publishedDateTime: 2022-07-03T23:36:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018848166/facial-recognition-s-creep-into-commercial-spaces-are-we-ready"
+  - title: "Give accurate info on facial-recognition technology: CIC to Delhi Police"
+    excerpt: "Criticizing Delhi Police for giving ‘incorrect’ replies to RTI queries on the usage of face-detection technology, the CIC has directed Delhi Police to furnish revised responses seeking information about its use in the investigations of northeast Delhi riots,"
+    publishedDateTime: 2022-07-05T13:45:00Z
+    webUrl: "https://www.livemint.com/news/india/give-accurate-info-on-facial-recognition-technology-cic-to-delhi-police-11657024455427.html"
     type: article
     provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--FzlnniPn--/c_scale,f_auto,q_auto,w_1050/4MOE0QW_image_crop_107655"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Rank One opens East Coast office to serve federal facial recognition market"
-    excerpt: "Rank One Computing has opened an office in the Vantage Ventures accelerator offices at WVU, with the intention to locate ten staff there this year."
-    publishedDateTime: 2022-07-06T20:09:00Z
-    webUrl: "https://www.biometricupdate.com/202207/rank-one-opens-east-coast-office-to-serve-federal-facial-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/06160542/ROC-WVU.png"
-        width: 921
-        height: 691
-        isCached: true
-  - title: "Technology commission formally asks city for moratorium on facial recognition technology"
-    excerpt: "While some populations are being harmed by this technology at higher rates than others, all residents lose when government deploys emerging technology in an indiscriminate and secretive manner,” states the commission’s final white paper on facial recognition tech that sums up the panel’s thinking."
-    publishedDateTime: 2022-07-06T23:36:00Z
-    webUrl: "https://lbpost.com/news/technology-commission-formally-asks-city-for-moratorium-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Long Beach Post
-      domain: lbpost.com
-    quality: 30
-    images:
-      - url: "https://img.lbpost.com/wp-content/uploads/2021/11/25081947/FE_3jvEXwAUVLX1.jpg"
-        width: 2463
-        height: 1514
-        isCached: true
+      name: Mint
+      domain: livemint.com
+    quality: 3
 
 secured: "6+H7v+dsVHknwHmL0EKBPFSpHiFku0GMAv1nTxsi5vwCVsg0co3IEZEaipiz7v46yj4xrxonJiEUGZlkwg5YMKCi7pLAASyxkai8Oifmn5/cLo+yY/td3bkjhAhNspuo4srfQVdvA4p6KCk4t77mldgCqOJAkCK+KXQGhfE4/W5XJCPZKv/m0qjxuP8CSdw+j8IyHhM7VQS9vJ1IF+uXN8qpr8cJN3HjNpUvzMdcYIHomWVq9N2MLhJBg5tDcv8XrXU3fswCN51yEKZHUAxnlhJKtPuQh/VB+IiRoHdoP4aCkwV25qQ3lD7rRqhGPctI3K74eldcoVF9XM98xNzRsgUKzPr4QdqTTEZspwJXKXTPVIWVT+pBXmalt98UO+hghqlzb7SqDTScJZNd8iozhl5Sq/sK7s4RrPN2gA4upGhiQctqk7Nm+avQ+Hv8/oyVi+fKmy0v3/ICkqTxbhYCblyx/QG7DpGQF5E7q/fvRY1SN/Z1na9TAaliNgM0A/gXZEdx3hW0HEt423JJfvrF0Q==;CzExnTtsIu+P/wzJic+sWg=="
 ---

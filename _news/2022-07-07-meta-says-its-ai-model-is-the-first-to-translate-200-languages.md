@@ -397,6 +397,20 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
+  - title: "Meta Releases AI Model That Translates Over 200 Languages"
+    excerpt: "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation"
+    publishedDateTime: 2022-07-08T14:48:00Z
+    webUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "/kBksileoLUQhMXvZpqicnhpi0b4iYjVa7RROEguws2m7fDzDY7miFoRaXW7k04Upoz4UnX/fHAN+aqN+GmwOKskKM6yXX3otTilxeVD6AkgsSJWkQ7QSzF3ofDtgdifyrdaNlCyQqiNTg0vlCh6/svh3jY3EerFE/XsScLegW2VPKZeZs8zLXIiYS++AOsLD4gTt4Yu3dZLnMXFIqRRxaFTbSgK8RPqnUFLJfCVTVJ3+MoenS/j/vUsL605b09jvXd15t4BSbgRzv1kF8hV/NPtGkEUr9T8DibACgssSYUrcXMUG60P6vR5I5ZOZlfJZPJjx9+r/t9sghOezfIjR1bHuTPZt/csA0x0Ej6VtNfSB5cFN1wm9hE1zMtCE0u27RAP5LfJODOHENoVINfghS2io8qPaW7IN3H5UKDYo8UNUqqqduOHHY4Ym/d3wS9ruDtMi1epZWASJMy0ecQzvAz68upajpypzElbVM6+fwUfbnpROBSuqsIsxoR4D/+j+SnUWtLe7oLMclzI8SWlng==;Gr2vNjdEcvyvP0zzMSWtCw=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
-excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
-publishedDateTime: 2022-07-07T22:20:00Z
-originalUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
-webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
+title: "U.S. agency probing self-driving Cruise car crash in California"
+excerpt: "The U.S. National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
+publishedDateTime: 2022-07-08T15:06:00Z
+originalUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california"
+webUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california"
+ampWebUrl: "https://driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
+cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/u-s-agency-probing-self-driving-cruise-car-crash-in-california/wcm/e5a15d1e-6260-4b35-9b87-4588cde4579e/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: blogs.driving.ca
+  domain: driving.ca
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
-    width: 1200
-    height: 800
+  - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/07/Chevrolet-Cruise-Bolt-robotaxi-driverless-autonomous-self-driving.jpg"
+    width: 1800
+    height: 1200
     isCached: true
 
 related:
@@ -83,7 +85,16 @@ related:
         width: 650
         height: 391
         isCached: true
+  - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
+    excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
+    publishedDateTime: 2022-07-08T13:18:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 4
 
-secured: "43UaRLGkrx6BGEyhvtc6kqUW9bcG5bneZEkhGrjmcDmJLFIVISrKcjArzyRK904MmY1TgH3TIuTNeFNwBnaGUKBgorgaCsNxS4HyG4WOnIFqpEdI/7IWdr64FbPrueQN884L/J4O5Va3WRxc9fg6HMTRZhUfsy93vK7MBT79vsvng5I5ZCXtSwNXaQOvEU4x63aB14AmK0OD+THEk4i6e933dSKyeX0WYkMUNld2LVkSJOI2TLiI603zGNMKCub3vfaAzhO0zYjtOfESAsykIhJgox3XOe7zCqp9UR0qxDnv6m8BTbcEm04AH2wuJfwQ4HQP9D5c3EuLuHM3ETD/6Z3d7GPRyiczxu3KCwzpt1FQvroJRYrt+U115loaufqV3ZyeOcZvMayro8KJvP2fhhMpj//bRYyaMdFIyS1U8cGiYZoqJ/LU2WMsDjC66NEUpvsrnCsyehEN91cNqESL8Hevrzg6t0mUkhX+amcav2acHdnYd4WBWiyT2Rg3j6JV3Uo+NUExlfWpogGsLPuLTw==;+yjAk93+x2okWViey+VlFg=="
+secured: "wvbY4jkEus/Y6eaoTR25BtecynleLaEXiAkGbsGf85FcHC+z6h5ODbViDeeCjHeMnA5aOGActN0crqrQQlIHQyfQOupWH2ifMMWMtNAmVWscdVKBsjmDqiIYU0ob/2b9LnMi8Vg4OKfBUdVFu2zUouTeIjjUDK+NgDXXeCSdr3nzm8RxU77agYVKxEsJnx5+9NsjY+8JqjB8m6dGGS02B+dDTaNeHM41TLj5SA9a3Zf3CYS4CO33+RPLoFTTgARSihA+FZEMkWf/gKyGrBnzloRv8JYYS5HmK8RZWAC97x3HFLV5HU6dT0mj48bOf1x00d51DICRN1/W8VK15UVUhuxworAgRj3OPrljmcNjpOw=;ceLAXSw3rY6Sk9et3Mjobw=="
 ---
 

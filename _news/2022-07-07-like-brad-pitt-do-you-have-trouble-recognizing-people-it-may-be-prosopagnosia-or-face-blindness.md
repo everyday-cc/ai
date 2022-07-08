@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp"
 type: article
 quality: 60
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -63,6 +63,24 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
+    excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
+    publishedDateTime: 2022-07-08T13:34:00Z
+    webUrl: "https://www.foxnews.com/health/prosopagnosia-face-blindness-condition-brad-pitt"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 30
+  - title: "Brad Pitt Says He Suffers From Face Blindness—What Is Prosopagnosia?"
+    excerpt: "Brad Pitt believes he has undiagnosed prosopagnosia. The condition affects a person’s ability to recognize faces. Pitt said he has struggled with it for years, and that it has often made him come off as egotistical and smug in social situations."
+    publishedDateTime: 2022-07-08T11:30:00Z
+    webUrl: "https://www.prevention.com/health/health-conditions/a40544815/prosopagnosia-face-blindness/"
+    type: article
+    provider:
+      name: Prevention
+      domain: prevention.com
+    quality: 4
 
 secured: "YfQUCG3YJ1YY3D1H8DxWPiRLy0ZyaWTuiNr9Lg2PymNuWD0Bl9V2I3oXrd64eXSGe2CNqsdYREi55LrvbZHUAvlHbZFFlbgMaSTZRDIOUJVXq0fSvOHoW5VQbidoxaGKHPegnrgoppFNamjFLBl/Tg9tjcz1xSNQQRQ7M8jAoi/FvlhlZ6i54MXonnUeDyFTJTswYfHbYuvlfZ+W5tE+toy+BIXM7msld3HldcpNlTgi9CarJmb08xyd8WIrO+KqIR95rCxrPoq8d9YedsoMNXq3e9jhfcq5rnpDDIcYyKjzU1v3BFNdZKR1fT8gnNFOlKdhViVo6fdPcR0AHdNSOGtI/ybkG8CL9UlhCcQuY8BWIDk/d81tJd00iiY6kFiK5E3y9Jt53Y/hSUO3BxdqlB7jU1TUir3t9iFDhoVtMaRgOoKNLc5yH/RCxmzSs0t0QOx/LQLFcjrGCLYU9HxabDc/Al+ohLNrri90MjAS9HgNi9oggPfCf7L8h9zA5zZ2nJ8aMjC512Za01y8h+TVSw==;oUpw2tiMWlhDioe3VBrtzA=="
 ---

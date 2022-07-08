@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T12:36:00Z
 originalUrl: "https://news.cgtn.com/news/2022-07-08/AI-magic-breathes-new-life-into-decades-old-films-1bvewyErXry/index.html"
 webUrl: "https://news.cgtn.com/news/2022-07-08/AI-magic-breathes-new-life-into-decades-old-films-1bvewyErXry/index.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CGTN

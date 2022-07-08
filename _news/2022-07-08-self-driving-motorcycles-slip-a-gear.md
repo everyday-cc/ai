@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T11:30:00Z
 originalUrl: "https://analyticsindiamag.com/self-driving-motorcycles-slip-a-gear%EF%BF%BC/"
 webUrl: "https://analyticsindiamag.com/self-driving-motorcycles-slip-a-gear%EF%BF%BC/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics India Magazine

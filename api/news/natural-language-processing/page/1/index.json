@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-08-worlds-first-self-calibrated-photonic-chip-an-interchange-for-optical-data-superhighways.md",
-      "title": "World's first self-calibrated photonic chip: An interchange for optical data superhighways",
-      "excerpt": "Research led by Monash and RMIT Universities in Melbourne has found a way to create an advanced photonic integrated circuit that builds bridges between data superhighways, revolutionizing the connectivity of current optical chips and replacing bulky 3D-optics with a wafer thin slice of silicon.",
+      "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
+      "title": "Researchers Develop Self-calibrated Photonic Chip",
+      "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.html",
-      "originalUrl": "https://phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.html",
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/world-first-self-calib-1.jpg",
-          "width": 1511,
-          "height": 1140,
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg",
+          "width": 500,
+          "height": 240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.amp",
-      "publishedDateTime": "2022-07-07T13:11:00-07:00",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
+      "publishedDateTime": "2022-07-08T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,8 +42,59 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Autos",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-data-scientist-industry-reaches-point-of-maturity-as-specializations-grow.md",
+      "title": "Data scientist: Industry reaches 'point of maturity' as specializations grow",
+      "excerpt": "Computer science specializations are becoming more common. Codecademy recently introduced new data science learning paths to meet employers' changing expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a7387db1a7576e9b16458e25dc5c6f4a2c224a01/2022/07/07/15867fb1-8658-42ad-956b-7d2e552772b8/michelle-mcsweeney.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "publishedDateTime": "2022-07-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -301,7 +352,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 368,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -1392,60 +1443,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
-      "title": "What’s new in Microsoft Azure’s NLP AI services",
-      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
-      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 398,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
-      "publishedDateTime": "2022-06-22T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T12:40:00Z
 originalUrl: "https://venturebeat.com/2022/07/08/meet-the-nominees-for-the-2022-venturebeat-women-in-ai-awards/"
 webUrl: "https://venturebeat.com/2022/07/08/meet-the-nominees-for-the-2022-venturebeat-women-in-ai-awards/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

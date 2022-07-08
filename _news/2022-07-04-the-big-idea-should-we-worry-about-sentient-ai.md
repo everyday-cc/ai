@@ -30,7 +30,7 @@ related:
     provider:
       name: Richmond
       domain: richmond.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/5/62/56234988-14c1-540a-af06-f9c7e64b677e/62bef04ac505b.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
         width: 1196

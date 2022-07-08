@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nokia partners with IISc to set up networked robotics center of excellence"
-    excerpt: "The Center of Excellence (CoE) will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI), a joint statement said."
-    publishedDateTime: 2022-07-08T11:38:00Z
-    webUrl: "https://www.business-standard.com/article/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 72
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/12/full/1599857420-4859.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Nokia opens AI, robotics centre in automation push"
     excerpt: "Nokia and the Indian Institute of Science opened a centre of excellence (CoE) to develop the vendor’s capabilities in robotics and advanced communication technologies in 5G and AI."
     publishedDateTime: 2022-07-08T11:17:00Z
@@ -103,6 +87,24 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Nokia partners with IISc to set up networked robotics Center of Excellence"
+    excerpt: "CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and AI"
+    publishedDateTime: 2022-07-08T10:19:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/science/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence/article65615622.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 32
+  - title: "Nokia partners with Indian Institute of Science to establish Networked Robotics Center of Excellence"
+    excerpt: "Nokia and the Indian Institute of Science (IISc) open Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru."
+    publishedDateTime: 2022-07-08T11:43:00Z
+    webUrl: "https://www.voicendata.com/nokia-partners-with-indian-institute-of-science-to-establish-networked-robotics-center-of-excellence/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 19
 
 secured: "n25uw0cGqy9cbWI7LSpka+6kLhtXpTjuUfS5SJlX5IrDuzh9sL5+Bfh7iJW/UB2bMDNzr0Jhps8Av8psxon8XVd+zT7MvgFxhTEbFSnHul31arRSAsbwS+JL/MM/YwzTERMIK0RaF6Z5u7ReaxReHpcROnFqtVnzZ0c5rOx480UBk+CNykklErU4MyFPHsSeP8NZxtvmUsi7tdNDJL4Y//ixmHgZcwSpvOZPKc6Af5H26eggHKadzTm2NdRCDYPNaqVmMXOLgVJK7TpfRUVGKbPxcIeodwpdTuGbQ+A8sxlUpBYvM91HWPwEVO2Gen4sUCJVjf1sQwwJQSspk4/aUEJ4RYdEOjuYHWx+2qdw753gGMXSJeh2rpeeSFKx7D0/f4bhlUEKSx2A7pbO8yDUHim+jMigfLjlFQlX9vb1ddes07gn8qhHk/c3E0/HUlgNOk3kpolSuSEka9jpQqhHJGiU+XJHf1cqakIm+8UvuKzljOAUUCHy27c03KOS1mN/E2h/5u1ewKF4hreZtWVApA==;9vaPx3O1SIf51ywMD7zH6A=="
 ---

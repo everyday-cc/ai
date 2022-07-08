@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Develop Self-calibrated Photonic Chip"
+    excerpt: "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways."
+    publishedDateTime: 2022-07-08T14:11:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip"
+    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 61
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg"
+        width: 500
+        height: 240
+        isCached: true
   - title: "World's first self-calibrated photonic chip: An interchange for optical data superhighways"
     excerpt: "Research led by Monash and RMIT Universities in Melbourne has found a way to create an advanced photonic integrated circuit that builds bridges between data superhighways, revolutionizing the connectivity of current optical chips and replacing bulky 3D-optics with a wafer thin slice of silicon."
     publishedDateTime: 2022-07-07T20:11:00Z

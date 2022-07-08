@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 23
+  - title: "Introducing Facial Recognition Software for Seals"
+    excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
+    publishedDateTime: 2022-07-08T12:00:00Z
+    webUrl: "https://www.smithsonianmag.com/science-nature/introducing-facial-recognition-software-for-seals-180980349/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
 
 secured: "K2L0i7btORTSL9TaW5U9bNS6/oB7l3Z+k2zU1gGgyO942x6Im1VEoQU6MmonEPTbzbrYLz2YACCrmU686Yn7Pde3I3YuhD7Jaatr9ZRLMSrRMHan9Vq3GuaIoryRkppoaxSOdySBTtJ3h3SLt+k2QycTBKaQ+RKvpeiMp9XUnPwB8woarekci88JiqxtRUAzIsEFHyrkqF9cu0HGuIZwtqsk6uTcjPSwGST1cDM7a4fb4A+DdEmBrijRrGjTpP/pyxkZESmLI7M0LLp75j0dLWG0CidJ4j/myz8X7RRuUtdTk/fDDOtCmK5+mg4z9YkwyyXF0jxq2tOvY0mvjA3wMgB7wXop4Y6tQi0dWdS09GIfyE16H2BSKKumh7y72WmSZuacR/jVNpr2HoGgAIaxNbp12TFzjygKijAh82j9sf+HJJgAGmKAmBRXN5LoL+H0Fk+1V3sCVPb1LmeDUhGfB2XbzRB9F1R0dug/bThdM3G6ZM4DP2F7tbLMzTJOfjQ009pJ8lNcLkfCMT0pdSCPYA==;LySaTNmaQlv2vpQsA9/y6Q=="
 ---

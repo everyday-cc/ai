@@ -387,6 +387,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Meta Releases AI Model That Translates Over 200 Languages"
+    excerpt: "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation"
+    publishedDateTime: 2022-07-08T14:48:00Z
+    webUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Meta says its AI model is the first to translate 200 languages"
     excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
     publishedDateTime: 2022-07-07T11:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-15
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
 type: article
 quality: 87
-heat: 178
+heat: 208
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ford-Backed Driverless Car Startup Lays Off 150 Workers"
+    excerpt: "Argo AI laid off about 150 workers this week, a belt-tightening measure following years of fast-paced hiring. The layoffs represented about 6% of the company’s more than 2,000-person workforce, a spokesperson said."
+    publishedDateTime: 2022-07-08T13:08:00Z
+    webUrl: "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-579737/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ford, Volkswagen-backed startup Argo AI bids goodbye to 150 employees"
     excerpt: "According to TechCrunch, the layoffs account for about 5 per cent of its more than 2,000 global workforces, according to sources familiar with the company's actions"
     publishedDateTime: 2022-07-08T08:26:00Z
@@ -143,6 +157,24 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Ford-backed self-driving startup Argo AI lays off 150"
+    excerpt: "Argo confirmed the layoffs from a global workforce that has grown to more than 2,000. “With incredible growth and progress made in our mission to deploy driverless vehicles, we are making prudent adjustments to our business plan to best continue on a path for success,"
+    publishedDateTime: 2022-07-08T14:35:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2022/07/08/ford-backed-self-driving-startup-argo-ai-lays-off-150/10012738002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
+    excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
+    publishedDateTime: 2022-07-08T12:53:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/08/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
     excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
     publishedDateTime: 2022-07-07T18:57:00Z

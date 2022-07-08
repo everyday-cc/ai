@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-excerpt: "Aim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region SEOUL, South Korea, July 4, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced that it has signed a contract with FujiFilm Thailand and Microsoft to supply AI cancer screening products to Bumrungrad International Hospital,"
-publishedDateTime: 2022-07-04T14:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bumrungrad-international-hospital-southeast-asias-largest-hospital-deploy-/2022/07/04/9632955.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bumrungrad-international-hospital-southeast-asias-largest-hospital-deploy-/2022/07/04/9632955.htm"
+excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft Azure Aim to detect cancer in early stages and"
+publishedDateTime: 2022-07-04T13:00:00Z
+originalUrl: "https://www.asiaone.com/business/bumrungrad-international-hospital-southeast-asias-largest-hospital-deploy-lunits-ai-cancer"
+webUrl: "https://www.asiaone.com/business/bumrungrad-international-hospital-southeast-asias-largest-hospital-deploy-lunits-ai-cancer"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1852647/Lunit_Chest_x_ray_diagnosis__Bumrungrad_International_Hospital.jpg"
-    width: 400
-    height: 266
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2022/Lunit_Chest_x_ray_diagnosis__Bumrungrad_International_Hospital.jpg?itok=Fn7qtBdj"
+    width: 599
+    height: 398
     isCached: true
 
 related:
@@ -39,16 +39,7 @@ related:
         width: 1472
         height: 978
         isCached: true
-  - title: "US Digestive Health Launches the Largest Installation of Artificial Intelligence (AI) Systems for Colorectal Cancer Screening in the United States"
-    excerpt: "In the U.S., colorectal cancer is the third most common form of diagnosed cancer and the second deadliest, with almost 150,000 new cases every year [1]. However, it’s also one of the most treatable cancers,"
-    publishedDateTime: 2022-07-06T12:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-health-cancer-artificial-intelligence-colonoscopy-7ce8ad5f2fab30e6d1506100f9174603"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
-secured: "tcIr3g0Kt02m+wEHsseuNQGgaTeeoyo5vo/ORFgPLVGuHVA1L06s7+Goc4re8TkV6CZPJg3iqRhGRhhJW9F2HJ32ZeQWTuzRRMmKrw1OvvsdvjsqNoh+FzYiCvciUvoSDtY/lA8PsU41ianPEcHu+Ibb1WlGjC97OAsfmoJ2lJWcE/h1p58NJour4zp3EW/dMLTWfDE0zI7wdLpmPqSQP5p6+Hxg8lpaWT/4eRieyrKxWKZm4rYXZhWFD8lQlshFfHLetKu2FxjfK/NE5fseaSYHjSTqYDip71YjMNwhK1QLuk2zaqfq/w2WerGb67Xg2vrvtYTzZkIw3rRFj0HVbmpWobRAE+VTxrq5TSHJjHE=;aBYGf4vsa81AwnIEoENtdg=="
+secured: "fMXsddOOG6j3qKvJf+kepp//hpjGZS6uqgIUScZ5ZD6DuRo2AJZTJmYj2K4sAMJyihMnUwRJ+CPfxlx1bPcHxRJMe8kjmlmEFgdDsdDh71S7G/B8YdI1kMsU9sU98YnI9sMAj78VKmMRpVGirS/2ii6Q68vsTVOd+jmijhdAmOG0bVTQuDd1GJJhN1zILQzESLRLtTKP2M9yjz7n8MO6Gl3hkDAUHejvMNmS+L1+0DE0xM6IIBFcL8RpTfeAT0Xn4ZYKpq589sUjv70UawsvoEzsjCIBK4jNzwhaVTjMwyE6kV0xMRzeCQ+V4x1gtIGZzm/Ra2ogv8cSOuMwFSAI3ve7qzz59rMVrCFiYOO+IjU=;2ZxAjKEoFNZNGU+j8m6sYg=="
 ---
 

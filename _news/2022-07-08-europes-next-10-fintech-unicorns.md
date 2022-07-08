@@ -73,6 +73,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 4
+  - title: "How fintech can boost access for the older generation"
+    excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
+    publishedDateTime: 2022-07-08T12:47:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 4
 
 secured: "MW23MHgF+77OlaLQgzlhC22Sj94XIvG9DZXz1fZ/TI1lW6IIanCnpow/xn8EdfVuLdlPN7I4w3V0hap2Ji0Vqfdeapzhy49wyEDJqCCPC+MGB5nnnm5EO4aZ+1Z5cmKIDELIHqusDFGELmY7EtkvTypr299PykTw44jA75Fvp+oQviOYvno710UP5nz8/GOoDDlLE0+SgKi+i6jV6lAsKBK3+W+IhYv2jHthmRKwvS+CYn4zGQu15tEBJy31AUc3kta6NYAE4RoAGoldEMlXS2JlzeJ2kK2IvbIZpcdUmJzSY8DDoWDM87t4zODlZ5j7cxPEQTYEzfpBv0iq6C46jG6qXAWi3ZGCq25SgkpUm2nLF8hkuyRIMo8OlOwkeZLhFozo6Ph+kLXDYh3AmVos/P9TM/9p32K3V9qNWpdp6UAvR2CQZp/VcaKWrM3BujTqgTbT/KPB+6ALcFwoRCO41wT/JcjRIWTa9zZU9huF9Fh8J6rcp4olpVG9dMQxXFR5oSAMdtCuVcVO6bGGY4ugtA==;jiHhXnbkedsdbo3geRjy4Q=="
 ---
