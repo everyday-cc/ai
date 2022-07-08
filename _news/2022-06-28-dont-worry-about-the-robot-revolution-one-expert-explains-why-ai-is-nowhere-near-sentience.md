@@ -2,27 +2,19 @@
 category: news
 title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
 excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
-publishedDateTime: 2022-06-27T22:20:00Z
-originalUrl: "https://www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-webUrl: "https://www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-ampWebUrl: "https://www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
-cdnAmpWebUrl: "https://www-kasu-org.cdn.ampproject.org/c/s/www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+publishedDateTime: 2022-06-27T17:20:00Z
+originalUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
 type: article
 
 provider:
-  name: KASU
-  domain: kasu.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/8d88d6f/2147483647/strip/true/crop/5760x3242+0+297/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F07%2F08%2Fap22188728904367_custom-dec766b8dffd8e01a54b9a4986ebab21fe7b500d.jpg"
-    width: 430
-    height: 242
-    isCached: true
-
-secured: "Bm214Qcj6Sa7X8ygFkgk+Z6oy1XECJgonvv/DEIu8nv3H+FQCBm0rYMrqoY2weX6fScISyhj8qTAGPw4lljiuJuX2K5jT6NGCcWZiiNMDdftdZKwhQwWkx4mZfC1JHfF2gw69f74WtYJrR1PfX4FXeHiw74QL3RcyqJQcsY4IMUIpQo+oGjEdOgCkjo3z8K/94Xfz9+idR9TEawraF1MbBSnY6R2KSclL8GTt+HhaOQ4rBid8BC9kxaVipvM9s8wL6dw1/mLNp+LcnaoU24kBbrD3JhXKY2wOu84+kdf9fdPRV0NCUwt8DNNRgwitilGcwis1hyD1pZLMuRwoxgdNNiK5CX/Yz+yHUnnSJNVDDY=;3VuXv91lv8ueeaqrsDrf/g=="
+secured: "1sCDQrfbYp2E/rAzSZ7XQnXMSSdjO8A4u6PdYkpA/kH9vsQ4f3Vrtx6y30rR7tPmWn/kTXp0sC5zrt2HvqeL3vwtMY5qBlK7TeHk0FwGKxSqnWvH9PWrUIB3uWn97ZxWAT/mXKxAKICIKixdff0bo+V883Fxo/Eujk/XnHkFSRydtXN3yXeHP1z/Mm3mY7nD3NLP967SOMpQrD7XsuIRlHVsaLQWCmuqVOX3x+1Kd7XY3jft1I479m1TtDj9IsoLKoBp1+MYWrfZDNIf6hGSISMLeNGGBTZl1bClYE7vHJ3Vb/FH8T/LL/LCw0ge0/ZHtR/y96bhJ5DOolMOWSgojW8UMxrTLAnrRRmkIAQRft8no3hHYo3N8lWAJsf10xbLESLrpDlIcu5HdQxdzGF6Ze1DaqUoj3uXnrvYseb59ulvgkDTD3+S21GvVz6yAEPptcEf984HwwHxC3Qiz6j3XvSsiIoZZPlNvmGkVMpgHTFvx0tCiS2YUFtxoEGA5PEya8NR30oSkJLBjxyycx8fGQ==;ffE2bauJivc7LtXCD0HlrQ=="
 ---
 

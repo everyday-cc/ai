@@ -5,8 +5,6 @@ excerpt: "BEIJING — (AP) — With no one at the wheel, a self-driving taxi dev
 publishedDateTime: 2022-06-29T05:39:00Z
 originalUrl: "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/"
 webUrl: "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/"
-ampWebUrl: "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/?outputType=amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/zncUsKIEsDEvyNqMNghM_MO6a7A=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/OFJFR3BX5IG5WX6OLCK5TGCXP4.jpg"
-    width: 1440
-    height: 810
-    isCached: true
-
-secured: "qBHTKxEwO6E52qFjDO8HPxfIX7iqJjd8WAl/NGc5US0Dm98x0s6trj96v7KG6/63bGFIXcccFd+zqCwB/w0qM+IWLdQbUWqKpeMdWpO6bJuG3SpeA4nGCiOI7jIjMMlBUqIGPcLXT3iunQXor1AeP921M25unW8yzASV1lB46+iF3ng8EJAZEOa/gCQFdthgEYxW+92jolvF3LEf1OkvhCuCT926y5Ho7HmlNMVzAUTGqOeCf6YND+zqMZvOm2/av+q3lVb++MEX/dV374arljvSI/xn6p2Wi94gEp7WA8AsXGCrJkFUlS9shssgIsi3/xnqxfUQONrU+RGseGdZQTWOLjbfytj0ERrFBnu+GEY=;mYv5n/RLR8VVryumbO7FMA=="
+secured: "kUyXfKd2FnC/CoF4CVnWGUPKCQnxQODZArb/+dD8hwhNL70vBuBr8LfefvmrHWyFBk9I9jUAISjGFL1JbU/1FK6E1e9tIH1181giL5UFkED6mBrvBm/IpmTtQLuTtGK6uQdt0lVcfxIQoRtB/hvtjRQGyDM095qwVNTdqggpOlQxBGUvLI1+AmXze7hHo6bjD6aeLpInyFRb4nwwsWzfB8b/ARmlGtbba8VS6b4GTQhNY4CZCGsr91Vy/luqmApj6eAv/PnVtuUs672Zu4NtRry1KEJMlAkv5qtytxkFDLMIGg1cKISOzJo3PxAAQAbBt5odKxQIYrgytl8dhtJ9DjdVji4kAUmyzcpvFzhqUEk=;+U9bdioDGSIW7h9b9qWyng=="
 ---
 
