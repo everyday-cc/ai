@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-25-grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools.md",
+      "title": "Grand Rapids State Bank provides financial literacy learning resources to local schools",
+      "excerpt": "Local students are getting a free education in how to manage their money. Thanks to Grand Rapids State Bank’s sponsorship, over 1,740 students and teachers at 11 schools in Itasca",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
+      "originalUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/3/9d/39dc0ea4-f3f5-11ec-989f-37ca0def542b/62b612d1e6628.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-25T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grand Rapids Herald-Review",
+        "domain": "grandrapidsmn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-nigerias-oil-sector-looks-on-as-robotics-adoption-picks-up.md",
+      "title": "Nigeria’s oil sector looks on as robotics adoption picks up",
+      "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "originalUrl": "https://businessday.ng/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/11/How-robots-will-change-dynamics-of-shared-services-centralised-processing-1-1.jpg?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "publishedDateTime": "2022-06-24T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-three-insights-you-might-have-missed-from-snowflake-summit-2022.md",
       "title": "Three insights you might have missed from Snowflake Summit 2022",
       "excerpt": "Cloud data warehouse disruptor Snowflake Inc. is the rockstar of the data management scene. So, it is appropriate that the energy at Snowflake Summit 2022 was akin to the buzz at a live concert ...",
@@ -1061,103 +1147,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net.md",
-      "title": "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net",
-      "excerpt": "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "originalUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/22ffcef4fd570a8f18bf6c65c1751640f3e70e1c/2022/06/24/75630c96-c275-4a5e-8a1c-b1d7b3528f63/crafting-diamond-pickaxe.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "publishedDateTime": "2022-06-24T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-language-translating-device-market-outlook-2021-2028-sales-revenue-industry-growth-global-research-by-the-insight-partners.md",
-      "title": "Language Translating Device Market Outlook 2021-2028- Sales Revenue, Industry Growth Global Research by The Insight Partners",
-      "excerpt": "The increased investments on AI (artificial intelligence) and IoT (internet of things) and availability of real-time language translation capabilities, has helped the market to increase revenues significantly. The emergence of innovative technology in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/language-translating-device-market-outlook-2021-2028--sales-revenue-industry-growth-global-research-by-the-insight-partners-2022-06-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/language-translating-device-market-outlook-2021-2028--sales-revenue-industry-growth-global-research-by-the-insight-partners-2022-06-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

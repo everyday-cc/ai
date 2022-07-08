@@ -2,14 +2,14 @@
 category: news
 title: "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 excerpt: "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ..."
-publishedDateTime: 2022-07-01T22:32:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+publishedDateTime: 2022-07-01T22:28:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 type: article
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - Computer Vision
@@ -21,6 +21,6 @@ images:
     height: 233
     isCached: true
 
-secured: "UC5ST4mED9A0tC74fx80j4PIS1buk3GfclZ6JJYU8B2JHDo0p2pd08u1Ns45QRdlwHstQh3Q7Zm3dyIhGtkEt6JJUctYD6Sg2Kqw1s+oGWYEZIqUZ0tjFt8ZRQYAoDA9ELSLTJu3BTzu5D5jLnSuigGyC9kb6KN4OwhNpGZsA2jglYU1L8jUh9TDFq8Ibm2Q2APB+TFipohfXSe1Fc3490sdUGOTeWQ5CLexXqIgYnwRt5RvkF8sKtHQ766kCf9O5VSa9OiCVE2qChdwznn60aJLcMXOGYJs2vLj+3BlQLgpiLq4Bgk48XdUF06E+o6FIvXFWUjAC4T7sY+aTEXIlqeQA+YJBfnPHSwPhlp9+kQ=;y4tnxa8X9d/zwuAWanbJ0A=="
+secured: "CQ/dO6sE7TpDPzzGU4Kq8G16AwgTKNb1vz4dXnXippox/QozkJ2wld7JMh91RXJvOQ+V4ok0bA52tIUl5px8CMOV32sUmPyALhlPfLM7HC30+M8I/rdcFNIYGWl/eUk1z9JA3qka5LQRQo6O143TiEAJ4jh+75k0R8hT2R7rb2nGC429u1ZUYcjbYxOMc08BLSyRSWY7Y/OfqYAza7ayDPcH9j0yICTk0jkW/+6Mk3ofFYndz628CBhTVwOT/73YKIB2WyUgj2+/ByaHttlB/jjBTkXt+SzolU2Ky6e0UFvkDVnZ+SL4ZEgqDwmL2XA2Y9ulC4PQlOrkGkoo42nHFB2b6P2WEQunM6Z0CoxSup8=;G6dop3GvTZkpJA6Tehg78A=="
 ---
 

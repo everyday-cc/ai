@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/"
 type: article
 quality: 108
-heat: 328
+heat: 338
 published: true
 
 provider:
@@ -254,6 +254,20 @@ related:
       - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/07/AI-Translation-Model-1-696x452.jpg"
         width: 696
         height: 452
+        isCached: true
+  - title: "Meta Releases Open Source AI Machine Translation Model"
+    excerpt: "In a project called 'No Language Left Behind,' Meta has built an artificial intelligence model — NLLB-200 — that can translate text across 200 different languages."
+    publishedDateTime: 2022-07-07T23:35:00Z
+    webUrl: "https://campustechnology.com/articles/2022/07/07/meta-releases-open-source-ai-machine-translation-model.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 56
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220707translate.jpg"
+        width: 644
+        height: 430
         isCached: true
   - title: "Meta’s Going After a Universal Translator. Its AI Now Works for 200 Languages"
     excerpt: "Meta's translator is some of the most extensive work that’s been done in the field, particularly with low-resource languages."

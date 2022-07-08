@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technolo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

@@ -12,9 +12,14 @@ provider:
   domain: insurancenewsnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "iWn7K6TDgI6dTPiy8fTTv1kVCvXF5ZdjZZdY7zu+cSP5sVwUVzs7R17viT4KQd+Lh972kzubeJsJ+znpSqHvsC9LK/53+QnRRIuJsGCgMukcMHSO7CenOaCAIgkBDnCNQH0LZeUrBVcdh33WBG4LDgQbOBmtZQ4dA7lAUGxHeUYgK6swd/ICT1E6WNTi64VsKYcE7/h5zgNZLSgQQ8Kn7ycyM33/o+R3HPGMnv+P7uugeLsNg0jYFLSJBUOkZZWXwA0BntUHFo8sDQKZtp40B6KQOjI4h3f9Cf17xuWp1MvEeMRO2Khg6J75AaO+dXTrzblGKoWfvFc7hbSJgUJRbgg4RG+u4ENTus6mNgfaJ/rcaBSXbEdJMu1MFiGAjYBchWlVhhj2Wbz7pl2x2IF6ccmpaKIGU/eBO/XyZ9S0wy5MEtJ2k8/hGz+DAlAEPsnNNnO8T0KUiXqfIFRkYyJNAtKOqsVIQHCZTNZq3DpdQy/Btk4oYD2VLd19qIAiXhiO9wDQ6ZRVioBxzVWF7nrsVQ==;h0TS+dxLm03RGBGcCw6unw=="
+images:
+  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "h1z/dwSTrOW66V52BRFs6s6aCPbGSPm7SgyYqNNm4o+baBoagm/LbQbSYq/htluGgv6wNIphrITgabck5i7Tmak6Rcr6iJNm6sWpEy+B1h4kkq8HqLw+yRQlf0QmiTF1/6YmVsLNdLxpmo1bZKmr8JShDs85g21LfDCbWR2AtaH1fyfEtrOssOnRGa6bJXUspXgyHqofFwC8zSxP9NMi6ghLGO1jyFoDtjgoGHfZarUvPa+snl/je6jlPZg3+5JWW9KuXZ0J3eyNO8nF9z0AbU1QaR+ocEH6GBDois7zX5lxkzYNTQ5rK/hUCgyZOqWFCrAYDVKEJmDb1IzBlAfRcxawptRXISwKTfQTy5Jx94o=;TlcRljD1VdMmeS6Y4Yx17Q=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
+    excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
+    publishedDateTime: 2022-07-07T22:20:00Z
+    webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
     publishedDateTime: 2022-07-05T01:13:00Z

@@ -265,6 +265,20 @@ related:
         width: 696
         height: 452
         isCached: true
+  - title: "Meta Releases Open Source AI Machine Translation Model"
+    excerpt: "In a project called 'No Language Left Behind,' Meta has built an artificial intelligence model — NLLB-200 — that can translate text across 200 different languages."
+    publishedDateTime: 2022-07-07T23:35:00Z
+    webUrl: "https://campustechnology.com/articles/2022/07/07/meta-releases-open-source-ai-machine-translation-model.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 56
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220707translate.jpg"
+        width: 644
+        height: 430
+        isCached: true
   - title: "Meta's AI can translate between 204 languages, including rare ones"
     excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
     publishedDateTime: 2022-07-06T13:19:00Z

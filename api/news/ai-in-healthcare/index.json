@@ -560,40 +560,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
-      "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
-      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
       "title": "It’s alive! How belief in AI sentience is becoming a problem",
       "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
@@ -1329,6 +1295,49 @@
       "provider": {
         "name": "Physical Therapy Products",
         "domain": "ptproductsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-global-gene-therapy-market-report-to-2031-players-include-novartis-bluebird-bio-spark-therapeutics-and-cellectis-researchandmarketscom.md",
+      "title": "Global Gene Therapy Market Report to 2031 - Players Include Novartis, Bluebird Bio, Spark Therapeutics and Cellectis - ResearchAndMarkets.com",
+      "excerpt": "The \"Gene Therapy Global Market Report 2022, Vector, Application, End Users\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global gene therapy market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_88f29db6-7e59-5f35-92d9-aba5d3a3dc1f.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_88f29db6-7e59-5f35-92d9-aba5d3a3dc1f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
         "images": null,
         "publishers": null,
         "authors": null

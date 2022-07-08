@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-07-world-self-calibrated-photonic-chip-inter
 ampWebUrl: "https://phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-world-self-calibrated-photonic-chip-interchange.amp"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Autos
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/world-first-self-calib-1.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1140
     isCached: true
 
-secured: "8xVpyYTmTBRgyFnZsYJf9aM18ZUIoti1JVtXv9zcLkQs/YMEalT1qbAmF2TEMLtwplwyEMSWZXHJEk8Q4gpqBkDj3SxLPEOmtoM+4vr7cM5JD1V3eX7RNWNdv0mzWV24yP7ghhf9slUrrGgjTpIgmincnDzIzBqdhKIZH3mft+EWX6SHNk8qAZjdoRQL/lrAN3zf23lOKcljwiK3orES+Vq/NkMR6JrnWIEtn89JYpuuVs4kwbrdIG2MS5wjnQvK7hTesdZ9i6xCX6AbPkGwjWdwC48QauZELmx9H1otl1m2nQjqphDMsBSW/5iMrEkxZvwalHw72gDI3zyhZZyXjP7Xern5JEkqZfcP/Md1E0A=;A1ZbAC5FSCGjYznoVRiRDQ=="
+secured: "Vk+SZ0fQ1fdTA5URkk0MFkoYu+lUVL6kEHVowGbehq+u88k+5pKsLhS7bMBAgBkBs4P0AtoDsdbwhbzRlsZMVJWYllTGdcblXyyc1/HjBRhbVr7WY6/vTM/PCO42Xoa9TLySv2XE6DZDQJMWKbYB8MX6zZmOzGeIARVUzCJOTvOl3h9oSOj+6Xi9ip+fjLCNQMpZbKF2tNMEsHwQwLaSs1ZNLNCl58+f3TarUU7FRphPqO1l7FfMHoy1Ur6QL35wYBqc3rxt+VJMo1rBKO6LlkJGBwnpBx6kuHhFjpoMfsB4MNgTUZe0w+qdy3B5V9ueu1kREFG1K/MJVyN4KZP9ry2yMHUFAlpQRfCpCUriW3OqP9PQfngc9PXlCVBBpNC7BPE7ls8Q4LTGAtZLlBrvHvK9xzmmR5Vw/sARhunggdjhAZ4FcOpwgQl0FSH3OFBfF9nqIx0xCZKmh7aEP8JUHGW1oAJ0f8ITnqUsyhhK/AOnPr4S5vLjOemb3PwjDuCJbmDQNeCyGkFYgjm2XiJv3Q==;NZXpbTorvtI8VJDoQEvrbQ=="
 ---
 

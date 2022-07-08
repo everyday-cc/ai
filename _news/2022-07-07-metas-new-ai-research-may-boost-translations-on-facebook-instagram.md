@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/social-media/metas-new-ai-research-may
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp"
 type: article
 quality: 91
-heat: 101
+heat: 102
 published: true
 
 provider:

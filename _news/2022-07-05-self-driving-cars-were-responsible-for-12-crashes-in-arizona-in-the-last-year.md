@@ -55,6 +55,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
+    excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
+    publishedDateTime: 2022-07-07T22:20:00Z
+    webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
     excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
     publishedDateTime: 2022-07-04T09:46:00Z

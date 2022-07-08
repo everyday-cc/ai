@@ -71,6 +71,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Why ‘facial expression recognition’ AI is a total scam"
+    excerpt: "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam."
+    publishedDateTime: 2022-07-07T22:10:00Z
+    webUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Amazon and Microsoft deny using Flickr pics for facial recognition, as suits test limits of privacy law"
     excerpt: "Facing a pair of related lawsuits, Amazon and Microsoft both acknowledge that people working on their respective facial-recognition technologies downloaded IBM’s “Diversity in Faces” photo database — compiled from"
     publishedDateTime: 2022-07-06T18:25:00Z

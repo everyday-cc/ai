@@ -565,6 +565,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-28-openai-taught-a-neural-network-how-to-play-minecraft.md",
+      "title": "OpenAI Taught a Neural Network How to Play Minecraft",
+      "excerpt": "OpenAI has detailed its efforts to teach a neural network how to play Minecraft. The organization says it used a \"massive unlabeled video dataset of human Minecraft play,\" along with \"a small ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/games/141180/openai-taught-a-neural-network-how-to-play-minecraft",
+      "originalUrl": "https://uk.pcmag.com/games/141180/openai-taught-a-neural-network-how-to-play-minecraft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-tau/openai-taught-a-neural-network-how-to-play-minecraft_14wj.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
       "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
       "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
@@ -1293,50 +1345,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
-      "title": "How machine learning AI is going to change gaming forever",
-      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

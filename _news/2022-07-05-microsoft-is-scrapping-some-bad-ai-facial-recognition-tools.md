@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Why ‘facial expression recognition’ AI is a total scam"
+    excerpt: "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam."
+    publishedDateTime: 2022-07-07T22:10:00Z
+    webUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Cloud4C Achieves the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Cloud4C, a leading global multi-cloud migration and managed services provider announced that it has earned the Kubernetes on Microsoft Azure"
