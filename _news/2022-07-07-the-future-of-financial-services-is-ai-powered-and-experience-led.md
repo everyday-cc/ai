@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/the-future-of-financial-services/"
 webUrl: "https://www.zdnet.com/article/the-future-of-financial-services/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "EU AI Act remains murky for financial services"
-    excerpt: "The EU Artificial Intelligence Act’s broad scope and definitions leave many financial services firms perplexed on the exact details of what will be regulated and how to be compliant"
-    publishedDateTime: 2022-07-05T08:00:00Z
-    webUrl: "https://www.iflr.com/article/2ab8wjf0lpfosxfm1o074/eu-ai-act-remains-murky-for-financial-services"
+  - title: "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling"
+    excerpt: "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),"
+    publishedDateTime: 2022-07-08T16:53:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling"
+    ampWebUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
     type: article
     provider:
-      name: IFLR
-      domain: iflr.com
-    quality: 37
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 53
     images:
-      - url: "https://assets.euromoneydigital.com/dims4/default/b809668/2147483647/strip/true/crop/600x315+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F68%2F3b%2F5312dd204b2eb7407d74680bdf88%2Fartificial.jpg"
-        width: 1200
-        height: 630
+      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202207/GettyImages-1097225424.jpg?itok=M6ZV1Gxw"
+        width: 1440
+        height: 500
         isCached: true
   - title: "The future of 5G: More features, more spectrum, more AI"
     excerpt: "If you work in telecommunications or a close industry watcher, it may seem that 5G has been dominating discussion for nearly a decade."

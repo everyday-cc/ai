@@ -144,6 +144,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ford, VW-backed AV technology firm Argo AI lays off 150 workers"
+    excerpt: "As self-driving AV technology comes under increased criticism, the company that began operations in Austin and Miami this spring says it is making \"adjustments to our business plan.\""
+    publishedDateTime: 2022-07-08T17:11:00Z
+    webUrl: "https://www.smartcitiesdive.com/news/AV-self-driving-tech-firm-argo-layoffs/626867/"
+    type: article
+    provider:
+      name: smartcitiesdive
+      domain: smartcitiesdive.com
+    quality: 37
+    images:
+      - url: "https://www.smartcitiesdive.com/imgproxy/bJPtyJy7EJClg7TW8xC0j4rV_-JXPbf1rznZ5J6cjJQ/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0FyZ28tRHJpdmVybGVzcy0yLXNjYWxlZC5qcGVn.jpeg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Argo AI, sponsored by Ford and VW, fires 150 employees and pauses recruiting"
     excerpt: "Another IT business has cut its personnel as recession concerns increase, this time Argo AI, a self-driving car technology startup financed by Ford and Volkswagen. According to people acquainted with the company’s activities,"
     publishedDateTime: 2022-07-08T11:52:00Z
@@ -186,6 +200,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "ElbheftcrG7muVLNgJ9Ti2J7DaECdLEboc3xMVm1vOO+Q4Bvxw36+oBuKWuEe+ECj4j9fGX3l5wL21OyvGn78/n/OpDWg6X5QCJzwhnc6txTeRbEN8ZFYwgprhnjfYt9OzG3mUdSzWjfS1J9NApzLpeWvbD+UnOH3sPeK4SmfpJN0Htu5R2bX+wlkjFDbDlfJwBVdQV62FpfTvT7/i10ADnl2pFxJLTqgYbxxl9HgIWimOfetSeuO3PLWDUD0PsYqmexs35eIslapKWTfDusBidC/9s2050I1ox8i6PQr003Q1AspC/pRcOETPnYIHA56IGTq3sJ53p2ElrLEeKkoALTyrjxDXGPZ7c2v8EmKMw=;EoxsZ3ri9EfxrmIpIIYhJQ=="
+secured: "3XjsQzZA1PHUgQDs4QB1qMBszPpkFGhL95sEG9mpU+LS6dMpcENtHcsIr+EOfYobcfvG4xw0U0eW29RyDUkA4jnQw8gdh0w2MUlr/HbF2AHZl6XrhUV1xkmEIUkJ3j3OvcdnL+Ne9HdiL2I7aQ/5eRipUGSt8aS/rtxBbSZXPb1zH2ardhwFPYreaFhyS1zcXI5u4nmUIYkIz4hL2ubq+oWi4OQzHb93tMUjZEd1Lnsq3ngcYjBwmFYYXdhxElJm+aiVDHL0IP/U37C5gajHBdD7nlrHHOqZVeIpYbGV+kVKIz5Y72a0MaMR5DuJ1fI2p9iXNTM+izIQJYhfNRS5sYu3UUyC2vSfWwNcUM334DO0o0gwBqy0qA/JA1EPQdNx08xzYjvliw9xEgRpRJH65IVYOaDh0jYc3uGGns7seGtFiJVwVwJpLp9rLbJNz4mWzYlmeOzG0KWc+HI5FR6a0o+hUySefHogx7AU6CVQADt0xpTL5nYy6NRxxWqqssMXUM54jPE4Osj8eK+Js5DRyw==;cOUzDiKnSYedQRQnkpO6Xg=="
 ---
 

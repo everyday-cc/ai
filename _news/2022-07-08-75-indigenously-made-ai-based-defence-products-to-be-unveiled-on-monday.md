@@ -1,0 +1,63 @@
+---
+category: news
+title: "75 indigenously made AI-based defence products to be unveiled on Monday"
+excerpt: "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d"
+publishedDateTime: 2022-07-08T16:41:00Z
+originalUrl: "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece"
+webUrl: "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/"
+type: article
+quality: 59
+heat: 79
+published: true
+
+provider:
+  name: Business Line
+  domain: thehindubusinessline.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://bl-i.thgim.com/public/incoming/bnps89/article65617742.ece/alternates/LANDSCAPE_615/AJAY%20KUMAR.jpg"
+    width: 615
+    height: 383
+    isCached: true
+
+related:
+  - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
+    excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
+    publishedDateTime: 2022-07-05T05:21:00Z
+    webUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/"
+    ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 50
+    images:
+      - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "AI-based software to detect illegal constructions on defence land"
+    excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
+    publishedDateTime: 2022-07-08T03:12:00Z
+    webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 37
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
+        isCached: true
+
+secured: "NiELyQgW4ZRhpWE5RuNwERihJcfD02++YpC+FhQ4ncNeUtnGQWZ29vziO8IHzFg0jlIhKrzWhf7HX73mT8xYTn7EZ8qjfqiijTynJQGkzICPgwSdQqJZgt+1m0nt+T5a9G71wxH7J4aBKY4MSDGrMAPamTC0WYurkJKe03h5Lzs+eOHjpRpAYtwMdPy+n0/0Z3NXaSfJM6GcPP23YUR4Oy7L7lTOv47zNar0gTO8WONR6jkTlweyAiPJb00LVNiV4whMWyec51UdcUrDAXsg9e+li64xxkMf0SWKKJhZ6rHDV62mT/5UczMj3WX5rlJCkNLqZNxOP8jZaCVU0QOE8DJdK+WCx/69kJmtW0z2T5Q=;j0Yw1bXl22dXGwC0C0Ci1A=="
+---
+

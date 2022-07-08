@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-08T14:48:00Z
 originalUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/"
 webUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg"
@@ -412,6 +413,6 @@ related:
       domain: siliconrepublic.com
     quality: 36
 
-secured: "Hq87yDZjhmaHR9Q2qRA96eoHG/VknO5BNx5ac+jKLxBVAK9mLVSSnkjFPtrCV0BOscmqzrXH8F43sPLAu/iu3Q/1tnEhTvUo1Jgbnx2FHAC6kVKKr44qRpcOWPSc8EDF/TsfPbjwY2UewgbrlTwpJQ0OGH7cHBSxusrIFFLJI8E2qc/cvHRZbdRZPIcsQ1/jT0rlIWCPHzvdVYNJw0rY7gOgGkKgTRp9w+SrZyN+ul+O3rQpNKPtIbLU8I+wkUjwpOLhcMtykSzYZP1cttwOIwLt246VRuebpKv9I0eh3/EjVMSonN6i5CXEBYI18DPC+zNgUYxlpwo3+CleECSNX0CA8+p7ItOrAMc+GRvJGaI=;BQzVeI0fo5DYHqB0JelnKg=="
+secured: "d6k1n+VMiV5OsFUvvCpgGdjgyTlFnGHh0aNIvOX+xB71rnVkIX5FgFx5r8X6VD03/W8aednX3QHfq6TnOYmZ/gxmqAKvyHdjJKWTqr8b0RPH9z2eSua8dIqI1p419cHoKQ1h5O9+9toC96msciwHtoIvIYMy0k+4uLX21sDW/hG/ZigAVPCJmD6jMWRk6XFSEGyks4Q7zhvGfkTLlGjJWTVzEmQienYzT35160l7xB+NoxiueGN3rl9Rx2qm7EjMnCY9hvQEyjrkm7lb/v0iAvb/STQ6gqoz/joUGhO4kPNAETnh7+GqqLZwxeLCekwIH7tFqt4DAzLmf3xtEy1VjPc0q7uCFFt7UiwAINi3x47F4nwThLrD+Tc6tKHD8Qzdy5mFkW66BGDcJIv5w6ahDXdE/J3EfIb6DbHO8OfFFMEyJPpci4iZd6TWZx6dfUyLQS89j9/JhPpFMwl1AUEB4UCKUW/915k9D7fxgguNURQ1Ftkd6C61N5OzCEhxM2geQXZYkqHjcIHOaIVXUBMleQ==;ZQGLU5cssksQok/zjO8piw=="
 ---
 

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Thinking Of Buying C3.ai Inc. (NYSE: AI) Stock? Here’s What You Need To Know"
+    excerpt: "C3.ai Inc. (NYSE:AI) price on Friday, July 08, fall -0.10% below its previous day’s close as a downside momentum from buyers pushed the stock’s value to $19.55. A look at the stock’s price movement, the level at last check in today’s session was $19."
+    publishedDateTime: 2022-07-08T16:22:00Z
+    webUrl: "https://stocksregister.com/2022/07/08/thinking-of-buying-c3-ai-inc-nyse-ai-stock-heres-what-you-need-to-know/"
+    type: article
+    provider:
+      name: stocksregister
+      domain: stocksregister.com
+    quality: 34
+    images:
+      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AE Wealth Management LLC Increases Position in C3.ai, Inc. (NYSE:AI)"
     excerpt: "AE Wealth Management LLC lifted its position in C3.ai, Inc. (NYSE:AI – Get Rating) by 7.3% in the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-07-04T08:32:00Z

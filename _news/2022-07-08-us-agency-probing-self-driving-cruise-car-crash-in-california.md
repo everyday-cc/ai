@@ -57,6 +57,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Server outage causes Cruise self-driving cars to block traffic"
+    excerpt: "Around 60 autonomous cars began behaving erratically and ended up blocking traffic in San Francisco due to a server outage. Self-driving car company Cruise, which is majority owned by GM, had an outage in late July that caused traffic disruptions around the city."
+    publishedDateTime: 2022-07-08T17:18:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/server-outage-causes-cruise-self-driving-cars-to-block-traffic/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cruise.2e16d0ba.fill-1200x630.jpg"
+        width: 960
+        height: 504
+        isCached: true
   - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
     excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
     publishedDateTime: 2022-07-05T01:13:00Z
@@ -95,6 +109,6 @@ related:
       domain: nbcnewyork.com
     quality: 4
 
-secured: "wvbY4jkEus/Y6eaoTR25BtecynleLaEXiAkGbsGf85FcHC+z6h5ODbViDeeCjHeMnA5aOGActN0crqrQQlIHQyfQOupWH2ifMMWMtNAmVWscdVKBsjmDqiIYU0ob/2b9LnMi8Vg4OKfBUdVFu2zUouTeIjjUDK+NgDXXeCSdr3nzm8RxU77agYVKxEsJnx5+9NsjY+8JqjB8m6dGGS02B+dDTaNeHM41TLj5SA9a3Zf3CYS4CO33+RPLoFTTgARSihA+FZEMkWf/gKyGrBnzloRv8JYYS5HmK8RZWAC97x3HFLV5HU6dT0mj48bOf1x00d51DICRN1/W8VK15UVUhuxworAgRj3OPrljmcNjpOw=;ceLAXSw3rY6Sk9et3Mjobw=="
+secured: "mbxlSnHM4/+wKLIrrXsz09/3QnAKTKynzHf3RnMzcq2DonS48Y21F7sngn9otrW/F0Jzv0YfMCjg6up1+mYa0DhKFXWgVMykUV5pVoNSCfyAD7NwTERWgotGCvxMjwUvBEOsYjC2cRqo5HNTm+jR2QuejudoPJWVQwJKoCNUBLB1pOpO7I6NchirUcS69mXJBMEWcLVXu/beAm6WtZiZ0MCOfdsSZJJuHouz6ZQ7nYRIDkaHfITWsc0/Nga9JD2Nbxfk3W+AaYzLocdhH5Av/uMcM6j5Sc6SmlX26OhE2aQ0kgJXdXQRvczeeMkCJcpTh1t3/ecIB5eZwvElrkl2VA5iPGWtZUAETyp0UGNO/Xs3RQr+j8FH+D1DDgdoF5L2b7Q2b8I/CpZJZVepxvdbaDpQ3+cjNnP3aaA4cckA1CA8MdQDLwz0Q2zpTzwpIVWtHYURKPlUog/MfPrKk49x920ILzU4FHSaXFfnX2Ag0O1/jTakVqMds/If0Jb3glJEGXo3dVBUPnRMXwgXY3TzRg==;6YnQVdvh3nsq1WJbr/vnYw=="
 ---
 

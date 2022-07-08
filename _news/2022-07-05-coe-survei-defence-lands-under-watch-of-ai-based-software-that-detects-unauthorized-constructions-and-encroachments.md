@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
-    excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
-    publishedDateTime: 2022-07-05T05:21:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 50
-    images:
-      - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Artificial intelligence and satellite imagery detect 1,133 cases of encroachment on defence land"
     excerpt: "Action has been initiated against 570 out of 1,133 cases of encroachment and unauthorised construction on defence land detected by the Defence Ministry through the use of of artificial intelligence and satellite imagery by the Directorate General Defence ..."
     publishedDateTime: 2022-07-08T11:50:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/rzfj0z/article65616056.ece/alternates/LANDSCAPE_615/IMG_bl04_global_tech_2_1_NP91V39T.jpg"
         width: 615
         height: 383
-        isCached: true
-  - title: "AI-based software to detect illegal constructions on defence land"
-    excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
-    publishedDateTime: 2022-07-08T03:12:00Z
-    webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 37
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-        width: 500
-        height: 500
         isCached: true
 
 secured: "Q/M+KQUhTJYrT6bsU1TQYEsgrZdwKASqgiPTg0aSnMbg2xYkMNU8f5su0s57OkljM3wG03w8MZMwbO3C1TkWsI8iZ/2n3vtuz9krpraitaufiUnzEv8xzPY44+9tvfrY5H6baoOoOtB2bCszvBBBYStFPtWG8MCtGY/sOCTmaXVgZCWHuXXobhLLYgBAb6fOy23ykdU3OgGHVWNIp2U7/QsLsNkGHfHOIarPvJu1YGlTizC3gzy0kIm9dFs4OxhPGcMN5a+80U/814TkgVzTNFZgqK0kOoNZ3QoMcQbepoLu14JTx/GG+uESwGxEEuWWKyInv7eltzdRf0SzLkKXihwb2nkqb3UmsElQNTBfVWk=;c5B7UvVA2yQ+2AFxq7nekw=="

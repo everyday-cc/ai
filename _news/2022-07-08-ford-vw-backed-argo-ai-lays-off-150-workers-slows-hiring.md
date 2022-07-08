@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-15
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
 type: article
 quality: 87
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ford, VW-backed AV technology firm Argo AI lays off 150 workers"
+    excerpt: "As self-driving AV technology comes under increased criticism, the company that began operations in Austin and Miami this spring says it is making \"adjustments to our business plan.\""
+    publishedDateTime: 2022-07-08T17:11:00Z
+    webUrl: "https://www.smartcitiesdive.com/news/AV-self-driving-tech-firm-argo-layoffs/626867/"
+    type: article
+    provider:
+      name: smartcitiesdive
+      domain: smartcitiesdive.com
+    quality: 37
+    images:
+      - url: "https://www.smartcitiesdive.com/imgproxy/bJPtyJy7EJClg7TW8xC0j4rV_-JXPbf1rznZ5J6cjJQ/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0FyZ28tRHJpdmVybGVzcy0yLXNjYWxlZC5qcGVn.jpeg"
+        width: 770
+        height: 364
         isCached: true
   - title: "Argo AI, sponsored by Ford and VW, fires 150 employees and pauses recruiting"
     excerpt: "Another IT business has cut its personnel as recession concerns increase, this time Argo AI, a self-driving car technology startup financed by Ford and Volkswagen. According to people acquainted with the company’s activities,"

@@ -24,6 +24,17 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "Understanding the AI-enabled drug discovery landscape"
+    excerpt: "AI-enabled drug discovery companies (AIDDs) have taken the  bioscience world by storm, raising more than $5.2 billion from  investors in 2021, while 15 AI-enabled candidate drugs are in  clinical trials,"
+    publishedDateTime: 2022-07-08T17:27:00Z
+    webUrl: "https://www.thepharmaletter.com/article/understanding-the-ai-enabled-drug-discovery-landscape"
+    type: article
+    provider:
+      name: The Pharma Letter
+      domain: thepharmaletter.com
+    quality: 17
+
 secured: "XN9+Oeivs6hGUoXSxZGCfn7dQoaf5+Rxh+NUa2IGr2Rhk5ni2139imTz9HwBe0rcxbl+lqJY7odJech2SZq4H+0v7y7fFmQQTP3InU7DuiHHZUR+ftsG+pF7gyjsfEUYI/aF+LK53gExaBMejIfzomOS5ZI/kVda55ZHxhepsE906GgQ8YEXviPnDOnjHj3pGc5hvQT3bl0aT59geDB52a53LqsLerJzCIry7JtyP18X8AEx7i4WXZ8hgakpKTpl4O63GUy2eXfYTsYS5SM+Y53018rKYpesQtgzSxbttHNktKJV2L+yo8pPZg0v1USKY8DuCPj1uFvsOLs+C/KxFR6uSPYTHt27NzfXmUlxkI5McEGUHiQSWGxo5jXwMob1BkugwDQCLDIx4xbyYCxsVuhFt3M6wNhAhKXJxwro8AK9akx1Neuoy73I3EYakdVvCxf1yOR+Ut0mkVCPkwjSY79Uo/E4MgRGO11HGiRF0xUwbnPpcL20S6acuHpRY3qCmr44IA5vx/WOnjQSYFeiSA==;yoUm5d4OMrLzInty+d5B/w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/national/artificial-intell
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/artificial-intelligence-and-satellite-imagery-detect-1133-cases-of-encroachment-on-defence-land/article65615399.ece/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
-    excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
-    publishedDateTime: 2022-07-05T05:21:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 50
-    images:
-      - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "AI-based software to detect illegal constructions on defence land"
-    excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
-    publishedDateTime: 2022-07-08T03:12:00Z
-    webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 37
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "CoE-SURVEI: Defence lands under watch of AI-based software that detects unauthorized constructions and encroachments"
     excerpt: "SURVEI, established by Directorate General Defence Estates at National Institute of Defence Estates Management, leverages the latest technolog.."
     publishedDateTime: 2022-07-05T10:12:00Z

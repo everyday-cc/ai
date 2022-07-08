@@ -3,10 +3,10 @@ category: news
 title: "Could Artificial Intelligence Replace Therapists?"
 excerpt: "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy."
 publishedDateTime: 2022-07-02T14:44:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
-webUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+webUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
 type: article
 
 provider:
@@ -14,6 +14,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -22,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "tqxL2dzjgyImwK/N3CW9HG/u52+6KNRPdU+Vn8baT20u/72aWqOKto1ARzLmjM2r8CwOockktngRbgUUD03JEljQffUUIFYSgSLiORLNt29F2saqd0wtGQS8liWc01gDhxSXrigQ9zzR3FkIjrGIjbN7frngrrcYtlpldbTTSsU9dOPZ7QzH8AcuTvH+BxbBL3mTmBIo3ZP4YetoQCBfOwrRRU2QUe0+lDq3b0b3h4DDiEF4eRneQuAFNc58e49Qev7KO52jV/ePyTWmX+5yHgFRfDtQ/HybU7yYUIRGJZ540HlpiOPqyRA+GKhpSXxq9N5COIFAJkHhnZgDVzu2OK01y01gS+DCNnncvB1TEgA=;gCr+ioDH9PrNY8R4fmecDQ=="
+secured: "zfVqqp76Vw9YxizvoPP50w/kzEFhdNRaFjSxXFl0GIkj9s9tmCFBD1C3rH1k67+V3NoDd/0PXXDPTf9aQ37JTNE2xaZeMeFTLzkK7jahkHxnsg4ipo0pDI4PR3QJy7X5BURC+XLI/7wGcgBh4Sx+yWy5b02Wy39z0D3hj0XZYzhVnq7e20fWefV+4nhv0rPo+cKie/Mim/MO/Rv3VDWJTvbpLnAn6AKqFOSEsAM/K+wkEc0PtaPEv99by5pPIQjZBtrqbQPKbutld/kSZO1nbRr+5gW+jPPceOr70ZkLg8dhsXvXnD1EmRCE7vZmtB1qcznRNuwZlG/ZJ8dMjWLyO/oXkfd7xozUTe6LqDjw4L0=;LTgl95wE/cpucHFaoHGH1A=="
 ---
 

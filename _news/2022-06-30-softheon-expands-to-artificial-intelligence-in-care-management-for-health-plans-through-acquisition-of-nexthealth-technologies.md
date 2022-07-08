@@ -12,6 +12,7 @@ provider:
   domain: insurancenewsnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -20,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ki1p0A2ugtGqYo7CJDbZDSod1nMKRTXYZ1boipjBLQ8B6GPNScL6u4tVP7vXgoRmTRlQ2FX4sgmFB3XqQmufk+C8nrnd6QGiiZSApwEhFZudDO7TdMTEGdqOPsmL+bEbhXOy5RnL9gAnOjtc48MT4glku1yKxYlinbX/OhdMaGGl3cE/8fwDt9YBBOAANoCgasy0HxbkM4UFqShX049Tq2g2GcYk+9GHSOHFIynifSi8hiemxTuCxZ3auZ0BXv79FNc/sCd+70ImhRVsFFdDTeojeVkUJL/W12nQ9S33erle/JQuGdj7Txh9pQDKeYkY+kbr1qyxq03KByK78qpVtMw8qq06rP4l1jvXf/CslcU=;HqiJ6Evqpw6jTdMwdiojuQ=="
+secured: "LEKauRA+K9y6Mc7cwVYEkwMD/2LFNKKfjSyv5D2l/4F1bOt7+lP9XY6MKvpgocLGWxdo9wpPSNDVJcaTvDSe9piyykHDhIoh9aRCSQ31fgg7sYZbEXx+9waK6Iqi4pYl1JIX/VITziOUeYbyY/7myRih7AsidffwnSEnfQbmmIYuRvWIhRpjGWeGcRw5K3ONzFZHMqeTs2xGxM3oaIyXOW4QS07u7YFUapZrCJcUULzkGBSv2kNgVw0GdwOUzzRsJtdCfMH89027Q2hei68iE6OXPM0KX3B56RaUiO7O5HY0WHDA13w4EhMH9T7fSzyT7m33NltOsSMtiYMI9l5hU33HiiUolSRbw8AFqkktF0E=;Y/op4y9cSLpaaN1OqdmBqA=="
 ---
 
