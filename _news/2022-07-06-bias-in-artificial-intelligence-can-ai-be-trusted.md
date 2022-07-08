@@ -34,7 +34,12 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://scitechdaily.com/images/Trust-Machine-Learning-Models-Predictions.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "9hR9SR2hHShkI8gtOkGgCBSSIoiNchYpHtFoPPprFFYzVjmDYSGli/mj1VrPlSODIgKt36LaL/QnsyG7IWuuaZwmFqM18Kl3yVU0eYM3IgVi4iZMnrUax1+syOrbOMMJgxzJZ+9OGaKYum1h0YEThBeuTdg6a/QGars1CjLXFFDOJ8kn99tTYrFY4zwtaWr06M383EJFyE7YoPKboVbwppHYra1724ly8y29PCR9PgaNN58O0heDFl2wCKzni5XBTN4b5vjT0c2QGhLcFZ25E3ppaukv5mW1gztjjY49WyBqyTgvbW7dTMP5vfl9HxYFPeh2Lij2jrdi2i9nR0va8iDWh5+o/Yj0UQePCIg1wK0=;6Los1ZKTGPS38pZ0DO0dyg=="
 ---

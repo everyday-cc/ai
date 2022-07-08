@@ -99,15 +99,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "New AI To Detect COVID-19 From Chest CT Scans"
-    excerpt: "Artificial intelligence (AI) offers an opportunity to rapidly screen and effectively monitor COVID-19 cases on a large scale."
-    publishedDateTime: 2022-07-07T12:57:00Z
-    webUrl: "https://www.onlymyhealth.com/new-ai-to-detect-covid-19-from-chest-ct-scans-1657197381"
-    type: article
-    provider:
-      name: Onlymyhealth
-      domain: onlymyhealth.com
-    quality: 17
 
 secured: "lDwudu7nSIbLiiMGZth5pMxuxXmeR9yX3UIjxCPbCxvVxiFpiG9c5jG+g2FDNkWZJkqH1lLWstnqqesni4ImAjoIgnl3cWxj428HHRCyvvUJeVEwWBM3kWtT+eHsCgSjbIFDTYb7frQ6YXOiJbV0mBq+Kqx8Y19UlakNnQYREYVnrMg9PFYcz7hrdVgp0ewJ9WxYzthF+1fvD2vMwGkqjT4xyUCZkCAmINAWLJ1n9ecq07q1syejBwMSVcGKdgg3tutO2s/Rb/ZNM12+umdsxoc+SlrjFhO9L2dUhN+lEPsGpOeZq6Ohg6wfY5aGWy0hpCvGCSYhD9jHWwknci2YnUXEwleUujp640k1fhZ6Oig=;uf7jqGYzQa5YEhW9ugR7pQ=="
 ---

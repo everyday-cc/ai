@@ -7,7 +7,7 @@ originalUrl: "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/"
 webUrl: "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 624
     height: 416
     isCached: true
+
+related:
+  - title: "Startup Astrome Technologies set to Boost Rural Connectivity"
+    excerpt: "With the help of a network solution called GigaMesh, fifteen villages in different parts of the country may soon be connected and ..|News Track"
+    publishedDateTime: 2022-07-08T07:42:00Z
+    webUrl: "https://english.newstracklive.com/news/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 44
+    images:
+      - url: "https://media.newstrack.in/amp/uploads/technology-news/technology-news/Jul/08/big_thumb/5g_62c7d793f2627.PNG"
+        width: 1452
+        height: 900
+        isCached: true
 
 secured: "HVmYEmrwnQx40hIAjKq7mJS8sdaaVhCng/O0jYmqyvrbohLVS/Vn+bOqM5c4J0uhuRMYGpRFnfYtdpZJ43ZWa1eFzEK8hZF/TnL+lkdb6LxEc+uj3VSoD2pnpM0MGxThi7PHrO4/JLKm9hAe5CbzK9IviIWIZ6VDT+ieid7emIux5C+N9/ORhPg3u0pVENbgDYngGWVCdZw6qTjUlSn+6ofvbkzl368n9VuHsFR3YVBwEcAcGXqoqh9awuLBIcpK2kV6MiVvi3WsI++mhFn2kQd0o1iPetMxE2wcev2blakheIVzOHwiXFinsvnObAgzzvPRHc/xiSGHAU+MpB2gQfxbXgNaNzdntkDxKPoZvwMPaJ49b2EKnDtTuSy8hRr8Kql7r8IURO/FA1pu++jlpSOqerDLHg344/ggVAk7nbN2Xyo8pdYfXsLx8nEFIg6Y6x/U8F5Vd+b7W9XvMnsNF5N0rza7T+VgbbqQcpfzrc2D5lJEjhbrUjXhWTLgwBWjeEMccQed5iudp6cZoWaerQ==;e4DXyykcIzP4DzmKgLwBUg=="
 ---

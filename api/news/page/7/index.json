@@ -2,6 +2,134 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-29-roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models.md",
+      "title": "Roboflow Augments Open-Source Datasets for Improved Computer Vision AI Models",
+      "excerpt": "Roboflow has announced an expansion of its datasets and AI models as part of its Roboflow Universe initiative to help",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Glip_Roboflow-Augments-Open-Source-Datasets-for-Improved-Computer-Vision-AI-Models-1.png",
+          "width": 2917,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/amp/",
+      "publishedDateTime": "2022-06-29T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-tesla-fires-200-people-working-on-its-unfinished-self-driving-tech.md",
+      "title": "Tesla Fires 200 People Working on Its Unfinished Self-Driving Tech",
+      "excerpt": "Tesla is gutting a part of its Autopilot department, cutting around 200 jobs from its office in San Mateo, California, CNBC reports.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/tesla-fires-people-working-self-driving-tech",
+      "originalUrl": "https://futurism.com/the-byte/tesla-fires-people-working-self-driving-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/06/tesla-fires-people-working-self-driving-tech-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/tesla-fires-people-working-self-driving-tech/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-fires-people-working-self-driving-tech/amp",
+      "publishedDateTime": "2022-06-29T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-is-artificial-intelligence-out-of-control-start-here.md",
+      "title": "Is artificial intelligence out of control? | Start Here",
+      "excerpt": "Artificial Intelligence News Artificial intelligence is becoming “like electricity”— it’s being used in almost every sector. But what exactly is it? And why are many governments trying to work out how to regulate it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/",
+      "originalUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PATxJ-wwcUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/amp/",
+      "cdnAmpWebUrl": "https://www-techstore-ie.cdn.ampproject.org/c/s/www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/amp/",
+      "publishedDateTime": "2022-06-29T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techstore",
+        "domain": "techstore.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-spotify-is-developing-ai-tools-to-hook-users-on-music-creation.md",
       "title": "Spotify Is Developing AI Tools To Hook Users On Music Creation",
       "excerpt": "One tool will let you tweak a song’s rhythm or melody. Another can take the harmony of a pop song from, say, Justin Bieber or Drake and combine it with the melody and rhythm of a fugue by Schubert or Bach,",
@@ -775,49 +903,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "BEIJING — (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/",
-      "originalUrl": "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/zncUsKIEsDEvyNqMNghM_MO6a7A=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/OFJFR3BX5IG5WX6OLCK5TGCXP4.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/?outputType=amp",
-      "publishedDateTime": "2022-06-28T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-29-a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry.md",
       "title": "A modern-day revolution: How AI could transform the healthcare industry",
       "excerpt": "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28.",
@@ -1016,55 +1101,12 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working.md",
-      "title": "Case Study: EY invests in AI to improve approach to flexible working",
-      "excerpt": "Professional services firm EY has invested in AI-powered tools to assist their employees in the transition back to the office, while maintaining the flexibility they had during the pandemic. Digital Nation Australia spoke to Kate Hillman,",
+      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars",
+      "excerpt": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
-      "originalUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/Videos/Screenshot_2022-06-29_112924.jpg",
-          "width": 943,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-5-digital-transformation-strategies-to-improve-the-air-travel-experience.md",
-      "title": "5 Digital Transformation Strategies to Improve the Air Travel Experience",
-      "excerpt": "For example, AI-powered virtual agent IBM Watson (aka “Watson”) learns from customer interactions and knows when to search its knowledge base for answers, when to ask for clarity and when ...",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2022/06/29/5-digital-transformation-strategies-to-improve-the-air-travel-experience/",
-      "originalUrl": "https://skift.com/2022/06/29/5-digital-transformation-strategies-to-improve-the-air-travel-experience/",
+      "webUrl": "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1074,12 +1116,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "publishedDateTime": "2022-06-28T19:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1088,41 +1139,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-14-recent-digital-health-investments.md",
-      "title": "14 recent digital health investments",
-      "excerpt": "10. H1, a big data startup focused on healthcare, secured a series C extension June 9, bringing the total for the funding round to $123 million. 11. Artificial intelligence healthcare startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "originalUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     }

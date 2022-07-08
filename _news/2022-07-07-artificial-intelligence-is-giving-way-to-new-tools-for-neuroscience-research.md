@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-07T13:09:00Z
 originalUrl: "https://www.news-medical.net/news/20220707/Artificial-intelligence-is-giving-way-to-new-tools-for-neuroscience-research.aspx"
 webUrl: "https://www.news-medical.net/news/20220707/Artificial-intelligence-is-giving-way-to-new-tools-for-neuroscience-research.aspx"
 type: article
-quality: 14
-heat: 14
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
 
 related:
   - title: "AI, neuroscience and hardware: From neural to artificial systems and back again"

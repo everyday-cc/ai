@@ -89,15 +89,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "New AI To Detect COVID-19 From Chest CT Scans"
-    excerpt: "Artificial intelligence (AI) offers an opportunity to rapidly screen and effectively monitor COVID-19 cases on a large scale."
-    publishedDateTime: 2022-07-07T12:57:00Z
-    webUrl: "https://www.onlymyhealth.com/new-ai-to-detect-covid-19-from-chest-ct-scans-1657197381"
-    type: article
-    provider:
-      name: Onlymyhealth
-      domain: onlymyhealth.com
-    quality: 17
   - title: "Computer Vision Technologies Market Latest Innovation, Upcoming Trends, Top Companies, Growth, Regional Analysis and Forecast by 2029"
     excerpt: "The consistent Global Computer Vision Technologies Market research report presents the solutions that empower to arrive at smart, fast, and precise decisions for the business so that it grows and ..."
     publishedDateTime: 2022-07-05T05:31:00Z

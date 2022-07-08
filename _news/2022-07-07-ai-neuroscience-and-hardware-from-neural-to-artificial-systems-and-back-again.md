@@ -26,7 +26,12 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 14
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "DIdjYvCUdvf2WHAmEcv0Kq1je9+rQ0iEyosk5To8dE6UidgOJIPhYzyiIpvJELxL0772+nNJZN/oxDvRqvL0raV5fJESNVSe4cYe4XO5KGO263VSoKTar7J81jhuq8SK/Nf3emJ9HocM/UVNCJe3idBJgCMqnNAVNRtvlzeUDelBfNnDxQSEy+Wy8D9tUy08k5PK/L5bIFbDeiCeNcpgWBc0+DUl632r6apL2z+xWmWW3xauyhNpzgoeQlxidIDH/rO2wsfn3RZvea0cWEctib0Temc93uyYxESBUZ0GfVF3h/jYV5dOnisYc2qZ2qUBL9IUAynAU88q9l+0JJMzG0DQJGlQiVaoTr9575nZPak=;qEQS4dybREuCSF7z2w3p1g=="
 ---

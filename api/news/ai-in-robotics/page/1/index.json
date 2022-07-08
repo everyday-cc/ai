@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-08-nokia-iisc-open-coe-in-networked-robotics-in-bengaluru.md",
+      "title": "Nokia, IISc open CoE in Networked Robotics in Bengaluru",
+      "excerpt": "The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92743538,imgsize-77000,width-1200,height-628,overlay-ettelecom/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538",
+      "publishedDateTime": "2022-07-08T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
       "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
       "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
@@ -1291,49 +1334,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc.md",
-      "title": "Artificial Intelligence (AI) Robots Market is booming Globally with Top key players – NVDIA,SoftBank,Intel,Xilinx,ABB,Fanuc",
-      "excerpt": "This report studies the Artificial Intelligence (AI) Robots Market with many aspects of the industry like the market size, market status, market trends and forecast, the report also provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/9d10d8d3314df424ef41caaa66d71f8209d22a35-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

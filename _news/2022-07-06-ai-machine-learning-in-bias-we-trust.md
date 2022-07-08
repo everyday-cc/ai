@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-06T07:54:00Z
 originalUrl: "https://scitechdaily.com/ai-machine-learning-in-bias-we-trust/"
 webUrl: "https://scitechdaily.com/ai-machine-learning-in-bias-we-trust/"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
+
+images:
+  - url: "https://scitechdaily.com/images/Trust-Machine-Learning-Models-Predictions.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "Bias in Artificial Intelligence: Can AI be Trusted?"
@@ -34,6 +41,6 @@ related:
         height: 256
         isCached: true
 
-secured: "fcnkVue107Vt4zkAsTpBHG90dQiYEEv8//0avwp+P76feYn7v7yLyRfwM0dQnnN7dAvo/1cScQmmAaqpI6SFQ1DIx8u8oPXhZpyb6k3WGL0FoO6bGm8SZbmFUkTna5a0R7BikSl3+G18ltMwMNoz6i9GmNmu9O+yKv3hYLZb7VOQky2J9K7ILrvjukzIGSxEGeA4q1r7QoaGKcM44FQxHOFZUHO2bd6OdedAZ2xZ1aw0V2gfpLRxg6zyn1GIfj+vBzYNwcVXjU9obg50HDH8pfS5KexKahEcTlEippMz5g1u+0hw0o32pTam8UmvT/piLsAH+R+Ep9XW/rQaNzD1LewsGrhDRXSBkzCy4NUuFTsl7CbaIUAhOdZVwWYWiU6I4swxF+wk0A9PE/vnGyD+bfeQ0o76wnUiG6hANXa20yIV9G6KYpgi55j/mJBGu2Nfo/66ihpq5HE9bY5AuWxny81lVHpRtxM0Wks4Uy5BUUVk7urTK3gaSluVOz86CsOMwOwa2XCPMFgIk4hxPU/6zA==;q/kXwutNgwJmIHBxxeeX8g=="
+secured: "CGqlBcaa0KLkbx2psCXBmgAN6Ry5e7NzvcPlb2jL46RxPpYQYjB8Vk9aLWu44Dy+kxAciFym7m0U3BmSv/5hMNJn5xfS1NyDJ90U5ZawBg/Tc0k5ttfxiyu0KG8sfeP+sBNZJRw7co6ZcIiI16y1LSRTM15TxjjkQcsFFyZCqro/5WNgmn+GxAAWdy5G/moP8A+fQKYXcBW+5iaM5CEtCvtm8KiPhjo6vvJHuZ3vS+P9lkhZ1nxMYDPPz4xe/CioF67pPVBU1oCiBcfc0TLac85UYOv2XG4qeDrBcJaZqcSHvyLaY1PCst0aIRetdjS+q3pKNGWvbCmfTIF01pfNQbjwQW9SoLahz13qBy/gLDc=;54jj3eHxcVxhy+zjKngW7g=="
 ---
 

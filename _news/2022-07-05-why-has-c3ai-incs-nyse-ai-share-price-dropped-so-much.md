@@ -27,6 +27,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
+  - title: "C3.ai, Inc. (NYSE:AI) Given Consensus Rating of “Hold” by Brokerages"
+    excerpt: "Shares of C3.ai, Inc. (NYSE:AI – Get Rating) have been given an average recommendation of “Hold” by the eleven brokerages that are currently covering the firm, MarketBeat Ratings reports. Three equities research analysts have rated the stock with a sell recommendation,"
+    publishedDateTime: 2022-07-08T06:26:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/08/c3-ai-inc-nyseai-given-consensus-rating-of-hold-by-brokerages.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
 
 secured: "GcQ211en/eEB6BUQPEBW/yfSzilflPChbS3fXYhmytS9VVvr84drrpoLB6Gb1H4/CPJoLcrj40vNHyg3u8NbdIDhhPBeww+hww9eSfsRDCjCYb5brVnP/NkWwuT43cKW8PYt+bZW/ey8bm99HiHBiDpTBcaz8fG2YcS9rqSXZZjcFOIndPbP0DbKy9a/EgiGAr1cqc+VOPVDmW0revyKFhCcn708nSu3DOXm4b49qRF5oKySg7tZrl/MjoX6g+tOVLiaIHx+kxV+tm7CxN3Rvxqj2pFpU+wTZc9uxRP+45Wjz3+rmeb8BWd4d6qRKuOhljHqmUdyWKicktUx0BYOdshXtov1Ztm5pP566WNYk0w=;aCIKQTVKR4INTIxsToh5zw=="
 ---
