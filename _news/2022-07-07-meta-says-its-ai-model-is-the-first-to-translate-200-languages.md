@@ -358,6 +358,20 @@ related:
         width: 803
         height: 419
         isCached: true
+  - title: "Meta launches AI machine for translation research"
+    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
+    publishedDateTime: 2022-07-08T08:00:00Z
+    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 41
+    images:
+      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Meta’s AI helps break language barriers"
     excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia"
     publishedDateTime: 2022-07-08T08:52:00Z
@@ -383,20 +397,6 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
-  - title: "Meta launches AI machine for translation research"
-    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
-    publishedDateTime: 2022-07-08T08:00:00Z
-    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
-    type: article
-    provider:
-      name: Media Update
-      domain: mediaupdate.co.za
-    quality: 39
-    images:
-      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "/kBksileoLUQhMXvZpqicnhpi0b4iYjVa7RROEguws2m7fDzDY7miFoRaXW7k04Upoz4UnX/fHAN+aqN+GmwOKskKM6yXX3otTilxeVD6AkgsSJWkQ7QSzF3ofDtgdifyrdaNlCyQqiNTg0vlCh6/svh3jY3EerFE/XsScLegW2VPKZeZs8zLXIiYS++AOsLD4gTt4Yu3dZLnMXFIqRRxaFTbSgK8RPqnUFLJfCVTVJ3+MoenS/j/vUsL605b09jvXd15t4BSbgRzv1kF8hV/NPtGkEUr9T8DibACgssSYUrcXMUG60P6vR5I5ZOZlfJZPJjx9+r/t9sghOezfIjR1bHuTPZt/csA0x0Ej6VtNfSB5cFN1wm9hE1zMtCE0u27RAP5LfJODOHENoVINfghS2io8qPaW7IN3H5UKDYo8UNUqqqduOHHY4Ym/d3wS9ruDtMi1epZWASJMy0ecQzvAz68upajpypzElbVM6+fwUfbnpROBSuqsIsxoR4D/+j+SnUWtLe7oLMclzI8SWlng==;Gr2vNjdEcvyvP0zzMSWtCw=="
 ---

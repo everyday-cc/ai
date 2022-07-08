@@ -3,8 +3,8 @@ category: news
 title: "Scotiabank EVP and Chief Compliance Officer Nicole Frew to Speak at the Behavox Artificial Intelligence in Compliance and Security Conference"
 excerpt: "The fireside chat with Nicole Frew and Behavox Chief Customer Intelligence Officer Fahreen Kurji will cover the pivotal role technology plays in compliance, how to drive organizational change that embraces innovation,"
 publishedDateTime: 2022-07-07T22:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-canada-montreal-artificial-intelligence-6bf49d543a5844ddb75b3c7f0483c887"
-webUrl: "https://apnews.com/press-release/business-wire/technology-canada-montreal-artificial-intelligence-6bf49d543a5844ddb75b3c7f0483c887"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-canada-montreal-artificial-intelligence-6bf49d543a5844ddb75b3c7f0483c887"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-canada-montreal-artificial-intelligence-6bf49d543a5844ddb75b3c7f0483c887"
 type: article
 quality: 19
 heat: 19
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "dY/8QkjdwE5algdFPd33S5AQQXrkbhKZWv8zHl/pW+WiL3PSF/7+2QkQmEQqAbAT0d10LD01SQZHbBBuymqk4FT5yVcXdDinKH4bf51dZJB3a36Za2PXOsWPFvvyzjpFqKou4wVM4Yu2zYbDx+9KnARBLHgvXSiF1Fm+WopP3op4Kkvg7HZvBXJacDA2KPenllMCv/cOI+UyXjY5hueWadNB4aMftioBr0myyH+GmEgjjttAP6FYRTMMEy697MrJF4Rh+FrYrU330eySh8z1w14WBSwBZnHFYoH65JkRBTU0DAZ+VeuhHBGnPYSzx0BM8TrIWj+J/XJ5izmfXZZ0/qtYFemxVDy8fzmanQp5/AM=;ueCu5QYUHLjNm0RS7JICxQ=="
+secured: "qyUBseRqZ5MNWq+8kQhVr9Hz0M8vPwtd6fefzVgDtyYfJO5iHjS2p5+bzvak+Ho8c3TX50w1HteCN4NERpZfuH0B40bKnDFr9w74K0SpQfbD31wzmFR/UuCVXh0J9FueoX9DNKA1kL+hiSRyDtAoTb4vSpcSvzFfe1wLbctTTBrGi/qCMwPBN5bgswGn6wJaPmO1axbjlYheC6eq5RFY9kR7zMJ9DyFZ3bu/2JrevTBRVWhyk/2DS8Kn8MQlSk7LIvXvmTrl3BGEKntx8xz82zFMKQXZ6g4E0sDBy0IEDRLkajslYqjWMh7bsfxMqQ5vBjdW/zJ1hylNOcKc3PeAjQ6YjQFqJQ/5BhsbY4iqBRw=;IHlRFvPdNom5tzk2SWG3NQ=="
 ---
 

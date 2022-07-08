@@ -7,7 +7,7 @@ originalUrl: "https://www.massdevice.com/ge-healthcare-5g-innovation-lab-india/"
 webUrl: "https://www.massdevice.com/ge-healthcare-5g-innovation-lab-india/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Tech innovations that Indian healthcare ecosystem should immediately look at"
-    excerpt: "There is no doubt that technology is the driver of growth and success for modern businesses.  From manufacturing to hospitality, to retail and to finance, technology is being adopted by several companies across all"
-    publishedDateTime: 2022-07-05T12:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-innovations-that-indian-healthcare-ecosystem-should-immediately-look-at/"
+  - title: "Nokia to open robotics lab at Indian Institute of Science for 5G and AI"
+    excerpt: "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI)."
+    publishedDateTime: 2022-07-08T11:05:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 89
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Nokia, IISc open CoE in Networked Robotics in Bengaluru"
+    excerpt: "The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),.."
+    publishedDateTime: 2022-07-08T07:31:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 16
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92743538,imgsize-77000,width-1200,height-628,overlay-ettelecom/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Nokia to work with Indian Institute of Science on networked robotics"
+    excerpt: "Nokia and the Indian Institute of Science (IISc.) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc. in"
+    publishedDateTime: 2022-07-08T08:58:00Z
+    webUrl: "https://www.thehindu.com/news/cities/bangalore/nokia-to-work-with-indian-institute-of-science-iisc-on-networked-robotics/article65615378.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/nokia-to-work-with-indian-institute-of-science-iisc-on-networked-robotics/article65615378.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/nokia-to-work-with-indian-institute-of-science-iisc-on-networked-robotics/article65615378.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/5l8dow/article65495323.ece/alternates/LANDSCAPE_615/INDIAN%20INSTITUTE%20OF%20SCIENCE"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Nokia partners with IISc to set up networked robotics center of excellence"
+    excerpt: "The Center of Excellence (CoE) will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI), a joint statement said."
+    publishedDateTime: 2022-07-08T11:38:00Z
+    webUrl: "https://www.business-standard.com/article/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/12/full/1599857420-4859.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Nokia opens AI, robotics centre in automation push"
+    excerpt: "Nokia and the Indian Institute of Science opened a centre of excellence (CoE) to develop the vendor’s capabilities in robotics and advanced communication technologies in 5G and AI."
+    publishedDateTime: 2022-07-08T11:17:00Z
+    webUrl: "https://developingtelecoms.com/telecom-business/vendor-news/13724-nokia-opens-ai-robotics-centre-in-automation-push.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 69
+    images:
+      - url: "https://developingtelecoms.com/images/stories/Company_Logos/NOKIA600.png"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "4mcgGxSkpmsitsWaRiZrZnH8/7jwG3yLpMn8tZHkWbgHHm0q9DSrysGlnUoxRlcOS7vam/iCuwZfBwwbayTEPto9TIODFI7VEtEeXWrhzu/8BbVyRGFge/FjtnDmFpxMiFQVjdv0BvWm4KpL/O+q1PCgnZZrmCfPoT8hmtDxFmoDczs8IPuJIEwL8Qygb/Nq36t2NDjq3e6ASHXxaPL7F++gXoT/ScxoKvgCrt43QrIJ1mPhKMAyYSJ8Qa8WvpKmdXq0XoQRoZfjrgzxb2+4ORMk8MwSF2Y2qaPUX4Fe/Tiw3Fp6fY94eWuD6nFm3eM7/2VtBWZ4nm73aTSfrdRZh9AIxYnKegGD2XDz6CtmW3w=;7inxx1hthNuVPIQQ4c/2Ew=="
 ---

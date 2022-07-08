@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chinese AI used to monitor party loyalty"
+    excerpt: "A new artificial intelligence tool has been developed in China that helps authorities monitor how loyal members of the Communist Party are to the government. According to the Institute of Artificial Intelligence in Hefei,"
+    publishedDateTime: 2022-07-08T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55117-chinese-ai-used-to-monitor-party-loyalty"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 17
 
 secured: "fWDh/Q5bMM8+RiB4fHkefWzkwUaXUaONI10lJHmeOyFWQ5Nq0KmjqP13LTaN7XqzOSeXwO5TSCPhKaTIALavDyPIy3tVy/7FXsL7Ape60osHlCKDq1VYzdQCoWxtiSgPMyRrqfjC3E2eF34cUpuy5oCjUBABVTDxh5WOjQEBp8/whf0dAyYJCBPi033jct5/n5qIBrb6BHXN33qddpstm380aYLf5v1MCc0gjf89oYE7LB99mgLRAHGk3084rWQR5jog4OqqLxZdnxGdUvMqOQCVtPbar81ewpHuieIGZGfMzBXTorKeja+4BnSJak/xGnmbt/5gn149FQbSXZk6a+xIS6Hm3iKPolfT5WfppKUnhj4ZdpjSbft9eOmLDcynCvz23y8sUsJYSlX8I0tHwA/wfK7gwitQm4tIWSbvJxxtZc0oeI9sko8fLMtKEt9AUviz1WvCoNma6Zb96SMdl6PIm3OxASloZfRsmmo7jR7YI+nQ94Pc1coxQz4UyTnHQK1osNcN5M2cPwBspU/ZhQ==;WfpV/CV+JP+gFPj7HofBUA=="
 ---

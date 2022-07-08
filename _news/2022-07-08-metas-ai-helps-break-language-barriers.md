@@ -364,6 +364,20 @@ related:
         width: 803
         height: 419
         isCached: true
+  - title: "Meta launches AI machine for translation research"
+    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
+    publishedDateTime: 2022-07-08T08:00:00Z
+    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 41
+    images:
+      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Meta’s AI Model Translates 200 Languages"
     excerpt: "Meta (parent company of Facebook and Instagram) posted news titled: “New AI Model Translates 200 Languages, Making Technology Accessible to More People”."
     publishedDateTime: 2022-07-07T07:10:00Z
@@ -375,20 +389,6 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
-  - title: "Meta launches AI machine for translation research"
-    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
-    publishedDateTime: 2022-07-08T08:00:00Z
-    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
-    type: article
-    provider:
-      name: Media Update
-      domain: mediaupdate.co.za
-    quality: 39
-    images:
-      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meta says its AI model is the first to translate 200 languages"
     excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
     publishedDateTime: 2022-07-07T11:48:00Z
@@ -399,6 +399,6 @@ related:
       domain: siliconrepublic.com
     quality: 36
 
-secured: "9cQ4UPejQMnGOEFLKmiy0Goy8vEnNabcKHIAePJi2eeOtguUOCfi4Rj+jXBA9m3gJ9+BGjd++NKCn8X2AQyPSHw81eNR8AM3+5Z1OEGY90HgvscO0fQGyLXt876C9eiMClx455SbWD6FgTWLXGaQiwwtpBHPADN2uL2HebF7VcjjgE67imF442GB/KYIjmW02SQ7XO9OIA+GgEtP5Hc7Xre5UdIwaBWgmzS7/T30fhpAfCR44OiSipvGdFjWFQDZJJMEX3XvXuaU1c2H5zE3l5j+zahWv6YTAYA/9PS1GmrToY15aZa6lEseakdyXW8sODbEpjlm71adiQu4gYpDFokdi6a4Q8kqvSh3vZ3h6h8=;QAuhXahkrKcvpxlcfxb7yw=="
+secured: "NH+LMZe0JtF41giF2Sn2UMGnkEJYExG4guoax08OSqOnW133MbJs8073MrY93dV40i69QBDBwt3TVsy7OCm8I0H8fXlpv2k/RbUniPTF94Wf57g4HT0cdI5n5r599L5+M+eT9Ytz7QXZVkW/5rRV5YDbq/upPBF/Ul95jEUPkXqj1+HEORCN084IM+S+1olrPHNYLGS9GznCKXfFgpkU6VVoeO5fbBpe7A2I/ptKi1ynOaulN/ioI9vKTmxuRcyzEPXr6fK8e9ciX4pi1ccVA9hXMf++qsREFIvoSdsADtlSqHIpNQ3LXY56eyreOfuawM5YicvW3nPkjFMDnJb1Oym6DTI115afA6XXYu5HdnD4GA74k+NHsmhTvuzTW8CX4QQqEtpK7bdpzp27c6WPyuc2FFTMq9ZYLDNrcqX3g6FDg2+6iqUIqDE9YylqYAcqtQrFSmr7JyCI4y9602PPnp98Qe4pu5taf48U9giPuiq+yHqgZgGys22mE7ZGolSwEIPViOzZV1QU+jPC6uw0gw==;FzhIZOGqTfXP98YMNYqJwA=="
 ---
 

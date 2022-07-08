@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/55-per-cent-indigo-domestic-flights-delayed-as-crew-call-sick-on-air-india-hiring-day/cid/1873029"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Telegraph
@@ -40,15 +40,6 @@ related:
         width: 1248
         height: 650
         isCached: true
-  - title: "AI hiring: 55% of IndiGo flights delayed as crew call in sick"
-    excerpt: "Fifty-five percent of IndiGo’s domestic flights were delayed on Saturday as a significant number of cabin crew members took sick leave, with sources in the industry saying they ostensibly went for an Air India recruitment drive."
-    publishedDateTime: 2022-07-03T18:20:00Z
-    webUrl: "https://www.livemint.com/companies/news/ai-hiring-55-of-indigo-flights-delayed-as-crew-call-in-sick-11656872168980.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 17
 
 secured: "UytoJRGb7jpjFZ/30cen0u3hCzSRjDFAc1HFCaZWdIKEyRXJvQVKRNmnAFrX9yV9ezQ2J7NwYZ5KPwhh9ONdhxHwPye6Hy0hWN5QzXf3ZYOBFDk0awAgSXx0sotgpRATFejvZHvyzZP4DvtpvH1HYyqn4FbpHLoCBJg52A5EbMvyfI/rISXCxwbJZSocoxOST06MKthrjdf9CE6wA6PkwPSH2rs3KPrK+xzvLN0YdVQ/aLnscGJnXomRgxhqCsDbKgq6uLuODhjTH8ft+diHNbzaOiYCNAgstQvcgFT6kaU11ApME8fktHyB7/rAnIA/reLigrI8Bw2jxwDzceng6fXvhhDox8sR4LEDc5OvEE8=;9Viqyq5FftwduJI/Fo8czQ=="
 ---

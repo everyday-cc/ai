@@ -123,6 +123,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "IIT Madras develops Artificial Intelligence Tool 'PIVOT' for Personalized Cancer Diagnosis"
+    excerpt: "IIT Madras develops indigenous motorised wheelchair vehicle NeoBolt. Cancer is an uncontrolled growth of cells that can occur due to mutations in oncogenes or tum"
+    publishedDateTime: 2022-07-08T10:45:00Z
+    webUrl: "https://medicaldialogues.in/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
+    ampWebUrl: "https://medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 49
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2022/07/08/180298-iit-madras-2.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "AI tool for personalised cancer diagnosis developed"
     excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and"
     publishedDateTime: 2022-07-06T17:39:00Z

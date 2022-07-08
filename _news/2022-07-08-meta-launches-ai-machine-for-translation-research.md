@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-08T08:00:00Z
 originalUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
 webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
@@ -398,6 +399,6 @@ related:
       domain: siliconrepublic.com
     quality: 36
 
-secured: "j8LTjqGl7mjtky8BFYvKvpn153YQjnZI7rfYgC4r0WU8tuU33jHSUDkWGHXRUJ5k6qUL/PRPtLhq/B5kJuY7mtQ6wDYsLU+vPhARSDNdqzxZonDHn88Rkey9cDFKSB1KHFvNwHjLnscSi4UZMuJfzcMbg1/umNniQHSjjw5J42eGbBSd6m1nosKNkaN8WDSllY5FqipECPMe6Tu4dxhflN/mMfu5AW8lfbI5coSa7FKlXfJuKfgpHjkDAflKbUwhJEmx7Qvn5I174d/YoXjGtArkAymGUsR5GE6awmHZZydFrOuW2ZNSW4SMhvsnEEDkrRZhZ2WjbdRL8iF6+JG1ysTXOm6csi2xUjAe2mhCMzE=;zCZuAFIqoKFh1Z9kTXHJkQ=="
+secured: "L7Zs+wDT44HgefcvPsLA/0nTTMVuz/JUP0tOOPN5mWvh+MrkMoTFsGfh50l6spsdX84RaapLTjSq6FbRC/W3Ba/WiyDrV/TadoPBLV/UOis4Nnlx/QHn53fwWRFNwO7UEsg5qFgMndm0zVG42IlXA2Xjd60eIWP9cAgXKMNzOQysIlN15p7EEW1mL3/medX66778LdHHLKsLq5qApEyHBZlXojQTIXAlM9t9hdo+u39NGNWVOZoLmb/srVEg/oSjhsvMKHtAAT5g7BQV3BuGgAw8q8hboaOc57Ut79nsqxdSauXMOQ10SGcCcXRKyEDai/k+zznncfBpSJzfTBxiwwTLwp/o947j9XUPpKR4Ua9G1wq6HI1ZwlBnJ/E7THrOn6Krb0aAoF2gon8E/pxCefEz1vnjHAHEQS8dDrqeXNlauW+tMg7rzlgLSUedXmLWU4dr1IkNZVfewEjy4kKjuhWlWT0z18CU/ST1luHU06LxUnmOrUeCJR6EBj9zbJqc63FhvkKkDxFlwcAqspvS2g==;njTReSthk5RK7CqrlhPCNQ=="
 ---
 

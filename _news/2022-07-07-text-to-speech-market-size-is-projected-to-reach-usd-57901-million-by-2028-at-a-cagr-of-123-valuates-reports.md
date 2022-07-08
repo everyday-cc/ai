@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Deep Learning Market Is Expected To Reach USD 68.71 Billion At A CAGR Of 41.5% And Forecast To 2027"
-    excerpt: "Deep Learning Market Is Expected To Reach USD 68.71 Billion By 2027 At A CAGR Of 41.5 percent. Maximize Market Research has published a report on the Deep Learning Market that provides a ..."
-    publishedDateTime: 2022-07-04T11:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-deep-learning-market-is-expected-to-reach-usd-68-71-billion-at-a-cagr-of-41-5-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-3-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Deep Learning Market Size USD 165.79 Billion by..."
     excerpt: "Furthermore, deep learning analytics that are cloud-based assist institutes in lowering operational costs as well as infrastructure and storage costs. Furthermore, it provides superior security ..."
     publishedDateTime: 2022-07-06T12:23:00Z
@@ -42,15 +28,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
-    publishedDateTime: 2022-07-07T12:49:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-worldwide-robotic-software-platforms-market-to-reach-us113-billion-by-the-year-2026-researchandmarketscom"
+  - title: "Global Robot Preventive Maintenance Market to Garner USD 10.05 Billion by 2030, states a Report by Next Move Strategy Consulting"
+    excerpt: "According to the report published by Next Move Strategy Consulting, the global robot preventive maintenance market generated USD 4.23 billion in 2021, and is expected to"
+    publishedDateTime: 2022-07-05T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27951542/global-robot-preventive-maintenance-market-to-garner-usd-10-05-billion-by-2030-states-a-report-by-"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "eN139aKfYdVy+3wCK36RJ5d24qAozKALicFRMUlu5mgB2ipVEMHMj6Xp6/TDQSpxr4tztira58lm6hs6Em1Ue/kvM5zDPPSe6EEew0omlTq3bE3aQdT0Bspd1HxOvDGXmSr15WwLmqTCGEOVL3iZQL9cR8fuMmdrarrgXg+Ggc7MDZ9GOyGwBYwUffQ+No/VQ31mlbbp5RzwjPKa/d3D2IFtKEbktsBCwSrPcJq4UjP7EiQrn2a81JwihKNysOKYnQ/Am3YOS/qE0I+cRzRuvU9zIuHFZcRBNOffRalORoXUg8QE2xdbhjGVkJW47qkmN6OpiaVvFEGyFysmZc20KVfmBC1QbUqHf/t5hSPdE8I=;tRBZeLHldyw2smjZUNFnRw=="
 ---

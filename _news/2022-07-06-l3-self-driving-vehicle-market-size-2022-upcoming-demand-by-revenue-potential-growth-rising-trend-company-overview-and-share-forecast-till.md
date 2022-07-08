@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Autonomous Data Platform Industry Forecasts to 2027 - Rising Volume of Complex and Unstructured Data is Driving Market Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Autonomous Data Platform Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022-2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21."
-    publishedDateTime: 2022-07-06T14:28:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_88cb2615-bde7-56f8-86a9-7dbf0438fde5.html?block_id=531919"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-
 secured: "z035uJk4jM2sRAiS2eyj5RdJYO96LpzMZNjoMGe85aYBsJrDNaGLpxc/x0EJQAORfH1sjEuCNpWIinph021PjJkCja/lEdd3L6p3ma95TKcaW3G6p0RHqmyq+dz4DbWBaLGU9G7dhr3tgXM0YOe4h2AbUGOKTA7m4N1lRpGj2FBbcU3vAIr5myyvrX7BldRnQGbjUDaIsX4AEIgb95xDmZQkRLM6aV4jI7E2/MM6FN0P6vR9eJkH48RlQnhmiEGmVsyTPii/xeilJUKnNPvHDRgp9uv1mBs3AVW72TQ6aCr71T4JvKkXVYIJydTanCZ1t2ZI0fBmmLijkQ8o5w2z6JWFCW1UUuL0Q1GcQTV1M6M=;JpteuBFzXCnNQeT4spIGnA=="
 ---
 

@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Argo AI, sponsored by Ford and VW, fires 150 employees and pauses recruiting"
+    excerpt: "Another IT business has cut its personnel as recession concerns increase, this time Argo AI, a self-driving car technology startup financed by Ford and Volkswagen. According to people acquainted with the company’s activities,"
+    publishedDateTime: 2022-07-08T11:52:00Z
+    webUrl: "https://bestgamingpro.com/argo-ai-sponsored-by-ford-and-vw-fires-150-employees-and-pauses-recruiting/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 34
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Ford-VW-backed-Argo-AI-lays-off-150-workers-slows-hiring.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
     excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
     publishedDateTime: 2022-07-07T18:57:00Z
@@ -135,6 +149,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "xHE0fyaGVTCaY7MTbyIZbiazrJmGKE+gDDBoiv8iWuN+8K6YqEIYUt9ZUBIwXpLedGnYl2I+4wuSaH7VjQjxPjYVecOVq0rqjKkrdk1gPkkgmuxcwrxfjyhtuCcYcaMGsPzA2czY0P2zwMLzU+ylnou3WduMJaneacSs6O0W9WkWb7Nw44Fxj6s9s6ZCyaj7f3laHF/d4hKrSlcfi2cIQ4Lfb/shYP6fw/dmB0x6eYVpxVEq4diFvqL6edamQ47dWuQt4a803RxjhFuShGeUovZc1IcnNKOyLg2255EvdKOBdLCFuzu+uHVur/6E2WMXXbqTZYBbPvdzvyWig8vZsnV1TYKMj6nISbbWzZcvAk4=;181fZFaVPJLiJzySvJo0uA=="
+secured: "LH1eu2t4FG+QZ746LFJ4cm+FOYhBSlk1alyClvDNK1L3McBL/0BRZSimJuS0zQQb3/svib7LViw3l0TMOD49BWBC1Mi18fYHu9Vsd5rEkU+KLd+Q7IRll0YMVU2AoEhs861nNyTx05WP/UO2uRNnWSGlKBJyeYEmonZVK2MXtmeyhRi+zGNNgc0FbA8JuAMHaD7GU6ulPnQ+FBm1Ji4z2FBXYknsoEyHGgSufrHbywCz3h1UplXb0z5PbedIutF6hYSI9ARtuyXR2gaMS9D7aA4Cf2ffAqm89DsIeEWYmJVzGEsIuxiINqZudNNleuBwMcHLt+rg1w1vCepxPc2ztqomcHlxQxkCUwmf4Yt7EhRfTKgGR3wzhvgOy7iVr2gW1sDYkz+RQ6O33cQmnr2mF3sCj4ed8H2WrZGjfvkp+sjf+Q7Nx8yQnUgR/gQdkQlp+w49UOGi1D+Tl1mDMMp/EB56YAIO6EdlsMresyp9cS7rT4sfMOKfgLw8hyKoLfHzPpuRbOVFm/6+tFS/++uB8A==;USo0p2aCb4PX+l1MVSwvGg=="
 ---
 

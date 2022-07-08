@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
     provider:
       name: News.com.au
       domain: news.com.au
+    quality: 17
+  - title: "Chinese AI used to monitor party loyalty"
+    excerpt: "A new artificial intelligence tool has been developed in China that helps authorities monitor how loyal members of the Communist Party are to the government. According to the Institute of Artificial Intelligence in Hefei,"
+    publishedDateTime: 2022-07-08T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55117-chinese-ai-used-to-monitor-party-loyalty"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 17
 
 secured: "ptaU1L8jdVVelBVM9emE1TvYSW5KgbmOKoDbfax8qoijhrK61ROekXRuBrWtrWpQkxdEelTfZW3UAYNwSxDuGFfxqWPfL5vB7z09jyew+3xr2g8h3ZQh+uHhXJKKECdb150WpbmEDwq8T6fmHtb4Pir38v4EQlbOySqnxE3lOH7EDSlTwcXne/vmabfywHInzM6ImPhEB995vWnPlLNJbLOlVftltOIPkzrbOd4afvO7xYl85JY/q4dUPcgeEcYuyJp7MkiQwDePqdS5G3YciBFhzKq+Ua+G5YlpDM6JjqOMO52cM+3/f1e5w5MzuHUEZ/4SzVoI1OaDwEhkFEGF1FtNC/mikD9ktKkMmFhM7cdXnWI8pfNyBg+88LUyE4Hz59gBGz0BGkudfRtTdqBGhr0/Q/+lr9CJf2eSDmoF+2iVx+v2k/GzIV3lm6/JJDXOpalF3+CYgIXVJ38uueZNka4tNWzq5NYyZMkynBXv8XhHuHsAyo/JmtxS2lZGu7ncBO70teZ8UZtdQ4nRVSz1fw==;drKUTqviVmeWSEvTCfp4hw=="

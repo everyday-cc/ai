@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonme
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and satellite imagery detect 1,133 cases of encroachment on defence land"
+    excerpt: "Action has been initiated against 570 out of 1,133 cases of encroachment and unauthorised construction on defence land detected by the Defence Ministry through the use of of artificial intelligence and satellite imagery by the Directorate General Defence ..."
+    publishedDateTime: 2022-07-08T11:50:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/national/artificial-intelligence-and-satellite-imagery-detect-1133-cases-of-encroachment-on-defence-land/article65615399.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/national/artificial-intelligence-and-satellite-imagery-detect-1133-cases-of-encroachment-on-defence-land/article65615399.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/artificial-intelligence-and-satellite-imagery-detect-1133-cases-of-encroachment-on-defence-land/article65615399.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/rzfj0z/article65616056.ece/alternates/LANDSCAPE_615/IMG_bl04_global_tech_2_1_NP91V39T.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "AI-based software to detect illegal constructions on defence land"
     excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
     publishedDateTime: 2022-07-08T03:12:00Z

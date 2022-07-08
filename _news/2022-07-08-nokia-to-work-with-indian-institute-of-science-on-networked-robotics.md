@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nokia to open robotics lab at Indian Institute of Science for 5G and AI"
+    excerpt: "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI)."
+    publishedDateTime: 2022-07-08T11:05:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 89
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Nokia, IISc open CoE in Networked Robotics in Bengaluru"
     excerpt: "The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),.."
     publishedDateTime: 2022-07-08T07:31:00Z
@@ -43,23 +59,51 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nokia partners with IISc to set up centre of excellence for robotics research"
-    excerpt: "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said."
-    publishedDateTime: 2022-07-08T09:07:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html"
+  - title: "Nokia partners with IISc to set up networked robotics center of excellence"
+    excerpt: "The Center of Excellence (CoE) will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI), a joint statement said."
+    publishedDateTime: 2022-07-08T11:38:00Z
+    webUrl: "https://www.business-standard.com/article/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence-122070800646_1.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
     images:
-      - url: "https://images.livemint.com/img/2022/07/08/600x338/2020-07-31T064747Z_322294329_RC264I9GQOL5_RTRMADP_3_NOKIA-RESULTS_1596207832508_1596207905783_1657271117664.JPG"
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/12/full/1599857420-4859.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Nokia opens AI, robotics centre in automation push"
+    excerpt: "Nokia and the Indian Institute of Science opened a centre of excellence (CoE) to develop the vendor’s capabilities in robotics and advanced communication technologies in 5G and AI."
+    publishedDateTime: 2022-07-08T11:17:00Z
+    webUrl: "https://developingtelecoms.com/telecom-business/vendor-news/13724-nokia-opens-ai-robotics-centre-in-automation-push.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 69
+    images:
+      - url: "https://developingtelecoms.com/images/stories/Company_Logos/NOKIA600.png"
         width: 600
-        height: 338
+        height: 450
+        isCached: true
+  - title: "GE Healthcare opens 5G innovation lab in India"
+    excerpt: "GE Healthcare (NYSE:GE) announced today that it inaugurated its first 5G innovation lab around the globe in Bengaluru, India. The company aims to use the 5G innovation lab to position itself at the forefront of groundbreaking advances in patient care,"
+    publishedDateTime: 2022-07-07T14:35:00Z
+    webUrl: "https://www.massdevice.com/ge-healthcare-5g-innovation-lab-india/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 39
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
+        width: 770
+        height: 500
         isCached: true
 
-secured: "9X7gEel01YFx2Q0f57PAygnNOIp/QwC5fbcqPzFUg+G5aULAkvvJdNafyOW0hv2+xeIxUA4pjkMffKC5s0dWnazL8mnvOnGpgiaiDuMk74kF/mIfX8tLvatPkor+CbjOAmAbpCH+IlROL+a0hyimjPtXPCpeosMUuvkaZEYHdZN+nqkLSztovlgFu47wDY3EL1KA2RGCvXmiEjhHclUJovo+GbG4OoggpgaMYuU7QHPcCYmsk4p3+5HzLzUpXX53TIGGfGHQ0mlNB2/fdNiCLjJW/MkfR6yZzltRoEZY9weptgso7BuhOu75iSCj2DCsoTAJoCpjhXeZlSO9CdTAgEiMiHm3pPyf5wSx6KDZDMY=;QdWgbh3DllUqntxIRBTk9w=="
+secured: "n25uw0cGqy9cbWI7LSpka+6kLhtXpTjuUfS5SJlX5IrDuzh9sL5+Bfh7iJW/UB2bMDNzr0Jhps8Av8psxon8XVd+zT7MvgFxhTEbFSnHul31arRSAsbwS+JL/MM/YwzTERMIK0RaF6Z5u7ReaxReHpcROnFqtVnzZ0c5rOx480UBk+CNykklErU4MyFPHsSeP8NZxtvmUsi7tdNDJL4Y//ixmHgZcwSpvOZPKc6Af5H26eggHKadzTm2NdRCDYPNaqVmMXOLgVJK7TpfRUVGKbPxcIeodwpdTuGbQ+A8sxlUpBYvM91HWPwEVO2Gen4sUCJVjf1sQwwJQSspk4/aUEJ4RYdEOjuYHWx+2qdw753gGMXSJeh2rpeeSFKx7D0/f4bhlUEKSx2A7pbO8yDUHim+jMigfLjlFQlX9vb1ddes07gn8qhHk/c3E0/HUlgNOk3kpolSuSEka9jpQqhHJGiU+XJHf1cqakIm+8UvuKzljOAUUCHy27c03KOS1mN/E2h/5u1ewKF4hreZtWVApA==;9vaPx3O1SIf51ywMD7zH6A=="
 ---
 
