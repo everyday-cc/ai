@@ -7,7 +7,7 @@ otherNames:
   - "滴滴"
 overview: "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China."
 type: "profile"
-heat: 72
+heat: 32
 
 website: https://www.didiglobal.com/
 
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Didi Chuxing"
 
-secured: "VXBdAVYaBmSU/zcUSB+p0Ed4Fmef50ZxiaLXnKJlNG7vXAb7GIAt15CtdZMnNMWDO2KMCSY2GpwgvOuliH6tWbbpqh/zKe9O5b9vEFNiCexReH5Fl+QUw/UFNOMi7d1AUJfKNGtr9kWfMs1kd20H1n5nKkPJrSdqsRr4BpBXFcxRA95uwrj8iKKHLt97aUg1UmaE/+ANsVPDjy2iN9IMqrgW9dEOYn9MblL1NJmvRIhtTAUwyxoUoKfbMA4+L1bziTh9n635AiDcRP7B3Y2jTJt9GReUH7Sl2ny2x2X6wv0O0tfk0gI0XAH0Q57f4ocjYk0v7BPo5eWJ4+f8mozVOaFxzIpQMTLxwupvQFtyRCaMDaAhXh2etmJQXZa4k5r3+sva8MYJqTFzFekhGg5dvdlhdgWsI/AapeXCRjqRo/8=;CFoOmST1KKWjF1dFUWRcLw=="
+secured: "H+kuGWzuvKchs6vYwNLI3tkIaI6T9yZlRdjSYWF51+E2chu6LuuU44+JJIXnt8Q4fagmQgvbRMfM6VJK/Vr77dPXNS0AZT+cM/hhfvcqDmo/vSr/5rDpevEXEA1ssQj7jlqK/EQItg/d9zAQDL6fJhSz3FQX44Al/2nZOiFbIQmAzta/ICgvrVyvtliFicdxIJBoar4LV8ktf/MCINMf6/lVw8d4ITROPP06pGHARDIr6hlE35YrgnK40wYu7DxGD0HLX6UFojeeqoAopfF83ortn87w/hwgr504Hwu57stR91OTjzwdStnyvzZmh0b9v4r6G9IH0OtVGxIFfwrO/IS3QsCsDEFuZt9364RlmXOyDSjdtCkSiQN/j9v8ND770boa8og0ujCa6w1FO7Xd9rqaCqcrFbhGUfMeGtLU4mk=;1z9vQKuOQM2JX6GNmc61hg=="
 ---
 
