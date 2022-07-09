@@ -1,28 +1,28 @@
 ---
 category: news
 title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-publishedDateTime: 2022-06-29T07:58:00Z
-originalUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
-webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+excerpt: "BEIJING — (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting ..."
+publishedDateTime: 2022-06-29T05:39:00Z
+originalUrl: "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/"
+webUrl: "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/"
+ampWebUrl: "https://www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/?outputType=amp"
+cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/chinas-baidu-races/SNSB74ODMHNBTTGHFPKKALEUCA/?outputType=amp"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: WPXI
+  domain: wpxi.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
-    width: 2880
-    height: 1920
+  - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/zncUsKIEsDEvyNqMNghM_MO6a7A=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/OFJFR3BX5IG5WX6OLCK5TGCXP4.jpg"
+    width: 1440
+    height: 810
     isCached: true
 
-secured: "OJbniv3b3VilBOQRHBmLjkCuTvUBZBtyLfdpFYVrWiwqHCbSQBDllKf2R8ERK8pUh8coL9EcLsLca/TV8hQyMioyW78LIEYVlaWw1169bWiKXwX6NV4Z/U8NuotDei3wE5bUlrwfNGYpyXWsD8ZrEkE/z7N/Y5vShX2fqPb/I7P5Sz5zfJ0dFMy2bJcfGt10UtI+pZVU3Gu/z8etNuG/N0wZBP4Wt6nX3JKhJidVGlHC1UGS7i7+41rMX33EM6wUH7iDRqUe/rPmVN/Spe9oljwYjE4qWPFR5KQLi4o7XrWExjOcZRx1Ksy+yqIRF2i7oBflry4Fgl3jQh0tJjbNxMx7set26AImdQLcWVHWlbM=;P9NvHV8Vqc8lkIA+uUewaQ=="
+secured: "GKlIa8b1yTWCDJXAApDzJ3fhxTJyf+9scnkZsi3ieH2rP03ijJDEJh6rHiKixo4P/5gs6VY9mSyIo1M8YdtkFqpujp1YDmsPQe/owW3r0K/avvoo3RLbWMf8RsaeUTnREpFvPU+ULmaEIqDIZAVQgsdqOKLJKSCj25RRkomSVpjk4U/AtHvBZeKnCwbbCCpwmAKQ1Xe5+KebmSTthJrOGea34BdvuQ66JIhckCAuBEXppuc3p1nTt1AXn7y2vy1jrhjs2uzLjpvXuaTFHl0MyVyPdug4R6Uk0Bm8lHWN0wWOjQHpH7l2CsoEoylBO3qn47UwebNCR/Vv3cNXbtg7jRzf4E/X5Y3iGpJky7rRS2I=;64q2bwfRKjpD6q/Y2phzBA=="
 ---
 

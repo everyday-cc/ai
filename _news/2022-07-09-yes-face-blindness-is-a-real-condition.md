@@ -2,26 +2,26 @@
 category: news
 title: "Yes, face blindness is a real condition"
 excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
-publishedDateTime: 2022-07-08T21:51:00Z
-originalUrl: "https://www.12news.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-webUrl: "https://www.12news.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-ampWebUrl: "https://www.12news.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+publishedDateTime: 2022-07-08T21:14:00Z
+originalUrl: "https://www.king5.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+webUrl: "https://www.king5.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+ampWebUrl: "https://www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KPNX
-  domain: 12news.com
+  name: KING5
+  domain: king5.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.12news.com/assets/VERIFY/images/a4afdbd3-5585-4f46-a600-33887839fe06/a4afdbd3-5585-4f46-a600-33887839fe06_1140x641.jpg"
+  - url: "https://media.king5.com/assets/VERIFY/images/a4afdbd3-5585-4f46-a600-33887839fe06/a4afdbd3-5585-4f46-a600-33887839fe06_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -94,6 +94,6 @@ related:
       domain: prevention.com
     quality: 4
 
-secured: "2EuZvNDB4y7SIJXoYt9X2uggwAypo9NVYNPaNY2UmsJu8m26I27t0ETOjEOLPxU/0+emHWCKo3UCZnkKLhAUb6Ith/62OglECylEeBYn80LgWsODGEoVRdIcXlxBm3u+p48aA1zDD43p+YW///eQpn9dhuF/wt3uK4em31rlYiynDKnoZvtXFHpKdH2cHTlZOJNIzHcSsXEOQLgK6Ht3IucHtq4jhltyA932+ZIfDZ8igRvxe4dUt1QNBVrQ3ZpfLASE/8NeTufGfdzzYAHlKm0ZrO0lvMQMOJJb0c2wUtdjwpdc4ipkt4eVhC54rg8Q8uJT9vNi0a7DCFvFw+m0PopnkuntSVvXaVtyGrqiiqY=;eJ01kM/JuHgjJlDAAM+u/w=="
+secured: "iuTgUAvefy56NKBKmBe/rx79DqV4TvUk8sH5a3XpuHeFR7xd3C5i6RjNoyRXe9F2kvQ5paVMJ1cUduz8AtThgj5Qiw57E2Iu5xbEsa+yI2pwRUgVYuU8Ql1OD9+ZHbzmhRuPirp68tBl76s0IM4+c1aRGCiOHAG26QW0vsvO6CEEvjBFNtCNhJbPw9jo4LqwAqlutY4dyVLsML3XhjPjJXppEXupthadqxb8DMb/4CKTBQzpxjOCV47J39qhiErLvfku9IablhX/ygeM/B8voa89eB+cI8A+Vd6om5T9BvVJue8cnwWFRs1WjgMmGcHPLPqUhBGWxePjxweMwIMk2xgymY004DMsLwWOcgDqqJ0=;F9AVZNjoCfMAVp3SRCHgiQ=="
 ---
 

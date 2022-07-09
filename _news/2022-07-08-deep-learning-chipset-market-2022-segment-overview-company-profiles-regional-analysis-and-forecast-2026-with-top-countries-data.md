@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2022 with (COVID-19) Impact Analysis"
-    excerpt: "The Computer Vision Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
-    publishedDateTime: 2022-07-04T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-with-covid-19-impact-analysis"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-3-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Surveillance Camera Market Size, Share and Analysis To Grow At An Annual Rate Of 20.06% Through 2026"
     excerpt: "An analysis of AI Surveillance Camera market has been provided in the latest report added at Market Study Report that primarily focuses on the market trends, demand spectrum, and future prospects of this industry over the forecast period."
     publishedDateTime: 2022-07-07T12:33:00Z
@@ -80,15 +66,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Service Robotics Market Size, Growth Analysis, Recent Developments, Regional Segmentation, Future Prospects, CAGR Status, and Forecast 2021-2027"
-    excerpt: "Astute Analytica released a new research report on the global Service Robotics Market. The global market study looks into a variety of subjects, such as opportunities, market size, development, innovation,"
-    publishedDateTime: 2022-07-04T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Computer Vision Technologies Market Latest Innovation, Upcoming Trends, Top Companies, Growth, Regional Analysis and Forecast by 2029"
     excerpt: "The consistent Global Computer Vision Technologies Market research report presents the solutions that empower to arrive at smart, fast, and precise decisions for the business so that it grows and ..."
     publishedDateTime: 2022-07-05T05:31:00Z

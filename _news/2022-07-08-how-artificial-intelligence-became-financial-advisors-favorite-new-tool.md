@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-07T18:53:00Z
 originalUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
 webUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "BBW3b3yeuB7mftbbVUcDu/UHvAKPsGi0tEflcRz2+7zOpbw60VCGTJcm6mWGbdSv29vTFe78cffRV8TT51CkvIVR630SZ7FDtT1QW1GkSEpPqmEU+FE2Qnhr2eCQtA8nbp0S7DhUs5I9lUiSs5q+CHgNr1gp2QhvwFew7P3tNJOu0I798PLkl+IY5WkO3s5PeL+v3l7aH++gl4VM7BRKumYQLwQASwp9ASfIQ5S9gcUM+zaavcI5MULprxoBt8E0KmyFrODvueJsNY2lNLtggd34cPaDP1G4BQO5TQ34Q1aN/3zk8oLtr0Uo3HrU8xwzGSJ00i8BUemzrFURqSK5e3Lb0B6C2PabF/iwAnrhrzI=;mnhoqk46PR7kNrL/ZWCk3w=="
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/b8cc43f/2147483647/strip/true/crop/3600x1890+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5c%2F1c%2Fd9f029bb4a1e99690e76f8ad6a51%2Flead-image-for-invest-ai-story.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "zyptWPEd5VPEahJGMxe0hnUYRZdVCzYPD5b15y3NvSiU2txHWqL6HPCxWf0ZSJZf/gWomxutGX0qjbZDt7A4H+gVYU1+3D1/S3Wq3IzsLTdu//VWTcrq9PWkX7hceJCHf2pantDQfMTaWNUV7tgYLGVi/bpscwIHiRbfOXRwVb3WiwuOse+kO9kcU985QNovGIJ6BDK/QiH4bkCfl9X2iKaO8YhrS5Ea0xyMqzeyXB7pfNViq49V5MEYnNc/6wVR+KfH5fJZ8qVyhLTnO8f68+ipekIhcBrUgYo1yMZiZyW+okOsTWuVEpIUZzSaeyA/kiJuczXOG743KZwl8L1N8ezHh02rSA/tStd7sPXzxGE=;DdGLenYFsVKhdyexWo6i7Q=="
 ---
 

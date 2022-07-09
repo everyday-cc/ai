@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Delhi/center-of-excellence-in-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/center-of-excellence-in-artificial-intelligence-at-nsut/article65608357.ece/amp/"
 type: article
 quality: 57
-heat: 58
+heat: 57
 published: false
 
 provider:

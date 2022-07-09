@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2022 with (COVID-19) Impact Analysis"
-    excerpt: "The Computer Vision Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
-    publishedDateTime: 2022-07-04T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-with-covid-19-impact-analysis"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-3-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Deep Learning Chipset Market 2022 : Segment Overview, Company Profiles, Regional Analysis and Forecast 2026 with Top Countries Data"
     excerpt: "\"Deep Learning Chipset Market\" Research Report 2022 provides key analysis on the market status of the Deep Learning Chipset manufacturers with best facts and figures, meaning, definition, SWOT analysis,"
     publishedDateTime: 2022-07-08T00:59:00Z
@@ -90,15 +76,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Service Robotics Market Size, Growth Analysis, Recent Developments, Regional Segmentation, Future Prospects, CAGR Status, and Forecast 2021-2027"
-    excerpt: "Astute Analytica released a new research report on the global Service Robotics Market. The global market study looks into a variety of subjects, such as opportunities, market size, development, innovation,"
-    publishedDateTime: 2022-07-04T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-growth-analysis-recent-developments-regional-segmentation-future-prospects-cagr-status-and-forecast-2021-2027-2022-07-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "lDwudu7nSIbLiiMGZth5pMxuxXmeR9yX3UIjxCPbCxvVxiFpiG9c5jG+g2FDNkWZJkqH1lLWstnqqesni4ImAjoIgnl3cWxj428HHRCyvvUJeVEwWBM3kWtT+eHsCgSjbIFDTYb7frQ6YXOiJbV0mBq+Kqx8Y19UlakNnQYREYVnrMg9PFYcz7hrdVgp0ewJ9WxYzthF+1fvD2vMwGkqjT4xyUCZkCAmINAWLJ1n9ecq07q1syejBwMSVcGKdgg3tutO2s/Rb/ZNM12+umdsxoc+SlrjFhO9L2dUhN+lEPsGpOeZq6Ohg6wfY5aGWy0hpCvGCSYhD9jHWwknci2YnUXEwleUujp640k1fhZ6Oig=;uf7jqGYzQa5YEhW9ugR7pQ=="
 ---

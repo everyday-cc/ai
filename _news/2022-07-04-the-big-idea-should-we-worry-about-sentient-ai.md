@@ -25,12 +25,17 @@ related:
   - title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
     excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
     publishedDateTime: 2022-07-07T01:15:00Z
-    webUrl: "https://globegazette.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_e4e61d8b-db99-58b4-bf7c-49866f464f84.html"
+    webUrl: "https://madison.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4.html"
     type: article
     provider:
-      name: Globe Gazette
-      domain: globegazette.com
-    quality: 30
+      name: Madison.com
+      domain: madison.com
+    quality: 48
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/7/90/7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4/62bef03fe615a.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+        width: 1196
+        height: 628
+        isCached: true
 
 secured: "IvwzwFavS+yXtWLBwe0hx3SSulxFJTP8KHNU1ydFL/bVZCwoybHDf+I+sNpcJeFo0uZoN/caT5mB2oKF49uPBT1+lrHCVMdijftj4lPMov6MiBjej8emNbYhvCTKrknp/Zm5IbcLSv4qxaexWY9iSKB+5EyDo2hcLT9cCyj+Ffk1zAAg9CL8XPl3eoq6GhhiPffdPvSod7gNLhkj5j9qEU+Qm62v548Ln/yW9ixVb8B+TNBllqt1hnpaLNqcOnvPynZxlwwuYoGvZh4BFPO67PUNUmEKIQ24JeTcwZ5N08H6urSaTzf5QW5Db88I094K7zG4G8oXED4am9izpEu3gzECDRZ6YZVJgcyxJRF5Jo7aILQPVsR48Soa9t4HpMHxIhzJ0Wb95KeBbvDtMrtnt69MgkxF7/k6MRrgB7ZDLkzOHLgnk+563rMa5we7fJEGEYBxjLoIHcxc+juPd/PI17u1+fLpBDYLiYGkl0Gr8dIzxx3ct2dcBocv/sIOsCTrxkBOb7WPc3SpUBkyI+vbaA==;85tO01TmK6S99wpCHDDSqA=="
 ---

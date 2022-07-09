@@ -1,10 +1,12 @@
 ---
 category: news
 title: "OpenAI Taught a Neural Network How to Play Minecraft"
-excerpt: "OpenAI has detailed its efforts to teach a neural network how to play Minecraft. The organization says it used a \"massive unlabeled video dataset of human Minecraft play,\" along with \"a small ..."
-publishedDateTime: 2022-06-28T11:03:00Z
-originalUrl: "https://uk.pcmag.com/games/141180/openai-taught-a-neural-network-how-to-play-minecraft"
-webUrl: "https://uk.pcmag.com/games/141180/openai-taught-a-neural-network-how-to-play-minecraft"
+excerpt: "OpenAI has detailed its efforts to teach a neural network how to play Minecraft. The organization says(Opens in a new window) it used a \"massive unlabeled video dataset of human Minecraft play,\" along with \"a small amount of labeled contractor data,\" with ..."
+publishedDateTime: 2022-06-27T17:20:00Z
+originalUrl: "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft"
+webUrl: "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft"
+ampWebUrl: "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft?amp=true"
 type: article
 
 provider:
@@ -20,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-tau/openai-taught-a-neural-network-how-to-play-minecraft_14wj.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/01zNt7tEzKua4wNiI5aBF6U-1.fit_lim.size_1200x630.v1656350088.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "81DOo7Um6bIK85RSRxfKQqijj0TH/2lnOphyd2BA3SbC9Dy76O7nt4P2/cKM5Y7SGkJHOd/UbIvvHoWr+30KPfFmm/YJqizHp82b6nGxBd+2lghmHa4qzl+E2LIYY797F8IB5OgOWt2fHlHC7U5sEBhl1keqJ6y22JdPNgnqSPs11kI5D5S0JjN02e1p3eBkqdIsk7Mupc+DFo3epSqohfhnwGU9QUkxIfF18laJRkEVHHwhJQ70qfm8/AFdEXssAOElPQ6v5BctmZIEQH6n7Y+6fPak0f3mvCdkJwlJ9ZrfXwL97p///okLj57iIimdpvic3y5HmSW3FBTbVSe9n2xV4lf6c4QkhRLomavXibg=;ZRax0u0z2Q71nZEUS+GXBQ=="
+secured: "C9vPNZou0EhVQBpDa4LgEm9biIFSeyJCZqipdZ2LC9Z+dmQ1wUMTgLevQqx7sZCDnBmZxZR7nQbAfbOavXcxmnjWtg6Cx4yNsYMrIhjWdQpUpDo9DPY5Ohuif17HJNvV4W7/9awhTrATK3MusqoexpowtxzUQ9jj1eLId3Q+UHRP1JI67/gDUZGbtLVViLhmsr5HYIPQRTtd5u+xGL0G1SlX+suPFGVgum8V4wpVFov5qbk9FEPUJ/HVRdaYqoEGqAT952lGo9OplDoPWdFaXBctcSeROR9yfVgjcQZttphUcouVQT8rHiphxAVXtv7RGgdwx0vSHBn90dUlYKYsN9rg0YpAn7yq2GRLaUSRC9k=;L4x60rNrjO5JqaPC0537bw=="
 ---
 
