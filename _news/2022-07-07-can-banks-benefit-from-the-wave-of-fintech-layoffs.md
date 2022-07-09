@@ -24,6 +24,22 @@ images:
     height: 364
     isCached: true
 
+related:
+  - title: "The emerging role of fintech in times of conflict and displacement"
+    excerpt: "Initiatives help people who are fleeing areas of conflict, famine and climate change – while upholding sanctions"
+    publishedDateTime: 2022-07-06T12:15:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/the-emerging-role-of-fintech-in-times-of-conflict-and-displacement/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/07/fleeing-Ukraine-war.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "b3vVgLnLuOswOywS968PzOm/lmvZMASIuCNrzCCsFy3U/pXPQ+3LLjG2uPdooAf4dIo0eF6xi46/0o9hdStQzCiuuU+er9CplvTBgtzj1NCN9T9tURsn6PiKWPZwf1lejoEmwCAAlrfYzNjPu0QsjvgPo3ZBeZTLkXMzQoFrLz7KIoCoULdb3wDVtUgc1blUKRwe9dtuGmUsDX292cMMS7ZDa4hGj58TOJ7Tism+nw0nmE3CjOuGOE7Y0r1R4gPUdjVXVm91HG6VEbb4deeuBF+L1CTAU4CmwnOBzQMp1sIq7uRE+BVlugqkKUSebMDIcTLru4LOt7/xeoKmJab8l/FviHMi31pWU5SIKgyAx7ae6E7KwxDtBpcuVKNDSX1e3k+6NJwQeUQZ7oRwU4YiRTxtQYq3ZVmnwyXuHXV3jukL4SVjDFhM7Xk4f1YAQSPKE6gCf28ikH6THzn3DoBDuL/C+CoREJmrQImo4+75j1ZDUOrqm9enkLZRS0k+6TK+DdiUHMhIugd7ahvNt6LA4w==;eEE1aHSNRX0egC/KuvGtCg=="
 ---
 

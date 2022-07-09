@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "SES AI Corporation (NYSE: SES): The Metrics That Matter Right Now"
+    excerpt: "SES AI Corporation (NYSE:SES) price on Friday, July 08, rose 8.39% above its previous day’s close as an upside momentum from buyers pushed the stock’s value to $4.78. A look at the stock’s price movement,"
+    publishedDateTime: 2022-07-09T16:11:00Z
+    webUrl: "https://stocksregister.com/2022/07/09/ses-ai-corporation-nyse-ses-the-metrics-that-matter-right-now/"
+    type: article
+    provider:
+      name: stocksregister
+      domain: stocksregister.com
+    quality: 37
+    images:
+      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why Has C3.ai Inc.’s (NYSE: AI) Share Price Dropped So Much?"
     excerpt: "C3.ai Inc. (NYSE:AI) price closed higher on Friday, July 01, jumping 4.87% above its previous close. >> 5 Best Growth Stocks for 2022 << >> 5 Best Growth Stocks for 2022 << A look at the daily price movement shows that the last close reads $18."
     publishedDateTime: 2022-07-05T13:05:00Z

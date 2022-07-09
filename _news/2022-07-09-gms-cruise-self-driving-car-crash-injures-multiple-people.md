@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "12 self-driving cars crashed in Arizona in the last year"
-    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022. This marks the first time that the federal government is keeping track of crashes involving autonomous cars whether they have a safety driver in them or not."
-    publishedDateTime: 2022-07-04T23:34:00Z
-    webUrl: "https://www.12news.com/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
-    ampWebUrl: "https://www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/self-driving-car-crash-in-arizona/75-eafdcd68-c6c0-4ca4-a5f7-486c7c1cd44b"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 44
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/523a3c88-43d9-48ef-8ccf-ffa7732e44b3/523a3c88-43d9-48ef-8ccf-ffa7732e44b3_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Crash involving Cruise's self-driving car under probe in US"
     excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
     publishedDateTime: 2022-07-09T09:11:00Z
@@ -51,20 +35,31 @@ related:
         width: 764
         height: 1238
         isCached: true
-  - title: "Shenzhen Lays Out China’s First Rules for Self-Driving Cars"
-    excerpt: "These are ‘hands on’ shared control, ‘hands off’ autonomous driving where the vehicle can perform most functions itself, and the ‘eyes off’ and ‘mind off’ levels of self-driving autos. Self-driving refers to Levels Three to Five of autonomous driving of which Levels Three and Four still must have a safety officer in the car."
-    publishedDateTime: 2022-07-07T07:39:00Z
-    webUrl: "https://www.yicaiglobal.com/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars"
+  - title: "Cruise self-driving crash in San Francisco resulted in injuries"
+    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
+    publishedDateTime: 2022-07-07T10:36:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/shenzhen-lays-out-china-first-rules-for-self-driving-cars/16572102904517.jpg"
-        width: 720
-        height: 480
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "NHTSA Investigating California Crash Involving Cruise Self-Driving Taxi"
+    excerpt: "A Cruise driverless taxi was broadsided while attempting a left turn in an intersection last month; occupants of both vehicles suffered minor injuries."
+    publishedDateTime: 2022-07-08T02:28:00Z
+    webUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608"
+    ampWebUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
   - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
     excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
     publishedDateTime: 2022-07-07T22:20:00Z
@@ -106,6 +101,34 @@ related:
       - url: "https://media.12news.com/assets/KPNX/images/e56c44af-91da-4583-8cec-4433f7203761/e56c44af-91da-4583-8cec-4433f7203761_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Feds Probe Crash of Self-Driving Car in San Francisco That Caused Minor Injuries"
+    excerpt: "A Cruise vehicle operating in driverless autonomous mode was involved in a crash that caused minor injuries on June 3 in San Francisco."
+    publishedDateTime: 2022-07-08T02:34:00Z
+    webUrl: "https://timesofsandiego.com/business/2022/07/07/feds-probe-crash-of-self-driving-car-in-san-francisco-that-caused-minor-injuries/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 19
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2022/07/Cruise-Self-Driving-Car.jpg"
+        width: 831
+        height: 599
+        isCached: true
+  - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
+    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
+    publishedDateTime: 2022-07-07T20:41:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries-nhtsa-investigating"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
     excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."

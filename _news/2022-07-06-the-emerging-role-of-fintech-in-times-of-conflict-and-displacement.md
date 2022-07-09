@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Fintech Global Market To Grow At Rate Of 28% Through 2026"
-    excerpt: "AI In FinTech Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's AI In FinTech Globa"
-    publishedDateTime: 2022-07-05T00:12:00Z
-    webUrl: "https://menafn.com/1104475361/AI-In-Fintech-Global-Market-To-Grow-At-Rate-Of-28-Through-2026"
+  - title: "Can banks benefit from the wave of fintech layoffs?"
+    excerpt: "The fintech sector’s funding woes could be the answer to banking’s tech talent shortage. Amid a nationwide labor shortage, exacerbated by the pandemic and the “great resignation wave,” banks have had difficulty attracting technology talent over the past few years,"
+    publishedDateTime: 2022-07-07T15:23:00Z
+    webUrl: "https://www.bankingdive.com/news/can-banks-benefit-from-the-wave-of-fintech-layoffs/626744/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: bankingdive
+      domain: bankingdive.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?806474"
-        width: 333
-        height: 250
+      - url: "https://www.bankingdive.com/imgproxy/BdWLrIxaZUkF6oF7itjxOmNfgUblnwysIgjZXp5BYkM/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0ZvdG9saWFfNTQ4MTMzMjRfU3Vic2NyaXB0aW9uX01vbnRobHlfTV81UW1XMVkyLmpwZw.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "3YXoIY726oXNCPSASVLf12NIcq04KNXAQoly2WRia0lqmKolJsnP7jpp8dyK36zQ4vSEjfohfqIs8DA1zduJmYuHAh6LgoXXOYhtUoVjZyWAWbARTtPg4P0tmx+3ehzEa4ljSrHHrD+U6WSlQx4fUPsPxkFFbhoKN3+8/ej+MbDX6HcFfDw0Dizj9WOVs2vrEHB4vAwOu3/wU8QMMBadjIeFIuNSO13xPNPmrY5ccamCtDYteFzEAJn/in7I33EJ9VIfOqGYUN/jCYTLFt3K93byDyopW7adhD6QgtT9DvIKVVNcSlNs5HZ4TPRstAirD5EhYcur69xx8B/QJvKbIriuVQCsZD0vKE3dqyOh3cXRqGXKx/bsPBrY3PGhASZAga1n//HRe63oHXosOWYG2eRK1MqDePPeZbTmSUlYBVz1F7iKKLxLl65nLGdOfv2+xWe8a2yokM6kWDl6gSOUBXA8R0heGywMMyqqWJM+Vkn5yuOTHRbbRbC53KccGXF2c/pY3wczkjnWjRB1BIx21A==;yb2SIJm7ehSYgzHWQQFd0g=="
