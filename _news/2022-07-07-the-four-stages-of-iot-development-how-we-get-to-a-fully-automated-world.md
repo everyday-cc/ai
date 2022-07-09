@@ -1,13 +1,13 @@
 ---
 category: news
 title: "The four stages of IoT development: How we get to a fully automated world"
-excerpt: "The Internet of Things, or IoT, plays a huge part in automating the world. IoT refers to how different devices are connected via the web and are able influence their surroundings. Now, these devices are increasingly starting to be able to make decisions by themselves."
-publishedDateTime: 2022-07-07T11:59:00Z
-originalUrl: "https://www.just-drinks.com/analysis/the-four-stages-of-iot-development-how-we-get-to-a-fully-automated-world/"
-webUrl: "https://www.just-drinks.com/analysis/the-four-stages-of-iot-development-how-we-get-to-a-fully-automated-world/"
+excerpt: "The Internet of Things is playing a huge part in automating the world. There are four key stages in the development of IoT infrastructures."
+publishedDateTime: 2022-07-07T12:18:00Z
+originalUrl: "https://www.just-drinks.com/analysis/the-four-stages-of-development-of-the-internet-of-things/"
+webUrl: "https://www.just-drinks.com/analysis/the-four-stages-of-development-of-the-internet-of-things/"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Py9Bg5L7ePRWdac5cR/kJQNZ1OM60wiCgY9zkpdNYwTyBF0WXQeNCd2dtuUKGqn0JTOFzqOHwP0Exh2G/2evzPKyknMpdZo7Efh8eifzvAvxvEtIbqwLbGz5XjkjNn79p7YoT5Qp4Imlyei0LwFTtBSGp+e4IzlZl2dYirm+uEwWU7tih9G2Od12S/QeOeGwOtvqE29IIoDpmVulIeAVxWa41GcCMOOiQnnvdm4fUx1Iw7wxByyQOHcEeHC+xRd8AQaXAW943BJ8Cb+Wvz0RlMv5sWih93mH5Ze9qrFkisnw4Iez2FN3XCTkfg4sio+k9h63jyXY33Xr2TMS/+hd5OvDkKPqg2ZxbBDIPNBfg9Sg6U+oi5GOK+euC59I6YFw95q810an19pWe7g7vDgjt5FIP1+Ks7greWH+oqg6yr6sZ+IOSvIOn+a2iIS54ynYH2djXiHKnq07kSSPz5TaAyKDcfesfpqbod1MEMkr8T3uL1XJpy5izIisixfcZ5CSGiwDD8M4qh6Hv+3ik3QneA==;8aRAWp+Dx8ka9O6Y+9oJyQ=="
+images:
+  - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/07/shutterstock_520084003-scaled-6750e1fc0aae1c153729ab181e94773f-1038x778.jpg"
+    width: 1038
+    height: 778
+    isCached: true
+
+secured: "eMeofrRbbnCfQ4Ha6Z/qv2r2YMoY2tjb8CsHObN98JFffsORsVlS+xIJHfYeDZqHNhp64sHr9KyhgcJPrc8oMPvrtPr3YBFudiA5yJjmFqGDZjhIGp8QElS+Bt9U+5dkLZIbQcaIAhrXieCsQX4nSpu/D7EZ5qPup4IGNBT/oM+dqk5V0nHfCimCYltIWJKXdOOIPhRORFLdWakmmd1Nnrym6fCdATuSQoj7ZpzdgAMmwdf5OabyHhB2jxsaiNzjK1O+O7GdjAxH5IF1NCHpZrLa5I986kTZMqLNfR77QCxIyttQ7GeCu1alDtvyxml9P33RApXvk5kUZOkx38U1gDUDOiRkpHkCJu6/LomMMx0=;na6OJBJdghMmgo3uZp3dIQ=="
 ---
 

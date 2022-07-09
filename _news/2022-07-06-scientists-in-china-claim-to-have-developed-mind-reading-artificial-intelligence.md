@@ -7,7 +7,7 @@ originalUrl: "https://justthenews.com/world/asia/scientists-china-claim-have-dev
 webUrl: "https://justthenews.com/world/asia/scientists-china-claim-have-developed-mind-reading-artificial-intelligence"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese researchers claim they have AI capable of reading minds"
-    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
-    publishedDateTime: 2022-07-04T17:46:00Z
-    webUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/"
-    ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 608
-        isCached: true
   - title: "The Chinese Government Claims That Its AI Can Read Minds"
     excerpt: "Reports indicate China has again leveraged technology for dystopian purposes, this time allegedly using artificial intelligence to gauge party loyalty."
     publishedDateTime: 2022-07-05T19:52:00Z
@@ -64,24 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Chinese AI tool can ‘check loyalty of party members’"
-    excerpt: "A new research paper published in China purports to have shown how an artificial intelligence (AI) solution is able to check if people are loyal to the Chinese Communist Party (CCP)."
-    publishedDateTime: 2022-07-08T13:12:00Z
-    webUrl: "https://www.techerati.com/news-hub/chinese-ai-tool-can-check-loyalty-of-party-members/"
-    type: article
-    provider:
-      name: techerati
-      domain: techerati.com
-    quality: 19
-  - title: "Chinese AI used to monitor party loyalty"
-    excerpt: "A new artificial intelligence tool has been developed in China that helps authorities monitor how loyal members of the Communist Party are to the government. According to the Institute of Artificial Intelligence in Hefei,"
-    publishedDateTime: 2022-07-08T10:23:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55117-chinese-ai-used-to-monitor-party-loyalty"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 17
 
 secured: "Rf5yILTIyHG7v1w2/2N1ZQ22zCik14OGlj/mufud7R9uzJLE0i7ae6opaHtbUbph4Mg+gST887s1JPVFX5OM9gp0t9PolVnMWoJvlBOLEgT2F5kEMY63m6uMKi+AM2so/v/x8rJkINf0UiuUEmyKeRBQP9J9Dem0T+YDY3nS1nai6bfKm7+4XKF9Y9+ybJk3CkEajDAf6NPDw1MXMCpmgqGWvBxY5QGoivJ2Q62dNo4FnJZLc480cZkXqInLeYA6iBAdac28/bgJbHLRKDhIEgLFdqRlzzFwJV4pza7E2frQErTnyr+kg/ZdHQ9WRJGTd0Wq0dFI1FmLS2XDAT8E3x9gUk4DLyBQQ1m9L6xLMSrA1OmlQgISOQeDqr4Lz/HvylWZvStF0kEE1dr7WhDhfCZp6KRgT8aw1urvD3axf2hPEZTzLWMSk89vcYybhguhiH4KKLBlKxNWQSi/TLNWjc4XNBYuODbBlEOo9WwvifqntMuC8GEWxfmLNUjNOaRRPTRFlea1XCYICK6crP+hBQ==;wIXZRl2BbpqEgMCnslTcaw=="
 ---
