@@ -124,6 +124,20 @@ related:
         width: 500
         height: 315
         isCached: true
+  - title: "IBM Acquires Databand.ai To Extend Leadership In Data Observability"
+    excerpt: "The acquisition strengthens IBM's software portfolio across data, AI and automation to address the full spectrum of observability and helps businesses ensure that trustworthy data is being put into the right hands of the right users at the right time,"
+    publishedDateTime: 2022-07-07T00:00:00Z
+    webUrl: "https://www.businessworld.in/article/IBM-Acquires-Databand-ai-To-Extend-Leadership-In-Data-Observability/07-07-2022-435859/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 39
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1461043704_sACUNR_IBM-reuters-470.jpg"
+        width: 870
+        height: 470
+        isCached: true
   - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
     excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
     publishedDateTime: 2022-07-06T22:38:00Z

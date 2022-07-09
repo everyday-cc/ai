@@ -14,6 +14,12 @@ provider:
 topics:
   - AI
 
-secured: "DLOVdGNRKkuZ+DRZP161koK7oqoAZKvns19KXoGdE5krm7CvWsJbxwEhdrwIKIk0UQGSjTTEOm+FbXXejn9OU1X1udPPI/Prahv3/MIA9P9e+DAv7QwuZurkHo2D0y9snnv3pf7qTgAaoeYfMUJoXlUpDsKTXFHLTkUZrkgOIZNm6VHfLyy7gIHL/cF0nhjN19J2KY4eLqBEz8q20XbmFjMmIGlTOFoq4eREev6cvxNfXk6xtaFEaa46Zcrn8IU6I05hf9CpPkjVW/TVujz7AxJElsoYiqEMaTj2dZEeOtmJ/i4JwgDoVVGYnZ20xZVayOMWPsjW6p72uNoxEaiAxR2j2WOcneK+d/OTELAgR9TEam2cRhBoxIu+mzGRkjpGF+lB5EAX6D6V9aLX9awrB3ZrUJxEN098PTaqi0O9ckHAvMslM3p4YKL4f9L58Eo2WYi4LqgDVBf52C0tfsi676tdb2H38mKzHNkOqJcfQhNj70r2FTGTUqpB6wzUChFSg3q0LG3FScDpgqRbxSui4g==;V+404P/HoixJPQ7X+PDKHA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+    width: 283
+    height: 400
+    isCached: true
+
+secured: "gRMsWGrvY+i+6HiYLgBCEfyIHv18JoQwPQOvLYmOlrKaDvVgyxpxfiFV2RffRhIHFhI9G28naKxjLgCfLGFY8XsKmMG8YQJ/y25wP5za2JGKCcZXI8+FaaJ7UNwM6eGCKB0WDN1AblkvhZJ45sLOhEkjzYXfFB5cImfhUE2D520BuODI3rXIFY6H51vusCcUyVCiniPfmmhMBcUNmnOvbSS7YZ3cOZx+wDTuEPJQdTqbMsKTRsEk/1CgYDbrPOuyJHmGwuVjoRDB4IH3U5hyuujLsMj1ri+SkwQNxQI7SfSio8RlzVZgXuRN5F13g8/35AFOH0N9juoqI//Nrbd6htmx6oUJcEfMhs6SrULN3Mk=;UBL0VqufGO6gNWhrvsaNig=="
 ---
 

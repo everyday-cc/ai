@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/34361/20-year-indian-students-machine-l
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
+    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
+    publishedDateTime: 2022-07-09T19:07:00Z
+    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 32
   - title: "Teachers as driving forces in transforming students' learning process"
     excerpt: "School students have characteristics that differ from one another, such as their learning styles and self-development requirements, with some being either"
     publishedDateTime: 2022-07-08T13:34:00Z

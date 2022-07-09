@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T14:00:00Z
 originalUrl: "https://www.westnewsmagazine.com/lifestyles/cognitive-impairment-or-vision-loss/article_7fdab962-fc7b-11ec-ae88-bb70555baa99.html"
 webUrl: "https://www.westnewsmagazine.com/lifestyles/cognitive-impairment-or-vision-loss/article_7fdab962-fc7b-11ec-ae88-bb70555baa99.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: westnewsmagazine

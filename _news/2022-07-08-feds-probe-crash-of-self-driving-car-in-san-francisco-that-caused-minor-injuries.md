@@ -94,20 +94,6 @@ related:
         width: 960
         height: 504
         isCached: true
-  - title: "Self-driving cars were responsible for 12 crashes in Arizona in the last year"
-    excerpt: "New data released by the National Highway Traffic Safety Administration (NHTSA) shows there were 130 crashes involving self-driving cars from July 2021 to May 2022."
-    publishedDateTime: 2022-07-05T01:13:00Z
-    webUrl: "https://www.12news.com/video/tech/self-driving-cars-were-responsible-for-12-crashes-in-arizona-in-the-last-year/75-633758fa-5206-49b1-8e6e-825758583446"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 21
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/e56c44af-91da-4583-8cec-4433f7203761/e56c44af-91da-4583-8cec-4433f7203761_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
     excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
     publishedDateTime: 2022-07-07T20:41:00Z

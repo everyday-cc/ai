@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T19:49:00Z
 originalUrl: "https://menafn.com/1104506275/Star-Tech-Superagent-Is-The-First-AI-Driven-Ranking-System-For-Property-Agents-In-MENA"
 webUrl: "https://menafn.com/1104506275/Star-Tech-Superagent-Is-The-First-AI-Driven-Ranking-System-For-Property-Agents-In-MENA"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

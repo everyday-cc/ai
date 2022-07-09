@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T19:19:00Z
 originalUrl: "https://www.dailypioneer.com/2022/state-editions/haryana-women-development-corporation-will-impart-driving-and-self-defense-training-to-women.html"
 webUrl: "https://www.dailypioneer.com/2022/state-editions/haryana-women-development-corporation-will-impart-driving-and-self-defense-training-to-women.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Pioneer

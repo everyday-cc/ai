@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T16:18:00Z
 originalUrl: "https://siliconangle.com/2022/07/09/answering-top-10-questions-supercloud/"
 webUrl: "https://siliconangle.com/2022/07/09/answering-top-10-questions-supercloud/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SiliconANGLE

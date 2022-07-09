@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 500
     height: 343
     isCached: true
-
-related:
-  - title: "Based on the content of internet job advertisements, artificial intelligence can estimate wages"
-    excerpt: "A postdoctoral fellow at Stanford’s Digital Economy Lab, part of Stanford’s Institute for Human-Centered Artificial Intelligence, says that in this time of workplace upheaval both employees and employers and policymakers could benefit from understanding which job characteristics lead to higher wages and mobility."
-    publishedDateTime: 2022-07-05T04:27:00Z
-    webUrl: "https://bestgamingpro.com/based-on-the-content-of-internet-job-advertisements-artificial-intelligence-can-estimate-wages/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 25
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Words-matter-AI-can-predict-salaries-based-on-the-text-of-online-job-postings.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "YXAz44GoEsu9mQ6GpRsBNXz+KxrJBl/phjFnL8ZBMR3c3FQw8EsCm9gOVbzSBOEt1nZigiP1aK3JUaY9APsMxgQlNWfULTElBQnsYDpc8RWhNnwTjRgzb4evnLZSD3drnBMH1Rna2hUs+igAma3T8iPNg6chQD/UK7+J6sEZOferPyZ0EOojtzbDD37er/EamMOIaSFdu2wfYDsg25VKVkH6H/z48dfEp6w/7RpOhbj/HuzgYePj1vnLQa1VbW7d+g2yTkS786YY5f3aTCK90JOWAl1i9RKJkleXKaiR1I17GCvuMj76NUqqRcXaTGeiv9XMKnrPui2K52rB7HqDYh6kxiCcjI/utPDX6vdfwywUGzE2sPigFjk3QlCGkozjI8WZIgTN054pcj/lUGMp0V+m7g+l3uLv+1btn4Aedvp3BZt5C/o0iRNxU7qTS7zCzFeQeGKNnOScPWUAfktvieR2sCNkASW+fuvrD9yMBCJlCufq6f1w0tV0BIg8kOebcONgiza1FsTIAZGE+smAiw==;+0Ss5+1KCyrgQiu8EH+09w=="
 ---

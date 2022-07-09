@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Autonomous Vehicles Emerging as Avenue of Specialization in Big Law"
-excerpt: "One litigator likened the opportunities in the sector to the internet boom and the industrial revolution combined."
-publishedDateTime: 2022-07-08T19:41:00Z
-originalUrl: "https://www.law.com/therecorder/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
-webUrl: "https://www.law.com/therecorder/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
+excerpt: "Though driverless technology remains nascent and few states ... And amid rapid advancements in artificial intelligence, sensors, chips and data storage, the autonomous vehicles sector is set to “be transformative,” she said. “I see it as the internet ..."
+publishedDateTime: 2022-07-08T19:42:00Z
+originalUrl: "https://www.law.com/americanlawyer/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
+webUrl: "https://www.law.com/americanlawyer/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 633
     isCached: true
 
-secured: "4UsNb8kBMDxyWv+OS6ouVox3EcUMt5TpfVTwaa88l3DbqOVQnllH1t+2LskvRu3HCQnFUXVLVq/CVGWLm2jfUOIAdTgc2xJLvN/VKGC011QR6bVPTVpQh2OJ7lCqmdYpTLrmDuPAqb4pEi9TqyNUYXacf/uUG+efv6C6ML3rpOgFDp8reZLgg8xmEvGf/GQbpSFtJzns8gBkhzry+bWEAUQ8Cy1DGZIb6xLytXym1HHBvpYDr8g9iP4Xv44KY4yPXaS3l2cOSaIezcXqXHOvY4GzIX1+suWiV4LbDmU4BNKja36dIKufS8HLn/Cx3YoivttEbL11hLsC5s5ImtnOeJWkqirJNuNCGwZFdhpHOoG4BBRLzmmMiaSo+PmsLbMak+pgxs2hp2yMMJ3KPbXen8vkK/jsPNR+yRSwKcFJ/oT3NDN1+ZyZ4P3lPqid2qhRkP6bJEhe8id9jhXn7jPdf6m8dtbFxL765QLzvoHnE0JK5HHTZngtLKo59/1iBXiUyXDkb+S+6Pl5PMFYedsMtQ==;TkFVSqHR3fXRkMH6bRQ/lQ=="
+secured: "5PIJMalEQP+9E76WqwPIT+Yi+eUqk679G1UPhqFYkKOlsvrPZOL0tbIKWacoCEtgKr7YW/9mft75PvqkfP3z2qZ/tmMFk/Bqx7kH7LiJ+PhYikdXnjdjIUCxh5iR+mXsi8VdpkEOTNL9uVOvvSXC4agaNShJvf4eo0Em9y/zl3PcjKoud73sNq3am5JUYHc81PwIpAnpu57+1KlAjudcNdgDtcppv5VrmarNsr10fL2w1GT3QE8DuTkk2k5id8qNW+ZPFNBjKZ5AjQkC09N4icKhCAOaEiG10T4P8pleukiGV+lcjd4Xd4Rt/iQCB2naMY86nGdLDTsF5cHkuMYgkn6g5sCSGmVj2nFut+x2boM=;UaYmubTHEklCZzLVJ3mlbA=="
 ---
 

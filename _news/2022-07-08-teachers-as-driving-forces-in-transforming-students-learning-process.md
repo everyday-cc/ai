@@ -35,6 +35,15 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
+    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
+    publishedDateTime: 2022-07-09T19:07:00Z
+    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 32
 
 secured: "tST6WwccY60GRfw792x6cIS3/zdM2JgWYm2yx7Pqgxo+5Qu5Pbwd4Mkn1oUN9XQiEIcZXMNBx03jbaN0ErPavuIC233a3VkARIyqmS6OfP8n6e+C7NqRtvHKUbTQnWPRjBLKTxWhrZ1vtCVSsNSkxNG5wVgV+kII/WJixZQLlznO17Z2uDPCE5UcQvDx8LIuxdRmqW1MpjMGRcQm+C1Db05fJ/FWaU1o3/KAt1FWDQ/IGJQ80dG2vE5qtgrWT/h1rySRYJrbiD7DpWi751CGmYIcBRSdby8DeqtDzc9RqbeCGatt2lpVZNxOmflDYHDKnzF9XmJMNDdt1JdrDFYdtZaUDMjZ38ttUo9hdYXJz37ha1uAY6bNN7QONCOwu8SXltomlafNXMN9q6RRgnT2QtIxuc8tZG0/SZ/uzJLAQKZcDUV9R9KV6W0igRqVl4idyXkXfIT6/M/bWzYHXd4OcvnvVOcwFLgd5ml2XKNXd+J6AnBCAm69hZQ6tBMWysvJ/DWll0xH9xxNHkpE/noEhA==;U/XuMBjqctxlfVC6VFsZZw=="
 ---

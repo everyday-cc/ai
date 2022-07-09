@@ -3,18 +3,28 @@ category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
 excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://nonpareilonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9f4a7255-e7ed-5770-903a-75876eaa568f.html"
-webUrl: "https://nonpareilonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9f4a7255-e7ed-5770-903a-75876eaa568f.html"
+originalUrl: "https://madison.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_ec84d8f9-ecc9-5f91-9a1e-d6b34182d48d.html"
+webUrl: "https://madison.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_ec84d8f9-ecc9-5f91-9a1e-d6b34182d48d.html"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
-  name: Daily Nonpareil
-  domain: nonpareilonline.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
+  - AI in Healthcare
   - AI
   - AI Ethics
 
-secured: "YEX+sXbBp43QC3GssLJjbZLgP863iLR7XwisKwrQ0QZShPRzlj/2fPE64Fh3b6NVLyLjupuhk6JV+aB2FSN5UDaNvvqDQBwnABQ/JCW3kNFiffZ1X6TLpaU5+B6QDTlM5x1IAkABpZqkQ2KqZuLX3WBCcNDy75yqU6VeXDEu7+FWCEvB/TT8VmshIZ3auZ/A1jCLOJDoyjRlMQ17fSOkri5RbkxPTh8W5ntJzGWPkp77HaBmmu6wI74KETT9BKoyG9cD72ve/tGFZUtdHdD8b9ij75j6JSHuo5qzY9ksePoA9oFTVnsoKYGsWYxaSmxoe3W5/1nowfbwblwrqW1AJzu7N6UWfmY2GRhD21JAJPl37e/ytETeAdwkyO6gBatC/OxzKGDP0QmdFNyrXooQAvA1BgQC7dM9qC5kLQY8IDfEFbl9BBmSGv4Ikh7Ei6b+rpeItv+VXmdx6p59mbqxCrSO+VnY60UN6LXrq6IDd7Duxk6gHln6rjQtqblEIhlKbmhd1mX/Mbtnk63aVhKlFQ==;Ymal9FX/0IjClMCEurIe/Q=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/e/c8/ec84d8f9-ecc9-5f91-9a1e-d6b34182d48d/62c454ede5ce1.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
+    width: 749
+    height: 393
+    isCached: true
+
+secured: "aafePfElX7ANbFNZG5JEAqniiQl8su4i7JSEDQwgOZuurBVeiovYnzaJvpcIdmdwUT9jW9ZFGyqaWzz/vq6ebeKZENAfmQ96SoqQFiTcDwif7K8q0F+qPreC6anUtxeZ0im7sT8rQRNxi5/DlehMI/awvO4veQhgCtcUZSqbfT/jfOLr5uR8Kyr2PIZmmpxlU0bLZtlgtqcTWpnWYS5mpHL5ARIt7ZMZNyGVE6p7nIbtDGMRAD1UQuwfddK8lv/LDRbnu5gllWuaNz2mwalYY2SVhO1bFRIBxoZ59zCwc1fhVqnB44GR64QQVx/ZVIXW76/6qemcb/XsNMvLhB5gO6F8tpmzE2Y8mxyhIFazhP4=;75e6HMhmaC5KcYHiDcZH8Q=="
 ---
 

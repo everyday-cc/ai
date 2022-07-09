@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-01-people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call.md",
+      "title": "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'",
+      "excerpt": "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php",
+      "originalUrl": "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-what-it-takes-to-create-and-implement-ethical-artificial-intelligence.md",
+      "title": "What It Takes To Create And Implement Ethical Artificial Intelligence",
+      "excerpt": "Artificial intelligence “acts” unethically in ways that are different from humans, even if the harms that both AI and humans can cause are similar. For example, even if both humans and AI can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdaf29f10cfef9f670f110/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-30T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
       "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
       "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
@@ -1038,110 +1124,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
-      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
-      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-568242/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "publishedDateTime": "2022-06-29T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-emotionally-intelligent-education-defining-student-experiences.md",
-      "title": "Emotionally Intelligent Education Defining Student Experiences",
-      "excerpt": "I could feel from their body what they may not be able to put into words and a recognition that it's not the same as ... That mentality says, “if I'm a good object, that means I'm doing good.” It goes back to absorption foreshadows transcendence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bd209a2bd95f3270d547b7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "publishedDateTime": "2022-06-29T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

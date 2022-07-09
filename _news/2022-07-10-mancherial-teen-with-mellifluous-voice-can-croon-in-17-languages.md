@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T18:43:00Z
 originalUrl: "https://telanganatoday.com/mancherial-teen-with-mellifluous-voice-can-croon-in-17-languages"
 webUrl: "https://telanganatoday.com/mancherial-teen-with-mellifluous-voice-can-croon-in-17-languages"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Telangana Today

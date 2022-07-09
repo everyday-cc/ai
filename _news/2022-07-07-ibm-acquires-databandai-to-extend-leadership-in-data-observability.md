@@ -1,28 +1,27 @@
 ---
 category: news
-title: "IBM buys data observability software Databand.ai"
-excerpt: "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020."
-publishedDateTime: 2022-07-08T02:48:00Z
-originalUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html"
-webUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html"
-ampWebUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
-cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
+title: "IBM Acquires Databand.ai To Extend Leadership In Data Observability"
+excerpt: "The acquisition strengthens IBM's software portfolio across data, AI and automation to address the full spectrum of observability and helps businesses ensure that trustworthy data is being put into the right hands of the right users at the right time,"
+publishedDateTime: 2022-07-07T00:00:00Z
+originalUrl: "https://www.businessworld.in/article/IBM-Acquires-Databand-ai-To-Extend-Leadership-In-Data-Observability/07-07-2022-435859/"
+webUrl: "https://www.businessworld.in/article/IBM-Acquires-Databand-ai-To-Extend-Leadership-In-Data-Observability/07-07-2022-435859/"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The New Indian Express
-  domain: newindianexpress.com
+  name: Businessworld
+  domain: businessworld.in
 
 topics:
+  - IBM AI
   - AI
 
 images:
-  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg"
-    width: 600
-    height: 390
+  - url: "https://static.businessworld.in/article/article_extra_large_image/1461043704_sACUNR_IBM-reuters-470.jpg"
+    width: 870
+    height: 470
     isCached: true
 
 related:
@@ -71,6 +70,22 @@ related:
       - url: "https://www.geektime.com/content/images/2022/07/Screen-Shot-2022-07-07-at-11.12.03.png"
         width: 952
         height: 636
+        isCached: true
+  - title: "IBM buys data observability software Databand.ai"
+    excerpt: "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020."
+    publishedDateTime: 2022-07-08T02:48:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "IBM acquires data observability firm Databand.ai"
     excerpt: "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ..."
@@ -122,20 +137,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/20220707113744_0_0_0_0_70__News_ibm_logo.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "IBM Acquires Databand.ai To Extend Leadership In Data Observability"
-    excerpt: "The acquisition strengthens IBM's software portfolio across data, AI and automation to address the full spectrum of observability and helps businesses ensure that trustworthy data is being put into the right hands of the right users at the right time,"
-    publishedDateTime: 2022-07-07T00:00:00Z
-    webUrl: "https://www.businessworld.in/article/IBM-Acquires-Databand-ai-To-Extend-Leadership-In-Data-Observability/07-07-2022-435859/"
-    type: article
-    provider:
-      name: Businessworld
-      domain: businessworld.in
-    quality: 39
-    images:
-      - url: "https://static.businessworld.in/article/article_extra_large_image/1461043704_sACUNR_IBM-reuters-470.jpg"
-        width: 870
-        height: 470
         isCached: true
   - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
     excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
@@ -249,6 +250,6 @@ related:
       domain: timesofisrael.com
     quality: 4
 
-secured: "kijTidh9atVBIxpZOaL/jvE9PvdOdrovFD1fZoIv/4LQUDWEdYbyLGle9LqlVXK7lF4HDJ2bbzTQZlOmz4PDxcaKXtqfb4rKpGcwA6ixIKT4MCMATiGFD5kWtVRjsyZljCUDkCJriIwj8FmCdOz0nR3o+CDjBo+zSGhxpzFH2KPY42+ifG70ygHeX2n6/ojkM1u3OkFWCZ7pcrrt49ntiq1qmVOTuIau3WmqY65J0S5bja09YoJnaBR1YXgS5lB0YumrKLn5YgqhC63e5we0HFl99AxVXloLwnaXjvUlcX3ztz2vze0MNYA8DaXbd3UsHLWDhEQL32DY/xPstI8kYLJqaxRdTWoDOVHX/x3tdTc=;E/2fx3xRhr0YcJaHnHBpXw=="
+secured: "/TMtW+6AS0U69RMBuVdWkEoDQVjfsu51iZFJxaTZnlsfUbCY4zrRCUZJxohfhsjZEzbuUzErOJ6QPUyze96fY0j224IYZhGarrJoalzKVwARJWkoxtsJZx38c1ALb2b5bNvUnhYhKuaAZBN9RG/gVeGs+7vvABZwJP+w/ML8m71p85refDwfrgn5oXTkyI+mHDyQViuWJthgnxMcBKewCYJTXWhmQ4yRFOAfKtaT6oVm1pfZVNPzC65GwhXzLQ8dfh8TpQbGnILXFn0Ia4SoO8BTZ4xLbk3cH92+aJQikR65a0wcJmyiGrPbYOh9E+hOGlYcCma2rgQdC5RgzqEnR6cBMAKQ9ko4WoEAZwbj95M=;ld9+oQauxGVCoGUCiQ3nxw=="
 ---
 

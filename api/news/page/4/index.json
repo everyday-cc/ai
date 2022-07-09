@@ -288,8 +288,8 @@
       "title": "Could Artificial Intelligence Replace Therapists?",
       "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "webUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -306,8 +306,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
       "publishedDateTime": "2022-07-02T07:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -322,6 +322,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -776,6 +777,48 @@
       ]
     },
     {
+      "path": "_news/2022-07-02-an-artificial-intelligence-probe-to-help-see-tumor-malignancy.md",
+      "title": "An artificial intelligence probe to help see tumor malignancy",
+      "excerpt": "Tumor malignancy identification plays an essential role in clinical management of cancer. Currently, biopsy is the gold standard for malignancy identification in most tumor cases, it is, however ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/an-artificial-intellig.jpg",
+          "width": 1888,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
+      "publishedDateTime": "2022-07-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-five-ways-to-promote-brain-health-slow-cognitive-decline.md",
       "title": "Five ways to promote brain health, slow cognitive decline",
       "excerpt": "Age is the greatest risk factor for Alzheimer's disease. In fact, 1 in 3 seniors age 85 and older will have Alzheimer's disease. While some brain changes are inevitable as we age, there is a ...",
@@ -840,6 +883,39 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
+      "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1019,93 +1095,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-applying-infosecurity-principles-and-practices-to-cognitive-security.md",
-      "title": "Applying Infosecurity Principles and Practices to Cognitive Security",
-      "excerpt": "Information security has the following three layers: cybersecurity, physical security and cognitive security. Cybersecurity, broadly speaking, involves machines and the networks between them. Physical security consists in protecting physical access to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
-      "originalUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-implementing-change-part-three-how-to-move-ai-forward-in-healthcare.md",
-      "title": "Implementing Change Part Three: How To Move AI Forward In Healthcare",
-      "excerpt": "Rick Newell, MD MPH is CEO of Inflect Health, Chief Transformation Officer at Vituity, and passionate about driving change in healthcare. I’ve explained some of the many ways artificial intelligence could vastly improve healthcare at all levels ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/",
-      "publishedDateTime": "2022-07-01T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
