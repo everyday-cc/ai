@@ -41,6 +41,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Crash involving Cruise's self-driving car under probe in US"
+    excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
+    publishedDateTime: 2022-07-09T09:11:00Z
+    webUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 44
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/9_sat/img_1657352343579_324.jpg?"
+        width: 764
+        height: 1238
+        isCached: true
   - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
     excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
     publishedDateTime: 2022-07-07T22:20:00Z

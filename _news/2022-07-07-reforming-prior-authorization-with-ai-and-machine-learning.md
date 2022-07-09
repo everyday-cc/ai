@@ -127,20 +127,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 34
-  - title: "Moving to AI in action: how law firms can overcome inertia and embrace next-generation technology"
-    excerpt: "Download the guide to read more about how SearchFlow is making AI accessible and value-adding for law firms, lowering the barriers to entry and making AI in action a reality."
-    publishedDateTime: 2022-07-04T16:01:00Z
-    webUrl: "https://www.legalfutures.co.uk/associate-news/moving-to-ai-in-action-how-law-firms-can-overcome-inertia-and-embrace-next-generation-technology"
-    type: article
-    provider:
-      name: Legal Futures
-      domain: legalfutures.co.uk
-    quality: 24
-    images:
-      - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
-        width: 636
-        height: 417
-        isCached: true
   - title: "Self Learning Neuromorphic Chip Market Size, Share and Demand Forecast by 2028 : Next Generation of AI and ML in Neuromorphic Computing Technology"
     excerpt: "A self-learning neuromorphic chip that aims to make machines think and learn more like humans.North America region is dominating the global self-learning neuromorphic chip market with the largest market revenue."
     publishedDateTime: 2022-07-07T19:20:00Z

@@ -57,20 +57,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 3
-  - title: "Worldwide Radar System Industry to 2027 - Featuring BAE Systems, Dassault Aviation and Raytheon Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The global radar system market reached a value of US$ 32.3 Billion in 2021."
-    publishedDateTime: 2022-07-04T15:20:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/covid-health-general-dynamics-corp-fc16ed51771042aa917eae359511b106"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Worldwide Self-checkout Systems Industry is Expected to Reach $10.5 Billion by 2030 - ResearchAndMarkets.com"
     excerpt: "The global self-checkout systems market size is expected to reach USD 10.50 billion by 2030. It is expected to expand at a CAGR of 13.3% from 2022 to 2030. Gilbarco Inc. Increased demand for automation and technology advancements focused on reducing theft incidences are significant factors driving the market."
     publishedDateTime: 2022-07-07T13:56:00Z

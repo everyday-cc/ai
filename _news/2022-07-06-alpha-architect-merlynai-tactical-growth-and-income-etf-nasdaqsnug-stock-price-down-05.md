@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Qraft AI-Enhanced Next Value ETF (NYSEARCA:NVQ) Stock Price Up 0.2%"
-    excerpt: "Qraft AI-Enhanced Next Value ETF (NYSEARCA:NVQ – Get Rating)’s share price was up 0.2% during mid-day trading on Friday . The stock traded as high as $29.87 and last traded at $29.87. Approximately 20 shares changed hands during trading,"
-    publishedDateTime: 2022-07-09T05:38:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/09/qraft-ai-enhanced-next-value-etf-nysearcanvq-stock-price-up-0-2.html"
+  - title: "Cwm LLC Has $393,000 Stock Holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
+    excerpt: "Cwm LLC trimmed its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 10.0% in the first quarter, Holdings Channel.com reports. The firm owned 8,"
+    publishedDateTime: 2022-07-09T09:09:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/09/cwm-llc-has-393000-stock-holdings-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
     type: article
     provider:
       name: Defense World
       domain: defenseworld.net
-    quality: 17
+    quality: 28
 
 secured: "btoJNF9aQF2i0k2LLJ9NwX/JzZylS61/h+UPylu+UkxE1byA3j6WN5oYfoaEOX1ogI5aegDPYi60Bfohh1OGcA1IFwBfgfUPNBBLhfUEjlyEmMj0vieEjuHTrcz9u6we0BfThgfEtLaERAxkjfEOZWS1IkYS6KTzf2VTR7DRagE5qtz0xYne+ebPdYXSx0QDu7xAXTTVrKrcH4sfzQOxvv62/ZNgsH503UHW+iN/oaXIgCQVF9vCAdz+fbYMjMzUqY7FUw3k7pNXEfZD6/Ok1NrWTAQnYM/aWnXqVIRystNbsTr/Il+ckUF0J57AUHF6nq2B0gAPnSh+yiJ6dwEOAxpDKNnL3nOW90ODsNSo+uS4OF8XiI4TNQLi74BiLJl+3zL0KrMa/wJrEnlKNTn2Yg/PLkHsjjV0tdjx/DZPu/I+3Ye/Y0VjtJW/S0SHcextaIFMdx0vFdN8BXQNMfZNEChpe9deg5hapW+GIW2HBBzXNvi/AOXgnpn7/xzZTg+5dxnUImvkmB+LYgAFLJordg==;N8TbRpYc+ba3csdd7CmAww=="
 ---

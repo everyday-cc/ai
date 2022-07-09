@@ -42,20 +42,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 3
-  - title: "Worldwide Radar System Industry to 2027 - Featuring BAE Systems, Dassault Aviation and Raytheon Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The global radar system market reached a value of US$ 32.3 Billion in 2021."
-    publishedDateTime: 2022-07-04T15:20:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/covid-health-general-dynamics-corp-fc16ed51771042aa917eae359511b106"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Autonomous Data Platform Industry Forecasts to 2027 - Rising Volume of Complex and Unstructured Data is Driving Market Growth - ResearchAndMarkets.com"
     excerpt: "The \"Autonomous Data Platform Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022-2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21."
     publishedDateTime: 2022-07-06T14:28:00Z

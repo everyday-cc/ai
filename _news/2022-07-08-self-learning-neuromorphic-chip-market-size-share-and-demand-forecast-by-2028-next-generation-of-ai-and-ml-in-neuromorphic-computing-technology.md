@@ -138,20 +138,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
-  - title: "Moving to AI in action: how law firms can overcome inertia and embrace next-generation technology"
-    excerpt: "Download the guide to read more about how SearchFlow is making AI accessible and value-adding for law firms, lowering the barriers to entry and making AI in action a reality."
-    publishedDateTime: 2022-07-04T16:01:00Z
-    webUrl: "https://www.legalfutures.co.uk/associate-news/moving-to-ai-in-action-how-law-firms-can-overcome-inertia-and-embrace-next-generation-technology"
-    type: article
-    provider:
-      name: Legal Futures
-      domain: legalfutures.co.uk
-    quality: 24
-    images:
-      - url: "https://www.legalfutures.co.uk/wp-content/uploads/Leading-solicitors-PI-Insurance_advert-305x200px-MAY-2021-1.jpg"
-        width: 636
-        height: 417
-        isCached: true
 
 secured: "Tgfb4u4MOhmZHqKTcjf0equW57l7aRu9ghffvFOthegSmbHYV+oLq3LT7AbanxbBY8l96rf8E91RiX6TzbxMJmngRZTsT+J7FyBHnl5DRU5XW19gUsVHHz3YY3kHRqtWiQJ8lvj2PbSARMS2MP2YkFg8CdSxGNmR+O88Ecqkv4vMCye11sK8vpx8wiFIIYjt9Ybxy71hNZcfnibTe/bStVhZapPstiGPS8RztceF/KPkLb+QxSaI9VjfNdiB/AtQsWoBfRTLO+lZM5nZMidih2Yj1v/Rw5aJ0MPiaBR1gJLv2AAZ/6Ix2ZYLMMOqR6sZxWTMIZ39yoqFna0ruvNqlnhFZjQPJ1n7rcCYEY6h7WE=;d2h6RBEOkKPqbdqREVFVsQ=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Crash involving Cruise's self-driving car under probe in US"
+    excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
+    publishedDateTime: 2022-07-09T09:11:00Z
+    webUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 44
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/9_sat/img_1657352343579_324.jpg?"
+        width: 764
+        height: 1238
+        isCached: true
   - title: "Shenzhen Lays Out China’s First Rules for Self-Driving Cars"
     excerpt: "These are ‘hands on’ shared control, ‘hands off’ autonomous driving where the vehicle can perform most functions itself, and the ‘eyes off’ and ‘mind off’ levels of self-driving autos. Self-driving refers to Levels Three to Five of autonomous driving of which Levels Three and Four still must have a safety officer in the car."
     publishedDateTime: 2022-07-07T07:39:00Z

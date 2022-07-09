@@ -1,22 +1,30 @@
 ---
 category: news
-title: "How Researchers Are Helping Self-Driving Cars Become Safer"
-excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
-publishedDateTime: 2022-07-08T13:18:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
-webUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
+title: "Crash involving Cruise's self-driving car under probe in US"
+excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
+publishedDateTime: 2022-07-09T09:11:00Z
+originalUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+webUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+ampWebUrl: "https://inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: Inshorts
+  domain: inshorts.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/9_sat/img_1657352343579_324.jpg?"
+    width: 764
+    height: 1238
+    isCached: true
 
 related:
   - title: "12 self-driving cars crashed in Arizona in the last year"
@@ -34,22 +42,6 @@ related:
       - url: "https://media.12news.com/assets/KPNX/images/523a3c88-43d9-48ef-8ccf-ffa7732e44b3/523a3c88-43d9-48ef-8ccf-ffa7732e44b3_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Crash involving Cruise's self-driving car under probe in US"
-    excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
-    publishedDateTime: 2022-07-09T09:11:00Z
-    webUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 44
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/9_sat/img_1657352343579_324.jpg?"
-        width: 764
-        height: 1238
         isCached: true
   - title: "Shenzhen Lays Out China’s First Rules for Self-Driving Cars"
     excerpt: "These are ‘hands on’ shared control, ‘hands off’ autonomous driving where the vehicle can perform most functions itself, and the ‘eyes off’ and ‘mind off’ levels of self-driving autos. Self-driving refers to Levels Three to Five of autonomous driving of which Levels Three and Four still must have a safety officer in the car."
@@ -107,6 +99,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
+    excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
+    publishedDateTime: 2022-07-08T13:18:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 4
   - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
     excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
     publishedDateTime: 2022-07-08T20:12:00Z
@@ -117,6 +118,6 @@ related:
       domain: autobodynews.com
     quality: 4
 
-secured: "qBGXHFMOrNRunJN8Iz2pWhKCFXnxONfkBxNURvAKroWBQs2WLGkldGEtfl/dKBvFtzJrNmw6fvKEZ9MM+1931N9ZIiiliTx7Wek1UTPOXg4H3EKYR/Kja+Tf1KLp3tiXvtByKIelLzzRGQINdcdf99L/UQQs1MqaznbbiHx8vPPzd17mgXQCNfhplQZjZl6Dx4xHCx2iQ/8RKcVv5oNdUHuo+f3H5eJCMnj1CwdLrjmORxuZ2e/BtmzeqQNdu0D59CXHm4UEB49ZW3gKjJmD2s3s91HyJjP8vYFCr4TEb1Mw1fV4/pS4q/jArvCQa3KwnJT2II8dNxoWFmmNGwt1AU9kAiLX+thQKZWKW4rqSVs=;3dfMdR0o+QI/dPhx6A/PbA=="
+secured: "O7NYwSBwgdjcNoo0npSiQvrZzkkJEtDK1X4V5bB3tTjit4r5gTcoyQneHFaIRrZyaCMXeyuc9201dEyBnTDFqx8dds4b6dqdKy2edYh76fLsKV2rKviBruzIbLiN6yLkOCX7ETb6QkabR6nOgzOvWtUed2lCwp1J5wBebNpdd80maE3MQ+V6AoGVXyglCzjaB/nOXrGXhSCO86K2kr2XNY3nbF/VFWInzHhdAv9H4iVKl/cXpZMPw3iuS5iKylu2RYyNIku+K49GTW9Nw66MFuwpqKECkninIqZATKTGXqkyTi9X1Jlgqzhz6bUCx3gm+gG6mpEQTK9EBCGuZJeev4qoIYQUra0/otF7I0dNfI8=;cKR+wJTllU8mMl1aHAyDkg=="
 ---
 

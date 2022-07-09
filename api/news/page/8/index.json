@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-29-ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain.md",
+      "title": "AI Tech Company Nala Robotics Signs Expansion Deal with Slice Factory Pizza Chain",
+      "excerpt": "Newly Introduced Pizzaiola to Serve Up Pizza Restaurant's Signature 28-inch Jumbo Pies, Including Pasta Dishes and Wings ARLINGTON HEIGHTS, Ill.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-how-ai-can-help-solve-cybersecuritys-predicament.md",
       "title": "How AI Can Help Solve Cybersecurity’s Predicament",
       "excerpt": "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical.",
@@ -141,6 +184,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-aurora-mobile-brings-jpush-to-amazon-web-services-marketplace.md",
+      "title": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace",
+      "excerpt": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace. SHENZHEN, China, June 29, 2022 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the Co",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store.md",
       "title": "The Role Of AI And Edge Computing In Building The Checkout-Free Store",
       "excerpt": "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store.",
@@ -231,40 +308,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-aurora-mobile-brings-jpush-to-amazon-web-services-marketplace.md",
-      "title": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace",
-      "excerpt": "The launch of JPush once again demonstrates the strong recognition that Aurora Mobile commands for its robust products and services among global leaders in the industry. AWS Marketplace users can now directly purchase and experience JPush easily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aurora-mobile-brings-jpush-amazon-web-services-marketplace-/2022/06/29/9630584.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1048,58 +1091,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
-      "title": "4 AI research trends everyone is (or will be) talking about",
-      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "publishedDateTime": "2022-06-28T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

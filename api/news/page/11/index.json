@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
+      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
+      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-were-at-risk-of-creating-a-generation-of-racist-and-sexist-robots-study-shows-artificial-intelligence-quickly-becomes-bigoted-after-learning.md",
       "title": "'We're at risk of creating a generation of racist and sexist robots': Study shows artificial intelligence quickly becomes bigoted after learning 'toxic stereotypes' on the internet",
       "excerpt": "Fears have been raised about the future of artificial intelligence after a robot was found to have learned 'toxic stereotypes' from the internet. The machine showed significant gender and racial ...",
@@ -1112,49 +1164,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools.md",
-      "title": "Grand Rapids State Bank provides financial literacy learning resources to local schools",
-      "excerpt": "Local students are getting a free education in how to manage their money. Thanks to Grand Rapids State Bank’s sponsorship, over 1,740 students and teachers at 11 schools in Itasca",
-      "sourceUrl": null,
-      "webUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
-      "originalUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/3/9d/39dc0ea4-f3f5-11ec-989f-37ca0def542b/62b612d1e6628.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Grand Rapids Herald-Review",
-        "domain": "grandrapidsmn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

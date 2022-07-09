@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
+      "title": "4 AI research trends everyone is (or will be) talking about",
+      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
+      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
+      "publishedDateTime": "2022-06-28T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-uk-decides-ai-still-cannot-patent-inventions.md",
       "title": "UK decides AI still cannot patent inventions",
       "excerpt": "The UK's Intellectual Property Office has decided artificial-intelligence systems cannot patent inventions for the time being. Patents assign the ownership of a new invention to its creator. A recent IPO consultation found many experts doubted AI was currently able to invent without human assistance.",
@@ -465,6 +517,58 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-openai-taught-a-neural-network-how-to-play-minecraft.md",
+      "title": "OpenAI Taught a Neural Network How to Play Minecraft",
+      "excerpt": "OpenAI has detailed its efforts to teach a neural network how to play Minecraft. The organization says it used a \"massive unlabeled video dataset of human Minecraft play,\" along with \"a small ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/games/141180/openai-taught-a-neural-network-how-to-play-minecraft",
+      "originalUrl": "https://uk.pcmag.com/games/141180/openai-taught-a-neural-network-how-to-play-minecraft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/o/openai-tau/openai-taught-a-neural-network-how-to-play-minecraft_14wj.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1061,92 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning.md",
-      "title": "Varian makes cancer care affordable to all Indians with AI & machine learning",
-      "excerpt": "Thanks to radiotherapy, radiosurgery and other vital cancer-fighting tools, cancer is beatable today, and every new development only proves this further. Excerpts from an interview with Ashok Kakkar,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/articleshow/92506956.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/articleshow/92506956.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-69654,msid-92506959/ashok-kakkar-senior-managing-director-india-varian-a-siemens-healthineers-company.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/amp_articleshow/92506956.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/amp_articleshow/92506956.cms",
-      "publishedDateTime": "2022-06-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-apple-reportedly-preparing-to-release-a-flood-of-new-products.md",
-      "title": "Apple reportedly preparing to release a ‘flood of new products’",
-      "excerpt": "Apple Inc. is preparing to launch a wide range of new products in the second half of the year and early 2023, according to a report by Bloomberg’s Mark Gurman. Describing the forthcoming ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/26/apple-reportedly-preparing-release-flood-new-products/",
-      "originalUrl": "https://siliconangle.com/2022/06/26/apple-reportedly-preparing-release-flood-new-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/Apple_iphone13_design_09142021.jpg",
-          "width": 1960,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

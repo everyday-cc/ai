@@ -45,7 +45,7 @@ related:
   - title: "Artificial intelligence in the driving seat"
     excerpt: "Defence data scientists and engineers have come close to setting a world record time in a DeepRacer artificial intelligence challenge. The participants, from the Defence, Science and Technology Laboratory (Dstl),"
     publishedDateTime: 2022-07-07T07:48:00Z
-    webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html?play=1"
+    webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html"
     type: article
     provider:
       name: Advance

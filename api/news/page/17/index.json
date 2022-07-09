@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors.md",
+      "title": "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors",
+      "excerpt": "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF)(FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-6-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-6-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-unit-221b-report-validates-deep-instincts-99-zero-day-and-01-false-positive-threat-prevention-accuracy.md",
       "title": "Unit 221B Report Validates Deep Instinct’s >99% Zero-Day and <0.1% False Positive Threat Prevention Accuracy",
       "excerpt": "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced validation of its threat prevention capabilities by cybersecurity firm Unit 221B. The claims were validated through tests in categories including portable,",
@@ -1091,40 +1125,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.md",
-      "title": "Walking helps some young and healthy people improve performance on cognitive tasks",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources. However, this does not necessarily mean you should work on a big ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
