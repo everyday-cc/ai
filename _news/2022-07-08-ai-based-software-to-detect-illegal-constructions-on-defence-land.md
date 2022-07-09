@@ -56,22 +56,6 @@ related:
         width: 730
         height: 419
         isCached: true
-  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-    excerpt: "Defence Minister Rajnath Singh will launch the first-ever ‘Artificial Intelligence in Defence’ (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital."
-    publishedDateTime: 2022-07-09T02:43:00Z
-    webUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/"
-    ampWebUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/07/20220702216L2022070902094320220709022039.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
     excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
     publishedDateTime: 2022-07-05T05:21:00Z
@@ -87,6 +71,36 @@ related:
       - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
+    excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
+    publishedDateTime: 2022-07-09T05:04:00Z
+    webUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products-11657336952341.html"
+    ampWebUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2022/07/09/600x338/Rajnath_Singh_1653099369282_1657341178728.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
+    excerpt: "Defence Minister Rajnath Singh will launch the first-ever Artificial Intelligence in Defence AIDef symposium and exhibition organised by the Department of D"
+    publishedDateTime: 2022-07-09T02:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1657334776.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "tlqIURr55hxsCw8nXwl9y2jUtGqWLR0tb5h2RApCPXOdABQZQr9Z8bEoKivjJd1k8FxYMIFtGua9CTym99LGxRUlkdBLLFf1uBkpXA4lvl+sdte9N9PwXbrRF+v6YLUU33hMj/AZ6TJCpFTmoPUEkLTwF5oNl+G3U+9CMRpJcDP2ukC9UjOO6Cg2kiADmXo1h5+popWXOYUoGtRwH5t8q9BPTR+ij3KwojjaN0iFe6fDwObzqJi66qUzhRRVQ5r/JwdlP455ROgV3lI6TEGaajaRFIZghz8htDHu87RN5gXxErSJx/vSzSnyHFgUtf9O8Z9dsdJX4zHAQas/EWsvQNbpagLYES0/wFWFByA73Gw=;0EopilW63A3sx4QmBwuFkA=="

@@ -2,48 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
-      "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
-      "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
-      "originalUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
-      "publishedDateTime": "2022-07-03T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-03-an-ai-model-predicted-crime-in-us-cities-a-week-before-it-happened-it-was-right-nine-times-out-of-10.md",
       "title": "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10.",
       "excerpt": "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy.",
@@ -142,15 +100,15 @@
       "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
       "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
       "sourceUrl": null,
-      "webUrl": "https://richmond.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_d47778c4-8b3f-5cde-a4c4-ce25fe06cc21.html",
-      "originalUrl": "https://richmond.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_d47778c4-8b3f-5cde-a4c4-ce25fe06cc21.html",
+      "webUrl": "https://lacrossetribune.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_5c4f24ae-f3b1-5784-8605-ad6b07c8d936.html",
+      "originalUrl": "https://lacrossetribune.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_5c4f24ae-f3b1-5784-8605-ad6b07c8d936.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/d/47/d47778c4-8b3f-5cde-a4c4-ce25fe06cc21/62bc9a2f3a57d.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/5/c4/5c4f24ae-f3b1-5784-8605-ad6b07c8d936/62bc9a358e195.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
           "width": 610,
           "height": 320,
           "title": null,
@@ -162,11 +120,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T19:00:00-07:00",
+      "publishedDateTime": "2022-07-02T18:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
+        "name": "La Crosse Tribune",
+        "domain": "lacrossetribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -288,8 +246,8 @@
       "title": "Could Artificial Intelligence Replace Therapists?",
       "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "webUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -306,8 +264,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
       "publishedDateTime": "2022-07-02T07:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -322,6 +280,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1150,6 +1109,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-viettel-enters-ai-partners-with-nvidia.md",
+      "title": "Viettel Enters AI Partners with NVIDIA",
+      "excerpt": "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
+      "originalUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
+      "publishedDateTime": "2022-07-01T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

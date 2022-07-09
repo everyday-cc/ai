@@ -96,20 +96,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 52
-  - title: "Microsoft Azure UK stops accepting new customers for some services, due to supply shortages"
-    excerpt: "Microsoft has reportedly stopped accepting new customers for some UK-based services, as server shortages hit its data center rollout. The Telegraph reports that Microsoft's two British regions, UK South and UK West,"
-    publishedDateTime: 2022-07-04T11:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-uk-stops-accepting-new-customers-for-some-services-due-to-supply-shortages/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 44
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
     excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
     publishedDateTime: 2022-07-05T23:38:00Z

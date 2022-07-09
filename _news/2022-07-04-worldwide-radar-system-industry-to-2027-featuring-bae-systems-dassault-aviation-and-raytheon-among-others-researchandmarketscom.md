@@ -48,20 +48,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 28
-  - title: "Global Deep Learning Market Is Expected To Reach USD 68.71 Billion At A CAGR Of 41.5% And Forecast To 2027"
-    excerpt: "Deep Learning Market Is Expected To Reach USD 68.71 Billion By 2027 At A CAGR Of 41.5 percent. Maximize Market Research has published a report on the Deep Learning Market that provides a ..."
-    publishedDateTime: 2022-07-04T11:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-deep-learning-market-is-expected-to-reach-usd-68-71-billion-at-a-cagr-of-41-5-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-3-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
     excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
     publishedDateTime: 2022-07-08T15:00:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-08T15:46:00Z
 originalUrl: "https://www.adelaidenow.com.au/news/victoria/artificial-intelligence-will-predict-your-chances-of-having-a-fatal-cardiac-arrest-in-the-future/news-story/0d281d9430b60abbca4a7e5af663b974"
 webUrl: "https://www.adelaidenow.com.au/news/victoria/artificial-intelligence-will-predict-your-chances-of-having-a-fatal-cardiac-arrest-in-the-future/news-story/0d281d9430b60abbca4a7e5af663b974"
 type: article
-quality: 6
-heat: 6
+quality: 8
+heat: 8
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence will predict your chances of having a fatal cardiac arrest in the future"

@@ -34,15 +34,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "AI: THE SOMNIUM FILES – nirvanA Initiative PC Review"
-    excerpt: "AI: The Somnium Files is one of the most interesting and entertaining visual novel/puzzle game series I've played. The first game, released in 2019, was one"
-    publishedDateTime: 2022-07-04T13:00:00Z
-    webUrl: "https://www.impulsegamer.com/ai-the-somnium-files-nirvana-initiative-pc-review/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 17
 
 secured: "RnjvxN4m0gcuK06W4nC8k2TniX0z4B/60Wm2n87AUx2myC5nP5N3QWSwogD0fXjHPwQO8mXgvyi7ibH60hwWaN9WBhejAjCT00fTe/2elWHf6cavqPRrIev9CsT/o5NQ/7NH8W9HAkpW6D16jL0HRINtyHEW3hqKKQAw6j5i1hN+Ph9qpURpKMaug5m4Q5Y+RkmopqhEmC1RYQOyVwCa4t7S9pSQLP+fgo9l/UO6EIYnjpHKHHV0fiQZM57ldGK8+TPxugFzHaXzQinRVS7H06YvrYsaR9PsWhwW/OMkN+FGkp2J9OVwY0E6RT0VjhgfDhWT2OEjn2zI8MV86e84v1EnDnYV3VpDZsnbkd7l6jk=;DP5QLNiaJ8SB1vcnoVLwGQ=="
 ---

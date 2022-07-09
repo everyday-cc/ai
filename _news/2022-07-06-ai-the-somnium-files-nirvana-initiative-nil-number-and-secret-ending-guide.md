@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/ai-somnium-nirvana-nil-number-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/ai-somnium-nirvana-nil-number-secret-ending/1100-6505096/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: GameSpot
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: THE SOMNIUM FILES – nirvanA Initiative PC Review"
-    excerpt: "AI: The Somnium Files is one of the most interesting and entertaining visual novel/puzzle game series I've played. The first game, released in 2019, was one"
-    publishedDateTime: 2022-07-04T13:00:00Z
-    webUrl: "https://www.impulsegamer.com/ai-the-somnium-files-nirvana-initiative-pc-review/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 17
   - title: "AI: THE SOMNIUM FILES - nirvanA Initiative Available Now in Europe"
     excerpt: "THE SOMNIUM FILES - nirvanA Initiative, the sequel to the 2019 hit adventure game is now available on Nintendo Switch™, PlayStation®4, Xbox One, and Windows 10 in Europe and Oceania. While personal live-streaming,"
     publishedDateTime: 2022-07-08T21:01:00Z

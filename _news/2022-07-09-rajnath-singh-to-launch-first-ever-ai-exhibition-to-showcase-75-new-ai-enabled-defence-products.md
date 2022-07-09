@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-excerpt: "Defence Minister Rajnath Singh will launch the first-ever Artificial Intelligence in Defence AIDef symposium and exhibition organised by the Department of D"
-publishedDateTime: 2022-07-09T02:45:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
-webUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
+title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
+excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
+publishedDateTime: 2022-07-09T05:04:00Z
+originalUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products-11657336952341.html"
+webUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products-11657336952341.html"
+ampWebUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1657334776.jpg"
-    width: 630
-    height: 420
+  - url: "https://images.livemint.com/img/2022/07/09/600x338/Rajnath_Singh_1653099369282_1657341178728.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -73,21 +74,19 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
-    excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
-    publishedDateTime: 2022-07-09T05:04:00Z
-    webUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products-11657336952341.html"
-    ampWebUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
+  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
+    excerpt: "Defence Minister Rajnath Singh will launch the first-ever Artificial Intelligence in Defence AIDef symposium and exhibition organised by the Department of D"
+    publishedDateTime: 2022-07-09T02:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
     images:
-      - url: "https://images.livemint.com/img/2022/07/09/600x338/Rajnath_Singh_1653099369282_1657341178728.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.bignewsnetwork.com/ani1657334776.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "AI-based software to detect illegal constructions on defence land"
     excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
@@ -104,6 +103,6 @@ related:
         height: 500
         isCached: true
 
-secured: "26aTzjKQgmbH4s2f3LbRjyc2uVP4iPjMy86TnyxDMk7lZgLEW803NwhYe6zAhD8VklQv54AD8dcH7fn+zcB/DTgjkZvGqgri5kQbbi5M9alWrOOnypa9EImW7FUw09mOrBPWV9Xi1JHcohrFiL7h2K9S5ukOz2IUhqhqCweUW773XJTU3p/InhUIZiQVVvO6m4VqMPa2owYK9+9UiJN0JHntXhF5Bkx6w344pwPYDOqqP72FqZPAZqNk2PAoDWj08m18IPgHgAtsSBlxq/aVdxuY3cuIfpLAsiG89drlFnwB6OgU28KzQs5frVa1GZ6nae4p3kwYeg6iDddkZoVbGg9T26Pxw3nL+wikL2aj71o=;MrxaFAIZdo1XW6qPd8RZkA=="
+secured: "aY00QBJcGIGoyo97b6vrlw0NZGXjtm7W5BzToZNEvjohle5z1u4Bx4sHEKLjI1Z666iitSZazwbMYVT+/kjXoM+0wW7mGQkJmvm2TceiMIiMF/LOm8mJaVlbLFQ2i7l+UTuqSh8KZooFhuUlVvtrpcCB56PqPLhL7DSUFOA03UOINBQ4YQcsjC08ilcVBTq8a0P17IsIDRNsJ2NJ37ampwnnEEZuQoozuHTF6BNNMLOezejD/KYKBPTAlL80/pyapE5j4DKBNCfCz6u7k2PGGkgJisG2K73XysEcURx9O2q2o9JluBR8uYhhaDLjNOZ8tkOtW+ypeJcYKZGOe5z6+/Ia1hMg72M8DvAZbCovg7U=;8gMnk1/KkCk9c59TJkhKtQ=="
 ---
 

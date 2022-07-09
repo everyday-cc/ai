@@ -27,7 +27,7 @@ related:
     provider:
       name: Adelaide Now
       domain: adelaidenow.com.au
-    quality: 6
+    quality: 8
 
 secured: "tgsOG0ZQ4hPNgml5ZSq06uC+gAWUsgEZ2bFziLWw3CQ5JXYw8nE8WFsC2QY9gcuIyZyR5/HVijzCGWB+5IlO4OaeoP6rc/U85hdzk/2BkJ+KTH8YqHG53Mmy+aM7/+gBxOi97DlXv4ojXX5SfqXFwF7Q8FtawdlvTaWl1+YM5L64iTriluWJbKWGlsL53nrCLOHiGc8WtHoG5HJi9FFA5McSaPWf14TLa7k1dUpKb2fYZ+hyEtyO2+yWyyMt7gUZIrndOUDzuu0vFa/IDA4fzall9zjMnhGTetGZWwJWfGQ3lpf4v+r+1wqwvnDj4rYwi0B1B0+OUPvvWcY4dIsEV0+T0/iKWWvyffTWFald0jA=;hBg9mp2dnI5DyqVGjFTJTQ=="
 ---
