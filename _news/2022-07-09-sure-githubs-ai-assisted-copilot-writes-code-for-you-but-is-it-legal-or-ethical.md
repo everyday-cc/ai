@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/is-github-copilots-code-leg
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:

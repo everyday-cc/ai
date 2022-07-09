@@ -43,15 +43,6 @@ related:
         width: 650
         height: 436
         isCached: true
-  - title: "Machine Learning Model Predicts Infection With Treatment-Resistant Tuberculosis"
-    excerpt: "Researchers have created a machine learning model to predict if tuberculosis patients may be infected with drug-resistant strains, which could speed up the process of delivering optimal care in the future."
-    publishedDateTime: 2022-07-04T08:36:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/news/machine-learning-model-predicts-infection-with-treatment-resistant-tuberculosis-363284"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 15
 
 secured: "MudCSLTglcm7Y3iFQ9Q7Pvf14BQ38JTWbpTqCHHnWvA1hSpPtjaB2DTmWvIy+kEdOsSHaXyh6wztZm7gWcjvbwjFdbAp8brOdEb/ztH/xUoykft9EpcO6JTr78kavH3u+q/CGatxMfFQ3I2ix9tB4AFMbXsGda1HaGRT9e65JTaONm/csf06EF6d/D7uX8FBXMlCkMvtbRNZpqh3Qo+ktoXGJfT6qQ2yPfvWow+a8VlzFTrOv6AOGLTjG0nGte0FuXUdRWinh8V/NzR6szUpTTLteSTnxQgReb3ekH26GjJ1/cx/FIKV+vriAZn8k0hJh8jbfXrAJOD3X6tVmG3Hw0e2AIyIk6E9kG7EWxN44RddeXVCeSsAgg9QJ0g0IBmIjQMs+R/eR2DjruVEuMbAtcxwwgsZ/Rf1d7ioIUBYhQ8bEGO+CQ95nKEcKOu+V40ublslCZ/pbx+sFJeENg38FYGc/FO87SEmx2hwMZGU+CVveksI1YhxvhQqe5rbiZtLazhVHkRy5VrXIk9wT+D4fQ==;4/JjWjxxcWYylOASg1V/1Q=="
 ---

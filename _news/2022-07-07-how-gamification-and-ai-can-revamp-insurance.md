@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/07/how-gamification-and-ai-can-revam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/07/how-gamification-and-ai-can-revamp-insurance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Only through international cooperation can AI improve patient lives"
-    excerpt: "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
-    publishedDateTime: 2022-07-04T07:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
-        width: 2880
-        height: 2262
-        isCached: true
   - title: "Rethinking insurance with the use of gamification and AI"
     excerpt: "The firm plans to expand into the North American and U.S. markets with its gamified life and health insurance concept. With more than half a million British clients already insured, the business thinks that the U."
     publishedDateTime: 2022-07-07T16:21:00Z

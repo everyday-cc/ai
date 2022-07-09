@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/news/whats-new/researchers-develop-s
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp"
 type: article
 quality: 61
-heat: 92
+heat: 93
 published: true
 
 provider:

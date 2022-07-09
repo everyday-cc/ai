@@ -40,22 +40,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Only through international cooperation can AI improve patient lives"
-    excerpt: "The largest prostate cancer biopsy dataset—involving over 95,000 images—has been created by researchers in Sweden to ensure AI can be trained to diagnose and grade prostate cancer for real world clinical applications."
-    publishedDateTime: 2022-07-04T07:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-international-cooperation-ai-patient.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
-        width: 2880
-        height: 2262
-        isCached: true
   - title: "Standardisation body calls for AI definition, categorisation to be decided as standards"
     excerpt: "The European Telecommunications Standards Institute (ETSI) suggested that the definition of AI and categorisation of high-risk applications are left to technical standards in a letter sent to the European Commission and obtained by EURACTIV."
     publishedDateTime: 2022-07-07T15:08:00Z

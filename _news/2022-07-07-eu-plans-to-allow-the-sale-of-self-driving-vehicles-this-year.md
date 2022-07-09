@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 780
         isCached: true
-  - title: "Self-driving vehicle legislation advances in Harrisburg"
-    excerpt: "House Bill 2398 recently passed through the Pennsylvania House of Representatives. It heads to the Senate for consideration next."
-    publishedDateTime: 2022-07-04T08:25:00Z
-    webUrl: "https://www.fox43.com/article/money/cars/autonomous-vehicle-legislation-advances-pennsylvania/521-30f43e78-2bb5-4776-b374-2ef4ba498211"
-    type: article
-    provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 4
 
 secured: "ptUZHv4rSug8pq1dmvaTZ8oUwgrckMNxIdyXUsZufm/8zhUq6sxFzEPEwQS1QUumlYvV2Zcuyr8g5lmXQChflNGjG7JK2hUAAvUL0+YXgLG1eyJ9SEziH8bQRDCgMCJD07PIlDy+3C92FK24rElqhHMEfDJBKHNGRsqqRqLlnjkQKn9oFToBr2trpemXxua8+iVd3U2Kd0QV1YlNUrPFfGV7gV6lei96fkxkGF3iSebvK95utwVV1yiiWceLEI8I5vSA2O7V4QatwCReQ4O9ohHkR9W9XegvPcheg03ySb+E5l5ZrhcYePOl6gT3fNh8UtzVh46/SAlmYZzam+IeUcX1K2eRyeI4K5MJH318golvPKFZbbQS6V4luHTif6uTDNlovVjPsrGmk6zsUWapXeDqWKDic4nfmFJVQqsYfOvdpQ5leDtUqdNSOzRe8pcMxac9xs0Sk/mjGhufb008Sc50Shq/ntHGyRNWYE8rLr4iYHwZUCDipRozPEFRzFM88uN4IAP+BvjLsrla0U8eZQ==;YL4KZvzVN8TTPoGQKgXNvw=="
 ---

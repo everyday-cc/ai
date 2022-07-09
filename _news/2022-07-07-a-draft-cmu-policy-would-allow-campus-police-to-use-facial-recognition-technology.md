@@ -9,7 +9,7 @@ ampWebUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-ca
 cdnAmpWebUrl: "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:
