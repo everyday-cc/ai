@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2022-07-human-like-robots-mental-state
 webUrl: "https://techxplore.com/news/2022-07-human-like-robots-mental-states.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Human-like robots may be perceived as having mental states"
+    excerpt: "When robots appear to engage with people and display human-like emotions, people may perceive them as capable of 'thinking,' or acting on their own beliefs and desires rather than their programs, according to new research."
+    publishedDateTime: 2022-07-09T02:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220707100907.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Robots need to act more human-like to help us bond with them"
     excerpt: "Human-like robots are perceived as thinking for themselves or acting on their own desires, and that helps us to understand them."
     publishedDateTime: 2022-07-07T13:00:00Z

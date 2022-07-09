@@ -91,20 +91,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Fleets should make major contribution to self-driving cars inquiry, Fleetcheck argues"
-    excerpt: "Fleets need to make their thoughts on self-driving car technology clear as part of a new inquiry, according to software firm Fleetcheck. The UK Government's Transport Select Committee has announced it will be investigating the deployment and development of self-driving vehicles on the country's roads."
-    publishedDateTime: 2022-07-04T09:46:00Z
-    webUrl: "https://www.businesscar.co.uk/news/2022/july/fleets-should-make-major-contribution-to-self-driving-cars-inquiry,-fleetcheck-argues"
-    type: article
-    provider:
-      name: Business Car
-      domain: businesscar.co.uk
-    quality: 17
-    images:
-      - url: "https://www.businesscar.co.uk/imagegen.ashx?width=650&image=/media/3744508/autonomous_car_driving_on_road.jpg"
-        width: 650
-        height: 391
-        isCached: true
   - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
     excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
     publishedDateTime: 2022-07-08T20:12:00Z

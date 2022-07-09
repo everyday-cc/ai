@@ -1,26 +1,29 @@
 ---
 category: news
-title: "AI-based software to detect illegal constructions on defence land"
-excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
-publishedDateTime: 2022-07-08T03:12:00Z
-originalUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
-webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
+title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
+excerpt: "Defence Minister Rajnath Singh will launch the first-ever ‘Artificial Intelligence in Defence’ (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital."
+publishedDateTime: 2022-07-09T02:43:00Z
+originalUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/"
+webUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/"
+ampWebUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Tax Guru
-  domain: taxguru.in
+  name: ThePrint
+  domain: theprint.in
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-    width: 500
-    height: 500
+  - url: "https://static.theprint.in/wp-content/uploads/2022/07/20220702216L2022070902094320220709022039.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -56,22 +59,6 @@ related:
         width: 730
         height: 419
         isCached: true
-  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-    excerpt: "Defence Minister Rajnath Singh will launch the first-ever ‘Artificial Intelligence in Defence’ (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital."
-    publishedDateTime: 2022-07-09T02:43:00Z
-    webUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/"
-    ampWebUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/07/20220702216L2022070902094320220709022039.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
     excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
     publishedDateTime: 2022-07-05T05:21:00Z
@@ -88,7 +75,21 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "AI-based software to detect illegal constructions on defence land"
+    excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
+    publishedDateTime: 2022-07-08T03:12:00Z
+    webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 37
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
-secured: "tlqIURr55hxsCw8nXwl9y2jUtGqWLR0tb5h2RApCPXOdABQZQr9Z8bEoKivjJd1k8FxYMIFtGua9CTym99LGxRUlkdBLLFf1uBkpXA4lvl+sdte9N9PwXbrRF+v6YLUU33hMj/AZ6TJCpFTmoPUEkLTwF5oNl+G3U+9CMRpJcDP2ukC9UjOO6Cg2kiADmXo1h5+popWXOYUoGtRwH5t8q9BPTR+ij3KwojjaN0iFe6fDwObzqJi66qUzhRRVQ5r/JwdlP455ROgV3lI6TEGaajaRFIZghz8htDHu87RN5gXxErSJx/vSzSnyHFgUtf9O8Z9dsdJX4zHAQas/EWsvQNbpagLYES0/wFWFByA73Gw=;0EopilW63A3sx4QmBwuFkA=="
+secured: "kciNL91SWUFIF7sRnR6V4d9zkPSHcOXrKCgVXBffdsim5z1fUweulywlZZmIfv21qDETDZ8TwPG10ekwTmNBdHHnbTEfNaycquxISplbqoqIx0fNLrnJ+4rEUglS/gXZSB04S1cgCOeVJkMwo6750gkBu+DalNYs5a9YLQ14r7icUQDb/5+ISYQOB8RMYC/M5YmGuY/S/Ysn7rJ9gAxBQMXOy+xpA6eyTUs9GSpvLvykzlwliwdt1zp2xkvoPRvmtS0bFcV+M5RhZZf/vR/uIjqeycdJzhLzRkKOVdKOMlTs44bg8mcgmGK8uMpgKXv6FfVPml6cH4s0U+q3bHpnzmGeRwPMg4dN+OKfbdWumUc=;RrntxhPJlL7b5e6vmGrXRQ=="
 ---
 

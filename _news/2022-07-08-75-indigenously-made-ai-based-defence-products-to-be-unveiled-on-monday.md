@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-ba
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Rajnath Singh to launch 75 AI-enabled defence products"
+    excerpt: "Defence Minister Rajnath Singh will launch the first-ever 'Artificial Intelligence in Defence' (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital."
+    publishedDateTime: 2022-07-09T02:57:00Z
+    webUrl: "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html"
+    ampWebUrl: "https://www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html"
+    cdnAmpWebUrl: "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html"
+    type: article
+    provider:
+      name: Catch News
+      domain: catchnews.com
+    quality: 59
+    images:
+      - url: "http://images.catchnews.com/upload/2020/09/02/rajnath.jpg"
+        width: 730
+        height: 419
+        isCached: true
+  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
+    excerpt: "Defence Minister Rajnath Singh will launch the first-ever ‘Artificial Intelligence in Defence’ (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital."
+    publishedDateTime: 2022-07-09T02:43:00Z
+    webUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/"
+    ampWebUrl: "https://theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products/1031647/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 59
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/07/20220702216L2022070902094320220709022039.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
     excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
     publishedDateTime: 2022-07-05T05:21:00Z

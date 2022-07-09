@@ -2,9 +2,9 @@
 category: news
 title: "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech"
 excerpt: "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan."
-publishedDateTime: 2022-07-08T19:39:00Z
-originalUrl: "https://www.cnn.com/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html"
-webUrl: "https://www.cnn.com/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html"
+publishedDateTime: 2022-07-08T23:39:00Z
+originalUrl: "https://edition.cnn.com/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk"
+webUrl: "https://edition.cnn.com/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 808
         isCached: true
 
-secured: "Mzs5/3KTPVsEqAz/YrdHWQhUhX223bBM+PnSo7v6RCzASO2B54a/KBg5RCu4loUURZB4S7OC73fFnN5Or4PnBWU8wj5d+va8mDFCWnAxpUJ9YaugCb22XbFvq2hCcfTgWQYwsG66G4NJnxaD6m5oZ3dWf0Dg4TYcoANf4SNi9c4u5KpscWMkKaM594ixfJtypf3z2gig6uYw/Hu8uBaFgwNxKE8ovYFf57l96rZ88RjR0UMh2waBaIJldXd86tiXKflGFiNASPQ0mr/BTbj1C0y2gf+d3eQ+sqyHWCXqtyw7ciU0Mw6dmqMyTXiZDlDY9l2BAVH1UyZ30D9zsZWmBs5Tx/K1Y0qJnz4VtaTYLXQ=;Lu9h8xc3jcw15UPCMMjmzg=="
+secured: "UENc44YK7/3SfquQMFFcB4kNWmCBXYRakJm72vKBHOW/Mqe5a7c3A3VHLxunxTlgT1emi3h2E1QqpFaWiB7LnDybr/GpEh7g3ZjB9Ua4iDKKS/HkPrKqxvSgr3pwp81Q+h8YaWU4dyWtTeqi4ZrlgCrmeA0CVpqnpBiihP9Kpz3L7RLUQk9aQH7fFFwg2lktEdNg71DJxLPDOuCTte+Dgw6Hvc2a90fNUeUZ4oRGY8OQzhGVFMJn+nWv43ri5O3lYqtJXL/JmDz5glk5s9qRBhK0dzhTStuZMfmd6/jD0+800Hot5WJ1TRSqn4AfOMqSjD7T7y7Dm5M1g1kY7v5RZuJOkDurDiY0kIGHb1CX1N8=;iI4UUMsNX7bwb1mGQU4mtQ=="
 ---
 

@@ -1,0 +1,47 @@
+---
+category: news
+title: "Human-like robots may be perceived as having mental states"
+excerpt: "When robots appear to engage with people and display human-like emotions, people may perceive them as capable of 'thinking,' or acting on their own beliefs and desires rather than their programs, according to new research."
+publishedDateTime: 2022-07-09T02:57:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/07/220707100907.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/07/220707100907.htm"
+type: article
+quality: 49
+heat: 49
+published: false
+
+provider:
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Human-like robots may be perceived as having mental states"
+    excerpt: "When robots appear to engage with people and display human-like emotions, people may perceive them as capable of \"thinking,\" or acting on their own beliefs and desires rather than their programs, according to research published by the American Psychological Association."
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://techxplore.com/news/2022-07-human-like-robots-mental-states.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
+  - title: "Robots need to act more human-like to help us bond with them"
+    excerpt: "Human-like robots are perceived as thinking for themselves or acting on their own desires, and that helps us to understand them."
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://www.sciencefocus.com/news/robots-need-to-act-more-human-like-to-help-us-bond-with-them/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 19
+
+secured: "t9N3PkuC6F+V0XhBxpprQ++fiOIHru26U2C8jYVRwmBdPYZ8gtPe+PxCi8CbmtkYtIuj6XzMP0Zc5zgxqzrBwDXaeUB8geTWo1ZoOiTds/HQsCZRn/Rbic3C/30hkjNN0VIEwovACGCxFEvtvzgj5Ov6r+yJQCsk5J8AbJz8lyyGRpAuPjAfNma/hA+oUXunfPOm7/nHOVUdQCakcxDonQT7HzyuRQu7j/Rkv4SzaO8Gh37d61Oa5jTJqO9eyVGKDzyvkvH/HufUyglgmylFlLEYLlSJ8n8Rh8C40/H7+ZsWQKdt8SIpnnW1smE7rcATYM2T+zQcwYNUcVygGW3sOZTncZcfoDLyyvu0uOKJiV8=;aTz/5eMWVIaMJQbzF7xgVg=="
+---
+
