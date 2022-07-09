@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian
 webUrl: "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:

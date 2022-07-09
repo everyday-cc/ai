@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages"
-excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas’ entire RA MCU line."
-publishedDateTime: 2022-06-29T12:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas' entire RA MCU line."
+publishedDateTime: 2022-06-29T16:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9630773.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9630773.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "q9ysvRR600vajnZaJbUOSjpL4LKzTHQGpqXZ7BATuhUo2HnnyagspG77EWjdH0iWvZJyCkjCcL1co8SdpLNNvcbgOtCVOXqgmrVlXqhFgsJHSmaYuTBJ8rI/zKTdDHMEsj3VfmKVyBTt3tZu1sdZFKkbMoq2+TDtHmzp6NAa+tqnNf517z6deunMfio1VBeYLgFvCJJzYaIN+7gR2Mj+fhPG1Kc+DiyStpRG432vrAk6ftKqcVZxp4REZS0Sj6Dx3xk4nD2DRrrV9lmSiu3k0Y842kN2tXU05xES03eAjDf1ypOkG3/1PxqULi1UVD2V5rJZ91U0xzPJjBfrDLh/IaKwmG3lIbheEfVJZJRDyq4=;1V/rip8BiG22vdNYyPBfMA=="
+secured: "g8yWXkI8WFKIDbxvowJ0ba7reGd/vn6/Go3qzZHQEH9Rqdo5F0PcaacM7eH7Agj3iRZeS1OmBOr7QvkR9O2VpY+Eo3/OLMZkgojE4XioDI5//TXUqVb90Y5XBhqHNOGeBjp8HmPTR8KygS2ysP8BZcTaOiPGhiWdMQQj0R68yDNOxgjBf6HOkE+9OkgA9AT9XSF6RhI5cWdBDWwq38LhBcgepuBhKWDqNXtorJATbhHx6c9g1f6IMXYGmESZ89hC4h8BIU7O7vM10lEK2kMldhX3m9lsGwxt35bzWBVO922jlxg0dl0n8P4R3zx4bnalKh2GDiEV3MNpxU2S+7QeB3VaHocf1h6taBoxMY220aOG0tC7AWjA+4L+H5J/8rnMTJjSjBal2FWYBKMV9PRDoRTBcSjKhnDEF3wEIrTyHt7iSgApbuEPjOXCGXUZhro2nBIAu3HF4GDI3HrFg0Rzep7o8lQBS2y7T+mjQR1E33HFLzimvhEWw/XenH3ayUf+RuZdC0jlVgMCaSPFdCJwTw==;clh4/dtoaLRX1ZosUrxWZQ=="
 ---
 

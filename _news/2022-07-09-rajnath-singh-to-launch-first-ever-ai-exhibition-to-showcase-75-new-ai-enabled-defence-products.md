@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-
 ampWebUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.livemint.com/img/2022/07/09/600x338/Rajnath_Singh_1653099369282_1657341178728.jpg"

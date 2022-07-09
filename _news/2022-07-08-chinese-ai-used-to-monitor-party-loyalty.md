@@ -80,15 +80,6 @@ related:
       name: techerati
       domain: techerati.com
     quality: 19
-  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
-    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
-    publishedDateTime: 2022-07-04T13:34:00Z
-    webUrl: "https://www.news.com.au/world/asia/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 17
 
 secured: "HULexYK932DfmwG/1N+BC4SNIOULgQ303knYilv4ODhlNbN5VT9YvOdCGzIWKoVk/nsvLhERqGUV8uhnaIArV+9cuRErmmoc6Ht+wOoFOryRO+98aKWAFWIpijSeb7y5F9H4ZH4ugfcKH5N2MMsC7k+pqKXw2pzb2XuLUymeaeTIC5SJbXWhfwb6ZIEH4xa1syNxZOn/GDGggRzMPp430aMVnIh7D+R1uNIvGc6ZW+6pDYnU7Uqu/JYWZptJiyx2N7dGqUM04DZUSDxb1xT9xNAZcXwP4An0MT4oM49G1Yc7g2GTFKwMbjBdyDFA+Pw2t+fb0v7q8CtEfw7XdeygoSynRqFpR0pgmlLla6dsuwYBdUr74aTu9eHV2HJZx0HMekHfshp/nMU+XM5EdM+1rG/SXlQq0g8q/lAdrQrnmcD8a5KW3roDWs5+F89K/xRwo1ZxPUTS7qlskbEz1e9A4ADnU+vHw0SinUT6hy7LKHnefC1E8BySuga6arUtmf0lKNz6fIJHCFHtUUlOSL7Qkw==;7WOljFRXeLAf8BI0H0Hd0g=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence in the driving seat"
 excerpt: "Defence data scientists and engineers have come close to setting a world record time in a DeepRacer artificial intelligence challenge. The participants, from the Defence, Science and Technology Laboratory (Dstl),"
 publishedDateTime: 2022-07-07T07:48:00Z
-originalUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html"
-webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html"
+originalUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html?play=1"
+webUrl: "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html?play=1"
 type: article
 quality: 39
 heat: -1
@@ -58,6 +58,6 @@ related:
         height: 365
         isCached: true
 
-secured: "ocOSW2xhjELjE0PTBoLWsnLm5b6JwF+L9xDFcevxP20QxXDPQ2I8qH0tXFCb8jrkascmUNEm4htRb+/UbBj+qXnfBaYVAdvFLS6aeHBCrOgjHZ/xpTFBdXiSBRvXtUKCRxR4zo7+3jVFaNiEQW2WffEoH92ESVOV7LxFtlfDz0Fq4OzvWfBCqvQCX46n9+1TevVmUiZ0AuD/WVXaTl4lb/QflLgUk52oa/3SwQClSbcVKycl+5qFeusB5WhaJvTpSD3HXGrIOqn/8zk0PKXH6YEqs3bZBmBvQrdL7f+NEXVDsipda2pscpsA2u4/z0P3fFiuoHTU8Z85zsMABow6nWrtcoNnSaJH9nY5SUz3XP0=;bzielumw8yRUDzKt5kwnUw=="
+secured: "qEXdpwj/pnIQNXVTh9o47ahOVBjrLRtXPHwgbP39kw+dZLwiFgUAeWdQdGaUiO9LBFt5TQ6Y0t0rQtXFpQD94E5cCcGTP8ikdW4Eq9Fnf1Snofqs+s7Ir2I+EHZLTw7w64TettIFZFQlmS5lAFjhueAjEdbxkhSgfZKq1FTBT5oz2qqepfTRosqwGAGw3ZZLQZV+CHjuWTIRk39B0S0sle+psgSdIQY0nWupMH+SSUC62de+hEwVhRTC0P1sGVFOk5+E2unO362IAvbwTqVS+YWmixvQKqFssdIxA/g/YNwo0bz2YgwZDMWomp516wh4fZcXlto595fOaNVQvw6iF8TiYR9FoUEW6keRNB/4Jvs=;hxCIcnd3RKBmxTzWj4AmIg=="
 ---
 

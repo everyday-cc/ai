@@ -68,7 +68,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://images.livemint.com/img/2022/07/09/600x338/Rajnath_Singh_1653099369282_1657341178728.jpg"
         width: 600

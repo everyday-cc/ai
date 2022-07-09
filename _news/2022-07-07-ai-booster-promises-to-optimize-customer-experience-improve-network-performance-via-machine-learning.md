@@ -24,17 +24,6 @@ images:
     height: 1707
     isCached: true
 
-related:
-  - title: "AI deploys Amadeus solution to boost customer experience"
-    excerpt: "Amadeus IT Group SA, a travel technology company, said Tata Group’s Air India (AI) has signed an agreement to deploy the best-in-class technology solutions to enhance customer e"
-    publishedDateTime: 2022-07-04T13:45:00Z
-    webUrl: "https://www.thehindu.com/business/ai-deploys-amadeus-solution-to-boost-customer-experience/article65599541.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
-
 secured: "aWqYyeDRWmVZPIYzGaviIYauUDb49znvryDcYQm8DImIiH9rUCGIliDjgGub6ijIHC5CbayVrwxJWugRwN0QuscNKhzM85AiwYMs3w8B6KQHITuH+GRAYFymP6/vkEgDN42GRcWnrO4VFP2qAriAxoFCczviPwTCVn/aWiyPbp6vVzxITHGreW1GTotaz6rnpWEBXDAIwHRyJPm7G3I0vgT0w50Fe++cUxQKBdxsH80bjxamjhf0WOD3TovR8cKLwgfIqcxVKOBwVtG0HtwmJz8EHTXEd8Oo05HcqHA/HwgX7FmM62NH6FFhP2cDseTYgIiTLwW+0xGjQzCKGWK5QE+VcpE5DLkGRq7qpQXFn0fzkObeLwj/5hUryhlz7yiT0EZ7jc5KdNvF04bpmrVR8VQlosuPDzCkgwPAnLZzcvEJOGp9Q78HiNiZHm7WGMKsvEfC6wW46W8XiIL8eZMQMTZZhT49476xxhdjywV9SRAlsSpxG9A4Wc708wa2DjVxFPnHnCHCHDcn4w4PEYOdfA==;8KdiIailoqtGRs1uasiBdw=="
 ---
 

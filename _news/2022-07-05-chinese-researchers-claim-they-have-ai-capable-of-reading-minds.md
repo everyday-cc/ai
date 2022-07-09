@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: techerati
       domain: techerati.com
     quality: 19
-  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
-    excerpt: "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials."
-    publishedDateTime: 2022-07-04T13:34:00Z
-    webUrl: "https://www.news.com.au/world/asia/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/news-story/ea682cb41e9a55c7bd892fd9bcc9d326"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 17
   - title: "Chinese AI used to monitor party loyalty"
     excerpt: "A new artificial intelligence tool has been developed in China that helps authorities monitor how loyal members of the Communist Party are to the government. According to the Institute of Artificial Intelligence in Hefei,"
     publishedDateTime: 2022-07-08T10:23:00Z

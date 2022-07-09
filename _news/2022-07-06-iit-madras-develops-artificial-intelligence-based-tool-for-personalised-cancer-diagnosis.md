@@ -75,22 +75,6 @@ related:
         width: 1080
         height: 1748
         isCached: true
-  - title: "Prostate Cancer: AI can Make a Big Difference for Clinicians and Patients"
-    excerpt: "Artificial intelligence (AI) can help improve prostate cancer patient lives, but International cooperation is needed."
-    publishedDateTime: 2022-07-04T14:35:00Z
-    webUrl: "https://www.medindia.net/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/prostate-cancer-ai-can-make-a-big-difference-for-clinicians-and-patients-207819-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 56
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/prostate-cancer-treatment.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
     excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
     publishedDateTime: 2022-07-06T17:23:00Z
@@ -138,6 +122,22 @@ related:
       - url: "https://medicaldialogues.in/h-upload/2022/07/08/180298-iit-madras-2.jpg"
         width: 1500
         height: 960
+        isCached: true
+  - title: "IIT Madras Researchers develop Artificial Intelligence Tool towards ‘Personalized Cancer Diagnosis’"
+    excerpt: "Researchers have developed an Artificial Intelligence-based tool, ‘PIVOT’, that can predict cancer-causing genes in an individual. This tool will ultimately help in devising personalized ca"
+    publishedDateTime: 2022-07-09T00:31:00Z
+    webUrl: "https://indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
+    ampWebUrl: "https://indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 45
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
   - title: "AI tool for personalised cancer diagnosis developed"
     excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and"
