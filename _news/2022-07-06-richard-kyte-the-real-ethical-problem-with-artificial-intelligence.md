@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
-excerpt: "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,"
+excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
-webUrl: "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html"
+originalUrl: "https://kearneyhub.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f5f3b3fa-f35e-513d-8b21-c97b23b94cc7.html"
+webUrl: "https://kearneyhub.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f5f3b3fa-f35e-513d-8b21-c97b23b94cc7.html"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: Kearney Hub
+  domain: kearneyhub.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI Ethics
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
-    width: 749
-    height: 393
-    isCached: true
-
-secured: "KgasweHDufjkUrfUK5DqwqNesyp0rjS7BK9fqLul89hQX5gN/XEKS5tqgsY6yD636mlRtkSOncNSox9DRJOqZIWA7eeDb/kMNPf9mdZIjr4BLoXIb7drO2BfZqWf+FYwE7YTlcIqh6167l7CpfG42tyKuRugN1QkWtW8Zo9cPBcrcGvTqFzsjGuusGkgN0jwC222Wxn/l8z0IALfoNk5AxvN58ZUYIrbwMzM/1V/wuFcm+KL3fLNQ/pXhsLahlBPLs4kVxujnb3rPW/gFJ5iAx1Si1um2aB0Mv4MszVjZM16CakmXIz8OfXVNUCGRKSUYmWmDyesC3euDR1Ua3jn4prVTkFuGTRTQ5iKIkMOsXg=;4qXhw7i6sUjCacD9n3xDfQ=="
+secured: "+Jj9OgxopKpDSknwxDY2KBHkD9I0/6VnRHGRxqqhGl2E2ayUkB7vOwKH2r/EwqOnqK9TdorToie6OIRkuoFe60eh93INRnBavZfmZf2Wvm8rbuUGCebW8XizFxIbFUIyif/pLrE3ifd76/p9haj3ZYXEJDCyNKuJdLRWbbJ85LrIlaobv/UV5IjBm0klN8QRJ/j08/XyWxFBJ4Ehpk8pWS1jE5kWdYuKIDP+zNaKaCyrgfybJD6A64JuESphDyFS+UIQWWi6EfF8P/SqFqEBuIO3spTiUKaNunNilxKm968Uh4nFAWPFnneP3VbmifAPzDtvmqBBhdnYXVNXiLqlJ5sTmhLc9Zb/OOtc+18/LTuHQD5WCirFg3GqklqTu8qLaN6IIg/ukBV7XoCd9doIDLezpuklO1SPYktsTl+iIygccUNES0qcZMQF4CMl5u7Jzj3RxSRl+LmG040mzhSkQQTFfomOtjXCgRnNxd5hwjpzguwrINEm/Z52Kf0ZK8v9Rg/6bLhKelLgcq2m8873rQ==;+/ggVE/hwua43qsGBGBwbA=="
 ---
 
