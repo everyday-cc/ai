@@ -101,22 +101,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
-    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
-    publishedDateTime: 2022-07-08T08:43:00Z
-    webUrl: "https://www.deccanherald.com/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 57
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/07/08/ford-afp-1124858-1657269785.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Ford-backed self-driving startup Argo AI lays off 150 workers"
     excerpt: "Argo AI, the driverless startup backed by Ford Motor Co and Volkswagen AG, laid off about 150 workers on July 7 as the young company ramped up too quickly and found itself overstaffed."
     publishedDateTime: 2022-07-08T06:45:00Z
@@ -205,6 +189,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
+    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
+    publishedDateTime: 2022-07-08T09:16:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=977012"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 17
   - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
     excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
     publishedDateTime: 2022-07-07T18:57:00Z

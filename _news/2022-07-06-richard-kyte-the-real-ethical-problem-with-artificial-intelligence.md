@@ -3,18 +3,27 @@ category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
 excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://kearneyhub.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f5f3b3fa-f35e-513d-8b21-c97b23b94cc7.html"
-webUrl: "https://kearneyhub.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f5f3b3fa-f35e-513d-8b21-c97b23b94cc7.html"
+originalUrl: "https://pressofatlanticcity.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_688aa3ad-6cb7-5880-8b21-c7026b27d2d7.html"
+webUrl: "https://pressofatlanticcity.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_688aa3ad-6cb7-5880-8b21-c7026b27d2d7.html"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Kearney Hub
-  domain: kearneyhub.com
+  name: The Press of Atlantic City
+  domain: pressofatlanticcity.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "+Jj9OgxopKpDSknwxDY2KBHkD9I0/6VnRHGRxqqhGl2E2ayUkB7vOwKH2r/EwqOnqK9TdorToie6OIRkuoFe60eh93INRnBavZfmZf2Wvm8rbuUGCebW8XizFxIbFUIyif/pLrE3ifd76/p9haj3ZYXEJDCyNKuJdLRWbbJ85LrIlaobv/UV5IjBm0klN8QRJ/j08/XyWxFBJ4Ehpk8pWS1jE5kWdYuKIDP+zNaKaCyrgfybJD6A64JuESphDyFS+UIQWWi6EfF8P/SqFqEBuIO3spTiUKaNunNilxKm968Uh4nFAWPFnneP3VbmifAPzDtvmqBBhdnYXVNXiLqlJ5sTmhLc9Zb/OOtc+18/LTuHQD5WCirFg3GqklqTu8qLaN6IIg/ukBV7XoCd9doIDLezpuklO1SPYktsTl+iIygccUNES0qcZMQF4CMl5u7Jzj3RxSRl+LmG040mzhSkQQTFfomOtjXCgRnNxd5hwjpzguwrINEm/Z52Kf0ZK8v9Rg/6bLhKelLgcq2m8873rQ==;+/ggVE/hwua43qsGBGBwbA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/6/88/688aa3ad-6cb7-5880-8b21-c7026b27d2d7/62c454ee627b0.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
+    width: 749
+    height: 393
+    isCached: true
+
+secured: "Dyt7jNcjZORTb6b97LfNW+fU5v9lJe5q7vpQSGiETA1yKvcw/XfniqssxsPPiOSoJmDv48uWw6BaAmhdyOG161ka+eh1wStSK5nU5WOtUurYDwp8iUXfmGuNsfjhLxWSyeBa5YHW2K6FJfzMv1NYXYVz3glpF7gwLjUPgekk/+iSgY4x2B7+SKGMvjzMwTxN22E5atpCYMtHCy+/q0Ac7r+Sse8z+p9fgyaHJzXa3TfHV1fRw6yPMIbZz7R0JwoC147q/hImz2SzdsoBXscS7R6Y6YiulOAqdHL2QFJNOlpWTzuHI+3OhF5JpRFPJ8v8fhW+BIpg3IC166tSSZOQLRgOqiKOFcR/6xOpmHq6sqE=;jFMR4eFlx7wRxxCtPy2Z3g=="
 ---
 

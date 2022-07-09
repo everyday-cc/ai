@@ -33,6 +33,15 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "Ewallet Rebrands As E& Money, A Financial Super App Set To Transform The Fintech Space"
+    excerpt: "Transformation from a digital wallet to a tech-driven fintech company under e& life, from e&, with its own financial super app marketplace"
+    publishedDateTime: 2022-07-09T13:03:00Z
+    webUrl: "https://menafn.com/1104505596/Ewallet-Rebrands-As-E-Money-A-Financial-Super-App-Set-To-Transform-The-Fintech-Space"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "KR6qn8DBua+HyYPYvF5vowNwfGQ/jQFwvce44F9+ttc3Gh+U3LBmQBN6AtDQ9eTI1wt2t6LCorfJnFWNjNPEVZOK+z483edU7tlG1Hi7OQtQlsEtS3sI3IX7koPGAUenSXXHbAxsBX2ZtYY+qBZCQ5JLdjUiIMPtvXyB3r/RBxyIRHAtOF7FMBtu5cU97JWJH7Uv9SLKMXYKB9S037MUrzTaidEfdFC0Y/saBBaOETo2HOBOuUFQ5akn1Ja7O+brAERSM8rkqzugNi+Rw/pODYO3SH529FZVopVKNrnJvWEKHaMHQiP0833VdzSmsWERiVw0IjrzatF+uI9C7Tst63f8hlo1VXVlmuACedtAkHj2DgjFFiphhaNkkJbBBVe/HU3GoPu6Tz29CxtMmik43o0hxR7+cZIONgE38xmLLD3tpHzsXZLIJ7UodhYZEwImpoL5FpZlANaNf/qG+qPGCQMMGYIy1Bg2ei+DE7OrCqGYU0c2hyE/tde6XKla/qO3XX8rfylZ1Jw7MfaHuuESHQ==;Oln2tmEPwlIFSvTJSC4aeQ=="
 ---

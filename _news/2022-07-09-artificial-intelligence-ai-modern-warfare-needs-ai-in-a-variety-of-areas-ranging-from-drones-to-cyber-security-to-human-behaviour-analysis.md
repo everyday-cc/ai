@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T12:29:00Z
 originalUrl: "https://www.timesnownews.com/india/artificial-intelligence-ai-modern-warfare-needs-ai-in-a-variety-of-areas-ranging-from-drones-to-cyber-security-to-human-behaviour-analysis-article-92770483"
 webUrl: "https://www.timesnownews.com/india/artificial-intelligence-ai-modern-warfare-needs-ai-in-a-variety-of-areas-ranging-from-drones-to-cyber-security-to-human-behaviour-analysis-article-92770483"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: timesnownews

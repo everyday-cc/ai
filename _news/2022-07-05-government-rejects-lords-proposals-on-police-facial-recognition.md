@@ -25,31 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "A draft CMU policy would allow campus police to use facial recognition technology"
-    excerpt: "CMU did not respond to repeated questions on whether the university currently uses facial recognition technology."
-    publishedDateTime: 2022-07-06T18:59:00Z
-    webUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
-    ampWebUrl: "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
-    cdnAmpWebUrl: "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/"
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Strange Animals Out"
+    excerpt: "A smart pet door from Petvation that uses facial recognition software and machine learning to let your pets in and out is headed to production."
+    publishedDateTime: 2022-07-09T15:46:00Z
+    webUrl: "https://futurism.com/the-byte/smart-pet-door-facial-recognition"
+    ampWebUrl: "https://futurism.com/smart-pet-door-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/smart-pet-door-facial-recognition/amp"
     type: article
     provider:
-      name: Veterans Services
-      domain: publicsource.org
-    quality: 54
+      name: Futurism
+      domain: futurism.com
+    quality: 59
     images:
-      - url: "https://www.publicsource.org/wp-content/uploads/2022/07/facial-recog.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://wp-assets.futurism.com/2022/07/smart-pet-door-facial-recognition-600x315.png"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Give accurate info on facial-recognition technology: CIC to Delhi Police"
-    excerpt: "Criticizing Delhi Police for giving ‘incorrect’ replies to RTI queries on the usage of face-detection technology, the CIC has directed Delhi Police to furnish revised responses seeking information about its use in the investigations of northeast Delhi riots,"
-    publishedDateTime: 2022-07-05T13:45:00Z
-    webUrl: "https://www.livemint.com/news/india/give-accurate-info-on-facial-recognition-technology-cic-to-delhi-police-11657024455427.html"
+  - title: "Burlington Animal Services partners with facial recognition database to help find lost pets"
+    excerpt: "This database uses facial recognition technology to help people find their lost pets. It’s a simple tool available to participating animal organizations nationwide and any owner or person who ..."
+    publishedDateTime: 2022-07-05T15:11:00Z
+    webUrl: "https://myfox8.com/news/north-carolina/piedmont-triad/burlington-animal-services-partners-with-facial-recognition-database-to-help-find-lost-pets/"
+    ampWebUrl: "https://myfox8.com/news/north-carolina/piedmont-triad/burlington-animal-services-partners-with-facial-recognition-database-to-help-find-lost-pets/amp/"
+    cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/burlington-animal-services-partners-with-facial-recognition-database-to-help-find-lost-pets/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 3
+      name: WGHP
+      domain: myfox8.com
+    quality: 49
+    images:
+      - url: "https://myfox8.com/wp-content/uploads/sites/17/2022/07/GettyImages-1154768923.jpg?w=1280"
+        width: 1280
+        height: 721
+        isCached: true
 
 secured: "6+H7v+dsVHknwHmL0EKBPFSpHiFku0GMAv1nTxsi5vwCVsg0co3IEZEaipiz7v46yj4xrxonJiEUGZlkwg5YMKCi7pLAASyxkai8Oifmn5/cLo+yY/td3bkjhAhNspuo4srfQVdvA4p6KCk4t77mldgCqOJAkCK+KXQGhfE4/W5XJCPZKv/m0qjxuP8CSdw+j8IyHhM7VQS9vJ1IF+uXN8qpr8cJN3HjNpUvzMdcYIHomWVq9N2MLhJBg5tDcv8XrXU3fswCN51yEKZHUAxnlhJKtPuQh/VB+IiRoHdoP4aCkwV25qQ3lD7rRqhGPctI3K74eldcoVF9XM98xNzRsgUKzPr4QdqTTEZspwJXKXTPVIWVT+pBXmalt98UO+hghqlzb7SqDTScJZNd8iozhl5Sq/sK7s4RrPN2gA4upGhiQctqk7Nm+avQ+Hv8/oyVi+fKmy0v3/ICkqTxbhYCblyx/QG7DpGQF5E7q/fvRY1SN/Z1na9TAaliNgM0A/gXZEdx3hW0HEt423JJfvrF0Q==;CzExnTtsIu+P/wzJic+sWg=="
 ---

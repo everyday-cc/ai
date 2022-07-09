@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T12:29:00Z
 originalUrl: "https://www.hstoday.us/cbp/oig-cbp-complied-with-facial-recognition-policies-to-identify-international-travelers-at-airports/"
 webUrl: "https://www.hstoday.us/cbp/oig-cbp-complied-with-facial-recognition-policies-to-identify-international-travelers-at-airports/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Homeland Security Today

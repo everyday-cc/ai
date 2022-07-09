@@ -229,6 +229,15 @@ related:
       name: NETGEAR
       domain: smechannels.com
     quality: 19
+  - title: "IBM acquires Israeli startup Databand to boost data capabilities"
+    excerpt: "According to the agreement, Databand employees will join the IBM Data and AI division to further enhance IBM’s portfolio of data and AI products including its IBM Watson, a question-answering computer system,"
+    publishedDateTime: 2022-07-06T16:50:00Z
+    webUrl: "https://www.timesofisrael.com/ibm-acquires-israeli-startup-databand-to-boost-data-capabilities/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 4
 
 secured: "atsbCJ0alPUZf2B+frSavKqi9KH5twOlAxLgGOR8x6rmRIr3QDLtxFQPFAItlsG1mUlf/mu7O4hP/RKyjzyCwAAt/bk33f6lWMYy+r62sYak+3zpukGwQyDIzK2eLgi5y/Y9FGvcfcKXJ4R+yKVaU3BYOLZ43YywT+n5ErgFSxLWIJrK9Q62LD7TDAGEdVgb/8P7Rn+0titz3hOSwQng3k86UVUKC4Xn8F6t+rA94XkzU0qup2JaG2KIn4Srct/y/q0UCxfoABzTa4wss1m25mcoM51oC6O9S+gNOZB36sGh9nr7GjSViljW9v1GYLAoWxzGw8Ivh9MS2bNzuH/cvCUL5O7lZ2/uhP9UeiFDxco=;nFvyPyFez6QhrPhZu6+Ffg=="
 ---

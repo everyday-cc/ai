@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T16:31:00Z
 originalUrl: "https://robohub.org/robotic-lightning-bugs-take-flight/"
 webUrl: "https://robohub.org/robotic-lightning-bugs-take-flight/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Robohub

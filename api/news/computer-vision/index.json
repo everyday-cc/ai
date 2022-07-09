@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-09-smart-pet-door-uses-facial-recognition-to-keep-strange-animals-out.md",
+      "title": "Smart Pet Door Uses Facial Recognition to Keep Strange Animals Out",
+      "excerpt": "A smart pet door from Petvation that uses facial recognition software and machine learning to let your pets in and out is headed to production.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/smart-pet-door-facial-recognition",
+      "originalUrl": "https://futurism.com/the-byte/smart-pet-door-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/07/smart-pet-door-facial-recognition-600x315.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/smart-pet-door-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/smart-pet-door-facial-recognition/amp",
+      "publishedDateTime": "2022-07-09T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-like-brad-pitt-do-you-have-trouble-recognizing-people-it-may-be-prosopagnosia-or-face-blindness.md",
       "title": "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'",
       "excerpt": "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition.",
@@ -41,49 +84,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-a-draft-cmu-policy-would-allow-campus-police-to-use-facial-recognition-technology.md",
-      "title": "A draft CMU policy would allow campus police to use facial recognition technology",
-      "excerpt": "CMU did not respond to repeated questions on whether the university currently uses facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
-      "originalUrl": "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.publicsource.org/wp-content/uploads/2022/07/facial-recog.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-publicsource-org.cdn.ampproject.org/c/s/www.publicsource.org/draft-carnegie-mellon-university-cmu-campus-police-facial-recognition-technology/",
-      "publishedDateTime": "2022-07-06T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Veterans Services",
-        "domain": "publicsource.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

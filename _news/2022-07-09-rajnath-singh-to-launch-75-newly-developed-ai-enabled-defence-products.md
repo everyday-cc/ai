@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-excerpt: "Defence Minister Rajnath Singh will launch the first-ever Artificial Intelligence in Defence AIDef symposium and exhibition organised by the Department of D"
-publishedDateTime: 2022-07-09T02:45:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
-webUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
+excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
+publishedDateTime: 2022-07-09T14:54:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20220709/3960909.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20220709/3960909.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1657334776.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "75 indigenously made AI-based defence products to be unveiled on Monday"
@@ -104,6 +98,6 @@ related:
         height: 500
         isCached: true
 
-secured: "26aTzjKQgmbH4s2f3LbRjyc2uVP4iPjMy86TnyxDMk7lZgLEW803NwhYe6zAhD8VklQv54AD8dcH7fn+zcB/DTgjkZvGqgri5kQbbi5M9alWrOOnypa9EImW7FUw09mOrBPWV9Xi1JHcohrFiL7h2K9S5ukOz2IUhqhqCweUW773XJTU3p/InhUIZiQVVvO6m4VqMPa2owYK9+9UiJN0JHntXhF5Bkx6w344pwPYDOqqP72FqZPAZqNk2PAoDWj08m18IPgHgAtsSBlxq/aVdxuY3cuIfpLAsiG89drlFnwB6OgU28KzQs5frVa1GZ6nae4p3kwYeg6iDddkZoVbGg9T26Pxw3nL+wikL2aj71o=;MrxaFAIZdo1XW6qPd8RZkA=="
+secured: "VRBGyRBrYYEFQtFxVayjTv8VX2HxeflDidkNmxfkO6XA93MdKDxURaR8nU8L9bUfD83ZFYLUliKSIkC2UHb2cDH795dAGQfHIcCE22uabWnH5C9HQBTF8DfkkYoLWZjDNXOQi7rNRghm40g8tLQcifULkTcPyB1ddR2MPH04Y+rdeEsGiXuOQUvc38NnsXdwYA2PKGpHO9hENRFxSeEyF7lmliwwxe4TDxxdxOobN9PIokft1tV+AJ8VXfZfKbhUXX3sV3E+EJYAHHegFdHPU/E7sixfHbc9JtoeHWYImGyM0P5/pA8k2jxXqEIu85II23scwpHTFVmCqq9jbU7GdBXRDO+wztTzpEiiOXVyiC8=;RdVzg6yG5wxpTC1yPZBRhw=="
 ---
 

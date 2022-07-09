@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
-    excerpt: "Researchers in China claimed to have developed software that can acutely analyse facial expressions and brain waves to monitor subjects' attention to \"thought and political education\". China's stringent police state has been radically upscaled over the past decade,"
-    publishedDateTime: 2022-07-04T22:12:00Z
-    webUrl: "https://www.nzherald.co.nz/technology/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/QVB2WSU4CKWX4Y4362N24WVR6U/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 37
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/ReLKrt6JaW-l6clw4tQY6R8x1JY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UK264NKOYC2WIXTNIEEJX5DLRY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "TE85FMP755urw6GvDAUDcL3WVn45IOhpEiJrlSBMUt6aLtTAEyOW8ZPgryEbHG5Dv4gU2cSXIz9Y5Wy0zxMLTEyr4NI9YsHtC6/mgabr+Acr/aUVNKgbn8dqVwmQykjQ6UTKLQSTF0V5rmgaW/KK5fr3paQMGWQmWT7UctvaPAKs55lcnFLUQ0M+9qtMk1uZ22Zsq2LR1xvVfCQ1w1bd1pbIJNWmjIg5gTDJr1im51XsFkHTWbBKnnKFFe4ArkddJtr8uMb2J0otA+26QwDCZKpM1CwfW1bnXxWG3OkzoI+6rIFyCsMHzutb9G+tMOlPEmpvTYaeT5Y1YJg4f3ljF1gs/BOGLOVO2gjiyA41+pc=;X99Kw4+wl4gEdtbZQkusGw=="
 ---

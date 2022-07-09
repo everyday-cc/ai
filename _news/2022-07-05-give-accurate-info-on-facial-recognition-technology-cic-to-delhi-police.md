@@ -35,20 +35,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Government rejects Lords proposals on police facial recognition"
-    excerpt: "The UK Government has decided not to follow most of the recommendations made in the Lords Justice and Home Affairs Committee's (JHAC) inquiry into police technology, which advocated changing the way law enforcement agencies use AI and algorithmic technologies."
-    publishedDateTime: 2022-07-05T08:05:00Z
-    webUrl: "https://www.computing.co.uk/news/4052389/government-rejects-lords-proposals-police-facial-recognition"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/2b75531/5f686a71-7942-438f-9f9d-b43a83da6d7c/8/eye-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "dLANwjDFxqF35est5214bO5aBmR4aiDxx5VMdEO6Fnb3AxXBQtOZ6K8TcpRBxGhlrz3axOEietqxPxXRb5WZ3cj8Uxi2E6QtoLEv2jUzeefl5MQv5/MnUOAmhd3cJCPnm9Zvimk0A5c5Z4iubeVuNLUJsXzC1c3+Pyyacpaok96OKumQXUjuIVuVIXz0QBBlXRlHz73a3Ug0Buxjabtu1BxUgkyamn48JeKjcLzZdIHj7+7hzaBVMK3ucb+iXX7/hQ1Mt6iWPsSYwyfE+mf6AXjbpF8Dy76uKQw/peYgIuJUJVT2pjw0M1APjw5/Thj6Hu+mr4tcPZ4TJg050lUmIsISFpr8gkdenbDhzLzJCKdmpQ7L3KS6XqwMPvl4RidzanJTfN8ulKhRCrQjqdgxljLl9C9LVYapDN4GTsmNMhpJ9dUeWRXd3xpfsd8Llzq7DjcGR3mGK+DSRjcpQbAovgnS5DP9r8538qYHoLqVfYTbNvbn42Pzob/c8RZbT0yt6vGVsAdERp26+AXS4rAvJA==;HSyQ5KLVEu4sH+kvPCpN2g=="
 ---

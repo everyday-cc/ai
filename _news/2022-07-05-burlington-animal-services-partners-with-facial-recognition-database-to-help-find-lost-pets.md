@@ -9,7 +9,7 @@ ampWebUrl: "https://myfox8.com/news/north-carolina/piedmont-triad/burlington-ani
 cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/burlington-animal-services-partners-with-facial-recognition-database-to-help-find-lost-pets/amp/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1280
     height: 721
     isCached: true
+
+related:
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Strange Animals Out"
+    excerpt: "A smart pet door from Petvation that uses facial recognition software and machine learning to let your pets in and out is headed to production."
+    publishedDateTime: 2022-07-09T15:46:00Z
+    webUrl: "https://futurism.com/the-byte/smart-pet-door-facial-recognition"
+    ampWebUrl: "https://futurism.com/smart-pet-door-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/smart-pet-door-facial-recognition/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/07/smart-pet-door-facial-recognition-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Government rejects Lords proposals on police facial recognition"
+    excerpt: "The UK Government has decided not to follow most of the recommendations made in the Lords Justice and Home Affairs Committee's (JHAC) inquiry into police technology, which advocated changing the way law enforcement agencies use AI and algorithmic technologies."
+    publishedDateTime: 2022-07-05T08:05:00Z
+    webUrl: "https://www.computing.co.uk/news/4052389/government-rejects-lords-proposals-police-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/2b75531/5f686a71-7942-438f-9f9d-b43a83da6d7c/8/eye-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "wPlk1ys02htktBGZpgVailxMhzUFvSIk+qx3i8z2YjTqI6Iq8+zF+zH7uryuukSrUrqD29or/QFi5R008ZayezJzOxaBSZatNnpLAWZg2/QWmRNsa5viXZ+/n4WyJPjYHkZALHBxdxnRxOJWgF1P8DnK3UsjSV5XY2K9w3k0LCE54/RnBt9uD8hmdMOTFFTSRYHGWHz7mYXbNoITMpBxnEWmCC5Zcgi3WymnOxPwwH9LdtS5q7kpr717YucnGjaYYBdVz5IXvHU4yMjIoq98AkgRipDFAQ1Hlnm+jYoGG3phz9D6pwtaC6H6J+lizVJRSyt+ZRDKQMXWYhvDj7iBvomDltWMevRlfAGswxMzVcvmlYREeaYSkE2gAPUt8xtMGhlcatAZvFztYqOGteLDSdLLrH23cspI0OPETuZZWvCC0msO8ic1buxtH8evGiNo7IHDOMkQfJBUmHHgZfY/XlfefkQNe8bqepazAGLpZb+7ufy+6XqCNQ9Co6CTiiP+iB/lsEGI16QEo+hTzd4GIA==;BUp5W+FIuvR+f0uPeQS/0g=="
 ---

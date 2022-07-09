@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-09T13:40:00Z
 originalUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
 webUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

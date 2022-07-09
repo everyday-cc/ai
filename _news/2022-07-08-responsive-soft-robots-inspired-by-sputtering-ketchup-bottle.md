@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T15:00:00Z
 originalUrl: "https://techxplore.com/news/2022-07-responsive-soft-robots-sputtering-ketchup.html"
 webUrl: "https://techxplore.com/news/2022-07-responsive-soft-robots-sputtering-ketchup.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

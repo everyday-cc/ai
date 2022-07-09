@@ -7,7 +7,7 @@ originalUrl: "https://stocksregister.com/2022/07/08/thinking-of-buying-c3-ai-inc
 webUrl: "https://stocksregister.com/2022/07/08/thinking-of-buying-c3-ai-inc-nyse-ai-stock-heres-what-you-need-to-know/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai Inc. (NYSE: AI) Could Soar To Much Higher Prices In Coming Months"
+    excerpt: "In the last trading session, 1.93 million C3.ai Inc. (NYSE:AI) shares changed hands as the company’s beta touched 0. With the company’s per share price at $20.06 changed hands at $0.91 or 4.75% during last session,"
+    publishedDateTime: 2022-07-06T15:22:00Z
+    webUrl: "https://marketingsentinel.com/2022/07/06/c3-ai-inc-nyse-ai-could-soar-to-much-higher-prices-in-coming-months/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 37
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why Has C3.ai Inc.’s (NYSE: AI) Share Price Dropped So Much?"
     excerpt: "C3.ai Inc. (NYSE:AI) price closed higher on Friday, July 01, jumping 4.87% above its previous close. >> 5 Best Growth Stocks for 2022 << >> 5 Best Growth Stocks for 2022 << A look at the daily price movement shows that the last close reads $18."
     publishedDateTime: 2022-07-05T13:05:00Z

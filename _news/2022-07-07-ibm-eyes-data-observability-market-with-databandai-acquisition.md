@@ -225,6 +225,15 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 19
+  - title: "IBM acquires Israeli startup Databand to boost data capabilities"
+    excerpt: "According to the agreement, Databand employees will join the IBM Data and AI division to further enhance IBM’s portfolio of data and AI products including its IBM Watson, a question-answering computer system,"
+    publishedDateTime: 2022-07-06T16:50:00Z
+    webUrl: "https://www.timesofisrael.com/ibm-acquires-israeli-startup-databand-to-boost-data-capabilities/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 4
 
 secured: "ieJ5esUCJz9HQ+h3ahJ2+BRnFVwBvvpbuFGnHy+iWIE77z63pMl49GcqPIFavdnz5h8c1uh7X2tIOpOF+0K43IEtASkyLLd6+E5/3+5gS9Y43z7/yVnIEeNu2hHt4sL8UHimsCIlqhN8jUuvcBsySw5aPf/LPit1J1KCOGGU0ecxRIn6sDEBAklea3BoPKpQQdr8gPvDTHL/kuQCxlFXwqdejbW64P3+i9Zb5r1Fv2nEpvNA2WjR9ccRUHPpbREKmyMhq1895kQwabPx4ZADYzQT8QP8et849kBQMN/2f0ErfFb0cncanJZC4XLvrQNBqT0Juqy/8NcLwjCRa5hx2PZCVimwqBQVpqFLu91oLMCChaNt/InOJekRi0ERh4j8dKgLc+bRKzWMDa7z0jEKAE7sznMfgkbmaTylWnLOB8RbjcSVIJzujS8AbFHkROs+Z7bv4emc9mqn9Wm2Q/J3WPvu/kOsrlK6Ezy9+ummtcRgvPYYfyIny4mbZeBUwsnFptj6LVxmLdejnQ6GGmPXdQ==;uCMMA3s3b2EadAq2Hx+QMw=="
 ---

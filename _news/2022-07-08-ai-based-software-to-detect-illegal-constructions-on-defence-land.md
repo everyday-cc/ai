@@ -89,19 +89,14 @@ related:
         height: 337
         isCached: true
   - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-    excerpt: "Defence Minister Rajnath Singh will launch the first-ever Artificial Intelligence in Defence AIDef symposium and exhibition organised by the Department of D"
-    publishedDateTime: 2022-07-09T02:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
+    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
+    publishedDateTime: 2022-07-09T14:54:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220709/3960909.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1657334776.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "tlqIURr55hxsCw8nXwl9y2jUtGqWLR0tb5h2RApCPXOdABQZQr9Z8bEoKivjJd1k8FxYMIFtGua9CTym99LGxRUlkdBLLFf1uBkpXA4lvl+sdte9N9PwXbrRF+v6YLUU33hMj/AZ6TJCpFTmoPUEkLTwF5oNl+G3U+9CMRpJcDP2ukC9UjOO6Cg2kiADmXo1h5+popWXOYUoGtRwH5t8q9BPTR+ij3KwojjaN0iFe6fDwObzqJi66qUzhRRVQ5r/JwdlP455ROgV3lI6TEGaajaRFIZghz8htDHu87RN5gXxErSJx/vSzSnyHFgUtf9O8Z9dsdJX4zHAQas/EWsvQNbpagLYES0/wFWFByA73Gw=;0EopilW63A3sx4QmBwuFkA=="
 ---

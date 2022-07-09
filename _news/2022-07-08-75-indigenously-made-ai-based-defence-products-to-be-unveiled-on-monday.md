@@ -75,20 +75,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-    excerpt: "Defence Minister Rajnath Singh will launch the first-ever Artificial Intelligence in Defence AIDef symposium and exhibition organised by the Department of D"
-    publishedDateTime: 2022-07-09T02:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272614640/rajnath-singh-to-launch-75-newly-developed-ai-enabled-defence-products"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1657334776.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "AI-based software to detect illegal constructions on defence land"
     excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
     publishedDateTime: 2022-07-08T03:12:00Z
@@ -103,6 +89,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
+    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
+    publishedDateTime: 2022-07-09T14:54:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220709/3960909.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "NiELyQgW4ZRhpWE5RuNwERihJcfD02++YpC+FhQ4ncNeUtnGQWZ29vziO8IHzFg0jlIhKrzWhf7HX73mT8xYTn7EZ8qjfqiijTynJQGkzICPgwSdQqJZgt+1m0nt+T5a9G71wxH7J4aBKY4MSDGrMAPamTC0WYurkJKe03h5Lzs+eOHjpRpAYtwMdPy+n0/0Z3NXaSfJM6GcPP23YUR4Oy7L7lTOv47zNar0gTO8WONR6jkTlweyAiPJb00LVNiV4whMWyec51UdcUrDAXsg9e+li64xxkMf0SWKKJhZ6rHDV62mT/5UczMj3WX5rlJCkNLqZNxOP8jZaCVU0QOE8DJdK+WCx/69kJmtW0z2T5Q=;j0Yw1bXl22dXGwC0C0Ci1A=="
 ---

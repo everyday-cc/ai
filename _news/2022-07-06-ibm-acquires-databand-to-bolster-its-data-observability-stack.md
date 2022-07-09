@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -230,6 +230,15 @@ related:
       name: NETGEAR
       domain: smechannels.com
     quality: 19
+  - title: "IBM acquires Israeli startup Databand to boost data capabilities"
+    excerpt: "According to the agreement, Databand employees will join the IBM Data and AI division to further enhance IBM’s portfolio of data and AI products including its IBM Watson, a question-answering computer system,"
+    publishedDateTime: 2022-07-06T16:50:00Z
+    webUrl: "https://www.timesofisrael.com/ibm-acquires-israeli-startup-databand-to-boost-data-capabilities/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 4
 
 secured: "4OD8XHhCiqoQwkNwoXQE5TvOzk0zNhNHyMWeArcFKWYD6zHGSbVIx1XCyfglqpO7NyUPvrGjzHJLX5zSYBxpaH62NyUU0E4uleMfkD4BmImLMYrWXjUA34nlqBaSz613A8vxq0DrHeewZId4v6ovYMDnObOvGPqhhXGMDk9wRQrRtCrtP8Dp0EFu1Amt44koVj0Px0fXeGOC34FWBh9LHZlbs7prg4V5v1EaEsQsf4LTHHrW4tsBSx4x62csCUPIgB8maE4BRIxV5oxXKcp6N14jQT+wcWZV9DBOnFtM1JsLZun34hSbMFdWvsqGIDGTZhPpeWnE6atxHuFRlLhf1zyBQZx8G74i1MJSEQZMxd4jBl+lf9uAhVW7eiiGGLQfNxTPtTExHEO9teZAu9StGdEy9W62twWphTiLRqcdPN/ItYhK6jpN2VaH5EaRgevdbpfrpFkp3yh5DgBNd9OuQCjbRgzqnETgH349FBZqsIUDraBTnBKcTp6WHsdp4df/UcSec+s9CoRTJZlEgxUb8w==;zJ6Ylv2y2vC/9G6svMFI+g=="
 ---

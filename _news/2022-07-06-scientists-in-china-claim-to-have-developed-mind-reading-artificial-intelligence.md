@@ -34,20 +34,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 47
-  - title: "Chinese researchers claim they have built and tested artificial intelligence capable of reading minds"
-    excerpt: "Researchers in China claimed to have developed software that can acutely analyse facial expressions and brain waves to monitor subjects' attention to \"thought and political education\". China's stringent police state has been radically upscaled over the past decade,"
-    publishedDateTime: 2022-07-04T22:12:00Z
-    webUrl: "https://www.nzherald.co.nz/technology/chinese-researchers-claim-they-have-built-and-tested-artificial-intelligence-capable-of-reading-minds/QVB2WSU4CKWX4Y4362N24WVR6U/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 37
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/ReLKrt6JaW-l6clw4tQY6R8x1JY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UK264NKOYC2WIXTNIEEJX5DLRY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Rf5yILTIyHG7v1w2/2N1ZQ22zCik14OGlj/mufud7R9uzJLE0i7ae6opaHtbUbph4Mg+gST887s1JPVFX5OM9gp0t9PolVnMWoJvlBOLEgT2F5kEMY63m6uMKi+AM2so/v/x8rJkINf0UiuUEmyKeRBQP9J9Dem0T+YDY3nS1nai6bfKm7+4XKF9Y9+ybJk3CkEajDAf6NPDw1MXMCpmgqGWvBxY5QGoivJ2Q62dNo4FnJZLc480cZkXqInLeYA6iBAdac28/bgJbHLRKDhIEgLFdqRlzzFwJV4pza7E2frQErTnyr+kg/ZdHQ9WRJGTd0Wq0dFI1FmLS2XDAT8E3x9gUk4DLyBQQ1m9L6xLMSrA1OmlQgISOQeDqr4Lz/HvylWZvStF0kEE1dr7WhDhfCZp6KRgT8aw1urvD3axf2hPEZTzLWMSk89vcYybhguhiH4KKLBlKxNWQSi/TLNWjc4XNBYuODbBlEOo9WwvifqntMuC8GEWxfmLNUjNOaRRPTRFlea1XCYICK6crP+hBQ==;wIXZRl2BbpqEgMCnslTcaw=="
 ---

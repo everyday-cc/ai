@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "C3.ai Inc. (NYSE: AI) Could Soar To Much Higher Prices In Coming Months"
+    excerpt: "In the last trading session, 1.93 million C3.ai Inc. (NYSE:AI) shares changed hands as the company’s beta touched 0. With the company’s per share price at $20.06 changed hands at $0.91 or 4.75% during last session,"
+    publishedDateTime: 2022-07-06T15:22:00Z
+    webUrl: "https://marketingsentinel.com/2022/07/06/c3-ai-inc-nyse-ai-could-soar-to-much-higher-prices-in-coming-months/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 37
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Thinking Of Buying C3.ai Inc. (NYSE: AI) Stock? Here’s What You Need To Know"
     excerpt: "C3.ai Inc. (NYSE:AI) price on Friday, July 08, fall -0.10% below its previous day’s close as a downside momentum from buyers pushed the stock’s value to $19.55. A look at the stock’s price movement, the level at last check in today’s session was $19."
     publishedDateTime: 2022-07-08T16:22:00Z

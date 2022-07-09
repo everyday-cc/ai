@@ -3,8 +3,8 @@ category: news
 title: "BioXcel Therapeutics Appoints Michael P. Miller to Board of Directors"
 excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
 publishedDateTime: 2022-07-05T11:03:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/covid-health-board-of-directors-95831b22b7643fb74f6334ee958f704b"
-webUrl: "https://apnews.com/press-release/globe-newswire/covid-health-board-of-directors-95831b22b7643fb74f6334ee958f704b"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/covid-health-board-of-directors-95831b22b7643fb74f6334ee958f704b"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-health-board-of-directors-95831b22b7643fb74f6334ee958f704b"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "MsYLcguX6XA5qvSHs9w4ZtTzb0dcGUSS5JVbLe3+X7dGmvRYBVhDbCUhthI3sVty8phOzTmCHQY4hGxMhY8P2NAYsIDIh+Kv4LxkOMVqJ3i25PSXG9LUWw0fXyhCqITczSSV/zJqJbnS5FHAdxDSCx8Zju7FhUzEHJDAGeNoE4TDGPDmr/OqD3sS+9m8Tg205C/p8x3l1CldoqD11nrhM8ri7g2mX27kJZiV+wx6F6lcpxm9TeBCIYdiMh4n68lQA0bHejCYI8hvvJKjv8qA0DVrH8OrQDSxn7k27d0q9Ui8VBLQkmdFIcqAl3QcR3XqfQjVFOLSrYFyl5p9lBZWaFEhPcST6KyeqpJO1Yq18Iw=;2rFnPaOIoloQ9y03YSrAcQ=="
+secured: "MeBYhOwfiIjH+P0K+mQv11TJbqOXrTIroD8/cCs9rVT2+CsJvfGXSMYSoGFbQH7+u9npXlmCH3APUVsw+2rxZ7tWCTrWbnv3yaXpZ6Zl3bGPhLS98sPE74X172hbw+OHslWEqDnp2rsoxINpKsU1FjvVYJRI8kJ7YN47LonjE/6sB+VSZkFtcoojYBKezGoXJvYis0hjtgzMe6gMuM1JzLdfT7MldPkl8NniH68n1hmHuoRi5IKJ6Jj4yCsdv/VwOFpnCKxNG/8FMyqGWwAoB/0OZa5mA+L5NJT3v5Et7QWjUwZ6Eo7ja2X+wJYin99DECqiYpMa29V1N7yQgL7iVo98IsJp9HA5C/nz7bvcW5Q=;vFcKOgxx3HX1ow74o9/Ldw=="
 ---
 
