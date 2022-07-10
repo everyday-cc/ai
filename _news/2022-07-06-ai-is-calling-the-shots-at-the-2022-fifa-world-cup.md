@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-20
 webUrl: "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FIFA will use cameras, sensors and AI to automate offside calls during World Cup"
-    excerpt: "FIFA officials are turning to technology to help boost the accuracy and efficiency of offside calls made during games. A semi-automated offside technology will be deployed for the FIFA World Cup 2022 in Qatar."
-    publishedDateTime: 2022-07-05T17:10:00Z
-    webUrl: "https://www.techspot.com/news/95190-fifa-use-cameras-sensors-ai-automate-offside-calls.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 62
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-05-image-11.jpg"
-        width: 2991
-        height: 2003
-        isCached: true
   - title: "AI will help referees make offside calls at 2022 FIFA World Cup"
     excerpt: "FIFA will introduce new technology to improve offside calls at the World Cup in Qatar this year, using a limb-tracking camera system. FIFA said Friday it is ready to launch semi-automated offside technology (SAOT) that uses multiple cameras to track player movements plus a sensor in the ball — and will quickly show 3D images on stadium screens at the tournament to help fans understand the referee’s call."
     publishedDateTime: 2022-07-10T02:27:00Z

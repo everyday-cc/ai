@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "FIFA will use cameras, sensors and AI to automate offside calls during World Cup"
-    excerpt: "FIFA officials are turning to technology to help boost the accuracy and efficiency of offside calls made during games. A semi-automated offside technology will be deployed for the FIFA World Cup 2022 in Qatar."
-    publishedDateTime: 2022-07-05T17:10:00Z
-    webUrl: "https://www.techspot.com/news/95190-fifa-use-cameras-sensors-ai-automate-offside-calls.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 62
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-05-image-11.jpg"
-        width: 2991
-        height: 2003
-        isCached: true
   - title: "AI-Enhanced System to Track Players for Offside Calls at 2022 World Cup"
     excerpt: "The system uses cameras to track players’ field positions and a sensor inside the ball to detect offside activity and generate an alert for referees to review."
     publishedDateTime: 2022-07-05T19:53:00Z
@@ -64,6 +50,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "2NlNsgdqTHOanN7QYywkDyHnvdBm6sAKtEm4Nq8wfxJhLY4m6/bQ3ewgKStA/gjXdeap0LE3d3P0gavtk02Ary5McHziJegt40hw+IgY3Wj85aHSBkL08pFPNiK5J5fxYi4035fzuNzPmqpMvhH/RMNgh0ggVVGsT/O06kdr13g8sUg7JmFtn9eRyYs+IPIQjj6F6ytGBlsxq2MxG8EiLAN/xKOMRELA8BQ3y48XTqntraUYRPfwy0Yanh/drB6Y+AI4TJCz5UU0ssmsjN0E0blAM/ei5Hj5OEaamuuH8Hcp2QxHvot8sWYGBjYLhiskSd0IvPKvliOZ2A+0WCDvahjBt4Ijg2EGdlF3veldnbM=;6BW2N9ccn/drOnB7NozPiQ=="
+secured: "882EvuW66SFyFFsyHwGq71BPeBJXkTDd/MrC++JcvTaf/fj3izfZMUoHgFcHgHuJ2COfVajeUla7FURGe60u4EluTFlfk3LzXDqjF5tFzIfumPtaE7vJj/qMXlToyAzW8rhw7xm/ysoOLguw+O8tDWwaPyJJgJnVb/5x+UozfNCl0sgLEx/7kmB78AZtXzHrOWCieFqGY7gLhVfwkE+KnEev3UgwkW62FW7BWwtJLRBSIGG8XverMYsqtuLXSWpAoR0uPsXKPpuUz514APM5Q6feYGOiJStUyviDWtE2BBPSMEneTSrlvnxJTt94K7h/5iaVQ0Gnxh4LmeJsHwjxEsNtE3iUDAQ+l4qFSegwhrn5qsqcHqhleD6DwkYlOTUflrNvMOw7RU4OvOinsH4D8U3U4aAUaYVaF/Effdgb7w1TDvcaYscE2yEujPsdt/U0yh0HZgQd8+ZBO/fR3fb7MhHI6WYU9iq5jI5aynkcKlhV2iqQKB1xK9OEmhEsmy4xdlCs+XNWjL/Z5KUFkWtzNw==;tEgudHKD2MFlE94Tt9Gmfg=="
 ---
 

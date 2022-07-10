@@ -34,15 +34,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 73
-  - title: "Use Amazon SageMaker Data Wrangler in Amazon SageMaker Studio with a default lifecycle configuration"
-    excerpt: "If you use the default lifecycle configuration for your domain or user profile in Amazon SageMaker Studio and use Amazon SageMaker Data Wrangler for data preparation, then this post is for you. In this post, we show how you can create a Data Wrangler flow and use it for data preparation in a Studio environment"
-    publishedDateTime: 2022-07-05T18:43:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
   - title: "Onboard PaddleOCR with Amazon SageMaker Projects for MLOps to perform optical character recognition on identity documents"
     excerpt: "Optical character recognition (OCR) is the task of converting printed or handwritten text into machine-encoded text. OCR has been widely used in various scenarios, such as document electronization and identity authentication. Because OCR can greatly reduce the manual effort to register key information"
     publishedDateTime: 2022-07-08T12:29:29Z

@@ -32,15 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 73
-  - title: "Use Amazon SageMaker Data Wrangler in Amazon SageMaker Studio with a default lifecycle configuration"
-    excerpt: "If you use the default lifecycle configuration for your domain or user profile in Amazon SageMaker Studio and use Amazon SageMaker Data Wrangler for data preparation, then this post is for you. In this post, we show how you can create a Data Wrangler flow and use it for data preparation in a Studio environment"
-    publishedDateTime: 2022-07-05T18:43:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-in-amazon-sagemaker-studio-with-a-default-lifecycle-configuration/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
   - title: "AWS Announces Amazon SageMaker Feature Store"
     excerpt: "Recently AWS announced a new capability of Amazon S ageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new Amazon SageMaker capability allows customers ..."
     publishedDateTime: 2022-07-07T00:00:00Z

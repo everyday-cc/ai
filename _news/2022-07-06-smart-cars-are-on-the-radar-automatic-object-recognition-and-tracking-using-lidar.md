@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "LiDAR vs Everything: Investing in Self-Driving Car Stocks"
-    excerpt: "Self-driving car testing is taking place all over the commercial space right now – from autonomous Domino’s (NYSE: DPZ) pizza delivery to self-driving freight trucking. Now, we are in the early stages."
-    publishedDateTime: 2022-07-05T17:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/lidar-vs-everything%3A-investing-in-self-driving-car-stocks"
-    ampWebUrl: "https://www.nasdaq.com/articles/lidar-vs-everything%3A-investing-in-self-driving-car-stocks?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/lidar-vs-everything%3A-investing-in-self-driving-car-stocks?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Xiaomi’s car real-life picture shows self-driving features – LIDAR sensors on the roof"
     excerpt: "Xiaomi is known to be working on its first car, which will be mass-produced by the first quarter of 2024. It was spotted with lidar sensors."
     publishedDateTime: 2022-07-08T02:26:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu teases progress of its AI and self-driving tech"
-excerpt: "Autonomous driving Baidu was one of the tech companies that received permits from Beijing to test-run commercial self-driving robotaxi services in limited districts. Yuan said its autonomous ..."
-publishedDateTime: 2022-07-07T08:44:00Z
-originalUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10"
-webUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10"
+excerpt: "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's metaverse space Xirang."
+publishedDateTime: 2022-07-07T08:27:00Z
+originalUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 512
         isCached: true
 
-secured: "X7tlaAW5w1m8F9BHF4taJpM3CrWKgm4NR6+LCa9w8tkhVGTctffFJxnyq+sxKF8c+eih6z9NDZzqB56OudjA8nYShWbob1MtZkMpGbn6m2FdViWrLgp3u3ms8bjzGWMtY606vxrb6yUDS3irmS3/FySJbyH7SBg5Ja9u8xbJoiKT7P7iJIG/LDgkTeu6rNj+JU0/dB5GEAkFan6DbaMuhT2SzFqFwcMnkuy4NCzOeqt6YPU8KvZI5e3+tWWGC2C4G7rYns/UFrLhKxHlribIBRi7HUudXELvkpnUXtQlUQH63eeDDewjeBTTvhQhXAhV7JM3VAFvNa+ut55xl/Stn7DFWfeGS1gliDNoDhUVWAs=;0zluk0Z1oZjXWYFuyU/DEw=="
+secured: "ys9zkYMUpFNA8PR7TBMjd47VHY2peg1CvlSNBnHGmsKrNo5mgea8R2KIp5Pugbe0TSsGcrRKt6kLLvspuRAMKyx5tvyC3AtrtoHZTms9sYmQhj8MUQaWP2GIi4ULBcjSOCHchHVCjjJ2HKrnlZ0luZkS/X5Fc8OuEk/jbpWLr1/rjONXPOyuL6S3SrKZ2Ciys0E2veJCyiVhQqOUXaxllOAzw4/bwwknxUgQ7NyHM5LIW49wDinrEjS7G9Q5plPH37gBZR95F58FihY+dFvNxqUrNb/4HoQrnZxkZkopzQP7LiSvt4glns1m1QkUDs+wwxP0LgTt0LdUc/kctrlrRfzHFtwSL90lrnvfHndqKaQ=;GcuRJ2oYB2EWU6+a3VJyCg=="
 ---
 
