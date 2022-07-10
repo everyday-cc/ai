@@ -229,6 +229,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-02-support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation.md",
+      "title": "Support vector machines lead machine learning models in predicting liver decompensation",
+      "excerpt": "Disclosures: Healio was unable to confirm relevant financial disclosures at the ... subset of patients in Germany compared with other machine learning models, according to data presented at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/gastroenterology/20220629/support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation",
+      "originalUrl": "https://www.healio.com/news/gastroenterology/20220629/support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
       "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
       "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
@@ -1300,49 +1344,6 @@
       "provider": {
         "name": "Big News Network.com",
         "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-new-deep-learning-model-helps-the-automated-screening-of-common-eye-disorders.md",
-      "title": "New deep-learning model helps the automated screening of common eye disorders",
-      "excerpt": "More information: Parmanand Sharma et al, A lightweight deep learning model for automatic segmentation and analysis of ophthalmic images, Scientific Reports (2022). DOI: 10.1038/s41598-022-12486-w ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-mode.jpg",
-          "width": 466,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp",
-      "publishedDateTime": "2022-06-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

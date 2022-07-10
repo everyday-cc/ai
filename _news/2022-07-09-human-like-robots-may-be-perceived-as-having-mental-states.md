@@ -41,6 +41,15 @@ related:
       name: BBC Focus
       domain: sciencefocus.com
     quality: 19
+  - title: "Research: Human-like robots may be perceived as having mental states"
+    excerpt: "\"The relationship between anthropomorphic shape, human-like behaviour and the tendency to attribute independent thought and intentional behavior to robots is yet to be understood,\" said study author Agnieszka Wykowska,"
+    publishedDateTime: 2022-07-09T23:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20220710/3961174.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "t9N3PkuC6F+V0XhBxpprQ++fiOIHru26U2C8jYVRwmBdPYZ8gtPe+PxCi8CbmtkYtIuj6XzMP0Zc5zgxqzrBwDXaeUB8geTWo1ZoOiTds/HQsCZRn/Rbic3C/30hkjNN0VIEwovACGCxFEvtvzgj5Ov6r+yJQCsk5J8AbJz8lyyGRpAuPjAfNma/hA+oUXunfPOm7/nHOVUdQCakcxDonQT7HzyuRQu7j/Rkv4SzaO8Gh37d61Oa5jTJqO9eyVGKDzyvkvH/HufUyglgmylFlLEYLlSJ8n8Rh8C40/H7+ZsWQKdt8SIpnnW1smE7rcATYM2T+zQcwYNUcVygGW3sOZTncZcfoDLyyvu0uOKJiV8=;aTz/5eMWVIaMJQbzF7xgVg=="
 ---

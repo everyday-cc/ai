@@ -104,6 +104,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 32
+  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
+    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
+    publishedDateTime: 2022-07-09T19:07:00Z
+    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 32
   - title: "Nokia partners with Indian Institute of Science to establish Networked Robotics Center of Excellence"
     excerpt: "Nokia and the Indian Institute of Science (IISc) open Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru."
     publishedDateTime: 2022-07-08T11:43:00Z

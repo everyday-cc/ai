@@ -66,20 +66,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Computer Vision Technologies Market Latest Innovation, Upcoming Trends, Top Companies, Growth, Regional Analysis and Forecast by 2029"
-    excerpt: "The consistent Global Computer Vision Technologies Market research report presents the solutions that empower to arrive at smart, fast, and precise decisions for the business so that it grows and ..."
-    publishedDateTime: 2022-07-05T05:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-technologies-market-latest-innovation-upcoming-trends-top-companies-growth-regional-analysis-and-forecast-by-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/d21d0d778e04d58690322fb5f23eab3bdd277d12-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "KIaSOY2QgkC15Z7u4pW3qYkvFxe1VSmhOrzmEkT0f5yfG6wTAltmGxl8iXs6cUthfD2eXTDXiwahB1a9TC9hSeBadTok74x7jl4g9ApTJgdeyAspSIen5RkCUH8Qm3njSZQyZpM3jf3ILK6TQnS4xko6s8NYGmp52vTO/MZUZKCQtHnRJsEWZwM/uUh7NEWkV/aNDJGW09dqQwwsROchgdFlibG6ANgqk6vMTzP2oKALi++8Gx/RtMb/WKLwe06WqmKk6wvAD64BUS6/Lwt9NFSljwmdOyYMyCbSYS6HRQkOs0lxmAlDDVJFWRBVEtYfD3H3QzlevFSTluTilMe1GBdruYsFSQAvMmTOih3mwaA=;S7xdqeSY5atHn1wtepqT9Q=="
 ---

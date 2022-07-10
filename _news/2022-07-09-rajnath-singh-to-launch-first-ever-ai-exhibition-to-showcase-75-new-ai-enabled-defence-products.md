@@ -59,22 +59,6 @@ related:
         width: 730
         height: 419
         isCached: true
-  - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
-    excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
-    publishedDateTime: 2022-07-05T05:21:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 50
-    images:
-      - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "AI-based software to detect illegal constructions on defence land"
     excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
     publishedDateTime: 2022-07-08T03:12:00Z

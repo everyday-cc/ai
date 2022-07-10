@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-15
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/"
 type: article
 quality: 87
-heat: 238
+heat: 237
 published: true
 
 provider:

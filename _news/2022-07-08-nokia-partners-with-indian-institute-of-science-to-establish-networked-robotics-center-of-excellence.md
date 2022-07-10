@@ -113,6 +113,15 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 32
+  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
+    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
+    publishedDateTime: 2022-07-09T19:07:00Z
+    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 32
 
 secured: "QZwz4JCzwxF9Fktu6r9uQYnfUMd4FJs3XEbE3JpwYNbveHywf/6Qq3LFXwsuQe81MZUkbFeRy+WLwyDy4U/ElGyDSdsu9/3Kj48//uzEBcphxCDHIIH2u4d8wxtV2k0iJPINqVRCo46B7ip6N7igzZndIbfVz5XsR36jOUwWer7F+/RO7o6GPuIDvrsMvqx+eKj2Iiqo9JkXQ98pWBGI4sgemkSEHAT31T6Ow9Niu9zGzlvST7dpuyDzpB0v3TeYTdBdUjstNeB/8IoNE7CiPaXQmMKWFlX9lzEEccvwORVnDVsmEQIGEz5M2d+ZTXzFpQzggveYRqAJudqe6K8P3fCuGhlBuQHiBue8OOQPv901kiFdPF6Ff/50pIa9psaGZbl/Wxa1KjWNHymh8WhOqgMzSVYCKqJpDJMRk/CuBBxaHcdL67XMZGOSB5Zx2GOauftLXgZQSPYeiwXLwDBtu/s3JaHgNJwSDShygK4/csH1Hbd567IktxUwHQDNJDl1ZHeY8Sw1MM8xNeJx81h3Og==;rOK3+C1mjHVXBd41UMcCWA=="
 ---

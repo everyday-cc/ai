@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
     provider:
       name: Daily Excelsior
       domain: dailyexcelsior.com
+    quality: 32
+  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
+    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
+    publishedDateTime: 2022-07-09T19:07:00Z
+    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
     quality: 32
   - title: "Nokia partners with Indian Institute of Science to establish Networked Robotics Center of Excellence"
     excerpt: "Nokia and the Indian Institute of Science (IISc) open Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru."

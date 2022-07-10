@@ -37,6 +37,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 19
+  - title: "Research: Human-like robots may be perceived as having mental states"
+    excerpt: "\"The relationship between anthropomorphic shape, human-like behaviour and the tendency to attribute independent thought and intentional behavior to robots is yet to be understood,\" said study author Agnieszka Wykowska,"
+    publishedDateTime: 2022-07-09T23:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20220710/3961174.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "Dw6agk3tu3OjzAiEET4CR8Nos1CmsGybEeSigBJj+AqE/REYOoTRGHa9NxKpXlUo8u9UyLJodvyOQV5gknffbgTlm+F0MWI2c8P1dfk6PYQ6tZPI9/bK/+eGlHnZqQjuUuBoP35ueD2wjdCiLE1g7Gsdhkxq6PYFeLDFdPL6k7W3AcT4a1JW7hOPZN1inY478q6+rHLuNBYI01PkeW6Z4bBMD7JaHVlscWmKTJ6IlTnhEhzSbvQg6vh+WvCeEfJqm8WmtpSmqvg1MnBIQARVjgfUTFQE29VEMpuAAuRIJPrDcvxFJP1qadLUCV/jmsy/gxato4sZT0vgzlEged0okBtMTP5VCeJN39hdAfy2K76IKN8XmZ4y0RWGv4Q8yJ01RRTWq8IsqFyhGCxK60KbXCP4DAC2k7MKYashq2Igu1p84j1XkomyVXdO7HOusauF+j72OG4POAYwo2HGQElck9d+ssBEZ45xa5Yep8uoQVWFLw6BHBFDVs8U78y3r2d3YVIcFcddA82KIkXxdCcuzg==;YXvlCGIU3ALm7fzBP0io7A=="
 ---

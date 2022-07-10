@@ -43,6 +43,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Shinzo Abe, The Former Japanese Prime Minister Was Assassinated During Campaign Speech"
+    excerpt: "Former Japanese  Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan."
+    publishedDateTime: 2022-07-09T16:24:00Z
+    webUrl: "https://tampa.cbslocal.com/2022/07/09/shinzo-abe-the-former-japanese-prime-minister-was-assassinated-during-campaign-speech/"
+    ampWebUrl: "https://tampa.cbslocal.com/2022/07/09/shinzo-abe-the-former-japanese-prime-minister-was-assassinated-during-campaign-speech/?amp"
+    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/07/09/shinzo-abe-the-former-japanese-prime-minister-was-assassinated-during-campaign-speech/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 31
 
 secured: "Dq51aEXkaMjoD6CJJPGSJ2Jgq+1bxbVQHMT2g943vVJBWNP74+dDWvGe2OMr516Jh1woFxFTw2yEMhf0fg7pq5prOLOat8BLp/wzgk3SdK8+HNz4jmQgXANyZGiwSq1abObh328i5aWptlZlnbA2n5rvzNcqEcB6o0cILC/bYl/zfkkuK1SkvR1bj8JE6M/uNkSXNbpLIZoEKTXJjdGK7+fqd1s72M56sH6vMt6FInF9OE7kbZcDFsG3j/m1ZepjEtybjp29LKFLdMedIHC7ig0njtAJB0VL12lGs6LFgt54arfY2P5RKbVIy7hckh9roO6BDLo6QV/y7b4Iy8xAnM3CI1Ja6LxhyXEseDKZ4I4=;P6Got1Kste2l9amzvX1qUA=="
 ---

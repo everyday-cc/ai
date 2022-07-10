@@ -44,15 +44,6 @@ related:
         height: 899
         isCached: true
   - title: "SP Robotics Maker lab opens application for franchises; plans to open 100+ offline experience centres for kids by year end"
-    excerpt: "SP Robotics Maker Lab is India's largest network for students to learn Robotics and Coding. They offer Complete Experiential learning for students of age 7 to 17+ with 10+ Courses in Scratch Programming,"
-    publishedDateTime: 2022-07-05T06:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220705/3959310.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 8
-  - title: "SP Robotics Maker lab opens application for franchises; plans to open 100+ offline experience centres for kids by year end"
     excerpt: "SP Robotic Works, an AI-based edutainment company which provides a platform for young children to learn, build and collaborate in some of the most sought-after technologies in India and around the world,"
     publishedDateTime: 2022-07-06T06:30:00Z
     webUrl: "https://www.business-standard.com/content/press-releases-ani/sp-robotics-maker-lab-opens-application-for-franchises-plans-to-open-100-offline-experience-centres-for-kids-by-year-end-122070600382_1.html"

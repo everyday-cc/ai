@@ -62,20 +62,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "Computer Vision Technologies Market Latest Innovation, Upcoming Trends, Top Companies, Growth, Regional Analysis and Forecast by 2029"
-    excerpt: "The consistent Global Computer Vision Technologies Market research report presents the solutions that empower to arrive at smart, fast, and precise decisions for the business so that it grows and ..."
-    publishedDateTime: 2022-07-05T05:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-technologies-market-latest-innovation-upcoming-trends-top-companies-growth-regional-analysis-and-forecast-by-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/d21d0d778e04d58690322fb5f23eab3bdd277d12-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "qNlpo0ahe3S/spReVt2YEsw6oKyPB1A/mn4Q5tL6tpFmn3vwYCa9Sk3JQC0r9bbcRpTDaVVaOfe+RQeLZcauZ10mUWYEL28rP13+ISl6sr6X3AI3BTxrjOt7afAtoqWG7OiY6LeLqMhtrXCHuopUlpmn3IWzZzTB50qLu56V+e07nS/CHOOC51Ttb9+fk/AoMHDfb/n0v8qUp+JSJz4DykLvUqBvAJuLaQdC5AyE0TXMp6Bn15psyUmmjZNH6B5xaif1E4+yV/qy8K1jF838cZIE09kmXr+AiVe2xqtBSb+HB3fRp2aSghMMv0rgDejVooVUtDDKEfQszhrH+up0WM0kxO/n5Y2J/mIcUEAQZQA=;sYopbmRsjhK6TRW3K/AC+Q=="
 ---

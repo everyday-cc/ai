@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-ba
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "http://images.catchnews.com/upload/2020/09/02/rajnath.jpg"
         width: 730
         height: 419
-        isCached: true
-  - title: "AI-based tool launched to help cantonment boards detect encroachments on defence land"
-    excerpt: "Centre of Excellence on Satellite & Unmanned Remote Vehicle Initiative (CoE-SURVEI) has developed the software which can automatically detect changes on the ground, including unauthorised constructions and encroachments in a time series using satellite imagery."
-    publishedDateTime: 2022-07-05T05:21:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/ai-based-tool-cantonment-boards-detect-encroachments-defence-land-8009455/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 50
-    images:
-      - url: "https://images.indianexpress.com/2022/07/forests1-1.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
     excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
