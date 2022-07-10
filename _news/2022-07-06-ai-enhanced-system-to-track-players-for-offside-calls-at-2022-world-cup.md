@@ -22,17 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "FIFA Will Use AI to Track Players' Bodies During World Cup"
-    excerpt: "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November."
-    publishedDateTime: 2022-07-05T16:40:00Z
-    webUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399"
-    ampWebUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
   - title: "AI Is Calling The Shots At The 2022 FIFA World Cup"
     excerpt: "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past."
     publishedDateTime: 2022-07-05T20:05:00Z
@@ -63,29 +52,20 @@ related:
         isCached: true
   - title: "AI will help referees make offside calls at 2022 FIFA World Cup"
     excerpt: "FIFA will introduce new technology to improve offside calls at the World Cup in Qatar this year, using a limb-tracking camera system. FIFA said Friday it is ready to launch semi-automated offside technology (SAOT) that uses multiple cameras to track player movements plus a sensor in the ball — and will quickly show 3D images on stadium screens at the tournament to help fans understand the referee’s call."
-    publishedDateTime: 2022-07-10T02:35:00Z
-    webUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
-    ampWebUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
-    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+    publishedDateTime: 2022-07-10T02:27:00Z
+    webUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
+    ampWebUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
     type: article
     provider:
-      name: FOX 29
-      domain: fox29.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 57
     images:
-      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true
-  - title: "AI Referee Will Track Players' Individual Limbs at World Cup"
-    excerpt: "FIFA — international overlord of soccer-slash-football — will be implementing a complex offsides-detecting AI system at the forthcoming World Cup."
-    publishedDateTime: 2022-07-06T19:34:00Z
-    webUrl: "https://futurism.com/the-byte/ai-referee-players-limbs-world-cup"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 17
 
 secured: "m+i57LdpQq9lyRZUdJ2h8kuO/gh8zNJfvckEtVx1v7Ixd6oVeHDsWjDcPmkzGsf3a4g7A9tlXZuhETzA1frYLOM4vdxom5Lt9Cb47MSW9PcTb3QFBZ6dn1N4gRouXO6QA3tQeHyeM1dOZqqdvLkvxe5YJgD9CNfPGmgYqUa7Qaa8ZdNXM5AitN423dkAq29nyBpSlxvKAoXRyJX8GHgp1cEhVl4OJcu6HtaxMjzjqdl30nFBAGhVjtNJcWnEAdkqsGODefBuCsQMoFpyJCEPSibX+k9ciVl8hjKJONeEcZ8lA5xjoK5xiWMr6oL0FBl3OnUSph3eHXe24dmgQZ3XUyOyq2NLy3oJWX6m++JVbvD5sVI28FwC5vBI6PvATsTeMCssjkcoj89uvOyrGL20DQ4EDykS68+w+HsXROOQG5cUJyMmHH2jHi3TsxjHGp3qM5GThkwCwUcSiXDWpucEmzHyehxaUyQauov29BcgPzW0c6ozXIbHuFZekDY4ag18dEx08Iq2HCg4H1ZJT7UQDQ==;jAaYC2U8r9uCuTdn51L3DA=="
 ---

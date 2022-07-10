@@ -19,21 +19,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Mercy Health using artificial intelligence technology to improve stroke care"
-    excerpt: "Springfield is partnering with a San Francisco-based company to use artificial intelligence to assist with detection of suspected strokes."
-    publishedDateTime: 2022-07-05T15:50:00Z
-    webUrl: "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/"
-    ampWebUrl: "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp"
+  - title: "AI Booster promises to optimize customer experience, improve network performance via machine learning"
+    excerpt: "Vodafone and Google Cloud announced AI Booster, a new machine learning platform Vodafone will use to improve customer experience."
+    publishedDateTime: 2022-07-07T14:55:00Z
+    webUrl: "https://www.rcrwireless.com/20220707/telco-cloud/vodafone-google-cloud-continue-modernization-efforts-with-ai-booster"
     type: article
     provider:
-      name: Springfield News-Sun
-      domain: springfieldnewssun.com
-    quality: 56
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 39
     images:
-      - url: "https://www.springfieldnewssun.com/resizer/H9j7TMIXK7sETRAZ999LvDt7jiA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/JS5S2L2YWZHD3L2K6ZAZHRWJUU.png"
-        width: 1200
-        height: 630
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2022/02/114235665_l-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "4TQN/GG0qY//Pd23igLt76ufOLlgrqw2+5Hx6LJYOqDm40Nsexr1GQDAEnxvfk1BrO++P8FBYP1V4WCsJu7TA3TY4EsKvZiRDOCMkylY4B64URog5zLWLhkFm2DaTTbtHl++aFDd/hvTqkRUKy6NSftCt7lebm0+fLz6CXPc4dELOzuwm39zl/Bm3/MZ6OgExaGv9h2wIH3X3LTpoJMusp+F26nkv+5d4q/tsjKSwL+bDBWdOFtjkayf7/VTuRTlVjT9aCBPlNeFXNnfcRDagg6cYZbxC3h87rWVm1jyYthnW3TJDLYqlJOIyTyPIrWMDyjgpTP90aAuAJbWy4Ju7qhOXxh+4TRWGrFhWG/+be8=;4J+25bAmmar2f+5e254kDg=="

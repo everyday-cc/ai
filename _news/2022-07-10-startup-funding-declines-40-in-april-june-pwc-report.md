@@ -25,6 +25,24 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Startup funding declines 40 per cent in April-June: PwC report"
+    excerpt: "The decline can be attributed to a global slowdown, decrease in tech stock valuations, inflation, and geopolitical instability"
+    publishedDateTime: 2022-07-10T08:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/economy/startup-funding-declines-40-per-cent-in-april-june-pwc-report/article65623009.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/economy/startup-funding-declines-40-per-cent-in-april-june-pwc-report/article65623009.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/startup-funding-declines-40-per-cent-in-april-june-pwc-report/article65623009.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 42
+    images:
+      - url: "https://bl-i.thgim.com/public/todays-paper/tp-others/mu1dki/article30456225.ece/alternates/LANDSCAPE_615/bl31bmangNewsGC76TT6KF3jpgjpg"
+        width: 615
+        height: 383
+        isCached: true
+
 secured: "y8IMLbdNVIw8yYTjNkHMqrxgZshqj8g2bXaLRjApXBjM2HUvZrBTOOfEwuvY7k9i2ZLJdeZsDmtYrlXOhyrwIiisLYkmsvgQ9FBPjnMGWLknIc41VhtHpTnFgtltz0HTn94zZk0r1ygirOznWWs3VWrKv8gkTX99PyzFkJUES2H+IS8bHifwUt4D1XLavL5cOGbkT5caw4WOYgqCyIGSYIws4WZTBulsyjWgaPku/QLknRghX+CWjKa/kjKxw2Oh58DFyYPby5vvZPEv+5xtVUwrAa4ppsjsh/IpJ86DaKOu5Z53byH1QEOCdkPYfqEHbk+wgrf5R271yF21x6r1msMkISkbmGZPylcH6RgdoZo=;PheiHX2LFNhK9Ro4GQp9vQ=="
 ---
 

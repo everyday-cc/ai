@@ -7,8 +7,8 @@ originalUrl: "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-20
 webUrl: "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: SlashGear
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FIFA Will Use AI to Track Players' Bodies During World Cup"
-    excerpt: "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November."
-    publishedDateTime: 2022-07-05T16:40:00Z
-    webUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399"
-    ampWebUrl: "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
   - title: "FIFA will use cameras, sensors and AI to automate offside calls during World Cup"
     excerpt: "FIFA officials are turning to technology to help boost the accuracy and efficiency of offside calls made during games. A semi-automated offside technology will be deployed for the FIFA World Cup 2022 in Qatar."
     publishedDateTime: 2022-07-05T17:10:00Z
@@ -55,17 +44,17 @@ related:
         isCached: true
   - title: "AI will help referees make offside calls at 2022 FIFA World Cup"
     excerpt: "FIFA will introduce new technology to improve offside calls at the World Cup in Qatar this year, using a limb-tracking camera system. FIFA said Friday it is ready to launch semi-automated offside technology (SAOT) that uses multiple cameras to track player movements plus a sensor in the ball — and will quickly show 3D images on stadium screens at the tournament to help fans understand the referee’s call."
-    publishedDateTime: 2022-07-10T02:35:00Z
-    webUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
-    ampWebUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
-    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+    publishedDateTime: 2022-07-10T02:27:00Z
+    webUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
+    ampWebUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
     type: article
     provider:
-      name: FOX 29
-      domain: fox29.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 57
     images:
-      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true
@@ -78,15 +67,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "AI Referee Will Track Players' Individual Limbs at World Cup"
-    excerpt: "FIFA — international overlord of soccer-slash-football — will be implementing a complex offsides-detecting AI system at the forthcoming World Cup."
-    publishedDateTime: 2022-07-06T19:34:00Z
-    webUrl: "https://futurism.com/the-byte/ai-referee-players-limbs-world-cup"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 17
 
 secured: "CogSGoIkBHO2D25csoD8+mcPGA7JT6+YxjRsJqvQhNNkDx5uHx1JhllyfoJqRy7dRTHRcuYb3W0mfNsht+RwAgK5jg4eGMkNcQW+YzjOfceVdsexnquwqiNlmoBc8B+CWu/IwqW/t7GCVOsRpBLJNHNZGYJ7Xr06CinCKF9IhY5cw/E6sR1i4HwqmcqNPKVwMGRQEaCjHt4oTmBGxEU+PR2flYrqa8USK779q9Bstd+pRYxnwqpJuDBCDhBfGf3ablrqldADikPmofG1iRl3MjobfCzAReVwSuCInze3QdUXNEvf3uPzZeBu+5aHUJhwGf69JDnOnUkVsAuH7cnsE8buXMUjkwLMc9h6WlDtIHIkb4dPgA7iLYrGje2/uj5ovglhPDbpubs2rNtdwTWf0iqNTcC8E7cAPbiQTnzwmhJa3lREMD47hRvD5Yv1uZSQSUhm5rZH6V1mZymu5R99YFfxelaocSKTIuE83D7b6PuYL2/NwCtLIFbbrz3CxYgFb7z76xYyoLUILTJwBMbFEA==;h/oVcmAwdrHHCro0wyyfXA=="
 ---
