@@ -35,22 +35,6 @@ related:
         width: 300
         height: 214
         isCached: true
-  - title: "Sr. Geologist Proposed An AI Controlled Tunneling Machine Advancing Mechanized Tunneling"
-    excerpt: "Sr. Geologist mentioned that his invention uses lasers to carve underlying soil and rocks into tunnel designs. This technique will require 80-gigawatt seconds of laser power. He added a high-energy laser beam to the machine's primary head to manage its heat and firepower."
-    publishedDateTime: 2022-07-05T07:43:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/sr-geologist-proposed-an-ai-controlled-tunneling-machine-advancing-mechanized-tunneling-news-206855"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/sr-geologist-proposed-an-ai-controlled-tunneling-machine-advancing-mechanized-tunneling-news-206855/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/sr-geologist-proposed-an-ai-controlled-tunneling-machine-advancing-mechanized-tunneling-news-206855/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 48
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1657006882.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "iGZXjFUvDVXZdEtPjIms8Icl367+a0hUPgv+Mg2goSNswQ21m6xqltCjxjBmUr7xTFNyMaEitq7wZbC0Pm9hSLmMYaCZbJ3gASxPAtCKJbTkjNwsFwN+x6WaHrlLXCkb/wa59iPSwqbabJ/xj11qiTmg1Tfv9k0shfLwH9L9tc31IAh2B17xAH/krXOiqJWCQCINPh5QP7RyBEaBoubLJ/N3Pth1ppIbtU8i/ZLfrI5FIDxWhXNbYfAv9xN4wETN1UQrrw/kAaiROwDyQGaLmH/+b9QwEXgIX1DkseG8K6dVbrPyhI5MvBfyoMLCZDNJPWwX4LSPr2gDEBaqyfrdSFZcZR9OrSEc6GNK91Af0M0=;Mdh6Ph9Nm//F9UC5C5fjFw=="
 ---

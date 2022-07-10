@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/networking/ai-ethics-network-monitoring/"
 webUrl: "https://www.eweek.com/networking/ai-ethics-network-monitoring/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.adsadvance.co.uk/media/images/banners/967.png"
         width: 300
         height: 250
-        isCached: true
-  - title: "The future of AI in Sports decision making"
-    excerpt: "We will almost never forget the “Hand of God” goal by Diego Maradona in the 1986 World Cup quarter-finals match between Argentina and England. It is, however, the dawn of"
-    publishedDateTime: 2022-07-05T07:56:00Z
-    webUrl: "https://www.thecable.ng/the-future-of-ai-in-sports-decision-making"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 37
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2-680x365_c.jpg"
-        width: 680
-        height: 365
         isCached: true
 
 secured: "OPxKs5gONEcwngtJet1Rk2IM33xQFUyVvhh3+KWoogeCbLgSGzwo/M6XRjXjipnejr4M9DnO+Gk8LoSQo53KFIvSywP9cCvw8eVOdwU4dOfQYjm4BSzi+nUrfX5NndZkGyC6KoPtX2mKfmbf657K/EmgiUDbNUUQFsrlcVri7hkrrCI9FI7gYXWX3BFNWKQ6LlL43XiOrUnI0ubdP1yqFUQ8FKAPl7r294hzf9o5LZeNlbYfVujd5nmAcwjUNN7d4Ykt99wG6/UZL8MM7cOZTkcBkseMFmZc8cwGNoPbA0sz7UVCzrpOTmWLqKfL4Npd6i7Q4SxMYeyUmBT6xSH8nisMFPa6vzO9G7wW4LfBmsanDufmZgubLixX7ZKif3KnIBBQzYRF221jjI/qVXpijFglHPj4LpGnS3fVfcdN62xkBQpobn8PqicSRSUbQErlN7QJogMCbV1eJV3N1sxrGbkteN3HgIx67t3Sv2der9wk4cE+usytjYZD9IMhb/+5zX3shBjpk/DBG0ZTX59BJg==;eExETFvTr+fehl9MybWMiw=="

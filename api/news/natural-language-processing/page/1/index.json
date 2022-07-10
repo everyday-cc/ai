@@ -451,6 +451,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
+      "title": "Afghan clerics’ assembly urges recognition of Taliban govt",
+      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
+      "originalUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/eaf39e57ac824969aca25a2894ea5d24/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
       "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
       "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
@@ -1382,49 +1425,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-asapp-autotranscribe-worlds-most-accurate-real-time-speech-to-text-technology-for-contact-centers-now-available-as-api.md",
-      "title": "ASAPP AutoTranscribe, World’s Most Accurate Real-time Speech-to-Text Technology for Contact Centers, Now Available as API",
-      "excerpt": "ASAPP, Inc., the AI Cloud company for Contact Centers launched AutoTranscribe —the most accurate, real-time, speech-to-text transcription service. ASAPP has built a world-class speech team with the goal of providing the fastest and best transcription accuracy in the contact center environment.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-3b9b4a1538d89e41394fb55b0a99c14e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-3b9b4a1538d89e41394fb55b0a99c14e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

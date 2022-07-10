@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ifsecglobal.com/control-rooms/global-control-room-market
 cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sr. Geologist Proposed An AI Controlled Tunneling Machine Advancing Mechanized Tunneling"
-    excerpt: "Sr. Geologist mentioned that his invention uses lasers to carve underlying soil and rocks into tunnel designs. This technique will require 80-gigawatt seconds of laser power. He added a high-energy laser beam to the machine's primary head to manage its heat and firepower."
-    publishedDateTime: 2022-07-05T07:43:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/sr-geologist-proposed-an-ai-controlled-tunneling-machine-advancing-mechanized-tunneling-news-206855"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/sr-geologist-proposed-an-ai-controlled-tunneling-machine-advancing-mechanized-tunneling-news-206855/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/sr-geologist-proposed-an-ai-controlled-tunneling-machine-advancing-mechanized-tunneling-news-206855/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 48
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1657006882.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Insights on the Telepresence Robot Global Market - Rising Trend of Digitalization is Driving Growth"
     excerpt: "The \"Global Telepresence Robot Market - Forecasts from 2022 to 2027\" report has been added to ResearchAndMarkets.com's offering. Telepresence robots are self-contained autonomous robots with a smartphone or motorized desktop stands connected to a display or camera and may be controlled remotely."
     publishedDateTime: 2022-07-07T16:11:00Z

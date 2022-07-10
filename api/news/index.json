@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-09-smart-pet-door-uses-facial-recognition-to-keep-strange-animals-out.md",
-      "title": "Smart Pet Door Uses Facial Recognition to Keep Strange Animals Out",
-      "excerpt": "A smart pet door from Petvation that uses facial recognition software and machine learning to let your pets in and out is headed to production.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/smart-pet-door-facial-recognition",
-      "originalUrl": "https://futurism.com/the-byte/smart-pet-door-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/07/smart-pet-door-facial-recognition-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/smart-pet-door-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/smart-pet-door-facial-recognition/amp",
-      "publishedDateTime": "2022-07-09T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-09-shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech.md",
       "title": "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech",
       "excerpt": "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan.",
@@ -476,7 +433,7 @@
       "originalUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -916,7 +873,7 @@
       "originalUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1182,6 +1139,57 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ai-at-the-forefront-of-media-and-entertainment.md",
+      "title": "AI At The Forefront Of Media And Entertainment",
+      "excerpt": "Malav Shah is a Data Scientist II at DIRECTV. In this wide-ranging interview, he shares best practices for deploying machine learning models at the forefront of media and telecommunications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c5ede123bc69e839783dae/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "publishedDateTime": "2022-07-07T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],
