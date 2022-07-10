@@ -1,30 +1,19 @@
 ---
 category: news
 title: "DDN Wins Artificial Intelligence Breakthrough Award for Third Consecutive Year"
-excerpt: "Prestigious Award Recognizes DDN AI and Machine Learning Solutions in Enterprise Digital Transformation, Business Analytics, Research, and"
-publishedDateTime: 2022-06-30T13:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459"
-webUrl: "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459"
+excerpt: "DDN®, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that it has received its third consecutive \" AI Hardware Innovation Award \" in the annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2022-06-30T14:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-    width: 283
-    height: 400
-    isCached: true
-
-secured: "s6q6Isi3/No/U8OuAYTT3wJfn6Zt6hf+rDRuhd6OS8w1iDaYqAMr0J4p6NE9xIDZp4mK5EMk+CWQP0iAe1vQWH+XV+qS+WiKCvXw1TA6mL/l6mSSOQGDDb1dh2eSEkyqgjvJToyUrjEgo4fjsWjwHZjTsvX08SEg/q6Lw5/0fQB7zxLVa2asD+0tP/8MzAsdzVv/kMZx5dXyYbZjMpdlkAkIeiRUefekqrnVUvdnX7tKOAPGiInw4uQ33+p9ViR1Ypx6dkaGKso67Ro5U4FK0rDh09tEB6rff1th9b7SFlOsnWbtnnL9tmOPetCj5Wky4qswpWsvFz4kOv8mcwZcugsT64M34JLTTd8/uALRXfw=;k6u9szGumamkVjsZwl3y4Q=="
+secured: "cCXTCwbmxi4uE9j4lGsMXA1LOJRn8hpkm93djTsYCDuUkcNiNV+cmurgFJatAJmU0wjJLf70AJhh/tnn1gkNM8gDOqOD0Wow/n062r3TNjUJWbZKfXt3nD62mkXujbdSAHrrZe8T858pS/daTrGqg/zQFQLuhRc0N0w2Vf+DPbVZ7MQ6zVB3PYbIXHm9qS8xTQgBbU8vPjlt4q+zpN0kt1is8KjpyMpcOQGr0Je2J5U4nn9qY0V9Yp6pyt0LKvyjxpUh7jRA95a7zSfAOiOUKqCzDtCrrbAOVK0ZgTvB2gkQUVDEqYxPBi6tUe1vC0kFJf6K4uIx2WcpndVpkvZk1lX0VWrN7xyuNgBeqsPow1Z1NXo8y+GBUC7srzqZ19C+7bvp/3oKcgKg0qzxCZFU/y1aN3DV7rCGPMfbn+2SA84fm67waTLPySaIeFr2l9DL8J9EP43jzFT1eBOdNbIekRJ5oPSRz9kmNxPFOMOaIfcDOahQ3TOekIKZTd162G4MHERd77ePzSfEYe1Uy6x9zA==;U9PvCQLBoa4tf2vst4l9wg=="
 ---
 

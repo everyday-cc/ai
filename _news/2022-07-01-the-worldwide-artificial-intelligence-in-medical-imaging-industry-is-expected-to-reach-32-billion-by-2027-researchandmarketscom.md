@@ -1,26 +1,19 @@
 ---
 category: news
 title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
+excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-07-01T16:13:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "8qY/crqRElEFcm0MRLlLgh/q1ueg5jhyKkMUSrHuldEs38TELS4tGTdtpz+lpXgMxaLx0FlX9sYFOD2mQLQeSQqVki6detNk8I6JS7GI2G22lHTvVchgkSw/TKTyfw3dwd1soEsuwOq+7gwGF5wGehdT1mukgODNfPbo0Y3lBE7cS1oWqvYsKPSDLqMWWzJNxEUnlDRCZR8j/Kzk3Z5/ax/BJS4BSHDWq31PDlO/RIj5Gofc4y1rcFM5Urt5Zc//kU5YrNEXfHwbZPnK9VKz9mdZQnxH4bU0/7M63lBd7Hm88GphsbB6Kl1IbSL+zHIv/ytTQZsRx2ZVpPPAvlXS52jecQuwygWncm6jT1jvBqA=;mXaHHpUI3Hm10eWh1UKD3g=="
+secured: "0HXo7Aqte5OItXnpQMOfstFN+jZnGNWOUvBmeBKJpeXsBm5O+dkp1fdA1oGTX6Q6a7+nu+Y5JpohYJFkQc7g7ZJPRV+G1R21GfTf8fX0f8IjmqTAMt64Zn6EMcKWXDcaVIA5FCjWGY4/L/WhnjN5PHy6ee+UfYTO9Up0heFIAi/Jb/8+37MtkZncOhxvEF4SzxxV4Yp+jyZgzh8bb7O9M1W0oxihm8sl4ny0Mian6epNjL4OQeSIs7ZA4XrraSPmt4lOdkEVfgSM/3nH60dC1aavj5uVRW99b/u7CUs4/DJ6fTGwp2BNE+pIJL4vPopETGxRKSVc/9K122JwKC7k1yA3Gf5HJOshxMYiNCuC9Oo=;w5XwSpA8hlZJ6wqzBIKSHw=="
 ---
 
