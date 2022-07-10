@@ -51,20 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 3
-  - title: "Autonomous Data Platform Industry Forecasts to 2027 - Rising Volume of Complex and Unstructured Data is Driving Market Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Autonomous Data Platform Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022-2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21."
-    publishedDateTime: 2022-07-06T14:28:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_88cb2615-bde7-56f8-86a9-7dbf0438fde5.html?block_id=531919"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
     excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
     publishedDateTime: 2022-07-07T12:49:00Z

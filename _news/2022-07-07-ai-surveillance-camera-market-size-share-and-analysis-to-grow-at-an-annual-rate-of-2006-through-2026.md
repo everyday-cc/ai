@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-m
 webUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-market-size-share-and-analysis-to-grow-at-an-annual-rate-of-2006-through-2026-2022-07-07"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,59 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Computer Vision Market Size, Share, Trends, Growth And Forecast 2022-27"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027″, The global computer vision market is ..."
+    publishedDateTime: 2022-07-08T05:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-share-trends-growth-and-forecast-2022-27"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgHRoO-xwuTeYO1MTMfrUPtTVlTe2WVfZ5Kn4w4Ow4FFnDMS6K6IlwcoxCXF-4AqgkDW1UJHZgy8unXncOxa_uxcX9Nn-s-xlqmBMQky2L0Gl-eE1znrk1xCTi9HPZVU0vMorpk7mw69s-3d7cHrZc9PHJibAfdql97Y1evRL7NMp5PAThuAyH0Y/w640-h342/Computer%20Vision.jpg"
+        width: 640
+        height: 342
+        isCached: true
+  - title: "L3 Self-driving Vehicle Market Size 2022 Upcoming Demand by Revenue, Potential Growth, Rising Trend, Company Overview and Share Forecast till 2027"
+    excerpt: "Latest research on the Global L3 Self-driving Vehicle Market (2022-2027): Growth Outlook, Size and Share Analysis The"
+    publishedDateTime: 2022-07-06T10:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-size-2022-upcoming-demand-by-revenue-potential-growth-rising-trend-company-overview-and-share-forecast-till-2027-2022-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Data Platform Industry Forecasts to 2027 - Rising Volume of Complex and Unstructured Data is Driving Market Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Autonomous Data Platform Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022-2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21."
+    publishedDateTime: 2022-07-06T14:28:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_88cb2615-bde7-56f8-86a9-7dbf0438fde5.html?block_id=531919"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "AI Customer Service Market Size, Share, Trends, Industry Growth, and Forecast 2028 Top Key Players Oracle, Iflytek, Google, Amazon, Microsoft, IBM"
+    excerpt: "AI Customer Service Market 2022 Industry Size, Share, Global Analysis, Growth, Development Status, Regional Trends, Opportunity Assessment and Comprehensive Research Study Forecas"
+    publishedDateTime: 2022-07-07T21:24:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-7-ai-customer-service-market-size-share-trends-industry-growth-and-forecast-2028-top-key-players-oracle-iflytek-google-amazon-microsoft-ibm"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "NybAqiHmZf/gjMuKFkhs2b51kxPlzQKicXvIir2Pre7WUtu1aOd1I6tzRXq+XHOUeHqW9+4ATyC8C+VmzY8rswT9XIjD0Mk5qo4xoQqWtYrLEsk6EuVHyGN4s5Ll9yAm5lhvgvLnvpKtHcPFkDhRQWQ9kGagbotN7ORnIJtyioc4oj8AKcqweKCzFEkosfoBYhrkOrflvCf3yjZoe9K5AaNO3GWAg3iLTYYYLFaQzDLV53qI8sf5gez1zS4yV3XbOIV0VEU4izziO2yrFBtRhD+/+ODML67uScnXL9ONwLwW90qSMS1FiOox93PVm/Tco/jqi1E0hwSJRfc9bHoH3KuqBaByupUySUaOc5XpT+g=;CyBBdmjKv8suR/ld+OVrtQ=="
 ---

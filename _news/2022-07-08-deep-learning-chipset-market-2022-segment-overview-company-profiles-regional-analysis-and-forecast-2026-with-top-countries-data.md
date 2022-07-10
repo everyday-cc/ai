@@ -43,20 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "L3 Self-driving Vehicle Market Size 2022 Upcoming Demand by Revenue, Potential Growth, Rising Trend, Company Overview and Share Forecast till 2027"
-    excerpt: "Latest research on the Global L3 Self-driving Vehicle Market (2022-2027): Growth Outlook, Size and Share Analysis The"
-    publishedDateTime: 2022-07-06T10:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-size-2022-upcoming-demand-by-revenue-potential-growth-rising-trend-company-overview-and-share-forecast-till-2027-2022-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KIaSOY2QgkC15Z7u4pW3qYkvFxe1VSmhOrzmEkT0f5yfG6wTAltmGxl8iXs6cUthfD2eXTDXiwahB1a9TC9hSeBadTok74x7jl4g9ApTJgdeyAspSIen5RkCUH8Qm3njSZQyZpM3jf3ILK6TQnS4xko6s8NYGmp52vTO/MZUZKCQtHnRJsEWZwM/uUh7NEWkV/aNDJGW09dqQwwsROchgdFlibG6ANgqk6vMTzP2oKALi++8Gx/RtMb/WKLwe06WqmKk6wvAD64BUS6/Lwt9NFSljwmdOyYMyCbSYS6HRQkOs0lxmAlDDVJFWRBVEtYfD3H3QzlevFSTluTilMe1GBdruYsFSQAvMmTOih3mwaA=;S7xdqeSY5atHn1wtepqT9Q=="
 ---

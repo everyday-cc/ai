@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-10T01:14:00Z
 originalUrl: "https://www.malaymail.com/news/tech-gadgets/2022/07/10/tech-firms-slug-it-out-to-create-ultimate-ai-translator/16705"
 webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/07/10/tech-firms-slug-it-out-to-create-ultimate-ai-translator/16705"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.malaymail.com/malaymail/uploads/images/2022/07/10/31546.jpg?v=1657418520"

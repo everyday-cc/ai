@@ -37,20 +37,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Walmart’s Last-Mile Patent Filing Has Self-Driving Bots Tag Teaming With Drones"
-    excerpt: "The retailer’s latest patent application details how the two technologies would work together to make delivery even more efficient."
-    publishedDateTime: 2022-07-05T10:00:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/walmart-autonomous-vehicles-drones-patent-last-mile-delivery-self-driving-bot-353368/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 20
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2022/07/walmartfarmingtondroneup.jpg?fit=1200%2C780&quality=98&ssl=1"
-        width: 1200
-        height: 780
-        isCached: true
 
 secured: "E/z28DPNX9O3zZ1DmliFDgKRwlMMFDBXjKUaBChLmrIhqdqVfbuxC1KllSH9NOzMLBYu6H3S1e50cErxkTb25aibpkcOn+7PJ/6dK7EeotKKrUeOFBGrulXMxabCAGfpDVBF7iBOxj41TjRShLgBcXr3BDOZzx/l/Rnwpbjd+IeAsHb7zjSFRb6XaL8SPAhQGWYFYty+Y16YOHGh1uSo6AXi9AF8sQbdE0HJ84Ih/1jlSpliOkMXajlsDdycx4LjXgsCftizZKkYEMUOp9WiYcxR/z9ywfOZLOhdB42CFoGmjos9MIt0gfaxZhmLM49qaxownU0hjpgnXGr/ay/AvkRITekbdUmREnJRx7TxdLG2T2Fo+hGpGMSYmzzhk+9M260DY4E9mOpzPfXjcAqaf8hkFw/To/OhVrHlaP8QSj1XyAM3TbTpdN7j+l/LXd1khayBhOJCk6Y6m/cMHDNqvBOVBgvHX7LFm1/JI0YTYFb57bvqzvkyjF+V6Tp74yUsVUw1cYny5SYxN5xrRYGqrQ==;9J+zo+RGlC0IjSBJzsxaXg=="
 ---

@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "HappyMongo learning solution launches Toddler Lab, AI Lab & AI Powered English Lab for Schools and Colleges"
-    excerpt: "HappyMongo Learning Solution commenced its operations by launching the English Language Lab for K-12 Schools and got associated with the MIT Group of Institutions - Pune. HappyMongo and MIT WORLD Peace School launched language labs in Pune,"
-    publishedDateTime: 2022-07-05T10:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220705/3959382.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-
 secured: "zBrpt87MU3Nag73So73islMrm11jg/NfJpgRxR2CDNMnpaAZzpH9t4bxC59idzdcWSCRyvuqEBdIlMI4/8AP+Gri0Oech7fOeO5GW16/E3hYfNhtWcYx5GVNINHLCK1X0OTv+DGmr3XOd7kn+zS07g7wzyoffjTTcYoLDxj6wJ6ZsrWekBIDMEcv4emzgL76KyEUueyQ2Uh3gNBZ3GfV20GwV5AW67eYV/lAaZHxrmfg+uNB79DOyb6H6xE7i0REY+vf57UMlv5ckM4wEQ6HQSM5TGTZ1wN8NjjX6INbXdsWM2NN9mWJQ8pPcfSKV4oG2ez9h8KT5lbK6grsoEFPF3oCqI8PqVrhXZYmz2+6Hr0Djujk1CuOpfbHyT9x7+B9P5eOku1sfLj9E7Vs5aFCSaE/no72MwWqfvvjjkXV/E3cF5c8PgMi0zLmH0ZWM0MXzRjtxTxlJh3aGaXV5W6nrXBdOytT0FDlC5NeJsVdlxoeNcr0Rolonztt63xlo3Dyt+uRPuHr1hZVIMaAbeYvrA==;JPra4uhQumyG+5okYWOuFA=="
 ---
 

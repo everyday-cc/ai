@@ -25,24 +25,6 @@ images:
     height: 383
     isCached: true
 
-related:
-  - title: "CoE-SURVEI: Defence lands under watch of AI-based software that detects unauthorized constructions and encroachments"
-    excerpt: "SURVEI, established by Directorate General Defence Estates at National Institute of Defence Estates Management, leverages the latest technolog.."
-    publishedDateTime: 2022-07-05T10:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments/92675815"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments/92675815"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments/92675815"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92675815,imgsize-5046,width-1200,height-628,overlay-etcio/coe-survei-defence-lands-under-watch-of-ai-based-software-that-detects-unauthorized-constructions-and-encroachments.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-
 secured: "AcW9o7kRpw9+rLgef5rHIs2UZhkkKQvJNZPhqA6MwPxOO0pxTR1wfLEDRsjffULBmsnTwUr7DW/2W9GL9QWtEhsG5dMlf74qfG311rHE8iqbFRV41QPgUKEppP6t2BBLfGx27wC3frgimw4BNmwI2zuV3nl/C57sYzlJUf8ectGHbYM5WO4xf6AaRxPrGbjZ74nOiAhFSUmAvnoLRw6tACmDjV58tfTTnVYNcMqN9NUDz8nIK20J97U8I7QnJQ3pZpuATcPCNyEUvvtrKcp7u0Nlhr+FQTv7uzIh6LR8MvV1gVF42Yc3QC77KnK/tyNP/CZAL0aL+ODxoDOm1XkW+/vIBGoDNY+XaF0emck+rdJFEBlbwyBpdcls38z1JSyn713+U38hJEnVz7wx0sMddmDfnE2kjOWGaT3dMvp+bA9B7MbM34yQmzRi3GyEadK0lFE9ylUdQ1+e3jKb3ym9GrxMvV/8igDfoo5FyeGi5aIlYOiBf1E1SgoKbmuP7iPq2DbgiNMwecPyKAj3FJ7qUw==;kJPsv0q4smytjqvFKapzIw=="
 ---
 
