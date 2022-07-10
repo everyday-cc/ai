@@ -39,24 +39,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "DPD autonomous delivery robots launching in the UK"
-    excerpt: "DPD has announced that it is launching autonomous delivery robots in the UK, the robots will be used in Milton Keynes and they will deliver up to 30"
-    publishedDateTime: 2022-07-05T11:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/dpd-autonomous-delivery-robots-launching-in-the-uk-05-07-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "DPD to launch autonomous delivery robots"
-    excerpt: "DPD is to start autonomous robot deliveries in two Milton Keynes neighbourhoods, as part of a trial with AI-powered robotics and last mile delivery company, Cartken. The DPD branded robots, which will operate out of the firm's Knowlhill depot, will ..."
-    publishedDateTime: 2022-07-05T11:27:00Z
-    webUrl: "https://www.commercialfleet.org/news/latest-news/2022/07/05/dpd-to-launch-autonomous-delivery-robots"
-    type: article
-    provider:
-      name: Commercial Fleet
-      domain: commercialfleet.org
-    quality: 19
 
 secured: "Dek2Zr1zCVIX0VogYK+mKRePozBI9GiOnJbv8lD0Me/PNLjBD7zZdmQMDfkQ5sqZNFj1hs21i/excu8sXrBRBxgauXtAAZ+6Nx6BpI5s0J4wCzGPsV+ei8ldzirxLTbnnkBJAm6fWVf98997XrrjdXrJHYk3BM61kaEkoAF1IhhgVZkceEFxLjrOGIfPhN4EQ44NlzI4ZGDGpHSzpPIWNpDyoQE0iQuxfeD40Hde+HSc+Ri5tWUzcpk3hAf6X5y1EoIjtqGjryX4bZhhGj1Wk0kMP1wd9AtR5p5PNHVmxzSAnZesJ7oqWc38q5UwEWB5T3SA7AJOWSthUBpn1st2szcrWremsgevQAeKUS6Li/WbL0I2lyQpLpa2t+mrLFyHUKEBZsg65HnYQgsvnFBKcf3+tCuTmuIZECK75Cp+FAWpW99FVEVqU/fLBzKxmEDhY6fg3zfdjL4V99eFmYTpAXlL5I4RPrAPosxe9gN1v72qgbQSl9AbP0k+gMPWbFhQ2lyGMD8LjYH0xAznhW7lgQ==;eGNsA/TFl750U1esSsih4A=="
 ---

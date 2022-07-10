@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-28-as-ai-advances-will-human-workers-disappear.md",
+      "title": "As AI Advances, Will Human Workers Disappear?",
+      "excerpt": "If you’ve recently eaten at a fast-food restaurant, driven on a toll road or checked out groceries at the supermarket, you may have noticed one thing they all have in common: Many people who used to help you have been replaced by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
+      "publishedDateTime": "2022-06-28T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-self-driving-cars-do-you-trust-them-poll.md",
       "title": "Self-driving cars: Do you trust them? POLL",
       "excerpt": "More info The Transport Select Committee announced that it had launched an inquiry into the development and deployment of self-driving vehicles. They will assess safety issues and consider the ...",
@@ -1092,57 +1143,6 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-googles-controversial-ai-bot-story-keeps-getting-more-wild.md",
-      "title": "Google's Controversial AI Bot Story Keeps Getting More Wild",
-      "excerpt": "Google recently made waves when it put an employee on administrative leave after he claimed that the company's LaMDA AI has gained sentience, personhood, and a soul. As outlandish as that might sound, there's more to the story. Blake Lemoine, the engineer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/",
-      "originalUrl": "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/googles-controversial-ai-bot-story-keeps-getting-more-wild/l-intro-1656359836.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

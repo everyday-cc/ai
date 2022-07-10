@@ -1,24 +1,26 @@
 ---
 category: news
-title: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars"
-excerpt: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ..."
-publishedDateTime: 2022-06-29T02:06:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "ALSO READ: Beijing grants Baidu, Pony.ai new driverless robotaxi permits Founded in 2000 as a search engine operator, Baidu has expanded into artificial intelligence, processor chips and other ..."
+publishedDateTime: 2022-06-29T04:44:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
-secured: "2e9fljO/bMklI5Hnkfami3BvXnS8PjXXGbcXZJJ1dOshiFuxZ9sOI7MNlgc3w2yJoRA8q5CbA1zuOn0ZPIpIF7cCqA1uSCx1trvbeZzHG9gLWFc7Y020aGQof9TlOUYc4uio82nBfem6a1u2Jj+vAmaQyansxShJ5Qnvbe6vTJ4jmkGVmZ8jkpj7jdloYDhlhZnIzgpNfmUvozE3EmAPXT6pdk0FkQg/ofHhA3uUb89p2iP7VQMrpVOPxtkbxqEd0oToucFCD+sElyJWe41IC2teA+VzH6sK5i0GyMP/nMMEoFRXnKTSXg6w5q3wVaSp5et42oKrbEc9VDRh+72HgYFdg0PVc8SXHVQsTYIqTK0=;k5EA9YWIHWBIl9YS/BM0Jg=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/06/29/1640322.jpg"
+    width: 1240
+    height: 826
+    isCached: true
+
+secured: "jHmtg/mnL19PCHcN+bdNDSPKi1TkuaT3Xuf2QX0d9n0SKTpkPbwCGfElIQpnGG2AfmMXy7hregu074S0pzQnT4TYLw9JEFmrRTSWJRT2G0uHtBHn/G+MzJHqU+nVB3pfQhv9n2utAF8+wZZ0dBqGiIlWxG2sZcsuFyyp0STftfq3H8PhXjYjAAclIDLA4arWVgD0DwwdUZjiNPB7gwmkmCX7LPwZTVnjGBcChIECfgvOLDR23oibFG8CzUFxpJG842orYdrZaWbkAY4NsKUEigwJu+rdEutoBkCIpIKabvYuE6aJ4Mipbqna/gf+TI2rBA2j1bbcYnX9izPd2fh8ZSmKKr2rl/wakvAxTVnKQyQ=;Hv32BUB8hzIpgbbwlg928g=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "How advancements in technology will shape the future of healthcare"
-    excerpt: "Several technical innovations that sounded like science fiction a decade ago have already made their way into the healthcare industry. Apart from saving lives and enhancing the quality of life, technological developments have decreased"
-    publishedDateTime: 2022-07-05T11:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advancements-in-technology-will-shape-the-future-of-healthcare/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 19
-
 secured: "wqNWDs5lObgIk3UMh+dUaSPjV3WekPdoVVMyLCjKDXFkG5r4Tcl2d2kaGGivzdYwkwioW4wZb/SGN2W0hys5oXmfVvIhPi7VdGJ2YRvOIpTtQx9HsjFXXskyD52k63C2w1MkzpWtA8akVOWzWahbuMfmvksGQrXltn5boF2uiZ8QEeItXDyPEJoi0yLvj4oS5CYg3CdCzXGETH7zRjURqmxcmm8sKs07KEevHNkTOh3MGjsmuHavXbru7OB2+dI1EIGQCnbUC/lwkck9EJBHTsq+q6vN5ECZXJ+xLhzzZuCpc2TbW00h9GJZpR3rxxDKwf6lzrRd6K9HlNYUeZ0R1WqA6fF9aBZQtmmvgNImhrMiGmEEcHVfs/Fb6CDtKN8+mY1K7hnVYSwz2P6SGlVMYiLgFUBc0CaFbyO2WY/OSEVgCZIxKDi/yok9osGxTUoQZuXdg2UYwG3xuIVJPIxMbOWMfylH6HtH7RWgWCbm9asL+IQMpVfr2hYZNqamObwl8BXuM3qR92DCnGLzLUJiFg==;0bzDDx2fCh7sJZX/kvWZkQ=="
 ---
 

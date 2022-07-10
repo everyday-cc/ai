@@ -3,27 +3,28 @@ category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
 excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://scnow.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0b8c5c7e-63a5-57fa-883d-ac11badcdcd8.html"
-webUrl: "https://scnow.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0b8c5c7e-63a5-57fa-883d-ac11badcdcd8.html"
+originalUrl: "https://chippewa.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_49a2787d-d63c-5fe6-8b41-a0682bfd9186.html"
+webUrl: "https://chippewa.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_49a2787d-d63c-5fe6-8b41-a0682bfd9186.html"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: SCNow
-  domain: scnow.com
+  name: Chippewa Herald
+  domain: chippewa.com
 
 topics:
+  - AI in Healthcare
   - AI
   - AI Ethics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/0/b8/0b8c5c7e-63a5-57fa-883d-ac11badcdcd8/62c454ee9cb31.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/4/9a/49a2787d-d63c-5fe6-8b41-a0682bfd9186/62c454ed42f34.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
     width: 749
     height: 393
     isCached: true
 
-secured: "gqGtXNBleePQVCEeZH/6Yis5Z8miZaHj9Mr/W+KdsCNUqlDeS8L2c0lxQjFt42zbUzplwptjaCQ+P+4SUlBWzcbOjbH5seSZQdqM4f8YjyCEU+7qQd5xmBENVOOvEck181zeh/QdALAKSEWSZMIN8Ef3rEo0HBu6Tg7uct/OpFNru461nz8mwQ0+D38zNUIVwwbYFGeRr5HsSuzCxBkyePtwWb7M4m7+rypS7yH4Z0W7Thc/lDeA5n5zDpW8L4523ykjD5YqGaVyF1hDVBtR6suubAkOv7f5bWd8ABO4qo8/D9/2DACRKj9YmNYCZN6wp8EVSaCGSo2G9n9fx3n0tBCNj6KsQVX7oGpJU+isPfs=;2WKgLg8H+k8RGQ5+xlZVDg=="
+secured: "bhJ8gbTdGlX6UlWdZYQ5YZygsLsj4PfWBNV9mFLYOzGE0BDnOvWgsg2yt21eho6PL6ODEEiI3WhfvCcJbD34BmhOqsZ+KR+NDXZJe1HtZfqHZ9eUZgGlP8ExJHVT25YrWQsWVxfRPQx6z/CKPIYOFQP7V7ZUzPcZbTVKaBLA2iF8hCdssTnQtPuAV3u0LnaSLpQSo760HWhnUh2W4Wr8aF+RkAMK95fYr1GTrpAXCTzJY9AlKj381g8gxVO9mAX6l0L5otsY8NWibnicJnMlpOLz44nSoeDziEtILr78aCQYADlyWpbzU7GRxXnjKzQzJYJP2JUmHoqrYtVaenUaNOtf/AMfNLKfzEVAH9rXVeM=;alIkTEa+GhU+FiV58kx4uw=="
 ---
 

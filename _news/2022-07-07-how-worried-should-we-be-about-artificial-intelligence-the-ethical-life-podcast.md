@@ -3,27 +3,28 @@ category: news
 title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
 excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
 publishedDateTime: 2022-07-07T01:15:00Z
-originalUrl: "https://scnow.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_615910ff-551e-5ed7-ba35-e68f9e506092.html"
-webUrl: "https://scnow.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_615910ff-551e-5ed7-ba35-e68f9e506092.html"
+originalUrl: "https://kearneyhub.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_63c8142c-9b29-5d40-886e-acb433f97a08.html"
+webUrl: "https://kearneyhub.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_63c8142c-9b29-5d40-886e-acb433f97a08.html"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: SCNow
-  domain: scnow.com
+  name: Kearney Hub
+  domain: kearneyhub.com
 
 topics:
+  - AI in Healthcare
   - AI
   - AI Ethics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/6/15/615910ff-551e-5ed7-ba35-e68f9e506092/62bef0326b490.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/kearneyhub.com/content/tncms/assets/v3/editorial/6/3c/63c8142c-9b29-5d40-886e-acb433f97a08/62bef07dc3e94.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
     width: 1196
     height: 628
     isCached: true
 
-secured: "rCk6J5qEhL5WjmLs5iccyw7sYzwOBP7zhbx+gxjb5CqeM/vTlZzocRWCRPrPWHW4Xhu6KvxNvpkvQ487XONGU0BVReIFtcvJAto0/NL5BcDN73TnbKt/QqVyPJXibFOEnDbcdJuhsTZ7UxYKEhGCuq/qLG20sE+fNzCzlWpwA5HHU98F8nE9MBSs5lWPkz04faKXvyENectUWLo2e/oEyvunHYkZjdKfo41+92+BgwczSzYaj8kiNMsuJ9RQuglv9ftRLscDFtbPcRrB/iNq83EhfHh3eRIstnKBxp4zB1SM6QAzIvFRy5Cz3zIpGr7fVv3PGQH2qIg4RlksP/npk+jdF4Cd+0/O3Q4AUz254E4=;A4wOMuyMkXtPJCt0TcYspw=="
+secured: "haX1DCHgPWMLX65UhSVdgTHXWDEmfZgO6QPWBvfIg2uL8l7hL8HK9FxU57BrhUVDGhpn27HZ69Zw7/3SZ/0Kv7+tV6ek+J8PDVonWx/ASXpH1FVTBz4Os15va6NtOyOfTkeqJvO7le/pVsaWEoaRAA0NACrxhOMIzoAQgovCk5BzbsLBpbzd9gDyXwCUhCCXkJMRrxwIb0X6IsXSAwflEPaalgqsDIB3SMJYVsnDGQ1NSzI3DKr690VDm4LdiYQRhgiRwuNfCQqYZgrbAzbGbdmxoBIySK5Ih4s5aULo089HiEPxFax+0/bqodJoQoZiXx7McYSMGWZsNjrWVzyrl8RcnivEqUu/x/q5zS6DDEA=;XhMJmQNqgd8J14Ek7JE0Vw=="
 ---
 

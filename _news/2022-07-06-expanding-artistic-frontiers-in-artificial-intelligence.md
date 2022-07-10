@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-in
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: techxplore
@@ -26,6 +26,22 @@ images:
     width: 711
     height: 450
     isCached: true
+
+related:
+  - title: "Reading law in an AI future"
+    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
+    publishedDateTime: 2022-07-10T04:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
+        width: 1240
+        height: 779
+        isCached: true
 
 secured: "SWrV19hJP44rlg0RbePiCs/75tBx/dftd8VWSsCOFqlT4+2IctJOwnsJzAFxAh4rBgsfRPhuLNpOG/aftKgUNJ99rtr8NPxc88r/IDu7ciE4DonYhC3Wlw5uXJJrllj22b1QuNXR+Sbq3KKQJ7vucnzQIFMl+X+P5jKuyoTAjYVicVTc4i7YDnQNLRjpGKIqiz5PXuClcOT9FmiA3zvBCiMNByccyC8q7ne9haNXQqdXcpwLFjYw4n/PH5dJ5bFEKdpodYd56h4g2LgDk0wxgG505Kh6MAy15c1Fff8ceypLtDNwTxw9jF72GjDG3Lc7cxKphY7MiJwrqzw8kYJvvELCm0mVXQD1jVoPn+itU0o=;32D4GZkxzzC3Yti9FmfJuQ=="
 ---

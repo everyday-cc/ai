@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Could Artificial Intelligence Replace Therapists?"
-excerpt: "Artificial Intelligence (AI) in the Role of a Psychologist ... technology can be used as an effective tool for psychological therapy. Further, if people who interact with LaMDA believe it is ..."
-publishedDateTime: 2022-07-02T15:11:00Z
+excerpt: "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy."
+publishedDateTime: 2022-07-02T14:44:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
 webUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
@@ -14,7 +14,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +22,6 @@ images:
     height: 800
     isCached: true
 
-secured: "RYiyx7DoJmO/D78Mk9oottYWdaoIoSSmRSZu1lwvO/8/fbYqgjeXN2IKouu4Y1BBqadJQJ7xE2s8amDcSJ/jHQ6PSCHFflEciFztRMlt/oSf6DGPALk5mAmjP5qWTshYRvOLkh4giEFyYGyf2mw0UeR+1dc0khlnf08w+fIUfioqHytme5BHsQmCchX7zRj1j4lMgFW9omNyeM1VveMbDW3CQ7/GPMEFULwpyj+8anBcgp/ncO71Hm3C+/6cikFZRbZ71L+0hM4YUA9oE1tRHc2v2H7B5LzrgKbNmQNL9lXlWL771TphPv8JzajUjzPCB76ur7Gi5R2mVOdFv+4X4tCccWjvha96FLNClsdmjIE=;W2MGNyLejXqMNU8E2aQO8Q=="
+secured: "DVr9itSkd9lf5mqVAMGjxKUAgeTpnQ9d2HQys9/fjFyaWnW6IbgqpPO3o1xVx/crBuyKblFrfRDNc/yTPYA2Sy6YwEfyLlaoVbOHtCHy5t0Q0CLFgbYZ/cTZWJXQwzIw/M2d5X7kjH5zRwAYJopKxc8pI0vgUa4YNMKSn6lBK8qQI/lqH3VxlUI5ae/cM2xEmOsBalthMtuQAzIPlLDBY5AoIPvwEkP7wTgImrlaQ9d1fuM5MxXwYDWDGvr7nCYlyJA4qsYn/ovhXeq1NOCmhFBVjtBtRX34GobJ59fathXzclBmHtzia1LXXg0df0dMac4FmCC2qFJ792R8z5dEBjQmvEQCh4Wx25BCq43isGM=;jUO0AFYmQFa4yg/55Kz85w=="
 ---
 

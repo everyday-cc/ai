@@ -42,20 +42,6 @@ related:
         width: 1080
         height: 810
         isCached: true
-  - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
-    excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
-    publishedDateTime: 2022-07-05T12:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "G33mUMPNq5uC/uM4pt5clrlPPP5lVu2KUujZ2awNa9R4lPxsNwh3kZ92PgOQWPIEMEwWwLxJBLMzxGib61U4v9/uJ2fhVrfmpr9x5+PxmUITMpwKyzTuryU+JOi5Kz2FezlI27t88YpfnM3RkWZeclF8Q6T86I8yS8Iuh0euen8nOXpbvGTup4RG5H5/JuKr/7FpjO0Y5UYN9wIEpso6iROvVi+tXhSQ/pVHUKrUZQiwjB4ejWW+a7PEQFlLHJZIoVJukoJ98TmtyH9Ws80IEpnr3chYDvzKaCHX70ahn0qGntKh1uz2fPRT7Ji1XgnecyY/ER3cqtoiRp7X8rKQG/kbt9Lwt3ywQEDZPViAPVI561XA+pd+2055fGQHpxTYaRDnnBBsZvkcgwpqexvtwKKEMviY/kdv7cAs/njwFLmWE57iiNcJad7R79GrsFs+r0LmNCext1yqH/KqUzVVXSKO3CoMs8KjfuQD/+db60Ng6VFNfjHtIK740Tl6QT2c83h/PqeJ2gt+F1yNClXWgg==;fcF+e3LxhSezDW7PI7yevA=="
 ---

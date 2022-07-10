@@ -28,15 +28,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Global Robot Preventive Maintenance Market to Garner USD 10.05 Billion by 2030, states a Report by Next Move Strategy Consulting"
-    excerpt: "According to the report published by Next Move Strategy Consulting, the global robot preventive maintenance market generated USD 4.23 billion in 2021, and is expected to"
-    publishedDateTime: 2022-07-05T12:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27951542/global-robot-preventive-maintenance-market-to-garner-usd-10-05-billion-by-2030-states-a-report-by-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "eN139aKfYdVy+3wCK36RJ5d24qAozKALicFRMUlu5mgB2ipVEMHMj6Xp6/TDQSpxr4tztira58lm6hs6Em1Ue/kvM5zDPPSe6EEew0omlTq3bE3aQdT0Bspd1HxOvDGXmSr15WwLmqTCGEOVL3iZQL9cR8fuMmdrarrgXg+Ggc7MDZ9GOyGwBYwUffQ+No/VQ31mlbbp5RzwjPKa/d3D2IFtKEbktsBCwSrPcJq4UjP7EiQrn2a81JwihKNysOKYnQ/Am3YOS/qE0I+cRzRuvU9zIuHFZcRBNOffRalORoXUg8QE2xdbhjGVkJW47qkmN6OpiaVvFEGyFysmZc20KVfmBC1QbUqHf/t5hSPdE8I=;tRBZeLHldyw2smjZUNFnRw=="
 ---

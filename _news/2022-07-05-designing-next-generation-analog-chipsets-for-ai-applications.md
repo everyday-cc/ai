@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
 type: article
 quality: 76
-heat: 166
+heat: 146
 published: true
 
 provider:
@@ -88,29 +88,6 @@ related:
         width: 500
         height: 250
         isCached: true
-  - title: "Frontera Group Announces AI Powered Live Streaming Solution"
-    excerpt: "The result for our broadcast customers will be a significant cost reduction while maintaining professional quality production,” said Andrew De Luna, interim CEO of Frontera Group. Frontera’s recent acquisition of Intellimedia Networks continues to position Frontera as a prime provider of technology solutions that disrupt existing applications in broadcast,"
-    publishedDateTime: 2022-07-05T12:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-entertainment-sports-c1330a513f87cf6ad4908d24f3be4ebe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "IISc designs framework for analog chipsets for AI applications"
-    excerpt: "Indian Institute of Science (IISc) researchers have developed a design framework to build next-generation analog computing chipsets that ma."
-    publishedDateTime: 2022-07-05T11:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/science/iisc-designs-framework-for-analog-chipsets-for-ai-applications/articleshow/92677965.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
   - title: "IISc develops next-generation analog chipsets for AI applications"
     excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework for the creation of next-generation analog computing chipsets, which may operate quicker and with less"
     publishedDateTime: 2022-07-06T18:09:00Z

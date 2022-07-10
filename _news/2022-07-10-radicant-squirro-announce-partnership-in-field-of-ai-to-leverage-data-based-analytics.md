@@ -43,20 +43,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 19
-  - title: "radicant and Squirro Announce Their Partnership in the Field of AI to Leverage Data-Based Analytics and Recommendations"
-    excerpt: "The integration of technology enables radicant to automate decision-making processes and improve customer understanding and service quality. The Swiss tech company Squirro, recognized as a “Visionary” in Gartner Magic Quadrant for Insight Engines,"
-    publishedDateTime: 2022-07-05T12:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-sustainable-development-a449c07d019b858d98f48ed070f8f709"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "o232g4Ibl+zfA3DGzJEvRJbPq2QJGR2hj12L1d2fdmMkPPMjwEDtwMFHX6wqaiFLIvfmnll0PEMjUO0SJnLd+9juFr3ILX1oGeDG7PFocAoGBCxCCT/mfrFODt/PdrpZxOJHaun5ozSCaogIhegrML6ftTmrSDmtP40wjB0bZZu/JRk8qmb8n+PQJfsf5q2DNnAzSCGsDZNsx5Ck3bwsh8s3kTr7l8SKRwVJVWmGon/6YEC7PGKvuu5/NibzSAtT1+5+nNuoAfmkcwW6LYtxymvZH7ildsYHjkSd1xxA3ywJEXC4QWHTci7N8ZAVJUl/q3oqT7YoUd3z9xMd9rVjwdhJk9BF5ftglnnNG259EtQ=;JmwiYhN9nPw+oBci04YfZg=="
 ---

@@ -95,29 +95,6 @@ related:
         width: 500
         height: 250
         isCached: true
-  - title: "Frontera Group Announces AI Powered Live Streaming Solution"
-    excerpt: "The result for our broadcast customers will be a significant cost reduction while maintaining professional quality production,” said Andrew De Luna, interim CEO of Frontera Group. Frontera’s recent acquisition of Intellimedia Networks continues to position Frontera as a prime provider of technology solutions that disrupt existing applications in broadcast,"
-    publishedDateTime: 2022-07-05T12:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-entertainment-sports-c1330a513f87cf6ad4908d24f3be4ebe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "IISc designs framework for analog chipsets for AI applications"
-    excerpt: "Indian Institute of Science (IISc) researchers have developed a design framework to build next-generation analog computing chipsets that ma."
-    publishedDateTime: 2022-07-05T11:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/science/iisc-designs-framework-for-analog-chipsets-for-ai-applications/articleshow/92677965.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
   - title: "Reforming Prior Authorization with AI and Machine Learning"
     excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
     publishedDateTime: 2022-07-07T13:00:00Z

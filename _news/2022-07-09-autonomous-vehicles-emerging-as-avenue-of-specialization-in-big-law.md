@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Autonomous Vehicles Emerging as Avenue of Specialization in Big Law"
-excerpt: "One litigator likened the opportunities in the sector to the internet boom and the industrial revolution combined."
-publishedDateTime: 2022-07-08T20:39:00Z
+excerpt: "Though driverless technology remains nascent ... And amid rapid advancements in artificial intelligence, sensors, chips and data storage, the autonomous vehicles sector is set to “be ..."
+publishedDateTime: 2022-07-08T19:42:00Z
 originalUrl: "https://www.law.com/therecorder/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
 webUrl: "https://www.law.com/therecorder/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 633
     isCached: true
 
-secured: "XVgGhLASBcbliGisk9b9GgrSgq4h9Be6RAb4suiZ2Ldjeam3Ca4xNm6VRfl5Mu2IrGv270vwtZfGO33zRwNYyOkhqMcseGmrWpahb+HBS4UYPdRBksyQ6S67ta2iNE9SiaU4Aql6Y3OyhIFOPqLGldCmxcUKAf2mMdQi7RzHPjI2AtIB/mCmP+rq/AW2+icpqQmdvYsYkmtFwHP+bswFD67UfttOQ5WeFGscQ1X9z08B1UtDNgc2vakWb2UiXRjl/S4b9U/JXEBIgA30ev7p3Nt3SQcogldWyr8lkQs6X8uHTw7PV9xIO0+JTs22lfCLqO3YKRh9bvQYv9iHtPYoqX2PxIlnu8R+AsnLig7nM3o=;5Nud9ah6Md1bOoBToZRNaw=="
+secured: "fI+ZGXXnYCzGJaBtAAGM9/9j/es5uNGyFIo4dg4liU4FNukWRQ5j0H7rLwklgMGORy3RUkabV64854m24+vS7uU8PdxCw2GLhIURVNEjoQKaVLHaI+vyiSMtubh73TVCh4/bYa3xJhe/GcdZj+O6Z8ZrzOTKk8H/T0Y+d97pi4qRG5w2uTe6br9yk4E6RDVC2zqH7XPgMFexiNLg4OzPieuxQQrvUBOnx6t6hgmKI4PthOdGpGWIq9AqZ3rmynGIIpFTBjFRHdKj6wSq7bbO3NgfcCM52E6Qj9DCvcqsH2Cct8dUnGBuTQraMySUaAdeAZNgBJZkNJCf7py4zHoE6v2i+942KVypow5N8BcZPTo=;Gzg65MsRn/aK/dld3zcUmA=="
 ---
 

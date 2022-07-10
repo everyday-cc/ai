@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Concrete.ai developers prepare for software platform commercialization"
-    excerpt: "Concrete.ai is preparing for general release of its pioneering data science platform, programmed to reduce costs and embodied carbon intensity (CO2e) in concrete construction. Ahead of the launch, the company is filling key management positions and executing an exclusive,"
-    publishedDateTime: 2022-07-05T12:05:00Z
-    webUrl: "https://concreteproducts.com/index.php/2022/07/05/concrete-ai-developers-prepare-for-software-platform-commercialization/"
-    type: article
-    provider:
-      name: Concrete Products
-      domain: concreteproducts.com
-    quality: 17
-
 secured: "XET9r4BJ04rNCuYJiR4slS0LreuaDW6iYUfgOxt3L0HyXuDc8VDCK5UHHnb2UshFQ+2mvVlRZbJ6cpX0fQTmpOLB4Esz1+yKEQNLU1eTmUemBaKxANe08qCypz0e/HxFNUfqxgDzhukQ8Ihv9vJyEfbpWoNhDzqbwN/UXejlWziif5ROl0DB7nAGWc531yCm7VCe0G2uc4oQ++8eRmiOW0BKsiB/DxYOSTF5p7nKWHOe6Zl27DINkgmcqTTpqAJY88bz8ATvo9OStTwgg05aknhklhgJADgJj9eCWIWzJ30+QswrCAMecxoHjhbh1Y/45cLktWG4HmAC1Hh4Nktc1P3ISfsqU36Yxj9g98xXRv0=;ThGkK0MNTe+QajGn2g1ppQ=="
 ---
 
