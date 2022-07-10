@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarshipRobots"
   url: "https://twitter.com/StarshipRobots"
-  followers: 12348
+  followers: 12349
 
 size: 201-500 employees
 yearFounded: 2014
