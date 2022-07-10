@@ -43,20 +43,6 @@ related:
         width: 690
         height: 399
         isCached: true
-  - title: "Smart cars are on the radar: Automatic object recognition and tracking using lidar"
-    excerpt: "Smart cars struggle to make sense of their surroundings accurately for various reasons: they mostly rely on mounted cameras, which have very limited range and perform poorly in less-than-ideal conditions,"
-    publishedDateTime: 2022-07-06T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/958077"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/807c80dc-21c3-4a42-8493-d8e32581f451/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
-        isCached: true
   - title: "Xiaomi’s car real-life picture shows self-driving features – LIDAR sensors on the roof"
     excerpt: "Xiaomi is known to be working on its first car, which will be mass-produced by the first quarter of 2024. It was spotted with lidar sensors."
     publishedDateTime: 2022-07-08T02:26:00Z

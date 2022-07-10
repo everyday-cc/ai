@@ -58,20 +58,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 52
-  - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
-    excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
-    publishedDateTime: 2022-07-05T23:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-drops-emotion-recognition-facial-analysis/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 43
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/07/Artificial-Intelligence-04-1088x725-1.jpg"
-        width: 1088
-        height: 725
-        isCached: true
   - title: "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year"
     excerpt: "The data activation company recognized out of over 3,900 nominations across more than 125 countries SAM RAMON, Calif., July 7, 2022 /PRNewswire/ -- WANdisco, the data activation company"
     publishedDateTime: 2022-07-07T13:04:00Z

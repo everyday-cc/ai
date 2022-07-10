@@ -58,20 +58,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 52
-  - title: "Microsoft Drops Emotion Recognition as Facial Analysis Concerns Grow"
-    excerpt: "Concerns about the misuse of facial recognition technology led to major changes at Microsoft. Can AI bias be fixed?"
-    publishedDateTime: 2022-07-05T23:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-drops-emotion-recognition-facial-analysis/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 43
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/07/Artificial-Intelligence-04-1088x725-1.jpg"
-        width: 1088
-        height: 725
-        isCached: true
   - title: "Introducing Facial Recognition Software for Seals"
     excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
     publishedDateTime: 2022-07-08T12:00:00Z

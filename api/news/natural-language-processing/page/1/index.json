@@ -255,7 +255,7 @@
       "originalUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -497,20 +497,20 @@
     },
     {
       "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
-      "title": "Afghan clerics’ assembly urges recognition of Taliban govt",
-      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government.",
+      "title": "Afghan clerics' assembly urges recognition of Taliban govt",
+      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
-      "originalUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
+      "webUrl": "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/afs-prod/media/eaf39e57ac824969aca25a2894ea5d24/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
+          "url": "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -518,13 +518,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T08:56:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905",
+      "publishedDateTime": "2022-07-02T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

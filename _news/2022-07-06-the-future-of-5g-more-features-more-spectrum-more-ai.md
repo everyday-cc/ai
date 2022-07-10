@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling"
-    excerpt: "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),"
-    publishedDateTime: 2022-07-08T16:53:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling"
-    ampWebUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 53
-    images:
-      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202207/GettyImages-1097225424.jpg?itok=M6ZV1Gxw"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "The future of financial services is AI-powered and experience-led"
     excerpt: "A 2022 financial services research reveals that consumers expect financial services institutions (FSIs) to provide easy, transparent experiences and concern for both their financial health and security."
     publishedDateTime: 2022-07-07T13:10:00Z

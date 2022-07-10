@@ -39,20 +39,6 @@ related:
         width: 2880
         height: 1597
         isCached: true
-  - title: "SwRI scientists demonstrate machine learning tool to efficiently process complex solar data"
-    excerpt: "Big data has become a big challenge for space scientists analyzing vast datasets from increasingly powerful space instrumentation. To address this, a Southwest Research Institute team has developed a machine learning tool to efficiently label large,"
-    publishedDateTime: 2022-07-06T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/958029"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a5429563-9b2a-482e-948d-93e67f0c6073/Rendition/low-res/Content/Public"
-        width: 700
-        height: 388
-        isCached: true
 
 secured: "XK9h4QEkNJ+vOJ8pq5nYLCoicYHQ10OArcDocqihmJn3b1oMvTAS8rnoGbl7W6lBHY910HLlwdQuHnCpMFR4NRSgwCXkeFFmJ+ndMahP9XK0n1Mv8U3GlM4KiFwYkiE7FEEN1B5qeZlUUHX1I2ByCznzfsjHXmKxWBdQ5sX2YsFl++u3V7Y6l+PUPV3+zcYAM2OeNv9YyO/sr+8Jzpz1whuKeSeHxdpdLwdy2jTanhV/m/QB6igMs43qIQcTM4OQwr8ocCZ59NrEwbdi8K6NGzbt4R1ejuJznhq10h6dzAGPz6Y/RfwTq8LvYWzoQHnUFGRL8PKaCP9p+aixLnX+xI0oge2mr7mb6Rqf61GzUd0=;eECcA2D/4saa+zF1f0gEVQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-08T18:02:00Z
 originalUrl: "https://www.digitaljournal.com/pr/jaxon-awarded-phase-ii-sbir-contract-with-u-s-air-force"
 webUrl: "https://www.digitaljournal.com/pr/jaxon-awarded-phase-ii-sbir-contract-with-u-s-air-force"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "p5D1rVs+zjAd8w8KUZ71x8aJv/jA+YLoZBaMR44km0httTxvhXDkChpVikBNEhzu4NoWYk6J456aQQHbmx6gIbp18bxS/5EHEjRrtXu6szYgZFn5WFjrHbx4kaWkxiyoM3HKBJz43Dur956WrQk9oq/s1r7z2d5Iuj2fzCbinok2yy0p2WlI/0S4cYN4UMj6jsfsxPLbpjc2yRYMI07/I2d7DxZQp4mX2jp3nFxaV0BX7KwzdzD5S4npJZ3GP5Hlyq1mM7kaJGTr0asUexCmWW2Iwed36xpUTQ2vZAvV1ah4E4P3tJ4IkL1et6WWKDXnu3YbTjAuT/lUQOOedQeCsseT2fiVBkq5gKe67oahd0E=;cGr2e2pJpvCCPatT1gmN8g=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/1a51c674705a27f6b1319959f0e96971782e475c-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "qVW604h+FbXK8VEZ2DAr8mo0foyXNB9TaQ5h0ysEzB21n1gLhflEXZ58mlARcGsyNsaiZmm3R6DtGrfBwrSrVXElmWgt5PCP/Bh06D+ksXZZ84sraQS/l1mMlt0SxbcySIJSUjLuFcCfqZdqmPPJDzfDiyKNffWUatVULb50L1+0Ex2wLKtkHXMVf8Dkz8VUenrU1y7ejFH+ug4aG3LMql18OEkxKz25hx2JMsqBQ4Rb6KfqfAp93W93CbaW7nNIsgHeKpukfIHNryRhfF1Dc8dnmgyGRnMO9nTwD7QzoG0VxoGA6AVWlR59ieEfjpdH3givliM6EbkW+iT9VtZNdPigkCKWHzSvBLcTjRsfwQ4=;ojAUnkdDYF0coOeQSx9f6g=="
 ---
 

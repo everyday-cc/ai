@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-11-the-best-robot-vacuums-to-help-turn-your-cleaning-time-into-free-time.md",
+      "title": "The Best Robot Vacuums To Help Turn Your Cleaning Time Into Free Time",
+      "excerpt": "Maybe you’ve been a proud robot vacuum owner for years now; maybe you haven’t yet tried out this nifty, time-saving home gadget. Either way, we suggest you check out the newest models on the market: With upgraded capabilities and futuristic features,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/07/10/best-robot-vacuums/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/07/10/best-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cb04e069548b61b0aa5009/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-10-instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models.md",
+      "title": "Instead of AI sentience, focus on the current risks of large language models",
+      "excerpt": "We shouldn't let the discussion around sentient AI become a distraction that keeps us from focusing on the real issues surrounding LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/",
+      "originalUrl": "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/",
+      "publishedDateTime": "2022-07-10T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-10-can-machine-learning-understand-the-human-gut.md",
       "title": "Can Machine Learning Understand the Human Gut?",
       "excerpt": "A new computer model developed helps predict human gut microbes. The making of the model suggests a route toward scaling from the 25 microbe species",
@@ -240,49 +344,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-synthetic-datas-potential-impact-on-the-future-of-artificial-intelligence-modeling.md",
-      "title": "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling",
-      "excerpt": "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
-      "originalUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202207/GettyImages-1097225424.jpg?itok=M6ZV1Gxw",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp",
-      "publishedDateTime": "2022-07-08T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1127,58 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
-      "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
-      "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_cage_to_stage-1.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-07T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

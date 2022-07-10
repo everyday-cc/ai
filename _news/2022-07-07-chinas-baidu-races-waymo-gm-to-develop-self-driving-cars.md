@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Baidu teases progress of its AI and self-driving tech"
-    excerpt: "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's metaverse space Xirang."
-    publishedDateTime: 2022-07-07T08:27:00Z
-    webUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10"
+    excerpt: "Autonomous driving Baidu was one of the tech companies that received permits from Beijing to test-run commercial self-driving robotaxi services in limited districts. Yuan said its autonomous ..."
+    publishedDateTime: 2022-07-07T08:44:00Z
+    webUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10"
     type: article
     provider:
       name: Digi Times

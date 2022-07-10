@@ -9,8 +9,8 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-po
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: EdTech
@@ -27,28 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The future of financial services is AI-powered and experience-led"
-    excerpt: "A 2022 financial services research reveals that consumers expect financial services institutions (FSIs) to provide easy, transparent experiences and concern for both their financial health and security."
-    publishedDateTime: 2022-07-07T13:10:00Z
-    webUrl: "https://www.zdnet.com/article/the-future-of-financial-services/"
+  - title: "Instead of AI sentience, focus on the current risks of large language models"
+    excerpt: "We shouldn't let the discussion around sentient AI become a distraction that keeps us from focusing on the real issues surrounding LLMs."
+    publishedDateTime: 2022-07-10T16:10:00Z
+    webUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/"
+    ampWebUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "The future of 5G: More features, more spectrum, more AI"
-    excerpt: "If you work in telecommunications or a close industry watcher, it may seem that 5G has been dominating discussion for nearly a decade."
-    publishedDateTime: 2022-07-06T13:57:00Z
-    webUrl: "https://www.rcrwireless.com/20220706/5g/the-future-of-5g-more-features-more-spectrum-more-ai"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://i0.wp.com/www.rcrwireless.com/wp-content/uploads/2021/10/featured-image-RCR-wireless-logo-.jpg?fit=1200%2C628&ssl=1"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all"
         width: 1200
-        height: 628
+        height: 599
         isCached: true
 
 secured: "XhtOvtgxMHGt804YrQI5SUmPfQN4Q+emuHRvDq7898FY6Se+67/Rvnru7jDz0KRrGtVwh2s6Rmg6YbusBFDtblzkok5WpWLmog/KiACHLrMapQqh1EmtBcZkzUkeIOqavfygoMVAB/pYEXF6UaVUn7kO6skawuwYUxSPS7+AWHlNXtLCuC+zRiKfS4yEhkQgttoRwYafexR1LusYMUIljsm4QQWnJ/4rDN/uffNoVJDOvbS+kQsA7EnsURdytHEfExwcqRNgJhT5lCAxXlod4gURaXIjRJNnfTFcItr0UrLPMoMYzR6p2AjdtHhjZi6lf80jvePnT17EBg5M4R0kl9AinrqUE84WgG5FQWPugZQ=;vJGHy/57XzG52qW67jl5kw=="

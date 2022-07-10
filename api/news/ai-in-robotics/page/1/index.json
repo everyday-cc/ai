@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-11-the-best-robot-vacuums-to-help-turn-your-cleaning-time-into-free-time.md",
+      "title": "The Best Robot Vacuums To Help Turn Your Cleaning Time Into Free Time",
+      "excerpt": "Maybe you’ve been a proud robot vacuum owner for years now; maybe you haven’t yet tried out this nifty, time-saving home gadget. Either way, we suggest you check out the newest models on the market: With upgraded capabilities and futuristic features,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/07/10/best-robot-vacuums/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/07/10/best-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cb04e069548b61b0aa5009/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday.md",
       "title": "75 indigenously made AI-based defence products to be unveiled on Monday",
       "excerpt": "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d",
@@ -1253,59 +1305,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
-      "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
-      "excerpt": "The Cyber Security in Robotics Marketis slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029-2022-06-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029-2022-06-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
