@@ -326,49 +326,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-05-mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care.md",
-      "title": "Mercy Health using artificial intelligence technology to improve stroke care",
-      "excerpt": "Springfield is partnering with a San Francisco-based company to use artificial intelligence to assist with detection of suspected strokes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/",
-      "originalUrl": "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.springfieldnewssun.com/resizer/H9j7TMIXK7sETRAZ999LvDt7jiA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/JS5S2L2YWZHD3L2K6ZAZHRWJUU.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp",
-      "publishedDateTime": "2022-07-05T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Springfield News-Sun",
-        "domain": "springfieldnewssun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
       "title": "Access Healthcare to hire 18,000 people in 12 months",
       "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
@@ -1328,6 +1285,43 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
+      "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
+      "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
+      "publishedDateTime": "2022-06-23T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How AI Will Change Medicine Forever"
-    excerpt: "An explosion of artificial-intelligence technology could reshape the health-care landscape as we know it."
-    publishedDateTime: 2022-07-05T15:00:00Z
-    webUrl: "https://www.discovermagazine.com/health/how-ai-will-change-medicine-forever"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/1JGJQPc2VFH2R1cwzTtRKZ/621168c93019634abd7e66fdf7f913b9/DSC-OP0722_ART_FLAT.jpg"
-        width: 3947
-        height: 3287
-        isCached: true
   - title: "How Artificial Intelligence helps fight climate change"
     excerpt: "A new report by an international body into Ecological Footprint Initiative, Planet Alliance in collaboration with Boston Consulting Group (BCG) and BCG GAMMA, on artificial intelligence, AI, has revealed that it can help address issues of climate change."
     publishedDateTime: 2022-07-08T07:52:00Z

@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "e& to transform UAE’s fintech space with new financial super app"
-    excerpt: "As the first wallet licenced by the Central Bank in the UAE, e& money will aim to enable new growth opportunities for the telecom and financial services sectors. Through the rebra"
-    publishedDateTime: 2022-07-05T13:44:00Z
-    webUrl: "https://www.itp.net/business/e-to-transform-uaes-fintech-space-with-new-financial-super-app"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 4
   - title: "How fintech can boost access for the older generation"
     excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
     publishedDateTime: 2022-07-08T12:47:00Z

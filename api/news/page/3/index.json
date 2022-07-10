@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-06-ibm-acquires-databand-to-bolster-its-data-observability-stack.md",
+      "title": "IBM acquires Databand to bolster its data observability stack",
+      "excerpt": "IBM has acquired Databand, a provider of data observability products, to build on its existing product offerings in the category.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
+      "originalUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1091444622.jpg?w=1024",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/",
+      "publishedDateTime": "2022-07-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-want-strong-physical-security-dont-forget-about-cybersecurity.md",
       "title": "Want Strong Physical Security? Don’t Forget About Cybersecurity",
       "excerpt": "Neither physical security nor cybersecurity are new concepts, but as technology has evolved, the two regularly find themselves working hand in hand.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -463,49 +515,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care.md",
-      "title": "Mercy Health using artificial intelligence technology to improve stroke care",
-      "excerpt": "Springfield is partnering with a San Francisco-based company to use artificial intelligence to assist with detection of suspected strokes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/",
-      "originalUrl": "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.springfieldnewssun.com/resizer/H9j7TMIXK7sETRAZ999LvDt7jiA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/JS5S2L2YWZHD3L2K6ZAZHRWJUU.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp",
-      "publishedDateTime": "2022-07-05T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Springfield News-Sun",
-        "domain": "springfieldnewssun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

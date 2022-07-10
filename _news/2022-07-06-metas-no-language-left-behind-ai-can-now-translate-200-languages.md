@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/"
 type: article
 quality: 108
-heat: 378
+heat: 388
 published: true
 
 provider:
@@ -417,6 +417,15 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 36
+  - title: "Meta’s machine breaks language barriers"
+    excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
+    publishedDateTime: 2022-07-10T07:00:00Z
+    webUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
+    type: article
+    provider:
+      name: independent.co.ug
+      domain: independent.co.ug
+    quality: 4
 
 secured: "9i489VXBZ1WcZbEjwIl+JRHZJbFUXk+xaQAmi1T8O7Xa5lBsakGcTZP70TKvrpJGhZEPABPQxemc+glr9qr3x7nTTKxuaXEJT0YGdxZJmtldciQvT/urjg74+9xJdiH79UolAe6mPW3r9PpW7lsv98D7ZYJpxw0iU7i7psG5A1MkEVusQy1d2wq/kobt+KUBGW2eUwTgELNAkprctPOCW7Jv70bOgFJHuIVgF4LrqXyQxUjzLNqtAysCfFUR3q2Jy0wmVZqGSJAHBY+b6n1hyoeppP+FPQctq4kUQ13pD2RM/U7psj0lQVzFZ3t6pghNnqBkuPh1Ul8kG7yHrXQOOvV7h37JAaEPqUhpKWkndgxYdNmK5b8ILE5qJhSLCL4dyOjodxL7vR3pwdtdgoaWtbIysedwzTd2QxCfgECo5Dl3X+PsaOwc7SoCLsmxUevVngMfvoc9Uo8DQR2LmwH3o5i7FpgAVH4WIwLXeAvkpey2qOHsI6AeWMOTbdAOBvBgpbMTuyeIyfN+kxKr6fpOrw==;2ZDO/0fOJWG8uBIZJpaEPw=="
 ---

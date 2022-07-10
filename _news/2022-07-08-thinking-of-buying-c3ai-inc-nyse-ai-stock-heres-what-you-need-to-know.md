@@ -52,15 +52,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why Has C3.ai Inc.’s (NYSE: AI) Share Price Dropped So Much?"
-    excerpt: "C3.ai Inc. (NYSE:AI) price closed higher on Friday, July 01, jumping 4.87% above its previous close. >> 5 Best Growth Stocks for 2022 << >> 5 Best Growth Stocks for 2022 << A look at the daily price movement shows that the last close reads $18."
-    publishedDateTime: 2022-07-05T13:05:00Z
-    webUrl: "https://stocksregister.com/2022/07/05/why-has-c3-ai-inc-s-nyse-ai-share-price-dropped-so-much/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 17
   - title: "C3.ai, Inc. (NYSE:AI) Given Consensus Rating of “Hold” by Brokerages"
     excerpt: "Shares of C3.ai, Inc. (NYSE:AI – Get Rating) have been given an average recommendation of “Hold” by the eleven brokerages that are currently covering the firm, MarketBeat Ratings reports. Three equities research analysts have rated the stock with a sell recommendation,"
     publishedDateTime: 2022-07-08T06:26:00Z

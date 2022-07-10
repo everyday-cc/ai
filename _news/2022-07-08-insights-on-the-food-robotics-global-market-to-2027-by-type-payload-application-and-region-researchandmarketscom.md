@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Education Market Size Worth $32.27 Billion By 2030: Grand View Research, Inc."
-    excerpt: "The global AI in education market size is expected to reach USD 32.27 billion by 2030, according to a new report by Grand View Research, Inc. The"
-    publishedDateTime: 2022-07-05T13:16:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56476515-ai-in-education-market-size-worth-dollar-32-27-billion-by-2030-grand-view-research-inc-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 28
   - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
     excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
     publishedDateTime: 2022-07-08T15:00:00Z

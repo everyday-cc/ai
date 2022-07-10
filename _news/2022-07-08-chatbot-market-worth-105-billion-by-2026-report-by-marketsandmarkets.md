@@ -33,15 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI In Education Market Size Worth $32.27 Billion By 2030: Grand View Research, Inc."
-    excerpt: "The global AI in education market size is expected to reach USD 32.27 billion by 2030, according to a new report by Grand View Research, Inc. The"
-    publishedDateTime: 2022-07-05T13:16:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56476515-ai-in-education-market-size-worth-dollar-32-27-billion-by-2030-grand-view-research-inc-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 28
   - title: "The Worldwide Self-checkout Systems Industry is Expected to Reach $10.5 Billion by 2030 - ResearchAndMarkets.com"
     excerpt: "The global self-checkout systems market size is expected to reach USD 10.50 billion by 2030. It is expected to expand at a CAGR of 13.3% from 2022 to 2030. Gilbarco Inc. Increased demand for automation and technology advancements focused on reducing theft incidences are significant factors driving the market."
     publishedDateTime: 2022-07-07T13:56:00Z

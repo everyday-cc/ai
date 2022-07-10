@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Habana overtakes Nvidia in latest MLPerf results"
-    excerpt: "Despite having had just a handful of days to submit its results since the official launch, Habana’s Gaudi2 has beaten Nvidia’s A100."
-    publishedDateTime: 2022-07-05T13:18:00Z
-    webUrl: "https://venturebeat.com/2022/07/05/intel-habana-overtakes-nvidia-in-latest-mlperf-results/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "The newest MLPerf results show Intel Habana edging up Nvidia"
     excerpt: "MLPerf has become the industry standard for comparing AI accelerators, and Intel’s Habana has beaten Nvidia in the latest findings. In spite of the fact that Nvidia’s next-generation GPU has already been unveiled,"
     publishedDateTime: 2022-07-06T03:43:00Z

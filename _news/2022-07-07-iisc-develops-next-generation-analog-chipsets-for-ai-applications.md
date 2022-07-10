@@ -19,100 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Designing next generation analog chipsets for AI applications"
-    excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices."
-    publishedDateTime: 2022-07-05T14:02:00Z
-    webUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html"
-    ampWebUrl: "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp"
+  - title: "Vodafone builds on its Google Cloud relationship with AI Booster"
+    excerpt: "Vodafone is doing a lot of application development on Google Cloud Platform (GCP)The focus with GCP is data analytics and the automation of software developer"
+    publishedDateTime: 2022-07-06T15:24:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg"
-        width: 1000
-        height: 773
+      - url: "https://assets.telecomtv.com/assets/telecomtv/vodafone-14356.jpeg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "IISc researchers develop design framework for next gen analog chipsets for AI applications"
-    excerpt: "This type of chipset is especially helpful for Artificial Intelligence (AI)-based applications like object or speech recognition like Alexa or Siri or those that require massive parallel computing operations at high speeds,"
-    publishedDateTime: 2022-07-05T13:08:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/articleshow/92680803.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/iisc-researchers-develop-design-framework-for-next-gen-analog-chipsets-for-ai-applications/amp_articleshow/92680803.cms"
+  - title: "Google Cloud and Vodafone announce AI Booster to energise next generation development"
+    excerpt: "The integrated platform offers vast research and deployment opportunities for machine learning and artificial intelligence"
+    publishedDateTime: 2022-07-06T07:00:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/368441/google-cloud-and-vodafone-announce-ai-booster-to-energise-next-generation-development"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1569289,msid-92680834/2-aryabhatchiptestenv.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Creating an AI Implementation Strategy"
-    excerpt: "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly."
-    publishedDateTime: 2022-07-07T16:35:00Z
-    webUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy"
-    ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "IISc researchers develop design framework for next-gen analog chipsets to make AI applications fast"
-    excerpt: "Next- generation analog computing chipsets for artificial intelligence (AI) applications, could become a whole lot faster and consume less power, thanks to a design framework developed by researchers at the Indian Institute of Science (IISc)."
-    publishedDateTime: 2022-07-06T05:28:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976188"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: IT Pro
+      domain: itpro.co.uk
     quality: 40
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sq_bhargavi_jan23.jpg"
-        width: 280
-        height: 250
-        isCached: true
-  - title: "Iisc Researchers Develop Design Framework For Next-Gen Analog Chipsets To Make AI Applications Faster"
-    excerpt: "Next- generation analog computing chipsets for artificial intelligence (AI) applications, could become a whole lot faste"
-    publishedDateTime: 2022-07-06T04:33:00Z
-    webUrl: "https://menafn.com/1104484172/Iisc-Researchers-Develop-Design-Framework-For-Next-Gen-Analog-Chipsets-To-Make-AI-Applications-Faster"
+  - title: "Vodafone and Google’s new mega AI is the best of big tech and telco collaboration"
+    excerpt: "AI Booster can handle thousands of machine learning tasks a day and will ‘have a considerable impact on people’s roles, learning, and ways of working’ at UK operator Vodafone."
+    publishedDateTime: 2022-07-06T12:44:00Z
+    webUrl: "https://telecoms.com/516280/vodafone-and-googles-new-mega-ai-is-the-best-of-big-tech-and-telco-collaboration/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?918830"
-        width: 500
-        height: 250
-        isCached: true
-  - title: "Reforming Prior Authorization with AI and Machine Learning"
-    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: Telecoms
+      domain: telecoms.com
     quality: 34
-  - title: "Self Learning Neuromorphic Chip Market Size, Share and Demand Forecast by 2028 : Next Generation of AI and ML in Neuromorphic Computing Technology"
-    excerpt: "A self-learning neuromorphic chip that aims to make machines think and learn more like humans.North America region is dominating the global self-learning neuromorphic chip market with the largest market revenue."
-    publishedDateTime: 2022-07-07T19:20:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-7-self-learning-neuromorphic-chip-market-size-share-and-demand-forecast-by-2028-next-generation-of-ai-and-ml-in-neuromorphic-computing-technology"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 15
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/12/iStock-1298763661.jpg"
+        width: 1365
+        height: 768
+        isCached: true
 
 secured: "IODu5XtVVHRuNS7TaPZ/+F5cW9YvoywcLzVcKrv6bwkt0LCCPB42VhuTWOb5aP6KyZ8ojE2w+92H8n1GWu80a5GbYFdCfn4iNqOYxTSnYhsb24HEVS/lLLw50tAqX1qtnhIUz2A8W7oi7hgCtJzOVYjCxSRTIBAlAXxRkq93YUe85tzcpKir55fTLV84hStHCtZOfH6ixaycRvxBYxhp56Y+RBfECiWDa1EA26s6K9Jc0o4Z/WGzeDlOsFf7cFDbnUmkIsyRatDyraVcYdDbASJTKi96QrR8j1itKpSv3RMNF/quKiV29sFXpXIKtIzXI4G8uPMr3jbohQST6E9l6Fi/fW67tPkDQ01IGlsqWsHhbLRSbMFC1XOdDMKtmW8UE2ZM4OrcWqDwHK12zvfbi6+Lesp6MlONDeO0zY0mczqm9/zh/e7dRu7OvbNEqs5NHdCClI7Zoru9u7uVG3aWb2TlF1oFxSb+KY8MDLgEabfiU9SQsGz5q3xx6S3jLSPvmwb/THQikMn4Lv9zlnqj0A==;AYmJYc4Kn92sUugaAMPEVQ=="
 ---

@@ -55,17 +55,17 @@ related:
         isCached: true
   - title: "AI will help referees make offside calls at 2022 FIFA World Cup"
     excerpt: "FIFA will introduce new technology to improve offside calls at the World Cup in Qatar this year, using a limb-tracking camera system. FIFA said Friday it is ready to launch semi-automated offside technology (SAOT) that uses multiple cameras to track player movements plus a sensor in the ball — and will quickly show 3D images on stadium screens at the tournament to help fans understand the referee’s call."
-    publishedDateTime: 2022-07-10T02:27:00Z
-    webUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
-    ampWebUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+    publishedDateTime: 2022-07-10T02:35:00Z
+    webUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
+    ampWebUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+    cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
     type: article
     provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
+      name: FOX 29
+      domain: fox29.com
     quality: 57
     images:
-      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

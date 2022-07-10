@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ifsecglobal.com/control-rooms/global-control-room-market
 cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Self Learning Neuromorphic Chip Market Size, Share and Demand Forecast by 2028 : Next Generation of AI and ML in Neuromorphic Computing Technology"
+    excerpt: "A self-learning neuromorphic chip that aims to make machines think and learn more like humans.North America region is dominating the global self-learning neuromorphic chip market with the largest market revenue."
+    publishedDateTime: 2022-07-07T19:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-7-self-learning-neuromorphic-chip-market-size-share-and-demand-forecast-by-2028-next-generation-of-ai-and-ml-in-neuromorphic-computing-technology"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 15
   - title: "Insights on the Telepresence Robot Global Market - Rising Trend of Digitalization is Driving Growth"
     excerpt: "The \"Global Telepresence Robot Market - Forecasts from 2022 to 2027\" report has been added to ResearchAndMarkets.com's offering. Telepresence robots are self-contained autonomous robots with a smartphone or motorized desktop stands connected to a display or camera and may be controlled remotely."
     publishedDateTime: 2022-07-07T16:11:00Z

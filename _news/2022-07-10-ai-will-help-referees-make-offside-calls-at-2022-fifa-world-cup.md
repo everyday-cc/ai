@@ -2,25 +2,25 @@
 category: news
 title: "AI will help referees make offside calls at 2022 FIFA World Cup"
 excerpt: "FIFA will introduce new technology to improve offside calls at the World Cup in Qatar this year, using a limb-tracking camera system. FIFA said Friday it is ready to launch semi-automated offside technology (SAOT) that uses multiple cameras to track player movements plus a sensor in the ball — and will quickly show 3D images on stadium screens at the tournament to help fans understand the referee’s call."
-publishedDateTime: 2022-07-10T02:27:00Z
-originalUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
-webUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
-ampWebUrl: "https://www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
-cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+publishedDateTime: 2022-07-10T02:35:00Z
+originalUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
+webUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
+ampWebUrl: "https://www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
+cdnAmpWebUrl: "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls.amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: FOX 7 Austin KTBC
-  domain: fox7austin.com
+  name: FOX 29
+  domain: fox29.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2022/07/932/470/c0f92e7e-GettyImages-1388413292.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -84,6 +84,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "oE87y/+gjYRqQm0vt4YbusZWdD3GMi8fh+Xh9GisycYhwLK2vR+5GU+uifOcrQf+qSCjx1V4FiCeg6nluRz+ZRimMtAhgrT2P7dEUf10WYGJ39fQg6mbSQXxVniipbHKkMVu2h5xAsQoyBFB5itvl7iVAAnwK0Kq/UuqCaaxJm0YMDjLjiryNOEukVgtohxeFLjwiO4mZvfGBDCBBy7tQhjgrqOLF2eg1EiayDsrFCsjiA6JoC1BTNxvmJn1DgDns4UBQk87BScbR6cF+9yEu1Cw/ypsBiuLfhyRbP8DvgvOVpW2kz6HF4VlqDBBcdmMvLcegwXmHWTRQ4zQ4OA/Goyrb0MXFM3SIBlSH9PjO22PEP55AXtcNgkP8YmnKvnB0DeOvbwdQqUww3zZsWbOh9aTzYih8voqmlPckLNwG/B9z/LwShS3zShj5U4Fd5bYvFZZGEn5jmUKTQFpTgZ6nLmKkgY66F3fL6CboukEn6+feYZnlC6SQqGgPI+AYvx39eadgc9KVNLvZh9FYyGE9w==;+i6STcpVIoCif/cdAaWJhQ=="
+secured: "1L+WP2EJ3dL5IvA7DWY1iJ7y9VYF4bU4OvajQgd+lEHXXmtO13r+lkYweUv1tlN3j0o0b+s5AwNGhrFr0c+9os/bBe4VdnGNc5AUaAe/iP1qscrPqviB0PCHKiIZB5gUybVzpkoT2LjFkkuXaX38a01sfa/8UkPykEcU+nli+FJihebjpubbwmwwoO4Yo5UILru4KMW1CRNs0a0RhOquid7qI89eX2kmd23XoD5DGGSR9WEV9EXy1QRLunH6XUQIKfb1cuH5XhV1zr90l2Np5S9vvZ1Nbmzbbj420BVRYmw132NP/I1gsjCSvjQRdOgqOKTPACcM4DJfftGHiWZrSj4KBUrPSIJ/tZpw0COzpc8=;vaQRME7g937L7PWKN1Q05Q=="
 ---
 

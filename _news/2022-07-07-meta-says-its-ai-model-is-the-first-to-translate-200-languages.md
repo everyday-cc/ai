@@ -411,6 +411,15 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
+  - title: "Meta’s machine breaks language barriers"
+    excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
+    publishedDateTime: 2022-07-10T07:00:00Z
+    webUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
+    type: article
+    provider:
+      name: independent.co.ug
+      domain: independent.co.ug
+    quality: 4
 
 secured: "/kBksileoLUQhMXvZpqicnhpi0b4iYjVa7RROEguws2m7fDzDY7miFoRaXW7k04Upoz4UnX/fHAN+aqN+GmwOKskKM6yXX3otTilxeVD6AkgsSJWkQ7QSzF3ofDtgdifyrdaNlCyQqiNTg0vlCh6/svh3jY3EerFE/XsScLegW2VPKZeZs8zLXIiYS++AOsLD4gTt4Yu3dZLnMXFIqRRxaFTbSgK8RPqnUFLJfCVTVJ3+MoenS/j/vUsL605b09jvXd15t4BSbgRzv1kF8hV/NPtGkEUr9T8DibACgssSYUrcXMUG60P6vR5I5ZOZlfJZPJjx9+r/t9sghOezfIjR1bHuTPZt/csA0x0Ej6VtNfSB5cFN1wm9hE1zMtCE0u27RAP5LfJODOHENoVINfghS2io8qPaW7IN3H5UKDYo8UNUqqqduOHHY4Ym/d3wS9ruDtMi1epZWASJMy0ecQzvAz68upajpypzElbVM6+fwUfbnpROBSuqsIsxoR4D/+j+SnUWtLe7oLMclzI8SWlng==;Gr2vNjdEcvyvP0zzMSWtCw=="
 ---

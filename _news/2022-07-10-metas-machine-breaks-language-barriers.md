@@ -1,23 +1,21 @@
 ---
 category: news
-title: "Meta’s AI Model Translates 200 Languages"
-excerpt: "Meta (parent company of Facebook and Instagram) posted news titled: “New AI Model Translates 200 Languages, Making Technology Accessible to More People”."
-publishedDateTime: 2022-07-07T07:10:00Z
-originalUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/"
-webUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/"
-ampWebUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
-cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+title: "Meta’s machine breaks language barriers"
+excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
+publishedDateTime: 2022-07-10T07:00:00Z
+originalUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
+webUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
 type: article
-quality: 39
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Geek News Central
-  domain: geeknewscentral.com
+  name: independent.co.ug
+  domain: independent.co.ug
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
 related:
@@ -401,6 +399,17 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Meta’s AI Model Translates 200 Languages"
+    excerpt: "Meta (parent company of Facebook and Instagram) posted news titled: “New AI Model Translates 200 Languages, Making Technology Accessible to More People”."
+    publishedDateTime: 2022-07-07T07:10:00Z
+    webUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/"
+    ampWebUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 39
   - title: "Meta says its AI model is the first to translate 200 languages"
     excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
     publishedDateTime: 2022-07-07T11:48:00Z
@@ -410,16 +419,7 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 36
-  - title: "Meta’s machine breaks language barriers"
-    excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
-    publishedDateTime: 2022-07-10T07:00:00Z
-    webUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
-    type: article
-    provider:
-      name: independent.co.ug
-      domain: independent.co.ug
-    quality: 4
 
-secured: "/QceRl0qGnqLgWtrF53NDQw2soBX463pgV9PfjslggzgKJ4XBCL171Pav5QaIR78UKh9nbd7b9UP4veUW0O826OFTZ7T2LDv5XpYu3AT3OfoIIOrDlOCNBtSESBDndwKpwrikvqCa0rvsKcod0bWqidfZlGjB0+Oyt984vQFqzQYeCGy3+a8xgog3qAlTv7jShfPQ7U8Xi1CeKefuJ9nFKwnP3yuArL92/dN3VBDv4K94ZE/Fi9YGPkysxTtkdaITpXAEaGT+l/f0qUDugP4yqFDuvu4sGX1XlFUVnMOL5hd8MimxI/6Skhyo6cSbsAgoA9g9HrsEzzATV2vto5QXShPw4AdVl8rejwzitq0Rmw=;0vvyQx8571o8HA82S+RIzA=="
+secured: "bysCQKZ/8PhkjM+OWkt4NEdGkZQRhHDcCY7QG2Uhhe9oHJR+M6VtjMfTX7iq/To63GjVfKcCcGb3g+5hgP3GVMXU8AuiUPMnz78yXu0nnPLvI+6OXZx/FmYOBQPrNH351IqSyNsNggp/SniQvLwkRm5k74mL1Dp1jExgB+ij4922tpMkJbr8fIuMx0kbP+UV+jnbfKGRJafksu9NeJr0pELafi2v61OE9Oea9OowuOpkXmBFTwqb9lwjKFspzd724YYSW2MGoUNT1+8WAesSUBwbv6lSwkYx/BJx9a9OI3hwtFkAyQzgNn8R0lK0JL/83JGUBbYKoozKg9TMgbU9cavxNnLi6gNjxf7R+TiV20g=;3QuvWijKI6Y1G3M8VYCEDg=="
 ---
 

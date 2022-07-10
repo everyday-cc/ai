@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force"
-excerpt: "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ..."
-publishedDateTime: 2022-07-08T18:02:00Z
-originalUrl: "https://www.digitaljournal.com/pr/jaxon-awarded-phase-ii-sbir-contract-with-u-s-air-force"
-webUrl: "https://www.digitaljournal.com/pr/jaxon-awarded-phase-ii-sbir-contract-with-u-s-air-force"
+excerpt: "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF)."
+publishedDateTime: 2022-07-08T18:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de"
+webUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/8477fbb97dc08bfcab45f791a5eba6fbe20a5162-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "e04xQmXZugJs7zZkS1EHeh5ZhRpZlZk55t591fkda3aGbQOIKp0McPt6illFK2g1KpGkzeWil8eptntvePPnnuaFKO+ZoDpq3uuqxyT299NA34XjLI6Wyoy6guRj8MqikoKsAGkDh7wMW27AQOZxMzkbIVDPS7qmxvMVjddD0bUoPunLdBtBZzBxASf96VHh8Kgo9yTZozgqUWIxvEcYaBxBk5YokouQk+J9uDGdJCB2fa1ZCt32EplwgoB21dwcJXZdeGzldqSKsw+DoNxlNGsAnrZl8zsK11aNcNKOZB/uIrz3f03/Sx2ifnR+D+g71YxVMnMCp9vNdUui2oyHRupP87JOpUPHUMyAnQSiWFY=;gVtv9UBPD+JIyq8BnJkoBw=="
+secured: "HqYMQKimdszIJxLGdyw9GYLhuwxib5SVVrIWQuSStMWOD8d0OdzCUy3e7kcmilPIjRkN4yaNTSI//CKJfoeckZDAacXPqS+3ShzbQJJw4tyUeH8UhvQCFyOMQPctkN29q3xuFlNB8Yq25GaiotuGttplUkp/xMptJTqpxxH7JGMAwfRFvGOdSfRzpc2AOnmu0Ej4AlYav20AHgnydFqMJB2XXdHUr+Nr35+A04TjfVqnPWhRW3R/+/xMFkcnn1XGgnWiqP/JNu6QT2+FlPdzJ6FTE6Hl81AZLCmDa8OLkDNOkDOiKmQyhGcl4kIWEg4EMgAEDTTDoFHGTkrOsRTWBFuAW4L8JmI1RWrD8nyZ36U=;GfmggevMgrtLiWuyZuVyLg=="
 ---
 

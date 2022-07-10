@@ -412,6 +412,15 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 36
+  - title: "Meta’s machine breaks language barriers"
+    excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
+    publishedDateTime: 2022-07-10T07:00:00Z
+    webUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
+    type: article
+    provider:
+      name: independent.co.ug
+      domain: independent.co.ug
+    quality: 4
 
 secured: "FWiZBUsosoWPs/iPcPjjtPnwCT2FclP1CZK9aS75E7JZlf2IXYutD1VPUJ/KsMbFiNMmGf4K/UmGAeWqw6hBXehOXJ/xmOMRG7JBP02dugFfgVp2k8o5nrEVjS8dPA+KjD94HzXWoD7+qCvuGKRRCr6IgVBppIgxI1Mz3cVY5vshBwZI7xLTx+8Vh9m3fKyB4dRXKMn2jwhbFKKvPMWPB0c4JiWleAaeXGsfXdgHclFVVSq6VxGrZjLvHSZTaLzqhyYN/nEUkYmmIuqczMdVWnlDyp44p5Zi/TE95J0Je5sma/mAmjS8jH+QM10CfBUbDS06LU3hCK819bUOhSwzXZIKDH2qX1dHuf2mbIkrJkqyQlxIYlHi9EysWwsRiBlZXrF2XguhBasEWJFSdaz6gBDzTEzVbHvgeiSAwoCutOd6TV33MsO01bgxLjMEQiG6PwvKU8lvPsZ+E81OjZVV3VIz1Qpv4ZBvcXIT5TFtlfONdOS6OfwZuoBqBF49xiOT8rKN3vWR+tWPxc7gPEgslg==;WomhoYJDlyzV7U+3DB78KA=="
 ---

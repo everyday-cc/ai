@@ -254,13 +254,22 @@
       "title": "Widely Used AI Model Makes Robots Racist and Sexist",
       "excerpt": "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
+      "webUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363042/widely-used-ai-model-makes-robots-racist-and-sexist-363042-640x360.jpg?cb=20220627",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

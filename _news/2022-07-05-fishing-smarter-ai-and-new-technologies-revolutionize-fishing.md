@@ -23,17 +23,6 @@ images:
     height: 946
     isCached: true
 
-related:
-  - title: "How AI Helps Procurement Work Better, Smarter and Faster"
-    excerpt: "As artificial intelligence continues to advance and make its way into more applications, here are some of the positive impacts that it’s having on procurement."
-    publishedDateTime: 2022-07-05T13:40:00Z
-    webUrl: "https://www.sourcetoday.com/market-insights/article/21245830/how-ai-helps-procurement-work-better-smarter-and-faster"
-    type: article
-    provider:
-      name: sourcetoday
-      domain: sourcetoday.com
-    quality: 17
-
 secured: "rhfag3T5cKBXzO62sYqLTH5WELm17RUmz1U6Ng1PnxKI2HBbIcmfCGu4xNhQ+oIL+tDOdWMeiL0Wfks1c2b1bSn72zFHaY3cuzr0g7CbsbGzsl2BKzelev44i4aItcfpOSg291Wb4IlH841oy2xZ2S7HRERWtKmkm0cf2QfSBOLFwK14LI2Yqkd2jTsMBFfzGvxeelebYlWFEXFWjO54TMnEn+HJQxEUaPDq/rnfohtEiTK6grDSRICq7h6e3Hu1vkhX01yC5rTSxhmjuPGf6ya+Tndpumq49PWZnv0vllzamkBZItmnJGy/g7wGFQhsseOLSI1XYJNYT3R5ryVy7hZhZdCihNqu+Qb7OT8dS7s=;4WsIg/Ox6dbtuaanl9XBEA=="
 ---
 

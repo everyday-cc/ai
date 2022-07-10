@@ -9,8 +9,8 @@ ampWebUrl: "https://www.springfieldnewssun.com/news/mercy-health-using-artificia
 cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Springfield News-Sun
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nation emerging as global pioneer in AI technology"
-    excerpt: "China is emerging as a pioneer in artificial intelligence as it makes strides in filing AI patents and experimenting with the latest AI technology to power industrial applications, industry experts said."
-    publishedDateTime: 2022-07-06T02:00:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202207/06/WS62c4ecb0a310fd2b29e6aab7.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202207/06/62c4ecb0a310fd2bec9468f0.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Using artificial intelligence to improve crop performance"
     excerpt: "Research conducted by The Ohio State University is using AI to detect crop stressors and the long-term goal is to help farmers boost their profitability. In this Voice of Soy, Dr. Scott Shearer from the Department of Food,"
     publishedDateTime: 2022-07-06T17:57:00Z

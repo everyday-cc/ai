@@ -24,31 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Mercy Health using artificial intelligence technology to improve stroke care"
-    excerpt: "Springfield is partnering with a San Francisco-based company to use artificial intelligence to assist with detection of suspected strokes."
-    publishedDateTime: 2022-07-05T15:50:00Z
-    webUrl: "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/"
-    ampWebUrl: "https://www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-springfieldnewssun-com.cdn.ampproject.org/c/s/www.springfieldnewssun.com/news/mercy-health-using-artificial-intelligence-technology-to-improve-stroke-care/MJ7QR2VIPVGTRNEXJD2VJ54XBM/?outputType=amp"
+  - title: "Creating an AI Implementation Strategy"
+    excerpt: "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly."
+    publishedDateTime: 2022-07-07T16:35:00Z
+    webUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy"
+    ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
     type: article
     provider:
-      name: Springfield News-Sun
-      domain: springfieldnewssun.com
-    quality: 56
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://www.springfieldnewssun.com/resizer/H9j7TMIXK7sETRAZ999LvDt7jiA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/JS5S2L2YWZHD3L2K6ZAZHRWJUU.png"
-        width: 1200
-        height: 630
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Using artificial intelligence to improve crop performance"
-    excerpt: "Research conducted by The Ohio State University is using AI to detect crop stressors and the long-term goal is to help farmers boost their profitability. In this Voice of Soy, Dr. Scott Shearer from the Department of Food,"
-    publishedDateTime: 2022-07-06T17:57:00Z
-    webUrl: "https://brownfieldagnews.com/managing-for_profit/using-artificial-intelligence-to-improve-crop-performance/"
+  - title: "Reforming Prior Authorization with AI and Machine Learning"
+    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
     type: article
     provider:
-      name: Brownfield Ag News
-      domain: brownfieldagnews.com
-    quality: 19
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
+  - title: "Astronauts on Space Station Explore Artificial Intelligence and Human Nervous System"
+    excerpt: "On Tuesday, July 5, space physics and human studies dominated the science agenda aboard the International Space Station. The Expedition 67 crew also reconfigured a US airlock and put a new 3D printer through its paces."
+    publishedDateTime: 2022-07-06T05:51:00Z
+    webUrl: "https://scitechdaily.com/astronauts-on-space-station-explore-artificial-intelligence-and-human-nervous-system/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Cygnus-Space-Freighter-Canadarm2-Robotic-Arm-scaled.jpg"
+        width: 2560
+        height: 1438
+        isCached: true
 
 secured: "XyIGZDuMB7v7j8r6jos9NJtVO3u3dlqmlx38WVfYv2ZHpHAImuqdIBfq4EDESauteUiKlEo9uTxTqrlc5F17mo9wMwQkxct9vFM+QkRsHTUjcdpbRDdaXeDxI1DiIrYpyXoc7jWWL5O3l+SOd4hK60jSLeODX20mgH3hFYUCyfAkmaV0xt22BW25f1P6+aphl/82tbdVarcmyrYKWQ1xoKCMHHc+kACXo9/7zvn0BkbRVChVE7iQc3EdlcwUt9ZgqY00ca9Tj6A8CjE9HFjNKy5MA4F+bHjy2BE8BXv84PQ+Mhzwozy1j/BIDK4F2hpIvELFYhHF11bGtL6WoaPTm/F8Q4EnDQBPoQU5A88fmnrkpixKLsUZPdNJ+O/5ajPNC5VP+ipHEz2y3VwZhHm3EHSANLTXnQFeAcvlYBdFdoxooL9lVy3N1tTE6FBGXVUnq8WiKh8BchJiamjJBZmNrTEcC8XPvjfCeB6DqIw+Jji0yUFXYHhVu2FXLb7EQziyF2sEv4xhOLhi0H0oUlPmVQ==;lM23EF1jsuK5AiwMNsEOKw=="
 ---
