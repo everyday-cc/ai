@@ -2,7 +2,7 @@
 name: "Collective[i]"
 overview: "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue."
 type: "profile"
-heat: 42
+heat: 71
 
 website: https://www.collectivei.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Collective[i]"
 
-secured: "2UMoVL6Sa+4vc+iPN1UKqOG5ci+pCBqLQDG/nMJ9fTkBo4pwiwPY0AAgJVpPWFuAgDNFBrw+s8vq3GJ+SIOqTpuFLjO4dcuww38RGVZJ7OHF3Asbzifn8d2iYvwAug1YflylgwhMz9ZFQEZc2XBP9t56+NSuxpiEhHmhLi9LXhsNKBhi2F7edIGm9eT8c3vK0/cvbUtWRqFU/TuATfSIIr+mIf0jThVXMVFAhjJciJhtJQYxbfv6NNv4587aWQaFtmxZpULoyp39DsbdpSuQUNZkS/8vqRY+gcaQtb4GtnNSMPKKFBYYcrPfT+9e5ycDCQa7mpVuHEJEVlU2nsZqf7dYfKn36/WBmYan8PhsPLz3TqiqvqgWJYzoDDWhY0pAcmZno+9Xt3NWnRvZiO3yCzX5VzeB0nQdc1eiJWeh45o=;hpuyLaWLn9gRmhUmbEyF4A=="
+secured: "Piu+DufiRU8KOKhCHEhvb+olz32MgBiMTraZolg3LRGKOvDrFHfe8KSif+29pgozfe7PuHcLD9e45R2oM/1X+UKyvtQdEirVsgFDVoo+9DtXEpM3unGfB7aeAaFSLXb8OQ6W8gu+wgrtB+nCLpv5llHPoU0z8i4RHiGZ8p2bF7af7x91BDqtxTMbZoIVGReSagbU7wrNSm9IgDh1tuMg9LPXmk7FgOG+LIuUKSkMT1oeEJmFA+saSLOoa/iDr9gOqV5sgxDXPRdzCbMpCmkKhgGubXT45Ec7t4ThIxLriYzJVS3XitKR7SW0BW0ty+yg/5C9XXe/R2s2ZXcwjB+EeHVuktQjLtQAQnXkRH7BGaELCAxz+x6BX7Cw3OWTbw7sdMnunHUgkO6KrfmqoGNX5X3XUc5ymUX6WlA10D8QRko=;muPDjsvstY0LDtDo6jBOdA=="
 ---
 

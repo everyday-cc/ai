@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pymetrics"
   url: "https://twitter.com/pymetrics"
-  followers: 3532
+  followers: 3533
 
 size: 51-200 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "VLavVnC4sibpDHxTvYVUAIQg4wkqiZvMEkqADwOVtfBu4HCi1+jW/EAB6cBMWRgt+RxWKsVfBxBXF5pW/ZqEqHRC12aftAqjlt7JSun6idMfmWOUw5vJCMi898lR+vRiqFe5y/F7I5F3GQcqLeUMt3RcFWCBmHK6jrfKFWFyEuEMp+y09op92nEMm/yZdARJMeips+zDYuiFovVYoozQ460YDPFhzyIKZdycytl//5JD5Luqi5n1EQYgWF5DcnQOIs2ITpFax+Y5b6EQszP6RdgFS7A/BMf3wHwZ185BGlIOZKmraPsqKGdOOXrVPOoHG65V0IWJzCa1no+4ZYE/KBYGqFrvc6u5waaSgPiDgLWLV5NPGKIzRAgM0kJBPgUbBeSTZ2rdf948Qult2wutQ4QLJ61tmpQzL8bYgHcn45c=;1rUj492/gHSb5Z/KBGsmjg=="
+secured: "Ug8rQJKvp2OxHqtqPgVj2/q4QNvE/62oZVPuqBnBJEOSk8193STe1KUY2M5qP7v/fOJ8lwztCjjRzXyMQmj4CXeV2qAgx6SljGja5hLsiPgckENXTZN37SpIG67tTt7GWWcQwwbT7e6psX++/MLcGFq/oQtVb7pQUILKrGXLn4UP0FpCIK0rqe4Ofz1JpvHr+O2L28SyOpyzZkfhYFYBVHKQ1vepff2oLkcbZEnmGnu9mqd4DRR9SQW3fc8Y39l4yXG5nmYzPy8A0a8epHCzNsrnUxww2OS8H0wZbayO5XKg3k0m00m4jxjnQWMavaBENRQT1MBB1QhXzoadGZGMXdCO/BWqiC8dqcNRET3VjhBOeryxsfrT7TQoFU/fwSnsjSk5QFk/zo2qqqGSdppJww8QjvrFyQ5bQvGKyXWCAdk=;6EMri07Vr9oiRGyl2Qjppw=="
 ---
 
