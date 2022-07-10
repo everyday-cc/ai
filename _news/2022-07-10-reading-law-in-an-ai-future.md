@@ -40,20 +40,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Nation emerging as global pioneer in AI technology"
-    excerpt: "China is emerging as a pioneer in artificial intelligence as it makes strides in filing AI patents and experimenting with the latest AI technology to power industrial applications, industry experts said."
-    publishedDateTime: 2022-07-06T02:00:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202207/06/WS62c4ecb0a310fd2b29e6aab7.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202207/06/62c4ecb0a310fd2bec9468f0.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Reforming Prior Authorization with AI and Machine Learning"
     excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
     publishedDateTime: 2022-07-07T13:00:00Z

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Building and understanding brains: How can AI research inform neuroscience?"
+    excerpt: "The study of artificial intelligence (AI) and neuroscience have many things in common. At its core, neurosciences aim to better understand the brain by deciphering its complex networks and processes."
+    publishedDateTime: 2022-07-07T06:15:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/958116"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 15
   - title: "AI, neuroscience and hardware: From neural to artificial systems and back again"
     excerpt: "This conference aims to bring together researchers from across AI, neuroscience, and computing hardware to renew collaborations, explore synergistic opportunities and transfer ideas from neural to artificial systems and back again."
     publishedDateTime: 2022-07-07T04:50:00Z

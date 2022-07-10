@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-10T07:19:00Z
 originalUrl: "https://seekingalpha.com/article/4522547-hub-group-innovative-business-model-not-cheap"
 webUrl: "https://seekingalpha.com/article/4522547-hub-group-innovative-business-model-not-cheap"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Seeking Alpha

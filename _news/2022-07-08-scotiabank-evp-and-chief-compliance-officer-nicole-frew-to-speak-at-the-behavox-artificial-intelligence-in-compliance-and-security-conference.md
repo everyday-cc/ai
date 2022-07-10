@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-07T22:32:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-canada-montreal-artificial-intelligence-6bf49d543a5844ddb75b3c7f0483c887"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-canada-montreal-artificial-intelligence-6bf49d543a5844ddb75b3c7f0483c887"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

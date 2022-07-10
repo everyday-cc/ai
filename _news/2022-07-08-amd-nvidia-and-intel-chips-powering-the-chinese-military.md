@@ -24,22 +24,6 @@ images:
     height: 455
     isCached: true
 
-related:
-  - title: "The newest MLPerf results show Intel Habana edging up Nvidia"
-    excerpt: "MLPerf has become the industry standard for comparing AI accelerators, and Intel’s Habana has beaten Nvidia in the latest findings. In spite of the fact that Nvidia’s next-generation GPU has already been unveiled,"
-    publishedDateTime: 2022-07-06T03:43:00Z
-    webUrl: "https://bestgamingpro.com/the-newest-mlperf-results-show-intel-habana-edging-up-nvidia/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 24
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Intel-Habana-overtakes-Nvidia-in-latest-MLPerf-results.png"
-        width: 600
-        height: 365
-        isCached: true
-
 secured: "zjSJR3CXTLAve8sTyeCLGK2YqQJL+gMs0un1KK7p5LPSuQc7vnzQaE+WkjyL4s79ZBn0JWjlAm0LwN0Aj5QPl0I5xuUFQIPvDSXfxrsWvJnFR0bB0Ywk/uvSYT9m2L+kNLS9WpTy9DH1RGDjDwlvhy9MJy4Ac8YLlYBzdLR1h3m2EhrAhnl/q80bENSqVvustMAFpSh3iMC+QBLjCi9+nhFMCsnUKH30+AjvdawJsWwc8mRxyLCVVczyYx7F48vczNh2mNbjvb7KwT3jvo6EbSmrFTf2DfSM+j5zgEzygcKchuDYEuyThz0E/pc9vipSlK2CyKmz+zbGiz/L7tAIT4+Qg/hlDMDRtEUCPYd52hy5S7oywwYiiQC3FDe+eBBdeoR2QZfS60KcyJKhBE6ayowVfpaeGwTxtILzOYbtYi2fcsttVWoVHWbZ2sFLvAsx33eiq6oJlJ8O8Tzd+TA1R2yt0sMrcBhb6Ddyv1Htif8ME6Mw5FN+vDxmtv6RdE6fT4fYb8KCohnOYqYMpS7Kvw==;iboh24azZXx0Iumcg317BQ=="
 ---
 

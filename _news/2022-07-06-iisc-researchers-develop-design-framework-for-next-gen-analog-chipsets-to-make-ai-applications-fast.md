@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Iisc Researchers Develop Design Framework For Next-Gen Analog Chipsets To Make AI Applications Faster"
-    excerpt: "Next- generation analog computing chipsets for artificial intelligence (AI) applications, could become a whole lot faste"
-    publishedDateTime: 2022-07-06T04:33:00Z
-    webUrl: "https://menafn.com/1104484172/Iisc-Researchers-Develop-Design-Framework-For-Next-Gen-Analog-Chipsets-To-Make-AI-Applications-Faster"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?918830"
-        width: 500
-        height: 250
-        isCached: true
-
 secured: "DFPJ/Fkx7CSkqVma1Jw2Juzxi2tXiiLvOYLjjO8BjTsWsrfcOWyOdFolOTWwVSoSTAnO9rYTBbsVslYZrNkmfv1D0vFU5RkcPp6yNJDH94Lc9ASKvffPbVegtff/Jovb7s1dP3U8bTSbYmO37u2nuSubDFlPXmqtc/GMWyYTZT85lspEUJr1d0p7kuJyqQjNi/kDnPiXbPqXa+5lckdbtBpAQOhPNOAXfmBwS6FrUX02UytLipZbSi5NomMpk/+KN22k1cksoTnrNjkjfxsI01s4q8A370HvFQ7vYzL1QHlhoMI2c6deBw0snfwq0Qx1OhQe/DL2adN3spvb35kwvgpFTYOweTUAIOqsXApGmBk=;59zsYHPteOEDiPpzmHOw0w=="
 ---
 

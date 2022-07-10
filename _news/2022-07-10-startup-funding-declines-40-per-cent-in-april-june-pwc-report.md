@@ -35,6 +35,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 2
+  - title: "Startup Funding Declines 40% In April-June: PwC Report"
+    excerpt: "The early-stage deals comprised more than 60 per cent of the total with an average ticket size of USD 5 million, as per the PwC India report titled, 'Startup Deals Tracker - Q2 CY22.' Geo-political instability appears to be taking a toll on the Indian startups with the total funding declining by 40 per cent to USD 6."
+    publishedDateTime: 2022-07-10T19:39:00Z
+    webUrl: "https://www.outlookindia.com/business/startup-funding-declines-40-in-april-june-pwc-report-news-208158"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 2
 
 secured: "khGiGRwZeH8nACSE63rGORWpb6rNXnOy+q6VKRQeTys7XqvnylLjv2K9729bnzHyGPHjQIetuX17fsBQMyJHs3s1usfw0n/My4C2rVoK6DIBXkK/hpk4RDdRhGZyZVZLc2MgDrtxHwO7lLb8P05BEqYFECUQDOMS+OVTdbOiDEQFnsIIsag2uGLk4x44kDJh7a2SvwBGs3tp45O7Wc0VKSrK9BhjRk2u7MQ6HEPJpPgPA3bOB8/UL9aE+NL40zmpm9gE6RS5VzEZteARX3knzKcI85gFs3YxgDmydZH9Vkuc128C4v8zrtJCw5KTS2A0uLFbx8ZYhUEvW1RQeadl80O8PQRuZz3pI78y9zShLqA=;Y41w3i5l5wEZNKX9F0Ljbw=="
 ---

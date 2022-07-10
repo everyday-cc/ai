@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-10T19:56:00Z
 originalUrl: "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/"
 webUrl: "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: New York Times

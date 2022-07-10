@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/ai-chipmaker-rebellions-has-received-a-2
 webUrl: "https://bestgamingpro.com/ai-chipmaker-rebellions-has-received-a-22-8-million-series-a-extension-from-korean-telecommunications-giant-kt/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT"
-    excerpt: "South Korean AI chip developer Rebellions has raised a $22.8 million ($30 million) extension to its Series A financing from a strategic investor KT, one of the largest telecom companies in South Korea."
-    publishedDateTime: 2022-07-06T02:39:00Z
-    webUrl: "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/"
-    ampWebUrl: "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "P/Nqo0xOhESDZMtUV16YBVfU3h5URIVh1e9b4UMY4vmTXRL14eqyY3VjVGXab30viqCdAyMhVUU5gzG4ha6OVk2j4NyZUA70Yz+3RHpQp06W2f5ocgL66qaLaUXvg9+RNoq92bxKFWZBNgbamyAKYEj4EcHBASuju8jmAmvGMkTNwaSjBvqEet/cE6QZ65oFtKRRkkz95CE2W1KFSlO+SqsfckLeStnwqs/uAg0/bdEPYpcZiV0JjzlpcA5yeFlRvrvurFEnyE/7lCe/D8B8wyo6+aqerFMVhFAPkcUTk/iBt1e71omc3o6qBgF8MHPQZsz5O74oVlSjk+3Y97/VBI0n8Ikh6pNWWHaK5q5x/FMmWmJpO+RVTwRlyWjvpCNBDH/Cp4/ryytDSJcgQfb25lQdmTr4aVNs9ysUZh+qxHBg84uKoR51qz17b0jkK9IMEaCr8u4KkV4dwoVrTB1ffuaOiMlMhuG4vq3aLAiWn/Zz7z2w43GihJTawi4tKyEVsTrhJ8m3UMYvMaqNP8t3mw==;Fn7tj0YIh3hRKhO/AeS0nQ=="
 ---

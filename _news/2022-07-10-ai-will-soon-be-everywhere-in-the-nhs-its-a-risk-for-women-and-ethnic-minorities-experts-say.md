@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-10T15:46:00Z
 originalUrl: "https://inews.co.uk/news/science/why-ai-could-lead-to-a-poorer-performing-nhs-for-women-and-ethnic-minorities-1715312?ito=social_itw_theipaper&amp;amp"
 webUrl: "https://inews.co.uk/news/science/why-ai-could-lead-to-a-poorer-performing-nhs-for-women-and-ethnic-minorities-1715312?ito=social_itw_theipaper&amp;amp"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: i
