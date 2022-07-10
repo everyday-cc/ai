@@ -22,6 +22,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Should we be concerned about face-recognition algorithms that operate in real time?"
+    excerpt: "We’ve all seen and probably laughed at these movies. As a result of a “company-wide initiative to restrict the use of face recognition in our products,” Facebook recently shut down its own facial recognition programme, which performed identical ..."
+    publishedDateTime: 2022-07-10T15:01:00Z
+    webUrl: "https://bestgamingpro.com/should-we-be-concerned-about-face-recognition-algorithms-that-operate-in-real-time/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 18
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Should-we-be-worried-about-real-time-facial-recognition-systems.png"
+        width: 600
+        height: 365
+        isCached: true
+
 secured: "XDFZjgvzC/9+As5BjSQQj+CHlUiP7fkeWkPNkScmYq2m2TbBpwfcZH16rLR1md9GlVkrQPwu3NrvLE4KiPKo9I9umr+wzh/QFGeAi3CZgz5WbsL8MykpWGoR+eJujbkx5GEhQxXzZmgzt4JjRF73ZfvsxbUBGNCCnztJK43u10d3DV8/hRSWN0iF0+D42j3WTmXuhDvGoeaXRbYWz0IzuNRzLmTMvSEw+MeRDlBHLr6QKskDg33K+W6z+iBrturuTimfqSIaikXFL8kqjtOcvLQQeZ87adq+IKyrXlRwvAAwADG0EVlXc4ja63oaUCn927W1yahef9QCQdsZCRzwLZl5vN/rqiMXNzbKpgPi9+fupBgh9I6UbhEZN0brf/9pLq4sp9BiLyzKBvmT1k6ngA73aX2AnErxCHINE0uiUgzf03/ABJuDof33uGgoGFyb8BUIZWtaeWzAKWrCHgPffMHagp3NI6e6E5GcGurWK94rZzB3UV6yXcUNVS33aHURh9ftQkvvHFxXDtajIm5fyQ==;ujMkHYdNoxGoICO/CYuVfQ=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics Exasperated By Those Gaslighting AI-Focused Edgelords That Goadingly Say Outlandishly Infuriating Things..."
+    excerpt: "Gaslighting edgelords and online goaders have turned to saying outlandish things about AI and AI Ethics as a means of disturbing otherwise salient conversations."
+    publishedDateTime: 2022-07-10T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/10/ai-ethics-exasperated-by-those-gaslighting-ai-focused-edgelords-that-goadingly-say-outlandishly-infuriating-things-about-ai-ethics-and-ai-autonomous-systems/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Understanding the AI-enabled drug discovery landscape"
     excerpt: "AI-enabled drug discovery companies (AIDDs) have taken the  bioscience world by storm, raising more than $5.2 billion from  investors in 2021, while 15 AI-enabled candidate drugs are in  clinical trials,"
     publishedDateTime: 2022-07-08T17:27:00Z

@@ -43,7 +43,7 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/12/iStock-1298763661.jpg"
         width: 1365

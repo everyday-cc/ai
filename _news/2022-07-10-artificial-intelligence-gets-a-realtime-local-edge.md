@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-10T13:01:00Z
 originalUrl: "https://www.business-standard.com/article/opinion/artificial-intelligence-gets-a-realtime-local-edge-122071000376_1.html"
 webUrl: "https://www.business-standard.com/article/opinion/artificial-intelligence-gets-a-realtime-local-edge-122071000376_1.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Business Standard

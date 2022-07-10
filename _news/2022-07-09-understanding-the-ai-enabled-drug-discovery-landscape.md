@@ -32,6 +32,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "AI Ethics Exasperated By Those Gaslighting AI-Focused Edgelords That Goadingly Say Outlandishly Infuriating Things..."
+    excerpt: "Gaslighting edgelords and online goaders have turned to saying outlandish things about AI and AI Ethics as a means of disturbing otherwise salient conversations."
+    publishedDateTime: 2022-07-10T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/10/ai-ethics-exasperated-by-those-gaslighting-ai-focused-edgelords-that-goadingly-say-outlandishly-infuriating-things-about-ai-ethics-and-ai-autonomous-systems/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
 
 secured: "G72FQ7A4zTTYTJ1yQ46/PRYtbtzV3aRLB50OksS/oWvzlCrK5DwbTolIZFTU0C0pVB8pizu5iohTavixmpNFd80HC4BaL0H2wpx5z5mMk2DagVRIt6qBXE54fTQqFb2Pt9Pkh6Ai0OjgQdMfVKmr/lVQsO8hI/LkUfJifDylQVHLssbtUpOdqk3XSrnueQSOJ7t6yCru1y2b0seoJ7I9yk4jWeKw5WOIzsm9Ds9LDVOHSBpTBPhV40tNi9Dz3boyzvsLogLgvj1ndRjUfl1IkDUCiUc7L0UnozxVe3OlFEM2Y9eLShxGEf/yGwoeLAJkGElrJLxbn/Tr9TLOsAk2pKGAxFiUnFY4Q51CUWDpX0Q=;XU0J5uUK2ELjbSRDGa3hIg=="
 ---

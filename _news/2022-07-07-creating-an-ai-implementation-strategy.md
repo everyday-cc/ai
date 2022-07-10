@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-stra
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202207/06/62c4ecb0a310fd2bec9468f0.jpeg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Reading law in an AI future"
+    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
+    publishedDateTime: 2022-07-10T04:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
+        width: 1240
+        height: 779
         isCached: true
   - title: "Reforming Prior Authorization with AI and Machine Learning"
     excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"

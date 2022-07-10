@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-10T12:22:00Z
 originalUrl: "https://www.fox5atlanta.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
 webUrl: "https://www.fox5atlanta.com/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FOX 5 Atlanta

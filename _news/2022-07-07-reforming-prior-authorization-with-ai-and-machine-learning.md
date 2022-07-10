@@ -49,6 +49,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Reading law in an AI future"
+    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
+    publishedDateTime: 2022-07-10T04:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
+        width: 1240
+        height: 779
+        isCached: true
   - title: "Astronauts on Space Station Explore Artificial Intelligence and Human Nervous System"
     excerpt: "On Tuesday, July 5, space physics and human studies dominated the science agenda aboard the International Space Station. The Expedition 67 crew also reconfigured a US airlock and put a new 3D printer through its paces."
     publishedDateTime: 2022-07-06T05:51:00Z

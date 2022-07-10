@@ -24,21 +24,58 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding artistic frontiers in artificial intelligence"
-    excerpt: "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,"
-    publishedDateTime: 2022-07-05T19:06:00Z
-    webUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp"
+  - title: "Creating an AI Implementation Strategy"
+    excerpt: "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly."
+    publishedDateTime: 2022-07-07T16:35:00Z
+    webUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy"
+    ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg"
-        width: 711
-        height: 450
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Nation emerging as global pioneer in AI technology"
+    excerpt: "China is emerging as a pioneer in artificial intelligence as it makes strides in filing AI patents and experimenting with the latest AI technology to power industrial applications, industry experts said."
+    publishedDateTime: 2022-07-06T02:00:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202207/06/WS62c4ecb0a310fd2b29e6aab7.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 37
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202207/06/62c4ecb0a310fd2bec9468f0.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Reforming Prior Authorization with AI and Machine Learning"
+    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
+    publishedDateTime: 2022-07-07T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
+  - title: "Astronauts on Space Station Explore Artificial Intelligence and Human Nervous System"
+    excerpt: "On Tuesday, July 5, space physics and human studies dominated the science agenda aboard the International Space Station. The Expedition 67 crew also reconfigured a US airlock and put a new 3D printer through its paces."
+    publishedDateTime: 2022-07-06T05:51:00Z
+    webUrl: "https://scitechdaily.com/astronauts-on-space-station-explore-artificial-intelligence-and-human-nervous-system/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Cygnus-Space-Freighter-Canadarm2-Robotic-Arm-scaled.jpg"
+        width: 2560
+        height: 1438
         isCached: true
 
 secured: "QIls42Nb1n9ixC7UyEiaovxa80Di4g2aGaL1fHzyLj47MRF/nVKHWUpA6z2Equ2pg5yqgKVKhC7LLXFpqCRST55e2nKPrSfbP/EYYDWBmPr44Z1/2t421ile1iEjgY8TQRbSfCcB7A+Rwe6r38mQvWD5hgaP2rThN8honpOPN/hT/HmlmNb51MvQcDJC5Xp2fbmaBgWpxxrTHNMkfdgxIxszHR1IkYqqPBxVgKveut5udIsDqKW9P4L9TcQp49TAqU97TPKuPl51bKIiuRSI16YcpyF03g1yQyr/mGfJ+566Lfm0n0g1Fs5x/kO7lDBhp6rSuRMw4euBYoSsZoa314l+ndHIgFZe2hdOjo4qhBKFvNABNkSyCd26ZGPRlCC8Ofj5yfqV8X75g3Jx+rDO8wsSkGbgcRQOqBPONJKj+F9jGuydIHs+OQUKOTEovxWlJbcpIA21g1ix9VS0y+8K+4LrKeoxDCMntAy2QbOVfEqs08D5B8BXnyQFKWod5xS35ROtv24+lDP7k3qRi0vioQ==;4AtW2E3CkJem6LI9cbW1+g=="

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-06T12:44:00Z
 originalUrl: "https://telecoms.com/516280/vodafone-and-googles-new-mega-ai-is-the-best-of-big-tech-and-telco-collaboration/"
 webUrl: "https://telecoms.com/516280/vodafone-and-googles-new-mega-ai-is-the-best-of-big-tech-and-telco-collaboration/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/12/iStock-1298763661.jpg"

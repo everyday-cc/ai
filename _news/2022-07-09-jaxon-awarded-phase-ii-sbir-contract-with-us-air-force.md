@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T18:02:00Z
 originalUrl: "https://www.digitaljournal.com/pr/jaxon-awarded-phase-ii-sbir-contract-with-u-s-air-force"
 webUrl: "https://www.digitaljournal.com/pr/jaxon-awarded-phase-ii-sbir-contract-with-u-s-air-force"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Digital Journal

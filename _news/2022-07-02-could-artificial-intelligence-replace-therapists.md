@@ -3,8 +3,10 @@ category: news
 title: "Could Artificial Intelligence Replace Therapists?"
 excerpt: "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy."
 publishedDateTime: 2022-07-02T14:44:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
-webUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+originalUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+webUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
 type: article
 
 provider:
@@ -14,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "MWvyXvgf6TTdDevSEVYXBDUry4bmt3zdedpExgCI7wIaVs2lK6810og8HTvojp6TNj9uJMANxGqSMOs5YkkBtQBK/RWOSFW6EG0VN+fKBGXg8KStU8fBrACBb9B4cpWDQ2DZvNneVCmii6ZnpfqxnUSbK4X53XwWiqmjs0UoB4dr4hzx8MF0wQDufpNta4nHWtWcdqL7BcQJXANHwvcviXBVgyjDRC4E2+0iwCZeZneowqvUCLIMPjyzrEcMIwYEW1/OJq894XXGG5lMC8BlpPIexO6bejOTIJBvA913HJk4Yyiz0ZA3XwgFkghqQzOCh92Ss9pmuuKDHUXplKrqDgWJ6APrrzWivMAchExNZcFyTAInv5Yza4T7WoiK+SKmY1/ewgy4DZkBE5KXxw7twKCn1mIb/1omizH2Fj1OeEy39Euuv9oLxBz5kyjkr9NGZbMCD16IUPrl2QPIGK3MEZZA+r4u9Re/1ciGY4zT/aVWDhpzgKGnDumEopbEpjY03RENDib+WmNpSC/Bg1cixg==;5LnIHZWYTTKoYYmHtejMQQ=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/blue_planet_studio_shutterstock.jpg?itok=vp9Js1ws"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "+B7U/gMh26UjA/kF3BzjJOtMI24q05OYUGGXIWyXn5Jx7n7i14qSzS2udkQ3v092cDYwXR3Ye0h1NdJai6x19+1emTFMyhMkKsdhXOwhHdCe2x4uM6C5/qBRnRakKM1fzP/ZiFdOnS8KUCYbrYSE7+u1BVUEqa87TbbTOmwZEAeejBX+p6Zj+38IvMuaZXFDXkBbn+nbEgBeQC2DmjNgGeQYGLyqz0lt6wsy4WhaYxXHhZqVe/XgLJrY9q3YhOpttOxeK2Ow9PqKYdieZHKp8qIgAdVpri0yDeu6Ny/altlNWz5v+qvZIhVhoTehST7AVtHT6xmAyWfQtjqQ5CmN2Q7yoUURJ6p7lYTyOpItmT0=;EK/OEahIYe+Dz2nStL9hvA=="
 ---
 

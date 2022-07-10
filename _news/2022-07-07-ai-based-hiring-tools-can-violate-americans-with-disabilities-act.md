@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "American Law Firms Successfully Leveraging the Power of Artificial Intelligence"
-    excerpt: "Artificial Intelligence is a tool that is being used across many sectors today, including by forward-focused law firms keen to evolve. There are many different ways in which this innovative tech can make a big difference operationally."
-    publishedDateTime: 2022-07-05T20:29:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-5-american-law-firms-successfully-leveraging-the-power-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 13
   - title: "North American Startup Funding Fell Further In Q2"
     excerpt: "Startup financing fell across all stages in the second quarter of 2022, with the drop most extreme at the latest stages."
     publishedDateTime: 2022-07-07T12:00:00Z

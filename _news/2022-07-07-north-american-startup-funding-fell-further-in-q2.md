@@ -32,15 +32,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "American Law Firms Successfully Leveraging the Power of Artificial Intelligence"
-    excerpt: "Artificial Intelligence is a tool that is being used across many sectors today, including by forward-focused law firms keen to evolve. There are many different ways in which this innovative tech can make a big difference operationally."
-    publishedDateTime: 2022-07-05T20:29:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-5-american-law-firms-successfully-leveraging-the-power-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 13
 
 secured: "mKeO2uHdSmGyHNsK9KLdIvul/5Nl6Sc4YVaa9Hd24Xytcrk+9lldXmCVvQBlUFwPb9rv3I2zaCtriK+pbE1vNPoee/V/r9aY4aBjz3eqZNFWpX9xsTKGflxuKWoeTItAsy0kveHMZRyi1WHicp6L/cawDHUD2UYzzD1/39kKOaFQcGc7rTnyef2ONTYKng4o1Jp4SonXIdO6o6fbZGxcQ/G5pSoYwO6eBsTgyeIDjlHA4F4/ok/4otRWbk+hYsr9ZvoQzgYRuf2rwFGXY8ExQPR214mnQPtzMzZXZ4lIP4Iup/4/6xfx5cKzsZt8qFNq0DYAo769fwPVm4YWxKckwAF6TRbEgVNB/W3naK/3bjYzlbSGLhjjewUQF2QEsi5tVyNdTnp6BLkvisUYAWUUD8xjBbDSGZlwq8U/DiltVhkXsnImZ6SlDe3wEJXL5q4nwshP/NqNRuLsTrV3T2d2OGoytvK5ADuqXceQhiCvTHvEacd/nLqEhBG2Lyy4Hqufyf591N8g1WQ4Bq8CBG4HKg==;ebdMipcPineqJJ5L819BTA=="
 ---
