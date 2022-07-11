@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Worldwide Healthcare Payer Services Industry to 2027 - Featuring Accenture, Hewlett-Packard and Xerox Among Others - ResearchAndMarkets.com"
-excerpt: "The \"Healthcare Payer Services Market - Growth, Trends, Covid-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Healthcare Payer Services Market is expected to register a CAGR of 10."
+excerpt: "The Healthcare Payer Services Market is expected to register a CAGR of 10.1 % during the forecast period (2022-2027). Dell, Inc. Change Healthcare Inc. Claims Management Services Segment Is Expected To Hold A Major Share In The Market The claim management services segment is expected to hold a major share in the healthcare payer services market and is expected to do the same over the forecast period."
 publishedDateTime: 2022-07-11T15:17:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-11-worldwide-healthcare-payer-services-industry-to-2027-featuring-accenture-hewlett-packard-and-xerox-among-others-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-11-worldwide-healthcare-payer-services-industry-to-2027-featuring-accenture-hewlett-packard-and-xerox-among-others-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-accenture-plc-xerox-corp-206bd46b61d548eda3c47c37d24edb4d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-accenture-plc-xerox-corp-206bd46b61d548eda3c47c37d24edb4d"
 type: article
-quality: 0
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Insights on the Food Robotics Global Market to 2027 - by Type, Payload, Application and Region - ResearchAndMarkets.com"
@@ -56,6 +62,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "$305 Million Worldwide Pharmaceutical Robots Industry to 2027 - Featuring ABB, FANUC and Seiko Epson Among Others - ResearchAndMarkets.com"
+    excerpt: "The global pharmaceutical robots market reached a value of US$ 161.84 Million in 2021. Looking forward, the publisher expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 11."
+    publishedDateTime: 2022-07-11T15:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-kawasaki-heavy-industries-ltd-272386df98e54bcb8df2a2601d509e2c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
     excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
     publishedDateTime: 2022-07-08T15:00:00Z
@@ -84,6 +104,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "wQhxGTBcV0GdU/vt+i+YJyPokfcKmAu9tRozrK0il9o2Tfc5/5ZZOPDjgfO4SOeHloY3y0iec7889yV0liffe9XkmtjgtTyH+H5VzxdLvpWXZYo6RWfUw+EKRA9niER3Y11/Y0p8bC115F2w8mo2ixrZ9SmVw87oifi91ADwWUQTGQF5sqqb5Sv2S6b0tp8DH8v7ngigFprNzn2EnGtQLL0+aHWpZelB7iYkxWy7HNxf93cmW1goznOFhZIBCR/Sj1D0n/4DQavBhivCAmMwvwW15Za/2fi2Gpri4DoLI3eMgwFumHDR+ywWMMYBldC8CXSn1N27XQr/geKTLvWFSa5C/ERUfeB3ZII+nkzHjHo=;AmWXQNZiGM/1RKsefw65Hw=="
+secured: "ZpCAYU8P71qVZKO+NJtRlX0Rw0zlSjuWB3w5Rk4xdUSQVtwKTnJFe76Fd/Fc0h5DAohYctuRuEwoYRMz/TJuWgK5yk3w51b2VNvjqJljKcquqsKFsMpEmFIaUMRcaGID8J53VD0JDOHN6LVUo+6OJ23WIhL3d73mOhvvaV+7SvtsMKcb3sViBvPvFnyHxvBOerfZhtlNlWbAzWqJgRP8MHD5xtTKZk+BCqODQOeSYh1QUx8m2wNtQBzDUL/yUBzQB1cmYnPmp1mU2Qeqi1thui9X++hby/nUc8tDZUj3cLeieDCsGnJseKhaOeanbRsqRd7bWKH8WNqf5Gzx9gu3+pWIrXUskb8S4wQf068HAGw=;HxMrvGGBDK6je9ySvb7uSg=="
 ---
 

@@ -81,6 +81,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech firm unveils Melbourne office"
+    excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
+    publishedDateTime: 2022-07-11T16:15:00Z
+    webUrl: "https://international-adviser.com/fintech-firm-unveils-melbourne-office/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 24
+    images:
+      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/Melbourne-Australia-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "How fintech can boost access for the older generation"
     excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
     publishedDateTime: 2022-07-08T12:47:00Z

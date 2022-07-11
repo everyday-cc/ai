@@ -32,20 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 73
-  - title: "AWS Announces Amazon SageMaker Feature Store"
-    excerpt: "Recently AWS announced a new capability of Amazon S ageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new Amazon SageMaker capability allows customers ..."
-    publishedDateTime: 2022-07-07T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/12/amazon-sagemaker-feature-store/en/headerimage/croppted-Feature+Store-1608021403547.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "P3Bn3OIiHCfn0VAykOHZ+yGgucd/QsU0gn+yIZIJxUi2Xfl1MzEvSiAEqgJxuFdfG/EzsaBX7ZE6UCALMRBI15BlYmhtw24Z52QRbqWwZpaAKKVOWlOuT24AW9VD0TBk/YKmu/G8elw8kKIPLvQz7FGZMQSfNp7RCd3IeBAF4BMw4lbeak1epW+KFybr/lLr3IWamdqCvEPBWVXhkUUFfe+0P9ZX64qbYuX4NVyEjQ2bTjdrdbM2qKL7h32/yKTNrIJd4Qp+CSrj+WPojxoUd2KvRkivbJd+K4K/ujGi3TTu4NhrxiwYnZMZIJ0XG0oEyJN1i7MMz4C1m2wE/bq09ytn/ABPwbkTunaruMb24fA=;Y73tlkPOnexiQwtJjk0GXg=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-11-meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia.md",
+      "title": "Meta launches Sphere, an AI knowledge tool based on open web content, used initially to verify citations on Wikipedia",
+      "excerpt": "Facebook may be infamous for helping to usher in the era of “fake news”; but it’s also tried to find a place for itself in the follow-up: the never-ending battle to combat it. In the latest development on that front,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/",
+      "originalUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/",
+      "publishedDateTime": "2022-07-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-metas-open-source-ai-model-leaves-no-language-behind.md",
       "title": "Meta’s open-source AI model leaves no language behind",
       "excerpt": "Meta announced a breakthrough in its No Language Left Behind initiative — a single AI model that translates over 200 different languages.",
@@ -1376,49 +1429,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-do-ai-systems-really-have-their-own-secret-language.md",
-      "title": "Do AI systems really have their own secret language?",
-      "excerpt": "Snoswell is a post-doctoral research fellow in Computational Law & AI Accountability at Queensland ... You may recall the hullabaloo in 2017 over some Facebook chat-bots that “invented their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language",
-      "originalUrl": "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg",
-          "width": 1420,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
+    excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
+    publishedDateTime: 2022-07-11T16:21:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-still-struggling-and-nearly-hit-a-jogger-report/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 23
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/06/carplay-1.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Inside Apple’s Eight-Year Struggle to Build a Self-Driving Car"
     excerpt: "Apple sent several of its prototype self-driving cars on a roughly 40-mile trek throughMontana. Aerial drones filmed the drive, from Bozeman to the ski resort town of Big Sky, so that Apple managers could produce a polished film,"
     publishedDateTime: 2022-07-11T13:00:00Z

@@ -75,6 +75,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech firm unveils Melbourne office"
+    excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
+    publishedDateTime: 2022-07-11T16:15:00Z
+    webUrl: "https://international-adviser.com/fintech-firm-unveils-melbourne-office/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 24
+    images:
+      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/Melbourne-Australia-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
     excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."
     publishedDateTime: 2022-07-07T16:48:00Z

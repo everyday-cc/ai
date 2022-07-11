@@ -3,21 +3,26 @@ category: news
 title: "How artificial intelligence became financial advisors' favorite new tool"
 excerpt: "By taking the manual labor out of data management and upkeep, experts can reach new clients and better serve their existing ones."
 publishedDateTime: 2022-07-07T22:53:00Z
-originalUrl: "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
-webUrl: "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
+originalUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
+webUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
 type: article
-quality: 18
-heat: 18
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Financial Planning
-  domain: financial-planning.com
+  name: American Banker
+  domain: americanbanker.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "GDSuF1mY952mVTJ/43ZFIbMG4xmfoQVSq5v1y/DMAX9x9f/GcftBwS5GttooHGmggqYW0jz2Y53BEbfqYM1UcLy6faorCekMIAG+vyjeQdHXjoDuRHrlQCGaqYrJEy9PSfmB0S4oRdCZRXpcCGbJZeHJjAnDRS+QJNh+di1GttSTwgxQZqFQFcQod1YzPinCVQV5Klqcgc0w3u1M2Msgbkd+l3XV0g6sO+GblSVN/e4oUuP3ok5WaxAWMML8Hlb5rSYO3zecCdjupDX1G9ukFDBmj9MVNe8NhJlTjUVh4LP7b/keWSRPtFCgFHnQgl2C+fhE2+T4m6AXT+3Q7dh5JUMgb5AzlwkPNvm+AbshmrazFK1L71FBNiz686X7WvW/E2iLu/ITEJbLIZTl+6dCptZ+Ji4Zs7CDTE+5HsYPUtSAKPnIEhwEJvg0ZEdl9QymP5ktbSTMVvqC75npSOju8M1XM5l+3rkE/hPb/aX+HO1FTmNRfRYEQlRMdIB2Oq0DZ8zI1cBFag8jkjUzAz9vxQ==;R/Yk6E13jTAesGXD/E/Ezw=="
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/b8cc43f/2147483647/strip/true/crop/3600x1890+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5c%2F1c%2Fd9f029bb4a1e99690e76f8ad6a51%2Flead-image-for-invest-ai-story.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "cCceJkwIb3Zqm+ew2wCENYa36FrBybX+IyRWdYAwJLD/2/KPmFZonknmTogkmQ0DT28hR/K+Tl1qgIbD1q2mJ1TfsBHnF3zIOxYGmlc9QRCWj7AUHyhm3SzJDt6Rf4iincZ479r+rJUqlDL48dciDViWHC/XXIhVtN13X6TWa1eGm0XKhsUgEm3qoKe7m+gY7p1fRdlpN/jPICcOVx3wqv9viajhrae/gSbCtTq7INnJxz0F1sMki3gTt6Inn3jVhMX84eFX4+5faSN+8yTiFOhN0ddoF7j/hMsLdF1bseQuhwvNgTOC8GAbOhL1zlgLSYl5id9FmjYzuACNw5BChI3mVbdtTdlhgdcNARAtiOY=;NOKP/TRh9S81CdfEjo2Rzg=="
 ---
 

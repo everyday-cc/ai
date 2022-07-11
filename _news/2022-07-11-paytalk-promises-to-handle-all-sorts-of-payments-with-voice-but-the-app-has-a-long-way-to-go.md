@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sor
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     height: 360
     isCached: true
 
-secured: "RfERBgbNT5fqWTxeZpP33TfGYjfReAiC8tY/e6e0DyDRQgxLW2f5fkILV4Ip8Dv36z4vZTrnNipq8INvNvi9qvgxdQm8LbcS5Bhe4pdmMFviplbZ4b81mj+6KXLiybhn2UORymBfFCxBYbw1eSwecrdmGUK0P/Ov7OsaATIPEowa1916EHPeDkkFiTgCJz702GEc3yCKZNs9kOdob2+DoUpaxfPQ1wDygWPnLJK+V5VcMWF9iQdiI06V+ByDdeoPNH/iHGKeTGrNNkrMHPm5EL3b0j8FIfRKd31mgTJlHn2GR0Wqlh3E6SyN8Hk8iqsVmxpIq+6PuFR9MnIF5yBVYAbv26U8b74goQWfisl5zoc=;zvT1EjuV8a/DALBsBdwNSg=="
+related:
+  - title: "For all the hype, PayTalk falls short of delivering voice-enabled transaction capabilities"
+    excerpt: "According to Tawo, users may locate a taxi, order food, pay bills, buy tickets, and even apply for a loan using the PayTalk app. This generation is already utilising voice services for everyday chores like checking the weather,"
+    publishedDateTime: 2022-07-11T17:53:00Z
+    webUrl: "https://bestgamingpro.com/for-all-the-hype-paytalk-falls-short-of-delivering-voice-enabled-transaction-capabilities/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 14
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/PayTalk-promises-voice-powered-transactions-but-falls-short.png"
+        width: 600
+        height: 365
+        isCached: true
+
+secured: "A5Z2g6LPoupztvoDGPX7EXLpU0/zvGfiniR37stvV+dUstc7hQQ9mz3+g4wSk2P/hjFXuSbluiZyHiWKW9KlTpVBRsHh2RNg3srODLo1bD7OHxrqsS9BdDOCuPtsSSBSwYaMs2enbrNGM1OpnwV44ofpSVcGRON5CSZQF07chCUuV12Ouu10GwdPQiQ0USR/xH1yQIjNEEK4LWFV4s9axcOHemW4bIBBHZVb3kkV8fWhlM+U5GrlM7GT8DTewJIZZLUGTdas1GDYeMTfbFVtLqSsnKJlYzNAbKcXNAhLcuvWPmyE+8N4K2rmssNkJYVByk887N93vLhejgOsFpGPp6zckv7QenuOu08qXNStTkb9G7jrgtgECaNMh+4yWBSS89dtlo00xqIRYULZwzv1kU4NrHAdh3JkMz3SLaKrmFdmjIP0h1++bbcxoBiB+joVKUFJix8dk8AJjIExQtz9RWPHkKFes7C9YsDAdBfDnYS1ExICOBgiuILCoPTbl+C4x2Gsjaz09+prm4I6pHtvcQ==;EmyG6jBaITFqwnYmd7tOQg=="
 ---
 

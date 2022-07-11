@@ -58,6 +58,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
+    excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
+    publishedDateTime: 2022-07-11T16:21:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-still-struggling-and-nearly-hit-a-jogger-report/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 23
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/06/carplay-1.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "yQSATxoeYc0jtTqGpXojqxz9vSH/aT7stGqjydvaOIOJ7UPvXvFoYH+YEEplXdcyNdVFj7n7hhEyagok5s9f8pGAmjIuEMtb7B5tnF58w8GJpyGSDXmC7kpkrDvpuq+uyPP+e7rEwjXSCqglDbAZ9p9dqcKf3LAeVy9diVdjTIeA7Vlg+IIf/tHP5yrUHRXRdRqJxs27X3RUCcHwQyUGQDIXYlqgs6oXLn4cmFj6DIyPzkx/23jOO1vtw95101+luCILIgbNr/M1+MQtVTOH3C8mQ8Zon/pwuZfLN9Z+og0g3EcZDrmICGouCIAtJ5dpNeC24Gd6rIWcsQ+UWodGRDuhBgifmXoQhOBotJpa828=;r6EpY5UZBWEe4qfbwVpZAw=="
 ---

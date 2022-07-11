@@ -107,20 +107,6 @@ related:
         width: 696
         height: 452
         isCached: true
-  - title: "Meta’s AI machine translation research helps break language barriers"
-    excerpt: "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen"
-    publishedDateTime: 2022-07-06T23:44:00Z
-    webUrl: "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 56
-    images:
-      - url: "https://i4.ytimg.com/vi/OwLDghdIKJM/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Meta Releases AI Model That Translates Over 200 Languages"
     excerpt: "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation"
     publishedDateTime: 2022-07-08T14:48:00Z

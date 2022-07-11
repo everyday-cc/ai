@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-07-iit-madras-ai-tool-maps-cancer-causing-genes.md",
+      "title": "IIT Madras AI tool maps cancer-causing genes",
+      "excerpt": "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
+      "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
+      "publishedDateTime": "2022-07-06T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
+      "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
+      "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/Featured-images-for-ML-6711.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T15:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-like-brad-pitt-do-you-have-trouble-recognizing-people-it-may-be-prosopagnosia-or-face-blindness.md",
+      "title": "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'",
+      "excerpt": "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
+      "originalUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/253c7156-c626-439a-aec0-49160966ee42/0ba5dff5-9160-466c-94b3-967d1ba42b12/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
+      "publishedDateTime": "2022-07-06T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
       "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
       "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
@@ -353,15 +501,15 @@
       "title": "Richard Kyte: The real ethical problem with artificial intelligence",
       "excerpt": "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it.",
       "sourceUrl": null,
-      "webUrl": "https://scnow.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0b8c5c7e-63a5-57fa-883d-ac11badcdcd8.html",
-      "originalUrl": "https://scnow.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0b8c5c7e-63a5-57fa-883d-ac11badcdcd8.html",
+      "webUrl": "https://nonpareilonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9f4a7255-e7ed-5770-903a-75876eaa568f.html",
+      "originalUrl": "https://nonpareilonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9f4a7255-e7ed-5770-903a-75876eaa568f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/0/b8/0b8c5c7e-63a5-57fa-883d-ac11badcdcd8/62c454ee9cb31.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/nonpareilonline.com/content/tncms/assets/v3/editorial/9/f4/9f4a7255-e7ed-5770-903a-75876eaa568f/62c454ee3489f.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
           "width": 749,
           "height": 393,
           "title": null,
@@ -376,8 +524,8 @@
       "publishedDateTime": "2022-07-06T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SCNow",
-        "domain": "scnow.com",
+        "name": "Daily Nonpareil",
+        "domain": "nonpareilonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1057,143 +1205,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-ai-is-calling-the-shots-at-the-2022-fifa-world-cup.md",
-      "title": "AI Is Calling The Shots At The 2022 FIFA World Cup",
-      "excerpt": "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
-      "originalUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/l-intro-1657047046.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
-      "title": "Expanding artistic frontiers in artificial intelligence",
-      "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg",
-          "width": 711,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
-      "publishedDateTime": "2022-07-05T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-fifa-will-use-ai-to-track-players-bodies-during-world-cup.md",
-      "title": "FIFA Will Use AI to Track Players' Bodies During World Cup",
-      "excerpt": "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
-      "originalUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
-      "publishedDateTime": "2022-07-05T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

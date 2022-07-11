@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-12-gender-bias-revealed-in-ai-tools-screening-for-liver-disease.md",
+      "title": "Gender bias revealed in AI tools screening for liver disease",
+      "excerpt": "Artificial intelligence models built to predict liver disease from blood tests are twice as likely to miss disease in women as in men, a new study by UCL researchers has found.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/liver.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.amp",
+      "publishedDateTime": "2022-07-11T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-can-ai-be-a-force-for-good-in-improving-diversity-in-hiring.md",
       "title": "Can AI Be A Force For Good In Improving Diversity In Hiring?",
       "excerpt": "Khyati Sundaram is the CEO and Chairperson of Applied. Founded in 2016, Applied’s mission is to be the essential platform for unbiased hiring. Throughout the company’s history, Applied has been hesitant to use machine learning on its platform — until now.",
@@ -50,6 +92,111 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go.md",
+      "title": "PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go",
+      "excerpt": "PayTalk, a new app accepted into the first Black Founders Build with Alexa Program, aims to allow users to conduct all sorts of transactions with voice commands",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
+      "originalUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GIMROH_q0po/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
+      "publishedDateTime": "2022-07-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia.md",
+      "title": "Meta launches Sphere, an AI knowledge tool based on open web content, used initially to verify citations on Wikipedia",
+      "excerpt": "Facebook may be infamous for helping to usher in the era of “fake news”; but it’s also tried to find a place for itself in the follow-up: the never-ending battle to combat it. In the latest development on that front,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/",
+      "originalUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/",
+      "publishedDateTime": "2022-07-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -586,7 +733,7 @@
       "originalUrl": "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1038,161 +1185,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-drive-efficiencies-with-cicd-best-practices-on-amazon-lex.md",
-      "title": "Drive efficiencies with CI/CD best practices on Amazon Lex",
-      "excerpt": "Let’s say you have identified a use case in your organization that you would like to handle via a chatbot. You familiarized yourself with Amazon Lex, built a prototype, and did a few trial interactions with the bot. You liked the overall experience and now want to deploy the bot in your production environment,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-efficiencies-with-ci-cd-best-practices-on-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-efficiencies-with-ci-cd-best-practices-on-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/18/Featured-image-ml-9064-1.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T14:28:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-discover-how-to-step-up-your-ai-game-on-day-1-at-transform.md",
-      "title": "Discover how to step up your AI game on Day 1 at Transform",
-      "excerpt": "If you haven’t yet embraced artificial intelligence (AI) and machine learning (ML) in your operations – or plan to embrace them – it’s time to get started.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/",
-      "originalUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/amp/",
-      "publishedDateTime": "2022-07-07T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-who-is-shivon-zilis-meet-the-neuralink-exec-and-ai-expert-who-had-twins-with-elon-musk.md",
-      "title": "Who is Shivon Zilis? Meet the Neuralink exec and AI expert who had twins with Elon Musk",
-      "excerpt": "Neuralink exec Shivon Zilis is reported to be the mother of Elon Musk's 9-month-old twins, who were born weeks prior to his second child with Grimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
-      "originalUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62c7374e99259b00181e5dcc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
-      "publishedDateTime": "2022-07-07T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

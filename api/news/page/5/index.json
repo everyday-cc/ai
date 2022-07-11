@@ -2,6 +2,126 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
+      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
+      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
+      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought.md",
+      "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
+      "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
+      "sourceUrl": null,
+      "webUrl": "https://pantagraph.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_c1b074ed-961b-51a4-bef1-f0dcdcfb526c.html",
+      "originalUrl": "https://pantagraph.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_c1b074ed-961b-51a4-bef1-f0dcdcfb526c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/c/1b/c1b074ed-961b-51a4-bef1-f0dcdcfb526c/62bc9a7df3294.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
+          "width": 610,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pantagraph",
+        "domain": "pantagraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
+      "title": "Afghan clerics’ assembly urges recognition of Taliban govt",
+      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
+      "originalUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-the-key-to-quantum-computing-ai-applications-flexible-programming-languages.md",
       "title": "The key to quantum computing AI applications: Flexible programming languages",
       "excerpt": "When enabled by flexible AI programming languages, quantum computing performs AI calculations much faster, and at a greater scale.",
@@ -963,152 +1083,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-futuristic-driverless-taxis-are-already-causing-major-issues.md",
-      "title": "Futuristic Driverless Taxis Are Already Causing Major Issues",
-      "excerpt": "The GM-backed driverless car company has been operating a commercial robotaxi service in the city since securing a permit back in early June 2022, but a Cruise traffic jam gnarled up one street ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
-      "originalUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/futuristic-driverless-taxis-are-already-causing-major-issues/l-intro-1656689423.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
-      "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
-      "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
-      "originalUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Weird-Stock-Photography-Haje-Kamps-websize.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/wirestock-getty/amp/",
-      "publishedDateTime": "2022-07-01T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
-      "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
-      "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/sunshine-vitamin-liver.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "publishedDateTime": "2022-07-01T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

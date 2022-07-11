@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-2
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI learns simple physics like a baby"
+    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."
+    publishedDateTime: 2022-07-11T16:09:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-01921-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Not my job: AI researchers building surveillance tech and deepfakes resist ethical concerns"
     excerpt: "The computer vision research community is behind on AI ethics, but it’s not just a research problem. Practitioners say the ethics disconnect persists as young computer vision scientists make their way into the ranks of corporate AI."
     publishedDateTime: 2022-07-11T09:30:00Z

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "First in Malaysia to harness power of award-winning AI supercomputer"
-    excerpt: "NVIDIA RECENTLY announced that the University of Nottingham Malaysia (UNM) is the first in the country to deploy the Nvidia DGX A100 system to provide the high performance computing (HPC) performance needed for artificial intelligence (AI) research ..."
-    publishedDateTime: 2022-07-07T00:48:00Z
-    webUrl: "https://www.thestar.com.my/starpicks/2022/07/07/first-in-malaysia-to-harness-power-of-award-winning-ai-supercomputer"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/07/1650251.jpg"
-        width: 620
-        height: 405
-        isCached: true
 
 secured: "UTbMGCciecd4ZWWmxNLbXHlmHW+ubK5gnCKNiBZdYPeVrP3EoenLAycXtZcwchfa4cpjT+400U9P1wh7IXixzSLgGdPGWS3S4nZL699vkXTK1PVD5LqY1xJXRJqfcxAcRjvXzENy9fuff+JDzY4m/Yn77xZax9I/DbTDdcGbxrpzJZN4QJ5CTnNk7DGGzCg2yZSjpBG1STqhCv/V/nLoOOzvdESHqDz4rFHnljKyEDqWjNaZQu6gASWJVBgmjIR3mXZ7EOZHHno2DM3HnhWVEGvQ9ZNmwDv3gQHFatETnd52FQ+MMKGtycnmsrajR7H3xJKyXzPkOOs9JagOYVYNXYLBHivWPo45FxTWB04kszQ=;1XBEKSg+pGwOpalkRBMB3w=="
 ---

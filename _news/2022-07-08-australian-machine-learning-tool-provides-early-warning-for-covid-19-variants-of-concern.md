@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Machine learning tool identifies new COVID-19 variants earlier"
-    excerpt: "A new machine learning tool, VariantSpark, was developed to identify COVID-19 variants earlier, which could become the standard for disease surveillance."
-    publishedDateTime: 2022-07-06T23:14:00Z
-    webUrl: "https://www.manmonthly.com.au/news/machine-learning-tool-identifies-new-covid-19-variants-earlier/"
-    type: article
-    provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 19
-
 secured: "86X/hTnSWPaBCnDtBzTlZn1Y+AOAAlz6CUK9zGnnYY0mwpwpdwxvpEP5gVvqrIruEl9+gwj4Z4tWyAKWxlvW6tq0CcvGnXXReyP+WULYNEswAOnOKf11Z8uZspYpVWTIVarH17p64EpB7vZMVTyaWsTufCK2Q1NgZ/f0r5FjdmuQtOp2UGBcqBgB0XfkHPHO3EO9+ADcaXerk5QQpFlKoCYSCvcq+wur0VCwNOx1Lnz5Ne1DGyG3B35+LmD7ECrCZ4gMZqdGJ5NJbSXFlpIKfbmoX46d7GRjBUGblzl4SV4xKqGfrkam+Wpg/MMPBj38a+MpIcDdRPJEmiOZ3SZ4q9LmVgem1wF0UwmQ3wHn4Ss=;1joZH/crRmHvUR64T8B7ig=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 764
         height: 1238
         isCached: true
+  - title: "Apple’s self-driving cars ‘smacked into curbs, veered out of lanes’: report"
+    excerpt: "Apple has been trying to work out the kinks in Project Titan, its autonomous electric vehicle program, since it sent several of the self-driving cars on a test run."
+    publishedDateTime: 2022-07-11T16:55:00Z
+    webUrl: "https://nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/"
+    ampWebUrl: "https://nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 42
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23001447-1657557949494.jpg?quality=75&strip=all&1657543615&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "NHTSA Investigating California Crash Involving Cruise Self-Driving Taxi"
     excerpt: "A Cruise driverless taxi was broadsided while attempting a left turn in an intersection last month; occupants of both vehicles suffered minor injuries."
     publishedDateTime: 2022-07-08T02:28:00Z

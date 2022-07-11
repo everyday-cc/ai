@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-06-ai-is-calling-the-shots-at-the-2022-fifa-world-cup.md",
+      "title": "AI Is Calling The Shots At The 2022 FIFA World Cup",
+      "excerpt": "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
+      "originalUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/l-intro-1657047046.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
+      "title": "Expanding artistic frontiers in artificial intelligence",
+      "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg",
+          "width": 711,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
+      "publishedDateTime": "2022-07-05T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-fifa-will-use-ai-to-track-players-bodies-during-world-cup.md",
+      "title": "FIFA Will Use AI to Track Players' Bodies During World Cup",
+      "excerpt": "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "originalUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "publishedDateTime": "2022-07-05T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
       "title": "Access Healthcare to hire 18,000 people in 12 months",
       "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
@@ -985,126 +1122,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
-      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
-      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought.md",
-      "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
-      "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
-      "sourceUrl": null,
-      "webUrl": "https://pantagraph.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_c1b074ed-961b-51a4-bef1-f0dcdcfb526c.html",
-      "originalUrl": "https://pantagraph.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_c1b074ed-961b-51a4-bef1-f0dcdcfb526c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/c/1b/c1b074ed-961b-51a4-bef1-f0dcdcfb526c/62bc9a7df3294.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
-          "width": 610,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pantagraph",
-        "domain": "pantagraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
-      "title": "Afghan clerics’ assembly urges recognition of Taliban govt",
-      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
-      "originalUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
