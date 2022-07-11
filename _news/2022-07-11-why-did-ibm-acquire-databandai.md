@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/IBM.jpeg"
