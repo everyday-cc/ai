@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://th-i.thgim.com/public/incoming/q67nix/article65626449.ece/alternates/LANDSCAPE_615/PTI07_11_2022_000021A.jpg"
@@ -25,6 +26,6 @@ images:
     height: 383
     isCached: true
 
-secured: "y2689jSlEYKJ2Y/zls8HeLG9JxzyKLXNDuzEMi+AuMdBUdk6iNfKUyfHBFFTvkgt4ViJkX7+huXdik+SKVnRLBqRNbmhRLEhceETUsdCYcyTNnf8NgSHtcQjBZn0vJJGsLPPjTprYyCuiEHe6qX6uh0PsfpdrQANiYQMOLAIk0tt/BnlF7RnYh+ViaRW25EIgw90f3Pzp1moa6trahkMUVD9XoS11Jr4P5+9IIKpsmezf02V8IodXkIJsXZ1taQnilA2gH1das5wbOctb59b4TC+ECXUZmmQc/zJBb+YIKATxq1qpIeYG3MoWPL6MvkhHfUHS6EAwZpzzvWY+RjKbucKXlcnvRWB4KIMEXt/XE4=;4NJhMTszA280moRBPyGJDA=="
+secured: "JzBT5mVOfotc4zxll+VRHQDo2lmqg/gpIEOFZ9TlpBI95S5aTiZAZ5tOiOMJDmQc57fI0iYhlbSMRYi4cYY9rHWaYtK0DQwsnSXmtUWDIe5u0gphplNpILhrgkDvp63nGiJR4xhELFQJRwGPcF7hP42JYchtL+YJmhZn4TKknKcxYEuXv18NEZ3owqsNc+JQGYimrXbepxSFsu9y2l4FSLHGeLlV6/o5ww94BnMMrGgbGiWQRUJKDnGNrjkwVfTx+WwetLXbdd8FFu9uSYBzArWgx4ean8jKiF8hlzaBR6VR9EhgxvKv6uks5Eux+/QW/LelmIgZHLjrQlldwooeVM/mcrhcOpf7wd1apxiz4pV9vuVb16GnX46wLHc0zq0cWU6tLFamaKr3btOFIWJThlDXaaDI3pJl+UXVuP0IrjjihuVVCIQNcY1DX9jWyBQLoHb8WeqbQPS+Ph0ITcWtfcBhXrPdpBkSRCEQFGiGI5mvQvUGIJ2oRL0dx7a1OfdtCHTyvZ/4ZFSwemCLqzQRvw==;UO9MrFJD/qZEgEwYLyXJKw=="
 ---
 

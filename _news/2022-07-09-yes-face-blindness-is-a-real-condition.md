@@ -3,81 +3,18 @@ category: news
 title: "Yes, face blindness is a real condition"
 excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
 publishedDateTime: 2022-07-08T21:14:00Z
-originalUrl: "https://www.king5.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-webUrl: "https://www.king5.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-ampWebUrl: "https://www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+originalUrl: "https://www.khou.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+webUrl: "https://www.khou.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
-  name: KING5
-  domain: king5.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media.king5.com/assets/VERIFY/images/a4afdbd3-5585-4f46-a600-33887839fe06/a4afdbd3-5585-4f46-a600-33887839fe06_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
-
-related:
-  - title: "This Is What It’s Like to Have Face Blindness"
-    excerpt: "Brad Pitt allegedly suffers from prosopagnosia, a face-blindness disorder, and he wants more people to know it’s a real thing. For almost a decade, Pitt has been open about not recognizing people he had already met before – and then upsetting them because of it."
-    publishedDateTime: 2022-07-08T05:49:00Z
-    webUrl: "https://www.popsugar.com.au/fitness/prosopagnosia-face-blindness-48877793"
-    ampWebUrl: "https://www.popsugar.com/fitness/prosopagnosia-face-blindness-48877793/amp"
-    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fitness/prosopagnosia-face-blindness-48877793/amp"
-    type: article
-    provider:
-      name: PopSugar Australia
-      domain: popsugar.com.au
-    quality: 44
-    images:
-      - url: "https://media1.popsugar-assets.com/files/thumbor/IvJLgsR9ybJCP50KHyGAU6O582E/0x143:3840x2159/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2022/07/07/696/n/1922729/2646748262c6ff2229b978.94799658_.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What we know about Brad Pitt’s ‘face-blindness’ condition"
-    excerpt: "Actor Brad Pitt says he suffers from a rare “face-blindness” condition called prosopagnosia, which impacts his ability to recognize people."
-    publishedDateTime: 2022-07-07T17:01:00Z
-    webUrl: "https://ktla.com/news/nexstar-media-wire/what-we-know-about-brad-pitts-face-blindness-condition/"
-    ampWebUrl: "https://ktla.com/news/nationworld/what-we-know-about-brad-pitts-face-blindness-condition/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/what-we-know-about-brad-pitts-face-blindness-condition/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/07/gettyimages-1150760482-594x594-1.jpg?w=1280"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
-    excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
-    publishedDateTime: 2022-07-08T13:34:00Z
-    webUrl: "https://www.foxnews.com/health/prosopagnosia-face-blindness-condition-brad-pitt"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 30
-  - title: "Brad Pitt Says He Suffers From Face Blindness—What Is Prosopagnosia?"
-    excerpt: "Brad Pitt believes he has undiagnosed prosopagnosia. The condition affects a person’s ability to recognize faces. Pitt said he has struggled with it for years, and that it has often made him come off as egotistical and smug in social situations."
-    publishedDateTime: 2022-07-08T11:30:00Z
-    webUrl: "https://www.prevention.com/health/health-conditions/a40544815/prosopagnosia-face-blindness/"
-    type: article
-    provider:
-      name: Prevention
-      domain: prevention.com
-    quality: 4
-
-secured: "aVX3AipEvGP9u+uPODtxRBWRPiP6zkPeuFjACxPnwsSpUsnVgfIU+V+dyXU9dkHIZWChUsRHXwmNh6PBCClSR9maXp9RR6u3u2OYBC6cotqPe+YTHz0Sb4h9NnKRJ4bUkNLkPPW1LtzqRmyp7x93GOH4XLWyhbKgJTBMj9lZJNnLTjs0dR2NHf0JMIhnTrFZrrPxhpyb0sUuFKBoXZ/a5p/+nxl770qh/2piDLlhqPSOc8h9rEflhmHwRsH59anOpZdhE61VjJxYv981AgJJ+y+MCpXprpezIgjDksroq6551P9/+HRI+tgD/+TcTxq5EYzA5IitsXRlBvgKVqHhv3P0aZWfNAvseOfkidQLEslVaa1AMmJkP6d/5oyqP20ifQlgq34cakjWXfQWb2//7f0qCgcMH9kzXXAlpUaNHKsoXzx8V283h/PBySENMt1oTPTZed1sYYq7eG+LcLBiboooNfWRJH8CtQv9GmMUb1wK3eAYVEJnHg9mCZRz4aMQuRgCQyDqVx/zZ4ILe6b97Q==;NtG93Gotidsuk08yU+CndQ=="
+secured: "TIfWh3BvUAKd7KpL4DMgAtBnCA8zGg4QRVotZ1PSBKn6NWGmdYrA/w/gaYHT/8b7L/6YON75ciFuhqa+SrmeDNrL+MbrkgQYvGPkKNgVRkerDpDY6nxW5H6SVf0FiZP+DSztFuxYSPAJbUGt0RLF1CdRPi5u1VybCqBisNWFzfMLFYeu25nfQhoj7Z4DNhz1KWQoCg4jNPpHGO+0PrGk6rVIbmtK8B73apZi0lIaEIOf5DDPUZ0Y7DyXR7VOc6xQG5xdi/7mHNsWtnF4MzeSuRM8dBinO+vMulfORzCFG8w2CKC/gQMbhVCTwAo4r1KPV6XL7Awugp+Bgw9ny2gh34NNYWEz3zzcaFMcpGNjxpWw0SK5udjjj9/jCeYmEFvVJaQJ0sRqmvrey3aE/xIoSV0/JyyMGguTvJTYjMgjEIid4Cpy0VhZKpZh65KZTz9nozGrhngKpG4CG6fwco/ZPnC54lpupD9zvy5Yfb5hMx81rEPon0Y1E4eeNvLUgBdNI5L4eOfxm8pYYaMUpgupQg==;WjKqxnTY+u3kg7ZwjPlB4g=="
 ---
 
