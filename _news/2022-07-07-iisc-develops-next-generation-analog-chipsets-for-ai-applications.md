@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Vodafone builds on its Google Cloud relationship with AI Booster"
-    excerpt: "Vodafone is doing a lot of application development on Google Cloud Platform (GCP)The focus with GCP is data analytics and the automation of software developer"
-    publishedDateTime: 2022-07-06T15:24:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/"
-    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/vodafone-builds-on-its-google-cloud-relationship-with-ai-booster-44887/amp/"
+  - title: "How is this team from IISc building next generation analog chipsets for AI applications"
+    excerpt: "Based on this, researchers at IISC Bangalore published a paper describing a novel design framework that can help build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices."
+    publishedDateTime: 2022-07-11T06:43:00Z
+    webUrl: "https://analyticsindiamag.com/how-is-this-team-from-iisc-building-next-generation-analog-chipsets-for-ai-applications/"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 57
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 46
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/vodafone-14356.jpeg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/iisc-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "IODu5XtVVHRuNS7TaPZ/+F5cW9YvoywcLzVcKrv6bwkt0LCCPB42VhuTWOb5aP6KyZ8ojE2w+92H8n1GWu80a5GbYFdCfn4iNqOYxTSnYhsb24HEVS/lLLw50tAqX1qtnhIUz2A8W7oi7hgCtJzOVYjCxSRTIBAlAXxRkq93YUe85tzcpKir55fTLV84hStHCtZOfH6ixaycRvxBYxhp56Y+RBfECiWDa1EA26s6K9Jc0o4Z/WGzeDlOsFf7cFDbnUmkIsyRatDyraVcYdDbASJTKi96QrR8j1itKpSv3RMNF/quKiV29sFXpXIKtIzXI4G8uPMr3jbohQST6E9l6Fi/fW67tPkDQ01IGlsqWsHhbLRSbMFC1XOdDMKtmW8UE2ZM4OrcWqDwHK12zvfbi6+Lesp6MlONDeO0zY0mczqm9/zh/e7dRu7OvbNEqs5NHdCClI7Zoru9u7uVG3aWb2TlF1oFxSb+KY8MDLgEabfiU9SQsGz5q3xx6S3jLSPvmwb/THQikMn4Lv9zlnqj0A==;AYmJYc4Kn92sUugaAMPEVQ=="

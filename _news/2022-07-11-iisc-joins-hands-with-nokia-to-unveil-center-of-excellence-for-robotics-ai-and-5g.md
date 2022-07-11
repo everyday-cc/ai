@@ -87,6 +87,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Nokia launches 5G and robotics research hub in India"
+    excerpt: "Finnish kit vendor Nokia will launch a Centre of Excellence for Networked Robotics in India to promote research in robotics, 5G and AI for ‘socially relevant use cases‘."
+    publishedDateTime: 2022-07-11T08:45:00Z
+    webUrl: "https://telecoms.com/516391/nokia-launches-5g-and-robotics-research-hub-in-india/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 54
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/03/iStock-1156531291.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Nokia to Establish Networked Robotics Center of Excellence at IISc Bengaluru"
     excerpt: "Nokia and the Indian Institute of Science (IISc) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologiesin 5G and Artificial Intelligence (AI)."
     publishedDateTime: 2022-07-11T01:33:00Z
@@ -152,6 +166,6 @@ related:
       domain: voicendata.com
     quality: 19
 
-secured: "J9zdhvL4t4lm3H5VW5OWmGtmRByy4tRePpp9IzxyXIZrlpqv1gLwbb5lmk0FVRvrP3WleWoXk62U/UfugoM0dnOH9y4TnemD5mXQAa5x0cE3Jhf87f0Y3nq15PBkPVzTfYvNQ8kvV0q6LjGZaH8k2AXuSbbY/OR1OP5xbKHgHympMIa2KdIcn6Q2kx3UbOcp01LQM2fSGwreKJXTtS/CN++BAz9dfBfjvRkfwrbpHdwkd+S9PpyXUBeveWnLOfV00bC6uSmiiJY/tY0qX6qNan267pepfnUhc6QWitTMnjHSdy6PWuysilMYoLjtFboMKciaAtWfVOOMouWa9X0UCFszBeenorLX3DGf7a4sq+Q=;C8fxxFpOBYtpWJ8bXFatog=="
+secured: "KnELvM1YhsaFRAgeLPfIsRnCFgYdxenFyXEOqZqAlTXQfckwbI061GELKwckwCrdLM8263fBUgd3KZDXW+Mqni3nTT49m7OdFHWJp0xzgJufVLc1VQYcGP8Y+4sE8RUvzsbicZr3/AJ/ZTOgie9Ozb45DjroWnql9Sa5gpZq0V/XdN962LstpOQvodWi2CVRJqhm0O3LTe0bLgLrSB/LT632augkHCRmqw4gFXlUE98RJsDHQwL53Jv7M4v8hDoP2IfqnmHVgTRkq9N0v+wQuOTDHqiXpKdhhZ/dfmaHqCHyuIAi4YepHcfHmDjvYJHm6i6ntdr54Bfjt+zwM4uO/MRAz1f31g1Ad0lHeDk9QNHP2ltusYhzezgoeD1apE+rrGWutA4UfRCdYtKr/bXXvjm4BPPfDlIt8U9V5Cjl3CS24FkS5W+21ieoD8Gq+HakQGQOV0D/5zxbe2LZp8OicnhFRZ8XwJuiwwFEV6l+5bQZWdB0zqEstp1mTcLste2bTGI0MBeZ+UVlKldCu7JKSQ==;caWJM24ZXmSd/tauuGs9aQ=="
 ---
 

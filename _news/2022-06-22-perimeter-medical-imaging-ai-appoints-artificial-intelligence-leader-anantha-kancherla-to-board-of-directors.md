@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors"
-excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF)(FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
-publishedDateTime: 2022-06-22T12:30:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-6-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors"
-webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-6-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors"
+excerpt: "His pioneering experience applying artificial intelligence and machine learning software ... Mr. Kancherla led the Level5 software team responsible for building the self-driving car. Mr. Kancherla previously worked on Windows at Microsoft focusing on ..."
+publishedDateTime: 2022-06-22T00:00:00Z
+originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors"
+webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors"
 type: article
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
-secured: "fNT+gsE1dtXNqG6IyvJCsCI5S7v9kUskX3YE5gbjKrX6PnlcPKLN3OcEiQ4U52mH77BB4RTu3rDsdRHTxeqYNfQL6WvNbDI2aFoUqe9XfnHxAMNEQNqObnzF9wKT7WlQ1+n6E6IovOFtYtxbkgfMcKxCWH+C4QO+xP87Igd+AesIH+sth6mGC6Ur50WXnoeipXteMRulMbnYKV9f8/5F5Zs9BWUV6iCqALkVw49nv+7TpA5h5FEJpo7CyrhKzP+xncbOkWB77sYyv7t3S/2Z+/sufI57TaaqsM7/whNxsKhjtOZlyCsHdZDQ1W8lxAypeimbwsWxMBhlAMR0TEqCE6p4MJGFwE495mRFjXioqNo=;VrT8Au/EmE5RPUc05PwkMg=="
+images:
+  - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png"
+    width: 596
+    height: 252
+    isCached: true
+
+secured: "rlUC4Lto8RNNzSkS45jqY6itaBoYbHTTwGGOxO54pd0vyG+kgeNmD3nK0UcSGgaE6jc5NcLoVFk/khM4eHH6edOoSWkPzfy6hcZVH6iTLUy1lsFef40n7SMendCkT1a94+ZhWoh7qJv2vRtGe/nIJkQ19Rgk4uDx7EzHjS5wl4488KNzfoFZq2mCOzpJF27ZcWaaDghoznwzGn19wUs+tnZ/FJkGA8yb8L5uqKGu2lhcgq2gRsPKooO0uGRlzaicGFT3NrOZgweFKt8vAWtJzCaO1tRQdM4e5XJU3AzzAm6E5/18czClP21qHSjzskePbkM+/75iMF20s0z/F4SbFbjWd3eIPlNrNRzTIqIqASc=;rt/6Bm5/bk0zuQAUk7JyhA=="
 ---
 

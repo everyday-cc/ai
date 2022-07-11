@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/break-through-langua
 webUrl: "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/"
 type: article
 quality: 156
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s AI Machine Translation Research Helps Break Language Barriers"
-    excerpt: "Meta announced that it has built and open sourced 'No Language Left Behind' NLLB-200, a single AI model that is"
-    publishedDateTime: 2022-07-06T16:14:00Z
-    webUrl: "https://www.techbooky.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
-    type: article
-    provider:
-      name: https//www.techbooky.com
-      domain: techbooky.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/07/NLLB-1.jpg?fit=1920%2C1080&ssl=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meta’s AI machine translation research helps break language barriers"
     excerpt: "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen"
     publishedDateTime: 2022-07-06T23:44:00Z

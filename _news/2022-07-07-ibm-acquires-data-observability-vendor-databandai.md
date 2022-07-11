@@ -72,15 +72,6 @@ related:
         height: 390
         isCached: true
   - title: "IBM acquires data observability firm Databand.ai"
-    excerpt: "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ..."
-    publishedDateTime: 2022-07-06T16:56:00Z
-    webUrl: "https://www.infoworld.com/article/3665758/ibm-acquires-data-observability-firm-databand-ai.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
-  - title: "IBM acquires data observability firm Databand.ai"
     excerpt: "Databand’s data observability platform allows data engineers to tackle challenges associated with bad data at source."
     publishedDateTime: 2022-07-07T02:41:00Z
     webUrl: "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/"
@@ -136,6 +127,34 @@ related:
         width: 1200
         height: 757
         isCached: true
+  - title: "IBM To Acquire Databand.ai"
+    excerpt: "IBM (NYSE: IBM) is to acquire Databand.ai, a Tel Aviv, Israel-based provider of data observability software that helps organizations fix issues with their data"
+    publishedDateTime: 2022-07-11T08:17:00Z
+    webUrl: "https://www.finsmes.com/2022/07/ibm-to-acquire-databand-ai.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
+        isCached: true
+  - title: "Why did IBM acquire Databand.ai?"
+    excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."
+    publishedDateTime: 2022-07-11T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/IBM.jpeg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "IBM acquires Databand.ai to boost data observability biz"
     excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
     publishedDateTime: 2022-07-07T03:15:00Z
@@ -182,15 +201,6 @@ related:
       name: NETGEAR
       domain: smechannels.com
     quality: 19
-  - title: "IBM acquires Israeli startup Databand to boost data capabilities"
-    excerpt: "According to the agreement, Databand employees will join the IBM Data and AI division to further enhance IBM’s portfolio of data and AI products including its IBM Watson, a question-answering computer system,"
-    publishedDateTime: 2022-07-06T16:50:00Z
-    webUrl: "https://www.timesofisrael.com/ibm-acquires-israeli-startup-databand-to-boost-data-capabilities/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 4
 
 secured: "wIVBaBbkuGupfFAURCHWx0y2iZCHAhlj+UUdbiLUejI+wBDYz4bB1SnnOynxMBvXrZbzRS8JUYqwjHcgvsQcn4lODjC6roaz3p1c6kZ88tbDcvrwaJHDnRHE1q+HDvhnGPXNWqTEZ7VdjOghYLgvULLkLtsNoudGDySqarUEVZclQjhboqzjUv/KDEPvybd9jpbhy7FSeZJJd6X6HLLJVAFopanjz5b++89SQZXGlI5P4lFmxdS5B5pPVw3ue9pJ/X31bN3GzvMN1VyBgt7evbO4eC7tZQIYqX/NuAGAKcOnPaSERBGgdwGkb9IX6GWoLazOrS93oxEu0G15ZZG7RbTi9IpAnMjCB4qrqELM79zUUW319rHpokqiVJTz6rcHagDNp3Q7Zaq1/vePM5XZLFHhG/Gg5+79d4HdlJbfHJzabQTJriMJZZ3isZLNRtPg3D1qEPhVea4cNHixHKe8enpLFbTmmjmbyDHcOlMi1O+6F+4awwf71TR1uw7zlhOEzfDTtB3edZe6iyjXLG9Dsw==;SBGriQeFsLAS2hmy4be6fQ=="
 ---

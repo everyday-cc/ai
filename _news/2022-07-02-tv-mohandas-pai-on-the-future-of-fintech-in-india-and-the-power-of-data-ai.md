@@ -2,11 +2,11 @@
 category: news
 title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
 excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
-publishedDateTime: 2022-07-02T09:11:00Z
-originalUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
-webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
-ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
-cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
+publishedDateTime: 2022-07-02T10:43:00Z
+originalUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/"
+webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/"
+ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
+cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 629
     isCached: true
 
-secured: "WVrePQ3axMEB6dcZIJGV9SRfiBc9sEVZhP0UiUH+BCtr7RpHKCx4S1YapbRkxLOJMIqvVIuW5fiD4ZwHn8/xAIOgpU36hFj4wZsbA4zCFYm/TCRN8sxr+CbrwkymkXEsGqJ8D2mJbdcl0tw9XhL4+yLM3us7gL3qHLRLmgayVby8fkvYepKZH+i6+f8qtV7ANwWLeqoPW61/Mtc4/xa8XzsYNJPWXgDMa05fnuBQZX70BqxP03GrIHD7jeJMGHexkC8+V0kPluy7Rxjxeq0csY10BvB6fDfKArYb3Z2deJ5ftbNwYZegiKd4UNOsfBZGRcr5dFQzmL1n71xlG/WBkSXoYSDNuuD+4/me+nAfbY4=;9TfaGmgVNp9hSN4Jgtyoqg=="
+secured: "CqxaD26FyzewRksuR3qTzYtYWCQxs3VslvwbLBsmV0+MjGojTnzXMo/k9v84L4/vhiw58ZxBKJ2a/J3C+HywsCVD5o4Am893Qg9BS98CIgie1Tgg6r3o7EBsYAjJQvG+QYuMEHsFtWQAibrlzazF5I2hdR1snTBTwSjN4BmcqGieYPT82GueYb73WjBeI3gRGZJLelqhTVstU/CpdHurcajwCexCiHkDDxfu/CH4/cqIag6SHml4Ejd5CHO3bKoIwAJgDElTN/e7u0Sh6ZmUwPHF9aeyGXLSYWJailBpi0Vq95CzRQjjQqR+lryRd5loWjVls1OuXdtmjA8qBeZ3xTlT1eEJ4l/9UwEZMK3yBAg=;nuMrpSumm+ZyvT3hAkgNRQ=="
 ---
 

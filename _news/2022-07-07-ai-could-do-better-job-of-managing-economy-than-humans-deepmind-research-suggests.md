@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-2
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Daily Star
@@ -25,6 +25,22 @@ images:
     width: 615
     height: 409
     isCached: true
+
+related:
+  - title: "Not my job: AI researchers building surveillance tech and deepfakes resist ethical concerns"
+    excerpt: "The computer vision research community is behind on AI ethics, but it’s not just a research problem. Practitioners say the ethics disconnect persists as young computer vision scientists make their way into the ranks of corporate AI."
+    publishedDateTime: 2022-07-11T09:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/ai-computer-vision-cvpr-ethics"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 44
+    images:
+      - url: "https://www.protocol.com/media-library/teacher-explaining-something-to-two-college-students-in-a-robotics-class.jpg?id=30076953&width=1200&coordinates=0%2C156%2C0%2C156&height=600"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "i4znNFtRWfuxN01xD+/656OewM4FaEaWzUlFXPCD3xSvpd+ELevDCRFJslMUKvFWz9AnKPSuBoGADUFEzO7D7ytQvYRd/tUWrfXD9EWvV7U3DqMKWYjpyx049H09n0Gj2TCbJlFnSNCGNVIfPr/SM9eF2XlrNIagQcQ49z7zcTnW60zt75jeQJlXhapTz7cBDH3urSLj32L6tVMENFtDabTLFSb7KWixNoVlXPOdpN8GbC/kZnr4wlNyFGnvFEpKKEbW97DBeGshmC3K8+XBjktdsXKzoJwqi30Ob0k36K7FB3AVtKog9L6PZ1440L8Nij9vpLSjDCfAkuzFEJ9hNlOPxi/Zo/FrR0jNex3UsImagOpwXOZgVzfM6el35GLW3AKK8sdtMKB2hE+Dx4YDMhDtFWhc+D4vuabmlqb3HjdHK2iGmbfcVGgPZs6rpiR49Se1CJeXOI//mjN/dFQcRtZUAd2MvxNhS1DPBOAItiM4oiOYTFEo0yYbguoZ4J9O+NO0vbaJA12yiBb9jZjTBA==;QXOrvyO/T3bPUBQCUKKssQ=="
 ---

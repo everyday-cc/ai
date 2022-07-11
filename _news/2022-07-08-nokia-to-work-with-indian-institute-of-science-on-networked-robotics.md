@@ -87,6 +87,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Nokia launches 5G and robotics research hub in India"
+    excerpt: "Finnish kit vendor Nokia will launch a Centre of Excellence for Networked Robotics in India to promote research in robotics, 5G and AI for ‘socially relevant use cases‘."
+    publishedDateTime: 2022-07-11T08:45:00Z
+    webUrl: "https://telecoms.com/516391/nokia-launches-5g-and-robotics-research-hub-in-india/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 54
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/03/iStock-1156531291.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Nokia to Establish Networked Robotics Center of Excellence at IISc Bengaluru"
     excerpt: "Nokia and the Indian Institute of Science (IISc) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologiesin 5G and Artificial Intelligence (AI)."
     publishedDateTime: 2022-07-11T01:33:00Z

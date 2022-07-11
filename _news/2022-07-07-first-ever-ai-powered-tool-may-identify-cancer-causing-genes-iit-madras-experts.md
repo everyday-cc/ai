@@ -59,6 +59,22 @@ related:
         width: 1080
         height: 1748
         isCached: true
+  - title: "Doctors using AI catch breast cancer more often than either does alone"
+    excerpt: "A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads."
+    publishedDateTime: 2022-07-11T09:22:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/"
+    ampWebUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
     excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
     publishedDateTime: 2022-07-07T11:54:00Z

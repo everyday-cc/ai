@@ -1,14 +1,13 @@
 ---
 category: news
 title: "Reddit buys natural language processing company MeaningCloud"
-excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors."
-publishedDateTime: 2022-07-02T07:18:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
+excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p.."
+publishedDateTime: 2022-07-02T09:06:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: India Times
@@ -18,17 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Reddit acquires language processing company MeaningCloud"
-    excerpt: "Aligned with the efforts to optimize the value of content on Reddit, the platform has announced the acquisition of MeaningCloud."
-    publishedDateTime: 2022-07-05T11:29:00Z
-    webUrl: "https://www.socialsamosa.com/2022/07/reddit-acquires-language-processing-company-meaningcloud/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 4
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-92616242,imgsize-23830,width-1200,height-628,overlay-ettelecom/reddit-buys-natural-language-processing-company-meaningcloud.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
-secured: "LWSKPAoz8AMf18XtAibtCsKjaSZpGluW7Vt05Z3HtCvofkPDJvz/brMHbt80lpozv+0PvVF0wLS5G9kchgcaFtjkkEXadR3hyvTdwzrRnMMYbCRPNHENP6nj8dDUSu1XWS3pjrEelJ/TG4ZJ3KXlPjsM1Ov5YOJAVWrtUfXvV7NPyIYVA2U0uo9fGDQwKyi29OB8EyGcMWda3Hia+le3REpu9Zat5RBky4HAkG4e03R281MyM3uyuEgpkPYzx7+7ii1LiwaCrlqbUSwkRk48rrbE4VaUJBIvkYtp35zLuduy6OrZVpAMrs6VnsT3QCe6h9MrJ5UXAECWXD8qldWbFFwYm/zn4/aAt04OwVXxtK14Hn2QexEMq2dJdA8OcwBj1tREcY90Ggj9m73zHrtnGkPq/OHTqesAjue/ovtAcm1qFsBOazoqMqF2D9Tw44ipBCwny3PzXp9/yL40rnI9dfpVAzpkVHxsEiuBt4sIUNai41K3z/VgugonJvc1CeDVqaXdApLUGd04NoBL+tNK9A==;AuBu2KkDDS3Br0jPewg7Kw=="
+secured: "zDm7sxhcXRg1IowUgTnrVXFG8MszQ/vc1SbqZ/yl/1TruczYQqcqplBJNdHU+u6lFNMubMcNQQ+yFNuZtcQwEdNvU63x1h7GKFbSJ9C65eF3yXs0Fu1jA+GU2xftvNsnwDNJI/Okkr6nJEWT9eyV5pW2/9IeG+0Ajm+kMSZ5f8SgfOy9+fxi9rEtYombmSWNGDQKq1tCrcWfqVBWk+2/u0riJ5MZg+tP+nc2vDAnujrz83/gRsvrRBAb+nZAUVozQDOxcnVx5lQ3/cjnHO8iqVC5KYNOwyTlS/v8fc+p6USikm7jIzC13woiFLl6w26Wvwoeq0DOeNJ0KPjEpCedUlaPAfWPDuj9P/MMBoe3IbU=;Etz2xXVvCpoLpE4wRZWqQA=="
 ---
 

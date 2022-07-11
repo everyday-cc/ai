@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "India must be ready to face upheaval due to AI, says Rajnath Singh"
+    excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
+    publishedDateTime: 2022-07-11T09:08:00Z
+    webUrl: "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 59
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202207/ezgif-sixteen_nine_142.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh"
     excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
     publishedDateTime: 2022-07-11T06:55:00Z
@@ -59,6 +75,38 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "'India Believes World Is A Family, Developing AI For Humanity's Progress': Rajnath Singh"
+    excerpt: "Singh, who was speaking at the symposium on 'Artificial Intelligence in Defence' in Delhi, addressed several factors concerning the use of AI and its future."
+    publishedDateTime: 2022-07-11T08:06:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 48
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1gqvpf6atlnz8oxu_1657523738.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath Singh"
+    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T08:24:00Z
+    webUrl: "https://www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 43
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/fig4eg/article65626449.ece/alternates/LANDSCAPE_615/PTI07_11_2022_000021A.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "To promote 'Aatmanirbharta' in defence, Rajnath Singh to launch 75 AI-enabled products"
     excerpt: "Defence Secretary Ajay Kumar said that the nature of modern warfare is changing and AI will play a significant role in warfare. These products are tested and will soon be deployed"
     publishedDateTime: 2022-07-09T03:32:00Z
@@ -73,7 +121,21 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T07:01:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-411423"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 26
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_458303496.jpg"
+        width: 660
+        height: 486
+        isCached: true
 
-secured: "heqma8pJZyNP+AUMwniWFrMwGGB20DG1u9pVAuiM8HD8zTuJdwqhLFaj9Gny85/aRpJ9ipURxQ+gbdc8TYR82S68zTwNdAn6HbewxnZIrQgOU6PdZmpJM4VpHtkvdW7dGqXdPDqVOc2ne7MjI25MaOrse3rEfLGMllvzONp8K/ROiGAYWiI0Bj+zx8GI8+306YF14ule3g6vz4f4riQjj0VTUE4Uo3P2WqIc4zdZe9Fz1gHUCI1sCdf1DNnH6Bd4dvyqGVLdLDFL54FH1lD+hIHszwrCwBRYJhyuext5DgEbz3+CJLYoNr9IBelZVnGSIrA5U22IpgMB2d/7LSZGLYcxcIwnipfq3ZbA0pY8Y6s=;bU15pX1W4I+XNQH3r0FCfA=="
+secured: "F/i2G9o1Sxf/bGmfVIdfcUaPoYmAdkZxqtFeot7i7fvP1Qk72mfL3yan6kA4gLjdIXrOGrgsCRQChDTdrlUGwoWwsH+l79JlPldPtAbuyvzDW38C3pJH8GxBPzaGP9t/6jr4E40N/mrDNsBXOFei6ykPSL17hLrHJ/whpKxqraEP34deKVZeOVDiqW+Sl/xBMDTlJoizrBQd3fcZL1OniIPOUgnyuy9yoXc9JOawLsWnBNVMRxB6TREI26o6/VInJqQikW+W74MGLM2bpxq800tiWmX/m+qZGFLs5n5v4A5Du7clJqbR/WrpVtSBIjnknazdhy7SCnlkDu9NKrWfoSV3dS82cStVWFwx704IbeBdy6kh8Zht6UJmn0zwQdtUJnDsGsk8PnfFJwLg1DnOZmuiCIfFSjUNEYzrqcAg7zBh7JU1ckHVkW9qpo8tXCtZ4hydjmkT7mTK/N1s2gt9LH8HY2V9/pV2eM2k6Xh3X4Dgjk1lrWZAcGgkOl3VRLIb1qy1JiYcHLU1VYbGl1fL8A==;L2ctbxYjxJFjkT91mhdYqw=="
 ---
 

@@ -96,6 +96,20 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
+  - title: "Meta claims its AI has cracked translation"
+    excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
+    publishedDateTime: 2022-07-11T09:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55123-meta-claims-its-ai-has-cracked-translation"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f12bd2a0811183bf2359ca3dc07974ee_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "EQPcSZ93IDl3+2zBY+sLzy5muTQx5DvGTMU4olPQzbNruWU5/z+rLOzdapON9Gm7mPsg2GzCkhkDTuw+y87xjYrRujj8vnImSolnZ4fwx+8GBKzD+L1SttwQ3yB1vKhdMZHmGMOG/8RrZrlUEOJ5PWY27cL+GxAZJXorSHmzL353le06xpkQah5SB7nuIunGP0UuhDMKYrUQZtAL01UEOudgCS14A63DVr9Hw6cpod2MWauojXujyxlb4pykVKTADKKjOrC7x8VnSAMhY+ZH8YkE9HdPwaPsYAF1S1+Uq9YYe5mmlh8sEiUZ5vsVR8C/M6bUHMQsRT/tEO6ayOeRvMYtEZ1GtjdqaoUcXY52q9U=;6Ot29i8JClraNxvOY29E9A=="
 ---

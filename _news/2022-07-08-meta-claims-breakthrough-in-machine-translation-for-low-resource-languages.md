@@ -55,20 +55,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Meta's new AI could tear down the language barrier once and for all"
-    excerpt: "Trained using one of the world’s most powerful AI supercomputers, the No Language Left Behind (NLLB) model is already supporting advanced translation features across Meta’s su"
-    publishedDateTime: 2022-07-06T15:18:00Z
-    webUrl: "https://www.techradar.com/news/metas-new-ai-could-tear-down-the-language-barrier-once-and-for-all"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GoMo22vC6Bwi9JYAUiaxxa-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta’s new open-source AI is a step towards a universal language translator"
     excerpt: "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems."
     publishedDateTime: 2022-07-07T13:17:00Z
@@ -78,20 +64,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Meta’s new open-source AI takes step towards a universal language translator"
-    excerpt: "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems."
-    publishedDateTime: 2022-07-06T16:05:00Z
-    webUrl: "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 68
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab"
         width: 1280
@@ -126,20 +98,6 @@ related:
       - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Meta.png?resize=450%2C300&ssl=1"
         width: 450
         height: 300
-        isCached: true
-  - title: "Meta open-sources an AI model that can translate across 200 languages"
-    excerpt: "No Language Left Behind model can translate across 200 languages, many of which are not supported by current commercial tools."
-    publishedDateTime: 2022-07-06T16:24:00Z
-    webUrl: "https://analyticsindiamag.com/meta-open-sources-an-ai-model-that-can-translate-across-200-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Meta_AIM.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Meta Builds AI Machine That Can Translate 55 African Languages"
     excerpt: "Meta yesterday said it has built the first open source single artificial intelligence (AI) machine that can translate across 200 different languages,"

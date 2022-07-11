@@ -40,6 +40,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "India must be ready to face upheaval due to AI, says Rajnath Singh"
+    excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
+    publishedDateTime: 2022-07-11T09:08:00Z
+    webUrl: "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 59
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202207/ezgif-sixteen_nine_142.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rajnath Singh Claims India Must be Ready To Face Disorder Due To AI"
     excerpt: "Defense Minister Rajnath Singh has brought attention to India's need to be cautious with artificial intelligence (AI) as it is bound to face legal, and economic distress among issues."
     publishedDateTime: 2022-07-11T07:09:00Z
@@ -71,6 +87,52 @@ related:
       - url: "https://c.ndtvimg.com/2022-07/rnbsvuao_rajnath-singh-pti_625x300_11_July_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "'India Believes World Is A Family, Developing AI For Humanity's Progress': Rajnath Singh"
+    excerpt: "Singh, who was speaking at the symposium on 'Artificial Intelligence in Defence' in Delhi, addressed several factors concerning the use of AI and its future."
+    publishedDateTime: 2022-07-11T08:06:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 48
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1gqvpf6atlnz8oxu_1657523738.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath Singh"
+    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T08:24:00Z
+    webUrl: "https://www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 43
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/fig4eg/article65626449.ece/alternates/LANDSCAPE_615/PTI07_11_2022_000021A.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T07:01:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-411423"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 26
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_458303496.jpg"
+        width: 660
+        height: 486
         isCached: true
 
 secured: "+7YghB4cnZjHdG3EIQvXE+W5vCpT799l/WAjmSymLGvI5BBvUTFyETknx+EK9OQC4TfD/RsIG/n+tYE/ohBZVhLLp5IPk4j2rEOBDZFs5qNPIQUM/6osdTf7qHLeKlZWom6DeNX5Cg8BbFpH+G19yJdo2FUO8EkbdCd+1KRrxAdMMbDgn5TqLjuUA5OS2LUIJgdKreI1z+gGYfu0emxhoMriUFMOWdBqTB0b59UV2xjkSmknfg9cRpWfvTiV92Q+jpf8Gb57LFfdoMssL15DE4bhAIMSfY+eYty+iZjiEgZ5h5Z6V9YQrBEIUyeduww3kCitVDrlK9zhB51HRtmcwLDyJDO40eGhYmcyC17NnexaPjMj4keAtntdWG08XpdhJHMRuCgPtmPiJkIHKmU6qkBeBsETxfeN2Q1Mpp3tjkkMmw/WAPK5w2BC4flzCPWD+ocsBuWW38Fv+dAFumQvWd3H9Vn1n2Fi6QTG5Xdo2hK4bWJYP6pxEi4bUqunG4dD6N//+H+UzJkkvzRS6k/pRQ==;kbQGizTg5hVP87EvcROBCg=="

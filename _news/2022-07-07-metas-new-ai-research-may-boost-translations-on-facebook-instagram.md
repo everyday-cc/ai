@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/social-media/metas-new-ai-research-may
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
+  - title: "Meta claims its AI has cracked translation"
+    excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
+    publishedDateTime: 2022-07-11T09:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55123-meta-claims-its-ai-has-cracked-translation"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f12bd2a0811183bf2359ca3dc07974ee_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "q1x7s93cClkYd6AkK8XGpftvUbyGAstjjxxyHwvRIWGY06ebh7HfqIf8o7f9eMqQrYXK+h22FVAbXHuCDEyUFWrw6K2IMxxDWHV6YGLc5vhn5Uz5zaqsbJ8fIg3urDYgqB0Hb+wOEUIdQVsE/8Q2anNBvsTExZXp/Txa+T7RIkb1LYzqBAEJsW8bm11iCq3l7Sx7rE/954sTtx5yvtH1gOR+1oKGemIwnQDIfwn52QY3HblruXRxHT/B32uT/FH8b6JfaeJWvF50OFMu4xyYeNnOfjSWfa0lu9ZbdUYajZA0+i/NCu0Pg1AGyFCjjl54ESi6JoWJo0/f+9wugRa3vXzVNtKVbH5T1s08RuuV2/Rhl0f6UsoEsDj4HnYz4seeLreEt0iGdxxnqNtdQWH1zBD0ttP5E5nGQDJEE+Ze5VP/NRzE1ks3IiYvYnFk+KpI+zSv5U3xUbOMve5bc3ZoRISTu7uozHjrrrDDCO6KbAXSm+3WH3lNGclwkCB1Ph8LavXKRdTLbGvP07jX8ZEA7A==;Od+NkMQcTnDTjFpPA4ls/A=="
 ---

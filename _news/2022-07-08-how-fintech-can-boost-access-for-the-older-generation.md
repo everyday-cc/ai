@@ -61,6 +61,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "3 innovative FinTech start-ups in Japan"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-07-11T07:45:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-innovative-fintech-start-ups-in-japan/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_FinTech-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "This fintech bridges aging clients and their financial caregivers — before it’s too late"
     excerpt: "Through monitoring, family communication and education, Carefull wants to support those managing the finances of aging loved ones."
     publishedDateTime: 2022-07-07T16:48:00Z
