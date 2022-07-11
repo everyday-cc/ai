@@ -7,7 +7,7 @@ originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634928.htm"
 webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634928.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Deep Learning Market Size USD 165.79 Billion by..."
-    excerpt: "Furthermore, deep learning analytics that are cloud-based assist institutes in lowering operational costs as well as infrastructure and storage costs. Furthermore, it provides superior security ..."
-    publishedDateTime: 2022-07-06T12:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27967810/deep-learning-market-size-usd-165-79-billion-by-2030-with-a-cagr-of-28-93-report-by-market-researc"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "eN139aKfYdVy+3wCK36RJ5d24qAozKALicFRMUlu5mgB2ipVEMHMj6Xp6/TDQSpxr4tztira58lm6hs6Em1Ue/kvM5zDPPSe6EEew0omlTq3bE3aQdT0Bspd1HxOvDGXmSr15WwLmqTCGEOVL3iZQL9cR8fuMmdrarrgXg+Ggc7MDZ9GOyGwBYwUffQ+No/VQ31mlbbp5RzwjPKa/d3D2IFtKEbktsBCwSrPcJq4UjP7EiQrn2a81JwihKNysOKYnQ/Am3YOS/qE0I+cRzRuvU9zIuHFZcRBNOffRalORoXUg8QE2xdbhjGVkJW47qkmN6OpiaVvFEGyFysmZc20KVfmBC1QbUqHf/t5hSPdE8I=;tRBZeLHldyw2smjZUNFnRw=="
 ---

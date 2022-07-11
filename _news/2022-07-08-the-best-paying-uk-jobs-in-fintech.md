@@ -39,20 +39,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "The emerging role of fintech in times of conflict and displacement"
-    excerpt: "Initiatives help people who are fleeing areas of conflict, famine and climate change – while upholding sanctions"
-    publishedDateTime: 2022-07-06T12:15:00Z
-    webUrl: "https://www.raconteur.net/finance/fintech/the-emerging-role-of-fintech-in-times-of-conflict-and-displacement/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/07/fleeing-Ukraine-war.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Europe’s Next 10 Fintech Unicorns"
     excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
     publishedDateTime: 2022-07-08T05:00:00Z

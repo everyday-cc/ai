@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "An Outsider’s View Into Healthcare—What AI Can And Can’t Do"
-    excerpt: "As most physicians are only beginning to become familiar with AI and understand its use cases, what can AI currently do in medical settings, and where is more time and innovation needed?"
-    publishedDateTime: 2022-07-06T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62c44a474428774f0742918d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "How AI Can Boost Rural Connectivity & Healthcare"
-    excerpt: "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G."
-    publishedDateTime: 2022-07-07T15:01:00Z
-    webUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 56
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png"
-        width: 748
-        height: 445
-        isCached: true
   - title: "Smarter Health: Artificial Intelligence and the Future of American Health Care"
     excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change all that?"
     publishedDateTime: 2022-07-08T15:46:00Z
@@ -65,6 +35,43 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "AI-based hiring tools can violate Americans with Disabilities Act"
+    excerpt: "Failing to provide a reasonable accommodation necessary for an applicant to be evaluated fairly by an algorithm or AI-based tool; Using a decision-making tool that “screens out"
+    publishedDateTime: 2022-07-07T05:30:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/diversity-inclusion/ai-based-hiring-tools-can-violate-americans-with-disabilities-act/412254"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/035/0305_637927685472024800.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Meet Hucu.ai, a startup that’s like ‘Slack for health care’"
+    excerpt: "A Chicago entrepreneur who’s spent much of his career developing technologies to care for elderly people is at it again with a new startup. With his latest venture, Hucu.ai, Asif Khan has developed a platform for physicians, nurses and caretakers across ..."
+    publishedDateTime: 2022-07-07T16:15:00Z
+    webUrl: "https://www.chicagobusiness.com/health-care/hucuai-startup-thats-slack-health-care"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.chicagobusiness.com/styles/1200x630/s3/Asif%20Khan.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North American Startup Funding Fell Further In Q2"
+    excerpt: "Startup financing fell across all stages in the second quarter of 2022, with the drop most extreme at the latest stages."
+    publishedDateTime: 2022-07-07T12:00:00Z
+    webUrl: "https://news.crunchbase.com/quarterly-and-annual-reports/na-startup-funding-declines-q2-2022-monthly-recap/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 2
 
 secured: "Y9ENrEbdBOQ01QHkRUBX3AlpguHZNVi1+FYn+vYxVoBYJiFLrWV7lUktUruviXqbkMO7/pcdbRy/LmJ2GLvoGv/qbD7UtopkoiKVYlgXgLiNCoBEehavOVHzFtymrvuc91aijIj0OCTTJXOuaMZDkfQ+MtV/Zu2mysyCP62oOXCn+4F7sIYpBFmG8riUqXOPWzeiGDfcpVuudjhp+JWS3QQlXEninWeo5Y+p2lHPyIrGBHTCtk5v3oviRY1Tvc6JFDBDz13CsYe4Vb5xZ59eA5RXtJVtBMnDLrCYHHARkWm0mvuTIDf90CTrKSp2ZUFHxIzo33ZdlzLwOGmnBbzEGBviKr8Z3S5M2xzJRPHg2GSQaaCKQqFS32WhrDTNrNMVRNhMF1/U0qBLEj+OX1gKvwFJf7pSo5JtuZwqPz/V2An4XEq8RWsUW3RB3ZhaHfHbFyyWWAqZbv+E0ejoknMcEShFC5c/mNbqP8d5IDeKka+sUS5zs5QYH0FfzB7dmPdihWCNrxahGhi+VeZ2lEvnjw==;5AcHVJ6cj4HWbww6d5RCeA=="
 ---

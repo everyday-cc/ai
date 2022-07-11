@@ -1,26 +1,24 @@
 ---
 category: news
-title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ..."
-publishedDateTime: 2022-06-29T14:46:00Z
-originalUrl: "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-webUrl: "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+title: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars"
+excerpt: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ..."
+publishedDateTime: 2022-06-29T02:06:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
 
 provider:
-  name: Courthouse News Service
-  domain: courthousenews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg"
-    width: 2600
-    height: 1733
-    isCached: true
-
-secured: "nC5jqhLz13JLERoivn0brwSOdBrrU4wmViBnfIpdY7zHNsCo1rKUZyu4MBGcC5W6II/QudgeQOOqg4+pPYk840kBt22G9Yby5kyL5vkA2++Ms1b5lH4kvvx0aYQkFKSyYOySCTI9t9rUiE5fGAUSQoBczswdWTrpee+JnQkPPA1lp9yF9z3I57Omlo3kRi1bd/o0WKqSOMO2a1g1EyT9iExThBIWcydDvLMXwihthYny0LNMd9pNLAolEbgbCXBBhXPcJGQvX/pT1OSr6S/uN3jprXM2F3VT4BHrSNHUoQExND9J2VnWocI2vPAMCrnrcGpIBw2DlJpe8dU+nubDjx+GOJuGy2dK+pjxDqFRyGM=;EOmrXXVqoK+dYfOXTnQcXA=="
+secured: "bnOUGB+RV3GCNjUE6mobmzxGF0y5sB590/8OlMbiz6Mk4FIK7aN5Hs8mTs+LfO6a9+EmNxFoTJZLAGAr3KG1XiuqJi7oi91M3fjbGqEK0RFt1wdDDzLCiXFxBV9BSHpcdmKoSqbYuXjJXGPCQ2gz/eG3gYLYIq4MJZv5lyUhf16CbXylp63UR3OgkuoFIbcYZM4WgBAfZXHzbSgWOCD03qSFhgBeslWdsOv7Y6pSUgJd2Z0cc5Pth2tiWj2A4qz+Xq/eH1W9Tt4ohtdsy0Q5Io0n1zUMyASmpQebJkRcDbs7pUz0blkpq3+RIPjJuihTIpGLDBG+y6GQeyputFyT+jYATFokX+mMIUmoaU/2ez8=;0oW42VdOenKW6ZO7Ig7IiQ=="
 ---
 

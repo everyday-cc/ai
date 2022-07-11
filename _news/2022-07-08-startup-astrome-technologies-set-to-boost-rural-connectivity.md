@@ -41,6 +41,20 @@ related:
         width: 624
         height: 416
         isCached: true
+  - title: "How AI Can Boost Rural Connectivity & Healthcare"
+    excerpt: "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G."
+    publishedDateTime: 2022-07-07T15:01:00Z
+    webUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/"
+    type: article
+    provider:
+      name: Pragativadi
+      domain: pragativadi.com
+    quality: 56
+    images:
+      - url: "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png"
+        width: 748
+        height: 445
+        isCached: true
 
 secured: "rR6caR/DS7AsAee0KjoNx/tRxmyE6AeEy5uvwJdv/g7cgqS73BZVtZ8wGb+z4pLHyP06a4G2uFwpt8alWu56vgoaKjB31NLy3I2wBjQbrDVMvxl1RDSju9qwmHSXQNp71xwm19AziRsIqNwuYPP0wgso7AS34FIpyYz3L/SkRmWbECfly9YkZ62MVSsV1MYWg/k+lhPL2nwDavj0C5Tt8w2iApHhMZkpjtwItjYo0MvTUvGOOfPehLA5GmT1iWLLQYIFknqL1rb7vQnrPXRD1we0gsKyL2QR4RmH+tGcF4I64tbdozvgXvLBaO4b9QrdEph02jxGCscdBP026bdQf0ltuIWAnEDigsTz1WwUfoA=;oduFu5+kMkThuQxVXAmZTg=="
 ---

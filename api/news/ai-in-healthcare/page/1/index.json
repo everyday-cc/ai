@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-08-smarter-health-artificial-intelligence-and-the-future-of-american-health-care.md",
+      "title": "Smarter Health: Artificial Intelligence and the Future of American Health Care",
+      "excerpt": "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change all that?",
+      "sourceUrl": null,
+      "webUrl": "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "originalUrl": "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/79/3a/87132ceb4ab988d758e1f10cd79f/linderpix-wbur-onpoint-6815-web-1000x667-400x267.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true",
+      "cdnAmpWebUrl": "https://www-krcu-org.cdn.ampproject.org/c/s/www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true",
+      "publishedDateTime": "2022-07-08T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRCU",
+        "domain": "krcu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler.md",
       "title": "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler",
       "excerpt": "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical",
@@ -85,6 +128,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ai-boosts-rural-connectivity-healthcare.md",
+      "title": "AI boosts rural connectivity & healthcare",
+      "excerpt": "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
+      "originalUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1",
+          "width": 624,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1249,93 +1336,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy.md",
-      "title": "North American debut of ground breaking film on Sunday celebrates revolutionary mental health therapy",
-      "excerpt": "CNW/ - When Claudia Gerini was growing up in Italy, she probably didn't think she would be helping lead a mental healthcare revolution on the other side",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy-899814360.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy-899814360.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1847459/italian01en01.jpg?p=facebook",
-          "width": 1146,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-is-artificial-intelligence-supported-caries-detection-cost-effective.md",
-      "title": "Is Artificial Intelligence-supported Caries Detection Cost-effective?",
-      "excerpt": "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "originalUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/teeth-1.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "publishedDateTime": "2022-06-25T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

@@ -26,47 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "An Outsider’s View Into Healthcare—What AI Can And Can’t Do"
-    excerpt: "As most physicians are only beginning to become familiar with AI and understand its use cases, what can AI currently do in medical settings, and where is more time and innovation needed?"
-    publishedDateTime: 2022-07-06T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/"
+  - title: "AI boosts rural connectivity & healthcare"
+    excerpt: "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov"
+    publishedDateTime: 2022-07-07T05:21:00Z
+    webUrl: "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62c44a474428774f0742918d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
+      - url: "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1"
+        width: 624
+        height: 416
         isCached: true
-  - title: "Smarter Health: Artificial Intelligence and the Future of American Health Care"
-    excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change all that?"
-    publishedDateTime: 2022-07-08T15:46:00Z
-    webUrl: "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    ampWebUrl: "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true"
-    cdnAmpWebUrl: "https://www-krcu-org.cdn.ampproject.org/c/s/www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true"
+  - title: "Startup Astrome Technologies set to Boost Rural Connectivity"
+    excerpt: "With the help of a network solution called GigaMesh, fifteen villages in different parts of the country may soon be connected and ..|News Track"
+    publishedDateTime: 2022-07-08T07:42:00Z
+    webUrl: "https://english.newstracklive.com/news/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
     type: article
     provider:
-      name: KRCU
-      domain: krcu.org
-    quality: 55
+      name: News Track
+      domain: newstracklive.com
+    quality: 44
     images:
-      - url: "https://npr.brightspotcdn.com/79/3a/87132ceb4ab988d758e1f10cd79f/linderpix-wbur-onpoint-6815-web-1000x667-400x267.jpg"
-        width: 400
-        height: 267
+      - url: "https://media.newstrack.in/amp/uploads/technology-news/technology-news/Jul/08/big_thumb/5g_62c7d793f2627.PNG"
+        width: 1452
+        height: 900
         isCached: true
-  - title: "AI wants to revolutionize healthcare—it may be doing more harm than good"
-    excerpt: "Proponents of AI In healthcare say it can revolutionize medicine. But those pushing it ignore long-standing problems."
-    publishedDateTime: 2022-07-06T18:42:00Z
-    webUrl: "https://www.dailydot.com/debug/ai-healthcare-artificial-intelligence-medicine/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 33
 
 secured: "udWuQKKseeSVWtzMOrTPUIOVX5DG/uewEAeK52fecpQQL1CxXQ6hmDilj1kSEfxkLUiRAdgDCo0K9rd3jsQQIj2j+rjyZ7PikA+usAViogn+IDK6DgSjE2UTTpTpdV/B5L6c2STKymhRmb94yR/nFzh1VQzcn36CfDqthjdAHt/ZdbBn2W5c/pnKaRF2bjx95TafqsHRhjysWKz/kfcK77B2z3K/fd3j1mntdoH9iTTHNnnOoTg8PO3VyPyHYc5KTkxKOMqDfiWZEljXrRYbDHXQrghunxePfNL6Oddg/SWXeqxWW3AFBfP4ZxYnWpqIsXdEPuezN3Qs7OUx6oBaG5aRrMIjw8O3QyxFz2S7gA6VWJsEMadz4C/srJy//AjKbFbO07azOuffBTKr1zDy3Cr0C67k26XHlwX6hWkriJvPbgp0PlI5JOMe8bp8hWlM4yauyGNGO0XDgihK+kQbvrfKhRdRksZ6YdWCPNT4z7Tv9KMtx6nnD1d5HrWasDcG2icXaFdKYELJ4ciWyS6+tw==;okzf+6myWZls9X8P0HvsPQ=="
 ---

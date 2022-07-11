@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/can-machine-learning-understand-th
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-understand-the-human-gut-207876-1.htm"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

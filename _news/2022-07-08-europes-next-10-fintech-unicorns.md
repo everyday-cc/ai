@@ -39,20 +39,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "The emerging role of fintech in times of conflict and displacement"
-    excerpt: "Initiatives help people who are fleeing areas of conflict, famine and climate change – while upholding sanctions"
-    publishedDateTime: 2022-07-06T12:15:00Z
-    webUrl: "https://www.raconteur.net/finance/fintech/the-emerging-role-of-fintech-in-times-of-conflict-and-displacement/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/07/fleeing-Ukraine-war.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The best paying UK jobs in fintech"
     excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
     publishedDateTime: 2022-07-08T09:23:00Z

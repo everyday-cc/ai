@@ -7,8 +7,8 @@ originalUrl: "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/"
 webUrl: "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Odisha Diary
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Boost Rural Connectivity & Healthcare"
+    excerpt: "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G."
+    publishedDateTime: 2022-07-07T15:01:00Z
+    webUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/"
+    type: article
+    provider:
+      name: Pragativadi
+      domain: pragativadi.com
+    quality: 56
+    images:
+      - url: "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png"
+        width: 748
+        height: 445
+        isCached: true
   - title: "Startup Astrome Technologies set to Boost Rural Connectivity"
     excerpt: "With the help of a network solution called GigaMesh, fifteen villages in different parts of the country may soon be connected and ..|News Track"
     publishedDateTime: 2022-07-08T07:42:00Z
