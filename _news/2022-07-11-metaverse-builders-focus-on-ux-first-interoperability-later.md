@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T03:10:00Z
 originalUrl: "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-first-interoperability-later/"
 webUrl: "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-first-interoperability-later/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat
@@ -18,6 +21,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "AI will help realize the true vision the Metaverse hopes to achieve"
+    excerpt: "One underappreciated fact about the Metaverse is that it fundamentally needs artificial intelligence woven in at its core in order to provide a lasting user value proposition."
+    publishedDateTime: 2022-07-10T12:16:00Z
+    webUrl: "https://cointelegraph.com/news/ai-will-help-realize-the-true-vision-the-metaverse-hopes-to-achieve"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "MBxOmCBYhM3qbOY0om1O+heHCHb7gPHmkD0I+4XMqRYWO/SOQYNvInEWOMDu/csNRO+MwhFdOZHUBR3W9bwNslRYRB6ktFjps9ySVZLnNOf8+FHOS/Vd3c7Pso299ovG2uspke9wlVMETedlNIi5iVoEwNrAGNW18yviZLMoFj2ATNsrPpd7xBnE/tIAQmOXuMnz7BoGvZ7hQJiwCko5/ayvyt1q8f6G3ot+5GxnECwpUy4l2xLhQycDI0pI0q2Z5RI2kA7XaAdTnV0xvhqAYxLo8H9IyzVoa7Cdf3wYuF7bQKtOPIdjiFgdL25Y2RcnrAfXdHOm3amqAg1N2sYXRr4+rqfQCGs1evBa+7P1C/RRKZGng6KizppC428QzuOeX18iRkorXVE+Rw8f9DpKIYQimG2aZ6jvoiTZH7NASSTNVnDi6Ob/A2nbmqOSMT2FUQTkl7JowvI8WznVFcyq8npcN4F76jB4NS2uguoCbPPb83OR08KxhtI6gXCzHmxw3XiQLE4ABPLV9NvvD17OPQ==;Jw4PDFFpVJ45240SZQ4uJg=="
 ---

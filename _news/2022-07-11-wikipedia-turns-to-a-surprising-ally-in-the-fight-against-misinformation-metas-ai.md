@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta launches Sphere, an AI knowledge tool based on open web content, used initially to verify citations on Wikipedia"
-    excerpt: "Facebook may be infamous for helping to usher in the era of “fake news”; but it’s also tried to find a place for itself in the follow-up: the never-ending battle to combat it. In the latest development on that front,"
-    publishedDateTime: 2022-07-11T13:01:00Z
-    webUrl: "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/"
-    ampWebUrl: "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/"
+  - title: "Meta AI researchers develop model for verifying Wikipedia citations"
+    excerpt: "Wikipedia is often the first stop when someone is looking for information online, but the validity of that information is all dependent on where it is being sourced from."
+    publishedDateTime: 2022-07-11T21:01:00Z
+    webUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
+      name: SD Times
+      domain: sdtimes.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://sdtimes.com/wp-content/uploads/2022/07/4fb7533579e9e445735e1995cfcfe43c.png"
+        width: 583
+        height: 327
         isCached: true
 
 secured: "J4IP2r8QwYlxvSmAF8E5nF3a8u+rty4SVnqcpHPFUopwjeJKiRbgAqw4c/xOEX17/nT4BLUO9Spz1UHkUMz8OZM9wTVP/B0Hrwm/o4tGaJIB+TNpeXk9pRUzBWzmD97LHTdX4OGrzp/Blt/lhLJ8VxB3g0fhedUc+VXFaqduA38/mrSWKncCAyEv542zIOgFpeuVnR0qhWK+KHdSlvcQkWTCQV/cEtwY+EBqk7+B0DH4u0kYM8cfKvU+j8xTo+Cj+TmHcZE1oItCJter5k2kTRvV8OlvEEMF0T0rN22g/7evHj1UsCSdttF7fl681E6vrl362DyS6JO/t/Vi2wSlAXk3w+CypqZtkIDl5EIL19Sqs2463oA+Ap0aDn+gLzseUwOPyZOmN8SBSZKC+CdrkGfLBTQjiU2yQ6Ps0BglykKW6ukwO8iTp2Dvu6BdcamTj5WI+tXLfnm6rzopCViKWRbfiIk3CDN3op4rGLpLWFzECv8T/4PjAMm16Gf3kIgq9oVG4tCyaptNnYQa12IW1A==;bMJ7Grnx6OGsNGYJceXvqg=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T19:21:00Z
 originalUrl: "https://www.law.com/therecorder/2022/07/11/artificial-intelligence-system-for-visualizing-mris-is-ruled-patent-ineligible/"
 webUrl: "https://www.law.com/therecorder/2022/07/11/artificial-intelligence-system-for-visualizing-mris-is-ruled-patent-ineligible/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Law
@@ -13,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://images.law.com/contrib/content/uploads/sites/403/2022/07/David-Lender-2019-18-767x633.jpg"
+    width: 767
+    height: 633
+    isCached: true
 
 secured: "w29/m/zzVXf/ohBcxjpbXCAFD5J40Wt2aD8rENX94g7YWbNa3EXA4A0FlMzbT79ozWBsNUQ9MjNwbT7oSsZwmh3TLRSJnvVxpDBG1nEakgpECZlywMc23JD/B2Bl9FYvb9gPr8mZeuatCVZ6oxGyS5kdKB3OZMd85uq2XqCM/LmczUzq8Q30OCZ9A/7/g34W8UgaXKgYl9UDs/DGgYwR+zU1QGEYrf3uhjIfm3ew16fkf8zO9RBFuRoUfJxXdByfZr3+FAf3TcwSia+eSK+a35II5SwS682sxGcQnDmkpBINyfoS9gH1JvP9WZvPcwNa8eTSqe/ORFSkaOFrZMWF2qDSLq6PimXMPfa+3DKS71w=;l+TqSTrYrM7L7CyAsEE7kA=="
 ---

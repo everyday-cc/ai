@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-11T16:07:00Z
 originalUrl: "https://seekingalpha.com/article/4522702-inuvo-applying-artificial-intelligence-to-digital-marketing"
 webUrl: "https://seekingalpha.com/article/4522702-inuvo-applying-artificial-intelligence-to-digital-marketing"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Marketing
   - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1335295270/image_1335295270.jpg?io=getty-c-w750"

@@ -70,22 +70,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Meta open sources early-stage AI translation tool"
-    excerpt: "Tech giant MetaAhas created a single artificial intelligence (AI)-based model capable of translating across 200 different languages, including many no.."
-    publishedDateTime: 2022-07-07T02:54:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92712708,imgsize-23398,width-1200,height-628,overlay-etcio/meta-open-sources-early-stage-ai-translation-tool.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta Builds AI Model that Translates Across 55 African Langauges"
     excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia. Meta says they worked with professional translators for each of these languages to develop a reliable benchmark that can automatically assess translation quality for many low-resource languages."
     publishedDateTime: 2022-07-07T07:39:00Z

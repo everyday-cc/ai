@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T19:02:00Z
 originalUrl: "https://www.avnetwork.com/news/aes-audio-product-education-institute-to-present-new-voice-and-dsp-webinar-july-13"
 webUrl: "https://www.avnetwork.com/news/aes-audio-product-education-institute-to-present-new-voice-and-dsp-webinar-july-13"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: AV Network

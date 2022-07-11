@@ -115,6 +115,22 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Deploying robots as sentries, deciphering Mandarin into English: Artificial Intelligence to strengthen Indian defence forces"
+    excerpt: "NEW DELHI: India’s focus on the new age disruptive technology Artificial Intelligence (AI) will lead the forces soon to have not just robots doing sentry duty but also the soldiers in mine laden fields will have robots marking and warning about the mines."
+    publishedDateTime: 2022-07-11T19:27:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 47
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "GE Healthcare opens 5G innovation lab in India"
     excerpt: "GE Healthcare (NYSE:GE) announced today that it inaugurated its first 5G innovation lab around the globe in Bengaluru, India. The company aims to use the 5G innovation lab to position itself at the forefront of groundbreaking advances in patient care,"
     publishedDateTime: 2022-07-07T14:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.vanguardngr.com/2022/07/how-artificial-intelligence-he
 webUrl: "https://www.vanguardngr.com/2022/07/how-artificial-intelligence-helps-fight-climate-change/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 412
     height: 250
     isCached: true
-
-related:
-  - title: "How AI is saving food waste"
-    excerpt: "Retailer Shoprite is using machine learning to reduce wastage, keeping food out of landfills and reducing greenhouse gases"
-    publishedDateTime: 2022-07-07T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2022-07-07-how-ai-is-saving-food-waste/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/ZTiOm3BNMkBfuCmVeszxIxdvuOCermiGBoJqYXvYSWquB8MZv6IP6kM9lEMot13E5t-2wq4zOXvhhkEqyqA5XWOqStODravM_gaHu4cu9TO1H1E=s750"
-        width: 750
-        height: 496
-        isCached: true
 
 secured: "+eSpJejW6qQCkWVM1q7iMfYhsjyTdmEzS2ebIAhhYZNeozuqDUry4GqPiHGvxCED5dACo7rXFkXYu4RZi2otteqtWkCIVcJs9QefeVE7JG1vmjNj/PCVhWNTN4IcilMLbhr372ma+r6y8/R2hXPZiK0Er2wzvrASG2JYX0apvrTTQ9NpIAoVh6rlDCEFpgBCPHO50ubiILkOfoU2gdM0pJqzajQDhIJDrX6qdmUc+YzIzAhpeN48BwJnaqEhRGZZjHUloYEE43QBfL6m01yppEMlver6FfSrz8ATtPaUMHRpjdir2mpWGm/gnFBOFY+IM1jj3QAO88RhR1KLvYL4b//UvFT5u/wfsk4whtv/TxA=;AiNn9jepEis3r6xzjr5PyQ=="
 ---

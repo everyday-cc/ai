@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-
 ampWebUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
   name: MIT Technology Review
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?w=3000"
@@ -26,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras AI tool maps cancer-causing genes"
-    excerpt: "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies"
-    publishedDateTime: 2022-07-07T03:35:00Z
-    webUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/"
-    ampWebUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "IIT Madras develops AI tool that can predict cancer-causing genes"
     excerpt: "Researchers at IIT Madras have developed an artificial intelligence tool that is capable of predicting cancer-causing genes in an individual. The tool called 'PIVOT' can help in devising personalised cancer treatments,"
     publishedDateTime: 2022-07-07T09:50:00Z
@@ -58,54 +43,24 @@ related:
         width: 1080
         height: 1748
         isCached: true
-  - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
-    excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
-    publishedDateTime: 2022-07-07T11:54:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
+  - title: "The Download: cancer-spotting AI and a new covid wave"
+    excerpt: "Doctors using AI catch breast cancer more often than either does alone The news: Radiologists assisted by an AI diagnose breast cancer more successfully than when they work alone, according to new research."
+    publishedDateTime: 2022-07-11T12:04:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/11/1055690/download-cancer-spotting-ai-new-covid-wave-variant/"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 52
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "IIT Madras develops Artificial Intelligence Tool 'PIVOT' for Personalized Cancer Diagnosis"
-    excerpt: "IIT Madras develops indigenous motorised wheelchair vehicle NeoBolt. Cancer is an uncontrolled growth of cells that can occur due to mutations in oncogenes or tum"
-    publishedDateTime: 2022-07-08T10:45:00Z
-    webUrl: "https://medicaldialogues.in/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
-    ampWebUrl: "https://medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+  - title: "AI, radiologists working together more accurately detect breast cancer: Study"
+    excerpt: "Radiologists working in tandem with artificial intelligence more accurately detect breast cancer than either of them analyzing the images alone, a July study in The Lancet Digital Health found. The study used a dataset of 1."
+    publishedDateTime: 2022-07-11T15:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-radiologists-working-together-more-accurately-detect-breast-cancer-study.html"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 49
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2022/07/08/180298-iit-madras-2.jpg"
-        width: 1500
-        height: 960
-        isCached: true
-  - title: "IIT Madras Researchers develop Artificial Intelligence Tool towards ‘Personalized Cancer Diagnosis’"
-    excerpt: "Researchers have developed an Artificial Intelligence-based tool, ‘PIVOT’, that can predict cancer-causing genes in an individual. This tool will ultimately help in devising personalized ca"
-    publishedDateTime: 2022-07-09T00:31:00Z
-    webUrl: "https://indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
-    ampWebUrl: "https://indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 45
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 14
 
 secured: "1GNXRpt9r4cDIr+ZNfGjj6Upg5tqGPUt427Q0sL4faWVnSDRa9xyZiHEbxS5bhxOYR6GqPIRGOAHvGyK5pcB6U19VRat1kd4ediJVXqCLyrmPzRyLGwhnh4quuUMWhAgF177Zox7HKcVVnp4x5mIvQ0+5jErPXS5s5LqkIVIBzZ/svg4EXqz7YdZoGZoHUm3IAZ2s7/l6b+s45xrL0qhnQgVtbxpBK2t8dvOOtTBWCFS5irPixsC4Aqu0bcHE+oN+mgMcqPRb+ndmFzj+M8ecgP1t57e0tM3N8CN/dD9i7+hLE/IfvLWVR6jutjiSrSKoXSviAO1Wq6hS0rE87lJmMp6s80R3BTwHR83G2tINmnXtEBM8XsG0J0QaM3eCkoHzFPIvJWdeJSmhgGlzlCjqzRoh+E9zeX22b3Z0VB83AkXVT5rMDzPAFPnlGiNSrEwc6exyYGsmXbLXTH1wZrADi1sbDWxW3YfbmwGIBk3gWugdYSN62LOWKNORAQojk9C3P9J5wBm5CiJw5AMNu++cQ==;CuRemKOiberGib/6D9lgvA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T19:30:00Z
 originalUrl: "https://www.space.com/fusion-power-hot-robots"
 webUrl: "https://www.space.com/fusion-power-hot-robots"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Space.com

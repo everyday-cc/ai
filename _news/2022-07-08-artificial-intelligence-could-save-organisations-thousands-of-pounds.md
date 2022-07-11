@@ -23,6 +23,17 @@ images:
     height: 640
     isCached: true
 
+related:
+  - title: "Soleno Therapeutics Announces Presentation of DCCR Data at the 11th International Prader-Willi Syndrome Organisation Conference"
+    excerpt: "Soleno Therapeutics, Inc. (Soleno) (NASDAQ:SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases,"
+    publishedDateTime: 2022-07-11T20:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28023601/soleno-therapeutics-announces-presentation-of-dccr-data-at-the-11th-international-prader-willi-syn"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "Kay+YqpkxePA5rTsRQU3qBMfXNNrTcPPLteqVyqftj4CGF44prXclPJrJW4Kx/EfoiyCIq5egahHS+ndtiShyp3eHe/WMmLMKbpqxiNqqH1WLmA94ZSkOD4RfPT8evEJ/KtGE51QjlPQViDC7IgkEEotg6mkREth3QiyWfXpYiO+3wl7zTwdGfArgOZi9T2bHdb7FuPe8Mkb4ou9xrKxGUY36XHp0Kf0VpwUTGVCeh+TPAp7HR6P/QemWKb4lSnOSlqQCkTphWJni7bTbQql3w67EaDnQ61ZjK/+kgLWv1bOKv4UVpYIqIemrZ6mp8N42Jnc/2XvCymxrSuzl4UniyE0xa9wKcv/ywFHqIwuMeRPv3woseEdG2o9S6YCs3B3h9gaKHqCHtB9PYcjUz6PhOoicdRqzydty1VRnqgnDftpvHIAcM6birjX/tBf3aK/KtgTJxXunt5+TtgusszK3nndsYzHIPqH9lUGwgTuvOqsqV5m9Do0ep03Ut+Hs+lMaPd8+bOJ6JijLctIORXI9A==;PurJik2HR7mhplQ1EP/79w=="
 ---
 

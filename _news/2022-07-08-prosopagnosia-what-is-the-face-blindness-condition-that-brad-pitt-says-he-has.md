@@ -55,22 +55,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Yes, face blindness is a real condition"
-    excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
-    publishedDateTime: 2022-07-08T21:14:00Z
-    webUrl: "https://www.king5.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-    ampWebUrl: "https://www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 44
-    images:
-      - url: "https://media.king5.com/assets/VERIFY/images/a4afdbd3-5585-4f46-a600-33887839fe06/a4afdbd3-5585-4f46-a600-33887839fe06_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Brad Pitt Says He Suffers From Face Blindness—What Is Prosopagnosia?"
     excerpt: "Brad Pitt believes he has undiagnosed prosopagnosia. The condition affects a person’s ability to recognize faces. Pitt said he has struggled with it for years, and that it has often made him come off as egotistical and smug in social situations."
     publishedDateTime: 2022-07-08T11:30:00Z
@@ -79,6 +63,15 @@ related:
     provider:
       name: Prevention
       domain: prevention.com
+    quality: 4
+  - title: "Yes, face blindness is a real condition"
+    excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
+    publishedDateTime: 2022-07-08T21:14:00Z
+    webUrl: "https://www.khou.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
     quality: 4
 
 secured: "DTGG6zl1ccTeRNZ8wONoGRUlUh1g/0V3kwYAt6n9wZqPT2wLQoqqzCJZSam4WkMqwu1nb+OR0AdOGW1PG6FeqYT0TWt8QocX206G8+35txVESCfsJOLVLbbjYKD9rMNPTl+OlpvByCqUPPIt2PlJO6ZGcdhPY+P4G0Vymy7QdO6cjMx+rVmu1twPGyhB0XJ6j1aI8YfGLHO049GoRaRGyKiBQxpXVkhZ410+GRrky6FJIja2DHuikJUf7Kh0O8bhw+jE+pQiMABJRsUftMGoKuaa83E8A4cuZ/48UussCNMHZoI/SnflglTwcQmEOhEgwma5e3K8KICmK5ZF9kwAETG2nP/KPYfaCbl1rkKl2errp2FVwK2cKiUkxBpcoI6g2U50ov7TkKmbaluMvhU1HnlCAZxEnR6yW1nrPlh79I1hbegPC0VG71eOkQbmbNZnouWQ1kw/94DJcJRXoVbZs8frtpzJZzuyUFL3FvnB0gliFSg9NwNyp4TdXlzrMN0LTSAEBC37yhPj5DENbfzd9A==;2HaWy6yqylcrTmpZl4sSeQ=="

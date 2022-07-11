@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-11-meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia.md",
-      "title": "Meta launches Sphere, an AI knowledge tool based on open web content, used initially to verify citations on Wikipedia",
-      "excerpt": "Facebook may be infamous for helping to usher in the era of “fake news”; but it’s also tried to find a place for itself in the follow-up: the never-ending battle to combat it. In the latest development on that front,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/",
-      "originalUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/meta-launches-sphere-an-ai-knowledge-tool-based-on-open-web-content-used-initially-to-verify-citations-on-wikipedia/amp/",
-      "publishedDateTime": "2022-07-11T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-07-09-shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech.md",
       "title": "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech",
       "excerpt": "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan.",
@@ -352,6 +299,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-07-with-self-learning-models-prediction-can-be-explained.md",
+      "title": "With self-learning models, prediction can be explained",
+      "excerpt": "Self-learning computer models can be of value for speech recognition, fraud detection, and assessing medical risks. However, the benefits scandal, for example, shows that the utmost caution must be exercised: and that is why the law stipulates that there must always be an explanation as to how a model reaches a certain conclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-self-learning.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-self-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/with-self-learning-mod-2.jpg",
+          "width": 650,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-self-learning.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-self-learning.amp",
+      "publishedDateTime": "2022-07-07T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-no-language-left-behind-metas-new-ai-model-can-translate-200-languages.md",
       "title": "No Language Left Behind: Meta's new AI model can translate 200 languages",
       "excerpt": "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub.",
@@ -360,7 +350,7 @@
       "originalUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 263,
       "tags": null,
       "images": [
         {

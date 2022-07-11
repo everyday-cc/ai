@@ -57,6 +57,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Apple Seems Uncertain About its Self-Driving Car Project"
+    excerpt: "From executive indifference to a near-collision with a jogger, the latest Project Titan update shows Apple still has plenty of work to do on its autonomous car."
+    publishedDateTime: 2022-07-11T19:51:00Z
+    webUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663"
+    ampWebUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
   - title: "NHTSA Investigating California Crash Involving Cruise Self-Driving Taxi"
     excerpt: "A Cruise driverless taxi was broadsided while attempting a left turn in an intersection last month; occupants of both vehicles suffered minor injuries."
     publishedDateTime: 2022-07-08T02:28:00Z

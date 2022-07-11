@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
 type: article
 quality: 59
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://img.etimg.com/thumb/width-600,height-450,msid-92807783,imgsize-31378/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Rajnath Singh’s pitch for AI in defence"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-11T21:04:00Z
+    webUrl: "https://www.nagalandpost.com/index.php/rajnath-singhs-pitch-for-ai-in-defence/"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 39
+    images:
+      - url: "https://www.nagalandpost.com/wp-content/uploads/2022/07/Rajnath-Singh.jpg"
+        width: 800
+        height: 578
         isCached: true
   - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
     excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."

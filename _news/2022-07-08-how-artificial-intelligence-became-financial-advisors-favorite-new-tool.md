@@ -3,16 +3,16 @@ category: news
 title: "How artificial intelligence became financial advisors' favorite new tool"
 excerpt: "By taking the manual labor out of data management and upkeep, experts can reach new clients and better serve their existing ones."
 publishedDateTime: 2022-07-07T22:53:00Z
-originalUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
-webUrl: "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
+originalUrl: "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
+webUrl: "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: American Banker
-  domain: americanbanker.com
+  name: Financial Planning
+  domain: financial-planning.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "cCceJkwIb3Zqm+ew2wCENYa36FrBybX+IyRWdYAwJLD/2/KPmFZonknmTogkmQ0DT28hR/K+Tl1qgIbD1q2mJ1TfsBHnF3zIOxYGmlc9QRCWj7AUHyhm3SzJDt6Rf4iincZ479r+rJUqlDL48dciDViWHC/XXIhVtN13X6TWa1eGm0XKhsUgEm3qoKe7m+gY7p1fRdlpN/jPICcOVx3wqv9viajhrae/gSbCtTq7INnJxz0F1sMki3gTt6Inn3jVhMX84eFX4+5faSN+8yTiFOhN0ddoF7j/hMsLdF1bseQuhwvNgTOC8GAbOhL1zlgLSYl5id9FmjYzuACNw5BChI3mVbdtTdlhgdcNARAtiOY=;NOKP/TRh9S81CdfEjo2Rzg=="
+secured: "KwR+c3whh8IXZBkhIknv4vXBdM3HV+QISvm2XgTcxdSBou5fDNErM6PJPKoSiCz5TWzIr4D1Rd8V7Z1x6UZoUs9AGXm3zXSPgUKykXeT0q526HJAiGx0BCjW69gdsa1Tew5m37X6fpz89Jk5/OXI6z/fHewouLW3Ws9vBqIWkP5cTDnGbSm5+mcoomk1p4JzCxr9Dn+Uct1xm9x9sWiHhf3DwjkFqfnE5OnUK7LJPYBasrHanZjkCm+NVW62D0XPQU1o3bMvjnpcVfWjJ83q9OvxAuspApgIFpXPv/FzSsY2mFwNCsK4O56pHpLRruBlfPCMZZE7GSSv3rlGppgbWt4DYv6gDmYlV8d+SMLxgbQ=;5bC24IiFculpOcn69sqlxw=="
 ---
 

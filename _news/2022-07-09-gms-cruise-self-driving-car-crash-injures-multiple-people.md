@@ -51,6 +51,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Apple Seems Uncertain About its Self-Driving Car Project"
+    excerpt: "From executive indifference to a near-collision with a jogger, the latest Project Titan update shows Apple still has plenty of work to do on its autonomous car."
+    publishedDateTime: 2022-07-11T19:51:00Z
+    webUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663"
+    ampWebUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
   - title: "Cruise self-driving crash in San Francisco resulted in injuries"
     excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
     publishedDateTime: 2022-07-07T10:36:00Z

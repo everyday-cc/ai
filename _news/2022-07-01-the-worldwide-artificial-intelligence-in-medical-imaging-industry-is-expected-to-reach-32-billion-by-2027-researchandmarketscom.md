@@ -1,19 +1,26 @@
 ---
 category: news
 title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+excerpt: "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-07-01T16:13:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "B2W22qJTZJwCYI3zqAzOOrCbSUBTewqFYjjUd64Jwfu3SKxOMZlp6AssInRrqlv2hIIo7oAGOzzG8VYt5smSf4tsBtWQJeZrsfFRTyOJUXRv9cyVt96KY+/IloONjOBcb1ZooDIV5NA9e2nTFWYMnEXzv2BlL0k9DeeiSSf1mRiJ0wzRL8TpTQ9ru/0c5ZRLzrOQlxqM1zW6oRmfbaIVm90HdEOoxTUAZO/HSaJRjw773KvSwg/aDKlexw7K/o0DBTNyPsfn9bCtHK03eJiWAerd6P43NiYsfh9ygwha6Rfbfvic79DP/N0u16/o4C/uOr0TWxoeWZ/7w4oj4RZkiW6PwCz+BenozVvLifrIAR8=;liz5AI1HQ60MIsovBzgZHw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "cJ5UJaWveaRzR+7b0loDgToCQMWF+kkhDPS3nJDEdJSakUXK0byJ816Z1EvlhEutLjjik6FsH3f9038Y5y9s3aiGyswmgDFNhYAaGALwlhHpgB1Z/eictO4pjdMVuRZ/dHlrtIQG6XBc+E99YqWVmOhCFrJH2bI3cq11wyBb8O1a7njXpaEY/R3HOEY0k2fEKphHmtzwmgh3x528FQgr5GgRyvGleww9PWW39qC7kheA00WobyaJkP4o3ee/T3DFLvykIQ8Ub7b2duw8qAd+k1zbY4W5ezhM32m8i46NPXTt0ah/n4MgqfKyjvK5ZypCjCiC1TNQ+gJKCAR295CkLJSL4ZJ4RmQvDsMzLs84fck=;G4aLPeZKNDuS3HJLTun8WA=="
 ---
 

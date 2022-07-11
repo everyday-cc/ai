@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T18:09:00Z
 originalUrl: "https://www.biometricupdate.com/202207/facial-recognition-in-crime-fighting-from-corsight-with-only-50-pixels-of-face"
 webUrl: "https://www.biometricupdate.com/202207/facial-recognition-in-crime-fighting-from-corsight-with-only-50-pixels-of-face"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Biometric Companies

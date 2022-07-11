@@ -122,6 +122,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Rajnath Singh’s pitch for AI in defence"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-11T21:04:00Z
+    webUrl: "https://www.nagalandpost.com/index.php/rajnath-singhs-pitch-for-ai-in-defence/"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 39
+    images:
+      - url: "https://www.nagalandpost.com/wp-content/uploads/2022/07/Rajnath-Singh.jpg"
+        width: 800
+        height: 578
+        isCached: true
   - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
     excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."
     publishedDateTime: 2022-07-11T11:29:00Z
@@ -183,6 +197,6 @@ related:
       domain: livemint.com
     quality: 17
 
-secured: "FlLUBuGSBVgiSRUfNLU147aJ/Ta5cMszpAQuETjTSoFaSENTR2FfgfI1Xw47x1gcZzjA6J/2UAAKuVmjfeMihvbB/5kE7l12tjaREXV6amGDbXkZbJqlB509Hoid6F066gVitJoPlyVL5mWjHmdSQMhixZuNsUSW0dnBo+tolZADC3dd1KRrk1XkDUGVBcPLkc+zZjmjxJYzVqBl9sdardDNzeRHM9lvfrmSmylv9Otsz3/fScScjcV5Wr/+x4hZZ9FtVouSsJU5aCsfp6EnoSOyEZxMoNh1ZH3NxI+PjrTGVfZ56H8p4Qc9NRXY7I8F8jtt80HvC6UNvOcl2/SngI4twV+IS7tYBQIDhus83eQ=;fuqtUW+UG8dYXTtyyf5gZg=="
+secured: "ejbvNMvJYgc24l8ZsFiCUyya6ONYwjlNhGIARxnYtzFg05fQ5RGuPpl8tHG7kXN3kLGUdABwrFjfbJnw1WxcUzb0wbeCQNxc66zp3lu7Jwz9MdFf1OF5BcAli411365uz5yFHcI6qWlbu8I2/rAG+egqn+aBmuupe68snnOYscsR2QYavmECyOxgvliWgs41lYK1sGUui185GhcWwwr8NrOf5x+6uE0N0uuhoY26Dp1JJiaAXeitSXiXUEun7itJ4XpXZ1YdJi8jO1Yyh6gLNnDBYDiM5by23TTyOrHq10tw6jVHJlAvvi6pp5jGt/cmZVNfd8F74oZXCD5SbGB9sCvwdJlxKLwO7DBQO/3zpNXZ6M8bi9UovbngFazl6e2mA7qwxt18sGAh+3BY0hdyNgzrPtU8nQrsNLP7Fs7TSzl7xE7J4Fk0LWs7LVHQT97m0QiFcqyLdLL0507P7K6xhSh+0AnBu/tUO+nIb3/jb5GknVEQo/DgqaY+yCVMfk1kxHasUKRwR6k/3U/5+RQ1BQ==;E+ohDF+pmAvul86k7MxOKQ=="
 ---
 

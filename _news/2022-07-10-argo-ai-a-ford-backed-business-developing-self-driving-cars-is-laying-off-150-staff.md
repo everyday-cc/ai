@@ -208,6 +208,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
+    excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
+    publishedDateTime: 2022-07-08T17:10:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/07/08/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
     excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
     publishedDateTime: 2022-07-07T18:57:00Z

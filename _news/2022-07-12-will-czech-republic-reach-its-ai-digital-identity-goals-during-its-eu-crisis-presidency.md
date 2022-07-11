@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T18:49:00Z
 originalUrl: "https://www.biometricupdate.com/202207/will-czech-republic-reach-its-ai-digital-identity-goals-during-its-eu-crisis-presidency"
 webUrl: "https://www.biometricupdate.com/202207/will-czech-republic-reach-its-ai-digital-identity-goals-during-its-eu-crisis-presidency"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Biometric Companies

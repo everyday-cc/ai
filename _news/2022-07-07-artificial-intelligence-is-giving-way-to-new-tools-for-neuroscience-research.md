@@ -34,15 +34,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 15
-  - title: "AI, neuroscience and hardware: From neural to artificial systems and back again"
-    excerpt: "This conference aims to bring together researchers from across AI, neuroscience, and computing hardware to renew collaborations, explore synergistic opportunities and transfer ideas from neural to artificial systems and back again."
-    publishedDateTime: 2022-07-07T04:50:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/957972"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 13
 
 secured: "Xj9euJnBXAdAShbFsdFmawa6kncwl3RFjHEEq9IAFxHfsYf8vjegFcKUDKfrLrdYSStnZZ/D5wT3PUVT6Txmmsue23BXur7bu3Nm7A8oHawrdmuO/y1q7HPTFgXvejtJ07F79uGhk/lNzM6J/xqIhxmnCtSxTuQ0fq6Jq6UqX5Pd2d3lrvDLIPZ+q305uTnUpNVmrehk4gCqJj7jq4j2IdnG6YWGkEH4PFdFxJFBuq9NgVYGqfV2Z7/P7cgf3l4BzL7jaLwFesQjtQuAMkp+YwwF1NZrmP6LWfwlHWdm9dv3NEZ++hvmJ7smc5VLXPs4NLdhPrjdyxseWacu2NWqltIt/GIsMA4Nn74+WHdxNrg=;h9vn0WqorLY8+NwcJJfi/w=="
 ---

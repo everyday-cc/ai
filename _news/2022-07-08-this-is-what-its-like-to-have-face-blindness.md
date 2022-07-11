@@ -43,22 +43,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Yes, face blindness is a real condition"
-    excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
-    publishedDateTime: 2022-07-08T21:14:00Z
-    webUrl: "https://www.king5.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-    ampWebUrl: "https://www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 44
-    images:
-      - url: "https://media.king5.com/assets/VERIFY/images/a4afdbd3-5585-4f46-a600-33887839fe06/a4afdbd3-5585-4f46-a600-33887839fe06_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
     excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
     publishedDateTime: 2022-07-08T13:34:00Z
@@ -76,6 +60,15 @@ related:
     provider:
       name: Prevention
       domain: prevention.com
+    quality: 4
+  - title: "Yes, face blindness is a real condition"
+    excerpt: "Brad Pitt believes he has prosopagnosia, a condition that makes it difficult to recognize faces, even of immediate family. Experts estimate that 1 in 50 have it."
+    publishedDateTime: 2022-07-08T21:14:00Z
+    webUrl: "https://www.khou.com/article/news/verify/health-verify/face-blindness-prosopagnosia-brad-pitt-real-condition/536-dbd3d7fb-279c-4f68-8db9-29be5914df23"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
     quality: 4
 
 secured: "WqFsjW7EYsvlGLgqDwM6COKSvt6cQ5CzUBSNjU+h4yxTm167mYkKfG+6x+VKfrF/P5q/tn8tUIH7FpGVAd1QZqBs8Hz5Y8DJXWKIQ8FKgI0EpZCBeOusWuSIJzRmedUlh1tHBpeUDrAKUbS7rfrjW7ytXr0JU6wp8QNZ1donmW5LJy21AdXNb2zyR3zWe0NK1l0hHDs27Ibec8iUwvZb76D4mIqu/jdibG8BJvDieMfibeSb7ViWdBaCISVleXW7hGHzTrJrKj7voTfcBXlVAoshN+TAZQBNU+/EbHyQ/eojA5rlcgBIE4QLzvOxYaR8C2Bf2HcYewPEzzgIExNSAU1elFviQeHGPVmNKqObnxs=;Rp7F7f016Qpy6Mq4SR2S8g=="

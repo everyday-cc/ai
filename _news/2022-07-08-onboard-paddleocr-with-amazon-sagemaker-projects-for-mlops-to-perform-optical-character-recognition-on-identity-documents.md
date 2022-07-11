@@ -32,6 +32,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 73
+  - title: "LiDAR 3D point cloud labeling with Velodyne LiDAR sensor in Amazon SageMaker Ground Truth"
+    excerpt: "LiDAR is a key enabling technology in growing autonomous markets, such as robotics, industrial, infrastructure, and automotive. LiDAR delivers precise 3D data about its environment in real time to provide “vision” for autonomous solutions. For autonomous vehicles (AVs), nearly every carmaker uses LiDAR"
+    publishedDateTime: 2022-07-11T19:01:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/lidar-3d-point-cloud-labeling-with-velodyne-lidar-sensor-in-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 60
 
 secured: "P3Bn3OIiHCfn0VAykOHZ+yGgucd/QsU0gn+yIZIJxUi2Xfl1MzEvSiAEqgJxuFdfG/EzsaBX7ZE6UCALMRBI15BlYmhtw24Z52QRbqWwZpaAKKVOWlOuT24AW9VD0TBk/YKmu/G8elw8kKIPLvQz7FGZMQSfNp7RCd3IeBAF4BMw4lbeak1epW+KFybr/lLr3IWamdqCvEPBWVXhkUUFfe+0P9ZX64qbYuX4NVyEjQ2bTjdrdbM2qKL7h32/yKTNrIJd4Qp+CSrj+WPojxoUd2KvRkivbJd+K4K/ujGi3TTu4NhrxiwYnZMZIJ0XG0oEyJN1i7MMz4C1m2wE/bq09ytn/ABPwbkTunaruMb24fA=;Y73tlkPOnexiQwtJjk0GXg=="
 ---

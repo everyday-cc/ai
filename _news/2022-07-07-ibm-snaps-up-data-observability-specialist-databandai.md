@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions
 webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai"
 type: article
 quality: 67
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "IBM acquires data observability firm Databand.ai"
-    excerpt: "Databand’s data observability platform allows data engineers to tackle challenges associated with bad data at source."
-    publishedDateTime: 2022-07-07T02:41:00Z
-    webUrl: "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115701.jpg"
-        width: 500
-        height: 315
-        isCached: true
   - title: "IBM Acquires Israeli Data Observability Startup Databand.ai"
     excerpt: "Databand.ai works to help companies alleviate data errors, pipeline failures, and poor data quality before the company’s bottom line is impacted. By acquiring Databand.ai, IBM hopes to strengthen its software portfolio across artificial intelligence,"
     publishedDateTime: 2022-07-07T20:10:00Z
@@ -115,20 +101,6 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
         width: 2700
         height: 1411
-        isCached: true
-  - title: "IBM acquires Databand.ai to boost data observability biz"
-    excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
-    publishedDateTime: 2022-07-07T03:15:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-acquires-databandai-to-boost-data-observability-biz-nid-219436-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/317fIx8L.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "IBM acquires data observability startup Databand.ai"
     excerpt: "IBM recently acquired data observability startup Databand.ai. The technology improves data quality to fix large-scale problems. The Israeli company"

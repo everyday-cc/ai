@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T18:00:00Z
 originalUrl: "https://www.berkshireeagle.com/arts_and_culture/arts-theater/review-abcd-barrington-stage-company/article_9d3078ee-011c-11ed-9d72-23eef2b7cf8b.html"
 webUrl: "https://www.berkshireeagle.com/arts_and_culture/arts-theater/review-abcd-barrington-stage-company/article_9d3078ee-011c-11ed-9d72-23eef2b7cf8b.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Berkshire Eagle

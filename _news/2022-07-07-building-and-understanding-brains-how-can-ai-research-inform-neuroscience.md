@@ -32,15 +32,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI, neuroscience and hardware: From neural to artificial systems and back again"
-    excerpt: "This conference aims to bring together researchers from across AI, neuroscience, and computing hardware to renew collaborations, explore synergistic opportunities and transfer ideas from neural to artificial systems and back again."
-    publishedDateTime: 2022-07-07T04:50:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/957972"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 13
 
 secured: "I8cHWiKeISchjEfUNE8If4orAj4Bd1KtjxMDYJWpqS926BPH1fg6N0zw09JQBP2P4QZf3EgnmB4PMv14nHZYUFu8eypbzcGKCqbAFjp7z/je/o7uh6fOuEBeS6E92xHaYMQe/ZAQiabxo9bX8v3GSF7V15vufrSdAlE5xw4KGpKLFHAJJRu13oGzw4mYcXIo9sinHbXo8nVCjhlyTBFoRPZW7Z7kWCyfCBlZQD5tSVnsYTe4P9zyphiUD+jf5iOi0mze6HMq40FCMzKwq0lERv59D04QORoLJMnIN9PsjayhQBjUL0tktVmYGBWiLOqm3ETuFdMMGK575SetY0FMDihF3+5muq7QpIX0Mh6Y3hM=;tAHQ3n1fb+jfvtP7dA+1zA=="
 ---

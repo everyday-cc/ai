@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T18:25:00Z
 originalUrl: "https://techxplore.com/news/2022-07-wireless-earbuds-deep.html"
 webUrl: "https://techxplore.com/news/2022-07-wireless-earbuds-deep.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

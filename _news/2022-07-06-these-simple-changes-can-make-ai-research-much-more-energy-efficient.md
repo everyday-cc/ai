@@ -5,6 +5,8 @@ excerpt: "Tweaking the settings of the cloud service an algorithm runs on can ha
 publishedDateTime: 2022-07-06T09:00:00Z
 originalUrl: "https://www.technologyreview.com/2022/07/06/1055458/ai-research-emissions-energy-efficient/"
 webUrl: "https://www.technologyreview.com/2022/07/06/1055458/ai-research-emissions-energy-efficient/"
+ampWebUrl: "https://www.technologyreview.com/2022/07/06/1055458/ai-research-emissions-energy-efficient/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/06/1055458/ai-research-emissions-energy-efficient/amp/"
 type: article
 quality: 21
 heat: -1
@@ -18,6 +20,13 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - Facebook AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/AI-carbonemissions-3.jpeg?w=3000"
+    width: 3000
+    height: 1687
+    isCached: true
 
 related:
   - title: "The Download: Tweaking AI for energy efficiency, and China’s leaked data"
@@ -46,6 +55,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "RgZT658XDn/6fh1g3UavyipJnWkuj78Q0jQYAzSJpkjhOhPXjjsX3tHWrIC9b5QjaKFmBDCy9DQq1l9Ix9tJoVTDly4fx6AfQCWe1QH9sacimH6F4NnjuvEwz+UY0JTJnNkxM1nns5twRHJ8mMeqw9jishZ/BDDv/9wQBlW8ON9BxhpQreMRqlxciQB+L9PZTOS9JQ7c+jxmx4RgU3trURxAlyotNClV0lKfHdwpbEeeNrmFXZW5mFKzLP3xAcZJY6ILjZc1LaI65Zb9SauUrP+zOkuEN8GCXndDHvC1tDLN1nkkptLlHarMmrJKl2kJMGFXgkFKFcnZw19J6fd+AjT4/qSxMLKMNF3T6nDvl2Lr0KaWolmSygmPEy5VM1wVwQDzJW81B7hFakLeY9PKY2Esz0EJ0GoBg0uuquBFSlRCASioZLGGkrOGXmBsEa/+4oomTj+w4MxoLM/cxv/q8pPFf2p4oCYJvWYF2Fy/DkxfxeLUXohPCkViCi+oTbhDyKMYX3Xm8XXBjWVatmS6ZQ==;8nGqdEREWjHsmCYxJrqiug=="
+secured: "bA9Wk5AC++hJ4rMDr84Vk5uXccK3RNaRtUvvdXaLZiEh2ux2TYC9yzSlGLWT5ixqJF3mhb7O7ibR1GgNQIhZtJvzukP2n/aGkZCReHTqiqtvvUcjgHrPJWsSj0RiaWfOtYTxYMrFm0YxSptPyta5LdRCrHDEnYk/J2zadzTk7e2JIm2Ug5Da8aw22J75yTZ2B9chEEV89NLUJipWlthffytvJbraxfMyIzl99/mILto1c2xB71GjQYrv8ZENvbXuuwFUT09h1QnOmhHBbv5XPZwhRsCe1dGQFKGaYraOrovtM1O/HQfhqSOYjxapIQ30/8q4W1Pkke/UmUxjQMbdSm+Wul6WGAqzHQMEEqPcxFg=;0TuvtmounK2NVJ97v3ACbQ=="
 ---
 

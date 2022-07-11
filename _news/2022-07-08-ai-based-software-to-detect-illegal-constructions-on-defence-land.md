@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "India must be ready to face upheaval due to AI: Defence Minister"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-defence-minister/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/07/page5-4-6.jpg"
+        width: 800
+        height: 414
+        isCached: true
   - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
     excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
     publishedDateTime: 2022-07-09T14:54:00Z

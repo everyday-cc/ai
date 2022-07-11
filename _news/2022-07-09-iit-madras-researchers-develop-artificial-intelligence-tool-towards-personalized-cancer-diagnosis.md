@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras AI tool maps cancer-causing genes"
-    excerpt: "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies"
-    publishedDateTime: 2022-07-07T03:35:00Z
-    webUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/"
-    ampWebUrl: "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "IIT Madras develops AI tool that can predict cancer-causing genes"
-    excerpt: "Researchers at IIT Madras have developed an artificial intelligence tool that is capable of predicting cancer-causing genes in an individual. The tool called 'PIVOT' can help in devising personalised cancer treatments,"
-    publishedDateTime: 2022-07-07T09:50:00Z
-    webUrl: "https://inshorts.com/en/news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/7_thu/img_1657173273447_432.jpg?"
-        width: 1080
-        height: 1748
-        isCached: true
-  - title: "Doctors using AI catch breast cancer more often than either does alone"
-    excerpt: "A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads."
-    publishedDateTime: 2022-07-11T09:22:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/"
-    ampWebUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
     excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
     publishedDateTime: 2022-07-07T11:54:00Z

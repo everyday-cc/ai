@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-10T12:32:00Z
 originalUrl: "https://seekingalpha.com/article/4522586-microsoft-undervalued-tech-titan-roaring-revenue"
 webUrl: "https://seekingalpha.com/article/4522586-microsoft-undervalued-tech-titan-roaring-revenue"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seeking Alpha
