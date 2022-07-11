@@ -87,6 +87,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Nokia to Establish Networked Robotics Center of Excellence at IISc Bengaluru"
+    excerpt: "Nokia and the Indian Institute of Science (IISc) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologiesin 5G and Artificial Intelligence (AI)."
+    publishedDateTime: 2022-07-11T01:33:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/26134-nokia-to-establish-networked-robotics-center-of-excellence-at-iisc-bengaluru"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 51
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/77441886f788f4f0edce593a682eaab0.jpg?t=20220711_012138"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Nokia partners with IISc to set up networked robotics Center of Excellence"
     excerpt: "CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and AI"
     publishedDateTime: 2022-07-08T10:19:00Z

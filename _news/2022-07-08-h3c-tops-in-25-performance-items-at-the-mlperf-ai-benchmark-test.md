@@ -1,29 +1,29 @@
 ---
 category: news
 title: "H3C Tops in 25 Performance Items at the MLPerf AI Benchmark Test"
-excerpt: "Recently, MLPerf, an international authoritative AI benchmarking organization, announced the latest AI Training list, in which H3C servers R5500 G5, R5300 G5, and R4900 G5 topped the closed model partition of BERT-large (natural language processing),"
-publishedDateTime: 2022-07-08T12:42:00Z
-originalUrl: "https://www.malaysiasun.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test"
-webUrl: "https://www.malaysiasun.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test"
+excerpt: "Recently MLPerf an international authoritative AI benchmarking organization announced the latest AI Training list in which H3C servers R5500 G5 R5300 G5 and R4900 G5 topped the closed model partition"
+publishedDateTime: 2022-07-08T13:04:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test"
+webUrl: "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Malaysia Sun
-  domain: malaysiasun.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1855682/image_1.jpg"
-    width: 400
-    height: 225
+  - url: "https://cdn.bignewsnetwork.com/cus1657338014332.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "u3llRZVSXBcvIZnbT1YeMDuux14oCjDWYKFbU3f90SZ9w9wV28F2FU/Oy4TvrNuvqkS0I8AxbAK2ZWGqE24gyE8oUq8pDyMUNqJDTlWSv4b5tGhcawsuOcSeD6D+99QuRMl1kdzbYMr2/oCz63Iow7cikdPDOGXdMh9C/2z4nBBhm0//FKWoogM/drX3C6TpTh/ODI71ycDavGMD38eVzJgIR7OCx6QNXAqoSwneS5TXPnwj1SJoVRUpeIOqbPFhtpKmm4wrRpNh0Kt33UaksOnr+NL1PSfG0YxNwcsC084MApDeUmhPvQWXfT53xXJ8NDSWsX//+49DK+cA3nDxHERboyI9s0irseWctGainNM=;JcGFEya+qBQVIdZ5K5tkdA=="
+secured: "pIsO9ZEju/pmg+8uoVFAmyLxvI0e7WVakd8KhlAbFk7UnlcnzJD+iC4OS73IstwIBi9eVYmySLIZL4hbbmDeDe4UvbU1SFYljw8qFl7BTt6rl5WRJViT9IWZcVVbzl1tGRkTgomDEHH7vW+kHT6FZ359ID9d8o9lFL3H1HL6F0FShiq/UXBxsxCDAf2AAPNbcrnekkjx2PpJnE4aWwg0Q/OF0edOAf7Ox2U64g65bMStsS3OYSdLr5F+G78ecqoSZ/SGSD1Zl9l5TWHCQWia7BuKrlKxDIwhF//CLQV035BWArIJPn+0gwh6fX2FFvNS1HQ8rDPyDJUZ3/jK81dU9WtL1QlcHcrrDBl+Gsrf3no=;xRfHaRYyklUr4p7poqM5ng=="
 ---
 

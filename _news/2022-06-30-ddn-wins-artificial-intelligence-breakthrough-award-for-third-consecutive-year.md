@@ -1,22 +1,17 @@
 ---
 category: news
 title: "DDN Wins Artificial Intelligence Breakthrough Award for Third Consecutive Year"
-excerpt: "Prestigious Award Recognizes DDN AI and Machine Learning Solutions in Enterprise Digital Transformation, Business Analytics, Research, and"
-publishedDateTime: 2022-06-30T13:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459"
-webUrl: "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459"
+excerpt: "DDN®, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that it has received its third consecutive \" AI Hardware Innovation Award \" in the annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2022-06-30T14:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -25,6 +20,6 @@ images:
     height: 400
     isCached: true
 
-secured: "+z+dJnfJGYtpSnpJZiJXhbhe+RBxTqZ6/oNmaRUlJmh35dS0W8tII7RfZ8dB1jOMZYwlGiY1qhKQhoHfMAE+59B5DaVz5iaTbrry19jASr8vh8CGFJpqfdf3sRJPcUvrn4EZ4PKHUzI0FNimU4EJCGxnRKEaySGOdC5Ea9MeZgLbRR6k+kbohnq/n6OZBhy0yLOU5heTwyH2Ski1rHkwg0WVnV1ZctCqNcbG2uCe5dkvnmMasNUyl5JVtFHOBydyS7mX0pzvSPd3OHr/WsAwV9FABsrur+nbYjnv1p323InrjUqyNbCeRudftfhvputcZvhihZv58fyLL01/RrLwApN1CT4uf7y7kOpeiddsxiWjrIwTxTPmALW6KWdZGUXXt6wwq45tVHtlA5w9M1xzBIvB9Uet8maU69AqiOE9mxeaocs7VKhBMXoxiPhpROcG62BN1oEfMu+ov/Ti7N10t69Uxk6Wm8VyDfvEPv2eb2iO6xT1viHyhhX7uK6bcLJnZVD0CntT0SSiBZadiQLohQ==;UU6ZGyUAebPYijwZGfRI4A=="
+secured: "3ySEg1nWJqvx26vcnQR375cU+b282V5rMRUMYOvNbeaa8yHcd2SqHcRuBSLQwk7Un8rTfKsUVnG+WFFx29AgxXFLtRDsz9SsxIwGwc2TgnOn6QmyF2fc8Ow5os815msWv3JUmg00J9F6oEkNJUCWQFZMJ/NaFjqJ20mSGwAGD0LTAU3sMyKx9oPBhMqMjQj9KPIEdgdoyWzgcai4hoH84zpZHvxY7mWmN2XB57RQlSxFmc9gdbP8gfIU55z5CEtK1XaVeOaSvPDd7XckTuLWB+EZcPPVXNZ3/mW53Rlr6ub+4gI/KU9JWy8kN+9hNqkCOWQARErcXQtMWbt3L3irOa1HJOU3fy4h76gQO5IJ+48=;Hh1zEqtWUTcaK+BrviKKpg=="
 ---
 

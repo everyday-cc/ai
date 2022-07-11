@@ -2,27 +2,25 @@
 category: news
 title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
 excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
-publishedDateTime: 2022-07-08T08:43:00Z
-originalUrl: "https://www.deccanherald.com/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-webUrl: "https://www.deccanherald.com/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-ampWebUrl: "https://www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
+publishedDateTime: 2022-07-08T09:16:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=977012"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=977012"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Deccan Herald
-  domain: deccanherald.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/07/08/ford-afp-1124858-1657269785.jpg"
-    width: 700
-    height: 394
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/epi41_thumb.jpg"
+    width: 640
+    height: 511
     isCached: true
 
 related:
@@ -229,6 +227,6 @@ related:
       domain: wpxi.com
     quality: 3
 
-secured: "H90PEAzjMq2lKu8dlEULNJrh46MHc1EwS3DewKnIHYcSWk8RCPxgLQ3e/KXZKCSs5bgJHAN7Bhlz6RxRi+vq7qB1JUYiTzNfmbD7AdbPr9WWepDHVU+LVHEk6RjD7rA8sZgtKRdM5pnFtlPXOGRjv/XeL3R1MeIcNoRnR0pxlbdYbYs24G3DaxcQw61utFl2y0AOsQx0aUIYqxMhIiYMwrqXM/noPjyDxnp2LSwvT8lkn27np4qJgBWRHtM4R08ZeTTPihmW9SptSplQTvf11zUx7ZUqmZKsVXlqrCSvoP/+zayNEmdxkpQxHcOrdM4Lwqm7HJDKKSWCg2ibbmFQJZZjmbq5I0Sqn+gxV0Zkf4Y=;cxmaQbj2CHbXGDVO7mdXpQ=="
+secured: "0Z1vYX00eUOdnnVD2tW/aVi7jutt8Trv+g5R54XtNr5285ZzZETDFNQyEQlGbpDTc9HgrUImN8IINxBBW0MV6T0Vg40aY2L1js7oCoEbX0pyvxefnFfL+0TtQnaplznZPwoTR2rlufMh+XI1f6wE6DmwVfz4aQ1Todb3h2Hx74Mcbsh3lsbJXBIrkzrZmSyrkeVhVLIKYb4EuCj8tbHGspjcE5y33i9sOBpfcUFycxEGschFI2Ekg5bT7+AQUul4lf3UI+Jwo4A9i0nPZmxz26nkXpK2oiae0LmoDrnqKEMil7cG/M+0CNv/9QLpCqa58VDIbt67eCEqCAsguoEfkuZ1dTVXQP1WY9AB3bkzcOo=;ulaRLRQN3M4YsUur0BEueA=="
 ---
 

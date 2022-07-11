@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/07/06/1055472/download-ai-clou
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/06/1055472/download-ai-cloud-energy-efficiency-china-leaked-data/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "These simple changes can make AI research much more energy efficient"
-    excerpt: "Tweaking the settings of the cloud service an algorithm runs on can have a big impact, researchers found. But not many people bother to do it."
-    publishedDateTime: 2022-07-06T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/06/1055458/ai-research-emissions-energy-efficient/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 21
   - title: "The Download: a military AI boom, and China’s industrial espionage"
     excerpt: "Why business is booming for military AI startups Exactly two weeks after Russia invaded Ukraine in February, Alexander Karp, the CEO of data analytics company Palantir, made his pitch to European leaders."
     publishedDateTime: 2022-07-07T12:10:00Z

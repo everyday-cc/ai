@@ -51,6 +51,22 @@ related:
         width: 730
         height: 419
         isCached: true
+  - title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
+    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
+    publishedDateTime: 2022-07-11T01:24:00Z
+    webUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215"
+    ampWebUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 52
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92788215,imgsize-100,width-1280,height-720,resizemode-75/92788215.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
     excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
     publishedDateTime: 2022-07-09T05:04:00Z

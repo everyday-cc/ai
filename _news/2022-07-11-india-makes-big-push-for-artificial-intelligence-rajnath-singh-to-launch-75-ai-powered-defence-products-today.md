@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI-based software to detect illegal constructions on defence land"
-excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
-publishedDateTime: 2022-07-08T03:12:00Z
-originalUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
-webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
+title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
+excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
+publishedDateTime: 2022-07-11T01:24:00Z
+originalUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215"
+webUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215"
+ampWebUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
+cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
 type: article
-quality: 37
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Tax Guru
-  domain: taxguru.in
+  name: timesnownews
+  domain: timesnownews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-    width: 500
-    height: 500
+  - url: "https://static.tnn.in/thumb/msid-92788215,imgsize-100,width-1280,height-720,resizemode-75/92788215.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -56,22 +58,6 @@ related:
         width: 730
         height: 419
         isCached: true
-  - title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
-    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
-    publishedDateTime: 2022-07-11T01:24:00Z
-    webUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215"
-    ampWebUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 52
-    images:
-      - url: "https://static.tnn.in/thumb/msid-92788215,imgsize-100,width-1280,height-720,resizemode-75/92788215.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
     excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
     publishedDateTime: 2022-07-09T05:04:00Z
@@ -88,6 +74,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI-based software to detect illegal constructions on defence land"
+    excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
+    publishedDateTime: 2022-07-08T03:12:00Z
+    webUrl: "https://taxguru.in/corporate-law/ai-based-software-detect-illegal-constructions-defence-land.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 37
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
     excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
     publishedDateTime: 2022-07-09T14:54:00Z
@@ -98,6 +98,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "tlqIURr55hxsCw8nXwl9y2jUtGqWLR0tb5h2RApCPXOdABQZQr9Z8bEoKivjJd1k8FxYMIFtGua9CTym99LGxRUlkdBLLFf1uBkpXA4lvl+sdte9N9PwXbrRF+v6YLUU33hMj/AZ6TJCpFTmoPUEkLTwF5oNl+G3U+9CMRpJcDP2ukC9UjOO6Cg2kiADmXo1h5+popWXOYUoGtRwH5t8q9BPTR+ij3KwojjaN0iFe6fDwObzqJi66qUzhRRVQ5r/JwdlP455ROgV3lI6TEGaajaRFIZghz8htDHu87RN5gXxErSJx/vSzSnyHFgUtf9O8Z9dsdJX4zHAQas/EWsvQNbpagLYES0/wFWFByA73Gw=;0EopilW63A3sx4QmBwuFkA=="
+secured: "WdrqxhpwpIXPf4QgyPijtWJMu5l8jJQvMUrAQT7w7CUvX/csGg5cEiSgjKWIugIC4aONrfo+3L6eeeml2OdC7YSaLJfKjg5DGCCMh9mqUfDwBnduHVoJbZJ9g50U/4uT7WWLD5DXei+uhSkculzl+M56toN3dqp4dDjXNQavrYytOiasPtpaTQbb13aWrC3SeL20A5M5w0xTVK7WOtxHKPdfNEeOgXvg7qPyNSNshaBSLXN9q+clywTRdsvYy7FZNC0xgWdnpjACNjWE2DnnieOdHHksSJUd+RStyWm1ZIkMOfZZ4Nj9Az7T1M5FfViJD4qdwIbZb5UGQfcbF2P68+Ro4m6L0twdZtXaKrgBJyk=;vo/hwgzHC+VM4UKyoJT5+w=="
 ---
 

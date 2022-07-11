@@ -3,8 +3,8 @@ category: news
 title: "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair"
 excerpt: "Rehab Boost Inc, a pioneer in artificial intelligence (AI), physical rehabilitation and body motion recognition, has announced the formation of an Advisory Board and has appointed seasoned healthcare executive Bruce Lawrence as Chairman."
 publishedDateTime: 2022-07-07T14:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rehab-boost-launches-advisory-board-appointing-seasoned-healthcare-/2022/07/07/9635083.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rehab-boost-launches-advisory-board-appointing-seasoned-healthcare-/2022/07/07/9635083.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/07/9635083.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/07/9635083.htm"
 type: article
 quality: 21
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 533
         isCached: true
 
-secured: "FOa9GRFzLqu0wAk5wOo2Sq+G7sUvOuJ85kNOcMFYIu3xuF5KX54tTteNC9okY5L6noJrfiDkCmOReq04zSzXRyjIk/2yi8T1F//7rlGnKZu/rE8FBMKy7TnLR8PQtV6CFXEOkLAXAalK8Jyi9rMfDMPZEpBL9Tib1jeXXkHs/zN+sVFEkDoI7roUnFivBAGosJxMP6/hqs9n22NbqyLmSEDGjahw2gjt9rS3oUeX0M5LELhxDv1ffhal0TXAyaAmh9iSZ0b9LudaKTc6LNHeMXSABhv4XP0ShvnomlxqUYoKcdc2O1moNsQIUvkiGCFZeQJ3uMaM6+6pVnOmprSnCa9wQfn/DLwKJKJe2F2OtHs=;ybmoTPhs2Iin6hCBs/Brbg=="
+secured: "1uiUFbWgsI+Do2ll0rE7g4sEDHVcTW9biQ3FsJskUW9yBaxkjzkxK0q/ANIPCS5M/tz7XSUgq9vRnvIL6wYvd7slJRlaNt6IOM6DkHRbQXL6JY6eCxMa6izn4C/rkOgg4WEibwlod33ofqha7aV4V6ML6jagfoUyOOtMoi2fj1LGC8eo1ZW/ne2qc/u2oqdJx6Z3hpYRka15H0dPRbJig6myJdd3IHZEXuJoWNoVDtLUKapFlDScJ0wBfgygLuWPi0oJtIUBO7nJGx2EHQNoFEBAcJhXbC4R7gI/rMiiMdLdLhcdYnJMSFzHaXoABzcTeK9QWR5t2JZ7/Yf0jG9NuMGMP8rXhDGbfsApT9vsqo4=;BO0LWo2w+n3dU07YwdsIKw=="
 ---
 

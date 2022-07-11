@@ -88,22 +88,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
-    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
-    publishedDateTime: 2022-07-08T08:43:00Z
-    webUrl: "https://www.deccanherald.com/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/business-news/ford-vw-backed-startup-argo-ai-bids-goodbye-to-150-employees-1124858.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 57
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/07/08/ford-afp-1124858-1657269785.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Self-Driving Startup Argo AI Lays off About 150 Employees"
     excerpt: "Self-driving startup Argo AI said on Thursday it had laid off about 150 employees as it makes adjustments to its business plans. The company, backed by Ford Motor Co and Volkswagen AG, said \"with incredible growth and progress made in our mission to deploy driverless vehicles,"
     publishedDateTime: 2022-07-08T00:17:00Z
@@ -154,6 +138,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
+    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
+    publishedDateTime: 2022-07-08T09:16:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=977012"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/epi41_thumb.jpg"
+        width: 640
+        height: 511
         isCached: true
   - title: "Ford, VW-backed AV technology firm Argo AI lays off 150 workers"
     excerpt: "As self-driving AV technology comes under increased criticism, the company that began operations in Austin and Miami this spring says it is making \"adjustments to our business plan.\""
