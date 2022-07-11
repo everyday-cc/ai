@@ -33,6 +33,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Worldwide Telepresence Robot Industry to 2027 - by Type, Component, End-user Industry and Geography - ResearchAndMarkets.com"
+    excerpt: "The “Global Telepresence Robot Market - Forecasts from 2022 to 2027” report has been added to ResearchAndMarkets.com’s offering. Telepresence robots are self-contained autonomous robots with a smartphone or motorized desktop stands connected to a display or camera and may be controlled remotely."
+    publishedDateTime: 2022-07-11T12:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-smartphones-af41b07cab7d44739cdb070d60e11400"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "GPU as a Service Market To Value USD 65 billion by 2030, Says Global Market Insights Inc."
+    excerpt: "The GPUaaS market is expected to reach USD 65 billion by 2030, as reported in a research study by Global Market Insights Inc . The growing adoption of IIoT across various sectors, such as manufacturing,"
+    publishedDateTime: 2022-07-11T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9635977.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
   - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
     excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
     publishedDateTime: 2022-07-08T15:00:00Z
@@ -46,6 +69,15 @@ related:
     excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
     publishedDateTime: 2022-07-07T12:49:00Z
     webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-worldwide-robotic-software-platforms-market-to-reach-us113-billion-by-the-year-2026-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Worldwide Healthcare Payer Services Industry to 2027 - Featuring Accenture, Hewlett-Packard and Xerox Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Healthcare Payer Services Market - Growth, Trends, Covid-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Healthcare Payer Services Market is expected to register a CAGR of 10."
+    publishedDateTime: 2022-07-11T15:17:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-11-worldwide-healthcare-payer-services-industry-to-2027-featuring-accenture-hewlett-packard-and-xerox-among-others-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T11:30:00Z
 originalUrl: "https://www.techcentral.ie/machine-learning-vs-ai-vs-nlp-whats-the-difference/"
 webUrl: "https://www.techcentral.ie/machine-learning-vs-ai-vs-nlp-whats-the-difference/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Mozilla

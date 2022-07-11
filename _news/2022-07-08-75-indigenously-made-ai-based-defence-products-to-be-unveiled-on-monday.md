@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-ba
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
+    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
+    publishedDateTime: 2022-07-11T13:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/defence-artificial-intelligence-council/videos"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 17
 
 secured: "NiELyQgW4ZRhpWE5RuNwERihJcfD02++YpC+FhQ4ncNeUtnGQWZ29vziO8IHzFg0jlIhKrzWhf7HX73mT8xYTn7EZ8qjfqiijTynJQGkzICPgwSdQqJZgt+1m0nt+T5a9G71wxH7J4aBKY4MSDGrMAPamTC0WYurkJKe03h5Lzs+eOHjpRpAYtwMdPy+n0/0Z3NXaSfJM6GcPP23YUR4Oy7L7lTOv47zNar0gTO8WONR6jkTlweyAiPJb00LVNiV4whMWyec51UdcUrDAXsg9e+li64xxkMf0SWKKJhZ6rHDV62mT/5UczMj3WX5rlJCkNLqZNxOP8jZaCVU0QOE8DJdK+WCx/69kJmtW0z2T5Q=;j0Yw1bXl22dXGwC0C0Ci1A=="
 ---

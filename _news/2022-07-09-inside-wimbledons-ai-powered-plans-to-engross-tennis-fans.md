@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-ten
 webUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans"
 type: article
 quality: 67
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Wimbledon 2022: It’s Game, Set & Match for Tech Innovation with IBM!"
+    excerpt: "Wimbledon reached approximately 18 million fans through its digital platforms in 2021. And this year, the event has become even more technology feature rich by design - whilst always supported by people in partnership."
+    publishedDateTime: 2022-07-11T12:49:00Z
+    webUrl: "https://www.bbntimes.com/technology/wimbledon-2022-it-s-game-set-match-for-tech-innovation-with-ibm"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 4
 
 secured: "lEv/uvVfAqtc1sDMixlq9+JTJ+5fYBziO6dj9k8FQh+iqFppgnYZ5gW/C7BMdt5VmRraajP413gAIMt04A99b4qDI6FfJM8fCqOSDFiL6MTXtsei7kVaM+4Ik/PoSlvcFNpe4FNcSDDX5l5ZTWEEpnV3E/iNc5F11ZDpnleTxxMo4EQN6bqNR5LOkxojSu5V3AK546Xc25pIxCAq1We4p6jua2/q48pHDaff+m7+JvmobqjDbtB/ExQR728bM5Xo1e/cCA63gKjS4DIzLrWRcs4a5qFz/EeDpR3jRwZDBmBtPYqPE9BzeCjGy7Ykkg+xyPOihz4/T8Zm85czba1Cwkzfs73OGB3BDxrzd3jfF4BuG5K1lW0sOY5UxHrtnLKRGVY7/DR3+OnCeDHb8zZ0o7ARmleXCbTP/fAmCEHb0AVXE8vJ479PCciIdZhVaCQhbqFxbvjul9U6sxHvlzu+b7b7TQcg8UgPfbra1sQMEqx16a+HpwTubdXHsN42oQPOl8bdh/We7sr/r/CjiZbAjA==;t14YNzjgm+MPHslgnfBmPg=="
 ---

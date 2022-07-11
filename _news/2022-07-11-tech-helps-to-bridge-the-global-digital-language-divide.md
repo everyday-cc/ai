@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T12:05:00Z
 originalUrl: "https://www.raconteur.net/digital/tech-bridge-global-digital-language-divide/"
 webUrl: "https://www.raconteur.net/digital/tech-bridge-global-digital-language-divide/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Raconteur

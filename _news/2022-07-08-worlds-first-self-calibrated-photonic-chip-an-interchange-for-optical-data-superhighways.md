@@ -73,6 +73,20 @@ related:
         width: 375
         height: 462
         isCached: true
+  - title: "Researchers Discovered a Way to Build Sophisticated Photonic Integrated Circuit That Interconnects Optical Data Superhighways"
+    excerpt: "By revolutionizing the connectivity of current optical chips and swapping out bulky 3D-optics with a wafer-thin slice of silicon, a study headed by Monash and RMIT Universities and a University of Adelaide specialist has discovered a way to construct a sophisticated photonic integrated circuit that interconnects between data superhighways."
+    publishedDateTime: 2022-07-11T14:50:00Z
+    webUrl: "https://www.azooptics.com/News.aspx?newsID=27680"
+    type: article
+    provider:
+      name: AZoOptics
+      domain: azooptics.com
+    quality: 0
+    images:
+      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27680_16575411660216028.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "Vk+SZ0fQ1fdTA5URkk0MFkoYu+lUVL6kEHVowGbehq+u88k+5pKsLhS7bMBAgBkBs4P0AtoDsdbwhbzRlsZMVJWYllTGdcblXyyc1/HjBRhbVr7WY6/vTM/PCO42Xoa9TLySv2XE6DZDQJMWKbYB8MX6zZmOzGeIARVUzCJOTvOl3h9oSOj+6Xi9ip+fjLCNQMpZbKF2tNMEsHwQwLaSs1ZNLNCl58+f3TarUU7FRphPqO1l7FfMHoy1Ur6QL35wYBqc3rxt+VJMo1rBKO6LlkJGBwnpBx6kuHhFjpoMfsB4MNgTUZe0w+qdy3B5V9ueu1kREFG1K/MJVyN4KZP9ry2yMHUFAlpQRfCpCUriW3OqP9PQfngc9PXlCVBBpNC7BPE7ls8Q4LTGAtZLlBrvHvK9xzmmR5Vw/sARhunggdjhAZ4FcOpwgQl0FSH3OFBfF9nqIx0xCZKmh7aEP8JUHGW1oAJ0f8ITnqUsyhhK/AOnPr4S5vLjOemb3PwjDuCJbmDQNeCyGkFYgjm2XiJv3Q==;NZXpbTorvtI8VJDoQEvrbQ=="
 ---

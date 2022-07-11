@@ -3,18 +3,27 @@ category: news
 title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
 excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
 publishedDateTime: 2022-07-07T01:15:00Z
-originalUrl: "https://madison.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4.html"
-webUrl: "https://madison.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4.html"
+originalUrl: "https://scnow.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_615910ff-551e-5ed7-ba35-e68f9e506092.html"
+webUrl: "https://scnow.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_615910ff-551e-5ed7-ba35-e68f9e506092.html"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: SCNow
+  domain: scnow.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "3WcXWK0I7coQySaMeBL6g+jbfZsiHfGAAQheVP2CgEyUnQmRiENSlNHmXEqu9y4EOridtE/7weR7HZkjYXhPmAOvryHNyqCjfcllOtPsWisICnCs5KR1KcxTb2XNP36DeGakOSdCGV1/eAlhuIkZARDmx92tVfdO9G0cuEQUiWNistKBrvfGb7niYk5matAJqnEK2uR2jMtTOh5PUVXx2IsY5Pc5qb0oY/HNYIDJwBi9/D5eX9gwG7XW0QMcAdttvmKjCdxO6h8h1EsNw2E4lk0JtBVqNXfyE6rsSzAWJ1eOl+uHWUrk3vu+8MIvQIEZwBg5nJhXVAIbBWF/ll64zQ/sZbBkQVEJq7F04NowGW3MeWZYZ2UGS+Urd4i7MqCkFmgiK5BuDaFL/LwsPg1/B3Eo1WQ5PeKFdMLVbVMm8bvHmz96t/a1xuzICyFJUfJuVyzpcon8UtxfhDcoK8oTFBO8R5FphSdCEnI78jWNuwA0oVWtucwkQ97YCj5Ma1Y590u+l9Ts5feWzFbsBqvhsA==;1E1J+NWYs+tsrEWTCyo9LA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/6/15/615910ff-551e-5ed7-ba35-e68f9e506092/62bef0326b490.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
+    isCached: true
+
+secured: "f4/cUb4gRkg9pNUFSmHaGgpTBnYjqkQeuoqjA81WT21wDhhEiBuqY+PeVggIWYaNg/vxBaT7VNvWO8FkwRv3BHKIJxFFMD6HvIv+L1AwO7/1TLRWmkbVvHrAy0JlOf9IJDncrA9MpmW3yJgIQT6+AxvXEZ+ZhLJm31+tnD5RV5IecfKZYHX/HFJH5TUAuNOrCUyQMXIyLeefGAB+6WtPOjQXw86HqLzp0N40dOEBqXWKfn+0cHtJwcvUI405LL8+HMqsqi6dheQnE2hQjILkFHlQ+jp325LWF1VlHJt2ucCNSj6bfNP+EZPVXwWGUkapJjXeyjldHEdwYcmJHx0G0SMAdXq2kL1NDjAigZidxlA=;e/uKpCwgtLkBPF/4w+O0qw=="
 ---
 

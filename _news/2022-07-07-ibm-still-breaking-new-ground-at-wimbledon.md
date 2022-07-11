@@ -55,6 +55,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Wimbledon 2022: It’s Game, Set & Match for Tech Innovation with IBM!"
+    excerpt: "Wimbledon reached approximately 18 million fans through its digital platforms in 2021. And this year, the event has become even more technology feature rich by design - whilst always supported by people in partnership."
+    publishedDateTime: 2022-07-11T12:49:00Z
+    webUrl: "https://www.bbntimes.com/technology/wimbledon-2022-it-s-game-set-match-for-tech-innovation-with-ibm"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 4
 
 secured: "Jtlilpr9w/Z7CkuPEI7vp3V4MGkpX2WuhV/u1D4Xj/0visvIk3mAyqk7L6YaUPdVfoIFuhbQfnfCHvx1yoVgvEhbKFA6S40eYySpAuFsW4p1JMb9+vAi2fbZ//aKraGGN8RlqwANQpuFjvK+8qTdgximKc2bMgzgLsz92Iib92eMO15bXeu7sVrCYytY8/+4IMDLpEZv0YXYr/EEp5A2ELVIPaiUoALZHW+oUrrIblQgCPiWZStcUXq27LPlWMKxBKWa/7uXHFxvj93kcNRrZMzrHyaXFonvUC3WRJ24NKpYJrW41ksFuGLoMBMfqPAEBznyLl75718WZnVNEF6UgkyJxDisV16fLwrgttuqt1JDAEEXUgKdOP/yLF7rvYXEK/kbzs4Xt13QVYIGxJZXryxuZMmnbUyO49sz7hLPr1eYCo9sGvdqt7OIJ2Ef2hgABA7AsovDZdJz/MHDRDu99DuVtsaDTMC2xgVqA0R/zczQUGENexqZwxCYLJ6ftIQEJfMN2kx/xPUPc5lnLTqrfQ==;pMKSy+bDWFZlP71yILkElA=="
 ---

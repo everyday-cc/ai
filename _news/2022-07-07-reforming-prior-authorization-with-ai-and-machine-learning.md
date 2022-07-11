@@ -35,6 +35,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Finding an easier way to AI adoption"
+    excerpt: "AI poses such a massive implantation challenge that getting it wrong is more likely than not. It will touch every digital aspect of the enterprise eventually, which means it is rife with pitfalls, namely,"
+    publishedDateTime: 2022-07-11T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-adoption/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Reading law in an AI future"
     excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
     publishedDateTime: 2022-07-10T04:00:00Z
@@ -49,6 +58,15 @@ related:
         width: 1240
         height: 779
         isCached: true
+  - title: "Adopting AI in a more straightforward manner"
+    excerpt: "According to IBM, more than a third of firms are now using AI in some capacity, while another 42 percent are just beginning to explore the possibilities. While these efforts are being hindered by factors such as high prices,"
+    publishedDateTime: 2022-07-11T13:25:00Z
+    webUrl: "https://bestgamingpro.com/adopting-ai-in-a-more-straightforward-manner/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 17
 
 secured: "Q3la+nWX1fJJSEaLxUudOzHEj9tfprLd5MZM7PTBqrp6v7hvczqHxurvkIqFp3VjiYySUEnbvFAwP+1R6CL21tzb/QSlDVsbM9QNiXOvJXhACUFb1MrIm5YjDU2O8295pdZ+H3F7qdQsbpWtkQyV8U0VJ24DcuuKJghsi8u7pltvWwPmshm/kIV9ML62waYSdv+iyDLZ1zTy5Oe36WQ8c23uQlzGS7zwRUWIW07u0rFMEPglnz/WbFp0k2Mxy60aKVdb3hv7ZfaZzJVa7CRBt7XFVhmbuubZLiGB/2BncJnPliC3O9PxwNbZQyd5omorFfV2G+HLsn/xuZ4ATNnVlw+ifZiU3J8EUsKAo9HE/OrUKC3v7t6t5KnfK9VbTStxhQOen9hLYSvsvGZ+5q9nzPpUx/e66lb8xbthGt+TjHEPsJ55mxYS+dTIVZjuUc7CIgK5+GVniI9Af74ajUnAT3iSMAdTmzZtc/+uXe3RcvNOzHwBGgpFigDRIvillOZOx4kswJOX0riIh0zdMGuP/g==;8PcujOi/mRdS6Thb3DdHGw=="
 ---

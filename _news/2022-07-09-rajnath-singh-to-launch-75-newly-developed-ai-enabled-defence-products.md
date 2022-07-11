@@ -113,6 +113,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
+    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
+    publishedDateTime: 2022-07-11T13:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/defence-artificial-intelligence-council/videos"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 17
 
 secured: "VRBGyRBrYYEFQtFxVayjTv8VX2HxeflDidkNmxfkO6XA93MdKDxURaR8nU8L9bUfD83ZFYLUliKSIkC2UHb2cDH795dAGQfHIcCE22uabWnH5C9HQBTF8DfkkYoLWZjDNXOQi7rNRghm40g8tLQcifULkTcPyB1ddR2MPH04Y+rdeEsGiXuOQUvc38NnsXdwYA2PKGpHO9hENRFxSeEyF7lmliwwxe4TDxxdxOobN9PIokft1tV+AJ8VXfZfKbhUXX3sV3E+EJYAHHegFdHPU/E7sixfHbc9JtoeHWYImGyM0P5/pA8k2jxXqEIu85II23scwpHTFVmCqq9jbU7GdBXRDO+wztTzpEiiOXVyiC8=;RdVzg6yG5wxpTC1yPZBRhw=="
 ---

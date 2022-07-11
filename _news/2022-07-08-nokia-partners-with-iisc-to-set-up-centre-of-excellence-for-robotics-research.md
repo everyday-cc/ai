@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/nokia-partners-with-ii
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "CENTRE OF EXCELLENCE IN ARTIFICIAL INTELLIGENCE"
-    excerpt: "Get latest Centre Of Excellence In Artificial Intelligence news and updates. Explore Centre Of Excellence In Artificial Intelligence photos, videos and information on Times Now"
-    publishedDateTime: 2022-07-06T19:31:00Z
-    webUrl: "https://www.timesnownews.com/topic/centre-of-excellence-in-artificial-intelligence"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 17
 
 secured: "EIc5g5fWujPCPVM/Z1S3/uD+80JsdMNt8GIPQ4p+j+tsyxgWbGGlGE+2F/ylaaGpikQDQkraWGnTC7F91+q7NVXtbX42I0rq9qJC607Id0wF0/sdm7qApXLWBZ7Mu6L9gnW6zHcdr9W+W4mOUzs08JcHXuBVB+nPA+TF1juUPq7ld/dVTBlkP+ANP9MJOBOSlCl/Ha/QwPQPSwAA4r35kT5QJkCwjTT17FD84ovk6/6/3daaqLuoGi48yM0Mr5kybMlGa6icJlHDI2liK5tYWXPkJeWl4cRRVr5tqOKeAOoXhbpYvEAcsqDR1aOZAE36kCtqgxcDqqXw3co2htIZcRCho+SUAMqv2FuVYS0Q050AkQkfqthYbVJKzUPqHMGkY8o7kXrcc2K4Mf0/j0G465o962AVSDSGBLzR73DQegAfOqv9hRKkiVQhFAts6S38lSNUky+uuNn7LmtwEKZKK4lQZMsk6QU+cKLPcGwCwjwkwYT6mL6EBjPDNg2TKKpSfViUkTTR3PQlXIkrkKSH2Q==;EI/YUfVgfJy3vQ7D6yZPWA=="
 ---

@@ -113,6 +113,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
+    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
+    publishedDateTime: 2022-07-11T13:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/defence-artificial-intelligence-council/videos"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 17
 
 secured: "tlqIURr55hxsCw8nXwl9y2jUtGqWLR0tb5h2RApCPXOdABQZQr9Z8bEoKivjJd1k8FxYMIFtGua9CTym99LGxRUlkdBLLFf1uBkpXA4lvl+sdte9N9PwXbrRF+v6YLUU33hMj/AZ6TJCpFTmoPUEkLTwF5oNl+G3U+9CMRpJcDP2ukC9UjOO6Cg2kiADmXo1h5+popWXOYUoGtRwH5t8q9BPTR+ij3KwojjaN0iFe6fDwObzqJi66qUzhRRVQ5r/JwdlP455ROgV3lI6TEGaajaRFIZghz8htDHu87RN5gXxErSJx/vSzSnyHFgUtf9O8Z9dsdJX4zHAQas/EWsvQNbpagLYES0/wFWFByA73Gw=;0EopilW63A3sx4QmBwuFkA=="
 ---

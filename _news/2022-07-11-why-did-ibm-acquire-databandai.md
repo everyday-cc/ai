@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-11T08:30:00Z
 originalUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
 webUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -114,20 +114,6 @@ related:
         width: 870
         height: 470
         isCached: true
-  - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
-    excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
-    publishedDateTime: 2022-07-06T22:38:00Z
-    webUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
-        width: 609
-        height: 343
-        isCached: true
   - title: "IBM Acquires Israeli Data Observability Startup Databand.ai"
     excerpt: "Databand.ai works to help companies alleviate data errors, pipeline failures, and poor data quality before the company’s bottom line is impacted. By acquiring Databand.ai, IBM hopes to strengthen its software portfolio across artificial intelligence,"
     publishedDateTime: 2022-07-07T20:10:00Z
@@ -170,20 +156,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
-    excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
-    publishedDateTime: 2022-07-06T21:50:00Z
-    webUrl: "https://www.govinfosecurity.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 37
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ibm-buys-startup-databandai-to-address-data-quality-issues-showcase_image-6-a-19518.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "IBM acquires data observability startup Databand.ai"
     excerpt: "IBM recently acquired data observability startup Databand.ai. The technology improves data quality to fix large-scale problems. The Israeli company"
     publishedDateTime: 2022-07-07T12:22:00Z
@@ -201,6 +173,15 @@ related:
     provider:
       name: NETGEAR
       domain: smechannels.com
+    quality: 19
+  - title: "IBM Acquires Databand.ai to Boost Data Observability Capabilities"
+    excerpt: "IBM is acquiring Databand.ai, a leading provider of data observability software that helps organizations fix issues with their data, including errors, pipeline failures, and poor quality. The acquisition further strengthens IBM's software portfolio across data,"
+    publishedDateTime: 2022-07-11T13:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Acquires-Databandai-to-Boost-Data-Observability-Capabilities-153842.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
     quality: 19
 
 secured: "26oIwSeCVxMPWE1bA2gylj0op6qBTqg9YLSoxH9no3m+Wy6I/2lDaM45slnhWAvI6WvnmM3nNNYge7RxwsGB511qJGmvl0/VqNWY3A+dATmKl3aoOyfYux1Kr+jCYtrInzC94sfjfYII/CSCKsjJhdnK25o9dbkaFRARR0xos94+nxi0atBJ1eTH2Dnu3A4NaUIJkWwgxkRiWkfLsyvVjKDhrXrCSva0hWb7OKoyNBCL79IYtVWArugn/+dmnc1UgQZd1f5lbUMFWNOP3a2RuliWDB4zTFRl8iZ1oH0eE/AYXmnFLJ4ywWekKNb3MU5u05xQIbLQpAg8GHrbREgNC8gBnpeyq7jjNuQSVoWuwolc+IhTsOS29Fw4n8vCwboAWPLdRGb1W2LFpscrjgq3j3GVUILqPkxo6csAeDeiDVg9SS/CG0DgWJDvuY7nywiRkkmqN3jE0QC6Doe1SdXCZIJsVCE3bgm6aSQurIwGpdgDGU+tGBdv12t/LeP3PE2lOoVhWQXMifAWTLEb4dwIxA==;GF7floas7NwD4kuic3Cj9Q=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T13:42:00Z
 originalUrl: "https://www.law.com/legaltechnews/2022/07/11/as-the-u-s-grapples-with-regulating-ai-eus-approach-looms-overhead/"
 webUrl: "https://www.law.com/legaltechnews/2022/07/11/as-the-u-s-grapples-with-regulating-ai-eus-approach-looms-overhead/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Law

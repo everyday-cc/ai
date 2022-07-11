@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'"
-    excerpt: "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition."
-    publishedDateTime: 2022-07-06T22:23:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 60
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/253c7156-c626-439a-aec0-49160966ee42/0ba5dff5-9160-466c-94b3-967d1ba42b12/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "This Is What It’s Like to Have Face Blindness"
     excerpt: "Brad Pitt allegedly suffers from prosopagnosia, a face-blindness disorder, and he wants more people to know it’s a real thing. For almost a decade, Pitt has been open about not recognizing people he had already met before – and then upsetting them because of it."
     publishedDateTime: 2022-07-08T05:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
 type: article
 quality: 59
-heat: 139
+heat: 169
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "India needs to develop its Artificial Intelligence technology in order to become invincible: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in present context."
+    publishedDateTime: 2022-07-11T13:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/videoshow/92807783.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/amp_videoshow/92807783.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/amp_videoshow/92807783.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-92807783,imgsize-31378/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
     excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."
     publishedDateTime: 2022-07-11T11:29:00Z
@@ -149,6 +165,24 @@ related:
         width: 660
         height: 486
         isCached: true
+  - title: "Rajnath Singh calls for tapping AI potential in defence sector"
+    excerpt: "An Artificial Intelligence exhibition was organised which provided an opportunity for innovators to display their capabilities, products and state-of-the-art technologies"
+    publishedDateTime: 2022-07-11T11:53:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/rajnath-singh-calls-for-tapping-ai-potential-in-defence-sector-101657540436279.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 19
+  - title: "India must be ready to face upheaval due to expansion of AI: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh has said that India needs to work on artificial intelligence mechanism 'extremely carefully' and be ready to face the upheaval that may follow with its expansion"
+    publishedDateTime: 2022-07-11T12:17:00Z
+    webUrl: "https://www.livemint.com/news/india-must-be-ready-to-face-upheaval-due-to-expansion-of-ai-rajnath-singh-11657541613044.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 17
 
 secured: "/3RrfDinXsqxzw26XRZ2FzU116ETpfm/H8aDaE4brDlRCyCmaE4csI70PVF020mYbymKMAmBPVs0l7goAmEg9iuGkKY8Te9atd7Zd0HDMC4J24BhWDvfmfZrwLe4HmsEo6lLwfzBh8mlUW1AyY7nR2bxRMA0GtfZCmgJ+IuDkRHmMJVcaeHkLnuoStcuRfcAXif24tKr4G3nuqawJWRLiynH3hFhLqED/uyjdqZFFYgANPQ3sh6A/yEDdTbr4ibNVFblroa8LziSXS0DHVbQV0BjXJKDO5fPDaZVpbW0Pzq7tgq+HI4VsdpXFIwqogFTeUEE4CVDQgE356v1e/zfIfLVcXZDGxDZI1FjAJOvjp4=;EE6KX9w0rgAw/AC6zqUKIA=="
 ---

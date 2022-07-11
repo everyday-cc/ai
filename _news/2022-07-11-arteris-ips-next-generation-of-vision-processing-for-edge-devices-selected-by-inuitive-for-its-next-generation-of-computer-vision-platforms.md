@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T13:27:00Z
 originalUrl: "https://www.design-reuse.com/news/52319/arteris-ip-inuitive.html"
 webUrl: "https://www.design-reuse.com/news/52319/arteris-ip-inuitive.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Design-Reuse

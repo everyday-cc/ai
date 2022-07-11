@@ -40,6 +40,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "5 tips for covering racial bias in health care AI"
+    excerpt: "In covering health care AI, journalists often focus on datasets gone wrong, when experts say there’s more to the story worth covering."
+    publishedDateTime: 2022-07-11T12:00:00Z
+    webUrl: "https://journalistsresource.org/home/5-tips-for-covering-racial-bias-in-health-care-ai/"
+    type: article
+    provider:
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 41
+    images:
+      - url: "https://journalistsresource.org/wp-content/uploads/2022/07/artificial-intelligence-gf20f733b7_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Meet Hucu.ai, a startup that’s like ‘Slack for health care’"
     excerpt: "A Chicago entrepreneur who’s spent much of his career developing technologies to care for elderly people is at it again with a new startup. With his latest venture, Hucu.ai, Asif Khan has developed a platform for physicians, nurses and caretakers across ..."
     publishedDateTime: 2022-07-07T16:15:00Z

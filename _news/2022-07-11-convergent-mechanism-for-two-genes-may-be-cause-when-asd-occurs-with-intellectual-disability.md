@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T12:26:00Z
 originalUrl: "https://www.buffalo.edu/ubnow/stories/2022/07/autism-intellectual-disability.html"
 webUrl: "https://www.buffalo.edu/ubnow/stories/2022/07/autism-intellectual-disability.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medicine Buffalo

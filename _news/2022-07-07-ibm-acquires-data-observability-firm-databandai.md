@@ -71,6 +71,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Why did IBM acquire Databand.ai?"
+    excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."
+    publishedDateTime: 2022-07-11T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/IBM.jpeg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "IBM acquires data observability vendor Databand.ai"
     excerpt: "The term “ data observability ,” as defined by Databand.ai, is the blanket term for understanding the health and the state of data in a system that allows a business to identify, troubleshoot, and resolve data issues in near real-time."
     publishedDateTime: 2022-07-07T00:38:00Z
@@ -98,20 +112,6 @@ related:
       - url: "https://static.businessworld.in/article/article_extra_large_image/1461043704_sACUNR_IBM-reuters-470.jpg"
         width: 870
         height: 470
-        isCached: true
-  - title: "IBM Goes Big On Data Observability With Databand.ai Acquisition"
-    excerpt: "IBM is expanding its observability capabilities with the acquisition of Databand.ai, a data observability technology developer."
-    publishedDateTime: 2022-07-06T22:38:00Z
-    webUrl: "https://www.crn.com/news/data-center/ibm-goes-big-on-data-observability-with-databand-ai-acquisition"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0277-158fdf343a49-fc5ee92d2502-1000/iot-networking-trends-binary-data-min_20220706182850.jpg"
-        width: 609
-        height: 343
         isCached: true
   - title: "IBM Acquires Israeli Data Observability Startup Databand.ai"
     excerpt: "Databand.ai works to help companies alleviate data errors, pipeline failures, and poor data quality before the company’s bottom line is impacted. By acquiring Databand.ai, IBM hopes to strengthen its software portfolio across artificial intelligence,"
@@ -141,20 +141,6 @@ related:
         width: 2700
         height: 1411
         isCached: true
-  - title: "Why did IBM acquire Databand.ai?"
-    excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."
-    publishedDateTime: 2022-07-11T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/IBM.jpeg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "IBM acquires Databand.ai to boost data observability biz"
     excerpt: "IBM acquires Databand.ai to boost data observability biz - Tech company IBM on Wednesday announced it has acquired Databand.ai, an Israel-based data observability"
     publishedDateTime: 2022-07-07T03:15:00Z
@@ -168,20 +154,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/317fIx8L.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "IBM Buys Startup Databand.ai to Address Data Quality Issues"
-    excerpt: "IBM has purchased a data observability startup to help organizations address data errors, pipeline failures and poor quality before it affects their bottom line."
-    publishedDateTime: 2022-07-06T21:50:00Z
-    webUrl: "https://www.govinfosecurity.com/ibm-buys-startup-databandai-to-address-data-quality-issues-a-19518"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 37
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ibm-buys-startup-databandai-to-address-data-quality-issues-showcase_image-6-a-19518.jpg"
-        width: 860
-        height: 520
         isCached: true
   - title: "IBM acquires data observability startup Databand.ai"
     excerpt: "IBM recently acquired data observability startup Databand.ai. The technology improves data quality to fix large-scale problems. The Israeli company"
@@ -200,6 +172,15 @@ related:
     provider:
       name: NETGEAR
       domain: smechannels.com
+    quality: 19
+  - title: "IBM Acquires Databand.ai to Boost Data Observability Capabilities"
+    excerpt: "IBM is acquiring Databand.ai, a leading provider of data observability software that helps organizations fix issues with their data, including errors, pipeline failures, and poor quality. The acquisition further strengthens IBM's software portfolio across data,"
+    publishedDateTime: 2022-07-11T13:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Acquires-Databandai-to-Boost-Data-Observability-Capabilities-153842.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
     quality: 19
 
 secured: "HDcMQ4aHQu6+yK333D4jaed5r123razxOpKvb275LQjc8rbQ3lnonV1beSPoOU/SUe0NBepWgtSnJvKKAt7ltL7WIaz2UChavrnypYIkKiKWTSi584aysOqkWKeKyJQ1kAYusY7+63k+fA7lexVaf2T5HRz3yknfCzMTPTOkRtPQrHg4Btc5pdpAf9ah3Voag8vIy/zuKTZLAe7dmU8Eej+iPvSjmI5IdjkZYQMW3UFP95CEmVPQ8IFbvDSi8QJ2PNl8aLjO6VfxLgnVudTntC0EHocdW+Ok6spx0RGfJuh171N3kxXS55bI5ioPif9fcfqnyulvps5pA3i9uqnpyC2pxIa3aSPy52tygpsPfZaasG7BTukdLmwC0X5qhHvUgre+XDFNqfvSU48wKcF3PcsGE78ZwQdQac+FKWmwnGb1UXyFmUWWh9WyC1D5z/ykxBETGz2lOJlAwXUJqjyMwtRPPwRQZRePlz6QuedcoOKiIKE2pGHeFje+iLS6/TnhWMQDHHDxenQMx+uKo8nOZA==;bvkjnloEM5CZ6vG5txecqw=="

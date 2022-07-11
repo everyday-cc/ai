@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T13:21:00Z
 originalUrl: "https://www.tampafp.com/cognerium-launches-ai-powered-digital-banking-platform-for-credit-unions-and-banks/"
 webUrl: "https://www.tampafp.com/cognerium-launches-ai-powered-digital-banking-platform-for-credit-unions-and-banks/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: The Free Press

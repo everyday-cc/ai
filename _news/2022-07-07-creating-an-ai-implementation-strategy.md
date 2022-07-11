@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-stra
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Finding an easier way to AI adoption"
+    excerpt: "AI poses such a massive implantation challenge that getting it wrong is more likely than not. It will touch every digital aspect of the enterprise eventually, which means it is rife with pitfalls, namely,"
+    publishedDateTime: 2022-07-11T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-adoption/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Reading law in an AI future"
     excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
     publishedDateTime: 2022-07-10T04:00:00Z
@@ -50,6 +59,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
+  - title: "Adopting AI in a more straightforward manner"
+    excerpt: "According to IBM, more than a third of firms are now using AI in some capacity, while another 42 percent are just beginning to explore the possibilities. While these efforts are being hindered by factors such as high prices,"
+    publishedDateTime: 2022-07-11T13:25:00Z
+    webUrl: "https://bestgamingpro.com/adopting-ai-in-a-more-straightforward-manner/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 17
 
 secured: "sak0jdZie2M08P65Nle54STMa8h5yu52FBSsw8k0Qm3gP2yQw18jegQaATtx0rPWWwylouMX7m4RfQosjOEhqfU+LYp/dMdycPiQ6ZGd8vz1wZrZG+vyB1IMK+SupjPdTg/hfjl4Ob72kB38EhwlU+TI2G71JXybvUOcwRV/e1aY2ZWXz4i0ItaQcmX8iQo7UcAFq0lub5NKugB1NcNIWda9a+CJw6MdTLofhvhsUZN4/3LYOq5ruznO/6bxoCcucXUHHl8ans31/Rw6b52EChJ4tHWZU/27vcI8rG4bvATnrK9/c8zv1ld5xAT11YfNpEpx15aYh6DdGtH/27x3CfNH+V3PKE/yBKadEyiY764=;9VMlCtSe+TNv8pnfm/QmTg=="
 ---

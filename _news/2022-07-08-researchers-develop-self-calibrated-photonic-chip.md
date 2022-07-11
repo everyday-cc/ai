@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/news/whats-new/researchers-develop-s
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/4cffa1427a4ee31e821334cbfb5a11fa_M.jpg"
         width: 375
         height: 462
+        isCached: true
+  - title: "Researchers Discovered a Way to Build Sophisticated Photonic Integrated Circuit That Interconnects Optical Data Superhighways"
+    excerpt: "By revolutionizing the connectivity of current optical chips and swapping out bulky 3D-optics with a wafer-thin slice of silicon, a study headed by Monash and RMIT Universities and a University of Adelaide specialist has discovered a way to construct a sophisticated photonic integrated circuit that interconnects between data superhighways."
+    publishedDateTime: 2022-07-11T14:50:00Z
+    webUrl: "https://www.azooptics.com/News.aspx?newsID=27680"
+    type: article
+    provider:
+      name: AZoOptics
+      domain: azooptics.com
+    quality: 0
+    images:
+      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27680_16575411660216028.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "sje7PBW2ShWvuMYYK0ZsdREqyiH9rbaVWnfR/lpnJdlZB/dbYuKW2wRmSo8hqawJdsfqH1Rkc5qjiili3tElxvPpbCPKyRm9y+tGVKyqVy38lSnt3MVPMA+wZkmkFM3gC54flvA4KS+oRRupFOmsPEO/uaVHFSUK6hAhFn9VF/yVVGEYMPt7zhMfwRjCuUAgcjmtfppB7ZNWBaJvYkfvFFxcXVbmO/xBNG+s/XVcFwvQXbZYyGzndM9oQ5Oj5RvudaP0rk56D4V+Jb12Sh7SCoM6Md7gDgZVZ7wlWEPdo6R3PKNit0dWSUKT0J1FE3CRB9k8igEiYzD7e1Ra0W0Y3HFHDatYNqFXutaprY8/Ln0=;GI3SIMo94lubx9Zp/Pws4w=="

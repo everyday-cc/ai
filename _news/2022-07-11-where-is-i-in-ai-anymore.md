@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T12:56:00Z
 originalUrl: "https://analyticsindiamag.com/where-is-i-in-ai-anymore/"
 webUrl: "https://analyticsindiamag.com/where-is-i-in-ai-anymore/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics India Magazine

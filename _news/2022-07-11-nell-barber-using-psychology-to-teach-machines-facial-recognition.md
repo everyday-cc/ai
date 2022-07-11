@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T12:00:00Z
 originalUrl: "https://www.ornl.gov/news/nell-barber-using-psychology-teach-machines-facial-recognition"
 webUrl: "https://www.ornl.gov/news/nell-barber-using-psychology-teach-machines-facial-recognition"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Oak Ridge National Lab

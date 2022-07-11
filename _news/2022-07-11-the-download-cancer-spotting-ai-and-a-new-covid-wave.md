@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T12:04:00Z
 originalUrl: "https://www.technologyreview.com/2022/07/11/1055690/download-cancer-spotting-ai-new-covid-wave-variant/"
 webUrl: "https://www.technologyreview.com/2022/07/11/1055690/download-cancer-spotting-ai-new-covid-wave-variant/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MIT Technology Review

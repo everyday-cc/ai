@@ -34,6 +34,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "5 tips for covering racial bias in health care AI"
+    excerpt: "In covering health care AI, journalists often focus on datasets gone wrong, when experts say there’s more to the story worth covering."
+    publishedDateTime: 2022-07-11T12:00:00Z
+    webUrl: "https://journalistsresource.org/home/5-tips-for-covering-racial-bias-in-health-care-ai/"
+    type: article
+    provider:
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 41
+    images:
+      - url: "https://journalistsresource.org/wp-content/uploads/2022/07/artificial-intelligence-gf20f733b7_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI-based hiring tools can violate Americans with Disabilities Act"
     excerpt: "Failing to provide a reasonable accommodation necessary for an applicant to be evaluated fairly by an algorithm or AI-based tool; Using a decision-making tool that “screens out"
     publishedDateTime: 2022-07-07T05:30:00Z
