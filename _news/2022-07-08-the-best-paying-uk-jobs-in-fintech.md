@@ -25,17 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC"
-    excerpt: "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022."
-    publishedDateTime: 2022-07-06T09:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
+  - title: "Can banks benefit from the wave of fintech layoffs?"
+    excerpt: "The fintech sector’s funding woes could be the answer to banking’s tech talent shortage. Amid a nationwide labor shortage, exacerbated by the pandemic and the “great resignation wave,” banks have had difficulty attracting technology talent over the past few years,"
+    publishedDateTime: 2022-07-07T15:23:00Z
+    webUrl: "https://www.bankingdive.com/news/can-banks-benefit-from-the-wave-of-fintech-layoffs/626744/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 39
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/BdWLrIxaZUkF6oF7itjxOmNfgUblnwysIgjZXp5BYkM/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0ZvdG9saWFfNTQ4MTMzMjRfU3Vic2NyaXB0aW9uX01vbnRobHlfTV81UW1XMVkyLmpwZw.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "The emerging role of fintech in times of conflict and displacement"
+    excerpt: "Initiatives help people who are fleeing areas of conflict, famine and climate change – while upholding sanctions"
+    publishedDateTime: 2022-07-06T12:15:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/the-emerging-role-of-fintech-in-times-of-conflict-and-displacement/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/07/fleeing-Ukraine-war.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Europe’s Next 10 Fintech Unicorns"
     excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
     publishedDateTime: 2022-07-08T05:00:00Z

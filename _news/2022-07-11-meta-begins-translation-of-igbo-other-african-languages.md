@@ -1,23 +1,30 @@
 ---
 category: news
-title: "Meta says its AI model is the first to translate 200 languages"
-excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
-publishedDateTime: 2022-07-07T11:48:00Z
-originalUrl: "https://www.siliconrepublic.com/machines/meta-ai-translation-200-languages"
-webUrl: "https://www.siliconrepublic.com/machines/meta-ai-translation-200-languages"
+title: "Meta begins translation of Igbo, other African languages"
+excerpt: "Meta has announced an open-sourced single Artificial Intelligence model that can translate across 200 different languages, including Igbo and 55 African languages in its bid to improve and extend language translations on Facebook,"
+publishedDateTime: 2022-07-11T02:35:00Z
+originalUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/"
+webUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/"
+ampWebUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
+cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
 type: article
-quality: 36
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: SiliconRepublic
-  domain: siliconrepublic.com
+  name: The Punch Newspapers
+  domain: punchng.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://cdn.punchng.com/wp-content/uploads/2022/06/16114608/WhatsApp-Image-2022-06-16-at-11.39.40-AM-1.jpeg"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages"
@@ -372,22 +379,6 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Meta begins translation of Igbo, other African languages"
-    excerpt: "Meta has announced an open-sourced single Artificial Intelligence model that can translate across 200 different languages, including Igbo and 55 African languages in its bid to improve and extend language translations on Facebook,"
-    publishedDateTime: 2022-07-11T02:35:00Z
-    webUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/"
-    ampWebUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 44
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2022/06/16114608/WhatsApp-Image-2022-06-16-at-11.39.40-AM-1.jpeg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Meta launches AI machine for translation research"
     excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
     publishedDateTime: 2022-07-08T08:00:00Z
@@ -427,6 +418,15 @@ related:
       name: Geek News Central
       domain: geeknewscentral.com
     quality: 39
+  - title: "Meta says its AI model is the first to translate 200 languages"
+    excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
+    publishedDateTime: 2022-07-07T11:48:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-translation-200-languages"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 36
   - title: "Meta’s machine breaks language barriers"
     excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
     publishedDateTime: 2022-07-10T07:00:00Z
@@ -437,6 +437,6 @@ related:
       domain: independent.co.ug
     quality: 4
 
-secured: "/kBksileoLUQhMXvZpqicnhpi0b4iYjVa7RROEguws2m7fDzDY7miFoRaXW7k04Upoz4UnX/fHAN+aqN+GmwOKskKM6yXX3otTilxeVD6AkgsSJWkQ7QSzF3ofDtgdifyrdaNlCyQqiNTg0vlCh6/svh3jY3EerFE/XsScLegW2VPKZeZs8zLXIiYS++AOsLD4gTt4Yu3dZLnMXFIqRRxaFTbSgK8RPqnUFLJfCVTVJ3+MoenS/j/vUsL605b09jvXd15t4BSbgRzv1kF8hV/NPtGkEUr9T8DibACgssSYUrcXMUG60P6vR5I5ZOZlfJZPJjx9+r/t9sghOezfIjR1bHuTPZt/csA0x0Ej6VtNfSB5cFN1wm9hE1zMtCE0u27RAP5LfJODOHENoVINfghS2io8qPaW7IN3H5UKDYo8UNUqqqduOHHY4Ym/d3wS9ruDtMi1epZWASJMy0ecQzvAz68upajpypzElbVM6+fwUfbnpROBSuqsIsxoR4D/+j+SnUWtLe7oLMclzI8SWlng==;Gr2vNjdEcvyvP0zzMSWtCw=="
+secured: "FYRyo2obLsRQB56n7mnVBxjYD5MT0wTy9aTuU+uOow/vaSiC2uMDHcSyvvitt5MiwgWHEiT1IK26HP6suPoXH7BPnEYnt5fxh0o9UTgYd1zdlvAIRwqjN8ki05+gH7zoMSpGHkjJlGCAGUNmeNF9RapPlEuY63MBOonhkdGhJamQijFLGh1LlK8grMKT6yOOavCsYlTHyd7PldclhIdAwuiw6fKKkPhzSmzeLbfML7Z8fxJ07v1GzS/vIqHAZxbf96vQ8iI+viqcLAtkA1kT81bT7Ygt/mjPxNMgMC/cxaPb5VH3zDGNjy5XN6e/EriVF/ouYgeB2O3nIXyYXVPVdWKSwnul4qlpFCeuRSYct14=;6KdSMHhl/Yrou6qwnvOl0g=="
 ---
 

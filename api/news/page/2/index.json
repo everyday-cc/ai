@@ -538,7 +538,7 @@
       "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -716,6 +716,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
+      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
+      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
+      "publishedDateTime": "2022-07-06T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1107,51 +1150,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-06-ai-ml-making-equitable-high-quality-healthcare-a-reality-for-millions-qureai.md",
-      "title": "AI, ML making equitable, high-quality healthcare a reality for millions: Qure.ai",
-      "excerpt": "The pandemic saw the rapid emergence of artificial intelligence (AI) and machine learning (ML) in providing timely and quality healthcare for millions. Healthtech startup Qure.ai created a niche for itself with advanced technology that reads and interprets medical images like X-rays,",
-      "sourceUrl": null,
-      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=976241",
-      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=976241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/northern_square4.jpg",
-          "width": 280,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daijiworld",
-        "domain": "daijiworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
       "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
       "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
@@ -1160,7 +1158,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 388,
+      "heat": 398,
       "tags": null,
       "images": [
         {

@@ -409,15 +409,24 @@
     {
       "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
       "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets.",
+      "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -425,8 +434,8 @@
       "publishedDateTime": "2022-07-01T09:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -436,6 +445,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

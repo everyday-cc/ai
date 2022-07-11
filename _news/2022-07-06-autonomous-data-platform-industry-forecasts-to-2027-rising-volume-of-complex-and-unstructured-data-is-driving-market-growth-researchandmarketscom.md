@@ -48,20 +48,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "L3 Self-driving Vehicle Market Size 2022 Upcoming Demand by Revenue, Potential Growth, Rising Trend, Company Overview and Share Forecast till 2027"
-    excerpt: "Latest research on the Global L3 Self-driving Vehicle Market (2022-2027): Growth Outlook, Size and Share Analysis The"
-    publishedDateTime: 2022-07-06T10:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-size-2022-upcoming-demand-by-revenue-potential-growth-rising-trend-company-overview-and-share-forecast-till-2027-2022-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Customer Service Market Size, Share, Trends, Industry Growth, and Forecast 2028 Top Key Players Oracle, Iflytek, Google, Amazon, Microsoft, IBM"
     excerpt: "AI Customer Service Market 2022 Industry Size, Share, Global Analysis, Growth, Development Status, Regional Trends, Opportunity Assessment and Comprehensive Research Study Forecas"
     publishedDateTime: 2022-07-07T21:24:00Z

@@ -1,17 +1,22 @@
 ---
 category: news
 title: "DDN Wins Artificial Intelligence Breakthrough Award for Third Consecutive Year"
-excerpt: "DDN®, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that it has received its third consecutive \" AI Hardware Innovation Award \" in the annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2022-06-30T14:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
+excerpt: "Prestigious Award Recognizes DDN AI and Machine Learning Solutions in Enterprise Digital Transformation, Business Analytics, Research, and"
+publishedDateTime: 2022-06-30T13:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459"
+webUrl: "https://markets.businessinsider.com/news/stocks/ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year-1031560459"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -20,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3ySEg1nWJqvx26vcnQR375cU+b282V5rMRUMYOvNbeaa8yHcd2SqHcRuBSLQwk7Un8rTfKsUVnG+WFFx29AgxXFLtRDsz9SsxIwGwc2TgnOn6QmyF2fc8Ow5os815msWv3JUmg00J9F6oEkNJUCWQFZMJ/NaFjqJ20mSGwAGD0LTAU3sMyKx9oPBhMqMjQj9KPIEdgdoyWzgcai4hoH84zpZHvxY7mWmN2XB57RQlSxFmc9gdbP8gfIU55z5CEtK1XaVeOaSvPDd7XckTuLWB+EZcPPVXNZ3/mW53Rlr6ub+4gI/KU9JWy8kN+9hNqkCOWQARErcXQtMWbt3L3irOa1HJOU3fy4h76gQO5IJ+48=;Hh1zEqtWUTcaK+BrviKKpg=="
+secured: "b4MmL5cZ0ZDum/pXr7H7Hr3JcbNMpgvIthWas0KeKoXH1g1i/T5H0dtXmp9jOWa1v3XppcEW1pv1OUCi61W9q6ZX0+vinZxV5o5/c+TCELD1Z3IbeDUol7pYG09TPVAzK59n3tTyf9PtOZXwz90RABYWFRJsznxqGgxxufBRDLlh2s507/OKlcWt+0sep4d9Eqhn5tdgRxoozHUpzxEyINSTaX1nuViYIKsHX50cVEItSuLrLw6uAOrsSq0ap9KiB9ouc6VuNMhMrxLZmf5d1mqI/+0wuoqW+2L0ahPnJvbHHb70csRlS/idpIOeNUUOWRI7BKw3XpqpbelXoGRW0Hu6GWAo12JWuRKbSJzb5i8=;rbEwVRChnBeaJJdh5B7yvw=="
 ---
 

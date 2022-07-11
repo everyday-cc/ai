@@ -25,17 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC"
-    excerpt: "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022."
-    publishedDateTime: 2022-07-06T09:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp"
+  - title: "Can banks benefit from the wave of fintech layoffs?"
+    excerpt: "The fintech sector’s funding woes could be the answer to banking’s tech talent shortage. Amid a nationwide labor shortage, exacerbated by the pandemic and the “great resignation wave,” banks have had difficulty attracting technology talent over the past few years,"
+    publishedDateTime: 2022-07-07T15:23:00Z
+    webUrl: "https://www.bankingdive.com/news/can-banks-benefit-from-the-wave-of-fintech-layoffs/626744/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 39
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/BdWLrIxaZUkF6oF7itjxOmNfgUblnwysIgjZXp5BYkM/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0ZvdG9saWFfNTQ4MTMzMjRfU3Vic2NyaXB0aW9uX01vbnRobHlfTV81UW1XMVkyLmpwZw.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "The emerging role of fintech in times of conflict and displacement"
+    excerpt: "Initiatives help people who are fleeing areas of conflict, famine and climate change – while upholding sanctions"
+    publishedDateTime: 2022-07-06T12:15:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/the-emerging-role-of-fintech-in-times-of-conflict-and-displacement/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/07/fleeing-Ukraine-war.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The best paying UK jobs in fintech"
     excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
     publishedDateTime: 2022-07-08T09:23:00Z

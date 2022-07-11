@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/6dfab2e8163ab7f3888d58eb2cdb95000842465e-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg"
     width: 600
     height: 337
     isCached: true
 
-secured: "RwE7d+43nJyvMTl/dBPIAkMIf6w9sgHAdq548DXXbF/quLtLYPN4ZkCsTir83MZr7mr1nEjPCHaIITC+KI5hOb2lIzrKdi0/8tRHfuRusKKOKY0CNRnSYAxAneYUm7RHMNQdsY4OjAl7LXthLeJaUh/VOPW0DyMf2ejI2SkfrWn464hZWAXD4xTN/ReFJqoPWfPg5uBWxwFGAPxtM1SnWykIxksWFIO6Qp6vswhssHpWvUvSkgfJI87Y0ZjuJ7zKyHgNix2QRU6AB7hOl3DnUnbcZu835OXbx6dHAWsof2OvkZzipxawbKVcSpIBgYDUqZ4BXI/kxzBRnLyH2bAa7tegwC1Dwlip9ye2hGJm1Js=;tTgnP0EmbDKyBL7+0SzGSw=="
+secured: "zTe702xiC/g/k5Q70sz3+iTdPQDZVMGsAAEv0medUQv/nzH6SXd1htQqPyyEgGYsV5LN8RrxQggXxeKGcOUAex8DOMcUe0x8XiGKfb7bXGHZgnHq/hvUD+ZmgePMK90dcnC7DMg/lLde15pjQ0gkHHepNv5LdyruJb3kWIAC6q0gEE2qcRzpdRmGim7fXAukYAgHp/K5MvbzOi8u1HyiDTtG8qXO4V03d/VEyoHO+GZAEY6UGHrIMgeLBLeod3SlIhYbJ+TaEqmcKRjRA90UxKlRHFieawLWLJTSwi4S/LhKW8vnt3ZLYT+SRsT+Fl5YWPRwoicJRjhgo5YrTneJQgf9RpYonYcm6ZLIrnA4LGE=;OePEDvoJeryYmkiUWyJ6JQ=="
 ---
 

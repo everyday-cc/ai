@@ -368,6 +368,22 @@ related:
         width: 803
         height: 419
         isCached: true
+  - title: "Meta begins translation of Igbo, other African languages"
+    excerpt: "Meta has announced an open-sourced single Artificial Intelligence model that can translate across 200 different languages, including Igbo and 55 African languages in its bid to improve and extend language translations on Facebook,"
+    publishedDateTime: 2022-07-11T02:35:00Z
+    webUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/"
+    ampWebUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2022/06/16114608/WhatsApp-Image-2022-06-16-at-11.39.40-AM-1.jpeg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Meta launches AI machine for translation research"
     excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
     publishedDateTime: 2022-07-08T08:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-a
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Mint
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres"
-    excerpt: "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality"
-    publishedDateTime: 2022-07-06T10:29:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 72
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/07/06/1600x900/png_20220706_153448_0000_1657102775386_1657102784116.png"
-        width: 1600
-        height: 899
-        isCached: true
 
 secured: "x1vWBZnD5Q1vYem84i/fD7l7Dqvb1xpfaXeiDYHNKXLJ/XxLYoN/fSld/RPE+P1t4qaEbfwIO134O9g7T5ROB5QLlWnacXJLVuDw1f/YjrkwFLGHASUW/jBGgg05tHU7ScPrKZ4riNaH9sgRa3ZBQS0QHqWJrEfEOzioZqHpSOynIT2Dd06ZM8HMkgk2QWrCDL0GiJ1v0s+Zcb2rf9876uLdFViTbUcBmFlVh+zBabMq60uqaH288s4gQ2hlWpUIdiIgi4Ax5B95QJmucZdMnXn2o+EJQAp3Kv1LnATtKSgtr0KuRxBcxOR26zm60arpMSdPOW6fqD793A2o8qau8icY4yyMQ9wb67JhEAc9IUF27L1gd0CyuqbsMQi1TF/ketieXWZBW6w+4c5T4nZGpb2oBe1s0zzRFIWX4DER1w+oGAZWkKtdISvSqoMVC5xujIwn49axS8EY/KEhzTQ/CkVwy87E48yo2X6/ytMWLaSpYTfKEFcewh27Ex4dRfyzz4sfVAJ//A0AE1YLjFQDxA==;8WxRThrUUnBlNJimk7Be3A=="
 ---

@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-14-artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc.md",
+      "title": "Artificial Intelligence in Precision Medicine Market Likely to Boost Future Growth by 2030 | Intel AI, IBM, GE Healthcare, etc.",
+      "excerpt": "The key vendors in the Global Artificial Intelligence in Precision Medicine Market include Intel AI, IBM, GE Healthcare, Thermo Fisher Scientific, Qiagen, Berg Health, Medasense Biometrics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-artificial-intelligence-in-drug-discovery-market-2022-overview-demand-new-opportunities-and-swot-analysis-by-2030.md",
+      "title": "Artificial Intelligence in Drug Discovery Market 2022 Overview, Demand, New Opportunities and SWOT Analysis by 2030",
+      "excerpt": "Artificial intelligence plays an important role in ... the U.S.-based provider of biomarkers-based therapy, Nucleai signed a collaboration agreement with Debiopharm, pharma company pioneering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-2022-overview-demand-new-opportunities-and-swot-analysis-by-2030-2022-06-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-2022-overview-demand-new-opportunities-and-swot-analysis-by-2030-2022-06-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-googles-artificial-intelligence-has-a-conscience-experts-say.md",
       "title": "Google's Artificial Intelligence has a conscience, experts say",
       "excerpt": "Google's Artificial Intelligence seems to have reached a new level, at least in the case of the LaMDA project, which impressed its workers. Google's Artificial Intelligence is probably one of the most advanced technologies in this field and we know that well.",
@@ -1215,84 +1310,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
-      "title": "Computer Vision in Healthcare Global Market...",
-      "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
-      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
-      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
-      "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
-          "width": 883,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "publishedDateTime": "2022-06-02T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
         "images": null,
         "publishers": null,
         "authors": null

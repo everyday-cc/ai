@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "IIT Madras develops Artificial Intelligence-based tool for cancer treatment"
-    excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
-    publishedDateTime: 2022-07-06T10:18:00Z
-    webUrl: "https://www.freepressjournal.in/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
-    ampWebUrl: "https://www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/iit-madras-develops-artificial-intelligence-based-tool-for-cancer-treatment"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2022-07/44f38a9e-a2cc-41b2-b342-6bb7667aa49e/GettyImages_1011146302_scaled_e1593524069226_450x300.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 450
-        height: 300
-        isCached: true
   - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
     excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
     publishedDateTime: 2022-07-06T17:23:00Z
@@ -89,22 +73,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "IIT Madras develops Artificial Intelligence-based tool for personalised cancer diagnosis"
-    excerpt: "The new tool was able to successfully predict both the existing oncogenes and tumour-suppressor genes like TP53, and PIK3CA, among others, and new cancer-related genes as well."
-    publishedDateTime: 2022-07-06T09:53:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/health/2022/jul/06/iit-madras-develops-artificial-intelligence-based-tool-for-personalised-cancer-diagnosis-2473591.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 50
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/1/w600X390/The_fight_Against.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "IIT Madras develops Artificial Intelligence Tool 'PIVOT' for Personalized Cancer Diagnosis"
     excerpt: "IIT Madras develops indigenous motorised wheelchair vehicle NeoBolt. Cancer is an uncontrolled growth of cells that can occur due to mutations in oncogenes or tum"
@@ -151,20 +119,6 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2022/07/06/1301565-i.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "IIT Madras develops AI tool for personalised cancer diagnosis"
-    excerpt: "An Artificial Intelligence-based tool that can predict cancer-causing genes in an individual has been developed, paving the way for devising personalised cancer treatment strategies, said researchers at the Indian Institute of Technology (IIT) Madras on Wednesday."
-    publishedDateTime: 2022-07-06T09:06:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=976266"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sq_bhargavi_jan23.jpg"
-        width: 280
-        height: 250
         isCached: true
 
 secured: "J7OMeDEA/uzsNrs+MINGZztjG4PhUlaYylm/qBg6TybSTBe7Me04foo2M6tRVftjBRb7ZyT8ZDctxCTZQ21q08mKbzBJ9PwNwBsW4mcHpdZAlh8lUrayjUVP+iwG0nv9nSoA3LDZ+qBFSQ+qmV0EA0+IEXaY3AL0DhkXwXoU/9F0ySrFwRZZv1+hNhjL2S3DFJfKoYYanVGJze1sO/0gFHW7JQhjWLfuL43WnDpP3guoN/tWRMOgUi6AfHZbOhjBQxDjHaFytta++a2yn6cfizd2qCy5F+nbbAv3or5LpJeeejt2P2gLTXmOg7XuQOeV0YhdWV2farTVSgLo57t1hbIDrYexMDTmwS+eye8E7EM=;IFpZV10eF1/UyI8zapd9MQ=="
