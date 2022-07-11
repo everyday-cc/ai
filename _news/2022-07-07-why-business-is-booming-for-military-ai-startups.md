@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/07/07/1055526/why-business-is-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/07/1055526/why-business-is-booming-for-military-ai-startups/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -40,6 +40,15 @@ related:
         width: 1330
         height: 888
         isCached: true
+  - title: "The Download: a military AI boom, and China’s industrial espionage"
+    excerpt: "Why business is booming for military AI startups Exactly two weeks after Russia invaded Ukraine in February, Alexander Karp, the CEO of data analytics company Palantir, made his pitch to European leaders."
+    publishedDateTime: 2022-07-07T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/07/1055551/download-military-ai-boom-warfare-china-industrial-espionage/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "S+lbz6+jSs/NYVbrOxwTXJIOBzurGI1OHGqEPZeFuwB0LBl5amYGwENM78WzztkT9ne10vYvwSMzIk+vzpMQly1WV4deGHN2+0DPQrzpOoXhWJMiUjwZrcRBuDKkgDcNBcJdOc6+RXo3mbC2SonZa9x9u+67/ggF1nt7IlQTpuBATpwdw+CaBmCARaljAtZ7Gnvb5P2Xb/F3/stU9LcIwT5hPp2wrZpyyu2GZQoDc6O0AmSHZWV53+9YfQL7yXsnvaz3PGRcxTdfn/VOQ0gwjnvZfAy320Dmqvi76jOnWqRRR+IzTH5/4RmIWyZDPT27FDUJQ7lkBDSbMGEzAQqFIN5xAVKncNUBDCs3hU7U/QX3AkcaZHqTzUQohU+8Mpi0sStxaKxWYhgLOq0qzKTjXOaQoiAbECLYT5iQL732VO2yx0vmfTg9CkQl/58Nwql8HamtiUKSt1fviap4EiwSzsVO0scm7HBsL03So4pD7zVnFIiaG1TMEkG5bjywHj6a8XdhwMSdoOLflk9NWqTp7w==;KsYN1bWIfPsHzsjgRfFLMg=="
 ---

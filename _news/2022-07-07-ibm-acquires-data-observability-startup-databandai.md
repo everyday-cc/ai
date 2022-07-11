@@ -172,20 +172,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
-    excerpt: "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ..."
-    publishedDateTime: 2022-07-06T14:01:00Z
-    webUrl: "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 25
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/Databand_0.jpg?h=d4270dac&itok=J-_WlxGQ"
-        width: 600
-        height: 316
-        isCached: true
   - title: "IBM Eyes Data Observability Market with Databand.ai Acquisition"
     excerpt: "IBM today announced it has acquired Databand.ai, a leading provider of data observability software that helps organizations fix issues with their data, including errors, pipeline failures and poor qua"
     publishedDateTime: 2022-07-07T12:46:00Z

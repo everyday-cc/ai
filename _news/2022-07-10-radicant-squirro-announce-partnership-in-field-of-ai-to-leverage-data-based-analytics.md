@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "ICC Qatar And Moody's Analytics Hold Seminar On Financial Crimes And AI"
-    excerpt: "and financial crime detections by infusing machine learning (ML) systems and artificial intelligence (AI) in their day-to-day operations. It also discussed the current supply chain challenges ..."
-    publishedDateTime: 2022-07-06T13:28:00Z
-    webUrl: "https://menafn.com/1104485801/ICC-Qatar-And-Moodys-Analytics-Hold-Seminar-On-Financial-Crimes-And-AI"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
 
 secured: "o232g4Ibl+zfA3DGzJEvRJbPq2QJGR2hj12L1d2fdmMkPPMjwEDtwMFHX6wqaiFLIvfmnll0PEMjUO0SJnLd+9juFr3ILX1oGeDG7PFocAoGBCxCCT/mfrFODt/PdrpZxOJHaun5ozSCaogIhegrML6ftTmrSDmtP40wjB0bZZu/JRk8qmb8n+PQJfsf5q2DNnAzSCGsDZNsx5Ck3bwsh8s3kTr7l8SKRwVJVWmGon/6YEC7PGKvuu5/NibzSAtT1+5+nNuoAfmkcwW6LYtxymvZH7ildsYHjkSd1xxA3ywJEXC4QWHTci7N8ZAVJUl/q3oqT7YoUd3z9xMd9rVjwdhJk9BF5ftglnnNG259EtQ=;JmwiYhN9nPw+oBci04YfZg=="
 ---

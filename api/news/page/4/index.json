@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-05-words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings.md",
+      "title": "Words matter: AI can predict salaries based on the text of online job postings",
+      "excerpt": "An AI model has been created that can predict the salary of job postings based on the text used with an 87% accuracy rate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/",
+      "originalUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/investing-e1652369195161.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/amp/",
+      "publishedDateTime": "2022-07-04T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-deep-longevity-announces-important-operational-update.md",
+      "title": "Deep Longevity Announces Important Operational Update",
+      "excerpt": "Deep Longevity is committed to building and commercialising various aging clocks using artificial intelligence (\"AI\") led deep learning models. The company is applying special focus to the MindAge© offering as it seek to tap into the robust demand seen in the virtual mental health care market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deep-longevity-announces-important-operational-update-/2022/07/05/9633726.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deep-longevity-announces-important-operational-update-/2022/07/05/9633726.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-chinese-researchers-claim-they-have-ai-capable-of-reading-minds.md",
       "title": "Chinese researchers claim they have AI capable of reading minds",
       "excerpt": "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials.",
@@ -716,15 +801,15 @@
       "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
       "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
       "sourceUrl": null,
-      "webUrl": "https://billingsgazette.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_51e7afa4-9abb-5e2c-baa9-76f4f2f44876.html",
-      "originalUrl": "https://billingsgazette.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_51e7afa4-9abb-5e2c-baa9-76f4f2f44876.html",
+      "webUrl": "https://pantagraph.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_c1b074ed-961b-51a4-bef1-f0dcdcfb526c.html",
+      "originalUrl": "https://pantagraph.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_c1b074ed-961b-51a4-bef1-f0dcdcfb526c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/5/1e/51e7afa4-9abb-5e2c-baa9-76f4f2f44876/62bc9ad69561a.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/c/1b/c1b074ed-961b-51a4-bef1-f0dcdcfb526c/62bc9a7df3294.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
           "width": 610,
           "height": 320,
           "title": null,
@@ -736,11 +821,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:43:00-07:00",
+      "publishedDateTime": "2022-07-02T18:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Billings Gazette",
-        "domain": "billingsgazette.com",
+        "name": "The Pantagraph",
+        "domain": "pantagraph.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1028,84 +1113,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-tv-mohandas-pai-on-the-future-of-fintech-in-india-and-the-power-of-data-ai.md",
-      "title": "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI",
-      "excerpt": "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "originalUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "publishedDateTime": "2022-07-02T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
-      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
-      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://news.cgtn.com/news/2022-07-08/China-India-see-thaw-in-ties
 webUrl: "https://news.cgtn.com/news/2022-07-08/China-India-see-thaw-in-ties-amid-recognition-of-common-interests-1bv9KqtUZhu/index.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 750
     height: 422
     isCached: true
-
-related:
-  - title: "Cognizant (CTSH) Boosts Presence in India With NICL Deal"
-    excerpt: "Cognizant Technology Solutions CTSH recently announced that the company has been selected as a strategic technology provider for National Insurance Company Ltd. (“NICL”) to help in its digital transformation."
-    publishedDateTime: 2022-07-06T15:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/cognizant-ctsh-boosts-presence-in-india-with-nicl-deal"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "UkR0E4+vQb5/sQr/Y2rfZJStHmUzUOEIGuZ/Vn7M5i+i7HwpIczKSJCxBTfZ4CpfET1JYFS21+SwG/KCeDxtrlBwXWtki/IRmTph4cmmkRLdKR79oBT3IVE69MWUDs9HskpAAKULwqWQzNb7o98AE1daQR4xPl0uALVROfiySFAoGQio2zRqZy+aXzW0Z2rFMToszgmObaUMkiyqcN2WJ48HZjOMtTt1H7oq4Jy1gutD5fyagNmlxjjZ7E4eoKQgWZWXL6NI4aLU1BVtasmD/HAwBlna3hjEKt0uYHD8A4UF7X0D4pzzCqvLc9GNt1Tp2FUOCoXrXk/Mccog/oX/YeHmVBBykSnFPUd8jSbbpTU=;pWO5wMVm+vO/Wd4WTSpb7w=="
 ---

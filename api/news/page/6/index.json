@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-01-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy-but-may-also-perpetuate-racist-bias.md",
+      "title": "AI predicts crime a week in advance with 90 per cent accuracy - but may also perpetuate racist bias",
+      "excerpt": "London-based startup Facesoft has been training an AI on micro-expressions seen on the faces of real-life people, as well as in a database of 300 million expressions. The firm has been in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/07/01/11/59749759-0-image-a-4_1656671558012.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/amp/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10972437/amp/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "publishedDateTime": "2022-07-01T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-the-quest-to-understand-every-voice-globally.md",
+      "title": "The quest to understand every voice globally",
+      "excerpt": "In a quest to enable a computer to understand every voice in the world. DeepMind: Why is AI so good at language? It's something in language itself AI experts are in short supply. That's making the skills crisis worse I tried Google's AI job interview practice tool,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
+      "originalUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fab81b6cb70cacb1df2180b9f57ea7a70a53322f/2021/07/05/b03a0bb3-bf3c-409b-8f48-3a11832bd40f/text-to-speech-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
+      "publishedDateTime": "2022-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
       "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
       "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
@@ -1025,100 +1120,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
-      "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
-      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite.md",
-      "title": "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite",
-      "excerpt": "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdae5523e0787000d54849/0x0.png?format=png&crop=823,386,x20,y119,safe&width=1200",
-          "width": 823,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

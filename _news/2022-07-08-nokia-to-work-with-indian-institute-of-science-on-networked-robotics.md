@@ -73,6 +73,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G"
+    excerpt: "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc."
+    publishedDateTime: 2022-07-11T07:44:00Z
+    webUrl: "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 63
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Nokia to Establish Networked Robotics Center of Excellence at IISc Bengaluru"
     excerpt: "Nokia and the Indian Institute of Science (IISc) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologiesin 5G and Artificial Intelligence (AI)."
     publishedDateTime: 2022-07-11T01:33:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/07/06/stop-working-in-silos-and-start-d
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/stop-working-in-silos-and-start-driving-a-real-digital-transformation-agenda/amp/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 637
     isCached: true
-
-related:
-  - title: "Business leaders back AI and ML as necessary tools in driving consumer satisfaction"
-    excerpt: "At Salesforce Live India, CEOs of HDFC Limited and Asian Paints sit in discussion at the Salesforce Live India event to talk about the large digital disruption and growth strategies, including AI"
-    publishedDateTime: 2022-07-06T14:09:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/business-leaders-back-ai-and-ml-as-necessary-tools-in-driving-consumer-satisfaction-121219.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 50
-    images:
-      - url: "https://exchange4media.gumlet.com/news-photo/121202-big1.jpg"
-        width: 730
-        height: 395
-        isCached: true
 
 secured: "y7FwSMqn/HIS9cLv4Z9vOr+Z6RQHmMG0N0ylwENchIwhAmMNEYL6pfbVNeG4ZZ+oJz6byHDnQ+nbLMNwm11FeGhjuyFXCJKilxAj1mvlWhRQXyNaOVAnRFFGsUrMZrSItMYnVGmtLgbih9B8b/MePOB00ulwZRfK7SXLecI65o/gm6U2QmBbi6e5XKoPw0jPl/nKt+ERExM8pn5O+YfxwRZmU23es432DDwbXJat+43hK5i4tyCW8WbvKIJHkTVlS246nNqgGnMtEm4wfm/VW1qeeq6txdCitZD7H3sKMwPtrdWQ8JeQvYhkzPXljdRA97OZFuZwh1flNj7eoUUY0IwlKl2k30gXQ7dCCp0myxfs1Ec+xmjgVys0DhPual3JBVbtcYCaIInjJr5jH5PCUN3KfZXZpBSqCvmz09TJYE3DGuHmv3TRkDZzTwiYRdrBfS0yRBw1QzVr11NzORn4xg27wz9AqBCqQSOkXg122Pew6DFOR/+J0eUhDuJcEyQXfpzoKEEmfNqqQFkUhMJDww==;ihlKhvaWmXLGRfs9sD+jfg=="
 ---

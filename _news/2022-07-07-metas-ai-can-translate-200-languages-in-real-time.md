@@ -97,22 +97,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "New AI Model Translates 200 Languages, Making Technology Accessible to More People"
-    excerpt: "Our latest AI model will help more people read things in their preferred language and will help make virtual experiences more accessible as well."
-    publishedDateTime: 2022-07-06T14:30:00Z
-    webUrl: "https://about.fb.com/news/2022/07/new-meta-ai-model-translates-200-languages-making-technology-more-accessible/"
-    ampWebUrl: "https://about.fb.com/news/2022/07/new-meta-ai-model-translates-200-languages-making-technology-more-accessible/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/07/new-meta-ai-model-translates-200-languages-making-technology-more-accessible/amp/"
-    type: article
-    provider:
-      name: Facebook Live
-      domain: fb.com
-    quality: 68
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2022/07/New-AI-Model-Translates-200-Languages-Making-Technology-Accessible-to-More-People_Social-Share.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta's latest AI model will make content available in hundreds of languages"
     excerpt: "The social media giant is open sourcing a new AI model called No Language Left Behind, which can translate across 200 languages, including 55 African languages"
     publishedDateTime: 2022-07-06T18:31:00Z
@@ -198,20 +182,6 @@ related:
       - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220707translate.jpg"
         width: 644
         height: 430
-        isCached: true
-  - title: "Meta's AI can translate between 204 languages, including rare ones"
-    excerpt: "Facebook's owner Meta has created an AI model that can translate dozens more languages than the biggest current tools, and the company also claims the results are better than those of competitors"
-    publishedDateTime: 2022-07-06T13:19:00Z
-    webUrl: "https://www.newscientist.com/article/2327061-metas-ai-can-translate-between-204-languages-including-rare-ones/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/06132012/SEI_113281449.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Meta Claims ‘Breakthrough’ in Machine Translation for Low-Resource Languages"
     excerpt: "Meta AI’s No Language Left Behind project deploys AI model to translate between 200 languages, with special focus on low-resource languages."

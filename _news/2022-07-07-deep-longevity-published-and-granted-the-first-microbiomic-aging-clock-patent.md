@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/deep-longevity-published-and-gran
 webUrl: "https://www.asiaone.com/business/deep-longevity-published-and-granted-first-microbiomic-aging-clock-patent"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 316
     isCached: true
-
-related:
-  - title: "Deep Longevity granted the first microbiomic aging clock patent"
-    excerpt: "Hong Kong-based AI innovator, Deep Longevity (wholly owned by Endurance RP (SEHK:0575.HK)) has neem granted a patent titled: “Aging markers of human microbiome and microbiomic aging clock” based on its research and applications of AI on microflora profiles."
-    publishedDateTime: 2022-07-06T14:32:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/957936"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/18a090a5-36e4-4cdb-81ff-97dfd571d5fe/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 226
-        isCached: true
 
 secured: "iutEhNBgZHDtIlUlCJnmOJcFTYHql3rL+x1O2LBx0cdUPgkhP7ViqLIQB0qrIDsTfV7mZq40yk19Jr2w+j8M4wnjtXp84rTw+EbCw2DDR0sh66Koucoou1hzdH+48nbgfEH6B6zC53Hq75HLr4A0XL1tWHivf2juFUz3y8r/GdhVUedwV3DXB01B1NGJ8y5RLLMhKbAP4BTESfGgcQLpbtTLC2KcgDwy1GexInut3lOaorXaOay/e13VnWyi2PBjzHKnZWRkxvVxQhWL7Y5ktgrfTg839MM21KM2bQLPv2/YzL2saPn8ikP1aQ/ZmcdDatu9W9VEB4F8LSI/kY+yshjLJ9Jo/Ymc39/5npa5MqY=;NdXTJ+YJDguyIfIVlcsPrA=="
 ---

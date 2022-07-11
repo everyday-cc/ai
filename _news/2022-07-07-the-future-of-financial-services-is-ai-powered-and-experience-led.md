@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "The future of 5G: More features, more spectrum, more AI"
-    excerpt: "If you work in telecommunications or a close industry watcher, it may seem that 5G has been dominating discussion for nearly a decade."
-    publishedDateTime: 2022-07-06T13:57:00Z
-    webUrl: "https://www.rcrwireless.com/20220706/5g/the-future-of-5g-more-features-more-spectrum-more-ai"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/www.rcrwireless.com/wp-content/uploads/2021/10/featured-image-RCR-wireless-logo-.jpg?fit=1200%2C628&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-
 secured: "iaSiQ/2ahRnPlKQk3AemQC2P5kXltpsZndP2+UulMfGk7klM+Y5BRlmxYmT339n/foW25gae1MS0OumqQcH/rIUegv4OhcJSe6A7wf9wRgwtE7Rs6BUqtRDRZdWsKHJwzD1fAiPwv8WdEttm604bB8FVu3vXby8MezT0zJHh9EOUSRBlPErAceNH75d++MjS6sLwmDlXL4I63klSmWwJYae9Qxedq3Ods8XZu5WJutyKi7x1WQJZ6wlbtdwoUt31RuZrB6EShzwnp4fUDj2Ofk54uZxGfBoxJ+fWbTaa++sP4EglYgxHhlDNHFphCVsx0TafP6RCHrkYZ0NDApLr34Krcb0Y2d27u3THmPjn2EWmW9fypEpk9NAE9npywVevBeQIlZ3a2m+X8BzNiLDnyCbLNQAcnff2t55mAEGfZbZB5hmIu+JurVLpNGOdwV2np5O+tdfz8huLfA69hMx01vDucUWYoOuZuARm/TwK3EJwDRYbYX4S1/q1tprRJP+u5npYn3f2zzdeQX6ulBiNaw==;N7zgQqsi5HhSgME9rerDXA=="
 ---
 

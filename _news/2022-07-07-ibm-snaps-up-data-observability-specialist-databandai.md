@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions
 webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai"
 type: article
 quality: 67
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -166,20 +166,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ibm-buys-startup-databandai-to-address-data-quality-issues-showcase_image-6-a-19518.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition"
-    excerpt: "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ..."
-    publishedDateTime: 2022-07-06T14:01:00Z
-    webUrl: "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 25
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/Databand_0.jpg?h=d4270dac&itok=J-_WlxGQ"
-        width: 600
-        height: 316
         isCached: true
   - title: "IBM acquires data observability startup Databand.ai"
     excerpt: "IBM recently acquired data observability startup Databand.ai. The technology improves data quality to fix large-scale problems. The Israeli company"

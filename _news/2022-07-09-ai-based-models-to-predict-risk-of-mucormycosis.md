@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "New AI To Detect COVID-19 From Chest CT Scans"
+    excerpt: "Artificial intelligence (AI) offers an opportunity to rapidly screen and effectively monitor COVID-19 cases on a large scale."
+    publishedDateTime: 2022-07-07T12:57:00Z
+    webUrl: "https://www.onlymyhealth.com/new-ai-to-detect-covid-19-from-chest-ct-scans-1657197381"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 17
 
 secured: "zQS+AbDkhaLTkogyXHifKaLCq4MUMYUu3h7xxQGXWXsqOFpysUJaWFiqsavCpgQfeMUajpo+XIznq+RoJigkgPT16fsLep4PmL4X5vX3G+n8W8/EYNIiQ0uHs7dGHXV6maIPT4t/8x2vs7eTdw7aRXL+DZx0DTTsqp5rplI9mBJ0YI2MwwLnkINmOBzRQm7bRxXYeydHy9kW4W7EXqQe3QGFN1H8nGjgFMyvLg7hYBlE0Fx/MREGjlBhfKHRTz84LYJLTZsdoFXAqYAJ8vcOF/HAM4ifR8/TudCiQzH0Cpm4SVo2E1Str68aXXa61B6E1MDJ0e8l5deBifR7VXZwGeXTBPy1zIKMMXpq//puRhDWvtAWM1D0+Ntuu2bzJzjTsY7KpgEGGu086mRK1QlgROPp4RUYpgo5lHRHDdN26HTnIk2dXOjK++hJYH/rnTH5f/buUibvKmHmKWSF15Ga0sHp6SWXljlFFsS6dA0F59YEE6yrwP07l/eCFrGJOBkUdX79hukcliWfx/GlDAbymA==;FIIu+ZhyldaioGE31DPqAA=="
 ---

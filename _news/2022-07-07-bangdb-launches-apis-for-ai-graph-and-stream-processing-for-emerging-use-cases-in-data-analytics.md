@@ -37,15 +37,6 @@ related:
         width: 1080
         height: 810
         isCached: true
-  - title: "ICC Qatar And Moody's Analytics Hold Seminar On Financial Crimes And AI"
-    excerpt: "and financial crime detections by infusing machine learning (ML) systems and artificial intelligence (AI) in their day-to-day operations. It also discussed the current supply chain challenges ..."
-    publishedDateTime: 2022-07-06T13:28:00Z
-    webUrl: "https://menafn.com/1104485801/ICC-Qatar-And-Moodys-Analytics-Hold-Seminar-On-Financial-Crimes-And-AI"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
 
 secured: "yeBUqbUa28WPQ3iLKqbcp1H7FtdCnRtLBDYx7VF8dZ00SM8B937J1WsLt57QvW5Wpne+iT4bP/dQOzJKlAiK4NwERSk91cwpGepC3jpZkk71DPrMGaTZJfMmNgSuIDDr+y38KcSkPKdja2UXSvTXlXbhEmGxg78oMlthAKh3r8j6yjFUakhLBYz16JLssUEi328jKaYStUqLz+YZDwpls3Cq4GMQTdCNWezed2s9T5M/FQtxsXI9DxNh5DJUFoPGdkqWljeNOi2BLeNV4GO9aYP9RS43nQbgkbg6PXTnGx5W2F8vAfOY4kr3/y6QFroUGqveiwcPHL4YrdY0R1yFxFVg+4PkOxhWSNCiOhoN/Lr8JuwiB08/98piy5UCnxmwINQivv9wb5dH9rCvknRDskPWd2ADqeFHKi2EiwdTw/T0rEJw8pOrNuD7d5pEQ7jH2f8tx+jxnTlTkKaEXPKmIsGSckaIYPWj01oS+NRMWo3wWwgVodS01nbpDJuouewXobNOgflfRfJmIwk2IUAefg==;TFjc5cYKHDcLj4f7jCLNPg=="
 ---

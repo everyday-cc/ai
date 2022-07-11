@@ -87,6 +87,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G"
+    excerpt: "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc."
+    publishedDateTime: 2022-07-11T07:44:00Z
+    webUrl: "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 63
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "GE Healthcare opens 5G innovation lab in India"
     excerpt: "GE Healthcare (NYSE:GE) announced today that it inaugurated its first 5G innovation lab around the globe in Bengaluru, India. The company aims to use the 5G innovation lab to position itself at the forefront of groundbreaking advances in patient care,"
     publishedDateTime: 2022-07-07T14:35:00Z

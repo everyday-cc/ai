@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/07/how-gamification-and-ai-can-revam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/07/how-gamification-and-ai-can-revamp-insurance/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI cannot be named as inventor on patent applications:"
-    excerpt: "The European Patent Office has taken note of the written decisions published by the Boards of Appeal today and welcomes the clarification on the topic of AI named as inventor."
-    publishedDateTime: 2022-07-06T13:29:00Z
-    webUrl: "https://www.epo.org/news-events/news/2022/20220706.html"
-    type: article
-    provider:
-      name: European Patent Office
-      domain: epo.org
-    quality: 17
 
 secured: "eJHe8+TbFNyy5CDMZ2eBKp/N8kbrVmXlcQzCg+2qS3L5xs49/KBpdYLFX3Wt4ddTk3Xgb35LRMnMO9LyP0hICgIXJo5+yORKNNP6P6dnI/PxlGLBXWGIhUf6CL9xxLH0OMP8hMnPWw4hUbMFrZ8G17/gDoS4DbTrN5ElpY4OoCM5bZ/QFo+JvycBVVr1mcCYavE+kygpHHgUt/yyYtQ0+4zrRGL4l1V77SSLL9Ww8BqC+BCxpALGxuVCUck/F660VM8tD5yICMw3UpxqVYtZAzhzVkrB3vuscoyT26qHs5ECYJN5b5almYXUuV4/Q6Z19V/PJLjXBTvtWonV1OqN9oJEbWQ5rQheR6F6XieQ0lGkjqCOZvw2Yfw5qNcsWt7+C+qXwJ7k+oiMKRrsd37Io5sLnFXEl4lnZ68WLtI/F7I6av8j11Yy23j1tr/tQKz8CEhDrQtLnk/EDlJ/siYxsJkkBBv8x9/DSXTD+WxpCKxWKwFtONrrJ+E9t71TeVBtQIlVzps/vWDTzrHMAYxgfQ==;xoCIoRsFFq1nS21+682M4g=="
 ---

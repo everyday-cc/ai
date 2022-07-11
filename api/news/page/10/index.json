@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-29-chinese-space-company-wins-in-top-intl-ai-competition.md",
+      "title": "Chinese space company wins in top int'l AI competition",
+      "excerpt": "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1848074/1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos.md",
+      "title": "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos",
+      "excerpt": "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "originalUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
       "title": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars",
       "excerpt": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ...",
@@ -1014,92 +1117,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ibm-saudis-king-saud-university-partner-to-advance-skills-development.md",
-      "title": "IBM, Saudi’s King Saud University partner to advance skills development",
-      "excerpt": "King Saud University (KSU), the first public university in the Saudi Arabia has announced its collaboration with IBM aimed at advancing skills development through artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/ibm-saudis-king-saud-university-sign-mou-to-advance-skills-development-through-ai/",
-      "originalUrl": "https://gulfbusiness.com/ibm-saudis-king-saud-university-sign-mou-to-advance-skills-development-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2022/06/KSU_IBM-Signing_Image-2.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030.md",
-      "title": "IBM collaborates with King Saud University to advance skills development through AI and support the Kingdom’s Vision 2030",
-      "excerpt": "Disclaimer: The contents of this press release was provided from an external third party provider. This website is not responsible for, and does not control, such external content. This content is provided on an “as is” and “as available” basis and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:NTc3MjhkM2YtNWVjZi00:MzA4NDc1/ksu_ibmsigning_image2-jpg.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

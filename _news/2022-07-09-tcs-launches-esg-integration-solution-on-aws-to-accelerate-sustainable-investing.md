@@ -24,17 +24,6 @@ images:
     height: 403
     isCached: true
 
-related:
-  - title: "TCS introduces ESG Integration Solution on AWS to accelerate sustainable investing; stock gains ~1%"
-    excerpt: "The solution makes use of AWS analytics, artificial intelligence, and machine learning services to uncover new insights at the sectoral, regional, and corporate levels, allowing users to build a portfolio of high-performing ESG companies."
-    publishedDateTime: 2022-07-06T13:10:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-introduces-esg-integration-solution-on-aws-to-accelerate-sustainable-investing-stock-gains-1-122070600107_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 20
-
 secured: "xnsxnZdqpaLtx18UxgUOCt50Bncqcd4WHvMjZGaYc5Ck2wKF0V85ZvWhIhQEqLe6LFgctMJT5VxEUivcu+Zg3oxHQBdCm9xgYWjKyTvPFaiaiS+CzlORNROZCLq+GN3CJjkUNfnvuwIlKKBC/ohW0wR7kG9/5VtYsqny0iw1HoUFS0V+zIGY3OojxOkOOnP7aexRvEZ/HXECRz38tmNi+ppWrAq2pt1Q4rGWfiodZx8Y/4S0+oa8MKo4b/xHTfMeGXFKbCblctLEGAExUxIszpZMb8JfRE6iY5eV0FUj0XEv9He6Tc6ZjTM5QT33Mj93NF2sdF0tVcOqx6Cg3Dt1w7ydYMTn+oR61K1LKTXDGvA=;AopjBBhQaCftbGxSvH1QTA=="
 ---
 

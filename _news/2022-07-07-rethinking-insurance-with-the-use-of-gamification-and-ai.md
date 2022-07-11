@@ -54,15 +54,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI cannot be named as inventor on patent applications:"
-    excerpt: "The European Patent Office has taken note of the written decisions published by the Boards of Appeal today and welcomes the clarification on the topic of AI named as inventor."
-    publishedDateTime: 2022-07-06T13:29:00Z
-    webUrl: "https://www.epo.org/news-events/news/2022/20220706.html"
-    type: article
-    provider:
-      name: European Patent Office
-      domain: epo.org
-    quality: 17
 
 secured: "T30be1WETIW9/9FJil0tbSQfkgDkq3VBM9TnE4z/vEjvtYd78Rtc9YjFM9/FW/vUZgzZkfdmHLZj3tbV54PGQPvGQcX+UW37IiD1Agy4ws4enVpN4pDmn68nfSKgaoTsbigHGp6VjCr7xv5JEHCnBYETbYEW0oefnG+FJXX6uqxNHkQAJ6p/Pgs0YI4vsdy4bzSJuvh2vcwq/Xm6ucAwdjJDfXkE7NvmWqmesg0wOZoYoKx9UVdAEjgEHVA0HAQnMjpIDv5R7S8F5ylqZ7zNw3MPmHnDVMEgoy3PaZDQ46aFeiAu3Dhlj4bgdS3LSlrV4MDI28dC3CYEMn8xLqz9j2ttHtMoKLXiExD+t4FahSs=;Q+6LtAsdsJdyrhMj6qS34g=="
 ---

@@ -34,20 +34,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "Autonomous Data Platform Industry Forecasts to 2027 - Rising Volume of Complex and Unstructured Data is Driving Market Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Autonomous Data Platform Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022-2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21."
-    publishedDateTime: 2022-07-06T14:28:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_88cb2615-bde7-56f8-86a9-7dbf0438fde5.html?block_id=531919"
+  - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-07-11T06:23:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-covid-impact-trends-analysis-report-forecast-2022-2032/"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 11
   - title: "AI Customer Service Market Size, Share, Trends, Industry Growth, and Forecast 2028 Top Key Players Oracle, Iflytek, Google, Amazon, Microsoft, IBM"
     excerpt: "AI Customer Service Market 2022 Industry Size, Share, Global Analysis, Growth, Development Status, Regional Trends, Opportunity Assessment and Comprehensive Research Study Forecas"
     publishedDateTime: 2022-07-07T21:24:00Z

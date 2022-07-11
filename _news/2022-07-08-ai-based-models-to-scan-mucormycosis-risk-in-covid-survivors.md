@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/national/telangana/ai-based-models-to-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ai-based-models-to-scan-mucormycosis-risk-in-covid-survivors/article65615969.ece/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Hindu
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "New AI To Detect COVID-19 From Chest CT Scans"
+    excerpt: "Artificial intelligence (AI) offers an opportunity to rapidly screen and effectively monitor COVID-19 cases on a large scale."
+    publishedDateTime: 2022-07-07T12:57:00Z
+    webUrl: "https://www.onlymyhealth.com/new-ai-to-detect-covid-19-from-chest-ct-scans-1657197381"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 17
 
 secured: "4ldWY5At8RfchvGC7M1llY9TDM1okbNclg8/L+a953RvBx8dUZgTfGeWotSmYIXBnxzdsujT1wSrmxGe3vgDWKQ3JHYvCDxZU3HRhsR40UcuzbsQ65Iz7HaZhHI08YvVikfihPuDBCuTfA//sNB9s8mABf6UFxT54Kwe9QItyY/ZmufU+U4KBhwGGqU/7UQB67WS/3527aWENPmS7ubwBt0uXEry5i0oIoYJ6oT1F+8v3hAhvx5e/dtByx7Wa7NjOtIxrHN6PcqksENQMbtN5e2VGzhbwXYSGD9Yi9c44hlQ7ijO4fBOWZ4HSNdXH7eeqjfMMpOInfj3UqrsMoEkRybDoZ0Wwk7bU+9dM8jKuPs=;OQ/EXvSZEPwiUx2Cj0dXTQ=="
 ---
