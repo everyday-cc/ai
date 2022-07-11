@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/networking/ai-ethics-network-monitoring/"
 webUrl: "https://www.eweek.com/networking/ai-ethics-network-monitoring/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Eases Network Challenges"
-    excerpt: "Many technology vendors have used artificial intelligence to transform their products. This is evident in areas like unified communications, contact centers and cybersecurity. Yet one area of IT that has yet to see AI play a significant impact is the network."
-    publishedDateTime: 2022-07-06T18:53:00Z
-    webUrl: "https://www.eweek.com/networking/artificial-intelligence-network-challenges/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
   - title: "Artificial intelligence in the driving seat"
     excerpt: "Defence data scientists and engineers have come close to setting a world record time in a DeepRacer artificial intelligence challenge. The participants, from the Defence, Science and Technology Laboratory (Dstl),"
     publishedDateTime: 2022-07-07T07:48:00Z

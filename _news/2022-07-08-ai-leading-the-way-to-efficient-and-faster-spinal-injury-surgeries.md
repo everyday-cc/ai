@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/ai-leading-the-way-to-efficient-and-faster-s
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-leading-the-way-to-efficient-and-faster-spinal-injury-surgeries/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1000
     height: 570
     isCached: true
+
+related:
+  - title: "AI and Machine Vision Increase Efficiency and Accuracy to the Factory"
+    excerpt: "With so many innovations in AI and machine vision digitally transforming the manufacturing landscape, Intel’s Stephanie Grisafi and Sahar Ehsani joined To the"
+    publishedDateTime: 2022-07-07T16:55:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/ai-and-machine-vision-increase-efficiency-and-accuracy-to-the-factory/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
 
 secured: "uiJghgHdvlaSMUdmUiIS2J9R+gbBhFO8DM4nw2KfrPEaWhlzPxnPTr/uDfC3eeKRrycK9R/JRFXq5XUr+zAjJWTrOUpQIFTlOVjB08nEB4g2pRnnUn+lFLtg/VpkuqiWqzcxirJI1jYOwAq9uL2nH79r5LCKSk+jHWsHpdTWX79zaPFol+Ex9mB1F02vIlJH6fO8IArKfUAY2Bvw6L/pDMFNX9FdNmDQpTKSSMF6Ms7eUPCwqVd3YKSRplbSeWon4skXmLmCtVqVCn7E7aWOVpvwnEmUVpIxpTHaR6Vrp305f6jzNf46kU5Iwxj5bi8cWiPNpxLf6cvHBe4whDYlLeEpgSNbFPNeRwcV75ZEqtJA9bKBOdNp/ZDfaYt5LS4tmaMCh8sLl8G5LcDF4z9PlCF+FeHRLBMy3CKuLVBHlgCKsdyQmv9ZG4aDuL5C9nBK6HdLimE8aJxEWIW+kmA/zuGOymLrHIFUXy7niMaT7pGBwfG02twXcajXywNGEXXmAi8bIGwQey6aPiy6uSQstQ==;qqdaHFOeOyf2QVBLpxEPeA=="
 ---

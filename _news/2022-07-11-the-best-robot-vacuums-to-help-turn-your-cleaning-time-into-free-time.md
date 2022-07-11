@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/07/10/be
 webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/07/10/best-robot-vacuums/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The best robot vacuums for your money in July 2022"
-    excerpt: "There is a certain convenience in owning a robot vacuum cleaner which will do the cleaning for you, while you do something else. Here are some of the best models available. We searched the Internet for the most fully-featured and best-value models to clean up pet hair,"
-    publishedDateTime: 2022-07-06T18:21:00Z
-    webUrl: "https://appleinsider.com/articles/22/07/06/the-best-robot-vacuums-for-your-money-in-july-2022"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 19
 
 secured: "4Lg+bMcunKhVbVDIjZA3uvEjrv2V4FxBkjBtoamO8cdIhcd3ff1rWDC9DoyV6/kLZ8O3Vmrw17euVf4iU7VotpZdytitXkfNfjn2rN8C2tywq1H8dJbvhe9avGhR65o5x41GvnJS+mq8eEPLNSkaJjX3LhGGQRhe+GHJcWQwirqmE9HY8xlOBQ0msat+wG6pmFCRRMKg9nOFtmF2hCpJaVb+T9KiNQr4LoHSu0w+nnjlswASeUxNihkvjy+882+OYTxgkVRRoo9Znw7pQ5pfaBkRKLpRH8EoVRVV4UtX66UnoXbHjH7rdS2ETk5yrdDC62RUQFnbDriU34ZhuhXfP83ajiX1VrtxhOgAmUON/W6/+9C+NA2LvYeMvkPD7AeEm2hMAyc99CuNoP4TVSvFWcMkxhVMTuP1RT3PJUFybPniDjcgbJo8QJgOBvqYR2BixqEMXqLylR+9Yf9GwrgnGJjqgpuwvFqXaC5b8WyxmUG7Q4CSPwI855U6XuPTXLQPe+URLQudxeZeXrXww5nn8w==;2P7Vd0qqyzM+GJo5e/vAvA=="
 ---

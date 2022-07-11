@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI wants to revolutionize healthcare—it may be doing more harm than good"
-    excerpt: "Proponents of AI In healthcare say it can revolutionize medicine. But those pushing it ignore long-standing problems."
-    publishedDateTime: 2022-07-06T18:42:00Z
-    webUrl: "https://www.dailydot.com/debug/ai-healthcare-artificial-intelligence-medicine/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 33
 
 secured: "mKeO2uHdSmGyHNsK9KLdIvul/5Nl6Sc4YVaa9Hd24Xytcrk+9lldXmCVvQBlUFwPb9rv3I2zaCtriK+pbE1vNPoee/V/r9aY4aBjz3eqZNFWpX9xsTKGflxuKWoeTItAsy0kveHMZRyi1WHicp6L/cawDHUD2UYzzD1/39kKOaFQcGc7rTnyef2ONTYKng4o1Jp4SonXIdO6o6fbZGxcQ/G5pSoYwO6eBsTgyeIDjlHA4F4/ok/4otRWbk+hYsr9ZvoQzgYRuf2rwFGXY8ExQPR214mnQPtzMzZXZ4lIP4Iup/4/6xfx5cKzsZt8qFNq0DYAo769fwPVm4YWxKckwAF6TRbEgVNB/W3naK/3bjYzlbSGLhjjewUQF2QEsi5tVyNdTnp6BLkvisUYAWUUD8xjBbDSGZlwq8U/DiltVhkXsnImZ6SlDe3wEJXL5q4nwshP/NqNRuLsTrV3T2d2OGoytvK5ADuqXceQhiCvTHvEacd/nLqEhBG2Lyy4Hqufyf591N8g1WQ4Bq8CBG4HKg==;ebdMipcPineqJJ5L819BTA=="
 ---

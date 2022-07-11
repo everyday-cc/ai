@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-11T09:30:00Z
 originalUrl: "https://www.protocol.com/enterprise/ai-computer-vision-cvpr-ethics"
 webUrl: "https://www.protocol.com/enterprise/ai-computer-vision-cvpr-ethics"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.protocol.com/media-library/teacher-explaining-something-to-two-college-students-in-a-robotics-class.jpg?id=30076953&width=1200&coordinates=0%2C156%2C0%2C156&height=600"

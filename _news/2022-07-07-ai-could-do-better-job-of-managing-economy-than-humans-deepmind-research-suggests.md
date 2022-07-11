@@ -35,7 +35,7 @@ related:
     provider:
       name: Protocol
       domain: protocol.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://www.protocol.com/media-library/teacher-explaining-something-to-two-college-students-in-a-robotics-class.jpg?id=30076953&width=1200&coordinates=0%2C156%2C0%2C156&height=600"
         width: 1200

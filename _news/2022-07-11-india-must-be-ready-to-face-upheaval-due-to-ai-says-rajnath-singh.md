@@ -107,6 +107,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."
+    publishedDateTime: 2022-07-11T11:29:00Z
+    webUrl: "https://www.thehansindia.com/news/national/india-needs-to-work-on-artificial-intelligence-mechanism-carefully-rajnath-singh-752919"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 32
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/11/1302290-rajnath-singh.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "To promote 'Aatmanirbharta' in defence, Rajnath Singh to launch 75 AI-enabled products"
     excerpt: "Defence Secretary Ajay Kumar said that the nature of modern warfare is changing and AI will play a significant role in warfare. These products are tested and will soon be deployed"
     publishedDateTime: 2022-07-09T03:32:00Z
@@ -136,6 +150,6 @@ related:
         height: 486
         isCached: true
 
-secured: "0mTB5ts5TWUZ8z7V3qAo6i/7QBrgTI/E5HmBEuzuzAmDuCzQqrhVotsBkHk4GzvxBA4k6I6acmQHKb8FJ1CITdo9uGclmJaU5kxlCh3WC0HNSL75RyQvSAM4xRZECVEOgfux2lx/jMZl4npdOPU6cBI0FrfI5eSsLDd2G5PHaA9jRe0TXUq7x5s0pc7tfnE9xgTMOVgN26oaTGkta3qWhrMXSJ1NEuY6WdyY8wow/X1y1HIiolta09qUZXIWaSfgA5TGm25JHB/sJaZvNRSPisuIrvc5DJAugvFN0KJ1KMuKkQAv3GXutUC1owTaR8+kf3CmZZLYsIXvfc/BaKOiSXln27S5Nc5ve072UUvVVr4=;a/Lswj0XHCMdHzGVdMJJEg=="
+secured: "cRH2huxbZoWWmllhKZJXpmLCr8mXkgfsQF0VDq/q8oyJxQbei6jvf7UCjDPMV6aoskN5VmUK07iqDBKLy37D9HQQEc3BRGLqIdYYP2ztGGgN+tWVsBUSxIs2UcrMuo//jwFF/DBi8oCgUOk2SgN3prYt8wyO8ImwOjYJrxsZ6SDUDyQALM1vzzyOJRr+H4rt27Mj2cijQ+MFMZdpBt7dBxtj7eHCPDTUokVKZIfqh0oEh/wBk0k3g+1RoyR4U7Uz4yyMTdonojUEgvdAkwL1e5fNP1XX9hL/g0hAc01XYy7UpejqYsNpdTAmAOpknwwMt6j1B/nGeiqxFYhQiHhSlI7UkcS41VF9RVLB0UzGtLovjdMfhMrCmcIerqVV41+isHYhHaxnOLnVILwGrmXVMt90k8FiSKxhhqoixQ9+cuiGlMMu2HgWHJSOEZm2yl9EGjAOkHoTSHxfQgMbw+YERzfJh0HVgajpdEgP9obBPxf9NnXO0V4ljAMoigVj0BWgUsVDzBS/JP1JXH/he1GD8g==;MXC963K+zgOlhD/qCME7nA=="
 ---
 

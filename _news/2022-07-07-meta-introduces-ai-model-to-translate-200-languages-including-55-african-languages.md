@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s open-source AI model leaves no language behind"
-    excerpt: "Meta announced a breakthrough in its No Language Left Behind initiative — a single AI model that translates over 200 different languages."
-    publishedDateTime: 2022-07-06T18:46:00Z
-    webUrl: "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/"
-    ampWebUrl: "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/amp/"
+  - title: "Meta's Latest AI Can Instantly Translate 200 Languages"
+    excerpt: "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced(Opens in a new window) in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,"
+    publishedDateTime: 2022-07-06T21:17:00Z
+    webUrl: "https://www.pcmag.com/news/metas-latest-ai-can-instantly-translate-200-languages"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Meta_NLLB_main.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/070IFBc208oZ2EEnD8cdMWf-1.fit_lim.size_1200x630.v1657134325.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "No Language Left Behind: Meta's new AI model can translate 200 languages"
     excerpt: "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub."
@@ -70,35 +68,53 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Meta's latest AI model will make content available in hundreds of languages"
-    excerpt: "The social media giant is open sourcing a new AI model called No Language Left Behind, which can translate across 200 languages, including 55 African languages"
-    publishedDateTime: 2022-07-06T18:31:00Z
-    webUrl: "https://www.zdnet.com/article/metas-latest-ai-model-will-make-content-available-in-hundreds-of-languages/"
+  - title: "Fulfulde not among 200 languages translated by Meta's supercomputer"
+    excerpt: "Fulfulde, a language spoken by Nigeria’s Fulani ethnic group did not make Meta’s new AI model, which can translate 200 different languages – including many low-resource ones not supported by current translation systems."
+    publishedDateTime: 2022-07-06T20:24:00Z
+    webUrl: "https://pmnewsnigeria.com/2022/07/06/fulfulde-not-among-200-languages-translated-by-metas-supercomputer/"
+    ampWebUrl: "https://pmnewsnigeria.com/2022/07/06/fulfulde-not-among-200-languages-translated-by-metas-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://pmnewsnigeria-com.cdn.ampproject.org/c/s/pmnewsnigeria.com/2022/07/06/fulfulde-not-among-200-languages-translated-by-metas-supercomputer/?amp=1"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: PM NEWS Nigeria
+      domain: pmnewsnigeria.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/fb256ef7f5897de72cfcc989adddcdab20180495/2022/07/06/c54239bf-3249-43b3-845c-1b295a4f12d6/metalanguage.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/10/Mark-Zuckerberg--636x406.jpg"
+        width: 636
+        height: 406
         isCached: true
-  - title: "Meta AI machine to solve language barrier in Africa, others"
-    excerpt: "NLLB-200, a single AI machine that translates across 200 different languages, including 55 African languages with state-of-the-art results, has been"
-    publishedDateTime: 2022-07-07T15:15:00Z
-    webUrl: "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/"
-    ampWebUrl: "https://businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/"
+  - title: "Meta open sources early-stage AI translation tool"
+    excerpt: "Tech giant MetaAhas created a single artificial intelligence (AI)-based model capable of translating across 200 different languages, including many no.."
+    publishedDateTime: 2022-07-07T02:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/meta-open-sources-early-stage-ai-translation-tool/92712708"
     type: article
     provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 61
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Meta.png?resize=450%2C300&ssl=1"
-        width: 450
-        height: 300
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92712708,imgsize-23398,width-1200,height-628,overlay-etcio/meta-open-sources-early-stage-ai-translation-tool.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tech firms slug it out to create ultimate AI translator"
+    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,"
+    publishedDateTime: 2022-07-07T05:43:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator"
+    ampWebUrl: "https://dunyanews.tv/amp/english/658931.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 59
+    images:
+      - url: "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Meta Builds AI Machine That Can Translate 55 African Languages"
     excerpt: "Meta yesterday said it has built the first open source single artificial intelligence (AI) machine that can translate across 200 different languages,"
@@ -113,6 +129,20 @@ related:
       - url: "https://leadership.ng/wp-content/uploads/2022/07/Meta.jpg"
         width: 1708
         height: 750
+        isCached: true
+  - title: "Meta Builds AI Model that Translates Across 55 African Langauges"
+    excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia. Meta says they worked with professional translators for each of these languages to develop a reliable benchmark that can automatically assess translation quality for many low-resource languages."
+    publishedDateTime: 2022-07-07T07:39:00Z
+    webUrl: "https://www.itnewsafrica.com/2022/07/meta-builds-ai-model-that-translates-across-55-african-langauges/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 56
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/07/AI-Translation-Model-1-696x452.jpg"
+        width: 696
+        height: 452
         isCached: true
   - title: "Meta Releases AI Model That Translates Over 200 Languages"
     excerpt: "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation"
@@ -142,6 +172,22 @@ related:
         width: 644
         height: 430
         isCached: true
+  - title: "Meta’s Going After a Universal Translator. Its AI Now Works for 200 Languages"
+    excerpt: "Meta's translator is some of the most extensive work that’s been done in the field, particularly with low-resource languages."
+    publishedDateTime: 2022-07-07T17:38:00Z
+    webUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/"
+    ampWebUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/07/universal-translator-hands-on-phone.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Meta’s AI can translate 200 languages in real time"
     excerpt: "However, it seems Meta's AI is going to solve this issue now. Following this, the company launched No Language Left Behind (NLLB) project,"
     publishedDateTime: 2022-07-07T08:42:00Z
@@ -155,20 +201,6 @@ related:
       - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/00.jpg"
         width: 1200
         height: 620
-        isCached: true
-  - title: "Meta Claims ‘Breakthrough’ in Machine Translation for Low-Resource Languages"
-    excerpt: "Meta AI’s No Language Left Behind project deploys AI model to translate between 200 languages, with special focus on low-resource languages."
-    publishedDateTime: 2022-07-08T08:45:00Z
-    webUrl: "https://slator.com/meta-claims-breakthrough-in-machine-translation-for-low-resource-languages/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 51
-    images:
-      - url: "https://slator.com/assets/2022/07/Meta-Low-Resource-Language-Machine-Translation.png"
-        width: 600
-        height: 400
         isCached: true
   - title: "Meta creates AI Model that translates 200 languages to make content more accessible"
     excerpt: "The AI model by Meta named NLLB-200 has the ability to translate translate 200 different languages, and with an estimated efficiency of 44%."
@@ -184,6 +216,50 @@ related:
         width: 803
         height: 419
         isCached: true
+  - title: "Meta begins translation of Igbo, other African languages"
+    excerpt: "Meta has announced an open-sourced single Artificial Intelligence model that can translate across 200 different languages, including Igbo and 55 African languages in its bid to improve and extend language translations on Facebook,"
+    publishedDateTime: 2022-07-11T02:35:00Z
+    webUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/"
+    ampWebUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2022/06/16114608/WhatsApp-Image-2022-06-16-at-11.39.40-AM-1.jpeg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Tag Archives: AI translation"
+    excerpt: "Our latest AI model, NLLB-200, can translate 200 different languages and improves the quality of translations across our technologies by an average of 44% NLLB-200 makes current technologies accessible in a wider range of languages,"
+    publishedDateTime: 2022-07-07T07:10:00Z
+    webUrl: "https://geeknewscentral.com/tag/ai-translation/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 41
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2016/05/Header-LogoGreenTag.png"
+        width: 360
+        height: 220
+        isCached: true
+  - title: "Meta launches AI machine for translation research"
+    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
+    publishedDateTime: 2022-07-08T08:00:00Z
+    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 41
+    images:
+      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Meta’s AI helps break language barriers"
     excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia"
     publishedDateTime: 2022-07-08T08:52:00Z
@@ -198,6 +274,45 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Meta claims its AI has cracked translation"
+    excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
+    publishedDateTime: 2022-07-11T09:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55123-meta-claims-its-ai-has-cracked-translation"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f12bd2a0811183bf2359ca3dc07974ee_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Meta’s AI Model Translates 200 Languages"
+    excerpt: "Meta (parent company of Facebook and Instagram) posted news titled: “New AI Model Translates 200 Languages, Making Technology Accessible to More People”."
+    publishedDateTime: 2022-07-07T07:10:00Z
+    webUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/"
+    ampWebUrl: "https://geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/07/07/metas-ai-model-translates-200-languages/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 39
+  - title: "Tech firms slug it out to create ultimate AI translator"
+    excerpt: "A man from South Africa speaks Sepedi to a Peruvian woman who knows only Quechua, yet they can understand each other. The universal translator is a staple of"
+    publishedDateTime: 2022-07-10T01:14:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/07/10/tech-firms-slug-it-out-to-create-ultimate-ai-translator/16705"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2022/07/10/31546.jpg?v=1657418520"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "Meta says its AI model is the first to translate 200 languages"
     excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
     publishedDateTime: 2022-07-07T11:48:00Z
@@ -207,15 +322,15 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 36
-  - title: "Meta’s machine breaks language barriers"
-    excerpt: "Artificial Intelligence helps translate over 200 African languages | THE INDEPENDENT | Meta ( announced on July 06 that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages,"
-    publishedDateTime: 2022-07-10T07:00:00Z
-    webUrl: "https://www.independent.co.ug/metas-machine-breaks-language-barriers/"
+  - title: "Meta Releases Advanced AI Text Translation System with 50B+ Parameters"
+    excerpt: "Meta Platforms Inc. has released the source code for NLLB-200, an artificial intelligence program it developed internally that can translate"
+    publishedDateTime: 2022-07-07T14:21:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/meta-releases-advanced-ai-text-translation-system-with-50b-parameters/"
     type: article
     provider:
-      name: independent.co.ug
-      domain: independent.co.ug
-    quality: 4
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
 
 secured: "Q+idEzR9yPqT0PCzinPvOCYvp3pFulU6zCpQZFeFFe73jMvWWKG7vjMXMLOBMLG5Yd+NYXcE4wi5MWoRJb6uqyahBUPT5OQ4KH7r67FoD7RxY7VodrnFFQfl3/1lHMcGrlcNZjdPSiVc8lXfqqhcsDryxUWBLqX/mvIuo7u454h840ABOV+QujyqPF+oejp0W/8FK5MORr16slVsCfPPqumbEB2IJYgvSFbLIygbr4gdHxsg4NPO5jXAfGWYRuzaCtURm98ZDY9rs0vANgilqZ4PPI9gy8TTYoBWQU5oq13y7r9fN5L9nfo1efe7S81eFp8WUrMYH0XS/JxNcp6ivdvw4VSFY2wH0LpEQJ8tg/LtgR0GLHA1PIvC0+X06pCrHnMTSwlsHYNkpgMJoVQ7lEKgg1CbPBmo1c29AK8tj24qzjD3Ca9ZbDryL33Nm4GmeSt9H+wUk4FKvE/O9FBPRVgixvoYoW0njVmAxZrEDljWYhE6KaN7KMqRefvSDt6X56CMx29TAOei/EiQhMrhBQ==;qiK5+7OEWbAZYjXOpecyGw=="
 ---

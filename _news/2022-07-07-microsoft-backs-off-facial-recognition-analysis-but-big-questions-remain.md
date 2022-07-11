@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-fa
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
 type: article
 quality: 92
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon and Microsoft deny using Flickr pics for facial recognition, as suits test limits of privacy law"
-    excerpt: "Facing a pair of related lawsuits, Amazon and Microsoft both acknowledge that people working on their respective facial-recognition technologies downloaded IBM’s “Diversity in Faces” photo database — compiled from"
-    publishedDateTime: 2022-07-06T18:25:00Z
-    webUrl: "https://www.geekwire.com/2022/amazon-and-microsoft-deny-using-flickr-pics-for-facial-recognition-as-suits-test-limits-of-privacy-law/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 52
   - title: "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year"
     excerpt: "The data activation company recognized out of over 3,900 nominations across more than 125 countries SAM RAMON, Calif., July 7, 2022 /PRNewswire/ -- WANdisco, the data activation company"
     publishedDateTime: 2022-07-07T13:04:00Z

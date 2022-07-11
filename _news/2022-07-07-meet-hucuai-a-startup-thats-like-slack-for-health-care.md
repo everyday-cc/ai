@@ -54,15 +54,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AI wants to revolutionize healthcare—it may be doing more harm than good"
-    excerpt: "Proponents of AI In healthcare say it can revolutionize medicine. But those pushing it ignore long-standing problems."
-    publishedDateTime: 2022-07-06T18:42:00Z
-    webUrl: "https://www.dailydot.com/debug/ai-healthcare-artificial-intelligence-medicine/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 33
   - title: "North American Startup Funding Fell Further In Q2"
     excerpt: "Startup financing fell across all stages in the second quarter of 2022, with the drop most extreme at the latest stages."
     publishedDateTime: 2022-07-07T12:00:00Z

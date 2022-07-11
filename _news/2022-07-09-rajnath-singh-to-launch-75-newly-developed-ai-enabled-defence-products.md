@@ -83,6 +83,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "India Must Be Ready To Face Upheaval Due To AI, One Nation Shouldn't Dominate Tech: Defence Minister"
+    excerpt: "He stressed that AI technology should not be dominated by a country or a group, as has been the case with nuclear technology, and India needs to make advancements in the field"
+    publishedDateTime: 2022-07-11T11:48:00Z
+    webUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404"
+    ampWebUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 44
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-based software to detect illegal constructions on defence land"
     excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
     publishedDateTime: 2022-07-08T03:12:00Z

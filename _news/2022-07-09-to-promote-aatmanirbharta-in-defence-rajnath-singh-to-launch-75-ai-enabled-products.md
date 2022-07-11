@@ -120,6 +120,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."
+    publishedDateTime: 2022-07-11T11:29:00Z
+    webUrl: "https://www.thehansindia.com/news/national/india-needs-to-work-on-artificial-intelligence-mechanism-carefully-rajnath-singh-752919"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 32
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/11/1302290-rajnath-singh.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath"
     excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
     publishedDateTime: 2022-07-11T07:01:00Z

@@ -34,15 +34,6 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 64
-  - title: "Artificial Intelligence Eases Network Challenges"
-    excerpt: "Many technology vendors have used artificial intelligence to transform their products. This is evident in areas like unified communications, contact centers and cybersecurity. Yet one area of IT that has yet to see AI play a significant impact is the network."
-    publishedDateTime: 2022-07-06T18:53:00Z
-    webUrl: "https://www.eweek.com/networking/artificial-intelligence-network-challenges/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
   - title: "The IRS is using artificial intelligence"
     excerpt: "The IRS revealed a new artificial intelligence system to reduce wait times to resolve simple tasks, and improve customer service."
     publishedDateTime: 2022-07-09T12:00:00Z

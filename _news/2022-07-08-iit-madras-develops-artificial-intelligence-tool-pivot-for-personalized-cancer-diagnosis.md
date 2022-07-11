@@ -75,22 +75,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "First-ever AI-powered tool may identify cancer-causing genes: IIT Madras experts"
-    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and perturbations in the biological network due to an altered gene expression."
-    publishedDateTime: 2022-07-06T17:23:00Z
-    webUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226"
-    ampWebUrl: "https://www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/first-ever-ai-powered-tool-may-identify-cancer-causing-genes-iit-madras-experts-article-92697226/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 54
-    images:
-      - url: "https://static.tnn.in/thumb/msid-92697226,imgsize-100,width-1280,height-720,resizemode-75/92697226.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
     excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
     publishedDateTime: 2022-07-07T11:54:00Z
@@ -122,20 +106,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
         height: 462
-        isCached: true
-  - title: "AI tool for personalised cancer diagnosis developed"
-    excerpt: "The tool named 'PIVOT' is designed to predict cancer causing genes based on a model that utilises information on mutations, expression of genes, and copy number variation in genes and"
-    publishedDateTime: 2022-07-06T17:39:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/ai-tool-for-personalised-cancer-diagnosis-developed-752229"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 39
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/07/06/1301565-i.jpg"
-        width: 1200
-        height: 720
         isCached: true
 
 secured: "UZMeMdewmVdJzZQMfYUUg0tFnBlNWjUym/VN1diPwoMfTbQdvblHXBb3QCgBw2E7as/BnSafZYEshou55qPOrbpGYT2Pard9DZX/SxLWDmkdAWl9Q3Pacf0+LylXMCdm5R5WmHMjfPyyWJVhn42QwPVZyigE7jSufVbLDjTVTxxpMzVURgDwKPeRby2qmQX1pUo0o+pgruGfAtq90Y0ZWIncasFAutjW/vRfv0yIV1Lsg3f2l8LuqPTC5m199hswQ6tIjBuOpQVofUlrYda912tt+Ky6h5mL98YKtLXyKBwKV3UOUsuA8kIbB05ZS44lm8NKR3vTSG+XnVEFf7agS5vxwY2ndEMV5590sEaGFmltt28+GQnw7gYw6zq6UAjaH9msKyO2MtMpksKGr9IQM7T4kEjE9p+qs4cXkloAIQzurRM5MCTyLy0TKVVj+11y/0Ke1cm49tfRvCKQkM86fgWsq9Ms2YKlkfE47NQilh2+gOjnxYjSWYz6mKDL9/QrkQlUNAlw3BfOGwkUkInWow==;DF9MtzXOSgBtBr0XAQkGtg=="

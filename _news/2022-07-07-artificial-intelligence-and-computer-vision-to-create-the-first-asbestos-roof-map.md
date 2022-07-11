@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence and computer vision to create the first asbestos roof map"
-excerpt: "This situation is particularly problematic given the different European, state and local regulations, according to which a census of buildings containing asbestos must be created and all asbestos must be removed in the coming years."
+excerpt: "The UOC and the company DetectA are developing a technology to detect asbestos automatically using aerial and satellite images"
 publishedDateTime: 2022-07-07T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/958186"
-webUrl: "https://www.eurekalert.org/news-releases/958186"
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/222998"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/222998"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "uEExBsb5UpS0R8dNI0uLetRiyAL8D68m4HbBhafVeuxOQCIeBYr5Y73397oeTu7NCaAEGSOrT3hAUV0BykPRVrsOhkU1VeaCgfVGjr1ANx5zSjL8TAn7EVAr1kHpoItKsZRzkjXHqd4Vz/8kRWIV9PdCc+TYU7xo0em+EL1FwsVHv1wbm/sHiS0NyuSbAAerRX812kRXKoKbgFB0WsHXicVC5AYmYi91KLdgzQ40TfcP7aiErGCFa7XPJ1wbNPG32QFCult+zAo/UmHWU7Zl5fd9Jgo3NgqblZbmpicccrkbjXAFveCfOpyFaMywnw+H3Ih7FcUoEuM749cFSF6AVg1/qmScBcnLJX6+qYgPW/M=;gSLpEFs53UfuxXZBx3NlyA=="
+images:
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"
+    width: 286
+    height: 229
+    isCached: true
+
+secured: "5AyZq2GVu2GVQpiz0+w5UwGrsAgXwfWRJrj80RO0w9abrJ+vIiq9CXC4FLb2zqgXsykwul2GISmBHX2j9wHrUIcvuVUyOl0N+aqEYcyi/wDg4oLbfWQaKcr6nJsb0m+IBJsz3Z5L6WbBRkXPPUzdrpKG1amAmzmsslADUSe2aPeFcD/sEGxzxAjK78Ys7gm/IK5cIkiELhRi0t9SfqO0GZctIUZPN0C0O2plTo1IAPThMA1ECSEyP8pgRH+IOjCRGtlf+6RgznfIBukaK+BC9k4gwahALXdYEvqUF2gKepJs9jU3s0okJS3Gmip8g7/Nr9xZHyYaIQK/xmv0wvHIn5tM1+1lhw70iz2YxM2KdPM=;7z6QRiG8NSKr9+Q6o2Xpiw=="
 ---
 

@@ -40,6 +40,15 @@ related:
         width: 750
         height: 496
         isCached: true
+  - title: "How To Fight Climate Change Using AI"
+    excerpt: "AI is a game-changing critical enabler that has the potential to speed up humanity's race against climate change. With AI, we have a chance to build a more resilient future for us all. AI can help reducing emissions,"
+    publishedDateTime: 2022-07-08T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "+eSpJejW6qQCkWVM1q7iMfYhsjyTdmEzS2ebIAhhYZNeozuqDUry4GqPiHGvxCED5dACo7rXFkXYu4RZi2otteqtWkCIVcJs9QefeVE7JG1vmjNj/PCVhWNTN4IcilMLbhr372ma+r6y8/R2hXPZiK0Er2wzvrASG2JYX0apvrTTQ9NpIAoVh6rlDCEFpgBCPHO50ubiILkOfoU2gdM0pJqzajQDhIJDrX6qdmUc+YzIzAhpeN48BwJnaqEhRGZZjHUloYEE43QBfL6m01yppEMlver6FfSrz8ATtPaUMHRpjdir2mpWGm/gnFBOFY+IM1jj3QAO88RhR1KLvYL4b//UvFT5u/wfsk4whtv/TxA=;AiNn9jepEis3r6xzjr5PyQ=="
 ---

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"

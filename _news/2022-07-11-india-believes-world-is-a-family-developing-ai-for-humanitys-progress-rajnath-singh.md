@@ -106,6 +106,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."
+    publishedDateTime: 2022-07-11T11:29:00Z
+    webUrl: "https://www.thehansindia.com/news/national/india-needs-to-work-on-artificial-intelligence-mechanism-carefully-rajnath-singh-752919"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 32
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/11/1302290-rajnath-singh.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "To promote 'Aatmanirbharta' in defence, Rajnath Singh to launch 75 AI-enabled products"
     excerpt: "Defence Secretary Ajay Kumar said that the nature of modern warfare is changing and AI will play a significant role in warfare. These products are tested and will soon be deployed"
     publishedDateTime: 2022-07-09T03:32:00Z
