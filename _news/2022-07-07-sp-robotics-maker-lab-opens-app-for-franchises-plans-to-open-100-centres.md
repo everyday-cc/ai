@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "SP Robotics Maker lab opens application for franchises; plans to open 100+ offline experience centres for kids by year end"
-    excerpt: "SP Robotic Works, an AI-based edutainment company which provides a platform for young children to learn, build and collaborate in some of the most sought-after technologies in India and around the world,"
-    publishedDateTime: 2022-07-06T06:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/sp-robotics-maker-lab-opens-application-for-franchises-plans-to-open-100-offline-experience-centres-for-kids-by-year-end-122070600382_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 8
 
 secured: "x1vWBZnD5Q1vYem84i/fD7l7Dqvb1xpfaXeiDYHNKXLJ/XxLYoN/fSld/RPE+P1t4qaEbfwIO134O9g7T5ROB5QLlWnacXJLVuDw1f/YjrkwFLGHASUW/jBGgg05tHU7ScPrKZ4riNaH9sgRa3ZBQS0QHqWJrEfEOzioZqHpSOynIT2Dd06ZM8HMkgk2QWrCDL0GiJ1v0s+Zcb2rf9876uLdFViTbUcBmFlVh+zBabMq60uqaH288s4gQ2hlWpUIdiIgi4Ax5B95QJmucZdMnXn2o+EJQAp3Kv1LnATtKSgtr0KuRxBcxOR26zm60arpMSdPOW6fqD793A2o8qau8icY4yyMQ9wb67JhEAc9IUF27L1gd0CyuqbsMQi1TF/ketieXWZBW6w+4c5T4nZGpb2oBe1s0zzRFIWX4DER1w+oGAZWkKtdISvSqoMVC5xujIwn49axS8EY/KEhzTQ/CkVwy87E48yo2X6/ytMWLaSpYTfKEFcewh27Ex4dRfyzz4sfVAJ//A0AE1YLjFQDxA==;8WxRThrUUnBlNJimk7Be3A=="
 ---

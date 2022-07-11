@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:

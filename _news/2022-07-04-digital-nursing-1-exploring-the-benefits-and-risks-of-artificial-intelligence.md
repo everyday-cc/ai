@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.ps.emap.com/wp-content/uploads/sites/3/2022/07/INDEX-Disc_DigitalNursing-1_59109-series-440x330.jpg"

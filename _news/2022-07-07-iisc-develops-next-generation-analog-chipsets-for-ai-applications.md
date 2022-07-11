@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud and Vodafone announce AI Booster to energise next generation development"
-    excerpt: "The integrated platform offers vast research and deployment opportunities for machine learning and artificial intelligence"
-    publishedDateTime: 2022-07-06T07:00:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/368441/google-cloud-and-vodafone-announce-ai-booster-to-energise-next-generation-development"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 40
   - title: "Vodafone and Google’s new mega AI is the best of big tech and telco collaboration"
     excerpt: "AI Booster can handle thousands of machine learning tasks a day and will ‘have a considerable impact on people’s roles, learning, and ways of working’ at UK operator Vodafone."
     publishedDateTime: 2022-07-06T12:44:00Z

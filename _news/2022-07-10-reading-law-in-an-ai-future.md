@@ -49,20 +49,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
-  - title: "Astronauts on Space Station Explore Artificial Intelligence and Human Nervous System"
-    excerpt: "On Tuesday, July 5, space physics and human studies dominated the science agenda aboard the International Space Station. The Expedition 67 crew also reconfigured a US airlock and put a new 3D printer through its paces."
-    publishedDateTime: 2022-07-06T05:51:00Z
-    webUrl: "https://scitechdaily.com/astronauts-on-space-station-explore-artificial-intelligence-and-human-nervous-system/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 30
-    images:
-      - url: "https://scitechdaily.com/images/Cygnus-Space-Freighter-Canadarm2-Robotic-Arm-scaled.jpg"
-        width: 2560
-        height: 1438
-        isCached: true
 
 secured: "QIls42Nb1n9ixC7UyEiaovxa80Di4g2aGaL1fHzyLj47MRF/nVKHWUpA6z2Equ2pg5yqgKVKhC7LLXFpqCRST55e2nKPrSfbP/EYYDWBmPr44Z1/2t421ile1iEjgY8TQRbSfCcB7A+Rwe6r38mQvWD5hgaP2rThN8honpOPN/hT/HmlmNb51MvQcDJC5Xp2fbmaBgWpxxrTHNMkfdgxIxszHR1IkYqqPBxVgKveut5udIsDqKW9P4L9TcQp49TAqU97TPKuPl51bKIiuRSI16YcpyF03g1yQyr/mGfJ+566Lfm0n0g1Fs5x/kO7lDBhp6rSuRMw4euBYoSsZoa314l+ndHIgFZe2hdOjo4qhBKFvNABNkSyCd26ZGPRlCC8Ofj5yfqV8X75g3Jx+rDO8wsSkGbgcRQOqBPONJKj+F9jGuydIHs+OQUKOTEovxWlJbcpIA21g1ix9VS0y+8K+4LrKeoxDCMntAy2QbOVfEqs08D5B8BXnyQFKWod5xS35ROtv24+lDP7k3qRi0vioQ==;4AtW2E3CkJem6LI9cbW1+g=="
 ---

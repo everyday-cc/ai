@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud and Vodafone announce AI Booster to energise next generation development"
-    excerpt: "The integrated platform offers vast research and deployment opportunities for machine learning and artificial intelligence"
-    publishedDateTime: 2022-07-06T07:00:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/368441/google-cloud-and-vodafone-announce-ai-booster-to-energise-next-generation-development"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 40
   - title: "IISc develops next-generation analog chipsets for AI applications"
     excerpt: "Researchers at the Indian Institute of Science (IISc) have developed a design framework for the creation of next-generation analog computing chipsets, which may operate quicker and with less"
     publishedDateTime: 2022-07-06T18:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/sponsored/creating-an-ai-implementation-stra
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
-  - title: "Astronauts on Space Station Explore Artificial Intelligence and Human Nervous System"
-    excerpt: "On Tuesday, July 5, space physics and human studies dominated the science agenda aboard the International Space Station. The Expedition 67 crew also reconfigured a US airlock and put a new 3D printer through its paces."
-    publishedDateTime: 2022-07-06T05:51:00Z
-    webUrl: "https://scitechdaily.com/astronauts-on-space-station-explore-artificial-intelligence-and-human-nervous-system/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 30
-    images:
-      - url: "https://scitechdaily.com/images/Cygnus-Space-Freighter-Canadarm2-Robotic-Arm-scaled.jpg"
-        width: 2560
-        height: 1438
-        isCached: true
 
 secured: "sak0jdZie2M08P65Nle54STMa8h5yu52FBSsw8k0Qm3gP2yQw18jegQaATtx0rPWWwylouMX7m4RfQosjOEhqfU+LYp/dMdycPiQ6ZGd8vz1wZrZG+vyB1IMK+SupjPdTg/hfjl4Ob72kB38EhwlU+TI2G71JXybvUOcwRV/e1aY2ZWXz4i0ItaQcmX8iQo7UcAFq0lub5NKugB1NcNIWda9a+CJw6MdTLofhvhsUZN4/3LYOq5ruznO/6bxoCcucXUHHl8ans31/Rw6b52EChJ4tHWZU/27vcI8rG4bvATnrK9/c8zv1ld5xAT11YfNpEpx15aYh6DdGtH/27x3CfNH+V3PKE/yBKadEyiY764=;9VMlCtSe+TNv8pnfm/QmTg=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-11-the-40-best-early-amazon-prime-day-2022-deals-were-seeing-so-far.md",
+      "title": "The 40+ Best Early Amazon Prime Day 2022 Deals We’re Seeing So Far",
+      "excerpt": "Early Amazon Prime Day 2022 preview sales have begun, and we’re sifting through the duds to find the best deals worth your time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2020/10/noise-cancelling-headphones-update-09-19-lowres-4291.jpg",
+          "width": 636,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/amp/",
+      "publishedDateTime": "2022-07-10T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-the-best-robot-vacuums-to-help-turn-your-cleaning-time-into-free-time.md",
       "title": "The Best Robot Vacuums To Help Turn Your Cleaning Time Into Free Time",
       "excerpt": "Maybe you’ve been a proud robot vacuum owner for years now; maybe you haven’t yet tried out this nifty, time-saving home gadget. Either way, we suggest you check out the newest models on the market: With upgraded capabilities and futuristic features,",
@@ -62,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -398,7 +450,7 @@
       "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1145,49 +1197,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-creating-an-ai-implementation-strategy.md",
-      "title": "Creating an AI Implementation Strategy",
-      "excerpt": "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
-      "originalUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true",
-      "publishedDateTime": "2022-07-07T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
