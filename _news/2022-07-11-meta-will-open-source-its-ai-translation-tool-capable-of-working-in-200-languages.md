@@ -163,15 +163,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta says its AI model is the first to translate 200 languages"
-    excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
-    publishedDateTime: 2022-07-07T11:48:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-translation-200-languages"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 36
 
 secured: "+4azBUnd1pLIBx4R3mFAbq1DmwM+crernC1HYKAkxLzqu1qnTb9gyu22FU+7oJG3sj2Y1y0cRJTD6plbjgEfsdVWMu3DhA5scJQwC4ifSnKfNxN72I0EaAt/DZn68EQzN3QYLhnGhfiMjnoUjorkvHXdXfYf6uYyJSjjQNWSwtZWkga4xxUxowsZzKiaz2edi5D0H8QFSCHjgoJiGK2tH6K68NG4XgKVyeXmQJIDzEhAHy5ZeQ9GZpiH54vXu72EhkgqUV2ZtvoDfSU7yciwAMupj1N9tLMg8nRSwysEo1D03yv+pO5IGDMxjY5ATB4kFlKNb3xqW/cKTeTmpPUF0AOTVIGiX3FiH+0gzxcaI/M=;m9FvztbQjQNB30ucmmM4jA=="
 ---

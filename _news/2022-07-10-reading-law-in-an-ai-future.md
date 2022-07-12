@@ -49,15 +49,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Reforming Prior Authorization with AI and Machine Learning"
-    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
   - title: "Standardisation body calls for AI definition, categorisation to be decided as standards"
     excerpt: "The European Telecommunications Standards Institute (ETSI) suggested that the definition of AI and categorisation of high-risk applications are left to technical standards in a letter sent to the European Commission and obtained by EURACTIV."
     publishedDateTime: 2022-07-07T15:08:00Z

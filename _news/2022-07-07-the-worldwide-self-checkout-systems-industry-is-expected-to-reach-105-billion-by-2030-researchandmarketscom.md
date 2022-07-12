@@ -102,15 +102,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
-  - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
-    publishedDateTime: 2022-07-07T12:49:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-worldwide-robotic-software-platforms-market-to-reach-us113-billion-by-the-year-2026-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "J/y0QepU0PiFxtTkVTzQXjVRVxSW94QZPFZli15Mb4SRxsrKtBFZCYKysdF2ExHy1G12G/Q5C4lWycofceQT8x28NnL+k50MUUL6SkiGOwsxpBJ6dSD79Ys3ShBbESBI77/YuMEKS0KlfGxiRyqgt7D0dIWST983buDSMOnaG7wdEOMr6PPTPm5zVkg7lQefhBY7UcPUW3uoPzM9E2yQB5uEUm922prSJfjJ0GkuKubwraiWVqCjcloVMz5oQb+uSHhFk7fpnbEE2dk9SqRDA8tvRE5JNTmPqtGIbxXx9AACnk7qTpC0tmI25r8zivj02uUU9tOuQxmGuwVC6oTo5a1ZVtkkPQuwvy3E3dKHt+Q=;CkT+n0tvE+jY9G0ziusO1A=="
 ---

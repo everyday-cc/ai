@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
+      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
+      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
+      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
+      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "publishedDateTime": "2022-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-meta-ai-tool-sphere-could-help-curb-fake-news.md",
       "title": "Meta AI Tool 'Sphere' Could Help Curb Fake News",
       "excerpt": "Facebook parent company Meta on Monday launched Sphere, an AI information verifier that validates the strength of claims in web entries, as reported earlier by TechCrunch. The tec",
@@ -199,6 +286,48 @@
       ]
     },
     {
+      "path": "_news/2022-07-11-ai-learns-what-an-infant-knows-about-the-physical-world.md",
+      "title": "AI Learns What an Infant Knows about the Physical World",
+      "excerpt": "A computer model simulating how objects react to physical forces approximates how babies understand their surroundings",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/",
+      "originalUrl": "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/8FBD58A2-2045-4C9D-A8F106C93BB06CFB.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true",
+      "publishedDateTime": "2022-07-11T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-can-ai-be-a-force-for-good-in-improving-diversity-in-hiring.md",
       "title": "Can AI Be A Force For Good In Improving Diversity In Hiring?",
       "excerpt": "Khyati Sundaram is the CEO and Chairperson of Applied. Founded in 2016, Applied’s mission is to be the essential platform for unbiased hiring. Throughout the company’s history, Applied has been hesitant to use machine learning on its platform — until now.",
@@ -310,7 +439,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -886,7 +1015,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -917,48 +1046,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-ai-based-models-to-scan-mucormycosis-risk-in-covid-survivors.md",
-      "title": "AI-based models to scan mucormycosis risk in COVID survivors",
-      "excerpt": "Mucormycosis is a rare but life-threatening fungal infection. India has been facing a public health challenge from COVID-19 related mucormycosis. A collaborative study by various universities was aimed at developing AI-based models to predict mucormycosis among patients at the time of discharge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/telangana/ai-based-models-to-scan-mucormycosis-risk-in-covid-survivors/article65615969.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/telangana/ai-based-models-to-scan-mucormycosis-risk-in-covid-survivors/article65615969.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/ai-based-models-to-scan-mucormycosis-risk-in-covid-survivors/article65615969.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/ai-based-models-to-scan-mucormycosis-risk-in-covid-survivors/article65615969.ece/amp/",
-      "publishedDateTime": "2022-07-08T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1098,100 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-five-benefits-to-consider-when-joining-a-startup-incubator.md",
-      "title": "Five Benefits To Consider When Joining A Startup Incubator",
-      "excerpt": "If you’re an entrepreneur, you’re probably constantly asked this stressful question: “Thinking about drinking the startup incubator kool-aid?” If you’ve already made the daunting decision to take the plunge and found a new venture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef67104c7e8ff0006634c9e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/amp/",
-      "publishedDateTime": "2022-07-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-global-control-room-market-growing-as-ai-and-machine-learning-enhance-solution-offerings.md",
-      "title": "Global control room market growing as AI and machine learning enhance solution offerings",
-      "excerpt": "The control room market “shrugged off” pandemic-induced project delays in 2021, as a new Omdia report reveals market growth at 9.6%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
-      "originalUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/05/control-room-surveillance-military-1-e1558449260284-300x214.jpeg",
-          "width": 300,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/",
-      "publishedDateTime": "2022-07-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ifsecglobal.com",
-        "domain": "ifsecglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

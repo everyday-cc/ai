@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/meta-open-source-200-language-translat
 webUrl: "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -160,15 +160,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta says its AI model is the first to translate 200 languages"
-    excerpt: "Meta said the AI model was designed to bring machine translation to low-resource languages and is being used to help Wikipedia editors."
-    publishedDateTime: 2022-07-07T11:48:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-translation-200-languages"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 36
   - title: "Meta will open-source its AI translation tool capable of working in 200 languages"
     excerpt: "Meta’s AI translation service is capable of translating across 200 languages and is in early development. Meta is open-sourcing its AI translation service. The tech giant’s model – which is early in its development – is capable of translating across 200 languages,"
     publishedDateTime: 2022-07-11T12:19:00Z

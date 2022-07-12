@@ -102,15 +102,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
-  - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
-    publishedDateTime: 2022-07-07T12:49:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-worldwide-robotic-software-platforms-market-to-reach-us113-billion-by-the-year-2026-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "WzUU/tAMOZ4WmOLn5ZCr/RHqS3AfB8AZcDzgNogA0bBu02GFQqFl3Kwo1MmUHImGYF0TToMhtpfAYqBYi8ha2Krl0qqnTCB/jHIvubv8d3Qe0iom6i7R+zm5bbZQvqwolwRDmZyGE3JSpX+BO/VvnDivcHaOGZsBvugoXXU1uyGBjp5k+qIbmkpnr6/ie/LmFtV8L6EBHm/nPm4ouaYcAOE3z34XpabN97wM0rjQ3zygxHoIuFhJrZ18Yikhro+vwm6DyaGsdEVpcngbhNivOduFF9clhqbA1Q2CNRcLBNRyRfIoPius0uQqN3j1hH1kyBlAlgAnFtNcVvL6ve3F+Cle6Vd4eI77zWcxvxY10E8=;VkqGqRerN+wUuXxiQDxIcA=="
 ---

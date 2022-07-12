@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI could do better job of managing economy than humans, DeepMind research suggests"
-    excerpt: "New research suggests artificial intelligence could redistribute wealth and resources more effectively than humans and help end inequality - but scaling it up on a world scale wouldn't be easy"
-    publishedDateTime: 2022-07-07T11:23:00Z
-    webUrl: "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532"
-    ampWebUrl: "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp"
-    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp"
+  - title: "AI Learns What an Infant Knows about the Physical World"
+    excerpt: "A computer model simulating how objects react to physical forces approximates how babies understand their surroundings"
+    publishedDateTime: 2022-07-11T16:46:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
     type: article
     provider:
-      name: Daily Star
-      domain: dailystar.co.uk
-    quality: 68
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://i2-prod.dailystar.co.uk/incoming/article27420698.ece/ALTERNATES/s615/1_FILES-BRITAIN-POLITICS-JOHNSON-VOTE.jpg"
-        width: 615
-        height: 409
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8FBD58A2-2045-4C9D-A8F106C93BB06CFB.jpg"
+        width: 790
+        height: 496
         isCached: true
-  - title: "Not my job: AI researchers building surveillance tech and deepfakes resist ethical concerns"
-    excerpt: "The computer vision research community is behind on AI ethics, but it’s not just a research problem. Practitioners say the ethics disconnect persists as young computer vision scientists make their way into the ranks of corporate AI."
-    publishedDateTime: 2022-07-11T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/ai-computer-vision-cvpr-ethics"
+  - title: "This AI With a Baby Brain Shows Us How Humans Think"
+    excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
+    publishedDateTime: 2022-07-11T17:52:00Z
+    webUrl: "https://www.thedailybeast.com/this-ai-with-a-baby-brain-shows-us-how-humans-think"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 46
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
     images:
-      - url: "https://www.protocol.com/media-library/teacher-explaining-something-to-two-college-students-in-a-robotics-class.jpg?id=30076953&width=1200&coordinates=0%2C156%2C0%2C156&height=600"
-        width: 1200
-        height: 600
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657550545/220711-Bender-AI-baby-teasetease_mal845"
+        width: 1480
+        height: 833
         isCached: true
 
 secured: "ZxxpiLAD8H1VTWfusGgUjk8p1OBLdpGQ1F/LyqeCZDjno8JPU0GDogc/yEMVlZb/NJ72TpFdjI5v6exZ2fwQj2nss1wbkb5Vq1egYWnxKOEcETO4XumbfZrqnC0IR2lTQgWD/Ap/IaA+kZCL7GopEnIZKwEgfZT+4oJAyQBkbWppD5IE5K8AL5RJ+ndhMe74n+1V4k90a95z/FTDwNtrKAi3I2fYYuNI8M6dNSpiFp5SJVP6+YFqkNdc0o21Nges8hF/lBZYZmistzEIF9eLnuLRKDSQ7sPhRMSUS++UtiU/Vo0nzyU2Y4x4wy86lcwCbXES4lfsx6Bt3OgK5G7iJikQjCXTH2wPW/p1UcZgtAqvdaeWXWIee5F1wBdnw06GX318RwtlBtC4JTylyRLRZolKriGYcO/AO6GRvROFjYu8/Mmr6srWMCol+o0OsrOiMyVr5KM0hCmo1MX4bj3yaUGEsKy02BRmRpfIx29Lf4TYF2qcAiErWbAlPUiCOAZDB8R/fKYKFUMNV9ipK3dkLg==;F2rJEXcfjaHM2QEu8OgFAA=="

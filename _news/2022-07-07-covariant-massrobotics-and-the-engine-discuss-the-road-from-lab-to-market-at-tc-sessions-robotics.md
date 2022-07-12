@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-eng
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1024
     height: 535
     isCached: true
-
-related:
-  - title: "Announcing the Judges for the TC Sessions: Robotics Pitch Off"
-    excerpt: "Robotics 2022 – virtually. No TechCrunch event is complete without a pitch-off showcasing early stage startups from around the globe. If you’re a founder in the robotics space – hardware or software side 0 you can apply here."
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/07/07/announcing-the-judges-for-the-tc-sessions-robotics-pitch-off/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
 
 secured: "hyZF03vlTCLNcQGNStJyBhO3WPG7YeTHZreKjej5gOPMoaB6o+d6vE8NH6ZDsLgZ2T40wWoEKIQ34vN32EvBQEXMM8QIZw+wBIY6UrZP0ruRZI3Tr7MS67XBVIRZGEXn4RTWt83Auj2gGLuRDpx/vq1dt7lPDiUBqGk/9KAncWCeJ7PvE9HYL5y/V7mHbQH+ULMRFLXKQpbTEQgJidS24v2M9j03iF6STpZgz77LVZWW+pRCtuIVYXAKu2mxyiugW+G3th62qXeR6C/BpuORHB5VmjUKuyz3ygR0Tf5tQ8cF4BIxNDx4fT7GemAbqdEhtffiR5ksR1o7LbteE2pN8/AENgK/quGyB2H49SWwvNn1pZ6Z2jnxhqdjV4nUI+FLzILtJiFLX8yDfPpCPEwXaHqvehiNrDWakdZWHgsNDqgOUt9TnzgjGGne2bRRpCkxlFxFoZrK5bojA7gPISaGwPRvBO48RQ2ROsMjC1uqUTAPONLPf90Jl6wmnsru6WmEQ2+7G5A5sB3E3jjMTKdVhg==;U5i2LDP7rKU12hhPyF9wGw=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Surveillance Camera Market Size, Share and Analysis To Grow At An Annual Rate Of 20.06% Through 2026"
-    excerpt: "An analysis of AI Surveillance Camera market has been provided in the latest report added at Market Study Report that primarily focuses on the market trends, demand spectrum, and future prospects of this industry over the forecast period."
-    publishedDateTime: 2022-07-07T12:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-market-size-share-and-analysis-to-grow-at-an-annual-rate-of-2006-through-2026-2022-07-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
   - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-07-11T06:23:00Z

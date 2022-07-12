@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-08-five-benefits-to-consider-when-joining-a-startup-incubator.md",
+      "title": "Five Benefits To Consider When Joining A Startup Incubator",
+      "excerpt": "If you’re an entrepreneur, you’re probably constantly asked this stressful question: “Thinking about drinking the startup incubator kool-aid?” If you’ve already made the daunting decision to take the plunge and found a new venture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef67104c7e8ff0006634c9e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/amp/",
+      "publishedDateTime": "2022-07-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-global-control-room-market-growing-as-ai-and-machine-learning-enhance-solution-offerings.md",
+      "title": "Global control room market growing as AI and machine learning enhance solution offerings",
+      "excerpt": "The control room market “shrugged off” pandemic-induced project delays in 2021, as a new Omdia report reveals market growth at 9.6%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
+      "originalUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/05/control-room-surveillance-military-1-e1558449260284-300x214.jpeg",
+          "width": 300,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/",
+      "publishedDateTime": "2022-07-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research.md",
       "title": "Nokia partners with IISc to set up centre of excellence for robotics research",
       "excerpt": "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said.",
@@ -84,6 +178,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-ibm-buys-data-observability-software-databandai.md",
+      "title": "IBM buys data observability software Databand.ai",
+      "excerpt": "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp",
+      "publishedDateTime": "2022-07-07T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -631,7 +767,7 @@
       "originalUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -674,7 +810,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1006,21 +1142,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-07-metas-new-open-source-ai-is-a-step-towards-a-universal-language-translator.md",
-      "title": "Meta’s new open-source AI is a step towards a universal language translator",
-      "excerpt": "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems.",
+      "path": "_news/2022-07-07-with-self-learning-models-prediction-can-be-explained.md",
+      "title": "With self-learning models, prediction can be explained",
+      "excerpt": "Self-learning computer models can be of value for speech recognition, fraud detection, and assessing medical risks. However, the benefits scandal, for example, shows that the utmost caution must be exercised: and that is why the law stipulates that there must always be an explanation as to how a model reaches a certain conclusion.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
-      "originalUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
+      "webUrl": "https://techxplore.com/news/2022-07-self-learning.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-self-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab",
-          "width": 1280,
-          "height": 640,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/with-self-learning-mod-2.jpg",
+          "width": 650,
+          "height": 436,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1028,23 +1164,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:17:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-self-learning.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-self-learning.amp",
+      "publishedDateTime": "2022-07-07T06:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1054,144 +1181,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras.md",
-      "title": "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras",
-      "excerpt": "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "originalUrl": "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "publishedDateTime": "2022-07-07T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ibm-snaps-up-data-observability-specialist-databandai.md",
-      "title": "IBM snaps up data observability specialist Databand.ai",
-      "excerpt": "The acquisition will help IBM address the “full spectrum” of observability, as well as capitalise on predicted market growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-could-do-better-job-of-managing-economy-than-humans-deepmind-research-suggests.md",
-      "title": "AI could do better job of managing economy than humans, DeepMind research suggests",
-      "excerpt": "New research suggests artificial intelligence could redistribute wealth and resources more effectively than humans and help end inequality - but scaling it up on a world scale wouldn't be easy",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
-      "originalUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article27420698.ece/ALTERNATES/s615/1_FILES-BRITAIN-POLITICS-JOHNSON-VOTE.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
-      "publishedDateTime": "2022-07-07T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

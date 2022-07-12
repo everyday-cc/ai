@@ -63,15 +63,6 @@ related:
         width: 1240
         height: 779
         isCached: true
-  - title: "Reforming Prior Authorization with AI and Machine Learning"
-    excerpt: "In this contributed article, Niall O'Connor, CTO at Cohere Health, discusses how the application of AI and ML to the onerous prior authorization (PA) process can relieve both physicians and health plans of the repetitive,"
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/07/07/reforming-prior-authorization-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
   - title: "Adopting AI in a more straightforward manner"
     excerpt: "According to IBM, more than a third of firms are now using AI in some capacity, while another 42 percent are just beginning to explore the possibilities. While these efforts are being hindered by factors such as high prices,"
     publishedDateTime: 2022-07-11T13:25:00Z

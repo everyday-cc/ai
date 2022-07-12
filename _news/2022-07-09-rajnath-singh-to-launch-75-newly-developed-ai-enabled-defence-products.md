@@ -51,6 +51,22 @@ related:
         width: 730
         height: 419
         isCached: true
+  - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
+    excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
+    publishedDateTime: 2022-07-11T19:25:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 58
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
     excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
     publishedDateTime: 2022-07-11T01:24:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Scientific American
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI learns simple physics like a baby"
+    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."
+    publishedDateTime: 2022-07-11T16:09:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-01921-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "This AI With a Baby Brain Shows Us How Humans Think"
     excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
     publishedDateTime: 2022-07-11T17:52:00Z

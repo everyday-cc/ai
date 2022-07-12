@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
-    excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
-    publishedDateTime: 2022-07-07T11:54:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 52
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IIT Madras develops Artificial Intelligence Tool 'PIVOT' for Personalized Cancer Diagnosis"
     excerpt: "IIT Madras develops indigenous motorised wheelchair vehicle NeoBolt. Cancer is an uncontrolled growth of cells that can occur due to mutations in oncogenes or tum"
     publishedDateTime: 2022-07-08T10:45:00Z

@@ -59,6 +59,22 @@ related:
         width: 730
         height: 419
         isCached: true
+  - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
+    excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
+    publishedDateTime: 2022-07-11T19:25:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 58
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
     excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
     publishedDateTime: 2022-07-11T01:24:00Z
@@ -168,6 +184,6 @@ related:
       domain: indiatimes.com
     quality: 17
 
-secured: "9v9xw+ghW30SzkuFj/PwlkyEPC23dUNwh6+5THW2hC4fsoXPu+h6XzEq2YNX0RAMVnXGQcvW5c0AfoTdblmuTnH9mFOBfLD/dwtt/u1M9jATW8nhwPyCJ1zCTb4ua0nLI4ITFyeCOnMh3mbj8HW7VDTq7U1hGMPxPqu5opfxZ7gebAz2s6Srx+c6jsMqrc5OQL3PRQxeTDS8YvU11Mpe79dUJSdwgLjnjZXsabjoCNQCZLaHnCNaAF9aKCTdk1HKA5GBWHZVtb/fXV3dKfubpF3pL2LlF/wA7HkvhlSmRKIOA+bZh/yIjWTvCt1BDTfzwuJCDnXD/cWx41+Kr1vAzMMNgMTClnSspPk/eqflABs=;lSiupDQZkNjD4kiLlhRbXg=="
+secured: "luFOzF2wp653+XsJXEFlHut7XQLAiNn5xvwjbCGJNjvk3tPEm+lj5UX80rG+zrvmotLAbPZ3LXBh/hN+0Kg+RL/vMt4D6HAdQf+aYEFfuR4/IRWgBMQKFdsYfcI7Va5kQffhJBAQDd8BtFApoMrH98sNzlwcucOiWEgByqG4TfbG4AhqVJ8xhbNfM3pE11dNEum1h0qdmydVud9tNYm8hVtTgT0swt8VarIQdwKiX76LhOPimlT+JIHYcazeQLz/7Yu72Vj8IZC7RQ+Yx2OcWV4KLrlHbjZ+bEbGS9KO2Y7MM98EAlorwET4E2pyQQrXf+K+mnbtooG3Hz2ACGam4H1BBbo8H9yhMw75XCmQsjEkpSmbWkoHND9vZMUXwC/rheZAdN3thFmv9plqs3wQm5jZkK615dMJkTGzud068w8v4vSqPwofzQt3GKTWjDw/nHOUOj9bl16fgXNnAvnvLEYXUlm98c9Xfy0zW4aoF530G2Ni50IHkR58XqXKszZdcM73Yc9iTXrJYVnL+K5QIw==;Ua8wdsi99K1MZochZpotWA=="
 ---
 

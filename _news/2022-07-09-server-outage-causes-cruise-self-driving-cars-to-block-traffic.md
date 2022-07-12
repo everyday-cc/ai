@@ -41,22 +41,6 @@ related:
         width: 764
         height: 1238
         isCached: true
-  - title: "Apple’s self-driving cars ‘smacked into curbs, veered out of lanes’: report"
-    excerpt: "Apple has been trying to work out the kinks in Project Titan, its autonomous electric vehicle program, since it sent several of the self-driving cars on a test run."
-    publishedDateTime: 2022-07-11T16:55:00Z
-    webUrl: "https://nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/"
-    ampWebUrl: "https://nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 42
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23001447-1657557949494.jpg?quality=75&strip=all&1657543615&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Apple Seems Uncertain About its Self-Driving Car Project"
     excerpt: "From executive indifference to a near-collision with a jogger, the latest Project Titan update shows Apple still has plenty of work to do on its autonomous car."
     publishedDateTime: 2022-07-11T19:51:00Z
@@ -106,20 +90,6 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2022/07/Cruise-Self-Driving-Car.jpg"
         width: 831
         height: 599
-        isCached: true
-  - title: "Apple self-driving cars reportedly hit curbs, veer out of lanes at intersections"
-    excerpt: "According to the report, Apple’s self-driving cars have had problems navigating streets, including frequently hitting curbs and veering out of lanes in the middle of intersections near the company’s headquarters."
-    publishedDateTime: 2022-07-11T23:15:00Z
-    webUrl: "https://siliconangle.com/2022/07/11/apple-self-driving-cars-reportedly-hit-curbs-veer-lanes-intersections/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/02/27050412940_5a0e5ac101_o.jpg"
-        width: 640
-        height: 400
         isCached: true
   - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
     excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Crash involving Cruise's self-driving car under probe in US"
-    excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
-    publishedDateTime: 2022-07-09T09:11:00Z
-    webUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+  - title: "Apple's self-driving, electric car efforts still remain stalled: Report"
+    excerpt: "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future."
+    publishedDateTime: 2022-07-12T05:19:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 44
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/9_sat/img_1657352343579_324.jpg?"
-        width: 764
-        height: 1238
+      - url: "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Apple’s self-driving cars ‘smacked into curbs, veered out of lanes’: report"
     excerpt: "Apple has been trying to work out the kinks in Project Titan, its autonomous electric vehicle program, since it sent several of the self-driving cars on a test run."
@@ -57,103 +57,51 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple Seems Uncertain About its Self-Driving Car Project"
-    excerpt: "From executive indifference to a near-collision with a jogger, the latest Project Titan update shows Apple still has plenty of work to do on its autonomous car."
-    publishedDateTime: 2022-07-11T19:51:00Z
-    webUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663"
-    ampWebUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
+  - title: "Apple Car rumors: Self-driving vehicle could have 4 facing seats, no steering wheel, much more"
+    excerpt: "The Information's Wayne Ma today published an in-depth report reflecting on Apple's struggles to build a self-driving electric vehicle, including technical challenges and several leadership changes since the project began around eight years ago."
+    publishedDateTime: 2022-07-11T14:50:00Z
+    webUrl: "https://wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/"
+    ampWebUrl: "https://wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/?amp=1"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-  - title: "NHTSA Investigating California Crash Involving Cruise Self-Driving Taxi"
-    excerpt: "A Cruise driverless taxi was broadsided while attempting a left turn in an intersection last month; occupants of both vehicles suffered minor injuries."
-    publishedDateTime: 2022-07-08T02:28:00Z
-    webUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608"
-    ampWebUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 32
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/06/Apple-logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Report: Apple’s self-driving car effort stuck in low gear"
+    excerpt: "Apple’s quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported on July 11."
+    publishedDateTime: 2022-07-12T04:18:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/12/report-apples-self-driving-car-effort-stuck-in-low-gear"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-  - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
-    excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
-    publishedDateTime: 2022-07-07T22:20:00Z
-    webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: The Star
+      domain: thestar.com.my
     quality: 24
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656295.jpg"
+        width: 1240
+        height: 858
         isCached: true
-  - title: "Server outage causes Cruise self-driving cars to block traffic"
-    excerpt: "Around 60 autonomous cars began behaving erratically and ended up blocking traffic in San Francisco due to a server outage. Self-driving car company Cruise, which is majority owned by GM, had an outage in late July that caused traffic disruptions around the city."
-    publishedDateTime: 2022-07-08T17:18:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/server-outage-causes-cruise-self-driving-cars-to-block-traffic/"
+  - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
+    excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
+    publishedDateTime: 2022-07-11T16:21:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-still-struggling-and-nearly-hit-a-jogger-report/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 23
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cruise.2e16d0ba.fill-1200x630.jpg"
-        width: 960
-        height: 504
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/06/carplay-1.jpg"
+        width: 1536
+        height: 864
         isCached: true
-  - title: "Feds Probe Crash of Self-Driving Car in San Francisco That Caused Minor Injuries"
-    excerpt: "A Cruise vehicle operating in driverless autonomous mode was involved in a crash that caused minor injuries on June 3 in San Francisco."
-    publishedDateTime: 2022-07-08T02:34:00Z
-    webUrl: "https://timesofsandiego.com/business/2022/07/07/feds-probe-crash-of-self-driving-car-in-san-francisco-that-caused-minor-injuries/"
-    type: article
-    provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 19
-    images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2022/07/Cruise-Self-Driving-Car.jpg"
-        width: 831
-        height: 599
-        isCached: true
-  - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
-    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
-    publishedDateTime: 2022-07-07T20:41:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries-nhtsa-investigating"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
-    excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
-    publishedDateTime: 2022-07-08T13:18:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 4
-  - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
-    excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
-    publishedDateTime: 2022-07-08T20:12:00Z
-    webUrl: "https://www.autobodynews.com/index.php/western/item/26648-gm-s-cruise-self-driving-car-crash-injures-multiple-people.html"
-    type: article
-    provider:
-      name: Autobody News
-      domain: autobodynews.com
-    quality: 4
 
-secured: "/9/Fauwtn0VrbPw5VXYzWKEQpFfk3prkiKyA5rVVXqrp0bn2P4UyBz58J0/F5EPpkpP5ZjZhQ+qYAzTGsQNEn0zxEN9bGjXzeCa0CASrWGJGoeh6jT5dUbowNWxYEO4A7lV6nzgvEybZfelRvxg0S3RIZUFZRLDu8XNRTinnrKmmhQk+P3wtZyxiHvP8DKYZcZww2u4otdeJ/kYzeqg8lu+U82gDySB77UQtgIAeI4Vua/ABu4SWK1/+7kMYHg7bJpL8f6UPcar45N3ymt9oxSuZRHEkCNLOyAr6fE9iY4MyS2/iJFwi1+VEPgRd+BFwV8jDEr1UZKDBvNzPW/05lcCte4ycBcBRQkAaxUEgxk0=;2pf7FvL5McVMkflGkekWuA=="
+secured: "KnzRWkSQnwIUxygIIzhk8yslKPg7b9TQti2WSSiulMZUsgBEMd/8c/0BGUcD+sVPYqpmZPKBj7aGaOo/vNqPDhiiGqPyv8syUu8PCtTgXtPi7f2QcdXzk1TsZO1+gZYOALmU3tFfLe630I0t8CVb6idxvNE9hbqy1jl+R6s+ILS/eSpCTrW+DyZN7QrJ2TfmaLqFmO7gl/QFyV84kGsQvRi3uRPK7GR+AxlKCwnrQPn0VNSBMZS9qy4OllKe5zS62gHgu+BRevNvsEbWjNTQ0TAncT42BqDZBjeB68Eh/L1d9cVSWAvdeiV09V+EUEVnxUVXhkyLx0DOVTwxZw/cTishnBVkcxBjmzPTFJ63iTH+tXW2XRDY5TjVqw/0dliAvuKcC9AoJ7zv6F4CF4TgvKA69etjNRDnuf0xn5vzn1DwDeBZ1fxH2ComdUSb/R4MaUeUHbkTGSDOLDvUqG1fblY6w5nhnm24d+RtrXDo5FBrtax0ZXtCmtIOSMsPEhaKtr2rwUsky73VaDIOttAi6Q==;z1qDKioYLjD/iDpaZTCD6A=="
 ---
 

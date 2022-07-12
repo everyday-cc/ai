@@ -7,7 +7,7 @@ originalUrl: "https://faroutmagazine.co.uk/books-that-inspire-ai-weiwei/"
 webUrl: "https://faroutmagazine.co.uk/books-that-inspire-ai-weiwei/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "Ai Weiwei unveils cage-like Arch installation in Stockholm"
+    excerpt: "Chinese artist and activist Ai Weiwei's steel sculpture Arch has been installed in Stockholm, where it will be shown outside Sweden's national gallery before getting a permanent home in the city."
+    publishedDateTime: 2022-07-12T05:00:00Z
+    webUrl: "https://www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/"
+    ampWebUrl: "https://www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/amp/"
+    cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/amp/"
+    type: article
+    provider:
+      name: Dezeen
+      domain: dezeen.com
+    quality: 57
+    images:
+      - url: "https://static.dezeen.com/uploads/2022/07/arch-by-ai-weiwei-for-brilliant-minds-stockholm_dezeen_2364_col_hero-852x480.jpg"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "6oafiTbVnNF5mImKrSQO9ns2IK5K1zTUadIUBvDRX0R4tUVcuFq4Smugi3EwD7faGQ8zcQD4sUVSRIRSqFhWw44OgIlbE4yEO7BjHKYcbPXjves5PtSvFMHyhQKJDDTa//98KreN3VOxgU/6oPNaWwxmhlWo4D3MspHTKjOPuBZEN6klDgOLQBVkOFBekBZWskUprWBzyqem1vixLod1soIyuTFQPNOUhK4eDLcvEfR8TXRlOKJH1GAgT7UDpDp91PDXCDjR/bgvWNTXwdqeZzbwQA5GOFfU0sKpdmRXg4wUF46gmWYwqGHCUOtFrcipN8XlABEosKtAWyrY6IvwEk6Su7JlkQpI+YVgHRsfQZQ=;iz45NYNJe9sijbPk1UCT+g=="
 ---

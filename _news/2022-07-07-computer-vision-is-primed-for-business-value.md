@@ -3,8 +3,8 @@ category: news
 title: "Computer vision is primed for business value"
 excerpt: "Over the past few years, computer vision applications have become ubiquitous. From phones that recognise the faces of their users, to cars that drive themselves, to satellites that track ship movements, the value of computer vision has never been clear."
 publishedDateTime: 2022-07-07T04:50:00Z
-originalUrl: "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/"
-webUrl: "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/"
+originalUrl: "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/?fpid=1"
+webUrl: "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/?fpid=1"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "UcYJyMESSNDtArUMenkPkeep5BoX0p/MwVCbr0wsw5evyftvJ54TF6Eudj6aqHGD60q5nJZ7UoRY9ITLmU9UMEU/TOADe7Ex/tlQuIetockC+WeGIyYvGJ8Lodg9MctWEsyYH7upSFqZdyqDZrsf/bBk0D8SBmyZ3JFSyZYLEhfJ/wCPfvTZSgoRsNBLqIGeU+3/EngsSc+jhbW9lTPUiLJFz5hsPTeB7bfhlhjyJlvJ+9fpzkD3XQgaL4v6xOnCD/blJFQxKwe2Tjk2MBvmqcQ6XwV/vNRjvhKLkPurGWGR65w44lPLV8Rcn+koCWf5eWUnFvJxttls7IdzZ0wwzoTASuQ3b64zGN1iDCdAaEQ=;UOXk7Fh9bF1DmdBnqD0txg=="
+secured: "1iU9tBhvJKO5xGa4mvBzDrw1D/DhnSfuE/0ZO4Lv2uwUNvQDv9C4Gupde2rpaukdsTy7qq9EZuX1QK6B0EpNWdvmgin3aettdODNSYv4g05FQN3oNSEonwE9q+ZB29fNaUioXrg7LEGKwNK15Zb3u3TD5K4KJmykG0WNvBCRTUjoK5jB5jvvkktlsswVv3UOlgzUOu/mwta+kmHsGfhXDEUmo6n9f6Hzj/eE7spWp3bznLkgEgd/mqFqQ8wobhXu7MrowVzf42sKgmd6q8eDafrqLA1pA08bCRhOnHLJLuF7aI8KQSXvcs+PLRqLKzkXFetYdlfraNNg/XQgl48BvykfVse/EYNxxOv5yDj61aE=;blBn5quwu7BCnDkPcjOYbw=="
 ---
 

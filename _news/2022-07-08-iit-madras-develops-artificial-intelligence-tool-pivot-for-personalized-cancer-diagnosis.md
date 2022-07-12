@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-dev
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras"
-    excerpt: "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes."
-    publishedDateTime: 2022-07-07T11:54:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 52
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IIT Madras Researchers develop Artificial Intelligence Tool towards ‘Personalized Cancer Diagnosis’"
     excerpt: "Researchers have developed an Artificial Intelligence-based tool, ‘PIVOT’, that can predict cancer-causing genes in an individual. This tool will ultimately help in devising personalized ca"
     publishedDateTime: 2022-07-09T00:31:00Z

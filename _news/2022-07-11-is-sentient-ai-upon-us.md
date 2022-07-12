@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentien
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "From ‘Sentient’ to ‘Cult’ AI and Information Anesthesia"
-    excerpt: "Who am I to tell God where he can and can’t put souls?” From Joseph Weizenbaum’s ‘Eliza Effect’ to Lemoine’s ‘Sentient’ AI, there is an interesting track record behind such events! So while one can have sympathy with Google engineer’s claims on ‘Sentient AI’ (after all Bhartiya culture sees life and soul in every particle around) but the question still is what’s the mystical formula behind this shift in Google’s hiring patterns?"
-    publishedDateTime: 2022-07-07T12:32:00Z
-    webUrl: "https://blogs.timesofisrael.com/from-sentient-to-cult-ai-and-information-anesthesia/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 19
 
 secured: "XML3FBKWMDX8HCRafTK4aUUiK4916b+YYRp315iLWMN2kqxVjt1nBnSZIvkP56Dp39xM0s82tyj4N2mvfwae3nKg97Zjy/g8me1MBrAMkrU6GodDTw+JV9853q6MY+xfddH9fPv/Q9bWVShO/5Ks+q2qSG66FKYig/iu73RMZZViaVkAzA1WLzrUKGXtc3xY5ssw6GCqnkBVRBqDnNC1dTd+0gM8zi6kUDPnxuGYNIJxn0dengkc9hJiYdzvDOND7QGvP4vMPfjsqdeHzpuT8LULQy5s2FSfyDHKhzQgPY9RKa2i3x+1VqouvCNRBLwl6rE4pvzdyrb1HHiRudTNxBmvWhLVEl3aCSu5O0oKu5Y=;xdR1LviUKDclnqUWfjDScg=="
 ---

@@ -23,24 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Human-like robots may be perceived as having mental states"
-    excerpt: "When robots appear to engage with people and display human-like emotions, people may perceive them as capable of \"thinking,\" or acting on their own beliefs and desires rather than their programs, according to research published by the American Psychological Association."
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://techxplore.com/news/2022-07-human-like-robots-mental-states.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
-  - title: "Robots need to act more human-like to help us bond with them"
-    excerpt: "Human-like robots are perceived as thinking for themselves or acting on their own desires, and that helps us to understand them."
-    publishedDateTime: 2022-07-07T13:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/robots-need-to-act-more-human-like-to-help-us-bond-with-them/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 19
   - title: "Research: Human-like robots may be perceived as having mental states"
     excerpt: "\"The relationship between anthropomorphic shape, human-like behaviour and the tendency to attribute independent thought and intentional behavior to robots is yet to be understood,\" said study author Agnieszka Wykowska,"
     publishedDateTime: 2022-07-09T23:55:00Z

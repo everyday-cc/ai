@@ -40,6 +40,20 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "DeepMind AI learns simple physics like a baby"
+    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."
+    publishedDateTime: 2022-07-11T16:09:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-01921-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "8SkZAWc0vb37vxXxZPIwE6tpQ1PoXLuMPDcw5EK1sqygbmXg+daI2zFhq694OdS8Z3kLw+F3tOkySlP65AUgSW1xtB+tdsjH0Ilrwxy7ALXaVxtAw8BmC3dR/PiU5NDbT3N5MNtArQ8LMtW/xGXdQdt9jMaBShHrTeCP7aoc0AXEKm9XB1I/MWk739rJTgwF/FOiQ8GZyFYe53C4mgSdHACT4ea9xM0Brltl1rtrt5cPJXUUp7HLD+YICvKYLpQMlwFbAzflUxaf8F4aq7EixoOEcNyn9EQWsF7iaOuG0Ms0guNyk21zalmnsnnqDXQC4IamVGsSstTJqT0/hEJLEBCnBDcU64Z/wGIAzH3c6vUuA7bGWGppKqaiXi167/GMdAoCV+iLq4NgYqphMa1d78v3ifJVdWArrwgiDbhXvjbSt93omCajSgEH0p0H+666CmG2Cw0Bos+Wff3KPN4UjnPZ0tnU5crJIZ9y9Y/foYfLDMZVMOEU1i3qbvnRP6FSyTeM90haeqdmA7HXpgKmvQ==;kw7z0i74A9rRtpXNpWqCCQ=="
 ---
