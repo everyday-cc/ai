@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
@@ -59,6 +60,6 @@ related:
         height: 833
         isCached: true
 
-secured: "Ny9SFQHN5033k9Ai4yL72z99szzb7X7Xq9s4ldMaRFt6kLRt3hyHaPS6CqrsbUhJU+KZPxTK7y/AJdLK5MRc9pu78ofu2HcIzInhGVFkb9AnmJKBD6L8LBRMPKnCQiqnASzDW/ov3rNCMYV11HtSDxG2hubbBEOQTTgZS7nXevNFx6gYc8+gRZtxnWVm4AwjDs0M1nHOVefoLncT0Y+NUDExSQLT5h8dk5i9vG1MtLnn63vLC+d+wLNnInBARrarVeUMlpm2svnC66QwmJ9RMJIkAQl0UecaIZSYBsQ7K2UZ7I8EHsccjsaTvu6gsybbOQES2mnJdyWYlS67FOLJF015Bu0iHiTGQr5QEap2pKo=;wpkHBUv9Ba7kLa/qSXG0gg=="
+secured: "Snc6czjNmm+qlDMQch0De6Xo6+wiqXG6angC8btzMKmNf0P+hFX05ldjqlrUBfHCN2TkgG5fDRtQ+2xquitPxc3utT+a5IK3DLTNBkYKZKQcOcF/CI+Z6NPb5gaJavz5EfKlgvCSGZyzha4kgU2HMJQUXLPTh4B+gUfi2R7iNKizKs9NpBMV7PlIs6N0vzhgx3YflL7xsjlOmvxkwB5e30rUGJG7CfmOMw2pu+9gnOEoqW5q08RoW+CjryB/eFY+ApVO7W0I3AXqmyTSo3xiaMldmUfM6zoVeUjEaBsZaIOoBGOXAxEX+LLQDUkrKo4aw3m/La8jLBiB2OuymaBEv7xGzomvA+a45hOmuPmf4YOmA0cfUJW80LsmfHirFPWXck+hlAk+hAECvSFSpC6AVipmzL6DwQoBr1e6mn/J7BMs+VF0E0vXryFPIJlU5Ayp8g8N678gAVLUHVQ9GsgUj7HxYUDNr9ndykL/JPkOFtKmjK8gzVQX5STZkx80gPlZ4vPX4oYIN29u8ddk4d8LYA==;jGgCOqp+yIWV+x7C8h0amQ=="
 ---
 

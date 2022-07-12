@@ -1,39 +1,20 @@
 ---
 category: news
 title: "Soleno Therapeutics Announces Presentation of DCCR Data at the 11th International Prader-Willi Syndrome Organisation Conference"
-excerpt: "Soleno Therapeutics, Inc. (Soleno) (NASDAQ: SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases, today announced presentations at the 11 th International Prader-Willi Syndrome Organisation (IPWSO) Conference,"
-publishedDateTime: 2022-07-11T22:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636408.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636408.htm"
+excerpt: "Presentation details: 11th International Prader-Willi Syndrome Organisation Conference: Title: Long-Term Safety of Diazoxide Choline Extended-Release (DCCR) Tablets in Patients wi"
+publishedDateTime: 2022-07-11T20:07:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/health-06b8b9df3b4e43765d25f0c8600fc5fc"
+webUrl: "https://apnews.com/press-release/globe-newswire/health-06b8b9df3b4e43765d25f0c8600fc5fc"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Artificial Intelligence could save organisations thousands of pounds"
-    excerpt: "By adopting Artificial Intelligence such as automated financial reporting, businesses can save an average of nearly 40 hours each week."
-    publishedDateTime: 2022-07-08T07:38:00Z
-    webUrl: "https://www.hrreview.co.uk/hr-news/strategy-news/artificial-intelligence-could-save-organisations-thousands-of-pounds/144182"
-    type: article
-    provider:
-      name: HRreview
-      domain: hrreview.co.uk
-    quality: 37
-    images:
-      - url: "https://www.hrreview.co.uk/wp-content/uploads/ai.jpg"
-        width: 960
-        height: 640
-        isCached: true
-
-secured: "xo1AXBStDp2EDMXx670c7+qd+jidGdtpLKFH+JwYpT518jTnC5n9CDLUX+mXlYkoW4md3f0OthQAM9Gpv4/k8pCP4v0pu/fCk7aT4QoW3Q7M5W3i64rsgnBBjvjUZNHBSmJXLAh0vfD6qX8wi3iFmpgS1N0vm793L74dh4kEGx+17gDCvKWqoairqBdwb2dPnPr3v+REvUzGAxULq1bG+qVQnmfurcONyd9JMFWgXb8Q+casw4XL3UPH4eBFXegY8aKgEadIRPeswaSIi5w0YUovPmaix2KCAF/9o42OulzLAKUxX6ZVA+hHDLhlinMFs6IjABdX5ADJCBxtLuI119+AZsJCLcwXiMB03lJ0ELA=;a1VPhW6DGWpck8aG53oIDA=="
+secured: "dbyvhJChhsqYYJe3VerFUy4ytjrQJzYcnfHVGHpmIbzyzDqZlSc1iE+n6W0aZluB7J5cKZSFefZHBEPglOHCG+afLigPKGKngbZB0UsrS7BUekZdw4hdZtm0STh5o9UL+62f7wO05QgKrJ1RpXorTks6VKRaSEty4BWkC4XW1w42gFviMq3sp8geAutS8SRcS497YfuswfQOsSjR1Zn/rFpPBKnqXLcHETOYDyKqrtHTbi/mYPUzEnFbQp+IGCnGWZYN2B7ITO0Om7ddxITn73cSoGaupwQkpX4jLgJTzFdXWrPFYFzQ4HCa9XCjCqTPiIj+DAPYnEWQPilCPjYOWxvxGTJMtsIr8MXkbUJc+bI=;qI+OdbH0GzsFI52JyAMVsQ=="
 ---
 
