@@ -29,15 +29,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 27
-  - title: "Remidio’s Medios AI shows significant promise in last-mile Screening for Referable Glaucoma"
-    excerpt: "Treatment options for managing Referable Glaucoma - a stage where immediate treatment improves prognosis, exist, but a simple test to screen has been elusive. Today, the only way to detect is through complex investigations often requiring multiple devices handled by Glaucoma Specialists."
-    publishedDateTime: 2022-07-07T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-clinical-trials-glaucoma-1ce30e4f0d3915741d4ca9b60a55c85e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
 
 secured: "ixZSLntDTKew/f2nSKRR2Lxjv6IMowrrFECqpvuxYWZm1LejeF/m4pA0No63yLShQAaEW+G44GIF5BDgsIRgzVMc3gYAQJWNNLs9XbRE3WCFBtAEV71jpoaVKI7A0nfFCeVHoOgdgzJaT1HDsxXH9V6gWg7OfJTGBdr8ffmKnpBsHxkLJmkGLWabj6AYD9bfcBtPui/JsA5vLsfMdM7mgiL3hO7Y2+oi842FNN4z6rDWf8DxxLpngxvWOpoC4fYh7TFBlreNVii229KXy7+HFTT2UwGlCRUFcq28e7IP+sqNdQQYOe9Z6PxAKxGaZBHEH0SkKMz7F+G8yfsBfglYpsj29S+Nrz9PFqZ1NC2F9F4=;lMYavZlFC1aSPRAkOFMm6Q=="
 ---

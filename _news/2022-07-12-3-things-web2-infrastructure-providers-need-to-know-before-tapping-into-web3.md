@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T01:07:00Z
 originalUrl: "https://venturebeat.com/2022/07/11/3-things-web2-infrastructure-providers-need-to-know-before-tapping-into-web3/"
 webUrl: "https://venturebeat.com/2022/07/11/3-things-web2-infrastructure-providers-need-to-know-before-tapping-into-web3/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: VentureBeat

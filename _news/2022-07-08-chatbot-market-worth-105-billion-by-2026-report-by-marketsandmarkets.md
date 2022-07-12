@@ -84,24 +84,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "Chicago, July 07, 2022 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-    publishedDateTime: 2022-07-07T13:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27983989/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarke"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "The Worldwide Self-checkout Systems Industry is Expected to Reach $10.5 Billion by 2030 - ResearchAndMarkets.com"
-    excerpt: "The global self-checkout systems market size is expected to reach USD 10.50 billion by 2030. It is expected to expand at a CAGR of 13.3% from 2022 to 2030. Gilbarco Inc. Increased demand for automation and technology advancements focused on reducing theft incidences are significant factors driving the market."
-    publishedDateTime: 2022-07-07T13:56:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-the-worldwide-self-checkout-systems-industry-is-expected-to-reach-105-billion-by-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "WzUU/tAMOZ4WmOLn5ZCr/RHqS3AfB8AZcDzgNogA0bBu02GFQqFl3Kwo1MmUHImGYF0TToMhtpfAYqBYi8ha2Krl0qqnTCB/jHIvubv8d3Qe0iom6i7R+zm5bbZQvqwolwRDmZyGE3JSpX+BO/VvnDivcHaOGZsBvugoXXU1uyGBjp5k+qIbmkpnr6/ie/LmFtV8L6EBHm/nPm4ouaYcAOE3z34XpabN97wM0rjQ3zygxHoIuFhJrZ18Yikhro+vwm6DyaGsdEVpcngbhNivOduFF9clhqbA1Q2CNRcLBNRyRfIoPius0uQqN3j1hH1kyBlAlgAnFtNcVvL6ve3F+Cle6Vd4eI77zWcxvxY10E8=;VkqGqRerN+wUuXxiQDxIcA=="
 ---

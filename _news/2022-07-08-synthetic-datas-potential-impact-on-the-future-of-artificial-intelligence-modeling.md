@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-po
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "Instead of AI sentience, focus on the current risks of large language models"
-    excerpt: "We shouldn't let the discussion around sentient AI become a distraction that keeps us from focusing on the real issues surrounding LLMs."
-    publishedDateTime: 2022-07-10T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/"
-    ampWebUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
 
 secured: "XhtOvtgxMHGt804YrQI5SUmPfQN4Q+emuHRvDq7898FY6Se+67/Rvnru7jDz0KRrGtVwh2s6Rmg6YbusBFDtblzkok5WpWLmog/KiACHLrMapQqh1EmtBcZkzUkeIOqavfygoMVAB/pYEXF6UaVUn7kO6skawuwYUxSPS7+AWHlNXtLCuC+zRiKfS4yEhkQgttoRwYafexR1LusYMUIljsm4QQWnJ/4rDN/uffNoVJDOvbS+kQsA7EnsURdytHEfExwcqRNgJhT5lCAxXlod4gURaXIjRJNnfTFcItr0UrLPMoMYzR6p2AjdtHhjZi6lf80jvePnT17EBg5M4R0kl9AinrqUE84WgG5FQWPugZQ=;vJGHy/57XzG52qW67jl5kw=="
 ---

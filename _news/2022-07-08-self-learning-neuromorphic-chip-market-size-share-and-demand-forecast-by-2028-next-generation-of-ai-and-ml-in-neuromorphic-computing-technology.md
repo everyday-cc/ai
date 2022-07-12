@@ -37,15 +37,6 @@ related:
         width: 300
         height: 214
         isCached: true
-  - title: "Insights on the Telepresence Robot Global Market - Rising Trend of Digitalization is Driving Growth"
-    excerpt: "The \"Global Telepresence Robot Market - Forecasts from 2022 to 2027\" report has been added to ResearchAndMarkets.com's offering. Telepresence robots are self-contained autonomous robots with a smartphone or motorized desktop stands connected to a display or camera and may be controlled remotely."
-    publishedDateTime: 2022-07-07T16:11:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635084.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 5
 
 secured: "Tgfb4u4MOhmZHqKTcjf0equW57l7aRu9ghffvFOthegSmbHYV+oLq3LT7AbanxbBY8l96rf8E91RiX6TzbxMJmngRZTsT+J7FyBHnl5DRU5XW19gUsVHHz3YY3kHRqtWiQJ8lvj2PbSARMS2MP2YkFg8CdSxGNmR+O88Ecqkv4vMCye11sK8vpx8wiFIIYjt9Ybxy71hNZcfnibTe/bStVhZapPstiGPS8RztceF/KPkLb+QxSaI9VjfNdiB/AtQsWoBfRTLO+lZM5nZMidih2Yj1v/Rw5aJ0MPiaBR1gJLv2AAZ/6Ix2ZYLMMOqR6sZxWTMIZ39yoqFna0ruvNqlnhFZjQPJ1n7rcCYEY6h7WE=;d2h6RBEOkKPqbdqREVFVsQ=="
 ---

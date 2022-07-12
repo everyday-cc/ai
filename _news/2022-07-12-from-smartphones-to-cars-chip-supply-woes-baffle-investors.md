@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T06:56:00Z
 originalUrl: "https://www.supplychainbrain.com/articles/35295-from-smartphones-to-cars-chip-supply-woes-baffle-investors"
 webUrl: "https://www.supplychainbrain.com/articles/35295-from-smartphones-to-cars-chip-supply-woes-baffle-investors"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Supply Chain

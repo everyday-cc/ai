@@ -84,24 +84,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 3
-  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "Chicago, July 07, 2022 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-    publishedDateTime: 2022-07-07T13:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27983989/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarke"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "The Worldwide Self-checkout Systems Industry is Expected to Reach $10.5 Billion by 2030 - ResearchAndMarkets.com"
-    excerpt: "The global self-checkout systems market size is expected to reach USD 10.50 billion by 2030. It is expected to expand at a CAGR of 13.3% from 2022 to 2030. Gilbarco Inc. Increased demand for automation and technology advancements focused on reducing theft incidences are significant factors driving the market."
-    publishedDateTime: 2022-07-07T13:56:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-7-the-worldwide-self-checkout-systems-industry-is-expected-to-reach-105-billion-by-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "7Vr5hK9ru/td8wfZ7OqpY756jYVgZdIHBVa9JMfIXcuZNM//MfnluB5Hv1DgyLL5l19eUAvQ3KedxliDqtOnw6nDnUSQ1Rdf69HI/IShpAIFkyta5hr2+D4ioYlzXi4x5EeiQ3DSNW7EO0L7Zy+E8duBgHG/yD/Z88ZcNKwgOfOMndxv97CrXPjAvT4qin7kPeLh8X5JcEaMitWxLqHmn05TLX4E2fVKwGqUhxvorCKJmOD356cDpfzDkoFOaBMFg0l1IApBeVorzpAoGn2buMLd72Jh1GyU3M7cSXtck0adPR81RfNyQWakyiPLzErh23rytVRu7l8YPUm2i9Bv/c9tVim1gni49cR+sp6+PtKpUmbLh+XSOjgte9uqQTlE4bIubLJwMxpslnIlLkaVbMqpaK23PtYVHQRO3RaiNASiMZbBtIw2yYVKphk5WP2v6i/6ZIL8S0x6eCXSWut1u38QR1CpQq4wGTwoOdcdvSoJftm6z705C373+4TnzwHrewmwhNx1AisPNgeALY2Gdg==;SORBGF4YAA3NcJ1/y6gwQw=="
 ---

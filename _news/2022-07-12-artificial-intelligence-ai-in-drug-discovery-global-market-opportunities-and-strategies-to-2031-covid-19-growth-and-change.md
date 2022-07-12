@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T17:08:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28021396/artificial-intelligence-ai-in-drug-discovery-global-market-opportunities-and-strategies-to-2031-co"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/g28021396/artificial-intelligence-ai-in-drug-discovery-global-market-opportunities-and-strategies-to-2031-co"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

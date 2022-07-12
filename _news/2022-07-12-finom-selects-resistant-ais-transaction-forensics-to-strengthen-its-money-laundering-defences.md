@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T07:35:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56527302-finom-selects-resistant-ai-s-transaction-forensics-to-strengthen-its-money-laundering-defences-004.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56527302-finom-selects-resistant-ai-s-transaction-forensics-to-strengthen-its-money-laundering-defences-004.htm"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Finanznachrichten

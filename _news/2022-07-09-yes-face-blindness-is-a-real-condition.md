@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What we know about Brad Pitt’s ‘face-blindness’ condition"
-    excerpt: "Actor Brad Pitt says he suffers from a rare “face-blindness” condition called prosopagnosia, which impacts his ability to recognize people."
-    publishedDateTime: 2022-07-07T17:01:00Z
-    webUrl: "https://ktla.com/news/nexstar-media-wire/what-we-know-about-brad-pitts-face-blindness-condition/"
-    ampWebUrl: "https://ktla.com/news/nationworld/what-we-know-about-brad-pitts-face-blindness-condition/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/what-we-know-about-brad-pitts-face-blindness-condition/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/07/gettyimages-1150760482-594x594-1.jpg?w=1280"
-        width: 594
-        height: 396
-        isCached: true
   - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
     excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
     publishedDateTime: 2022-07-08T13:34:00Z

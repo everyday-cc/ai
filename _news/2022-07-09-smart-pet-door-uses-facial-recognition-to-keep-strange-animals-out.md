@@ -64,6 +64,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Face recognition tech sparks investigation"
+    excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores. Kmart and Bunnings will be investigated over their use of the technology which captures images of shopper’s faces and ..."
+    publishedDateTime: 2022-07-12T09:23:00Z
+    webUrl: "https://www.crikey.com.au/2022/07/12/face-recognition-tech-sparks-investigation/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 39
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/f01de6ac-d9ea-4583-a9b6-d0b1d05c9627.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "OIG: CBP Complied with Facial Recognition Policies to Identify International Travelers at Airports"
     excerpt: "CBP officers referred approximately 23,000 travelers aged 14 years and older to secondary inspection for further verification. Between May 2019 and September 2021, CBP officers referred approximately 23,"
     publishedDateTime: 2022-07-09T12:29:00Z

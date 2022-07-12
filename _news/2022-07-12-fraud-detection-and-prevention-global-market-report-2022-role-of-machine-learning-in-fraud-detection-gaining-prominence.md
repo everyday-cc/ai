@@ -20,38 +20,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "With self-learning models, prediction can be explained"
-    excerpt: "Self-learning computer models can be of value for speech recognition, fraud detection, and assessing medical risks. However, the benefits scandal, for example, shows that the utmost caution must be exercised: and that is why the law stipulates that there must always be an explanation as to how a model reaches a certain conclusion."
-    publishedDateTime: 2022-07-07T13:59:00Z
-    webUrl: "https://techxplore.com/news/2022-07-self-learning.html"
-    ampWebUrl: "https://techxplore.com/news/2022-07-self-learning.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-self-learning.amp"
+  - title: "Global Robotic Software Platforms Market Report 2022: Open Source Robotics Solutions Present Opportunities"
+    excerpt: "Global Market Trajectory & Analytics' report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms"
+    publishedDateTime: 2022-07-11T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28017574/global-robotic-software-platforms-market-report-2022-open-source-robotics-solutions-present-opport"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/with-self-learning-mod-2.jpg"
-        width: 650
-        height: 436
-        isCached: true
-  - title: "New rules for self-driving cars part of the Highway Code"
-    excerpt: "Self-driving vehicles have now been addressed in the Highway Code, clarifying the limitations and legalities of their use. Using handheld devices will remain unlawful while behind the wheel, including tablet computers and mobile phones,"
-    publishedDateTime: 2022-07-07T14:39:00Z
-    webUrl: "https://www.carbuyer.co.uk/consumer-news/304256/new-rules-for-self-driving-cars-part-of-the-highway-code"
-    ampWebUrl: "https://www.carbuyer.co.uk/consumer-news/304256/new-rules-for-self-driving-cars-part-of-the-highway-code?amp"
-    cdnAmpWebUrl: "https://www-carbuyer-co-uk.cdn.ampproject.org/c/s/www.carbuyer.co.uk/consumer-news/304256/new-rules-for-self-driving-cars-part-of-the-highway-code?amp"
-    type: article
-    provider:
-      name: Car Buyer
-      domain: carbuyer.co.uk
-    quality: 44
-    images:
-      - url: "https://mediacloud.carbuyer.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562227951/autoexpress/0/33/audi_piloted-driving_2512.jpg"
-        width: 1260
-        height: 710
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "8fwg2+fbCtvnRtHuwpDUExocdrNSflWC6ZaDbEtQmR4lknXcjh1loRMJZy1TvCGw5hTHU8UGlFDb7khEDJQYPhWp/lWq1giiLW9oOdShFStMkb1owoG9bBcJWXOcKl0hlanE0m1BSER3FxoerYEONfnWLut+5oDneV4i6ISGO9dpW63DPkzyzKtByfhpJD6av1HRNNCrxP21vS197d7n4v+sH9Nx0WYQT7Top+bx4jWSV3IQwdkA43DzwTi5+S8HGETlC6fwmEiPescumsaC8ZvAun4BxaNePg4nxQ6pu4p22YnVRMZEx1yzm/tyJuL9OcGeHs8MXfYy3CbI3kKa2S6VP7oOyf8m9xLdx50KZnY=;F84N+cIUKIwH68a/z1frKg=="
 ---

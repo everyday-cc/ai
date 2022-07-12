@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-mu
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp"
 type: article
 quality: 81
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -29,33 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Elon Musk reportedly fathered twins with an executive at his AI startup"
-    excerpt: "Separately, Musk also loomed large during jury selection in a trial over a fatal accident involving a Tesla even though he has no part in the proceedings. Some prospective jurors"
-    publishedDateTime: 2022-07-07T14:00:00Z
-    webUrl: "https://www.dallasnews.com/business/2022/07/07/elon-musk-reportedly-fathered-twins-with-an-executive-at-his-ai-startup/"
-    ampWebUrl: "https://www.dallasnews.com/business/2022/07/07/elon-musk-reportedly-fathered-twins-with-an-executive-at-his-ai-startup/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/2022/07/07/elon-musk-reportedly-fathered-twins-with-an-executive-at-his-ai-startup/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 57
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/r2z06kJ-y-U9whVx2Cl4XCllQhU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/Z2YW35CP5MUGAK4UWZ5YODGRRI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Shivon Zilis, who reportedly had twins with Elon Musk, is an AI expert"
-    excerpt: "Shivon Zillis is a machine learning advocate and major player in Elon Musk’s world — and reportedly the mother of two of his children."
-    publishedDateTime: 2022-07-07T17:02:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/07/07/shivon-zilis-elon-musk/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "uCX/ZWPf16fe8vOt3E5qgMcL5+osZkUWLnBxufH65vFXBzlIJC1NXDQypoprlzAMBVHFjHPeR1NViJV4/dFNdln1d2XnuO13BDhkPQGp3NYexNl4s7LMz8F/CQwqUBw24Qai/F9fqNzvl2wNRv26R4rIykJ1hOElLkvnoV2UBDfnix0Pzh5DlYEGp97J/y4lp3gNsJ5GvuP1ocLYADqg+W/6ttFptf6ajfrpWvoV5esXxn5FhWOtpWlSl6wZa8aNSDdVcB4BZtbh/z7TOcuVbKLj5w1/vBXpJIvxC3/DvOxIDNShBimUIqm0UX831jOmP8SB8orBVzI1+vhgAMTtnrgQLPAxZBYiOyyMf0WGW81JgHuoVcq3NEM5hCfOmZrPCbKoPv9G9gN4yabRSwg3+g/4e4tA6G9qkHS9jrG6W/E4vEY/Y2MliqJ0U+HorO+ysAP+OMbRb0OYHtKxCLbDFNr8HUk1Mn6AxuhsdpqWLb0XIeEq3C2RzX7urJmss+fxXrHvV7duGJZALHwEOAjapQ==;k2EIrgCGjR92zcQIdvcleg=="
 ---

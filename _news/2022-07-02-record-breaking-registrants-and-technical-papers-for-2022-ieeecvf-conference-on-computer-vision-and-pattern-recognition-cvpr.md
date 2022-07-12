@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
-excerpt: "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ..."
-publishedDateTime: 2022-07-01T22:32:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+title: "Record-Breaking Registrants And Technical Papers For 2022 IEEE/CVF Conference On Computer Vision And Pattern Recognition (CVPR)'"
+excerpt: "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ..."
+publishedDateTime: 2022-07-02T00:17:00Z
+originalUrl: "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR"
+webUrl: "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR"
 type: article
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "oZqnC/tA3pEVC62BZP2SpUum1nl62x3DBvTn36KM//yMqcd3zpZrg98JyjjIL35uegWtBI4Jv3T2TWXPycGRV2n9icX8jxjULl2Lz2Iug9uBMVlB0YmCT6vkMDkHVEN45OA+635j3hjRkVBjkJaNz6ZZ4pbDTjDQcPWIP07fMFpx3jQLzL0yH/7IiyaxNYBLL8/rMY3x7e3PpwA4vA4syJtxZBh16SzcGDyB/iahqiLgWwgfcco/qICZFbaHSXaBMsz1IB1/ZeR/mhrZ6l62Uu07CiJPupB0KGY+kk3ZshOy/JWmiU31Hf3HRBsCgUvht9m+BXeS3kw7v/rgi15ihSSzNkeH1HIhDaeM2ff0XFw=;W77suQn5KRw6yJsGdbVNbg=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-07/01/PN_3fafce87-d_Image_In_Body.jpg"
+    width: 400
+    height: 233
+    isCached: true
+
+secured: "iSTiPfozf3AlYdC7bdnGfolMLHwaK0mXIJsWDzYScy5aOWrSB1E0VeO5m7Z6F3kx0+dJjZGhWgAXIwEz7FJBBl0TvlYFAUOkOF9knd6kf6lLa71+/XyWN+ZqwPN/ptZKjjn+FuPRkVajMgFCaVl4PpkQTbZsO+kiy4UdMHyniPh8HstPg2NUTES5i59AEnA8jUfw8UfKmpoG3nz1pV80jhpMJgEYPUDkYucIND1Z1oMaRz/puui9EiQ4+gneFR11QhjIdGMMzhWniEVXHK1jTTH403/WoVKHXJz7SfopjFCIVF00BtSviglc1dxnn46BUJWYtgg6sfh3iBvGy371dYTsdIb0Q+wsouO9Z4tDOLM=;TzmhK/hdnB3/OCBOy36yAQ=="
 ---
 

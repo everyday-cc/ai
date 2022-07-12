@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-12-bunnings-kmart-facial-recognition-use-to-be-investigated-by-oaic.md",
+      "title": "Bunnings, Kmart facial recognition use to be investigated by OAIC",
+      "excerpt": "A month after a Choice report exposed facial recognition being used across multiple Australian retailers, the Office of the Australian Information Commission (OAIC) has opened investigations into Bunnings and Kmart for use of the technology. The privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmo.com.au/article/699780/bunnings-kmart-facial-recognition-use-investigated-by-oaic/",
+      "originalUrl": "https://www.cmo.com.au/article/699780/bunnings-kmart-facial-recognition-use-investigated-by-oaic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/biometrics_facial_recognition_2_1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-why-facial-expression-recognition-ai-is-a-total-scam.md",
       "title": "Why ‘facial expression recognition’ AI is a total scam",
       "excerpt": "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -103,22 +146,13 @@
       "title": "Computer vision is primed for business value",
       "excerpt": "Over the past few years, computer vision applications have become ubiquitous. From phones that recognise the faces of their users, to cars that drive themselves, to satellites that track ship movements, the value of computer vision has never been clear.",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/?fpid=1",
+      "webUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/",
+      "originalUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_95793105.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1388,49 +1422,6 @@
         "name": "KSAT",
         "domain": "ksat.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-the-first-15tb-microsd-card-is-coming-to-destroy-your-budget.md",
-      "title": "The First 1.5TB microSD Card Is Coming to Destroy Your Budget",
-      "excerpt": "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
-      "originalUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
-      "publishedDateTime": "2022-06-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

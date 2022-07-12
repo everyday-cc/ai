@@ -139,20 +139,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "GE Healthcare opens 5G innovation lab in India"
-    excerpt: "GE Healthcare (NYSE:GE) announced today that it inaugurated its first 5G innovation lab around the globe in Bengaluru, India. The company aims to use the 5G innovation lab to position itself at the forefront of groundbreaking advances in patient care,"
-    publishedDateTime: 2022-07-07T14:35:00Z
-    webUrl: "https://www.massdevice.com/ge-healthcare-5g-innovation-lab-india/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 39
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Nokia partners with IISc to set up networked robotics Center of Excellence"
     excerpt: "CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and AI"
     publishedDateTime: 2022-07-08T10:19:00Z
