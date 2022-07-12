@@ -231,15 +231,6 @@ related:
       domain: bestgamingpro.com
     quality: 12
   - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
-    excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
-    publishedDateTime: 2022-07-07T18:57:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/07/07/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
-  - title: "Layoffs at autonomous vehicle startup Argo AI brings trend seen across tech industry to Pittsburgh"
     excerpt: "Strip District-based autonomous vehicle startup Argo AI LLC confirmed reports of recent layoffs at the company, making it one of the first tech firms in the region to become part of a broader trend where an industry downturn is resulting in many tech companies opting for workforce reductions across the country."
     publishedDateTime: 2022-07-08T18:54:00Z
     webUrl: "https://www.wpxi.com/news/business/layoffs-autonomous-vehicle-startup-argo-ai-brings-trend-seen-across-tech-industry-pittsburgh/WYRHKAPAIFEX5LCB6IPHBCU3QE/"

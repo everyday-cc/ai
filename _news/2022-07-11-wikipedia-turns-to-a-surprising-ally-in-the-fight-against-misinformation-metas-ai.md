@@ -57,6 +57,20 @@ related:
         width: 848
         height: 478
         isCached: true
+  - title: "Meta launches AI tool that can improve accuracy of Wikipedia citations"
+    excerpt: "Meta said its AI model can automatically verify hundreds of thousands of Wikipedia citations at once. Researchers at Meta have made a new open-source AI tool that can scan a massive amount of encyclopedia citations at once,"
+    publishedDateTime: 2022-07-12T11:23:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-sphere-wikipedia"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/AdobeStock_466308370_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "J4IP2r8QwYlxvSmAF8E5nF3a8u+rty4SVnqcpHPFUopwjeJKiRbgAqw4c/xOEX17/nT4BLUO9Spz1UHkUMz8OZM9wTVP/B0Hrwm/o4tGaJIB+TNpeXk9pRUzBWzmD97LHTdX4OGrzp/Blt/lhLJ8VxB3g0fhedUc+VXFaqduA38/mrSWKncCAyEv542zIOgFpeuVnR0qhWK+KHdSlvcQkWTCQV/cEtwY+EBqk7+B0DH4u0kYM8cfKvU+j8xTo+Cj+TmHcZE1oItCJter5k2kTRvV8OlvEEMF0T0rN22g/7evHj1UsCSdttF7fl681E6vrl362DyS6JO/t/Vi2wSlAXk3w+CypqZtkIDl5EIL19Sqs2463oA+Ap0aDn+gLzseUwOPyZOmN8SBSZKC+CdrkGfLBTQjiU2yQ6Ps0BglykKW6ukwO8iTp2Dvu6BdcamTj5WI+tXLfnm6rzopCViKWRbfiIk3CDN3op4rGLpLWFzECv8T/4PjAMm16Gf3kIgq9oVG4tCyaptNnYQa12IW1A==;bMJ7Grnx6OGsNGYJceXvqg=="
 ---

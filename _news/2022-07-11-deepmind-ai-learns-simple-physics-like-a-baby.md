@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Learns What an Infant Knows about the Physical World"
-    excerpt: "A computer model simulating how objects react to physical forces approximates how babies understand their surroundings"
-    publishedDateTime: 2022-07-11T16:46:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
+  - title: "This Artificial Intelligence System Gains Intuition Like a Human Baby"
+    excerpt: "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do."
+    publishedDateTime: 2022-07-12T11:23:00Z
+    webUrl: "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
+      name: CNET
+      domain: cnet.com
+    quality: 102
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8FBD58A2-2045-4C9D-A8F106C93BB06CFB.jpg"
-        width: 790
-        height: 496
+      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
+        width: 716
+        height: 408
         isCached: true
   - title: "This AI With a Baby Brain Shows Us How Humans Think"
     excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."

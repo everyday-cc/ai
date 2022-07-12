@@ -2,23 +2,53 @@
 category: news
 title: "Kmart, Bunnings probed over use of facial recognition technology"
 excerpt: "The investigations follow a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording ..."
-publishedDateTime: 2022-07-12T09:27:00Z
-originalUrl: "https://www.weeklytimesnow.com.au/breaking-news/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
-webUrl: "https://www.weeklytimesnow.com.au/breaking-news/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+publishedDateTime: 2022-07-12T09:10:00Z
+originalUrl: "https://www.dailytelegraph.com.au/business/companies/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+webUrl: "https://www.dailytelegraph.com.au/business/companies/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Weekly Times
-  domain: weeklytimesnow.com.au
+  name: The Daily Telegraph
+  domain: dailytelegraph.com.au
 
 topics:
   - Computer Vision
   - AI
 
 related:
+  - title: "OAIC concerns spark facial recognition investigation"
+    excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores."
+    publishedDateTime: 2022-07-12T09:20:00Z
+    webUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/"
+    ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
+    type: article
+    provider:
+      name: The New Daily
+      domain: thenewdaily.com.au
+    quality: 74
+    images:
+      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/07/1657620710-facial-recognition-AP.jpg?resize=960%2C540"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Why ‘facial expression recognition’ AI is a total scam"
+    excerpt: "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam."
+    publishedDateTime: 2022-07-07T22:10:00Z
+    webUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Bunnings, Kmart facial recognition use to be investigated by OAIC"
     excerpt: "A month after a Choice report exposed facial recognition being used across multiple Australian retailers, the Office of the Australian Information Commission (OAIC) has opened investigations into Bunnings and Kmart for use of the technology. The privacy ..."
     publishedDateTime: 2022-07-12T08:09:00Z
@@ -49,8 +79,8 @@ related:
         isCached: true
   - title: "Privacy watchdog to investigate Bunnings and Kmart over use of facial recognition technology"
     excerpt: "Information commissioner will look into the personal information handling practices of the retail giants Australia’s privacy watchdog has launched an investigation into retail giants Bunnings and Kmart over their use of facial recognition technology in ..."
-    publishedDateTime: 2022-07-12T07:44:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology"
+    publishedDateTime: 2022-07-12T08:38:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology"
     type: article
@@ -62,6 +92,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/9a05609f7fd6dd90bd561e3a48873c4969a47526/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=19cdec6b2a03d12fcdc6595df42973e0"
         width: 620
         height: 372
+        isCached: true
+  - title: "Face recognition tech sparks investigation"
+    excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores. Kmart and Bunnings will be investigated over their use of the technology which captures images of shopper’s faces and ..."
+    publishedDateTime: 2022-07-12T09:23:00Z
+    webUrl: "https://www.crikey.com.au/2022/07/12/face-recognition-tech-sparks-investigation/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 39
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/f01de6ac-d9ea-4583-a9b6-d0b1d05c9627.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Privacy probe of Bunnings, Kmart use of facial recognition technology"
     excerpt: "The federal Privacy Commissioner is investigating the personal information handling practices of Bunnings and Kmart, focusing on the companies’ use of facial recognition technology used to identify people who had previously been involved in “incidents ..."
@@ -93,7 +137,25 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Introducing Facial Recognition Software for Seals"
+    excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
+    publishedDateTime: 2022-07-08T12:00:00Z
+    webUrl: "https://www.smithsonianmag.com/science-nature/introducing-facial-recognition-software-for-seals-180980349/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
+  - title: "Three arrested in Live Facial Recognition operation in central London"
+    excerpt: "The deployment was clearly signposted and local neighbourhood officers engaged with the public to explain the technology and hand out leaflets"
+    publishedDateTime: 2022-07-08T12:12:00Z
+    webUrl: "https://news.met.police.uk/news/three-arrested-in-live-facial-recognition-operation-in-central-london-450931"
+    type: article
+    provider:
+      name: Metropolitan Police Service
+      domain: police.uk
+    quality: 19
 
-secured: "WU2QRqEso/wurSW+Npx0EesbqAiUQznpJfCo9NvZTgVu6bexr9uyU61NUwwUPpxCB/tK/0XWCu79scRtKF4PxAznH4dFp70951QcW/rg93AzHzv6lU2fW/LnoS19GF0BrnKK3ATQ8dJrmzCSezEHAqVncvNSe6nuaKFCA/ggo2JZHIIRpAGrWLL9YND/qcDgRrQ54cYcOYN2jB+4XQanouUSBZVSjagQ/+WqVLaktaf6apJvx5OsYbj6yX60ARv4tr09D1TIVqZi811/GM1JtxM6DRSN8DJgntCkLER4WGCR72+bqZ/MYkcZu/4ovZ81fWb3zgodH3e8LxVcekHaf5+iJKmcsJpzbipeV5dJ8VXK6Rm9Zda1mRT6vhwHAtDvObktiBYLJC3phDyXzU6G9CY0MMu2Tbu0nSV7KTTEugTsy6YxVh/kDXHC0yVq/L5mSN/32dxVZL67xKOrSadqG0hwlbqQeu9dlKT/9E95XVyLxwqqJyF/sj/Ryx3UIoHdTE5fd4Kscy0bzh9qPgMVow==;4vOVjUPnqtYmBqp226O1pw=="
+secured: "LNXXNpHU+RPKtI24tP95WM44pgL79XkXhV6YypWu0+zF6CCPXXPEd3151NLjbnlb4641sdafKLNb+SQMGBJKvZZLDsFpgKTGjRgBvPNTD7UX0qNy7p2Rk7FV3WIPXmifF6gO2WluHvSXyx6lvJW60beyAixVVxXomYBzazRagjb8Ey5E9Ap5miEPyt3PE7r/R7mx1UJEDWcZ3OOdeaCeXVxc5t3hYAgZ5yCYZnaRqJf5g48tuOHpmHB/JEMif/o9N0/iKXtgmCtPpZUvmZA1Gn6Nd8TUamhML6PFk22WzW2hHNhTw9nrANT5XwLbsK+uh6pFu37ttgUMjd1lIzKJnRLZ0ke19ac8KVmFe4mN6BUTxrz7lhU2uhsUJyXDPvtI4PHhweD/TP3wXFcy0xZHvHtszURZ6jwpFHqTQDhXEf7FtUVfGUAsXELoPLd7QF4Qu0UVyoxcXNW2WKLiQIFRm4FW2RNvh2dBrnJsYeR/EAtToJmL7Cdyg1l03wiFw1wwZrvpRoExZc5LjhVffgc4UA==;54wqeOHK1aj7OBRArSgqbA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ifsecglobal.com/control-rooms/global-control-room-market
 cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 15
+  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
+    publishedDateTime: 2022-07-12T11:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "i5hD6/XlW2FR4tDrGvsvODjDJrDt4/UGd3HVleK8vVJntjihvwYNQC2D65KkzRJN+G2ypGyiKXIO4S3nz6TyyqmyfhvVCdEXzKbHTnCpsH+t5R33QjsqR5C9ODvtK3SUNhom3S4SRengtk73TjY4mK/qKHG6wqalYciDirsv+Luc7so3BWQSqrJZuGZRNT/9qslg0OQOVlBRZ9SH8AjKULJFa38fyf3WG72hPtzMar9XOQHlVVTFu2AcIcgpez3ZGjU/If1Bce2J55TH0+E00aleguZ/yvfubMSyKdhNnvvdAhB4beRxy2BtUwjYCmYYo7/qVJGUngsf9pWPTluQ74GEbivlMOW5+TlIt3nPkBY=;l4HTxzvhmWCrzUkea6MDmQ=="
 ---

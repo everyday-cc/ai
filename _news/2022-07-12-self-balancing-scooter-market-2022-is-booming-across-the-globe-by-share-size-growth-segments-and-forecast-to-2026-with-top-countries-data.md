@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
+    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
+    publishedDateTime: 2022-07-12T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-07-11T06:23:00Z

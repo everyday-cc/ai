@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "3 Discounted Fintech Stocks To Buy Now and Never Sell"
+    excerpt: "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,"
+    publishedDateTime: 2022-07-11T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "FinTech Global Again Recognizes Earnix as Top AIFinTech100"
+    excerpt: "Earnix, a global provider of real-time AI-driven rating, dynamic pricing, product personalization, and fully operationalized telematics solutions for Insurance and Banking, today announced that it has been named in the 2022 AIFinTech100 list by FinTech Global."
+    publishedDateTime: 2022-07-12T07:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-tel-aviv-artificial-intelligence-d63a4de9337d4ba3872c23129c9b3518"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS to double down on investments in specialist programs to help startups scale; bullish on fintech, healthtech, gaming, Web, SaaS"
     excerpt: "Gaurav Arora, Director and Head of Startup Businesses for Asia Pacific and Japan, AWS said the global cloud providers continued investments in specialist teams and programs will enable startups to grow by leveraging the deep,"
     publishedDateTime: 2022-07-10T16:10:00Z
@@ -41,6 +66,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Europe’s Next 10 Fintech Unicorns"
+    excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
+    publishedDateTime: 2022-07-08T05:00:00Z
+    webUrl: "https://fintechnews.ch/fintech/europes-next-10-fintech-unicorns/53783/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/07/Europes-Next-10-Fintech-Unicorns.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "The best paying UK jobs in fintech"
     excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
     publishedDateTime: 2022-07-08T09:23:00Z
@@ -55,6 +94,38 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Fintech firm unveils Melbourne office"
+    excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
+    publishedDateTime: 2022-07-11T16:15:00Z
+    webUrl: "https://international-adviser.com/fintech-firm-unveils-melbourne-office/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 24
+    images:
+      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/Melbourne-Australia-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "How fintech can boost access for the older generation"
+    excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
+    publishedDateTime: 2022-07-08T12:47:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 4
+  - title: "Global fintech Smart expands pension offering to Australia"
+    excerpt: "Smart technology powers UK Smart Pension, a digitally led pension and retirement scheme setup for employers. The Australian business will operate under the Smart brand and provide its fintech offerings locally."
+    publishedDateTime: 2022-07-12T01:29:00Z
+    webUrl: "https://www.financialstandard.com.au/news/global-fintech-smart-expands-pension-offering-to-australia-179795890"
+    type: article
+    provider:
+      name: Financial Standard
+      domain: financialstandard.com.au
+    quality: 4
   - title: "Where investors see fintech opportunities during a downturn"
     excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."
     publishedDateTime: 2022-07-11T17:20:00Z
@@ -64,6 +135,15 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 4
+  - title: "Ewallet Rebrands As E& Money, A Financial Super App Set To Transform The Fintech Space"
+    excerpt: "Transformation from a digital wallet to a tech-driven fintech company under e& life, from e&, with its own financial super app marketplace"
+    publishedDateTime: 2022-07-09T13:03:00Z
+    webUrl: "https://menafn.com/1104505596/Ewallet-Rebrands-As-E-Money-A-Financial-Super-App-Set-To-Transform-The-Fintech-Space"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "wNQIAPyZuBdFBGh0YVRJ399kCjiyS7+uB1oyJfnxb59E04jPakPxzToqj/nLXkt11Dh63ihq8jy0gtnR6WWe8id9NmT+32ue4QsF74eHCNevP1jg65ZQd/Fhg2HkoZvzA3qOVCu04v4i2kM6jQZdsjnlbc3RQoDcItvHMkdnnAgoA8YhYOv71gNg5OM4RMbfetykGecFNMKR2+m9PaLpuVq3RvZl+LYi57xLhCOvrHMwIjoQtdM2ZnNHwIke9t/na7amdssE9AUu6eiDGcjpP1T4SMct+pbKYrgDJqvUXMtbqcAfBFcZgu3K3eL8DU/qqpzjeDxcLuAttlyDvjTDLeLTZV8y95Z/AYqNLUigRJcob5T80uNxRTBwraLgrOVmalvVGVDsoZqzNQJjCDiOuIDGdUoeEXzENpF/aFBTmR4njfmOBUOytPS5w8a5M5JvHjzImKGDK254UwsJxyRbVX6C7uo5qxun9E06k5YiML2qFl5nwDgFO28nELXvzjSkiAkrSwXv7euGSFMJOMU3ww==;TJ5zN7DnGtgVn6vXGmKn0g=="
 ---

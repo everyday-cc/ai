@@ -48,6 +48,20 @@ related:
         width: 412
         height: 250
         isCached: true
+  - title: "The IRS is using artificial intelligence"
+    excerpt: "The IRS revealed a new artificial intelligence system to reduce wait times to resolve simple tasks, and improve customer service."
+    publishedDateTime: 2022-07-09T12:00:00Z
+    webUrl: "https://www.therogersvillereview.com/business/article_c0b563bc-fc92-11ec-864e-a34cdefa83f6.html"
+    type: article
+    provider:
+      name: The Rogersville Review
+      domain: therogersvillereview.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/therogersvillereview.com/content/tncms/assets/v3/editorial/3/0f/30f697ea-663e-57b7-856d-a786fd07a18b/5f7c8ea893879.image.jpg?crop=549%2C371%2C866%2C150&resize=400%2C270&order=crop%2Cresize"
+        width: 400
+        height: 270
+        isCached: true
 
 secured: "x69nGoiXMI+kKjP4vITDPmps57SHWvlHKqCT0ANYPYgvN9Sg75DKG7E/PORhpyGPt5+PMBPk6gZr4d2PUpqjkSoXZdsu1eIu1KHcHtHOz6Ux7OxxKkCoO8Kf63FEcBaQkGyjCZT2Ajz0DnlHERYJPo3kk5O67IvZTP7LrkJiXEO92OH0Il/rc0z85cAchd/ppoB1FZRevxqApox3jQEI7E3NQZ5IQOKD1xF0ifvRenwIgUJZL1/NNq95Z7l8cbOpNTRUjdJviKO26rtZ+Zwio5s5Gn0wT83CBnIYFbaFSaOK+18WZFqS4Qeb5exHhrFKw+2FF8OqgMPbVStu84xuDryJ/hswUR7wT3hmQtd63/v4tIjoeDqIT1Yi1vxVmcBjKwYruVmCzyuTiAKrt3bQ35e9ovyohoaX25aYnYDIz/Rqe16J77hsPlCQfvG3quVn0lEmiphdGm/moP0AVoyCGlw4kNQMJQWPi1JOU1SyQ0UNK+6xq7KYPtRD8EQkDTz8/hcP2UwWsTQwBrx63/TqmQ==;1ND+Rtn021iTanrdoeFeVQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg"
         width: 2240
         height: 1260
+        isCached: true
+  - title: "Indian classical dancer blends Artificial Intelligence into her choreography"
+    excerpt: "Irena Mohini Mihalkovich introduces ich talks about the introduction of technology in to art in her new latest composition, ‘Runtime Error’ , that uses AI to depict the psyche of a traumatised woman"
+    publishedDateTime: 2022-07-12T10:00:00Z
+    webUrl: "https://www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece"
+    ampWebUrl: "https://www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/a00vza/article65609196.ece/alternates/LANDSCAPE_615/PHOTO-2022-07-06-16-17-09.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "Nokia launches 5G and robotics research hub in India"
     excerpt: "Finnish kit vendor Nokia will launch a Centre of Excellence for Networked Robotics in India to promote research in robotics, 5G and AI for ‘socially relevant use cases‘."

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
+    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
+    publishedDateTime: 2022-07-12T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-balancing Scooter Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
     excerpt: "The global Self-balancing Scooter market is segmented by Types (Two-wheeled Self-balancing Scooter, Unicycle Self-balancing Scooter) and b"
     publishedDateTime: 2022-07-12T02:30:00Z

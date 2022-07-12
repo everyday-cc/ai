@@ -41,22 +41,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Meta’s Going After a Universal Translator. Its AI Now Works for 200 Languages"
-    excerpt: "Meta's translator is some of the most extensive work that’s been done in the field, particularly with low-resource languages."
-    publishedDateTime: 2022-07-07T17:38:00Z
-    webUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/"
-    ampWebUrl: "https://singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/07/metas-going-after-a-universal-translator-its-ai-now-works-for-200-languages/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 56
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/07/universal-translator-hands-on-phone.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Meta’s AI helps break language barriers"
     excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia"
     publishedDateTime: 2022-07-08T08:52:00Z

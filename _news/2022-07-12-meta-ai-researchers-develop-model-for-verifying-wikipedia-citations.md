@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verif
 webUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-3.png"
         width: 848
         height: 478
+        isCached: true
+  - title: "Meta launches AI tool that can improve accuracy of Wikipedia citations"
+    excerpt: "Meta said its AI model can automatically verify hundreds of thousands of Wikipedia citations at once. Researchers at Meta have made a new open-source AI tool that can scan a massive amount of encyclopedia citations at once,"
+    publishedDateTime: 2022-07-12T11:23:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-sphere-wikipedia"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/AdobeStock_466308370_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "toZgF7bloFHnonaEAqH3wjHkAAWdLadMujFkgM8TgWFU6EnWV4LTuDRJF+68WlK1+Gp+KtjgCHqXSnLZnzTXElDzr/7Qm5NfL3HTjSMhIy6nmbWqXL2il2f6UJ4B5bEXicKcX1kApNsV6cnT3mccs5ugu3c6zJlKd1AGyN/cQsx24LKi6B4WYo7bzr6iJm2bV5y1zcUVOKNW/Wcltq0v4BuAgVrmJkyDgqhLEVQURCYtB1nRZijGYv6h+RgxfyuYLdmLpWKmKXkI2dgrwrMEa2Av+Y+BHR0NBMrg2sxLUKEfmQY1yJEnOBEBvouWJO7SupnT+tgGlkfIdoCnIfP73XCgmh7dHjpivuycD4TJY/KBb1aOPC/YTXy1JtsSVAWTK3sSNzSIEe1lzkuqApKXLt2OfqWCEdO66X/0Z0wpBmEg+TIxxS9viG/RKZ3qKII4NwO8qKq9dHjiAm0J5tOblITXNBL1GnIITOsitgzV/PcXyCjaHL7YYtQYmuTn8mFvVB7HZ+p2JeziLs6F/9Majg==;Q2+CzFwtZQB6RXQi8LOztg=="

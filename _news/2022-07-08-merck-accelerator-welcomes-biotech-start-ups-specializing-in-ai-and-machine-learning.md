@@ -3,8 +3,8 @@ category: news
 title: "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning"
 excerpt: "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development."
 publishedDateTime: 2022-07-08T08:53:00Z
-originalUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus"
-webUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus"
+originalUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus?aca_news_section=Global+Industry+News"
+webUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus?aca_news_section=Global+Industry+News"
 type: article
 quality: 49
 heat: 49
@@ -25,6 +25,6 @@ images:
     height: 443
     isCached: true
 
-secured: "8n/81dfvSH0QUvqjN3rGgXBHduatM/sbWn5BuH143J1i/+w7aq3BDCytzjbNVxerD3Yk5gs7IJdLgBSVB+GyVe2kbeYgbZ89y/NR4y6ySBfQ+habzFnOTL9Vv4YsTC8yutWBldgX+auPfOS2E1Z2w9Rj2tEUyfsvkwQRWmFN7+O/D09CRq2yVotu64qLLylVwWx8oZ4g7V/kYLhRl0pRYHEpzMN1S9mG1EUnFp1V1OPmCi0G+OuaoRYPkXC2qtWpUjotl0JeuqB0lJl4A7kMhp9kQ+o5DpjMMHCTEhUzFPuc1uJMpziALGwsv3NHU558NaBU+/7JQFrVkIKz5RTRV1LonD9r9IcKvMRXtnQeqFU=;XBelve7zuC3FVUk4cB8zuQ=="
+secured: "kUUvYgcNWZWXTPJZXuwaX2YsDWn5uaOUNF+SIqLlJN/yZAPjLJ3BgdQSTUDwrZ/dEWsN32LmxNQiajKyDJFrs+h3Yx5QVYGQvWVfXynnsOx6auSLq9RVItvjRmV1hT8vCZWHE3riIm89KYeEHGFg1fr+59qhgVJcld7N/8QP1RxN8OZzmpLKVJch3xcuGUZNFT4cr6XisJvje4rtM3vgFB7GUARO7kZ7sdD0GTXIqfkvzvPvk4/WoimNuD47vv4u1tVOC5DHthKsgtjL0DuiX6jh6FDB1LKWP+otq2rWP1pMMGZqhy2e6pMV7BuziHdvaIgD7l7HBy+ZSf7K7rWavKVjL/zuxmNHbskR1X4rhAI=;lL8XmfiQdXuy4R2fgerFjQ=="
 ---
 
