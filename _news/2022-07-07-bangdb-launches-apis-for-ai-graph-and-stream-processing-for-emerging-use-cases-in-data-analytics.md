@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-ap
 webUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-apis-for-ai-graph-and-stream-processing-for-emerging-use-cases-in-data-analytics-1031573216"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "radicant, Squirro Announce Partnership in Field of AI to Leverage Data-based Analytics"
-    excerpt: "The integration of tech “enables radicant to automate decision-making processes and improve customer understanding and service quality.” The Swiss tech company Squirro links and “analyzes data to provide new insights as a basis for decision-making."
-    publishedDateTime: 2022-07-09T17:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193384-radicant-squirro-announce-partnership-in-field-of-ai-to-leverage-data-based-analytics/"
+  - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
+    excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
+    publishedDateTime: 2022-07-11T23:17:00Z
+    webUrl: "https://www.datanami.com/2022/07/11/how-intuit-is-building-ai-analytics-and-streaming-on-one-lakehouse/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/Intuit_shutterstock_Tada-Images.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "yeBUqbUa28WPQ3iLKqbcp1H7FtdCnRtLBDYx7VF8dZ00SM8B937J1WsLt57QvW5Wpne+iT4bP/dQOzJKlAiK4NwERSk91cwpGepC3jpZkk71DPrMGaTZJfMmNgSuIDDr+y38KcSkPKdja2UXSvTXlXbhEmGxg78oMlthAKh3r8j6yjFUakhLBYz16JLssUEi328jKaYStUqLz+YZDwpls3Cq4GMQTdCNWezed2s9T5M/FQtxsXI9DxNh5DJUFoPGdkqWljeNOi2BLeNV4GO9aYP9RS43nQbgkbg6PXTnGx5W2F8vAfOY4kr3/y6QFroUGqveiwcPHL4YrdY0R1yFxFVg+4PkOxhWSNCiOhoN/Lr8JuwiB08/98piy5UCnxmwINQivv9wb5dH9rCvknRDskPWd2ADqeFHKi2EiwdTw/T0rEJw8pOrNuD7d5pEQ7jH2f8tx+jxnTlTkKaEXPKmIsGSckaIYPWj01oS+NRMWo3wWwgVodS01nbpDJuouewXobNOgflfRfJmIwk2IUAefg==;TFjc5cYKHDcLj4f7jCLNPg=="

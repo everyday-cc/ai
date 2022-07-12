@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/scientist-fears-shes-opened-pa
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/scientist-fears-shes-opened-pandoras-27449673.amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Sun
       domain: thesun.co.uk
-    quality: 49
+    quality: 51
     images:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/me-off-plat-al-robots-expression.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920

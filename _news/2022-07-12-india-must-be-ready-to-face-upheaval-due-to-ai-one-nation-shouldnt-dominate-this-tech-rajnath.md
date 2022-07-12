@@ -1,29 +1,27 @@
 ---
 category: news
-title: "India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh"
-excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
-publishedDateTime: 2022-07-11T06:55:00Z
-originalUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495"
-webUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495"
-ampWebUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495/amp/1"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495/amp/1"
+title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
+excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+publishedDateTime: 2022-07-11T21:35:00Z
+originalUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
+webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
 type: article
-quality: 53
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: Daily Excelsior
+  domain: dailyexcelsior.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://c.ndtvimg.com/2022-07/rnbsvuao_rajnath-singh-pti_625x300_11_July_22.jpg"
-    width: 650
-    height: 400
+  - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -74,6 +72,22 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh"
+    excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
+    publishedDateTime: 2022-07-11T06:55:00Z
+    webUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495"
+    ampWebUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 53
+    images:
+      - url: "https://c.ndtvimg.com/2022-07/rnbsvuao_rajnath-singh-pti_625x300_11_July_22.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "'India Believes World Is A Family, Developing AI For Humanity's Progress': Rajnath Singh"
     excerpt: "Singh, who was speaking at the symposium on 'Artificial Intelligence in Defence' in Delhi, addressed several factors concerning the use of AI and its future."
@@ -179,20 +193,6 @@ related:
         width: 660
         height: 486
         isCached: true
-  - title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
-    excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
-    publishedDateTime: 2022-07-11T21:35:00Z
-    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 26
-    images:
-      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Rajnath Singh calls for tapping AI potential in defence sector"
     excerpt: "An Artificial Intelligence exhibition was organised which provided an opportunity for innovators to display their capabilities, products and state-of-the-art technologies"
     publishedDateTime: 2022-07-11T11:53:00Z
@@ -212,6 +212,6 @@ related:
       domain: livemint.com
     quality: 17
 
-secured: "u/HL6W5dTkxm6W/pNSS+6A/BqikRQ3tl68GcIuwbpc1D3jYIOAtv/iBy0T7v3JiX6lVHZiEkEw9FyxtXSWpQbKdXY29FG/OHQ1FyMGlQputOItGfvNIffoqd0OL/j0Q/q7gi0+9LHzHfu2zbs4Rsm1F+8Ax2MB5LnNx0f/oIbWuxoW9tw99Rep1cLBO1WkTq1KOVazRgBtXUou972DcXjdSdxYl5ngpKUdkVbI6gAw7yzsBXNRtetCpMJWchKpnQ+QDv2BVhLf8S8kBohf3rR0dqNDYzCO5+BtmiVTARAgLrR27j57bCx1tPrMTIduVSJ5tcszVc69mOvbGC3oduH/byHWHkx4S8fUAhGDPp+io=;0/TUMw5wt4GWx2cCBnQWEA=="
+secured: "yKLA0LNeWabtS6DFD7gM3+xzXLE5C1IjayZZrOxQY9ipXxqwWDxBW0cGwhxJFtn6jxv3ng3RoJ6ZeIyejhzYU6Mytk1Vwx/VqJKvE2/ApAJQN36OWGX9nkLtgWVqAxft3pYw+xa+G5f+Fxp5S5fAf7wbCmDnku/8ZAdqbx4VtVu3mXAnzABgqfvOEqxJ6k4r0H9cj7PvT8gGvqD254HRjJWslDq88QJlckpO6B+Cdr5KuS1+xHqnNfNjFqYvWgcIM7fu9+OouRHNHBKJOcUmT3stp3MY1/lKGtNtzMEB0QTIjWbY3B3yN4qruM+pptZokSskvnF3gt9mq+AmA6Zy3lykhxQ65RXJ2HyqD5u6lZo=;hciHpNI8LdYvdOUXYQ1+4Q=="
 ---
 

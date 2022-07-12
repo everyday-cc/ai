@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-i
 webUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: The Next Web
@@ -29,31 +29,54 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft backs off facial recognition analysis, but big questions remain"
-    excerpt: "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t."
-    publishedDateTime: 2022-07-07T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html"
-    ampWebUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Strange Animals Out"
+    excerpt: "A smart pet door from Petvation that uses facial recognition software and machine learning to let your pets in and out is headed to production."
+    publishedDateTime: 2022-07-09T15:46:00Z
+    webUrl: "https://futurism.com/the-byte/smart-pet-door-facial-recognition"
+    ampWebUrl: "https://futurism.com/smart-pet-door-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/smart-pet-door-facial-recognition/amp"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 92
+      name: Futurism
+      domain: futurism.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://wp-assets.futurism.com/2022/07/smart-pet-door-facial-recognition-600x315.png"
+        width: 600
+        height: 315
         isCached: true
-  - title: "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "The data activation company recognized out of over 3,900 nominations across more than 125 countries SAM RAMON, Calif., July 7, 2022 /PRNewswire/ -- WANdisco, the data activation company"
-    publishedDateTime: 2022-07-07T13:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56498219-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-008.htm"
+  - title: "Airport facial recognition is improving, DHS watchdog says"
+    excerpt: "Customs and Border Protection removed officers’ abilities to override mismatches for facial recognition technology as part of a bid to improve its facial biometric program, according to a new Inspector General report."
+    publishedDateTime: 2022-07-11T20:01:00Z
+    webUrl: "https://fcw.com/digital-government/2022/07/airport-facial-recognition-improving-dhs-watchdog-says/374078/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 23
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 54
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/07/11/071122_getty_fcw_cbp_fr/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Should we be worried about real-time facial recognition systems?"
+    excerpt: "Real-time facial recognition systems offer both benefits and drawbacks that must be considered as the technology becomes more widely adopted."
+    publishedDateTime: 2022-07-09T13:40:00Z
+    webUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "OIG: CBP Complied with Facial Recognition Policies to Identify International Travelers at Airports"
+    excerpt: "CBP officers referred approximately 23,000 travelers aged 14 years and older to secondary inspection for further verification. Between May 2019 and September 2021, CBP officers referred approximately 23,"
+    publishedDateTime: 2022-07-09T12:29:00Z
+    webUrl: "https://www.hstoday.us/cbp/oig-cbp-complied-with-facial-recognition-policies-to-identify-international-travelers-at-airports/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 20
   - title: "Introducing Facial Recognition Software for Seals"
     excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
     publishedDateTime: 2022-07-08T12:00:00Z
@@ -62,6 +85,15 @@ related:
     provider:
       name: Smithsonian Magazine
       domain: smithsonianmag.com
+    quality: 19
+  - title: "Three arrested in Live Facial Recognition operation in central London"
+    excerpt: "The deployment was clearly signposted and local neighbourhood officers engaged with the public to explain the technology and hand out leaflets"
+    publishedDateTime: 2022-07-08T12:12:00Z
+    webUrl: "https://news.met.police.uk/news/three-arrested-in-live-facial-recognition-operation-in-central-london-450931"
+    type: article
+    provider:
+      name: Metropolitan Police Service
+      domain: police.uk
     quality: 19
 
 secured: "fgd1PBAsovP291kn6gw0ykfV4Rowci4CeYQwwUn7BjdJrBsu/FtEA8dDg3jFOXX474RcWMbDTWAlFIsVcY/lIa+emjmgr4S7TqE2UaZns9/Ec5Chvfezle2pqlg+rV6UoVHjMpYGdqpD+f62g1/7/eW9Vr5Vx2GpIwEpsRIofoOtvKC48BzubTzkPf84bBr1RhH4QUgcpG0l2IiPGMC5yQqg2AjFuGplpwzDPOhZeP/iqjYy1Mv+Fz9cJ9qIwnUnkNUYWB0rx0tucb9GRwMOCirw5e0+dwf1nlef39N2Q8J2aiUT7kCDlGl/yG1tdV/8VD/rBI7QYqok+WEt1nL9fYE8Gfc8IgvYxBH2j7ZhXqNIXbBeqNLz6Dj9RDZ2i0KyCmCZjzD6f8GFk2Fbkgwc32EuACCE0v9MQNJV+96aVH9dOlebGE3qeZGd/juSg+Wdo0tOKjhxk1JlI47EuxQNpMzGL6SmTLMr9/XteZEvcNoclsmSBK//BS+dsBQ1leTX9ZV+I1p0HLLeG5Gs7hbt+Q==;L0nqhs3g67G2aSPIinwu9w=="

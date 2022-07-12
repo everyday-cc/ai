@@ -27,8 +27,8 @@ images:
 related:
   - title: "Autonomous Vehicles Emerging as Avenue of Specialization in Big Law"
     excerpt: "Though driverless technology remains nascent ... And amid rapid advancements in artificial intelligence, sensors, chips and data storage, the autonomous vehicles sector is set to “be ..."
-    publishedDateTime: 2022-07-08T19:42:00Z
-    webUrl: "https://www.law.com/therecorder/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
+    publishedDateTime: 2022-07-09T00:43:00Z
+    webUrl: "https://www.law.com/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
     type: article
     provider:
       name: Law

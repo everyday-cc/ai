@@ -51,7 +51,7 @@ related:
     provider:
       name: Mobility Techzone
       domain: mobilitytechzone.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
         width: 1577

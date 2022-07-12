@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooti
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html"
 type: article
 quality: 85
-heat: 107
+heat: 105
 published: true
 
 provider:

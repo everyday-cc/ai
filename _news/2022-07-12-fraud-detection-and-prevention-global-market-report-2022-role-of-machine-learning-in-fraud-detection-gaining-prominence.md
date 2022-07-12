@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-11T20:27:00Z
 originalUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
 webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: mobilitytechzone.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
@@ -58,6 +59,6 @@ related:
         height: 710
         isCached: true
 
-secured: "j2XsJWoUW6GCD2ydnoTSR0c1ldt3L4Qm6hqMwE0arUohgK4Qzv4MdCsxahHVyD+OyVBisOWrnb4tcWKIBgzaKqouI9AFHuK8qNlmRc+uryXL7djEmwIREHD5RR//Fz85QWO2CnitY5c10UOqbZC0H2/ZD9P7WgEJTmpJFNbSpeLgDR39EAlQ2XUjj2cdR/yqJrORUQ8YCd6RoUI3+jICKNdqwfOltmdtSzU5uQ9fHwGoAnRIT1QV51BtVzauk5UXFPqezUTUtaYrTC3UpcoBzOXlNZjoEJWeyMV2e9w0A4B+xlY5JXN1ZHePEFgb0qFBYVsQV5BEJMCW4hcd3z8Jh952ZgpUrFR94vZW4bfj3Dk=;Uz/UNcEjrWJl6fZzwtFP2g=="
+secured: "+lMx4Vv6R0/2Hqu+VhJsPwE6gM2gZoR7/CsqAam5JAm1sg8Mj5haPtXENc+JL0GbHDBcdbdFIQS7pb12jr+SSrWrSMWOzvC8oqiwA0+s/1wXcdZ8Oqv2NsZhye1cYRqUC8mHjXxTelBTFYZbXr0J8VTJz3m0gFyPhDlYPQrOFYzTfhLALW56Gy95MjxIMfEcgnFM/ir0iwvINUpOZKcSLp3rxUDBK057nlIF39iMp72BdKgGQdiogM1Kyd4Y52qoXhHxGeQBpri0+ExBYEbNJ+kJ27ed2hq/1TtcUk5awBwj+RZsQRHZA4Uejy9/8HSJnKZlezshesJgCvKIxntmFZFfvCi09OAO3g7yFYmElSA=;CIRXoIuSkaOop9s4k7Ki1A=="
 ---
 

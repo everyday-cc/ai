@@ -8,8 +8,8 @@ webUrl: "https://www.thesun.co.uk/tech/19167004/ai-bot-paper-experts-pandora-box
 ampWebUrl: "https://www.thesun.co.uk/tech/19167004/ai-bot-paper-experts-pandora-box/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19167004/ai-bot-paper-experts-pandora-box/amp/"
 type: article
-quality: 49
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/me-off-plat-al-robots-expression.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"

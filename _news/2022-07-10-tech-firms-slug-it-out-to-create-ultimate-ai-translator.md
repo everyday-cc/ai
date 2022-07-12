@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech firms slug it out to create ultimate AI translator"
-    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,"
-    publishedDateTime: 2022-07-07T05:43:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator"
-    ampWebUrl: "https://dunyanews.tv/amp/english/658931.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "How To Fight Climate Change Using AI"
     excerpt: "AI is a game-changing critical enabler that has the potential to speed up humanity's race against climate change. With AI, we have a chance to build a more resilient future for us all. AI can help reducing emissions,"
     publishedDateTime: 2022-07-08T12:47:00Z
@@ -50,19 +34,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Meta claims its AI has cracked translation"
-    excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
-    publishedDateTime: 2022-07-11T09:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55123-meta-claims-its-ai-has-cracked-translation"
+  - title: "How Artificial Intelligence helps fight climate change"
+    excerpt: "A new report by an international body into Ecological Footprint Initiative, Planet Alliance in collaboration with Boston Consulting Group (BCG) and BCG GAMMA, on artificial intelligence, AI, has revealed that it can help address issues of climate change."
+    publishedDateTime: 2022-07-08T07:52:00Z
+    webUrl: "https://www.vanguardngr.com/2022/07/how-artificial-intelligence-helps-fight-climate-change/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 41
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 37
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f12bd2a0811183bf2359ca3dc07974ee_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
         isCached: true
 
 secured: "x69nGoiXMI+kKjP4vITDPmps57SHWvlHKqCT0ANYPYgvN9Sg75DKG7E/PORhpyGPt5+PMBPk6gZr4d2PUpqjkSoXZdsu1eIu1KHcHtHOz6Ux7OxxKkCoO8Kf63FEcBaQkGyjCZT2Ajz0DnlHERYJPo3kk5O67IvZTP7LrkJiXEO92OH0Il/rc0z85cAchd/ppoB1FZRevxqApox3jQEI7E3NQZ5IQOKD1xF0ifvRenwIgUJZL1/NNq95Z7l8cbOpNTRUjdJviKO26rtZ+Zwio5s5Gn0wT83CBnIYFbaFSaOK+18WZFqS4Qeb5exHhrFKw+2FF8OqgMPbVStu84xuDryJ/hswUR7wT3hmQtd63/v4tIjoeDqIT1Yi1vxVmcBjKwYruVmCzyuTiAKrt3bQ35e9ovyohoaX25aYnYDIz/Rqe16J77hsPlCQfvG3quVn0lEmiphdGm/moP0AVoyCGlw4kNQMJQWPi1JOU1SyQ0UNK+6xq7KYPtRD8EQkDTz8/hcP2UwWsTQwBrx63/TqmQ==;1ND+Rtn021iTanrdoeFeVQ=="

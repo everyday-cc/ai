@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof"
-    excerpt: "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof."
-    publishedDateTime: 2022-07-07T06:13:00Z
-    webUrl: "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/"
-    ampWebUrl: "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg"
-        width: 690
-        height: 399
-        isCached: true
   - title: "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here"
     excerpt: "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle."
     publishedDateTime: 2022-07-07T07:31:00Z

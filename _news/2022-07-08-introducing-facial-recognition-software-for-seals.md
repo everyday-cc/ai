@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft backs off facial recognition analysis, but big questions remain"
-    excerpt: "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t."
-    publishedDateTime: 2022-07-07T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html"
-    ampWebUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 92
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why ‘facial expression recognition’ AI is a total scam"
     excerpt: "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam."
     publishedDateTime: 2022-07-07T22:10:00Z
@@ -49,15 +33,63 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "The data activation company recognized out of over 3,900 nominations across more than 125 countries SAM RAMON, Calif., July 7, 2022 /PRNewswire/ -- WANdisco, the data activation company"
-    publishedDateTime: 2022-07-07T13:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56498219-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-008.htm"
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Strange Animals Out"
+    excerpt: "A smart pet door from Petvation that uses facial recognition software and machine learning to let your pets in and out is headed to production."
+    publishedDateTime: 2022-07-09T15:46:00Z
+    webUrl: "https://futurism.com/the-byte/smart-pet-door-facial-recognition"
+    ampWebUrl: "https://futurism.com/smart-pet-door-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/smart-pet-door-facial-recognition/amp"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 23
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/07/smart-pet-door-facial-recognition-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Airport facial recognition is improving, DHS watchdog says"
+    excerpt: "Customs and Border Protection removed officers’ abilities to override mismatches for facial recognition technology as part of a bid to improve its facial biometric program, according to a new Inspector General report."
+    publishedDateTime: 2022-07-11T20:01:00Z
+    webUrl: "https://fcw.com/digital-government/2022/07/airport-facial-recognition-improving-dhs-watchdog-says/374078/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 54
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/07/11/071122_getty_fcw_cbp_fr/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Should we be worried about real-time facial recognition systems?"
+    excerpt: "Real-time facial recognition systems offer both benefits and drawbacks that must be considered as the technology becomes more widely adopted."
+    publishedDateTime: 2022-07-09T13:40:00Z
+    webUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "OIG: CBP Complied with Facial Recognition Policies to Identify International Travelers at Airports"
+    excerpt: "CBP officers referred approximately 23,000 travelers aged 14 years and older to secondary inspection for further verification. Between May 2019 and September 2021, CBP officers referred approximately 23,"
+    publishedDateTime: 2022-07-09T12:29:00Z
+    webUrl: "https://www.hstoday.us/cbp/oig-cbp-complied-with-facial-recognition-policies-to-identify-international-travelers-at-airports/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 20
+  - title: "Three arrested in Live Facial Recognition operation in central London"
+    excerpt: "The deployment was clearly signposted and local neighbourhood officers engaged with the public to explain the technology and hand out leaflets"
+    publishedDateTime: 2022-07-08T12:12:00Z
+    webUrl: "https://news.met.police.uk/news/three-arrested-in-live-facial-recognition-operation-in-central-london-450931"
+    type: article
+    provider:
+      name: Metropolitan Police Service
+      domain: police.uk
+    quality: 19
 
 secured: "neyNwAtwe2Q69+b/S85Z8uxt4Ug/fwub4DIVdWynT4TFGT5NYM40ugfUsmZhGIolB+gRe4HQWWpK2o/jRLsOZaO6av+63WfG6EoBmCsfoysU93IodyGxUVPN68QETbn0HCAAt/UDV7C3C+Yu8bYEfpHTMSHujxIp4L0IrJ+KrfCvGSOWuFEgV21914b1wkPKChpok1rJn7S5wZwAJlm4jXemwynEruoEYIAgDj4iB/bSUnpwRMzs3HhFMtfA48AiLPtBnT0/WqUq8S3lW6b26RPwLy0pKkWXfWoGl4WtDoyyDD2119Pl9Kqip+ONOFD9pdLOzOCA4zwxnbedKt+wYv8jr8P/5sc7pGy0MlMvCjE5RLQMlFx96f7DLXPL7aDTgrZAF3CX5z54VsMeDYJpB8NCdFwd/vuzv2ijZBXAE+YBgub8kbxdrJrXsMSV0kXl0kKb1jvQw3jqeAApP+d5eWaxRQ+G7lSUjpjfkNeGucaP3Krs3N6jMbqe63qo1wjb+Ty1bVNrtRddh0bXGpf2HQ==;+EoHMKpKTAJRLhENxfanOA=="
 ---

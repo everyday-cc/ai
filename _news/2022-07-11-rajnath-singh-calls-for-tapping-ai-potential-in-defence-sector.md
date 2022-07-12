@@ -187,6 +187,20 @@ related:
         width: 660
         height: 486
         isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 26
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "India must be ready to face upheaval due to expansion of AI: Rajnath Singh"
     excerpt: "Defence Minister Rajnath Singh has said that India needs to work on artificial intelligence mechanism 'extremely carefully' and be ready to face the upheaval that may follow with its expansion"
     publishedDateTime: 2022-07-11T12:17:00Z

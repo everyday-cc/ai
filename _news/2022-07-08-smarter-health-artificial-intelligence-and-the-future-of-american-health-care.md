@@ -9,8 +9,8 @@ ampWebUrl: "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intel
 cdnAmpWebUrl: "https://www-krcu-org.cdn.ampproject.org/c/s/www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true"
 type: article
 quality: 55
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: KRCU
@@ -27,43 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based hiring tools can violate Americans with Disabilities Act"
-    excerpt: "Failing to provide a reasonable accommodation necessary for an applicant to be evaluated fairly by an algorithm or AI-based tool; Using a decision-making tool that “screens out"
-    publishedDateTime: 2022-07-07T05:30:00Z
-    webUrl: "https://www.hcamag.com/us/specialization/diversity-inclusion/ai-based-hiring-tools-can-violate-americans-with-disabilities-act/412254"
+  - title: "How AI Can Boost Rural Connectivity & Healthcare"
+    excerpt: "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G."
+    publishedDateTime: 2022-07-07T15:01:00Z
+    webUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/"
     type: article
     provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 37
+      name: Pragativadi
+      domain: pragativadi.com
+    quality: 56
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/035/0305_637927685472024800.png"
-        width: 1000
-        height: 600
+      - url: "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png"
+        width: 748
+        height: 445
         isCached: true
-  - title: "Meet Hucu.ai, a startup that’s like ‘Slack for health care’"
-    excerpt: "A Chicago entrepreneur who’s spent much of his career developing technologies to care for elderly people is at it again with a new startup. With his latest venture, Hucu.ai, Asif Khan has developed a platform for physicians, nurses and caretakers across ..."
-    publishedDateTime: 2022-07-07T16:15:00Z
-    webUrl: "https://www.chicagobusiness.com/health-care/hucuai-startup-thats-slack-health-care"
+  - title: "Startup Astrome Technologies set to Boost Rural Connectivity"
+    excerpt: "With the help of a network solution called GigaMesh, fifteen villages in different parts of the country may soon be connected and ..|News Track"
+    publishedDateTime: 2022-07-08T07:42:00Z
+    webUrl: "https://english.newstracklive.com/news/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/startup-astrome-technologies-set-to-boost-rural-connectivity-sc71-nu349-ta349-1238340-1.html"
     type: article
     provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 37
+      name: News Track
+      domain: newstracklive.com
+    quality: 44
     images:
-      - url: "https://s3-prod.chicagobusiness.com/styles/1200x630/s3/Asif%20Khan.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.newstrack.in/amp/uploads/technology-news/technology-news/Jul/08/big_thumb/5g_62c7d793f2627.PNG"
+        width: 1452
+        height: 900
         isCached: true
-  - title: "North American Startup Funding Fell Further In Q2"
-    excerpt: "Startup financing fell across all stages in the second quarter of 2022, with the drop most extreme at the latest stages."
-    publishedDateTime: 2022-07-07T12:00:00Z
-    webUrl: "https://news.crunchbase.com/quarterly-and-annual-reports/na-startup-funding-declines-q2-2022-monthly-recap/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 2
 
 secured: "VpXB1TTHK1eRVwUcDrB5YajEka/TmgtPBdJSUkJHVji8fXRc498NOi4VLam5RM0gtsmRYWAyc98Ftwx1blN3XV+biZj8sqePsLVHx9+LPvX5C8Lmh/oxvx2o+NTOvBukS/rR79VvoKCi+ZyfCrWrWmaycHaucVX6MrrX+js/LQ7EsAJtwgSk2GbW2GC0cOv0nb97mfO7qnoP84EBC2VgydH5B/qCfWXjtc6FeaZ2acPJ0+aHtFXhUssN024YGN/WpfPBhGr0tHxjzSJLmWcZie7jxatwzIT5E2FlGHLt5WBh4+RP5BXufkdLwbjtIrqSwbWL9stniTe2Z9pA3UHMmk8DWiH+CZpNv0gE7zp4CqoO9PDU8QHYNVm0seSed/1Bnn+D0+DKHnVmMhIuDQii6llxb4WItTa+pMQ/OScym4oXhyG2g2xxq/oPD4BWyjrs/DF7B2nCO686R2U118oTexuI2icdrv14E1gbJgoxKVrKTQGhpJxLI7+IQjUFPrlbgwySXBfiWBWrlWh4JSUZVA==;BLlZVY2WXq2TdNogHMkh+Q=="
 ---

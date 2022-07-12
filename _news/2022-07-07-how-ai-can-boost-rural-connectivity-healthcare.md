@@ -7,8 +7,8 @@ originalUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-health
 webUrl: "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Pragativadi
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI boosts rural connectivity & healthcare"
-    excerpt: "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov"
-    publishedDateTime: 2022-07-07T05:21:00Z
-    webUrl: "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/"
+  - title: "Smarter Health: Artificial Intelligence and the Future of American Health Care"
+    excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change all that?"
+    publishedDateTime: 2022-07-08T15:46:00Z
+    webUrl: "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
+    ampWebUrl: "https://www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true"
+    cdnAmpWebUrl: "https://www-krcu-org.cdn.ampproject.org/c/s/www.krcu.org/news/2022-07-08/smarter-health-artificial-intelligence-and-the-future-of-american-health-care?_amp=true"
     type: article
     provider:
-      name: Odisha Diary
-      domain: orissadiary.com
-    quality: 56
+      name: KRCU
+      domain: krcu.org
+    quality: 55
     images:
-      - url: "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1"
-        width: 624
-        height: 416
+      - url: "https://npr.brightspotcdn.com/79/3a/87132ceb4ab988d758e1f10cd79f/linderpix-wbur-onpoint-6815-web-1000x667-400x267.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Startup Astrome Technologies set to Boost Rural Connectivity"
     excerpt: "With the help of a network solution called GigaMesh, fifteen villages in different parts of the country may soon be connected and ..|News Track"

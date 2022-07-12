@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Soleno Therapeutics Announces Presentation of DCCR Data at the 11th International Prader-Willi Syndrome Organisation Conference"
-excerpt: "Soleno Therapeutics, Inc. (Soleno) (NASDAQ:SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases,"
-publishedDateTime: 2022-07-11T20:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28023601/soleno-therapeutics-announces-presentation-of-dccr-data-at-the-11th-international-prader-willi-syn"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/g28023601/soleno-therapeutics-announces-presentation-of-dccr-data-at-the-11th-international-prader-willi-syn"
+excerpt: "Soleno Therapeutics, Inc. (Soleno) (NASDAQ: SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases, today announced presentations at the 11 th International Prader-Willi Syndrome Organisation (IPWSO) Conference,"
+publishedDateTime: 2022-07-11T22:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636408.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636408.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 640
         isCached: true
 
-secured: "q9iLxCKAyI3uA9vvP0LadjFj4NYlvotKzYvejQf5OYh0PzGL2o2GAOLbo0QHkA3Dfi9Tzc5xDjEub26fjGrM2dkJGY5FvEtYGzGkNLEnbdZwWDeL/sleYAqgFCXNV3uq/zmTn07rmaqf8+F13HqXD4grQtA8gpy+VYUjcf57Wtbdj9VCDXTDiWHon1A8b3j2UpIyMoueg3TS00MOFs9wIyHCY1igs6QcBfDsIaHdMUM3siy6ZYkj6uZ1SGSbzx7ZBpA0kFBhnFx/1IiKQhzmMb87C0kexZG5lHTZv1MO5ZgbcmPsMgYWx0xRiJgpnCdD7FX4A6zclk461wf9/PyH3iX0pOowdb8+j+5i3oWOwFY=;IeHQhr0P2m99Do8gvrwAOg=="
+secured: "xo1AXBStDp2EDMXx670c7+qd+jidGdtpLKFH+JwYpT518jTnC5n9CDLUX+mXlYkoW4md3f0OthQAM9Gpv4/k8pCP4v0pu/fCk7aT4QoW3Q7M5W3i64rsgnBBjvjUZNHBSmJXLAh0vfD6qX8wi3iFmpgS1N0vm793L74dh4kEGx+17gDCvKWqoairqBdwb2dPnPr3v+REvUzGAxULq1bG+qVQnmfurcONyd9JMFWgXb8Q+casw4XL3UPH4eBFXegY8aKgEadIRPeswaSIi5w0YUovPmaix2KCAF/9o42OulzLAKUxX6ZVA+hHDLhlinMFs6IjABdX5ADJCBxtLuI119+AZsJCLcwXiMB03lJ0ELA=;a1VPhW6DGWpck8aG53oIDA=="
 ---
 

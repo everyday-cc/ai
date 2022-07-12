@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56498219-wand
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56498219-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-008.htm"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -17,47 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Microsoft backs off facial recognition analysis, but big questions remain"
-    excerpt: "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t."
-    publishedDateTime: 2022-07-07T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html"
-    ampWebUrl: "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 92
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why ‘facial expression recognition’ AI is a total scam"
-    excerpt: "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam."
-    publishedDateTime: 2022-07-07T22:10:00Z
-    webUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Introducing Facial Recognition Software for Seals"
-    excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
-    publishedDateTime: 2022-07-08T12:00:00Z
-    webUrl: "https://www.smithsonianmag.com/science-nature/introducing-facial-recognition-software-for-seals-180980349/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 19
 
 secured: "eMO1eRLrrZ6Ls57k5414uYOx6vNTliaHpIbCfZSEU4RpuhVcePU16NfeAqTY6BlFkBVLK49YuhMBw+P6VWxFrG86NWsowAHT+4AAHjaTgM7JDx/R9LBSfoN9TlDzy5/FRxh2BQXprcnN+h8o2HKpwqI1Feq9W8DsAGgw7Om3D8f18P8ca5l1OomlSCJRfWMy5Rwh+/ipHEFedToixQXh8wjPRrpJEeuoZ5VJHF25TEfhUeoQk95k0UJrSqHL2LpDxEkhMmAzfpen3I0iLkyUHzSayRYABkvfdYtCUtdOtchjCn8nzvzAm0QxLH+ULqLDuhU7r131lsflGQcK6MZ+JdsATHSrFJNIL4GNnnfUO+g=;28CNVT43I9Z5Q9E2m2R9jA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/should-we-be-concerned-about-face-recogn
 webUrl: "https://bestgamingpro.com/should-we-be-concerned-about-face-recognition-algorithms-that-operate-in-real-time/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 600
     height: 365
     isCached: true
-
-related:
-  - title: "Should we be worried about real-time facial recognition systems?"
-    excerpt: "Real-time facial recognition systems offer both benefits and drawbacks that must be considered as the technology becomes more widely adopted."
-    publishedDateTime: 2022-07-09T13:40:00Z
-    webUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "LvfMEvN+aY1fPtDlkbMIEbDtjcRjohZ3sSjdI/L+FOC74qeJ0RWGMZi/WaaobY58VTaFeOFM/J7e+AJgvIBHY/M05M5palBpN7urDgWzTRJJrI4h/FZKYzJ8puVow4virOaqi4YxeMXzspnepR4tLus4/kxu+f5rT+FKJaIixU1xJnNbl/bNxQuM6Wrhu2HJRAncv0lUjcs8AyfFTji1ReJ9k9byErw/VJ0xn0+uANnFGutAlFP2aeVRSykiPbM41ir0se+HIxoFvmyKjN4bruXc6LUUcLS/gYzsrluP+5QLAYOymzO9nP5+sXgK8/3QYheH4u8MfR3nTggKOwHPDEPuGJsdBEkPjmQf4UpTyAA=;6w2VJF+P0kx+kC8X+C00aA=="
 ---

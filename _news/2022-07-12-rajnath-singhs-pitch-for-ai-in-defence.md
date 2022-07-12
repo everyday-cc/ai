@@ -179,6 +179,20 @@ related:
         width: 660
         height: 486
         isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 26
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Rajnath Singh calls for tapping AI potential in defence sector"
     excerpt: "An Artificial Intelligence exhibition was organised which provided an opportunity for innovators to display their capabilities, products and state-of-the-art technologies"
     publishedDateTime: 2022-07-11T11:53:00Z
@@ -198,6 +212,6 @@ related:
       domain: livemint.com
     quality: 17
 
-secured: "K8UHGYB4JIZMRz+HJh8qScF6tL523QV+WLYBI94APq0qNbDtA/18ISUHEukXMumr/GvXSxLn749HhnVfJaVxmD+O1e4A/hpgTHhptHkuR5w4glgVZzI8n+JRx79nw8Pi28xjfa47v7gdgIgunAjsDRr2PwZqqqn47p/b2qJ/11H+RStO0Ruja/vtL5cyDkEWaUA4Lo2LqPx3/3B1sS1rS9yRIirJTyZX6AE9PECfgVAPGt73lnLrb/KlX81lKMvHvHzttCiOappreKsgyAaQuc4cAddDH/95bW9R6UW4R+SRB3/AXFY7RM2Di7jgX/d5v0VpnaeLE4nxp7JI+Y0yQfo3LN/3ix/CM/g62TgxWkc=;Qui5+1UGjUpf/U3ghEpoUQ=="
+secured: "5cXCvnkZy0YFE23eOGK3iU0/A6FWV9Qcn7q3883t0WXFW3I6tqaEnr7IqgGBJGbmDOrRWekoyoog8PGhKb7WDShG2AdCmiu6+Zy8P/Mdzz0IRKJPwPV9sIhVBZNDFg3f1/l+JjoW3Qz0rKEe4HReksVpGYwr8vMFDzuC7o1vhUEsyV9d3cLHJVF+KB8Cm5hXuijFE+hUQjwaVUOs/mdw7cKkMB0prawFoqNSrrQuejvVaNezqMuSm6tOvq24j+dxsdvbaSWAO2rQvHhohgmLxusOC9quocIuYrNoxVf8Vf2HLkS2OyAbT/nydhXH10ir1PHLx70V86lJhPpyRpjzQ0S3nJdn3pzGZd/Mlzmqf8sYo4fN64RmAYtnRI769M5cahsuqu0OG+Q5OFhJBGPznwEmYOarSDozGjhh4luhr2zeKQtv5ZlSbMw9ecA0/AGzTLupl+G8E2jKoYQ0uQfr+kBcp/Po01uN6wEcyLMfRmg9xWObq/AeT56Jc5YymYclUgn/g7GgiwkVShSt/ANA4g==;y9l91bxHRrMhE2jKQ7kEwA=="
 ---
 
