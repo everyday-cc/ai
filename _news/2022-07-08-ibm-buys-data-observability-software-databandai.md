@@ -40,22 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "IBM acquires Israeli startup Databand.ai"
-    excerpt: "American software giant IBM has announced the acquisition of an Israeli data startup. All Databand.ai employees will join the IBMs R&D center in Israel"
-    publishedDateTime: 2022-07-07T08:48:00Z
-    webUrl: "https://www.geektime.com/databand-ai-acquired-by-ibm/"
-    ampWebUrl: "https://www.geektime.com/databand-ai-acquired-by-ibm/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/databand-ai-acquired-by-ibm/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2022/07/Screen-Shot-2022-07-07-at-11.12.03.png"
-        width: 952
-        height: 636
-        isCached: true
   - title: "Why did IBM acquire Databand.ai?"
     excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."
     publishedDateTime: 2022-07-11T08:30:00Z

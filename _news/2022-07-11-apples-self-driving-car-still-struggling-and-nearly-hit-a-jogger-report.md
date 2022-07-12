@@ -72,7 +72,12 @@ related:
     provider:
       name: The Information
       domain: theinformation.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://tii.imgix.net/production/articles/8324/ded70458-bb52-452e-a745-fb9326ef6ab2.jpg?w=800&fm=jpg&auto=compress&frame=0"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "yhFmLKbnvIh8mPUi/ksaFVFkIR8FXtTW15/X2CUfBxYvHREzm67ahWQkPGI35Ph+ujgowelcLhhOnGSlFW/s6SuOPuZHB2RCQaFlgUVAngRc0FKQNEDyz48N6/SKdsS9WVnd324JV8q6zneGZZJHlU8vr/BbQ6XiPoAzLVYb/5KTPDDl2CnPXl3m089kXZOhSwzrJuS37Gq3FeX74wij0W/899ZW902Fe1smQgiKMgfOhoBbACP796u9BHRgrwhAoKZGd5hVtNEaaSzToSzowKlYlvHI3nssB5fA9dPWnld4xpp0ptXGDNDSq3+0tbNGmZSJjid/RmAFROI2m6at3qdUhWlyfuXhHc9BDygPc9Jeycu6i+T5ezGZgEHw4Wq5IO4LMfZhl21uRHBA7ClOlyf6Vj7yFH1WYNKImP4AD840ObCzOJMq1p0yTVUoTBUjqcwuCPxJEb/4bZiyFPxY/nrbOekJQUXT5VPY/CLFCoxkdWrizfqFX9V8T1uJFgYEI/C3+wjnAf2Cvrpgo/LTlg==;xMT/H7ZNw7v65RmTLpI/QA=="
 ---

@@ -66,6 +66,20 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
+  - title: "Standardisation body calls for AI definition, categorisation to be decided as standards"
+    excerpt: "The European Telecommunications Standards Institute (ETSI) suggested that the definition of AI and categorisation of high-risk applications are left to technical standards in a letter sent to the European Commission and obtained by EURACTIV."
+    publishedDateTime: 2022-07-07T15:08:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/standardisation-body-calls-for-ai-definition-categorisation-to-be-decided-as-standards/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 29
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/07/shutterstock_1163505310-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "dH1wOoo6ifEJMn3ms/SNYkPtynfx3eA4kPElg+dC5cXHcjE+vD8qpWNcX/GfEUYRUgwT46TTRJ9z0Jsjq1EJjhd341l4nObCL7Aqd9WjzM/NWeVSWObkqPuteql1YnzBewcnCEqZ6p2EgGD9bAs4DLWEJUvEssPAJP3RorWTTUiqZ+tDLhrPWBE3TcqMfJol9eaNU2x3/oTCriCQuJPyU4QhPiUNw478yVH5XkYzn2IddOARiVDOZv3d0dgKasuASL7ONf3z/M8gSZTrfZ7XRqGl2NiB7dU5atgBiW2xvIYu7jE17nhxcINeEVCuSE39RS+xdJRcskR6RIahZipEApNFhxmmtDMj4IYdW2igJcI=;5fmfd/abETk3xUyZE6dpsA=="
 ---

@@ -58,6 +58,20 @@ related:
         width: 1240
         height: 779
         isCached: true
+  - title: "Standardisation body calls for AI definition, categorisation to be decided as standards"
+    excerpt: "The European Telecommunications Standards Institute (ETSI) suggested that the definition of AI and categorisation of high-risk applications are left to technical standards in a letter sent to the European Commission and obtained by EURACTIV."
+    publishedDateTime: 2022-07-07T15:08:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/standardisation-body-calls-for-ai-definition-categorisation-to-be-decided-as-standards/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 29
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/07/shutterstock_1163505310-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Adopting AI in a more straightforward manner"
     excerpt: "According to IBM, more than a third of firms are now using AI in some capacity, while another 42 percent are just beginning to explore the possibilities. While these efforts are being hindered by factors such as high prices,"
     publishedDateTime: 2022-07-11T13:25:00Z

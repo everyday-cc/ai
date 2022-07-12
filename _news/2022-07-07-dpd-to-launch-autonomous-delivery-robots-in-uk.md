@@ -7,7 +7,7 @@ originalUrl: "https://www.parcelandpostaltechnologyinternational.com/news/last-m
 webUrl: "https://www.parcelandpostaltechnologyinternational.com/news/last-mile/dpd-to-launch-autonomous-delivery-robots-in-uk.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous robot delivery trial launched by DPD"
-    excerpt: "DPD is to commence autonomous robot delivery in two Milton Keynes neighbourhoods, as part of a trial with AI-powered robotics and last mile delivery company, Cartken."
-    publishedDateTime: 2022-07-07T08:30:00Z
-    webUrl: "https://www.shdlogistics.com/last-mile/autonomous-robot-delivery-trial-launched-dpd"
-    type: article
-    provider:
-      name: SHD Logistics News
-      domain: shdlogistics.com
-    quality: 39
-    images:
-      - url: "https://www.shdlogistics.com/sites/shdlogistics.com/files/dpd-automated-delivery.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "DPD to start robot deliveries in Milton Keynes"
     excerpt: "Parcel delivery firm DPD is to start autonomous robot deliveries in two Milton Keynes neighbourhoods as part of a trial with AI-powered robotics and last-mile delivery company, Cartken. The DPD branded robots,"
     publishedDateTime: 2022-07-11T16:10:00Z

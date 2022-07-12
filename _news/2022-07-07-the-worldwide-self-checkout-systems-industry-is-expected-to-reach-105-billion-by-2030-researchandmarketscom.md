@@ -93,6 +93,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 3
+  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "Chicago, July 07, 2022 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
+    publishedDateTime: 2022-07-07T13:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g27983989/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarke"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "Worldwide Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 - ResearchAndMarkets.com"
     excerpt: "The \"Robotic Software Platforms - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms Market to Reach US$11.3 Billion by the Year 2026 Robotic software represents a system that is enabled by artificial intelligence (AI) and used for guiding different tasks or functions performed by robots."
     publishedDateTime: 2022-07-07T12:49:00Z

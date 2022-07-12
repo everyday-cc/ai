@@ -2,28 +2,22 @@
 category: news
 title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
 excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-publishedDateTime: 2022-07-11T20:27:00Z
-originalUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
-webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+publishedDateTime: 2022-07-11T20:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
-    isCached: true
 
 related:
   - title: "With self-learning models, prediction can be explained"
@@ -59,6 +53,6 @@ related:
         height: 710
         isCached: true
 
-secured: "+lMx4Vv6R0/2Hqu+VhJsPwE6gM2gZoR7/CsqAam5JAm1sg8Mj5haPtXENc+JL0GbHDBcdbdFIQS7pb12jr+SSrWrSMWOzvC8oqiwA0+s/1wXcdZ8Oqv2NsZhye1cYRqUC8mHjXxTelBTFYZbXr0J8VTJz3m0gFyPhDlYPQrOFYzTfhLALW56Gy95MjxIMfEcgnFM/ir0iwvINUpOZKcSLp3rxUDBK057nlIF39iMp72BdKgGQdiogM1Kyd4Y52qoXhHxGeQBpri0+ExBYEbNJ+kJ27ed2hq/1TtcUk5awBwj+RZsQRHZA4Uejy9/8HSJnKZlezshesJgCvKIxntmFZFfvCi09OAO3g7yFYmElSA=;CIRXoIuSkaOop9s4k7Ki1A=="
+secured: "z4SGe6ncDHJP9S67uQfbi2BKJh/xtAw1q/Qa2T27xLz23SFNll7Oe6cFRTRq1qk7tgzajDnI1wDoa+voI7g4Svq1ytBX6eFOavRPacx3Hb3qsn/W0URTBMvXE1ALEKPsoXJNx4vzkmYE4HYUUHsH6GuLvEgtqkv7UNfRPhKIMsKz1KYb+v39k8G7Rjl2W9uhTINUpZ1vnGKKfOvSwo7JKTP8PZWKdM8+k8F9NzSLcpzV0aM2fiD+pmidn+4VLRhTo7xUh395akMdVLB+BDmmFJUBWM66pXS7dWYBVDDMhs5kjuXZIptPgBJr3gcoG8/ZCi1mfzq8gqBJR2G1QLgfZTqM9elFLiNEMlW3huoKoAA=;CusobkLIBtfgBpPerrJ1XQ=="
 ---
 

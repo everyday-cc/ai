@@ -50,6 +50,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Inside Apple’s Eight-Year Struggle to Build a Self-Driving Car"
+    excerpt: "Apple sent several of its prototype self-driving cars on a roughly 40-mile trek throughMontana. Aerial drones filmed the drive, from Bozeman to the ski resort town of Big Sky, so that Apple managers could produce a polished film,"
+    publishedDateTime: 2022-07-11T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 24
+    images:
+      - url: "https://tii.imgix.net/production/articles/8324/ded70458-bb52-452e-a745-fb9326ef6ab2.jpg?w=800&fm=jpg&auto=compress&frame=0"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
     excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
     publishedDateTime: 2022-07-11T16:21:00Z
@@ -64,15 +78,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Inside Apple’s Eight-Year Struggle to Build a Self-Driving Car"
-    excerpt: "Apple sent several of its prototype self-driving cars on a roughly 40-mile trek throughMontana. Aerial drones filmed the drive, from Bozeman to the ski resort town of Big Sky, so that Apple managers could produce a polished film,"
-    publishedDateTime: 2022-07-11T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 4
 
 secured: "6P6agUuuo1mU9cgqKSC854gE9ot/zT3GYjV7+ByEvBjgbjSigk5qjHdDy8m4Pjou9QIe/dKzHJUxLYgoglTXWJGU7fI2WTzoPj2TUftL0HQ2tbu0hTT4NgtJJcBf8rptiRGNN1dOov/DCehrmZlp22lSzCqHI93NAbcCmuRxYIF6ifHqbHWqBQ7guiaEpIyPqcgXa3kh1sSScirJPa/Th8GLo9LwOrYFqsH6wbW1eBBquSItJ66mhQOl80qpVr96/n5O6qRATbWF6nZ59opT17OebaOIz9LKhnEgV051UeABkp6JtI+1diOFgJtOkEvEZ7QASHo3ofjpXQnQ+wv45KltjIY/VF/mNnvk9TQzz1I=;b4fvh+3WZ6ZsGDfQ87Y/vw=="
 ---

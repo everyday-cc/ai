@@ -150,6 +150,20 @@ related:
         width: 800
         height: 578
         isCached: true
+  - title: "India should be prepared for upheaval due to AI: Rajnath"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-12T00:54:00Z
+    webUrl: "https://theshillongtimes.com/2022/07/12/india-should-be-prepared-for-upheaval-due-to-ai-rajnath/"
+    type: article
+    provider:
+      name: Shillong Times
+      domain: theshillongtimes.com
+    quality: 37
+    images:
+      - url: "https://theshillongtimes.com/wp-content/uploads/2022/07/Rajnath.jpg"
+        width: 945
+        height: 632
+        isCached: true
   - title: "To promote 'Aatmanirbharta' in defence, Rajnath Singh to launch 75 AI-enabled products"
     excerpt: "Defence Secretary Ajay Kumar said that the nature of modern warfare is changing and AI will play a significant role in warfare. These products are tested and will soon be deployed"
     publishedDateTime: 2022-07-09T03:32:00Z

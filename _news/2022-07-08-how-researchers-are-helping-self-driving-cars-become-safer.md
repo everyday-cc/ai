@@ -129,6 +129,20 @@ related:
         width: 831
         height: 599
         isCached: true
+  - title: "Apple self-driving cars reportedly hit curbs, veer out of lanes at intersections"
+    excerpt: "According to the report, Apple’s self-driving cars have had problems navigating streets, including frequently hitting curbs and veering out of lanes in the middle of intersections near the company’s headquarters."
+    publishedDateTime: 2022-07-11T23:15:00Z
+    webUrl: "https://siliconangle.com/2022/07/11/apple-self-driving-cars-reportedly-hit-curbs-veer-lanes-intersections/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/02/27050412940_5a0e5ac101_o.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
     excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
     publishedDateTime: 2022-07-07T20:41:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-11T13:00:00Z
 originalUrl: "https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car"
 webUrl: "https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://tii.imgix.net/production/articles/8324/ded70458-bb52-452e-a745-fb9326ef6ab2.jpg?w=800&fm=jpg&auto=compress&frame=0"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Apple Car rumors: Self-driving vehicle could have 4 facing seats, no steering wheel, much more"
@@ -73,6 +79,6 @@ related:
         height: 864
         isCached: true
 
-secured: "yQSATxoeYc0jtTqGpXojqxz9vSH/aT7stGqjydvaOIOJ7UPvXvFoYH+YEEplXdcyNdVFj7n7hhEyagok5s9f8pGAmjIuEMtb7B5tnF58w8GJpyGSDXmC7kpkrDvpuq+uyPP+e7rEwjXSCqglDbAZ9p9dqcKf3LAeVy9diVdjTIeA7Vlg+IIf/tHP5yrUHRXRdRqJxs27X3RUCcHwQyUGQDIXYlqgs6oXLn4cmFj6DIyPzkx/23jOO1vtw95101+luCILIgbNr/M1+MQtVTOH3C8mQ8Zon/pwuZfLN9Z+og0g3EcZDrmICGouCIAtJ5dpNeC24Gd6rIWcsQ+UWodGRDuhBgifmXoQhOBotJpa828=;r6EpY5UZBWEe4qfbwVpZAw=="
+secured: "g7kxrwS5MNfOf7fRO8zxBygUlCHGyKGcNL0j6pHsz60b+AGhjuvidVtNSRPZ3Gv9IUVcZupVMIMHJshWiLNf2xZ5gs4MAJte9iAQwRxoVth9OOmv+VQcG2glVNl+8HwFAJzURi0pecq5h1noY2rtt6TfG9MrP9E4cV9uUuvGSH4i0QbUgQHQqU51mauR10PQh3de7dnYKqePVq1ihUWrO1+UYGcVIzwaJqUol27jqrrn16X5+ss5/XyAbPoSTfqLoG41u00qphjma3hOFMhm5q704QAvsXvKBG9y+U6GUGOJqITTy6MD+G70kgQpm+p83pNJNDPJj8o3AF2mZz9OdUBPGOHGQgYFttgC4EvuB+8=;VYrL84kWlRtw9Hvfdt/c1Q=="
 ---
 

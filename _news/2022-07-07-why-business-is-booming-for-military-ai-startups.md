@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/07/07/1055526/why-business-is-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/07/1055526/why-business-is-booming-for-military-ai-startups/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Weak Human, Strong Force: Applying Advanced Chess to Military AI"
-    excerpt: "Gary Kasparov, one of the greatest chess players of all time, developed advanced chess after losing his 1997 match to IBM’s Deep Blue supercomputer."
-    publishedDateTime: 2022-07-07T07:50:00Z
-    webUrl: "https://warontherocks.com/2022/07/weak-human-strong-force-applying-advanced-chess-to-military-ai/"
-    type: article
-    provider:
-      name: War on the Rocks
-      domain: warontherocks.com
-    quality: 39
-    images:
-      - url: "https://warontherocks.com/wp-content/uploads/2022/07/PSX_20220706_123139.jpg"
-        width: 1330
-        height: 888
-        isCached: true
   - title: "The Download: a military AI boom, and China’s industrial espionage"
     excerpt: "Why business is booming for military AI startups Exactly two weeks after Russia invaded Ukraine in February, Alexander Karp, the CEO of data analytics company Palantir, made his pitch to European leaders."
     publishedDateTime: 2022-07-07T12:10:00Z

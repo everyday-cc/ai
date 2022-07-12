@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Inside Apple’s Eight-Year Struggle to Build a Self-Driving Car"
+    excerpt: "Apple sent several of its prototype self-driving cars on a roughly 40-mile trek throughMontana. Aerial drones filmed the drive, from Bozeman to the ski resort town of Big Sky, so that Apple managers could produce a polished film,"
+    publishedDateTime: 2022-07-11T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 24
+    images:
+      - url: "https://tii.imgix.net/production/articles/8324/ded70458-bb52-452e-a745-fb9326ef6ab2.jpg?w=800&fm=jpg&auto=compress&frame=0"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
     excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
     publishedDateTime: 2022-07-11T16:21:00Z
@@ -64,15 +78,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Inside Apple’s Eight-Year Struggle to Build a Self-Driving Car"
-    excerpt: "Apple sent several of its prototype self-driving cars on a roughly 40-mile trek throughMontana. Aerial drones filmed the drive, from Bozeman to the ski resort town of Big Sky, so that Apple managers could produce a polished film,"
-    publishedDateTime: 2022-07-11T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 4
 
 secured: "ptUZHv4rSug8pq1dmvaTZ8oUwgrckMNxIdyXUsZufm/8zhUq6sxFzEPEwQS1QUumlYvV2Zcuyr8g5lmXQChflNGjG7JK2hUAAvUL0+YXgLG1eyJ9SEziH8bQRDCgMCJD07PIlDy+3C92FK24rElqhHMEfDJBKHNGRsqqRqLlnjkQKn9oFToBr2trpemXxua8+iVd3U2Kd0QV1YlNUrPFfGV7gV6lei96fkxkGF3iSebvK95utwVV1yiiWceLEI8I5vSA2O7V4QatwCReQ4O9ohHkR9W9XegvPcheg03ySb+E5l5ZrhcYePOl6gT3fNh8UtzVh46/SAlmYZzam+IeUcX1K2eRyeI4K5MJH318golvPKFZbbQS6V4luHTif6uTDNlovVjPsrGmk6zsUWapXeDqWKDic4nfmFJVQqsYfOvdpQ5leDtUqdNSOzRe8pcMxac9xs0Sk/mjGhufb008Sc50Shq/ntHGyRNWYE8rLr4iYHwZUCDipRozPEFRzFM88uN4IAP+BvjLsrla0U8eZQ==;YL4KZvzVN8TTPoGQKgXNvw=="
 ---

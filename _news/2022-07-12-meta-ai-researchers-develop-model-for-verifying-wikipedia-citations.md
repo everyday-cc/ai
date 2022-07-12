@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verif
 webUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design-4.jpg&signature=9603ada9242a020a0ba12541717c7b0c"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Meta develops AI system for reviewing Wikipedia citations"
+    excerpt: "Meta detailed the AI system today. The company also released the code for the system under an open-source license. Wikipedia editors ensure that a given piece of information in a Wikipedia article is accurate by checking the source from which the information was retrieved."
+    publishedDateTime: 2022-07-11T17:49:00Z
+    webUrl: "https://siliconangle.com/2022/07/11/meta-develops-ai-system-reviewing-wikipedia-citations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-3.png"
+        width: 848
+        height: 478
         isCached: true
 
 secured: "F0rIAcY78EaHAstBeeigF5rpVCnDtD2+kj0okjYXpAoUaVWuSsyWS2lUOqiotCvMm8o3H4IfWl5E0f9WjOB5jA/3VK2jaXClFdF+zarETFmDVd0OJmiqLMAECuAhjOnM+4mgCulOGz+qT0U9038kreH5kODKUtVnskYW5siF5e89/mCk+VNKxkdTx9cHDzm1XtBT+Xmj3EBjNSprxUUL6zzT1Vy9zsR/vuNmXS8RveQxbgCRxsyN0nCnxSivxvx03zzJFDGZ/i+kghsVI0s+JXi9qy36oClUpKBtcOMJs4NwMHRRayPdHbNT/pt5uTfFjq/pBsntNf+AQhCtQhoPEw8Li4CtKoZ2APbtko+s8Iw=;Pp1+63wi8rWBoITiHm3Aew=="

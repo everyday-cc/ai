@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
+    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence AI technologies during the first-ever AI in Defence AIDef symposi"
+    publishedDateTime: 2022-07-12T00:25:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272616972/rajnath-singh-launches-75-newly-developed-ai-enabled-defence-products"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1657585436.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "AI-based software to detect illegal constructions on defence land"
     excerpt: "Efforts are on to further fine tune and upgrade it to achieve higher accuracy. The CoE has now partnered with a couple of other reputed organisations for improved AI interface with change detection tool so as to enhance the functionality of change ..."
     publishedDateTime: 2022-07-08T03:12:00Z
