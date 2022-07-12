@@ -22,6 +22,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Robots Aren't Done Reshaping Warehouses"
+    excerpt: "When Digit spends an afternoon unloading boxes from a tractor-trailer in 100-plus-degree heat, co-workers never hear a complaint. Digit, a blue-and-white humanoid robot, was designed to handle the tough,"
+    publishedDateTime: 2022-07-12T18:00:00Z
+    webUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/article_f7ffebe3-6465-571c-8db7-d396cb1a759b.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 19
+
 secured: "q9FzJ+BdIKfFzQKcL2BDp4Amr7Z+FATkc/IrKJWrfHTbdHBhKk4YlnVMGrW8zNi+c4YDHnmNYPCXIq0kYD9Ur0iCBX0W3j8U0gu+E3J2P33M7sCbf9Yr3OX1kbjx3rNZ8avNwHHTzwg+mHq7OCIMS0a8MWb+a0zhTFX0WYBkBz+aF3xXT2RyfUfQ7RJmxPhX2Mj/Ci4yRMmMx55AtcX+BTnAqyR3Ry1BTLv7IfUf0oFazEKE07jcTLxRyPShUyfmAOlw5cswCB/04u0wIIObGp64OvzbOiwHec03OCWsbqRStAJBS6kQ+JT+D4Z9G4ES+gJn51TWRFinjmfH8Afd19d6dApWUkT88lRWvf8qi6uP28z6Yh4TRGD7LukBYFyHJbxSFqM3jUHQQ0fuk7PVv61pqKZcjJyQVgOOXjypbfzWga4W/b2Gyuil4t1qnsLGmgav7NA1S1ifKA85TEwZxoaUvMFhTVs4le3rQtyDPGM0KIBhE3TgXxigY7aNyJPHXWo+9cuMcc0sqbgzmgsyHg==;jSjbe3ei5dmviWUpPwaXig=="
 ---
 

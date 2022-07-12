@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T19:57:00Z
 originalUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.html"
 webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: techxplore

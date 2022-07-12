@@ -52,20 +52,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Europe’s Next 10 Fintech Unicorns"
-    excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
-    publishedDateTime: 2022-07-08T05:00:00Z
-    webUrl: "https://fintechnews.ch/fintech/europes-next-10-fintech-unicorns/53783/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/07/Europes-Next-10-Fintech-Unicorns.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "The best paying UK jobs in fintech"
     excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
     publishedDateTime: 2022-07-08T09:23:00Z

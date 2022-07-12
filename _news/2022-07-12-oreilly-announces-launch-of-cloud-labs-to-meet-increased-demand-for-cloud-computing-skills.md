@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:03:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-cloud-computing-34a539d60b5742cba0454bd30675a2d4"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-cloud-computing-34a539d60b5742cba0454bd30675a2d4"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

@@ -3,18 +3,24 @@ category: news
 title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
 excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
 publishedDateTime: 2022-07-07T01:15:00Z
-originalUrl: "https://tucson.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_53f25da2-9eec-5444-97e5-0d63f1c9eae3.html"
-webUrl: "https://tucson.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_53f25da2-9eec-5444-97e5-0d63f1c9eae3.html"
+originalUrl: "https://scnow.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_615910ff-551e-5ed7-ba35-e68f9e506092.html"
+webUrl: "https://scnow.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_615910ff-551e-5ed7-ba35-e68f9e506092.html"
 type: article
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: SCNow
+  domain: scnow.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "IBaNTlIgLLh5DwIOu2MS0EuYkhyyRyGP4AOHaRrTwsNCpy1gR5SK5ML99t44D2gjtQJ/gZ0prH2W52JCwzWqbyBnwFSr1dS9qFNhLUqkTtrHMLBgIpNMWM8N/3Y55q6T8C4cnzQaKhK1A1PeL7TmvhQlpUKSxHBAqFYs+L1t1k68aoGYRok+hcJ8LCL1+3fC1DbIXJvSZjvfbCr6rq6AHjzHfhI6fF2WvwRmBn8nI1UMUMWSfy2aFjy3Tu5/07iZpM9vNVgWcwfmcj1/hV7si2usQLG0P+g84Tl5TwXRrUfRtvlYi13uJG/GpsGwrE+3vMAgGPIhLrSYzVnID0LuDft9IVD2NGc+++Pj3cB/ae7pm5ht/LaZudcphgk+11X7HJdEkj++UdjE/txT570HU8HanbBYwbPJWfUfLYcDfI/YuWmk+GC3JPUoRmYg4J+W2hYKE8lW68Z7fheuy+f4LaaL3Lt7CC7TFSCjdk2HLGLlrWXXT0+yJnWsV4PzDz17B1mXcArD4OArCS1T/pNqHw==;hdWLHcD2m+7acpD0fg2xaw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/6/15/615910ff-551e-5ed7-ba35-e68f9e506092/62bef0326b490.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
+    isCached: true
+
+secured: "NNdqBVsSE+ApG7YpNqKQrTWlalClOck664PcMUzNIP+ejBT4bZyTTWuvP0X7gOlol8DHhAu2/SE+xJ94/DIP3Ih0KXUm8aCfaVthVknTS+7eWAzlzm7Wic2YIIMjeLUSoQa0YFhI9sYbot9LlgzS9cFenCp/rMzxdqSXIS/Iy5vbPPXeSFOgo1lpvQ1xx575vtctDmJBqTFwwQFshyjTK2kS1KcUubUMHQa82VoDQ3QCjZLUCJjzYLJkNqdlpFL3IZx9Ka67CzuO7cDMLztO8vqAy54KwhTyMzrEdMWBnlkjMrBTaC8tqOh1Ce1URmw7ZaDJOiAuO915MfKdjE0wPW/u8AA6Lj7d9GWwLiiXy6A=;0OCk7P/w7HrNszKyAnGmpQ=="
 ---
 

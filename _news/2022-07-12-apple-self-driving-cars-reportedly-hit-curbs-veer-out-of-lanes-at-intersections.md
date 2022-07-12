@@ -101,6 +101,15 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Apple's self-driving car effort stuck in low gear, says report"
+    excerpt: "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new 'big thing' from the company since its iconic co-founder Steve Jobs died in October 2011."
+    publishedDateTime: 2022-07-12T18:00:00Z
+    webUrl: "https://www.carsifu.my/news/apples-self-driving-car-effort-stuck-in-low-gear-says-report"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "KnzRWkSQnwIUxygIIzhk8yslKPg7b9TQti2WSSiulMZUsgBEMd/8c/0BGUcD+sVPYqpmZPKBj7aGaOo/vNqPDhiiGqPyv8syUu8PCtTgXtPi7f2QcdXzk1TsZO1+gZYOALmU3tFfLe630I0t8CVb6idxvNE9hbqy1jl+R6s+ILS/eSpCTrW+DyZN7QrJ2TfmaLqFmO7gl/QFyV84kGsQvRi3uRPK7GR+AxlKCwnrQPn0VNSBMZS9qy4OllKe5zS62gHgu+BRevNvsEbWjNTQ0TAncT42BqDZBjeB68Eh/L1d9cVSWAvdeiV09V+EUEVnxUVXhkyLx0DOVTwxZw/cTishnBVkcxBjmzPTFJ63iTH+tXW2XRDY5TjVqw/0dliAvuKcC9AoJ7zv6F4CF4TgvKA69etjNRDnuf0xn5vzn1DwDeBZ1fxH2ComdUSb/R4MaUeUHbkTGSDOLDvUqG1fblY6w5nhnm24d+RtrXDo5FBrtax0ZXtCmtIOSMsPEhaKtr2rwUsky73VaDIOttAi6Q==;z1qDKioYLjD/iDpaZTCD6A=="
 ---

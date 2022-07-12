@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "IBM buys data observability software Databand.ai"
-    excerpt: "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020."
-    publishedDateTime: 2022-07-08T02:48:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp"
+  - title: "IBM acquires Israel-based data software firm in fifth deal this year"
+    excerpt: "IBM continues its aggressive acquisition strategy under Chair and CEO Arvind Krishna, acquiring an Israel-based data firm that utilizes artificial intelligence to \"fix issues\" with data such as errors and other problems."
+    publishedDateTime: 2022-07-08T10:50:00Z
+    webUrl: "https://wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/"
+    ampWebUrl: "https://wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/?amp=1"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 44
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg"
-        width: 600
-        height: 390
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
   - title: "Why did IBM acquire Databand.ai?"
     excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."

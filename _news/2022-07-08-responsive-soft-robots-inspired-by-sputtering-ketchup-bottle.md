@@ -2,22 +2,30 @@
 category: news
 title: "Responsive soft robots inspired by sputtering ketchup bottle"
 excerpt: "A smartly designed pressure valve allows soft robots to respond to their environment without the need for computer control, reveal AMOLF researchers in their article in the journal Matter. That brings robots with natural movements and tactile responses similar to those of living organisms one step closer to reality."
-publishedDateTime: 2022-07-08T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/957996"
-webUrl: "https://www.eurekalert.org/news-releases/957996"
+publishedDateTime: 2022-07-08T15:00:00Z
+originalUrl: "https://techxplore.com/news/2022-07-responsive-soft-robots-sputtering-ketchup.html"
+webUrl: "https://techxplore.com/news/2022-07-responsive-soft-robots-sputtering-ketchup.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-responsive-soft-robots-sputtering-ketchup.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-responsive-soft-robots-sputtering-ketchup.amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "9mMLx7OOpmwM1XzL7Z/Z391MMGGqnsBRyxl7n13rA/rI/nC/42eBlbGx2B+Gnf2vENt9aLKIPrebVG+m+Vchg3FraaKXZu5zosGjxcaQH0uhxIlPz8fzoFTe005BlQdw7sVBUaNC8jdjar55jah9IzoWAzYiXUHvhrUQmpAqtPD48QtvK74+o45EwarsQgfVzqybjHrH8vGxADWsC8ZRtwDJLIUsTEoypwBhilvDfOXPHXCY3R/uHWc84k8nO8cSuCaufZd8NzU99X8VaxOcjWUDQ3Jl4tMxgxSSbuQAS3vACzKhdS88+KPpbUg9b/WoI3up9INQzpPne1FsrgSYnXQfN+cN1Kx41r8nhxdrSft2G1JKKPXlnWI2bjDgYQijqB42bIT4gg1xxcyrKdXJieix6kfxnm7NUCHma5uHQ1Pv8lBgwZ8XWHn87PVFeOpQfnOF14cZ85K7u10qkr2u3YOSK8dree1vjD6vjUrGsGnVULdxD9wxXQIxakY2yMamQZ+Cmym75X4lh3hcSswKjw==;t9rHiPFRnLdLu09oC/22KA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/responsive-soft-robots.jpg"
+    width: 1321
+    height: 625
+    isCached: true
+
+secured: "Q/rtpk3nk5fUxDEmtbORfo3wzRsodEH1/2948lNwXaK/3D3PBeU2RA3RgnoUhYP98Yt3pFMMwVSAinHLto2jf58A/yu7soOTjytbkfafhpG0/ChinYryIQmtcYMRmBpI30J7rqg+ZowtpwpBO1My5x/hSk4A5R1IrwKLlgb5SVVfzZt9LCe5ulksPPjwQJFnTepj920bN6glvPFP844Cn9w1l7r1FL/OdxYQX8qo+A1QEEF5zhZJz3QHiFvrX7H8b4yvdKMB59mRGvMTSTliawjyI5biMECWHfHPAXIwgasbkknPcdpJPI0ILNgW+S54R2+MQc4Jy3+JL/Epztugs/ytxDmQwB1DDX9ovPu2Zv8=;y3aBKEMqSi+yAE5T8UZFrw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T17:48:00Z
 originalUrl: "https://www.massdevice.com/fda-eko-ai-heart-disease/"
 webUrl: "https://www.massdevice.com/fda-eko-ai-heart-disease/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MassDevice

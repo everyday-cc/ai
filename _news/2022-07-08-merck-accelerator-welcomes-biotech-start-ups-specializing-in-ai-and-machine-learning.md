@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-08T08:53:00Z
 originalUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus"
 webUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: biopharma-reporter

@@ -66,20 +66,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Europe’s Next 10 Fintech Unicorns"
-    excerpt: "Sifted has released its ranking of this year’s top 100 fastest-growing business-to-business (B2B) soonicorns poised to join the ranks of Europe’s US$1 billion-plus startups, among which 37 fintech companies."
-    publishedDateTime: 2022-07-08T05:00:00Z
-    webUrl: "https://fintechnews.ch/fintech/europes-next-10-fintech-unicorns/53783/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/07/Europes-Next-10-Fintech-Unicorns.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "3 innovative FinTech start-ups in Japan"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-07-11T07:45:00Z

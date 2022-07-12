@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:04:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-middle-east-israel-5932cd51d34147abad8b4257024e609d"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-middle-east-israel-5932cd51d34147abad8b4257024e609d"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

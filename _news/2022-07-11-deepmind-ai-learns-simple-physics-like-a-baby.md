@@ -41,6 +41,22 @@ related:
         width: 716
         height: 408
         isCached: true
+  - title: "Meet Plato, an AI That Gains Intuition Like a Human Baby"
+    excerpt: "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child."
+    publishedDateTime: 2022-07-12T19:38:00Z
+    webUrl: "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
+        width: 716
+        height: 408
+        isCached: true
   - title: "This AI With a Baby Brain Shows Us How Humans Think"
     excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
     publishedDateTime: 2022-07-11T17:52:00Z

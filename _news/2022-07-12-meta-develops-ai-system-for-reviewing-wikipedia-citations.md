@@ -52,6 +52,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Meta thinks its new AI tool can make Wikipedia more accurate"
+    excerpt: "Meta launched a new artificial intelligence tool which it claims can be used to automatically verify Wikipedia citations."
+    publishedDateTime: 2022-07-12T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/meta-tests-ai-wikipedia-editor/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-tests-ai-wikipedia-editor/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-tests-ai-wikipedia-editor/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2022/07/12/luke-chesser-D8QbsYyiFmw-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1174
+        isCached: true
   - title: "Meta launches AI tool that can improve accuracy of Wikipedia citations"
     excerpt: "Meta said its AI model can automatically verify hundreds of thousands of Wikipedia citations at once. Researchers at Meta have made a new open-source AI tool that can scan a massive amount of encyclopedia citations at once,"
     publishedDateTime: 2022-07-12T11:23:00Z

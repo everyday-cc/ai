@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 

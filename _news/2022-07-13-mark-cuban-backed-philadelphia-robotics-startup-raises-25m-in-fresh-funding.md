@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T18:23:00Z
 originalUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2022/07/12/fort-robotics-funding-prologis-mark-cuban.html"
 webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2022/07/12/fort-robotics-funding-prologis-mark-cuban.html"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: The Business Journals

@@ -14,7 +14,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
-secured: "4K4UyPsOE2ikEP0Lcp7T+rSvxBXkO7X+hOglc/v/P+ajxgNIKkMKL20fcUR7XVHoJY+QFXAxmzsveSoY7yENNu2gU13qhHDM8jcV3UchMw/s3thW7lMMT2aXfkoDrA49yL4NX4YhoqFgEDBPNyv7ir0muz/ptJiHqm0TqMJaF55uK9PALIiKYWyPQK9/xccLbInrsWB0t8TjAM5aMpjA0PnsfLLDF5LGmU+Kc2Ilymryvg5/A7B4bGYJ8uZuhKwi+5xCtReV7zBwRo9BuOG42Rb/eRFGtr/E5v/6DBWK7qzo4h+NckwS5s+uV7M9UcznIJBRcLr6+PvlTFSMhm8wZTOnxW/NWF54rSUfQl1Z7EJm74hoFTiHxnQsGLwTFQOvY9usiPVRNJ7irOzKEqrec/chMWUcM13VovlFPpYK2ojBBJxBKGhfPFU6e+uSpTypZk92yzHNav6S+V/LKQ2d/MMNM74rL4Yw8wBA4bO4RHUrYp4TxfqA8tdse0+ZtsLPjQdiqcxrKKAZtCMN9+uK+Q==;WhAefrufBKseASurMDey0A=="
+images:
+  - url: "https://i4.ytimg.com/vi/7ms9iyEoadg/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "Voxu6oJgeNu8/2AlKctqxMjkaQjcWVg3oQapJeIveL04akHUoI3aeCMNU+5HaAabe5xw/CKn0txmUtI1JtvUcl3TZ+Io9M4cviusqr3qouLOsiUBAo/0btqT/HwLE5BYk3TmpbUhGntVcdeqlUfJmOzczaou2J1+zgl5GqgVe/5z5GhQWyef0DF4ztjAfUzScAXV/bDGctOORAc3v+bCm5s4MK7S2GFoCBht7/2ln5i1XDaJ4YnUMGQyfK76S3RP3/9ZxID0TakCW8cg6xIAgXeUNA0ZUUC+38paELC9YwSxVk7X8WMx+vqVOsTijeO3HbePpsF22KNV1Rek/+92ye2aulrPeAcpAq7ZS04QXVk=;+8m77yVyyIM/mMdFtqONYQ=="
 ---
 

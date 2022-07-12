@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T19:07:00Z
 originalUrl: "https://www.biometricupdate.com/202207/parties-seek-clarity-in-biometric-data-privacy-lawsuits-scope"
 webUrl: "https://www.biometricupdate.com/202207/parties-seek-clarity-in-biometric-data-privacy-lawsuits-scope"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies

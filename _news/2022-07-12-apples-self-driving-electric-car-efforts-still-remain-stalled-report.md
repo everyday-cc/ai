@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electr
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Apple's self-driving car effort stuck in low gear, says report"
+    excerpt: "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new 'big thing' from the company since its iconic co-founder Steve Jobs died in October 2011."
+    publishedDateTime: 2022-07-12T18:00:00Z
+    webUrl: "https://www.carsifu.my/news/apples-self-driving-car-effort-stuck-in-low-gear-says-report"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "F/jyarCfo9EzCQXeMWLtTeRtpTpredqI+TRdQcMtRYLPENcA9YBzEiI5P42D9ZFWINZxlj/U0Rsi0RqpXv4fDTEvOvisqSzdbf2tUzRaSJNjrzWTKq4xMBnfIuRbl1eEJWTSl9SBTATpiqh+lEfLVS7QqHfFkE42WybDjpD74YNliL+jSV/A3GgrGVN1ThWYLMoo3VmkY2Z/Z00K9rrl+YCkrXzF9bLcm9ZpY00oo3v2FB1HEjNO84oi84NKL608f4V0cYVNSwxeUK+2q2MiVbTULYTtzBgWoi+qx/AHrPkVMd4GJv1457cettlB5yEWvAlPgOVQ0hwO9YjozeKISxg/HVGNLi4Ml+msYPz+zlo=;EWE2HWOtJPhnV2e4mpvSiw=="
 ---

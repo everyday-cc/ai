@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:29:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28033784/kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033784/kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

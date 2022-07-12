@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verif
 webUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design-4.jpg&signature=9603ada9242a020a0ba12541717c7b0c"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Meta thinks its new AI tool can make Wikipedia more accurate"
+    excerpt: "Meta launched a new artificial intelligence tool which it claims can be used to automatically verify Wikipedia citations."
+    publishedDateTime: 2022-07-12T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/meta-tests-ai-wikipedia-editor/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-tests-ai-wikipedia-editor/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-tests-ai-wikipedia-editor/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2022/07/12/luke-chesser-D8QbsYyiFmw-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1174
         isCached: true
   - title: "Meta develops AI system for reviewing Wikipedia citations"
     excerpt: "Meta detailed the AI system today. The company also released the code for the system under an open-source license. Wikipedia editors ensure that a given piece of information in a Wikipedia article is accurate by checking the source from which the information was retrieved."

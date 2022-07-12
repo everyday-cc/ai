@@ -73,7 +73,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
         width: 1200

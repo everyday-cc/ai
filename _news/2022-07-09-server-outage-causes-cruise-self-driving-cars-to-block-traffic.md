@@ -52,31 +52,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "NHTSA Investigating California Crash Involving Cruise Self-Driving Taxi"
-    excerpt: "A Cruise driverless taxi was broadsided while attempting a left turn in an intersection last month; occupants of both vehicles suffered minor injuries."
-    publishedDateTime: 2022-07-08T02:28:00Z
-    webUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608"
-    ampWebUrl: "https://jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-cruise-taxi-is-broadsided-by-a-prius-in-sa-1849151608/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-  - title: "Feds Probe Crash of Self-Driving Car in San Francisco That Caused Minor Injuries"
-    excerpt: "A Cruise vehicle operating in driverless autonomous mode was involved in a crash that caused minor injuries on June 3 in San Francisco."
-    publishedDateTime: 2022-07-08T02:34:00Z
-    webUrl: "https://timesofsandiego.com/business/2022/07/07/feds-probe-crash-of-self-driving-car-in-san-francisco-that-caused-minor-injuries/"
-    type: article
-    provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 19
-    images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2022/07/Cruise-Self-Driving-Car.jpg"
-        width: 831
-        height: 599
-        isCached: true
   - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
     excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
     publishedDateTime: 2022-07-08T13:18:00Z

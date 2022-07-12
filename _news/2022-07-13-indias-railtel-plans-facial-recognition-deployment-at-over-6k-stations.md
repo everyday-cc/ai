@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T19:31:00Z
 originalUrl: "https://www.biometricupdate.com/202207/indias-railtel-plans-facial-recognition-deployment-at-over-6k-stations"
 webUrl: "https://www.biometricupdate.com/202207/indias-railtel-plans-facial-recognition-deployment-at-over-6k-stations"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Biometric Companies
