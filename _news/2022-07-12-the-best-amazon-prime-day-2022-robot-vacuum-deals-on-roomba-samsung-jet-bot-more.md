@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
@@ -85,6 +86,6 @@ related:
       domain: nytimes.com
     quality: 34
 
-secured: "QmKk/DBhCfBRBG9hvfyYX5EAQ8DO0tjigyqB2z5Ydp27DsTtkwYbNO82Jdt5r0e/vquQ9ZEAf1457dBQifIBhPzP0rUde0vxhea6mx/bE5xz9JAVmBhq8kOJ49zW9JWbHjaAPHhu0hwDmKwFGFcAnL3Gg23LsN5++v7daE2c5J/SLmyqJbYqKAcS53AfMtRY99KX8/QY4rfkukI3ywYdDT1pyRQ5zo4tTkWqILKs0DqHZjKqIaD7t1+kwDhYYrQsb+VzRYrvZLqIfpKEC1KbpzfU84MYolxg24lp2Ui4tptpnlTmfDijR1+mK5xGsDd1u4uIEm7VXuTGwvsY1Kqvfys7dY0vzc9sUQw/fY2Yv4Y=;kNQyqcNPH6WIoLMX4a3NPA=="
+secured: "vmX7jpJP5HDtqDMsyzkIxAeO5mLICh5s9YFlzqi0P7ceCuICZDx1uhod39c6AAvPyWc7ap6qBlJttY2Kq5H3CkERU/4MVAg4R9kzAZGcHJSxOiwHF+0XjUysYfM7mO1IGDuB1AiOjG21U5uBO+9B7sBPzj8SMIRZqw2jcgCeIcCyR2BubgsKuQ51q/Nsr+gqpx0P0cxaRUYochm0wB71IG5U6Do2IJlqI+S15lhSATuJW59RcXqCBnXdXVipCKNEtDeJeSDzXPY4qAPRoa7sov8EOGcTIVYnOWAcMXCGmO8/PZzEPq2rDExWlj6/SIaakWclq6BRqlDtdSkSxfgx7R6CmG5EiMxZ+tnjpoglXFs00wl40t5da4nPVKO8sXF+XviGB3WgPKb8AdQFqJGh4pOSbxOcDkijFn1UgzK5xs/dsaJF+qbZN1DzQZeXZ9pLwF+dM4q37sRcXiiTr9ENt0mej2BQGNRcZYrHMBcEDTjYi/nS7W7A13dZOzoEJQezmgaZRMDLBLA9SlJhm1vHDw==;7Za8dc21z7Bp+/fd5YUacQ=="
 ---
 

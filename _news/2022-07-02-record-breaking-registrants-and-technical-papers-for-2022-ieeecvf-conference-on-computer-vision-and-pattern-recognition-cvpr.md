@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1852465/CVPR_exhibits.jpg"
-    width: 400
-    height: 233
-    isCached: true
-
-secured: "uijLRzKITeR8z4hGvIRQnM/1Md934VU2RZlogx7IeB5Pdr/bSWFRNGS22cuONH0UGxfrq+Y9eHRehQVeSwuT+PHfuGaOi6petFxBnUwNG/QYGINaMKgdZNWs9mmlE8VINgUPqPNTW89Nv4uo3bE3Uf4v3lsnc/p1ei8DScWx4i3i1+BXPxSSOHXndWqAPx4vCHis+F9gK/bWCWJkDFGjfmV4ZDxl+XBGJJ/43ktmv5FpXLPljL4Zq3XYYnUAGMqvr03decCUPZau2KTf1zFBBqQuNOVNtxwVbabqt9GaOr8aCyF0PJw0MGdLmNeeasAySh4rj1zUeO29PxF0qUfi0GdzvkyW4IJxWf4YlzWIwVk=;UlYyS28CWbgXAbCzVPYwyQ=="
+secured: "PynGCN4ny63wPhivEjzbs5anPNQt0AXCLV0CRuC1lWdZEdNj3DYZ8xm5UDQMAmwUhGPJo08HM9WYfoQU1VsImJrn2TffT6GKb5yWlSO+rOn6rhAEdW+wlzA/kXwlbNrE0+qt0QrWest6tb4R+QR8+9kEaa+xyN9Infh/8ln8tC2oDPvHq9adwSlaSihUsHuEeEyFnByxf5LntmGHC1ke+DMM3MDMMZ8aWNsOTPzyhmK8IvWMKc4K9vlGemQ6/l+9HuwfwSxPAAq5T8IC2lar9qGeJvaxn013y/ARdGab3cpioI3vUDA5Nz1/tHD39IyZRiiKI83dQV16JbtumF6GaQ1AyGB3zBGzR1PCZbdAWPM=;NSAib1rZcaPJEP7IG21rEA=="
 ---
 

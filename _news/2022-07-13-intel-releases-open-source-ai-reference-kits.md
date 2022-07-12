@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Intel Releases Open Source AI Reference Kits"
-excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
-publishedDateTime: 2022-07-12T17:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intel-releases-open-source-ai-reference-kits-/2022/07/12/9637461.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intel-releases-open-source-ai-reference-kits-/2022/07/12/9637461.htm"
+excerpt: "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries.SANTA CLARA, Calif.--(BUSINESS WIRE)--What’s New: Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to"
+publishedDateTime: 2022-07-12T19:30:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2022-07-12/intel-releases-open-source-ai-reference-kits"
+webUrl: "https://www.pharmiweb.com/press-release/2022-07-12/intel-releases-open-source-ai-reference-kits"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PharmiWeb
+  domain: pharmiweb.com
 
 topics:
-  - Microsoft AI
   - AI
 
-secured: "OGtuFw0ckl4v2xU+ByrVE00vAGhcFDi139/KukKRtGS8f1eGmhSjkQ5jdZ+hczzLCExsSArATDwy7NQzKnh6rscv0qXeWmrkBQZZyEeJRgWJfQIyygZPJyDXvALvcJ/tTcaVl7/nq5QlUZgBL7ExNDiHYWecTfL4gFsu5sLci6zQp7Jjr/HNOVsgMN3zyl8Zqqei/wqjHo26r75pGzVzSWq683irY8Frnvqyws2AU919gaSTOXtDReCtkomYKnuo0Gv5yIBWbaWjJ323h2FOsEf0E+x3XhscofBGOMmXyNZYuJ0ksmiLsoPIcEa+OMoWwCcB5ClJLbZhFsg7htrBKTq0NVKKCfLzVlokHxE8aUc=;CIAxmnVbu+6bSQ0tS9nWdw=="
+secured: "5P9OPOefKmnKAoMNTDj2DpkmkkNNPvkNcylRJPWFBJsu83BikJ4RN2ys1MXjimuCINLOsgcsyfaaMje5P7TTNMUBRveCDajw7V8KgEkxuTbc/rNjZC9ZClRPWs8ZA4iBXsIA2Pqk0XoI2kQ7rcc4NbV9/89UaKvuiAro3VFeGD5V3sE1QLqRZoEhORSjiEP3DegUbHXGK7LF/y/VIgWx6PMKP+ZEpHdURv23Hu+fTIrDnfM02sUOmlI8ACctPa3N71IsMgCJCstmqtrlOaQoxzRQ2fHE7IKW0PPTuv5G/y+J0eADiR7O5Cc5T4gn1kh1QSyZFNON5UNVY4cMzzfv6hkHHBLkaModE228mfqfqWM=;LhFhbPE5KwBbU8gwL7gl8A=="
 ---
 

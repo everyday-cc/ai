@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://i1.ytimg.com/vi/tK7Ik5IQDUY/hqdefault.jpg"
-    width: 480
-    height: 360
-    isCached: true
-
-secured: "L0fQYhHnEorDWqVX1waSCMkNmL4viiMStWuuoktzd7Lph+U8wRvY1Buyx/lF7kFWBeGSV+lGu66YPn3PGtjOPHsdGLpV1/EN9iyQ7jiXWBgYHtavembqSatm7dx9AQ/I1iAQiP0tQlr2mty5Qzi0ptVVMRl12LHhKYS6EZX9UEpfZ1JqEu8cFY68ILJV3BJzQME36dD4p9RArMWHJfcyoIaDDg2TvdNZ7MJP3lvFt+C/zarXCE3yWLiKC4cryU9ccA+bS2hMor2NghTtlGk+IwxKaAj+MJ3oHw0qNAnSGycVv9YpquWHW4yPW5CcJU4RucYyfrl4UgQCjg26E9gtFGNFyst3KGDi7KGGIWSNzzE=;guZIik22VbV19Xgs6cYntA=="
+secured: "4K4UyPsOE2ikEP0Lcp7T+rSvxBXkO7X+hOglc/v/P+ajxgNIKkMKL20fcUR7XVHoJY+QFXAxmzsveSoY7yENNu2gU13qhHDM8jcV3UchMw/s3thW7lMMT2aXfkoDrA49yL4NX4YhoqFgEDBPNyv7ir0muz/ptJiHqm0TqMJaF55uK9PALIiKYWyPQK9/xccLbInrsWB0t8TjAM5aMpjA0PnsfLLDF5LGmU+Kc2Ilymryvg5/A7B4bGYJ8uZuhKwi+5xCtReV7zBwRo9BuOG42Rb/eRFGtr/E5v/6DBWK7qzo4h+NckwS5s+uV7M9UcznIJBRcLr6+PvlTFSMhm8wZTOnxW/NWF54rSUfQl1Z7EJm74hoFTiHxnQsGLwTFQOvY9usiPVRNJ7irOzKEqrec/chMWUcM13VovlFPpYK2ojBBJxBKGhfPFU6e+uSpTypZk92yzHNav6S+V/LKQ2d/MMNM74rL4Yw8wBA4bO4RHUrYp4TxfqA8tdse0+ZtsLPjQdiqcxrKKAZtCMN9+uK+Q==;WhAefrufBKseASurMDey0A=="
 ---
 

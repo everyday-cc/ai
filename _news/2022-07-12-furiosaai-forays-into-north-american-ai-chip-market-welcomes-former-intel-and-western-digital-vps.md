@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-12T15:19:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751"
 webUrl: "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751"
 type: article
-quality: 50
-heat: 50
-published: false
 
 provider:
   name: Business Insider
@@ -19,9 +16,9 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
-secured: "5u1RYNEvInB+s5Axx9Bv8rih5l1Pb1zpiCwOAYshrA5+L6jN8QYvUHDID2dHFqHhlgPA/j3D8SfVI/2vnVCc7V3Z9Vn0BTwLVjrDXRqa3dpys4U8wx9SfOaHVADalAjprS9WcjOR+sA5c6481qc7olN4g2fMtdan5AHp6Ofht1KL6XiNyJcI2QMf/3h6CH7eLBRuwljhPNCZH4jXhDR+6k/Z+oDTrUcg2mXKQKlgS9gB0YhNqXYUOoiKwGQbZOIwPyOsufSsMrHC++I4C763kX6wHi+pIO5sIMjV25l3PP1EetjioVERsGE2srE6NGjksyxXCSAFQv7hZfxYBfXiu9HCF1uEYZYbb9LpVX/JSPM=;HO1rxP19KKmHMSJK7H5tSQ=="
+secured: "QMAto8ad3z0xQAWN5EJ1Ro7Dum3cqRdw8LD3GOf4eyKGKR9hL7pnnZUsR2GmzG8dS7CJuqDfVUP/P9OYVDMN6uAnxcecP09JpHSIFxYy5CXMGtF84Q1fOFje1dqhVo2YB167gP2bC/J/9A9gGZGJfuvYvCphPhQhphRu2Phft31gzrttM0Rj+tDNni6RCZMg6rz97QT7WHR2et/ppkZremoG0nQ7ynuKOra01TDh1mjRGjjNzMPQdEJrdYqHaprlYPQUeOF5nNVPe1SOvqtymH1zZsFjeQLWfd8VkO515d2MUGu92bw5r8Z2+AQWL0/HYe1LFTXHSrJKjXg3TEuhrYLJDxmbx4f6mR+LFMOH540=;lfb/ZIFTZ2k1ncLZZfhtHQ=="
 ---
 

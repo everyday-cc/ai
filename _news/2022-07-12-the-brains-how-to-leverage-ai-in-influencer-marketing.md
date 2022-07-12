@@ -1,0 +1,20 @@
+---
+category: news
+title: "The Brains: How to Leverage AI in Influencer Marketing"
+excerpt: "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,"
+publishedDateTime: 2022-07-12T13:03:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761"
+type: article
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+  - AI in Marketing
+
+secured: "fLLpMmZyIz+FP7a+EDEUUm59xmYVHgZ3QRV9YHTl10bqG42AKxdkMEj4dwyt6K86aFqlVM5dKz60m5egVX5tguIDh9OpGa7ZmuFHMcSn0P6/IX3TMlMouET/9WI7Yrqnh8L6w7TItekOvGtnWq96b/c0IHSani+ZOscwsG6vS2jUl9mtMMB64KDBt3rQU4G7YRdO6oMt+HVwsYOv9+aqi//Emd4ROs8MGP9QyvyyxsLdw75OrucoNQ/iIaN2UMd9ea5okoPT2HrC3em3MwJT/P5AC8UthnvRs7fc1osht6QrZOW35DRs4vZK9c/4+GBSm0ODi6TQFDY3tTk4Jmle8SCunUmqj8+VoyyCwc0t0eQ=;uYOumVKd/iPjqwizb8brwA=="
+---
+
