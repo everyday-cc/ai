@@ -35,20 +35,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Why ‘facial expression recognition’ AI is a total scam"
-    excerpt: "Artificial intelligence can't determine ground truths about human thought, anyone who says otherwise is selling something and pushing a scam."
-    publishedDateTime: 2022-07-07T22:10:00Z
-    webUrl: "https://thenextweb.com/news/why-facial-expression-recognition-ai-is-total-scam"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Bunnings, Kmart facial recognition use to be investigated by OAIC"
     excerpt: "A month after a Choice report exposed facial recognition being used across multiple Australian retailers, the Office of the Australian Information Commission (OAIC) has opened investigations into Bunnings and Kmart for use of the technology. The privacy ..."
     publishedDateTime: 2022-07-12T08:09:00Z
@@ -76,22 +62,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Privacy watchdog to investigate Bunnings and Kmart over use of facial recognition technology"
-    excerpt: "Information commissioner will look into the personal information handling practices of the retail giants Australia’s privacy watchdog has launched an investigation into retail giants Bunnings and Kmart over their use of facial recognition technology in ..."
-    publishedDateTime: 2022-07-12T08:38:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 48
-    images:
-      - url: "https://i.guim.co.uk/img/media/9a05609f7fd6dd90bd561e3a48873c4969a47526/0_202_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=19cdec6b2a03d12fcdc6595df42973e0"
-        width: 620
-        height: 372
         isCached: true
   - title: "Face recognition tech sparks investigation"
     excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores. Kmart and Bunnings will be investigated over their use of the technology which captures images of shopper’s faces and ..."
@@ -146,15 +116,33 @@ related:
       name: Smithsonian Magazine
       domain: smithsonianmag.com
     quality: 19
-  - title: "Kmart, Bunnings probed over use of facial recognition technology"
-    excerpt: "The investigations follow a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording ..."
-    publishedDateTime: 2022-07-12T09:10:00Z
-    webUrl: "https://www.dailytelegraph.com.au/business/companies/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+  - title: "Cognitec celebrates 20 years as an influential face recognition company"
+    excerpt: "Cognitec is proudly looking back at 20 successful years developing high-ranking face recognition technologies, and working with partners around the world on major government and commercial"
+    publishedDateTime: 2022-07-12T13:59:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/cognitec-celebrates-20-years-influential-face-recognition-company-co-2232-ga-co-3322-ga.1657629157.html"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
+      name: SourceSecurity
+      domain: sourcesecurity.com
     quality: 19
+  - title: "Kmart, Bunnings probed over use of facial recognition technology"
+    excerpt: "Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording their customers’ biometric data. Facial recognition uses vi"
+    publishedDateTime: 2022-07-12T08:41:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "Privacy watchdog to investigate Bunnings and Kmart over use of facial recognition technology"
+    excerpt: "Information commissioner will look into the personal information handling practices of the retail giants"
+    publishedDateTime: 2022-07-12T09:14:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology?mid=1"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 8
 
 secured: "YzoXgMZBavY36loIEML6Z7m/4GswAKjsclXjJxyeYoWvYW1Yp5+FsDeziCkjFVngblkUjyNPIt/dNy3+p66IIoEBpxYflQAsijVazTbyMETEOqCqTTjQeO+lTuejO8Z9dQSG90y+j5S62uVLfOCyabGBzUq+VAOA9yejpydfmfsJK0ry0VmSjyJQB5YnCyVRyqM/jKRz1UECC7k2ML5XpOym1qgocZHtDq047Ms4J2aFx77BhPSGZgBfTBwG6Kn2jP1wWZFg0+8kjIB+94XfdPF0irRXUWXX92KiVQ+CjKcqEaiCdxKC2vGYXldftflZaa1Mi64bnbz83Kib5AGeyf5KHtKQ0lS5yddVV9FrAaHC3NIJzOiGVc+nwlCJLoqZBhd3U/PjmFkQYROplcZHnd42hexVn06gGItkMnjVenMlH8sRhSxDO/XWUVE1E6SZk3zPX6g5Fo4UYGK8VxroWlrOQ2+zLqJ8Nb8Vkcd3N1FVk2sKgCDa1Lq6UJnljjfDHp5lc5IHv1A8zHkqm/8jew==;rtkcopCh9cOEbrVWJcQF7g=="
 ---

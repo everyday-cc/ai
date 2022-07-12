@@ -75,15 +75,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Chatbot Market worth $10.5 billion by 2026 - Report by MarketsandMarkets™"
-    excerpt: "According to research report \"Chatbot Market by Component, Type (Rule Based & AI Based), Application (Customer Service, Customer Engagement & Retention), Channel"
-    publishedDateTime: 2022-07-08T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28001567/chatbot-market-worth-10-5-billion-by-2026-report-by-marketsandmarkets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "7Vr5hK9ru/td8wfZ7OqpY756jYVgZdIHBVa9JMfIXcuZNM//MfnluB5Hv1DgyLL5l19eUAvQ3KedxliDqtOnw6nDnUSQ1Rdf69HI/IShpAIFkyta5hr2+D4ioYlzXi4x5EeiQ3DSNW7EO0L7Zy+E8duBgHG/yD/Z88ZcNKwgOfOMndxv97CrXPjAvT4qin7kPeLh8X5JcEaMitWxLqHmn05TLX4E2fVKwGqUhxvorCKJmOD356cDpfzDkoFOaBMFg0l1IApBeVorzpAoGn2buMLd72Jh1GyU3M7cSXtck0adPR81RfNyQWakyiPLzErh23rytVRu7l8YPUm2i9Bv/c9tVim1gni49cR+sp6+PtKpUmbLh+XSOjgte9uqQTlE4bIubLJwMxpslnIlLkaVbMqpaK23PtYVHQRO3RaiNASiMZbBtIw2yYVKphk5WP2v6i/6ZIL8S0x6eCXSWut1u38QR1CpQq4wGTwoOdcdvSoJftm6z705C373+4TnzwHrewmwhNx1AisPNgeALY2Gdg==;SORBGF4YAA3NcJ1/y6gwQw=="
 ---

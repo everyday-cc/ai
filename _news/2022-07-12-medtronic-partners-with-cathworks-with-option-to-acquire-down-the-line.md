@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:01:00Z
 originalUrl: "https://www.massdevice.com/medtronic-cathworks-acquire/"
 webUrl: "https://www.massdevice.com/medtronic-cathworks-acquire/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MassDevice

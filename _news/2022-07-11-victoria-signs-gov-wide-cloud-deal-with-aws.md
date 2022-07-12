@@ -39,6 +39,15 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Victoria government migrates to AWS cloud"
+    excerpt: "A state purchase contract, according to the Victorian government website, is a ‘standing offer agreement for Victorian government common use goods and services’, and will give all agencies in the state a standardized way to buy over 200 AWS cloud services."
+    publishedDateTime: 2022-07-12T15:19:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/victoria-government-migrates-to-aws-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
 
 secured: "Mgx8WzYJAnl+oUsWRNOrR4iwQMoISglKQG5PFNVNrgOeOnhDWKMqI70YuANcMn6lsDC2N7OeyLBTPbLK9Akga/fiNgI3xieZCkQb+j1ysh6BCArNMHuyDsXZthyya6cQQbGi5yXBELEnXqLG+wSOUJjXwpc13Yupv91oq5Nbc7B2iZVuwzSn5BWfHvzQmtxg/HGkbp2almsA2ca0NWo8/a/SQkJdoyMpjIBZL+F516Cz4vBV03fCtsTWUOjGV/e/UQd6FZqQ32/xdsMz4IvmFQapIG32caGwgsDylC3XuxNwzam/05wYvwILa9F9B14w9ZTmljlAsQunAp5Om2GIo+15AxsvfnRrZtPwY+diq/LLluWp6VoLUFMqqPwtrEFvM20EXpZmvrvEpFEc0Epff2M45GT/kMiwaYfl/cvAz9Svstb7XpJ5EsPeHLildygNFh630qa/1R0HL4TSMYcuIHRCNfeZGtr6KIp8MwNvRbU2175tzbi+ySQuPsdflAJMWyzffDlYUOQ4hQ47OfaRVA==;Uncl7yriNOvTQfBZNW4CdA=="
 ---

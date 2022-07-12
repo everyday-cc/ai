@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:10:00Z
 originalUrl: "https://www.foxnews.com/entertainment/prince-harry-keynote-speech-un-general-assembly"
 webUrl: "https://www.foxnews.com/entertainment/prince-harry-keynote-speech-un-general-assembly"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Fox News

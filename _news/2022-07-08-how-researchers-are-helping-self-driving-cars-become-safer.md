@@ -57,20 +57,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 24
-  - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
-    excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
-    publishedDateTime: 2022-07-07T22:20:00Z
-    webUrl: "https://www.ibtimes.com/us-agency-probing-self-driving-cruise-car-crash-california-3566199"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/07/the-cruise-origin-autonomous-vehicle-is-seen-during.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Server outage causes Cruise self-driving cars to block traffic"
     excerpt: "Around 60 autonomous cars began behaving erratically and ended up blocking traffic in San Francisco due to a server outage. Self-driving car company Cruise, which is majority owned by GM, had an outage in late July that caused traffic disruptions around the city."
     publishedDateTime: 2022-07-08T17:18:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2022/07/Cruise-Self-Driving-Car.jpg"
         width: 831
         height: 599
-        isCached: true
-  - title: "Cruise self-driving crash in San Francisco resulted in injuries; NHTSA investigating"
-    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
-    publishedDateTime: 2022-07-07T20:41:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries-nhtsa-investigating"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
     excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."

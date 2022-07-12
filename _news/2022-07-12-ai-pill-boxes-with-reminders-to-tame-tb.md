@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:15:00Z
 originalUrl: "https://indianexpress.com/article/lifestyle/health-specials/ai-pill-boxes-with-reminders-to-tame-tb-8025220/"
 webUrl: "https://indianexpress.com/article/lifestyle/health-specials/ai-pill-boxes-with-reminders-to-tame-tb-8025220/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Indian Express

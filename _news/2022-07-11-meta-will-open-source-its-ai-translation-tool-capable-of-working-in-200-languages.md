@@ -63,6 +63,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Meta’s Language AI to Connect the World"
+    excerpt: "Facebook’s parent company Meta's “No Left Behind” Al project, can now translate 200 different languages in a single mode."
+    publishedDateTime: 2022-07-12T15:40:00Z
+    webUrl: "https://joyofandroid.com/news/metas-language-ai-to-connect-the-world/"
+    type: article
+    provider:
+      name: FaceTime On Android
+      domain: joyofandroid.com
+    quality: 19
 
 secured: "+4azBUnd1pLIBx4R3mFAbq1DmwM+crernC1HYKAkxLzqu1qnTb9gyu22FU+7oJG3sj2Y1y0cRJTD6plbjgEfsdVWMu3DhA5scJQwC4ifSnKfNxN72I0EaAt/DZn68EQzN3QYLhnGhfiMjnoUjorkvHXdXfYf6uYyJSjjQNWSwtZWkga4xxUxowsZzKiaz2edi5D0H8QFSCHjgoJiGK2tH6K68NG4XgKVyeXmQJIDzEhAHy5ZeQ9GZpiH54vXu72EhkgqUV2ZtvoDfSU7yciwAMupj1N9tLMg8nRSwysEo1D03yv+pO5IGDMxjY5ATB4kFlKNb3xqW/cKTeTmpPUF0AOTVIGiX3FiH+0gzxcaI/M=;m9FvztbQjQNB30ucmmM4jA=="
 ---

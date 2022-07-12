@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:01:00Z
 originalUrl: "https://portswigger.net/daily-swig/take-threats-against-machine-learning-systems-seriously-security-firm-warns"
 webUrl: "https://portswigger.net/daily-swig/take-threats-against-machine-learning-systems-seriously-security-firm-warns"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: PortSwigger

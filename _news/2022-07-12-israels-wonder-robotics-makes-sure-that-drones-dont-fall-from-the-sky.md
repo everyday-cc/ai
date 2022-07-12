@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:33:00Z
 originalUrl: "https://www.geektime.com/israels-wonder-robotics-makes-sure-that-drones-dont-fall-from-the-sky/"
 webUrl: "https://www.geektime.com/israels-wonder-robotics-makes-sure-that-drones-dont-fall-from-the-sky/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Geektime

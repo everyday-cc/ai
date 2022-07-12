@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
+      "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
+      "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler.md",
       "title": "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler",
       "excerpt": "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical",
@@ -1275,49 +1328,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-artificial-intelligence-in-healthcare-global-market-to-grow-at-rate-of-48-through-2026.md",
-      "title": "Artificial Intelligence In Healthcare Global Market To Grow At Rate Of 48% Through 2026",
-      "excerpt": "Artificial Intelligence In Healthcare Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Artificial Intelligence In Healthcare Global Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104438808/Artificial-Intelligence-In-Healthcare-Global-Market-To-Grow-At-Rate-Of-48-Through-2026",
-      "originalUrl": "https://menafn.com/1104438808/Artificial-Intelligence-In-Healthcare-Global-Market-To-Grow-At-Rate-Of-48-Through-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?320197",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

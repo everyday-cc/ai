@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2022/07/12/google-dethrones-nvidia-in-latest-artificial-intelligence-benchmarking-tests/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/07/12/google-dethrones-nvidia-in-latest-artificial-intelligence-benchmarking-tests/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

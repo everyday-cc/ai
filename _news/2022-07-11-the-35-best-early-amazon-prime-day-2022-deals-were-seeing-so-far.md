@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more"
+    excerpt: "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,"
+    publishedDateTime: 2022-07-12T16:28:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YCrBkDoywzQTSYaVyDsBje4XNpAbAsSqr4Qr6j5jGmZufAfeldUTvwB7UG4pJ/Ic6OdOfIm2iEkqm2kbTvraipeb61jpT/D/dTGg3BKgWbvWFw8tS3JCGd+NwHqmBz2Kt7tl+JE8lgobBDZSbh2ukh/l8mxFv9uNKd2Aso3D2NP+wjC6r8XqS9fd0Aex+XyQI+4pWj3IhH8XRhV9uesXYGWk7ectp3YJgrDV6s0sC84+a+fIU2HdKhV3FqJZ7JYp1tCmm1yDGUQ4SKCfdYUIL9W81Z2h2rkT4MmCZ3EtIX415wFziCiu+HK83/hynt9T8Og3YWTk7uM8Rew++ik8hkMOeEETkX2ILmWS4+Hre6cPmPwbyYg/JIEnPLpF/TrJDX8N8D/gou9OAr39h8ZKhfU45A4npDKPni5YJGSYm7LUdZJ+Gbyp1UOtM2zq804Yz0Fi3R+WY6H+BzXu0D9+SWNNe7yf4KxPwqArwEZQ5lQuWFlsDeBOpOOrvRNz21R5VjchyTckES8OJGytG2HC1Q==;jj/xvoLKIjrkbnyopdiJCA=="
 ---

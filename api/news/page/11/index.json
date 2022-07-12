@@ -2,6 +2,290 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
+      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
+      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4",
+      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-568242/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "publishedDateTime": "2022-06-29T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031.md",
+      "title": "Cognitive Media Market Size Future Scope, Opportunities with Strategic Growth and Top Players Forecast 2022-2031",
+      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031-2022-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031-2022-06-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-can-artists-still-benefit-from-nfts.md",
+      "title": "Can Artists Still Benefit From NFTs?",
+      "excerpt": "Despite the recent cryptocurrency crash and a more sober approach to digital art by collectors, artists still can gain a lot from non-fungible tokens if they use them wisely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6192c2ac7fb49741ecd7576d/0x0.jpg?format=jpg&width=1200",
+          "width": 1066,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/amp/",
+      "publishedDateTime": "2022-06-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-is-ai-making-your-business-better.md",
+      "title": "Is AI making your business better?",
+      "excerpt": "Technologies like Support Vector Machines and Artificial Neural Networks can learn the patterns that occur and predict the future of financial markets and High-Frequency Trades with high accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/artificial-intelligence-benefits-in-business/articleshow/92538071.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/enterprise/news/artificial-intelligence-benefits-in-business/articleshow/92538071.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/photo/92538071/artificial-intelligence-benefits-in-business.jpg?imgsize=69166",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain.md",
+      "title": "AI Tech Company Nala Robotics Signs Expansion Deal with Slice Factory Pizza Chain",
+      "excerpt": "Newly Introduced Pizzaiola to Serve Up Pizza Restaurant's Signature 28-inch Jumbo Pies, Including Pasta Dishes and Wings ARLINGTON HEIGHTS, Ill.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-renesas-and-cyberon-partner-to-deliver-integrated-voice-user-interface-solutions-for-renesas-ra-mcus-supporting-over-40-global-languages.md",
+      "title": "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas’ entire RA MCU line.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-global-artificial-intelligence-ai-market-report-2022-with-special-focus-on-investments-with-an-overview-of-patents-and-patent-applications.md",
       "title": "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications",
       "excerpt": "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications.",
@@ -725,35 +1009,35 @@
     },
     {
       "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars BEIJING -- With no one at the ...",
+      "title": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars",
+      "excerpt": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "webUrl": "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
-      "publishedDateTime": "2022-06-28T19:17:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T19:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -840,255 +1124,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-14-recent-digital-health-investments.md",
-      "title": "14 recent digital health investments",
-      "excerpt": "10. H1, a big data startup focused on healthcare, secured a series C extension June 9, bringing the total for the funding round to $123 million. 11. Artificial intelligence healthcare startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "originalUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-the-uk-wants-to-boost-ai-development-by-removing-data-mining-hurdles.md",
-      "title": "The UK wants to boost AI development by removing data mining hurdles",
-      "excerpt": "These changes make the most of the greater flexibilities following Brexit. They will help make the UK more competitive as a location for firms doing data mining",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "originalUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Concept-Illustration-Hurdling-e1656446452746.jpeg?w=1024",
-          "width": 1024,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "publishedDateTime": "2022-06-28T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-qa-the-investment-case-for-robotics.md",
-      "title": "Q&A: The Investment Case for Robotics",
-      "excerpt": "As robotics and artificial intelligence advance together, more complex tasks can be automated. There are two key areas where we see the next generation of robotics driving change: logistics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
-      "originalUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly.md",
-      "title": "Create audio for content in multiple languages with the same TTS voice persona in Amazon Polly",
-      "excerpt": "Amazon Polly is a leading cloud-based service that converts text into lifelike speech. Following the adoption of Neural Text-to-Speech (NTTS), we have continuously expanded our portfolio of available voices in order to provide a wide selection of distinct speakers in supported languages. Today, we are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year.md",
-      "title": "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year",
-      "excerpt": "Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-south-korea-00c622d69bc584f9f2701d9ec278c095",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-south-korea-00c622d69bc584f9f2701d9ec278c095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-gms-approach-innovate-collaboratively-integrate-tech-uniquely.md",
-      "title": "GM’s Approach: Innovate Collaboratively, Integrate Tech Uniquely",
-      "excerpt": "The advancement of artificial intelligence (AI ... Today, we use deep learning and convolutional (visual-based) neural networks in the vision systems that monitor quality in our assembly lines. These trace their roots back to the early 1970s, when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21245437/gms-approach-innovate-collaboratively-integrate-tech-uniquely",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21245437/gms-approach-innovate-collaboratively-integrate-tech-uniquely",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

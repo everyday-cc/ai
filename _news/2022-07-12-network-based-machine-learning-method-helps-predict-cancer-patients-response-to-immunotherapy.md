@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:01:00Z
 originalUrl: "https://www.news-medical.net/news/20220712/Network-based-machine-learning-method-helps-predict-cancer-patients-response-to-immunotherapy.aspx"
 webUrl: "https://www.news-medical.net/news/20220712/Network-based-machine-learning-method-helps-predict-cancer-patients-response-to-immunotherapy.aspx"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: News Medical

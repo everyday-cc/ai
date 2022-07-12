@@ -19,6 +19,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "ICieF3J/pdtmwdwsHKDmersiffIFfW533T4PN2SJnz4AuEo9ZJi2DfPKEE3iyZR0KJW2ToxAPTDmjbRHg71AAF6jPYjwAPMrea4aaS9dgVSfgMOEvcEvwLvoXVO+eDf1hDY5JuR8DAkIY92rlAfzajq1+UaUrXYGehPAE6kjsmvdsuh6aCDI0yS5Zg9Y/BCByQli/shmkZEte7jt9qSWyS01eTrX4G/avSCp6z72l/Dv/UScDXg/1S/gbVWOWrJt7pfisjxCRN8WiYODr9WMSNxJMKYE7lkgTaZvvqPiZy+/B4cjHrHpnFqoluFMpgpcmkwVbncTd5byEBET99rdPAUKob5Q0+0E6dUeSnGJUeM=;FO6fHzozCXk453vx+XIOfQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/890716/KDD_Logo.jpg"
+    width: 400
+    height: 315
+    isCached: true
+
+secured: "HAt5R9W6UD8iO7tM2q0BpU11GzkFz0ZQhUt3F+g5xo3qes3VIHEf0bPAt/dMs4U8vIPbPx197HZPrw6o7286YYXaBPA/SnSJMjhEd3aZbYXZBkryT3lDf7cYwzzdBCcy+TmkbfGXKbcmKQvr7YD1LXfxDH9HGLUreSDzvkHSHXr/4RpNYFzwAeW131hOttWKOqZn+w4fuy6te68LUD4r9gM1uyV0mrtb9CD6kLqTlFLNqGH2b3Ne3FZRxWDn02RRqJuygnDbKnvSuFNiL8pYySGnsIJTgWFKTHN+bWGdVXC/Tyw0KKbiIIWAU0B1tGXAeI3HzwbVfEMovRtrZxuom+obZmcDdbg2v2N+QSc66zc=;dqrqrJPl7c3MHqJgpvC+qw=="
 ---
 

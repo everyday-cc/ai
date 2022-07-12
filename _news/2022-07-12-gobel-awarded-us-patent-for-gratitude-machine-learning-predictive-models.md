@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-12-gobel-awarded-us-patent-for-gratitude-machine-learning-predictive-models"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-12-gobel-awarded-us-patent-for-gratitude-machine-learning-predictive-models"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Daily Herald

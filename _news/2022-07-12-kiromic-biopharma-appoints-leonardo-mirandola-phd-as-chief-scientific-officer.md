@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:19:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df"
 webUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

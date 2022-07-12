@@ -1,20 +1,29 @@
 ---
 category: news
-title: "VOXPROTECT - A Witness's voice is not protected"
-excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-publishedDateTime: 2022-07-12T12:19:00Z
-originalUrl: "https://www.indianweb2.com/2022/07/voxprotect-witnesss-voice-is-not.html"
-webUrl: "https://www.indianweb2.com/2022/07/voxprotect-witnesss-voice-is-not.html"
+title: "VOXPROTECT - A Witness’s voice is not protected"
+excerpt: "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal."
+publishedDateTime: 2022-07-12T15:51:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "shWrwY9CtsotOFNdIoH6SZkTBrQxjcCGTB9t6B9nc9LaBjzAYMlEbNaz6XB8LX3z75qJmM0w70PN+1HtPe79cKEjdtYc93p5B/RoR5szgGbms9+La3e81TvzMUKTtDSW1akgLhLZ1pVQ98r/5QhJs5xCNrbPJiZXUdG14aA1a675dKMiaNIoTavVoh2wUFQpxWr1XmRO8hzBGdgJgLiR1MDgPzTW2R8KCW1/qsrpwpJwLM0Cp06eYw6XlnXnhpXN523jyIDFoyCwAt4qOfwnY/Ck7q0fPirTrbVQa8zZv7dU6XO+tnhLnu3ou35yFuAOQIzgeDAqDFBoGLLeCb00CP4+PM3+mHcsxO8ig3/8IhI=;H8Pe1QByO6+E4PaQfC2UmQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "kbfRs9nX5SzeTnuQwgxKLNIDPqFWE3o05/IRQR0e5pt1DK8vnTyul3hpk29v/TSQXi/jaBeeIF3lt1SH23HEjKPHSHcG9rhi8VPPer/4kkYIFvflLgC7+FsB9l4ptsl+WB+/ed5zugsf9rkHss+6Vu5OLZZMFRWMD/l5QYkQ9gNvmeCtAMIrqxgZTXJbMWB0mHRk4ZLUW0JyhrAwx+hmJB1yARuE4P9Bep3ZkaniGqwmRg9TNi4svSE47GwMU9hq22jVXMNDoElBqYPWABRA6khfswcfUgR1VF1WIYWgKtHU1+a7Wq0eN2h+2w9Cpm3vVneKj4TrBpwpcolfq7tDH1wkRspIaG9WRhqoQ2Kpx7g=;SQ0fEWVwIpTiaS82i+oQ5Q=="
 ---
 

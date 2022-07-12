@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T04:01:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

@@ -131,20 +131,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
-    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence AI technologies during the first-ever AI in Defence AIDef symposi"
-    publishedDateTime: 2022-07-12T00:25:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272616972/rajnath-singh-launches-75-newly-developed-ai-enabled-defence-products"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1657585436.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "India must be ready to face upheaval due to AI: Defence Minister"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
     publishedDateTime: 2022-07-11T21:35:00Z
@@ -173,6 +159,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
+    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
+    publishedDateTime: 2022-07-12T12:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
     excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
     publishedDateTime: 2022-07-11T13:41:00Z

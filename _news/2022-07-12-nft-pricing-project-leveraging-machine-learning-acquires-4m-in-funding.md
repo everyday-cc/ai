@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:13:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/07/193514-nft-pricing-project-leveraging-machine-learning-acquires-4m-in-funding/"
 webUrl: "https://www.crowdfundinsider.com/2022/07/193514-nft-pricing-project-leveraging-machine-learning-acquires-4m-in-funding/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Crowdfund Insider

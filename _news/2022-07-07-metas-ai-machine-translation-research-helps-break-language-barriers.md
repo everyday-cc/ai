@@ -1,21 +1,26 @@
 ---
 category: news
-title: "Meta’s AI Machine Translation Research Helps Break Language Barriers"
-excerpt: "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results."
-publishedDateTime: 2022-07-06T23:02:00Z
-originalUrl: "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/"
-webUrl: "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/"
+title: "Meta’s AI machine translation research helps break language barriers"
+excerpt: "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen"
+publishedDateTime: 2022-07-06T23:44:00Z
+originalUrl: "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
+webUrl: "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/"
 type: article
 
 provider:
-  name: nigeriacommunicationsweek
-  domain: nigeriacommunicationsweek.com.ng
+  name: MyJoyOnline
+  domain: myjoyonline.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "3S3Ff711zn1A3rX8VQqjqNcfOUzJAClXxoFLWHfpPRby9XBINA5UxeFBkDcF01OVLOBzsTNRxGqi+GJov7MOwMaJ+NcWJvyf8BZ0LVJkhy3UlJX1JAZiKXE62dtwd3N0QwsEGoe1J28Oto3rW0pS4+SvkUUTMaKz/7nefGv5ySqfpoRq4XanLGYsScSYHDY0bWQQeOGAopFSr+Kb2ISXQFlrt02h1bPdO4i6p028WUqDSNTg1pKOXl8KtqOP8aVD0y2Bk7rW0mdTMBKcWlcPBJNN3w6EloNuWKqNm1M7XZuYFIqpo8IcljUBhNwCrOxmca5Ez+k8OwZ+fhyzaz8ZBq3Bc3C8z9nb8We5BHKfuXE=;aO3zuGm+5MZ8Hr6DSXUC4g=="
+images:
+  - url: "https://i1.ytimg.com/vi/tK7Ik5IQDUY/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "L0fQYhHnEorDWqVX1waSCMkNmL4viiMStWuuoktzd7Lph+U8wRvY1Buyx/lF7kFWBeGSV+lGu66YPn3PGtjOPHsdGLpV1/EN9iyQ7jiXWBgYHtavembqSatm7dx9AQ/I1iAQiP0tQlr2mty5Qzi0ptVVMRl12LHhKYS6EZX9UEpfZ1JqEu8cFY68ILJV3BJzQME36dD4p9RArMWHJfcyoIaDDg2TvdNZ7MJP3lvFt+C/zarXCE3yWLiKC4cryU9ccA+bS2hMor2NghTtlGk+IwxKaAj+MJ3oHw0qNAnSGycVv9YpquWHW4yPW5CcJU4RucYyfrl4UgQCjg26E9gtFGNFyst3KGDi7KGGIWSNzzE=;guZIik22VbV19Xgs6cYntA=="
 ---
 

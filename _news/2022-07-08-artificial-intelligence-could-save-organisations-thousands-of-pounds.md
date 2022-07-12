@@ -25,13 +25,13 @@ images:
 
 related:
   - title: "Soleno Therapeutics Announces Presentation of DCCR Data at the 11th International Prader-Willi Syndrome Organisation Conference"
-    excerpt: "Soleno Therapeutics, Inc. (Soleno) (NASDAQ: SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases, today announced presentations at the 11 th International Prader-Willi Syndrome Organisation (IPWSO) Conference,"
-    publishedDateTime: 2022-07-11T22:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636408.htm"
+    excerpt: "Presentation details: 11th International Prader-Willi Syndrome Organisation Conference: Title: Long-Term Safety of Diazoxide Choline Extended-Release (DCCR) Tablets in Patients wi"
+    publishedDateTime: 2022-07-11T20:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/health-06b8b9df3b4e43765d25f0c8600fc5fc"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "Kay+YqpkxePA5rTsRQU3qBMfXNNrTcPPLteqVyqftj4CGF44prXclPJrJW4Kx/EfoiyCIq5egahHS+ndtiShyp3eHe/WMmLMKbpqxiNqqH1WLmA94ZSkOD4RfPT8evEJ/KtGE51QjlPQViDC7IgkEEotg6mkREth3QiyWfXpYiO+3wl7zTwdGfArgOZi9T2bHdb7FuPe8Mkb4ou9xrKxGUY36XHp0Kf0VpwUTGVCeh+TPAp7HR6P/QemWKb4lSnOSlqQCkTphWJni7bTbQql3w67EaDnQ61ZjK/+kgLWv1bOKv4UVpYIqIemrZ6mp8N42Jnc/2XvCymxrSuzl4UniyE0xa9wKcv/ywFHqIwuMeRPv3woseEdG2o9S6YCs3B3h9gaKHqCHtB9PYcjUz6PhOoicdRqzydty1VRnqgnDftpvHIAcM6birjX/tBf3aK/KtgTJxXunt5+TtgusszK3nndsYzHIPqH9lUGwgTuvOqsqV5m9Do0ep03Ut+Hs+lMaPd8+bOJ6JijLctIORXI9A==;PurJik2HR7mhplQ1EP/79w=="

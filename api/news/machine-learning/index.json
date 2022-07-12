@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-10-can-machine-learning-understand-the-human-gut.md",
-      "title": "Can Machine Learning Understand the Human Gut?",
-      "excerpt": "A new computer model developed helps predict human gut microbes. The making of the model suggests a route toward scaling from the 25 microbe species",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-machine-learning-understand-the-human-gut-207876-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-machine-learning-understand-the-human-gut-207876-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/microbes-in-human-gut-show-way.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-understand-the-human-gut-207876-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-understand-the-human-gut-207876-1.htm",
-      "publishedDateTime": "2022-07-10T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-08-global-control-room-market-growing-as-ai-and-machine-learning-enhance-solution-offerings.md",
       "title": "Global control room market growing as AI and machine learning enhance solution offerings",
       "excerpt": "The control room market “shrugged off” pandemic-induced project delays in 2021, as a new Omdia report reveals market growth at 9.6%.",
@@ -97,7 +54,7 @@
       "originalUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -119,6 +76,58 @@
         "name": "ifsecglobal.com",
         "domain": "ifsecglobal.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion.md",
+      "title": "KDD 2022 Announces Special Conference Tracks for Government, Health, Deep Learning, Diversity and Inclusion",
+      "excerpt": "Deep Learning Day on August 15 is dedicated to the impact of deep learning on data science and will provide a broad overview of recent developments, including emerging topics that deserve more ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion-1031574054",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion-1031574054",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/890716/KDD_Logo.jpg",
+          "width": 400,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "The Metaverse: Never Too Soon to Discuss Ethics"
+    excerpt: "Indeed, while the metaverse might be years away, it’s never too soon to start thinking about these ethical issues and form guidelines and frameworks for ethical principles that instills trust and pave the foundation for the future."
+    publishedDateTime: 2022-07-12T13:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-metaverse%3A-never-too-soon-to-discuss-ethics"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Metaverse builders: Focus on UX first, interoperability later"
     excerpt: "Metaverse game builders need to improve UX first to run optimally on blockchain technology, then work to build an interconnected ecosystem."
     publishedDateTime: 2022-07-11T03:10:00Z

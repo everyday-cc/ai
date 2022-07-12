@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-
 webUrl: "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-first-interoperability-later/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "The Metaverse: Never Too Soon to Discuss Ethics"
+    excerpt: "Indeed, while the metaverse might be years away, it’s never too soon to start thinking about these ethical issues and form guidelines and frameworks for ethical principles that instills trust and pave the foundation for the future."
+    publishedDateTime: 2022-07-12T13:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-metaverse%3A-never-too-soon-to-discuss-ethics"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "AI will help realize the true vision the Metaverse hopes to achieve"
     excerpt: "One underappreciated fact about the Metaverse is that it fundamentally needs artificial intelligence woven in at its core in order to provide a lasting user value proposition."
     publishedDateTime: 2022-07-10T12:16:00Z

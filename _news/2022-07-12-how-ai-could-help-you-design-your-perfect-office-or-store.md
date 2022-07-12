@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T14:39:00Z
 originalUrl: "https://www.inc.com/ben-sherry/ai-interior-design-small-business.html"
 webUrl: "https://www.inc.com/ben-sherry/ai-interior-design-small-business.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Inc

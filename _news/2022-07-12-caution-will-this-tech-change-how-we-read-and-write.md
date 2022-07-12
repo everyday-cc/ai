@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:01:00Z
 originalUrl: "https://www.zdnet.com/article/caution-will-this-tech-change-how-we-read-and-write/"
 webUrl: "https://www.zdnet.com/article/caution-will-this-tech-change-how-we-read-and-write/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:10:00Z
 originalUrl: "https://www.deadlinenews.co.uk/2022/07/12/gigged-ai-seures-grant-funding-to-develop-digital-talent-platform/"
 webUrl: "https://www.deadlinenews.co.uk/2022/07/12/gigged-ai-seures-grant-funding-to-develop-digital-talent-platform/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Deadline News

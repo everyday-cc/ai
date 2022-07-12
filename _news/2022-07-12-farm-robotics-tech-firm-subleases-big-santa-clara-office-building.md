@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:31:00Z
 originalUrl: "https://www.eastbaytimes.com/2022/07/12/farm-robot-artificial-intelligence-tech-sunnyvale-office-real-estate/"
 webUrl: "https://www.eastbaytimes.com/2022/07/12/farm-robot-artificial-intelligence-tech-sunnyvale-office-real-estate/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: East Bay Times

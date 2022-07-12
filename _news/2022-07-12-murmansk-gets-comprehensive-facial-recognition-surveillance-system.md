@@ -1,0 +1,68 @@
+---
+category: news
+title: "Murmansk gets comprehensive facial-recognition surveillance system"
+excerpt: "Authorities call it the «Safe City project» - the 1,658 CCTV cameras that will be installed in the Murmansk region by the end of the year and connected to facial-recognition technology. Murmansk is on"
+publishedDateTime: 2022-07-12T13:24:00Z
+originalUrl: "https://www.rcinet.ca/eye-on-the-arctic/2022/07/12/murmansk-gets-comprehensive-facial-recognition-surveillance-system/"
+webUrl: "https://www.rcinet.ca/eye-on-the-arctic/2022/07/12/murmansk-gets-comprehensive-facial-recognition-surveillance-system/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: rcinet
+  domain: rcinet.ca
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2022/07/russian-survillance-camera.jpg"
+    width: 1000
+    height: 563
+    isCached: true
+
+related:
+  - title: "Should we be worried about real-time facial recognition systems?"
+    excerpt: "Real-time facial recognition systems offer both benefits and drawbacks that must be considered as the technology becomes more widely adopted."
+    publishedDateTime: 2022-07-09T13:40:00Z
+    webUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Myanmar Expanding Use of Chinese-Made Facial Recognition Systems: Report"
+    excerpt: "According to a Reuters investigation, the military junta has plans to install CCTV systems in all 14 states and divisions."
+    publishedDateTime: 2022-07-12T10:24:00Z
+    webUrl: "https://thediplomat.com/2022/07/myanmar-expanding-use-of-chinese-made-facial-recognition-systems-report/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 38
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/07/sizes/td-story-s-2/thediplomat_2022-07-12-060400.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Should we be concerned about face-recognition algorithms that operate in real time?"
+    excerpt: "We’ve all seen and probably laughed at these movies. As a result of a “company-wide initiative to restrict the use of face recognition in our products,” Facebook recently shut down its own facial recognition programme, which performed identical ..."
+    publishedDateTime: 2022-07-10T15:01:00Z
+    webUrl: "https://bestgamingpro.com/should-we-be-concerned-about-face-recognition-algorithms-that-operate-in-real-time/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 18
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Should-we-be-worried-about-real-time-facial-recognition-systems.png"
+        width: 600
+        height: 365
+        isCached: true
+
+secured: "hTlcMxIUCFSt50OS5q95fd82M112OzjL2FggPtIn35SN78pZdt6+gy7PQQTTUfasVQ0MAW3qvzz2fwgr9iEJWjguQOXGhr87Ftj69lXQH4sA2U0S57pGXDvibOgouUD6nQ+r+IiVFbGmswKFKwTf6qOaZKjycZBpmNRMm5nrI/aUrhDFaiUe2gZgp0qLlg1nJJZaLQ/8AlcfGc1n8mcHBDV8WxeZ7IPLcfxiH2J79UT4+u9gdQlmVsavVf4x7BHbfs+v/A0uoy9wvIDMyKXMETBD24j9SHR6VEaBdXJfgTMH9melVu3CI94e7LYUkyaV0MQ8Q0Rii+ZuuUXsFJev9NKZ3tSYH3UDtrWzEy/VQ0o=;LnstkORYQdkaZcgRiNDCqw=="
+---
+

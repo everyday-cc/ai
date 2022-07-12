@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:30:00Z
 originalUrl: "https://www.complianceweek.com/opinion/ethical-machines-breaks-down-ai-ethical-risk-mitigation-planning/31843.article"
 webUrl: "https://www.complianceweek.com/opinion/ethical-machines-breaks-down-ai-ethical-risk-mitigation-planning/31843.article"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Compliance Week

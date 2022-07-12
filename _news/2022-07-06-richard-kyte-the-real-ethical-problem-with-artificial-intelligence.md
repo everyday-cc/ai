@@ -3,18 +3,24 @@ category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
 excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://scnow.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0b8c5c7e-63a5-57fa-883d-ac11badcdcd8.html"
-webUrl: "https://scnow.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0b8c5c7e-63a5-57fa-883d-ac11badcdcd8.html"
+originalUrl: "https://theeagle.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_e0f46805-5075-5feb-a144-42165a4d211f.html"
+webUrl: "https://theeagle.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_e0f46805-5075-5feb-a144-42165a4d211f.html"
 type: article
 
 provider:
-  name: SCNow
-  domain: scnow.com
+  name: The Eagle
+  domain: theeagle.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "D7ASbmgt7NSRNPt5l6fVTCB+RDdaHMB+pUm50sImHgSbu5wvhF1txVLE0Rnx4kcWCkKuxdPIfrBNvo3SoE8b6W87s93ZjZ59+4QTaZ9/xDkbP8R2BkkpR0SdpnjDpKGEUD+3wzLHeXf1uWeM0NZakLzCgUMTKvtZAkL21m4hUPEX3KYOftmeZkBdIUHAK94ooIXXpyCB+K8L4mE91uSftn8Mwy1cVbztMH3uDfGzp8eEQLtuvz5dSQUiN8+JmctmFoZqPXoT7QXs2hmDpQBfTFO3wbEqUeUMGssa4sBT0XS+dpgEoQhPei4m2CSkj+6TOM/v8oIvZaxRY0gseiK9JaFqIoAfJxrrMqgs5OFQY7MrS2Bg9KHN/TFnb4SuHwpKc+GgINjw3ZufTSFjil80bRRdEL0+aqEodm0OflNqoMm8bqRovr+FlpeuesDuLO+PvpZy/Pv3WBEOD/tbY8z8xy1xD4oJn6/TaikNKhB948cPoEywIY1yRg9+8Zw3ZO0cwYN9w/rndursIPWBISf2tA==;Uz/iHg8IGF+sx0PsA7WQZA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/e/0f/e0f46805-5075-5feb-a144-42165a4d211f/62c454eeb6db9.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
+    width: 749
+    height: 393
+    isCached: true
+
+secured: "m3GwXgpzK4jDWNcHXXDMVMLJvGxS6YI8EYgZ9RStZGsSedd9EVrVTP+gSAE2c7TEkaEdjigPJX8v/9u5RDjTyOOjmIQmwqLcd9T4VFNT3WwsqL9NJaMP06kgB/fuK3vMb6ELmaqK4fWzpQFYEh0gAU5ZJx6FiFKSzZy30pjCLxJ37rHzFA6ZYRw1s9IwlXTqlZoKe90L9x+/EAH0ESHGi8chKub0VpdmMR/yY38LUbUk3U4kgYEzNRqNn153FQTqkB4lWN9GuhL3bJxrzpikTobYhQ7xmMZ7+3bvByY124nZ470nztlpXYOYfEADMRorH2ctp4sG2esT5kuW/RfMLCsydRkMBsO64VGB7Nven6o=;AyjuHilb3GMezE9zX4VW3g=="
 ---
 

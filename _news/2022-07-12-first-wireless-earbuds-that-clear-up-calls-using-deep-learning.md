@@ -33,6 +33,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "ClearBuds: First Wireless Earbuds That Clear Up Calls Using Deep Learning"
+    excerpt: "ClearBuds is one of the first machine-learning systems to operate in real time and run on a smartphone. Wear both earbuds to get the best noise suppression experience."
+    publishedDateTime: 2022-07-12T13:33:00Z
+    webUrl: "https://www.medindia.net/news/clearbuds-first-wireless-earbuds-that-clear-up-calls-using-deep-learning-207894-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 18
 
 secured: "gJ981F8KvSEqmaX6eplJDuBwKXYdywq6riCeKiVXsvaRFWuxKEmCGxp9CpIq7R2Zaq9o9saCqU6vVRENjNqLR0LEwrDj5EhqdtZ+bFdGaYO34vSaejY7y/6joDJoZW5yliOI+0/1GTkRVYg6xSQEvjgAF62xsmu/IimWFsuXVKIPTi+uh1yyW5WtHdNsPaU8A1Vp+dcVJZcIGws+GTTEJz+eFxNYM5uR3qAWNtzZPsez14QyaEm0qzmg/jEMWHLUBvy8SGMwYRmFgowIiwmp6K/ABTJkV1UIETIZ6ADw5FjsTkBZR8yTY/04eLEPmMjzt61r9OzPJqFQVolvktSc3Stm4ZHHbTqyl88zOqensCgmr/PHIklFVRHi3hYUcdR3FOPJNDN1FL9N+GyzxS/Galj005J/TLbEsPmfrrzIxgxOs0EZ1/JEzDyStKb0/UMm4a6D/SV8p1Ix5Rbn6mi8+UnE/Iv9mT4Htz6lRyE/cLjoB1f1PdLLPEqc2Q70fEQIPelGv0Ifom6ObmRcez1HUQ==;YXxRg4//Szsb2/4BW91dtw=="
 ---

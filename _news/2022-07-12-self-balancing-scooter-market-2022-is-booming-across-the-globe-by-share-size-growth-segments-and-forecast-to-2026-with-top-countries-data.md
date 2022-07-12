@@ -94,15 +94,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Customer Service Market Size, Share, Trends, Industry Growth, and Forecast 2028 Top Key Players Oracle, Iflytek, Google, Amazon, Microsoft, IBM"
-    excerpt: "AI Customer Service Market 2022 Industry Size, Share, Global Analysis, Growth, Development Status, Regional Trends, Opportunity Assessment and Comprehensive Research Study Forecas"
-    publishedDateTime: 2022-07-07T21:24:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-7-ai-customer-service-market-size-share-trends-industry-growth-and-forecast-2028-top-key-players-oracle-iflytek-google-amazon-microsoft-ibm"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "PB5b+QZ/rSYZiyF0VCqgoscq8oIl5OK/LBfIwgIN8fmQI3LScLADeTJVo83NGivfSbJENT22FJgxIeAKb8k+axvQUFghmUYjOGw9FYZZ7CHK34JtX+lly5sWtyFdlheBpsy1UZniVlKSNwma2Qa+jjO7hdSBsWVjPF1YGtguKtPiue1jw10YMru64frseZ0DSyQOROxaUu2Isdw4uspdHD/YiNFFHv0U5QxFNNJwyCpkTsowcePRVh9rXPpu0mB0AT/1TblOyWM8xzX6gj1eYWEltGLvE3Xr2/RC/mX/WeNk6TNkxVAdMj+7yHbFGW48pN85KEBj+jWWnmKwliCt0pCe9nj+ETW9GaVMD2gQrg8=;62etBDkgNRFtArjLmMdNuA=="
 ---

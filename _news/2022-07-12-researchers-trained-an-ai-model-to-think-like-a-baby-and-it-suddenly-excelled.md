@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:28:00Z
 originalUrl: "https://techxplore.com/news/2022-07-ai-baby-suddenly-excelled.html"
 webUrl: "https://techxplore.com/news/2022-07-ai-baby-suddenly-excelled.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: techxplore

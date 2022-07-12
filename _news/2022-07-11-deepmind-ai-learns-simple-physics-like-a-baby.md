@@ -35,7 +35,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 106
     images:
       - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
         width: 716

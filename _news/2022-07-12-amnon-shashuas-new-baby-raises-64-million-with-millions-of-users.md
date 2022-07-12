@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T14:33:00Z
 originalUrl: "https://www.geektime.com/ai21-labs-raises-64m/"
 webUrl: "https://www.geektime.com/ai21-labs-raises-64m/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Geektime

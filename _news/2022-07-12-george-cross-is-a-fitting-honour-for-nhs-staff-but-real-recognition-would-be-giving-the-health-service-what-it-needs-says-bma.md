@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:57:00Z
 originalUrl: "https://www.bma.org.uk/bma-media-centre/george-cross-is-a-fitting-honour-for-nhs-staff-but-real-recognition-would-be-giving-the-health-service-what-it-needs-says-bma"
 webUrl: "https://www.bma.org.uk/bma-media-centre/george-cross-is-a-fitting-honour-for-nhs-staff-but-real-recognition-would-be-giving-the-health-service-what-it-needs-says-bma"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: bma.org.uk

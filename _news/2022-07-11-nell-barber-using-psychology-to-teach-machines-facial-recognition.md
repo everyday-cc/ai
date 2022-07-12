@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-11T12:00:00Z
 originalUrl: "https://www.ornl.gov/news/nell-barber-using-psychology-teach-machines-facial-recognition"
 webUrl: "https://www.ornl.gov/news/nell-barber-using-psychology-teach-machines-facial-recognition"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
-secured: "3bZ9k/FARlPAXTY82gMuzoM/odvvqhk7I9KssmIViC7N2+fmREUXu/vhkCVXZXrFnB4OSCNrUKonoJLWZFzlyizhLN+6yBbSmVUcfFlIp5o3vjrVniVf07OzMEBIIPZLMoRSKCXUXc0J98sl1vg9lQfJLlxfpCaflYkeh031GrDhfTt/AQjL9XFq4bNrsJ7uuUPLMZK4SGXS2XiiA33Ohdf74Xtgq9yAv2UfSQ/vaYupdUIEAfn2ys2LPoRP2wBPeuonyH3D0EfZIsQ5u5qXEEX3Oe/AOalEGrkQ/FVT0JArRHXDWpRulk6QApIe0K2/2GocZIzvNnzWOl3NqMl1SHw7jZ14Jq2zHmhJnUEFVeWcOvzBY6mnH1uuJRs0ooN3QvpaSqnlFHKd4Z1DzMY0Ir5+sJTMNRNnENn5vQNxRVawFBGevSphgRoh75ypVcZ+7SU6DnAoJM41dE0o1N5rLAf3gtz7i9Jm1JdKODFZuFlqaQk3twlK632AISwFrTkDkpSjV9CZO0klR6qREjw0rg==;eLC6UaGf29pxUp95WRmJew=="
+images:
+  - url: "https://www.ornl.gov/sites/default/files/styles/content_carousel_style/public/2022-07/Picture1_0.jpg?h=47322e82&itok=pN_WV6KK"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ag+aw81FUaj1dchIUwv6/3lD1vqmmyYOBRcZWPkQCEOKJLjXFZNkeuXpL+Gjl1ssILnMep/UzHNsDrRt4vDAdqba4PHlQZizLyc5aIISA9fpDdwIkaOQXCbHMiiulszVFznDSFCS3hiJojxb9F+pS5U/RVmgAz06ZXAIS1wwJI++GBZ3lrztsugKr/FTb6uDlRUsbTd3QK7FgwwXX8v53qSnIIZmFQKFA+H0VtVjVTzaThbtykNCuNFETz8fJCmUAOaMdFoPKBYheaS4df6XTrTzy5yN5+kc/pYdzy16h0bVD8cK2MAIGN3Ysp+xWu0TWE3/+QbSHth3DoeT3IaW3hb1x0KpH5vx3rWanlUBDGA=;rZahJIthdD/fzDLcA3QRsg=="
 ---
 

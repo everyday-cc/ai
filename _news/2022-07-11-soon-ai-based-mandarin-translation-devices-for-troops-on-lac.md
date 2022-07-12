@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/soon-ai-based-mandarin-transl
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65626423.ece/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg"
         width: 615
         height: 383
-        isCached: true
-  - title: "Meta Releases Open Source AI Machine Translation Model"
-    excerpt: "In a project called 'No Language Left Behind,' Meta has built an artificial intelligence model — NLLB-200 — that can translate text across 200 different languages."
-    publishedDateTime: 2022-07-07T23:35:00Z
-    webUrl: "https://campustechnology.com/articles/2022/07/07/meta-releases-open-source-ai-machine-translation-model.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 56
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220707translate.jpg"
-        width: 644
-        height: 430
         isCached: true
   - title: "Meta launches AI machine for translation research"
     excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."

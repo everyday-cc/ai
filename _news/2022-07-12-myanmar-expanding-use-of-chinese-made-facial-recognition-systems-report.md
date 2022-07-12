@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Murmansk gets comprehensive facial-recognition surveillance system"
+    excerpt: "Authorities call it the «Safe City project» - the 1,658 CCTV cameras that will be installed in the Murmansk region by the end of the year and connected to facial-recognition technology. Murmansk is on"
+    publishedDateTime: 2022-07-12T13:24:00Z
+    webUrl: "https://www.rcinet.ca/eye-on-the-arctic/2022/07/12/murmansk-gets-comprehensive-facial-recognition-surveillance-system/"
+    type: article
+    provider:
+      name: rcinet
+      domain: rcinet.ca
+    quality: 24
+    images:
+      - url: "https://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2022/07/russian-survillance-camera.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Should we be concerned about face-recognition algorithms that operate in real time?"
     excerpt: "We’ve all seen and probably laughed at these movies. As a result of a “company-wide initiative to restrict the use of face recognition in our products,” Facebook recently shut down its own facial recognition programme, which performed identical ..."
     publishedDateTime: 2022-07-10T15:01:00Z

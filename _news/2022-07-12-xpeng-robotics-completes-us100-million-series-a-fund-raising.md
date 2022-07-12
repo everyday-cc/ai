@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "XPeng goes from four-wheeled EVs to four-legged robots with $100M in Series A funding"
+    excerpt: "XPeng Robotics, an affiliate of XPeng Inc., has announced an agreement to receive over $100 million in Series A capital funding, led by a group of longtime investors. The fresh financing will enable XPeng Robotics to further its R&D in robotic hardware and software and talent acquisition while accelerating product development."
+    publishedDateTime: 2022-07-12T16:33:00Z
+    webUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/"
+    ampWebUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/XPeng-Robots-Dog.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "XPENG Robotics Completes US$100M Series A Funding"
     excerpt: "Xpeng Robotics, a Shenzen, China-based affiliate of XPeng Inc. and a key part of its mobility ecosystem dedicated to creating smart robots, raised over US$100 million in Series A funding"
     publishedDateTime: 2022-07-12T07:45:00Z

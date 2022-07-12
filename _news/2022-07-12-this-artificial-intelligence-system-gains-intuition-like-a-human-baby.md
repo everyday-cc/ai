@@ -8,8 +8,8 @@ webUrl: "https://www.cnet.com/science/biology/this-artificial-intelligence-syste
 ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
 type: article
-quality: 102
-heat: 122
+quality: 106
+heat: 126
 published: true
 
 provider:

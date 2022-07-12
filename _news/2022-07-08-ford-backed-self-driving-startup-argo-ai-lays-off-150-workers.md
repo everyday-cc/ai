@@ -117,43 +117,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Self-Driving Startup Argo AI Lays off About 150 Employees"
-    excerpt: "Self-driving startup Argo AI said on Thursday it had laid off about 150 employees as it makes adjustments to its business plans. The company, backed by Ford Motor Co and Volkswagen AG, said \"with incredible growth and progress made in our mission to deploy driverless vehicles,"
-    publishedDateTime: 2022-07-08T00:17:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-07-07/self-driving-startup-argo-ai-lays-off-about-150-employees"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Self-driving tech firm Argo AI lays off about 150 employees"
-    excerpt: "Argo AI confirmed an undisclosed number of employees were cut. The self-driving tech firm said its overall business plans and partnerships remain unaffected."
-    publishedDateTime: 2022-07-08T00:10:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-about-150-employees"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving tech firm Argo AI lays off unknown number of employees"
-    excerpt: "Argo AI confirmed an undisclosed number of employees were cut. The self-driving tech firm said its overall business plans and partnerships remain unaffected."
-    publishedDateTime: 2022-07-07T22:51:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-argo-ai-lays-unknown-number-employees"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
     excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
     publishedDateTime: 2022-07-08T09:16:00Z

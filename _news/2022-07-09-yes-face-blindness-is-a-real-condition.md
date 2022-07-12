@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brad Pitt believes he has rare 'face blindness' disorder—what is it?"
+    excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
+    publishedDateTime: 2022-07-12T16:32:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/brad-pitt-believes-he.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
     excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
     publishedDateTime: 2022-07-08T13:34:00Z
@@ -52,6 +68,15 @@ related:
     provider:
       name: Prevention
       domain: prevention.com
+    quality: 4
+  - title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
+    excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
+    publishedDateTime: 2022-07-12T13:30:00Z
+    webUrl: "https://www.messenger-inquirer.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_90aceffd-9e8e-53ed-bc69-77b69b830230.html"
+    type: article
+    provider:
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
     quality: 4
 
 secured: "TIfWh3BvUAKd7KpL4DMgAtBnCA8zGg4QRVotZ1PSBKn6NWGmdYrA/w/gaYHT/8b7L/6YON75ciFuhqa+SrmeDNrL+MbrkgQYvGPkKNgVRkerDpDY6nxW5H6SVf0FiZP+DSztFuxYSPAJbUGt0RLF1CdRPi5u1VybCqBisNWFzfMLFYeu25nfQhoj7Z4DNhz1KWQoCg4jNPpHGO+0PrGk6rVIbmtK8B73apZi0lIaEIOf5DDPUZ0Y7DyXR7VOc6xQG5xdi/7mHNsWtnF4MzeSuRM8dBinO+vMulfORzCFG8w2CKC/gQMbhVCTwAo4r1KPV6XL7Awugp+Bgw9ny2gh34NNYWEz3zzcaFMcpGNjxpWw0SK5udjjj9/jCeYmEFvVJaQJ0sRqmvrey3aE/xIoSV0/JyyMGguTvJTYjMgjEIid4Cpy0VhZKpZh65KZTz9nozGrhngKpG4CG6fwco/ZPnC54lpupD9zvy5Yfb5hMx81rEPon0Y1E4eeNvLUgBdNI5L4eOfxm8pYYaMUpgupQg==;WjKqxnTY+u3kg7ZwjPlB4g=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:03:00Z
 originalUrl: "https://ca.proactiveinvestors.com/companies/news/987249/fobi-ai-highlights-success-of-its-checkpoint-digital-ticketing-solution-at-the-oscars-in-new-case-study-987249.html"
 webUrl: "https://ca.proactiveinvestors.com/companies/news/987249/fobi-ai-highlights-success-of-its-checkpoint-digital-ticketing-solution-at-the-oscars-in-new-case-study-987249.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Proactiveinvestors

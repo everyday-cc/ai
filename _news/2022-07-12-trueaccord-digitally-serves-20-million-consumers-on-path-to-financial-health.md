@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28036159/trueaccord-digitally-serves-20-million-consumers-on-path-to-financial-health"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/n28036159/trueaccord-digitally-serves-20-million-consumers-on-path-to-financial-health"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Benzinga.com

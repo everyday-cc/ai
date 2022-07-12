@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T14:32:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/hoth-therapeutics-announces-ht-alz-therapeutic-shows-cognitive-improvements-in-alzheimer-s-disease-mouse-model-1031581652"
 webUrl: "https://markets.businessinsider.com/news/stocks/hoth-therapeutics-announces-ht-alz-therapeutic-shows-cognitive-improvements-in-alzheimer-s-disease-mouse-model-1031581652"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Business Insider

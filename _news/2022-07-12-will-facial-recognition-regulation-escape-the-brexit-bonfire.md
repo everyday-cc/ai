@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:21:00Z
 originalUrl: "https://www.newstatesman.com/spotlight/2022/07/labour-own-levelling-up"
 webUrl: "https://www.newstatesman.com/spotlight/2022/07/labour-own-levelling-up"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: New Statesman

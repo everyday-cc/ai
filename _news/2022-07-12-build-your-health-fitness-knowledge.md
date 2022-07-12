@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:30:00Z
 originalUrl: "https://omaha.com/lifestyles/health-med-fit/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_0754f185-68c2-525e-ad73-1b244fda165a.html"
 webUrl: "https://omaha.com/lifestyles/health-med-fit/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_0754f185-68c2-525e-ad73-1b244fda165a.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Omaha.com

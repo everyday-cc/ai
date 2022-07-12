@@ -48,6 +48,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Murmansk gets comprehensive facial-recognition surveillance system"
+    excerpt: "Authorities call it the «Safe City project» - the 1,658 CCTV cameras that will be installed in the Murmansk region by the end of the year and connected to facial-recognition technology. Murmansk is on"
+    publishedDateTime: 2022-07-12T13:24:00Z
+    webUrl: "https://www.rcinet.ca/eye-on-the-arctic/2022/07/12/murmansk-gets-comprehensive-facial-recognition-surveillance-system/"
+    type: article
+    provider:
+      name: rcinet
+      domain: rcinet.ca
+    quality: 24
+    images:
+      - url: "https://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2022/07/russian-survillance-camera.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "LvfMEvN+aY1fPtDlkbMIEbDtjcRjohZ3sSjdI/L+FOC74qeJ0RWGMZi/WaaobY58VTaFeOFM/J7e+AJgvIBHY/M05M5palBpN7urDgWzTRJJrI4h/FZKYzJ8puVow4virOaqi4YxeMXzspnepR4tLus4/kxu+f5rT+FKJaIixU1xJnNbl/bNxQuM6Wrhu2HJRAncv0lUjcs8AyfFTji1ReJ9k9byErw/VJ0xn0+uANnFGutAlFP2aeVRSykiPbM41ir0se+HIxoFvmyKjN4bruXc6LUUcLS/gYzsrluP+5QLAYOymzO9nP5+sXgK8/3QYheH4u8MfR3nTggKOwHPDEPuGJsdBEkPjmQf4UpTyAA=;6w2VJF+P0kx+kC8X+C00aA=="
 ---

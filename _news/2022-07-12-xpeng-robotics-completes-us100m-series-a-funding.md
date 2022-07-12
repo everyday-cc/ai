@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/07/xpeng-robotics-completes-us100m-se
 webUrl: "https://www.finsmes.com/2022/07/xpeng-robotics-completes-us100m-series-a-funding.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "XPeng goes from four-wheeled EVs to four-legged robots with $100M in Series A funding"
+    excerpt: "XPeng Robotics, an affiliate of XPeng Inc., has announced an agreement to receive over $100 million in Series A capital funding, led by a group of longtime investors. The fresh financing will enable XPeng Robotics to further its R&D in robotic hardware and software and talent acquisition while accelerating product development."
+    publishedDateTime: 2022-07-12T16:33:00Z
+    webUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/"
+    ampWebUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/XPeng-Robots-Dog.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "XPENG Robotics Completes US$100 Million Series A Fund Raising"
     excerpt: "robot interaction and artificial intelligence. As of the end of June 2022, XPENG Robotics has over 300 employees, 80% of whom are R&D staff integrating expertise from key sectors including robotics, artificial intelligence, automotive design and ..."
     publishedDateTime: 2022-07-12T07:40:00Z

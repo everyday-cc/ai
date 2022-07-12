@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T10:18:00Z
 originalUrl: "https://english.aawsat.com/home/article/3753866/chinese-scientists-develop-robot-fish-gobble-microplastics"
 webUrl: "https://english.aawsat.com/home/article/3753866/chinese-scientists-develop-robot-fish-gobble-microplastics"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: الشرق الأوسط

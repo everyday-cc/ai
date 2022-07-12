@@ -55,20 +55,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "IBM Acquires Israeli Data Observability Startup Databand.ai"
-    excerpt: "Databand.ai works to help companies alleviate data errors, pipeline failures, and poor data quality before the company’s bottom line is impacted. By acquiring Databand.ai, IBM hopes to strengthen its software portfolio across artificial intelligence,"
-    publishedDateTime: 2022-07-07T20:10:00Z
-    webUrl: "https://nocamels.com/2022/07/ibm-databand-data-observability/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 39
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/07/ibm.jpg"
-        width: 1200
-        height: 757
-        isCached: true
   - title: "IBM Acquires Databand.ai to Boost Data Observability Capabilities"
     excerpt: "IBM is acquiring Databand.ai, a leading provider of data observability software that helps organizations fix issues with their data, including errors, pipeline failures, and poor quality. The acquisition further strengthens IBM's software portfolio across data,"
     publishedDateTime: 2022-07-11T13:02:00Z

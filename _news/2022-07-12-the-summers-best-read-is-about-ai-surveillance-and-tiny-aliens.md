@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:59:00Z
 originalUrl: "https://www.wired.com/story/lambda-david-musgrave-book/"
 webUrl: "https://www.wired.com/story/lambda-david-musgrave-book/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wired

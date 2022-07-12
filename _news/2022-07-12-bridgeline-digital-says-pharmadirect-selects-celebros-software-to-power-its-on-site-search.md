@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:38:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/987260/bridgeline-digital-says-pharmadirect-selects-celebros-software-to-power-its-on-site-search-987260.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/987260/bridgeline-digital-says-pharmadirect-selects-celebros-software-to-power-its-on-site-search-987260.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Proactiveinvestors

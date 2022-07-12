@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:13:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-financial-services-bd165135e7e1b0d8fd10dd8112a3212f"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-financial-services-bd165135e7e1b0d8fd10dd8112a3212f"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

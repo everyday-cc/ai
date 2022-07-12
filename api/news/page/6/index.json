@@ -2,6 +2,230 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-04-deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025.md",
+      "title": "Deep Learning Chip Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2025",
+      "excerpt": "Jul 04, 2022 (Market Insight Reports) -- The study on the ‘Deep Learning Chip market’, now available with Market Study Report introduces systematic details in terms of market valuation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence.md",
+      "title": "Digital nursing 1: exploring the benefits and risks of artificial intelligence",
+      "excerpt": "Artificial intelligence is already being used to support advanced ... a robot for children that can respond to emotions; Paro, an animal therapy robot (Robert, 2019). A common theme in the literature on AI and robotics in healthcare is the expectation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
+      "originalUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ps.emap.com/wp-content/uploads/sites/3/2022/07/INDEX-Disc_DigitalNursing-1_59109-series-440x330.jpg",
+          "width": 440,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nursing Times",
+        "domain": "nursingtimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-facial-recognition-works-on-seals-no-really.md",
+      "title": "Facial recognition works on seals. No, really.",
+      "excerpt": "SealNet is a brand new facial recognition for, you guessed it, seals. Biologists have been training and testing it in Maine for two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
+      "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/07/01/baby-harbor-seal-facial-recognition.jpg?auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp",
+      "publishedDateTime": "2022-07-03T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-employee-experience-automation-human-ai-care-for-your-workforce.md",
+      "title": "Employee experience automation: Human-AI care for your workforce",
+      "excerpt": "Apps for AI-enabled automation are for more than customer support and engagement. They offer value for many people-management activities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
+      "originalUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
+      "publishedDateTime": "2022-07-03T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
+      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
+      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
+      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
       "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
       "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
@@ -267,40 +491,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
-      "title": "Afghan clerics’ assembly urges recognition of Taliban govt",
-      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
-      "originalUrl": "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-02-the-key-to-quantum-computing-ai-applications-flexible-programming-languages.md",
       "title": "The key to quantum computing AI applications: Flexible programming languages",
       "excerpt": "When enabled by flexible AI programming languages, quantum computing performs AI calculations much faster, and at a greater scale.",
@@ -401,6 +591,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
+      "title": "Afghan clerics' assembly urges recognition of Taliban govt",
+      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
+      "originalUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/Wcx87xW8MAGf289iTJnXeZyWWxs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7NKFPNIO6R2AL5OARFNSYMYQVM.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
+      "publishedDateTime": "2022-07-02T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -614,29 +847,20 @@
     {
       "path": "_news/2022-07-02-reddit-buys-natural-language-processing-company-meaningcloud.md",
       "title": "Reddit buys natural language processing company MeaningCloud",
-      "excerpt": "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors.",
+      "excerpt": "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p..",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
-      "publishedDateTime": "2022-07-02T00:18:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T02:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India Times",
@@ -836,49 +1060,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-02-record-breaking-registrants-and-technical-papers-for-2022-ieeecvf-conference-on-computer-vision-and-pattern-recognition-cvpr.md",
-      "title": "Record-Breaking Registrants And Technical Papers For 2022 IEEE/CVF Conference On Computer Vision And Pattern Recognition (CVPR)'",
-      "excerpt": "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR",
-      "originalUrl": "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-07/01/PN_3fafce87-d_Image_In_Body.jpg",
-          "width": 400,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-02-driverless-cruise-robotaxis-stop-working-simultaneously-blocking-san-francisco-street.md",
       "title": "Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street",
       "excerpt": "A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation. Cruise, which is backed by General Motors ...",
@@ -927,206 +1108,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
-      "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
-      "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
-      "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
-      "publishedDateTime": "2022-07-01T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
-      "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
-      "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "originalUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9411a919483b45a96f423ef5d2fc198e85feafc1/2022/07/01/86d710b8-0303-4e57-8529-c789deded6df/gettyimages-1279453193.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "publishedDateTime": "2022-07-01T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
-      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
-      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
-      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
-      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
-      "publishedDateTime": "2022-07-01T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 13",
-        "domain": "fox13news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
-      "title": "Reddit acquires natural language processing company MeaningCloud",
-      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
-      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
-      "publishedDateTime": "2022-07-01T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

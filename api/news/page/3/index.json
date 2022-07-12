@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-07-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner",
+      "sourceUrl": null,
+      "webUrl": "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/nwasianweekly.com/wp-content/uploads/2017/03/cropped-logoicon.jpg?fit=512%2C512&#038;ssl=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northwest Asian Weekly",
+        "domain": "nwasianweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-creating-an-ai-implementation-strategy.md",
+      "title": "Creating an AI Implementation Strategy",
+      "excerpt": "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
+      "originalUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true",
+      "publishedDateTime": "2022-07-07T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
+      "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
+      "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_cage_to_stage-1.jpg?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-07-07T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-cute-desktop-robot-designed-to-keep-armchair-engineers-engaged.md",
+      "title": "Cute desktop robot designed to keep armchair engineers engaged",
+      "excerpt": "Building a robot from the ground up and then getting it to do exactly what you want it to can be a serious head-scratcher. Taiwan's NUWA Robotics is looking to make things simpler with a cute little robot companion called the RobotCreator DX,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/robotcreator-dx-nuwa/",
+      "originalUrl": "https://newatlas.com/robotics/robotcreator-dx-nuwa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0b41e23/2147483647/strip/true/crop/2598x1364+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F43%2F34207bd743c28bd68cc6ca918dde%2Fscenario-1.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-meta-ai-machine-to-solve-language-barrier-in-africa-others.md",
       "title": "Meta AI machine to solve language barrier in Africa, others",
       "excerpt": "NLLB-200, a single AI machine that translates across 200 different languages, including 55 African languages with state-of-the-art results, has been",
@@ -978,169 +1168,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-computer-vision-is-primed-for-business-value.md",
-      "title": "Computer vision is primed for business value",
-      "excerpt": "Over the past few years, computer vision applications have become ubiquitous. From phones that recognise the faces of their users, to cars that drive themselves, to satellites that track ship movements, the value of computer vision has never been clear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_95793105.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-iit-madras-ai-tool-maps-cancer-causing-genes.md",
-      "title": "IIT Madras AI tool maps cancer-causing genes",
-      "excerpt": "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
-      "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
-      "publishedDateTime": "2022-07-06T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast.md",
-      "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
-      "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4.html",
-      "originalUrl": "https://madison.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/7/90/7908a20d-6d19-5e7d-8c3c-e4dd1d80ead4/62bef03fe615a.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-scotiabank-evp-and-chief-compliance-officer-nicole-frew-to-speak-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference.md",
-      "title": "Scotiabank EVP and Chief Compliance Officer Nicole Frew to Speak at the Behavox Artificial Intelligence in Compliance and Security Conference",
-      "excerpt": "The fireside chat with Nicole Frew and Behavox Chief Customer Intelligence Officer Fahreen Kurji will cover the pivotal role technology plays in compliance, how to drive organizatonal change that embraces innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9635323.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9635323.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

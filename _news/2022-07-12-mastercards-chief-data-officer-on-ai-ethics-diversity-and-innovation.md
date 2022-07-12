@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/07/12/mastercards-chief-data-officer-on-ai-ethics-diversity-and-innovation/"
 webUrl: "https://venturebeat.com/2022/07/12/mastercards-chief-data-officer-on-ai-ethics-diversity-and-innovation/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:00:00Z
 originalUrl: "https://en.globes.co.il/en/article-amnon-shashuas-nlp-co-A121-Labs-raises-64m-1001417848"
 webUrl: "https://en.globes.co.il/en/article-amnon-shashuas-nlp-co-A121-Labs-raises-64m-1001417848"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: globes.co.il
@@ -14,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "AI21 Labs nabs $64M in funding to advance natural language processing"
+    excerpt: "AI21 Labs is interesting because it’s both an artificial intelligence research lab and a commercial entity that offers natural language processing-as-a-service. It has some notable founders too, including its co-Chief Executive Yoav Shoham (pictured,"
+    publishedDateTime: 2022-07-12T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/07/12/ai21-labs-nabs-64m-funding-advance-natural-language-processing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "WgYOzbMT2IOO1qX/gjGwEKqKvg8yURmrUPBRDTP/v9qz5ZQt2cuaEF+twWezWc9j7gm/j4K7wH6rxfun5UvCsB+R+lIzsvoAshQk4iX6gHBIkDI9ymgaP4t4ILrs65D27HytS5E8X1/9l6Zhm6A5OY+rKQUIcpm977+f0ZPenUWAuNNO2XHstlmjsfMDTF/NoFc2mfD22l33G3Fpq7ZiL5qIWUjUaQysz9jf1yNTFCwU9crq5onjiCL/vUI//71cla8KoB3RiJ/Jz5zPgoyik4KCmtTymR9F9t0gFOd0XqbYzUYuij9l5vuYbArY6j3AD/wnkgnDJMwmRoA6HRvmIB3AhOaNr7vZ0FHgJ+9Y5vybrC2dsNd6y9tHL2c+sr1vAU33V57uByITeMDllycZnz+YWo9Uh+gJdLqYXe2W72nm6LmcDyGhSPYe4lGN7+Jxc+uELn2VFHQOR2luXpJnd8NeKsTet2J8OP6kj+rye6Kk/QAJe5AloNAgPpCcL9hf57mUNMWxsbESPWWl0kfXUQ==;UMh6zy9EA7T1u5iNa3TbYw=="
 ---

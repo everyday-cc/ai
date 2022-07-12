@@ -60,6 +60,22 @@ related:
         width: 636
         height: 424
         isCached: true
+  - title: "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more"
+    excerpt: "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,"
+    publishedDateTime: 2022-07-12T16:28:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 53
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The 35+ Best Early Amazon Prime Day 2022 Deals We’re Seeing So Far"
     excerpt: "Early Amazon Prime Day 2022 preview sales have begun, and we’re sifting through the duds to find the best deals worth your time."
     publishedDateTime: 2022-07-10T19:56:00Z

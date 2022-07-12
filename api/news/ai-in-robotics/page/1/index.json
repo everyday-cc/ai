@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-12-xpeng-goes-from-four-wheeled-evs-to-four-legged-robots-with-100m-in-series-a-funding.md",
+      "title": "XPeng goes from four-wheeled EVs to four-legged robots with $100M in Series A funding",
+      "excerpt": "XPeng Robotics, an affiliate of XPeng Inc., has announced an agreement to receive over $100 million in Series A capital funding, led by a group of longtime investors. The fresh financing will enable XPeng Robotics to further its R&D in robotic hardware and software and talent acquisition while accelerating product development.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/",
+      "originalUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/XPeng-Robots-Dog.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/",
+      "publishedDateTime": "2022-07-12T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
       "title": "The 35+ Best Amazon Prime Day 2022 Deals",
       "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1286,40 +1339,6 @@
       "provider": {
         "name": "ETF Daily News",
         "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-the-robot-handbook-has-arrived-for-the-traveller-rpg.md",
-      "title": "The Robot Handbook has Arrived for the Traveller RPG",
-      "excerpt": "The Robot Handbook is designed to be both quick and easy to use, and configurable to customise all aspects of a robot’s functions, capabilities and skills; a standard robot can be built in just a few minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
-      "originalUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gaming Gang",
-        "domain": "thegaminggang.com",
         "images": null,
         "publishers": null,
         "authors": null

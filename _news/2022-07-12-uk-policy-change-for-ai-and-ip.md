@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:42:00Z
 originalUrl: "https://www.fieldfisher.com/en/services/intellectual-property/intellectual-property-blog/uk-policy-change-for-ai-and-ip"
 webUrl: "https://www.fieldfisher.com/en/services/intellectual-property/intellectual-property-blog/uk-policy-change-for-ai-and-ip"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Fieldfisher

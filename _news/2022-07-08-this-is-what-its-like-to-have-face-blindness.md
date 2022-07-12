@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Brad Pitt believes he has rare 'face blindness' disorder—what is it?"
+    excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
+    publishedDateTime: 2022-07-12T16:32:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/brad-pitt-believes-he.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
     excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
     publishedDateTime: 2022-07-08T13:34:00Z
@@ -53,6 +69,15 @@ related:
     provider:
       name: KHOU 11
       domain: khou.com
+    quality: 4
+  - title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
+    excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
+    publishedDateTime: 2022-07-12T13:30:00Z
+    webUrl: "https://www.messenger-inquirer.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_90aceffd-9e8e-53ed-bc69-77b69b830230.html"
+    type: article
+    provider:
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
     quality: 4
 
 secured: "WqFsjW7EYsvlGLgqDwM6COKSvt6cQ5CzUBSNjU+h4yxTm167mYkKfG+6x+VKfrF/P5q/tn8tUIH7FpGVAd1QZqBs8Hz5Y8DJXWKIQ8FKgI0EpZCBeOusWuSIJzRmedUlh1tHBpeUDrAKUbS7rfrjW7ytXr0JU6wp8QNZ1donmW5LJy21AdXNb2zyR3zWe0NK1l0hHDs27Ibec8iUwvZb76D4mIqu/jdibG8BJvDieMfibeSb7ViWdBaCISVleXW7hGHzTrJrKj7voTfcBXlVAoshN+TAZQBNU+/EbHyQ/eojA5rlcgBIE4QLzvOxYaR8C2Bf2HcYewPEzzgIExNSAU1elFviQeHGPVmNKqObnxs=;Rp7F7f016Qpy6Mq4SR2S8g=="

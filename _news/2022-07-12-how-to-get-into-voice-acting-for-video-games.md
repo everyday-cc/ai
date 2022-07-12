@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:46:00Z
 originalUrl: "https://www.wired.com/story/how-to-video-game-voice-acting-tips/"
 webUrl: "https://www.wired.com/story/how-to-video-game-voice-acting-tips/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Wired

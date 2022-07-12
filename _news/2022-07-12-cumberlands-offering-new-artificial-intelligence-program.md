@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:47:00Z
 originalUrl: "https://www.lanereport.com/157494/2022/07/cumberlands-offering-new-artificial-intelligence-program/"
 webUrl: "https://www.lanereport.com/157494/2022/07/cumberlands-offering-new-artificial-intelligence-program/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Lane Report

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:49:00Z
 originalUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-enables-noninvasive-accurate.html"
 webUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-enables-noninvasive-accurate.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Medical Xpress

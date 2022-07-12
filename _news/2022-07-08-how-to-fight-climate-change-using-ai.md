@@ -64,6 +64,15 @@ related:
         width: 400
         height: 270
         isCached: true
+  - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
+    excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
+    publishedDateTime: 2022-07-12T14:57:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "SmTt0BsXpv3eV2mEtjHE7el968Vsedim0c5t65leD2JrM5jdCNxvyjzt4Y2EyAuUh5M1yfhdv5LyYKviLSKEoRsoBAvqlDEanpriHIfs1VH6GLQx1OY4VM5IaAFDifV92IClyslIoZYt1OfoJGuYm6PdLjik+ZGjvJegdFP6tnhBPV0420MeChs844sMmZAlM5Zh5djf7p130iIezIrR/8egupSds3C3Xp7mBarIJRCnllLy6Gy3cOT91IRgq0s/DGkqnTcfLZZfXla8STtgM/S48piPFiUjtBza1QWoqL/luOtmLSXU0fM8hCLriqlZ/GECvEhxqd+bzIqIdu0LxrqL72kkCNmeohJD1JNZsOonDj4rNhztpTt6NyK2kUAS4wlGg+24eBhibbwvBO2U6O7Xonnq2ARQd/2C+K7qb47+0/Z+e74S0LB6CZnG1GRUDcdcQgEc+i5vYPwFuQFO7OaJ/afdwKSwODyk5qVkQY9AVGm0jvCRN+BOvA757Zqgg6yl3Z6RznKDuXvtlcaXsQ==;V7D3ISCAClOxWLJDDlhUQw=="
 ---

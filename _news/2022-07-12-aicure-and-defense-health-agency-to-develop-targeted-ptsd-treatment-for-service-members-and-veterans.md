@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/aicure-and-defense-health-agency-to-develop-targeted-ptsd-treatment-for-service-members-and-veterans-1031581211"
 webUrl: "https://markets.businessinsider.com/news/stocks/aicure-and-defense-health-agency-to-develop-targeted-ptsd-treatment-for-service-members-and-veterans-1031581211"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

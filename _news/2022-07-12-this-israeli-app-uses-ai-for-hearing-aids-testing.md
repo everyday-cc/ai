@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:45:00Z
 originalUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-711897"
 webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-711897"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Jerusalem Post Blogs

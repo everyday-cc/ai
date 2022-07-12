@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:00:00Z
 originalUrl: "https://phys.org/news/2022-07-machine-crater-ejected-famous-martian.html"
 webUrl: "https://phys.org/news/2022-07-machine-crater-ejected-famous-martian.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

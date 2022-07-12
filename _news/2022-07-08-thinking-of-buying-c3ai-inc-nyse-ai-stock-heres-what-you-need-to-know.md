@@ -38,6 +38,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "C3.ai Inc. (NYSE: AI): One Stock To Trade As Economic Progress Advances"
+    excerpt: "In the last trading session, 2.6 million shares of the C3.ai Inc. (NYSE:AI) were traded. Most recently the company’s share price was $18.42, and it changed around -$1.52 or -7.62% from the last close,"
+    publishedDateTime: 2022-07-12T15:33:00Z
+    webUrl: "https://marketingsentinel.com/2022/07/12/c3-ai-inc-nyse-ai-one-stock-to-trade-as-economic-progress-advances/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 17
 
 secured: "L7GbL2sTSgox2AzduHSXADPQfkFFC7Xs9/Ys7JBu4PrI4dG2KUJFG6Y6PDZEusGWsCHueSdxO3Pz6qal1LM6hBJ8EXFo1pCeKvJ4bZ8541KSh4UIlQ03DwrGpEzyOGdIOmvroJOy4ikJdJbUEbD2ZsWGrnXPxtOGkhZhzgBoiuRxeIidakj3vUztIySBqvxNATR/xMOhy69Cjwjg4X5iHYTrcr/VxCn9/Q2dz8jEMfLk82G3uPlnqQuSjMUVP9oAB21ttureECTBXbdWb056bGQP/c5+Urr1H2kzVCym1Zocsq3+0qy0+oGXwpWFmhatFUkPO07/mf1NqNs4AAGhEtinCyQuOQP6t4l8df5r3aQ=;B2DMccySjbRco/5i8v+qnA=="
 ---

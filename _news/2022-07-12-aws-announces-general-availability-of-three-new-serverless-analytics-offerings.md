@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T15:04:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Joplin Globe

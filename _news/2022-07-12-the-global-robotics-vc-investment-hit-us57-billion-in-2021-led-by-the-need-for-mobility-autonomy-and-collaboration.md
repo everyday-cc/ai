@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:04:00Z
 originalUrl: "https://www.asiaone.com/business/global-robotics-vc-investment-hit-us57-billion-2021-led-need-mobility-autonomy-and"
 webUrl: "https://www.asiaone.com/business/global-robotics-vc-investment-hit-us57-billion-2021-led-need-mobility-autonomy-and"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Asia One

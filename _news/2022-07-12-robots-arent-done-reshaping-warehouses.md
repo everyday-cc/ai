@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T13:00:00Z
 originalUrl: "https://www.nytimes.com/2022/07/12/business/warehouse-technology-robotics.html"
 webUrl: "https://www.nytimes.com/2022/07/12/business/warehouse-technology-robotics.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: New York Times

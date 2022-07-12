@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T11:59:00Z
 originalUrl: "https://www.kenyans.co.ke/news/77159-caren-wakoli-story-lady-who-moved-president-kibaki-drop-speech"
 webUrl: "https://www.kenyans.co.ke/news/77159-caren-wakoli-story-lady-who-moved-president-kibaki-drop-speech"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Kenyans.co.ke

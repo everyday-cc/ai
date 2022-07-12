@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T12:47:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-ce7b395ca78a32c662b322b25bbd3874"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-ce7b395ca78a32c662b322b25bbd3874"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

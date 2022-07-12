@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-12-xpeng-goes-from-four-wheeled-evs-to-four-legged-robots-with-100m-in-series-a-funding.md",
+      "title": "XPeng goes from four-wheeled EVs to four-legged robots with $100M in Series A funding",
+      "excerpt": "XPeng Robotics, an affiliate of XPeng Inc., has announced an agreement to receive over $100 million in Series A capital funding, led by a group of longtime investors. The fresh financing will enable XPeng Robotics to further its R&D in robotic hardware and software and talent acquisition while accelerating product development.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/",
+      "originalUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/XPeng-Robots-Dog.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/",
+      "publishedDateTime": "2022-07-12T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-oaic-concerns-spark-facial-recognition-investigation.md",
       "title": "OAIC concerns spark facial recognition investigation",
       "excerpt": "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores.",
@@ -475,18 +528,18 @@
     },
     {
       "path": "_news/2022-07-02-record-breaking-registrants-and-technical-papers-for-2022-ieeecvf-conference-on-computer-vision-and-pattern-recognition-cvpr.md",
-      "title": "Record-Breaking Registrants And Technical Papers For 2022 IEEE/CVF Conference On Computer Vision And Pattern Recognition (CVPR)'",
-      "excerpt": "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ...",
+      "title": "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "excerpt": "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR",
-      "originalUrl": "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR",
+      "webUrl": "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/",
+      "originalUrl": "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2022-07/01/PN_3fafce87-d_Image_In_Body.jpg",
+          "url": "https://mma.prnewswire.com/media/1852465/CVPR_exhibits.jpg",
           "width": 400,
           "height": 233,
           "title": null,
@@ -498,11 +551,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T17:17:00-07:00",
+      "publishedDateTime": "2022-07-01T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -547,6 +600,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-center-for-identification-technology-research-celebrates-20th-year.md",
+      "title": "Center for Identification Technology Research Celebrates 20th Year",
+      "excerpt": "The Center for Identification Technology Research (CITeR), based at Clarkson University, is celebrating its 20th year. CITeR, which performs research in the growing areas of identity science and biometric recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1329,92 +1416,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-american-airlines-testing-face-scanning-at-dfw-airport.md",
-      "title": "American Airlines testing face-scanning at DFW Airport",
-      "excerpt": "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
-      "originalUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QCM3NSYLD5CDHBU37NHWRODMDM.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp",
-      "publishedDateTime": "2022-06-23T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-the-first-15tb-microsd-card-is-coming-to-destroy-your-budget.md",
-      "title": "The First 1.5TB microSD Card Is Coming to Destroy Your Budget",
-      "excerpt": "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
-      "originalUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
-      "publishedDateTime": "2022-06-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
