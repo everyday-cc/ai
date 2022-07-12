@@ -145,7 +145,7 @@ related:
     provider:
       name: Shillong Times
       domain: theshillongtimes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://theshillongtimes.com/wp-content/uploads/2022/07/Rajnath.jpg"
         width: 945

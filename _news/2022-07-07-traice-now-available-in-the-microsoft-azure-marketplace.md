@@ -34,20 +34,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 81
-  - title: "Ukraine awards Microsoft and AWS peace prize for cloud services & digital support"
-    excerpt: "The government of Ukraine has awarded Microsoft Azure and Amazon Web Services (AWS) peace prizes for providing critical cloud and digital services during Russia's unprovoked invasion. Ukraine awarded Google the same prize in May,"
-    publishedDateTime: 2022-07-07T09:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ukraine-awards-microsoft-and-aws-peace-prize-for-cloud-services-digital-support/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 66
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/51901801648_1261a6e8b7_c.2e16d0ba.fill-1200x630.jpg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "jXL0gVdipowYj7AJOm08InPlOl92kkTe90sY7PlQMw7h0nbzIrOpuT7hfEhaSuL3fhfhUJROqRXXnmPcc8klxK3mJ3SJ3ZrYhGM70M9Upe77sg96iNJkXKtlBIH7EMi+7wwBlP9/AKEW01qUip/nV7MB3EgfX5ajkooXmjc4JsstLdHB+rgngjac7hyGTb/8zs6I3QhhWd3sM4TbEQIHvnlPGCR6zfT1/x3UH1jIlvPfx5EaLjItXACwKZxguvl7KJEp7iqA9AH6VjmCuYN7en7gffNuEbe/lnYWHji+PriuFqAA16qL/uXVtgBE/iW3UjwUh73n7DFrzC7HBwLlUD3XhJSa2kfHlYFC70vEl9Y=;MEujmPxyfrUoI/GlqxEwlA=="
 ---

@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "EU plans to allow the sale of self-driving vehicles this year"
-    excerpt: "The rules will allow self-driving vehicles to be sold in the EU from September onwards and will add a series of safety regulations."
-    publishedDateTime: 2022-07-07T09:48:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/eu-self-driving-vehicles"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/AdobeStock_297498322_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
     excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
     publishedDateTime: 2022-07-11T16:21:00Z
@@ -79,6 +65,6 @@ related:
         height: 864
         isCached: true
 
-secured: "g7kxrwS5MNfOf7fRO8zxBygUlCHGyKGcNL0j6pHsz60b+AGhjuvidVtNSRPZ3Gv9IUVcZupVMIMHJshWiLNf2xZ5gs4MAJte9iAQwRxoVth9OOmv+VQcG2glVNl+8HwFAJzURi0pecq5h1noY2rtt6TfG9MrP9E4cV9uUuvGSH4i0QbUgQHQqU51mauR10PQh3de7dnYKqePVq1ihUWrO1+UYGcVIzwaJqUol27jqrrn16X5+ss5/XyAbPoSTfqLoG41u00qphjma3hOFMhm5q704QAvsXvKBG9y+U6GUGOJqITTy6MD+G70kgQpm+p83pNJNDPJj8o3AF2mZz9OdUBPGOHGQgYFttgC4EvuB+8=;VYrL84kWlRtw9Hvfdt/c1Q=="
+secured: "o09S+eMMBSkjObH5a2TpM23jeQ7KvY/L5UF10j7aFo46rWofy1guiFPIEIznI+zRc4/SZNLXsspytlKtvafumWq967RAdQ34WW7DPMiNMdcET+3+4aZg9Z+z9Vpqft7BSwNCxyyqMxdravQIL203WDcjFvH/5fXTDX0zLkckean36+T2xCUGJp60YwN7D9jhlatZuAfSlmhqbB28DJR16+GYjGEMm7JizCpT/LzLoNqOvED4zIqMdkF646I1i9F30NRUI0GHy46qPdv6woMQSYpr2xqfVUO4Qq8e7CPj/kD5wSMUXnpCLPPZQatRG7kb8pJDUEET3uIMlFO2qVjVWdgAPjqq7/adhP12xOY/fd033MSg3tUGLLAuQvw0KIJkY3uTBR5o+b8OIDVcWfDC6ewJEJM4mBCVGFKahm8wyxBg5MhPL6kIP1AFvIUBiOc4efu5S8Fw/YSTptLNg+FlUohIK+Zlw1Pgap0FwoCJZpYzs+sTcFAJADVJgc7oDZLMRzz+NEUsACLg53baRrOPCw==;tUqML/3jhc6vPfb4Fulhzw=="
 ---
 

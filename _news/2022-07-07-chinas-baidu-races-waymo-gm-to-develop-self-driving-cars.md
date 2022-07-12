@@ -7,8 +7,8 @@ originalUrl: "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-d
 webUrl: "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Northwest Asian Weekly
@@ -38,6 +38,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220707vl201_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Baidu's self-driving taxis now a common sight in Beijing"
+    excerpt: "BEIJING -- Driverless taxis operated by artificial intelligence are becoming a common sight in China's capital, with such cabs operated by Chinese tech group Baidu transporting nearly as many ..."
+    publishedDateTime: 2022-07-10T06:57:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-taxis-now-a-common-sight-in-Beijing"
+    type: article
+    provider:
+      name: ニッケイ・エイジア
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F3%252F9%252F4%252F41204930-1-eng-GB%252Fphoto_SXM2022061300001926.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "U+ilHqf0R8Ufgi1O6aW5YPN7kuukh/olHV3b9nvNJjzpt72J6PMS4HMaW5shUjxTTF+N62MJiz/XkvJyGfq8o0j8zE3fShof51nYxdLwa9KWKeT3uwCVL3ohx4byBQ3lFQOXXLnw9Z185GmqiI9tgmoOpM6XgLsaAbx7NgBhQIXxyX8Ov92EjnxjexBSv/9qMJjJej9xZKZja8lE4dyEAxcDp+5ighuisukXupGJHYFZfUuXNAkZXGDQ+bbSrKTKufD7Gb1rUZ/5Bj7YTwqn/Ls19IKzPDltniqNnpXYd+5ZPGyr8XHg/cbP8f5RcBpe77acap3IS9N81Zms/5kC6cQJBKABkxbZTQJRfQ3ZMG/M/v+QLC8qKcjlKKVYIhRydvh5vxoX6hVSalZKjv+f/VNsqHfWmCDt62IGK4o87N+CrEhaBZY5QEVjeZDDIcxbafp1/eAqFZ4iBPV1BPvLkNvHDYRBtd8tMuArQuXyZk5hdJkj3NS3swo1WDvd2O/MrqkXx0OzjUHU3DTGQlw4uA==;0oZ4LWfseUetlm18oE39mw=="

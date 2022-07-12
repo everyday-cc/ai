@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI tool could help diagnose Alzheimer’s disease earlier"
+    excerpt: "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say."
+    publishedDateTime: 2022-07-12T00:56:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "5 tips for covering racial bias in health care AI"
     excerpt: "In covering health care AI, journalists often focus on datasets gone wrong, when experts say there’s more to the story worth covering."
     publishedDateTime: 2022-07-11T12:00:00Z

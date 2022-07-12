@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Baidu's self-driving taxis now a common sight in Beijing"
+    excerpt: "BEIJING -- Driverless taxis operated by artificial intelligence are becoming a common sight in China's capital, with such cabs operated by Chinese tech group Baidu transporting nearly as many ..."
+    publishedDateTime: 2022-07-10T06:57:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-taxis-now-a-common-sight-in-Beijing"
+    type: article
+    provider:
+      name: ニッケイ・エイジア
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F3%252F9%252F4%252F41204930-1-eng-GB%252Fphoto_SXM2022061300001926.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "Elin+MoOU+2b3SeNi6sWvAUCh4Vqxyn3BAn3t0PKdOh1/Zavpkk1GiuxcpiuJ0n+jIZmscBMbJ0GUWfXqT6e8ueeS9Z5P1Ezgsa2e6rdix3lepabu30qakxtev7dqpIf3i9WzaQdLV5HqbwjQEzNksHvZZOc9m66djP9qOAatPXgfCP6fJy4vQVAGePSsVQsGl6/7wTBtO8RD/JQTc/Ikt76SNN3Ay4dDvbOy2q+OmrwRzKBcCf9oVe7Xd4cXTmHvlQSNI/0zarO867zDsM1P8zPCx2PkhDIxxajEOL7Jw/NL2Hxl3NqssMdOkPJIATSn5ei4X+tfwaHeF+dvnnya1u10RyEeIpLmHiMYEfAVfs=;1HeMpgJup5QTFu1qJad07A=="
 ---

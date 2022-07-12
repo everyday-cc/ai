@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "EU plans to allow the sale of self-driving vehicles this year"
-    excerpt: "The rules will allow self-driving vehicles to be sold in the EU from September onwards and will add a series of safety regulations."
-    publishedDateTime: 2022-07-07T09:48:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/eu-self-driving-vehicles"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/AdobeStock_297498322_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Inside Apple’s Eight-Year Struggle to Build a Self-Driving Car"
     excerpt: "Apple sent several of its prototype self-driving cars on a roughly 40-mile trek throughMontana. Aerial drones filmed the drive, from Bozeman to the ski resort town of Big Sky, so that Apple managers could produce a polished film,"
     publishedDateTime: 2022-07-11T13:00:00Z

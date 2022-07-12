@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Meta Builds AI Machine That Can Translate 55 African Languages"
-    excerpt: "Meta yesterday said it has built the first open source single artificial intelligence (AI) machine that can translate across 200 different languages,"
-    publishedDateTime: 2022-07-07T10:48:00Z
-    webUrl: "https://leadership.ng/meta-builds-ai-machine-that-can-translate-55-african-languages/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 56
-    images:
-      - url: "https://leadership.ng/wp-content/uploads/2022/07/Meta.jpg"
-        width: 1708
-        height: 750
-        isCached: true
   - title: "Meta Releases Open Source AI Machine Translation Model"
     excerpt: "In a project called 'No Language Left Behind,' Meta has built an artificial intelligence model — NLLB-200 — that can translate text across 200 different languages."
     publishedDateTime: 2022-07-07T23:35:00Z

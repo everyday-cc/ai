@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-12T00:54:00Z
 originalUrl: "https://theshillongtimes.com/2022/07/12/india-should-be-prepared-for-upheaval-due-to-ai-rajnath/"
 webUrl: "https://theshillongtimes.com/2022/07/12/india-should-be-prepared-for-upheaval-due-to-ai-rajnath/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://theshillongtimes.com/wp-content/uploads/2022/07/Rajnath.jpg"
@@ -225,6 +226,6 @@ related:
       domain: livemint.com
     quality: 17
 
-secured: "HVCFc0m3VkzIIScP+493ToOCWM9qzFgbCvLb26lE5q+9XIZCDQRHgaUr6f56S0pc85+C3pNWWM/CxSUTkPkrfBKpFGJJj4XnIPSaVOLDD04ePF8HqAFDXpl+uESRnvbxoUNf9fi0UYNwhCuTVJfHrc6RqvaaORdDxu+IMtv95YUOYMCeDClo2KYzCk8fHpirJ9Fz5X5TtBiW6Zj40q3IN0xYT1O429TVIRVTnIQjR/Cd7lajRteF6t5prVBuyR9oSVWG2SvPOnZIwOMLjUVdzDltVkhceLM3L+W+YgTsgDHQ//bBMlpUB5OdKtUZlDP0mJyWRr+GFhEfn6k0GgwAvY2Nt9qNWnLFW3QYHxZbfn8=;8UVoMYglIFSHrOWVcShqoQ=="
+secured: "+BCYgfBEJ/PyXN/5OWr+tOP7ILnsUOpv7pfZjk5lHDjtRs1WZLx+1qrYnD117YtmXFx6xYv2dMv7QAKl3EYEOdvKV8ZfJ56dkSTJM+P8pRIxheDeI+RenEz39YwYv8YbUaQ9wUVBv3HqgDOdcZMQ4IAGXb7r+hnnDEsSAHKjd6o9c04MW/PR2oquvo4/Quv0dvikGm3LQmSVolQRO5xSJ3V89VGQ24BJ/KUpEmJJxlCAC49JvXk3H9oUuSNXhCzu/J1kc9Hb786nlnSvvIVatobtIqSHK0+yCyPuC9d7EblhKNJciNMcyyVK4Pu7KZTY4g4ejwsC919J6CdhHYWu2DftVgWWj5dzaMJJQEbkV8tUsRI3JDoWMARiiJu5MRcFWaHKZcWkVCqH9CUDarSGKsldBGNzbfmR8bsSvqWgO2s0caH3Rap3f+gdkQ1bojOLNdC85wY1BsxgXEjCUezgrjFi/sAv5oHv5Q7WpfZVC0WlOtzUGOTqPeABPDl6tbZDQX2HMyop5zRgBZmiYR1gzg==;U8pD+kttd+qw4a3z70gS9Q=="
 ---
 

@@ -43,15 +43,6 @@ related:
         width: 650
         height: 436
         isCached: true
-  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
-    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-    publishedDateTime: 2022-07-11T20:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "MudCSLTglcm7Y3iFQ9Q7Pvf14BQ38JTWbpTqCHHnWvA1hSpPtjaB2DTmWvIy+kEdOsSHaXyh6wztZm7gWcjvbwjFdbAp8brOdEb/ztH/xUoykft9EpcO6JTr78kavH3u+q/CGatxMfFQ3I2ix9tB4AFMbXsGda1HaGRT9e65JTaONm/csf06EF6d/D7uX8FBXMlCkMvtbRNZpqh3Qo+ktoXGJfT6qQ2yPfvWow+a8VlzFTrOv6AOGLTjG0nGte0FuXUdRWinh8V/NzR6szUpTTLteSTnxQgReb3ekH26GjJ1/cx/FIKV+vriAZn8k0hJh8jbfXrAJOD3X6tVmG3Hw0e2AIyIk6E9kG7EWxN44RddeXVCeSsAgg9QJ0g0IBmIjQMs+R/eR2DjruVEuMbAtcxwwgsZ/Rf1d7ioIUBYhQ8bEGO+CQ95nKEcKOu+V40ublslCZ/pbx+sFJeENg38FYGc/FO87SEmx2hwMZGU+CVveksI1YhxvhQqe5rbiZtLazhVHkRy5VrXIk9wT+D4fQ==;4/JjWjxxcWYylOASg1V/1Q=="
 ---

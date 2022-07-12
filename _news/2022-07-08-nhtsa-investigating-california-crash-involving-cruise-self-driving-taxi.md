@@ -64,20 +64,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "Cruise self-driving crash in San Francisco resulted in injuries"
-    excerpt: "A self-driving vehicle operated by Cruise was involved in a June 3 crash in San Francisco which resulted in injuries to occupants in both vehicles, according to a report the company filed with California regulators."
-    publishedDateTime: 2022-07-07T10:36:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-self-driving-crash-san-francisco-resulted-injuries"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/cruise_3.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Agency Probing Self-driving Cruise Car Crash In California"
     excerpt: "The National Highway Traffic Safety Administration has opened a special investigation into a recent crash of a Cruise self-driving vehicle in California that resulted in minor injuries, the agency said on Thursday."
     publishedDateTime: 2022-07-07T22:20:00Z

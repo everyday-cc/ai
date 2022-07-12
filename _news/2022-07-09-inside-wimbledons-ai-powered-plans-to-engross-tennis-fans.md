@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-ten
 webUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans"
 type: article
 quality: 67
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM still breaking new ground at Wimbledon"
-    excerpt: "IBM Watson is playing an increasingly important role in growing the fanbase and relevance of the Wimbledon tennis championships."
-    publishedDateTime: 2022-07-07T09:12:00Z
-    webUrl: "https://www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon"
-    ampWebUrl: "https://www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 44
-    images:
-      - url: "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Wimbledon-2022-IBM-centre-court-CREDIT-AELTC-Bob-Martin-hero.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "How Wimbledon is keeping its eyes on the ball with IBM tech"
     excerpt: "We visited Wimbledon to get a sneak peek of how IBM is using data and AI to help Wimbledon engage with fans in its ‘pursuit of greatness’."
     publishedDateTime: 2022-07-08T14:08:00Z

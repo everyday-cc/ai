@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Argo AI lays off 150, closes Washington D.C. operation"
+    excerpt: "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success."
+    publishedDateTime: 2022-07-11T17:07:00Z
+    webUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 67
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/argo-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Ford, VW-backed self-driving startup Argo AI fires 150 employees"
     excerpt: "Argo AI, a US-based startup which works on self-driving vehicle technology, has fired around 150 employees. \"We are making prudent adjustments to our business plan to best continue on a path for success,"
     publishedDateTime: 2022-07-08T06:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-brea
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras develops AI tool that can predict cancer-causing genes"
-    excerpt: "Researchers at IIT Madras have developed an artificial intelligence tool that is capable of predicting cancer-causing genes in an individual. The tool called 'PIVOT' can help in devising personalised cancer treatments,"
-    publishedDateTime: 2022-07-07T09:50:00Z
-    webUrl: "https://inshorts.com/en/news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/iit-madras-develops-ai-tool-that-can-predict-cancercausing-genes-1657187419906"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/7_thu/img_1657173273447_432.jpg?"
-        width: 1080
-        height: 1748
-        isCached: true
   - title: "The Download: cancer-spotting AI and a new covid wave"
     excerpt: "Doctors using AI catch breast cancer more often than either does alone The news: Radiologists assisted by an AI diagnose breast cancer more successfully than when they work alone, according to new research."
     publishedDateTime: 2022-07-11T12:04:00Z

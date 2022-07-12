@@ -324,17 +324,17 @@
     {
       "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
       "title": "Richard Kyte: The real ethical problem with artificial intelligence",
-      "excerpt": "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it.",
+      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
       "sourceUrl": null,
-      "webUrl": "https://pressofatlanticcity.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_688aa3ad-6cb7-5880-8b21-c7026b27d2d7.html",
-      "originalUrl": "https://pressofatlanticcity.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_688aa3ad-6cb7-5880-8b21-c7026b27d2d7.html",
+      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
+      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/6/88/688aa3ad-6cb7-5880-8b21-c7026b27d2d7/62c454ee627b0.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
           "width": 749,
           "height": 393,
           "title": null,
@@ -349,8 +349,8 @@
       "publishedDateTime": "2022-07-06T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -360,6 +360,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI",
         "AI Ethics"
       ]

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SK Telecom, SK hynix offer AI, chip curriculum to universities"
-excerpt: "and a glossary of somewhat difficult terms used in the chip industry is provided as well as short videos that can teach students about semiconductors easily and engagingly. Through the AI ..."
-publishedDateTime: 2022-07-07T07:36:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl"
+excerpt: "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,"
+publishedDateTime: 2022-07-07T07:24:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/07/419_332345.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/07/419_332345.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 691
     isCached: true
 
-secured: "kuT0+1yd+58qQGX9fTSYckMlQqWHrJ7T2TflN8cqPNYOYu9xvhAGhxo5PDCsNZmdqPcKbIeOhAASR6460jlRE6iekTEEf1MfAbMYpRpZUE/0PAI4jzX17r36yjSeO6puzMNDnPcdOU0hzZnORLFAYLX00MRBylroxzpoZB7Cm7Xi0jGZ3mn5xb4X/OrEaCD4olzdTgYotHns+mf8QEGgEPVhgR2xr32/T7+GW7HiGr6kcJDo3tApoPoOfGkSCxT9jlLGxrR4GXHyun7x8sVSGqaGz/B3RtKYC4bBIHTdknP0cLOZD4FYDjzwCp7iIqmfhKtmF1hbA8WIr3VQxlFrInTBPZZx5ErBNROQV+LrpRE=;D0mzDaMn2to1LCAH41OUlA=="
+secured: "BYtEWDkbEfb9Ajqljew7/zwncNr785Cw8cOd7lDW+g1MOZE5i3sa+rZIgpADAlUABnGNrQZ7XoRvXzxNdawlMMpXaUUTbHYuHLKDFUFT4/K7zzUZwizPuuQKhXKz6cIcQFM6qIYorC8OWABloZ8YYth/UwB199psyc0xQp1DzSY0ITgQnxa49spDs712a8y2id8Wnbnw4EaXm+B7Qu/3QXU2JPHYP229wkTptzSsSfc6URH3DNspO91m0flgvGiSDVh5GqJAQ9ms55JFUj82K46uBDd6sjkwJi3yCvue7uBXX1FIahfmKP1SSuYYzldDVcUoFHGc3KuQgSa4ObBjsSEwjg35se+FfhJscmKNu9w=;QPWwT2PALCBK44mFCr4M8g=="
 ---
 

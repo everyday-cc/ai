@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "IBM still breaking new ground at Wimbledon"
-    excerpt: "IBM Watson is playing an increasingly important role in growing the fanbase and relevance of the Wimbledon tennis championships."
-    publishedDateTime: 2022-07-07T09:12:00Z
-    webUrl: "https://www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon"
-    ampWebUrl: "https://www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 44
-    images:
-      - url: "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Wimbledon-2022-IBM-centre-court-CREDIT-AELTC-Bob-Martin-hero.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Wimbledon 2022: It’s Game, Set & Match for Tech Innovation with IBM!"
     excerpt: "Wimbledon reached approximately 18 million fans through its digital platforms in 2021. And this year, the event has become even more technology feature rich by design - whilst always supported by people in partnership."
     publishedDateTime: 2022-07-11T12:49:00Z

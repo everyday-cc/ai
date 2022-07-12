@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The \"Fraud Detection and Prevention - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Fraud"
+    publishedDateTime: 2022-07-11T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28022828/fraud-detection-and-prevention-global-market-report-2022-role-of-machine-learning-in-fraud-detecti"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
+
 secured: "KIaSOY2QgkC15Z7u4pW3qYkvFxe1VSmhOrzmEkT0f5yfG6wTAltmGxl8iXs6cUthfD2eXTDXiwahB1a9TC9hSeBadTok74x7jl4g9ApTJgdeyAspSIen5RkCUH8Qm3njSZQyZpM3jf3ILK6TQnS4xko6s8NYGmp52vTO/MZUZKCQtHnRJsEWZwM/uUh7NEWkV/aNDJGW09dqQwwsROchgdFlibG6ANgqk6vMTzP2oKALi++8Gx/RtMb/WKLwe06WqmKk6wvAD64BUS6/Lwt9NFSljwmdOyYMyCbSYS6HRQkOs0lxmAlDDVJFWRBVEtYfD3H3QzlevFSTluTilMe1GBdruYsFSQAvMmTOih3mwaA=;S7xdqeSY5atHn1wtepqT9Q=="
 ---
 
