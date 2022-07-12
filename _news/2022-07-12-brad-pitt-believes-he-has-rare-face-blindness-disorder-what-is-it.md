@@ -3,18 +3,18 @@ category: news
 title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
 excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
 publishedDateTime: 2022-07-12T13:30:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/health-med-fit/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_ab3b40ab-4f1b-5146-b603-078d08ac816f.html"
-webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_ab3b40ab-4f1b-5146-b603-078d08ac816f.html"
+originalUrl: "https://www.messenger-inquirer.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_90aceffd-9e8e-53ed-bc69-77b69b830230.html"
+webUrl: "https://www.messenger-inquirer.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_90aceffd-9e8e-53ed-bc69-77b69b830230.html"
 type: article
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Messenger-Inquirer
+  domain: messenger-inquirer.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "lMchW46UjJWPLttv8Dv1cVhczoevDVFd96rXilARXgMGx5RsmI7GqM6obemfkjGnDK1dzd+FO9V93fVoMZX9vxK4dAogOs0ERgxkdkhOhhMMtLuJ3kH6G+LCbjDYBKseXpwKZtMAGafkjVQa/aZLg5NZSMjLjOOMkDXQRj3CPULURoshJwJN9DBk6xqvxUZwMppC5Sw/GQ2xIvR4SozHJBYP4jK6+MGOeg5A2E7vN5zADEp6ZYBt5nYx2+L+NAvtOozmsffdlhykIV6ziRG8oLzAQL5Fb+l9AKA0azSZPsQJeEJ7sPROvgSvujr9ftoauARm+EILcPu48lQLjKGMhJTGMyew2sK+EMBf44eOh59ZO8fx34QKcEPKJgJ106AfElkadcofU2JETkUqmSt1KOm5ZG4NGRmGMnFbk89R7df6kEQJwgvPYocNZrlWv/0XxhtH9zpbZPfBvt8TR8C2l3gzF0sDNTlVWe6Kk30MEVlICCkghP7398GVM5A/CWWExK9ue40IsYfkSkh2opqYHA==;oauEpETt0YfrXkoF5bEn2Q=="
+secured: "qr7x8Rj9IFddiIOjaz9AWsO9MfVzTS2DNaO3zcm1kmv2ov96Vyif4y4E1/l8I5zLdptOFnjnamIzFm7EmzxVzRd17FBbWJCDFZ0+T+dgUJ2IFnAyUnRaCqmGTDID48jjW8SBV3B7rqubYpkNu6aPdDft8EPzpTqo9Q2dROzpahQ1SAswaTmlnZBdMGurHQYg89EW7Xd10km+0tyZOzOwFEVnLMyaIHf2lgZpmOsW1WIhD6/YuMQGUfFTpSehYy2txKb/4aQkjPYNTPZeCrqirNIcum0fymhG+8PEs31ZxHXl292gj+tFzNLLRhlwg6jzoPGllyJJTfxJSDmdg20dtG4GMqFgP6b4c9f058+8gIh9GW4dakuDCcXEIdv/57UHQVpAYeZhskBVP9WgBC6AE/NPyef4qSom1HP3kcM9wzlZvaFA+Szmuz8I7PW7EFlk8oO/2fy2pgM18N4Dq1t0FsPU+OwZx8Fy52YvxkvuAPxFKB4lhJQBqk/p1lgfQmCCJYEi4vdMq4deyC2zwXbWWw==;4eV1lvYMHmvtQgMoeFWgXA=="
 ---
 

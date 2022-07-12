@@ -1,20 +1,20 @@
 ---
 category: news
 title: "The Global Robotics VC Investment Hit US$5.7 Billion in 2021, Led by the Need for Mobility, Autonomy, and Collaboration"
-excerpt: "According to ABI Research, a global technology intelligence firm, the global robotics Venture Capital (VC) investment reached US$5.7 billion"
-publishedDateTime: 2022-07-12T13:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/the-global-robotics-vc-investment-hit-us-5-7-billion-in-2021-led-by-the-need-for-mobility-autonomy-and-collaboration-881368878.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/the-global-robotics-vc-investment-hit-us-5-7-billion-in-2021-led-by-the-need-for-mobility-autonomy-and-collaboration-881368878.html"
+excerpt: "According to ABI Research, a global technology intelligence firm, the global robotics Venture Capital (VC) investment reached US$5.7 billion in 2021,"
+publishedDateTime: 2022-07-12T13:04:00Z
+originalUrl: "https://www.asiaone.com/business/global-robotics-vc-investment-hit-us57-billion-2021-led-need-mobility-autonomy-and"
+webUrl: "https://www.asiaone.com/business/global-robotics-vc-investment-hit-us57-billion-2021-led-need-mobility-autonomy-and"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "q9bcMDoWw//Hm7upGDZ1TNWbT/SXp/44SZP1b1/O1fNjJBCIRqdvj2wJfGZkV5y9YnoneAmcEuCMDgK+Q4SZQEbZ30E2Q0tOxSogLaNDaDLIzHnxmHkQ/FWf42oEqXLE8IXBq25HVZGoaOXl9Pk255+HkakO2Z9MnXhJ6MCGPxcTFPsIhKTyfcMXUxzpeh6u6S9lycTEVExo5T1erJ5ecIWZTBXs4jmbtVGdItkYrnmb26n+Rh4pLEJbLclPiN88kp1TqtSBF+xNARW1dpHMXGmnTVY+QHdSl7+8Chwq4TWU35HNMjsw4dIrW5RiUpc5AsYPgQ7wCd46ppiyHr+dVVV+npIh9n1yl86oem8+J/A=;KWirD0vafx4luvtn3Qi8+Q=="
+secured: "w2KQb9eScZGYACtB7ccAkXX1JZ37TCbHGJFDAhk4jrqYpJHqiT2dYXXxcxmSKN+a2OMYuz1FWsiFLOWN609DSM+LtyjgzDTK+tGdYTOnzAoNdwKA/IhcQW3IzFSA9slfpNmHiuMS6WQIJy7qFaBoE9ZBrF2YpWn5SxFfVK1plror0CRkWUsNJWSGluQLOX+zXw7BAnu2oLnbiLvUxbff55hB2afZS13BEeLtYFXggVs7LuW9/BUgpB7J2WQF4diSfPkW842D8Vf0HvXaxNwcX7rejp8Tvk6B//A+UPQBt3UezH41DFovSVdzuwE30tnigZnoa7GCSAEwLGzMrre1GK2YmdJfqBpn4UP0q02rGxOAM1K79ImLTn2MW6BTlz6B4wPR/G5yNZWu+hZygBAvEEGkw4s5A1xTlACaNAJSv0C3AHpM+gYSiWUFNOOfP0AQooB39XixyixOMn9yFHqU8jxeQxzSJW9ookmQT0I7Wts9yl80+1vO+FMh9kunxQoqynIJR4qk5zlHcNx/NaVMMA==;a9gE1UhHy923i6GE5hmCGw=="
 ---
 

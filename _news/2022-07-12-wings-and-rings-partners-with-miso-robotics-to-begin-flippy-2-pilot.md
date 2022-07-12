@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Wings and Rings Partners with Miso Robotics to Begin Flippy 2 Pilot"
-excerpt: "Wings and Rings Becomes First Wing Concept to be Operational with Flippy 2 in a Real Restaurant PASADENA, Calif., July 12, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-07-12T12:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wings-and-rings-partners-with-miso-robotics-to-begin-flippy-2-pilot-1031580916"
-webUrl: "https://markets.businessinsider.com/news/stocks/wings-and-rings-partners-with-miso-robotics-to-begin-flippy-2-pilot-1031580916"
+excerpt: "Today, Miso Robotics – the company transforming the restaurant industry with robotics and intelligent automation – announced a partnership with Wings and Rings – a club-level sports restaurant chain serving signature wings and other chef-inspired menu items – to begin a piloted test of Flippy 2 in its Crestview Hills,"
+publishedDateTime: 2022-07-12T12:22:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-c802da6409a54372500760c2726cf087"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-c802da6409a54372500760c2726cf087"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "y10IwCzE1WzXgv1VTmeGXJ6xCNaRp8eUy9RSuFrQ9Jl8cgfohNh9V+/8bgdfbOHbQu8L1TumsUBrt/aj7XyRmQKmTdjZfVzbSsJVKz2jmYbZZgLT8kT/FRprXOCuJL4KLyzEw5tmGo5w71/k6P/XSuKgRKRkdwzy27PPDr21TworS2gFAmm40Ih88m2k9BPAMMk+f+Fj1NUDrmQNT2/uJ5XYIqnDf6+1E1G5hAGxPsWw8Zqv2SK21zo0sIoL9SRIIP16yxv1/1oGxdEZngztjBGSpuEIwT2P3rDZ5rjFp4RxdTtaJ3io9k9zzcsALnk42YHmai39ydfyhS2kiHufKFoQjdGPrLvl8iUWSEFe8Fs=;iT9WIkBoV1c7NQa7y6foiA=="
+secured: "w9Eo3i7jYjzMZrQzFOGvE9rNzFz6GJEAdmRfmpC2kssmXVuYjLZ10LAcVB2h2c+/cVlW/KtmHTw8P0/HozNmyLaiRYXqpmIidtkfCuLU+78vwKTSlt5GQwPJLUlfScgfNBGfVGakc8h+XBXx2RkZ0GRk93Q3TOa6xvp+jbeQqWsd8Y+L11P3Lalr5wUuF+3qzSM1c/Mvat4BHftbC6gn2zb4PdTWHnrizC2V+cBBohYPg1eixFFVDTopTBpfdwT07GG3YR56BAyugRGNwiS2z7qNOn9E+mNdRXD63NWQem9j47macaCaYyBj+binMWmAMOcV1Q3bQtVgmk4v9hp+HiJgKT7/BZH9I7hHjnMgGxM=;StMBShOvtpRA/c1ElZoUbQ=="
 ---
 

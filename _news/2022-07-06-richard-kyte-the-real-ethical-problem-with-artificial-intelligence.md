@@ -15,12 +15,6 @@ topics:
   - AI
   - AI Ethics
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/0/b8/0b8c5c7e-63a5-57fa-883d-ac11badcdcd8/62c454ee9cb31.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
-    width: 749
-    height: 393
-    isCached: true
-
-secured: "tqC6iGsYJ48th7D3mBpABRZJPD7TEGWWpWF52bk/L2W/Iuioue3pY3aGRqVM/VAmI/GKfDmls620HczXvGlpiUkFkaS5SlQ/TrQgXDYOHx9jD2LnLqILGLfQ60xArUywDxxe+7qrcNqtfhMEYWfkOJ6JAYKCn5wGbW/dxADI4vbuYO9QQ4nomMMqa52WyMG2SNYnYZwWJ8Tu8aX2Ut2aMK2ny3TS38CPh3zRW50p4Ql6Ney70jxqaWzCpp05r0XIUWYOt1iWczIzpXrqov/e6lRL9jOfos5N5HbgH8aorD7azFTgwSVdKsj11JCgnIvjeu61MlEvl9sUm4Jr6jAcgR5d4A4wXR9oGJbfjkuLhg4=;upbsNneowNtFxw92lF1IJQ=="
+secured: "D7ASbmgt7NSRNPt5l6fVTCB+RDdaHMB+pUm50sImHgSbu5wvhF1txVLE0Rnx4kcWCkKuxdPIfrBNvo3SoE8b6W87s93ZjZ59+4QTaZ9/xDkbP8R2BkkpR0SdpnjDpKGEUD+3wzLHeXf1uWeM0NZakLzCgUMTKvtZAkL21m4hUPEX3KYOftmeZkBdIUHAK94ooIXXpyCB+K8L4mE91uSftn8Mwy1cVbztMH3uDfGzp8eEQLtuvz5dSQUiN8+JmctmFoZqPXoT7QXs2hmDpQBfTFO3wbEqUeUMGssa4sBT0XS+dpgEoQhPei4m2CSkj+6TOM/v8oIvZaxRY0gseiK9JaFqIoAfJxrrMqgs5OFQY7MrS2Bg9KHN/TFnb4SuHwpKc+GgINjw3ZufTSFjil80bRRdEL0+aqEodm0OflNqoMm8bqRovr+FlpeuesDuLO+PvpZy/Pv3WBEOD/tbY8z8xy1xD4oJn6/TaikNKhB948cPoEywIY1yRg9+8Zw3ZO0cwYN9w/rndursIPWBISf2tA==;Uz/iHg8IGF+sx0PsA7WQZA=="
 ---
 

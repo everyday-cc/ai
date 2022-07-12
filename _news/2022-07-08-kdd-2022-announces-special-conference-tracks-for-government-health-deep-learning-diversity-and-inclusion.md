@@ -1,20 +1,24 @@
 ---
 category: news
 title: "KDD 2022 Announces Special Conference Tracks for Government, Health, Deep Learning, Diversity and Inclusion"
-excerpt: "KDD 2022, the premier interdisciplinary conference in data science, today announced special days dedicated to health, government, deep learning, and equity, diversity and inclusion (EDI). Taking place between Aug."
-publishedDateTime: 2022-07-07T21:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm"
+excerpt: "Deep Learning Day on August 15 is dedicated to the impact of deep learning on data science and will provide a broad overview of recent developments, including emerging topics that deserve more ..."
+publishedDateTime: 2022-07-07T20:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion-1031574054"
+webUrl: "https://markets.businessinsider.com/news/stocks/kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion-1031574054"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "8shTrWNPxwi+ZlZqHgONMAErCJFUXVc0gs81lxuKTDP0nuKThAInfo8dyr5ovxnelzMOzOUZVeP0XbFyi6DZOlIw1swVLZUtnH3DztmIWbYmsLgktnXxOOPmgne/w3xPBOulFSqv+ci4V+0uful/VkQX5aAaqAwp5S70k8qtpidMT+9QzVJHrMKKYXPS5GI/Jld9USdp7rp0n5CR0CgQTMkLQKr1i9QVgt6YNIXyJtyugItDXwP1FYqQumn0EYORKJly3Ai5KlzdVqzyowrn9VRQ+fHIzOlY7Gn7LRwsfC3+1F6wL2v+YJEjkBOFXj/8wfSvO7Y8OOLPd9n4koUa8EczDJsymGEeeYWcfDk1j4ogS9pkJiv3LicBggprsx5gQiWc+75bSb56r3YP12rSECNHID6iYMerQ55P9xePGNg4PnpXC7oa7032+HoxFaSQafvXvpdaSCLsjBcXAzXOebxG/B1KsQwwtYluPL7rxYV1n07k8XvgIPsknXgrX1/vQXQ94fR4gYYb+3w3AuiL0g==;QrTENHniougplLouIj0v3Q=="
+secured: "ICieF3J/pdtmwdwsHKDmersiffIFfW533T4PN2SJnz4AuEo9ZJi2DfPKEE3iyZR0KJW2ToxAPTDmjbRHg71AAF6jPYjwAPMrea4aaS9dgVSfgMOEvcEvwLvoXVO+eDf1hDY5JuR8DAkIY92rlAfzajq1+UaUrXYGehPAE6kjsmvdsuh6aCDI0yS5Zg9Y/BCByQli/shmkZEte7jt9qSWyS01eTrX4G/avSCp6z72l/Dv/UScDXg/1S/gbVWOWrJt7pfisjxCRN8WiYODr9WMSNxJMKYE7lkgTaZvvqPiZy+/B4cjHrHpnFqoluFMpgpcmkwVbncTd5byEBET99rdPAUKob5Q0+0E6dUeSnGJUeM=;FO6fHzozCXk453vx+XIOfQ=="
 ---
 
