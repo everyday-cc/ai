@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Record-Breaking Registrants And Technical Papers For 2022 IEEE/CVF Conference On Computer Vision And Pattern Recognition (CVPR)'"
-excerpt: "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ..."
-publishedDateTime: 2022-07-02T00:17:00Z
-originalUrl: "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR"
-webUrl: "https://menafn.com/1104466269/Record-Breaking-Registrants-And-Technical-Papers-For-2022-IEEECVF-Conference-On-Computer-Vision-And-Pattern-Recognition-CVPR"
+title: "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+excerpt: "LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), the largest gathering of professionals from across the world and ..."
+publishedDateTime: 2022-07-01T22:32:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220701DC07275/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr/"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-07/01/PN_3fafce87-d_Image_In_Body.jpg"
-    width: 400
-    height: 233
-    isCached: true
-
-secured: "w3AvUaOrxtMdjHs3aaFqXj1UYxqxpXgA+2oPDvNlIn3x6K5aenwY3SKD78BfWJ8laf2URjU8sr8b5M0aY6eNl4A4gH5/8NGnCYcxK9r5538JqRZg5DdywZdMoEqSlArw8OYh4OuM55nW+j/DGUZcvUKwQWUogSYzp3KcrjJ4DkDQKYPBHm9ZRyOJvvsHZ6tC9m5zXksBrWpyH8b5P8/FT4M8fBfkn+05b95QhX5WT7+gWi1BHM05zKIIZnmDFNFlhSzF1ppTyroS+LilDcQBDxYgWHLe3BfLhX1XHhdAEXQtf28NYHbYVxsYKAzINU3npbWQ3817jO1fVzH2aNWP+pEUrkI0eWDAA1kFbXopYDs=;sntwD6G4PsbYWUB56wt5RA=="
+secured: "oZqnC/tA3pEVC62BZP2SpUum1nl62x3DBvTn36KM//yMqcd3zpZrg98JyjjIL35uegWtBI4Jv3T2TWXPycGRV2n9icX8jxjULl2Lz2Iug9uBMVlB0YmCT6vkMDkHVEN45OA+635j3hjRkVBjkJaNz6ZZ4pbDTjDQcPWIP07fMFpx3jQLzL0yH/7IiyaxNYBLL8/rMY3x7e3PpwA4vA4syJtxZBh16SzcGDyB/iahqiLgWwgfcco/qICZFbaHSXaBMsz1IB1/ZeR/mhrZ6l62Uu07CiJPupB0KGY+kk3ZshOy/JWmiU31Hf3HRBsCgUvht9m+BXeS3kw7v/rgi15ihSSzNkeH1HIhDaeM2ff0XFw=;W77suQn5KRw6yJsGdbVNbg=="
 ---
 
