@@ -32,6 +32,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Driverless car startup Argo AI lays off 150 employees"
+    excerpt: "Driverless car startup Argo AI, backed by Ford and Volkswagen AG, lays off about 150 of its employees this week."
+    publishedDateTime: 2022-07-12T19:28:00Z
+    webUrl: "https://techstory.in/driverless-car-startup-argo-ai-lays-off-150-employees/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
 
 secured: "m/1BWvYsgEAgD+MfqXU5pkHg8M/lxqVje/KykcXDtnaKmUelvgjGrgPSZG9pYQJvYyd2MgPsXRheu/vLPEroVj8Xai3WQXsowyCn0EOdoNSeW2iESI9ZaZwomWzWtxdZzz4ih8hGfT8dL/Y9dp3XUEp3SSiwLuMnmOSWyrD4ljmyZujL0rbaLE0XYwzZDU8HZDd/jmvHMZe7YRuMqEDophquTpr0sqb+ecDdLui5qjLboIvujS2OWpJQ5DPXZ5/wYfV1qOiYnE4Ew4ZzwCf+WZGCgU8Vv+46mMhJwe2qAzbB12ndOtlwA6IVu2mLE89mOux5OWHR+o8XVCDl1b7XQoQyW901wqbZZWHDtngjVGvzNCjt/03/sBx080Yb/ShkCnifQz0C7zJsfP8gn8ADJAt33uymofsWsiL6mWl3+jIF5+y55DV3iJdgeM991/2zGMzie06ssHvunulEqfTmAjvsaJ6WCSWu/nqKS9ojBhnxN37PRwE/+OIIaR7/dtMOGZMnneUOdSyBRlwyfRRuww==;yX8CgVY9eonPwxVBzKWzCg=="
 ---

@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025"
+    excerpt: "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172."
+    publishedDateTime: 2022-07-11T18:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Growth, Key Manufacturers, Opportunities and Outlook to 2025"
+    excerpt: "The study on the ‘Artificial Intelligence in Manufacturing and Supply Chain market’, now available with Market"
+    publishedDateTime: 2022-07-11T18:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-growth-key-manufacturers-opportunities-and-outlook-to-2025-2022-07-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
     excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
     publishedDateTime: 2022-07-12T00:27:00Z
@@ -39,19 +67,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
-    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-    publishedDateTime: 2022-07-11T20:27:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+  - title: "AI In Telecommunication Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
+    excerpt: "The global AI In Telecommunication market is segmented by Types (Machine Learning and Deep Learning, Natural Language Processing) and by"
+    publishedDateTime: 2022-07-12T02:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
+    excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
+    publishedDateTime: 2022-07-12T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-remote-patient-monitoring-market-2022-industry-size-key-vendors-growth-drivers-opportunity-forecast-to-2028-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
@@ -62,29 +104,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 11
-  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-12T00:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 5
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
-  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
-    publishedDateTime: 2022-07-12T11:26:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "fbZqEvjWgflvw3qiSxzECDCHxbwaf3US73+oZeh1pNEvBJSLCyC1gKSuGNJQ6us7xkPbnacTQNZpckNpdWLznz5LQVtRRz/KtxqspACtwn3m+N18nFFj0qTXvjlOdzjYmNOI+wTrfygzt4EdMPX62MTSXpD6ZGLje8CwmWQqCccxgn3iagZkViPZ87yWoJkUqwxAVNOXw88bkQgNFJR8WT5ldXymJI36sJcffREthZh93T6xFUvZZO6j+Dk8HpO+fQN/Gpj56jYAi3JE3NPNmvID7R9WQ6tdVWYaoO/ziqwKC89FhVKvKjxUy3kUJJRR/F5+kfsHDmV2TIavNBaLppZDaHRq5pDcyQjDLowjg3I=;EN1D0nh6lW3CJ19UvVXI+Q=="
 ---

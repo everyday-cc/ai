@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-pr
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

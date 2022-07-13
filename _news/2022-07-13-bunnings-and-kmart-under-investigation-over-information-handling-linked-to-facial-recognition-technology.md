@@ -71,6 +71,34 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Probe launched into retailers using facial recognition technology"
+    excerpt: "An investigation has been launched by the office of the Australian Information Commissioner into retailers using facial recognition technology. The probe will focus on what retailers do with the personal information they collect,"
+    publishedDateTime: 2022-07-13T07:13:00Z
+    webUrl: "https://www.4bc.com.au/probe-launched-into-retailers-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: 4BC
+      domain: 4bc.com.au
+    quality: 54
+    images:
+      - url: "https://www.4bc.com.au/wp-content/uploads/sites/10/2022/07/getty-istock-facial-recognition.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vix Vizion facial recognition protecting Australian and NZ retailers"
+    excerpt: "The use of facial recognition technology to combat crime may seem like a dystopian solution to some, but for many retailers it’s working."
+    publishedDateTime: 2022-07-13T07:25:00Z
+    webUrl: "https://insideretail.com.au/technology/security/vix-vizion-facial-recognition-protecting-australian-and-nz-retailers-202207"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/07/bigstock-Dome-Cctv-Infrared-Camera-Te-433233587.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
   - title: "Face recognition tech sparks investigation"
     excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores. Kmart and Bunnings will be investigated over their use of the technology which captures images of shopper’s faces and ..."
     publishedDateTime: 2022-07-12T09:23:00Z
@@ -85,6 +113,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kmart, Bunnings probed over use of facial recognition technology"
+    excerpt: "The investigations follow a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys,"
+    publishedDateTime: 2022-07-12T16:17:00Z
+    webUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+    ampWebUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
   - title: "Privacy probe of Bunnings, Kmart use of facial recognition technology"
     excerpt: "The federal Privacy Commissioner is investigating the personal information handling practices of Bunnings and Kmart, focusing on the companies’ use of facial recognition technology used to identify people who had previously been involved in “incidents ..."
     publishedDateTime: 2022-07-12T09:05:00Z
@@ -124,15 +163,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 19
-  - title: "Kmart, Bunnings probed over use of facial recognition technology"
-    excerpt: "Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording their customers’ biometric data. Facial recognition uses vi"
-    publishedDateTime: 2022-07-12T08:41:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Privacy watchdog to investigate Bunnings and Kmart over use of facial recognition technology"
     excerpt: "Information commissioner will look into the personal information handling practices of the retail giants"
     publishedDateTime: 2022-07-12T09:14:00Z
@@ -143,6 +173,6 @@ related:
       domain: theguardian.com
     quality: 8
 
-secured: "rWnTcGxm7uXCUmzmMubUzYW3g1d/K/QPRE4d4QvPt6jY7is4CdMyx+M9vrQZQKJSJ1FeV0Y/tMLmiuozQO+psSDAAQLILUPOUHqmSL/GnrOMFeqh7XuezPYN671je+U/I5uwPAJXyZd+j0qVbv6d+rmCPoWsNVVVrOZEDHjiBqxFdooJwT6Ksnl+9sWUqtRtZwGA6YyBbBHs/xYgo/nPpvC2y1aZy0DFs8Cut/kVJMuFhopSdfSfp7i4qm6U8AUHVwceK0mFtAqhB19D1IrHTW8WUg1GWoF+eds59nqUJP1EveSF6HBBdRXPtG3WNRr+Jxzw0lZ9apE+9MkGIYRxP9GVl9oYdV4mMouPos9dsXs=;xV0zWU+pP1GK4qYM82xK8Q=="
+secured: "IvWFLwL8F0+MXciMMtRbqB9ym/hJvx4+f7lOcgd9MDZQg+cZbvE+5/FjDrz9E9ox2H/4IzAHHPlYrVtqlkXzOQggzAEB4H1Mvxag2peVgl/AVDeUaKCaMIIa5u8FG0ND1aEQQhQrORzhAVgy8a3q2dospIGArVePbVQGAK6IrHRGaLYizQyoJzN1558v/Uk0W6opKBsasHDg04C7jGwy+abbmgAnr2z5x5rpagKazzwuIRBfpG76n9m0um5gPXw9dkWTspR7lX8iAp1sa37XY9gc5xglTLNeCAK9sRodYxnANQuhAcMEs/+UMiHrodjJX6r5y8TIKDFTfMjVgyo6zq2709RBLca/oA9xViVsdBA+yIBioCPzr9VA7SDUeHhrqFm3Se0+qvdUiAkEvTQ51BIkbhAuc23wF8gmNnlWiJfJYox0F15qb5Sa9qXsbfHfOFKoI3fAqlx450G01rIaEVlLYksWnswtGtc75hM1Ui1Jx+k9gVO4Ik31trwIr3HD4jxed4FhEHNh1zvVO5EQRg==;TZSKR+yPX9TCtQ5Msi2UPQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-12T13:52:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-20e7625f638be9132d080f36d3608755"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-20e7625f638be9132d080f36d3608755"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "The Brains: How to Leverage AI in Influencer Marketing"

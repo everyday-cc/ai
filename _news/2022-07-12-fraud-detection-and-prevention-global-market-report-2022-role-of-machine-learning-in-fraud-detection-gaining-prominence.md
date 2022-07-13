@@ -7,7 +7,7 @@ originalUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm
 webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,29 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
-    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
-    publishedDateTime: 2022-07-12T00:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
+    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
+    publishedDateTime: 2022-07-12T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-07-11T06:23:00Z
-    webUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-covid-impact-trends-analysis-report-forecast-2022-2032/"
+  - title: "Global Robotic Software Platforms Market Report 2022: Open Source Robotics Solutions Present Opportunities"
+    excerpt: "Global Market Trajectory & Analytics' report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms"
+    publishedDateTime: 2022-07-11T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28017574/global-robotic-software-platforms-market-report-2022-open-source-robotics-solutions-present-opport"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 11
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
   - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-07-12T00:13:00Z
@@ -63,20 +63,15 @@ related:
         width: 301
         height: 251
         isCached: true
-  - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
-    publishedDateTime: 2022-07-11T09:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
+  - title: "Self-driving cars only a fraction of projected $1-trillion global autonomous technology market"
+    excerpt: "The global market for terrestrial autonomous mobile systems alone is projected to climb to an estimated $802 billion by 2025-26. When adding aerial, marine, and defense autonomous systems, that number can easily reach $1 trillion."
+    publishedDateTime: 2022-07-10T05:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2022/07/10/cars-fraction-of-trillion-dollar-autonomous-market.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
   - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
     excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
     publishedDateTime: 2022-07-12T11:26:00Z

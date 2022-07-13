@@ -69,6 +69,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tiger has big voice, just not as much visibility"
+    excerpt: "Tiger Woods, left, and Jack Nicklaus, both from the United States pose for a photo on the Swilken Bridge during a 'Champions round' as preparations continue for the British Open g"
+    publishedDateTime: 2022-07-13T07:00:00Z
+    webUrl: "https://lmtribune.com/sports/tiger-has-big-voice-just-not-as-much-visibility/article_8fdc652c-a5be-543f-a946-c700ce718bb3.html"
+    type: article
+    provider:
+      name: Lewiston Tribune
+      domain: lmtribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/1/e4/1e43f688-c4ca-50eb-8ace-a45f6ab4b256/62ce62fa6e527.image.jpg?crop=1175%2C617%2C0%2C573&resize=1175%2C617&order=crop%2Cresize"
+        width: 1175
+        height: 617
+        isCached: true
   - title: "Press Box: Tiger has big voice, just not as much visibility"
     excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. Woods left little room for interpretation Tuesday when the 15-time major champion hammered away at Greg Norman’s new Saudi-funded LIV Golf series as not being in golf’s best interests."
     publishedDateTime: 2022-07-13T05:44:00Z
@@ -88,6 +102,6 @@ related:
       domain: newsday.com
     quality: 4
 
-secured: "20cutbP6JTudE+Vrp6Q7LuYkdLgfuFNs0pzX7vXBKlZZxLIzefiIHyOuUgrlf2IMit0mZvXoS64sUL4mUfA4sbfpFroZakl3ZhtpkxVX2Z4m+baOueYt7/R0xH2JgVpUoSWM481cmfcWknOAVxZF82EH/mDMC8prnNfoww8EmpAgsQdCuNXf64ht1CAHZOXeGT5073XWDsKck3GVKnWQNq3fHqwt+Ggs3ysaERxuZX6+SSksZdxisYNMNZ5MF2flQtCXVaq19JP3HbpTBPW2HA9X3rPRMDxTVCjKSV5Rv1gIypi06nChW3y1jXTyTMPH1RzxfznvS4NX4MI0F/XWgrShJll7eTDdW5YVSV/U6jI=;CxLAUSR7eabbdaKPsUqoHQ=="
+secured: "QzpbVTVQfRUpghT+cIAI/X0lik7/s+31OUfJ8JBzg4cKc96q9A0x2oiggolP+xn6DMiZGXahPADK0Y/19zGNuHqpO7ZPQQ/Jpko7QgL90bWIKyXM+pES2q5iWNg3uWlIk1r8X5F9sqt3aaE1kfj1BcVZS6rEAmJP2fO/QB6lN62o+ng4jzSNAHWkZq+MnNmbY7FnFLZjb6n9U6IuUGlnd6qhgj/0KdCnQLDBwDZYr5XKnWO+kYyuBbDhozWnipqTkcr0THhnShUlN6+9UnMldGTuxHp5KEi6bjC/KhX0E7fYVF/OlkY4VWOunFyaejOcQfZq47Pmxi92oFxqdlaV70im4K0YSVcugXGHKqVW2OV0vffy23S6a0cxG+9wYcdOfTCUN7tX0SpdW+DwXCKrCRp/Vky4lj892TfqUK5pryhfw0niqxlDfxAxSKBuPuTe1uJUoR//GwJb+jpr5YMk8eaLmuaQpFWK5weEyfzpdoIoImmKiLX2TTCjfW97+54BtLbqTinTEZxeAsWMs6QavA==;EQqH0FmSSo62TKZhMSvFMA=="
 ---
 

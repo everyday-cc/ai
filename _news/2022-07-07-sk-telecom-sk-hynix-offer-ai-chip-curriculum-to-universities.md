@@ -3,8 +3,8 @@ category: news
 title: "SK Telecom, SK hynix offer AI, chip curriculum to universities"
 excerpt: "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,"
 publishedDateTime: 2022-07-07T07:24:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/07/419_332345.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/07/419_332345.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 691
     isCached: true
 
-secured: "nHKTNzyVqMDYT96gAqnikU+ukFNyc6NLAmezUN/nlJmE5w+USTV4UkioQ2KebF1lca9lZk1KN6A0C+JStzcTAUCzqtE5B9JHEG8KZ4Ppdqp0v2xjpHDe6skhfDaLmKeFlKzxAFKNVGSJ9L6fhfuSs/bZShbarBHv1y/oAQSTFBNGHAuOhBYIuLPo95NYsAjVhP7p/jqTlfw90n5SoommEj0BJOfm/RtnT0fLQ48zVt7EDqJ0vZAbhSpH72QhsQ2K5Por4TJX4Me4qwkpayudsKGLiUZnAiEeBuirN3lE55+qDsAH/bgIBJT/PG2qdK0tBw9Zkbbj7CDko/Y16yor6kLzjth4b8vEbTD+mDrZu5k=;JdJmcRBhLn4Vm0xwBY+Mtg=="
+secured: "MhA2MzRcPeC84Z3Q9Gth3V90QQbRuDwEu8Rbz2doB2qEqqPu9wVzj+LAiumjD/oA4waw+Nhmw0hvBCZRrB2GGhIjj0yTNhz3YVdJ3ITt1VtAQWfwGZtDlEjR5fXwo1kK9/iNilY9YdqjmXOB880Nv7LF4/pRpoHQG9wAbk6Hc9cz47TUDlxOuu9yakI2E/cvYopMwJXA5rHy3PlH3yOW2my0JBHoDZBJnTolF65oR/XYglek+cW86AV8MUR8gWKxujXa+ey1mizENIffqY8iFkvyZ4Uj+ZlDJ5lO8eSMwdVNEoSL84201KA4Z9K33D/61m4MJ15WOhRgRnLZHMkFY2Aas+Xkqq5eXhoITsyOvSs=;5hKF2G6KEX1o/C8/vURQkw=="
 ---
 

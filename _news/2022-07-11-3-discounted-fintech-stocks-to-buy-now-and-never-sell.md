@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-n
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Global fintech Smart expands pension offering to Australia"
-    excerpt: "Smart technology powers UK Smart Pension, a digitally led pension and retirement scheme setup for employers. The Australian business will operate under the Smart brand and provide its fintech offerings locally."
-    publishedDateTime: 2022-07-12T01:29:00Z
-    webUrl: "https://www.financialstandard.com.au/news/global-fintech-smart-expands-pension-offering-to-australia-179795890"
-    type: article
-    provider:
-      name: Financial Standard
-      domain: financialstandard.com.au
-    quality: 4
   - title: "Where investors see fintech opportunities during a downturn"
     excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."
     publishedDateTime: 2022-07-11T17:20:00Z

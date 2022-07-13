@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/meta-begins-translation-of-igbo-other-african-la
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/meta-begins-translation-of-igbo-other-african-languages/?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Releases AI Model That Translates Over 200 Languages"
-    excerpt: "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation"
-    publishedDateTime: 2022-07-08T14:48:00Z
-    webUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Meta’s Language AI to Connect the World"
-    excerpt: "Facebook’s parent company Meta's “No Left Behind” Al project, can now translate 200 different languages in a single mode."
-    publishedDateTime: 2022-07-12T15:40:00Z
-    webUrl: "https://joyofandroid.com/news/metas-language-ai-to-connect-the-world/"
-    type: article
-    provider:
-      name: FaceTime On Android
-      domain: joyofandroid.com
-    quality: 19
   - title: "Meta will open-source its AI translation tool capable of working in 200 languages"
     excerpt: "Meta’s AI translation service is capable of translating across 200 languages and is in early development. Meta is open-sourcing its AI translation service. The tech giant’s model – which is early in its development – is capable of translating across 200 languages,"
     publishedDateTime: 2022-07-11T12:19:00Z

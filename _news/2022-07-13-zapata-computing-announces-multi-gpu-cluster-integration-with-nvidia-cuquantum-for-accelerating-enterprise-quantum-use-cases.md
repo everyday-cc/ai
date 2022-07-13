@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Zapata Computing Announces Multi-GPU Cluster Integration with NVIDIA cuQuantum for Accelerating Enterprise Quantum Use Cases"
-excerpt: "Integration of Orquestra® platform for building quantum-ready applications and NVIDIA cuQuantum quantum simulation SDK supercharges quantum and AI workflows Zapata Computing ... today announced that a new multi-GPU cluster integration is now available ..."
-publishedDateTime: 2022-07-12T17:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28038362/zapata-computing-announces-multi-gpu-cluster-integration-with-nvidia-cuquantum-for-accelerating-en"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28038362/zapata-computing-announces-multi-gpu-cluster-integration-with-nvidia-cuquantum-for-accelerating-en"
+excerpt: "Zapata Computing, a leading enterprise software company for quantum solutions, today announced that a new multi-GPU cluster integration is now available to customers. The NVIDIA cuQuantum SDK of optimized libraries and tools for accelerating quantum computing workflows is now integrated with Zapata’s Orquestra platform for building quantum-ready applications."
+publishedDateTime: 2022-07-12T19:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-zapata-computing-announces-multi-gpu-cluster-integration-with-nvidia-cuquantum-for-accelerating-enterprise-quantum-use-cases"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-zapata-computing-announces-multi-gpu-cluster-integration-with-nvidia-cuquantum-for-accelerating-enterprise-quantum-use-cases"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "6j+Y/fXm99Ebe5C7loGTL5KGH4kQQax646k1I7z+D/qzvohGb3CIjpqHE3eAz7v61KaM8Jc6Vf47iTbFOZSgDW198qOllCSgPD+kZQuDtAI/gvxWbQhEjNCpkfq+jj03pV0ZMRXCdDBCxyJc0RLgxAr/XPB2ZCFGftTBCetX7Sz/EfPjbpiv/f7OILwE8gHppQrOXdG9AUMvaaDKtT0t4dktJhWk1DZEWMjW1yVeWRe0gsjUTgExZLmm3kODE62q1YjUd2Qp9CuwTA1JNplc+ktd2mkrab4bA6tYn2QWe4wHXr+7H3bLY7J/isI9pnBhlviJermlh+StBeRFV9M5x3WH0OwvZDrCPwNPAbntOHY=;PiGyvVUqp1V2cs9w9lHjSA=="
+secured: "EwQ7f6a+zGlfAGNOawVdCGwEzrXU+VFDKafSAaiOxjT91gC+mS9vfsgKYQoSLDOQKn6fxpaMsr2KCgbNPTe3Cyv2xY65N8WG8bO8TJDz5uuSw9F4cBsjgCFViWUhn+p+a86UDos4vxFNnqVgwlgW+Qn3cggWAtP3Uy4zQUyssTgHFJ7oW1mb58xGE/nBlcMlVPbBk9PQoJoAvdlhp1oJtd9UPEdfHnq1YbHoFcmnmM2atb3XrfDmIlTkWcnk51zZQnzW+vbvFn0pnhrC/VdRBEoaNuFIe7KNQjBHQfbT/Mrj0oPiJeuDfVIkvN1g/9J9EvmpXtxF92QMZaA4V7k2kWyDegwz89OzxAOQlT9T7XE=;nCjQVahC7FdUT4XCFb5l2g=="
 ---
 

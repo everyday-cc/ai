@@ -24,22 +24,6 @@ images:
     height: 295
     isCached: true
 
-related:
-  - title: "Dell’s PowerProtect Cyber Recovery and CyberSense heading into the cloud"
-    excerpt: "Dell has made its PowerProtect Cyber Recovery for Microsoft Azure generally available, and a look at Dell’s other cyber recovery products indicates the direction of its roadmap is toward other public clouds."
-    publishedDateTime: 2022-07-08T13:27:00Z
-    webUrl: "https://blocksandfiles.com/2022/07/08/the-cloud-direction-of-powerprotect-cyber-recovery-and-cybersense/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 23
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2022/07/Dell-Faction-Cyber-Recovery-Vault.jpg"
-        width: 950
-        height: 680
-        isCached: true
-
 secured: "6KSZLHjIypNlz2CohiUZSmHwQPlBAoXG/AwasHS5pJxj3QxFPzvg+U6VyTBMH/zeSmADJcFxaGks2kKTEuJy0p8fFsMQORL/Qqo21ObZZ+6o5yIs/pwpbriKjsBl8uavbsI/fyj13XmzkDE/iW0yD3pnNAW+nRqQDHEH6jeo0yU1PdeMBH2PF0eVkqCXm7kKJlVh1ITYN/qwJea/TYWJi7L611zNZumjzK1W/Dx6oqUEkGp/Bydfmw7OCY7h3pSkf8FzdZ4HufHTulOAR4t+SGESqz3MmMBOHgzg3uHZvjnTHB+Afurvs/j/Gm6MMuAjs8/U3tc1Px/xQ6WrUFssVD5fNuqqjnjlZfAMttKm/TE=;AlCt2ovfHnjiD08e26kffQ=="
 ---
 

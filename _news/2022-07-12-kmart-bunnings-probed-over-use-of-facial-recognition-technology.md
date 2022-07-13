@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Kmart, Bunnings probed over use of facial recognition technology"
-excerpt: "Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording their customers’ biometric data. Facial recognition uses vi"
-publishedDateTime: 2022-07-12T08:41:00Z
-originalUrl: "https://www.theaustralian.com.au/breaking-news/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
-webUrl: "https://www.theaustralian.com.au/breaking-news/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+excerpt: "The investigations follow a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys,"
+publishedDateTime: 2022-07-12T16:17:00Z
+originalUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+webUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
+ampWebUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
+cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - Computer Vision
@@ -62,6 +64,34 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Probe launched into retailers using facial recognition technology"
+    excerpt: "An investigation has been launched by the office of the Australian Information Commissioner into retailers using facial recognition technology. The probe will focus on what retailers do with the personal information they collect,"
+    publishedDateTime: 2022-07-13T07:13:00Z
+    webUrl: "https://www.4bc.com.au/probe-launched-into-retailers-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: 4BC
+      domain: 4bc.com.au
+    quality: 54
+    images:
+      - url: "https://www.4bc.com.au/wp-content/uploads/sites/10/2022/07/getty-istock-facial-recognition.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vix Vizion facial recognition protecting Australian and NZ retailers"
+    excerpt: "The use of facial recognition technology to combat crime may seem like a dystopian solution to some, but for many retailers it’s working."
+    publishedDateTime: 2022-07-13T07:25:00Z
+    webUrl: "https://insideretail.com.au/technology/security/vix-vizion-facial-recognition-protecting-australian-and-nz-retailers-202207"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/07/bigstock-Dome-Cctv-Infrared-Camera-Te-433233587.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
         isCached: true
   - title: "Bunnings and Kmart under investigation over information handling linked to facial recognition technology"
     excerpt: "A report from consumer advocacy group CHOICE prompts the Office of the Australian Information Commissioner to investigate whether retail giants Kmart and Bunnings are breaching privacy laws with their use of facial recognition technology."
@@ -142,6 +172,6 @@ related:
       domain: theguardian.com
     quality: 8
 
-secured: "tyNTf1VnyCgCu1RTaiM6Ut0HNllR3K/WCaPIKTLHnYWrrLW/eTWQbOSKiN1W3H9CdwVOwlsG07fKV+NVahF1WwXkcu0iK2v8saH3rzLIjxRVXjeMf69HbZRq7Lsrstr1lz5r/G0/d3bE5tXSd8pYYmJ5aJvHuTITXi7LfAiXGF8IXyAO33NqM6B7A+ko/0cI5UpRp92H2ZkddRfiJF5wadl8N3X46zZLG9W4aDNKw8tP33I7bkAo/+FQfI0TjocQPl1bMCgFX2Ntq+ZPF2z71BTbSmPhEiHkVHTgT/VPRq6okItnfIXfuU7yQDn+G5W3U2BvBM8bk+4AOvUh2fHv0chPLVAVrQziOoGo4/SGjt8+4wb7c1K6DW2IA2nS0TTltgN835ldWwwnO8ud3aL734yM0VJWxzS3J9M8/ZDfRglJ1WZqpO0WkzAFfqQ301YLXyL5lQdDYeKTeuwWU0CnsYR9N4EqlysXnMxFnynanXyF2YXwPrz95AIptaYoZgV/lni9/sI4eC8qGPvalBcoiw==;y9f4bdE83OVcngJJ3o7G2g=="
+secured: "cZmaVy+HvxHGwwEvzdgZcBH9tIzHOKe5MThyYly5HppnyHwsPF4xXyvtIOoEP5+SrvxDYuk8ubZBlZtdkVC5tizWKpTauvCWoK682v3J0/uhFwBxLvhjFbfg08h2lZhi97VtopWgN3w1eJ9sKfJcFT3zWfHAIKp354j50g3D0NgqCqLyHJ4gW/uStka6K1bH6agHz8q0gr6kstFm1VbibX4Ff+FZSX3kNvvU1KQkkNg1a9LTAYHqz4lggkrXyb0ZYdz6iNJx3dyrRn6i4o1Gtf4noYS42N9czqC9gTtJXDxISNECRsNJMWVyOGcaDYCSCCRD2a6sBIh5dghsTtOFKVw5skrICBaVH4R/9mLEeD4N4OSMehmH7glO5oaY59OKj/gdt78HjVmw+zuk0tU35oVbpk3DA7IvA6i/IWa2RVfIJI6FzyQrYfqymqYODJ+TiS63RfC9X+LjnN+1a5J4KJNdWQySqgBisIFCdqhh2e1Z98Rz+J0RfHpqFeishXnqSXDXVdWLJjnfu3lreOZWPA==;TqRzuRXpBvtf3R8la6pcpA=="
 ---
 

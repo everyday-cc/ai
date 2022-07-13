@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washing
 webUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless car startup Argo AI lays off 150 employees"
+    excerpt: "Driverless car startup Argo AI, backed by Ford and Volkswagen AG, lays off about 150 of its employees this week."
+    publishedDateTime: 2022-07-12T19:28:00Z
+    webUrl: "https://techstory.in/driverless-car-startup-argo-ai-lays-off-150-employees/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
   - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
     excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
     publishedDateTime: 2022-07-08T17:10:00Z

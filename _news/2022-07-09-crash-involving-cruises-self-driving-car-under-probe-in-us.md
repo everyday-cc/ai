@@ -52,15 +52,20 @@ related:
         width: 960
         height: 504
         isCached: true
-  - title: "How Researchers Are Helping Self-Driving Cars Become Safer"
-    excerpt: "To make our roads safer for autonomous vehicles, researchers need to solve a list of first-and-last-mile problems — issues that drivers face off highways, on smaller neighborhood roads crowded with parked vehicles and people."
-    publishedDateTime: 2022-07-08T13:18:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/how-researchers-are-helping-self-driving-cars-become-safer/3766369/?amp"
+  - title: "New tests targeting bikes, and speed increase for self-driving cars"
+    excerpt: "Autonomous or self-driving vehicles are set for a speed increase, as well as new tests focused on how well they can detect motorcycles."
+    publishedDateTime: 2022-07-13T07:35:00Z
+    webUrl: "https://www.visordown.com/news/general/new-tests-targeting-bikes-and-speed-increase-self-driving-cars"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 4
+      name: Visordown
+      domain: visordown.com
+    quality: 24
+    images:
+      - url: "https://cdn.visordown.com/field/image/self%20driving%20cars%2001.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
     excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
     publishedDateTime: 2022-07-08T20:12:00Z

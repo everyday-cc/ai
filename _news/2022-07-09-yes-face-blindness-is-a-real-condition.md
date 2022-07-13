@@ -35,15 +35,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
-    excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
-    publishedDateTime: 2022-07-08T13:34:00Z
-    webUrl: "https://www.foxnews.com/health/prosopagnosia-face-blindness-condition-brad-pitt"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 30
   - title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
     excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
     publishedDateTime: 2022-07-12T13:30:00Z

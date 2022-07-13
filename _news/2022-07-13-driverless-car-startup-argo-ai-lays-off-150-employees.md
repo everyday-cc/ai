@@ -19,29 +19,29 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Ford-Backed Driverless Car Startup Lays Off 150 Workers"
-    excerpt: "Argo AI laid off about 150 workers this week, a belt-tightening measure following years of fast-paced hiring. The layoffs represented about 6% of the company’s more than 2,000-person workforce, a spokesperson said."
-    publishedDateTime: 2022-07-08T13:08:00Z
-    webUrl: "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330"
+  - title: "Argo AI lays off 150, closes Washington D.C. operation"
+    excerpt: "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success."
+    publishedDateTime: 2022-07-11T17:07:00Z
+    webUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-579737/social"
-        width: 1280
-        height: 640
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/argo-featured.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Ford-backed self-driving startup Argo AI lays off 150"
-    excerpt: "Argo confirmed the layoffs from a global workforce that has grown to more than 2,000. “With incredible growth and progress made in our mission to deploy driverless vehicles, we are making prudent adjustments to our business plan to best continue on a path for success,"
-    publishedDateTime: 2022-07-08T14:35:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2022/07/08/ford-backed-self-driving-startup-argo-ai-lays-off-150/10012738002/"
+  - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
+    excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
+    publishedDateTime: 2022-07-08T17:10:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/07/08/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "DaXqaLpmfn6BR5dwYsaVBzf9TPtsF/rVgjxc9+GmCC4SQfwvE7zBWsJYz84jb4sgqH3MIUNAfGvwNLuInUl311CNa0V7hgSdpOUPwILIIYT1qw0PF3e60bmMvpKyEOdNd5lJs0GeMCi1sLbo6/sl9By8yzFfLUPT+B3Vv4f1pewWlmItYR3JGxoW0vbz7TUOMA/tAYUbBUe91tLgq1lRmOq8TfSN7dUkgxFKx3xfR18yl2cDSvPzld4E2l7O/9q/zCdbqEdgfXOWuEIKmvf6LVXhMhQdSE53ioIc5XIcp90DYhJ5TK1MSWXqogo+3BOYpkUYJODl/Dq9xpL+CQc4jaT8Gw+HxYSKCXt3IT8s32mWVrhdEDPZTfNMFIwDXrXXRsPmrwOVbCgYHDGDMiKQdkd13XJYplJGa1vf3jlTAX0xk4kE261J64NbmJm/wf+qQ0bGlEFvWSq5OpEpMnMQnTJIsBZJV2SBFR0uRQgVTL6OAf2P8m6K1fBGiPRQ4hsdvKbl7DEVIkmEZuejeAoG5g==;Gvv9LX229CPLI/XBGTIMyw=="
 ---

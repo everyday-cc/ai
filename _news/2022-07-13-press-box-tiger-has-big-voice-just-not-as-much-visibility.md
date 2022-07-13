@@ -77,6 +77,20 @@ related:
         width: 2048
         height: 1701
         isCached: true
+  - title: "Tiger has big voice, just not as much visibility"
+    excerpt: "Tiger Woods, left, and Jack Nicklaus, both from the United States pose for a photo on the Swilken Bridge during a 'Champions round' as preparations continue for the British Open g"
+    publishedDateTime: 2022-07-13T07:00:00Z
+    webUrl: "https://lmtribune.com/sports/tiger-has-big-voice-just-not-as-much-visibility/article_8fdc652c-a5be-543f-a946-c700ce718bb3.html"
+    type: article
+    provider:
+      name: Lewiston Tribune
+      domain: lmtribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/1/e4/1e43f688-c4ca-50eb-8ace-a45f6ab4b256/62ce62fa6e527.image.jpg?crop=1175%2C617%2C0%2C573&resize=1175%2C617&order=crop%2Cresize"
+        width: 1175
+        height: 617
+        isCached: true
   - title: "Tiger Woods still has big voice, just not as much visibility"
     excerpt: "US golfer Tiger Woods speaks during a press conference at the British Open golf championship in St Andrews, Scotland, Tuesday,  ST. ANDREWS, Scotland — Tiger Woods has a voice that can be as a big as his golf game."
     publishedDateTime: 2022-07-12T17:39:00Z

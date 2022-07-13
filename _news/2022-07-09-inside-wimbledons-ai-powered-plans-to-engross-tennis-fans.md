@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-ten
 webUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Wimbledon is keeping its eyes on the ball with IBM tech"
-    excerpt: "We visited Wimbledon to get a sneak peek of how IBM is using data and AI to help Wimbledon engage with fans in its ‘pursuit of greatness’."
-    publishedDateTime: 2022-07-08T14:08:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/wimbledon-2022-results-ibm-watson-technology"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/a-2.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Wimbledon 2022: It’s Game, Set & Match for Tech Innovation with IBM!"
     excerpt: "Wimbledon reached approximately 18 million fans through its digital platforms in 2021. And this year, the event has become even more technology feature rich by design - whilst always supported by people in partnership."
     publishedDateTime: 2022-07-11T12:49:00Z

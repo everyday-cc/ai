@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Robots aren't done reshaping warehouses"
-excerpt: "Robotics and automation are not new to logistics; conveyor belts, scanners and other innovations have helped automate and accelerate the speed-obsessed industry for decades."
-publishedDateTime: 2022-07-13T05:45:00Z
-originalUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/articleshow/92843898.cms"
-webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/articleshow/92843898.cms"
-ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/amp_articleshow/92843898.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/amp_articleshow/92843898.cms"
+title: "Robots Aren't Done Reshaping Warehouses"
+excerpt: "When Digit spends an afternoon unloading boxes from a tractor-trailer in 100-plus-degree heat, co-workers never hear a complaint. Digit, a blue-and-white humanoid robot, was designed to handle the tough,"
+publishedDateTime: 2022-07-12T18:00:00Z
+originalUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/article_f7ffebe3-6465-571c-8db7-d396cb1a759b.html"
+webUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/article_f7ffebe3-6465-571c-8db7-d396cb1a759b.html"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: San Francisco Examiner
+  domain: sfexaminer.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-93084,msid-92843958/bf9784fb-5a73-4db3-82ef-867.jpg"
-    width: 600
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/1/24/12408124-0208-11ed-9e2f-4f935b7afceb/62cdaf67ef764.image.jpg?crop=1780%2C935%2C0%2C115&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: nytimes.com
     quality: 49
 
-secured: "V5CXxY9yNVWueqIFYj9JesvnUls3qer09Yj+XFkKgyz6d0mF+b8kwNkGNiFvtktj3dAhHcPNNxDkwFzqUU9TudVtY7y8sWBsT1RvEq6xXYJFCKJRnVE9xIlDgVSZ3R7TUWjksGUcjfMcUO8yNi3WMj7lfaLAXg2SFvVWdWMehn5ng8VTuv3oEVVUzOF1C8kh1Pr63LOz8PoflkYuND3foMNtW/R0+0GOtXMuDmHivNP/bFMdAOFo9/CrsfPikHv8O9DsDkv76neP5LcmQd9udfNhKNOHL7fy/q8sX5M4zY4XxFi2TUJJcaE3EOOqyOLJcT38XzHh2POT2aTofVrTcVZe5uOmNMchxDoBDEfZ/Uk=;4CdrFk+hHC6+JyubjqhLQQ=="
+secured: "won3mhqTzXeNfTc8f9FpHtho2ItBGYRtABC2dLJwTcLlHw0389CWYhiNg8R6AeKhxtIabfmnNEtTqHpRf1jOymjXFsdn9Qa0QeHckCs6lfQK2ch7HwsBbA+zsXL/auKFGr5rT05pzD4R2QQ++6ivTVE4cmjJPtqBD59syVXFpz2Ssj5Sl/CsB4dm1ugEtQTKRKnpAim1IQmTKZXDODe30IGlIRdFIg+QA2utY6SkLZWxansv8Clx9j484OwuXdtq5au2xLsO3CThHWy4wzQ8it9Nz2Y2y56+ZEpqR6OHi7QfBPLHoRfspmnvawkwpawdFaoHBnpRby+EqZDY5SKN/5xHF4Xtky3j86c1tTyN+f8=;PNPPmOxoygYOM9918xBZFg=="
 ---
 
