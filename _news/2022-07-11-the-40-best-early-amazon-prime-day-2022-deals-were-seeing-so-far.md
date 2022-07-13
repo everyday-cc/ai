@@ -88,6 +88,15 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 34
+  - title: "The best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2022"
+    excerpt: "Amazon Prime Day is the collection of limited-time exclusive sales, discounts and special offers available exclusively to Amazon Prime members. It all kicks off Tuesday at midnigh"
+    publishedDateTime: 2022-07-13T12:01:00Z
+    webUrl: "https://www.oregonlive.com/shopping-deals/2022/07/the-best-deals-on-roomba-irobot-more-robot-vacuums-for-amazon-prime-day-2022.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 17
 
 secured: "Y09dWSoIIZZJDduhoTmzPDhj3TRMsc6WM+FSnbiwJveVQP+KWC+Y4Y4LeJAciAS2aqYOLI1ncTesG5lzH6TMz8c1tq+la+Paht9rQMPOcTKDdwBoFP8IQT5DSBLZu7jdZpTed9WwhcjGQAq1DJ/s+8jG5MwhYoo/EROjdtoTEmVZbaduzB1V/XNPcPkEkJ+CyYcoHKp5/gViCg4cl3tOd8Gm2Bww6OiEF202tbMIdDpFQBVXJFV7FvcX7Jz3Bdkf1m073rw9uB7SAfSNl+04/CgPvIVpZf8z6g7XxPDK+TJqXadn7O7ewm8UYuJdLktusEf4esXPXIfdp5N+IWSJOsu/DRL6pAH4/yLtl+3FJmo=;NU36DImOpvry1rszLbsy9g=="
 ---

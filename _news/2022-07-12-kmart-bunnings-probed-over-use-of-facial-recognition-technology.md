@@ -162,6 +162,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 19
+  - title: "The Five Biggest Facial Recognition Trends in 2022"
+    excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
+    publishedDateTime: 2022-07-13T12:55:00Z
+    webUrl: "https://mobileidworld.com/the-five-biggest-facial-recognition-trends-2022-071301/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
   - title: "Privacy watchdog to investigate Bunnings and Kmart over use of facial recognition technology"
     excerpt: "Information commissioner will look into the personal information handling practices of the retail giants"
     publishedDateTime: 2022-07-12T09:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-10
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
+    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
+    publishedDateTime: 2022-07-13T13:33:00Z
+    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
 
 secured: "mmOs9q3NptB7Y3JjuYU4dMfs1BLQDYezNFURR5rIcjPDi/fCgNkOot5eND329nq6Qaja0VR2eQqDO6vx7fz6vXC2bIoAj+X+Z0oib8FuojcXj5RqLP+i7suUOoS+dHqsmTABQIPt5JaHGEjS++ycbiTX86O+pPvMI6cI+v1jVMgwGN2N0lUX+VtunnseE6rIUh3oUH7/OzkJxJ4BAZ04yRve2SkpJkjs7w0NdKyQKfLFhrCbfm46kRYmK8lmUYadzWhh/mClI8YQv2ys0ZWjTq3f6tl7FOJzn310JY1WSUTdhrz1+Weepwn+MPcFNUQSDj2u6C0r70U44ey7BwymfCNTFUg7armzpFn06jj0gEy1iCRcPuhAaKno5/p3wlEXJof9QbLh92ifbcohwIHuppL2SaV0LhIWz6wO871FBjXiCyi05KkQho2Y0sCOTjHcoHi//bm/+vXrk5AhLF4iOI7ubR6n/O0T/7727u5g4RkNbedRBfEexec3pPS1ckMTLx49jm6CogAYEEjOOK8BMg==;7CzGeah6qI2nmJZZn6Xe3g=="
 ---

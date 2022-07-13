@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T12:00:00Z
 originalUrl: "https://www.bizjournals.com/washington/news/2022/07/13/booz-allen-launches-100m-venture-capital-arm.html"
 webUrl: "https://www.bizjournals.com/washington/news/2022/07/13/booz-allen-launches-100m-venture-capital-arm.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

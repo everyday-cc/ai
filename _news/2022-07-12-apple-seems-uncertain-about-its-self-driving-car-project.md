@@ -51,15 +51,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
-    excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
-    publishedDateTime: 2022-07-08T20:12:00Z
-    webUrl: "https://www.autobodynews.com/index.php/western/item/26648-gm-s-cruise-self-driving-car-crash-injures-multiple-people.html"
-    type: article
-    provider:
-      name: Autobody News
-      domain: autobodynews.com
-    quality: 4
 
 secured: "PSu8gczq/1bJ6FSQpEuZpPBcwi4JsE+P3aQgsxPLXC/belsmF2kiIDH8rGSghb8w23D8dvKzNxdJEchFnvPRbvlUl6PhmlhxLvDPiHruR/15RMGk0E7R4+O8nlaYtN1W66NVMeuhIJjue99wBKNtp7ZeOfDlFBW9Fd6g1Uycai8uyQEptlxRdAfZZz3QQceIJtSlm3j9rgsZTdy1FYk32HA0Goo7pc76HSbx3xYcV5fm3h3QH/LOkXRmXW//sGNEPgnU1y7waC3R0tybfYJdSXsui8YOzJKqWu4hGD6PV/YzB+SAqSE/ZeMY/AG0AiAU3EzNhi7bwEnkDENbLlKkN7xw5WD27Z/RXpwqCRud/Jm7siRYptuPKab2DMm7PCAzzB1tK608RrpZxW2/mYnMpdUWmXb4mm41/KApF/knqxsXnFQe51exMX3ftA+WJaEkaZkMXC/t6jQUOvs6PH17yVDWirtfYPPWe3VU7uW4tZXIYbEXlhW7aEQrSF5GUOmwKQbfSkbekKbt6Hd6MaUypQ==;6Z8frE0HP6IMRX9D5jCAcA=="
 ---

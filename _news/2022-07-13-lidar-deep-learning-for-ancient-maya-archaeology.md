@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T12:06:00Z
 originalUrl: "https://www.gim-international.com/content/article/lidar-deep-learning-for-ancient-maya-archaeology"
 webUrl: "https://www.gim-international.com/content/article/lidar-deep-learning-for-ancient-maya-archaeology"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GIM International

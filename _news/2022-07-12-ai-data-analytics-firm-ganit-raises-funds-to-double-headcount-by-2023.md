@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-data-anal
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://mma.prnewswire.com/media/733405/Arena_Logo.jpg"
         width: 400
         height: 352
-        isCached: true
-  - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
-    excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
-    publishedDateTime: 2022-07-11T23:17:00Z
-    webUrl: "https://www.datanami.com/2022/07/11/how-intuit-is-building-ai-analytics-and-streaming-on-one-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/Intuit_shutterstock_Tada-Images.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "radicant, Squirro Announce Partnership in Field of AI to Leverage Data-based Analytics"
     excerpt: "The integration of tech “enables radicant to automate decision-making processes and improve customer understanding and service quality.” The Swiss tech company Squirro links and “analyzes data to provide new insights as a basis for decision-making."

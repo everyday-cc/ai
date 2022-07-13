@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/2022-06/GettyImages-1254870683.jpg"

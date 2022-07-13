@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T12:59:50Z
 originalUrl: "https://blogs.microsoft.com/ai/eedi-online-math-quiz/"
 webUrl: "https://blogs.microsoft.com/ai/eedi-online-math-quiz/"
 type: article
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: Microsoft

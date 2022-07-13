@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T10:02:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-84c3166f647a8b45eeeedd370caa0843"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-84c3166f647a8b45eeeedd370caa0843"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Associated Press

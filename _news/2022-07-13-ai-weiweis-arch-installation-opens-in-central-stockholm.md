@@ -40,20 +40,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "The books that inspire Ai Weiwei"
-    excerpt: "In a written piece in which Weiwei answers questions from his son, he explains, “My boyhood took place under some really tough conditions, and that meant that my happiest childhood stories were my fantasies."
-    publishedDateTime: 2022-07-08T21:00:00Z
-    webUrl: "https://faroutmagazine.co.uk/books-that-inspire-ai-weiwei/"
-    type: article
-    provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 37
-    images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/2022/07/Ai-Weiwei-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "ALtKT8+hhFgaMlM/j2YUUtJWyGuLs3/pzFqe9YkSQFjHPG8LTXzOLC6XN0PuUPiPKkdlDPhPpryrFuyUOn9f70nQ+CAjo46I4/puJUe+U3Ej/7eG7st7ItKyy5vezF6TVqpUfANRVczqFSr8WKiBkI89lC9Igxj0/G3vu4Xit6/HqpE4DvU4trBDO5iv8Tw0D/BBBEK8lVS0byrJElhG4zjlcJKZdKeYRfB3Sqo3P5UMUkwP1b3Xm8s0eCV6GE48CEc9kS/LMFarwg+U23NcEArg7rVxBdk5bAd/ca/YtlT2Pl9awQF14GEjJmqSW2e0DdOyrb1Sb8heAWbEwQysitmqd2eCnjVbydk5skegxz4=;YRT+Yt3QAWCGxBar9eXBiw=="
 ---

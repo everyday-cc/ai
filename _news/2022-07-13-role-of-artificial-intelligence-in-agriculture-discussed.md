@@ -49,6 +49,15 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "When AI Makes Art, Humans Supply the Creative Spark"
+    excerpt: "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now."
+    publishedDateTime: 2022-07-13T11:00:00Z
+    webUrl: "https://www.wired.com/story/when-ai-makes-art/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Reading law in an AI future"
     excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
     publishedDateTime: 2022-07-10T04:00:00Z
@@ -72,15 +81,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 16
-  - title: "Artificial Intelligence will predict your chances of having a fatal cardiac arrest in the future"
-    excerpt: "Professor Graeme Clark. It’s a challenge Clark is familiar with, and whether it’s the cochlear implant or AI, he said the same principles applied: good research, ethics and communication. “It’s very important to make sure that it’s done ethically ..."
-    publishedDateTime: 2022-07-08T21:03:00Z
-    webUrl: "https://www.dailytelegraph.com.au/news/victoria/artificial-intelligence-will-predict-your-chances-of-having-a-fatal-cardiac-arrest-in-the-future/news-story/0d281d9430b60abbca4a7e5af663b974"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 6
 
 secured: "vCqjdtzfoeOZnK69TS/ydUrFDqtQbFgzY6/N5j03SHwBk+yt2YKvfeoz25I3poDWYPW6irT9uk1Oh4WAdn3lbz5qg8eeU4JFgqQ44YM/fQl3hVBSMnJo0P/yLl0/DBQ5TngDey+dDBwqD0AZ0wNnomjawFSlWwrZAIAHgTbTxeUjdIpSQf79fxkqm2OhrEGsQ7kOsowgukg5U7KDvAvgT9b8vOxZshrvqjDt75iROFn6c62+Y3K6GSUMT9BCJnNFaKuSZoj3VvUfaRCB2IltHnZEUM0PQYe33+iJk/lCWMi1Dm2RUojVO0hVBqHBZtEykDyQPr/kSvU50eenxozJVGvGy8dtIjkW2vb7nUCPSO4=;9LK4EK57kUTi4SDv8SytAg=="
 ---

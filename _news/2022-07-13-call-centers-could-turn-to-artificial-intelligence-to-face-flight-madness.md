@@ -5,7 +5,12 @@ excerpt: "Contact centers have struggled to keep up with consumer complaints abo
 publishedDateTime: 2022-07-13T12:42:00Z
 originalUrl: "https://skift.com/2022/07/13/call-centers-could-turn-to-artificial-intelligence-to-face-flight-madness/"
 webUrl: "https://skift.com/2022/07/13/call-centers-could-turn-to-artificial-intelligence-to-face-flight-madness/"
+ampWebUrl: "https://skift.com/2022/07/13/call-centers-could-turn-to-artificial-intelligence-to-face-flight-madness/amp/"
+cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/07/13/call-centers-could-turn-to-artificial-intelligence-to-face-flight-madness/amp/"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: Skift
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "s45KvU6KGg6XLVpTzf32ocX7uqS/NYCvyy+oOMVGN/dCmOHKqWu6GQkMFL9iWfcZNlakXpLwU6oWbiSw7gyHPVUhs9N4LaUPJL7HT9scp5EWWdvmieFFh8dqdjbmsmDCvroQ1XB6UNPT8HWngKUFZSzdW0aslFwiQRBGM9MOWmd+ck8t2YNirfU1KW0oE9msEd8Z4Mz4XIENDG4pgo8pyUodO3ZxuqqPO//wN5FL3Ns/PHjqrq5R6vob+M5kUol24dkLIwbi/5b5VypizIBJGPzEWnUTXynkOtYf7qfJXH2Q/sO8RRTWCTijVt06aP28Ma9Y2H8UiXLh+OH2EHH3FqVB3ky4uTSIyexdOgU3lEw7RAAOq9kTkU/5BUhif8DmTFarppmOrmzI8f13dnpqHwwKK5nYGrUAR9xCO7nSRqdKiUE+leQKuU8lWgGcuTOQxKkLOwKVAHjnhrVBpAzXdNDG0dQj5r6sKsAYxT5QFGK7spwOH3NUeoQsPObvDdacGUg1LxdC6jTfJJ5uw3c0ow==;cRoDBVMGYQOoXoPeCvfuhw=="
+images:
+  - url: "https://skift.com/wp-content/uploads/2022/07/cdc-_XLJy3h77cw-unsplash-1.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "quvD2qPOvchvpXddueX6w2bUfVqfNOF0fOLVL7F6eYiK/pyLeI6PaNo1MOtfc/i3cyPZ9YwMsJb3GApdWgv+nQFWIHR1vgg9sp0/C4ohR6eO7+lW/jQloaQ9kjaFpEJfKzV4KwP2++q/Bds0LPZQkxzAdIEghBGUMzRyTHFyuEgGx7KoZxPVc268MYjuVg3T5aQc0dJqXWnluKGCWaUL0RRFpmCht0goAPBXLocpDFLl4KaawatFOJlazEeC+z0znEC+G/vXn3W/uZ4+ODYvi66Pb8KQ7XTZFLyXIlUDrHtiL6m8UNcalhOUA87nmhMyQFWhBCp16ufJOKt9IoLl3ckFKza5E5qEduYbRDPN5Nk=;KWmaMH2jm/y1zyNqySsHtw=="
 ---
 

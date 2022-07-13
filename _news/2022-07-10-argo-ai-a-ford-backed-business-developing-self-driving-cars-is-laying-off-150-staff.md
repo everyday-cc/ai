@@ -19,22 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Ford and VW-backed self-driving company shuts down DC operations"
-    excerpt: "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company."
-    publishedDateTime: 2022-07-08T20:06:00Z
-    webUrl: "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
+  - title: "Argo AI lays off 150, closes Washington D.C. operation"
+    excerpt: "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success."
+    publishedDateTime: 2022-07-11T17:07:00Z
+    webUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 67
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/argo-featured.jpg"
+        width: 770
+        height: 500
         isCached: true
+  - title: "Driverless car startup Argo AI lays off 150 employees"
+    excerpt: "Driverless car startup Argo AI, backed by Ford and Volkswagen AG, lays off about 150 of its employees this week."
+    publishedDateTime: 2022-07-12T19:28:00Z
+    webUrl: "https://techstory.in/driverless-car-startup-argo-ai-lays-off-150-employees/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
 
 secured: "OsLkyp+N0yosx8oV2e/pzxTAHhaQDR/ZJhIvZqt2RfNth4tGC4HbJ8oZ36uWriuww2RdH32/nYFRy3B2WDTGskyJ37/vi7Vu4q/NCDBuusV2ETKlHqSQEPDDxQlV6flPjc82aGVU+QgR0FtskZWIVhSgxt657nKeG8/NtJAKI5KjIw10bxEiQAJRePB8JQQ0VgzAxAo1bhGUKY5UIimatcMEuRY9eTMcIf6F91a1H89obHbV+ZZhU6PMm1mxEBMYxw/sDYtNL5GU4IztVPOxaBcOFOV9FbPE3udmCha3jvT5i/BbL2eNIssjZ1rMw2Vtch+hOZJkay9lS/gzQ7Ftyfb39QE1ZPlaBYoAfZC0+h+wG1N3vjJ76HU+YHvfcYRvya9Sy9sICvTv6GNYp33ytfTl9brAUGaQlDN+pU8hJ/T5dV46yehS8c0xWLCXsmjGXMeiShWaeFAVMx9k+MaYU17rGhG2EoeP4XbdFBY6i9oxkjJzRJucLNEAhtJoKNT17uiSgzRih76nQpIMm4I/2w==;dud/7xLCO7qRbT+ozblZdA=="
 ---

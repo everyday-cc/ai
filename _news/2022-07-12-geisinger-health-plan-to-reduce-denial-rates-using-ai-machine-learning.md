@@ -18,6 +18,22 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence"
+    excerpt: "Novartis Pharmaceuticals Corporation to collaborate on development of new medical device software for earlier detection and intervention in cardiovascular diseaseCAMBRIDGE, Mass.--(BUSINESS WIRE)--Anumana,"
+    publishedDateTime: 2022-07-13T15:47:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-07-13/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificia"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 17
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+
 secured: "j8zzYy28DG3Cfds1hzH3MTYD66hp+viISdNJ64ZGRrJDe7XMQW7MH5ablDuVmLusXKRzdvmUyf+tNZxzEkXymzcWHhoce+gjNwG8EHQet7z565NcyKVtGi4FHJlDLrQcxheGPzgZf4Y6AbIeYprygLeVx70CLdYw4pUCR4L8RMRAWvDrhn74zoQTekZM6HBgfAyIIhr7mKx3zIYaNTGmipOXMsRvAKUodKyFthLj2ztXfZbEYwS87OeLb4uMjOVlesEmTyOvfdHZy0CPj6YRgtKGJRXqfslgIDQobulnZ+Q9tXbxcDKb49B/TTjROtDBPksQTzrzTUoXxgHPlq+S1l6MMk0gt3BuZU6SXhVZWHk=;WHpGaGQ7c1Fdn1fATHFLag=="
 ---
 

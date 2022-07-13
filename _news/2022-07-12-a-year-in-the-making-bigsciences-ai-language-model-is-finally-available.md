@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Open Source AI reference kits now available for free"
+    excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
+    publishedDateTime: 2022-07-13T11:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-open-source-ai-reference-kits-made-available/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "conxXmsLma4GrizvlduXLL6cJZc5MNijXjvnQXIcY5CRjxQr4aMg5A4I9PuKU0mY4JGwJaWStyZ0GjSWveJKNxeOkuCNGQVGdM5u2t0qCHQV2BtxRfo1VX4Wv6s1JBndmPsMKvDUtOS+0we86ivivVVTAYQ2D1MytYpr9+wnCnI8TUT19NXXggYNDOiroHvXGHH8mBX/usT9cAlQ/zWLggX0LNyDqWYJTENpjzY8r0/oIAlqqMrLyPyxKDbC1QVo/vsTncX9sfH3XHnK7yUDHAiyQ4jMTzj3Bbc+sGzQ2RIhiTjdSbUdBfcRD3ZWeElU8CAPYVKOlkfuAqRVCew/mU6KkPRgi72h4dNkrehZ2blanyu11btjuNF7FxbrcoO5v1L6rnivXbFbGpdGzdE27iHW0PvuIvQBBQu1JvCQaHWnQitiHbuvrLe99IRAJLiBO1G1yGBTuemEb9BiUTy41t1d1y3TTIhtz5TkC1gyuV9yMEGk/LQI1rY7F7DzPiMbvIQ5Uh1RbGN4ZK5Xf+fTBw==;NW75siyWDtq3tEbnL35jtQ=="
 ---

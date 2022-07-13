@@ -52,15 +52,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
-    excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
-    publishedDateTime: 2022-07-08T20:12:00Z
-    webUrl: "https://www.autobodynews.com/index.php/western/item/26648-gm-s-cruise-self-driving-car-crash-injures-multiple-people.html"
-    type: article
-    provider:
-      name: Autobody News
-      domain: autobodynews.com
-    quality: 4
 
 secured: "PP39bW7qtX+ook7tlD7C6uTI96VcU9gcAoTdb/fPA7RaHgTcwfTejs4DSasAq+qLlrV8K6z02MFd+MNqsNWW6ZHn9EF+HB1XWUo1IU8Ae37p6rYYT/p/2BGeYYTTzwtgxUWFMq7ZgvVUS5YRDsxh5F0Rb3c6zNYRdyUTe4OpZNddmU/Ck5iq+qFow8YtTXnElPqkQW3FnkqpX3XeNg6vUyQE7BsPOTet1C7QI3mlJ+m5bLv5XIZXvgBNGo2CV5nmxjiTT1bTpBigBE7+JhdBYk5Ac+mLjZCYjQ9DVNWqq5svD3tZEwJz9xmWn6Yu4Jw8buQs35uF+ciXYe2f9x4jLtujETw7KyU2FUBPAcYwhh4=;lS9O3TCfd0iHPrWu+rdvDg=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 400
         height: 352
         isCached: true
-  - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
-    excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
-    publishedDateTime: 2022-07-11T23:17:00Z
-    webUrl: "https://www.datanami.com/2022/07/11/how-intuit-is-building-ai-analytics-and-streaming-on-one-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/Intuit_shutterstock_Tada-Images.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "o232g4Ibl+zfA3DGzJEvRJbPq2QJGR2hj12L1d2fdmMkPPMjwEDtwMFHX6wqaiFLIvfmnll0PEMjUO0SJnLd+9juFr3ILX1oGeDG7PFocAoGBCxCCT/mfrFODt/PdrpZxOJHaun5ozSCaogIhegrML6ftTmrSDmtP40wjB0bZZu/JRk8qmb8n+PQJfsf5q2DNnAzSCGsDZNsx5Ck3bwsh8s3kTr7l8SKRwVJVWmGon/6YEC7PGKvuu5/NibzSAtT1+5+nNuoAfmkcwW6LYtxymvZH7ildsYHjkSd1xxA3ywJEXC4QWHTci7N8ZAVJUl/q3oqT7YoUd3z9xMd9rVjwdhJk9BF5ftglnnNG259EtQ=;JmwiYhN9nPw+oBci04YfZg=="
 ---

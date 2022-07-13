@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-11T13:25:00Z
 originalUrl: "https://www.design-reuse.com/news/52319/arteris-ip-inuitive.html"
 webUrl: "https://www.design-reuse.com/news/52319/arteris-ip-inuitive.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Design-Reuse
@@ -15,6 +18,23 @@ topics:
   - Computer Vision
   - AI
 
-secured: "bn1uFYzjb9DBbQ4NGD/N8WUN5drKbuJkXeOi3qRny3cTCtXKXkEIqwyO9rdxXOzi7AplNhPmCuXVL5A+vfQRPmoVH48ls0c2DHcZD9CkbhXxDvLdsv9EOVY6MRmBTgt7jrN1POsnaSNu1qjFnM5mlq8tzkf7zBJDJf9L/3k/VdEm1WlEi9CkdX1879p7NdVEW4V2JxdfadlEUqgHkNrNcUUwS2AGosSxM19GW7AJ0ZuqG2rkiHYKIi8Wk6uCpFpIeT8iSynQrrrhq4D9gpDC0tSuXAq6uUf7JL5PWEOHMfRnFygNq/pxDsJgfOoj9matnIMh/0KkxyYTwdxU58vCAGr9A1y7mvgpURTPRLl9frA=;X8daKUC+v16pbmJ8HLMx6g=="
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage52319/Arteris_IP_logo.png"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "UPDATE – Inuitive Collab With Arteris IP for the Next Generation of Vision Processing for Edge Devices"
+    excerpt: "Arteris announced that Inuitive has deployed the company’s FlexNoC® interconnect IP for its next generation of computer vision platforms"
+    publishedDateTime: 2022-07-12T13:22:00Z
+    webUrl: "https://enterprisetalk.com/news/update-inuitive-collab-with-arteris-ip-for-the-next-generation-of-vision-processing-for-edge-devices/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 0
+
+secured: "skQE46I3trD3B//6RR59ghWHCD7MA77MGhgAJcGgJRgkyQiHcoxsR7KCQuUR5wxzw6kIVUefOfzydAdeTcSbz0nFcYp4Q7vCQSAtb0uaWaOx4oeidtCzKac5hTGnwRD/h1k+aZraCrr/ByRemKZEMn99IWyR97/sjEAZQWzlBI8oz6qO+Kz5SrdMLqI7k/MNTwoS9Mz1n/3oJJO+YGGGOgv1Df152h3GT2c9d79HxzqsgU0Rcjs0edoslxc3JuddkrXI07AVv/uWael9p4sfhDtlBQkJSzlFHwAboNRJsXN9AxurgLB8Y7oAL4UW5X/xr5uzSHgk/k4ouqsopUQKWjX2Ey7v2nuMvP3EvosmI9Q=;rDuyW78jRM+68xJFHfvFvQ=="
 ---
 

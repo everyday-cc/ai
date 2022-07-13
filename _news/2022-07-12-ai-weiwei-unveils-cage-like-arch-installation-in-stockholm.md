@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installa
 cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Dezeen
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The books that inspire Ai Weiwei"
-    excerpt: "In a written piece in which Weiwei answers questions from his son, he explains, “My boyhood took place under some really tough conditions, and that meant that my happiest childhood stories were my fantasies."
-    publishedDateTime: 2022-07-08T21:00:00Z
-    webUrl: "https://faroutmagazine.co.uk/books-that-inspire-ai-weiwei/"
-    type: article
-    provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 37
-    images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/2022/07/Ai-Weiwei-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Ai Weiwei’s Arch Installation Opens in Central Stockholm"
     excerpt: "Artist and activist Ai Weiwei unveiled the Arch, a cage-like sculpture in front of the National Museum of Stockholm."
     publishedDateTime: 2022-07-13T09:30:00Z

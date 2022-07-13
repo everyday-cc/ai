@@ -175,6 +175,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 19
+  - title: "The Five Biggest Facial Recognition Trends in 2022"
+    excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
+    publishedDateTime: 2022-07-13T12:55:00Z
+    webUrl: "https://mobileidworld.com/the-five-biggest-facial-recognition-trends-2022-071301/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
 
 secured: "wR8P1dG6z9nuJ/xZtLo/VrsXvI2H3pq09s4bbN4PQiGHZKCGWzPrT517EUv3U4I0DOYT4R8LOkaR4on00EpWuEkl8V8KtZMOjN0E0lWA9MubCti//+FPJKXhopJ7f7CXwtWs3nid2FkI8h/WFF7Upx9e1mnNixIj3jSq/hiCUXB/Zx/XHy39pJNfabdXvSPtwLmLs+7gbozAkSI8U+GDDWloPhzY8jOYEIKDkmpWQLJ6rqKZEJ2CiAjzRdq8UF09yJcv3x501NeKD7VVyr1Rl0UUK6MQ5owEAmAgQr/cAXArraclatoF6kL5ZhuOqbxjhyNm7mjlsurZA/FUgIjIxbC7f23XGmj0V+wFpOie6tPpUO+x/XMJRMTM3n1lnV5abYWj9lOBmNFAgdZBwNYS5qKO/7tib90mJTAi5M0xNs2mQOOJZUZuTKv1C22mL2XrYeekHdJcV32pLMnQ4sRVNOWIxGdwxqJwz6FSHlC+LoJb2wV0dHYCq0xpVMTi0QeIsYdYNoQ4lDZRQdiFwr1FHA==;4jxO+gF/FgmDbjwt2ub7KQ=="
 ---

@@ -36,6 +36,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Adding More Data Isn’t the Only Way to Improve AI"
+    excerpt: "Sometimes an AI-based system can’t decipher the physical world with a sufficient degree of accuracy and the option of just adding more data isn’t possible. In many of these cases, however, this deficiency can be addressed by using four techniques to help AI better understand the physical world: synergize AI with scientific laws,"
+    publishedDateTime: 2022-07-13T12:15:00Z
+    webUrl: "https://hbr.org/2022/07/adding-more-data-isnt-the-only-way-to-improve-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "F2FAJHRo6Obe/KaXIabdSLDt5FByfMFVz6i6PHo6cev7mw33reA1claVz4E6qRXjFNtlbENTSQAgDI5ZHMjqGKJvrXdqcfsDJr7SRxSvQ0vA2azoJgLbjXqXhZH0Y6Mk1kR5SL6MgDGByekqHxtlKvYkK74tMDRAH4zACKWkT+DmrGPUQcDm3vg4F+CfEyvtBG3E5Jdh2JEU/pLv6Tyz2JLO30pakpJSjp4sfnmT6/4y4yQxBpVVVLcxdqb8U4QmdJ1rkMYGKUcobOn2kCWV3KP9V4YvaZKuCdy0jeTNJ6EBloRwpbCFs3N0ttnYK3oSYWexVufbjil3tpMWF2WCKzpvbKaXF0guDt7fb3axGjI=;N3WXodxyLB9xRGhhnDgKEg=="
 ---

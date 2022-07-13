@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 34
+  - title: "The best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2022"
+    excerpt: "Amazon Prime Day is the collection of limited-time exclusive sales, discounts and special offers available exclusively to Amazon Prime members. It all kicks off Tuesday at midnigh"
+    publishedDateTime: 2022-07-13T12:01:00Z
+    webUrl: "https://www.oregonlive.com/shopping-deals/2022/07/the-best-deals-on-roomba-irobot-more-robot-vacuums-for-amazon-prime-day-2022.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 17
 
 secured: "KdEMryxc/nl5/CDbObYU8ZDSInSCa4CaFzbQW+34vvNW0kGkGJ3O55ElcpLSC1V8ykPwYk+28SoocJKsJCC4B8hZ1qoLRxBjS4KV5Z4xwKiXIn7Y2cHQWfgR1wf8sE7uKV0Q1fdG4e0Acvcc9deZREwWjEfCmSWVKjH1+msyqwdQrMY4zhdC1qG71vFPr/Ry+SMMy9PyYh3oavBcz/JQcfluwWpJEu0PZUuURTJiW+n/ICYOQM98c7PeItqvSj/5ia2eTwkzOevFa5OL5w/7x3TvB6FDYbiP3/M3IpNez4ytsRKqpLsgYYBij6fmXFdCHqERHsa2KOXyXepwUaqSRMoN7bmo/7zZFiS/u6gSodo=;HPysCvUcdC9YctqEwCoRTQ=="
 ---

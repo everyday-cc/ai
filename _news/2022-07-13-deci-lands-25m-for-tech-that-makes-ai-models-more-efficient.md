@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,26 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Deep learning automation startup Deci raises $25M in Series B round"
+    excerpt: "Artificial intelligence startup Deci.AI Ltd. said today it has closed on a $25 million round of funding, just seven months after announcing its last round. Leading today’s Series B round was Insight Partners,"
+    publishedDateTime: 2022-07-13T11:00:00Z
+    webUrl: "https://siliconangle.com/2022/07/13/deep-learning-automation-startup-deci-raises-25m-series-b-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+  - title: "Israeli deep learning co Deci raises $25m"
+    excerpt: "Israeli deep learning company Deci has announced the completion of a $25 million Series B finncing round led by Insight Partners, with participation from existing investors Square Peg, Emerge, Jibe Ventures,"
+    publishedDateTime: 2022-07-13T12:34:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-deep-learning-co-deci-raises-25m-1001417980"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 34
 
 secured: "EgO0/WqFVYTeDT5Q6oeYL2F6MNU5YqC5Z6e2Suk+9nDp/ztrJc5eTswtHZQzSzHPlutlKXuU3ftHFtUwm40PVYQvOq5EmbiNHRRaIDrvd5wgJSQSlZdA82xv6+9r4DZLKmCCLMW0G2B2moNCOQout+ButkXMm+UF4BXPS1VeF2BcCn/SV9xPTPircU2Ivltn05L4xMBuD/uIKLsB1EAoeFy+3IU+Fc92eb/d+zvW0Ft6rTI8tanRrAPjxF4AqeZNQAdVjd38caaDht3sBab0Aa5OyonZ1a9cA4zswbU9FiQRsCqbs00WVckflthQ0i+LDJWUwSwhhh1hcn8bnY2GcuAvEL2vvp3uu1AWkiHolUQIYyAj6iAt3wtuN5O8r8YnXq8zcwMg6+DEsR9v/0Heoc3ZRcpmapUFhsOI6s6c/OBm4JtjCdmiH7VQy1ab1HobM/jDRo9B6/FJxBm6qIJGN0SY+wPdQu/UzT2/a5RFYTk8W0tKGSr3h6tRdaf58X4E8Ht2We+n2T3nzhDhTdQ0yg==;bDAB8gA7Rc087ypNzM5SGA=="
 ---

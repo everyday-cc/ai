@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T13:52:00Z
 originalUrl: "https://www.news-medical.net/news/20220713/Researchers-develop-an-AI-system-to-classify-IBD-neoplasia-lesions-accurately.aspx"
 webUrl: "https://www.news-medical.net/news/20220713/Researchers-develop-an-AI-system-to-classify-IBD-neoplasia-lesions-accurately.aspx"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: News Medical

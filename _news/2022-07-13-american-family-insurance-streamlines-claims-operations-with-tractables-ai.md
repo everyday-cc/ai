@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/american-family-insurance-streamlines-claims-operations-with-tractable-s-ai-1031584573"
 webUrl: "https://markets.businessinsider.com/news/stocks/american-family-insurance-streamlines-claims-operations-with-tractable-s-ai-1031584573"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs"
+    excerpt: "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware with a robust and flexible compiler that makes it easier"
+    publishedDateTime: 2022-07-12T15:00:00Z
+    webUrl: "https://www.asiaone.com/business/furiosaai-forays-north-american-ai-chip-market-welcomes-former-intel-and-western-digital"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 40
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_542.jpg?h=7de12b8a&itok=XXIYDfyw"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "ATm6f0bMTaScysm5BG5dCWkQHIgJOSnPGOR3bkSTNJhfRkn4+BjwDJjojl4bXgG30NEQcTatbtENvCdRrEA/FXcuX9Nj34NF3hDJTWPXlAytZbZhLWy+0OIYeKElgK6JHkpD7vRUMnk8UMFnyhqldTDbzJCImotviOBQ9qgLt+84PWF9WWZB2IguAG0s0CBkcV/2ZL2Ara4/cWJTwUnGENegLUF0WyWCNdZwVlGHDC904alMwI0g5uK+UxySpDVsJ1MW/qBCXzG1zSRT3AKYJ5nCAEhnQbn59qRfL3mkhir87LL+hW7SNNR4eTk0V1tmYjbcQsI9FJ380zijNIYCbXP7F2jTnboQbVKXNrwy2DtsShPJ88+0YGJtWYNaBdJHpLWSXnPeZ6DT5/JR4+ckj6HxU/IeDCdHRxWMSj9CbouwjEUkpiteYDQlbATaJYQfqbLsHHe4g7d8gef1IXSmPYBCuHh4a5QxqV8Y1Afv+vU+zr9g3MqZQEbMGVc4zie3kP2wJcwBursHTY86XsAapg==;KMKbTVKWFawLxuNQDezeAQ=="
 ---

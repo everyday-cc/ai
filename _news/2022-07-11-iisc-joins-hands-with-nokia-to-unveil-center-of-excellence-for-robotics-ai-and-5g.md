@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unvei
 webUrl: "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Nokia partners with IISc to set up networked robotics center of excellence"
-    excerpt: "Finnish telecom gear maker Nokia has partnered with Indian Institute of Science to set-up Nokia Center of Excellence in networked robotics at IISc Bengaluru. The Center of Excellence (CoE) will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),"
-    publishedDateTime: 2022-07-08T19:20:00Z
-    webUrl: "https://www.dailyexcelsior.com/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 32
 
 secured: "KnELvM1YhsaFRAgeLPfIsRnCFgYdxenFyXEOqZqAlTXQfckwbI061GELKwckwCrdLM8263fBUgd3KZDXW+Mqni3nTT49m7OdFHWJp0xzgJufVLc1VQYcGP8Y+4sE8RUvzsbicZr3/AJ/ZTOgie9Ozb45DjroWnql9Sa5gpZq0V/XdN962LstpOQvodWi2CVRJqhm0O3LTe0bLgLrSB/LT632augkHCRmqw4gFXlUE98RJsDHQwL53Jv7M4v8hDoP2IfqnmHVgTRkq9N0v+wQuOTDHqiXpKdhhZ/dfmaHqCHyuIAi4YepHcfHmDjvYJHm6i6ntdr54Bfjt+zwM4uO/MRAz1f31g1Ad0lHeDk9QNHP2ltusYhzezgoeD1apE+rrGWutA4UfRCdYtKr/bXXvjm4BPPfDlIt8U9V5Cjl3CS24FkS5W+21ieoD8Gq+HakQGQOV0D/5zxbe2LZp8OicnhFRZ8XwJuiwwFEV6l+5bQZWdB0zqEstp1mTcLste2bTGI0MBeZ+UVlKldCu7JKSQ==;caWJM24ZXmSd/tauuGs9aQ=="
 ---

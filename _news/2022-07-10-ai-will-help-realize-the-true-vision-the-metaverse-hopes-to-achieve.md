@@ -34,6 +34,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI Is Expected to Revolutionize Shopping Experience with Metaverse Shopping"
+    excerpt: "Since the onset of the pandemic, there has been a major shift in how people purchase goods and services. From groceries to luxury"
+    publishedDateTime: 2022-07-13T12:38:00Z
+    webUrl: "https://www.laweekly.com/ai-is-expected-to-revolutionize-shopping-experience-with-metaverse-shopping/"
+    type: article
+    provider:
+      name: Laweekly
+      domain: laweekly.com
+    quality: 15
 
 secured: "2GR31WLvhKJZcmek5KGKjfkb5bb6gWn4/top7e2Ak5R4RiIQSQ2Es18pnWWlVKKsWW/NY1rUqdBaiOvwnKswl18BVZgtGFLZrubkcyimeLPLVHpd+qFbyX6voEvqoSgrDHyeZUVvfoMYHCNV0XsOEq0L3Mh5LvejfWYtqoYkn8vw/GxLHdX6eEgvszl9GlOsvttFKyrCezJ8gb5tSGq9VknFL1i/eEpcs8J7U2qmcMeUbCp2J4wJUfuZModw7V0jA3nDmSeTRoEvk4usqpx31N+Vfy4RKEAYGomS6CVQhn21Xg5/B62YnC5U2vy9GjlAhQ9JnTSdjnqCVOSmUSDhybMezTw7wI3R6hxHp31lz92BtSzB3vDi6e5ssIUQ0pvql4k46EYswgmKEvqisAmUAbO/lmgsorBMf3wTch9ULdPxUdMHEpiF5Q8569IMpQ3CsSCz/GXdMOsA2vH8nD/HzYiYJTGBsjsgPrg0xcBvcmeZZis7QtQLL65ou8ge9gF26U9ZO42y2/szIAAxoQ7b0g==;UzU+uott6yTc49GFne4eKQ=="
 ---

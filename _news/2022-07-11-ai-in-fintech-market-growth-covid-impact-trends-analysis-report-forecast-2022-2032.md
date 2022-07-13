@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in healthcare offers 'myriad investment opportunities'"
+    excerpt: "Artificial intelligence is transforming the healthcare sector and presenting myriad opportunities for investment said Tim Day co manager of The Sanlam Artificial Intelligence Fund"
+    publishedDateTime: 2022-07-13T08:45:00Z
+    webUrl: "https://www.ftadviser.com/investments/2022/07/13/ai-in-healthcare-offers-myriad-investment-opportunities/"
+    type: article
+    provider:
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 34
   - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
     excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
     publishedDateTime: 2022-07-12T05:27:00Z

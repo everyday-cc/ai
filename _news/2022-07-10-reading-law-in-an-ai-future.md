@@ -49,6 +49,15 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "When AI Makes Art, Humans Supply the Creative Spark"
+    excerpt: "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now."
+    publishedDateTime: 2022-07-13T11:00:00Z
+    webUrl: "https://www.wired.com/story/when-ai-makes-art/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Role of artificial intelligence in agriculture discussed"
     excerpt: "Punjabi University today held a one-day seminar on ‘role of artificial intelligence and automation in agriculture’."
     publishedDateTime: 2022-07-13T00:29:00Z
@@ -72,15 +81,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 16
-  - title: "Artificial Intelligence will predict your chances of having a fatal cardiac arrest in the future"
-    excerpt: "Professor Graeme Clark. It’s a challenge Clark is familiar with, and whether it’s the cochlear implant or AI, he said the same principles applied: good research, ethics and communication. “It’s very important to make sure that it’s done ethically ..."
-    publishedDateTime: 2022-07-08T21:03:00Z
-    webUrl: "https://www.dailytelegraph.com.au/news/victoria/artificial-intelligence-will-predict-your-chances-of-having-a-fatal-cardiac-arrest-in-the-future/news-story/0d281d9430b60abbca4a7e5af663b974"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 6
 
 secured: "QIls42Nb1n9ixC7UyEiaovxa80Di4g2aGaL1fHzyLj47MRF/nVKHWUpA6z2Equ2pg5yqgKVKhC7LLXFpqCRST55e2nKPrSfbP/EYYDWBmPr44Z1/2t421ile1iEjgY8TQRbSfCcB7A+Rwe6r38mQvWD5hgaP2rThN8honpOPN/hT/HmlmNb51MvQcDJC5Xp2fbmaBgWpxxrTHNMkfdgxIxszHR1IkYqqPBxVgKveut5udIsDqKW9P4L9TcQp49TAqU97TPKuPl51bKIiuRSI16YcpyF03g1yQyr/mGfJ+566Lfm0n0g1Fs5x/kO7lDBhp6rSuRMw4euBYoSsZoa314l+ndHIgFZe2hdOjo4qhBKFvNABNkSyCd26ZGPRlCC8Ofj5yfqV8X75g3Jx+rDO8wsSkGbgcRQOqBPONJKj+F9jGuydIHs+OQUKOTEovxWlJbcpIA21g1ix9VS0y+8K+4LrKeoxDCMntAy2QbOVfEqs08D5B8BXnyQFKWod5xS35ROtv24+lDP7k3qRi0vioQ==;4AtW2E3CkJem6LI9cbW1+g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T13:08:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-canada-new-york-climate-and-environment-6c02fee1cbf346e8a1f144de53901726"
 webUrl: "https://apnews.com/press-release/business-wire/technology-canada-new-york-climate-and-environment-6c02fee1cbf346e8a1f144de53901726"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Associated Press

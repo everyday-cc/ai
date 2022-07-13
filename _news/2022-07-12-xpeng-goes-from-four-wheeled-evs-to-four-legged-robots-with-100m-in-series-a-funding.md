@@ -85,6 +85,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
+    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
+    publishedDateTime: 2022-07-13T13:33:00Z
+    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
 
 secured: "sH3eNFmRi5EclqLVopokTt1P+FjFHZ3bfhq/iwWgQGm5uSAWRQhjXiqoOxbdPxYY5WVYnHj0jYPi2X4Z2JVoDFQBMn6j0r0hf+VTQszzy98jf2unTUqwL6DVn0YNuhbee7Ef5iQxuiagzojeudoT0fFvgEe0Ai5R1GL66cT+Xu+FfULhXwoNhM1xs8Oy8adP9JbGcg+fNqq7Q7A/v2hhfGWMV7f1KwtYDmO3YysV1tA1zCL4dcgDjL3+VMdFbyJQHk7cExSCfasj0zy/yAKJsLShgEw2Kb4KBC5Ul+2YxWDpnjlx9Pi/kwrH4AByQf/aWFqeMxXWsv+2dUGYue53MoK52GVGvQx7l+itQnqCjG4whciMnApGjrTKu83rFVBOE9R+6ohwLtm8BkXc8jex8YtK2nVprBmCuQ9ckt2uyfKhbRrwxEVoHiHB3I505bJeE4ESalEzM36oUNexHluLGhYGaVEdWXunK/eDGm+bqDg2xCuF4GsO+B/mT2RhNMiUrs6rHlwcQDowsHDg2nRg0g==;zoE+tZQ6QqEhry6BQqB9hA=="
 ---

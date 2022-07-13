@@ -34,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Adding More Data Isn’t the Only Way to Improve AI"
+    excerpt: "Sometimes an AI-based system can’t decipher the physical world with a sufficient degree of accuracy and the option of just adding more data isn’t possible. In many of these cases, however, this deficiency can be addressed by using four techniques to help AI better understand the physical world: synergize AI with scientific laws,"
+    publishedDateTime: 2022-07-13T12:15:00Z
+    webUrl: "https://hbr.org/2022/07/adding-more-data-isnt-the-only-way-to-improve-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "dH1wOoo6ifEJMn3ms/SNYkPtynfx3eA4kPElg+dC5cXHcjE+vD8qpWNcX/GfEUYRUgwT46TTRJ9z0Jsjq1EJjhd341l4nObCL7Aqd9WjzM/NWeVSWObkqPuteql1YnzBewcnCEqZ6p2EgGD9bAs4DLWEJUvEssPAJP3RorWTTUiqZ+tDLhrPWBE3TcqMfJol9eaNU2x3/oTCriCQuJPyU4QhPiUNw478yVH5XkYzn2IddOARiVDOZv3d0dgKasuASL7ONf3z/M8gSZTrfZ7XRqGl2NiB7dU5atgBiW2xvIYu7jE17nhxcINeEVCuSE39RS+xdJRcskR6RIahZipEApNFhxmmtDMj4IYdW2igJcI=;5fmfd/abETk3xUyZE6dpsA=="
 ---

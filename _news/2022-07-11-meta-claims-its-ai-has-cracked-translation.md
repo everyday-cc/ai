@@ -58,6 +58,43 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Meta’s AI machine translation research to help break language barriers"
+    excerpt: "Meta has announced that it has built and open-sourced ‘No Language Left Behind’ NLLB-200, a single Artificial Intelligence (AI) model that is the first to translate across 200 different ..."
+    publishedDateTime: 2022-07-13T09:15:00Z
+    webUrl: "https://tribuneonlineng.com/metas-ai-machine-translation-research-to-help-break-language-barriers/"
+    type: article
+    provider:
+      name: Nigerian Tribune
+      domain: tribuneonlineng.com
+    quality: 56
+    images:
+      - url: "https://tribuneonlineng.com/wp-content/uploads/2020/08/Why-the-Travel-and-Tourism-Industry-Needs-Translation.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Altair, LG Electronics Collaborate to Accelerate Digital Transformation with AI-based Simulation for Product Development"
+    excerpt: "Companies Sign Digital Transformation and Simulation Memorandum of UnderstandingTROY, Mich., July 11, 2022 /PRNewswire/ -- Altair (Nasdaq: ALTR),"
+    publishedDateTime: 2022-07-11T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/altair-lg-electronics-collaborate-to-accelerate-digital-transformation-with-ai-based-simulation-for-product-development-1031577976"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/1855851/Altair_and_LG_Electronics_Sign_MOU.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
+    excerpt: "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said."
+    publishedDateTime: 2022-07-13T14:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "7cnVEYtfS/LyFz/su4acCTmW4LqJ6IWsCAC7ci8x3G37r+o4GARnIa32zA6IfKth1KJUQczd+NB2oP+ZTuzIiyBOTEdJpyDbF5CK+MQaCssIEFFwHkr5WKQyr7FuKcdm8Sm439WD3Z8glPEZuXvdDlbNZTTj7F/ljdQIzmUy5kF06x6yEMllCgFd+6L8iRv2ABb4iIYA+9VIUFKJzVpyyxa1irzN4psf/AZ9he8/2xRvd2PuFf/zSEtMgzJJL8CWSxthNPes0YSMRXIkqqMDW6fjtlSJwzaw13k7qLi+Y1zTRcjFshqmcKMIVEwju8fA4yDljiKD1pWTdcLieDNtEzcA2fYt5Zox1N58R5T6hv1GsMavnCeakCbyDjhB1qOxnpGTGYY+YM6VqI8Z2cQhhzsP8hvgMZKcSgqzE1KOBBwWgctgSYlr/o6k3hOWQISmczEiWqTmFKfL19kgws8z2F8ef/ejL4tWPsXMvUu5/JJnFbt+M4tX7YmjbBp+PyHU8mdJ/PkMJICXD5C0jRwWaA==;vOy7Qs/iy8DkuoAZtFqwhg=="
 ---

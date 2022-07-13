@@ -20,13 +20,13 @@ topics:
 
 related:
   - title: "Wallaroo Introduces Free Community Edition to Democratize Production Machine Learning"
-    excerpt: "Free version of Wallaroo’s solution makes deploying, observing, and managing ML models in production faster and simpler for organizations of all sizes."
-    publishedDateTime: 2022-07-12T17:41:00Z
-    webUrl: "https://tdwi.org/articles/2022/07/12/wallaroo-free-community-edition.aspx"
+    excerpt: "Wallaroo Labs announced the general availability launch of its new, free Community Edition (Wallaroo CE) version of its enterprise product that helps teams speed up and simplify the deployment and operations of machine learning (ML) models and pipelines in production."
+    publishedDateTime: 2022-07-13T13:00:00Z
+    webUrl: "https://insidebigdata.com/tag/production/"
     type: article
     provider:
-      name: TDWI
-      domain: tdwi.org
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 12
 
 secured: "NBbEQu2/WiS7S8EsP5VE4UAN6r+ZGvcaJYcwRmd+C7gzIziR6mkKFEyG/X4UOLZxjMFAlluSeC5SVAudvXbdb6QDZ4O/tZwKd2XeACUR8yLiEue3a6ywPebBS7I9SjAfuS+TFTF48dZNMgl9QC5CxB1w332LxGCyGkNLgwx9ubw7HCsydf7Jvy2MpfMuY53NMNMHXYRTpk+kumx+01OulnQLhPSdFI3jAYMwCR6VNkf0prjtTgC9sjMbpkdbxw9Isl9KsCwcg5Xufca49I1EraFipQSuiYSmf/oa3G1/g1A566rCMtX7uuXB41bcsoCWfgU2pxiM2sfeVYJ9k42zRSYRMt3Ptzl+n3SudQolaNw=;NuSD9Ofm+TXd5dWqz8islg=="

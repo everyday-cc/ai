@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-13-from-physicist-to-machine-learning-engineer.md",
+      "title": "From Physicist To Machine Learning Engineer",
+      "excerpt": "Justin Chen received his PhD in Physics from Rice University before deciding to make the jump from academia to machine learning. He spent the last few years as a Machine Learning Engineer at Manifold before making the jump to Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cdeda31bf4eba4181cb76e/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/amp/",
+      "publishedDateTime": "2022-07-13T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-a-year-in-the-making-bigsciences-ai-language-model-is-finally-available.md",
       "title": "A year in the making, BigScience’s AI language model is finally available",
       "excerpt": "BigScience, a collaborative research effort spearheaded by Hugging Face, has released a large language model that can be applied to a range of domains.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -115,7 +168,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65626423.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1389,58 +1442,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
-      "title": "Reddit acquires natural language processing company MeaningCloud",
-      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
-      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
-      "publishedDateTime": "2022-07-01T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

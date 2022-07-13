@@ -98,6 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in healthcare offers 'myriad investment opportunities'"
+    excerpt: "Artificial intelligence is transforming the healthcare sector and presenting myriad opportunities for investment said Tim Day co manager of The Sanlam Artificial Intelligence Fund"
+    publishedDateTime: 2022-07-13T08:45:00Z
+    webUrl: "https://www.ftadviser.com/investments/2022/07/13/ai-in-healthcare-offers-myriad-investment-opportunities/"
+    type: article
+    provider:
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 34
   - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-07-11T06:23:00Z

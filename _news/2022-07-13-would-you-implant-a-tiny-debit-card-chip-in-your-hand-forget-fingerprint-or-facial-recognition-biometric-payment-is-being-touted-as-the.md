@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T11:01:00Z
 originalUrl: "https://www.thisismoney.co.uk/money/cardsloans/article-11005783/Would-implant-tiny-debit-card-chip-hand.html"
 webUrl: "https://www.thisismoney.co.uk/money/cardsloans/article-11005783/Would-implant-tiny-debit-card-chip-hand.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: This is Money

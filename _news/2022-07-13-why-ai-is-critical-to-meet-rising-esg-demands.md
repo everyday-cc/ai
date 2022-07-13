@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/07/13/why-ai-is-critical-to-meet-rising-esg-demands/"
 webUrl: "https://venturebeat.com/2022/07/13/why-ai-is-critical-to-meet-rising-esg-demands/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

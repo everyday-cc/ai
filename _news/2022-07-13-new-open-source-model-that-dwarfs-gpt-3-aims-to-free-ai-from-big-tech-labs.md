@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Intel Open Source AI reference kits now available for free"
+    excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
+    publishedDateTime: 2022-07-13T11:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-open-source-ai-reference-kits-made-available/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "Ee6cW/Mc2YcLtTCUXrD7zIxPrlp1u6gjshp2RYoVOAw8W44iApz1S1oBowFb2jhM9bS37ODpb9eP+bdANutfIhe7rBTo0RCQBv2LPedDKf1eToagXQRpCUKnkKxYqaZf6BKpnmljOJnpKkc8YuQiRmNYDM7cIbwsxFTxRHKDfkB0S2f6G+9UjKpXyJLzSyxu2DDVHhmXwX3SD7ceshpTd/7Y4GpCNFEV0g97r93CvRMjjHsfPx2/yomZPlASVCfCiwXPQM4ADWYlHdGDxbE2/+fAHg+q0J5Zc0BsWyJaj6+uHFb4bWX91vt7j+G6P1ZHw/T/cErpFtdpFifpwbd30xehPbhkUK+Ps9XCjnZ9HhE9+Y72ItebDmupxJWooRO5nfX7J6LyevS2u3ERvCPq2YbewXAO4RTxbxeE/eU7VEJlJw6frFzSM8aKZF8LpRpgzYqqaYh/tKsO69DHg4vv/8oGaaBAwTxqhE8qnOJE10pWu5P/eN84zLDBuyOB2n9VpS+P9GXEYHBc2hvaB5lWfw==;ErXizPHj+q2V1U4JsX3Fyg=="
 ---

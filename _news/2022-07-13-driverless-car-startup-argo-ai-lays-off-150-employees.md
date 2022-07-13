@@ -33,6 +33,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Argo AI, a Ford-backed business developing self-driving cars, is laying off 150 staff"
+    excerpt: "According to The Wall Street Journal, Argo AI, an autonomous car firm sponsored by both Ford and Volkswagen, has laid off around 150 staff as of this writing. During the companys"
+    publishedDateTime: 2022-07-10T12:52:00Z
+    webUrl: "https://bestgamingpro.com/argo-ai-a-ford-backed-business-developing-self-driving-cars-is-laying-off-150-staff/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 12
 
 secured: "DaXqaLpmfn6BR5dwYsaVBzf9TPtsF/rVgjxc9+GmCC4SQfwvE7zBWsJYz84jb4sgqH3MIUNAfGvwNLuInUl311CNa0V7hgSdpOUPwILIIYT1qw0PF3e60bmMvpKyEOdNd5lJs0GeMCi1sLbo6/sl9By8yzFfLUPT+B3Vv4f1pewWlmItYR3JGxoW0vbz7TUOMA/tAYUbBUe91tLgq1lRmOq8TfSN7dUkgxFKx3xfR18yl2cDSvPzld4E2l7O/9q/zCdbqEdgfXOWuEIKmvf6LVXhMhQdSE53ioIc5XIcp90DYhJ5TK1MSWXqogo+3BOYpkUYJODl/Dq9xpL+CQc4jaT8Gw+HxYSKCXt3IT8s32mWVrhdEDPZTfNMFIwDXrXXRsPmrwOVbCgYHDGDMiKQdkd13XJYplJGa1vf3jlTAX0xk4kE261J64NbmJm/wf+qQ0bGlEFvWSq5OpEpMnMQnTJIsBZJV2SBFR0uRQgVTL6OAf2P8m6K1fBGiPRQ4hsdvKbl7DEVIkmEZuejeAoG5g==;Gvv9LX229CPLI/XBGTIMyw=="
 ---

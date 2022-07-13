@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
-    excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
-    publishedDateTime: 2022-07-11T23:17:00Z
-    webUrl: "https://www.datanami.com/2022/07/11/how-intuit-is-building-ai-analytics-and-streaming-on-one-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/Intuit_shutterstock_Tada-Images.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "radicant, Squirro Announce Partnership in Field of AI to Leverage Data-based Analytics"
     excerpt: "The integration of tech “enables radicant to automate decision-making processes and improve customer understanding and service quality.” The Swiss tech company Squirro links and “analyzes data to provide new insights as a basis for decision-making."
     publishedDateTime: 2022-07-09T17:35:00Z

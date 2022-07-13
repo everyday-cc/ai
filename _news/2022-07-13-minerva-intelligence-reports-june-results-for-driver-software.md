@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T13:32:00Z
 originalUrl: "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2926-tsx-venture/mvai/124757-minerva-reports-june-results-for-driver-software.html"
 webUrl: "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2926-tsx-venture/mvai/124757-minerva-reports-june-results-for-driver-software.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Best Junior Mining Stocks

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T07:02:00Z
 originalUrl: "https://www.smdailyjournal.com/business/philips-spotlights-latest-ai-powered-software-defined-mr-smart-systems-at-ecr-2022/article_82df9f73-4b6c-5a23-93e8-42d79169358c.html"
 webUrl: "https://www.smdailyjournal.com/business/philips-spotlights-latest-ai-powered-software-defined-mr-smart-systems-at-ecr-2022/article_82df9f73-4b6c-5a23-93e8-42d79169358c.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: San Mateo Daily Journal

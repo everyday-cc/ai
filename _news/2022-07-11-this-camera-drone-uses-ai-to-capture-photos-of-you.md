@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "When AI Makes Art, Humans Supply the Creative Spark"
+    excerpt: "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now."
+    publishedDateTime: 2022-07-13T11:00:00Z
+    webUrl: "https://www.wired.com/story/when-ai-makes-art/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Reading law in an AI future"
     excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
     publishedDateTime: 2022-07-10T04:00:00Z
@@ -76,15 +85,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 16
-  - title: "Artificial Intelligence will predict your chances of having a fatal cardiac arrest in the future"
-    excerpt: "Professor Graeme Clark. It’s a challenge Clark is familiar with, and whether it’s the cochlear implant or AI, he said the same principles applied: good research, ethics and communication. “It’s very important to make sure that it’s done ethically ..."
-    publishedDateTime: 2022-07-08T21:03:00Z
-    webUrl: "https://www.dailytelegraph.com.au/news/victoria/artificial-intelligence-will-predict-your-chances-of-having-a-fatal-cardiac-arrest-in-the-future/news-story/0d281d9430b60abbca4a7e5af663b974"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 6
 
 secured: "ySWLx7MFqLsXzWIKO+VacaBcuw6BpOeSivkoK1Tn7/8JF6If11X86nGODCe05tUO8DpsqFeEvH1KbRYGuUnp5zmIzeNg13edX9c2aFmUjfm9RoTQ500VFLnaRzDaj2I/JNWz15NPJCKLxphEmy6Gj6D9z+rcDWetZpAtrT1Yy2cMYwndhOKi5XynTvNBeCwj0HOFQtkA87SzEr0r4XDiXLeSrcKgrOIvN6wAFsnewiYXozMopy/qUBtDqD0Fu68pU60yrEEyCFoQluTxO4BTYZ38Dh/vzRK3Hj3Kk63qX0dkHO9y5NHhDJHq8RxWshHn4j9ZRkBkLMW5HDp3DTr5SFYw/Bl25Li9Nmry3rxN0Nr2dpyXw524Yut7PcaieArDjzUsILhMvak+gyGuz+2bpF1R5GGDRCOa+UhM5VAQEdJDKYZVeAgQYgmomnRnRTSVgUqnP1jttagZh2HpKhAK4l/CBWpwNlmoChUmxZEpuPYIIomzfpbDbSHeOKYrldiFSfTmLYqjui98CVpZySD9lA==;jemwsPsoj+W6Rh3DSS7fig=="
 ---

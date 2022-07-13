@@ -40,6 +40,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "OpenAI rival AI21 Labs raises $64M to ramp up its AI-powered language services"
+    excerpt: "AI21 Labs, a startup developing a language model to rival those from OpenAI, Cohere, and others, has raised $64M in fresh funding to expand its customer base."
+    publishedDateTime: 2022-07-12T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
   - title: "Amnon Shashua's NLP co A121 Labs raises $64m"
     excerpt: "Israeli deep tech company A121 Labs announced today the completion of a $64 million series B financing round, bringing the company’s valuation to $664 million. The round was led by Ahren Innovation Capital Fund with participation from existing investors,"
     publishedDateTime: 2022-07-12T13:00:00Z
