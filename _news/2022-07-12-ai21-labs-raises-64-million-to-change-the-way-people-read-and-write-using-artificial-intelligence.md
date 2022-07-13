@@ -19,15 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "AI21 Labs growth offers AI lessons beyond Ruth Bader Ginsburg"
-    excerpt: "With new funding, A121 Labs continues its buzzy climb in an effort towards its stated goal of fundamentally changing the way people read and write."
-    publishedDateTime: 2022-07-12T12:57:00Z
-    webUrl: "https://venturebeat.com/2022/07/12/ai21-labs-growth-offers-ai-lessons-beyond-ruth-bader-ginsburg/"
+  - title: "Artificial Intelligence, AI21 Labs has Raised $64 Million to Transform the Way People Read and Write"
+    excerpt: "AI21 Labs announced today the completion of its $64 million series B funding round, bringing the company's valuation to $664 million."
+    publishedDateTime: 2022-07-13T09:49:00Z
+    webUrl: "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/"
+    ampWebUrl: "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Artificial-Intelligence_-AI21-Labs-has-Raised-_64-Million-to-Transform-the-Way-People-Read-and-Write.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Amnon Shashua's NLP co A121 Labs raises $64m"
+    excerpt: "Israeli deep tech company A121 Labs announced today the completion of a $64 million series B financing round, bringing the company’s valuation to $664 million. The round was led by Ahren Innovation Capital Fund with participation from existing investors,"
+    publishedDateTime: 2022-07-12T13:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-amnon-shashuas-nlp-co-A121-Labs-raises-64m-1001417848"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 34
   - title: "News: AI tech startup AI21 Labs secures $64 million in Series B funding round"
     excerpt: "Artificial Intelligence startup AI21 Labs, which specialised in AI that can fundamentally change the way we can read and write, has announced today the completion of its $64 million series B funding round."
     publishedDateTime: 2022-07-13T04:56:00Z

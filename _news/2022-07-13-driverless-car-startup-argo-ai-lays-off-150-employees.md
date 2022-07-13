@@ -33,15 +33,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
-    excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
-    publishedDateTime: 2022-07-08T17:10:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/07/08/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "DaXqaLpmfn6BR5dwYsaVBzf9TPtsF/rVgjxc9+GmCC4SQfwvE7zBWsJYz84jb4sgqH3MIUNAfGvwNLuInUl311CNa0V7hgSdpOUPwILIIYT1qw0PF3e60bmMvpKyEOdNd5lJs0GeMCi1sLbo6/sl9By8yzFfLUPT+B3Vv4f1pewWlmItYR3JGxoW0vbz7TUOMA/tAYUbBUe91tLgq1lRmOq8TfSN7dUkgxFKx3xfR18yl2cDSvPzld4E2l7O/9q/zCdbqEdgfXOWuEIKmvf6LVXhMhQdSE53ioIc5XIcp90DYhJ5TK1MSWXqogo+3BOYpkUYJODl/Dq9xpL+CQc4jaT8Gw+HxYSKCXt3IT8s32mWVrhdEDPZTfNMFIwDXrXXRsPmrwOVbCgYHDGDMiKQdkd13XJYplJGa1vf3jlTAX0xk4kE261J64NbmJm/wf+qQ0bGlEFvWSq5OpEpMnMQnTJIsBZJV2SBFR0uRQgVTL6OAf2P8m6K1fBGiPRQ4hsdvKbl7DEVIkmEZuejeAoG5g==;Gvv9LX229CPLI/XBGTIMyw=="
 ---

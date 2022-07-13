@@ -8,7 +8,7 @@ webUrl: "https://www.scientificamerican.com/article/google-engineer-claims-ai-ch
 ampWebUrl: "https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/?amp=true"
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/?amp=true"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/C3009D64-1957-41D2-A03F7D964BE665EE.jpg"

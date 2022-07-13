@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Xpeng’s Robotics Arm Just Raised $100 Million In Funding"
+    excerpt: "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,"
+    publishedDateTime: 2022-07-13T10:31:00Z
+    webUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/"
+    ampWebUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 89
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "XPeng goes from four-wheeled EVs to four-legged robots with $100M in Series A funding"
     excerpt: "XPeng Robotics, an affiliate of XPeng Inc., has announced an agreement to receive over $100 million in Series A capital funding, led by a group of longtime investors. The fresh financing will enable XPeng Robotics to further its R&D in robotic hardware and software and talent acquisition while accelerating product development."
     publishedDateTime: 2022-07-12T16:33:00Z

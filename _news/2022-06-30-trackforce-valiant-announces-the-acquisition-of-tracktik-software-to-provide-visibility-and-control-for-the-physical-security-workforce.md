@@ -3,8 +3,10 @@ category: news
 title: "Trackforce Valiant announces the acquisition of TrackTik Software to provide visibility and control for the physical security workforce"
 excerpt: "Trackforce Valiant, a provider of security workforce management solutions, announces the acquisition of TrackTik Software, one of the most innovative and fastest-growing cloud-based security"
 publishedDateTime: 2022-06-30T12:31:00Z
-originalUrl: "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html"
+webUrl: "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html"
 type: article
 
 provider:
@@ -16,6 +18,6 @@ topics:
   - AI
   - AI in Security
 
-secured: "Kkx38+LkRna7fqCktKoOfgXsqHP4fXjpyWlR1K6NlX/reQ+ju0HL2g8z+JWly7ynprLYZMlBTHbwJNCq+gewz4NzkKV8JxwtctNJh6DW4k1rVYaRo0yL0+FfObL933ffC8lWHktKS7rpvnU9lSlFXyYZSK24MNS1oplFeo6jy8SEH2dBxdrH4IE46SyOtEOAznC7Z3IOcl6HCZjtgGMOqe/eBO0jdktUmdCSMDqNf9a0GTJ+LSdVWct1qvffm2X7sDfxva8/SBwz012opOCeei8ftf6GyUaShrJUXaIHlex3oSy9M3B9C/CyJ9BLpKPYWwuD4cvlCAMDr0IXRXMkCbK5aFuFfEZgjlJ90S+pjSs=;sWyFQDdJZnwEhkGCE61eKw=="
+secured: "tQY0IFcgYcRrJE1zncqXmo1yPbb+frKHgvPJBlFXlGkDmAFeToyA9CPwEuN3CbFznwBUkef4tcI2S18QQpMQV5zFt8fb4VG+ExdoOyA92v3++LiQEjWAfUXF29hXBxq7dWiRAckcOJjDwVZfHZnj40XgC2NVloKbRIsJUhqLupi5pJnxwRYQUfaLJ2cEeMp92E10f0cmLWKNMxZFoEm8CvqCiVCkJCq0zRDQadCA4lCWUrm63KagZjrEL7qbuH6qfmXPhroGpT18DqVi4Sl1N3dLWC4jOsyyWVrqUvIMF6plWRkOAZV1nvtqvAyBF0S+N6HYr/C3ZqhTP3tJQVn8QeYiWdNgqd4i2L8I3vIzTsc8QZPruF61bzQcaNtJ5WyHv9X2V1CQX9+l9o5uETqic+K8z5oSLFtOhIcZqcYWFmvy0oSPBUURdkRWCbUrniHU9zkPAratgWxFf599731MruqE558shborTeKiTb4zBLdUniexUw8a2NqqobeLhYFk44tJT4PnE9p+8iiE+m8Nlg==;pRQ4maa5Q2WCUsR6Sfjm1g=="
 ---
 

@@ -88,6 +88,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "The future of fintech"
+    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
+    publishedDateTime: 2022-07-13T08:32:00Z
+    webUrl: "https://www.independent.co.uk/news/business/business-reporter/the-future-of-fintech-b2117928.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 24
+    images:
+      - url: "https://static.independent.co.uk/2022/07/07/12/Main%20image%20-%20Kuflink%20-%20iStock-978531552.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ewallet Rebrands As E& Money, A Financial Super App Set To Transform The Fintech Space"
     excerpt: "Transformation from a digital wallet to a tech-driven fintech company under e& life, from e&, with its own financial super app marketplace"
     publishedDateTime: 2022-07-09T13:03:00Z

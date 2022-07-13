@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-12T20:59:00Z
 originalUrl: "https://siliconangle.com/2022/07/12/tecton-raises-100m-prominent-investors-accelerate-ai-development/"
 webUrl: "https://siliconangle.com/2022/07/12/tecton-raises-100m-prominent-investors-accelerate-ai-development/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/tecton.png"

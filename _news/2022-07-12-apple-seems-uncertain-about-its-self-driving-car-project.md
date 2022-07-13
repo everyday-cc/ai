@@ -37,20 +37,6 @@ related:
         width: 764
         height: 1238
         isCached: true
-  - title: "Server outage causes Cruise self-driving cars to block traffic"
-    excerpt: "Around 60 autonomous cars began behaving erratically and ended up blocking traffic in San Francisco due to a server outage. Self-driving car company Cruise, which is majority owned by GM, had an outage in late July that caused traffic disruptions around the city."
-    publishedDateTime: 2022-07-08T17:18:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/server-outage-causes-cruise-self-driving-cars-to-block-traffic/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cruise.2e16d0ba.fill-1200x630.jpg"
-        width: 960
-        height: 504
-        isCached: true
   - title: "New tests targeting bikes, and speed increase for self-driving cars"
     excerpt: "Autonomous or self-driving vehicles are set for a speed increase, as well as new tests focused on how well they can detect motorcycles."
     publishedDateTime: 2022-07-13T07:35:00Z

@@ -57,6 +57,22 @@ related:
         width: 716
         height: 408
         isCached: true
+  - title: "Scientists Create An Artificial Intelligence Program That Can Learn By Intuition Like A Baby"
+    excerpt: "Now this blurs the line between artificial intelligence and human behaviour as we know it. If an AI can be embedded with ‘gut feelings’ maybe an AI can become sentient enough to guy you too! The worst case scenarios should always be scrutinised before glorifying any research."
+    publishedDateTime: 2022-07-13T11:13:00Z
+    webUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby"
+    ampWebUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 78
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/plato_7ehy.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "This AI With a Baby Brain Shows Us How Humans Think"
     excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
     publishedDateTime: 2022-07-11T17:52:00Z

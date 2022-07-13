@@ -18,24 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "The Metaverse: Never Too Soon to Discuss Ethics"
-    excerpt: "Indeed, while the metaverse might be years away, it’s never too soon to start thinking about these ethical issues and form guidelines and frameworks for ethical principles that instills trust and pave the foundation for the future."
-    publishedDateTime: 2022-07-12T13:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-metaverse%3A-never-too-soon-to-discuss-ethics"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Metaverse builders: Focus on UX first, interoperability later"
-    excerpt: "Metaverse game builders need to improve UX first to run optimally on blockchain technology, then work to build an interconnected ecosystem."
-    publishedDateTime: 2022-07-11T03:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-first-interoperability-later/"
+  - title: "MeetKai launches AI-powered metaverse, starting with a billboard in Times Square"
+    excerpt: "MeetKai is a conversational AI company that has expanded into building a real-world metaverse, starting with a billboard in Times Square."
+    publishedDateTime: 2022-07-13T11:00:00Z
+    webUrl: "https://venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/"
+    ampWebUrl: "https://venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 34
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/meetkai-MK-Metaverse-Times-Square.png?fit=800%2C600&strip=all"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "2GR31WLvhKJZcmek5KGKjfkb5bb6gWn4/top7e2Ak5R4RiIQSQ2Es18pnWWlVKKsWW/NY1rUqdBaiOvwnKswl18BVZgtGFLZrubkcyimeLPLVHpd+qFbyX6voEvqoSgrDHyeZUVvfoMYHCNV0XsOEq0L3Mh5LvejfWYtqoYkn8vw/GxLHdX6eEgvszl9GlOsvttFKyrCezJ8gb5tSGq9VknFL1i/eEpcs8J7U2qmcMeUbCp2J4wJUfuZModw7V0jA3nDmSeTRoEvk4usqpx31N+Vfy4RKEAYGomS6CVQhn21Xg5/B62YnC5U2vy9GjlAhQ9JnTSdjnqCVOSmUSDhybMezTw7wI3R6hxHp31lz92BtSzB3vDi6e5ssIUQ0pvql4k46EYswgmKEvqisAmUAbO/lmgsorBMf3wTch9ULdPxUdMHEpiF5Q8569IMpQ3CsSCz/GXdMOsA2vH8nD/HzYiYJTGBsjsgPrg0xcBvcmeZZis7QtQLL65ou8ge9gF26U9ZO42y2/szIAAxoQ7b0g==;UzU+uott6yTc49GFne4eKQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford, VW-backed AV technology firm Argo AI lays off 150 workers"
-    excerpt: "As self-driving AV technology comes under increased criticism, the company that began operations in Austin and Miami this spring says it is making \"adjustments to our business plan.\""
-    publishedDateTime: 2022-07-08T17:11:00Z
-    webUrl: "https://www.smartcitiesdive.com/news/AV-self-driving-tech-firm-argo-layoffs/626867/"
-    type: article
-    provider:
-      name: smartcitiesdive
-      domain: smartcitiesdive.com
-    quality: 37
-    images:
-      - url: "https://www.smartcitiesdive.com/imgproxy/bJPtyJy7EJClg7TW8xC0j4rV_-JXPbf1rznZ5J6cjJQ/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0FyZ28tRHJpdmVybGVzcy0yLXNjYWxlZC5qcGVn.jpeg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Argo AI, a Ford-backed business developing self-driving cars, is laying off 150 staff"
     excerpt: "According to The Wall Street Journal, Argo AI, an autonomous car firm sponsored by both Ford and Volkswagen, has laid off around 150 staff as of this writing. During the companys"
     publishedDateTime: 2022-07-10T12:52:00Z

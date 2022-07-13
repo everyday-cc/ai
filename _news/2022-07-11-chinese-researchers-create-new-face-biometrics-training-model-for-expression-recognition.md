@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202207/chinese-researchers-create-
 webUrl: "https://www.biometricupdate.com/202207/chinese-researchers-create-new-face-biometrics-training-model-for-expression-recognition"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Yangon, military junta will install Chinese facial recognition cameras"
+    excerpt: "Mother of Abe's killer belonged to the Unification Church; New mass-testing campaign in Shanghai; Rajapaksa will leave on 13 July but yet to issue a statement; the d"
+    publishedDateTime: 2022-07-11T08:09:00Z
+    webUrl: "https://www.asianews.it/news-en/Yangon,-military-junta-will-install-Chinese-facial-recognition-cameras-56230.html"
+    type: article
+    provider:
+      name: Asia News
+      domain: asianews.it
+    quality: 39
+    images:
+      - url: "https://www.asianews.it/./files/img/size3/00_COP_AsiaToday.png"
+        width: 700
+        height: 460
+        isCached: true
 
 secured: "AO3TFBl2bao1lyMc2NbxKsQ6Xu+p6IHbpY+epOwndkPRvIjxnzpelr0y1D9iWetf300NloPLjm/6JyX/Rhbwzvyy33HFTZQKMjt7k+kCTzKhtWb+o9UW5WAh77nGyy48Dv3hk2YuZntiuNZpPOgheFqItmptTyN40eU25cY1hpNZwm401XEdo/jazpLUWsGVHIIUEwSnuDZMp2bj3SqvVfibeFhFHK63X2r6ZcI+6dqEGDVuE8MDRgFXmLPP7h5KYhD0eWeeoQOrDvA/D9Um9D7shJ/x4Bhu22izvet7Dhikz0JMQXYHTZRsV/j8nAuO0xa3sO26ZG4weLm7j4O7RWaSZZKdnFr6kGulaCGutimgdleeyEDM0yvsPZv21ThNTU2yo1L/6ehTYcsdesGyMs8ar3WERfD2DQRTO03g6Uc5gYLw61Q8pD1K7NkhkrmZYRzwK4lL4tSeihexxTU/eAIEasfmao7MvorSKKdvIY/jNIHcBnAv/noq+HGrv4fV1B+5NQLRrb8LUHZbWCiDBA==;XsMj6+qaQ1AwrnK2J+lYZw=="
 ---

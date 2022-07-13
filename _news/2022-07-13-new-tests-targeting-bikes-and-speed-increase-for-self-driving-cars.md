@@ -52,20 +52,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "Server outage causes Cruise self-driving cars to block traffic"
-    excerpt: "Around 60 autonomous cars began behaving erratically and ended up blocking traffic in San Francisco due to a server outage. Self-driving car company Cruise, which is majority owned by GM, had an outage in late July that caused traffic disruptions around the city."
-    publishedDateTime: 2022-07-08T17:18:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/server-outage-causes-cruise-self-driving-cars-to-block-traffic/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cruise.2e16d0ba.fill-1200x630.jpg"
-        width: 960
-        height: 504
-        isCached: true
   - title: "GM's Cruise Self-Driving Car Crash Injures Multiple People"
     excerpt: "A Cruise self-driving vehicle that was driving autonomously was involved in an accident with a Toyota Prius, injuring people in both cars."
     publishedDateTime: 2022-07-08T20:12:00Z
