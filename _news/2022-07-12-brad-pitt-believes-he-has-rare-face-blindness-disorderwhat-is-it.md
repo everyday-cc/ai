@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disor
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Is What It’s Like to Have Face Blindness"
-    excerpt: "Brad Pitt allegedly suffers from prosopagnosia, a face-blindness disorder, and he wants more people to know it’s a real thing. For almost a decade, Pitt has been open about not recognizing people he had already met before – and then upsetting them because of it."
-    publishedDateTime: 2022-07-08T05:49:00Z
-    webUrl: "https://www.popsugar.com.au/fitness/prosopagnosia-face-blindness-48877793"
-    ampWebUrl: "https://www.popsugar.com/fitness/prosopagnosia-face-blindness-48877793/amp"
-    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fitness/prosopagnosia-face-blindness-48877793/amp"
-    type: article
-    provider:
-      name: PopSugar Australia
-      domain: popsugar.com.au
-    quality: 44
-    images:
-      - url: "https://media1.popsugar-assets.com/files/thumbor/IvJLgsR9ybJCP50KHyGAU6O582E/0x143:3840x2159/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2022/07/07/696/n/1922729/2646748262c6ff2229b978.94799658_.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Prosopagnosia: What is the face blindness condition that Brad Pitt says he has"
     excerpt: "Brad Pitt spoke out about his struggle with prosopagnosia or \"face blindness.\" The condition is defined as one that affects and individuals ability to recognize faces."
     publishedDateTime: 2022-07-08T13:34:00Z

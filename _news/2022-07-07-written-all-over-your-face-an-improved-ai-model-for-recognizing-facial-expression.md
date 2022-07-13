@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Written all over your face: An improved AI model for recognizing facial expression"
-excerpt: "Thanks to advances in technology, computers can do a pretty good job when it comes to recognizing faces. Recognizing facial expressions, however, is a whole different story. Many researchers working in the field of artificial intelligence (AI) have tried to tackle this problem using various modeling and classification techniques,"
-publishedDateTime: 2022-07-07T04:42:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/958080"
-webUrl: "https://www.eurekalert.org/news-releases/958080"
+excerpt: "When it comes to our state of mind and emotions, our faces can be quite telling. Facial expression is an essential aspect of nonverbal communication in humans. Even if we cannot explain how we do it,"
+publishedDateTime: 2022-07-06T19:56:00Z
+originalUrl: "https://techxplore.com/news/2022-07-written-ai-facial.html"
+webUrl: "https://techxplore.com/news/2022-07-written-ai-facial.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-written-ai-facial.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-written-ai-facial.amp"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2dbd5fc2-6b2a-4f0c-ae5e-6b3cc08bec31/Rendition/low-res/Content/Public"
-    width: 700
-    height: 342
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/written-all-over-your.jpg"
+    width: 920
+    height: 450
     isCached: true
 
-secured: "EvD1MqE3Vp4lhL4uAzM2N4kodwV1HXcHiXTDdZLdtbyWpGpkQdAF0kORofpoRx0ku3KBeiRrROHVR/fXL/kfnyfXP/cHdZQvykQwd6vFp3MWKuO+isWhTdVjoEgoFmAgmAMIbjszzSayV75LapmmUatxmDxOppMOi+wEeT3WWTEbFGYRsCeClXdEsnUMCc8BJG/oyHJ6DjX49gk0dzJI/Aq3ZMfrSkqgQMjAkpJSyifU9dH7nN4GpP5JW+IWnScPAmTHCtLgUWE1nnOfKlus33NvEDvT4bzv2rX1xpxssni2yIA2fWVwDWQAKeZ/1/1PZZO8rsHM2b6v/LOvMy+vshmubkY77tttRGydOKbOld3Pn8HVTnqDlLUAlJuwTjXPx0fgXKEcUfskohBAuiQGinRMYyA5J+jv7WljJs20ifQxCvCLrab7QCLtoJrQWhvK//Lxt6p6ImHWVGNyavtZgE0t0fDqvTeiNvGiIsjQ4mV1CQ7BoHdrlwGoQMJOCyJ6cwnWDNP6zWkPcxqISnMZVg==;fiZOH++4MscN9b1+5RdogQ=="
+secured: "7q/7c6bhpEupiUtSmzkf5EWzF+bWqmnW1NREMKkGuRC96Q9dOEPgzNeSv9fd3nq8LLTy9yb3PU5S9PkWs0RSIpzU/zlOxm1BG023kqFumHgPhx2CzxxvwHZpigZZw2t5WCX9TV11UTU9XQdUhAw+kyep2ZIFxQZlewOqWjbYfgypgzbe2xPusANohLLQ9sbrQ3BLJbQ4NB4Zd2+UsbA5ScMFL0xkaN6v1mFb4NDANanUdLtcPcsyNTCNeDwYVqlyyNIQE8fvTfJdvBrdq72+3WPTdyWzTmYCO9u9kbddcoQuq5x0fDPGFaPj1l2aJCV0WRc/ZUxcQv4utBVNVGNV5Esxb/fdGRXLwuEpZET3F3Q=;h3yJkfuTWwSPDlKO+gLc/w=="
 ---
 

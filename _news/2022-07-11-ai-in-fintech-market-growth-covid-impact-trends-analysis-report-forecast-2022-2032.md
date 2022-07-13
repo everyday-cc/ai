@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-cov
 webUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-covid-impact-trends-analysis-report-forecast-2022-2032/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -19,76 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market Size, Share, Trends, Growth And Forecast 2022-27"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027″, The global computer vision market is ..."
-    publishedDateTime: 2022-07-08T05:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-share-trends-growth-and-forecast-2022-27"
+  - title: "Artificial Intelligence (AI) In Drug Discovery Global Market Opportunities And Strategies To 2031: COVID-19 Growth And Change"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) In Drug Discovery Global Market Opportunities And Strategies To 2031: COVID-19 Growth"
+    publishedDateTime: 2022-07-11T17:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28021396/artificial-intelligence-ai-in-drug-discovery-global-market-opportunities-and-strategies-to-2031-co"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgHRoO-xwuTeYO1MTMfrUPtTVlTe2WVfZ5Kn4w4Ow4FFnDMS6K6IlwcoxCXF-4AqgkDW1UJHZgy8unXncOxa_uxcX9Nn-s-xlqmBMQky2L0Gl-eE1znrk1xCTi9HPZVU0vMorpk7mw69s-3d7cHrZc9PHJibAfdql97Y1evRL7NMp5PAThuAyH0Y/w640-h342/Computer%20Vision.jpg"
-        width: 640
-        height: 342
-        isCached: true
-  - title: "AI In Telecommunication Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global AI In Telecommunication market is segmented by Types (Machine Learning and Deep Learning, Natural Language Processing) and by"
-    publishedDateTime: 2022-07-12T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
-    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
-    publishedDateTime: 2022-07-12T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-balancing Scooter Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global Self-balancing Scooter market is segmented by Types (Two-wheeled Self-balancing Scooter, Unicycle Self-balancing Scooter) and b"
-    publishedDateTime: 2022-07-12T02:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-balancing-scooter-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
-    publishedDateTime: 2022-07-11T09:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "USSdIjjQEkBj8Or5n4aOsgcNkmBeQ0tMyjTjyIeaUbAK1NUOfRuWf4eUOpwMcKKc7bMYzpOvDXuwDUpx7zpLo3pfQNrqxlvui8w9cVn7Uzowx0W0vRZcxT1RllUJ06upsGaJqoa/Q7WFMycxBZFKehJ3LlbBiNSBY0BFE8HuCBREwGU6LUDFPsCtlT1pPVojSZMfBEsHOAkzp342xhRqjIMiPaRi5xYlxs1QsLQB1G4lqp9GdH5OpBIe9Gbp5yBDNnd82kT5ldj0TDSmByjCDTf7tv6FvvIq0e1aO6b7BOyMnl8FwbsL0J/CkUCxMxIwvsgDtI/EOEzoqw31HO9cRF1tS+0ne1CO9WCA4EVhll8=;lwC27eb1keFKwqh8FYv9QQ=="
 ---

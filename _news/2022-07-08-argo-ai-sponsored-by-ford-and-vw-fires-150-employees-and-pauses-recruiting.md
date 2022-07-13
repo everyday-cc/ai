@@ -40,36 +40,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Ford, VW-backed self-driving startup Argo AI fires 150 employees"
-    excerpt: "Argo AI, a US-based startup which works on self-driving vehicle technology, has fired around 150 employees. \"We are making prudent adjustments to our business plan to best continue on a path for success,"
-    publishedDateTime: 2022-07-08T06:27:00Z
-    webUrl: "https://inshorts.com/en/news/ford-vwbacked-selfdriving-startup-argo-ai-fires-150-employees-1657261626202"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ford-vwbacked-selfdriving-startup-argo-ai-fires-150-employees-1657261626202"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ford-vwbacked-selfdriving-startup-argo-ai-fires-150-employees-1657261626202"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/8_fri/img_1657255250905_525.jpg?"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Ford-backed self-driving startup Argo AI lays off 150 workers"
-    excerpt: "Argo AI, the driverless startup backed by Ford Motor Co and Volkswagen AG, laid off about 150 workers on July 7 as the young company ramped up too quickly and found itself overstaffed."
-    publishedDateTime: 2022-07-08T06:45:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/08/ford-backed-self-driving-startup-argo-ai-lays-off-150-workers"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/08/1652173.jpeg"
-        width: 1240
-        height: 743
-        isCached: true
   - title: "Ford, VW-backed AV technology firm Argo AI lays off 150 workers"
     excerpt: "As self-driving AV technology comes under increased criticism, the company that began operations in Austin and Miami this spring says it is making \"adjustments to our business plan.\""
     publishedDateTime: 2022-07-08T17:11:00Z

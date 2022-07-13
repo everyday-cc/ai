@@ -7,7 +7,7 @@ originalUrl: "https://www.theregister.com/2022/07/12/intel_accenture_seek_to_hel
 webUrl: "https://www.theregister.com/2022/07/12/intel_accenture_seek_to_help/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Intel Releases Open Source AI Reference Kits"
+    excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
+    publishedDateTime: 2022-07-12T16:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-intel-releases-open-source-ai-reference-kits"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
   - title: "Intel Releases Open Source AI Reference Kits"
     excerpt: "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries.SANTA CLARA, Calif.--(BUSINESS WIRE)--What’s New: Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to"
     publishedDateTime: 2022-07-12T19:30:00Z

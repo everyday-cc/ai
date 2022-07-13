@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-ten
 webUrl: "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

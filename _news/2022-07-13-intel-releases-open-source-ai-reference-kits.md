@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Intel Releases Open Source AI Reference Kits"
+    excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
+    publishedDateTime: 2022-07-12T16:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-intel-releases-open-source-ai-reference-kits"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
   - title: "Intel, Accenture put bow on open-source AI kits to push adoption"
     excerpt: "Intel and IT consultancy Accenture are hoping to help businesses adopt AI applications quicker with bundles of open-source software designed to speed performance and lower development costs. The open source AI reference kits,"
     publishedDateTime: 2022-07-12T17:57:00Z
