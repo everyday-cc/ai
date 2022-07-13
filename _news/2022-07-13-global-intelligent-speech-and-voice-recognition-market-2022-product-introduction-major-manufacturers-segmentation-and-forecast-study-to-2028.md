@@ -29,29 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
-    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-    publishedDateTime: 2022-07-11T20:27:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+  - title: "Artificial Intelligence In Military Market Size, Share, Trend, Manufacturing Cost Analysis, Sales and CAGR Value and Future Outlook 2029"
+    excerpt: "The Artificial Intelligence In Military Market (2022-2029) Research reports provide detailed information on current"
+    publishedDateTime: 2022-07-12T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Robotic Software Platforms Market Report 2022: Open Source Robotics Solutions Present Opportunities"
-    excerpt: "Global Market Trajectory & Analytics' report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms"
-    publishedDateTime: 2022-07-11T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28017574/global-robotic-software-platforms-market-report-2022-open-source-robotics-solutions-present-opport"
+  - title: "Global Machine Learning Recommendation Algorithm Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
+    excerpt: "The research study of the Global Machine Learning Recommendation Algorithm Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is by MarketsandResearch.biz is designed by keeping in mind all the segments and sub segments."
+    publishedDateTime: 2022-07-12T21:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-recommendation-algorithm-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-07-12"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
+    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
+    publishedDateTime: 2022-07-12T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-07-12T00:13:00Z
@@ -66,24 +85,6 @@ related:
         width: 301
         height: 251
         isCached: true
-  - title: "Self-driving cars only a fraction of projected $1-trillion global autonomous technology market"
-    excerpt: "The global market for terrestrial autonomous mobile systems alone is projected to climb to an estimated $802 billion by 2025-26. When adding aerial, marine, and defense autonomous systems, that number can easily reach $1 trillion."
-    publishedDateTime: 2022-07-10T05:00:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2022/07/10/cars-fraction-of-trillion-dollar-autonomous-market.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
-    publishedDateTime: 2022-07-12T11:26:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "4bPxm+XzITZTA3Ype/OHKP3ltWQCm1sr+aZw7J5BNfIQt52twKoy8KUlW/qKv74rv6p8RIt9SWHS9t3xCD5Sx4+fNvVIqFtVDRvfbUsje5EYLiBRqyEwld6wy/xFMZcnh+yLlvNkD+FCUomlNfPx7Jf+8v2FVEbGM2Zo0RqIh/Yr4p/UHLnDxb43Z6QW0aRnbmibSXUUMFVAAyp13SSKGQ43oR+haIiOvT/YJURVf0jJyy8eS32feOscjT+tUm2HwEpqm13qA0ZI69Ng1ijQ6KRjW7go5mSDWdRyS9FBSMtxbzuxbH1dhzNUAxPjLE4xm4TaJmj/SbMqcQdy6ZOkTQAcZGeyyVj9xfxsril/l9s=;NOnMYjz9AlLTcYijcgFFzQ=="
 ---

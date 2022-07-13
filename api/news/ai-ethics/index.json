@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
-      "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
-      "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "publishedDateTime": "2022-07-11T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-09-sure-githubs-ai-assisted-copilot-writes-code-for-you-but-is-it-legal-or-ethical.md",
       "title": "Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?",
       "excerpt": "GitHub's Copilot is an AI-based, pair-programming service. Its machine learning model raises a number of questions. Open source experts weigh in.",
@@ -231,16 +188,16 @@
       "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
       "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
-      "originalUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
+      "webUrl": "https://tucson.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_53f25da2-9eec-5444-97e5-0d63f1c9eae3.html",
+      "originalUrl": "https://tucson.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_53f25da2-9eec-5444-97e5-0d63f1c9eae3.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/0/70/0709ec93-4cc8-55f7-9dfd-f7de18900ea4/62bef082dbd2d.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/3f/53f25da2-9eec-5444-97e5-0d63f1c9eae3/62bef09b9aeee.preview.jpg?crop=1116%2C628%2C41%2C0&resize=1116%2C628&order=crop%2Cresize",
+          "width": 1116,
           "height": 628,
           "title": null,
           "attribution": null,
@@ -254,8 +211,8 @@
       "publishedDateTime": "2022-07-06T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Eagle",
-        "domain": "theeagle.com",
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -274,15 +231,15 @@
       "title": "Richard Kyte: The real ethical problem with artificial intelligence",
       "excerpt": "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it.",
       "sourceUrl": null,
-      "webUrl": "https://theeagle.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_e0f46805-5075-5feb-a144-42165a4d211f.html",
-      "originalUrl": "https://theeagle.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_e0f46805-5075-5feb-a144-42165a4d211f.html",
+      "webUrl": "https://heraldcourier.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9ab34d40-5e9f-551a-b19e-1009ef613037.html",
+      "originalUrl": "https://heraldcourier.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9ab34d40-5e9f-551a-b19e-1009ef613037.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/e/0f/e0f46805-5075-5feb-a144-42165a4d211f/62c454eeb6db9.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/9/ab/9ab34d40-5e9f-551a-b19e-1009ef613037/62c454edbea3f.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
           "width": 749,
           "height": 393,
           "title": null,
@@ -297,8 +254,8 @@
       "publishedDateTime": "2022-07-06T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Eagle",
-        "domain": "theeagle.com",
+        "name": "Bristol Herald Courier",
+        "domain": "heraldcourier.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1431,6 +1388,58 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-19-from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art.md",
+      "title": "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art",
+      "excerpt": "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
+      "publishedDateTime": "2022-06-18T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

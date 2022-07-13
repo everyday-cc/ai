@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-ado
 webUrl: "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-adoption/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "What to Know: Key Concerns for Adoption of Medical Devices Using AI"
-    excerpt: "What should providers consider when adopting medical devices that rely on artificial intelligence and machine learning?"
-    publishedDateTime: 2022-07-08T15:51:00Z
-    webUrl: "https://healthtechmagazine.net/article/2022/07/what-know-key-concerns-adoption-medical-devices-using-ai"
-    ampWebUrl: "https://healthtechmagazine.net/article/2022/07/what-know-key-concerns-adoption-medical-devices-using-ai?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/07/what-know-key-concerns-adoption-medical-devices-using-ai?amp"
+  - title: "Adopting AI in a more straightforward manner"
+    excerpt: "According to IBM, more than a third of firms are now using AI in some capacity, while another 42 percent are just beginning to explore the possibilities. While these efforts are being hindered by factors such as high prices,"
+    publishedDateTime: 2022-07-11T13:25:00Z
+    webUrl: "https://bestgamingpro.com/adopting-ai-in-a-more-straightforward-manner/"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202207/AI%20diagnosis.jpg?itok=uIPk1JFT"
-        width: 1440
-        height: 500
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Finding-an-easier-way-to-AI-adoption.png"
+        width: 600
+        height: 365
         isCached: true
 
 secured: "F2FAJHRo6Obe/KaXIabdSLDt5FByfMFVz6i6PHo6cev7mw33reA1claVz4E6qRXjFNtlbENTSQAgDI5ZHMjqGKJvrXdqcfsDJr7SRxSvQ0vA2azoJgLbjXqXhZH0Y6Mk1kR5SL6MgDGByekqHxtlKvYkK74tMDRAH4zACKWkT+DmrGPUQcDm3vg4F+CfEyvtBG3E5Jdh2JEU/pLv6Tyz2JLO30pakpJSjp4sfnmT6/4y4yQxBpVVVLcxdqb8U4QmdJ1rkMYGKUcobOn2kCWV3KP9V4YvaZKuCdy0jeTNJ6EBloRwpbCFs3N0ttnYK3oSYWexVufbjil3tpMWF2WCKzpvbKaXF0guDt7fb3axGjI=;N3WXodxyLB9xRGhhnDgKEg=="

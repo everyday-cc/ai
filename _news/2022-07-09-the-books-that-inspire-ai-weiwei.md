@@ -40,6 +40,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Ai Weiwei’s Arch Installation Opens in Central Stockholm"
+    excerpt: "Artist and activist Ai Weiwei unveiled the Arch, a cage-like sculpture in front of the National Museum of Stockholm."
+    publishedDateTime: 2022-07-13T09:30:00Z
+    webUrl: "https://www.archdaily.com/985289/ai-weiweis-arch-installation-opens-in-central-stockholm"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 37
+    images:
+      - url: "https://images.adsttc.com/media/images/62ce/7583/6566/ee01/657b/d47b/large_jpg/ai-weiweis-arch-installation-opens-in-central-stockholm_4.jpg?1657697690"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "6oafiTbVnNF5mImKrSQO9ns2IK5K1zTUadIUBvDRX0R4tUVcuFq4Smugi3EwD7faGQ8zcQD4sUVSRIRSqFhWw44OgIlbE4yEO7BjHKYcbPXjves5PtSvFMHyhQKJDDTa//98KreN3VOxgU/6oPNaWwxmhlWo4D3MspHTKjOPuBZEN6klDgOLQBVkOFBekBZWskUprWBzyqem1vixLod1soIyuTFQPNOUhK4eDLcvEfR8TXRlOKJH1GAgT7UDpDp91PDXCDjR/bgvWNTXwdqeZzbwQA5GOFfU0sKpdmRXg4wUF46gmWYwqGHCUOtFrcipN8XlABEosKtAWyrY6IvwEk6Su7JlkQpI+YVgHRsfQZQ=;iz45NYNJe9sijbPk1UCT+g=="
 ---

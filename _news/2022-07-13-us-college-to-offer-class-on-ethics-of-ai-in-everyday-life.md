@@ -41,6 +41,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "New AI tools let you chat with your dead relatives"
+    excerpt: "New products that let people keep relatives \"alive\" via AI are proliferating — offering, say, an interactive conversation with a recently departed dad who took the time to record a video interview before he passed."
+    publishedDateTime: 2022-07-13T09:30:00Z
+    webUrl: "https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/KU-CB1TD-lo7uyFlk9xBQleN6oI=/1366x768/smart/2022/07/12/1657650580838.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Bowdoin College to offer class on ethics of AI in everyday life"
     excerpt: "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development."
     publishedDateTime: 2022-07-11T08:00:00Z

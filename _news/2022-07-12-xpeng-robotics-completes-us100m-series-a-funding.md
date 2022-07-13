@@ -50,6 +50,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
+  - title: "Xpeng's Pengxing Scores USD100 Million, Biggest Bionic Robot Funding in Years"
+    excerpt: "Xpeng Pengxing, an affiliate of new energy vehicle maker Xpeng Motors, has raised more than USD100 million in its Series A round of financing, the largest sum in China's sector of bionic robots in the past two years."
+    publishedDateTime: 2022-07-13T09:36:00Z
+    webUrl: "https://www.yicaiglobal.com/news/xpeng-pengxing-scores-usd100-million-biggest-bionic-robot-funding-in-years-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 36
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/xpeng-pengxing-scores-usd100-million-biggest-bionic-robot-funding-in-years-/17110600540869.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "HXFRZ48k9JBmuo44UAjHnPaJzM1NliYN7F+HgG03VuOngFK9uNJgTfoCzscIEe8deVGfsq70I3N6GZE/kJUXmw4JenULI3eXhuUFCWgsljv7sZIgrlTvQ9xExt1TLNGXomhsg7fsDDlSviSyRuE/7Cf3sv35GBeizIWosIfl8AZ3K1v6Z1KwmiGB+tzgnKIaio0qyrbhGlmD1JDQvMll2NuHlbwRosppx+FLBxFGrDZP62EBaZMZ3teUGiRObq6GZgkXgU4UHo3EcA71/s+I58f0PPwQfEbBFhr7O2p5ycZY7wRad7nPV7oUbys/jgK2Nbe/2oDA/IOS63A/O3CISL3PtdB7a/EyfnGT9oAZ55w=;N/+dSkGOJ+3+t5p2fWN5XA=="
 ---

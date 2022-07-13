@@ -29,7 +29,7 @@ related:
     provider:
       name: India.com
       domain: india.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://static.india.com/wp-content/uploads/2022/07/Collage-Maker-13-Jul-2022-12.44-PM.jpg"
         width: 1200

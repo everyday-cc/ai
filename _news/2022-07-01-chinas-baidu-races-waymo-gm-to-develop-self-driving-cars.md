@@ -1,41 +1,20 @@
 ---
 category: news
-title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars."
-publishedDateTime: 2022-06-30T22:41:00Z
-originalUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-webUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-ampWebUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
+title: "China's Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away. \"So sorry,\" a recorded voice ..."
+publishedDateTime: 2022-07-01T06:00:00Z
+originalUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "China’s Baidu taxi races Waymo, GM to develop self-driving cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-07-01T09:00:00Z
-    webUrl: "https://www.hotsr.com/news/2022/jul/01/chinas-baidu-taxi-races-waymo-gm-to-develop-self/"
-    type: article
-    provider:
-      name: The Sentinel-Record
-      domain: hotsr.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201768656_201768656-ad342a272c4e4110968c9d9f7caad4ac_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-
-secured: "N0IiWoBqufd313JW68mUygVk64PxBqj/5PjPS2ADMO+cngqBRdYG7BTG3jFMKzfBrZmBHw6kpKE7hTkAhTponp3rAmh4eQwbGHymbDeDZfJgqpRh3j7bbQIjhqEcZDnbOKyZnReg0Bi+Ka0Yhb1S8JpQgO3oZSNi7Eq3sy9DYIRZt4KyAVzM+0Eev1V6Syt+BsS1GvBkhO5FQKb72lMmtilLQQHuSoGnD3tP4sszQUt9lW8yPi1lEM7/X79a077RuxJXvQx6Et89HlIFd9Xg7VL1UAkkuVd/dD307D5PCKd26Zm5GJ1S+8PKFzAbuph9NGltdJBCi9rHw1xaLca7x07oDoITCU1vDQfh1tgYVHzdUGZlMZfQtMErJ52s7hrqBQn/3/vZ0/KH47UPnZpr7h+2F6JosP/jMfQbIEBPcJcPiGEpcSyeRX6epG+jrp9nyWiruqS88NK+jP904/xqJTczSx7J0uJohCo4aflw3UBfvxN+Sa1S9B5nCtYmM0t7wDApN9nJt/7CqUj9fAzKUQ==;cHWX96lJvDQkTA6IdVAVjw=="
+secured: "TY1CjTGaeIiay91EtjIjveNOulp3ClQDnW9cheGDXgPDCg1aVf7Nt1I1DKWYLhzwYkKfl8sRwDnYlN1D8OiEqPBCbKS58WlzYY1zXQnbCv942TlmK2eHCteDoBnUbu2YmYxKssLX2+ur+ZeGDmsm+Cz41CUfRKMvN7BU//yIUpsv0r7hJY3YApA12QQ4tc/2vWIOyY53njI+OizZkWgvgXRWg8UVzuwwYV5Z5HLjaegAAwVgrh6GYkhdKIOB6fCJWqz21x+CJG51WKxb5VYrFRuQqe7VOj9NAcUt6C/tCohgT1CBWf9Q9fXGte/kWxMahFpPQfnSJ+AuZOyAscnTtS+tDUrmv4UKvqPbvR/P1MA=;kc2cXhhNHGVuk0eT+WGFSA=="
 ---
 

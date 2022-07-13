@@ -42,6 +42,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Validus Senior Living Partners With Arena Analytics to Improve Employee Retention Through Cutting-Edge AI and Data Science"
+    excerpt: "Leading Senior Living Provider Adopts Proven Predictive Analytics Platform to Guide Data-Driven Hiring Decisions BALTIMORE, July 13, 2022"
+    publishedDateTime: 2022-07-13T09:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/validus-senior-living-partners-with-arena-analytics-to-improve-employee-retention-through-cutting-edge-ai-and-data-science-1031583815"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/733405/Arena_Logo.jpg"
+        width: 400
+        height: 352
+        isCached: true
   - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
     excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
     publishedDateTime: 2022-07-11T23:17:00Z

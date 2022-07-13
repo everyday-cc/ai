@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/SC2207/S00019/intel-releases-open-sour
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2207/S00019/intel-releases-open-source-ai-reference-kits.htm"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Intel rolls out Open Source AI Reference Kits for enterprises"
+    excerpt: "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,"
+    publishedDateTime: 2022-07-13T09:01:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 67
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Intel Releases Open Source AI Reference Kits"
     excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
     publishedDateTime: 2022-07-12T16:30:00Z

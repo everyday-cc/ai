@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/"
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
+  - title: "Xpeng's Pengxing Scores USD100 Million, Biggest Bionic Robot Funding in Years"
+    excerpt: "Xpeng Pengxing, an affiliate of new energy vehicle maker Xpeng Motors, has raised more than USD100 million in its Series A round of financing, the largest sum in China's sector of bionic robots in the past two years."
+    publishedDateTime: 2022-07-13T09:36:00Z
+    webUrl: "https://www.yicaiglobal.com/news/xpeng-pengxing-scores-usd100-million-biggest-bionic-robot-funding-in-years-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 36
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/xpeng-pengxing-scores-usd100-million-biggest-bionic-robot-funding-in-years-/17110600540869.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "sH3eNFmRi5EclqLVopokTt1P+FjFHZ3bfhq/iwWgQGm5uSAWRQhjXiqoOxbdPxYY5WVYnHj0jYPi2X4Z2JVoDFQBMn6j0r0hf+VTQszzy98jf2unTUqwL6DVn0YNuhbee7Ef5iQxuiagzojeudoT0fFvgEe0Ai5R1GL66cT+Xu+FfULhXwoNhM1xs8Oy8adP9JbGcg+fNqq7Q7A/v2hhfGWMV7f1KwtYDmO3YysV1tA1zCL4dcgDjL3+VMdFbyJQHk7cExSCfasj0zy/yAKJsLShgEw2Kb4KBC5Ul+2YxWDpnjlx9Pi/kwrH4AByQf/aWFqeMxXWsv+2dUGYue53MoK52GVGvQx7l+itQnqCjG4whciMnApGjrTKu83rFVBOE9R+6ohwLtm8BkXc8jex8YtK2nVprBmCuQ9ckt2uyfKhbRrwxEVoHiHB3I505bJeE4ESalEzM36oUNexHluLGhYGaVEdWXunK/eDGm+bqDg2xCuF4GsO+B/mT2RhNMiUrs6rHlwcQDowsHDg2nRg0g==;zoE+tZQ6QqEhry6BQqB9hA=="
 ---

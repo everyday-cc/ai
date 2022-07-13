@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Validus Senior Living Partners With Arena Analytics to Improve Employee Retention Through Cutting-Edge AI and Data Science"
+    excerpt: "Leading Senior Living Provider Adopts Proven Predictive Analytics Platform to Guide Data-Driven Hiring Decisions BALTIMORE, July 13, 2022"
+    publishedDateTime: 2022-07-13T09:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/validus-senior-living-partners-with-arena-analytics-to-improve-employee-retention-through-cutting-edge-ai-and-data-science-1031583815"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/733405/Arena_Logo.jpg"
+        width: 400
+        height: 352
+        isCached: true
   - title: "radicant, Squirro Announce Partnership in Field of AI to Leverage Data-based Analytics"
     excerpt: "The integration of tech “enables radicant to automate decision-making processes and improve customer understanding and service quality.” The Swiss tech company Squirro links and “analyzes data to provide new insights as a basis for decision-making."
     publishedDateTime: 2022-07-09T17:35:00Z

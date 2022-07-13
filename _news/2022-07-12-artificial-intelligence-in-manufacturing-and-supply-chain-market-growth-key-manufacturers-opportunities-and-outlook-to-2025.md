@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-11T18:39:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-growth-key-manufacturers-opportunities-and-outlook-to-2025-2022-07-11"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-growth-key-manufacturers-opportunities-and-outlook-to-2025-2022-07-11"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -41,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI in healthcare offers 'myriad of investment opportunities'"
+    excerpt: "Artificial intelligence is transforming the healthcare sector and presenting myriad opportunities for investment said Tim Day co manager of The Sanlam Artificial Intelligence Fund"
+    publishedDateTime: 2022-07-13T08:45:00Z
+    webUrl: "https://www.ftadviser.com/investments/2022/07/13/ai-in-healthcare-offers-myriad-of-investment-opportunities/"
+    type: article
+    provider:
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F8%2F0%2F9%2F2929086-5-eng-GB%2Fpexels-alex-knight-2599244.jpg%3Fv1?source=ftadviser"
+        width: 4896
+        height: 3264
         isCached: true
   - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
     excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."

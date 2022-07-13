@@ -8,8 +8,8 @@ webUrl: "https://www.india.com/news/world/australias-sydney-to-use-ai-technology
 ampWebUrl: "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/"
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.india.com/wp-content/uploads/2022/07/Collage-Maker-13-Jul-2022-12.44-PM.jpg"
@@ -36,6 +37,6 @@ related:
       domain: financialstandard.com.au
     quality: 4
 
-secured: "R7G+WTiy1pbv2WAijoQ7/t6njeWvCb9IKQTKNZ3viQhsUUzW9M0wP+AzHL0oMLavAOx/O9T4FhWzmRlIaGz7BzxtD7mCQa3sjcP2CDMYDJaYuiJMVDI/uwSfEW/AijXLXip+AmSDZW6KlNlKR2L+D+gblZl/r8SqTowgwjoajNP+kej5jyX96lD/2/He9JSp6iHAK70D63w26EedsogqIsET/hI7/3XO2wCc72nZxhmYjaLUOsYltn+WuGE0XN0UpyNUPYDuQK/hXtGQNjV/8c7tRuxvcRoS0C9MVpjsIzJwIshWNdoDakZhewtbVHEjK9JSBEsCd47OS0hCeD74Rbi7+r77KdN5DNg6uTpQfrM=;PW1pXVfDAUFmkxUE75s1zA=="
+secured: "U6WB8ZGZ/cSrG152XhbUKo8ZqW0wOScd+/WA4ADXhEh06eS2OyWpZAf87A35vkSdZ03d05kf40Wfgijj6fNbC29afGc62eb+d93VPfZL0vihDsAb1AEmAuEOX8nqie04NoiX+T/eavzy05kk8AG2gasTWmCdBELVXvRyuIaiHna/QBVRcMfu4n8KOFhSmPbpZ2up8PESPJGCccWj21/uKYVSGmDW3Uksww2EsmOhr3FWzXa3/rTTOhs8sP7Pk5TEKG4McZzg4vm77CfyVfTOXSJkB7hTA23KFCCnjSuqNbdXhqNeKJv/iuK9Z8ko01Cs76iML6H4a87VTOAoqITN/Csh7hbdYroi27BJlTR1jDa+QIYIMo5ONg8PxGZozwXMP7W9ad2BjF32obuiVLdNc5rGZoRwe7Cekp13YGV4lvm9P3E5TYfvennwyfvQJG1K7YZEdBxLxuQT+HmTEEknwYIQqN5U9AUxkCfUwLghKe1HMCbM6bzqCicT7yG8ZGpqfFuvZoYnBI1f2PI3dh4phQ==;bSQnN06NOy6iFNdq39EEBA=="
 ---
 

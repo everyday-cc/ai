@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656952.jpg"
         width: 923
         height: 519
+        isCached: true
+  - title: "New AI tools let you chat with your dead relatives"
+    excerpt: "New products that let people keep relatives \"alive\" via AI are proliferating — offering, say, an interactive conversation with a recently departed dad who took the time to record a video interview before he passed."
+    publishedDateTime: 2022-07-13T09:30:00Z
+    webUrl: "https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/KU-CB1TD-lo7uyFlk9xBQleN6oI=/1366x768/smart/2022/07/12/1657650580838.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Bowdoin College to offer class on ethics of AI in everyday life"
     excerpt: "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development."

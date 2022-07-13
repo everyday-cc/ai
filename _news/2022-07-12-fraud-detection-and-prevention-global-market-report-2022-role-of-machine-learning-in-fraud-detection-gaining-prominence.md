@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
-    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
-    publishedDateTime: 2022-07-12T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Robotic Software Platforms Market Report 2022: Open Source Robotics Solutions Present Opportunities"
     excerpt: "Global Market Trajectory & Analytics' report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms"
     publishedDateTime: 2022-07-11T13:30:00Z
@@ -49,20 +35,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
-  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-12T00:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 5
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
   - title: "Self-driving cars only a fraction of projected $1-trillion global autonomous technology market"
     excerpt: "The global market for terrestrial autonomous mobile systems alone is projected to climb to an estimated $802 billion by 2025-26. When adding aerial, marine, and defense autonomous systems, that number can easily reach $1 trillion."
     publishedDateTime: 2022-07-10T05:00:00Z

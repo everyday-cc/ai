@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "India Must Be Ready To Face Upheaval Due To AI, One Nation Shouldn't Dominate Tech: Defence Minister"
+    excerpt: "He stressed that AI technology should not be dominated by a country or a group, as has been the case with nuclear technology, and India needs to make advancements in the field"
+    publishedDateTime: 2022-07-11T11:48:00Z
+    webUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404"
+    ampWebUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 44
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "India must be ready to face upheaval due to AI: Defence Minister"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-defence-minister/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/07/page5-4-6.jpg"
+        width: 800
+        height: 414
+        isCached: true
   - title: "FINOM Selects Resistant AI's Transaction Forensics to Strengthen its Money Laundering Defences"
     excerpt: "The Pan-European B2B Fintech Platform Can Now Prioritise In-house Alerts More Effectively While Adding Advanced Anomaly Detection Resistant AI, the AI and machine learning financial crime prevention specialists, today announced that FINOM, the Netherlands ..."
     publishedDateTime: 2022-07-12T07:35:00Z

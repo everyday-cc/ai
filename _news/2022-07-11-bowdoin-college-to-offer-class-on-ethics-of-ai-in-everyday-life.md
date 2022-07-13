@@ -49,6 +49,20 @@ related:
         width: 923
         height: 519
         isCached: true
+  - title: "New AI tools let you chat with your dead relatives"
+    excerpt: "New products that let people keep relatives \"alive\" via AI are proliferating — offering, say, an interactive conversation with a recently departed dad who took the time to record a video interview before he passed."
+    publishedDateTime: 2022-07-13T09:30:00Z
+    webUrl: "https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/KU-CB1TD-lo7uyFlk9xBQleN6oI=/1366x768/smart/2022/07/12/1657650580838.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "Bo7H1nGW/TZJUEhXqTyLunEWXsx8bk4jz27xKMYcXEY4Ab9U6reTHuG10z/r5DHJvWrV4wC8eXFshsncih4QlOwBPG2rL2KAXWmo2//AcKIXMMbFJTfzGT/K92kqb7pimkfUvl/CAAM65AcjI5LC+dFzZj9XZ7kpMqMr8Ghm1KIt/snC6TvGW2N++JCZh9A3opuLEe4+K3Yh9KLuqGSST2p3eXpCr7OYhomEK5KHnbGUN1tUk2ciQZxbklV7ruHKpdcupbApNex34jtZmUA8pCZx7/quwUY+sOb1nB8L58F0RLt+tgYmkoBWW7WRE3cQ2G9kJgR7jPORpYbz4KvNMl2mMSG2Tzd3xEIsDxHjyKg=;KO/O6yt9LHLxOIJuRHr2KA=="
 ---
