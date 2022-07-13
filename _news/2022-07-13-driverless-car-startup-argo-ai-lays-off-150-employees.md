@@ -33,20 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Ford, VW-backed startup Argo AI bids goodbye to 150 employees"
-    excerpt: "As recession fears grow, the US-based autonomous vehicle technology startup Agro AI, backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce."
-    publishedDateTime: 2022-07-08T09:16:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=977012"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/epi41_thumb.jpg"
-        width: 640
-        height: 511
-        isCached: true
   - title: "Ford-backed self-driving startup Argo AI lays off 150"
     excerpt: "Argo confirmed the layoffs from a global workforce that has grown to more than 2,000. “With incredible growth and progress made in our mission to deploy driverless vehicles, we are making prudent adjustments to our business plan to best continue on a path for success,"
     publishedDateTime: 2022-07-08T14:35:00Z

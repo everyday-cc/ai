@@ -70,6 +70,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
+    excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
+    publishedDateTime: 2022-07-11T16:11:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/Scientists-create-AI-think-like-baby.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 23
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/11/17/60139263-0-image-a-2_1657555440540.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "8SkZAWc0vb37vxXxZPIwE6tpQ1PoXLuMPDcw5EK1sqygbmXg+daI2zFhq694OdS8Z3kLw+F3tOkySlP65AUgSW1xtB+tdsjH0Ilrwxy7ALXaVxtAw8BmC3dR/PiU5NDbT3N5MNtArQ8LMtW/xGXdQdt9jMaBShHrTeCP7aoc0AXEKm9XB1I/MWk739rJTgwF/FOiQ8GZyFYe53C4mgSdHACT4ea9xM0Brltl1rtrt5cPJXUUp7HLD+YICvKYLpQMlwFbAzflUxaf8F4aq7EixoOEcNyn9EQWsF7iaOuG0Ms0guNyk21zalmnsnnqDXQC4IamVGsSstTJqT0/hEJLEBCnBDcU64Z/wGIAzH3c6vUuA7bGWGppKqaiXi167/GMdAoCV+iLq4NgYqphMa1d78v3ifJVdWArrwgiDbhXvjbSt93omCajSgEH0p0H+666CmG2Cw0Bos+Wff3KPN4UjnPZ0tnU5crJIZ9y9Y/foYfLDMZVMOEU1i3qbvnRP6FSyTeM90haeqdmA7HXpgKmvQ==;kw7z0i74A9rRtpXNpWqCCQ=="
 ---

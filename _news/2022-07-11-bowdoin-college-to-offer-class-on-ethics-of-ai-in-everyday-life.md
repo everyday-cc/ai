@@ -35,6 +35,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "US college to offer class on ethics of AI in everyday life"
+    excerpt: "Ethical issues around movie recommendations provided by Netflix and virtual backgrounds offered on Zoom are among the topics that students at Bowdoin College will tackle in a new class on artificial intelligence set to be offered in the fall of 2023."
+    publishedDateTime: 2022-07-13T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/13/us-college-to-offer-class-on-ethics-of-ai-in-everyday-life"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656952.jpg"
+        width: 923
+        height: 519
+        isCached: true
 
 secured: "Bo7H1nGW/TZJUEhXqTyLunEWXsx8bk4jz27xKMYcXEY4Ab9U6reTHuG10z/r5DHJvWrV4wC8eXFshsncih4QlOwBPG2rL2KAXWmo2//AcKIXMMbFJTfzGT/K92kqb7pimkfUvl/CAAM65AcjI5LC+dFzZj9XZ7kpMqMr8Ghm1KIt/snC6TvGW2N++JCZh9A3opuLEe4+K3Yh9KLuqGSST2p3eXpCr7OYhomEK5KHnbGUN1tUk2ciQZxbklV7ruHKpdcupbApNex34jtZmUA8pCZx7/quwUY+sOb1nB8L58F0RLt+tgYmkoBWW7WRE3cQ2G9kJgR7jPORpYbz4KvNMl2mMSG2Tzd3xEIsDxHjyKg=;KO/O6yt9LHLxOIJuRHr2KA=="
 ---

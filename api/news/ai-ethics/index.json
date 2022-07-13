@@ -231,15 +231,15 @@
       "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
       "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://godanriver.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_383bb4f8-0848-5918-b241-3d9a406ffb9e.html",
-      "originalUrl": "https://godanriver.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_383bb4f8-0848-5918-b241-3d9a406ffb9e.html",
+      "webUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
+      "originalUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/3/83/383bb4f8-0848-5918-b241-3d9a406ffb9e/62bef01ed92af.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/0/70/0709ec93-4cc8-55f7-9dfd-f7de18900ea4/62bef082dbd2d.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
           "width": 1196,
           "height": 628,
           "title": null,
@@ -254,8 +254,8 @@
       "publishedDateTime": "2022-07-06T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GoDanRiver.com",
-        "domain": "godanriver.com",
+        "name": "The Eagle",
+        "domain": "theeagle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -272,17 +272,17 @@
     {
       "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
       "title": "Richard Kyte: The real ethical problem with artificial intelligence",
-      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
+      "excerpt": "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it.",
       "sourceUrl": null,
-      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
+      "webUrl": "https://nonpareilonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9f4a7255-e7ed-5770-903a-75876eaa568f.html",
+      "originalUrl": "https://nonpareilonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_9f4a7255-e7ed-5770-903a-75876eaa568f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/nonpareilonline.com/content/tncms/assets/v3/editorial/9/f4/9f4a7255-e7ed-5770-903a-75876eaa568f/62c454ee3489f.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
           "width": 749,
           "height": 393,
           "title": null,
@@ -297,8 +297,8 @@
       "publishedDateTime": "2022-07-06T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fredericksburg.com",
-        "domain": "fredericksburg.com",
+        "name": "Daily Nonpareil",
+        "domain": "nonpareilonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -308,7 +308,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI",
         "AI Ethics"
       ]

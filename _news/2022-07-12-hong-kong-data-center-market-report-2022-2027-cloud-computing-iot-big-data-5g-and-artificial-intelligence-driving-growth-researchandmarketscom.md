@@ -18,21 +18,65 @@ topics:
   - AI
 
 related:
-  - title: "Global control room market growing as AI and machine learning enhance solution offerings"
-    excerpt: "The control room market “shrugged off” pandemic-induced project delays in 2021, as a new Omdia report reveals market growth at 9.6%."
-    publishedDateTime: 2022-07-08T10:00:00Z
-    webUrl: "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/"
-    ampWebUrl: "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/"
-    cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/"
+  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
+    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
+    publishedDateTime: 2022-07-12T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
     type: article
     provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 65
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/05/control-room-surveillance-military-1-e1558449260284-300x214.jpeg"
-        width: 300
-        height: 214
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-07-11T06:23:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-covid-impact-trends-analysis-report-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 11
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
+    publishedDateTime: 2022-07-11T20:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2022-07-12T00:13:00Z
+    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 5
+    images:
+      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
+        width: 301
+        height: 251
+        isCached: true
+  - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
+    publishedDateTime: 2022-07-11T09:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "b8VHB+i30sbyLVnRgdpH08CRZoJHsPj9HocFVXCGhoz0vZYTeker24nvjvpoULbXjKULxnT/3FVi2fQhWxv6d/9AXW4tNH0gERuf1nw5hTadSyfiWXLmAr8GtgaUM+RX9A3MuThgxw5PkkUvYW2x9bOKu8NZrcm7phYFRMeTHcM1eJO4mRTnJxIvKg0C/CeRtLe3YyL073vewfzPCPiX9457jPmlzO+wgpnENbeQgsZ1+FGXzN9rNaSo5joG8PMyelTllKAWuUSID8FBpMaNTKIXbDtn0cK1AG7tchoA4t3zUYYv1lX7IOmeRVOSCVLOoilgcon1cXxSI9o4l5y/g2bwhFa9UveaV5seTtxR2pY=;b9GYSt8ZxynAiIaYI+GRDg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-sy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657550545/220711-Bender-AI-baby-teasetease_mal845"
         width: 1480
         height: 833
+        isCached: true
+  - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
+    excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
+    publishedDateTime: 2022-07-11T16:11:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/Scientists-create-AI-think-like-baby.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 23
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/11/17/60139263-0-image-a-2_1657555440540.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "Snc6czjNmm+qlDMQch0De6Xo6+wiqXG6angC8btzMKmNf0P+hFX05ldjqlrUBfHCN2TkgG5fDRtQ+2xquitPxc3utT+a5IK3DLTNBkYKZKQcOcF/CI+Z6NPb5gaJavz5EfKlgvCSGZyzha4kgU2HMJQUXLPTh4B+gUfi2R7iNKizKs9NpBMV7PlIs6N0vzhgx3YflL7xsjlOmvxkwB5e30rUGJG7CfmOMw2pu+9gnOEoqW5q08RoW+CjryB/eFY+ApVO7W0I3AXqmyTSo3xiaMldmUfM6zoVeUjEaBsZaIOoBGOXAxEX+LLQDUkrKo4aw3m/La8jLBiB2OuymaBEv7xGzomvA+a45hOmuPmf4YOmA0cfUJW80LsmfHirFPWXck+hlAk+hAECvSFSpC6AVipmzL6DwQoBr1e6mn/J7BMs+VF0E0vXryFPIJlU5Ayp8g8N678gAVLUHVQ9GsgUj7HxYUDNr9ndykL/JPkOFtKmjK8gzVQX5STZkx80gPlZ4vPX4oYIN29u8ddk4d8LYA==;jGgCOqp+yIWV+x7C8h0amQ=="

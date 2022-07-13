@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Telegraph
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "US college to offer class on ethics of AI in everyday life"
+    excerpt: "Ethical issues around movie recommendations provided by Netflix and virtual backgrounds offered on Zoom are among the topics that students at Bowdoin College will tackle in a new class on artificial intelligence set to be offered in the fall of 2023."
+    publishedDateTime: 2022-07-13T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/13/us-college-to-offer-class-on-ethics-of-ai-in-everyday-life"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656952.jpg"
+        width: 923
+        height: 519
+        isCached: true
   - title: "Bowdoin College to offer class on ethics of AI in everyday life"
     excerpt: "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development."
     publishedDateTime: 2022-07-11T08:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
+    publishedDateTime: 2022-07-12T11:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "ns6TqNaUWj/c2WBhSfzM5MWU1Co05R7/EhGc4ZhWl9zaFfgGuE88i9jDsWSTPjCzlTPJWFROW4AT4wF29y9niRkPQoZYvne/vzCBr+cD5kgz9HGmMBpIOS4EBSfNcOpLFyToRkILiILik7S3DHWQuC0jojAhnxEwwg/AwRiXxBRSRxaQcpdesLyHPbA14khIr7jyzWnxJXH+Ls/4TygcwV82zwVOldzF+N4eSaRgo5HXx+YVSanYuGpY1XkjnGC2K5jj1g+xaQpobvTaW3RhUwX/Ow/9XswUQubeRgxo/d3rVKoIYRQcUF3QBKWp2E9WF+RV7/oQjAlTQw0ZuX6HvlcaBsdAY+rPl06ydXiVrSs=;dn9HhdIqfhuwbgYk+h1RsA=="
 ---

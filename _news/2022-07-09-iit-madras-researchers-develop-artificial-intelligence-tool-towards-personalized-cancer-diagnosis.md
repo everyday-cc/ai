@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/iit-madras-researchers-develop-artifi
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-madras-researchers-develop-artificial-intelligence-tool-towards-personalized-cancer-diagnosis/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 534
     height: 462
     isCached: true
-
-related:
-  - title: "IIT Madras develops Artificial Intelligence Tool 'PIVOT' for Personalized Cancer Diagnosis"
-    excerpt: "IIT Madras develops indigenous motorised wheelchair vehicle NeoBolt. Cancer is an uncontrolled growth of cells that can occur due to mutations in oncogenes or tum"
-    publishedDateTime: 2022-07-08T10:45:00Z
-    webUrl: "https://medicaldialogues.in/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
-    ampWebUrl: "https://medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/state-news/tamil-nadu/iit-madras-develops-artificial-intelligence-tool-pivot-for-personalized-cancer-diagnosis-95680"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 49
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2022/07/08/180298-iit-madras-2.jpg"
-        width: 1500
-        height: 960
-        isCached: true
 
 secured: "jYlhku1ru+OoGGH6WVRBbOmFYExlesSUXrUv/MyLWiMe4vMrzmaljpsd1wIPnvCEZqxBxsJyCmyOWPkb05x8tHJcCo8hBUtKeBPLR9pMapznQA9YfgqZgTAnXxnSxVB329Y0xjNhHwJ7x/F1Rp0C/voAOKHPaMHYNdneY9ejaJI93mbxpL+wR6B9IgE1rCKtw7kw+n+Acgc+MCQuRwE3WJJDdA7C6q5AOVwKg+fDrRErHwqZM6r2QhkXSDO/ukWcxk2a76F9hBesW++/az+IMGdRQgGBDtU2VXABvytCm9X0G1QapUFJ4U6F4Qt85cI4Q/iJ5hNetUsoei9t5Cp9k1Nz1K9Gh/NcLsMbms6sY4w=;TV594DoUVeWVDfvfwFpH5g=="
 ---

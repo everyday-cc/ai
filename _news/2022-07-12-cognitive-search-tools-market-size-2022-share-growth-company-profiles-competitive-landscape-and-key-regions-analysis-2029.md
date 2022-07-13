@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
+    excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
+    publishedDateTime: 2022-07-12T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-remote-patient-monitoring-market-2022-industry-size-key-vendors-growth-drivers-opportunity-forecast-to-2028-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-balancing Scooter Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
     excerpt: "The global Self-balancing Scooter market is segmented by Types (Two-wheeled Self-balancing Scooter, Unicycle Self-balancing Scooter) and b"
     publishedDateTime: 2022-07-12T02:30:00Z

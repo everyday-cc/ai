@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-11T15:18:00Z
 originalUrl: "https://www.biometricupdate.com/202207/chinese-researchers-create-new-face-biometrics-training-model-for-expression-recognition"
 webUrl: "https://www.biometricupdate.com/202207/chinese-researchers-create-new-face-biometrics-training-model-for-expression-recognition"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"

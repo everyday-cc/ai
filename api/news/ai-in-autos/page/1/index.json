@@ -105,7 +105,7 @@
       "originalUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -178,6 +178,49 @@
       "provider": {
         "name": "Northwest Asian Weekly",
         "domain": "nwasianweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-baidu-teases-progress-of-its-ai-and-self-driving-tech.md",
+      "title": "Baidu teases progress of its AI and self-driving tech",
+      "excerpt": "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's metaverse space Xirang.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10",
+      "originalUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220707vl201_files/2_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -876,6 +919,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "This is a carousel. Use Next and Previous buttons to navigate BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetelegraph.com/news/article/China-s-Baidu-races-Waymo-GM-to-develop-17272944.php",
+      "originalUrl": "https://www.thetelegraph.com/news/article/China-s-Baidu-races-Waymo-GM-to-develop-17272944.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/31/34/22648588/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "thetelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-global-automotive-ai-market-2022-updated.md",
       "title": "Global Automotive AI Market 2022 updated",
       "excerpt": "AI may be seen working its magic through robots assembling the first nuts and bolts of an automobile or in a driverless automobile that uses artificial intelligence and sensing to safely navigate ...",
@@ -906,49 +992,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars",
-      "excerpt": "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1279,49 +1322,6 @@
       "provider": {
         "name": "InvestorPlace",
         "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism.md",
-      "title": "Tesla’s ‘Enhanced Autopilot’ Back Again After Full-Self Driving Criticism",
-      "excerpt": "Tesla brought back Enhanced Autopilot after a three-year hiatus, and its $6,000 price tag has some owners questioning the value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
-      "originalUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thedrive.com/uploads/2022/06/24/20220624-Tesla-Model-Y-Driving.jpg?auto=webp",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
         "images": null,
         "publishers": null,
         "authors": null

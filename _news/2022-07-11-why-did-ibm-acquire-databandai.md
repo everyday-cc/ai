@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
 webUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM acquires Israel-based data software firm in fifth deal this year"
-    excerpt: "IBM continues its aggressive acquisition strategy under Chair and CEO Arvind Krishna, acquiring an Israel-based data firm that utilizes artificial intelligence to \"fix issues\" with data such as errors and other problems."
-    publishedDateTime: 2022-07-08T10:50:00Z
-    webUrl: "https://wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/"
-    ampWebUrl: "https://wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 44
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "IBM To Acquire Databand.ai"
     excerpt: "IBM (NYSE: IBM) is to acquire Databand.ai, a Tel Aviv, Israel-based provider of data observability software that helps organizations fix issues with their data"
     publishedDateTime: 2022-07-11T08:17:00Z

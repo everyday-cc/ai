@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 16
-  - title: "Artificial Intelligence will predict your chances of having a fatal cardiac arrest in the future"
-    excerpt: "Would you trust an artificial intelligence algorithm to predict if – and when – you could die of cardiac arrest?"
-    publishedDateTime: 2022-07-08T09:30:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/news/victoria/artificial-intelligence-will-predict-your-chances-of-having-a-fatal-cardiac-arrest-in-the-future/news-story/0d281d9430b60abbca4a7e5af663b974"
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 6
   - title: "Artificial Intelligence will predict your chances of having a fatal cardiac arrest in the future"
     excerpt: "Professor Graeme Clark. It’s a challenge Clark is familiar with, and whether it’s the cochlear implant or AI, he said the same principles applied: good research, ethics and communication. “It’s very important to make sure that it’s done ethically ..."
     publishedDateTime: 2022-07-08T21:03:00Z

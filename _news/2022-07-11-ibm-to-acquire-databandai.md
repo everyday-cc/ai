@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM acquires Israel-based data software firm in fifth deal this year"
-    excerpt: "IBM continues its aggressive acquisition strategy under Chair and CEO Arvind Krishna, acquiring an Israel-based data firm that utilizes artificial intelligence to \"fix issues\" with data such as errors and other problems."
-    publishedDateTime: 2022-07-08T10:50:00Z
-    webUrl: "https://wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/"
-    ampWebUrl: "https://wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/08/ibm-acquires-israel-based-data-software-firm-in-fifth-deal-this-year/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 44
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "Why did IBM acquire Databand.ai?"
     excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."
     publishedDateTime: 2022-07-11T08:30:00Z

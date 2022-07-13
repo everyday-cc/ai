@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Woods has big voice, just not as much visibility"
+    excerpt: "Woods left little room for interpretation Tuesday when the 15-time major champion hammered away at Greg Norman's new Saudi-funded LIV Golf series as not being in golf's best interests. He said players who couldn't resist the money — some received more than Woods has earned in his entire PGA Tour career — had “turned their back” on the very tour that made them famous."
+    publishedDateTime: 2022-07-12T16:00:00Z
+    webUrl: "https://www.messenger-inquirer.com/sports/woods-has-big-voice-just-not-as-much-visibility/article_e69f9537-5d25-5317-b48a-0c0cfde75192.html"
+    type: article
+    provider:
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/c52fb608-0a01-11e5-9c50-bbf37a41334d.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tiger Woods still has big voice, just not as much visibility"
     excerpt: "US golfer Tiger Woods speaks during a press conference at the British Open golf championship in St Andrews, Scotland, Tuesday,  ST. ANDREWS, Scotland — Tiger Woods has a voice that can be as a big as his golf game."
     publishedDateTime: 2022-07-12T17:39:00Z

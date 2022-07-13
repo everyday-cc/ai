@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Baidu teases progress of its AI and self-driving tech"
-excerpt: "Autonomous driving Baidu was one of the tech companies that received permits from Beijing to test-run commercial self-driving robotaxi services in limited districts. Yuan said its autonomous ..."
-publishedDateTime: 2022-07-07T16:27:00Z
-originalUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10"
-webUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10"
+excerpt: "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's metaverse space Xirang."
+publishedDateTime: 2022-07-07T08:27:00Z
+originalUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: Digi Times
@@ -24,36 +21,6 @@ images:
     height: 427
     isCached: true
 
-related:
-  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner"
-    publishedDateTime: 2022-07-07T16:43:00Z
-    webUrl: "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-    type: article
-    provider:
-      name: Northwest Asian Weekly
-      domain: nwasianweekly.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/nwasianweekly.com/wp-content/uploads/2017/03/cropped-logoicon.jpg?fit=512%2C512&#038;ssl=1"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Baidu's self-driving taxis now a common sight in Beijing"
-    excerpt: "BEIJING -- Driverless taxis operated by artificial intelligence are becoming a common sight in China's capital, with such cabs operated by Chinese tech group Baidu transporting nearly as many ..."
-    publishedDateTime: 2022-07-10T06:57:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-taxis-now-a-common-sight-in-Beijing"
-    type: article
-    provider:
-      name: ニッケイ・エイジア
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F3%252F9%252F4%252F41204930-1-eng-GB%252Fphoto_SXM2022061300001926.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-
-secured: "Elin+MoOU+2b3SeNi6sWvAUCh4Vqxyn3BAn3t0PKdOh1/Zavpkk1GiuxcpiuJ0n+jIZmscBMbJ0GUWfXqT6e8ueeS9Z5P1Ezgsa2e6rdix3lepabu30qakxtev7dqpIf3i9WzaQdLV5HqbwjQEzNksHvZZOc9m66djP9qOAatPXgfCP6fJy4vQVAGePSsVQsGl6/7wTBtO8RD/JQTc/Ikt76SNN3Ay4dDvbOy2q+OmrwRzKBcCf9oVe7Xd4cXTmHvlQSNI/0zarO867zDsM1P8zPCx2PkhDIxxajEOL7Jw/NL2Hxl3NqssMdOkPJIATSn5ei4X+tfwaHeF+dvnnya1u10RyEeIpLmHiMYEfAVfs=;1HeMpgJup5QTFu1qJad07A=="
+secured: "1f9kgLDumtm90lc20/qUM1lsf1ClY5PWV1yOvstoi8F2ZwuCByj9bLce3A4U+nAtWvjSWD46sWjdjirE3iS217QBMU3nlJXgaoNhf2xCv51/BOyPhhf4qcA1XSKWDdneadRXCe8R5JW90kpMfoWJcFYrQKprLrbpOnZBHx3L6WoVa8NyfW1qQrcD6kK/F9/w7IEPQFpya45ZvtpuIpisFmJBPkpPW6TmcFkVaORrf0rfBGlTtWLKWAijztzXJ9DVrLAy8gSxx//fd0j6gGiYsjKws0VeNjaSNSQU94Z9lMx4W1ppWjN8lDKq3+QDnUYMb/uRilq0GGDaguoRqZFZY96Z2Chajh/FCsIacGB07YI=;eSCd+8g7OVNh27XlxlSfOQ=="
 ---
 

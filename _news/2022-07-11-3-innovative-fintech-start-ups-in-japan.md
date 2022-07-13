@@ -66,20 +66,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The best paying UK jobs in fintech"
-    excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
-    publishedDateTime: 2022-07-08T09:23:00Z
-    webUrl: "https://www.finextra.com/the-long-read/444/the-best-paying-uk-jobs-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/444.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Fintech firm unveils Melbourne office"
     excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
     publishedDateTime: 2022-07-11T16:15:00Z

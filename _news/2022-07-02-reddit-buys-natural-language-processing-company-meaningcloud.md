@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Reddit buys natural language processing company MeaningCloud"
-excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p.."
-publishedDateTime: 2022-07-02T09:06:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+title: "Reddit Buys Natural Language Processing Company Meaningcloud"
+excerpt: "Popular online discussion forum Reddit has announced that it is acquiring MeaningCloud, a natural language processing (NL"
+publishedDateTime: 2022-07-02T07:28:00Z
+originalUrl: "https://menafn.com/1104467086/Reddit-Buys-Natural-Language-Processing-Company-Meaningcloud"
+webUrl: "https://menafn.com/1104467086/Reddit-Buys-Natural-Language-Processing-Company-Meaningcloud"
 type: article
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "7Ll3HOHrKk6hTzW1eDCq5NcIlsVaTP8y9RTXK71UOeXKOda7dtqM2l8zOhy6Pj/C+aLF2ZuwFuTtak5V/bdmiAr3H9gJKvsEIki6NSsonPEYBi06726ZhndaboRGda+BQxBzXEoeZ3GbpaFzykpe22IrOXiSwNTkRqoShUxdudGhZkQulLv8RkNcq1DhkOcAHH/nMtk4vC9UiscXqaujjRr99eFbynG7SVUCuG1iz1Txdw7IHeYapUeHCIWa8yJb0QQtMR8mXDILC35xIAeczoh6vTkMTPL286Dheb9odawp93BbsoWaynmOG9POolrhOQ8ClHDnf+XEwJenq6t4njea3J0Sfuew1UuIzZreIFP41dRN0EYUa3g51MicPOO+ncgrqYG0vvK75NFkD4/PFED7jtH0akOQ07A1CdZ+QlofvZFHXCahVBg2vv3ncSRpLWAKhxx2DNPRqt97Mbc2jLq6nioDV06kXSwofeTQuLAB96vue+qNX1ZtCsnawMV5HhDlMT44UmotYfjUir8Qxw==;a/40fkyhnmwqBdroYa/ftg=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-07/02/I_54a81image_story.jpg"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "8QdkjpHPEUAHnhR1regQ5D+KHqMTT1vM/l+4y4ILGBp3sv+f55Q/xruyXFJf7g+WEP1321RowunmvXnsXX6V8xkhpA1wr7/M0GCHYa9Tvt28JgMKloNYoxM7k+UnZJBWfjmHWu49gC/YXJXkPsRs8KCIrmPTsFQ8xJGs9vtjEUpQnSCS0L4S41K6Ylx8i5oVYsgKf1OHkttiEIS4ZStazFeB3PVZ640rM8oQdXHsAmm99zxC0BlmiuH55kNwKpDiLjV0u1lZYw+J7V1MHFmgtQFaOOYa+pai7oL6MhSmHbkzWFktmTriqTW4EVnUpKU8S8FyE4Un2a7wo9aBpIv41oc8YTXeqXET7EfuAO9tTv4=;EYbb92JVQcQLx4+eEKmbow=="
 ---
 

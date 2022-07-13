@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Researchers trained an AI model to ‘think’ like a baby, and it suddenly excelled"
-excerpt: "Infants approach the physical world with some ‘principled expectations’ about how it works. What happens when an AI system is programmed this way?"
-publishedDateTime: 2022-07-11T20:03:00Z
-originalUrl: "https://theconversation.com/researchers-trained-an-ai-model-to-think-like-a-baby-and-it-suddenly-excelled-186563"
-webUrl: "https://theconversation.com/researchers-trained-an-ai-model-to-think-like-a-baby-and-it-suddenly-excelled-186563"
-ampWebUrl: "https://theconversation.com/amp/researchers-trained-an-ai-model-to-think-like-a-baby-and-it-suddenly-excelled-186563"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/researchers-trained-an-ai-model-to-think-like-a-baby-and-it-suddenly-excelled-186563"
+title: "Researchers trained an AI model to 'think' like a baby, and it suddenly excelled"
+excerpt: "In a world rife with opposing views, let's draw attention to something we can all agree on: If I show you my pen, and then hide it behind my back, my pen still exists—even though you can't see it anymore."
+publishedDateTime: 2022-07-12T13:28:00Z
+originalUrl: "https://techxplore.com/news/2022-07-ai-baby-suddenly-excelled.html"
+webUrl: "https://techxplore.com/news/2022-07-ai-baby-suddenly-excelled.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-ai-baby-suddenly-excelled.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-baby-suddenly-excelled.amp"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/473293/original/file-20220711-18-aqjpg2.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-trained-an.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "GeGGHrv1nCcFKcvZVkt7mcdcmmj1vXTtBurb8RIA7hMWDsCQbA4v0ULGSvMbat3IfPJviNwnHu4NR0J5P21/UI8m1574TKoZDNzvQTy05D2muHL+6XxX9wXQYK4ojSRyAN+sqyO3CjnqiekVryfcS/54S0l2Y84X755goGLN5ojadrO81KXg4lScT27bdEO1ALorubxlzD//oLjn3SIPhvJiA6SS1QNcDbRBBRtBs8+TRscfATIoaQQs0Y0EupGw/eYOuEMgPmQ3oz/7H7mhbfLGpXeUncatEHbEmbTcrUBfA/jXEI98fPbfzWAJCvyp1Gf1WUpLNbcE8goLtcgiEtzFko2xML4rWAMQ/F6fxjE=;TCwXE2YMcB3cJQm1isVvqQ=="
+secured: "OrgZ4PikT63fbwYuDf+YHkx7M+jL/IgULQqJfPgPiuaKS7LHHrvt+vHmNkpjdEihPLo4khhFgu6BEO3ltudOGzK1QK+GCOC2OFiiwbzg/wR30oRQAqUbw4Wzm44VzpRuBiSLX2xykyrlJIW438i6N3cDfz9mSIL5dQz4ipym5W2CvQtWUcKuQHfueDgYhWq73+wBO5668R4aBhJZJ/CLhAQeALVr8Efo9oJqp71gWQelelakZcQHSLlziyMzKd7i4Obj0RDShaWFEh5Huo6IhAyt8Tu6+TPuRqoCbiu2VFPM2ODjmH+zCmnlA8DcJPxc0pZyqPhZBbH22zpkaRfB1sgMerLyhHiZ4UF6MieoSik=;kBlqSRehcHkaBtSkzs8jBQ=="
 ---
 

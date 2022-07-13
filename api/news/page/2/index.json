@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-11-that-everyday-ai-in-your-pocket.md",
+      "title": "That everyday AI in your pocket",
+      "excerpt": "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "originalUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Jul/1657492588_new-project-2022-07-11t040527-511.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "publishedDateTime": "2022-07-10T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-10-this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.md",
       "title": "This AI powered text-to-speech tool makes voiceovers sound true to life",
       "excerpt": "The problem is that they often make videos sound robotic and lifeless, which is never good. Wish there was a better option? Then check out Speechnow, an AI-powered tool that makes video voiceovers sound true to life.",
@@ -529,7 +572,7 @@
       "originalUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -581,7 +624,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -978,13 +1021,22 @@
       "title": "How artificial intelligence became financial advisors' favorite new tool",
       "excerpt": "By taking the manual labor out of data management and upkeep, experts can reach new clients and better serve their existing ones.",
       "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
-      "originalUrl": "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
+      "webUrl": "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
+      "originalUrl": "https://www.americanbanker.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/b8cc43f/2147483647/strip/true/crop/3600x1890+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5c%2F1c%2Fd9f029bb4a1e99690e76f8ad6a51%2Flead-image-for-invest-ai-story.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -992,8 +1044,8 @@
       "publishedDateTime": "2022-07-07T15:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
+        "name": "American Banker",
+        "domain": "americanbanker.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1089,49 +1141,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion.md",
-      "title": "KDD 2022 Announces Special Conference Tracks for Government, Health, Deep Learning, Diversity and Inclusion",
-      "excerpt": "KDD 2022, the premier interdisciplinary conference in data science, today announced special days dedicated to health, government, deep learning, and equity, diversity and inclusion (EDI). Taking place between Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/890716/KDD_Logo.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

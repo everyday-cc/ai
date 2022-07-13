@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
+    excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
+    publishedDateTime: 2022-07-12T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-remote-patient-monitoring-market-2022-industry-size-key-vendors-growth-drivers-opportunity-forecast-to-2028-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
     excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
     publishedDateTime: 2022-07-12T06:40:00Z

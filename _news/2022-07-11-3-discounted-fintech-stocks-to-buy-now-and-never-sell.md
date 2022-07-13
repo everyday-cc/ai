@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-n
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
 type: article
 quality: 54
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-348810,msid-92743202/gaurav.jpg"
         width: 600
-        height: 450
-        isCached: true
-  - title: "The best paying UK jobs in fintech"
-    excerpt: "Fintech is growing and the more it does, the more companies are seeking talent. In fintech, the culture can be fast-paced, and there is often more opportunity to be creative than in traditional finance organisations."
-    publishedDateTime: 2022-07-08T09:23:00Z
-    webUrl: "https://www.finextra.com/the-long-read/444/the-best-paying-uk-jobs-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/444.jpg"
-        width: 800
         height: 450
         isCached: true
   - title: "3 innovative FinTech start-ups in Japan"

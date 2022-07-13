@@ -123,15 +123,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Nokia partners with IISc to set up networked robotics Center of Excellence"
-    excerpt: "CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and AI"
-    publishedDateTime: 2022-07-08T10:19:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/science/nokia-partners-with-iisc-to-set-up-networked-robotics-center-of-excellence/article65615622.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 32
   - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
     excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
     publishedDateTime: 2022-07-09T19:07:00Z
