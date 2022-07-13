@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/blue_planet_studio_shutterstock.jpg?itok=vp9Js1ws"

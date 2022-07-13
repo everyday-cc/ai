@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1849080/image_1.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "ms7fKlY2cEHUQxO0J9d0vl/GgdKh4K/cxN3UaVUlR7ZAsgl0iGmWaLgiL0tbKtJiXFq3/vHvDpx3GTc6js4pSIDhpEwL+F4+xD0sgUoS/9M4A8rgmHUbIacoZ4WYgGn+pn6DVd9AlIAF9GVkFduy0R6zUR2KIif9Rqj3nH9UzrG0BCcIM/YL9SeatJfkdCjtXZ+FCq7lpE6jsArzxgx5S2T0YiwUzmWzW36+iJVBkqkxVFEx4GT83ZnhTGObYVZKm89ApXdVq4JQq6j1zfTTMvRlDE0/taMfRH9/ZyEsX2k7fM3PCqksAbbtaXODmN54H2tar+cMZlaMS+sC7sC4IVr/LuEp3aTXS78T8MRuqns=;zWx7QqcUp0x67+NdOA6SPw=="
+secured: "ZKzaM4z2QfHTuMfIfKf23sftT+QYMewSes69mIQ8r2OkLBZQhZpXwWnVxSYyNUFW20cNDm/uClZkTofaktCkvfQYyOZM9z3w1efHSOSSMnOXtqxTRwPz8F5AjT8E+9dMmlPgRnJ94rXdUJ2382yBCv0tt6fPccAGX4vLFzkZn6UsTSO+Fpa/8s+3b4/5SQtjEfCUjta4O8XtxpRr0qsMiHIL0hk7kQvbNYfd1r6EoRLGrA7/wDqFk98YXkRLtEKnhV30mU9Mlh5vhiQLYqQc/Mhk99waNBtnZyJO/BlfGHrgSlo9gDTNz2JxOEiG9ynVbtUw41/nI5LRyEFeSxnbeY5doRGM8jrQoXJBpv9O2xA=;2X65X40kIiEIdCpi0A259A=="
 ---
 

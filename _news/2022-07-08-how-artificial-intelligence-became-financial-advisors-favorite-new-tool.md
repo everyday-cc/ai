@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/b8cc43f/2147483647/strip/true/crop/3600x1890+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5c%2F1c%2Fd9f029bb4a1e99690e76f8ad6a51%2Flead-image-for-invest-ai-story.jpg"

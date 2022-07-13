@@ -1,26 +1,20 @@
 ---
 category: news
 title: "DDN Wins Artificial Intelligence Breakthrough Award for Third Consecutive Year"
-excerpt: "DDN®, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that it has received its third consecutive \" AI Hardware Innovation Award \" in the annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2022-06-30T14:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm"
+excerpt: "Prestigious Award Recognizes DDN AI and Machine Learning Solutions in Enterprise Digital Transformation, Business Analytics, Research, and Autonomous Driving. CHATSWORTH, Calif.,"
+publishedDateTime: 2022-06-30T13:28:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-data-management-artificial-intelligence-a3b56d852d9107c3480a8cf448c65044"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-data-management-artificial-intelligence-a3b56d852d9107c3480a8cf448c65044"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-    width: 283
-    height: 400
-    isCached: true
-
-secured: "0s9x8fdve5OitETb5T+/cyLFKu6Bv3UsTkpAJCjeog2Pkuc/et7GhOeGC7mhN7cUn0gs74Pj8YKTfbd3xL++HnkmvZCW/Qu1LWCeTZd1mWEKXHr0ogVi5x68ZeguKu1qmeTgTvQsFflrrcl/13+KlbesQNo50y/ByvmKdnEJQTugLnPZI3lPq8nvHLNYUsIx1E6UxFm+W7AD9CKbPfZ+ofbYLgY2AFhvcO++Hhkv5u/+gQyeMvMgQWjKCQZRQOqzT6im1R7A8xretiPJwadvweNIIKXYOrvt9MAmQOBb7M6+obx1pG7pAi7DDO4pIMskkdjpSH31ZnfCz30NBAOK7GQbGJ3vqYUVAbAKgeVUna5ZYfsi+jqOCfawKZiSG+JMoujksRallXkqUuZK/USnz4EIZzXEOx+mpOeL29hUuHPFV83Q6hbj+eTVx0aUaUyDD5GzD8FhvZOrC2crDiJcqKtZzZqxMLYyhdDX5xy7yokTJyxcUPjqQEPv69rdPTdG5KpDtv04WE0tEpnz7IicWg==;HY+dlWH/uGoqfl6wybMVJA=="
+secured: "/ArFjKICeDi55ep6L8GPgxWcXa4IlDlBrxAiIB3MSSi3UGbnhKQ0Ty8FgdaiP0jE+Z99XwURizHksD7krT296yPGQFMtcZb1g8sU585iJ2/jBY10d+j7pV8jHUwXEsn9Pb8faG02MdfTGrvFD3o0oN8gsVH5YZW0ZdFTRxny1RxyiIfA18AQuCSW7bhM4ZScTmTB7yKwlNTCwpYwmn4nF6GhopOON5bcfxbgbAY6jOyGvH+HO4JosopnZmE5DnVNJQ6DC5RkI/xfUaBUZjEeXfYeXbzGUI+faBrK92ahW3V5IYwEztjMXhLgcZ2P+GhZ90N0VjY+Pwvs/xsuTAsyc2A423yAlV0UdopqtOhbyb0=;rvRslW2o3MjL/yJsPkjp/A=="
 ---
 
