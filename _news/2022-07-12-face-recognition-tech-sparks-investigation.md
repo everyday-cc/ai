@@ -69,6 +69,22 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Bunnings and Kmart under investigation over information handling linked to facial recognition technology"
+    excerpt: "A report from consumer advocacy group CHOICE prompts the Office of the Australian Information Commissioner to investigate whether retail giants Kmart and Bunnings are breaching privacy laws with their use of facial recognition technology."
+    publishedDateTime: 2022-07-13T03:47:00Z
+    webUrl: "https://www.abc.net.au/news/2022-07-13/bunnings-kmart-investigated-over-facial-recognition-technology/101233372"
+    ampWebUrl: "https://amp.abc.net.au/article/101233372"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101233372"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 42
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
+        width: 621
+        height: 414
+        isCached: true
   - title: "Privacy probe of Bunnings, Kmart use of facial recognition technology"
     excerpt: "The federal Privacy Commissioner is investigating the personal information handling practices of Bunnings and Kmart, focusing on the companies’ use of facial recognition technology used to identify people who had previously been involved in “incidents ..."
     publishedDateTime: 2022-07-12T09:05:00Z
@@ -99,24 +115,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Introducing Facial Recognition Software for Seals"
-    excerpt: "A neural network, trained using thousands of photos of harbor seals, offers a noninvasive way of telling the pinnipeds apart"
-    publishedDateTime: 2022-07-08T12:00:00Z
-    webUrl: "https://www.smithsonianmag.com/science-nature/introducing-facial-recognition-software-for-seals-180980349/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 19
-  - title: "Three arrested in Live Facial Recognition operation in central London"
-    excerpt: "The deployment was clearly signposted and local neighbourhood officers engaged with the public to explain the technology and hand out leaflets"
-    publishedDateTime: 2022-07-08T12:12:00Z
-    webUrl: "https://news.met.police.uk/news/three-arrested-in-live-facial-recognition-operation-in-central-london-450931"
-    type: article
-    provider:
-      name: Metropolitan Police Service
-      domain: police.uk
-    quality: 19
   - title: "Cognitec celebrates 20 years as an influential face recognition company"
     excerpt: "Cognitec is proudly looking back at 20 successful years developing high-ranking face recognition technologies, and working with partners around the world on major government and commercial"
     publishedDateTime: 2022-07-12T13:59:00Z

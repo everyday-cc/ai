@@ -33,15 +33,6 @@ related:
         width: 415
         height: 539
         isCached: true
-  - title: "Confluence Health Leans on Infor AI to Better Care for its Communities"
-    excerpt: "Infor Healthcare applications improve productivity and patient care in less than 90 days NEW YORK , July 12, 2022 /PRNewswire/ -- Infor®, the industry cloud company, today announced that Confluence Health,"
-    publishedDateTime: 2022-07-12T13:52:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-20e7625f638be9132d080f36d3608755"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
 
 secured: "VZu0sl3n26jX9/xTfYZBLaCM6y/5RuYGfK6BNsNv64N7u/QT7MYDQwQar5JHHue6how7Xa72+Xm4ZpCYPBbssxGwZqDu4DHv5oJztQAnjwALDuA++39jiBLJRCJq8Tn9IkAoCo1JrFJVWCkz5u35xY96jsYXWqwT9YFA9DPIJ+gmm2+hcJdgf1ynUgjOrVm4JI5+bSSCrs8nV3XNoPkuwnvNqkKlW7Z5ufnHrLPOZU7XVC2u8n7/qn9AKrjyMIepM5ShzN0UzcBSctDU6yyodPetDipgQOJ/CGBKARnlryr0oivqCnWO0ildkkx4n3CZOqHPChkjaujnRAt+vVmiQ9w5qJX1It1GCDx+i1Z7RAo=;OCrfEtO2KW7oDsQcQkj6jQ=="
 ---

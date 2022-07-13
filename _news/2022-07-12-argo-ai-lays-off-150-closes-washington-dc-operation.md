@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washing
 webUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
-    excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
-    publishedDateTime: 2022-07-08T12:53:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/08/argo-ai-layoffs-recruiting-jobs-tech-industry.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Self-driving vehicle startup Argo AI cuts 150 jobs, slows hiring"
     excerpt: "Argo AI confirmed reports of recent layoffs at the company, joining part of a broader trend where an industry downturn is leading to workforce reductions across the tech industry."
     publishedDateTime: 2022-07-08T17:10:00Z

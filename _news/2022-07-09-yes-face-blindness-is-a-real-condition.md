@@ -44,15 +44,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 30
-  - title: "Brad Pitt Says He Suffers From Face Blindness—What Is Prosopagnosia?"
-    excerpt: "Brad Pitt believes he has undiagnosed prosopagnosia. The condition affects a person’s ability to recognize faces. Pitt said he has struggled with it for years, and that it has often made him come off as egotistical and smug in social situations."
-    publishedDateTime: 2022-07-08T11:30:00Z
-    webUrl: "https://www.prevention.com/health/health-conditions/a40544815/prosopagnosia-face-blindness/"
-    type: article
-    provider:
-      name: Prevention
-      domain: prevention.com
-    quality: 4
   - title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
     excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
     publishedDateTime: 2022-07-12T13:30:00Z

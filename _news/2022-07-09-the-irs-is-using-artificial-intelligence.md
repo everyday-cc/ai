@@ -24,38 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "How To Fight Climate Change Using AI"
-    excerpt: "AI is a game-changing critical enabler that has the potential to speed up humanity's race against climate change. With AI, we have a chance to build a more resilient future for us all. AI can help reducing emissions,"
-    publishedDateTime: 2022-07-08T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/"
+  - title: "Retailers using AI must tread lightly with privacy laws"
+    excerpt: "AI is deployed to help shoppers make better choices, but retailers must be aware of their obligations under privacy and cybercrime laws."
+    publishedDateTime: 2022-07-13T04:39:00Z
+    webUrl: "https://ventureburn.com/2022/07/retailers-using-ai-must-tread-lightly-with-privacy-laws/"
+    ampWebUrl: "https://ventureburn.com/2022/07/retailers-using-ai-must-tread-lightly-with-privacy-laws/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2022/07/retailers-using-ai-must-tread-lightly-with-privacy-laws/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Tech firms slug it out to create ultimate AI translator"
-    excerpt: "A man from South Africa speaks Sepedi to a Peruvian woman who knows only Quechua, yet they can understand each other. The universal translator is a staple of"
-    publishedDateTime: 2022-07-10T01:14:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/07/10/tech-firms-slug-it-out-to-create-ultimate-ai-translator/16705"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 57
     images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2022/07/10/31546.jpg?v=1657418520"
-        width: 1000
-        height: 665
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2022/07/AI.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
-    excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
-    publishedDateTime: 2022-07-12T14:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "bzxhrmMLdkSfgOANSVy3GUy3LPH3xMmfzpZhG+jX0oBkxLbIS6+aN789i2lzNpsnaPnr7p1B6DT3n/Ioap46nji1ojnzbbMRFOGVSyuH/xOom+jvzEv4mQ5CAm2TVLptAay9eyQTE/0j9NuYYZUDWn79JQ//J7bGwb24EwodFF/Q2bVa4YO2OE/67Y8y83/EqXyovXEnwNOdNef5oQjAcCNi2O/U3EVJBNqMROgZ2yVWHA2SHAR38oM7wrhmw/MKwPs9wjBvxO469tazpReBKaBUIAHhhKy3iu+4bIwthb2YYy/XSTg9dyB2xWwvuO0bf6er1+F+XTEi6hFSl7aRkAbQH3QzPPiLyr5E18MnoLBdXmmX53HcB932RXw+OR7CzMLkoksk7imGYoW+AlSOPsQTif8VbUnSuCYrpykAc0lJAx9BtubZmqx0WexMYWrcH0oP/bOTkEjkXgsHPotvFIxcTZ8H/mGE6+Z5Hbzbi28MhYNwU12HHBXRMJvfovB285p6GKSqLLqVTmPwj/aZjQ==;x49lPtv9aLqfhgf+atfBRg=="
 ---

@@ -80,15 +80,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "How fintech can boost access for the older generation"
-    excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
-    publishedDateTime: 2022-07-08T12:47:00Z
-    webUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 4
   - title: "Global fintech Smart expands pension offering to Australia"
     excerpt: "Smart technology powers UK Smart Pension, a digitally led pension and retirement scheme setup for employers. The Australian business will operate under the Smart brand and provide its fintech offerings locally."
     publishedDateTime: 2022-07-12T01:29:00Z

@@ -2,22 +2,28 @@
 category: news
 title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
 excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-publishedDateTime: 2022-07-11T20:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
+publishedDateTime: 2022-07-11T20:27:00Z
+originalUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+    width: 1577
+    height: 1050
+    isCached: true
 
 related:
   - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
@@ -81,6 +87,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "8fwg2+fbCtvnRtHuwpDUExocdrNSflWC6ZaDbEtQmR4lknXcjh1loRMJZy1TvCGw5hTHU8UGlFDb7khEDJQYPhWp/lWq1giiLW9oOdShFStMkb1owoG9bBcJWXOcKl0hlanE0m1BSER3FxoerYEONfnWLut+5oDneV4i6ISGO9dpW63DPkzyzKtByfhpJD6av1HRNNCrxP21vS197d7n4v+sH9Nx0WYQT7Top+bx4jWSV3IQwdkA43DzwTi5+S8HGETlC6fwmEiPescumsaC8ZvAun4BxaNePg4nxQ6pu4p22YnVRMZEx1yzm/tyJuL9OcGeHs8MXfYy3CbI3kKa2S6VP7oOyf8m9xLdx50KZnY=;F84N+cIUKIwH68a/z1frKg=="
+secured: "3OrUs5GQHrT/+akvy7aWJgJoB5cN2Md3sY6nC+AFEpM5Dk1IL/+lGnxS+adQbCVqJCc+xzqVgtgVdT7j3Phbk20cDLA62Aqfrgp3nKJHTXM4P7XAnIOfevpltBC8vC7h5Z3qQrsl+5XzHocMBWMyCJkzT3g/9lVhi8IcOawLRaIbJ6s1SpyXF1JkbxYsyqUWfoqyUoEyeP56KShCFo/O0cO+F0YV47+t+rnVeSzXaPYuQpE6J3619lQuPa2ImCaYCngtpbQKPXssuioetbQIfJRCqD7ROrwhFOw10nOUrM8SfhOMAoeJp0SWlOQDG2mmcR8XYuCRhMrvDrwMqpm6LPOUV1PPzWhPsfsFI77RzQs=;mJ4tO4Q4TsrJHWVs5ZM5Lw=="
 ---
 

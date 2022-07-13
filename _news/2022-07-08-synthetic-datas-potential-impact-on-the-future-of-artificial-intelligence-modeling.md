@@ -3,12 +3,12 @@ category: news
 title: "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling"
 excerpt: "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),"
 publishedDateTime: 2022-07-08T16:53:00Z
-originalUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling"
-webUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling"
-ampWebUrl: "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
+originalUrl: "https://edtechmagazine.com/higher/k12/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling"
+webUrl: "https://edtechmagazine.com/higher/k12/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling"
+ampWebUrl: "https://edtechmagazine.com/higher/k12/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling?amp"
 type: article
-quality: 53
+quality: 51
 heat: -1
 published: false
 
@@ -18,10 +18,9 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202207/GettyImages-1097225424.jpg?itok=M6ZV1Gxw"
+  - url: "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202207/GettyImages-1097225424.jpg?itok=M6ZV1Gxw"
     width: 1440
     height: 500
     isCached: true
@@ -53,7 +52,7 @@ related:
     provider:
       name: KRCU
       domain: krcu.org
-    quality: 55
+    quality: 57
     images:
       - url: "https://npr.brightspotcdn.com/79/3a/87132ceb4ab988d758e1f10cd79f/linderpix-wbur-onpoint-6815-web-1000x667-400x267.jpg"
         width: 400
@@ -82,6 +81,20 @@ related:
         width: 1240
         height: 779
         isCached: true
+  - title: "Role of artificial intelligence in agriculture discussed"
+    excerpt: "Punjabi University today held a one-day seminar on ‘role of artificial intelligence and automation in agriculture’."
+    publishedDateTime: 2022-07-13T00:29:00Z
+    webUrl: "https://www.tribuneindia.com/news/patiala/role-of-artificial-intelligence-in-agriculture-discussed-411829"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_1916190257.jpg"
+        width: 525
+        height: 349
+        isCached: true
   - title: "Harnessing the power of artificial intelligence to future-proof your business"
     excerpt: "Artificial intelligence (AI) is now gaining the same kind of acceptance as we have for email, word processing and spreadsheets. Now proven in the eyes of many are technologies from the heuristically rigid, reactive algorithms capable of beating chess ..."
     publishedDateTime: 2022-07-12T09:26:00Z
@@ -101,6 +114,6 @@ related:
       domain: dailytelegraph.com.au
     quality: 6
 
-secured: "XhtOvtgxMHGt804YrQI5SUmPfQN4Q+emuHRvDq7898FY6Se+67/Rvnru7jDz0KRrGtVwh2s6Rmg6YbusBFDtblzkok5WpWLmog/KiACHLrMapQqh1EmtBcZkzUkeIOqavfygoMVAB/pYEXF6UaVUn7kO6skawuwYUxSPS7+AWHlNXtLCuC+zRiKfS4yEhkQgttoRwYafexR1LusYMUIljsm4QQWnJ/4rDN/uffNoVJDOvbS+kQsA7EnsURdytHEfExwcqRNgJhT5lCAxXlod4gURaXIjRJNnfTFcItr0UrLPMoMYzR6p2AjdtHhjZi6lf80jvePnT17EBg5M4R0kl9AinrqUE84WgG5FQWPugZQ=;vJGHy/57XzG52qW67jl5kw=="
+secured: "vuyHi6V3495ITtz6SdUN3wuNLy65rk9T21iKrNDh95QMhVkzsv6pJpBqH2ttInT19+HKf1MhcuGWwEhfE+1T4p0p/oXYqJXNMzQW+fnsNkzMAXoCtdZj7O8aPnzsE1b3sQH9xhwWV3ao6Xwmg6QoB6Mqd6MIWmI6wRwqdVz006sIJc8A2lWfMIQeEKYt/fyvF/bpfNiQr9mKeSB/SzjRJCvSKsf7dpPEX8rtE+/Y8xwW1PSFjIF8IGR1vq6AV2HR7aP939C7fsjF5AFOjPqRvOeENkqvVN5+nnPmLFMJ5EjpOH7zlYnG5aKiT47A0fb6mCZin7N6cSBnWGE79oS76yNJDpIFE3RqMdcsxWKRm+g=;pIDzGriORWiK7JOQE+o6UQ=="
 ---
 

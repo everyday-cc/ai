@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/"
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 105
 published: true
 
 provider:

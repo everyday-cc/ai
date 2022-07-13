@@ -88,15 +88,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "How fintech can boost access for the older generation"
-    excerpt: "What does the fintech revolution offer our ageing population? Companies claim to be accommodating elderly customers, but more needs to be done"
-    publishedDateTime: 2022-07-08T12:47:00Z
-    webUrl: "https://www.raconteur.net/finance/fintech/ageing-population-fintech/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 4
   - title: "Where investors see fintech opportunities during a downturn"
     excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."
     publishedDateTime: 2022-07-11T17:20:00Z

@@ -49,20 +49,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Argo AI, sponsored by Ford and VW, fires 150 employees and pauses recruiting"
-    excerpt: "Another IT business has cut its personnel as recession concerns increase, this time Argo AI, a self-driving car technology startup financed by Ford and Volkswagen. According to people acquainted with the company’s activities,"
-    publishedDateTime: 2022-07-08T11:52:00Z
-    webUrl: "https://bestgamingpro.com/argo-ai-sponsored-by-ford-and-vw-fires-150-employees-and-pauses-recruiting/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 34
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Ford-VW-backed-Argo-AI-lays-off-150-workers-slows-hiring.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "OsLkyp+N0yosx8oV2e/pzxTAHhaQDR/ZJhIvZqt2RfNth4tGC4HbJ8oZ36uWriuww2RdH32/nYFRy3B2WDTGskyJ37/vi7Vu4q/NCDBuusV2ETKlHqSQEPDDxQlV6flPjc82aGVU+QgR0FtskZWIVhSgxt657nKeG8/NtJAKI5KjIw10bxEiQAJRePB8JQQ0VgzAxAo1bhGUKY5UIimatcMEuRY9eTMcIf6F91a1H89obHbV+ZZhU6PMm1mxEBMYxw/sDYtNL5GU4IztVPOxaBcOFOV9FbPE3udmCha3jvT5i/BbL2eNIssjZ1rMw2Vtch+hOZJkay9lS/gzQ7Ftyfb39QE1ZPlaBYoAfZC0+h+wG1N3vjJ76HU+YHvfcYRvya9Sy9sICvTv6GNYp33ytfTl9brAUGaQlDN+pU8hJ/T5dV46yehS8c0xWLCXsmjGXMeiShWaeFAVMx9k+MaYU17rGhG2EoeP4XbdFBY6i9oxkjJzRJucLNEAhtJoKNT17uiSgzRih76nQpIMm4I/2w==;dud/7xLCO7qRbT+ozblZdA=="
 ---

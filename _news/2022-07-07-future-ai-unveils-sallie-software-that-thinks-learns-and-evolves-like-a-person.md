@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person"
-excerpt: "Future AI, an artificial general intelligence (AGI) company developing “Technologies that Think,” today launched Sallie, its prototype software and artificial entity that learns in real-time with vision,"
-publishedDateTime: 2022-07-07T12:32:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person/article_0f334012-780b-54fa-8d77-34ae86f07621.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person/article_0f334012-780b-54fa-8d77-34ae86f07621.html"
+excerpt: "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person. Future AI, an artificial general intelligence (AGI) company developing \"Technologies that Think,"
+publishedDateTime: 2022-07-07T14:03:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634854.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634854.htm"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/38/f38b8fec-c7bd-57dd-b051-f24c24b50a05/62c6da9e7a4af.image.jpg?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
-    width: 640
-    height: 336
-    isCached: true
-
-secured: "FYlLgMgSWEWjsi59H2M3HFdz8/fYCO3avho2F11lFNMUWG818MZs5Se1MB/uQmaK6qRvLqpAw+AZudZaoKENQfvhmD64/aD2d2ac9HrNgrq2s99VsKs0XwXk9Ct6YvUOy5EZ+pjMdL0MdzReTg3JH9+xk7gHbA3X9LDSwRQjV8OMaGrO9P/qeq10lb85SR8givR4x/6KF7NAgeT6/PThF3jroqzW7nYK8IcLOekEu5AqHv/BqjV4RgNiNXsPSetWKqinPLzcsTDeA2h11VaFnz0DJIN+TJFbCSDpb2NwKFMYl4hY23k1I85EkNn558BPnHBOhsx4fW+K/14hQ3xgGLGPYc09O2YiOVT/BWUgK6E=;X1yDpKGa8Eyv6e3Y997lFg=="
+secured: "FeMyG3NMf81eAEb3CojMz5cl7pZVjNSxGPfy+KQPutduVD7CqQzgei/I3EBMDT4fo3neXOy4dDI/aa2hZSUCkEdrg3wDVsCNA5ig2TCBkKdmBuWIJqU25cRpyugStUozhF2fLDPHQN3JNggmbD7ANiIAkGJkWEZUnryAJAwuQuymyNYaHBp83itqmY2VaRUD2Z0xDeAn2X08HgsaCAtxf99MVo3W7Gs0i/r6FUR1i05QBwkv7yYSr03mJu0bA3Ro6RPX2QmOow0IYD5cHcAOv9tv8DwLB6f1nx2usLsPKYKvIjEz6skoen22QF/CjyD/0qDPRCJ6tKZg4NHY0y4nZrYVUCjfaCvyN7pBy4ua7L+Nmb5MuAfi6SFm0X+Z7p4qykhhyy5fdOtybJAk/TZGkzYdOMJ/JemRK2m4VlXrKo16AtGwkL/gBN963Rf6jkq5Wln0W786BHaVbWcySH9ina22waPBX1LD79zEvq6AxOHndgxwyLn+iUgBh9PhNRuOSEudrF+x43TloG1GlTQJmw==;13SXtvT3PuzjFv4wz0oR5Q=="
 ---
 

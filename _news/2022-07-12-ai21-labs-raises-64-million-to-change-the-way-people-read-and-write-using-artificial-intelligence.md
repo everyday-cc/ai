@@ -28,6 +28,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "News: AI tech startup AI21 Labs secures $64 million in Series B funding round"
+    excerpt: "Artificial Intelligence startup AI21 Labs, which specialised in AI that can fundamentally change the way we can read and write, has announced today the completion of its $64 million series B funding round."
+    publishedDateTime: 2022-07-13T04:56:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/ai-tech-startup-ai21-labs-secures-64-million-in-series-b-funding-round-34549"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 34
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1654594033/ad-drezxt5v.png"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "xBgO9mdwQ+Cuz/o9kc1asSM4S0xEjlNhQZw4vte4QgJzsoBKIu4e4HAvORr1MZBwbY9wMI8owGerqSeKQ0kortSW8DKX7Qtk2Y77uoHOh0Gqipi9ppoq9j+4TXRiLi/nrwVQRBdEzOtk6LMiAKTa13KtKQerCpwPCG8ACmmrRuM4jTpB3vhw+g1GXBGVlBJpI7jxvrjjIxgAR6TAMeBh/VsqMzCYND5BiwzR76G1GXTOtlZzEg5mOQ9/o9qnaRLo5Mr38e8mD37F80YOF41c0azegy8w1CrOI+S2c9eM1djYmD1M5PogQSTwMxLGyd+6f6FMRLVLgSzsnvjD7/7NSPYnB9yI7AQ1+Dbla0A/aKM=;4J0KDp63pRtY1gD5WFlZQw=="
 ---

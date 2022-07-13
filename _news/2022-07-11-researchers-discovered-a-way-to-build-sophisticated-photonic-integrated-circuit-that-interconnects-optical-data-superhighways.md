@@ -41,20 +41,6 @@ related:
         width: 500
         height: 240
         isCached: true
-  - title: "Australian team creates first ‘self-calibrated’ photonic-chip"
-    excerpt: "Researchers at Monash and RMIT universities in Melbourne, Australia, have led a project to develop an advanced photonic integrated circuit (PIC) that builds bridges between data superhighways, which the team says will “revolutionize the connectivity of current optical chips and replacing bulky 3D-optics with a wafer thin slice of silicon."
-    publishedDateTime: 2022-07-08T11:35:00Z
-    webUrl: "https://optics.org/news/13/7/8"
-    type: article
-    provider:
-      name: Optics
-      domain: optics.org
-    quality: 41
-    images:
-      - url: "https://optics.org/objects/news/thumb/13/7/8/AusPICdiag02L.jpg"
-        width: 800
-        height: 508
-        isCached: true
 
 secured: "ALyrGTRTwT4CmuA5NqNLtyk4Neva5wyQvlZJ6+RRkmE1gnDTUYhyfNF6RkXMRZA4ydsj7SUxjWVSpqDJxPoAy1AVM1aioN1YmF+5mMnD3kJ55DVtmobCNEYaVaYMs2NPiwTvRDanXhsVHNCF27pt50t7xYhAGp3MCcIOM65F3jd1YzUvo4wL+9rYFnRw7R6IkGxezZT3upWt1dld9UfMwxRTu/XgUsg/u3fVGmWR8t3/JsvJgSSevlazuZWISNn32mFoP66Nrr0mRhwvyRrW40eVsPqiH7bsc1QCpEd9YTYBY+fEmuwbyMX6/O4wLo1/L1pHjcdczu8HN2f0n8P7de+ciS59wNKLyr0hM51CFEY=;G+1Q4tuPkmUbXT8UvFzRPw=="
 ---

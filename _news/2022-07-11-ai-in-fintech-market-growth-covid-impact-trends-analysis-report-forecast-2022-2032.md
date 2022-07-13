@@ -35,13 +35,18 @@ related:
         isCached: true
   - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
     excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-    publishedDateTime: 2022-07-11T20:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
+    publishedDateTime: 2022-07-11T20:27:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 31
+    images:
+      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+        width: 1577
+        height: 1050
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-07-12T00:13:00Z

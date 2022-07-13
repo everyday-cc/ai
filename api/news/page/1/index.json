@@ -53,7 +53,7 @@
       "originalUrl": "https://electrek.co/2022/07/12/xpeng-robots-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -95,49 +95,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-c3-ai-named-a-leader-in-ai-and-machine-learning-platforms.md",
-      "title": "C3 AI Named a Leader in AI and Machine Learning Platforms",
-      "excerpt": "C3 AI (NYSE: AI), the Enterprise AI application software company, today announced that Forrester Research has named it a Leader in AI and Machine Learning Platforms in its July 2022 report, The Forrester Wave™: AI/ML Platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/c3-ai-named-a-leader-in-ai-and-machine-learning-platforms/article_812fd98b-6ea9-53cb-850a-c820ea6ded06.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/c3-ai-named-a-leader-in-ai-and-machine-learning-platforms/article_812fd98b-6ea9-53cb-850a-c820ea6ded06.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -244,7 +201,7 @@
       "originalUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -728,7 +685,7 @@
       "originalUrl": "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -813,7 +770,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -898,7 +855,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1187,6 +1144,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-doctors-using-ai-catch-breast-cancer-more-often-than-either-does-alone.md",
+      "title": "Doctors using AI catch breast cancer more often than either does alone",
+      "excerpt": "A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/",
+      "originalUrl": "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/",
+      "publishedDateTime": "2022-07-11T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

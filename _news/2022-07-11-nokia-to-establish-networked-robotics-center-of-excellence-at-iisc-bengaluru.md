@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia to open robotics lab at Indian Institute of Science for 5G and AI"
-    excerpt: "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI)."
-    publishedDateTime: 2022-07-08T11:05:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 89
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "Nokia opens AI, robotics centre in automation push"
-    excerpt: "Nokia and the Indian Institute of Science opened a centre of excellence (CoE) to develop the vendor’s capabilities in robotics and advanced communication technologies in 5G and AI."
-    publishedDateTime: 2022-07-08T11:17:00Z
-    webUrl: "https://developingtelecoms.com/telecom-business/vendor-news/13724-nokia-opens-ai-robotics-centre-in-automation-push.html"
-    type: article
-    provider:
-      name: developingtelecoms.com
-      domain: developingtelecoms.com
-    quality: 69
-    images:
-      - url: "https://developingtelecoms.com/images/stories/Company_Logos/NOKIA600.png"
-        width: 600
-        height: 450
-        isCached: true
   - title: "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G"
     excerpt: "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc."
     publishedDateTime: 2022-07-11T07:44:00Z
@@ -68,22 +38,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "Indian classical dancer blends Artificial Intelligence into her choreography"
-    excerpt: "Irena Mohini Mihalkovich introduces ich talks about the introduction of technology in to art in her new latest composition, ‘Runtime Error’ , that uses AI to depict the psyche of a traumatised woman"
-    publishedDateTime: 2022-07-12T10:00:00Z
-    webUrl: "https://www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece"
-    ampWebUrl: "https://www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/a00vza/article65609196.ece/alternates/LANDSCAPE_615/PHOTO-2022-07-06-16-17-09.jpg"
-        width: 615
-        height: 383
         isCached: true
   - title: "Nokia launches 5G and robotics research hub in India"
     excerpt: "Finnish kit vendor Nokia will launch a Centre of Excellence for Networked Robotics in India to promote research in robotics, 5G and AI for ‘socially relevant use cases‘."
@@ -99,22 +53,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Deploying robots as sentries, deciphering Mandarin into English: Artificial Intelligence to strengthen Indian defence forces"
-    excerpt: "NEW DELHI: India’s focus on the new age disruptive technology Artificial Intelligence (AI) will lead the forces soon to have not just robots doing sentry duty but also the soldiers in mine laden fields will have robots marking and warning about the mines."
-    publishedDateTime: 2022-07-11T19:27:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Nokia partners with IISc to set up networked robotics center of excellence"
     excerpt: "Finnish telecom gear maker Nokia has partnered with Indian Institute of Science to set-up Nokia Center of Excellence in networked robotics at IISc Bengaluru. The Center of Excellence (CoE) will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),"
     publishedDateTime: 2022-07-08T19:20:00Z
@@ -124,24 +62,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 32
-  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
-    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
-    publishedDateTime: 2022-07-09T19:07:00Z
-    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 32
-  - title: "Nokia partners with Indian Institute of Science to establish Networked Robotics Center of Excellence"
-    excerpt: "Nokia and the Indian Institute of Science (IISc) open Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru."
-    publishedDateTime: 2022-07-08T11:43:00Z
-    webUrl: "https://www.voicendata.com/nokia-partners-with-indian-institute-of-science-to-establish-networked-robotics-center-of-excellence/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 19
 
 secured: "/74kKkfCe0bbu3i1r03T6HgiIMecYyYnRVPKXVh9O2AJLPrURBXEqyHktz4ec/JLbUroVRI8xe/0rJ6OTvkGr6PI1U+aGI+hhPfRv9intkOh8tRl++HrqFWji+nXJ01/EIcMB2z5tZ4kWJ56zKoSjao0fM6Arn/3HiDA+rsjO/zlzGYmqzc8uu6nAUgI9nRBiX1TCOwPHeLiM7mYwT4MO5Qxk2GiM0X681P/QLcfzaaekgejv1HD9gYI/fc1NuCJVZYrGWVKqiNqdJbLX7Mo4hWyOgVnpzh6+08bl9qMVBK5HBuMRQdjt0Dm3VMuS3J9DsLyx2rMIv60gBAKolqjHB7i0kAbT/1vO0hl+ZveR6j7Sfj1Fl+KdFQMujEGCuy3CsLpCsSh3fFmvhnvWfmbxz309q4tzyX7tb1MdPlEZmjSYg4SppqMGdg41gclYpHTLZPDbb3D7izO7JPj8Arfr2jFhZAbIKL8qV1vYVfDSbiZ5ddv18ne4j7nR/AIQne+RBcdiOGnBto3OjPDXgmJMg==;SbIqRkg4osiNVy9GcVTKiw=="
 ---

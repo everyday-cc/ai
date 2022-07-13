@@ -69,6 +69,15 @@ related:
         width: 2048
         height: 1701
         isCached: true
+  - title: "Press Box: Tiger has big voice, just not as much visibility"
+    excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. Woods left little room for interpretation Tuesday when the 15-time major champion hammered away at Greg Norman’s new Saudi-funded LIV Golf series as not being in golf’s best interests."
+    publishedDateTime: 2022-07-13T05:44:00Z
+    webUrl: "https://www.fultonsun.com/news/2022/jul/13/press-box-tiger-has-big-voice-just-not-as-much-visibility/"
+    type: article
+    provider:
+      name: Fulton Sun
+      domain: fultonsun.com
+    quality: 4
   - title: "Tiger Woods still has big voice, just not as much visibility"
     excerpt: "US golfer Tiger Woods speaks during a press conference at the British Open golf championship in St Andrews, Scotland, Tuesday,  ST. ANDREWS, Scotland — Tiger Woods has a voice that can be as a big as his golf game."
     publishedDateTime: 2022-07-12T17:39:00Z

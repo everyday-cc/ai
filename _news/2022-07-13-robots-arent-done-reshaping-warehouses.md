@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Robots Aren't Done Reshaping Warehouses"
-excerpt: "When Digit spends an afternoon unloading boxes from a tractor-trailer in 100-plus-degree heat, co-workers never hear a complaint. Digit, a blue-and-white humanoid robot, was designed to handle the tough,"
-publishedDateTime: 2022-07-12T18:00:00Z
-originalUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/article_f7ffebe3-6465-571c-8db7-d396cb1a759b.html"
-webUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/article_f7ffebe3-6465-571c-8db7-d396cb1a759b.html"
+title: "Robots aren't done reshaping warehouses"
+excerpt: "Robotics and automation are not new to logistics; conveyor belts, scanners and other innovations have helped automate and accelerate the speed-obsessed industry for decades."
+publishedDateTime: 2022-07-13T05:45:00Z
+originalUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/articleshow/92843898.cms"
+webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/articleshow/92843898.cms"
+ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/amp_articleshow/92843898.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/robots-arent-done-reshaping-warehouses/amp_articleshow/92843898.cms"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: San Francisco Examiner
-  domain: sfexaminer.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-93084,msid-92843958/bf9784fb-5a73-4db3-82ef-867.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Robots Aren’t Done Reshaping Warehouses"
@@ -29,6 +37,6 @@ related:
       domain: nytimes.com
     quality: 49
 
-secured: "5IOvfDx+TlNAeg0qjNvokHxNPKmq6tE32ONccHFdvVkScSg+8FqfPkWwEZRPSoQIMn/XUkDkdR6v6Kysc3wC2NRvdqHQq48SZlWWS8UGdr95cu3x8SJJyuV+kALK3RGzwURw9Cto4yn1G/w1Y9jkM7Udbg39ow8rF9Tg7EEjYlrcbHhgX2E8jEJw4mD9UXLZilxnIlOdhBFG6Osxl4SgyKWlAiMPVoHNAIx5Nx23eNrNtYD8jek/TjI0T8nkUuN2R9inkdBePV+9mRNnNxy4diAbfHDFIwGMjGmb/q7s0aPnZMl8c8wZe+mA2a4ivi4LfcfjVKFBAnBtaaYasTo2mfkjk6gpUMcqLrAgCavde7uiUclZu8z031AKshBp8598qnY5CSZxdUvE+MSUQEJRe7yzx9G3e/AvQxGNxrW8MhgZNTnz7ucSwJLSs0vTsxJIENEBvsXjoXNx9gXoiGXYkn8aELiVXxnaH8oOqnpmRZGqs4/tvpkj8qwN8MF1sUai1kWCdjyYGZfVFtz1Lr/H8A==;fmn3vehJk6OVjkwQ2K/kCw=="
+secured: "V5CXxY9yNVWueqIFYj9JesvnUls3qer09Yj+XFkKgyz6d0mF+b8kwNkGNiFvtktj3dAhHcPNNxDkwFzqUU9TudVtY7y8sWBsT1RvEq6xXYJFCKJRnVE9xIlDgVSZ3R7TUWjksGUcjfMcUO8yNi3WMj7lfaLAXg2SFvVWdWMehn5ng8VTuv3oEVVUzOF1C8kh1Pr63LOz8PoflkYuND3foMNtW/R0+0GOtXMuDmHivNP/bFMdAOFo9/CrsfPikHv8O9DsDkv76neP5LcmQd9udfNhKNOHL7fy/q8sX5M4zY4XxFi2TUJJcaE3EOOqyOLJcT38XzHh2POT2aTofVrTcVZe5uOmNMchxDoBDEfZ/Uk=;4CdrFk+hHC6+JyubjqhLQQ=="
 ---
 

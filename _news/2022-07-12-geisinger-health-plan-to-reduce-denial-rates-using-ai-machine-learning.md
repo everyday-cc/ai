@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-hea
 webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,45 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "How To Fight Climate Change Using AI"
-    excerpt: "AI is a game-changing critical enabler that has the potential to speed up humanity's race against climate change. With AI, we have a chance to build a more resilient future for us all. AI can help reducing emissions,"
-    publishedDateTime: 2022-07-08T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2022/07/08/how-to-fight-climate-change-using-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Tech firms slug it out to create ultimate AI translator"
-    excerpt: "A man from South Africa speaks Sepedi to a Peruvian woman who knows only Quechua, yet they can understand each other. The universal translator is a staple of"
-    publishedDateTime: 2022-07-10T01:14:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/07/10/tech-firms-slug-it-out-to-create-ultimate-ai-translator/16705"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2022/07/10/31546.jpg?v=1657418520"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "The IRS is using artificial intelligence"
-    excerpt: "The IRS revealed a new artificial intelligence system to reduce wait times to resolve simple tasks, and improve customer service."
-    publishedDateTime: 2022-07-09T12:00:00Z
-    webUrl: "https://www.therogersvillereview.com/business/article_c0b563bc-fc92-11ec-864e-a34cdefa83f6.html"
-    type: article
-    provider:
-      name: The Rogersville Review
-      domain: therogersvillereview.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/therogersvillereview.com/content/tncms/assets/v3/editorial/3/0f/30f697ea-663e-57b7-856d-a786fd07a18b/5f7c8ea893879.image.jpg?crop=549%2C371%2C866%2C150&resize=400%2C270&order=crop%2Cresize"
-        width: 400
-        height: 270
-        isCached: true
 
 secured: "j8zzYy28DG3Cfds1hzH3MTYD66hp+viISdNJ64ZGRrJDe7XMQW7MH5ablDuVmLusXKRzdvmUyf+tNZxzEkXymzcWHhoce+gjNwG8EHQet7z565NcyKVtGi4FHJlDLrQcxheGPzgZf4Y6AbIeYprygLeVx70CLdYw4pUCR4L8RMRAWvDrhn74zoQTekZM6HBgfAyIIhr7mKx3zIYaNTGmipOXMsRvAKUodKyFthLj2ztXfZbEYwS87OeLb4uMjOVlesEmTyOvfdHZy0CPj6YRgtKGJRXqfslgIDQobulnZ+Q9tXbxcDKb49B/TTjROtDBPksQTzrzTUoXxgHPlq+S1l6MMk0gt3BuZU6SXhVZWHk=;WHpGaGQ7c1Fdn1fATHFLag=="
 ---

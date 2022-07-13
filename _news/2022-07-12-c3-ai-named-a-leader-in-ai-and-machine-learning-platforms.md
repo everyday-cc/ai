@@ -7,8 +7,8 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/c3-ai-named-a
 webUrl: "https://www.joplinglobe.com/region/national_business/c3-ai-named-a-leader-in-ai-and-machine-learning-platforms/article_812fd98b-6ea9-53cb-850a-c820ea6ded06.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Joplin Globe
@@ -34,15 +34,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 33
-  - title: "Confluence Health Leans on Infor AI to Better Care for its Communities"
-    excerpt: "Infor Healthcare applications improve productivity and patient care in less than 90 days NEW YORK , July 12, 2022 /PRNewswire/ -- Infor®, the industry cloud company, today announced that Confluence Health,"
-    publishedDateTime: 2022-07-12T13:52:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-20e7625f638be9132d080f36d3608755"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
 
 secured: "V5Y9lu+7+rvhw32KexJ5wTgcAnJ2FswYh+jXjwpiQZ0bB/KGDIHJWUE9oC4YupJ2KA3ofYg/uavgkN4VNxjY2ahdZi9oIG4IIIUE1ceajrF+FzZNyKVLbmPeXzznns01O9XAIH1CuEIrje3Yhp5eyl6oxUQRitxcNw7WG3n/FUZdv5Vkc3BWyewUYduaM9w/NS67kCLYImajyobFx4g28Hn/3xbcnVj0z7RAt5lnfI3+2FcCyWSxyPs4Jl9biubyyR2oWGarYf7Zwgi8qno2rGd19knVG68crxp48kLsMR7ilI4YGq4VMVMQBgSl2E5QOdW1soLKGsnMn8oJjTrhK5exZpSX1pzWKxd+fvDCbfqIuWYaHh1pgIFuNNMP1bHD1wDCXMbOCY88aq5HA6OvCf2KwGXRBMJzOLNRpWvzZFCtc8DhWDgQF8EjjPx4CsUxyIT721hZDQ8F7ypXLt1+Zy8QYwLoXDywd6EQy0Ku8SW+/mvziqPBqTvrh/SYCp0eVzndEdATpy339TM4ukBO4A==;GLtKmnhm5WVfwIbqCLUJNQ=="
 ---

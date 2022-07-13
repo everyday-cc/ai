@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit"
-excerpt: "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit. Universal Electronics Inc. (UEI) (NASDAQ:UEIC), the world leader in universal control techno"
-publishedDateTime: 2022-07-12T08:32:00Z
-originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/07/12/9636558.htm"
-webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/07/12/9636558.htm"
+excerpt: "Universal Electronics Inc. (UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK."
+publishedDateTime: 2022-07-12T07:17:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-england-universal-electronics-inc-4960118aab9f4286b55d3de16f56a7d8"
+webUrl: "https://apnews.com/press-release/business-wire/technology-england-universal-electronics-inc-4960118aab9f4286b55d3de16f56a7d8"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "jfa2rDFbrtqo2UnHnu2wi6KidcjQ5nTM8PH+tLxyXRDW3I5FkgXS+hYiSKLkg+PXIzOmitmT/xjbJFDkMaZX8nZ0tEwMO/y2Hsfvu56V6+Nh6B+TefW+HrJxvIx2VLIQniKoOeX+U4B39f4OGhTgmLX6Y2sqV3yc2kU6qqzwLi1e5QuAzniwCqSA8h32V1zw5uiEM7amndCMCOMAqqMsqEpGvMVN1QXpxDVu1Wft5FC/rgLf0a5jB3SujBDJrgm2rXIcCO6OPMgBksxPcT6AUqoR2mwxCN/mUu0Zu1ntXJ3yFrVqCP1Xd+6eREtn+5+qlxBDKsYM0ms2ZGe2HPuNrGUqqI5Djym1ulOhQWxEKoXcc57u5RcPvBZY6G/tB2kxLZYGO7eNphNbNSHOODaVt/BnyVbz0KFxkEOUyrRND7rfBYbcq1+7TLL9hW0Q9LJkbukbNy3eS+l9wcgRAzolbc/9o/pvuE0qMUc+6nIeo/CQzNSp00zewj9Lgr+rA8ND/b9v5+ez62fRtuccjZLG4g==;KGl9r5b5LwDZZ4KpoQd0Yg=="
+secured: "klzv9V8z7eY9MtNwjwDBvLHx+RdTwcuqlSRO2ANCMinLw3XOzPZkXgplIdeJWpDdIieVPLbbvmY79HUsvEF8NrujnO5O2A52Rl9emVlaaO95vQvmIhPRoSyhuvJjjB1tQ2BkeIKqrFlOi+dWLHLZAQ8GcKZGuyvXS8uPMbxGJbujzXvjSXNPyRVVvgvejyZRv4zijuKgE2soj+Iuu9lrKVILgtkEJRAGZiX/81p6U0OEFtGZqnb6ffTCT4LV1DexkcWf9GsLN7ziSoggJzw+nAvbZ120tcP5jCCbXVtOvWzrL0XxoDJjXpacHevk73XMSyagFoO5ssggThsbRzFd/EU4z7xG4Z/HKqofSFJt8qw=;KtTnzLNefKWoYI/mVwib3w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.smartcitiesdive.com/imgproxy/bJPtyJy7EJClg7TW8xC0j4rV_-JXPbf1rznZ5J6cjJQ/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0FyZ28tRHJpdmVybGVzcy0yLXNjYWxlZC5qcGVn.jpeg"
         width: 770
         height: 364
-        isCached: true
-  - title: "Argo AI, sponsored by Ford and VW, fires 150 employees and pauses recruiting"
-    excerpt: "Another IT business has cut its personnel as recession concerns increase, this time Argo AI, a self-driving car technology startup financed by Ford and Volkswagen. According to people acquainted with the company’s activities,"
-    publishedDateTime: 2022-07-08T11:52:00Z
-    webUrl: "https://bestgamingpro.com/argo-ai-sponsored-by-ford-and-vw-fires-150-employees-and-pauses-recruiting/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 34
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Ford-VW-backed-Argo-AI-lays-off-150-workers-slows-hiring.png"
-        width: 600
-        height: 365
         isCached: true
   - title: "Argo AI, a Ford-backed business developing self-driving cars, is laying off 150 staff"
     excerpt: "According to The Wall Street Journal, Argo AI, an autonomous car firm sponsored by both Ford and Volkswagen, has laid off around 150 staff as of this writing. During the companys"
