@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27680_16575411660216028.jpg"
