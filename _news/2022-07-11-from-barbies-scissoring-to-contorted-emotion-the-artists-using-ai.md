@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-11T04:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/jul/10/dall-e-artificial-intelligence-art"
 webUrl: "https://www.theguardian.com/technology/2022/jul/10/dall-e-artificial-intelligence-art"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.guim.co.uk/img/media/38f711488a3e6f6d937b90e0e80133dd1f135a35/0_123_820_492/master/820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3059edfb694a2370ed060925a5e72997"

@@ -25,47 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Telecommunication Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global AI In Telecommunication market is segmented by Types (Machine Learning and Deep Learning, Natural Language Processing) and by"
-    publishedDateTime: 2022-07-12T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
+  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
+    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
+    publishedDateTime: 2022-07-12T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
-    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
-    publishedDateTime: 2022-07-12T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
+  - title: "AI In Fintech Market Growth, COVID Impact, Trends Analysis Report Forecast 2022 – 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-07-11T06:23:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-covid-impact-trends-analysis-report-forecast-2022-2032/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-balancing Scooter Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global Self-balancing Scooter market is segmented by Types (Two-wheeled Self-balancing Scooter, Unicycle Self-balancing Scooter) and b"
-    publishedDateTime: 2022-07-12T02:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-balancing-scooter-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 11
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
+    publishedDateTime: 2022-07-11T20:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2022-07-12T00:13:00Z
+    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 5
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
+        width: 301
+        height: 251
         isCached: true
 
 secured: "fbZqEvjWgflvw3qiSxzECDCHxbwaf3US73+oZeh1pNEvBJSLCyC1gKSuGNJQ6us7xkPbnacTQNZpckNpdWLznz5LQVtRRz/KtxqspACtwn3m+N18nFFj0qTXvjlOdzjYmNOI+wTrfygzt4EdMPX62MTSXpD6ZGLje8CwmWQqCccxgn3iagZkViPZ87yWoJkUqwxAVNOXw88bkQgNFJR8WT5ldXymJI36sJcffREthZh93T6xFUvZZO6j+Dk8HpO+fQN/Gpj56jYAi3JE3NPNmvID7R9WQ6tdVWYaoO/ziqwKC89FhVKvKjxUy3kUJJRR/F5+kfsHDmV2TIavNBaLppZDaHRq5pDcyQjDLowjg3I=;EN1D0nh6lW3CJ19UvVXI+Q=="

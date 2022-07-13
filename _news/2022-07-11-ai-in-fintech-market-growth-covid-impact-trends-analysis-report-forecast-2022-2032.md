@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-cov
 webUrl: "https://www.fmiblog.com/2022/07/11/ai-in-fintech-market-growth-covid-impact-trends-analysis-report-forecast-2022-2032/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) In Drug Discovery Global Market Opportunities And Strategies To 2031: COVID-19 Growth And Change"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) In Drug Discovery Global Market Opportunities And Strategies To 2031: COVID-19 Growth"
-    publishedDateTime: 2022-07-11T17:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28021396/artificial-intelligence-ai-in-drug-discovery-global-market-opportunities-and-strategies-to-2031-co"
+  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
+    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
+    publishedDateTime: 2022-07-12T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
+    publishedDateTime: 2022-07-11T20:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2022-07-12T00:13:00Z
+    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
     quality: 5
+    images:
+      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
+        width: 301
+        height: 251
+        isCached: true
+  - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
+    publishedDateTime: 2022-07-11T09:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "USSdIjjQEkBj8Or5n4aOsgcNkmBeQ0tMyjTjyIeaUbAK1NUOfRuWf4eUOpwMcKKc7bMYzpOvDXuwDUpx7zpLo3pfQNrqxlvui8w9cVn7Uzowx0W0vRZcxT1RllUJ06upsGaJqoa/Q7WFMycxBZFKehJ3LlbBiNSBY0BFE8HuCBREwGU6LUDFPsCtlT1pPVojSZMfBEsHOAkzp342xhRqjIMiPaRi5xYlxs1QsLQB1G4lqp9GdH5OpBIe9Gbp5yBDNnd82kT5ldj0TDSmByjCDTf7tv6FvvIq0e1aO6b7BOyMnl8FwbsL0J/CkUCxMxIwvsgDtI/EOEzoqw31HO9cRF1tS+0ne1CO9WCA4EVhll8=;lwC27eb1keFKwqh8FYv9QQ=="
 ---

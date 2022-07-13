@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooti
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech"
-    excerpt: "The suspect, Tetsuya Yamagami, was detained at the scene and admitted to shooting Abe, according to Nara Nishi police."
-    publishedDateTime: 2022-07-08T09:00:00Z
-    webUrl: "https://www.komu.com/news/shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech/article_83535286-69d5-59c7-b697-e5014090eb6b.html"
-    ampWebUrl: "https://www.komu.com/news/shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech/article_83535286-69d5-59c7-b697-e5014090eb6b.amp.html"
-    cdnAmpWebUrl: "https://www-komu-com.cdn.ampproject.org/c/s/www.komu.com/news/shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech/article_83535286-69d5-59c7-b697-e5014090eb6b.amp.html"
-    type: article
-    provider:
-      name: KOMU
-      domain: komu.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/5/aa/5aad1273-d7f5-5ace-86b9-675cef17bd72/62c83dfdb98ec.image.jpg?resize=1024%2C808"
-        width: 1024
-        height: 808
-        isCached: true
   - title: "Shinzo Abe, The Former Japanese Prime Minister Was Assassinated During Campaign Speech"
     excerpt: "Former Japanese  Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan."
     publishedDateTime: 2022-07-09T16:24:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs"
-excerpt: "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware with a robust and flexible compiler that makes it easier"
-publishedDateTime: 2022-07-12T15:00:00Z
-originalUrl: "https://www.asiaone.com/business/furiosaai-forays-north-american-ai-chip-market-welcomes-former-intel-and-western-digital"
-webUrl: "https://www.asiaone.com/business/furiosaai-forays-north-american-ai-chip-market-welcomes-former-intel-and-western-digital"
+excerpt: "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware"
+publishedDateTime: 2022-07-12T15:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751"
+webUrl: "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751"
 type: article
-quality: 40
-heat: 40
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_542.jpg?h=7de12b8a&itok=XXIYDfyw"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "hlmJffBPxCAeyA8n5b5wyILp0jWMSY3l1NqNKMKlqvDfQpm1xZjnmtVWbJ5Bh5Dyo9Q4ZE3V2Mg7oLGVr+IQlJXUrW4Q4pnwp8MMzSdPwfdfso5S1+5hwZn+mDr8jiyw1FsbrkertlnPMwtcvC7rnTo+XxEYueW7sZ/Bpq/F08+m504cIicJ+sMFlOZ6ABVtMnXOegyi65OvpI6TUG0IrhnuUfT147mp/sE3S5EgQxEVoBzQL9zyRSpxEEopxhT0NfR8iXUYkb/klkMW7vnDiv9Yv+qs22R/hyx0cR5WYIGzOY0mNTgcPciqaTIyEMBX1T4iDuIIsNOKTMg3HcVmCUWJsURw/Fu+FznRSLBhaRs=;0xgV6JaXBGU0ih349X78Uw=="
+secured: "sbzDLJ+0Z0Bt13DVfkfAjxgltuKz0bqsSZDHILfe6ORVp2wyr7heQD7/gs1M2fbgBu0+jmi0mqxUiYlVMFZwD85vMHMRu3dTsl+RaWALWWR3bAYn8vlCYAt5Tn4JQs68lqR4eOYkScVMB/5L2PB2rt6q5VddBLZ4BUo4FuzCoK8tN8wT7LrWsdwtThWteyS9FSTvLsjZ9WTa7fJy17JPU3KERrjFd43yz4tC/+wYxscL3XUP/Kh0ssHHzvAaSaB/VvWlgAtQQn8xcul6VwQmFIyCLGJcA052LO46JQ1wgntyXMJOWbIwDzNA1tOAeMlBr2orXzrLk8AHW8Xzc1kR2SiO6RDknITr5MUqKI7b4MI=;kkgNPhFDCRyoNk8GD1Rr+g=="
 ---
 

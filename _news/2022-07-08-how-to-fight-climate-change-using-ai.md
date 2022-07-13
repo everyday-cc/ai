@@ -36,20 +36,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "How Artificial Intelligence helps fight climate change"
-    excerpt: "A new report by an international body into Ecological Footprint Initiative, Planet Alliance in collaboration with Boston Consulting Group (BCG) and BCG GAMMA, on artificial intelligence, AI, has revealed that it can help address issues of climate change."
-    publishedDateTime: 2022-07-08T07:52:00Z
-    webUrl: "https://www.vanguardngr.com/2022/07/how-artificial-intelligence-helps-fight-climate-change/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 37
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
-        width: 412
-        height: 250
-        isCached: true
   - title: "The IRS is using artificial intelligence"
     excerpt: "The IRS revealed a new artificial intelligence system to reduce wait times to resolve simple tasks, and improve customer service."
     publishedDateTime: 2022-07-09T12:00:00Z

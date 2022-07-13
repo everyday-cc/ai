@@ -34,38 +34,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Nokia, IISc open CoE in Networked Robotics in Bengaluru"
-    excerpt: "The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI),.."
-    publishedDateTime: 2022-07-08T07:31:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru/92743538"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92743538,imgsize-77000,width-1200,height-628,overlay-ettelecom/nokia-iisc-open-coe-in-networked-robotics-in-bengaluru.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nokia to work with Indian Institute of Science on networked robotics"
-    excerpt: "Nokia and the Indian Institute of Science (IISc.) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc. in"
-    publishedDateTime: 2022-07-08T08:58:00Z
-    webUrl: "https://www.thehindu.com/news/cities/bangalore/nokia-to-work-with-indian-institute-of-science-iisc-on-networked-robotics/article65615378.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/nokia-to-work-with-indian-institute-of-science-iisc-on-networked-robotics/article65615378.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/nokia-to-work-with-indian-institute-of-science-iisc-on-networked-robotics/article65615378.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/5l8dow/article65495323.ece/alternates/LANDSCAPE_615/INDIAN%20INSTITUTE%20OF%20SCIENCE"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Nokia opens AI, robotics centre in automation push"
     excerpt: "Nokia and the Indian Institute of Science opened a centre of excellence (CoE) to develop the vendor’s capabilities in robotics and advanced communication technologies in 5G and AI."
     publishedDateTime: 2022-07-08T11:17:00Z

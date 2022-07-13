@@ -2,9 +2,9 @@
 category: news
 title: "AWS now lets you access your very own M1 Mac Mini in the cloud"
 excerpt: "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment."
-publishedDateTime: 2022-07-08T14:23:00Z
-originalUrl: "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud"
-webUrl: "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud"
+publishedDateTime: 2022-07-08T14:36:00Z
+originalUrl: "https://www.techradar.com/sg/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud"
+webUrl: "https://www.techradar.com/sg/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "WipL7Fpqzo4Irto1GxOu1WyhzjMavHFRoxXVdgNoApxlVc9SzNcZLxHuCkOoSgdR34QVfhZzXnExCXlZ+f7hVfHAm6hjwurGsSB53sc3Qp46iNtjNFKqS5eJkI0C+1QE15L05BxhcvW5dieiHmFIh3ol3NQ/89HrW/13zZBlEHuYWyCDM0WJ+2/1ThcxJ+8pmC5b/mImg3dDI0WE2veTI5spqelbz92S20X5clKK1kKqUuuXGD+UG6FG2IUSe7cF+yXGvgTIR+FYfzQURGCmKajmq6malerQBEuf0LlTeG9pVNSqyn9hIyUoLNdGgpTVNlDNC4RqHLK9BIs44maGvDMQc2+dLipFRyyS/9MVMsA=;aBNob/L36rY1ASyaceKW6w=="
+secured: "J5rRCEMoYPmcE4P5YRpS3P1fsuUWERpiwQKximvxLYiT/j5clPfH2Vhtz34JQXOFmcskZ5sY5g/KjDLbhIEf08y3o01Iqu/z9fyW6bxruEPKlsrB5FwSnNe6DH2H3Qbt9EkiswxflVUMmuRgi1cJlq9kK7n2T9tqfreXYwX8eWRBWM2NLAtnoV8IOsbMmh7H7RUTkWeud5tzD4Qmw6BBYqBL+FNpATg+ZwNhwr7cqMqfps7oWkDHGxoXbiGz7KTqW6XhzS6Id4r7qoI457SgM3JDLEqDLhPml25GtCbkbFT6fShtoED6gpnwL3VDdmtRNfPNmCA/xw1O8cBgvFaXeggA7nf/qN3Gu63aWjvTl8A=;zj3Z7gVoacE0oPYtNhmwWQ=="
 ---
 

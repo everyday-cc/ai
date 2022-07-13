@@ -58,20 +58,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Meta launches AI machine for translation research"
-    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
-    publishedDateTime: 2022-07-08T08:00:00Z
-    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
-    type: article
-    provider:
-      name: Media Update
-      domain: mediaupdate.co.za
-    quality: 41
-    images:
-      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "7cnVEYtfS/LyFz/su4acCTmW4LqJ6IWsCAC7ci8x3G37r+o4GARnIa32zA6IfKth1KJUQczd+NB2oP+ZTuzIiyBOTEdJpyDbF5CK+MQaCssIEFFwHkr5WKQyr7FuKcdm8Sm439WD3Z8glPEZuXvdDlbNZTTj7F/ljdQIzmUy5kF06x6yEMllCgFd+6L8iRv2ABb4iIYA+9VIUFKJzVpyyxa1irzN4psf/AZ9he8/2xRvd2PuFf/zSEtMgzJJL8CWSxthNPes0YSMRXIkqqMDW6fjtlSJwzaw13k7qLi+Y1zTRcjFshqmcKMIVEwju8fA4yDljiKD1pWTdcLieDNtEzcA2fYt5Zox1N58R5T6hv1GsMavnCeakCbyDjhB1qOxnpGTGYY+YM6VqI8Z2cQhhzsP8hvgMZKcSgqzE1KOBBwWgctgSYlr/o6k3hOWQISmczEiWqTmFKfL19kgws8z2F8ef/ejL4tWPsXMvUu5/JJnFbt+M4tX7YmjbBp+PyHU8mdJ/PkMJICXD5C0jRwWaA==;vOy7Qs/iy8DkuoAZtFqwhg=="
 ---

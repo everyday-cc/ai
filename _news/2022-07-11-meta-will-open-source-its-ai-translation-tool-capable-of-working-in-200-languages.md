@@ -49,20 +49,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Meta’s AI helps break language barriers"
-    excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia"
-    publishedDateTime: 2022-07-08T08:52:00Z
-    webUrl: "https://gadget.co.za/metas-ai-helps-break-language-barriers/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/07/meta-language-ai.jpeg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Meta’s Language AI to Connect the World"
     excerpt: "Facebook’s parent company Meta's “No Left Behind” Al project, can now translate 200 different languages in a single mode."
     publishedDateTime: 2022-07-12T15:40:00Z

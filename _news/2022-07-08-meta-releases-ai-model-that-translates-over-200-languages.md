@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-tr
 webUrl: "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2022/06/16114608/WhatsApp-Image-2022-06-16-at-11.39.40-AM-1.jpeg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Meta’s AI helps break language barriers"
-    excerpt: "Meta is using the modelling techniques and learnings from the project to improve and extend translations on Facebook, Instagram, and Wikipedia"
-    publishedDateTime: 2022-07-08T08:52:00Z
-    webUrl: "https://gadget.co.za/metas-ai-helps-break-language-barriers/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/07/meta-language-ai.jpeg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Meta’s Language AI to Connect the World"
     excerpt: "Facebook’s parent company Meta's “No Left Behind” Al project, can now translate 200 different languages in a single mode."

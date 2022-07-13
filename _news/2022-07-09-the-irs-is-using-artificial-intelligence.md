@@ -47,20 +47,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "How Artificial Intelligence helps fight climate change"
-    excerpt: "A new report by an international body into Ecological Footprint Initiative, Planet Alliance in collaboration with Boston Consulting Group (BCG) and BCG GAMMA, on artificial intelligence, AI, has revealed that it can help address issues of climate change."
-    publishedDateTime: 2022-07-08T07:52:00Z
-    webUrl: "https://www.vanguardngr.com/2022/07/how-artificial-intelligence-helps-fight-climate-change/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 37
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
-        width: 412
-        height: 250
-        isCached: true
   - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
     excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
     publishedDateTime: 2022-07-12T14:57:00Z

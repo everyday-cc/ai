@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
-    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-    publishedDateTime: 2022-07-11T20:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-
 secured: "P9TNF23MF/vgI0T+OV02Cc46UsTNxQ4UyQPMloxrKadHL2lRtrmh9xjDPA3P6QfwNhHKPu6pFnd9jUCzucStPwX2+UOvuAGZoWQQymeI0z6JfjNv2Q5h7kHBlGN9PUqhRdhTJou3dJdfozwrRo+jahdeEipgC4A/avnev5puu/TTBUeoKVcdcr92y1JTchmL7kNfQWW26w6ycOINYwQM92qhLVgk6F/E/fC9L7c07kYloq9EbbUyzWNQzfWQDfTBxZ7iioF0dtzCi9+npnqzbMTfPteoXwk5xX0EVgvOjKUMn1wyEgLrj54UnCxWazBvuThmAIK/BiEn+ckghsjDNgcg3JxhJz0esd/TkRcYZhE=;mI1eMGP6yg8hjE2xuhFsmQ=="
 ---
 

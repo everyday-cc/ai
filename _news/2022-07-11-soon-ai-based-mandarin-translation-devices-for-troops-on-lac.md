@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/soon-ai-based-mandarin-transl
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65626423.ece/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg"
         width: 615
         height: 383
-        isCached: true
-  - title: "Meta launches AI machine for translation research"
-    excerpt: "Meta has announced that it has built and open-sourced No Language Left Behind (NLLB-200). The NLLB-200 is a single AI model that is the first to translate across 200 different languages — including 55 African languages."
-    publishedDateTime: 2022-07-08T08:00:00Z
-    webUrl: "https://www.mediaupdate.co.za/social/152237/meta-launches-ai-machine-for-translation-research"
-    type: article
-    provider:
-      name: Media Update
-      domain: mediaupdate.co.za
-    quality: 41
-    images:
-      - url: "https://dash.mediaupdate.co.za/story/image/152237/152237.jpg?v=637928785638089692"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Meta claims its AI has cracked translation"
     excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
