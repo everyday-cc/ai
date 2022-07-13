@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T18:28:00Z
 originalUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
 webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Carscoops

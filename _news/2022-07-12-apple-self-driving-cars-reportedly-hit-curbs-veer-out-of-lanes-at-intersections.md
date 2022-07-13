@@ -87,6 +87,20 @@ related:
         width: 1240
         height: 858
         isCached: true
+  - title: "Tech Report: Apple tests new self-driving cars in Montana"
+    excerpt: "Apple’s self-driving cars had trouble navigating streets, frequently bumped into curbs and veered out of lanes in the middle of intersections during test drives. During the test in Montana, the Apple self driving car performed well but navigating city streets near the company’s California headquarters was a struggle."
+    publishedDateTime: 2022-07-13T19:55:00Z
+    webUrl: "https://www.41nbc.com/tech-report-apple-tests-new-self-driving-cars-in-montana/"
+    type: article
+    provider:
+      name: 41 NBC News
+      domain: 41nbc.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2022/07/s/l/7c41e7139fed615e563346bb50baff691dd9d24b.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
     excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
     publishedDateTime: 2022-07-11T16:21:00Z

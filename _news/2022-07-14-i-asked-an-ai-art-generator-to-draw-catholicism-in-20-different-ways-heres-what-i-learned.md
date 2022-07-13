@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T19:22:00Z
 originalUrl: "https://www.americamagazine.org/arts-culture/2022/07/13/ai-art-generator-catholicism-243354"
 webUrl: "https://www.americamagazine.org/arts-culture/2022/07/13/ai-art-generator-catholicism-243354"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: America Magazine

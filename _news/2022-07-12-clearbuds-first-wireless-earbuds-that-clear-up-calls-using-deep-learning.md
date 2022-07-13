@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Engineering students develop noise-canceling earbuds powered by machine learning"
+    excerpt: "Engineers from the University of Washington have developed a set of earbuds that achieve almost complete noise cancelation using machine learning. The earbuds, dubbed ClearBuds, were"
+    publishedDateTime: 2022-07-13T17:57:00Z
+    webUrl: "https://www.techspot.com/news/95282-engineering-students-develop-noise-canceling-earbuds-powered-machine.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
   - title: "ClearBuds: First wireless earbuds that clear up calls using deep learning"
     excerpt: "University of Washington researchers created ClearBuds, earbuds that enhance the speaker’s voice and reduce background noise."
     publishedDateTime: 2022-07-11T00:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T18:10:00Z
 originalUrl: "https://phys.org/news/2022-07-rewinding-supernova-machine.html"
 webUrl: "https://phys.org/news/2022-07-rewinding-supernova-machine.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

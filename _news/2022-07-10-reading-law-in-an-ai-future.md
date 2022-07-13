@@ -24,63 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Humans Are The Future Of AI"
-    excerpt: "Taking a look at the power of AI in its latest evolution reveals its ability to impact businesses in an exceptional way."
-    publishedDateTime: 2022-07-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/amp/"
+  - title: "Finding an easier way to AI adoption"
+    excerpt: "AI poses such a massive implantation challenge that getting it wrong is more likely than not. It will touch every digital aspect of the enterprise eventually, which means it is rife with pitfalls, namely,"
+    publishedDateTime: 2022-07-11T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-adoption/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Adopting AI in a more straightforward manner"
+    excerpt: "According to IBM, more than a third of firms are now using AI in some capacity, while another 42 percent are just beginning to explore the possibilities. While these efforts are being hindered by factors such as high prices,"
+    publishedDateTime: 2022-07-11T13:25:00Z
+    webUrl: "https://bestgamingpro.com/adopting-ai-in-a-more-straightforward-manner/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Finding-an-easier-way-to-AI-adoption.png"
+        width: 600
+        height: 365
         isCached: true
-  - title: "This Camera Drone Uses AI to Capture Photos of You"
-    excerpt: "Upgrade your summer adventures with this AI camera drone. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners."
-    publishedDateTime: 2022-07-11T13:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/430930"
+  - title: "Adding More Data Isn’t the Only Way to Improve AI"
+    excerpt: "Sometimes an AI-based system can’t decipher the physical world with a sufficient degree of accuracy and the option of just adding more data isn’t possible. In many of these cases, however, this deficiency can be addressed by using four techniques to help AI better understand the physical world: synergize AI with scientific laws,"
+    publishedDateTime: 2022-07-13T12:15:00Z
+    webUrl: "https://hbr.org/2022/07/adding-more-data-isnt-the-only-way-to-improve-ai"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "When AI Makes Art, Humans Supply the Creative Spark"
-    excerpt: "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now."
-    publishedDateTime: 2022-07-13T11:00:00Z
-    webUrl: "https://www.wired.com/story/when-ai-makes-art/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
-  - title: "Role of artificial intelligence in agriculture discussed"
-    excerpt: "Punjabi University today held a one-day seminar on ‘role of artificial intelligence and automation in agriculture’."
-    publishedDateTime: 2022-07-13T00:29:00Z
-    webUrl: "https://www.tribuneindia.com/news/patiala/role-of-artificial-intelligence-in-agriculture-discussed-411829"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_1916190257.jpg"
-        width: 525
-        height: 349
-        isCached: true
-  - title: "Harnessing the power of artificial intelligence to future-proof your business"
-    excerpt: "Artificial intelligence (AI) is now gaining the same kind of acceptance as we have for email, word processing and spreadsheets. Now proven in the eyes of many are technologies from the heuristically rigid, reactive algorithms capable of beating chess ..."
-    publishedDateTime: 2022-07-12T09:26:00Z
-    webUrl: "https://www.arabianbusiness.com/opinion/harnessing-the-power-of-artificial-intelligence-to-future-proof-your-business"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 16
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "QIls42Nb1n9ixC7UyEiaovxa80Di4g2aGaL1fHzyLj47MRF/nVKHWUpA6z2Equ2pg5yqgKVKhC7LLXFpqCRST55e2nKPrSfbP/EYYDWBmPr44Z1/2t421ile1iEjgY8TQRbSfCcB7A+Rwe6r38mQvWD5hgaP2rThN8honpOPN/hT/HmlmNb51MvQcDJC5Xp2fbmaBgWpxxrTHNMkfdgxIxszHR1IkYqqPBxVgKveut5udIsDqKW9P4L9TcQp49TAqU97TPKuPl51bKIiuRSI16YcpyF03g1yQyr/mGfJ+566Lfm0n0g1Fs5x/kO7lDBhp6rSuRMw4euBYoSsZoa314l+ndHIgFZe2hdOjo4qhBKFvNABNkSyCd26ZGPRlCC8Ofj5yfqV8X75g3Jx+rDO8wsSkGbgcRQOqBPONJKj+F9jGuydIHs+OQUKOTEovxWlJbcpIA21g1ix9VS0y+8K+4LrKeoxDCMntAy2QbOVfEqs08D5B8BXnyQFKWod5xS35ROtv24+lDP7k3qRi0vioQ==;4AtW2E3CkJem6LI9cbW1+g=="
 ---

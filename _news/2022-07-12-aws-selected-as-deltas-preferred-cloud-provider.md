@@ -1,23 +1,29 @@
 ---
 category: news
-title: "AWS Selected as Delta's Preferred Cloud Provider"
-excerpt: "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon."
-publishedDateTime: 2022-07-12T04:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider"
+title: "AWS Selected as Delta’s Preferred Cloud Provider"
+excerpt: "Continuous innovation is at the core of Delta’s commitment to its customers,” said Matt Garman, Senior Vice President of Sales, Marketing, and Global Services at Amazon Web Services. “Delta is using AWS’s global infrastructure,"
+publishedDateTime: 2022-07-12T04:02:00Z
+originalUrl: "https://www.kentuckytoday.com/news/business/aws-selected-as-delta-s-preferred-cloud-provider/article_a6d6c93e-cbf2-5e9a-bcd9-36778941fcf0.html"
+webUrl: "https://www.kentuckytoday.com/news/business/aws-selected-as-delta-s-preferred-cloud-provider/article_a6d6c93e-cbf2-5e9a-bcd9-36778941fcf0.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Kentucky Today
+  domain: kentuckytoday.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "C4hvB5wh5FUn9P1SiEPXRUgOXGZMlQCLlpPFOp9cso0SRRcteJDhDSB7+R+PxGJKtVwoUY0v3pNROKGBkWfnnleZUmv1iinYAa7TvvbHXMtMUijTMp5j7drRdl3K8Yz2EwDC8/SPCRfa5NA28/uwT12VgZdY6ZTxd0s/E5LMNuiFnQ0J1hQ9SAj+s1fbOtzl/lsDuNiIockks9uw4SueQZEhpQVKH/5IRzFQ3xmriuSSr/4JrguPqMxdKw8w+zuzfZVYarekzDb+L4FmyOknss0db69blpjqRUSd9dXyKhyNNjTcxqAawQMWB/lcp9nCsbrKn3gFfqiKlaI8/OglcpkIYUySruuxuImTB4GQDzA=;Yoa7lu5qSLC97oQ2GBl8Zg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "zYiwsNUqBtsCdzMUUlGbpoXJS5Ne2JPxviByulw20blxXRokT1cut1TOB+mHrL9WuIkLdBg+ySP4Fa70cWX4QhLWKH0YcWnoVr1gd2GXjZVMB2wJBaH3hBRq39qYy0wOewdzg8u40eBkomn8L7hjR+T8BotsbRrNVBjFWU62HHjATrtvf0UJDGz+AKK9FfacO+xU/eblQGBVwZUj+QGO7Ob15Mm6STxHX39bmjLehQ/mnVWXwJvzWTbhN61ofBnVF4Dq8RAcRKmwhd5hOapmDvGLUKSlMNd6306BzTQXr630lgVkHgj2aPsBRH75C9kzjP8FJbG5u+LNx1gSRxbh7xGQtjLlosP1HiGs9ZxYzoE=;+9GVIhjit+r9PS4/ULq98g=="
 ---
 

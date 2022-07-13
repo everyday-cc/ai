@@ -3,9 +3,12 @@ category: news
 title: "Kiromic BioPharma Appoints Leonardo Mirandola, Ph.D. as Chief Scientific Officer"
 excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,"
 publishedDateTime: 2022-07-12T12:19:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-dcc2bb25c1394d2db9c0c22ef3952241"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-dcc2bb25c1394d2db9c0c22ef3952241"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press
@@ -15,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "4pvqK2CNUJ5uXmdjQVeyyoMVwyPdoFA0/RlcqumOrddsgFW6SInsSNCzcT5HqgbkVXyTzYx+cYA+31csEZXDsMprXP1LuXjMVNT2+ll4r8g04rPGIUbFYwO/TCQZM3zz/gZnAAKKr2tCDUw5xgH5co71JGyW4NMJOWimiRUyreymPPTm5JTA/pdiBXz6OUg6x8A7jcpsEszZvklvX/P3/5wV+baIdTcEHfAMTYK/NuH2sa/a+CE58D7OCmK9fA8++2S+K8hfjQSFRUUG+dk6Quq1HZkmTIgcCYcW1y/+2z590snXw/O+lEABWL7jt8IlCCYqmpACO3WSXCw+FE4rRr2eo/2xwSAknzw20M95eKg=;y5FMxucLXjrHNr0yGfUT6Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "X9VxnibSu6iDpLnl+BUwjQdNrHth12Y0Q+2hTKxyanLK4nzNcQNnihDP0jBKGiJn/3HnCKXy+AEsJv6aOxsFuE3KrPbZeW/I2bf/3Fvmv0LOYTMZFtf5l4cKGkkguDe6P7vGZwKNswgERT9GH4JSShNBm1x2yheLD6ScNZ3kmF7sK4O9Pl3cBqdab3xyiAe5yrRC4V8+1ChNcUihkSjP11hTv70pnPW082q89WIprjy9oxR05yU9LiHFUNuSq6veSuPC+U4aahQ144C3EXDigFyY/QCfCheChrXaGfED7vqa8RI8W6B+2xIJZZcDLvJMaF0XpPoW3S5eKLDDcPeL7droC/C8r1Vq/Eoc4GzzCkQ=;f0SH3OkperklnhDJkMmHXw=="
 ---
 

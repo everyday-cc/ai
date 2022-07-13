@@ -3,18 +3,24 @@ category: news
 title: "Richard Kyte: The real ethical problem with artificial intelligence"
 excerpt: "For decades, experts have warned that we should get ready for the ethical challenges that could arise if artificial intelligence becomes a reality.  Well, AI is here now and we still aren’t ready for it."
 publishedDateTime: 2022-07-06T16:45:00Z
-originalUrl: "https://theeagle.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_e0f46805-5075-5feb-a144-42165a4d211f.html"
-webUrl: "https://theeagle.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_e0f46805-5075-5feb-a144-42165a4d211f.html"
+originalUrl: "https://dailyjournalonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_fc2b63a5-d590-5c99-adce-3652a9358a21.html"
+webUrl: "https://dailyjournalonline.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_fc2b63a5-d590-5c99-adce-3652a9358a21.html"
 type: article
 
 provider:
-  name: The Eagle
-  domain: theeagle.com
+  name: Daily Journal Online
+  domain: dailyjournalonline.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "oBk2F/hEQbW5KnBGEStbAE+qDa6/uMVLFl+24VQV+GwJnQ19eBnbzDn+74u4GCcMS12BTvA+9Uzf8ZhJJUPRJM/0ce30IFceg5+QaPDRZlObPobep7NtBBcHlVxsBUDLIAYUZUauelnyeEna9RXE5MlUe0j+BuukEtGKXuyyUEo4uzVYiuWKUHr5fHqXbC3KD7WXPdY2jx2J79PcwFpUUtbtOZdnemKlMPwjjLFcrsRSxyvtFExEoemFEaF5Ypw40EVId8z516zZgmYLNO+udCY1Ax6tkkWE8nJowXCf1GSRyVlgJ+65hJFoSDA/3klNcF+E+p8gXnpD2vbV35Ubv4NREwMPwPxKEHQWt4G/J3/wkvpRaiJ8ZmcSGHklGaCHNXXe+k+ZXEsO0/apYGQXIsZPJSViVkSjMbIAgdpfuI3oceBPsvZYsgBQoX5h3IqJ2XzWnboi2jeEutYaUhjy6PjadXQ3DLS1KFGNqmepPAiTTPcuakDq+8szfIx9/mqexDu5hnbOQgZhKPitzKYknA==;zXEpSemSaSAA3fT2kBKYDw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyjournalonline.com/content/tncms/assets/v3/editorial/f/c2/fc2b63a5-d590-5c99-adce-3652a9358a21/62c454ed41331.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize"
+    width: 749
+    height: 393
+    isCached: true
+
+secured: "uDfAyEFw8DWZ4Iowpgo2Sq1sXAO14MlqgagnTA1KgLnqGh3UuMnq7nrBGhYlHHWoSp6+7Ji+XQXFVACs74sM4TXitBNgoz0pDNPe53B1vB1i+H9N+syckkppr1MLrQQjS9CKduLCGD5Zmr4HU6HuFLAWibXi1wHB/y43YKuYIpxa/wECdZOBk3d3/knXVsRjPfLikBMLPw/OkKSOamPr0rOFmGEzHJ7tF/Hb4qNoIHL8qAymhE2Sb9l1zRFdaVnl7qFBgf3H+pC5sEYwz4CuQHEdzh9U6HfV2QvdsyqEwVH6wKMtT7hTLqpxtagI2FLcs5lIDfXJzNGx9O3Ptx2xfIGcKWsL/Bi+oZrpuTqO8pE=;JGLG+mYh2Y4cOODlrIsv3g=="
 ---
 

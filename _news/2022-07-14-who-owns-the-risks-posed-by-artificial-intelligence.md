@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T19:32:00Z
 originalUrl: "https://www.canadianunderwriter.ca/risk/who-owns-the-risks-posed-by-artificial-intelligence-1004223049/"
 webUrl: "https://www.canadianunderwriter.ca/risk/who-owns-the-risks-posed-by-artificial-intelligence-1004223049/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Canadian Underwriter

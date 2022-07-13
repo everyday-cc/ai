@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/provus-inc-announces-12-million-series-a-to-enhance-ai-powered-services-quoting-solution-and-expand-team-1031584579"
 webUrl: "https://markets.businessinsider.com/news/stocks/provus-inc-announces-12-million-series-a-to-enhance-ai-powered-services-quoting-solution-and-expand-team-1031584579"
 type: article
+quality: 29
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,65 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence, AI21 Labs has Raised $64 Million to Transform the Way People Read and Write"
+    excerpt: "AI21 Labs announced today the completion of its $64 million series B funding round, bringing the company's valuation to $664 million."
+    publishedDateTime: 2022-07-13T09:49:00Z
+    webUrl: "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/"
+    ampWebUrl: "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Artificial-Intelligence_-AI21-Labs-has-Raised-_64-Million-to-Transform-the-Way-People-Read-and-Write.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "OpenAI rival AI21 Labs raises $64M to ramp up its AI-powered language services"
+    excerpt: "AI21 Labs, a startup developing a language model to rival those from OpenAI, Cohere, and others, has raised $64M in fresh funding to expand its customer base."
+    publishedDateTime: 2022-07-12T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
+  - title: "Amnon Shashua's NLP co A121 Labs raises $64m"
+    excerpt: "Israeli deep tech company A121 Labs announced today the completion of a $64 million series B financing round, bringing the company’s valuation to $664 million. The round was led by Ahren Innovation Capital Fund with participation from existing investors,"
+    publishedDateTime: 2022-07-12T13:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-amnon-shashuas-nlp-co-A121-Labs-raises-64m-1001417848"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 34
+  - title: "News: AI tech startup AI21 Labs secures $64 million in Series B funding round"
+    excerpt: "Artificial Intelligence startup AI21 Labs, which specialised in AI that can fundamentally change the way we can read and write, has announced today the completion of its $64 million series B funding round."
+    publishedDateTime: 2022-07-13T04:56:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/ai-tech-startup-ai21-labs-secures-64-million-in-series-b-funding-round-34549"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 34
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1654594033/ad-drezxt5v.png"
+        width: 990
+        height: 550
+        isCached: true
+  - title: "AI21 Labs Raises $64 Million to Change the Way People Read and Write Using Artificial Intelligence"
+    excerpt: "The funding round was led by Ahren and brings AI21 Labs valuation to $664 million TEL AVIV, Israel, July 12, 2022 /PRNewswire/ -- AI21 Labs, an Isareli startup aiming to fundamentally change the way p"
+    publishedDateTime: 2022-07-12T13:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033787/ai21-labs-raises-64-million-to-change-the-way-people-read-and-write-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "FUd/QTU5oMwxzpTcVBioVRffT96uLSv8Wm9rjzl3SvXulCVXLVyxNpB+saokXnAij2RYr89WVVlenzKy8PNh1I/lU+cPlZE7nPwe+GXdzW3db6sUb/DnnZK5ZlulxLfO5FBw7+1pFbgvqgEScTiRNUzf11B+WXJxT6Fe/59Y3JlMF4GJQL9J/KMECqy2lqtQU/+uIAqEcstr1KmhdQxOvH0Z3R44A9oXRACbZOie7E/mocrpRN9ijSB/BbeVK9HEvv5vCGHcZ1MtGAv6f5wf4xVAIGbUjX2gWM+7aDSKy8X5eazFvaYAQpxNQLSGZEfDuss4ZKDb2Yt0TKmpUSRidUQLLkHZ5bSRp2N7z45L2kimVG1seznZgGGVGbCfUf/2P9RjfxAy0i3WWwQvFYhGERCKuTvEgs5//zEoQ96gBE32E1JTop+Hzh/cZcL6dyh9qgPdrM4Z4ZFGykmloL6vfaniTYexZbzTQRmkINItl+5FnStKjnZpb4ejyzc3BME82zSxiYy6f1skt70IL3VwyA==;PIjFO/UCjpj1WJkI0xbp5w=="
 ---

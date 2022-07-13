@@ -36,6 +36,20 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Reading law in an AI future"
+    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
+    publishedDateTime: 2022-07-10T04:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
+        width: 1240
+        height: 779
+        isCached: true
   - title: "Adding More Data Isn’t the Only Way to Improve AI"
     excerpt: "Sometimes an AI-based system can’t decipher the physical world with a sufficient degree of accuracy and the option of just adding more data isn’t possible. In many of these cases, however, this deficiency can be addressed by using four techniques to help AI better understand the physical world: synergize AI with scientific laws,"
     publishedDateTime: 2022-07-13T12:15:00Z

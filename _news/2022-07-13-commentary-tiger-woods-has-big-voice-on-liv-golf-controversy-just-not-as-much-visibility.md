@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pe.com/2022/07/12/commentary-tiger-woods-has-big-voice-o
 cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/07/12/commentary-tiger-woods-has-big-voice-on-liv-golf-controversy-just-not-as-much-visibility/amp/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tiger has big voice, just not as much visibility"
+    excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. He said players who couldn’t resist the money — some received more than Woods has earned in his entire PGA Tour career — had “turned their back” on the very tour that made them famous."
+    publishedDateTime: 2022-07-13T21:27:00Z
+    webUrl: "https://www.bladenjournal.com/sports/44204/tiger-has-big-voice-just-not-as-much-visibility"
+    ampWebUrl: "https://www.bladenjournal.com/sports/44204/tiger-has-big-voice-just-not-as-much-visibility/amp"
+    cdnAmpWebUrl: "https://www-bladenjournal-com.cdn.ampproject.org/c/s/www.bladenjournal.com/sports/44204/tiger-has-big-voice-just-not-as-much-visibility/amp"
+    type: article
+    provider:
+      name: The Bladen Journal
+      domain: bladenjournal.com
+    quality: 44
+    images:
+      - url: "https://s24515.pcdn.co/wp-content/uploads/2022/07/128697846_web1_Tiger.jpg"
+        width: 504
+        height: 377
+        isCached: true
   - title: "Colmmentary: Tiger Woods has big voice, just not as much visibility"
     excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. Woods left little room for interpretation Tuesday when the 15-time major champion hammered away at Greg Norman's new Saudi-funded LIV Golf series as not being in golf's best interests."
     publishedDateTime: 2022-07-12T16:00:00Z

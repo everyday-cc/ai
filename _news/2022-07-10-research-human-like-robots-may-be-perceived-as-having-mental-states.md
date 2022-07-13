@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Health/20220710/3961174
 webUrl: "https://news.webindia123.com/news/Articles/Health/20220710/3961174.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Human-like robots may be perceived as having mental states"
-    excerpt: "When robots appear to engage with people and display human-like emotions, people may perceive them as capable of 'thinking,' or acting on their own beliefs and desires rather than their programs, according to new research."
-    publishedDateTime: 2022-07-09T02:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220707100907.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "u1SRHYKl0hdDLojbRcPUzCy6wBF2pFasa6CB07qhk4A8Sk60utKvOPqwR/MJwfbFk4XcU6/iCPsWc6ImUz4LYAAwOC4E1kqTgnyQBlp3dKyEa40BLGa3N/n4JGVPl6aHV7beIJ0Sh94vRxD+UIh6IXQrYS8UK1t0uqhy2dE/gnyMpay6VCeXdjnqnZ+3b/AT9LQZcN8IIf9BEDrrG2v4TyyK05g0YCmyMuu71PpqtE/Z1lnhwW8dMNHXblAqDpuAnkoGoAE/uqT3+Ji+AKYj2XJwGHJQu+4o+smTA/sOm8Rx/CtQ4d8mhR60yf4EyOzOl73YgnxPhGC4UR6gv9dQuLI6nSrrq+zy4lc6PorWr2o=;ui6bi2h3+vh+vf5jEKYIaw=="
 ---

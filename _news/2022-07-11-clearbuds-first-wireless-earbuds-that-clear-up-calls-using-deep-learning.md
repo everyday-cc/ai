@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/958498"
 webUrl: "https://www.eurekalert.org/news-releases/958498"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Engineering students develop noise-canceling earbuds powered by machine learning"
+    excerpt: "Engineers from the University of Washington have developed a set of earbuds that achieve almost complete noise cancelation using machine learning. The earbuds, dubbed ClearBuds, were"
+    publishedDateTime: 2022-07-13T17:57:00Z
+    webUrl: "https://www.techspot.com/news/95282-engineering-students-develop-noise-canceling-earbuds-powered-machine.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
   - title: "First wireless earbuds that clear up calls using deep learning"
     excerpt: "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations."
     publishedDateTime: 2022-07-11T18:25:00Z

@@ -67,6 +67,15 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Provus Inc. Announces $12 Million Series A To Enhance AI-Powered Services Quoting Solution And Expand Team"
+    excerpt: "Provus Inc., provider of an automated services quoting solution, today announced it has raised $12 million in Series A funding. Norwest Venture Partners led the round with returning participation from angel investors Accel Partners and Storm Ventures,"
+    publishedDateTime: 2022-07-13T13:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/provus-inc-announces-12-million-series-a-to-enhance-ai-powered-services-quoting-solution-and-expand-team-1031584579"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "xBgO9mdwQ+Cuz/o9kc1asSM4S0xEjlNhQZw4vte4QgJzsoBKIu4e4HAvORr1MZBwbY9wMI8owGerqSeKQ0kortSW8DKX7Qtk2Y77uoHOh0Gqipi9ppoq9j+4TXRiLi/nrwVQRBdEzOtk6LMiAKTa13KtKQerCpwPCG8ACmmrRuM4jTpB3vhw+g1GXBGVlBJpI7jxvrjjIxgAR6TAMeBh/VsqMzCYND5BiwzR76G1GXTOtlZzEg5mOQ9/o9qnaRLo5Mr38e8mD37F80YOF41c0azegy8w1CrOI+S2c9eM1djYmD1M5PogQSTwMxLGyd+6f6FMRLVLgSzsnvjD7/7NSPYnB9yI7AQ1+Dbla0A/aKM=;4J0KDp63pRtY1gD5WFlZQw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T17:31:00Z
 originalUrl: "https://www.medpagetoday.com/neurology/alzheimersdisease/99703"
 webUrl: "https://www.medpagetoday.com/neurology/alzheimersdisease/99703"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MedPage Today

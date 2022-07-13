@@ -5,10 +5,12 @@ excerpt: "Fears that artificial intelligence tools could displace creatives such
 publishedDateTime: 2022-07-13T11:00:00Z
 originalUrl: "https://www.wired.com/story/when-ai-makes-art/"
 webUrl: "https://www.wired.com/story/when-ai-makes-art/"
+ampWebUrl: "https://www.wired.com/story/when-ai-makes-art/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-makes-art/amp"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: Wired
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://media.wired.com/photos/62ce1726540a1fd5ca4bd872/master/pass/Dall-E-2-Meat-Men-Business.jpg"
+    width: 1312
+    height: 984
+    isCached: true
 
 related:
   - title: "Humans Are The Future Of AI"
@@ -39,53 +48,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This Camera Drone Uses AI to Capture Photos of You"
-    excerpt: "Upgrade your summer adventures with this AI camera drone. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners."
-    publishedDateTime: 2022-07-11T13:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/430930"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "Reading law in an AI future"
-    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
-    publishedDateTime: 2022-07-10T04:00:00Z
-    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
-        width: 1240
-        height: 779
-        isCached: true
-  - title: "Role of artificial intelligence in agriculture discussed"
-    excerpt: "Punjabi University today held a one-day seminar on ‘role of artificial intelligence and automation in agriculture’."
-    publishedDateTime: 2022-07-13T00:29:00Z
-    webUrl: "https://www.tribuneindia.com/news/patiala/role-of-artificial-intelligence-in-agriculture-discussed-411829"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_1916190257.jpg"
-        width: 525
-        height: 349
-        isCached: true
-  - title: "Harnessing the power of artificial intelligence to future-proof your business"
-    excerpt: "Artificial intelligence (AI) is now gaining the same kind of acceptance as we have for email, word processing and spreadsheets. Now proven in the eyes of many are technologies from the heuristically rigid, reactive algorithms capable of beating chess ..."
-    publishedDateTime: 2022-07-12T09:26:00Z
-    webUrl: "https://www.arabianbusiness.com/opinion/harnessing-the-power-of-artificial-intelligence-to-future-proof-your-business"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 16
 
-secured: "Linde2AJSha2bgmWVAHhy8vLnY4FqelpXr4RNIBfXTHj6l1uROfpxF9Tk84qC+ObeteovS7Amtz+8TMPjIWThE7ia1iod8BWX8Krkudsdg2O3tmel997EQjA0dK+9bxv6kZ9jauGWGSsI0/fEukUv32l5DXCMfuHjbogDsIvcE8xScHC5Xn2hGgsTMyVmhrzWHaDEtcbhy7lYTVwlZGDizxabz93apwqtPxyH6lwq3YBdyMsnrOnY6u8yB3AsqSTibjzvqWw7sWldWWwm6R5D3/UFCgVy3LXAJxNpV1VlrQanQLaK1YT6rfErN+DDevKkJu1+TSttF4hOA0ZdLIpqHciFGXpg4YAao/DfS/zis/tOST8bnJoQZjnvkGpwwNC6eixX7YmpNMZ8ita+M1XwOTOIUUPkPb77Jlc+fkTgWthW0s1y6ML8Xf0FNxID/vuxdbs6yQOtU9QnwN8/D67iaUf1C3DFMeC6/E7+eCRzarVhznz9kR4yCQqT1FTW38enNKfFn4MOumtthtXb9KiMA==;mrf360BlxZERKNP1GTcepQ=="
+secured: "EL6dVhVFLiV8csruo/aB/5w4tOwniJduhHXTbHaG0VFyEMn5oowd2L+ojDVQfWOw5/NooiM3+qJJgWHYIl207m35GTvGFkXJI4BPvbbyVYHyEbZDnx8DFlUcANh1GBQnDU4/JOzK0dTQfNpbsoPxAaf95D7hsXRQWZZafN93ChEdFu+ExgOYHFcfIsp7DhnGJXXi9mDRhZXtGu/aNBH+fd3i7hNyJpGQulyKcNcaPg9/1Jcn+y03NWnB/rIDnhl8UyhILI6lrVVgQT6TyRh3QOm++wYkPULtVIGaCs5i08eEjJrd4Z8/nHk59U/2M1AM/EU6QMNN5ayB5Np83jEKHKUBtcr62kHqhjAzRSbIr9g=;mkDvTHwwSE2ZIUP8a4Y8Wg=="
 ---
 

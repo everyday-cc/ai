@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Tiger has big voice, just not as much visibility"
+    excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. He said players who couldn’t resist the money — some received more than Woods has earned in his entire PGA Tour career — had “turned their back” on the very tour that made them famous."
+    publishedDateTime: 2022-07-13T21:27:00Z
+    webUrl: "https://www.bladenjournal.com/sports/44204/tiger-has-big-voice-just-not-as-much-visibility"
+    ampWebUrl: "https://www.bladenjournal.com/sports/44204/tiger-has-big-voice-just-not-as-much-visibility/amp"
+    cdnAmpWebUrl: "https://www-bladenjournal-com.cdn.ampproject.org/c/s/www.bladenjournal.com/sports/44204/tiger-has-big-voice-just-not-as-much-visibility/amp"
+    type: article
+    provider:
+      name: The Bladen Journal
+      domain: bladenjournal.com
+    quality: 44
+    images:
+      - url: "https://s24515.pcdn.co/wp-content/uploads/2022/07/128697846_web1_Tiger.jpg"
+        width: 504
+        height: 377
+        isCached: true
   - title: "Commentary: Tiger Woods has big voice on LIV Golf controversy, just not as much visibility"
     excerpt: "Woods says the players who have defected to the new Saudi-funded series “turned their back” on the very tour that made them famous, and what the PGA Tour wouldn’t give to have Woods at full"
     publishedDateTime: 2022-07-12T22:22:00Z

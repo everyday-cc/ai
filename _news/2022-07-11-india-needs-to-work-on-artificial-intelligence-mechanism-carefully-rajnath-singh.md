@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rajnath Singh to launch 75 AI-enabled defence products"
-    excerpt: "Defence Minister Rajnath Singh will launch the first-ever 'Artificial Intelligence in Defence' (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital."
-    publishedDateTime: 2022-07-09T02:57:00Z
-    webUrl: "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html"
-    ampWebUrl: "https://www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html"
-    cdnAmpWebUrl: "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html"
-    type: article
-    provider:
-      name: Catch News
-      domain: catchnews.com
-    quality: 59
-    images:
-      - url: "http://images.catchnews.com/upload/2020/09/02/rajnath.jpg"
-        width: 730
-        height: 419
-        isCached: true
   - title: "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh"
     excerpt: "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,"
     publishedDateTime: 2022-07-11T07:53:00Z
@@ -87,22 +71,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
-    excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
-    publishedDateTime: 2022-07-11T19:25:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 58
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh"
     excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
@@ -216,6 +184,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "India should be prepared for upheaval due to AI: Rajnath"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-12T00:54:00Z
+    webUrl: "https://theshillongtimes.com/2022/07/12/india-should-be-prepared-for-upheaval-due-to-ai-rajnath/"
+    type: article
+    provider:
+      name: Shillong Times
+      domain: theshillongtimes.com
+    quality: 39
+    images:
+      - url: "https://theshillongtimes.com/wp-content/uploads/2022/07/Rajnath.jpg"
+        width: 945
+        height: 632
+        isCached: true
   - title: "Rajnath Singh’s pitch for AI in defence"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
     publishedDateTime: 2022-07-11T21:04:00Z
@@ -230,33 +212,33 @@ related:
         width: 800
         height: 578
         isCached: true
-  - title: "75 AI products launched at first-ever ‘AI in Defense’ symposium & exhibition in New Delhi"
-    excerpt: "India’s Minister of Defense Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defense’ (AIDef) symposium and exhibition, organized by the Ministry of Defense in New Delhi on July 11,"
-    publishedDateTime: 2022-07-12T14:46:00Z
-    webUrl: "https://thesouthasiantimes.info/75-ai-products-launched-at-first-ever-ai-in-defense-symposium-exhibition-in-new-delhi/"
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T07:01:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-411423"
     type: article
     provider:
-      name: thesouthasiantimes
-      domain: thesouthasiantimes.info
-    quality: 30
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 26
     images:
-      - url: "https://thesouthasiantimes.info/wp-content/uploads/2022/07/kathy-hochul-images-sauspiel-de-413x250.jpg"
-        width: 413
-        height: 250
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_458303496.jpg"
+        width: 660
+        height: 486
         isCached: true
-  - title: "To promote 'Aatmanirbharta' in defence, Rajnath Singh to launch 75 AI-enabled products"
-    excerpt: "Defence Secretary Ajay Kumar said that the nature of modern warfare is changing and AI will play a significant role in warfare. These products are tested and will soon be deployed"
-    publishedDateTime: 2022-07-09T03:32:00Z
-    webUrl: "https://www.firstpost.com/india/to-promote-aatmanirbharta-in-defence-rajnath-singh-to-launch-75-ai-enabled-products-10888821.html"
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 29
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 26
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/06/Rajnath-Singh11.jpg"
-        width: 640
-        height: 362
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
     excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
@@ -285,15 +267,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
-    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
-    publishedDateTime: 2022-07-11T13:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/defence-artificial-intelligence-council/videos"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
   - title: "India must be ready to face upheaval due to expansion of AI: Rajnath Singh"
     excerpt: "Defence Minister Rajnath Singh has said that India needs to work on artificial intelligence mechanism 'extremely carefully' and be ready to face the upheaval that may follow with its expansion"
     publishedDateTime: 2022-07-11T12:17:00Z

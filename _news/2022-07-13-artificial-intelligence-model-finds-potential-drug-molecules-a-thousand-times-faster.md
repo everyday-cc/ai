@@ -5,9 +5,11 @@ excerpt: "The entirety of the known universe is teeming with an infinite number 
 publishedDateTime: 2022-07-12T19:57:00Z
 originalUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.html"
 webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.amp"
 type: article
-quality: 10
-heat: 10
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "Nnwr2rdvD6W9hP+Z6KEBiNb3/MGI6mpXLL3CX3MVsKVNecEUNsPPLscE72AxOkeDVegqBkRRKdPX/6QaOdPlkvA9c7HjDzRJ1NuVok30LA0DCaz1kl9b8HJzvXf7eX5OgxOyYdITlCzaf0p5FrAQ/f23IPa49hRvwOupLCOZVdp0zG+vfEsoLROmVrdIffME1M5uCnMYFwLjZnQJgbBX4iKLr++o2Pd/09gQX6Cb3IMCl8irtbujFrna4xa+iWnMnPc71/8yYCT+pUU3RX2fJitFH6ye4dUHYJM3HM3lxnaB9uVOSroTNNB/YJkG//Qgr6VbaEDR5YfbAZZyU9dj7R/iT+0FEoAOBb96s7mpkWiEj/YgEB4JilfVc2199akq0YiN4/7/zWY4iWaUpHYfkUKs18OP7M+pz9WvbumyxE4WYx4faeTCyZVMkoDOl+bAh87Az/Wf/OaUEkfKsvzKVfYGRsOfEwJLf+baW/BE3K9mhbaauGx3BCrd98NgVV21YDg7oGZ/1L0A1LiJsT+9Qg==;sfLsOzi3brRqP0b3JPtq1g=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-48.jpg"
+    width: 900
+    height: 599
+    isCached: true
+
+secured: "95A3P6Ei8r3zpkBlbyp2GgTU8yVnUjRk29uWucRixdEdpw52sbR9alyDhCzovsHw75rGkLESCBfdLvTNqUHcrpYDUEvSAINP6p5P6lQEVcDrVRn26MOHnb0ZZD6PQB+wr6SXv1vgkFwEBpnQr5O2YY/ZFwlNXVpiyQZvkTPy1CdJ1cVcG0J8aKEfP51byxoulVTmT/CcflotTWDnJsbwN78f/sJbHRcRhe3NJrCwWa+SsyM2Bsvbg1MPgNzJ5nuan5HU47P3CWaT2BzYmT/jJ1CcVbu4Q1UI0rGCA7d9qb8OtkwKEMEDKid/SqBAN0GN3GWY/kVlR27aUFgSCfarSat5qpptqcbm4sF0lKIaVAI=;wbjiCTtf3P/GIEnx14Q/Ng=="
 ---
 

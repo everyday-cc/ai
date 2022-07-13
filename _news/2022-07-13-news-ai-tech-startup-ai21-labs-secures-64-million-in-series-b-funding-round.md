@@ -58,6 +58,15 @@ related:
       name: globes.co.il
       domain: globes.co.il
     quality: 34
+  - title: "Provus Inc. Announces $12 Million Series A To Enhance AI-Powered Services Quoting Solution And Expand Team"
+    excerpt: "Provus Inc., provider of an automated services quoting solution, today announced it has raised $12 million in Series A funding. Norwest Venture Partners led the round with returning participation from angel investors Accel Partners and Storm Ventures,"
+    publishedDateTime: 2022-07-13T13:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/provus-inc-announces-12-million-series-a-to-enhance-ai-powered-services-quoting-solution-and-expand-team-1031584579"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "AI21 Labs Raises $64 Million to Change the Way People Read and Write Using Artificial Intelligence"
     excerpt: "The funding round was led by Ahren and brings AI21 Labs valuation to $664 million TEL AVIV, Israel, July 12, 2022 /PRNewswire/ -- AI21 Labs, an Isareli startup aiming to fundamentally change the way p"
     publishedDateTime: 2022-07-12T13:29:00Z

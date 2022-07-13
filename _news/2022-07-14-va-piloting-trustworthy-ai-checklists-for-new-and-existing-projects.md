@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-13T19:30:00Z
 originalUrl: "https://www.fedscoop.com/va-piloting-ai-checklists/"
 webUrl: "https://www.fedscoop.com/va-piloting-ai-checklists/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: FedScoop
@@ -13,7 +16,15 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI Ethics
 
-secured: "2wD1+0pFBlVo1CofMlemrQ40pn7+ztkTJco5C+/G0hRKyySBuRg4h0MJGg27cflDaI5IsFflcuyKGTjvOJ04R6jwcUJDKeXm4Hy3Vs4ooXDcahlTwPidcenN+pZ1PyIB/fja2IOOublDHZxGnBSA1tD2H5nQwixOQFe+BjJM4mDAMemnqf9qDG9woMV4cpmcHNsZFua7u5iJAPQt2OzkqfUkjF9jNPU4XXqH58fVcY7MjFyLpVixy7Mp57m8i6rXvd6kCoSnqbQNbYyMw7hXL5WdYbpzyjFgjxogNq1y1CRcnLRT6c4do1ghZxJfvfFSG5cCwJVrLBo9dG/l/ckBewJZEpFU1DsB2HqyKSvD3DEG/2VPG/lCq1DQnbzOfoeI2YaZI4g9A+IV0vSDL+Hth1Ixam41iU93dMCxg+UP7u2cjfpQJGfcyoWkoH1RxdmdWsWP3WP1wf3CxxMD+DfVhxsTcbHAaCSxkORb/s7wCPasFt4YITY1/3KJdGWCIHtEUr39guA6U6euHjrYAL4aag==;ivDx7TsCe6CjGO53YpkdoQ=="
+images:
+  - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2020/07/25706497344_a77fd57c0d_o.jpg?w=1200&h=500&crop=1"
+    width: 1200
+    height: 500
+    isCached: true
+
+secured: "Oyko2YK53ocz0LHGfExebvCPHskUVDW4pVj2Fs2qU+YMzajH+rC4Mft17wGeviy+iWuK2Gi/kHUHC/mJOrVvXqbwReJ4qT5KzwjGkasyJ00jNHS6384L/+fvY5tq1//iY9EzoU4ihuByHCAICACFivwGxtyp/NuNrXib+LD19uUZtL0l8ckL0sAU12/KzU2yOgs7KAf+7dZIJPL2j5LtCyXO5/XGh7ZgnkJmE59GjwJfVOIA0Q0yjdp8UvSm6f78H5yhP6ag2neHv1BJArJmsoXwTAu+SJGbez285nZCEBlo1Mua2rJrmCncFR6lL8xiVnuUw3arp8e4Q/8BD5xfKdKJhdmPpc7zsoTZoUbPNts=;+PiHHt/ns5jzY3DyXQfXqA=="
 ---
 

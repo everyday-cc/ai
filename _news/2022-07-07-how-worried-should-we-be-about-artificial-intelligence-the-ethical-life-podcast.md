@@ -3,18 +3,24 @@ category: news
 title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
 excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
 publishedDateTime: 2022-07-07T01:15:00Z
-originalUrl: "https://trib.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_bc4da86d-df91-52e8-bdde-7b6cae492f59.html"
-webUrl: "https://trib.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_bc4da86d-df91-52e8-bdde-7b6cae492f59.html"
+originalUrl: "https://journaltimes.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_fec697db-0583-5ef9-b1aa-5e5368fed5aa.html"
+webUrl: "https://journaltimes.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_fec697db-0583-5ef9-b1aa-5e5368fed5aa.html"
 type: article
 
 provider:
-  name: Casper Star-Tribune
-  domain: trib.com
+  name: The Journal Times
+  domain: journaltimes.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "yx7Dj37rrLgGKhY1L2hp8oWQxa+2wVeXXwAgeoEYvkT7/AOJDqerMHSpJBkz5bm3FJUDnoLne3Ls+GuAA/fEXCzTiMKHABh+028vL4lVDbOBUYcnSj3Qec1oL6L60VAwrXZbqpUaNyTv59WCg3CvSPdihY/jj2lwj5ZlH0f0GmB4CO3IL5L44qAlFFi0qgvsavRmGwVAsnZStpPH2UIGFfzlr1nivMuo1N7Tej9B+8KF4oxmYmVHQX7s8seVtci6tD6LVu2Lf8egYD3vMK0x44chvWeGMOtimDkwsB5dgvOORkf/mrO/Gc20MML3sNWKRZ5d08mYzWPL/mOz0n359tOoMjbGG/AAHSDROqTgBAk416UCfY9+LvMILHqfWQGiD9kEy3M7iRTI6EoqyX+QV0KRR3cX+Tohd1qn+4qLD1g7ts3KuKAQHc+GtcuUbAwurmhNF8sxXZ9MwZbiZYtY0WDaDCyWez8xYAWElrciS93AOWb89J/veKSVc64oYmtM8WfKJ6arcvglW9oJdcB3Ig==;TXQgjNm+OtAlALXjw/46Mg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/f/ec/fec697db-0583-5ef9-b1aa-5e5368fed5aa/62bef017cbf06.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
+    isCached: true
+
+secured: "INnHk403+kX7XqjoGcfqpi6Rp9zxoaPw+UV3e6uwLw+9eTmimbsDyzdMB90SMElAbXN0NcT7JS9lJmPlY7HXd4X1wKMYEkfZgQzjP3Mp/KgR3R+pMJF5lmyZ0SCa8Pu9asvZgMBz7uaEbwfahVfGJDzwrVVRlRaayfzTzEJBgmTHfqi40357MzXtUKPMG29Dy+V84xtRbojr61qXnAtTTqGvX4/nvwv+0I4Rsweijb285IFPa+/VFIB+W4jBS0bAgilSWhRoJ+GVN0evyCkyKIkUpW/aXnE5L2uPj8LdHixmiLovKo18s8goZC9YKHMCrhy3Z0vPIorZ3r2tL7x+V+2lmI5kWpkBTe08YYNhjyc=;VhNmfDiSlFezhunJv3rqfQ=="
 ---
 

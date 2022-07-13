@@ -562,10 +562,10 @@
     {
       "path": "_news/2022-07-01-vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence.md",
       "title": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence",
-      "excerpt": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence Jun (PRNewswire via COMTEX) -- PR",
+      "excerpt": "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-2022-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-2022-06-30",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -575,21 +575,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:00:00-07:00",
+      "publishedDateTime": "2022-06-30T12:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -598,8 +589,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
