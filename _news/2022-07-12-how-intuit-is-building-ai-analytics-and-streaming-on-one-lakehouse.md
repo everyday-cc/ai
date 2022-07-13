@@ -38,6 +38,22 @@ related:
         width: 2048
         height: 2048
         isCached: true
+  - title: "Defense Health Agency to Utilize AI, Data Analytics to Enhance PTSD Treatment"
+    excerpt: "The agency has partnered with AiCure to deploy artificial intelligence solutions as part of its PTSD Drug Treatment Program, which aims to optimize treatment and increase patient support."
+    publishedDateTime: 2022-07-13T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "4OlFLXYSejBrtJDFVBPCVYK/gpuGnXiHRzYvdyudPuS2I+vzyN48aWxjdvfvuTDa40iQUPTkTjXgb+zEvIMW7nszrolnZnzYx08zM3v5fxwwe2FYaISOdDGVGr1LXEAznuL3MXUpoPYr6PDruiXNpMOxuZw607kfI+x3qFXsyGCQbTHmL3kLIbU7damIz2zcC2u7UBnTPhSgkWaR1WN/bqSrANcfklSxwONJGlIySPByTqX5BwYYgSYoRcvAR6zDY7tcByqykKjVv88waFK0GmmPHXOAY8/KXf/gfom/zC4+0sNxwHyOWMwqCW0P6vRL0GfH0OjtS5vL7nmPHOyqoGK1s+QvpAT0+Q6iNm5yIQgkPgDfeLDk/f4GMru1JtYsCdldPQdSPCoY68qdjkHSslbk5j7H+gls3YUqbbBStsNMPI2LXBD9549JqaZ5YEhK2pH5JjvPqjmka8gZTBqNfX4UrQ81vxOkN1XvJljroAKe6LQ8+l9Linq8cdfIonwwXezqpyuD5RO3ldkzhTuoiA==;D+7sLRck4glvn5e1Cg1A2A=="
 ---

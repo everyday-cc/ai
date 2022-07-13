@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Intel Releases Open Source AI Reference Kits"
-excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
-publishedDateTime: 2022-07-13T01:58:00Z
-originalUrl: "https://www.scoop.co.nz/stories/SC2207/S00019/intel-releases-open-source-ai-reference-kits.htm"
-webUrl: "https://www.scoop.co.nz/stories/SC2207/S00019/intel-releases-open-source-ai-reference-kits.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/SC2207/S00019/intel-releases-open-source-ai-reference-kits.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2207/S00019/intel-releases-open-source-ai-reference-kits.htm"
+excerpt: "AI workloads continue to grow and diversify with use cases in ... 1 Predictive Utility Analytics Reference Kit, measured on June 29, 2022. HW Configuration: Microsoft Azure Standard D4_v5, OS: Ubuntu 20.04.4 LTS (Focal Fossa), 8 X Intel Xeon Platinum ..."
+publishedDateTime: 2022-07-13T16:20:00Z
+originalUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-ai-reference-kits/"
+webUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-ai-reference-kits/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Scoop
-  domain: scoop.co.nz
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - Microsoft AI
@@ -54,6 +52,6 @@ related:
       domain: theregister.com
     quality: 17
 
-secured: "VpckHW0vLhNO1OATq9zsI9WqFSM8JQABvwlgNlNLGj8g3tbFs17yRXL1UKtrRw39Qh9y2dkxaAeREA6kHIr0XgBVMhgbNr8NMobgTvmX80NzjMPZfEDKZIrgkldh+Je5JgojJ9y15zB6R67aIWZvUtgLP/6PYlLHSVrnhl3vgxNHa8eFpVpPoq9QlyMGMUXiAw9qG0ySE3tDtFigHAclg5F+RbegmcwH6j9LSbvR3OyPViMDVp9dp2X2T+5O0ctxJlC/Q6J4hzT8qoSTMSDWrPoNXLtm2KPFC7Gc/ft6hAo3Y7l86rpILgldn+cHTsLEgKoac9hVxucIG57bzuTJWfdXxkaK293kKXyijNY00wQ=;sLh+IYU7o+FMKk2TUZt4ig=="
+secured: "NecoYBx1Dq66sXkzRNQfoXMp64c1T/q6kCyTlmSytx9jQeHYTqFROyS4593WPm0496G14OZStwwGvRRAtbrWZfaum6kOEQJW+rdRfqSs4etnkloXEB9OmG9rEc/IfJeozA+xRXqSxYZPwDf+qcbe+7Jiu1MHPfO7HY4I5HIV3bX717QiUiBBQ+5CvL60su3pHtEn66bUHqiYrH9yI/8BvpBKapAk3rSh4mZ5hvY6x6ejkjYqIxf/1f9g82SBnLJvfrIr6C/rMXQyggUtm3+wtZkujBagsN+zd9xnRkP88NA8QxS0REWWJ6Y9K86SOtn0e25LsuGYcS3IppAvT2e5dwc5nEbklOEyo53jhbCrXpnP84InTjfETTS+Cbfh2FdGljH88Lf5WogPUMXHRDOI+mplX9mGJVgnhgHFPfyxuhYyMmdST/BMK6PS2g2PtM2nHT7xQIBtlB+hFbwG+wDEIcsKHGoGaUBSbLrVcqFwkuWeQRNYwjgn6PhNJ0efTlhnN9pdtQvQoYesKoxdTbH2LQ==;uqLQ543/WIvHiO9TjM1ORg=="
 ---
 

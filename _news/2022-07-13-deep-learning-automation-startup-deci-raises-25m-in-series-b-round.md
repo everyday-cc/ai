@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Deep Learning Company Deci Raises $25M Series B"
+    excerpt: "Deci, the deep learning company harnessing AI to solve the AI efficiency gap, today announced it has raised $25"
+    publishedDateTime: 2022-07-13T16:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/deep-learning-company-deci-raises-25m-series-b/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
   - title: "Israeli deep learning co Deci raises $25m"
     excerpt: "Israeli deep learning company Deci has announced the completion of a $25 million Series B finncing round led by Insight Partners, with participation from existing investors Square Peg, Emerge, Jibe Ventures,"
     publishedDateTime: 2022-07-13T12:34:00Z

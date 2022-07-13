@@ -3,18 +3,24 @@ category: news
 title: "How worried should we be about artificial intelligence? | The Ethical Life podcast"
 excerpt: "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence."
 publishedDateTime: 2022-07-07T01:15:00Z
-originalUrl: "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html"
-webUrl: "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html"
+originalUrl: "https://www.wiscnews.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_99842779-e74c-52b4-87ee-c3005e3ea401.html"
+webUrl: "https://www.wiscnews.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_99842779-e74c-52b4-87ee-c3005e3ea401.html"
 type: article
 
 provider:
-  name: The Eagle
-  domain: theeagle.com
+  name: WiscNews
+  domain: wiscnews.com
 
 topics:
   - AI
   - AI Ethics
 
-secured: "uaGtDYXuF4ZogwYhHzCg1FdsS8imQkQVN7CswrUvVQ1B+Fuwg2vX0K6ttOEM9mZ7ljA5LG7+unlQuNg2duw/mUOCkemkWTBvLtzXXZOfUepMPk3MG72fBLLKrrKTNFPeNH/q8NVbxj+GdSzfdTCAK/fn9mPNclVS9GhGtPQnGgkOppg6ZGQ2qaPDvDQlAYXgJipQduFdJRB8ywyPrfeKAF3eOEnpw5FzZZVjOP10npb8WjV6flOp7CjlIfwgTPsnyMoYbmOaUvk8WQfhRFafViqgvTiKNZaImk+bZqknbX4q4CGVTfSFMu3avf2OD7PHFvUhIDf0mTvn7jMvonz0cS3wWgtdatn4yCGVnMTCNfzNwaWI+0/7e1Y7JIz3+uigEouyMW2fg8P7a/kC8T6JTKyjYAqRCvNUvBsIaK2o/G6PebvDZ8wubsSPV6zpdJBpuM+0oR6kK7I3eFx7RhKVQOSnsQO7md+NETc+Bqbwdrr3YBorL9VYcZknllww2BNuMcPjLSBKfKBxCwzfKLZEbw==;sGsxOkabpe56XQcD83giDw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/9/98/99842779-e74c-52b4-87ee-c3005e3ea401/62c447c5b456e.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
+    isCached: true
+
+secured: "W18Yb4DahFj60ehmqXWXT9C7dADLEoWsK7cNRTiGnQEvIEDURriyEqLOSI6PxAknsbt710gEm6cZzLnhPUVaoMF6/Wi8PJGZlNhW16+mm+zYgXPqxyu7X943ODTI4ZAQb46Zm4PWrYu465f9E2PQqNsxGdUUKB8WUPoUkTg8d9JOhht/lFxF1/ZZapIx7k6riCGrsRZXYWtREQJ/t2RT9MoVU7PPQWwvk17pZcs6i9GZkFVTq75ZqYKPYa0R3GdH/CVY1hKv9gwwhMiAYkZoiovWkjc0PBGbOVDwrJ8q5tqQP55Kf1XgziDnA97/Aa3EMbC0zVv/jlB/UBfKqoaxinyOkGXhuLBBV5dv6qV2PJc=;PpTvTzFbig9x389mftXxIw=="
 ---
 

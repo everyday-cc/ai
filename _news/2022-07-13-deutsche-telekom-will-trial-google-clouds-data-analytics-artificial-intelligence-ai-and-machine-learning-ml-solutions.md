@@ -7,8 +7,8 @@ originalUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-p
 webUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: RCR Wireless News
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Defense Health Agency to Utilize AI, Data Analytics to Enhance PTSD Treatment"
+    excerpt: "The agency has partnered with AiCure to deploy artificial intelligence solutions as part of its PTSD Drug Treatment Program, which aims to optimize treatment and increase patient support."
+    publishedDateTime: 2022-07-13T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
     excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
     publishedDateTime: 2022-07-11T23:17:00Z
@@ -40,6 +56,6 @@ related:
         height: 667
         isCached: true
 
-secured: "F8tr00nothyT5aQF4nZihVx28d8mFVkH2kiYVafkvtgSw11krUJvnQQKMGhgzCY3hC0bgpH1NZbxf7BXrlzHFPyfXPYP3+KDUjxeu02QzXlYubjnkUU+7NYSlz82/u8s6zgPtlBMrRsEIECUu4g5BZGagrNeOVJANisknyr4sJTfovrRyU8LCgGTXIP1WK8Eb8JYKB6jzmQq3hufq8AFsDOke7YjRvAs6UiRt5lBBjxAU2HxE9FYVsDEIxJDTcDyb9ugEh9Fz2QC2uhVM8bmm6BYqu50qPTsq9GU8T/eFkkpVuVmEPKm5AOYBwui3oSfe7QvqJg+GybYwNtEwb3JuKInhZv0q7qApCx48WtQORY=;dkG44hfQ1uVaqsDyM98jGA=="
+secured: "9VRQcLmb6Q2ngMj37WZ92oq60iM3NEjWU9Ab9Lw/Hls/luefpNxIvU8zoAUB4sbcEkPdPvg9xhmrgg+6jyHug0XFf7hEqXmjUI6bwjxxjviKR+Z1U/6KRX/IVKWSWC46Q3Fz4l86MB9sLV3uDl38XcFLZ3DwRcrfusWmnTK76wXpvJDvlgXUBwXJzWmVtyLAyju0yT6tTLziQwQW2QJDcT6EDDuUCeY/uFmVFLwe4kNn8+Dp8ahvd55JsTjhajOTz7GuUSTCJjd/w3GKsrcfxzOSAhmAPRUUvsXPHWfm4n7b4nZJAdcZgJsCwpBonp9jboM/EzHM/0LojUoRVN6rFxmM+tYKLNFkRYBpTy7U2CcMSCgkYJcx1TSimEm0DOcXbsSSk3z4ODnpLfZvNGULByQpAbl3yYffuHpawr9ndnodFkzW6zskxyCzrsoH8cO95Z8JPkPUlCbTveoVgOB5dTf8eRNr7MN18/+oYaNF0q3NDUcNdjSBvpWkUWvx9wOUT1DqRhbHXNLFfPyCKASOTQ==;NzVWLpBxJZ0NAXUAV79ruA=="
 ---
 

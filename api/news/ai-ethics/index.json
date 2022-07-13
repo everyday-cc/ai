@@ -188,13 +188,22 @@
       "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
       "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
-      "originalUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
+      "webUrl": "https://www.wiscnews.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_99842779-e74c-52b4-87ee-c3005e3ea401.html",
+      "originalUrl": "https://www.wiscnews.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_99842779-e74c-52b4-87ee-c3005e3ea401.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/9/98/99842779-e74c-52b4-87ee-c3005e3ea401/62c447c5b456e.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -202,8 +211,8 @@
       "publishedDateTime": "2022-07-06T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Eagle",
-        "domain": "theeagle.com",
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
         "images": null,
         "publishers": null,
         "authors": null

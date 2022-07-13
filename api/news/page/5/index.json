@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-07-no-language-left-behind-metas-new-ai-model-can-translate-200-languages.md",
+      "title": "No Language Left Behind: Meta's new AI model can translate 200 languages",
+      "excerpt": "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
+      "originalUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2022/07/1657179489_287605911_512850337132384_8138110729340998362_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here.md",
       "title": "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here",
       "excerpt": "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle.",
@@ -362,13 +414,22 @@
       "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
       "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
-      "originalUrl": "https://theeagle.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_0709ec93-4cc8-55f7-9dfd-f7de18900ea4.html",
+      "webUrl": "https://www.wiscnews.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_99842779-e74c-52b4-87ee-c3005e3ea401.html",
+      "originalUrl": "https://www.wiscnews.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_99842779-e74c-52b4-87ee-c3005e3ea401.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/9/98/99842779-e74c-52b4-87ee-c3005e3ea401/62c447c5b456e.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -376,8 +437,8 @@
       "publishedDateTime": "2022-07-06T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Eagle",
-        "domain": "theeagle.com",
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1092,58 +1153,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-covid-19-showed-financial-institutions-fast-change-is-possible.md",
-      "title": "Covid-19 Showed Financial Institutions Fast Change Is Possible",
-      "excerpt": "Covid moved financial services forward very rapidly, and showed that with cloud, it could handle tech change much faster than it had thought",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c46ff4003fab3b8723031f/0x0.jpg?format=jpg&width=1200",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/amp/",
-      "publishedDateTime": "2022-07-06T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

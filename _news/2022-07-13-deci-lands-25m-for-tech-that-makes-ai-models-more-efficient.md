@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 34
+  - title: "Deep Learning Company Deci Raises $25M Series B"
+    excerpt: "Deci, the deep learning company harnessing AI to solve the AI efficiency gap, today announced it has raised $25"
+    publishedDateTime: 2022-07-13T16:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/deep-learning-company-deci-raises-25m-series-b/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 34
   - title: "Israeli deep learning co Deci raises $25m"
     excerpt: "Israeli deep learning company Deci has announced the completion of a $25 million Series B finncing round led by Insight Partners, with participation from existing investors Square Peg, Emerge, Jibe Ventures,"

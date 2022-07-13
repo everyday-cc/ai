@@ -44,6 +44,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "Deep Learning Company Deci Raises $25M Series B"
+    excerpt: "Deci, the deep learning company harnessing AI to solve the AI efficiency gap, today announced it has raised $25"
+    publishedDateTime: 2022-07-13T16:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/deep-learning-company-deci-raises-25m-series-b/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "LkxlMZZDVxybHmJgQpPcrYW5R4waw6nR0sKbnIgcY2o3IjHqCSu4yZgsGVZmtOW8HjWs5n05quw2fq9jRw0jAZbB2GfDSqMRRRhHzlMsZx+pBUxlyLJQas/0RGz/Ki4ApaVuaF4C2hFi4DjuUpXz+SiGHiZ4DE5ZpZ0Mu6R5zhSCL0+c0KvGhI8MNh5b/evged1gCf4GuUa8sUxa/2J9hwsZrSPDwhdTDiwLMPCT63SDvi2umJC3m+9bgwCqbJCO0YfLtdTmD3PpLJzN1eoO/Wf8LCS8PdP6eEu/xMYAIFKjSTgHKW1i6CNWOWWmVdODmCDqbG7pIzQiDaDf/+q965Pr4dZ+bU+0dz80N4VfGIr+G6Oy/COm3ljMCBm1PGMUd0+0yIhiJYTM2uVIIQoFGC8nGe+5gokiRVr0qWIWBy5JMf2W7i9oEbRiucWhwaZoNxiUEEUso162StM8FoLPLSb+MFWLRBhKjqBDe0jE3wVSGqXR96alt664BcgI+DLRWfxnVkP7rO4tDvjQJvlr8w==;hzAv+hboYtfmLxqbpEzHCQ=="
 ---
