@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-12-ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023.md",
+      "title": "AI, data analytics firm Ganit raises funds; to double headcount by 2023",
+      "excerpt": "Ganit was founded in 2017 by three veterans of the data science industry Shivaprasad KT, Ashok Harwani and Hariharan R.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/12/full/1657621253-3286.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "publishedDateTime": "2022-07-12T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-oaic-concerns-spark-facial-recognition-investigation.md",
       "title": "OAIC concerns spark facial recognition investigation",
       "excerpt": "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores.",
@@ -340,7 +382,7 @@
       "originalUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1124,51 +1166,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-building-neural-networks-with-tensorflownet.md",
-      "title": "Building Neural Networks With TensorFlow.NET",
-      "excerpt": "we call it the Deep Neural Network (DNN). Artificial Neural Networks are a fundamental part of Deep Learning. They are mathematical models of biological neural networks based on the concept of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
-      "originalUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/building-neural-networks-tensorflow-net/en/headerimage/generatedHeaderImage-1657201887957.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

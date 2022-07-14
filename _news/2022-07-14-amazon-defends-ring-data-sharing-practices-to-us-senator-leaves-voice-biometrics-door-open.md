@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202207/amazon-defends-ring-data-sh
 webUrl: "https://www.biometricupdate.com/202207/amazon-defends-ring-data-sharing-practices-to-us-senator-leaves-voice-biometrics-door-open"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Next-gen biometrics deployments and digital identity concepts hit milestones"
-    excerpt: "New spins on familiar technology are the theme this week in biometrics, from agile identity to how NEC advanced facial recognition accuracy to current levels."
-    publishedDateTime: 2022-07-09T16:17:00Z
-    webUrl: "https://www.biometricupdate.com/202207/next-gen-biometrics-deployments-and-digital-identity-concepts-hit-milestones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-scaled.jpg"
-        width: 2048
-        height: 777
-        isCached: true
 
 secured: "wbaZDbcM/bsAfEHrQEdyOEuecjPoQDWdbHr9P0ChASu14tlVPX0Ljq5B5hSxavWAUqA7J5UdEnrZG/O0nfjYicr1/J54xW4tGdvlcGWGm3+91PnCjjhjIb3F8Oe58OjmbX7/qU4ldcBNKXCiAWBy+/M3YJF0qS/pvWv5iROdeMSDIoCuPjFxdeeEMqlh+O9VNdARbKmg0fiAwDwZz33ZQNGQqyaDDEffLbC24g3W3fYA3z4tgbEr9VFw4JaNDYkWXghXbfIIF/Zut9toAmjDfLvWZ8Fn2NRr/jC+XFjBclYkwIflElpUJuv07n8ZBQwROG15l9liSByUPFvcvk5ucdy8p8puVo/Uo7owcbsuLZo=;HHPmlZwWOgA3TBuUI8oNgA=="
 ---

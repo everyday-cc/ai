@@ -1,28 +1,28 @@
 ---
 category: news
-title: "NexonStar and Snowbell agree to use WAVY, AI technology in UAE restaurants"
-excerpt: "NexonStar and Snowbell Restaurant Management Co. celebrated a momentous occasion as they both signed an agreement to start using NexonStar’s new Artificial Intelligence (AI) technology program, WAVY,"
-publishedDateTime: 2022-07-14T07:43:00Z
-originalUrl: "https://www.zawya.com/en/press-release/companies-news/nexonstar-and-snowbell-agree-to-use-wavy-ai-technology-in-uae-restaurants-oxgm7q24"
-webUrl: "https://www.zawya.com/en/press-release/companies-news/nexonstar-and-snowbell-agree-to-use-wavy-ai-technology-in-uae-restaurants-oxgm7q24"
+title: "Nexonstar And Snowbell Agree To Use WAVY, AI Technology In UAE Restaurants"
+excerpt: "NexonStar and Snowbell Restaurant Management Co. celebrated a momentous occasion as they both signed an agreement to start using NexonStar's new Artificial Intelligence (AI) technology program, WAVY,"
+publishedDateTime: 2022-07-14T09:14:00Z
+originalUrl: "https://menafn.com/1104529968/Nexonstar-And-Snowbell-Agree-To-Use-WAVY-AI-Technology-In-UAE-Restaurants"
+webUrl: "https://menafn.com/1104529968/Nexonstar-And-Snowbell-Agree-To-Use-WAVY-AI-Technology-In-UAE-Restaurants"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.zawya.com/version/c:N2JiZDVhOGItODFjMy00:YTg3MjVm/nexonstar-snowbellcontractsigning2022-6611-1-jpg.jpg?f=3%3A2"
-    width: 898
-    height: 599
+  - url: "https://menafn.com/updates/pr/2022-07/14/KT_d1a53image_story.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "ZjGayROtR2LIfFPJ9V1c3WT2u+1s92vvnGLLIO9jbVt4kEGyP57R+YfkS+z/KXaaab15ZIOH9lcaTirm88K07x3a6noBMidh+iPvRF0iPe2M3DC1bPHqwWycU7SvoBixtO0cs4WqPayHovTMiBq5tmq2BaiwsTSiD3vm6370U3m6RfPNxRsMasDnH5zoKVrL76+RVhd4bH/jpH4jfoPybAKSJ0BDz7NdgnzNf0fN02L9wjWrmblOy1qevj5lmLZTv/0HNigoD3rpvKPXvdB/epMrewmwL2mNEKedw7Gp+cFLb7Ea2C6zvNSmKPinjE2bS44wXK9Oq4Z/zTjvOrnF2qiMz0pZNPA5eqA2LTj18ZQ=;wffZ7OwMhrHjrP8ajQY4UA=="
+secured: "wy5En/lPv+FormGH67w9d54b2W/NgBMskPuWvab4uZQH3AFL8CvcY0zO6Nnqhtb5EBlLMehGdnEbzgw/xRlx7WjRAIq/BwSmN6ND2Pxgh/aMD9HpWC+B/XLrdiXoVu4RbzXFhdXyzGLj/3kxGzxdbaYWViJM3+K5++wSzA1dOOSq+3EOxFkjINsr0PN5wagGxBHGUwThDrUEWgPjfJ2H1hFbJxzxQ28HSKxcZz+jdroRnifzUn7VKVTJgwZze46S7+4IoUH1ughtqhgez6PQvYBQP0cxn94f9nnkKZ1Ichvbl6dDrGYPQW7r1mlRkMlOKuFhSUE3OjoX9ZIpFeA8ON8kI8vs6GYF+OvYJRJcWuI=;RNq21AfU+7fKbfy2IvWzMQ=="
 ---
 

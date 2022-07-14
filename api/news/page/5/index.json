@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-07-ai-at-the-forefront-of-media-and-entertainment.md",
+      "title": "AI At The Forefront Of Media And Entertainment",
+      "excerpt": "Malav Shah is a Data Scientist II at DIRECTV. In this wide-ranging interview, he shares best practices for deploying machine learning models at the forefront of media and telecommunications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c5ede123bc69e839783dae/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "publishedDateTime": "2022-07-07T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
+      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
+      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "publishedDateTime": "2022-07-07T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person.md",
       "title": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person",
       "excerpt": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person. Future AI, an artificial general intelligence (AGI) company developing \"Technologies that Think,",
@@ -32,6 +136,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029-exclusive-report-by-meticulous-researchr.md",
+      "title": "Artificial Intelligence in Medical Diagnostics Market Worth $9.38 Billion by 2029 - Exclusive Report by Meticulous Research(R)",
+      "excerpt": "AI in medical diagnostics consists of AI software and services that aid healthcare professionals in identifying the diagnosis of different diseases. AI-based software solutions can analyze the data from a diagnostic procedure and either help triage patients by flagging abnormal medical images or suggest the healthcare professional a suitable diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -75,6 +231,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028.md",
+      "title": "Deep Learning Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2028",
+      "excerpt": "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -134,15 +342,24 @@
     {
       "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
       "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
-      "excerpt": "WANdisco, the data activation company, has been recognized as a finalist of the 2022 Microsoft Rising Azure Technology Partner of the",
+      "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-815590354.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-815590354.html",
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -150,9 +367,18 @@
       "publishedDateTime": "2022-07-07T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -392,6 +618,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031.md",
+      "title": "Healthcare Artificial Intelligence Ai Market Size, Share, Growth and Trends, Forecast to 2031",
+      "excerpt": "In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Healthcare Artificial Intelligence (AI) Market Report The Healthcare Artificial Intelligence Market is expected to reach USD 44.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -887,223 +1165,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast.md",
-      "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
-      "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_24be149f-293e-52a7-8f9d-fa7637f8595a.html",
-      "originalUrl": "https://qctimes.com/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_24be149f-293e-52a7-8f9d-fa7637f8595a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/2/4b/24be149f-293e-52a7-8f9d-fa7637f8595a/62bef1064c0bc.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
-      "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
-      "excerpt": "Figure 3: IoT management using edge inference. Small, Medium, and Deep Learning Models for Edge-based AI It is easy to assume the edge tier approach with simple GPU inference hardware for IoT can be scaled up for more complex hardware system such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
-      "originalUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cheng_AIEdge_Figure5.png",
-          "width": 1361,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-scotiabank-evp-and-chief-compliance-officer-nicole-frew-to-speak-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference.md",
-      "title": "Scotiabank EVP and Chief Compliance Officer Nicole Frew to Speak at the Behavox Artificial Intelligence in Compliance and Security Conference",
-      "excerpt": "The fireside chat with Nicole Frew and Behavox Chief Customer Intelligence Officer Fahreen Kurji will cover the pivotal role technology plays in compliance, how to drive organizatonal change that embraces innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9635323.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9635323.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
-      "title": "Meta’s AI machine translation research helps break language barriers",
-      "excerpt": "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen",
-      "sourceUrl": null,
-      "webUrl": "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "originalUrl": "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i4.ytimg.com/vi/7ms9iyEoadg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyJoyOnline",
-        "domain": "myjoyonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
-      "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
-      "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/Featured-images-for-ML-6711.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T15:37:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],
