@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-d
 ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-potential-drug-molecules.amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-48.jpg"

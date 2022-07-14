@@ -25,33 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Crash involving Cruise's self-driving car under probe in US"
-    excerpt: "The US NHTSA has opened a special investigation into a recent crash involving a Cruise self-driving vehicle in California that resulted in minor injuries. The agency, however, has not specified the crash it is looking into."
-    publishedDateTime: 2022-07-09T09:11:00Z
-    webUrl: "https://inshorts.com/en/news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/crash-involving-cruises-selfdriving-car-under-probe-in-us-1657357902057"
+  - title: "When it comes to things like self-driving cars, milliseconds matter. A UD researcher looks to speed up 5G"
+    excerpt: "The speed of 5G works well for things like Facebook and Zoom, but when it comes to life or death situations like remote surgery or a potential self-driving car crash, it needs to be faster."
+    publishedDateTime: 2022-07-11T08:34:00Z
+    webUrl: "https://www.wvxu.org/science-and-technology/2022-07-11/wifi-milliseconds-university-dayton-feng-ye"
+    ampWebUrl: "https://www.wvxu.org/science-and-technology/2022-07-11/wifi-milliseconds-university-dayton-feng-ye?_amp=true"
+    cdnAmpWebUrl: "https://www-wvxu-org.cdn.ampproject.org/c/s/www.wvxu.org/science-and-technology/2022-07-11/wifi-milliseconds-university-dayton-feng-ye?_amp=true"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 44
+      name: WVXU
+      domain: wvxu.org
+    quality: 27
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/9_sat/img_1657352343579_324.jpg?"
-        width: 764
-        height: 1238
+      - url: "https://npr.brightspotcdn.com/dims4/default/9214a25/2147483647/strip/true/crop/5184x2918+0+269/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F48%2F247bda92438abfc0f9cf79f2dcc0%2Fsean-foster-ahqnyu1lqna-unsplash.jpg"
+        width: 430
+        height: 242
         isCached: true
-  - title: "Apple Seems Uncertain About its Self-Driving Car Project"
-    excerpt: "From executive indifference to a near-collision with a jogger, the latest Project Titan update shows Apple still has plenty of work to do on its autonomous car."
-    publishedDateTime: 2022-07-11T19:51:00Z
-    webUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663"
-    ampWebUrl: "https://jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/apple-seems-uncertain-about-its-self-driving-car-projec-1849164663/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
 
 secured: "PP39bW7qtX+ook7tlD7C6uTI96VcU9gcAoTdb/fPA7RaHgTcwfTejs4DSasAq+qLlrV8K6z02MFd+MNqsNWW6ZHn9EF+HB1XWUo1IU8Ae37p6rYYT/p/2BGeYYTTzwtgxUWFMq7ZgvVUS5YRDsxh5F0Rb3c6zNYRdyUTe4OpZNddmU/Ck5iq+qFow8YtTXnElPqkQW3FnkqpX3XeNg6vUyQE7BsPOTet1C7QI3mlJ+m5bLv5XIZXvgBNGo2CV5nmxjiTT1bTpBigBE7+JhdBYk5Ac+mLjZCYjQ9DVNWqq5svD3tZEwJz9xmWn6Yu4Jw8buQs35uF+ciXYe2f9x4jLtujETw7KyU2FUBPAcYwhh4=;lS9O3TCfd0iHPrWu+rdvDg=="
 ---

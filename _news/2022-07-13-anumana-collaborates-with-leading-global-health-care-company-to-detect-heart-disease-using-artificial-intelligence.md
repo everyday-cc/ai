@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence"
-excerpt: "Anumana, Inc., an AI-driven health technology company and portfolio company of nference, has launched a multi-year strategic collaboration with Novartis Pharmaceuticals Corporation (\"Novartis\") to deploy a series of artificial intelligence (AI)-powered software solutions that will detect hidden cardiovascular conditions."
-publishedDateTime: 2022-07-13T12:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/13/9637999.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/13/9637999.htm"
+excerpt: "Anumana, Inc., an AI-driven health technology company and portfolio company of nference, has launched a multi-year strategic collaboration with Novartis Pharmaceuticals Corporation (“Novartis”) to deploy a series of artificial intelligence (AI)-powered software solutions that will detect hidden cardiovascular conditions."
+publishedDateTime: 2022-07-13T12:47:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-13-anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-13-anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
@@ -28,6 +28,6 @@ related:
       domain: beckershospitalreview.com
     quality: 34
 
-secured: "6gKRdl+ChttmIGtSCurNNbUeMyBj8doCNOnhzUumaQwHOpcMns4vfOkXCp25SUT/t7Za66+apf2azFRFlhYGsA1Q/pUCM+qacYH2n3S8Lwfp6V9BahCpku5ArqUVofL0OLjgEiiInnsOIt+C0hQ6ukjX9NzkFdk8w2Q8mJwm8zDMSXcsF8c/OzixJLzYc7AATQ+icWpIMs5IJ27/yVZXXS92zLJbGeWTYVlJKJYUOMRH2SBOyp0fjjpJ7rGSkxFl3zVFncFdNw1M507s5G3W0IiLKb2y6op1j9g31OMmuOJoxH77lXvLXAu/11SYUlCN0NIleCREiBl2HIFGjA7Z0jusxfVSY5oyuu4TH+EIr44=;TUcB68vFMTHiis0yj99KPg=="
+secured: "NGU6MTXd5xv2P5HqHWz9oY+lT3F63oxU4O7VU/Z9LkijQ3+D+e7AgaSjCqDGdyMJpM5nbXgZORg1iRpEeq4GS528Kx6HT41fAOknRcztsaHTdXjE/8SlAlPtmbAst4432ToC9mBa/qtLA4rjZ8T8P5TEnDCfp+kIc8I1RWB9ULenbiP4oBMrVeL61hAYDdrf5YULoIAWpzKBG/wz4LR44mW/pffmdfm/sbWInr3LUZgkicKz5k89s5lSVHKzJBuikMyrQil/upZDpQcbWw0GpZvnJ2RorNlBTf7PFEcCyJOZpvY8aHBxOjJcxckDAe4tvBYe4SKWsX1AlJlEhlw9XUCBl/Q0XrjWdAKN6bnufjg=;Q1KE5T/wSNe+fVo8gBINmA=="
 ---
 

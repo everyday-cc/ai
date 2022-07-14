@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s AI head departs after lengthy sabbatical"
+    excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
+    publishedDateTime: 2022-07-14T01:32:00Z
+    webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
+        width: 750
+        height: 521
+        isCached: true
 
 secured: "fxN0Rr0SQJX99AaCryJd3srYDmIeM0MIlFCcT7LnnJo57WJE4wXPHf4uxE9ObXAA2xKfy0o22Bw08EnY9wHuGYuanOsFENprL3PhKhtZp0NxFr1q6B2DSi8Zj9mO9HxOpngcDTfHicvf0Wx7VRFM2fHIrRgInRh2M3V3OujTwuqBx7xbhPS4lsqAKHnFsb8aAItLElZC7d48JCRW81UBh6n8XO3QWuGKCh5rcyRHnlQdBnZTZAMJDTff9SxwT89pnVWSulb6ZY3iQKOpfKYEIS8gJ0FbSAVLah1ft4rqqSjPfW4fAO/PuTJQNAhdjw42XHxhURKLdwKudgwbYlBvx+CdJw+q3FODBxOHD/6Nhb1es0BXqliJerTNFpO8p6RPKMfM8BgGCNWrfy778Iz3dekG0IhDSiYro2Zb8xxOUImLcvY2ccuitL7kxhhBoyf9zZ2B38gQXd1jkha0ROK/UAlO4CQUkXN+EoocP7ikvZK/JbSQnk0JElH/zTlUvZmNUuxDiNmFYhlHVrhJ7p7Tmw==;YE+Nw5gI08pGuygX16Lxag=="
 ---

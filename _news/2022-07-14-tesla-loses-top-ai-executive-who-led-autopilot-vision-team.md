@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-l
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.reuters.com/resizer/86pVQ7gNgEPZBUo8OOhocg2TE9U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R632R3TYZ5MULKKUAVL54V2JUE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla’s AI head departs after lengthy sabbatical"
+    excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
+    publishedDateTime: 2022-07-14T01:32:00Z
+    webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
+        width: 750
+        height: 521
         isCached: true
 
 secured: "JYb6JStlTZQl+kAI5rDyIpd1GXqR/7XSNc7bvNlmiGbmuf9owL/ILmW5sING71L0Eklh8CaCaoBEoATswZ6KHFtvh6vs87V8opDeNfILCcH/HSPqZywvRmS5BMN2EAIYnzo4JOmOxgyoDgZAh1wmkhALchQcTDoMDTTr/vDH66G485+mecNCw8AicsvUEz0zTMGfLF8TCl0D+7K/X4e/E6S43Mxm/RIaaI0uREhcjf5uFL1dsVS99afEPEIQx3NsbhERSjmPLI0fjKNPHdtHeH5u7HGM2//eTjXF+DoqWmpm1kFG7OaOuUvC/cD7AuTHGhDuhpzlX74c8dGm3L8lvCRhtJyJ69QOJrgF9jFXdXFMZxUMvr8dOhnN2H+igKawMOF7XMLPPiBkAVdHGZXILS5CPKzGYhMwPSX0d1AbuALW1MMgjhMdV8pKrqNmOGOfh1oXiPLPZGWyCRH3qCOsbeqE0O6d+//S+mNTcPapNEw2Alen22xTMIpOTLuntkD2tXi+K3eGcqsiq08tKFCizQ==;ySx5s8xMPM7NAFJU27pwdw=="

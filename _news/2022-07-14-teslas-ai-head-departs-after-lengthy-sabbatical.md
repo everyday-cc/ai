@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Tesla's AI director leaving company after 4-month sabbatical"
-excerpt: "Andrej Karpathy, director of artificial intelligence at Tesla Inc who has been on a four-month sabbatical, said on Wednesday that he is leaving the company."
-publishedDateTime: 2022-07-13T20:53:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/teslas-ai-director-leaving-company-after-4-month-sabbatical-2022-07-13/"
-webUrl: "https://www.reuters.com/business/autos-transportation/teslas-ai-director-leaving-company-after-4-month-sabbatical-2022-07-13/"
+title: "Tesla’s AI head departs after lengthy sabbatical"
+excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
+publishedDateTime: 2022-07-14T01:32:00Z
+originalUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
+webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.reuters.com/resizer/86pVQ7gNgEPZBUo8OOhocg2TE9U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R632R3TYZ5MULKKUAVL54V2JUE.jpg"
-    width: 1200
-    height: 628
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
+    width: 750
+    height: 521
     isCached: true
 
 related:
@@ -61,21 +57,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla’s AI head departs after lengthy sabbatical"
-    excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
-    publishedDateTime: 2022-07-14T01:32:00Z
-    webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
+  - title: "Tesla's AI director leaving company after 4-month sabbatical"
+    excerpt: "Andrej Karpathy, director of artificial intelligence at Tesla Inc who has been on a four-month sabbatical, said on Wednesday that he is leaving the company."
+    publishedDateTime: 2022-07-13T20:53:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/teslas-ai-director-leaving-company-after-4-month-sabbatical-2022-07-13/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
-        width: 750
-        height: 521
+      - url: "https://www.reuters.com/resizer/86pVQ7gNgEPZBUo8OOhocg2TE9U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R632R3TYZ5MULKKUAVL54V2JUE.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "tolCjIFyxt5uUsyqTl8IcaKSUNHMg/s3ZPAf9XdHIrjcBpcZRCeJGuXQzg0fG/DwckhaE3FEwLZfbV3YNaRO+XMys3IjTAaOF53sIOCzJ5fq7s8x2UN7r+9jPvoxB94J5jd0/aGowoTGVGtDrSkEZmu9bApO2dlxEENez6UhqwNPW8svPyUTUINio9zz0CvY8IaDa3+tgQYZpgKE2bI4snPArNQYXH1wXi1zfUJfY/CtAC2F7co7Lk0qxFWnbuFYrBmya44G1Y1I+98P69iC1pcBtROroSsDzlENc+2BaneqmBEH3kl7I9nzjobqxz64QwiwSn5KJvaUufr/anhb+s4v3QKH45qi8W44jlAEmck=;u6WEBRABu/B6jfTdyeeJhA=="
+secured: "Z74Kj1Wwhn7NbEUYzKdAolGO3NqRKqIDcsxYKcEyrW+iC7Q2nLTNkBMyv7muLeDEslvKGl8A0KdERPYtbilNaS66sOPS1PZ/BYTweKVung2c6wTmhL0KeuLfSHY0P9RR3SVV08MGPM+UvYGb6y6kcDs/LWezeV6dulKzOPUJ/m2neN7XzlUsZlgdPRGoAjv7Wvx6sv0vvw9bIursGNw5mDKS6/pPVzbquraeXOA9jFrnX3NcRgGh3KdS0+Bxbnvo8r6211HyEjy5H1LFb0x2cgT6tJQx14my2CbCNsBEkIXrXF80IaZ5lNgQqoNG8CddcI7C0Hj0H4dhqWrR9P5yyowthgG/ooIDpNVprfS0Sms=;A+wy7+tRYJI47f72OsiFgA=="
 ---
 
