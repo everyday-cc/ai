@@ -6,25 +6,15 @@ publishedDateTime: 2022-07-14T09:56:00Z
 originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
 webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
   name: Analytics India Magazine
   domain: analyticsindiamag.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Natural Language Processing
+  - AI
 
-images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/bhashini.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "JKfRy27el+/9gKg0+QqIpHA4aQw+VoUkM49krLoNqNynWBRS21FYLdawnVVfzWYQuq1FO0/cKBlHz50dqGMPtqei/UBNWRqUUXQ1NwJIVEEcF6VPG52CcM/G7xEsWk1H/AvfZnwxud4ZwDBm/goQtyKQBS5yFmdV/k4L2erJ2CAiHco4wGPxkBXYlD1Pz7eIBAnbFE6wJ2VldAbBHvjbmXDQFqnlnFXLG8DOswMnJkVYmo2KjgpgjPZ1zyds2OSXgwxtq/yIkmeYSQ2pI0jb9v0+QI53s/Kfd+4SLXY+PzjDFNFtxIUvAMwPJOfqoDXqReJK/abpCz6Y75FkOVqddllzAv0x8tuBeYb8Wngh7wE=;4ut5vevO2LaJigHI8WPhSA=="
+secured: "uUlIrZdwqafo9QWcIKfmUYTiqHfoPq0WgvnUrgp/yDWy/ff6jBkOZihVMY7ItU5WNq4b2hQwEBRGT2+akic4ha9Ud4or0xF+2wDEhV4BTjLwH0lUkrc9dfavr5ajrwmhfXvdmZVW3lXz7JYDHcCP5mLACatLKSeULvLiO1h0oy39ryPR9n8for1DR7DzTgCBLD29ajTl/4yK2VzyijwfDqqSvfRKKHpRT+SPtSdkLPeCIKcaLtA3OwYTySRTdnfxkvyF8k94OL5oryJTtJF2aA0zyi9BhspAnNJTry4eB/8brB01panzXWRuRze28koUnskUQpsX2DYe5UDjeHxMYNg3GGXY1kErd08nuV8+5SwqQIvLXkm54BmD5TrIkf3o5zPa9Ow9G7mX93AeXjG8nGBx1mALpTlflvVW/P8OD2WSDoqLycNrGkzX/kw5SDnTwy7Q0iCWWsrFLRybE+TrlWcUcVC5vw/9yKadaoCUbCehROm1xVyXCzSDgWkAnjzt7NVYiwaM+Qxdu+KntF27Zg==;djeoeQpF1JXhfrLAG1fz8g=="
 ---
 

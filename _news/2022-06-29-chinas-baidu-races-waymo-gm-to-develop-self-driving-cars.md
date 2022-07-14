@@ -5,8 +5,6 @@ excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dol
 publishedDateTime: 2022-06-29T02:17:00Z
 originalUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
 webUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "R6VAKx2zNDzAt3Lq6wJfz5H6rpYrh0rtHLypK5Owlj5g1OY4V2gSEH9Me02dwQG7KHPOD8n8P5AbH8/5DUXTnu2SwHe9+O8CD/UI/wuBm0A6f6AmIzFoBlYgHL2lYmKk6RFEJLObnT2ap+u/HHBOPO2NiMaNo4ilS8nuSVNJ7nKAVq1a+hgfu0NlHi3cNsod+l1XWEM0LG0CRUx8pzQUkbYKZ8qbpmM2yTE/UoEdGdHwloS2cqLtGXgTzaMbCrlT/5f5tuVKoatwyyv2W3sGPiZj3FCZ7DbtM8ZkU+5QlZ6D3pGO8M1uS4bhi8+kez7Y5Lpk30ycDtRU0yxJKFURdPs626s+WJtFgiHhTKU0xCo=;kYLtWbvF1yB0341azZTFdQ=="
+secured: "uwkOiYt778B4pcWfllkpJbSRvImAed5paZb2WAaEFuJAQQvoXleS8cZy8JlwEma4K+Flp3iaAPYqKZ/ZHt4QGcyWgkEQG1ieS13dyP/zY017ujDGLpYQmnsXrxAox3mksKLGg5HMb58K7XRSKc85S8shj8mvuPXKgmy+5ShKX7FrBqYiScKXeXv55x+e7h3LNkurfIcnBXGNLYiQ/SYeHagM/S1d/XVKfkwS2htzm/+zko7waxYlGhzu47DtSrrIxv7fdS3kh9BqevT+p1fLZgmLM/nLSSDiRMjkUzZmOh2De2cJfi70wAF6PcaUj1pITIMN9Q4oDRc8mSlfl2BX0wARcbfTUGOUrv++nI60yYA=;0gPEP+xKeSNknG58QVY66Q=="
 ---
 
