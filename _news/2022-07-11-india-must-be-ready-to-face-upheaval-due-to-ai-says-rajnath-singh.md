@@ -123,22 +123,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Rajnath Singh to launch first-ever AI exhibition, to showcase 75 new AI-enabled defence products"
-    excerpt: "The Artificial Intelligence in Defence (AIDef) symposium will feature an exhibition to showcase the cutting-edge AI-enabled solutions developed by the services, research organisations, Industry and st"
-    publishedDateTime: 2022-07-09T05:04:00Z
-    webUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products-11657336952341.html"
-    ampWebUrl: "https://www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/rajnath-singh-to-launch-first-ever-ai-exhibition-to-showcase-75-new-ai-enabled-defence-products/amp-11657336952341.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 46
-    images:
-      - url: "https://images.livemint.com/img/2022/07/09/600x338/Rajnath_Singh_1653099369282_1657341178728.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath Singh"
     excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
     publishedDateTime: 2022-07-11T08:24:00Z

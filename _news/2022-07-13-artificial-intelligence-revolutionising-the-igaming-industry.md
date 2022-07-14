@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Can Empower The Future Of The Gaming Industry"
+    excerpt: "The gaming industry has experienced amazing advances in the past few years, and AI can offer many more benefits and innovative solutions that could continue driving the industry to new heights."
+    publishedDateTime: 2022-07-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62cd8de3fe04dc8a1f4c2949/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Doctors using AI catch breast cancer more often than either does alone"
+    excerpt: "A new study shows that artificial intelligence can also handle more than half of scans automatically, dramatically reducing radiologists’ workloads."
+    publishedDateTime: 2022-07-11T09:22:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/"
+    ampWebUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/04-viewer-02-00.png?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "How Is AI making iGaming Safer?"
     excerpt: "Artificial intelligence is increasingly playing an important role in the advancement of the gaming sector. Both land-based casinos and online casinos are"
     publishedDateTime: 2022-07-12T06:08:00Z
@@ -41,6 +73,34 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2022/07/Gambling-image-843938498348.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "AI Upscaling And The Future Of Content Delivery"
+    excerpt: "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ..."
+    publishedDateTime: 2022-07-10T00:00:00Z
+    webUrl: "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg"
+        width: 3000
+        height: 1815
+        isCached: true
+  - title: "Reading law in an AI future"
+    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
+    publishedDateTime: 2022-07-10T04:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
+        width: 1240
+        height: 779
         isCached: true
 
 secured: "Qj2KChbDfFrkm1Ng0Lx4Q6Eq3GiKSIbqOpZlAJsROHBpa2Hz+4MJc9n6ES01Z+3MofMSF+ANYiFYjVWqhCSdz2OFvftPtrEowYm8BzH043prtaJ9y0v2s7/E4V1BNVFnTUPpxrLw4w54/I1iEkjjk8ANGPyoPojztw9+9feUpwgif5btED420O2qM0shRYlIVz/33cE4xdVVy/4tsHQIl8EmO2y2hKF/cHq1n3p7Pl5xXsB+U3wJXzPA/kge7fD9JM8Ixrk0G5ojr/wowsAr58+UNQ1x3FLmEs8iNE3Khc8dQJdvq3p4wDVEyG55j+tGgpp+J9ojPnF4SQoQzKieJIMXSRianYIbDF17oLOEQ28=;sqM1fSnYqDSvue+YlhEXLg=="

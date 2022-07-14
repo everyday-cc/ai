@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Team reconnects nerves to reverse Alzheimer’s disease in mice"
+    excerpt: "A research team said it has healed mice with Alzheimer’s disease and other neurological disorders by linking broken neural networks with artificial synapse connectors. The scientists primarily ..."
+    publishedDateTime: 2022-07-10T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/13693065"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 24
+    images:
+      - url: "https://p.potaufeu.asahi.com/9cd5-p/picture/23123977/fac483e8c4b91188b6dcdf993fa46dba.jpg"
+        width: 391
+        height: 660
+        isCached: true
 
 secured: "tLGMaOXggNZj1Lgj0CMoBRGw5LkWxg5ESUcO1g3rJUboPwW629jCr7W7B/Px+b0ZE4GhXYgWuQmiGeNHvu8nmEeOkWqdXAMInn8EO2G+ycPQ9OGYHu4tLfAvqbkb+qHb47wNXW8Wn437bSO1BHuQRdRBd4C4dOsfOc0aBRXSuAtIqAT4IQGm20EtqwdtGgUQv/yyME7DX1iFHZO30NskgSBl5X7Onxa3sBlSQoJtMjYg1qiBjoFLSMHAwWD+AuFmDtCz9pFmeoNhd/RdKTmjKdLZMxzf3WnjfJmDBF70tf3mPb2F0kz76kalGK16x+/JD7XmlprjUkZBQFinaBCTR6IIcl5gmoEsARbNmqHQVI0=;/7ApOig+Q3fEoNS62b8VrQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-10
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/XPeng-Robots-Dog.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "XPENG Robotics brings in $100M for its quadruped robot"
+    excerpt: "XPENG Robotics' first product will be a quadruped robot with autonomous navigation, and equipped with a robotic arm."
+    publishedDateTime: 2022-07-13T23:44:00Z
+    webUrl: "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/featured-web-XPENG.jpg"
+        width: 770
+        height: 500
         isCached: true
   - title: "XPENG Robotics Completes US$100M Series A Funding"
     excerpt: "Xpeng Robotics, a Shenzen, China-based affiliate of XPeng Inc. and a key part of its mobility ecosystem dedicated to creating smart robots, raised over US$100 million in Series A funding"

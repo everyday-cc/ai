@@ -7,7 +7,7 @@ originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/13/9638304.htm"
 webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/13/9638304.htm"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Automation Driven by Artificial Intelligence Booms in Uncertain Economic Times"
+    excerpt: "Veryfi, using artificial intelligence (AI) technology to transform documents into structured data in just seconds, has announced continued strong business momentum and growth in the second quarter. As economic concerns increase,"
+    publishedDateTime: 2022-07-13T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CqfYWamwPu9pCONA0a3SSnfeSfKLZyihRaFN0g8TXyVkZU6zOoE9BAKQ+pFeLhgDIkMIsYa/ucf/eJjRHc7WfzSAe4+vJam+3SxLaU9dkv+1KKaUhCo9FDYl1rTbOdS+Oj8/gIctGT9FgvuEqRpGJZ3w/ErfwlWCaEQ70ttEu2axeRFpJEcJwUIhUX83iHQIIvOEpWGlG5yCWwz9Y7ce/L5Yv/Ax9lCnsnifAszHNj9xbb4OnijbbikBiHD9QjuZHwDr2mYpT0KW8FxWEU3OLIonZqPr2qmM0e5RGbnHuIihlj3J4AKGPFtCbzVdYoQeygWthJ/uGwNMneEtFxfUCAkj4JTmtBD8feIXRDwogNg=;fIclmt3Cfjm5UFlSGEYrYA=="
 ---

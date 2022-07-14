@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/07/11/1055677/ai-diagnose-brea
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/11/1055677/ai-diagnose-breast-cancer-mammograms/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,24 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "The Download: cancer-spotting AI and a new covid wave"
-    excerpt: "Doctors using AI catch breast cancer more often than either does alone The news: Radiologists assisted by an AI diagnose breast cancer more successfully than when they work alone, according to new research."
-    publishedDateTime: 2022-07-11T12:04:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/11/1055690/download-cancer-spotting-ai-new-covid-wave-variant/"
+  - title: "How Artificial Intelligence Can Empower The Future Of The Gaming Industry"
+    excerpt: "The gaming industry has experienced amazing advances in the past few years, and AI can offer many more benefits and innovative solutions that could continue driving the industry to new heights."
+    publishedDateTime: 2022-07-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
-  - title: "AI, radiologists working together more accurately detect breast cancer: Study"
-    excerpt: "Radiologists working in tandem with artificial intelligence more accurately detect breast cancer than either of them analyzing the images alone, a July study in The Lancet Digital Health found. The study used a dataset of 1."
-    publishedDateTime: 2022-07-11T15:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-radiologists-working-together-more-accurately-detect-breast-cancer-study.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62cd8de3fe04dc8a1f4c2949/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Is AI making iGaming Safer?"
+    excerpt: "Artificial intelligence is increasingly playing an important role in the advancement of the gaming sector. Both land-based casinos and online casinos are"
+    publishedDateTime: 2022-07-12T06:08:00Z
+    webUrl: "https://www.androidheadlines.com/2022/07/how-is-ai-making-igaming-safer.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/07/how-is-ai-making-igaming-safer.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/07/how-is-ai-making-igaming-safer.html/amp"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 14
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/07/Gambling-image-843938498348.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence: Revolutionising the iGaming Industry"
+    excerpt: "The online gaming sector has been making exponential strides in our country, and with the comfort, it provides - allowing you to play and bet in the comfort of your home - its not at all surprising. But despite its obvious advantages over the traditional casino industry and popularity among players,"
+    publishedDateTime: 2022-07-13T13:28:00Z
+    webUrl: "https://www.mykhel.com/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
+    ampWebUrl: "https://www.mykhel.com/amphtml/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
+    cdnAmpWebUrl: "https://www-mykhel-com.cdn.ampproject.org/c/s/www.mykhel.com/amphtml/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
+    type: article
+    provider:
+      name: mykhel
+      domain: mykhel.com
+    quality: 57
+    images:
+      - url: "https://www.mykhel.com/img/2022/07/dmitrybelianinccopmi-1657721962.jpg"
+        width: 950
+        height: 634
+        isCached: true
+  - title: "AI Upscaling And The Future Of Content Delivery"
+    excerpt: "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ..."
+    publishedDateTime: 2022-07-10T00:00:00Z
+    webUrl: "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg"
+        width: 3000
+        height: 1815
+        isCached: true
+  - title: "Reading law in an AI future"
+    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
+    publishedDateTime: 2022-07-10T04:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
+        width: 1240
+        height: 779
+        isCached: true
 
 secured: "1GNXRpt9r4cDIr+ZNfGjj6Upg5tqGPUt427Q0sL4faWVnSDRa9xyZiHEbxS5bhxOYR6GqPIRGOAHvGyK5pcB6U19VRat1kd4ediJVXqCLyrmPzRyLGwhnh4quuUMWhAgF177Zox7HKcVVnp4x5mIvQ0+5jErPXS5s5LqkIVIBzZ/svg4EXqz7YdZoGZoHUm3IAZ2s7/l6b+s45xrL0qhnQgVtbxpBK2t8dvOOtTBWCFS5irPixsC4Aqu0bcHE+oN+mgMcqPRb+ndmFzj+M8ecgP1t57e0tM3N8CN/dD9i7+hLE/IfvLWVR6jutjiSrSKoXSviAO1Wq6hS0rE87lJmMp6s80R3BTwHR83G2tINmnXtEBM8XsG0J0QaM3eCkoHzFPIvJWdeJSmhgGlzlCjqzRoh+E9zeX22b3Z0VB83AkXVT5rMDzPAFPnlGiNSrEwc6exyYGsmXbLXTH1wZrADi1sbDWxW3YfbmwGIBk3gWugdYSN62LOWKNORAQojk9C3P9J5wBm5CiJw5AMNu++cQ==;CuRemKOiberGib/6D9lgvA=="
 ---

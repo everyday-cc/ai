@@ -1,45 +1,117 @@
 ---
 category: news
-title: "DeepMind AI learns simple physics like a baby"
-excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
-publishedDateTime: 2022-07-11T23:17:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476"
-webUrl: "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476"
+title: "DeepMind AI Learns Simple Physics Like a Baby"
+excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules. The results were published on 11 ..."
+publishedDateTime: 2022-07-12T11:08:00Z
+originalUrl: "https://www.realclearscience.com/2022/07/12/deepmind_ai_learns_simple_physics_like_a_baby_841944.html#!"
+webUrl: "https://www.realclearscience.com/2022/07/12/deepmind_ai_learns_simple_physics_like_a_baby_841944.html#!"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nature
-  domain: nature.com
+  name: RealClearScience
+  domain: realclearscience.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
 related:
-  - title: "DeepMind AI learns physics by watching videos that don't make sense"
-    excerpt: "An algorithm created by AI firm DeepMind can distinguish between videos in which objects obey the laws of physics and ones where they don't"
-    publishedDateTime: 2022-07-11T15:00:00Z
-    webUrl: "https://www.newscientist.com/article/2327766-deepmind-ai-learns-physics-by-watching-videos-that-dont-make-sense/"
+  - title: "This Artificial Intelligence System Gains Intuition Like a Human Baby"
+    excerpt: "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do."
+    publishedDateTime: 2022-07-12T11:23:00Z
+    webUrl: "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
+        width: 716
+        height: 408
+        isCached: true
+  - title: "Meet Plato, an AI That Gains Intuition Like a Human Baby"
+    excerpt: "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child."
+    publishedDateTime: 2022-07-12T19:38:00Z
+    webUrl: "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
+        width: 716
+        height: 408
+        isCached: true
+  - title: "Scientists Create An Artificial Intelligence Program That Can Learn By Intuition Like A Baby"
+    excerpt: "Now this blurs the line between artificial intelligence and human behaviour as we know it. If an AI can be embedded with ‘gut feelings’ maybe an AI can become sentient enough to guy you too! The worst case scenarios should always be scrutinised before glorifying any research."
+    publishedDateTime: 2022-07-13T11:13:00Z
+    webUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby"
+    ampWebUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 78
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/plato_7ehy.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
+  - title: "DeepMind AI learns simple physics like a baby"
+    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."
+    publishedDateTime: 2022-07-11T16:09:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-01921-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
     quality: 54
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/11121145/SEI_114169887.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "This AI With a Baby Brain Shows Us How Humans Think"
+    excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
+    publishedDateTime: 2022-07-11T17:52:00Z
+    webUrl: "https://www.thedailybeast.com/this-ai-with-a-baby-brain-shows-us-how-humans-think"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657550545/220711-Bender-AI-baby-teasetease_mal845"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
+    excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
+    publishedDateTime: 2022-07-11T16:11:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/Scientists-create-AI-think-like-baby.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 23
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/11/17/60139263-0-image-a-2_1657555440540.jpg"
+        width: 636
+        height: 382
         isCached: true
 
-secured: "xOp+nEFrK8Qb01uCc1AZlG4LQxxM6ldFjzITlGjY0Gs8ZwnQOFOWHldBHc2+Nk6Oj5JhUaBP+ynQQSmP/l95t1ya0sPgrSJuZQ2uoZ3/wa2H6Zt0tqPc+aiBeU6eK1CXRkdEvH5TRvfdgoUno8Ec5myphre68nkjhs8INV4u5Y8TbPvYWroHvI9tWdxttXcT06fmhQ9+ExzL1zLQ0Qu4qLL6g01BlyFk+pfU7ctsPmFfWBoywofzF9oW9TRCekrvcVCv48IMPuZ3J16nPdT3/OBHgxETrjuvK5kNijfCtxOgXjgJS0UssyOWZn7jl6booXPM+H/mfEBmROu24t7rdoHxOSWdo2k4aeoq/g4h148=;dakMW8QSG0GN1IinjRihHQ=="
+secured: "IdKUYMmUX8fLv9QG7dGFaE59oXMl9ZXdnYSWD6F36I/W/s8ZGnvUhduPRQOeJsiMQ5D0kh+zmHFUYZ98VwO0D4kqgi1fWLZtxNtr314sHkgnggd16aF0eKPhu34IKVxwjjfRji4h7nEx1E/6EVowzUCle9byMcMavflzVlDWgqqgOLLLWZI7ah6jv56hDQKwcgIF5EUhoI5LyLqXuZePbXy4HNskakEf90EVpR5+xYtnZ4JCe27oaC0ZfJpDWvngeZTnSmmp7+DV53m/43EHw/4GhqPee0LWWyA9AegNKc0mucuyZxNbGC2eZWPnP5ZEMz2KmxJvb4e4DOwjRPn0Zibd2cT5fDmk/2pPIjOWk84=;tyNtURG64ce2kXQyOLOz3A=="
 ---
 

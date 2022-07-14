@@ -557,6 +557,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-06-the-new-asus-rog-phone-6-series-everything-you-need-to-know-and-more.md",
+      "title": "The new ASUS ROG Phone 6 series: Everything you need to know, and more",
+      "excerpt": "To elaborate on some of these specs, the latest flagship Snapdragon 8+ Gen 1 is equipped with a full suite of Snapdragon Elite Gaming features plus an improved Qualcomm Adreno GPU. The camera housing ... an ESS Quad DAC and an AI noise-cancelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "originalUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn01.vulcanpost.com/wp-uploads/2022/07/asus-rog-phone-6-series-001.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "publishedDateTime": "2022-07-05T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulcan Post",
+        "domain": "vulcanpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
       "title": "Designing next generation analog chipsets for AI applications",
       "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
@@ -598,6 +641,49 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-risc-v-development-laptop-introduced-by-deepcomputing-and-xcalibyte.md",
+      "title": "RISC-V development laptop introduced by DeepComputing and Xcalibyte",
+      "excerpt": "“A Web3-friendly platform with NFT creation and publication plus integrated MetaMask-style wallet, ROMA will create an even more integrated experience with future AR glasses and AI speakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/07/RISC-V-laptop.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1337,85 +1423,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-weights-biases-and-runai-announce-partnership-to-accelerate-ml-developer-workflow.md",
-      "title": "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow",
-      "excerpt": "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-tpu-vs-gpu-vs-cpu-performance-and-differences-discussed.md",
-      "title": "TPU vs GPU vs CPU Performance and Differences discussed",
-      "excerpt": "It is a processor developed by Google to handle neural network processing using the TensorFlow. TensorFlow is a free and open-source software library for artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/tpu-vs-gpu-vs-cpu-performance-and-differences-discussed",
-      "originalUrl": "https://www.thewindowsclub.com/tpu-vs-gpu-vs-cpu-performance-and-differences-discussed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI Hardware"
       ]

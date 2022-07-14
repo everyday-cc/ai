@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "XPENG Robotics brings in $100M for its quadruped robot"
+    excerpt: "XPENG Robotics' first product will be a quadruped robot with autonomous navigation, and equipped with a robotic arm."
+    publishedDateTime: 2022-07-13T23:44:00Z
+    webUrl: "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/featured-web-XPENG.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "XPENG Robotics Completes US$100 Million Series A Fund Raising"
     excerpt: "robot interaction and artificial intelligence. As of the end of June 2022, XPENG Robotics has over 300 employees, 80% of whom are R&D staff integrating expertise from key sectors including robotics, artificial intelligence, automotive design and ..."
     publishedDateTime: 2022-07-12T07:40:00Z

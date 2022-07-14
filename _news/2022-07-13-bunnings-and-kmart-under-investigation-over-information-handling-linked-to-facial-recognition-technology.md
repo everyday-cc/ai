@@ -99,6 +99,20 @@ related:
         width: 720
         height: 400
         isCached: true
+  - title: "Everything you need to know about retail’s facial recognition fiasco"
+    excerpt: "On Tuesday, the Australian government’s privacy watchdog opened an investigation into retail giants Bunnings and Kmart over their use of facial recognition technology in stores. The move followed a complaint by the consumer advocacy group Choice regarding the retailers’ use of the technology,"
+    publishedDateTime: 2022-07-13T23:53:00Z
+    webUrl: "https://insideretail.com.au/business/everything-you-need-to-know-about-retails-facial-recognition-fiasco-202207"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2021/04/Bunnings-Carpark.png?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
   - title: "Face recognition tech sparks investigation"
     excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores. Kmart and Bunnings will be investigated over their use of the technology which captures images of shopper’s faces and ..."
     publishedDateTime: 2022-07-12T09:23:00Z

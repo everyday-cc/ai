@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence"
-excerpt: "Novartis Pharmaceuticals Corporation to collaborate on development of new medical device software for earlier detection and intervention in cardiovascular diseaseCAMBRIDGE, Mass.--(BUSINESS WIRE)--Anumana,"
-publishedDateTime: 2022-07-13T15:47:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2022-07-13/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificia"
-webUrl: "https://www.pharmiweb.com/press-release/2022-07-13/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificia"
+excerpt: "Anumana, Inc., an AI-driven health technology company and portfolio company of nference, has launched a multi-year strategic collaboration with Novartis Pharmaceuticals Corporation (\"Novartis\") to deploy a series of artificial intelligence (AI)-powered software solutions that will detect hidden cardiovascular conditions."
+publishedDateTime: 2022-07-13T12:55:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/13/9637999.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/13/9637999.htm"
 type: article
-quality: 17
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
-    isCached: true
 
 related:
   - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
@@ -35,6 +28,6 @@ related:
       domain: beckershospitalreview.com
     quality: 34
 
-secured: "adlL/fyCOV7XJ3AzRCPNMQ7lxSinV2zzTv20DioMWi8xD5YiGyt/v6QS2Tw6AJl1bsfcdD2JIhvkE9nt+20sVGTlldjdkJsVuKiBbKnFE8N0q3+ONTPHp2/0nPi/5OwbsM8aP/9UEHSi4tKudKclnrWJa1b/nmmXlswLZXlE/27POSvDQ2tVR0iqXHGByqvitTl9h+HYpbdALzty7v2EzgfaCXCD1nKbn8UgxCg50rvrasZvgX3XCUr5IlpwijfHpPnMBmIhhPBgD7ip/OhNO+UJT8oOWYCD+qJT/T7Oye+O0EUhSLPEdYUyDz+dDpt3g8WjTDf2SxAUJJHrqyBLAYUeGnpmTDJHzQM9cNjwsIU=;CF8Rgtp4YW50Jc0fMRAh5g=="
+secured: "6gKRdl+ChttmIGtSCurNNbUeMyBj8doCNOnhzUumaQwHOpcMns4vfOkXCp25SUT/t7Za66+apf2azFRFlhYGsA1Q/pUCM+qacYH2n3S8Lwfp6V9BahCpku5ArqUVofL0OLjgEiiInnsOIt+C0hQ6ukjX9NzkFdk8w2Q8mJwm8zDMSXcsF8c/OzixJLzYc7AATQ+icWpIMs5IJ27/yVZXXS92zLJbGeWTYVlJKJYUOMRH2SBOyp0fjjpJ7rGSkxFl3zVFncFdNw1M507s5G3W0IiLKb2y6op1j9g31OMmuOJoxH77lXvLXAu/11SYUlCN0NIleCREiBl2HIFGjA7Z0jusxfVSY5oyuu4TH+EIr44=;TUcB68vFMTHiis0yj99KPg=="
 ---
 

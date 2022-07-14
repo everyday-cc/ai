@@ -87,6 +87,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "DeepMind AI Learns Simple Physics Like a Baby"
+    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules. The results were published on 11 ..."
+    publishedDateTime: 2022-07-12T11:08:00Z
+    webUrl: "https://www.realclearscience.com/2022/07/12/deepmind_ai_learns_simple_physics_like_a_baby_841944.html#!"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 34
   - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
     excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
     publishedDateTime: 2022-07-11T16:11:00Z
