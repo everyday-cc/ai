@@ -1,29 +1,21 @@
 ---
 category: news
 title: "India’s Project Bhashini: Breaking the language barrier with AI"
-excerpt: "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,"
-publishedDateTime: 2022-07-14T08:30:00Z
-originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/"
-webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/"
+excerpt: "Earlier this month, the Indian Prime Minister launched Project Bhashini, which aims to provide all Indians with easy access to the internet and digital services in their native languages. Further, through the project,"
+publishedDateTime: 2022-07-14T09:56:00Z
+originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
+webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Analytics India Magazine
   domain: analyticsindiamag.com
 
 topics:
-  - Natural Language Processing
+  - Microsoft AI
   - AI
+  - Natural Language Processing
 
-images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/bhashini.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "IFO3eO59KUOqLp3wMotDKO+8mcHbp1MWHbVp1IewFHcBkJUIIuvJAr4cSlIxAi3yY0StboB682dnGJCBquaGfFnU7M5puWepuPB4JpsegWzCb5CY4DDGrSzrMGJWXO3BHpai2/pwb31xuw8fCitD/V6ZlGhJ27qKO/GVp0qNKiX7V1h/ivwRjfG1skZn8GcMYtqOcftv+1n+kIV1f+nrhsamklfPbRCk35J4TPJwUQd4UDC0R1DQytIRO3yEgJfZLZAyqVsrmAuFsUZ+1xEStrX4j+EHM0m3SmJqsWlS666SEXLe68UnGC6Z0DfGfPJsu3juVtch5aeXVFk58Ze4Bsir7fT2bv+XnxjAd6f5JXQ=;yNcaN7PDmm2iVAvAAbVbgw=="
+secured: "ZnCYdqQxLP458io/l5U/A65ZmYMNkWEqZQI2EsjpnCHHyTyAuEgG8DM2NWTsKtzkTlyH05o6NOvdIoxNBn2qDb8yc2l6kC3tDp/Z/TOBji3lQCwP6rJycruxqJxZssBR7FuFp37HB5fTEjfDhkJpOQWnQq+HLr/kxe8xRsQ0XR86kz2gdko7Agx8Vt2rjFdlL83em4utrL7DyUuV2On8EHBBZo6OSNzHJxhNVD5V6z9R9ooITPATOKoOS+5CH3P1k3oTkmSYNxOGP8Ytov1/9y7Ha6zq2p2U6xNmH0Uv0xV7dM2hxZ6lT2C8N5uyi5xJNJmFgFqRy3KHofXSNNbR9eRvMdHwjVJOEkypmJblmAJ+0QnaoDC+JxYMcd4DSK2l2Uhn+7Gs2pOeb6JQvWQMA/6zB+DtnPiKnQhqi+uwokIvSaqHeFbZGASSDRUMuPV8XJlkcuas2jVGEinGW4YSy/jGB8qAsJ+EsILdC+2pS9IuRdxoXaG+YfghZ7wBN9/DVlh0y7ZFxHvQwZATcgjZlA==;rM0PIWdat9hCz+0a2DRWoQ=="
 ---
 
