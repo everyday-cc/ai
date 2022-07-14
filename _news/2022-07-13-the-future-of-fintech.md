@@ -103,15 +103,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 4
-  - title: "Ewallet Rebrands As E& Money, A Financial Super App Set To Transform The Fintech Space"
-    excerpt: "Transformation from a digital wallet to a tech-driven fintech company under e& life, from e&, with its own financial super app marketplace"
-    publishedDateTime: 2022-07-09T13:03:00Z
-    webUrl: "https://menafn.com/1104505596/Ewallet-Rebrands-As-E-Money-A-Financial-Super-App-Set-To-Transform-The-Fintech-Space"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "KA1ZdzkLpVi4ViAqYVWgshEAy5yLHOmq9Dzy8x1VxrSWrgbLbt6zml7OIE/B6m2rUy/R98hnmwElF2AlqN0cpXkH88uTMMtiOUU3ghnV1r0lj+qrOxpNxoczwZ1AsY8vR0UC/MFsiYgF3bmBLSSk9orCWX/H0R/awliO8vk/dkV/jdP7CBqyXZEqqkajwEotdTy7DWn/4hBlM1hP/B7i8RJojLLjJLt9jQ0v7ywqRwk+Rw2jITD/yCPFFa2iur+Cqkppt/DwDmiqv25nWKStzAJsjRKIqGB0bFwdA/qjAsVTpfbQr4pIqcZtLCmh0LJ1CKiiDyxvAAm0PQfOLu835brftpxJXY2LRAtCWVcqIeGbGTDMz5m70cakfEyDQrkKOWdcfBjXCOITgGPYhnFY04ySi09ka4KLUsBzHJ7gxqqHLQiG46HAa8E+BQlLDmPt34if4EW1cVPa3HcgA8fib5mhLHmT5PqCdYKMDmonyGEeIjnavPT/+S3gQo7KPgmB0kIvFfigGMZZ9ESW5DeZwA==;hlnBbvHyvxramzSv7irchA=="
 ---

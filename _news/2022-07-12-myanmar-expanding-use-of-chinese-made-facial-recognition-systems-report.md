@@ -25,42 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Should we be worried about real-time facial recognition systems?"
-    excerpt: "Real-time facial recognition systems offer both benefits and drawbacks that must be considered as the technology becomes more widely adopted."
-    publishedDateTime: 2022-07-09T13:40:00Z
-    webUrl: "https://venturebeat.com/2022/07/09/should-we-be-worried-about-real-time-facial-recognition-systems/"
+  - title: "Yangon, military junta will install Chinese facial recognition cameras"
+    excerpt: "Mother of Abe's killer belonged to the Unification Church; New mass-testing campaign in Shanghai; Rajapaksa will leave on 13 July but yet to issue a statement; the d"
+    publishedDateTime: 2022-07-11T08:09:00Z
+    webUrl: "https://www.asianews.it/news-en/Yangon,-military-junta-will-install-Chinese-facial-recognition-cameras-56230.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Murmansk gets comprehensive facial-recognition surveillance system"
-    excerpt: "Authorities call it the «Safe City project» - the 1,658 CCTV cameras that will be installed in the Murmansk region by the end of the year and connected to facial-recognition technology. Murmansk is on"
-    publishedDateTime: 2022-07-12T13:24:00Z
-    webUrl: "https://www.rcinet.ca/eye-on-the-arctic/2022/07/12/murmansk-gets-comprehensive-facial-recognition-surveillance-system/"
-    type: article
-    provider:
-      name: rcinet
-      domain: rcinet.ca
-    quality: 24
+      name: Asia News
+      domain: asianews.it
+    quality: 39
     images:
-      - url: "https://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2022/07/russian-survillance-camera.jpg"
-        width: 1000
-        height: 563
+      - url: "https://www.asianews.it/./files/img/size3/00_COP_AsiaToday.png"
+        width: 700
+        height: 460
         isCached: true
-  - title: "Should we be concerned about face-recognition algorithms that operate in real time?"
-    excerpt: "We’ve all seen and probably laughed at these movies. As a result of a “company-wide initiative to restrict the use of face recognition in our products,” Facebook recently shut down its own facial recognition programme, which performed identical ..."
-    publishedDateTime: 2022-07-10T15:01:00Z
-    webUrl: "https://bestgamingpro.com/should-we-be-concerned-about-face-recognition-algorithms-that-operate-in-real-time/"
+  - title: "Chinese researchers create new face biometrics training model for expression recognition"
+    excerpt: "A new CNN model based on Xception shows promise for lighter-weight facial expression recognition, according to academic researchers in China."
+    publishedDateTime: 2022-07-11T15:18:00Z
+    webUrl: "https://www.biometricupdate.com/202207/chinese-researchers-create-new-face-biometrics-training-model-for-expression-recognition"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 18
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Should-we-be-worried-about-real-time-facial-recognition-systems.png"
-        width: 600
-        height: 365
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Uo3lwvWEWJRvrw66I3yu/mwDXlL7O8vhRg3jPaqXR7ZcJ+e9jNoXN/HRRX/3Qf/Cpm09Uvv/7VoljSXD48NI59dBEg2szki587Dym8pzV4ncK2M30jFRlCwvBx6uJy04p0B+bLDJpv/X8VFkd9B/vrcQQZmxcYtb1HqBkv6NXtdSHTLdp7B2+d8ykndlhUYyYx9qSz7wh/EKFthNMGnkLhWGUSPa6dlEP55z9buWrLwEda1lcT0tzLCvbtlVYYt+J7Y1krfX1UFGxHBl1rooIjYNGjvf/9oCpYIWVl7PmLWMHlcZuu3/Y9z1OKyswl8haZvYrBgAYmSiaUtPSY5ezpyblkPe7daq3toHp8kRRwm8nS8Ubv/NJyMPTSX/wWynwPLGuzOqHhRC3BKuBIGBHqn5mlKa90D5X1AkDToZxnHZSFMuDbcirh+lxZjSZ80OxaGl6TtaeByk5jI9gSaT5MiigGOxsqMLRrE8X+4frBaeJVXlOmoa6ylFwleF3WvntoHvPe8gPRZUQL3jIn1n0g==;A0BJ6MjrnmRwTnJB83R4vw=="

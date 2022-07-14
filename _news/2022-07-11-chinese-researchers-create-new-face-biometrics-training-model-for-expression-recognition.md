@@ -40,6 +40,20 @@ related:
         width: 700
         height: 460
         isCached: true
+  - title: "Myanmar Expanding Use of Chinese-Made Facial Recognition Systems: Report"
+    excerpt: "According to a Reuters investigation, the military junta has plans to install CCTV systems in all 14 states and divisions."
+    publishedDateTime: 2022-07-12T10:24:00Z
+    webUrl: "https://thediplomat.com/2022/07/myanmar-expanding-use-of-chinese-made-facial-recognition-systems-report/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 38
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/07/sizes/td-story-s-2/thediplomat_2022-07-12-060400.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "AO3TFBl2bao1lyMc2NbxKsQ6Xu+p6IHbpY+epOwndkPRvIjxnzpelr0y1D9iWetf300NloPLjm/6JyX/Rhbwzvyy33HFTZQKMjt7k+kCTzKhtWb+o9UW5WAh77nGyy48Dv3hk2YuZntiuNZpPOgheFqItmptTyN40eU25cY1hpNZwm401XEdo/jazpLUWsGVHIIUEwSnuDZMp2bj3SqvVfibeFhFHK63X2r6ZcI+6dqEGDVuE8MDRgFXmLPP7h5KYhD0eWeeoQOrDvA/D9Um9D7shJ/x4Bhu22izvet7Dhikz0JMQXYHTZRsV/j8nAuO0xa3sO26ZG4weLm7j4O7RWaSZZKdnFr6kGulaCGutimgdleeyEDM0yvsPZv21ThNTU2yo1L/6ehTYcsdesGyMs8ar3WERfD2DQRTO03g6Uc5gYLw61Q8pD1K7NkhkrmZYRzwK4lL4tSeihexxTU/eAIEasfmao7MvorSKKdvIY/jNIHcBnAv/noq+HGrv4fV1B+5NQLRrb8LUHZbWCiDBA==;XsMj6+qaQ1AwrnK2J+lYZw=="
 ---

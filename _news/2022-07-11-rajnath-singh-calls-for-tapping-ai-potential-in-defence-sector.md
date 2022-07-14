@@ -233,15 +233,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
-    publishedDateTime: 2022-07-09T14:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220709/3960909.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
     excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
     publishedDateTime: 2022-07-12T12:57:00Z

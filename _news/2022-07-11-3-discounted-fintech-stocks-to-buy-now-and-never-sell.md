@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-n
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 4
-  - title: "Ewallet Rebrands As E& Money, A Financial Super App Set To Transform The Fintech Space"
-    excerpt: "Transformation from a digital wallet to a tech-driven fintech company under e& life, from e&, with its own financial super app marketplace"
-    publishedDateTime: 2022-07-09T13:03:00Z
-    webUrl: "https://menafn.com/1104505596/Ewallet-Rebrands-As-E-Money-A-Financial-Super-App-Set-To-Transform-The-Fintech-Space"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "HHJ+jv7haneNGOE6WStvtmd38YVzGwkV2wXaP3cVEvJwmD+gBSL1wXgiJLcwP+FZP4lqCnP0k+NdSjsCAAwYQFaioGJPYuFGJxEbNX6Dh7TZnfzXMjz6UR8BhNg3Ksbp3lcckGU0F5mgTuQYK60gkd3F3LgihcoMHZoCBzJXZkIAehbSUeZzYIJLPO2VAAOMZ7S0kfW6JVru+tB5AiylNThhLSpyLsKRqKRzL3rWbpXs2LSp/YQWbOYZFgFJNYakjQ4S5F/L7H4gyi4B+PTQxm2Ua0wC/fC9dYI3lg/cSOFb80Lx+o/UhOi7sImeVBdmE3vBsOkOQy9PjI1xFj9n3O1xAp72Q4QFUyr6zsRJxKQ=;vpvgHfM+18tyqdfarONvWA=="
 ---

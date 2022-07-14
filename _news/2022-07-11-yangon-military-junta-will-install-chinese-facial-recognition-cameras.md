@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Myanmar Expanding Use of Chinese-Made Facial Recognition Systems: Report"
+    excerpt: "According to a Reuters investigation, the military junta has plans to install CCTV systems in all 14 states and divisions."
+    publishedDateTime: 2022-07-12T10:24:00Z
+    webUrl: "https://thediplomat.com/2022/07/myanmar-expanding-use-of-chinese-made-facial-recognition-systems-report/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 38
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/07/sizes/td-story-s-2/thediplomat_2022-07-12-060400.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Chinese researchers create new face biometrics training model for expression recognition"
     excerpt: "A new CNN model based on Xception shows promise for lighter-weight facial expression recognition, according to academic researchers in China."
     publishedDateTime: 2022-07-11T15:18:00Z

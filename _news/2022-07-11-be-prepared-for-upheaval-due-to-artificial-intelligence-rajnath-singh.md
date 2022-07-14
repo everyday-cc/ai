@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
 type: article
 quality: 59
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -225,15 +225,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Rajnath Singh to launch 75 newly-developed AI-enabled defence products"
-    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar on Friday said it is a big event where 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence 'Azadi Ka Amrit Mahotsav' and to promote 'Aatmanirbharta' initiative in Defence."
-    publishedDateTime: 2022-07-09T14:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220709/3960909.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Rajnath Singh calls for tapping AI potential in defence sector"
     excerpt: "An Artificial Intelligence exhibition was organised which provided an opportunity for innovators to display their capabilities, products and state-of-the-art technologies"
     publishedDateTime: 2022-07-11T11:53:00Z

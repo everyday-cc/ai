@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Loses Executive Who Was Overseeing Self-Driving Programs"
+    excerpt: "Tesla's director of artificial intelligence, Andrej Karpathy, is leaving the electric-vehicle company. He was leading some of the company's autonomous driving programs."
+    publishedDateTime: 2022-07-14T07:13:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-561244/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Z74Kj1Wwhn7NbEUYzKdAolGO3NqRKqIDcsxYKcEyrW+iC7Q2nLTNkBMyv7muLeDEslvKGl8A0KdERPYtbilNaS66sOPS1PZ/BYTweKVung2c6wTmhL0KeuLfSHY0P9RR3SVV08MGPM+UvYGb6y6kcDs/LWezeV6dulKzOPUJ/m2neN7XzlUsZlgdPRGoAjv7Wvx6sv0vvw9bIursGNw5mDKS6/pPVzbquraeXOA9jFrnX3NcRgGh3KdS0+Bxbnvo8r6211HyEjy5H1LFb0x2cgT6tJQx14my2CbCNsBEkIXrXF80IaZ5lNgQqoNG8CddcI7C0Hj0H4dhqWrR9P5yyowthgG/ooIDpNVprfS0Sms=;A+wy7+tRYJI47f72OsiFgA=="
 ---
