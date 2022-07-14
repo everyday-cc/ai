@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T19:25:00Z
 originalUrl: "https://menafn.com/1104533266/AVEVA-Unified-Supply-Chain-Infuses-Refinery-Scheduling-With-Artificial-Intelligence-Capability"
 webUrl: "https://menafn.com/1104533266/AVEVA-Unified-Supply-Chain-Infuses-Refinery-Scheduling-With-Artificial-Intelligence-Capability"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

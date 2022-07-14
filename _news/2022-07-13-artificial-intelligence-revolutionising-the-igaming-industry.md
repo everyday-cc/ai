@@ -83,20 +83,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Reading law in an AI future"
-    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
-    publishedDateTime: 2022-07-10T04:00:00Z
-    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
-        width: 1240
-        height: 779
-        isCached: true
 
 secured: "Qj2KChbDfFrkm1Ng0Lx4Q6Eq3GiKSIbqOpZlAJsROHBpa2Hz+4MJc9n6ES01Z+3MofMSF+ANYiFYjVWqhCSdz2OFvftPtrEowYm8BzH043prtaJ9y0v2s7/E4V1BNVFnTUPpxrLw4w54/I1iEkjjk8ANGPyoPojztw9+9feUpwgif5btED420O2qM0shRYlIVz/33cE4xdVVy/4tsHQIl8EmO2y2hKF/cHq1n3p7Pl5xXsB+U3wJXzPA/kge7fD9JM8Ixrk0G5ojr/wowsAr58+UNQ1x3FLmEs8iNE3Khc8dQJdvq3p4wDVEyG55j+tGgpp+J9ojPnF4SQoQzKieJIMXSRianYIbDF17oLOEQ28=;sqM1fSnYqDSvue+YlhEXLg=="
 ---

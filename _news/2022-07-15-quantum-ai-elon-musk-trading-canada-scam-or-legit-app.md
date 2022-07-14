@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T19:07:00Z
 originalUrl: "https://www.outlookindia.com/outlook-spotlight/quantum-ai-elon-musk-trading-canada-scam-or-legit-app--news-209104"
 webUrl: "https://www.outlookindia.com/outlook-spotlight/quantum-ai-elon-musk-trading-canada-scam-or-legit-app--news-209104"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Outlookindia

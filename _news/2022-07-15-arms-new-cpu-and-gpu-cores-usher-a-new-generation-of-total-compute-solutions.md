@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T18:20:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2022/07/14/arms-new-cpu-and-gpu-cores-usher-a-new-generation-of-total-compute-solutions/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/07/14/arms-new-cpu-and-gpu-cores-usher-a-new-generation-of-total-compute-solutions/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

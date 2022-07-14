@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "VERIFY: New Virginia law lets local, campus police use facial recognition technology. How can they use it?"
-    excerpt: "WASHINGTON — A bill expanding facial recognition technology use by law enforcement in Virginia took effect on July 1. It allows local and campus law enforcement to use facial recognition technology, something that only state, federal and private police ..."
-    publishedDateTime: 2022-07-11T22:51:00Z
-    webUrl: "https://www.wusa9.com/article/news/verify/when-can-virginia-state-local-and-campus-police-use-facial-recognition-technology/65-d125aa62-6790-4fe8-80e6-1d8d1b0d74f8"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/verify/when-can-virginia-state-local-and-campus-police-use-facial-recognition-technology/65-d125aa62-6790-4fe8-80e6-1d8d1b0d74f8"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/when-can-virginia-state-local-and-campus-police-use-facial-recognition-technology/65-d125aa62-6790-4fe8-80e6-1d8d1b0d74f8"
+  - title: "Black Americans More Worried By Police Use Of Facial Recognition Than White, Hispanic Americans, Poll Finds"
+    excerpt: "Only 22% of Black Americans say the use of facial recognition technology would lead to safer policing, significantly lower than the 36% of whites and 40% of Hispanics who believe so, according to a new Pew Research Center study,"
+    publishedDateTime: 2022-07-14T19:56:00Z
+    webUrl: "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/"
+    ampWebUrl: "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/"
     type: article
     provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/f52fe56d-862d-475f-a545-d17a694c72a4/f52fe56d-862d-475f-a545-d17a694c72a4_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62d073374c8eda79ee9139ef/0x0.jpg?format=jpg&crop=796,448,x0,y0,safe&width=1200"
+        width: 796
+        height: 448
         isCached: true
-  - title: "Met police deploy facial-recognition technology in Oxford Circus"
-    excerpt: "Police facial recognition deployment resulted in three arrests, despite sustained calls from Parliament and civil society to limit the technology’s use until a specific legal framework for biometrics"
-    publishedDateTime: 2022-07-13T13:30:00Z
-    webUrl: "https://www.computerweekly.com/news/252522694/Met-police-deploy-facial-recognition-technology-in-Oxford-Circus"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "u8aDdkKH+vXi47thKV0mjK6WJyIJlAzfB8Gs+Cj5ZIHf474cWlZTsgG9MK0mfyuUcd/7NlC2hc1HaJ6h4M7858rH/UYioL20NzFDOdhXaYs3C9Zw4yrGdRFOAWjgigx4KyhX2P2yC9AR+KeDnm6arBHX1AUeU+dAeEZY9u2QJ1MegZiVZTGKDccqOAly1F1bFtiDd2II7x3l5e4zMNts2zrScIuBiBS81Ate/Dmc1hZ8xFo50dFj9nSZrybQZNP+CYtQ3AoOeQj2YwVhCHBJNEEWEZpObadhseDfySvaIx0R3sPeKtTy+ilwG2l7Vt5a9eyDNP6YXlPsh2LymPBdid4rL0atan/FRqkm3Pgeys4=;WpGYXtu6GeB7BPL6NF35Kw=="
 ---

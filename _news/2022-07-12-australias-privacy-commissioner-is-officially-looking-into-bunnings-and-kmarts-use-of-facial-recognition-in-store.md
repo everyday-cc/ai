@@ -198,6 +198,20 @@ related:
         width: 689
         height: 388
         isCached: true
+  - title: "Police scan faces of shoppers in London in facial recognition trial"
+    excerpt: "You will be taking facial photographs, videos, and selfies with a variety of camera systems to provide data for analysis of the performance of face recognition systems"
+    publishedDateTime: 2022-07-14T18:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-trial-police-scan-faces-oxford-circus-london-b1012411.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 39
+    images:
+      - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Cognitec celebrates 20 years as an influential face recognition company"
     excerpt: "Cognitec is proudly looking back at 20 successful years developing high-ranking face recognition technologies, and working with partners around the world on major government and commercial"
     publishedDateTime: 2022-07-12T13:59:00Z

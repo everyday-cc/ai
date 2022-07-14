@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-12-artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025",
+      "excerpt": "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-how-ai-is-helping-drug-hunters-succeed.md",
+      "title": "How AI is helping 'drug hunters' succeed",
+      "excerpt": "Dr. Iya Khalil is using AI and big data to transform medicine and healthcare. For more Life Itself talks and related articles visit CNN's collection here.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "originalUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220602170223-iya-khalil-life-itself-wellness-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "publishedDateTime": "2022-07-11T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-gender-bias-revealed-in-ai-tools-screening-for-liver-disease.md",
       "title": "Gender bias revealed in AI tools screening for liver disease",
       "excerpt": "Artificial intelligence models built to predict liver disease from blood tests are twice as likely to miss disease in women as in men, a new study by UCL researchers has found.",
@@ -137,7 +239,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1046,102 +1148,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud.md",
-      "title": "AWS now lets you access your very own M1 Mac Mini in the cloud",
-      "excerpt": "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
-      "originalUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sKXZvLaQHgtG97gXwkZZAo-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
-      "title": "Researchers Develop Self-calibrated Photonic Chip",
-      "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg",
-          "width": 500,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
-      "publishedDateTime": "2022-07-08T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Natural Language Processing"
       ]

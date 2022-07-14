@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T17:11:00Z
 originalUrl: "https://seekingalpha.com/news/3856932-taiwanese-ai-solutions-provider-gorilla-technology-goes-public-through-spac-merger"
 webUrl: "https://seekingalpha.com/news/3856932-taiwanese-ai-solutions-provider-gorilla-technology-goes-public-through-spac-merger"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Seeking Alpha

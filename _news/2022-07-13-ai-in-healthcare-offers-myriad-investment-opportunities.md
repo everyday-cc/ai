@@ -113,18 +113,18 @@ related:
       domain: fmiblog.com
     quality: 11
   - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
-    publishedDateTime: 2022-07-11T09:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global telepresence robots market reached a value of US$ 248."
+    publishedDateTime: 2022-07-11T09:52:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_6eb7573c-6f88-58bb-9bf7-e54c2cb9ffa6.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Daily News
+      domain: galvnews.com
     quality: 1
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "9IArBqedpV96Pu6r2L52MSxAR51P7/X3m2kVK8+hKv0spyQ5B+7DZC17V/L1tpljGeaD7WrPxUAun5PhXIS+j2KyDtfXOOKFWI9yJ4K99Ye5WY2uFOTwgpcBxhRi+xhAyzTIJFCAwPUruN6g8SYGGUFr0gObL2JD/c6cuowUV1n+MnaVEGju3EbNjzGcPxGGECpD1xPjFkIxJKVAqiKOtHKtmlt6LtxqcmaKKketDy6+Xdtz1f8gPNul5phztTrRsclJe8/4VV6GZ/0rjw3+eiwYIOY1A32BseF/USo2Pw4/OQ/jGn3iIeOxKqbGeuE6bGsU//J76NebLL3dn3CVn9KXTxRgCpj/6G1TpdWpG1MKe8giHNNYxVMuxlu6/0ErdfdwCxaBkGx1dgS5BARE7ya3k3FYPaZoqm68ebnKjOOzPQ8TNh+lMD5sDbU4noYEoiCIesQd/DoPwsx/6ZJ9/OKbopme6XiiD65XhOyOx5ttm+L+8puxnYRuz0rFnJ7tE/NiqVXNIQNIuiCpvA4lOA==;pF1aNrIKa6StOv1GQHjMRw=="

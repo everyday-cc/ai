@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T19:35:00Z
 originalUrl: "https://www.powderbulksolids.com/instrumentation-control/key-technology-unveils-fm-alert-artificial-intelligence"
 webUrl: "https://www.powderbulksolids.com/instrumentation-control/key-technology-unveils-fm-alert-artificial-intelligence"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Powder/Bulk Solids

@@ -2,6 +2,81 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
+      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
+      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
+      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
+      "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
+      "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
+      "originalUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
+      "publishedDateTime": "2022-07-03T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-03-an-ai-model-predicted-crime-in-us-cities-a-week-before-it-happened-it-was-right-nine-times-out-of-10.md",
       "title": "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10.",
       "excerpt": "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy.",
@@ -1041,102 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
-      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
-      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
-      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
-      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
-      "publishedDateTime": "2022-07-01T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 13",
-        "domain": "fox13news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
-      "title": "Reddit acquires natural language processing company MeaningCloud",
-      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
-      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
-      "publishedDateTime": "2022-07-01T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

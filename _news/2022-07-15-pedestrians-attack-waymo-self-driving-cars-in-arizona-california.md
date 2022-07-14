@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T18:50:00Z
 originalUrl: "https://www.autobodynews.com/index.php/southwestern/item/26681-pedestrians-attack-waymo-self-driving-cars-in-arizona-california.html"
 webUrl: "https://www.autobodynews.com/index.php/southwestern/item/26681-pedestrians-attack-waymo-self-driving-cars-in-arizona-california.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Autobody News

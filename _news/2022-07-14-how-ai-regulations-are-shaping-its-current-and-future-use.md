@@ -86,20 +86,6 @@ related:
         width: 950
         height: 634
         isCached: true
-  - title: "Reading law in an AI future"
-    excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
-    publishedDateTime: 2022-07-10T04:00:00Z
-    webUrl: "https://www.thestar.com.my/news/education/2022/07/10/reading-law-in-an-ai-future"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/10/1654014.jpg"
-        width: 1240
-        height: 779
-        isCached: true
 
 secured: "QlO1P5mlgmqhNwbB+dxKvtYtvz/lvPh4v3r+PzaxJvXJpwgeSbtXPsCyhiY6Q5j1eeaKiwpaPYYkJaDEvMQkReWi1LXJNtqVWbQb/M+aP3e7i3YuqX+H8ZZNVu6tkDSAQJtdIK1k6d3XQKAhPZAfDFUMYSOO2tzFoJ4PljYLX8jg2fBepKmaljhRsJBcpXpIp3bmbN/E3nWXGyABMobwyEIsaGbe6c7scbo5c9GZmQE5GRuG5wx2T3y8vber1FMJ1OCk1lwjYQO2VJJOKs5W7/HUUejEpwjnlzmu+iH7Trpf3ee4wryOuLs4zKi/1Ntqu+mPa3ShijH1IaOksipzwqPpn7t4omYoNpmIfBDfKF7qprN28rAeHSO2gYA+8PAgCvEcs88tP8ylkzTx7OCpqdgN77LkQXABnMJKMA9rz1oXg8z/oDypzxLf+UI9rRk/x09uWtVtx1RnkGXDQB+mnlRv9YVm2phHIH03ayPaaht/z6uXPpHwUwPQTAydqdwJQaH3kOrfdgo7dyoSVFhOuA==;tUKIG8kH7sV7nk0JbY6FBg=="
 ---

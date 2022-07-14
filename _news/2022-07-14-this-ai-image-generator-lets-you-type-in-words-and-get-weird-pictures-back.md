@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T12:31:00Z
 originalUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 webUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: CNN

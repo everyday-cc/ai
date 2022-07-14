@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -181,6 +181,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/kmart%20facial%20recognition%20store.jpg"
         width: 689
         height: 388
+        isCached: true
+  - title: "Police scan faces of shoppers in London in facial recognition trial"
+    excerpt: "You will be taking facial photographs, videos, and selfies with a variety of camera systems to provide data for analysis of the performance of face recognition systems"
+    publishedDateTime: 2022-07-14T18:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-trial-police-scan-faces-oxford-circus-london-b1012411.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 39
+    images:
+      - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Australia’s Privacy Commissioner Is Officially Looking Into Bunnings and Kmart’s Use of Facial Recognition In-Store"
     excerpt: "A few weeks ago, we reported that Kmart, Bunnings Warehouse and The Good Guys were all using facial recognition technology in-store. Today, Australia’s Privacy Commissioner has opened an investigation into two of the three: Kmart and Bunnings. As ..."

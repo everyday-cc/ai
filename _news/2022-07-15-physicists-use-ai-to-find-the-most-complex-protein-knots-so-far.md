@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T19:26:00Z
 originalUrl: "https://phys.org/news/2022-07-physicists-ai-complex-protein.html"
 webUrl: "https://phys.org/news/2022-07-physicists-ai-complex-protein.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

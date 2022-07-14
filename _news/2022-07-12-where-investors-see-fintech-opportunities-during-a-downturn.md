@@ -30,6 +30,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "4 Key Opportunities to Leverage in Fintech and Beyond"
+    excerpt: "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?"
+    publishedDateTime: 2022-07-14T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/429429"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "FinTech Global Again Recognizes Earnix as Top AIFinTech100"
     excerpt: "Earnix, a global provider of real-time AI-driven rating, dynamic pricing, product personalization, and fully operationalized telematics solutions for Insurance and Banking, today announced that it has been named in the 2022 AIFinTech100 list by FinTech Global."
     publishedDateTime: 2022-07-12T07:06:00Z

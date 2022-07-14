@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-
 ampWebUrl: "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/"
 type: article
-quality: 85
-heat: 95
+quality: 87
+heat: 97
 published: true
 
 provider:

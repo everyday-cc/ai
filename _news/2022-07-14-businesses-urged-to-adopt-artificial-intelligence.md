@@ -28,7 +28,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/03/assembly-ai-ceo-dylan-fox.jpg?w=1024"
         width: 1024

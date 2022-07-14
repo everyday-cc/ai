@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/furiosaai-forays-i
 webUrl: "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_542.jpg?h=7de12b8a&itok=XXIYDfyw"
         width: 600
         height: 316
+        isCached: true
+  - title: "American Family Insurance Streamlines Claims Operations with Tractable’s AI"
+    excerpt: "Specifically, American Family Insurance Claims Services (AFICS) will be using Tractable as part of its claims subrogation settlement process. American Family is one of the earliest top 10 private passenger auto carriers in the U."
+    publishedDateTime: 2022-07-14T21:30:00Z
+    webUrl: "https://www.autobodynews.com/index.php/industry-news/item/26683-american-family-insurance-streamlines-claims-operations-with-tractable-s-ai.html"
+    type: article
+    provider:
+      name: Autobody News
+      domain: autobodynews.com
+    quality: 35
+    images:
+      - url: "https://www.autobodynews.com/media/k2/items/cache/ffa2d964543b5f6318aec890a7596706_M.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "6T3xWOqORNsoNVHX8LuQnvTyluloOd16tHUwVjiN4w7BaujLGHAlFVnXWxfhyDayzFXj+XO6hOoYOMW72pIRVg6xE33q1HeA122Ha/h+CJJdtbPe3+nYEGnqhnW2hlpyivpfEqIyfimY9l77kFGhPfjOe2b/S8H2kBJ859L/h1Je45nx5c7usZUuGJ2L4PkpzF+pAMwXbcNvqDnbMaEVt3ZQ3i3Tccba5pkwcyShLaYr5aMHMEzjz+d2xA41FmiqBf9XzRP5+McpKTt7NcKinhFsk351sbXU1zzYzJMESa4AyRv1WMYcSevdFLumZ8AfrOh96E7Zfu5jnxWfYPsHooSnpln9EQdeChs9C7Dd8yg=;R4tsWZS0h6eUyAVHe8tEzQ=="

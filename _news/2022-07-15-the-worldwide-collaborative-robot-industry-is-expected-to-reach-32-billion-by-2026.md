@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T18:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28071692/the-worldwide-collaborative-robot-industry-is-expected-to-reach-3-2-billion-by-2026"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/n28071692/the-worldwide-collaborative-robot-industry-is-expected-to-reach-3-2-billion-by-2026"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T09:56:00Z
 originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
 webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Analytics India Magazine

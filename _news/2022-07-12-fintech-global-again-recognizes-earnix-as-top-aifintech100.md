@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "4 Key Opportunities to Leverage in Fintech and Beyond"
+    excerpt: "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?"
+    publishedDateTime: 2022-07-14T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/429429"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AWS to double down on investments in specialist programs to help startups scale; bullish on fintech, healthtech, gaming, Web, SaaS"
     excerpt: "Gaurav Arora, Director and Head of Startup Businesses for Asia Pacific and Japan, AWS said the global cloud providers continued investments in specialist teams and programs will enable startups to grow by leveraging the deep,"
     publishedDateTime: 2022-07-10T16:10:00Z

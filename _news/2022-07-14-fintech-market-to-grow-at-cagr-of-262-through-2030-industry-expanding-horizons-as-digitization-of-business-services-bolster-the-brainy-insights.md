@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T13:30:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/fintech-market-to-grow-at-cagr-of-26-2-through-2030-industry-expanding-horizons-as-digitization-of-business-services-bolster-the-brainy-insights-803477403.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/fintech-market-to-grow-at-cagr-of-26-2-through-2030-industry-expanding-horizons-as-digitization-of-business-services-bolster-the-brainy-insights-803477403.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PR Newswire

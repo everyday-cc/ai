@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
+      "title": "Expanding artistic frontiers in artificial intelligence",
+      "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg",
+          "width": 711,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
+      "publishedDateTime": "2022-07-05T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-fifa-will-use-ai-to-track-players-bodies-during-world-cup.md",
+      "title": "FIFA Will Use AI to Track Players' Bodies During World Cup",
+      "excerpt": "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "originalUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "publishedDateTime": "2022-07-05T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
       "title": "Access Healthcare to hire 18,000 people in 12 months",
       "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
@@ -1034,81 +1120,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
-      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
-      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
-      "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
-      "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
-      "originalUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
-      "publishedDateTime": "2022-07-03T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

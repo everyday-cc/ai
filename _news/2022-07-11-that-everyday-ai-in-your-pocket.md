@@ -58,11 +58,11 @@ related:
   - title: "Bowdoin College to offer class on ethics of AI in everyday life"
     excerpt: "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development."
     publishedDateTime: 2022-07-11T08:00:00Z
-    webUrl: "https://www.centralmaine.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/"
+    webUrl: "https://www.pressherald.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/"
     type: article
     provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 34
 
 secured: "Me7DmQwRAKQYYGQmP0xGgWSTvsbdHLca3+AkPbhjAKeq9YWDTbDbXTDkQ0ZP3aggiDU+UNJpF24b7akxbIrEwC/t6OMjfyWNDp8VYv5Q7X9rmq/UEsP6ZDUExvxMHxdKl4/s5gkCVf4UVL3NbkNU/mlSvG9upH5cT/meyHFEuclkGVKV/ExJ071LrYwYltjpeN/SsfCEy6KEsUd8qnLetRadbiCSFaF9O+6xy9FMeZSS9bP3jiJV2PHl7jrgMUIoYrZWZFjQJ7BFcxfZSXhA9vd4PWMKPybOh+xSrAmhab6Yp6aYDt8hBsnBUqG5zhKsSiI734n51Xl2B5k4IQo5A/DpX4oZIATwVJezqEPvSYpxVpvBa66o2cUOMDSZ6cEUVhIwylQI4ff8DKdJ/iIfXCuEc9t0PmC5ovebJ78Z8kpWRI8eawMAH5pGKL91oMpRmtvDoiikmSOmu8Y4LuwU1xEJtwRHjsBUGKTILKzL3enc7d4KoxMc8hutuLY81qRhJl6Z9T1g0CgB3F+P4Eccjg==;Hv22GbPmXVFBgKjuQ8pqJw=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T16:41:48Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/track-your-ml-experiments-end-to-end-with-data-version-control-and-amazon-sagemaker-experiments/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/track-your-ml-experiments-end-to-end-with-data-version-control-and-amazon-sagemaker-experiments/"
 type: article
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -19,6 +22,40 @@ topics:
   - AI
   - AWS AI
   - Machine Learning
+
+related:
+  - title: "Build a predictive maintenance solution with Amazon Kinesis, AWS Glue, and Amazon SageMaker"
+    excerpt: "Organizations are increasingly building and using machine learning (ML)-powered solutions for a variety of use cases and problems, including predictive maintenance of machine parts, product recommendations based on customer preferences, credit profiling, content moderation, fraud detection, and more."
+    publishedDateTime: 2022-07-14T16:26:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+  - title: "Achieve enterprise-grade monitoring for your Amazon SageMaker models using Fiddler"
+    excerpt: "This is a guest blog post by Danny Brock, Rajeev Govindan and Krishnaram Kenthapadi at Fiddler AI. Your Amazon SageMaker models are live. They’re handling millions of inferences each day and driving better business outcomes for your company. They’re performing exactly as well as the day they were launched."
+    publishedDateTime: 2022-07-14T21:23:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/ML-9510-image001-1222x630.png"
+        width: 1222
+        height: 630
+        isCached: true
+  - title: "LiDAR 3D point cloud labeling with Velodyne LiDAR sensor in Amazon SageMaker Ground Truth"
+    excerpt: "LiDAR is a key enabling technology in growing autonomous markets, such as robotics, industrial, infrastructure, and automotive. LiDAR delivers precise 3D data about its environment in real time to provide “vision” for autonomous solutions. For autonomous vehicles (AVs), nearly every carmaker uses LiDAR"
+    publishedDateTime: 2022-07-11T19:01:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/lidar-3d-point-cloud-labeling-with-velodyne-lidar-sensor-in-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 60
 
 secured: "RwcPFew4R+O+eD1OKrEkTUwnVwo+tipJT+sYcLMd8QWAMQwFQ+F9Pj90Nv2xJ/2WXgjY7RQf+bfrPi4xrGY84X+ODgJrglo2ScqSDr17aM6FjO4NFg8QKwtQrwG7TBABMxnroYfVVkuRtFv6EvFCixTtitqUXaGc/PphO1hBpv7OoBc7aqDCbQpTfXckGFTrftB0pRKaY5dT2SCpeSGSb08X/E8m0uy79/Y/iaacUwC8b4ynanzePTRUXrcyuUH0WTqbMpTQz4QSBNA15Lkd7gJ4+3ShhQMLENMvpZ8XRQNUT9OJrRtvIvKfYa9LwQ41NT8zYsfOYKEG3TOTjRqi/DD7p1y1piq/BTxC0AJLMqE=;g2QE3E4OnKvjd0h+QuCV/Q=="
 ---

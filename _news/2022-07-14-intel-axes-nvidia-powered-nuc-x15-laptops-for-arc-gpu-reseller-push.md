@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T14:10:00Z
 originalUrl: "https://www.theregister.com/2022/07/13/intel_axes_nvidiapowered_nuc_x15/"
 webUrl: "https://www.theregister.com/2022/07/13/intel_axes_nvidiapowered_nuc_x15/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: theregister

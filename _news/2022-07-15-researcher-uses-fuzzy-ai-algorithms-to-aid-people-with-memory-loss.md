@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T19:52:00Z
 originalUrl: "https://www.utoronto.ca/news/researcher-uses-fuzzy-ai-algorithms-aid-people-memory-loss"
 webUrl: "https://www.utoronto.ca/news/researcher-uses-fuzzy-ai-algorithms-aid-people-memory-loss"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: University of Toronto

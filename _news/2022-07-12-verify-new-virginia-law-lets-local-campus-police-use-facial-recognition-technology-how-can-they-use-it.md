@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Black Americans view the use of face recognition technology by police"
-    excerpt: "Black Americans are critical of key aspects of policing and criminal justice. But their views on face recognition technology are more nuanced."
-    publishedDateTime: 2022-07-14T16:59:00Z
-    webUrl: "https://www.pewresearch.org/fact-tank/2022/07/14/how-black-americans-view-the-use-of-face-recognition-technology-by-police/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 38
-    images:
-      - url: "https://www.pewresearch.org/wp-content/uploads/2022/07/ft_2022.07.14_facialrecognition_01.png?w=420"
-        width: 420
-        height: 331
-        isCached: true
   - title: "Met police deploy facial-recognition technology in Oxford Circus"
     excerpt: "Police facial recognition deployment resulted in three arrests, despite sustained calls from Parliament and civil society to limit the technology’s use until a specific legal framework for biometrics"
     publishedDateTime: 2022-07-13T13:30:00Z
