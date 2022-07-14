@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-al
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/amp/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/623ffe097bf3a40bb1746450/0x0.jpg?format=jpg&crop=1190,792,x163,y2,safe&width=1200"

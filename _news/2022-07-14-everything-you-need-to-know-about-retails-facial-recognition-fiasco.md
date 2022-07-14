@@ -152,6 +152,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Kmart, Bunnings investigated for facial recognition use"
+    excerpt: "Kmart and Bunnings will be called before the Information Commissioner to explain exactly how their use of facial recognition to monitor customers in their stores is in line with Australian privacy laws following last month’s revelations that retailers had quietly begun using the controversial surveillance technology."
+    publishedDateTime: 2022-07-14T00:31:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/kmart--bunnings-investigated-for-facial-recognition-use.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/kmart%20facial%20recognition%20store.jpg"
+        width: 689
+        height: 388
+        isCached: true
   - title: "Australia’s Privacy Commissioner Is Officially Looking Into Bunnings and Kmart’s Use of Facial Recognition In-Store"
     excerpt: "A few weeks ago, we reported that Kmart, Bunnings Warehouse and The Good Guys were all using facial recognition technology in-store. Today, Australia’s Privacy Commissioner has opened an investigation into two of the three: Kmart and Bunnings. As ..."
     publishedDateTime: 2022-07-12T06:34:00Z
@@ -196,6 +210,6 @@ related:
       domain: theguardian.com
     quality: 8
 
-secured: "J6yM+dC7/9liOQ1/Ek/oZNz0su1vRpoxc8a/8sbtzCjfQPQd7OiG2d374CTPUuIUgOruhI6q8zPO5ZkF8b0t4ZMA0PU8tw2obaoAU/qclOy5Rng1NKiGrtVI4VQdN/peAX5htfHTdlUhOEzWLn5fdketHlqRfsqMgYo1YMK9ri/+oBG3zexiTNkWldMup9p4M3xF73H569aECNVyCReyfLCfQ7VxEnSZ9ULfFEhrdhFCB/p3qJVK2RZEIjon0q6cX65ZjTHjLAGD7S+MVSrYf0w/leScdhDtfqSKn5kKizPZcIMgFNsyYLSEfb3RzWmFwQA90dKrsznt7g5INxypnls8YYuJQGJa7WvcA69UDbI=;t0yjzaYhVmXQA+E714xoRQ=="
+secured: "uLUvZKaRohV/lXqMvXbKZkujdFAgNPHkvE159dVuyqgNpzSFc2JBTKgLDNq6JmI/OOZpETxOSD3zuubtzNPz1TnMZAE1xTH++2e7UxEaoOAzDE6D8ZUg8mTo5KE7h9lyqOeDnRCJzIrQy3pW9CpvqY8l3rUVfmE8E9XB2fj3VEJi/VA87d0uRWfgs5XieLk5aBYGUoHBxZCn6GDgbxGY26kRAuyPN2PDPrUyYF44ANx1yHRYi3hQ7x/sNXNgy2N8cYu7vjBI/SppmVGPZkkMIl0D2MI/xktXqIkNWhJp9uMYTzhJOak3suxYHWFMutDdEb4J0/JRz8vQDkYT5FGsKBSzZLzp2Azax4mwWReky7wHy3ovYhhvCV7zJAsESKHdJllRrGjXIdQ8+oQvuFWn/R5MBRmLaTDXfy2yk4GZe+Fr+HSAYRWOR/064FlpoogJNJp6xrFw3NcuOqWH9sM5V9tr+o94KF9Ps31YoPgc3+9Pc3No9tVw2pw+UmlzcY89tula2sKPXNEA7sLD+v7hpw==;5gn0VtLG1y3A+eROvnYxjg=="
 ---
 

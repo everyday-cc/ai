@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://image.khaleejtimes.com?uuid=5d0603cf-7d3e-5b67-a875-f19bf9e57b0d&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.79086&width=1200&height=675&x=1.0E-5&y=0.14236"

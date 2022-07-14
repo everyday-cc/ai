@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e54691db479e878d890e82dc42a81d94e1fd4ba8"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Kmart, Bunnings investigated for facial recognition use"
+    excerpt: "Kmart and Bunnings will be called before the Information Commissioner to explain exactly how their use of facial recognition to monitor customers in their stores is in line with Australian privacy laws following last month’s revelations that retailers had quietly begun using the controversial surveillance technology."
+    publishedDateTime: 2022-07-14T00:31:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/kmart--bunnings-investigated-for-facial-recognition-use.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/kmart%20facial%20recognition%20store.jpg"
+        width: 689
+        height: 388
         isCached: true
   - title: "Australia’s Privacy Commissioner Is Officially Looking Into Bunnings and Kmart’s Use of Facial Recognition In-Store"
     excerpt: "A few weeks ago, we reported that Kmart, Bunnings Warehouse and The Good Guys were all using facial recognition technology in-store. Today, Australia’s Privacy Commissioner has opened an investigation into two of the three: Kmart and Bunnings. As ..."

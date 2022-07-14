@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Reddit Buys Natural Language Processing Company Meaningcloud"
-excerpt: "Popular online discussion forum Reddit has announced that it is acquiring MeaningCloud, a natural language processing (NL"
-publishedDateTime: 2022-07-02T07:28:00Z
-originalUrl: "https://menafn.com/1104467086/Reddit-Buys-Natural-Language-Processing-Company-Meaningcloud"
-webUrl: "https://menafn.com/1104467086/Reddit-Buys-Natural-Language-Processing-Company-Meaningcloud"
+title: "Reddit buys natural language processing company MeaningCloud"
+excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p.."
+publishedDateTime: 2022-07-02T09:06:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-07/02/I_54a81image_story.jpg"
-    width: 400
-    height: 300
+  - url: "https://etimg.etb2bimg.com/thumb/msid-92616242,imgsize-23830,width-1200,height-628,overlay-ettelecom/reddit-buys-natural-language-processing-company-meaningcloud.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "9v6H/m/QTryfy6O/M9ByQ11QOuoWJHYrZ617DkGs/q+lSSmrfv7aby6lQRu4vB/6msbBZYwkJF+0Q6gGiNil9DPOaO/Tsk89X6Jib2sH+G+GqYyPUwHxsEJxdgj6uZUCOH71S8BMX4iCncnhxx+L2zuLAOL17uUZTIpuydsNsP2c21TrSR5GH28tGW8O2aH6vkCuaXdPCwiLoXuJH4LeAxkslLN5Gc3HBh7pAp8CfUCPC6tkB2PCdyRd2XI8e2lIQSrEZRt/I+zBU+FJwKW356BEfmS9BfgPqtt8wVk4n/g5ultksyOnBJ3S5fUSJRvPAHtIQIsdmYngmbMpoEb5arb9omTGFj2OGQL5MMo3Mr4=;06YulPzBX2r3T0/uauCKLw=="
+secured: "iZ52c1z5yxWLNB4gSMIQ2DhJE6zNkUrmnzr0nmf232LIakVsCawFp4xm26IcBZbIvdPxxyKwe11zuvQVJSMdjueuDiHItBtU2Kcqt3bqrZwWsrYCLHATuWyszFrBxXHMCAQr1H7cAL7qx1pesuOBxnUZw+iUaj6l/Q4Ygycpl2msPEPAialSVsLQwY85EX3GC7+WG4OqAcBUiQuVwD8XybzS4oI9B7JeEKQ0ac75nBFuMiQSBYZo2HoWuD2hZyBKsEImTsbmUdqHWRbHBQR/XzPrKFhw3YnygW0EoE/gniiEPqoyrODLb9kH1V8MflVg2A1hyec+K8wX5VgJbfU9h9Pbj95wkE0FSrzFw6OOyBo=;kzRVhd2eebavH2XYUHz4pg=="
 ---
 

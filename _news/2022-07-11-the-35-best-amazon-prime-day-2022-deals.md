@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 55
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon Prime Day 2022: Best deals on Dyson vacuums"
+    excerpt: "Amazon Prime Day 2022 is almost over. If you're looking to score a deal on a new vacuum cleaner, now is the time to shop. Amazon is offering dramatic discounts on Dyson vacuums during Prime Day. Keep reading to shop the best deals on Dyson vacuums."
+    publishedDateTime: 2022-07-13T23:55:00Z
+    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-2022-the-best-deals-on-dyson-vacuums/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-the-best-deals-on-dyson-vacuums/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-the-best-deals-on-dyson-vacuums/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/12/4493bc88-79f9-4322-8841-0a48cf52386a/thumbnail/1200x630/93fcf7cc08c7d7996f89487a99e96b3e/gettyimages-1165530892.jpg"
         width: 1200
         height: 630
         isCached: true
