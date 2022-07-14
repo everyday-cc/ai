@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-hea
 webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence"
-    excerpt: "Anumana, Inc., an AI-driven health technology company and portfolio company of nference, has launched a multi-year strategic collaboration with Novartis Pharmaceuticals Corporation (“Novartis”) to deploy a series of artificial intelligence (AI)-powered software solutions that will detect hidden cardiovascular conditions."
-    publishedDateTime: 2022-07-13T12:47:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-software-heart-disease-8655d6d76122477285fc87247bdc2a0a"
+  - title: "More job candidates are lying and cheating in their interviews. Employers are using artificial intelligence to catch them."
+    excerpt: "Candidate fraud is increasing as remote hiring and a labor shortage have fueled opportunities for dishonesty on the part of applicants."
+    publishedDateTime: 2022-07-14T10:00:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-can-catch-fraudulent-cheating-job-candidates-in-tech-2022-6"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i.insider.com/62cefde2b0ab4f0018538393?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "j8zzYy28DG3Cfds1hzH3MTYD66hp+viISdNJ64ZGRrJDe7XMQW7MH5ablDuVmLusXKRzdvmUyf+tNZxzEkXymzcWHhoce+gjNwG8EHQet7z565NcyKVtGi4FHJlDLrQcxheGPzgZf4Y6AbIeYprygLeVx70CLdYw4pUCR4L8RMRAWvDrhn74zoQTekZM6HBgfAyIIhr7mKx3zIYaNTGmipOXMsRvAKUodKyFthLj2ztXfZbEYwS87OeLb4uMjOVlesEmTyOvfdHZy0CPj6YRgtKGJRXqfslgIDQobulnZ+Q9tXbxcDKb49B/TTjROtDBPksQTzrzTUoXxgHPlq+S1l6MMk0gt3BuZU6SXhVZWHk=;WHpGaGQ7c1Fdn1fATHFLag=="

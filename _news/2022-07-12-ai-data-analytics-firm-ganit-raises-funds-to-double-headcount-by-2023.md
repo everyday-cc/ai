@@ -56,19 +56,19 @@ related:
         width: 400
         height: 352
         isCached: true
-  - title: "radicant, Squirro Announce Partnership in Field of AI to Leverage Data-based Analytics"
-    excerpt: "The integration of tech “enables radicant to automate decision-making processes and improve customer understanding and service quality.” The Swiss tech company Squirro links and “analyzes data to provide new insights as a basis for decision-making."
-    publishedDateTime: 2022-07-09T17:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193384-radicant-squirro-announce-partnership-in-field-of-ai-to-leverage-data-based-analytics/"
+  - title: "Chennai based AI startup Ganit raises funds in pre-series A round"
+    excerpt: "AI and data analytics startup Ganit said it had raised funds in pre-series A round led by Sangeet Kumar, co-Founder & CEO of Addverb Technologies"
+    publishedDateTime: 2022-07-14T10:05:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-ganit-raises-funds-in-pre-series-a-round/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-2-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
 
 secured: "6Yk4TW4Az3Qfo9zWvSFXehp01zphNmDDGY4ceemAJZ6PNzO2MZJ15P8p6B3B8QgBa7/TPzwDv4+495bag2wjpEkR+glK3w96r04rVFP4nFhXLzl2m+kovLZpSAVmVOyDVdICOGws6QewoiRJOEIJw71x7/akk2GqO/qmh1Q6dpgedWVT7rV3PlyviVCjUNl7dhtF7dKP5PucfE6pL5I974VyL5CiRRsPw8txvDpfFWUZYKlEIEZtOuTC35XfbO5nWgDl/laYgLXAAyyp84s6a5jgyYOfwB6QCZ1Gjzhb7boHuPMWtW2vH0kxrmFjLMq/jkuc/xtzUQXTIk/SjZLCFiN6MAvEPvKMJ8SXAvCNjNM=;DtSIG3kZFDnzbZXHXGfl7Q=="

@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
-    excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
-    publishedDateTime: 2022-07-12T14:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
+  - title: "FDA clears Eko’s AI for detecting heart disease"
+    excerpt: "Eko announced today that it received FDA clearance for its Eko Murmur Analysis Software (EMAS) for adult and pediatric patients. The next generation of Eko’s murmur detection capabilities, EMAS represents the first and only smart stethoscope on the market that can identify and differentiate between innocent and structural heart murmurs indicative of valvular heart disease."
+    publishedDateTime: 2022-07-12T17:48:00Z
+    webUrl: "https://www.massdevice.com/fda-eko-ai-heart-disease/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
+      name: MassDevice
+      domain: massdevice.com
+    quality: 19
 
 secured: "/w87lIpIwEHZkhsS3m/8n8vXTaczxj7wpVIXtD7T2d4jlOjn642MPKA+k4Nm+UzO9xKm/M5WxWIXyJnnifgB71ZC290k6oQ7nCdhqMgwJMppllNy3iTIAhE8SbXYmdhG1oWlG2ZCCRjgqwMFXNZHyPOpVBQK8/G7x9WrJokabZUaOW87eZ0uvRZJ/IEa5YUHvc2ksiLqZTVIvGDc9z77tBl9zjxwRae6/nwUDLx36yDRag64iaM9dHVBMJLMz37/M2Q/LssY63YhxdJU/7Y3TZtQbdmGWE8Uf9wsfoqaCsSHgOmJetNmkykeI0FVeWeDMSe/TYXhgsb+unM1Sv3tlT1cvM6i+kz/jTM6Yz1V6BU=;wNd3i2Rq42u6cLoNgsffCw=="
 ---

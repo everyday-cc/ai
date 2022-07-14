@@ -60,19 +60,19 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "radicant, Squirro Announce Partnership in Field of AI to Leverage Data-based Analytics"
-    excerpt: "The integration of tech “enables radicant to automate decision-making processes and improve customer understanding and service quality.” The Swiss tech company Squirro links and “analyzes data to provide new insights as a basis for decision-making."
-    publishedDateTime: 2022-07-09T17:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193384-radicant-squirro-announce-partnership-in-field-of-ai-to-leverage-data-based-analytics/"
+  - title: "Chennai based AI startup Ganit raises funds in pre-series A round"
+    excerpt: "AI and data analytics startup Ganit said it had raised funds in pre-series A round led by Sangeet Kumar, co-Founder & CEO of Addverb Technologies"
+    publishedDateTime: 2022-07-14T10:05:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-ganit-raises-funds-in-pre-series-a-round/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-2-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
 
 secured: "qipkSvmgPYrN7OhukHDV0b949aQsqdFbvWj9bHSsyAwPnwJeKyHINRa56LyNXyUzBgLAqJTne0EHmRmR88AbgvcqZ3rnTE6xGJGpn9Z/p5+Jx9oScxFqs+AaGVR3OUEksU91bsEkDr4pMx7Ws24mt4TaBq6hZc8U2VTAek2Zmqh3lc8scDlGxgUutz4Me+Noi7cPfaX3be4fOVIl4w91RVIaV3oMV2T2g2Zq9Qo2pFkMi1zgPcBbvf3HkjvFDg5YzGwU634OSuv7AVg6TmK0RDx7ywkSrVHlfurQW27BblRs7YrXQgQB/6CQZiy2rVbrRn6LkWYE09gycsiqJoO+Xt3vJBMIURru7eIu22hFrXL872J8ONSmE8BkyFS6QCORDWBk+l1sjl7ydUwbiUr+E6gBooBXG3izCRmeIzj9bS4e2Gnu3UyepmtTd1EUxE3m/BL+S1Agj+jkbql8wASp3fNJfD6O+ezyeHrFCw9TyIKdmff2JWz5j/cgWRdGg1wtkuJ32GiSL6Z5C5hJx5fHgA==;3mrSvoFvRGkMKQhAmnuNDA=="

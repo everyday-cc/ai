@@ -103,15 +103,6 @@ related:
         width: 1480
         height: 833
         isCached: true
-  - title: "DeepMind AI Learns Simple Physics Like a Baby"
-    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules. The results were published on 11 ..."
-    publishedDateTime: 2022-07-12T11:08:00Z
-    webUrl: "https://www.realclearscience.com/2022/07/12/deepmind_ai_learns_simple_physics_like_a_baby_841944.html#!"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 34
 
 secured: "F+ZFsnHvvO0j3BCQn/ljho5fy4Z53pRSfFnJ63ivsJJXA152caImrdD3JvhgsCosb438097d2HEcq2BF95PD9xT+x8zQD/4oi05JcXUC6Aci/WcTPXbms5Uvdg25j8doShqB4H7L5UVdLxZ/2uIcnJzTJAEwK5cldA0UxiKOQ4qjTfIKBIbT04TpK5stvP8sfkhGS+ewkTTvv6JbqwjCtGBpRIFx0t3R0RKcOKL7Sv5/ZZ+Vbp7Ibw9oGLtrbJivY/uNO23/MPxH9rjmYdspr5Viw+pYhNswcH2sQm3Gqmi06avBolxA0WgAx/putaWgUdEK2mLc/YFpXjzf7vH9bQXo3bYWHualWznlnx6J6b0=;P9aeEfDdYpFfvRpaKJ+jmw=="
 ---
