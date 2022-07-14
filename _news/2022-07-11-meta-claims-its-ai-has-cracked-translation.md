@@ -72,6 +72,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
+    excerpt: "We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,” Translated Founder and CEO Marco Trombetti said."
+    publishedDateTime: 2022-07-13T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-0b972fe257da425a944557d6125cea71"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Altair, LG Electronics Collaborate to Accelerate Digital Transformation with AI-based Simulation for Product Development"
     excerpt: "Companies Sign Digital Transformation and Simulation Memorandum of UnderstandingTROY, Mich., July 11, 2022 /PRNewswire/ -- Altair (Nasdaq: ALTR),"
     publishedDateTime: 2022-07-11T13:00:00Z
@@ -86,15 +100,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
-    excerpt: "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said."
-    publishedDateTime: 2022-07-13T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "7cnVEYtfS/LyFz/su4acCTmW4LqJ6IWsCAC7ci8x3G37r+o4GARnIa32zA6IfKth1KJUQczd+NB2oP+ZTuzIiyBOTEdJpyDbF5CK+MQaCssIEFFwHkr5WKQyr7FuKcdm8Sm439WD3Z8glPEZuXvdDlbNZTTj7F/ljdQIzmUy5kF06x6yEMllCgFd+6L8iRv2ABb4iIYA+9VIUFKJzVpyyxa1irzN4psf/AZ9he8/2xRvd2PuFf/zSEtMgzJJL8CWSxthNPes0YSMRXIkqqMDW6fjtlSJwzaw13k7qLi+Y1zTRcjFshqmcKMIVEwju8fA4yDljiKD1pWTdcLieDNtEzcA2fYt5Zox1N58R5T6hv1GsMavnCeakCbyDjhB1qOxnpGTGYY+YM6VqI8Z2cQhhzsP8hvgMZKcSgqzE1KOBBwWgctgSYlr/o6k3hOWQISmczEiWqTmFKfL19kgws8z2F8ef/ejL4tWPsXMvUu5/JJnFbt+M4tX7YmjbBp+PyHU8mdJ/PkMJICXD5C0jRwWaA==;vOy7Qs/iy8DkuoAZtFqwhg=="
 ---

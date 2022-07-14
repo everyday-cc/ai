@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Privacy probe of Bunnings, Kmart use of facial recognition technology"
-excerpt: "The federal Privacy Commissioner is investigating the personal information handling practices of Bunnings and Kmart, focusing on the companies’ use of facial recognition technology used to identify people who had previously been involved in “incidents ..."
-publishedDateTime: 2022-07-12T09:05:00Z
-originalUrl: "https://www.afr.com/politics/federal/privacy-probe-of-bunnings-kmart-use-of-facial-recognition-technology-20220712-p5b14e"
-webUrl: "https://www.afr.com/politics/federal/privacy-probe-of-bunnings-kmart-use-of-facial-recognition-technology-20220712-p5b14e"
+title: "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech"
+excerpt: "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,"
+publishedDateTime: 2022-07-14T05:16:00Z
+originalUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
+webUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
+ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
 type: article
-quality: 39
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: The Australian Financial Review
-  domain: afr.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e54691db479e878d890e82dc42a81d94e1fd4ba8"
+  - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg"
     width: 1200
-    height: 628
+    height: 667
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://thenewdaily.com.au/wp-content/uploads/2022/07/1657620710-facial-recognition-AP.jpg?resize=960%2C540"
         width: 960
         height: 540
-        isCached: true
-  - title: "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech"
-    excerpt: "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,"
-    publishedDateTime: 2022-07-14T05:16:00Z
-    webUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 60
-    images:
-      - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Bunnings, Kmart facial recognition use to be investigated by OAIC"
     excerpt: "A month after a Choice report exposed facial recognition being used across multiple Australian retailers, the Office of the Australian Information Commission (OAIC) has opened investigations into Bunnings and Kmart for use of the technology. The privacy ..."
@@ -168,6 +154,20 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 39
+  - title: "Privacy probe of Bunnings, Kmart use of facial recognition technology"
+    excerpt: "The federal Privacy Commissioner is investigating the personal information handling practices of Bunnings and Kmart, focusing on the companies’ use of facial recognition technology used to identify people who had previously been involved in “incidents ..."
+    publishedDateTime: 2022-07-12T09:05:00Z
+    webUrl: "https://www.afr.com/politics/federal/privacy-probe-of-bunnings-kmart-use-of-facial-recognition-technology-20220712-p5b14e"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e54691db479e878d890e82dc42a81d94e1fd4ba8"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Kmart, Bunnings investigated for facial recognition use"
     excerpt: "Kmart and Bunnings will be called before the Information Commissioner to explain exactly how their use of facial recognition to monitor customers in their stores is in line with Australian privacy laws following last month’s revelations that retailers had quietly begun using the controversial surveillance technology."
     publishedDateTime: 2022-07-14T00:31:00Z
@@ -226,6 +226,6 @@ related:
       domain: theguardian.com
     quality: 8
 
-secured: "ZTCAqhTbsq5w9ytfUJWUlvtkOy1XEHB3br6XfG0ou11ZSRa/NIRhCu0LBYDcrnPOXfeyfyZvyn2BCYSDmULyuC83S603YDoo5o9qa4uV0Bp6Sr9gq5OE3OFdiJWz5SNVPAvraWElmWAWHGEc700e8viW813GAA179SYfKmftfIpoGjEx0pE5cVr1vvBXvPLXdALCryhgQY9swVSVIqI6wX5QjusMgt0wQMnjTwcwf/TxbpL/rYvOKL+yAfZK82qP4T5YwGo7ftsLs6C7ViFLnWkFAHnd673xOk/kuQkljvGRtXtWi/1BAFZ23WdjaaoU6B60dnl7nqUmUzSNvIAnUzSXsUtLHe5V+Gax7OoYqxHDg7zO9zbWNaTgkN2+OhmK3WzqOP+fjiHZ5J0gFze0bLbC3+zqxNfslZmBzv4kJKfuePGv0WfjHIBS5GQKDMabfgScLPugH/FgOhrM9j0JAbjbCf+lDn+YsPbECK0sr/ml2LVXd/REeTclsiyFNRifvXnY2Snh9ozlaCiuEPDAtw==;fzQC6B2ImkRZP9uxbiF53g=="
+secured: "PA2PENfCsv1qN7pI+izofOqiYU4qucJI5lGv3607mOzP+q1laqZqay8lDFIOxZhozffeI7BvFUGw6zEpaHOHwebFR4QdKq/FoSFYCnEsQwDs6yqbXZ53fLNHuvfuNsxvR2h6C9QXf2Z3dOX0JfChRXp4M7Hn6UfuFMwz281gQGmCOLQX/xT0JkSy8bIax1EZhG3zE1ubEqLLRV/xD+0PNiHUAwsh505bWGlef9mLRMz3/CEPnQ0zq490ig4HG8QQ80NVqdrarML/niAYlEPzHUqfVP70GilEq2K4C+1yEkm2nLLBiCSCreFVAa/9Ac8GpQNoXiEtQWC8u4iFDqv3hX2EE/YX/Rh5jVYxamEEElM=;wopGyl9W6SYe9jOHShlnWw=="
 ---
 

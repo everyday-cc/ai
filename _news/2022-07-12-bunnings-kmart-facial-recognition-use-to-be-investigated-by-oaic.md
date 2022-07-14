@@ -41,6 +41,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech"
+    excerpt: "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,"
+    publishedDateTime: 2022-07-14T05:16:00Z
+    webUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
+    ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 60
+    images:
+      - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "OAIC opens probe into Bunnings, Kmart over facial recognition"
     excerpt: "Bunnings and Kmart Australia’s use of facial recognition to analyse CCTV footage will be probed by Australia’s privacy watchdog after a CHOICE investigation of the country’s 25 largest retailers. The Office of the Australian Information Commissioner ..."
     publishedDateTime: 2022-07-12T07:09:00Z

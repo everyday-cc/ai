@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -35,6 +35,6 @@ related:
       domain: mobilitytechzone.com
     quality: 30
 
-secured: "SDJBu3jhiTldkp5PNZFknUpmtOgP+87KHjbmE2TToqRYLvHVLmzOAdD7QzOWye9mGSuRt5OT/SpMr4gIR9uA9S+melBCZWNnq1VTN1J0V6kuJusiELnvU5n4hm+Wu+p90ThE5Q/BBpFgbXZFjcN/h7tCmU0JKsfyCO3JBsNA1lNpCpnCQPUFxeKC5Q9cUNLQfn20VkVjvDvUbHJK+z4gbsZys/a8Ot1dGCArkVdzRl8I9C+3egw5HugYare6DREYmQhT77eY3+tmvdSzm2hUO1VGuxrNdomb6cuUfwVt2p0PzYoTvVGm3JLOnbnNATpCP2DmGSJaD3ZtG+sawQ85/JJouaxUBbPqnlaShZWMVQ4=;uAZ871vD/rbw8XKWbdZu9w=="
+secured: "9DE0bgU++aTJ4EaQeH0SjAHwXWk0bYoGBJKNAbfPFjEbFXtnkUP6TpC1LSuVIvShKlaee9Ulx5SdPZjReaasz7Ox2zYRw4eb5oWzklrgbzZAF4Iu+qgFgjAqsxex7Y7gttXDWPhjP5TsQmOF3l5+vXF4zFtYxpdUvN5xLMt5beoIE+jmWnYzXkIPWpt75i99Winb9YfVbUku955xy+vVdfesdD3Bquf8vOsM4kw5y9tG+I2g0L6MoXHVyf8sYbegkOHgKuBFCUHSbPLGDB3pyOyUUj3hGDzvzsP+qPLemVdDI3sfmhYqt+pIDdVSBRD2h03aerwkCRqCLGnYeiqkYzO5okS/5lh/2HQEBJtQZg0=;2+5cdZVBlxiBz9jCvH6JpQ=="
 ---
 

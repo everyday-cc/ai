@@ -74,6 +74,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
+    excerpt: "We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,” Translated Founder and CEO Marco Trombetti said."
+    publishedDateTime: 2022-07-13T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-0b972fe257da425a944557d6125cea71"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Meta claims its AI has cracked translation"
     excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
     publishedDateTime: 2022-07-11T09:31:00Z
@@ -88,15 +102,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
-    excerpt: "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said."
-    publishedDateTime: 2022-07-13T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "AKKVblGuK/uFMJuXBEXaoVnLowP1qSU8fmxceGxwqAtqopNu1J3O06xbRlJUQThJFe3ENPjn4SaIwz63ORWP5hoh93LwEsGfpinB7O3kR7C7Mqmtp/juZpaJSvxHaNToH3NxnpxnXzHXPZV2rrRSjCi37688Zekhfb1sGrWgFNjwyqCxHcz1mHbKbvR4z5uyLoL2Z9Pl8dIuWuqtSRB40BYejTQ6j7bIyUklf/IFzyACAS4uWHwM8oX5Kfy+PunKNesgCJ9f3/+SAU7Y2XMKWGS7dXDs2kXttEu6rlYt6K5UheN4bDE0IXfQ0PBReG9odrvsfqHK8n+WXrv18ZkDswRs/bnGyT3SzUC3Hiei2gs=;Rp+3+YOOBD0HVS6vnMwn/g=="
 ---
