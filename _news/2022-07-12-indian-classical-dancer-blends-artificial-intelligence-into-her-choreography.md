@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/entertainment/dance/indian-classical-dancer
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/dance/indian-classical-dancer-blends-artificial-intelligence-into-her-choreography/article65606634.ece/amp/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 615
     height: 383
     isCached: true
-
-related:
-  - title: "Indian Armed Forces aiming to go big with Artificial Intelligence"
-    excerpt: "From silent sentries to gesture recognition to determine if an approaching individual is a friend or foe - Indian armed forces are set to embrace artificial intelligence-based products and systems in a big way."
-    publishedDateTime: 2022-07-09T19:07:00Z
-    webUrl: "https://www.deccanherald.com/national/indian-armed-forces-aiming-to-go-big-with-artificial-intelligence-1125123.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 32
 
 secured: "0EKOp7vZLRMgnd3hiCS3DC13wNnuu+bUhptGP6gINECHWaApZGlUHXlQIVmDw/b3o9ms+Xo6VNLO+JWJ4SJTPtSCQObswRNo/mLoFwEiV3vGAJX1mPSQb7gZFeArZAK2HQhmbl3+ZyrFZC3c7oq1k4l+tiJpLT77MKk7uKm04w/yD5pOHfVNMez1vZ8NXq+SJvLJafGuBnx0X2/6D/s/0kxDTCUWRiOq5pkeDdVV+VuPdJasgy6DYp5PEAFuw9r4p8ZOC7xGoT1auEOEVgkPRQDhU09W2sM/3i2Cl3Y2NaAT9DqLP70G/nmO6gHM114ploXHBLkbexmtPCtPhRUHITzwOojqA90ZblUnbKftID8=;bKMxLKTi+Ad2RI+tbcs4Aw=="
 ---

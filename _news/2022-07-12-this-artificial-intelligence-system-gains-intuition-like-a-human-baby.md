@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-sy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/plato_7ehy.620.jpg"
         width: 619
         height: 374
+        isCached: true
+  - title: "Researchers trained this AI to ‘think’ like a baby — here’s what happened"
+    excerpt: "Researchers created a deep-learning AI system that acquired an understanding of some common-sense laws of the physical world."
+    publishedDateTime: 2022-07-14T15:26:00Z
+    webUrl: "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FBabyAI.jpg&signature=f8c30ed28fe11f30412f7003c07b0dd0"
+        width: 1280
+        height: 640
         isCached: true
   - title: "DeepMind AI learns simple physics like a baby"
     excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."

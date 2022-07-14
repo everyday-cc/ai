@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T13:30:00Z
 originalUrl: "https://techxplore.com/news/2022-07-deep-technique-dsn-amplification.html"
 webUrl: "https://techxplore.com/news/2022-07-deep-technique-dsn-amplification.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: techxplore

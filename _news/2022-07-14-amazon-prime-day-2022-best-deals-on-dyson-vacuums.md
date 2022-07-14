@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Prime Day is LIVE NOW and we have the list of top deals!"
+    excerpt: "Amazon Prime Day is live now! See the huge updated list of top deals including Prime Channels for only $0.99/mo. each (Paramount+, Showtime, Starz & more), Amazon devices, AirPods Pro, Yankee Candle,"
+    publishedDateTime: 2022-07-13T10:00:00Z
+    webUrl: "https://www.wral.com/amazon-prime-day-is-live-now-and-we-have-the-list-of-top-deals/20340274/"
+    ampWebUrl: "https://www.wral.com/amazon-prime-day-is-live-now-and-we-have-the-list-of-top-deals/20340274/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amazon-prime-day-is-live-now-and-we-have-the-list-of-top-deals/20340274/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 44
+    images:
+      - url: "https://wwwcache.wral.com/asset/5oys/smartshopper/2022/06/16/20333080/Amazon_Prime_Day_2022_from_PR_News_press_release_6-16-22-DMID1-5v8qgyng9-1804x1080.jpg"
+        width: 1804
+        height: 1080
+        isCached: true
   - title: "The 35+ Best Early Amazon Prime Day 2022 Deals We’re Seeing So Far"
     excerpt: "Early Amazon Prime Day 2022 preview sales have begun, and we’re sifting through the duds to find the best deals worth your time."
     publishedDateTime: 2022-07-10T19:56:00Z

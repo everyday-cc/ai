@@ -1,20 +1,24 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars BEIJING -- With no one at the ..."
-publishedDateTime: 2022-06-29T02:17:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-webUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
+title: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars"
+excerpt: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ..."
+publishedDateTime: 2022-06-29T02:06:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "uwkOiYt778B4pcWfllkpJbSRvImAed5paZb2WAaEFuJAQQvoXleS8cZy8JlwEma4K+Flp3iaAPYqKZ/ZHt4QGcyWgkEQG1ieS13dyP/zY017ujDGLpYQmnsXrxAox3mksKLGg5HMb58K7XRSKc85S8shj8mvuPXKgmy+5ShKX7FrBqYiScKXeXv55x+e7h3LNkurfIcnBXGNLYiQ/SYeHagM/S1d/XVKfkwS2htzm/+zko7waxYlGhzu47DtSrrIxv7fdS3kh9BqevT+p1fLZgmLM/nLSSDiRMjkUzZmOh2De2cJfi70wAF6PcaUj1pITIMN9Q4oDRc8mSlfl2BX0wARcbfTUGOUrv++nI60yYA=;0gPEP+xKeSNknG58QVY66Q=="
+secured: "mLUArGjm2yq7Olv3L/YXumUEg08ggAmxoLQh+Y8t/toKVHe0Dmvw0f68B+mv7ibin+JKgh9/l2NQkLo6JBJgzY3G7jVd/cvvhNLCd9fWE7SKL2kEStEnZ+h3PQXwyXBFW0Cw1f5Odvk2SAZULOu3fzmi4pqBFt6lWOU7rDF7JgsD+V1Ze4AR5SvR8UqAJacoGVj6uD+N8FfxAiaYL69K8hAj1P6uom5B94ggcx2bw/fY1ZdhrwHDr5v9EahFtMoISgBahVrqEokglFKbDgjRohV0Qs9bY/G4R4Ola56eLWvVfJW6QmJqO0Z2AxZ64Woi9ob0iaI1pis804W7L1nAz9pICbZwkLOHj0FBwoKQwR4=;xq+jn4tN+jGMd+4xURTJlg=="
 ---
 

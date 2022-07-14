@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T13:33:00Z
 originalUrl: "https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise"
 webUrl: "https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Dark Reading

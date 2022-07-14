@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "You raises $25M to fuel its AI-powered search engine"
+    excerpt: "While that pales in comparison to the world’s most popular search engines (i.e., Google, Bing), which have hundreds of millions of users, Socher draws attention to You’s retention rate. Fifty percent of people who set You as their default search engine continue to use it after the fact."
+    publishedDateTime: 2022-07-14T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/07/14/you-com-raises-25m-to-fuel-its-ai-powered-search-engine/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Deep Learning Company Deci Raises $25M Series B"
     excerpt: "Deci, the deep learning company harnessing AI to solve the AI efficiency gap, today announced it has raised $25"
     publishedDateTime: 2022-07-13T16:54:00Z

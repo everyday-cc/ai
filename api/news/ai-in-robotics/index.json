@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-14-are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots-humans.md",
+      "title": "Are We Getting The Best Out Of Our Bots? Co-Intelligence Between Robots & Humans",
+      "excerpt": "When inflation is soaring, utility bills are hitting record heights and job vacancies far outstrip the number of people seeking work, it’s tempting to see technology as the solution. But after over two years of reduced human contact are we starting to see a thirst for human contact?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
+      "originalUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d034647543ed2119e20af3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
+      "publishedDateTime": "2022-07-14T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-robotic-arms-allow-partially-paralyzed-man-to-feed-himself.md",
+      "title": "Robotic Arms Allow Partially Paralyzed Man To Feed Himself",
+      "excerpt": "Thanks to the work of scientists at Johns Hopkins University, a partially paralyzed man was able to feed himself for the first time in thirty years using just his mind and a pair of robotic arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d01d2ec1686245094c2941/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/amp/",
+      "publishedDateTime": "2022-07-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-when-ai-makes-art-humans-supply-the-creative-spark.md",
       "title": "When AI Makes Art, Humans Supply the Creative Spark",
       "excerpt": "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now.",
@@ -149,7 +253,7 @@
       "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -693,50 +797,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
-      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
-      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
-      "sourceUrl": null,
-      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
-          "width": 749,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fredericksburg.com",
-        "domain": "fredericksburg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -1298,49 +1358,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
-      "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
-      "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
-      "sourceUrl": null,
-      "webUrl": "https://euroweeklynews.com/2022/07/01/soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign/",
-      "originalUrl": "https://euroweeklynews.com/2022/07/01/soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://euroweeklynews.com/wp-content/uploads/2022/07/british-army.jpeg",
-          "width": 706,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euro Weekly News",
-        "domain": "euroweeklynews.com",
         "images": null,
         "publishers": null,
         "authors": null

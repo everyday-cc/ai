@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T10:05:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-enterprise-detect-technologies-raises-28mn-in-series-b-funding-led-by-prosus-ventures-1031586985"
 webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-enterprise-detect-technologies-raises-28mn-in-series-b-funding-led-by-prosus-ventures-1031586985"
 type: article
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -17,7 +20,62 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "4BigWyFZKOfh6BBSiAmzblifaZv51kcPtZcWGVy4tgeGSGvlpr3AUteoHUoaSTiZ74Xph8t9huF0Xi+XKRlipGnx+vSott3JTOvwxfQROZ95HpdLlZNTpV6KOdFMDwBoSl9owTQsjwqouRCZAMR349R40DYfxUc8VdbRLOC+D5K7uHXrAuWqdep07fW3zGqCVjRT2VbPamAM1ucgrX+9Uk8gSTwfohGAZP5DrRbJFxDkJohABK4OgeGYSC04ecWwsH/J3OFwqVruZSY3I2nNAUnip8woFmMH56DMG3MwqYFMiUj3dA6pfwK9uatQL/A/GuBXR1elgVpbc+1PEvYXz9bfLjjCA0k7dWKadaDxKaG6Jpnsm6+ODW6QZpLKqBC42f+A8UAl+ISCP8k6NJCwU6dsSrtkjLyThvePcBSABza0HeFzYT+ePMD5/P5EsVwlHNIjSEV0mMV8O0aHIiWO0ew/bgQp/JdPEoQR+P+Mv7iv7BrzvP24OTArNpBBZuCqMQf/piDe0uAm9jtpYyy0Og==;3hIhwNH2WCL2DnFnr/T2cA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1858606/Detect_Founders.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+related:
+  - title: "AI startup Detect Technologies raises $28 mn in Series B round"
+    excerpt: "Artificial Intelligence-based software-as-a-service (Saas) firm Detect Technologies has raised $28 million in its Series B funding round. Led by Prosus Ventures, the round saw participation from existing investors Accel,"
+    publishedDateTime: 2022-07-14T15:40:00Z
+    webUrl: "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/14_thu/img_1657806738405_149.jpg?"
+        width: 1080
+        height: 761
+        isCached: true
+  - title: "FPL Technologies Becomes India’s 4th Fintech Unicorn This Year, Raises $100 Mn From Temasek"
+    excerpt: "The other three fintech players who joined the unicorn club this year include Open, Oxyzo, and Yubi Pune-based FPL Technologies has raised about $100 million in a new funding round led by Temasek. The Singaporean sovereign fund invested $46."
+    publishedDateTime: 2022-07-14T14:34:00Z
+    webUrl: "https://www.outlookindia.com/business/startup-unicorns-in-india-fpl-technologies-becomes-india-s-4th-fintech-unicorn-this-year-raises-100-mn-from-temasek-startup-funding-news-209255"
+    ampWebUrl: "https://www.outlookindia.com/business/startup-unicorns-in-india-fpl-technologies-becomes-india-s-4th-fintech-unicorn-this-year-raises-100-mn-from-temasek-startup-funding-news-209255/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/startup-unicorns-in-india-fpl-technologies-becomes-india-s-4th-fintech-unicorn-this-year-raises-100-mn-from-temasek-startup-funding-news-209255/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 49
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1654594158.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
+    excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."
+    publishedDateTime: 2022-07-14T11:49:00Z
+    webUrl: "https://www.businessinsider.com/amazon-fake-news-firm-logically-pitch-deck-2022-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+    images:
+      - url: "https://i.insider.com/62cea7cf36748a0018ea227a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "CAtSsm541kzJZthuZzArJ7lkDJogS/FtN4Ty/SWgS95sZhp57rbxMvD/AiNlC6ldOaa+Hvyivdm4OrsLAe/HrLDcHO/6HC5wbxiNOHL9t4sl22AQgCZuSIwB9yhXVuQU9zrtuHkiS3ANyKZ0P6BYhvpvdL/b2yok3rrzwRbSe7yiz/F1ENN/NetGPahHxIDrgOYCK2X5L4eEpyjHzgwmFM648dLmYtiKLBN2igDfF+6nLA1ASqBv1nfJfuo11/6fzL+l4Eiqg85SJqWg5fkMWqwGTem3TnOAXIzPkFiSDh0MqGYuOnzZPQcg70Ufv+k+Hx21S9Q8v15GrKEIl0Xcfm51km25DW3jInIl9W3iBHY=;yHVAt4S43NuKRNbDFRcoYQ=="
 ---
 

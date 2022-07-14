@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
+    excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+    publishedDateTime: 2022-07-14T15:24:00Z
+    webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 111
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla loses top AI executive who led Autopilot vision team"
     excerpt: "Andrej Karpathy, the deep learning and computer vision expert who was Tesla's director of AI and led Autopilot vision team, is officially leaving the company."
     publishedDateTime: 2022-07-13T23:38:00Z
@@ -61,6 +77,54 @@ related:
       - url: "https://www.reuters.com/resizer/86pVQ7gNgEPZBUo8OOhocg2TE9U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R632R3TYZ5MULKKUAVL54V2JUE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update"
+    excerpt: "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-07-14T14:44:00Z
+    webUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/"
+    ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 77
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving"
+    excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+    publishedDateTime: 2022-07-14T15:55:00Z
+    webUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/"
+    ampWebUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/03/TechWire_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Head of Tesla's Self-Driving Abruptly Leaves Company as Efforts Sputter"
+    excerpt: "Andrej Karpathy, the head of Tesla's AI department, has left the company, in a high profile departure from a department that oversees the company's controversial Autopilot driving assistance feature."
+    publishedDateTime: 2022-07-14T15:51:00Z
+    webUrl: "https://futurism.com/the-byte/head-of-tesla-self-driving-leaves-company"
+    ampWebUrl: "https://futurism.com/head-of-tesla-self-driving-leaves-company/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/head-of-tesla-self-driving-leaves-company/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/07/head-of-tesla-self-driving-leaves-company-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Tesla Loses Executive Who Was Overseeing Self-Driving Programs"
     excerpt: "Tesla's director of artificial intelligence, Andrej Karpathy, is leaving the electric-vehicle company. He was leading some of the company's autonomous driving programs."
@@ -92,6 +156,24 @@ related:
         width: 750
         height: 521
         isCached: true
+  - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
+    excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
+    publishedDateTime: 2022-07-14T12:19:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-andrej-karpathy-self-driving-cars-51657782745"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
+  - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
+    excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
+    publishedDateTime: 2022-07-13T18:28:00Z
+    webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 18
 
 secured: "fxN0Rr0SQJX99AaCryJd3srYDmIeM0MIlFCcT7LnnJo57WJE4wXPHf4uxE9ObXAA2xKfy0o22Bw08EnY9wHuGYuanOsFENprL3PhKhtZp0NxFr1q6B2DSi8Zj9mO9HxOpngcDTfHicvf0Wx7VRFM2fHIrRgInRh2M3V3OujTwuqBx7xbhPS4lsqAKHnFsb8aAItLElZC7d48JCRW81UBh6n8XO3QWuGKCh5rcyRHnlQdBnZTZAMJDTff9SxwT89pnVWSulb6ZY3iQKOpfKYEIS8gJ0FbSAVLah1ft4rqqSjPfW4fAO/PuTJQNAhdjw42XHxhURKLdwKudgwbYlBvx+CdJw+q3FODBxOHD/6Nhb1es0BXqliJerTNFpO8p6RPKMfM8BgGCNWrfy778Iz3dekG0IhDSiYro2Zb8xxOUImLcvY2ccuitL7kxhhBoyf9zZ2B38gQXd1jkha0ROK/UAlO4CQUkXN+EoocP7ikvZK/JbSQnk0JElH/zTlUvZmNUuxDiNmFYhlHVrhJ7p7Tmw==;YE+Nw5gI08pGuygX16Lxag=="
 ---

@@ -2,6 +2,229 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-13-artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write.md",
+      "title": "Artificial Intelligence, AI21 Labs has Raised $64 Million to Transform the Way People Read and Write",
+      "excerpt": "AI21 Labs announced today the completion of its $64 million series B funding round, bringing the company's valuation to $664 million.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/",
+      "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Artificial-Intelligence_-AI21-Labs-has-Raised-_64-Million-to-Transform-the-Way-People-Read-and-Write.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/",
+      "publishedDateTime": "2022-07-13T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.md",
+      "title": "Internal Affairs lawfully allowed to access facial recognition system to verify identities - Waka Kotahi NZTA",
+      "excerpt": "Drivers' licence photos will not be run through the One Time Identity facial recognition system unless a person chooses it, the Transport Agency says. Waka Kotahi has created an interface with the OTI system being developed since 2019 by the Department of Internal Affairs (DIA),",
+      "sourceUrl": null,
+      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
+      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta/_jcr_content/par/image.dynimg.768.q75.jpg/v1657703692827/facial-recognition-GETTY-IMAGES-130722.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
+      "publishedDateTime": "2022-07-13T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-intel-rolls-out-open-source-ai-reference-kits-for-enterprises.md",
+      "title": "Intel rolls out Open Source AI Reference Kits for enterprises",
+      "excerpt": "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
+      "title": "Top 10 causes of stalled AI/ML projects",
+      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
+          "width": 797,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "publishedDateTime": "2022-07-12T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
       "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
       "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
@@ -10,7 +233,7 @@
       "originalUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -913,255 +1136,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
       "publishedDateTime": "2022-07-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go.md",
-      "title": "PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go",
-      "excerpt": "PayTalk, a new app accepted into the first Black Founders Build with Alexa Program, aims to allow users to conduct all sorts of transactions with voice commands",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
-      "originalUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GIMROH_q0po/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
-      "publishedDateTime": "2022-07-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-is-sentient-ai-upon-us.md",
-      "title": "Is Sentient AI Upon Us?",
-      "excerpt": "Many people would say animals are sentient because they exhibit emotions like joy, sadness, fear and love. We also know that some animals have more complex emotions than others; animals such as elephants are known to mourn their dead relatives in ways we find familiar enough to call grieving “mourning” ourselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83a13fef1dee7d35374c5/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
-      "publishedDateTime": "2022-07-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
-      "title": "The 35+ Best Amazon Prime Day 2022 Deals",
-      "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2022/07/early-prime-day-2048px-3x2-v6.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "publishedDateTime": "2022-07-11T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-chip-subsidies-are-popular-in-congress-they-still-might-fail.md",
-      "title": "Chip subsidies are popular in Congress. They still might fail.",
-      "excerpt": "The Democrats have an ambitious legislative agenda following the July recess. Chip subsidies hang in the balance, and Sen. Mitch McConnell wants Democrats to stay focused on them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/policy/congress-usica-deal",
-      "originalUrl": "https://www.protocol.com/policy/congress-usica-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/chips.jpg?id=27984646&width=1500&coordinates=1136%2C0%2C1136%2C0&height=2000",
-          "width": 1500,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/congress-usica-deal-2657637793",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/congress-usica-deal-2657637793",
-      "publishedDateTime": "2022-07-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service.md",
-      "title": "How Human And AI Agents Can Work Together To Deliver Great Customer Service",
-      "excerpt": "Exceptional customer service can create fans for life. By offering the right solution at the right time, your company can build trust and reinforces why your customer came to you in the first place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c829a82932cea6fe4f8ad8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/amp/",
-      "publishedDateTime": "2022-07-11T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

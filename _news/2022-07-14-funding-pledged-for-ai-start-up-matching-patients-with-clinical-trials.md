@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T12:53:00Z
 originalUrl: "https://www.thebusinessdesk.com/northwest/news/2100672-funding-pledged-for-ai-start-up-matching-patients-with-clinical-trials"
 webUrl: "https://www.thebusinessdesk.com/northwest/news/2100672-funding-pledged-for-ai-start-up-matching-patients-with-clinical-trials"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The UK

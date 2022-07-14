@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T11:49:00Z
 originalUrl: "https://www.unite.ai/an-ai-driven-bias-checker-for-news-articles-available-in-python/"
 webUrl: "https://www.unite.ai/an-ai-driven-bias-checker-for-news-articles-available-in-python/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: unite

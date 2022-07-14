@@ -38,6 +38,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The potential for artificial intelligence in construction"
+    excerpt: "Robotics, AI, and IoT can alter the business model and make the process of project completion more efficient writes Ibrahim Imam, Co-Founder, Group-Co-CEO, CEO MENA & APAC at PlanRadar"
+    publishedDateTime: 2022-07-14T08:03:00Z
+    webUrl: "https://meconstructionnews.com/53251/the-potential-for-artificial-intelligence-in-construction"
+    type: article
+    provider:
+      name: meconstructionnews.com
+      domain: meconstructionnews.com
+    quality: 19
 
 secured: "gy5QQD+B6j5Li+jDUpmbhdhb1MFR/rOJoMbhnRKvwllDG96elIovFrd69mxSqf2iYVIsks5NJgSy7MEWxkjYO5iIV1TeJUDcVUv9IL6DYcD5GJpOLl2LJ9GT6UsxPZ4VWBxLbBPOH8CR2YTFbVkDKK8wXAhUoECLUsOMAQEN+nr9Zm1Q+mlAi7QrF6CPoPrRh+vgzfu0JFWBto1SV8Wa8CrbrxDAxexxWWpo3EDcGz1L/nyoSHf5FcBtQc0HBoarQcLjLI5BTJ4kMl1v5VZHbTs5f6GsfMhVXrMqkAsutXNvYAnYulCP2iUMMrvQ2WXNIbzUnAsMQtFGwCr0MnXGWrKKVZUa6lV3wM2D24aoCNM=;B7m6FwHUtAtENfp7orsIQg=="
 ---

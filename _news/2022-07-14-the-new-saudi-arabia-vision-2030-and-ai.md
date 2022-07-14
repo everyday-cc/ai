@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saud
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

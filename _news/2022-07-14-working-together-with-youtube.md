@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/working-together-with-youtube"
 webUrl: "https://www.deepmind.com/blog/working-together-with-youtube"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

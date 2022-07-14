@@ -89,6 +89,15 @@ related:
         width: 950
         height: 634
         isCached: true
+  - title: "How AI Regulations Are Shaping Its Current And Future Use"
+    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
+    publishedDateTime: 2022-07-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Reading law in an AI future"
     excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
     publishedDateTime: 2022-07-10T04:00:00Z

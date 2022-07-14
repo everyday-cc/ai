@@ -74,6 +74,15 @@ related:
         width: 950
         height: 634
         isCached: true
+  - title: "How AI Regulations Are Shaping Its Current And Future Use"
+    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
+    publishedDateTime: 2022-07-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI Upscaling And The Future Of Content Delivery"
     excerpt: "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ..."
     publishedDateTime: 2022-07-10T00:00:00Z

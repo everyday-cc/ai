@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T13:00:00Z
 originalUrl: "https://www.defenseworld.net/2022/07/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update.html"
 webUrl: "https://www.defenseworld.net/2022/07/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Defense World

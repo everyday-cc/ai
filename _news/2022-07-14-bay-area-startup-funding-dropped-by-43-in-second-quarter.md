@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T13:21:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2022/07/14/bay-area-startup-funding-dropped-by-43-in-q2.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/14/bay-area-startup-funding-dropped-by-43-in-q2.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Business Journals

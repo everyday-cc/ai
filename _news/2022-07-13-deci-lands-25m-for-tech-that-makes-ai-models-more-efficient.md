@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "You raises $25M to fuel its AI-powered search engine"
+    excerpt: "While that pales in comparison to the world’s most popular search engines (i.e., Google, Bing), which have hundreds of millions of users, Socher draws attention to You’s retention rate. Fifty percent of people who set You as their default search engine continue to use it after the fact."
+    publishedDateTime: 2022-07-14T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/07/14/you-com-raises-25m-to-fuel-its-ai-powered-search-engine/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Deep learning automation startup Deci raises $25M in Series B round"
     excerpt: "Artificial intelligence startup Deci.AI Ltd. said today it has closed on a $25 million round of funding, just seven months after announcing its last round. Leading today’s Series B round was Insight Partners,"
     publishedDateTime: 2022-07-13T11:00:00Z

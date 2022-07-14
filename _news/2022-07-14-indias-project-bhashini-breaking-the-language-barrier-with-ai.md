@@ -1,11 +1,14 @@
 ---
 category: news
 title: "India’s Project Bhashini: Breaking the language barrier with AI"
-excerpt: "Earlier this month, the Indian Prime Minister launched Project Bhashini, which aims to provide all Indians with easy access to the internet and digital services in their native languages. Further, through the project,"
-publishedDateTime: 2022-07-14T09:56:00Z
-originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
-webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
+excerpt: "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,"
+publishedDateTime: 2022-07-14T08:30:00Z
+originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/"
+webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -15,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "uUlIrZdwqafo9QWcIKfmUYTiqHfoPq0WgvnUrgp/yDWy/ff6jBkOZihVMY7ItU5WNq4b2hQwEBRGT2+akic4ha9Ud4or0xF+2wDEhV4BTjLwH0lUkrc9dfavr5ajrwmhfXvdmZVW3lXz7JYDHcCP5mLACatLKSeULvLiO1h0oy39ryPR9n8for1DR7DzTgCBLD29ajTl/4yK2VzyijwfDqqSvfRKKHpRT+SPtSdkLPeCIKcaLtA3OwYTySRTdnfxkvyF8k94OL5oryJTtJF2aA0zyi9BhspAnNJTry4eB/8brB01panzXWRuRze28koUnskUQpsX2DYe5UDjeHxMYNg3GGXY1kErd08nuV8+5SwqQIvLXkm54BmD5TrIkf3o5zPa9Ow9G7mX93AeXjG8nGBx1mALpTlflvVW/P8OD2WSDoqLycNrGkzX/kw5SDnTwy7Q0iCWWsrFLRybE+TrlWcUcVC5vw/9yKadaoCUbCehROm1xVyXCzSDgWkAnjzt7NVYiwaM+Qxdu+KntF27Zg==;djeoeQpF1JXhfrLAG1fz8g=="
+images:
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/bhashini.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "QrwCVn99lOe24MQIoY2oiY1iiKQosc7egl4h1gsV7knDjCvBXwLUEN3roSH1pVC/WrCcc2qo5iqO6sKKrDhhI0Lb6Gwnr50BVuPvZqucnlipJ+0AeD0ApZ3v1S0NBTngkqxEmLinN5uT2FMwwyLDV4NievJCnBJj11v/Lb0q038Rkh5uegKyry667kXL75eZM/cshdQSLNJbsd/8jasFyzQjJ40gHsnU9YHVRMurwweVZOCRbGMJcaL7IhHhPq/Y26EDb9JbVM2/wWJjoiXl83SW8Fn+P8KXpyxYV9wbwBbCoOXSrDweo6GE7/V8zb8l3mYVoiQLC62aoHtRCOXKZ9L/Qwk7PmbPhiSGLC7mlkM=;5xZyfsZl5pwuYi6FeNs6kQ=="
 ---
 

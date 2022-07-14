@@ -33,6 +33,15 @@ related:
         width: 806
         height: 600
         isCached: true
+  - title: "Human-like robot tricks people into thinking it has a mind of its own"
+    excerpt: "An uncannily human-like robot that had been programmed to socially interact with human companions tricked people into thinking that the mindless machine was self-aware, according to a new study. The digital deceiver,"
+    publishedDateTime: 2022-07-14T13:39:00Z
+    webUrl: "https://www.livescience.com/people-think-robot-has-mind-of-its-own"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 19
 
 secured: "u1SRHYKl0hdDLojbRcPUzCy6wBF2pFasa6CB07qhk4A8Sk60utKvOPqwR/MJwfbFk4XcU6/iCPsWc6ImUz4LYAAwOC4E1kqTgnyQBlp3dKyEa40BLGa3N/n4JGVPl6aHV7beIJ0Sh94vRxD+UIh6IXQrYS8UK1t0uqhy2dE/gnyMpay6VCeXdjnqnZ+3b/AT9LQZcN8IIf9BEDrrG2v4TyyK05g0YCmyMuu71PpqtE/Z1lnhwW8dMNHXblAqDpuAnkoGoAE/uqT3+Ji+AKYj2XJwGHJQu+4o+smTA/sOm8Rx/CtQ4d8mhR60yf4EyOzOl73YgnxPhGC4UR6gv9dQuLI6nSrrq+zy4lc6PorWr2o=;ui6bi2h3+vh+vf5jEKYIaw=="
 ---

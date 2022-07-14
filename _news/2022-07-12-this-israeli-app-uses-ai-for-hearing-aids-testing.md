@@ -28,7 +28,7 @@ related:
     provider:
       name: Geektime
       domain: geektime.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.geektime.com/content/images/2022/07/board-453758_640-1515047518.jpg"
         width: 640

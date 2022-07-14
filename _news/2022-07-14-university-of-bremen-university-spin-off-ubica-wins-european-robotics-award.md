@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T07:43:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-bremen-university-spin-off-ubica-wins-european-robotics-award/"
 webUrl: "https://indiaeducationdiary.in/university-of-bremen-university-spin-off-ubica-wins-european-robotics-award/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: India Education Diary

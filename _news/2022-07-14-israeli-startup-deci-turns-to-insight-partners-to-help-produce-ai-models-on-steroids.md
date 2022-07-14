@@ -8,8 +8,8 @@ webUrl: "https://www.geektime.com/deci-raises-25m-series-b/"
 ampWebUrl: "https://www.geektime.com/deci-raises-25m-series-b/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deci-raises-25m-series-b/amp/"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.geektime.com/content/images/2022/07/board-453758_640-1515047518.jpg"

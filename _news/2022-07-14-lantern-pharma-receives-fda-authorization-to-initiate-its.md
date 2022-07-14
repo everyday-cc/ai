@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T12:25:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-lantern-pharma-receives-fda-authorization-initiate-its-phase-/2022/07/14/9638725.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-lantern-pharma-receives-fda-authorization-initiate-its-phase-/2022/07/14/9638725.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet
