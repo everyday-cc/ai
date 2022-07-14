@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Yangon, military junta will install Chinese facial recognition cameras"
-    excerpt: "Mother of Abe's killer belonged to the Unification Church; New mass-testing campaign in Shanghai; Rajapaksa will leave on 13 July but yet to issue a statement; the d"
-    publishedDateTime: 2022-07-11T08:09:00Z
-    webUrl: "https://www.asianews.it/news-en/Yangon,-military-junta-will-install-Chinese-facial-recognition-cameras-56230.html"
+  - title: "Federal Court Refuses to Dismiss Biometric Claims Brought by Trucker Against Facial Recognition Company"
+    excerpt: "This week a federal court declined to dismiss a putative class action filed by a trucker against a company that provides facial recognition software and sensors to commercial fleets and industrial ope"
+    publishedDateTime: 2022-07-14T17:34:00Z
+    webUrl: "https://www.natlawreview.com/article/federal-court-refuses-to-dismiss-biometric-claims-brought-trucker-against-facial"
+    ampWebUrl: "https://www.natlawreview.com/article/federal-court-refuses-to-dismiss-biometric-claims-brought-trucker-against-facial?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-court-refuses-to-dismiss-biometric-claims-brought-trucker-against-facial?amp"
     type: article
     provider:
-      name: Asia News
-      domain: asianews.it
-    quality: 39
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 58
     images:
-      - url: "https://www.asianews.it/./files/img/size3/00_COP_AsiaToday.png"
-        width: 700
-        height: 460
-        isCached: true
-  - title: "Myanmar Expanding Use of Chinese-Made Facial Recognition Systems: Report"
-    excerpt: "According to a Reuters investigation, the military junta has plans to install CCTV systems in all 14 states and divisions."
-    publishedDateTime: 2022-07-12T10:24:00Z
-    webUrl: "https://thediplomat.com/2022/07/myanmar-expanding-use-of-chinese-made-facial-recognition-systems-report/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 38
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2022/07/sizes/td-story-s-2/thediplomat_2022-07-12-060400.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "AO3TFBl2bao1lyMc2NbxKsQ6Xu+p6IHbpY+epOwndkPRvIjxnzpelr0y1D9iWetf300NloPLjm/6JyX/Rhbwzvyy33HFTZQKMjt7k+kCTzKhtWb+o9UW5WAh77nGyy48Dv3hk2YuZntiuNZpPOgheFqItmptTyN40eU25cY1hpNZwm401XEdo/jazpLUWsGVHIIUEwSnuDZMp2bj3SqvVfibeFhFHK63X2r6ZcI+6dqEGDVuE8MDRgFXmLPP7h5KYhD0eWeeoQOrDvA/D9Um9D7shJ/x4Bhu22izvet7Dhikz0JMQXYHTZRsV/j8nAuO0xa3sO26ZG4weLm7j4O7RWaSZZKdnFr6kGulaCGutimgdleeyEDM0yvsPZv21ThNTU2yo1L/6ehTYcsdesGyMs8ar3WERfD2DQRTO03g6Uc5gYLw61Q8pD1K7NkhkrmZYRzwK4lL4tSeihexxTU/eAIEasfmao7MvorSKKdvIY/jNIHcBnAv/noq+HGrv4fV1B+5NQLRrb8LUHZbWCiDBA==;XsMj6+qaQ1AwrnK2J+lYZw=="

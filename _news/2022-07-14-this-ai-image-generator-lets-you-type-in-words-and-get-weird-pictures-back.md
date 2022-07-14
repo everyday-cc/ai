@@ -3,12 +3,14 @@ category: news
 title: "This AI image generator lets you type in words and get weird pictures back"
 excerpt: "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up."
 publishedDateTime: 2022-07-14T12:31:00Z
-originalUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
-webUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+originalUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+webUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
   name: CNN
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "HBWaaA+FukDoyMDaO8zIoViT90ETZf9goVCMDnVZfyTB/FvpFvIqlaT5tpHZ/BE1fAFFK0pF+FQq6gsuOSYKkvsTVu7xXEj6WsMe2vtxA9GxLiMkjUG2GiztlZ0mmNOjFpNYVlVcAaUyBcQprCeKtKCQ5hb8WeWzHxVicG0CtV9MlIADdTmI/9CaEJiThZNlcKUOdwosjwvjzAmrQ/9GTuOYYz4AR136RXDqudm4nJAMWXlMMFUXQgkKgYYSPfwY8xvdWmTbB56Q39ODW5hvI0Gi+VTdHLILql1jP7dWlhMTCpoCAXK1Gfm79Np7gBnhxMv4xu6raeUXk3nNpQqkcoZ0kWU2QB7T+SN/GaT2MGMg9deOGCyvGsgg1q0BYqOFbJt+NnbObJ1WbblHq9aHqWMmDXDrP4uOYDvRf7wTEphPaCiYX/9Nxa2WRZwc9iz1td5WWvrHADp0wk9X5oXC1PE80W4vNNXLDM2vTLeO9NMghvcRoKTPjn2kOnf5CBg4Oc68O6r5z22TxjIRYUxV7g==;B7yCxHQTjF+oLaZbWs59Bw=="
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220711163147-craiyon-rainbow-lion-eating-pizza-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+secured: "r/WKSkcL7m7HwOjJ5oofii1qeFRZpU+Hn44R++5HByAsdjx2LaBMWDgn6/3jwy1etMk06+87LZc6SgmR5oQnHjHcfLOk0t232nQaN9F1t84HLtJXODRLcfr93p+pLCnuQ9hiPpxK7VsRFTSzg5h2TLKBN9U9rj8s/KIu7yJ1hdpjtAoBvuYNWilOce/x9fCItRC47PkfWqLELXbWbg2AIrTYswlVwM+mQt+D2RfLF9RME3cV5Mz70wkJzsUbP5yiEPdKPBHqCbRRGDDZ5aEUqwrrypR5/Wzn7Qx+ajjB+2eEhl+pyobv4IhFUw5BX8Asu7vVrH6UNBUmUyj7Dm89svnRD7eJqmvnzw27mnsPems=;v4+zQIpR4Vb1X84qvY38Gg=="
 ---
 

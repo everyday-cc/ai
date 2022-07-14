@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-29-case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working.md",
+      "title": "Case Study: EY invests in AI to improve approach to flexible working",
+      "excerpt": "Professional services firm EY has invested in AI-powered tools to assist their employees in the transition back to the office, while maintaining the flexibility they had during the pandemic. Digital Nation Australia spoke to Kate Hillman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
+      "originalUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/Videos/Screenshot_2022-06-29_112924.jpg",
+          "width": 943,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-microsoft-certification-guide-overview-and-career-paths.md",
       "title": "Microsoft Certification Guide: Overview and Career Paths",
       "excerpt": "Machine Learning, BI Reporting, or Data Engineering with Azure. One additional exam from a list of 13 possibilities must be passed to earn this credential. Topics covered include cloud data ...",
@@ -1270,59 +1313,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai.md",
-      "title": "Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’",
-      "excerpt": "The technology giant will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool. Send any friend a story ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/22/business/21microsoft-01/21microsoft-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
-      "publishedDateTime": "2022-06-22T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
         "Microsoft AI"
       ]
     }

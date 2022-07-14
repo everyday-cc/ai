@@ -86,20 +86,6 @@ related:
         width: 950
         height: 634
         isCached: true
-  - title: "AI Upscaling And The Future Of Content Delivery"
-    excerpt: "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ..."
-    publishedDateTime: 2022-07-10T00:00:00Z
-    webUrl: "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg"
-        width: 3000
-        height: 1815
-        isCached: true
   - title: "Reading law in an AI future"
     excerpt: "WHEN I was a law student and in my early years as a law teacher, legal education seemed like a retrospective epistemological discourse of mere theory and knowledge acquisition."
     publishedDateTime: 2022-07-10T04:00:00Z

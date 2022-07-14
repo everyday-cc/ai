@@ -40,18 +40,18 @@ related:
         height: 450
         isCached: true
   - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc"
+    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
     publishedDateTime: 2022-07-14T08:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Daily News
+      domain: galvnews.com
     quality: 0
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "22EHWx3iVeYyCtnHfojdzreGelJ/9eOAyO4je0VSDzhuu0+2tFXibhJXqtvKlLaZodjQaXykxY0B7SSjzCi7w+iQgFNGmj5aPcQz+ZLuLXOprmnGFfmxLqANHytuv8B7KZ9DconIy1toS/matdxFrlbf0bkafRZQRJJEqZpKGmIlp76WBu6rK7QMTZNFLzQACGpGzs1Y+tT5x1UfJAKy/8n09GjS7ZHnfFF5Vw+py+j6FSA3BJL89Vq7DH2yW0Y3o4A+zNea3/14l7g1ZBdYpdLwQM5fdPINPDsLmHMyqJ1p2V9Crg/BnVg6EB6Hf+4eyaCfnSVyA/e8Z5KOR271/mlIqIAdLNTsk7FhVWBBhNY=;9fWeRC1fnZufiE++b9iWfg=="

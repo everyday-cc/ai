@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-ra
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -71,6 +71,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Wvb/oF4DukXpJ2F4AiUZxiBVEaqWby1qCS+sn3uuAYRJB+iKG9a/I7kU3P4lmOZrQtsuIH71w0kAeZfbbhTEyYkJDE0SxzfnhwdXrXXRRRq+Sljsa5z4KEiTT1V5MWYLh6Sxr/esROofbtiEJ0WozMcV0BsqUd9w1bmHt9c/+EDGh2FizoOdWMRNF5+Zlibsu9hKh3EYCI8lLzJY6VqJiSgZJlRiX+/47L8M8XdFVHQjQ/FJTCJ45DFNorrpLEW8AHQHcoBEeJ6ZXRqNcfa29Urig/Nn64QWHRLETMRN5DE24d44CRBCgAhpz5F4Yw4haL2d1eFK6kWQrVhYU4i54Z3ogXlORJapbelB6Mh3WrA=;vNKLuRLbTYiYZfTko1vxKA=="
+secured: "G0PlvmFNj9a2l8SoK6KTIH7ahun4CSQXVhLwd+X28vOl1JDIoA1EuGy1jbTmNfrZ/i04UjpJTcStza3Pog5unlSwGKrVf2e0kuikkVuJqCxKdTrTxee6Xe5/C3v7SYYkBVxHxNsZNMe5DCeMtbC6rRzhPdUyj9w07mC2dtZZw2xfLMwkxbeBBUT1egXeWYv1r+KI4mOhc8dG4y71VAErMexm9lfB5Wx7dWA8QFbp8Q9uuO7J5/okFuNO1QX0jFBZXqeAiXiPhuxG5KxnbMp1OD7Uhk44r32GtEDh9Ig+nKNG2RA9Xe+ORMKf9pjwNO7yrTcZOd135jkURDpPvyBuyFTSCYCXLtuCFc93MRfJumFY8y5FldJYCFeHIk/VoavmXA4p5tupJE8Qzh6jfbW37Pom5URhSuZsIalHvROvtK69YIjpsead0YFDVHXk/V+h0X5u0I/WNv4CqKMkYMoRRYkFMJ5LcSeVjl2yhMDAZP0eepLITML1WkmcoAmixdh1hHlPItH0X9xX3ed/NO33nw==;rjcFyITLpflZrM8aNFtbIA=="
 ---
 

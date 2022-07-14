@@ -2,11 +2,11 @@
 category: news
 title: "DeepMind AI learns simple physics like a baby"
 excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
-publishedDateTime: 2022-07-11T23:17:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476"
-webUrl: "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476"
+publishedDateTime: 2022-07-11T20:53:00Z
+originalUrl: "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "DeepMind AI learns physics by watching videos that don't make sense"
@@ -34,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "utep0UjQANMCYSYZHkCehM/de50gltdvAb3yTJU+C5FX7GJm5jTklUibBX3CkBW2k93S7ykjbUoBEdv8kB7x/F6XzlPDcl5d0AwZ6yDqnVmeDGU8rmzoBHhGQ8891dgkrer0l5neg0LDTg3bpKyvDckQF8pv8RYQSl2wRBLDnn0xBfCdHfMVjIji9O8CvDmvmRyunt9fH8k5QJCW8dz6eNFmZ+5DV3KBzKBEWeIAjZFcTqQJ7ihFeO23pzNgqWWUgNJeNzxf32ha2HkL1X7tYnU6oYOT3Q2JTczdltS4LLO4ohWBupNt1UeCVNow4phDkETQBn9Ib+wgT3ZjbzUTGXvVwKyLkD5D5Xs98ZX6JX8=;yhY/1P9hsdH5WO7LJeG7vQ=="
+secured: "HLc1aK0iI1K99Ar+OtEs1kzIDAXQBeidzzLc2Ca1pzKLa6Z6hEFBieAq1OyQdvpJXfw3UkRFBGqUtrBnptdnCSv3qagvxjAS3awDqG2vjjSZKkrwRiAvBbYxEw+TrOxwIP23mLtyMUM2NRJUxHmM7w0DeMHLdrq2Bp8yLb/ewe4DTvQaLjpns1t5uvxKDiVWu/ueaoHjGM2VoKS/tWGZmj+zdFyGRElaHzODNl7vkvzqGKD2DGkKo4Bvzp3deFXPg9bcVuaD8O+ediF5Mb4qRhLfvl0NELmSdHagMT9Z4LLa7mCXHOlZ4KAfwmZsgrXzKPk3EtO/2KyAVeUKBdwQf5OJ+LD5P+sDWboPPVgP0NE=;3OtndpGSXPM5seFwucquew=="
 ---
 

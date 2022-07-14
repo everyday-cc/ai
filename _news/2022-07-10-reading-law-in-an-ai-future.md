@@ -97,20 +97,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI Upscaling And The Future Of Content Delivery"
-    excerpt: "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ..."
-    publishedDateTime: 2022-07-10T00:00:00Z
-    webUrl: "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg"
-        width: 3000
-        height: 1815
-        isCached: true
 
 secured: "QIls42Nb1n9ixC7UyEiaovxa80Di4g2aGaL1fHzyLj47MRF/nVKHWUpA6z2Equ2pg5yqgKVKhC7LLXFpqCRST55e2nKPrSfbP/EYYDWBmPr44Z1/2t421ile1iEjgY8TQRbSfCcB7A+Rwe6r38mQvWD5hgaP2rThN8honpOPN/hT/HmlmNb51MvQcDJC5Xp2fbmaBgWpxxrTHNMkfdgxIxszHR1IkYqqPBxVgKveut5udIsDqKW9P4L9TcQp49TAqU97TPKuPl51bKIiuRSI16YcpyF03g1yQyr/mGfJ+566Lfm0n0g1Fs5x/kO7lDBhp6rSuRMw4euBYoSsZoa314l+ndHIgFZe2hdOjo4qhBKFvNABNkSyCd26ZGPRlCC8Ofj5yfqV8X75g3Jx+rDO8wsSkGbgcRQOqBPONJKj+F9jGuydIHs+OQUKOTEovxWlJbcpIA21g1ix9VS0y+8K+4LrKeoxDCMntAy2QbOVfEqs08D5B8BXnyQFKWod5xS35ROtv24+lDP7k3qRi0vioQ==;4AtW2E3CkJem6LI9cbW1+g=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Logistics Robots Market size to grow by USD 6.42 billion, 48% of Market Growth to Originate from APAC - Technavio"
-excerpt: "Logistics Robots Market size to grow by USD 6.42 billion, 48% of Market Growth to Originate from APAC - Technavio. NEW YORK, July 14, 2022 /PRNewswire/ -- Logistics robots include"
-publishedDateTime: 2022-07-14T10:17:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/14/9638625.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/14/9638625.htm"
+excerpt: "Logistics robots include autonomous guided vehicles (AGVs) and mobile robot platforms that are used for moving objects in indoor as well as outdoor environments. According to the report \" Logistics Robots Market by Application and Geography - Forecast and Analysis 2020-2024 \","
+publishedDateTime: 2022-07-14T09:48:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-logistics-robots-market-size-grow-usd-642-billion-/2022/07/14/9638625.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-logistics-robots-market-size-grow-usd-642-billion-/2022/07/14/9638625.htm"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "hYn9fifckow0/W6WU/0X0Gp7B0CTaPAvW/IMz65QJ2PpeNSmHtlbmkhKZBGxnv3x/a5GKC1zCE9dlJoxJP+SCfkPllOn6K7suPoBhFtkuxEc3uyOPRVnJZTJmdMI6PUO3FruVMFBzYUAq5VApfiN/qbn10u2LqbpbPhfhdjD9NQfeeVWtfozZ0pPhpwwNR1Er1SXxVd1vlUU+GJtqceh+YZvhRfqN//Bs4V6BirEeKvCTUnamcbrJcdDvIOcodGj1/UPi2XaxbYf8CiaAqsc7NtW68bkZkNnYLSd8SYy/7ZOYQ/0b1NJM+ZmyEzVvLXTbmRaCV7e3yagNsmBSAIG0wfQkGTER24WNss60TEXNNKouEBnyOJaUzGNjnXgUw6z9A6dJiQziyKsQ3L8VjyXWYoDtcWtb3Oa5rX0x/tbhCVuiGU4UodX6DDkJp7Xbf3Su9MkC8F++5Ne1G8asD1/bmPh9DbxhA2kPKdDRYy1FsLTPnDb3y7hfdx/R3G8hYeHnCKybriyy8hj/PoWLp3g9w==;OJ/I8hnrNwELEhsoUMfW9A=="
+secured: "ZP1vctu8T3li2OhvlvsZzUUzKd72v65IdOi9U3IprG1XDGdSPX8uDyLep0HdT3COgUyHCN11Z1sqT90NHNXD6QnoL6CBdKrcfUQgiN4HmFYDpE8Bbv56T0YVv4ZaZxd//P8HxLiPQeai9UNg706WA7ddfDwHHnp1PLv9EZ7C3rX+hkQJpX0mFSaT77wzYqwm3yFdNpa10Es+w01EIUlxQ/o6HLP3Q4xAjvltGDVj0j3hzJoA1JgqEz16XBLI3t1knjQOJJgPTt1hn9klRoprIKQcjne6nGW8cm0+zSB3KJRzNYLd9L4OO637o7Qnanx+sY1OTmPjWJaj9KWPDV10soaaV5bwZRylPwipUAQL+I4=;KUZK7ylCobNH3U4+IDftSA=="
 ---
 

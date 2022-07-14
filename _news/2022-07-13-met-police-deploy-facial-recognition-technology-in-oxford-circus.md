@@ -35,6 +35,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "How Black Americans view the use of face recognition technology by police"
+    excerpt: "Black Americans are critical of key aspects of policing and criminal justice. But their views on face recognition technology are more nuanced."
+    publishedDateTime: 2022-07-14T16:59:00Z
+    webUrl: "https://www.pewresearch.org/fact-tank/2022/07/14/how-black-americans-view-the-use-of-face-recognition-technology-by-police/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 38
+    images:
+      - url: "https://www.pewresearch.org/wp-content/uploads/2022/07/ft_2022.07.14_facialrecognition_01.png?w=420"
+        width: 420
+        height: 331
+        isCached: true
 
 secured: "ZA8le/bIYUL0fu/AECTQTELy4tVd5JqUct3yLFehdox08PvWzUNmoCJ+T9L5L781CU3OPjEm//PVnUyBJp10fkw4Zw4gOTKBNArBH6AUHueorKzPOg+FrP89Cdquhtahjka8+H/GZ0oW4OtMB8JktcDxBgP4FaHHGRpuBV2ZbUfcKXHc6zihYbPwwbbzeXuu9IoazC8QN/CpO0stS0vTVCpMK+hwmkGwbYxpQ0FN1IeJe21XAAqGk8MqvPVs3/UJpVS5lkuLKUEA0c5QemyHLf1tB+BjT+a5UBfUDG+l1jv5QD2ETheGsvid3R09JNRR2l7lkzrwKnU2u8S+8q+lZEvv127+l3nHn25XAR9ZcR/2akQH+0EaAwgYdd19SipwrjJUf6OhFdJl/tCrChMvndRaS0j6MOAsmK9rGex7hzxXvCjnV+Oujql/LK90iTHieodwd+W8DxJBkho0jcT/2S0bKIlRxzVX4OmfBOHwNYdpOAYzDCo0kom7cYCr9XPBaOYXezgCwdiOccpdngbLZA==;WpBNkoM/31eYhiNaur+Ylw=="
 ---

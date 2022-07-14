@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research: Human-like robots may be perceived as having mental states"
-    excerpt: "\"The relationship between anthropomorphic shape, human-like behaviour and the tendency to attribute independent thought and intentional behavior to robots is yet to be understood,\" said study author Agnieszka Wykowska,"
-    publishedDateTime: 2022-07-09T23:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20220710/3961174.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Human-like robot tricks people into thinking it has a mind of its own"
     excerpt: "An uncannily human-like robot that had been programmed to socially interact with human companions tricked people into thinking that the mindless machine was self-aware, according to a new study. The digital deceiver,"
     publishedDateTime: 2022-07-14T13:39:00Z
