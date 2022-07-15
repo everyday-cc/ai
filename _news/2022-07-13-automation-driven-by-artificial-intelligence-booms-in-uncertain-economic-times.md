@@ -20,12 +20,12 @@ topics:
 related:
   - title: "Automation Driven by Artificial Intelligence Booms in Uncertain Economic Times"
     excerpt: "Veryfi, using artificial intelligence (AI) technology to transform documents into structured data in just seconds, has announced continued strong business momentum and growth in the second quarter. As economic concerns increase,"
-    publishedDateTime: 2022-07-13T17:26:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/13/9638304.htm"
+    publishedDateTime: 2022-07-13T17:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automation-driven-artificial-intelligence-booms-uncerta-economic-times-/2022/07/13/9638304.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 30
 
 secured: "n6vYv68lTv0Sqo6BjdKQdMCfSnzDB7xd6nxtXkTnsOxHaHKvJZr7n/7FunP3UWb2swUlfgn2BCaRFZefvbtn/Vbs6thTVi/ps+xQ3q5+B4P1BfIR9LNIAymRyqgR66tbL9yWJ2TJd3wFHtjqii5sGlo6gnQy4LdC/AeZJDUOhg33+0fX7JLvRFwT8Vurp15Sk6R82+W5J1zVCXaGn4GzIEWXcU4s2M/VWkdtuJJeXUN1BqmTgl3U1fl8Skfe8TTO4j7NOXKTg8G2p+fwbfBJmhdoMrdZx/sjZKxKYgDZfml/DKTOZgU2IOKblZgpZbSQ1JWW//NWB5bzTOcG2JL/kBMVXlBoP+t2i/3Nyb4Mlu4=;BnD3s9Pk0OZu4OaffZlYxQ=="

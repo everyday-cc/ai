@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T18:05:00Z
 originalUrl: "https://hypebeast.com/2022/7/meta-make-a-scene-ai-artwork-tool"
 webUrl: "https://hypebeast.com/2022/7/meta-make-a-scene-ai-artwork-tool"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Hypebeast
@@ -13,6 +16,42 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Meta's Make-A-Scene uses AI to create digital imagery from text"
+    excerpt: "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches"
+    publishedDateTime: 2022-07-15T08:43:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 59
+    images:
+      - url: "https://www.businessinsider.in/thumb/92899003.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
+  - title: "Tech firms slug it out to create ultimate AI translator"
+    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models."
+    publishedDateTime: 2022-07-13T07:09:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/tech-firms-slug-it-out-to-create-ultimate-ai-translator-68ae0347-0d3e-49df-b35f-0e0605c3a04f"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 19
+  - title: "Meta's New AI Research Tool Turns Ideas Into Digital Art"
+    excerpt: "New Delhi, July 15 (IANS) Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches to generate ..."
+    publishedDateTime: 2022-07-15T10:05:00Z
+    webUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "8cFUeBBb2dSUDl/0HjbEtm4hNKwFGvQYlsvKmt5UydxkcRt9vzuhanJgfe0G3h8uPMqLrtS2EwKawmcZMri+deKYaK47wCOAZwA9vic8D8Ec5x6hfiP/+mHHCM1ispTcIkuKR674LMQsdublBJNCkbCpXRoCC0YAFwjw0iOoEsRX0EqRNG/SYF7XnHKrxFUWfR/ubhngMlHXR8cW6aEnU8Lhxx+Cu+wJgDNnY8XkCHwdnsvEeXXkkuQ1bLFDvlKRfeG/phV3rcQDAzCnQBPjSdOnWO+zgSiq/sFAtozcFgWgdCbL6royDvxPshDia0SgOJ0aWShw1/OdrUi7sb0ZJWyW0BL6LaM5fceFtGlrZHlQhsDGhT45oZpvGZsCVIKmpBmAeikEcTsCwJlNYXhHLj+N2Ix/UjCNvKj/Moywd2vMg4FIOYpRDJA0UPq9ygmEPbta4ClvcT0Z3M4BzSM/tkCBXNgWtzwcgXRuLnGad+M5Xvh4CGs0cKgd0KWG+iQiX1ol4OdCWykiuXDbdral5Q==;5yTzyavopiLr+6L6H7Ocwg=="
 ---

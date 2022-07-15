@@ -62,6 +62,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Esri Melds GIS with AI, Graph, and Analytics"
+    excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"
+    publishedDateTime: 2022-07-15T18:32:00Z
+    webUrl: "https://www.datanami.com/2022/07/15/esri-melds-gis-with-ai-graph-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "t+cns12hTe9CjUxd/f3s9Ewnle9hwAoEeDdGdIKXV92jFJGQqrohGy+G2gQfNtPb2StW6wCJGXHhFs0V5SFJ7+TsLWQU6HBlhHoyX6SMIANBUn2eWYU211LMq50bjkg2mcYRM55rn8A0jdHSlF2+MdVD72XHTJ8nLK0FdXfATuoRYDXJUc7vBQPqGmXNsxFBlptQ17NZh9m2i6uXM33NU3NIwDxhAL/H0ppFK0KIVrag++UPYmzIdBBTO1jVzwwdXGfvi7sygrPEju0KZ92YXksu5tgECRIrZ+2TPLTtNFzcEXkbhflOMoTR/WwxH4WWv1262HcYn2oV59H8HXYL35lUNO1h7NazQNPIY0+6eK7ESlli8HqveS1XmAc4+s+LC6c1ZAiKkHfkOAcj9idH6O7dNfFlWCPtSN7uG9eMHaZ019u/ycLtvwXnnamTuTfIkK7kpJTJMVcMhZSScpd7thZoesMIxHmnYDNDbshcD1CDLVs1sazZaZXNb3mEx+eqQ/PzVRT0zeEqd1d2OXCSBA==;4Ixy5ovCHpNWnpvU5I6XNQ=="
 ---

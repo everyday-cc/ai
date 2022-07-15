@@ -75,22 +75,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
-    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
-    publishedDateTime: 2022-07-11T01:24:00Z
-    webUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215"
-    ampWebUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 52
-    images:
-      - url: "https://static.tnn.in/thumb/msid-92788215,imgsize-100,width-1280,height-720,resizemode-75/92788215.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
     excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
     publishedDateTime: 2022-07-12T02:22:00Z

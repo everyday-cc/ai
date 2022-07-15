@@ -44,6 +44,15 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 19
+  - title: "Meta’s ‘Make-A-Scene’ Uses AI to Create Imaginative Artwork"
+    excerpt: "Scene, an AI research tool that uses sketches and text to produce new artwork. Shared by Mark Zuckerberg, the tool is designed to give creative control to anyone, artists and non-artists. Most AI systems rely solely on text prompts to generate images,"
+    publishedDateTime: 2022-07-15T18:05:00Z
+    webUrl: "https://hypebeast.com/2022/7/meta-make-a-scene-ai-artwork-tool"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 17
 
 secured: "DKKFaQx3lGrtD2n5lKTuCgAPf+esWZjWk/SOszYRfJovE25lck+S7D8NUyOig5JFfLvgCNjOXx6t17ozl3PrjFPnVKlxcC45XJwuutnoE0yvzeJmPKhjK28wCEUzf3bLaoimLvXzWIXlmK5/dJoIwbD9fQD8Og7Ez6GaMTu31F7yJhIpKMuk8Z8a6WyTjSA3EM5dRahjyYpYDdV0PZzKC5zZf2YnnDaWUBizjVw+I5+j8TW35eOZ9pHJkJuPNBPJb0B0r/yLveEhi5/BGjSPXC1K4/ctVF+9GxH5VYBjzCLA09FtnO/+dDm5Dn/U/KaVzSi+6U4PxphBmqcWugnsYG4ATZ02G8Wv8s0IFvRgXDj/mxgEi8fXlgOu8F/uErgXwbhrSWo22rtZOmKacnDuwIRSfNTUo+s672SmmChhrvAhU5pTL5DUx9wt5/P5jXZBVVUQfF6FlUYSAMJZA2v2XhnjegkuzHySaqREVmo7Mf+2MeVNtZYuTuVGsyQ410efdVs2f2cwkR/xm+MK6k3O6g==;Xb4/jJOtZ5H9fICqHG/Gkg=="
 ---

@@ -56,6 +56,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 60
+  - title: "Build a news-based real-time alert system with Twitter, Amazon SageMaker, and Hugging Face"
+    excerpt: "Today, social media is a huge source of news. Users rely on platforms like Facebook and Twitter to consume news. For certain industries such as insurance companies, first respondents, law enforcement, and government agencies, being able to quickly process news about relevant events occurring can help"
+    publishedDateTime: 2022-07-15T18:37:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-news-based-real-time-alert-system-with-twitter-amazon-sagemaker-and-hugging-face/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 59
 
 secured: "RwcPFew4R+O+eD1OKrEkTUwnVwo+tipJT+sYcLMd8QWAMQwFQ+F9Pj90Nv2xJ/2WXgjY7RQf+bfrPi4xrGY84X+ODgJrglo2ScqSDr17aM6FjO4NFg8QKwtQrwG7TBABMxnroYfVVkuRtFv6EvFCixTtitqUXaGc/PphO1hBpv7OoBc7aqDCbQpTfXckGFTrftB0pRKaY5dT2SCpeSGSb08X/E8m0uy79/Y/iaacUwC8b4ynanzePTRUXrcyuUH0WTqbMpTQz4QSBNA15Lkd7gJ4+3ShhQMLENMvpZ8XRQNUT9OJrRtvIvKfYa9LwQ41NT8zYsfOYKEG3TOTjRqi/DD7p1y1piq/BTxC0AJLMqE=;g2QE3E4OnKvjd0h+QuCV/Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T19:03:00Z
 originalUrl: "https://www.freightwaves.com/news/ab5-protests-rage-on-ai-contract-negotiators-and-driver-onboarding"
 webUrl: "https://www.freightwaves.com/news/ab5-protests-rage-on-ai-contract-negotiators-and-driver-onboarding"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: freightwaves.com

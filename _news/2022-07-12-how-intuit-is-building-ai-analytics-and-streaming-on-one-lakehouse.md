@@ -54,6 +54,15 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Esri Melds GIS with AI, Graph, and Analytics"
+    excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"
+    publishedDateTime: 2022-07-15T18:32:00Z
+    webUrl: "https://www.datanami.com/2022/07/15/esri-melds-gis-with-ai-graph-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "5 Times AI Business Analytics Failed Horribly"
     excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
     publishedDateTime: 2022-07-14T15:22:00Z

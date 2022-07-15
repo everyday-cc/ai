@@ -91,22 +91,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "India makes big push for Artificial Intelligence, Rajnath Singh to launch 75 AI-powered defence products today"
-    excerpt: "Briefing about the event, Defence Secretary Ajay Kumar said that 75 newly-developed AI products/technologies, having applications in defence, will be launched, as part of the celebrations marking 75 years of Independence ‘Azadi Ka Amrit Mahotsav’ and to promote ‘Aatmanirbharta’ initiative in Defence."
-    publishedDateTime: 2022-07-11T01:24:00Z
-    webUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215"
-    ampWebUrl: "https://www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/india/india-makes-big-push-for-artificial-intelligence-rajnath-singh-to-launch-75-ai-powered-defence-products-today-article-92788215/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 52
-    images:
-      - url: "https://static.tnn.in/thumb/msid-92788215,imgsize-100,width-1280,height-720,resizemode-75/92788215.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "'India Believes World Is A Family, Developing AI For Humanity's Progress': Rajnath Singh"
     excerpt: "Singh, who was speaking at the symposium on 'Artificial Intelligence in Defence' in Delhi, addressed several factors concerning the use of AI and its future."
     publishedDateTime: 2022-07-11T08:06:00Z

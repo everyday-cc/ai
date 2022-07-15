@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Find what moves you"
-excerpt: "The Quaker State 400 starts soon. Even if you don't have cable TV, you can enjoy all the racin' and rubbin' in Atlanta from home."
-publishedDateTime: 2022-07-11T01:11:00Z
-originalUrl: "https://www.cnet.com/roadshow/1162/"
-webUrl: "https://www.cnet.com/roadshow/1162/"
+excerpt: "Our experts put you in the driver's seat with automotive advice and news. Want to find the best deals, but don't want to spend hours looking for them? Keep your browser locked here for continuous ..."
+publishedDateTime: 2022-07-11T01:15:00Z
+originalUrl: "https://www.cnet.com/roadshow/1163/"
+webUrl: "https://www.cnet.com/roadshow/1163/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: CNET
@@ -28,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Fq4PCJvX/ZIR3593ypkHCHBxmK4fPUJiA98GI61R3YEk+sYZ6Zo04D5NgZ8MdkvF4Fcewc9IZZMqgOKBYtv8da2KY2muD37H8maCaEE1WZVSN8zHqGkzJYEbUJDG2lS0kfhq1m5FDrmLbV7pYMW7WwbM2vghsyGpL3PqNwqVx8U2ug/FeOTic3R9w33iiCSgrbTSSuq7aBAs0N16NQuBHvh28E1FR8pqJ5rLFooHMeITv8BrcmpywerylmJPs3qeFTh2u/Ik80wQdI6tWpdE0cAIXBUhv8jozrMs0wVpuKsObcmgJ3xxY/WgAYTCDY/eQr4YA2yQSDPd35ODje5xKuZeks8lZzSPznbptC1LB+U=;+6oVM3m7LwI+CsedVb4www=="
+secured: "PTwePvmUPt+owoRcOxAsWLkTmsmv2o+VJ4yAUtSdciVs2VGVmSxMEl1sew6GlN1UofBEtFmBO/Xg5QvXpljBt9nnPi6qUl7aLUaYqPfrrB92CabgUUgmij9Byv6rcb0yF5PeBH7agTke6F89ERRIMHRBZjxa1PQU7uXCRx4Mten+FnsqdLnNVSz/uuXA+10lrXZmoPuQm3u6Y65MSvPFA8xPByXYwnOOPNxyQfzWiCDM2Lxr2X0//cx8CuFX4+RQ+zqS9FqD93QgouvW3SFCHJMCspX6SNJLoodub6lDLM+usSVFUdvQKtniFzEPEiHI45QTCHL2p1CAbU2QxMe9EDCwhhD2uHrWapZKT057CtA=;JZjfX16OtoPTJhVK3REXkg=="
 ---
 

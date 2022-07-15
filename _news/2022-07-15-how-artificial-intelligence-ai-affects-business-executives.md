@@ -8,8 +8,8 @@ webUrl: "https://businessday.ng/research-post/article/how-artificial-intelligenc
 ampWebUrl: "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/"
 cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:

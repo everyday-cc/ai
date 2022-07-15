@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)"
-excerpt: "Gestalt Diagnostics, Inc., a leading provider of digital pathology solutions, announces the availability of their Artificial Intelligence Requisition Engine (AIRE). AIRE drastically improves speed and accuracy over time-consuming,"
-publishedDateTime: 2022-07-14T16:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae"
+excerpt: "AIRE is an Artificial Intelligence algorithm that automatically accessions cases and provides significant improvements in accuracy and efficiency"
+publishedDateTime: 2022-07-14T16:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire-1031588342"
+webUrl: "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire-1031588342"
 type: article
-quality: 48
-heat: 48
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "1eKxFmR4M/Xyn4tQ8tEjAXzp1uQ/9u94jv4+FrDrP+kxsA2oCw0hh8kfDeHWcJHrFLXkNPbqafn/MEhWcK+o8CHuhKwyFYTg+OOm5t2RoE5zLIQ3ZzTQtzT7YNhcfp+unHIhOtdeHnGJUHDGrlAZD/ZndcI6KocyLjMnI6zoxUhOrRJ4mNsb6M5+eQw2S57Xt1ywkTiLDQUePELHCxIgSz2m/ir0grussgfVi7oHQ6OL647rgagBXqUcvSIYxrc6K8FSbXvS82i/+oK0rY9ET+tzQrm+TX3wVzU5t9nqzJtbIBvXfs2TU0MZYtjShCaP9swr0SAOEeu0JyYHJHbdh3ihTZNhkmHLrK0qV2QsntQ=;mMJ9hs3Qi5tDLocKdDln6Q=="
+secured: "wZn7llWncVZ0uYTKOJdMN7he+oRU4AvfysGTc0KqtORBK1cqzo+aEWQ0Ys0hQwBYrHcHjcXPS+LQ7Pf42HKxOKxyCcf31tp4icd3Jo5dIG9MCMIO1Qn27ZVtjBwYEueaKfJR4J83oesWdB7LEu65dX4eV+QEWIub5Xt0uNS1YWOVyr3tp2Bx/HDhwqEyNuygvBWEJijFZwgf9VxDil3YnODodcvYIsVxruZ+YwMxhzqHW+6zLvCM3clOJa2G8NWRDz/2aiHTNsBzvAkLB+UFIR2seKZ4ahVZbI6brKF1348M4/JkxJ1PtpvFx0kdmlWEwn5mTpKaae9bmZqizZBvFIjAtwPNOvK/gcvCZ2B7fG4=;qGs/tqHfS6w65XNoyezYRA=="
 ---
 

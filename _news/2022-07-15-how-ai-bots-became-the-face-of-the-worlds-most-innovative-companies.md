@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Will Artificial Intelligence Rule The World?"
+    excerpt: "Artificial Intelligence is dominating science, military, financial and many other spheres - are governments too late to control it?"
+    publishedDateTime: 2022-07-15T19:02:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "KPZSVKmozqMYgwy4lQpN4AnRqcUxIskwcwnJX5ek4i6LWTihYpXlBPJRbcFJkgGibBVi6PR21RV+V70u23eZj6vi5TLvmBtR9UtGXhfOxcojVRILzILpcmYgJ5yX2vVuaoIAq+Uuk+rn3awYuOmBILLIzGrJgdEe+lqPT/cL8FJxZcjIM5uBKWK3eBzgeLbmh+1AMo7Y9yC+/iywzpVcWS6Cp1qJlgzHWSQPSjcvC7ck4hpb/PmjCi8hXlP2RAysZLF6v+Cs8LRhsIF4PslhG8sNlB5AIFraQ2e4Jvv19JRKgdcVL4KydLroz6TtqykT47du6YR34UBwdVICmaizS1cbFxiKhagSH8i2ON2xLhU8yq1kfanBUIvjOMCS8RUXRzesQMAUumPkHVY5Z34hcZnHrX1nA4EYWE2/CmdzEDE5VLuxQ3Tfjp2mKEYjQA8lGyRqlh3gUSBHYM/acVeX3HEbrJwRBXbxCnMRhkRoy90TFs77+ehFiN/CLkw12msOxeI4zUcJJvYdevqieXh/xw==;PeU1C6guhsw/VdinNvHBow=="
 ---

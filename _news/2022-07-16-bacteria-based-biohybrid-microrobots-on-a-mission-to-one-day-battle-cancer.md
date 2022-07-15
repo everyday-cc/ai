@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T18:00:00Z
 originalUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
 webUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Phys.org

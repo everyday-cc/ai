@@ -69,6 +69,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "DFW Cities Selected as Host Sites for Artificial Intelligence Bootcamps – APPLICATIONS NOW OPEN!"
+    excerpt: "Four DFW companies will each host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. ABLe Communications in conjunction with UT Dallas (Grand Prairie,"
+    publishedDateTime: 2022-07-14T20:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-texas-dallas-plano-artificial-intelligence-59a3f1db232d76e3813eb9c29f0e08b4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Birmingham Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "Protective Life will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Birmingham will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T20:03:00Z
@@ -83,19 +97,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Atlantic City Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "South Jersey Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Atlantic City will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T21:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-atlantic-city-selected-as-host-site-artificial-intelligence-/2022/07/14/9639343.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
   - title: "Baltimore Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "ThoughtSpot, the Modern Analytics Cloud company will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 at Johns Hopkins University. The No Cost AI Bootcamp in Baltimore will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:03:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-baltimore-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639328.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+  - title: "Atlantic City Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "South Jersey Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Atlantic City will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T21:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-atlantic-city-selected-as-host-site-artificial-intelligence-/2022/07/14/9639343.htm"
     type: article
     provider:
       name: TMCnet
@@ -119,6 +133,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
+  - title: "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T21:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-philadelphia-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639345.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
   - title: "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!"
     excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai.org/application."
     publishedDateTime: 2022-07-14T20:22:00Z
@@ -137,15 +160,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 5
-  - title: "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T21:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-philadelphia-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639345.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Round Rock/ Austin Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Dell Technologies will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Round Rock/ Austin will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-m
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 60
+  - title: "Build a news-based real-time alert system with Twitter, Amazon SageMaker, and Hugging Face"
+    excerpt: "Today, social media is a huge source of news. Users rely on platforms like Facebook and Twitter to consume news. For certain industries such as insurance companies, first respondents, law enforcement, and government agencies, being able to quickly process news about relevant events occurring can help"
+    publishedDateTime: 2022-07-15T18:37:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-news-based-real-time-alert-system-with-twitter-amazon-sagemaker-and-hugging-face/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 59
 
 secured: "rFQQ2OzLuy9Htx9JRYWyDCNfLL42zntmU1iLJ/uEBApgTW3Dy6V0x8VqXTlpwttTY5zifiR7HouibulHx8XnRA8Ca6kQEvt33BkO/fPE2It6mygKZbPyelN5wSZRUHYKc+zxmHKftmRU3QuswDeQnrcH0KLJk95TmJVHKCnOZunpiiqgv9gbmjqSZh5uuOrUHETxtpG5iJEZ8Qq1w7609PECFr/ofaKp0X5WJJMsUE4dVDReDke1JFXhSnfVIEH5RxRhI7ieE9cuIO9uGarfr3KbPZONd+iGGjxcNneTVMKVTlogvuvuI5CuMjOPxw5As4iitvsVg6GBVlHbmw5XQmi8EXMOM+yblKgFsgd6Mcg=;EUgq4B0dNECLIBjfSyOBmw=="
 ---

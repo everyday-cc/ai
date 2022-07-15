@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unvei
 webUrl: "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/03/iStock-1156531291.jpg"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Nokia to Establish Networked Robotics Center of Excellence at IISc Bengaluru"
-    excerpt: "Nokia and the Indian Institute of Science (IISc) announced the opening of the Nokia Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologiesin 5G and Artificial Intelligence (AI)."
-    publishedDateTime: 2022-07-11T01:33:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/26134-nokia-to-establish-networked-robotics-center-of-excellence-at-iisc-bengaluru"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 51
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/77441886f788f4f0edce593a682eaab0.jpg?t=20220711_012138"
-        width: 752
-        height: 408
         isCached: true
 
 secured: "KnELvM1YhsaFRAgeLPfIsRnCFgYdxenFyXEOqZqAlTXQfckwbI061GELKwckwCrdLM8263fBUgd3KZDXW+Mqni3nTT49m7OdFHWJp0xzgJufVLc1VQYcGP8Y+4sE8RUvzsbicZr3/AJ/ZTOgie9Ozb45DjroWnql9Sa5gpZq0V/XdN962LstpOQvodWi2CVRJqhm0O3LTe0bLgLrSB/LT632augkHCRmqw4gFXlUE98RJsDHQwL53Jv7M4v8hDoP2IfqnmHVgTRkq9N0v+wQuOTDHqiXpKdhhZ/dfmaHqCHyuIAi4YepHcfHmDjvYJHm6i6ntdr54Bfjt+zwM4uO/MRAz1f31g1Ad0lHeDk9QNHP2ltusYhzezgoeD1apE+rrGWutA4UfRCdYtKr/bXXvjm4BPPfDlIt8U9V5Cjl3CS24FkS5W+21ieoD8Gq+HakQGQOV0D/5zxbe2LZp8OicnhFRZ8XwJuiwwFEV6l+5bQZWdB0zqEstp1mTcLste2bTGI0MBeZ+UVlKldCu7JKSQ==;caWJM24ZXmSd/tauuGs9aQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/victoria-signs-gov-wide-cloud-deal-
 webUrl: "https://www.itnews.com.au/news/victoria-signs-gov-wide-cloud-deal-with-aws-582472"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS scores whole of govt state purchase deal with Victoria"
-    excerpt: "The State Purchase Contract will make AWS’s more than 200 cloud offerings available to local councils, and other small entities under the control of eligible entities. “Smaller government entities can now take advantage of the standardised conditions and buying power traditionally enjoyed by much larger organisations,"
-    publishedDateTime: 2022-07-11T04:32:00Z
-    webUrl: "https://www.crn.com.au/news/aws-scores-whole-of-govt-state-purchase-deal-with-victoria-582468"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220711033248_0_0_0_0_70__News_20190409110209_CRN_14_AWS_stock.jpg"
-        width: 690
-        height: 428
-        isCached: true
   - title: "Victoria government migrates to AWS cloud"
     excerpt: "A state purchase contract, according to the Victorian government website, is a ‘standing offer agreement for Victorian government common use goods and services’, and will give all agencies in the state a standardized way to buy over 200 AWS cloud services."
     publishedDateTime: 2022-07-12T15:19:00Z

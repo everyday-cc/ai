@@ -7,7 +7,7 @@ originalUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-plan
 webUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "What AI and power plants have in common"
+    excerpt: "AI is powering progress and innovation, becoming crucial to our economy with the same scale impact as the introduction of electricity."
+    publishedDateTime: 2022-07-15T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "oTKYwa5t6BiFAH3iCjo70ENzbGMTjQG5fwOah/JyIAHD7/IpTx0tb/AMMmKs414DBX8/CAorgtgcEZjEGkTh73rbi0a2m7eX4gVimZ6QkpO3vbz8IVAgbw/8qsEKqILzm0Vwdde54y1B1FvTnH5kvtVUmrxxz4dU/7Y4SWDiYKEUR9SsyUuAEFbW8gngsxrDvyv/BOkaK/7TWHlnFlYKLSTBX7nfW7FZXb8WNNjJQmL0G+dN+L4/k2rAo2Jx31kEuzYhW44I/yo+V7V1lc1e+WDHFFGK1oCN6C171VIT4EZ6XF6vz4ZlDmuJRF19wDbGO9UhlQhIsNk4i3PNCT7LL1U2Fr8affaM3pTTDkQDIcdSAc4/Wj8c5UVMSufKFIHAinoCKCd+fnBrVLhVmM+N7G0hDNXzhKmwJKpczIvVxXLdcZpehTUeYDDIxZQVB9QdDvt9+pIAJKL97lmcSJnW2FK2u5TsDnUcnPJyiPD+Qk5qk6AZdf3YpMHKgztueXc/14/WxBsWcwOOFzuBLnbwUQ==;NoJwG960darEKQzYBPIdbw=="
 ---

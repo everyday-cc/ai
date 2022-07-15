@@ -1,24 +1,28 @@
 ---
 category: news
-title: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars"
-excerpt: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ..."
-publishedDateTime: 2022-06-29T02:06:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+title: "China's Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars BEIJING -- With no one at the ..."
+publishedDateTime: 2022-06-29T04:12:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+webUrl: "https://abcnews.go.com/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "QTCYELw+iCKFM5VCwV5DIfh2K1n/XAE8X/CPYrCHPky2HxY7qJcU0gewWDJKsfvqDwKY9xLO6sVLUj4yXCjKyUxazIsKpQQPqek4WEc+8dSW1kiUkSjMrXcR8rmbpjffkWr+9P+oQNUTECKMPV7UuS8XNFrZFGt7vxjTytZTvplQLaQPrmmOCqQIaCRIumnlrob8EPAv8iNajxkqMGoa8xLaGCcrpQemUKsy3U02CI+ZauK/uBqZoN//zkqEN7FpzBUVmesWmTh3EQjtLzEp39LaIv2e1Tn6vcgP+PnMAuVXFXT+9gLT4t1cdCU4IC0vdd2yamy3OifoB5ATeig0l9tcSckDaYhOHx1Y2UVvGKA=;q83yC8rtJQHByOI51uH5dg=="
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "QjOP8xjkz2z2om56CYZkZC9IyQndoY8e/bmTU07gqn7V5y4PUMbG8FaOwKuYU9AvzTWnXC/1ByuA0LI9cAbGswl6pnAxxLyXEiAUKdOLB1iqRWgNMTlfB3nHJE59XhiQ55g8CeneI5kM7Fe6GiIL/u0ftcND0UVm7LMlm9hN1nVyvuzBpi6PFY1eXOgKsubM88CwQHaj5utGdyzyrTMZGE+9v1u+36c354eeDhgNYI7UNum5CKVpUOoF0zkdQqhsmC6grvYzDVPyGzF5gIH9bWlMM/To59KTOoZ2C6tiK/mD8Aq9bv1v53rLbYhJueALp6sDGlLKjRxj2sje+BRw2EopRIOjdSDNXPY7f8bQOFM=;Kav/LkEtvw4VaCFoliG60A=="
 ---
 
