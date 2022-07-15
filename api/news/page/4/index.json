@@ -2,6 +2,137 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
+      "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
+      "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "publishedDateTime": "2022-07-11T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g.md",
+      "title": "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G",
+      "excerpt": "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
+      "originalUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-building-neural-networks-with-tensorflownet.md",
+      "title": "Building Neural Networks With TensorFlow.NET",
+      "excerpt": "we call it the Deep Neural Network (DNN). Artificial Neural Networks are a fundamental part of Deep Learning. They are mathematical models of biological neural networks based on the concept of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
+      "originalUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/building-neural-networks-tensorflow-net/en/headerimage/generatedHeaderImage-1657201887957.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-that-everyday-ai-in-your-pocket.md",
       "title": "That everyday AI in your pocket",
       "excerpt": "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos.",
@@ -1027,150 +1158,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.md",
-      "title": "This brilliant app can turn your text into a smooth AI-driven voice for thousands off the regular price.",
-      "excerpt": "Through the use of AI, Speechnow allows users to generate computer voice recordings in a handful of easy steps. Through the use of advanced algorithms, Speechnow customers can create a voice with up to 800 different variations in languages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html",
-      "originalUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2022/07/sale_314201_article_image.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html/amp",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html/amp",
-      "publishedDateTime": "2022-07-08T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-ibm-buys-data-observability-software-databandai.md",
-      "title": "IBM buys data observability software Databand.ai",
-      "excerpt": "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp",
-      "publishedDateTime": "2022-07-07T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring.md",
-      "title": "Ford, VW-backed Argo AI lays off 150 workers, slows hiring",
-      "excerpt": "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
-      "originalUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/",
-      "publishedDateTime": "2022-07-07T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

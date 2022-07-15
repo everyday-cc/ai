@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-15-ai-for-revops-ready-for-takeoff.md",
+      "title": "AI For RevOps: Ready For Takeoff",
+      "excerpt": "To make a RevOps model possible, marketing must shift to also focus on opportunities and revenue in order to be able to unify their systems with sales and align on common metrics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d024b38eaa61b14abce39d/0x0.jpg?format=jpg&crop=2768,1298,x100,y46,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/amp/",
+      "publishedDateTime": "2022-07-15T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare.md",
+      "title": "Data Preparation: The Key Ingredient In Efficient AI Algorithms For Virtual Healthcare",
+      "excerpt": "However, that concept doesn't apply to data processing. Artificial intelligence (AI) and machine learning (ML) can't properly execute without good data preparation. That's an oversimplification, but it helps explain what's going on with the whole ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6165e12e8a6cc7b5e99e94f3/0x0.jpg?format=jpg&crop=1307,735,x0,y67,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
+      "publishedDateTime": "2022-07-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning.md",
       "title": "University of Washington: First wireless earbuds that clear up calls using deep learning",
       "excerpt": "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations.This experience inspired three University of Washington researchers,",
@@ -188,6 +291,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-using-ai-to-diagnose-birth-defect-in-fetal-ultrasound-images.md",
+      "title": "Using AI to diagnose birth defect in fetal ultrasound images",
+      "excerpt": "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg",
+          "width": 1280,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp",
+      "publishedDateTime": "2022-07-14T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1067,160 +1212,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-juniper-networks-infuses-ai-to-pump-up-automation-capabilities.md",
-      "title": "Juniper Networks infuses AI to pump up automation capabilities",
-      "excerpt": "Juniper Networks' most recent set of announcements builds on current capabilities and advances its “Experience-First Networking” vision.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1004620372-e1657731165364.jpg?fit=800%2C422&strip=all",
-          "width": 800,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/amp/",
-      "publishedDateTime": "2022-07-13T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-deltastream-emerges-from-stealth-to-simplify-real-time-streaming-apps.md",
-      "title": "DeltaStream emerges from stealth to simplify real-time streaming apps",
-      "excerpt": "California-based DeltaStream today emerged from stealth with $10 million seed funding from New Enterprise Associates.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-740521139.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
-      "publishedDateTime": "2022-07-13T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge.md",
-      "title": "Red Hat’s new CEO to focus on Linux growth in the hybrid cloud, AI and the edge",
-      "excerpt": "Red Hat announced that long-time engineering leader at the company, Matt Hicks, will now be the company's president and CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/red_hat_mainlobby-e1657725975271.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
-      "publishedDateTime": "2022-07-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

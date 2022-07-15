@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 in conjunction with the i.am/Angel Foundation."
-publishedDateTime: 2022-07-14T21:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-boyle-heights-selected-as-host-site-artificial-intelligence-/2022/07/14/9639344.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-boyle-heights-selected-as-host-site-artificial-intelligence-/2022/07/14/9639344.htm"
+publishedDateTime: 2022-07-14T20:03:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-a1ec1669c56f17773b9877dfca7e9d03"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-a1ec1669c56f17773b9877dfca7e9d03"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii"
@@ -57,20 +64,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T20:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-philadelphia-artificial-intelligence-mark-cuban-4cca38660dc1d57cc50d383eb242c9fa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -144,6 +137,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 5
+  - title: "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T21:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-philadelphia-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639345.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "Chicago Selected as Host Site for Artificial Intelligence Bootcamp Hosted By McDonald's USA - APPLICATIONS NOW OPEN!"
     excerpt: "McDonald’s USA will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Chicago will be offered for high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:03:00Z
@@ -154,6 +156,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "YMKyMkInUkqRIYWZR239lkPQZ8MALVRS08WAf/XdHVhpObyw0Vjj6Ajav2aKPT50YEqzBdNRuhx1qU0spE7Go05KUxGdvYXaiSrYz+uu57HZxvDw88H/E30VIQHj+3sJ4XxopTRN/kFrDmus9NaPERNYwvHFwKw0XmqPVrYVtVSQmtv+2ia/OnM/6K+4AeWrXPEYGt5LeQ2hhC6OVIYWZbacaGOXnMuWmtQ8t/fX3uFNFhEfd5t3WKmcoYryi5ENCTGl/Zoy7wO4vP9S8Q2RoX5ya0DxmuHPD5DDxewFZ03ll+/imCRSvXE3WP014ikN1x2f/8Y84xMbOh1jqJC1gifX0bQDL+xkLicYtK0Cn2Q=;PSpOMsdNq6UqBcwlNg4umg=="
+secured: "oGky5WJ6U8QD8l/dRiwfFWSER2uU6MQOskO2r2uo+HowdUJZD23wiZSo1W0hN3ngS6qI0SNgbHGpzA04Hwqj0ACo8t90YcCpELZdBAFQjd46+fiaogdZvYDJlcgN0gOuuj1sn7XABPcVaQg+9QUdh6ZE0rZUwKJzQrdjEvEUuWL5RXFtDgWmbx8F+fUhlFqX96zOcOhzOLSGcow5fIWNGVdkgGMLGdMSt64ck97htaKQiDb8oy5gO/iuz6xa5XErjMj6QjZqXanw82ArZ9g2+hRVFqCM73fyFFfKOwgaHhNnxfAvhVqadSAswQayVaspytxqu5QzBqt35aC/KEXMm+5S3v3vIg02QDqghR4eg7U=;LPsZykL5AEUeds39X9oTYg=="
 ---
 

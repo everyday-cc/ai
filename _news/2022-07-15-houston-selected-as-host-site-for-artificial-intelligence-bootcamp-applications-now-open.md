@@ -56,10 +56,10 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T20:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-philadelphia-artificial-intelligence-mark-cuban-4cca38660dc1d57cc50d383eb242c9fa"
+  - title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 in conjunction with the i.am/Angel Foundation."
+    publishedDateTime: 2022-07-14T20:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-a1ec1669c56f17773b9877dfca7e9d03"
     type: article
     provider:
       name: Associated Press
@@ -138,10 +138,10 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 5
-  - title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 in conjunction with the i.am/Angel Foundation."
+  - title: "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-boyle-heights-selected-as-host-site-artificial-intelligence-/2022/07/14/9639344.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-philadelphia-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639345.htm"
     type: article
     provider:
       name: TMCnet

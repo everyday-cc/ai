@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-12-artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029.md",
+      "title": "Artificial Intelligence In Military Market Size, Share, Trend, Manufacturing Cost Analysis, Sales and CAGR Value and Future Outlook 2029",
+      "excerpt": "The Artificial Intelligence In Military Market (2022-2029) Research reports provide detailed information on current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023.md",
+      "title": "AI, data analytics firm Ganit raises funds; to double headcount by 2023",
+      "excerpt": "Ganit was founded in 2017 by three veterans of the data science industry Shivaprasad KT, Ashok Harwani and Hariharan R.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/12/full/1657621253-3286.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "publishedDateTime": "2022-07-12T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-oaic-concerns-spark-facial-recognition-investigation.md",
+      "title": "OAIC concerns spark facial recognition investigation",
+      "excerpt": "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/",
+      "originalUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/07/1657620710-facial-recognition-AP.jpg?resize=960%2C540",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/",
+      "publishedDateTime": "2022-07-12T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Daily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat.md",
       "title": "IAF Centre of Excellence for Artificial Intelligence to redefine air combat",
       "excerpt": "A Big Data Analytics and Al Platform has been commissioned in the IAF's Al Centre, for handling all aspects of Analytics, Machine Learning, Neural Networks and Deep Learning algorithms. AI is going to redefine the air combat and the scope of C4I.",
@@ -10,7 +147,7 @@
       "originalUrl": "https://www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1047,137 +1184,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
-      "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
-      "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "publishedDateTime": "2022-07-11T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g.md",
-      "title": "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G",
-      "excerpt": "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
-      "originalUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-building-neural-networks-with-tensorflownet.md",
-      "title": "Building Neural Networks With TensorFlow.NET",
-      "excerpt": "we call it the Deep Neural Network (DNN). Artificial Neural Networks are a fundamental part of Deep Learning. They are mathematical models of biological neural networks based on the concept of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
-      "originalUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/building-neural-networks-tensorflow-net/en/headerimage/generatedHeaderImage-1657201887957.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "NFRA to identify risk parameters using data analytics, artificial intelligence for audit review"
+    excerpt: "\"There would be different weightages for different risk parameters and we will be using more technology like data analytics and artificial intelligence in this regard,\" Pandey noted. Besides the ..."
+    publishedDateTime: 2022-07-15T11:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92900692,imgsize-19434,width-1200,height-628,overlay-etcio/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Chennai based AI startup Ganit raises funds in pre-series A round"
     excerpt: "AI and data analytics startup Ganit said it had raised funds in pre-series A round led by Sangeet Kumar, co-Founder & CEO of Addverb Technologies"
     publishedDateTime: 2022-07-14T10:05:00Z

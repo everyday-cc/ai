@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultraso
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
+    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
+    publishedDateTime: 2022-07-15T10:40:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207932-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/health-resources/latest-health-news.asp"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/health-resources/latest-health-news.asp"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 54
+    images:
+      - url: "https://www.medindia.net/health-images/7-tips-on-staying-safe-after-a-hurricane.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI Applied to Imaging May Help Clinicians Diagnose Fractures"
     excerpt: "For fracture detection, artificial intelligence (AI) and clinicians have comparable diagnostic performance, according to a review published in the July issue of Radiology. Rachel Y. L. Kuo, M.B., B.Chir."
     publishedDateTime: 2022-07-13T15:19:00Z
