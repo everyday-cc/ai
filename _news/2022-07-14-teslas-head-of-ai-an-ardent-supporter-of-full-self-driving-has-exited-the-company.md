@@ -3,8 +3,8 @@ category: news
 title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
 excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
 publishedDateTime: 2022-07-14T15:24:00Z
-originalUrl: "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
-webUrl: "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
@@ -174,6 +174,6 @@ related:
       domain: carscoops.com
     quality: 18
 
-secured: "djfIAuA9929KtAL4o/3WMb1CQvwj5fLS53KAFZWEujYI5D9PFH1lbX3/7Bz5ESyUmEKNdCvZn3miOa9AVeZby+thWpXif9EwHNDrxwFwWZerdvozT4tA8nuRl9vMpKhLTWEhNeMuA1UPM4jXruc7DNyzrJDMhzEvHOMMCV36WkDU4cvZTIGxLXhk1OF/yKlpKSJG/Qfb6zd/x61uvMk1EpjlNapr6ffHiJz5cbOFpoGsONvr+Ehj8aY8NWcIgV3B/36SBxhi/YbDzkK1dyKkLsvWxw9opyI/mUBeAX+QyCKseQaj2TkWSighzek53kYAYfwJ2ppuAbl1hZOkRkARHUCasSEc0n6k3CX5u49/T68=;K2r9qWzRa4D8njV6MG6XUQ=="
+secured: "rcLvGQ0LReq1twf/x7jwpDm1x+BfKBh/JCVGoYOZZMuEa2iXPHIlGcdyNbMZbCclfJ2ZDdKkSi2TFYmDm/kETz3q67D/pypxY9UGUmwx7YrEdYOszlpX+ROWqCAhB07lTTiJFJEg39eHW0QT9TJye63oY/44G1Qg2dh09B3YlLqC4VHtGLKMzlxskqRQO342m4Gxh4E8C7nNuqnUZX0eWruQTkfwm9E8s6Fc3icjAQXGEU7y8x3Cm5Ke5cX1EqR/tOlAZA8rhoWRJ/PrLTGYhOA6vaPD0pOyhjozjJvzC6PZMsr1CqvKD672SHHc6hcF5b1w9dYct0/Gq5ZEaZD5T9uzg+slAqHqhlX843dcNTs=;pI1v6+Uw2G1ur6Gn+W0uMA=="
 ---
 

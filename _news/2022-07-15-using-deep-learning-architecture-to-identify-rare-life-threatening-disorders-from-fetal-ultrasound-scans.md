@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 782
         isCached: true
+  - title: "Machine learning identifies gun purchasers at risk of suicide"
+    excerpt: "A first-of-its-kind study from the Violence Prevention Research Program at UC Davis shows an algorithm can forecast the likelihood of firearm suicide using handgun purchasing data."
+    publishedDateTime: 2022-07-15T01:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220713201345.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "wRcL6LL9y5UGNDPVQWf28ZPpzmfncfTJVHGYgc9VKwUcCbJsWrBZu75H2kwl65ZwHe4CFAvrzX9iXAY6gKDEcGoPg5+FcuS1VPoRgAtSgKh/1JdKIRHRlgalIu/5WMYiMlS8jDyvDcwjSiUkkTpSUkoW6SmP5u+bi4m2HM1kQK/TbETLrm1VKLuWNCQGU651eoZhmZI4bYY77/cqKMHV2QDRHKOR80iIuFjBRsttD0c99rWKWvSdw1FWcxcdoI0HVIBrA1a6q8SO2Ynz4dTbHQGMEv/Xs4DP4yF/xyz8ESmCTDbtIB1V6rvND6EMd8xoaiA24NrQdLdopjiJwl4A0rvooG1A8GX6pdFA7UaH5wLSDGN7S/wrpnHc2chzsCNSk18StfYp/H5wbMnRLfGT3bqiWa/nhij5JwYKAF3upxBATX/micOKZCgXHOjn368zn7YjlJhNOfN81sVNuzk/HpzNJ8qGEsnU1H0EIC/khcK8MFUskVsGCWe7Bh2k/V6yUNxiBBsWjGMbrSjEpgbEiQ==;eptYE16/C4ni1RVAtGob8g=="
 ---

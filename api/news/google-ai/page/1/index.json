@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
+      "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
+      "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "publishedDateTime": "2022-07-13T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
       "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
       "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
@@ -1375,58 +1418,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-fine-tuning-a-bert-model-with-orbit.md",
-      "title": "Fine-tuning a BERT model with Orbit",
-      "excerpt": "This example will work through fine-tuning a BERT model using the Orbit training library. Orbit is a flexible, lightweight library designed to make it easy to write custom training loops in TensorFlow. Orbit handles common model training tasks such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/text/tutorials/bert_orbit",
-      "originalUrl": "https://www.tensorflow.org/text/tutorials/bert_orbit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

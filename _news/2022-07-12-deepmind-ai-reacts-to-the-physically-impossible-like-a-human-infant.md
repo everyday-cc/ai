@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "AI Learns What an Infant Knows about the Physical World"
-    excerpt: "A computer model simulating how objects react to physical forces approximates how babies understand their surroundings"
-    publishedDateTime: 2022-07-11T16:46:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-learns-what-an-infant-knows-about-the-physical-world/?amp=true"
+  - title: "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics"
+    excerpt: "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding."
+    publishedDateTime: 2022-07-13T13:23:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 74
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8FBD58A2-2045-4C9D-A8F106C93BB06CFB.jpg"
-        width: 790
-        height: 496
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeepMind AI learns physics by watching videos that don't make sense"
+    excerpt: "An algorithm created by AI firm DeepMind can distinguish between videos in which objects obey the laws of physics and ones where they don't"
+    publishedDateTime: 2022-07-11T15:00:00Z
+    webUrl: "https://www.newscientist.com/article/2327766-deepmind-ai-learns-physics-by-watching-videos-that-dont-make-sense/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/11121145/SEI_114169887.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "DeepMind AI learns simple physics like a baby"
+    excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
+    publishedDateTime: 2022-07-11T20:53:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "/knygS+ms5rwsWJLx8qcrfOeDYGN0qZFOEFp0gPn3pXHQS57QXgOTVVldWffCh55q2Yo2EUs3WJ8rh3qJYV3Q9etI/wMVN9pp10Mbu//UdjNpLNWPIoqpoAdmn8oWWQhfJS8kOZ4AQL3ib6ckGWtfpe4u9azpxYcztBeJyBg/OzjmGTC7aszeBPFYp1axvci/FzFa3koeCy1+R+09v6JcuaXK9Ar+3T2CXrFTMTNB6fhPYc299XNdkrGFSyL/38NM3FOJBCJzQTYYH3QKiHEK577c557Bn1VYZsEwRnZa/ajUJuDPmL1DU/ulQY0CBw/ojVHkASkHOJSNZHd3vEKWnFiv/pISGUi/TN8izHtzznLCtF7EWJd4JovzyL2mZ0Btx7WFICVH/0ctRxZF9NMK3L/ZFiOwxhsnZ9bD1wm7lsDtxa4bDNRW+7llWdfG0iOJC4iPBaXiH0LHUkM5+X3rbchiUT6SH436sHpPsCsvP5MWyE7xxPwFQPDTvEEpXZZoazSJTsKpdblYyfYBfPSqA==;GnHs04bWIVqe+be7A778Jg=="

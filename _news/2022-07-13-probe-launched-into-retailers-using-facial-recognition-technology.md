@@ -239,6 +239,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
+  - title: "Face Recognition Technology Market Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2028 | 3M, NEC Corporation, Aware Inc"
+    excerpt: "For example, Amazon Rekognition can break down facial attributes, including state of mind, visual calculation, eyes open or shut, and hair tone. These properties assist clients with arranging a ..."
+    publishedDateTime: 2022-07-13T08:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/face-recognition-technology-market-growth-factors-applications-regional-analysis-key-players-and-forecasts-by-2028-3m-nec-corporation-aware-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/France-Bastille-Day-military-parade-AFP-1K-02-e1657779506824-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Fc2/QM+661SAxUeCAnuVJOkZY0DlLs7za6yR8LKOZe7jTREJEw8Haotyl5qvo3AUpSrY7Vy0JnP72GyvMpMFpYF6h81WQJaYW2ooUJ9RbvwwT7Sb0Md9mybAhLHnb81/GvGSS3v8U8P7/mcqf+QDNwLYrOuyp7qnYfzoAXm1SWBDJRSQOX92IqKXWwMcwifRAlR0Ydwqy1msVm2WWBzRVyhQhFifrnyn/qPko9TrTBOIVZLScX7DnW8quSZMWhrjMbguD1qpz5fZto3pcsGCsbItNGzP8w+vLCQ9aocNO8826uPCbJUbTrLBMUQQpi0SbOmeVLiCq4wWz1LgtL+uuO4zwLWfye6yhaXi5hes1wI7h4+N/Lq+RML0F2giCt4NnsqPoRLdqIpZxNDL87KC2UI/VA7RAPwJw36g2+EZ/0uyuu66Bsa9+fGprFyeBtSNMCctnavwGWV8Kti1+bom5cvjG5D8E09rIci0ckflKKA65/ZUeh+89QqBlXJZyGJ6jEnEFFmTphf8YU2os6qlQw==;6vHwbHs576nrTYfKznTpvw=="
 ---

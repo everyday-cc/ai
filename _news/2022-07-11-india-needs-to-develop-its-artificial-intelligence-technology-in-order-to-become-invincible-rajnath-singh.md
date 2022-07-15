@@ -154,6 +154,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Indian Armed Forces get ready for future warfare! Undergoing important changes due to AI, says Rajnath Singh"
+    excerpt: "From focusing on Artificial Intelligence (AI), Quantum Labs, Industry 4.0, Machine Learning, Neural Networks and Deep Learning algorithms, Robotics and much more are gradually being introduced and ..."
+    publishedDateTime: 2022-07-11T12:52:00Z
+    webUrl: "https://www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/"
+    ampWebUrl: "https://www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 40
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/PIC-5.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "India should be prepared for upheaval due to AI: Rajnath"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
     publishedDateTime: 2022-07-12T00:54:00Z

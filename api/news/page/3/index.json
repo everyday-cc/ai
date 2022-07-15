@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
+      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
+      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
+      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
+      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "publishedDateTime": "2022-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-meta-ai-tool-sphere-could-help-curb-fake-news.md",
+      "title": "Meta AI Tool 'Sphere' Could Help Curb Fake News",
+      "excerpt": "Facebook parent company Meta on Monday launched Sphere, an AI information verifier that validates the strength of claims in web entries, as reported earlier by TechCrunch. The tec",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/f764397dea71d90194b41539de5a8fe49771aacb/2022/04/15/43325f3b-1eb4-4b1d-b5c2-2c6518bd6ea8/meta-logo-2022-202.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
+      "publishedDateTime": "2022-07-11T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-meta-ai-researchers-develop-model-for-verifying-wikipedia-citations.md",
+      "title": "Meta AI researchers develop model for verifying Wikipedia citations",
+      "excerpt": "Wikipedia is often the first stop when someone is looking for information online, but the validity of that information is all dependent on where it is being sourced from.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
+      "originalUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/07/4fb7533579e9e445735e1995cfcfe43c.png",
+          "width": 583,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-rob-reich-ai-developers-need-a-code-of-responsible-conduct.md",
       "title": "Rob Reich: AI developers need a code of responsible conduct",
       "excerpt": "The pace of AI innovation has accelerated and it's far ahead of public policy frameworks. Responsible AI must be a priority for developers.",
@@ -668,7 +858,7 @@
       "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -977,187 +1167,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech.md",
-      "title": "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech",
-      "excerpt": "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220707210753-shinzo-abe-speaks-in-nara-0708-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/asia/japan-shinzo-abe-dies-shooting-intl-hnk/index.html",
-      "publishedDateTime": "2022-07-08T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-inside-wimbledons-ai-powered-plans-to-engross-tennis-fans.md",
-      "title": "Inside Wimbledon’s AI-powered plans to engross tennis fans",
-      "excerpt": "The future of tennis depends on casual fans becoming devotees. Wimbledon is using AI to encourage the transition.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans",
-      "originalUrl": "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2Ftennisgrid.jpg&signature=89ab5d6707b345bee6c3472f6bceda5d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
-      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
-      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-sure-githubs-ai-assisted-copilot-writes-code-for-you-but-is-it-legal-or-ethical.md",
-      "title": "Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?",
-      "excerpt": "GitHub's Copilot is an AI-based, pair-programming service. Its machine learning model raises a number of questions. Open source experts weigh in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
-      "originalUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
-      "publishedDateTime": "2022-07-08T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

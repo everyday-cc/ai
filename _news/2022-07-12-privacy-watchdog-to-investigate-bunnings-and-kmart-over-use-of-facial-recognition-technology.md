@@ -242,6 +242,20 @@ related:
       name: Mobile ID News
       domain: mobileidworld.com
     quality: 19
+  - title: "Face Recognition Technology Market Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2028 | 3M, NEC Corporation, Aware Inc"
+    excerpt: "For example, Amazon Rekognition can break down facial attributes, including state of mind, visual calculation, eyes open or shut, and hair tone. These properties assist clients with arranging a ..."
+    publishedDateTime: 2022-07-13T08:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/face-recognition-technology-market-growth-factors-applications-regional-analysis-key-players-and-forecasts-by-2028-3m-nec-corporation-aware-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/France-Bastille-Day-military-parade-AFP-1K-02-e1657779506824-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "wR8P1dG6z9nuJ/xZtLo/VrsXvI2H3pq09s4bbN4PQiGHZKCGWzPrT517EUv3U4I0DOYT4R8LOkaR4on00EpWuEkl8V8KtZMOjN0E0lWA9MubCti//+FPJKXhopJ7f7CXwtWs3nid2FkI8h/WFF7Upx9e1mnNixIj3jSq/hiCUXB/Zx/XHy39pJNfabdXvSPtwLmLs+7gbozAkSI8U+GDDWloPhzY8jOYEIKDkmpWQLJ6rqKZEJ2CiAjzRdq8UF09yJcv3x501NeKD7VVyr1Rl0UUK6MQ5owEAmAgQr/cAXArraclatoF6kL5ZhuOqbxjhyNm7mjlsurZA/FUgIjIxbC7f23XGmj0V+wFpOie6tPpUO+x/XMJRMTM3n1lnV5abYWj9lOBmNFAgdZBwNYS5qKO/7tib90mJTAi5M0xNs2mQOOJZUZuTKv1C22mL2XrYeekHdJcV32pLMnQ4sRVNOWIxGdwxqJwz6FSHlC+LoJb2wV0dHYCq0xpVMTi0QeIsYdYNoQ4lDZRQdiFwr1FHA==;4jxO+gF/FgmDbjwt2ub7KQ=="
 ---

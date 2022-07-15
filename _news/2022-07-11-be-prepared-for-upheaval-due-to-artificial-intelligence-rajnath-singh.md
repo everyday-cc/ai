@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
 type: article
 quality: 59
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/fig4eg/article65626449.ece/alternates/LANDSCAPE_615/PTI07_11_2022_000021A.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "Indian Armed Forces get ready for future warfare! Undergoing important changes due to AI, says Rajnath Singh"
+    excerpt: "From focusing on Artificial Intelligence (AI), Quantum Labs, Industry 4.0, Machine Learning, Neural Networks and Deep Learning algorithms, Robotics and much more are gradually being introduced and ..."
+    publishedDateTime: 2022-07-11T12:52:00Z
+    webUrl: "https://www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/"
+    ampWebUrl: "https://www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 40
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/PIC-5.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "India needs to develop its Artificial Intelligence technology in order to become invincible: Rajnath Singh"
     excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in present context."

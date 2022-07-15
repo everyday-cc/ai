@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/355918
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hill
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning identifies gun purchasers at risk of suicide"
+    excerpt: "A first-of-its-kind study from the Violence Prevention Research Program at UC Davis shows an algorithm can forecast the likelihood of firearm suicide using handgun purchasing data."
+    publishedDateTime: 2022-07-15T01:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220713201345.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Using deep-learning architecture to identify rare, life-threatening disorders from fetal ultrasound scans"
     excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the University of Ottawa's Faculty of Medicine, researchers are pioneering the use of a unique Artificial Intelligence-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
     publishedDateTime: 2022-07-14T20:21:00Z

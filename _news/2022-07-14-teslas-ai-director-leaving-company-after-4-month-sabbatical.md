@@ -32,7 +32,7 @@ related:
   - title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
     excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
     publishedDateTime: 2022-07-14T15:24:00Z
-    webUrl: "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+    webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
     type: article

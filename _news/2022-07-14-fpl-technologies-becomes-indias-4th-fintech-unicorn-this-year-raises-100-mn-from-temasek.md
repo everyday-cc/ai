@@ -57,6 +57,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Industrial AI Startup Detect Technologies Bags $28 Mn Series B Funding To Strengthen Global Footprint"
+    excerpt: "Detect Technologies has raised $28 Mn in Series B funding round led by Prosus Ventures, with participation from Accel and Elevation Capital."
+    publishedDateTime: 2022-07-15T00:15:00Z
+    webUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
+    ampWebUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 42
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/07/detect-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
     excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."
     publishedDateTime: 2022-07-14T11:49:00Z

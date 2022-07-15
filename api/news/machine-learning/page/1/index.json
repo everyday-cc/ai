@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
+      "title": "How machine learning can identify gun buyers at risk of suicide",
+      "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/07/CA_suicide_07142022AP.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "publishedDateTime": "2022-07-14T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-what-to-look-for-in-machine-learning-for-cybersecurity-solutions.md",
       "title": "What To Look For In Machine Learning For Cybersecurity Solutions",
       "excerpt": "In the cyberworld, the “game” pits your computing environment—protected by your skilled but overworked security team—against a range of miscreants and nation-state-sponsored actors seeking illicit access to your crown jewels.",
@@ -382,18 +425,27 @@
       "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
       "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T11:08:00-07:00",
+      "publishedDateTime": "2022-07-08T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -954,8 +1006,8 @@
       "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
       "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-2-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-2-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -968,8 +1020,8 @@
       "publishedDateTime": "2022-07-02T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1289,40 +1341,6 @@
       "provider": {
         "name": "Business Insider India",
         "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-gms-approach-innovate-collaboratively-integrate-tech-uniquely.md",
-      "title": "GM’s Approach: Innovate Collaboratively, Integrate Tech Uniquely",
-      "excerpt": "The advancement of artificial intelligence (AI ... Today, we use deep learning and convolutional (visual-based) neural networks in the vision systems that monitor quality in our assembly lines. These trace their roots back to the early 1970s, when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21245437/gms-approach-innovate-collaboratively-integrate-tech-uniquely",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21245437/gms-approach-innovate-collaboratively-integrate-tech-uniquely",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
         "images": null,
         "publishers": null,
         "authors": null

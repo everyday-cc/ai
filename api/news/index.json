@@ -301,7 +301,7 @@
       "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -391,8 +391,8 @@
       "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
       "excerpt": "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 211,
@@ -435,6 +435,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
+      "title": "How machine learning can identify gun buyers at risk of suicide",
+      "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/07/CA_suicide_07142022AP.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "publishedDateTime": "2022-07-14T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -697,6 +740,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-this-ai-image-generator-lets-you-type-in-words-and-get-weird-pictures-back.md",
+      "title": "This AI image generator lets you type in words and get weird pictures back",
+      "excerpt": "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220711163147-craiyon-rainbow-lion-eating-pizza-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "publishedDateTime": "2022-07-14T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1150,100 +1244,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-selfie-scraping-clearview-ai-hit-with-another-20m-ban-order-in-europe.md",
-      "title": "Selfie scraping Clearview AI hit with another €20M ban order in Europe",
-      "excerpt": "Clearview AI has been hit with another sanction for breaching European privacy rules. The Athens-based Hellenic data protection authority has fined the controversial facial recognition firm €20 million and banned it from collecting and processing the personal data of people living in Greece.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/13/clearview-greek-ban-order/",
-      "originalUrl": "https://techcrunch.com/2022/07/13/clearview-greek-ban-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1167845553.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/13/clearview-greek-ban-order/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/clearview-greek-ban-order/amp/",
-      "publishedDateTime": "2022-07-13T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-deutsche-telekom-will-trial-google-clouds-data-analytics-artificial-intelligence-ai-and-machine-learning-ml-solutions.md",
-      "title": "Deutsche Telekom will trial Google Cloud’s data analytics, artificial intelligence (AI) and machine learning (ML) solutions",
-      "excerpt": "Deutsche Telekom and Google Cloud will pilot several network services such as 5G SA in Austria, as well as remote packet gateway functions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud",
-      "originalUrl": "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2018/08/86347751_l.jpg",
-          "width": 2048,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

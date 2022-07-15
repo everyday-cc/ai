@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global telepresence robots market reached a value of US$ 248."
-publishedDateTime: 2022-07-11T09:52:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_6eb7573c-6f88-58bb-9bf7-e54c2cb9ffa6.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_6eb7573c-6f88-58bb-9bf7-e54c2cb9ffa6.html"
+excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
+publishedDateTime: 2022-07-11T09:51:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
+webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -128,6 +128,6 @@ related:
       domain: fmiblog.com
     quality: 11
 
-secured: "1abboEoStlg/qG48vBMirGe7QfwwAoTTL3ljrLNF/HMuNTDBEo7FREdLsE97bIMh0aZrCs6IZQnvknvLZoiSxmgFIsK3wolCdxaPm9fgtrfBejmc+HMURRJTe64PMpyQsLOHKpmSp5+j6O4gqIVkvyBRWRbf75P46ugy7CfCG1/7GwrhVpf4/QDAYElgqN17rEIzNAy8RSlrZFXEhEDk4DN+u6EBeCzVlDlSdrxtrTuumNlYNIiJYkOIN90BDHq62dSefCU3NEBatqjgTHqUlobJ/DN0AqmW9SiUSqzw00XrWGgct7owaK1/cK2eqGxTXZGlMO8CB6fPEav8Am3ooqXZ/Mtdcc51OmhwAxsWSDgOzm9PqKnKTHkCCQOVQx0fUiNJdrB2RkM6mM24gZ0FlMeAtP50UE91bZSr+K1aQwv7w2gGiMyo3+bh/CLQTYWcqN/T7dEvhZxJFn+N97ZIg3dcuQJCRDvhDbJlZkzBHYyY8CM5dVbE5ORn9Bd6xkUMrfcatikhL5omubRuj+nFgQ==;AAf2cXsjuJALOBJGmUEiZw=="
+secured: "GAxejyo6iaUCCKuN+pFxfK4xduNIC/Th/00npc+id9lk8zBQH7m5h+tOfmgAYegVrN7ICAcwqRkHtgDE3k5c64eTIyKd71GoXsi3yQXDXFMIkqqL1ROx+wvDWJugR5XNxUfJXBJJrAXS7QYUhsrqQ3Dkuz0KPjV7oTYxnjYwYu6IeqF2CrLBXcDXb3EA8gIQnyiG4NEjissbxT0Wq3axH0BkE06Zt8FWy4YIWhkUU/WM6j5k7pDnviJhPVGZ8vUitj762RM3Dxt8Kk+Tsy05+c768e0gsy8mb7WKVjK0mVGtpY+jAsJUqtuDoJ5JIJ+rdh56SEoAvDRwJ2H2M7/cIeipFYZNvFg813J8SwtoLiw=;B1NT2tPalwYSgPtWM9y0sw=="
 ---
 

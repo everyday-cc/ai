@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
 type: article
 quality: 74
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -239,6 +239,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
+  - title: "Face Recognition Technology Market Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2028 | 3M, NEC Corporation, Aware Inc"
+    excerpt: "For example, Amazon Rekognition can break down facial attributes, including state of mind, visual calculation, eyes open or shut, and hair tone. These properties assist clients with arranging a ..."
+    publishedDateTime: 2022-07-13T08:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/face-recognition-technology-market-growth-factors-applications-regional-analysis-key-players-and-forecasts-by-2028-3m-nec-corporation-aware-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/France-Bastille-Day-military-parade-AFP-1K-02-e1657779506824-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ssBGeVKCwsC8MjLoyRrvaCK3relxVzOB1CGRQBtFGylrkl4gU78ptPezJXEA2m0OoGsXj/1SHjm9N4u98bt4x0HFvG7H/rWI584uAWAuA34pnVHq4LzMJj+qxRASFR19Npea9sjo8HuLpelIxL0pME9zhddr5/w3L580Gkjhvs/hJoUFyz2w9QFjSABfHnPpQqFLc48NwxJbE0OwS2hKRxtr7auPfQfUihjH6GEZFe7SJYgjOPaWwq87zUg6LlgCpZq6cbTIKSevveIoUe2cCRlLGR8Dl526GxHnl0RAaE/iXbWdbadAYg8T3jcEZQj11QPJvCux7rFR3EkF8kr7+LOPNCQkHzUhqhzJR+CLz08zEawSx+egaN0s2i+PRnGbYTUBIqJ7ykSg181V+vllBI5vTmoJXqvic97DcSr5ZPUOs3K74vZiq1dhw9N25+lrrkMpKe60La05le4hzuvFXvJj/Oxn8B0F2ReyY3WSOL99Rp+ksaW+hAEGTejOXtyFpPKJtduuAp9c1Gh2Q4YcCQ==;eqwEyAKCBxq+k7EJBCKPng=="
 ---
