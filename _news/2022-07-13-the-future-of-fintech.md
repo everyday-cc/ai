@@ -25,44 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "3 Discounted Fintech Stocks To Buy Now and Never Sell"
-    excerpt: "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,"
-    publishedDateTime: 2022-07-11T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
+  - title: "Indian tech startups raise $6 billion in April-June quarter, Fintech rules"
+    excerpt: "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs."
+    publishedDateTime: 2022-07-15T15:05:00Z
+    webUrl: "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "4 Key Opportunities to Leverage in Fintech and Beyond"
-    excerpt: "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?"
-    publishedDateTime: 2022-07-14T21:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/429429"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "FinTech Global Again Recognizes Earnix as Top AIFinTech100"
-    excerpt: "Earnix, a global provider of real-time AI-driven rating, dynamic pricing, product personalization, and fully operationalized telematics solutions for Insurance and Banking, today announced that it has been named in the 2022 AIFinTech100 list by FinTech Global."
-    publishedDateTime: 2022-07-12T07:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-tel-aviv-artificial-intelligence-d63a4de9337d4ba3872c23129c9b3518"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "3 innovative FinTech start-ups in Japan"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
@@ -78,29 +55,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Fintech firm unveils Melbourne office"
-    excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
-    publishedDateTime: 2022-07-11T16:15:00Z
-    webUrl: "https://international-adviser.com/fintech-firm-unveils-melbourne-office/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 24
-    images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/Melbourne-Australia-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Where investors see fintech opportunities during a downturn"
-    excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."
-    publishedDateTime: 2022-07-11T17:20:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/where-investors-see-fintech-opportunities-during-a-downturn"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 4
 
 secured: "KA1ZdzkLpVi4ViAqYVWgshEAy5yLHOmq9Dzy8x1VxrSWrgbLbt6zml7OIE/B6m2rUy/R98hnmwElF2AlqN0cpXkH88uTMMtiOUU3ghnV1r0lj+qrOxpNxoczwZ1AsY8vR0UC/MFsiYgF3bmBLSSk9orCWX/H0R/awliO8vk/dkV/jdP7CBqyXZEqqkajwEotdTy7DWn/4hBlM1hP/B7i8RJojLLjJLt9jQ0v7ywqRwk+Rw2jITD/yCPFFa2iur+Cqkppt/DwDmiqv25nWKStzAJsjRKIqGB0bFwdA/qjAsVTpfbQr4pIqcZtLCmh0LJ1CKiiDyxvAAm0PQfOLu835brftpxJXY2LRAtCWVcqIeGbGTDMz5m70cakfEyDQrkKOWdcfBjXCOITgGPYhnFY04ySi09ka4KLUsBzHJ7gxqqHLQiG46HAa8E+BQlLDmPt34if4EW1cVPa3HcgA8fib5mhLHmT5PqCdYKMDmonyGEeIjnavPT/+S3gQo7KPgmB0kIvFfigGMZZ9ESW5DeZwA==;hlnBbvHyvxramzSv7irchA=="
 ---

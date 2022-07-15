@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Continues to Transform Healthcare"
+    excerpt: "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ..."
+    publishedDateTime: 2022-07-13T00:00:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 56
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "kjdx6crnUOoXMrzI6ZHrdDB61zvJF7rKr6a9xvtuTLkDJeC6eFZVwKIy3eYNrlaI78Cr9t94WRtlw9o+BHZI0tO6Eb2ZT4JtfpFTuYBTgz+ZgZjDwKSGcw/Mw0Py0THdaaG1+jPzzVD/TQq30unrqdkS3gKXZOq3scA73umGUA1Pnbgxshem1ImVoqbP7uF4sR96K5Jwgso85BUpZmH/iUpTbQgfsqHdXtt1pM5+ktPiycVHYm9GQI+iU10CnQVdGu6VxmEiBR9t1fJ1DllvWXC5jNLxqdeNaOavRcgulWewOOfCIBR/Jqb5XSDxsKL0NPZHXRDyrKkLMsH9/z01hYV9j8IHXY5aeZ5h8PocJbsAbME5Du6esNiQEaAApVZEKM2V5wPUWErFZ48BWp6WGCNV3s9/sXYhNXRbEs3uO1seK7AyCcP6Mjm5RBpy962974IzEOJkT871rwM2TfyIoayCosMZnNzL4EA/wwFPdmET8pH5kyTur43B8iJeaqJDrBIOFUwReGS9vJ+CjduElA==;5A28VEpthR7z6TjZcpRIww=="
 ---

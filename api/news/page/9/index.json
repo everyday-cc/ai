@@ -2,6 +2,326 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-05-fifa-will-use-ai-to-track-players-bodies-during-world-cup.md",
+      "title": "FIFA Will Use AI to Track Players' Bodies During World Cup",
+      "excerpt": "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "originalUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "publishedDateTime": "2022-07-05T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
+      "title": "Access Healthcare to hire 18,000 people in 12 months",
+      "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece",
+      "originalUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/",
+      "publishedDateTime": "2022-07-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-mashgin-taps-computer-vision-to-improve-checkout-experience.md",
+      "title": "Mashgin taps computer vision to improve checkout experience",
+      "excerpt": "With its computer vision-powered self-checkouts, Mashgin wants to drive the future of the checkout experience at stadiums and grocery stores.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
+      "originalUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Mashgin-kiosk-e1656953769657.png?fit=800%2C482&strip=all",
+          "width": 800,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
+      "publishedDateTime": "2022-07-05T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
+      "title": "How to quickly deploy TinyML on MCUs",
+      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
+      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
+          "width": 470,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
+      "title": "Designing next generation analog chipsets for AI applications",
+      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
+          "width": 1000,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "publishedDateTime": "2022-07-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031.md",
+      "title": "Artificial Intelligence in Robotics Market is Set to Experience a Significant Growth of 28% CAGR from 2022 To 2031",
+      "excerpt": "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period (2022 – 2031). Artificial intelligence (AI) and robotics prove to be a powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-microsoft-is-scrapping-some-bad-ai-facial-recognition-tools.md",
+      "title": "Microsoft Is Scrapping Some Bad A.I. Facial Recognition Tools",
+      "excerpt": "As an outspoken proponent to properly regulate facial recognition technology, Microsoft﻿ announced it would get rid of its A.I. tools in this space. The tech giant is ending its role in the potential for facial recognition technology abuse,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
+      "originalUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/1139859542/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/",
+      "publishedDateTime": "2022-07-05T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-20-year-indian-students-machine-learning-software-to-be-sent-to-space.md",
       "title": "20 Year Indian Student’s Machine Learning Software To Be Sent To Space",
       "excerpt": "A student from India studying in the Nanyang Technological University (NTU) in Singapore, has developed a machine learning software along with his team consisting of 4 other students from the same institution.",
@@ -222,6 +542,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
+      "title": "Voice And Speech Recognition Software Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
+      "excerpt": "The \" Voice And Speech Recognition Software Market Research Report \" and Industry Analysis examine the Voice And Speech Recognition Software industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -756,364 +1129,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-employee-experience-automation-human-ai-care-for-your-workforce.md",
-      "title": "Employee experience automation: Human-AI care for your workforce",
-      "excerpt": "Apps for AI-enabled automation are for more than customer support and engagement. They offer value for many people-management activities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
-      "originalUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
-      "publishedDateTime": "2022-07-03T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
-      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
-      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
-      "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
-      "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
-      "originalUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
-      "publishedDateTime": "2022-07-03T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-an-ai-model-predicted-crime-in-us-cities-a-week-before-it-happened-it-was-right-nine-times-out-of-10.md",
-      "title": "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10.",
-      "excerpt": "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7",
-      "originalUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62c02a18ada84d0019b7dd7f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-predicts-crime-us-nine-times-out-of-ten-2022-7?amp",
-      "publishedDateTime": "2022-07-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
-      "title": "AdvisorNet Financial Inc Has $37,000 Holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
-      "excerpt": "AdvisorNet Financial Inc lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 44.2% in the 1st quarter, according to the company in its most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "originalUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks5.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "publishedDateTime": "2022-07-03T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for a Bull Run",
-      "excerpt": "Nvidia is a semiconductor leader with an expanding presence in the AI chip space. The AI chip market could be worth an estimated $195 billion by 2030. You’re reading a free article with opinions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/07/03/2-top-ai-stocks-for-a-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2022/07/03/2-top-ai-stocks-for-a-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/688001/gettyimages-1145585734.jpg",
-          "width": 2190,
-          "height": 1369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
-      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
-      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought.md",
-      "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
-      "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
-      "sourceUrl": null,
-      "webUrl": "https://billingsgazette.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_51e7afa4-9abb-5e2c-baa9-76f4f2f44876.html",
-      "originalUrl": "https://billingsgazette.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_51e7afa4-9abb-5e2c-baa9-76f4f2f44876.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/5/1e/51e7afa4-9abb-5e2c-baa9-76f4f2f44876/62bc9ad69561a.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
-          "width": 610,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Billings Gazette",
-        "domain": "billingsgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

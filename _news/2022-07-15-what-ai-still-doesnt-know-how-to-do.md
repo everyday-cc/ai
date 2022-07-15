@@ -2,10 +2,15 @@
 category: news
 title: "What AI Still Doesn’t Know How To Do"
 excerpt: "Large language models like LaMDA or San Francisco-based Open AI’s rival GPT-3 are remarkably good at generating coherent, convincing writing and conversations—convincing enough to fool the engineer. But they use a relatively simple technique to do it ..."
-publishedDateTime: 2022-07-15T13:23:00Z
-originalUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-webUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
+publishedDateTime: 2022-07-15T15:20:00Z
+originalUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316?mod=hp_listb_pos1"
+webUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316?mod=hp_listb_pos1"
+ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Wall Street Journal
@@ -18,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "A25RjexsuYmcxYHwYmbl1yr49sOMd9eqeCpcR7JmB7bnogceksi2ZzUqk2uOVPWHG0DyCe5nqV5Fs+kLs1UwsXeulsIblVhseETR6A1UTvQpz4NP/+W1FBmRRqjPa4ZO/GIgzsmGjafjXK+tiwoXxYLoWdMtjtlEe+r6rVEnmRVJAkp+KxZV1beYxK5fEBKtI17wkCPflVkEQboDUI4ACoVCGfkrBTcd5jBRH5wPIhu+Jb4Tdwt+xXQe24bKdZdwIdmFdOsXCy32E6rhavhcabDc5Q6Fp78DQoo3LD5bhfYH6jCjAG44fYztdgjM23kkIF0RCm/czjJL37/AFgdy7hS8sRQiIOW17b/ahxpG813loN+ybqobf3+ldkUyH+rM8OHMQeciSd2yAVNejMJ7m6FnA51ptVLQl5ixxu/VptzR4rh1N7n7rFpSYTPjb4+XpoR5lSndnKMxQZHQQafGp3iN3JKEK+3TwwgOgEdg/cvStY16w7/rtOqVh+EY8CGZ+VxbQ9Is9HcjQjdEzctaEg==;rFsoa6UFphsyIM6tDEp/fg=="
+images:
+  - url: "https://images.wsj.net/im-582826/social"
+    width: 1279
+    height: 640
+    isCached: true
+
+secured: "8LZbV9e2T5/6b3wofF909JSFnsqdzMPOOLpS07bJAuJgNIb5jOc+MDv81k5jqqoS06TnWRprIGdpYbDAlHGe3B8YGi4bQtUvuQ+jQQryMnhbNnE/dZ8RtX7M0vuNPcv1Y/pHf80kfdWRJgfWTUfNUdQJ0RZO20qkrWSIxmmtlfLNKRYopgNaCs4QEiZjcyQAIqjHHZNuadmHso93fUly5H16hCAtiKpvxmULgFoBvjeClVXfmH0xdjtaifWhGG/pM9k7hSVAxz30bTHz4akCU/b4nm8/zTOY+t72uwN/aDnxL0QrpRAS5PMBGFquNCIarM/poudLR3nUAYQDH9rJqNIspbLWcJ4NTirnDJAH3xA=;wHfXF79ZwkuyEmrqXCe2Ug=="
 ---
 

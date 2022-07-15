@@ -42,20 +42,13 @@ related:
         isCached: true
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
-    publishedDateTime: 2022-07-15T10:40:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207932-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/health-resources/latest-health-news.asp"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/health-resources/latest-health-news.asp"
+    publishedDateTime: 2022-07-15T10:39:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207931-1.htm"
     type: article
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 54
-    images:
-      - url: "https://www.medindia.net/health-images/7-tips-on-staying-safe-after-a-hurricane.jpg"
-        width: 300
-        height: 250
-        isCached: true
+    quality: 14
 
 secured: "XxZ7QajVsGsa0DWcQXGuqh1b1vyCXYlWIBGkuwu2QZeI2gtWpKcivsez5hx04+Cw5Fs/76iLHVeX6bYEDCQI2gxhp4LrIiA5uFr+qT7oKLurVqEeLs59TQCx37jsEB+kHKnx19EoQJK127cNozh6puWhkbyhJK5meyme95vvj9xfmfUYxgxnPYfYFBKQVmtoHsmq/024+ELEW6HSw1EW1XD1OnNQlsj2XyhMB+a0orUj6VjA/2MyUJa9utFyp4xUoQ+SWbWslg0bLFQ6Sa3bpKLgZ2e3QSLbkR17MiNh2oUGYVRa9QlxZks4qKTJcJTf15K1N84eGiyZT0GcF+d3WmiKrdvVeqSafUsMMDiIIhs=;6Orb9k7DoPaLRnjw50SaBg=="
 ---

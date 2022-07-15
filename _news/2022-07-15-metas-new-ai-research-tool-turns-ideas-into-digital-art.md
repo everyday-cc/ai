@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T10:05:00Z
 originalUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
 webUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -14,6 +17,33 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Meta's Make-A-Scene uses AI to create digital imagery from text"
+    excerpt: "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches"
+    publishedDateTime: 2022-07-15T08:43:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 59
+    images:
+      - url: "https://www.businessinsider.in/thumb/92899003.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
+  - title: "Tech firms slug it out to create ultimate AI translator"
+    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models."
+    publishedDateTime: 2022-07-13T07:09:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/tech-firms-slug-it-out-to-create-ultimate-ai-translator-68ae0347-0d3e-49df-b35f-0e0605c3a04f"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 19
 
 secured: "DKKFaQx3lGrtD2n5lKTuCgAPf+esWZjWk/SOszYRfJovE25lck+S7D8NUyOig5JFfLvgCNjOXx6t17ozl3PrjFPnVKlxcC45XJwuutnoE0yvzeJmPKhjK28wCEUzf3bLaoimLvXzWIXlmK5/dJoIwbD9fQD8Og7Ez6GaMTu31F7yJhIpKMuk8Z8a6WyTjSA3EM5dRahjyYpYDdV0PZzKC5zZf2YnnDaWUBizjVw+I5+j8TW35eOZ9pHJkJuPNBPJb0B0r/yLveEhi5/BGjSPXC1K4/ctVF+9GxH5VYBjzCLA09FtnO/+dDm5Dn/U/KaVzSi+6U4PxphBmqcWugnsYG4ATZ02G8Wv8s0IFvRgXDj/mxgEi8fXlgOu8F/uErgXwbhrSWo22rtZOmKacnDuwIRSfNTUo+s672SmmChhrvAhU5pTL5DUx9wt5/P5jXZBVVUQfF6FlUYSAMJZA2v2XhnjegkuzHySaqREVmo7Mf+2MeVNtZYuTuVGsyQ410efdVs2f2cwkR/xm+MK6k3O6g==;Xb4/jJOtZ5H9fICqHG/Gkg=="
 ---

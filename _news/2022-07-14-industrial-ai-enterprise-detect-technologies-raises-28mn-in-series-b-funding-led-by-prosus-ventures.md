@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chennai- based AI startup Detect Technologies raises USD 28 Mn"
+    excerpt: "Chennai- based startup will utilise the fresh capital to further expand and strengthen its sales and operations across international markets"
+    publishedDateTime: 2022-07-15T10:26:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-detect-technologies-raises-usd-28-mn/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
 
 secured: "8UAf01VhnsTdOTQatZj7uKTRY/UtkMLSD98LTNwYHGR8rHpuMq4JupBjFenCKyH1HHe47bhBmXotoynmrfyz12X9w7y5uV96tXo10AphKO1CyjxH2RLydv6BYNhbUYCXvKDIUlL87/k+u30Vc5K42XODTiYqE8KW6O28zus7dw8kqN9nZWX+kvTeKBnaSn3FRgw1y86UfG8NZagjHfLc9gh/Mu5HXKxB2OpiBuuL6Nm2CK/o0usXBbJkK+CPCetpCRIRCjkIBMlInHaUS66u8lHas4uJ76CormOiL7sfm1JqJG6eyqH0fcHC2VZRwbVbbeElwOc0JRB6COHc79VA0DrEWrra3CFuyuKUg/o1YnMlGofkcTzPZ3zYhVnCm2zqQOYwDLStzbcCyWDl+vAzR2e1TVijVuOC4Z2hV6xV7uw/nK+QvI72+/3d8zg1DjV4fwUBKv/lPsrOE4O8otkLQWcrBoOKrtMqrU2vpMTyMJTgCthYj8FVIVTIseiFw+toyxuK6ZXCScYd5HhfqfWo8A==;g/+t+kfBxU26X66xmIGpWQ=="
 ---

@@ -84,6 +84,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The future of cars: How AI integration is changing the automotive industry"
+    excerpt: "Estimated reading time: 0 minutes A natural next step for the automotive industry is the heightened integration of artificial intelligence ... Alphabet (with Waymo), and Ford are competing ..."
+    publishedDateTime: 2022-07-15T15:11:00Z
+    webUrl: "https://techaeris.com/2022/07/15/the-future-of-cars-how-ai-integration-is-changing-the-automotive-industry/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 37
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2022/07/Tesla-automotive-industry-min.jpg"
+        width: 1170
+        height: 724
+        isCached: true
 
 secured: "1GNXRpt9r4cDIr+ZNfGjj6Upg5tqGPUt427Q0sL4faWVnSDRa9xyZiHEbxS5bhxOYR6GqPIRGOAHvGyK5pcB6U19VRat1kd4ediJVXqCLyrmPzRyLGwhnh4quuUMWhAgF177Zox7HKcVVnp4x5mIvQ0+5jErPXS5s5LqkIVIBzZ/svg4EXqz7YdZoGZoHUm3IAZ2s7/l6b+s45xrL0qhnQgVtbxpBK2t8dvOOtTBWCFS5irPixsC4Aqu0bcHE+oN+mgMcqPRb+ndmFzj+M8ecgP1t57e0tM3N8CN/dD9i7+hLE/IfvLWVR6jutjiSrSKoXSviAO1Wq6hS0rE87lJmMp6s80R3BTwHR83G2tINmnXtEBM8XsG0J0QaM3eCkoHzFPIvJWdeJSmhgGlzlCjqzRoh+E9zeX22b3Z0VB83AkXVT5rMDzPAFPnlGiNSrEwc6exyYGsmXbLXTH1wZrADi1sbDWxW3YfbmwGIBk3gWugdYSN62LOWKNORAQojk9C3P9J5wBm5CiJw5AMNu++cQ==;CuRemKOiberGib/6D9lgvA=="
 ---

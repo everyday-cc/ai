@@ -2,6 +2,304 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-14-this-ai-image-generator-lets-you-type-in-words-and-get-weird-pictures-back.md",
+      "title": "This AI image generator lets you type in words and get weird pictures back",
+      "excerpt": "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220711163147-craiyon-rainbow-lion-eating-pizza-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "publishedDateTime": "2022-07-14T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched.md",
+      "title": "UAE: First BA Philosophy and Ethics programme in Arab region launched",
+      "excerpt": "Mohamed Bin Zayed University for Humanities has launched a Bachelor of Arts in Philosophy and Ethics degree programme under the College of Arts and Humanities, the first academic offering of its kind in the region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
+      "originalUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=b5885a70-097d-52bb-9b86-ef567ea5a247&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
+      "publishedDateTime": "2022-07-14T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-in-data-centric-ai-its-all-eyes-on-the-data.md",
+      "title": "In Data-Centric AI, It’s All Eyes On The Data",
+      "excerpt": "The data and the results are fed into a neural network. The neural network then generates a model to connect said d",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61950a7915fa72dc11db736c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/",
+      "publishedDateTime": "2022-07-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-bobidi-launches-to-reward-developers-for-testing-companies-ai-models.md",
+      "title": "Bobidi launches to reward developers for testing companies’ AI models",
+      "excerpt": "Bobidi, a new platform that rewards developers for testing companies' AI models, has raised $5.5 million in seed funding from investors",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/",
+      "originalUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?w=1024",
+          "width": 1024,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/",
+      "publishedDateTime": "2022-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-the-new-saudi-arabia-vision-2030-and-ai.md",
+      "title": "The New Saudi Arabia - Vision 2030 and AI",
+      "excerpt": "While the media focuses on the negative news to grab your attention, the world is rapidly improving. One of the pockets of this positive change is Saudi Arabia which recently committed spending about 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cd42f5538f696829f09d7e/0x0.jpg?format=jpg&crop=1710,1140,x0,y170,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/amp/",
+      "publishedDateTime": "2022-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-a-case-study-on-how-to-succeed-as-a-deep-tech-start-up.md",
+      "title": "A Case Study On How To Succeed As A Deep Tech Start-Up",
+      "excerpt": "No problem is too complicated that software cannot solve, either now or in the future. So why not focus on solving the world's biggest problems? That's the promise of Deep Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
+      "originalUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cf0d03b5d34c2eec4c2945/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
+      "publishedDateTime": "2022-07-13T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-juniper-networks-infuses-ai-to-pump-up-automation-capabilities.md",
       "title": "Juniper Networks infuses AI to pump up automation capabilities",
       "excerpt": "Juniper Networks' most recent set of announcements builds on current capabilities and advances its “Experience-First Networking” vision.",
@@ -207,6 +505,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages.md",
+      "title": "AI In Computer Vision Market Worth USD 43620 Mn by 2028 at CAGR of 26.5% – Report Spread across 100 Pages",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 13, 2022 (The Expresswire) -- [100 Pages] \"AI In Computer Vision Market\" Insights 2022 By Types ( Hardware Software), Applications ( Healthcare Automotive Agriculture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-selfie-scraping-clearview-ai-hit-with-another-20m-ban-order-in-europe.md",
       "title": "Selfie scraping Clearview AI hit with another €20M ban order in Europe",
       "excerpt": "Clearview AI has been hit with another sanction for breaching European privacy rules. The Athens-based Hellenic data protection authority has fined the controversial facial recognition firm €20 million and banned it from collecting and processing the personal data of people living in Greece.",
@@ -362,7 +712,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -413,7 +763,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -802,7 +1152,7 @@
       "originalUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -886,326 +1236,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.md",
-      "title": "Internal Affairs lawfully allowed to access facial recognition system to verify identities - Waka Kotahi NZTA",
-      "excerpt": "Drivers' licence photos will not be run through the One Time Identity facial recognition system unless a person chooses it, the Transport Agency says. Waka Kotahi has created an interface with the OTI system being developed since 2019 by the Department of Internal Affairs (DIA),",
-      "sourceUrl": null,
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
-      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta/_jcr_content/par/image.dynimg.768.q75.jpg/v1657703692827/facial-recognition-GETTY-IMAGES-130722.jpg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
-      "publishedDateTime": "2022-07-13T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-intel-rolls-out-open-source-ai-reference-kits-for-enterprises.md",
-      "title": "Intel rolls out Open Source AI Reference Kits for enterprises",
-      "excerpt": "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads.md",
-      "title": "Australia’s Sydney To Use AI Technology To Smooth Bumpy Roads",
-      "excerpt": "The Australian state of New South Wales (NSW) has announced a new AI (artificial intelligence) technology that is set to automate and revolutionise the way the state's roads are maintained and repaired.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/",
-      "originalUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/07/Collage-Maker-13-Jul-2022-12.44-PM.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/",
-      "publishedDateTime": "2022-07-12T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
-      "title": "Top 10 causes of stalled AI/ML projects",
-      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
-      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
-          "width": 797,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
-      "publishedDateTime": "2022-07-12T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
-      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
-      "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "The Brains: How to Leverage AI in Influencer Marketing",
-      "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
-      "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
-      "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "originalUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
-          "width": 716,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "publishedDateTime": "2022-07-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Google AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-hea
 webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "More job candidates are lying and cheating in their interviews. Employers are using artificial intelligence to catch them."
-    excerpt: "Candidate fraud is increasing as remote hiring and a labor shortage have fueled opportunities for dishonesty on the part of applicants."
-    publishedDateTime: 2022-07-14T10:00:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-can-catch-fraudulent-cheating-job-candidates-in-tech-2022-6"
+  - title: "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence"
+    excerpt: "The collaboration will support Anumana’s efforts to implement AI-enabled diagnostic software that can detect signals from ECGs that humans cannot interpret. The collaboration will initially focus on cardiovascular diseases."
+    publishedDateTime: 2022-07-13T12:47:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 17
     images:
-      - url: "https://i.insider.com/62cefde2b0ab4f0018538393?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Here are the skills and certifications you need to land a job in the hot AI and machine-learning markets that can pay up to $160,000"
-    excerpt: "But many companies may be tied to Amazon Web Services or Microsoft Azure, and knowledge of those AI tools will be necessary to handle immense amounts of data. Certifications like those for Amazon Web Services' machine-learning specialty cover how to handle ..."
-    publishedDateTime: 2022-07-15T11:14:00Z
-    webUrl: "https://www.businessinsider.com/machine-learning-experts-earn-160000-skills-amazon-meta-google-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/62cf1c90b0ab4f0018538ed4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "j8zzYy28DG3Cfds1hzH3MTYD66hp+viISdNJ64ZGRrJDe7XMQW7MH5ablDuVmLusXKRzdvmUyf+tNZxzEkXymzcWHhoce+gjNwG8EHQet7z565NcyKVtGi4FHJlDLrQcxheGPzgZf4Y6AbIeYprygLeVx70CLdYw4pUCR4L8RMRAWvDrhn74zoQTekZM6HBgfAyIIhr7mKx3zIYaNTGmipOXMsRvAKUodKyFthLj2ztXfZbEYwS87OeLb4uMjOVlesEmTyOvfdHZy0CPj6YRgtKGJRXqfslgIDQobulnZ+Q9tXbxcDKb49B/TTjROtDBPksQTzrzTUoXxgHPlq+S1l6MMk0gt3BuZU6SXhVZWHk=;WHpGaGQ7c1Fdn1fATHFLag=="

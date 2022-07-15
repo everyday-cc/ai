@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-15-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
+      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
+      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers. © 2022 Fortune Media IP Limited. All Rights Reserved. Use ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "originalUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "publishedDateTime": "2022-07-15T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning.md",
       "title": "University of Washington: First wireless earbuds that clear up calls using deep learning",
       "excerpt": "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations.This experience inspired three University of Washington researchers,",
@@ -1301,62 +1353,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
-      "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
-      "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "publishedDateTime": "2022-06-29T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Hardware",
         "Machine Learning"
       ]
     }

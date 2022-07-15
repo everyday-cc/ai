@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "FDA clears Eko’s AI for detecting heart disease"
-    excerpt: "Eko announced today that it received FDA clearance for its Eko Murmur Analysis Software (EMAS) for adult and pediatric patients. The next generation of Eko’s murmur detection capabilities, EMAS represents the first and only smart stethoscope on the market that can identify and differentiate between innocent and structural heart murmurs indicative of valvular heart disease."
-    publishedDateTime: 2022-07-12T17:48:00Z
-    webUrl: "https://www.massdevice.com/fda-eko-ai-heart-disease/"
+  - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
+    excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
+    publishedDateTime: 2022-07-12T14:57:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 19
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "TbKUtrqenMbQtliMz8ERomnRrpxBX8c7s6vX45TnsUt3rx/7Ofp3XacJ4Mvft5C8+ImZfa3p7OtVGctmZthLgXK37W5E8CDTBiPdk0RRrYNJSU+MHXFYJW790UXgyCPUd98cFqLucVBegiHBauGQJuuXkP5Zd7GG9dVY6RU8WEZIOpvWcMfMzobKOltZPR20xFvDTtTTT8rmhfmb91uuNS6P1NSM3frREag52onmsWkEMYEo7PaHPjwjphY7sWyBHY7C7LNMLlDoSyvS8ulxXkhgiY+W7jcjH2EEReR4lN0eMUAIY6gMdHh7hgaSCs63TlUjMY59UG8X6n99nYBUjJs701Vw0enYOmzHj9FcYvn8VIgcPw1WxeyNp7h3uLZGKYQdmQY2jtLzRb1lEvBt9mjOzw+R5/LNydiYhAIrZ3WQ4iL3dJ0T5kA4TGERzXIFQeCZCY811OfsdUpjGjzgKWUC5jMSxQoKGTwXboyWyvFTPxEaOMQsUKvLWcj7eEB8SxwxfQ6He3+GJ7qtNPE0uQ==;LdtzTmUZfdjqI0bo9j48LA=="
 ---

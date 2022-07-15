@@ -2,21 +2,64 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-12-artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029.md",
-      "title": "Artificial Intelligence In Military Market Size, Share, Trend, Manufacturing Cost Analysis, Sales and CAGR Value and Future Outlook 2029",
-      "excerpt": "The Artificial Intelligence In Military Market (2022-2029) Research reports provide detailed information on current",
+      "path": "_news/2022-07-13-internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.md",
+      "title": "Internal Affairs lawfully allowed to access facial recognition system to verify identities - Waka Kotahi NZTA",
+      "excerpt": "Drivers' licence photos will not be run through the One Time Identity facial recognition system unless a person chooses it, the Transport Agency says. Waka Kotahi has created an interface with the OTI system being developed since 2019 by the Department of Internal Affairs (DIA),",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12",
+      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
+      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta/_jcr_content/par/image.dynimg.768.q75.jpg/v1657703692827/facial-recognition-GETTY-IMAGES-130722.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
+      "publishedDateTime": "2022-07-13T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-intel-rolls-out-open-source-ai-reference-kits-for-enterprises.md",
+      "title": "Intel rolls out Open Source AI Reference Kits for enterprises",
+      "excerpt": "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +69,238 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T04:01:00-07:00",
+      "publishedDateTime": "2022-07-13T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads.md",
+      "title": "Australia’s Sydney To Use AI Technology To Smooth Bumpy Roads",
+      "excerpt": "The Australian state of New South Wales (NSW) has announced a new AI (artificial intelligence) technology that is set to automate and revolutionise the way the state's roads are maintained and repaired.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/",
+      "originalUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/07/Collage-Maker-13-Jul-2022-12.44-PM.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/",
+      "publishedDateTime": "2022-07-12T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
+      "title": "Top 10 causes of stalled AI/ML projects",
+      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
+          "width": 797,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "publishedDateTime": "2022-07-12T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
+      "title": "The Brains: How to Leverage AI in Influencer Marketing",
+      "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
+      "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
+      "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +317,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Healthcare",
+        "Google AI"
       ]
     },
     {
@@ -104,7 +372,7 @@
       "originalUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -768,6 +1036,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-12-bowdoin-college-to-offer-ai-ethics-course-in-2023.md",
+      "title": "Bowdoin College to Offer A.I. Ethics Course in 2023",
+      "excerpt": "A private liberal arts college in Maine is working with a North Carolina nonprofit on a course about responsible use of artificial intelligence, including related media and unintended consequences in the job market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/8866f9f/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F97%2F45%2Ff1838f9c45d6b639399db0b5b014%2Fbowdoin-college.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true",
+      "publishedDateTime": "2022-07-11T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-argo-ai-lays-off-150-closes-washington-dc-operation.md",
       "title": "Argo AI lays off 150, closes Washington D.C. operation",
       "excerpt": "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success.",
@@ -850,340 +1161,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-3-discounted-fintech-stocks-to-buy-now-and-never-sell.md",
-      "title": "3 Discounted Fintech Stocks To Buy Now and Never Sell",
-      "excerpt": "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
-      "originalUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
-      "publishedDateTime": "2022-07-11T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-can-ai-be-a-force-for-good-in-improving-diversity-in-hiring.md",
-      "title": "Can AI Be A Force For Good In Improving Diversity In Hiring?",
-      "excerpt": "Khyati Sundaram is the CEO and Chairperson of Applied. Founded in 2016, Applied’s mission is to be the essential platform for unbiased hiring. Throughout the company’s history, Applied has been hesitant to use machine learning on its platform — until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cb9115280693e6b441015a/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
-      "publishedDateTime": "2022-07-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go.md",
-      "title": "PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go",
-      "excerpt": "PayTalk, a new app accepted into the first Black Founders Build with Alexa Program, aims to allow users to conduct all sorts of transactions with voice commands",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
-      "originalUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GIMROH_q0po/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
-      "publishedDateTime": "2022-07-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-is-sentient-ai-upon-us.md",
-      "title": "Is Sentient AI Upon Us?",
-      "excerpt": "Many people would say animals are sentient because they exhibit emotions like joy, sadness, fear and love. We also know that some animals have more complex emotions than others; animals such as elephants are known to mourn their dead relatives in ways we find familiar enough to call grieving “mourning” ourselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83a13fef1dee7d35374c5/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
-      "publishedDateTime": "2022-07-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
-      "title": "The 35+ Best Amazon Prime Day 2022 Deals",
-      "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2022/07/early-prime-day-2048px-3x2-v6.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "publishedDateTime": "2022-07-11T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-chip-subsidies-are-popular-in-congress-they-still-might-fail.md",
-      "title": "Chip subsidies are popular in Congress. They still might fail.",
-      "excerpt": "The Democrats have an ambitious legislative agenda following the July recess. Chip subsidies hang in the balance, and Sen. Mitch McConnell wants Democrats to stay focused on them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/policy/congress-usica-deal",
-      "originalUrl": "https://www.protocol.com/policy/congress-usica-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/chips.jpg?id=27984646&width=1500&coordinates=1136%2C0%2C1136%2C0&height=2000",
-          "width": 1500,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/congress-usica-deal-2657637793",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/congress-usica-deal-2657637793",
-      "publishedDateTime": "2022-07-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service.md",
-      "title": "How Human And AI Agents Can Work Together To Deliver Great Customer Service",
-      "excerpt": "Exceptional customer service can create fans for life. By offering the right solution at the right time, your company can build trust and reinforces why your customer came to you in the first place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c829a82932cea6fe4f8ad8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/how-human-and-ai-agents-can-work-together-to-deliver-great-customer-service/amp/",
-      "publishedDateTime": "2022-07-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

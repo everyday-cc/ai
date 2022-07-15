@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider India
@@ -36,7 +36,16 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 19
+  - title: "Meta's New AI Research Tool Turns Ideas Into Digital Art"
+    excerpt: "New Delhi, July 15 (IANS) Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches to generate ..."
+    publishedDateTime: 2022-07-15T10:05:00Z
+    webUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
-secured: "GIq6YH/ZLbPkzteoO7WqAtGl7sagekOFLPupWXDGb/cmDp39NxS1mPnOfUhctATNOU2h9Czi2fn6AYJYKpg5NLz2EBCvkFxq2vSBz10CBLmjq/+FbEQNTaMTP47Od/vWMHo+eiGPNJDJNzIbw2FLXh6PB7K8IypUZXmMOI1NhCvLcuhwLpYsb3BuNH4sH15D30ltymOudB8I6grN27PUf00VYyj1vWTKFcY579E4xjr8ZU2EyajHfOe+Nzs9kmQyxnxb2vOwQF8ITBX6zy8MFezG/+J0BvzJJW3htH0cTo1X66w+mIfKoezOwnX0NQOM0hKY+iMTbb5pG3eySR7b0eyYobuBj3OxhQEuPEhTJY4=;KIyNTi433QoCCaqMAKFEkA=="
+secured: "hKYBFD0/KmFPua7KLHotQE8/IyH3sDKOwrqligr6KzyxhAi2LuP32i0QagTNTMLzzRoBJB97qbCrMWMUBS+sEBKbZi/Yrzxv/DkudiHCULcXREdcKksfIbHcoDMvV8Uwe1xKB9U9ZFlirZnXF9nHlF6/bvOQisqLwc+Onyr0+kp+viWFpVuaGHZR+OLqv0NFX+yQAM4K4w1UpYhWcLucQnPuTda6Bm3plasiOl7JxduSL9dWYBBTyukvxTiKhQepwXCEoYtB6sEwNXSyybuIrgl5pF8W7Upse3Wx+TPjdO25cxTGMU9OT8Xvdzn74tEaKeMnh8y5OkZR9gx+knhYH5ZXyVpbxknCB6/RWa77Z2iuKUCAj/AJh74n+UFtNOJNh+H/7hGDDcTzF9a4+t5x1/loo7ljeGKFtHbg7jUzwwUhUa/+0qgcPRrcMEmcBNXvgskTWAe79e7hemsupTMz0qZ2AvXgCyVgmc3xiWGdkR1oRar64WPrG0y1yHPG/Eq90t4EFvDeffNbExuF/rCO8A==;SYtCOvZbZdZ93YkGqs0Ttw=="
 ---
 

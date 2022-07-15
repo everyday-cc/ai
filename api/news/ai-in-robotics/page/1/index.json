@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-15-gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics.md",
+      "title": "Gain insight from HAX robotics founders at TC Sessions: Robotics",
+      "excerpt": "We’re fired up and ready to connect with the global robotics and AI community at TC Sessions ... and if you’re interested in raising funds for your startup — and what early-stage startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x6281.png?w=1024",
+          "width": 1022,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-07-15T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots-humans.md",
       "title": "Are We Getting The Best Out Of Our Bots? Co-Intelligence Between Robots & Humans",
       "excerpt": "When inflation is soaring, utility bills are hitting record heights and job vacancies far outstrip the number of people seeking work, it’s tempting to see technology as the solution. But after over two years of reduced human contact are we starting to see a thirst for human contact?",
@@ -253,7 +305,7 @@
       "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1327,49 +1379,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art.md",
-      "title": "Vladimir Suvorov: ‘Artificial Intelligence Will Have its Place in Art.’",
-      "excerpt": "I met Vladimir Suvorov, the founder of Van Der Bot, at the Armenia Art Fair of Contemporary Art, held in the end of May. What he presented was beyond imagination — a contemporary robot artist named Van Der Bot,",
-      "sourceUrl": null,
-      "webUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
-      "originalUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mirrorspectator.com/wp-content/uploads/2022/07/Artsvi-e1656685306566.jpeg",
-          "width": 300,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armenian Mirror-Spectator",
-        "domain": "mirrorspectator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

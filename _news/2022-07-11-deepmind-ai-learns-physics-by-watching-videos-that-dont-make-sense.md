@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DeepMind’s latest research at ICML 2022"
+    excerpt: "Starting this weekend, the thirty-ninth International Conference on Machine Learning (ICML 2022) is meeting from 17-23 July, 2022 at the Baltimore Convention Center in Maryland, USA, and will be running as a hybrid event. Researchers working across artificial intelligence, data science, machine vision,"
+    publishedDateTime: 2022-07-15T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-icml-2022"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "DeepMind AI learns simple physics like a baby"
     excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
     publishedDateTime: 2022-07-11T20:53:00Z

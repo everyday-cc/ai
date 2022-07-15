@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T12:15:00Z
 originalUrl: "https://menafn.com/1104536772/China-Firms-Packing-More-AI-Into-Their-Biz-Models"
 webUrl: "https://menafn.com/1104536772/China-Firms-Packing-More-AI-Into-Their-Biz-Models"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

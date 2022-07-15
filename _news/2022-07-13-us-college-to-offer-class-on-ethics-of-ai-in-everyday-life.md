@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "That everyday AI in your pocket"
-    excerpt: "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos."
-    publishedDateTime: 2022-07-10T22:38:00Z
-    webUrl: "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107"
-    ampWebUrl: "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107"
+  - title: "Bowdoin College to Offer A.I. Ethics Course in 2023"
+    excerpt: "A private liberal arts college in Maine is working with a North Carolina nonprofit on a course about responsible use of artificial intelligence, including related media and unintended consequences in the job market."
+    publishedDateTime: 2022-07-11T17:10:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Jul/1657492588_new-project-2022-07-11t040527-511.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "New AI tools let you chat with your dead relatives"
-    excerpt: "New products that let people keep relatives \"alive\" via AI are proliferating — offering, say, an interactive conversation with a recently departed dad who took the time to record a video interview before he passed."
-    publishedDateTime: 2022-07-13T09:30:00Z
-    webUrl: "https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/KU-CB1TD-lo7uyFlk9xBQleN6oI=/1366x768/smart/2022/07/12/1657650580838.jpg"
-        width: 1366
-        height: 768
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8866f9f/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F97%2F45%2Ff1838f9c45d6b639399db0b5b014%2Fbowdoin-college.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Bowdoin College to offer class on ethics of AI in everyday life"
     excerpt: "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development."

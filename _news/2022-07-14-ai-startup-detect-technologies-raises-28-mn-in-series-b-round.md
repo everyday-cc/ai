@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-ra
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
 type: article
 quality: 57
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chennai- based AI startup Detect Technologies raises USD 28 Mn"
+    excerpt: "Chennai- based startup will utilise the fresh capital to further expand and strengthen its sales and operations across international markets"
+    publishedDateTime: 2022-07-15T10:26:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-detect-technologies-raises-usd-28-mn/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
 
 secured: "G0PlvmFNj9a2l8SoK6KTIH7ahun4CSQXVhLwd+X28vOl1JDIoA1EuGy1jbTmNfrZ/i04UjpJTcStza3Pog5unlSwGKrVf2e0kuikkVuJqCxKdTrTxee6Xe5/C3v7SYYkBVxHxNsZNMe5DCeMtbC6rRzhPdUyj9w07mC2dtZZw2xfLMwkxbeBBUT1egXeWYv1r+KI4mOhc8dG4y71VAErMexm9lfB5Wx7dWA8QFbp8Q9uuO7J5/okFuNO1QX0jFBZXqeAiXiPhuxG5KxnbMp1OD7Uhk44r32GtEDh9Ig+nKNG2RA9Xe+ORMKf9pjwNO7yrTcZOd135jkURDpPvyBuyFTSCYCXLtuCFc93MRfJumFY8y5FldJYCFeHIk/VoavmXA4p5tupJE8Qzh6jfbW37Pom5URhSuZsIalHvROvtK69YIjpsead0YFDVHXk/V+h0X5u0I/WNv4CqKMkYMoRRYkFMJ5LcSeVjl2yhMDAZP0eepLITML1WkmcoAmixdh1hHlPItH0X9xX3ed/NO33nw==;rjcFyITLpflZrM8aNFtbIA=="
 ---

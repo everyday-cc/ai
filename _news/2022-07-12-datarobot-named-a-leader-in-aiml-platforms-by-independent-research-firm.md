@@ -1,18 +1,18 @@
 ---
 category: news
 title: "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm"
-excerpt: "This report evaluated 15 AI/ML Platform vendors based on 25 criteria. Of the vendors evaluated, DataRobot was one of three leaders, and received the highest score possible in the market approach, performance,"
-publishedDateTime: 2022-07-12T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-476a2b2ab5ce4dd5b759613a7b8e52ac"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-476a2b2ab5ce4dd5b759613a7b8e52ac"
+excerpt: "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ..."
+publishedDateTime: 2022-07-12T15:10:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm"
+webUrl: "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
@@ -34,6 +34,6 @@ related:
         height: 539
         isCached: true
 
-secured: "VZu0sl3n26jX9/xTfYZBLaCM6y/5RuYGfK6BNsNv64N7u/QT7MYDQwQar5JHHue6how7Xa72+Xm4ZpCYPBbssxGwZqDu4DHv5oJztQAnjwALDuA++39jiBLJRCJq8Tn9IkAoCo1JrFJVWCkz5u35xY96jsYXWqwT9YFA9DPIJ+gmm2+hcJdgf1ynUgjOrVm4JI5+bSSCrs8nV3XNoPkuwnvNqkKlW7Z5ufnHrLPOZU7XVC2u8n7/qn9AKrjyMIepM5ShzN0UzcBSctDU6yyodPetDipgQOJ/CGBKARnlryr0oivqCnWO0ildkkx4n3CZOqHPChkjaujnRAt+vVmiQ9w5qJX1It1GCDx+i1Z7RAo=;OCrfEtO2KW7oDsQcQkj6jQ=="
+secured: "CQ+/+lWBqMUkW1B4QKa++gGrYvd+0xaxtJhoFoghfLijNDKeZ3wrY2gUGb5T0HaMMW7qRzQLG7Rl+qpL5ziP2bwgb79kFUTugkliL3XJeuaCXjx33YaFs1o1t1pVlnKPmj+lGsb36Xs81t7sOy1052bWbG7GFko9jlDWTqzwfn+T9FJJZJ9y5va21XAriOT1UkRN6e2abNZbawBc7NO+tqEmfppXGXTp4hG/Rt0o382bzw+OOSRPZ4GOWsi+4WlMDeV4EkAY3yoVlPpkr30WCQ+SRPjxcvuwYWMExgZsmzILhedRNKKrdAW3pZuzzcX8uPsrmyRG5wNJi1Y5ewqdIljpnbvWeogTAihQ8usT9A4=;fC2NPEmHEPErr4dtQfydXw=="
 ---
 

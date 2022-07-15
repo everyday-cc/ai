@@ -3,8 +3,8 @@ category: news
 title: "UK data watchdog investigates whether AI systems show racial bias"
 excerpt: "ICO says AI-driven discrimination can lead to job rejections or being wrongfully denied bank loans or benefit"
 publishedDateTime: 2022-07-14T04:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
-webUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
+originalUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "5HxshaLsvmtAmECORs9y+F+ah0kQbYCxJI3VEmhOtBKBj9Lv51OONccLSqa4HoSYmbqFl+a2x+hAE/Wx0YGPlUdlpl0wMvTOi3CxtCXeC+WUHVgMo67iqN7nzk9lUXInm9vlUDKFhCbkJC6TmcTY2XkXHjTPssP1abdnTAjQTMULvSixP9HBQuBsPy8xwlHfhI+EK39HoNtzi1l7DGgDdHImQiquSUsF8SuZUVgi1lAC9xOY+1hsOjNg8wut31dj/2FiBv0n0w34K/q6vGVGUytPjx22r5+WGXlkY3/1i+HjiljAJhkyQBydWaEt2F7minVjdth+DBdpu+rZSf7bhy0OZRLq3SOD46hxaLd5ib2QsXuY+n8zMMqsS5QNtddo4Mw33hfobHq0/blVOAcrTswelfk57fHoeeOBgx5tNoalRW6Np5ll58uktbtMZlALNfhDM8/VYlTJHJcl9hzQAcUQEWVQ1j/jhI9nb0qxtdRSLj0041jCuxteI+XLxjdpoXnWub7cbeS20dl1fJbbVw==;RHJNOnq0+SNw5RAzeCUTdQ=="
+secured: "ckQCu+24r4DbBt76eWo1ooIN7/HWxAHZ4p94bKVlzFkXEnzlncFIVb/5BUHDFCwzI/CGBWx2A8Kq+omwejJQWv5Uk7HTD1OEVXE5ksDKhE2hAGKhhRsJo9abkbB9ehvIxJcZp+x9m6DHzOn3pIkpwxx/HALbWEPdalyB0GYA+A358fu98Y0g1/KkDeMUYzfYVBKo2lWO0cPUvij4vl9jbGI5HsvRYof31488EiLF+VyNUg6mvDpAEdlXlbD/xeLFugrix1DTU1I3pDAZXE4k98sX4KKJoKBoOHQPZRfqz9Bt9Q0U6iRaCKTF/zn9lPP/Z5v3wZy4aBdkJL4XrggeTtim7jzv5AcgIKu6LKdcwjg=;3GzPQ3hlPj5MiFX0heYidg=="
 ---
 

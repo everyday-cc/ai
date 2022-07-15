@@ -35,6 +35,15 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Meta's New AI Research Tool Turns Ideas Into Digital Art"
+    excerpt: "New Delhi, July 15 (IANS) Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches to generate ..."
+    publishedDateTime: 2022-07-15T10:05:00Z
+    webUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "k3ihYYLGUAgC/Uov2DxMzdFmNrwakxd19RdsVd8MA49lyqYzPehggpmsLEefsc8MknIf37XTWncunIqItlN7SGzpnL95IxX2gD31+DTfVOPAe7aee4xau/E8IGgQGKJy0r+YcFcOqYQu58gjrxad/3AV748yjyfSkIqX5xngXrOi5iPShT936NxZfdr9EWlMdNToYMe2FwD7P47KfoDXFFar83yD3RYKx0/y2uDo30hrk70DUzIWdgx/biP3PQhzigyNsBc62PBJOtCpc6dpendI6NQnKYrf5cgkIiQdWVXlVEbh8KyYRpXv0I0l3vICzj3Jt2SbqQnsAlRsvi2NXrThpX5tp8mbS4iSJndUBUhl9kg0EyArO4Rh9jU54lu0O+dpxFDGQ46uqZjlhAPmcXXxWLDHKOH7tEZj/7KgDJiY7F8AZmg9ziLYgQlSMbQ61OqTERNaSXw5VhDQ36urQ+wObg/DUYYg0rasNEwDy+tyv77YlZUprviyj/duJWSPK3y4yukUvwEno0uFY3XZYA==;xo3LByUZR6//bCdWHYa0Pg=="
 ---

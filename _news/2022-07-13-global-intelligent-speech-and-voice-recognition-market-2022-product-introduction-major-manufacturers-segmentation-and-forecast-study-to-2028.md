@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-12T00:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 5
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
 
 secured: "4bPxm+XzITZTA3Ype/OHKP3ltWQCm1sr+aZw7J5BNfIQt52twKoy8KUlW/qKv74rv6p8RIt9SWHS9t3xCD5Sx4+fNvVIqFtVDRvfbUsje5EYLiBRqyEwld6wy/xFMZcnh+yLlvNkD+FCUomlNfPx7Jf+8v2FVEbGM2Zo0RqIh/Yr4p/UHLnDxb43Z6QW0aRnbmibSXUUMFVAAyp13SSKGQ43oR+haIiOvT/YJURVf0jJyy8eS32feOscjT+tUm2HwEpqm13qA0ZI69Ng1ijQ6KRjW7go5mSDWdRyS9FBSMtxbzuxbH1dhzNUAxPjLE4xm4TaJmj/SbMqcQdy6ZOkTQAcZGeyyVj9xfxsril/l9s=;NOnMYjz9AlLTcYijcgFFzQ=="
 ---

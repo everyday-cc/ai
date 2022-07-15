@@ -35,7 +35,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1657881116/itpro/Dstl-logo_upscale.jpg"
         width: 1260

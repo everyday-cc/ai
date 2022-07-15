@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T13:27:00Z
 originalUrl: "https://www.news-medical.net/news/20220715/Using-AI-to-improve-your-dental-care-and-keep-you-smiling.aspx"
 webUrl: "https://www.news-medical.net/news/20220715/Using-AI-to-improve-your-dental-care-and-keep-you-smiling.aspx"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Inuvo Applying Artificial Intelligence To Digital Marketing"
+    excerpt: "Worldwide digital advertising spend was $521 billion in 2021, forming a lucrative market opportunity for service providers with intelligence on consumer online behavior."
+    publishedDateTime: 2022-07-11T16:07:00Z
+    webUrl: "https://seekingalpha.com/article/4522702-inuvo-applying-artificial-intelligence-to-digital-marketing"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 58
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1335295270/image_1335295270.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "61p6OHjCNs8szItGNOVcKOHoEaWAvYgqI0qsx5WXHf1oy/khuum2i5Nqc8NhJfIl3J/Y5Y7fULuPlwOLpu1Dlg7zFqwg3nRu8SjAKKcR90SwyrovgSIhBbk/dzBIipWsk+HOsSE7wtECV12851qKvWygHdugix63W+kMvrEfYnP0RIBboG1nX6wVcyBJsgpnnwPeHNr58gRuxQr8vgPGenXWGtxAZlkGQpMSct2Jor0II7X5eYxoPYczNw/6iNrcAHUWZeB8vwwDv/mjtqtlvd4b9vokku86gjM6A3S59kQ1dnfEm3xk3AFCg1Mj55kBdgjYVrms1fS/ZSfOZQ7ZXOMaGVWW8TMfX5QEoATbgImRgqcWbkYaUdU0pWi2kkEYJaJL5z5U9Dgg15Td1Miej1rsV2KvNK+cUIWMnaZbMCtoAi0fsrFHFhdq8+/pn5hMf0fDhoGTqcj4J0SRAclBidHoF5f234Y5Aa0ttyGaIWvOMT3iIMgXr44CCQ6hBvzQA4/WrYBAhOeCS2YmlnEw+g==;mL7s4MouZeh7IjmF7jeSwg=="
 ---

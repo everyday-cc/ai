@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-12-bowdoin-college-to-offer-ai-ethics-course-in-2023.md",
+      "title": "Bowdoin College to Offer A.I. Ethics Course in 2023",
+      "excerpt": "A private liberal arts college in Maine is working with a North Carolina nonprofit on a course about responsible use of artificial intelligence, including related media and unintended consequences in the job market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/8866f9f/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F97%2F45%2Ff1838f9c45d6b639399db0b5b014%2Fbowdoin-college.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true",
+      "publishedDateTime": "2022-07-11T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
       "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
       "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
@@ -274,22 +317,13 @@
       "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
       "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_c2c3f12b-d2ca-57e2-ae64-f0a1257c884c.html",
-      "originalUrl": "https://napavalleyregister.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_c2c3f12b-d2ca-57e2-ae64-f0a1257c884c.html",
+      "webUrl": "https://magicvalley.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_19f4f02c-4860-54c1-a05c-d0ccaa004887.html",
+      "originalUrl": "https://magicvalley.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_19f4f02c-4860-54c1-a05c-d0ccaa004887.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/c/2c/c2c3f12b-d2ca-57e2-ae64-f0a1257c884c/62bef10c2f3d4.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -297,8 +331,8 @@
       "publishedDateTime": "2022-07-06T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
+        "name": "Times-News",
+        "domain": "magicvalley.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1378,50 +1412,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

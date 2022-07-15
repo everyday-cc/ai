@@ -50,6 +50,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
+    excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
+    publishedDateTime: 2022-07-15T04:43:00Z
+    webUrl: "https://www.scmp.com/country-reports/country-reports/topics/country-business-reports-company-features/article/3185016"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 49
   - title: "FinTech Global Again Recognizes Earnix as Top AIFinTech100"
     excerpt: "Earnix, a global provider of real-time AI-driven rating, dynamic pricing, product personalization, and fully operationalized telematics solutions for Insurance and Banking, today announced that it has been named in the 2022 AIFinTech100 list by FinTech Global."
     publishedDateTime: 2022-07-12T07:06:00Z
@@ -63,34 +72,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "3 innovative FinTech start-ups in Japan"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-07-11T07:45:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-innovative-fintech-start-ups-in-japan/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_FinTech-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "The future of fintech"
-    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
-    publishedDateTime: 2022-07-13T08:32:00Z
-    webUrl: "https://www.independent.co.uk/news/business/business-reporter/the-future-of-fintech-b2117928.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 24
-    images:
-      - url: "https://static.independent.co.uk/2022/07/07/12/Main%20image%20-%20Kuflink%20-%20iStock-978531552.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Where investors see fintech opportunities during a downturn"
     excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."

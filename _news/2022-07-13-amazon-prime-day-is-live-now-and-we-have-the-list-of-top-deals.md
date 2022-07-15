@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The 40+ Best Early Amazon Prime Day 2022 Deals We’re Seeing So Far"
-    excerpt: "Early Amazon Prime Day 2022 preview sales have begun, and we’re sifting through the duds to find the best deals worth your time."
-    publishedDateTime: 2022-07-10T20:55:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/"
-    ampWebUrl: "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/amp/"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/amp/"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://cdn.thewirecutter.com/wp-content/media/2020/10/noise-cancelling-headphones-update-09-19-lowres-4291.jpg"
-        width: 636
-        height: 424
-        isCached: true
   - title: "The best Amazon Prime Day 2022 robot vacuum deals: Roomba, Samsung Jet Bot, more"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
     publishedDateTime: 2022-07-12T09:17:00Z
@@ -107,15 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The 35+ Best Early Amazon Prime Day 2022 Deals We’re Seeing So Far"
-    excerpt: "Early Amazon Prime Day 2022 preview sales have begun, and we’re sifting through the duds to find the best deals worth your time."
-    publishedDateTime: 2022-07-10T19:56:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/money/early-amazon-prime-day-2022-deals-0710/"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 34
   - title: "The best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2022"
     excerpt: "Amazon Prime Day is the collection of limited-time exclusive sales, discounts and special offers available exclusively to Amazon Prime members. It all kicks off Tuesday at midnigh"
     publishedDateTime: 2022-07-13T12:01:00Z

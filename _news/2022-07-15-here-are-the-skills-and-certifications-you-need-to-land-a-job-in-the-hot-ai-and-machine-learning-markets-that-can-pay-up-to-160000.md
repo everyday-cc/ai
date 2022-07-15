@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-15T11:14:00Z
 originalUrl: "https://www.businessinsider.com/machine-learning-experts-earn-160000-skills-amazon-meta-google-2022-7"
 webUrl: "https://www.businessinsider.com/machine-learning-experts-earn-160000-skills-amazon-meta-google-2022-7"
 type: article
-quality: 40
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
-    excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
-    publishedDateTime: 2022-07-12T14:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "GO9fSONalaTgvrJOqv020CFqsGVOAKQoR/dfR+IV5TsExJlSgL4CK+vs5pS/BufSSi+GP9ea7fq8TYPUkioMwnwYkb61z48NDOk4uLqZQoYKdMfcm23uTcDIFcafUywzWqt04bIqD/a3f5bws9hAHofYltTExaCQkV2Wd7UeM/Zvf+M/AqsairKN7d/+TT+GqQvenAvRW41boQ2bv1ONRcGYadlZMFmRVVmFMYh+8SRhjFj1IlnNUQd22AoM13YR0hoYRzk7BLEx8uSeESZYXT5dje3dHbr2v2syRhP8FrvHXikioum+PTVcwJAPvQrAxf9E5Fc5wI+k7v9xB5NQYLtTDVc1r2BatDgGNO185vt6/YXUdMRIhxAjLkCVXGMSXuwopje5Lx/4/ulZcXCYQrV7uVw9/uY8gACJMNoX6Ych0JgUrJWoapFwWldeTcsE+PmSXxEs8Z8x7fS0pctwl73dNtDylf8mj2ErOV5zZLJHUOnOflum3i+6cWON3kEda2FAHlEm3lsDNQAoYDCqsg==;MoBKG4O4E08D0jDT1kWf8A=="
 ---

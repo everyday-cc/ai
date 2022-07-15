@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s latest research at ICML 2022"
+    excerpt: "Starting this weekend, the thirty-ninth International Conference on Machine Learning (ICML 2022) is meeting from 17-23 July, 2022 at the Baltimore Convention Center in Maryland, USA, and will be running as a hybrid event. Researchers working across artificial intelligence, data science, machine vision,"
+    publishedDateTime: 2022-07-15T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-icml-2022"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "DeepMind AI learns physics by watching videos that don't make sense"
     excerpt: "An algorithm created by AI firm DeepMind can distinguish between videos in which objects obey the laws of physics and ones where they don't"
     publishedDateTime: 2022-07-11T15:00:00Z

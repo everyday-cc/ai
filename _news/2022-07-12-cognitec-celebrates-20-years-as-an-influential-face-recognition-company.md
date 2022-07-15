@@ -238,6 +238,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
+  - title: "A voice of recognition"
+    excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
+    publishedDateTime: 2022-07-15T14:02:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/a-voice-of-recognition/news-story/c0901c504bee2a467f0fbea358c8e631"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
   - title: "Face Recognition Technology Market Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2028 | 3M, NEC Corporation, Aware Inc"
     excerpt: "For example, Amazon Rekognition can break down facial attributes, including state of mind, visual calculation, eyes open or shut, and hair tone. These properties assist clients with arranging a ..."
     publishedDateTime: 2022-07-13T08:15:00Z

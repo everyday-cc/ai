@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The future of cars: How AI integration is changing the automotive industry"
+    excerpt: "Estimated reading time: 0 minutes A natural next step for the automotive industry is the heightened integration of artificial intelligence ... Alphabet (with Waymo), and Ford are competing ..."
+    publishedDateTime: 2022-07-15T15:11:00Z
+    webUrl: "https://techaeris.com/2022/07/15/the-future-of-cars-how-ai-integration-is-changing-the-automotive-industry/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 37
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2022/07/Tesla-automotive-industry-min.jpg"
+        width: 1170
+        height: 724
+        isCached: true
 
 secured: "2iyyI4jXVkHalvJ5AGPdqwz8OfCBm2XItBBUNNHCbfVhIiIN9B/X2K1D08wrw1x5VEIFiI9smQgh2zDYTqS+Z5P09H/AsoFPVqLT5pHCcN+0ukECmhKMW8UrB3a7I9YXXuPbUKMxS9u2ObK9DDF0Z51o2282adb06+88F6kqvXRaD0lhadyhqVMcjIscehl5zh6K4zGa64GMg06n7AbhSPomSmNs/hgzPKd40+57xKBXb+VsPTe4ANss5YswhuZuL1vd5GidWQlCaMfRgJ+EniOnWvdmVsB2ZVpfMrMyCJU+UBu2Andl1mTNJubA8bnzh07rvB1fcKegTnCGEa2oeO62+RZ6zpmQxBhBcSwpnsz/KiabRJbitJD8nb8wJIShbZKRhI9NlX1KkzuSYHseiVcV4bxiZ1rRK1hrb8yRzUgSfQmIHXNV8LIIJwEDrDHZtJ01DoLJoGfPdLOA57Gdi8+xleTIarDdV//LimwVRoX7Fw/tTAAISEH+9y62gwkEBwtzJNooDcjXyszahpjiBg==;DFVFkVJM8RcYO+NKivLiJQ=="
 ---

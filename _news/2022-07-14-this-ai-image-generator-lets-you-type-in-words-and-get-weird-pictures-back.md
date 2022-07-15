@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "UpScaler Introduces AI Text to Image Generator"
+    excerpt: "UpScaler, a company known for its innovative artificial intelligence products, has just launched a new AI text-to-image generator. This"
+    publishedDateTime: 2022-07-15T12:33:00Z
+    webUrl: "https://enterprisetalk.com/news/upscaler-introduces-ai-text-to-image-generator/"
+    ampWebUrl: "https://enterprisetalk.com/news/upscaler-introduces-ai-text-to-image-generator/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/upscaler-introduces-ai-text-to-image-generator/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/UpScaler-Introduces-AI-Text-to-Image-Generator.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "IdRuyOCJV5rxuMpSs8H1IbNMNnZjBpz55ZjSyZLDouvSv2zfgnA8+M7iSwhKetyZyEUUxExb9dJN28jV8/ydPVsIEeS/LcOd0Ro80sd572fLRheo5eX1H3ycxEcUxnpfHg3QP+VgEyBPogyJVIgwMQrs5u+P1d4qQ7sbVld3Tq3rkTOmwBtiGl05zFKMd2Qww2EHEkTYt4GFT2PAF4by5UlD/jo41LGF7+K/w5yEIljU52Smw5aBzW7kwPO4iYhCg0XM6DDUtBS5iDrzyC1wkH2LdJUlMLyG1o2e8zhEqWDJ7sgUp60Oo4pG5WFa6CxMDbenjwNC9Xt1TKBKGIvFd8DC5Q7FTbRpL+SVHCnYLkyIHejBBfI1Eyl+A2a2mebTMJS1h4DoOOJRgnNXAfC1amqvdsElWDX+O4Vl34seSE+AzXx+B85JZB1ueNR2nogaUCuFplQzvWuTp9UkVHwLlG/i2Z3goZhnQ+pSEEUNHVX5B+tnYp9iVcTzUr71MmFz2314J5SbDfrTOIPNomOqdA==;MoLCkWZTwhYlDcwNbQATCw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-15T10:43:00Z
 originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research"
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 

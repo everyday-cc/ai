@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T23:00:00Z
 originalUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
 webUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Popular Science

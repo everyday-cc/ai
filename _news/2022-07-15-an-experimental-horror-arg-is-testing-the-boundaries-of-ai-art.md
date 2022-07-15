@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T13:32:00Z
 originalUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
 webUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Verge

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
-    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
-    publishedDateTime: 2022-07-15T10:40:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207932-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/health-resources/latest-health-news.asp"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/health-resources/latest-health-news.asp"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 54
-    images:
-      - url: "https://www.medindia.net/health-images/7-tips-on-staying-safe-after-a-hurricane.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "AI Applied to Imaging May Help Clinicians Diagnose Fractures"
     excerpt: "For fracture detection, artificial intelligence (AI) and clinicians have comparable diagnostic performance, according to a review published in the July issue of Radiology. Rachel Y. L. Kuo, M.B., B.Chir."
     publishedDateTime: 2022-07-13T15:19:00Z
@@ -56,6 +40,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
+    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
+    publishedDateTime: 2022-07-15T10:39:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207931-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 14
 
 secured: "lR/RJzFuDXnOhr7PDIgEM5i4/pVGAWQWcsE6kvn0KdJu9vNRG8ip8ujX94PwaJu1e66yWJNfO3Q+tWD7NIUoKV3fX6HpYEN4BMCHNFyRWRMpIJP3p8Mps+dJc9/3sJPPiR82ZJ8vDNLPMGIECHIAUh9FjTsDMPc4YCwO5OM3Wxd+IzUvIKajGbMjzYK0r9I+t9TIHNUsuUb4o7KU6yFMwB/R4CeRgODXqpzWredHNuZdAf+7pBo1P49elG80WpuUb/9uJZPhKPc3YHss0kB+rQ1cSzcx0qAnqLYrxU2rizN/1Vf/1qZtsOej6UkvMatu3L5N+nktzYj0jtnvqNwamDQVeSOGZigXjUO/q9Pw9gYeiAint54ia9irpqqI7bC4o2AtTPhDzJB2BK76Glog4bTgjjzk4o1Wn5iu2SvOe9ALf6VKYqBvK5oiQSc0VHOTDjU5sHtOGoDxj4/vNnxJWV7eZ26x+j5l0gCsxQJVNlOBQBjLMGrcQed+lAF79slimzXF5doz1IX4qIQSFdzk0A==;j+K7gXdukpMpN7eepd8Fpw=="
 ---

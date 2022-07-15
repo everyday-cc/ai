@@ -25,24 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "Global Robotic Software Platforms Market Report 2022: Open Source Robotics Solutions Present Opportunities"
-    excerpt: "Global Market Trajectory & Analytics' report has been added to ResearchAndMarkets.com's offering. Global Robotic Software Platforms"
-    publishedDateTime: 2022-07-11T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28017574/global-robotic-software-platforms-market-report-2022-open-source-robotics-solutions-present-opport"
+  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
+    publishedDateTime: 2022-07-15T13:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
-  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
-    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
-    publishedDateTime: 2022-07-11T20:27:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "$305 Million Worldwide Pharmaceutical Robots Industry to 2027 - Featuring ABB, FANUC and Seiko Epson Among Others - ResearchAndMarkets.com"
+    excerpt: "The global pharmaceutical robots market reached a value of US$ 161.84 Million in 2021. Looking forward, the publisher expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 11."
+    publishedDateTime: 2022-07-11T15:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-kawasaki-heavy-industries-ltd-272386df98e54bcb8df2a2601d509e2c"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 11
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Worldwide Healthcare Payer Services Industry to 2027 - Featuring Accenture, Hewlett-Packard and Xerox Among Others - ResearchAndMarkets.com"
+    excerpt: "The Healthcare Payer Services Market is expected to register a CAGR of 10.1 % during the forecast period (2022-2027). Dell, Inc. Change Healthcare Inc. Claims Management Services Segment Is Expected To Hold A Major Share In The Market The claim management services segment is expected to hold a major share in the healthcare payer services market and is expected to do the same over the forecast period."
+    publishedDateTime: 2022-07-11T15:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-accenture-plc-xerox-corp-206bd46b61d548eda3c47c37d24edb4d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
+    publishedDateTime: 2022-07-12T11:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
+    publishedDateTime: 2022-07-14T08:41:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "IQ1uJsKyIa1zxNDjeXpg1HNKAc+UlwUB0sP0puCmeBd5VlOQJlCKol4vHv/bsVOfLwbe0qL+EWGAodPcPOlDx2rVt2AyEmSR0PpMD/S/pYmleP3M66KJFyPL8Y9By2Wd3Rme/UJD33Nf0nNl60jNzLiX48H9Fr7Vc4d3NPbfSHy0FHBD2WCVSZuhC0lWHkwDBWdV2uhsDOU/j1nryW5adttC1pHvxzqQk9e/uo/7ANVarO6TYlQ18wLlHfZTTZ/nTY6ZlAIAJO0kWgb2fq5trfltpFpIfU9ucjeywH5kmhAkA8mkbvSehdbRb52sDS1jQ2KRf8CMXYIKXK8OvqQhcfgkXlawDrQlGWXpKic4274=;ZqjsnyNdEIHJDWVkexZoug=="
 ---
