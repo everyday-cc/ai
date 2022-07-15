@@ -40,6 +40,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Climate change, AI will influence work in 2050"
+    excerpt: "As a driver of the future of work, artificial intelligence (AI) is assumed as becoming ubiquitous, with costs progressively lowering over the coming decades enabling widespread development and application. AI would increasingly determine access to ..."
+    publishedDateTime: 2022-07-15T09:20:00Z
+    webUrl: "https://it-online.co.za/2022/07/15/climate-change-ai-will-influence-work-in-2050/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
 
 secured: "bSWTDlUpwvOXFKFFjYUPbPyhNaczbPZj2qqVi7Ac8YReAP/kCV8mhdkftrPcQX9MaGKRAmqIzeOr+fEwrBKlGeY8M2th0DQEQavGLDJt/+KlLJZl6os2fVXZiqoYvmYzHzQwSHdttHvTiSTCSAA71cDMTty5C/4Ss34efcJkyhXTRe+Pydk95nwwagPrMhrG8xnoOoRphuJxXJDFDSBAy5Su6dQU+Aq/WcI574L+w22Q6h+5oaf4i++SKRto+dQnF9rgToiVOHJwJSyZ8ZEOGLMkMx7NSBfmEmQwrR9wmT/xrBHk2d6djLF1a6Ia++mBK2tuynK5N93JgiiC0LMc9FX99UIQAvW5U5vBZjRsHJo=;vPaP5jkGN0y8CyQAedbj9Q=="
 ---

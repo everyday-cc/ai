@@ -44,22 +44,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Instead of AI sentience, focus on the current risks of large language models"
-    excerpt: "We shouldn't let the discussion around sentient AI become a distraction that keeps us from focusing on the real issues surrounding LLMs."
-    publishedDateTime: 2022-07-10T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/"
-    ampWebUrl: "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Intel Open Source AI reference kits now available for free"
     excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
     publishedDateTime: 2022-07-13T11:46:00Z

@@ -54,22 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AWS to double down on investments in specialist programs to help startups scale; bullish on fintech, healthtech, gaming, Web, SaaS"
-    excerpt: "Gaurav Arora, Director and Head of Startup Businesses for Asia Pacific and Japan, AWS said the global cloud providers continued investments in specialist teams and programs will enable startups to grow by leveraging the deep,"
-    publishedDateTime: 2022-07-10T16:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/aws-to-double-down-on-investments-in-specialist-programs-to-help-startups-scale-bullish-on-fintech-healthtech-gaming-web-saas/articleshow/92742954.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/aws-to-double-down-on-investments-in-specialist-programs-to-help-startups-scale-bullish-on-fintech-healthtech-gaming-web-saas/amp_articleshow/92742954.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/aws-to-double-down-on-investments-in-specialist-programs-to-help-startups-scale-bullish-on-fintech-healthtech-gaming-web-saas/amp_articleshow/92742954.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-348810,msid-92743202/gaurav.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "3 innovative FinTech start-ups in Japan"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-07-11T07:45:00Z

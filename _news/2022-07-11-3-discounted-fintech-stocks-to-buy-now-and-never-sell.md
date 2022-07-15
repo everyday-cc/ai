@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-n
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 450
-        isCached: true
-  - title: "AWS to double down on investments in specialist programs to help startups scale; bullish on fintech, healthtech, gaming, Web, SaaS"
-    excerpt: "Gaurav Arora, Director and Head of Startup Businesses for Asia Pacific and Japan, AWS said the global cloud providers continued investments in specialist teams and programs will enable startups to grow by leveraging the deep,"
-    publishedDateTime: 2022-07-10T16:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/aws-to-double-down-on-investments-in-specialist-programs-to-help-startups-scale-bullish-on-fintech-healthtech-gaming-web-saas/articleshow/92742954.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/aws-to-double-down-on-investments-in-specialist-programs-to-help-startups-scale-bullish-on-fintech-healthtech-gaming-web-saas/amp_articleshow/92742954.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/aws-to-double-down-on-investments-in-specialist-programs-to-help-startups-scale-bullish-on-fintech-healthtech-gaming-web-saas/amp_articleshow/92742954.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-348810,msid-92743202/gaurav.jpg"
-        width: 600
         height: 450
         isCached: true
   - title: "3 innovative FinTech start-ups in Japan"

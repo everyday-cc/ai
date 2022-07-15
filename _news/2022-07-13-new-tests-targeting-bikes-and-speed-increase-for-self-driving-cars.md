@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "When it comes to things like self-driving cars, milliseconds matter. A UD researcher looks to speed up 5G"
-    excerpt: "The speed of 5G works well for things like Facebook and Zoom, but when it comes to life or death situations like remote surgery or a potential self-driving car crash, it needs to be faster."
-    publishedDateTime: 2022-07-11T08:34:00Z
-    webUrl: "https://www.wvxu.org/science-and-technology/2022-07-11/wifi-milliseconds-university-dayton-feng-ye"
-    ampWebUrl: "https://www.wvxu.org/science-and-technology/2022-07-11/wifi-milliseconds-university-dayton-feng-ye?_amp=true"
-    cdnAmpWebUrl: "https://www-wvxu-org.cdn.ampproject.org/c/s/www.wvxu.org/science-and-technology/2022-07-11/wifi-milliseconds-university-dayton-feng-ye?_amp=true"
+  - title: "Self-driving cars: The future of Formula racing"
+    excerpt: "Teams are tested and their performance is rated based on a combination of engineering challenges plus driving skills demonstrated on the track. The goal of the project is to enable engineering students – and those in other fields – to acquire practical ..."
+    publishedDateTime: 2022-07-15T08:27:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/article-712202"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/article-712202/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/article-712202/amp"
     type: article
     provider:
-      name: WVXU
-      domain: wvxu.org
-    quality: 27
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 44
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/9214a25/2147483647/strip/true/crop/5184x2918+0+269/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F48%2F247bda92438abfc0f9cf79f2dcc0%2Fsean-foster-ahqnyu1lqna-unsplash.jpg"
-        width: 430
-        height: 242
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/510199"
+        width: 640
+        height: 428
         isCached: true
   - title: "Self-Driving Cars Could Soon See Much Better"
     excerpt: "Self-driving vehicles, including the ones that the U.S. military is experimenting with, are still pretty bad at picking out small details as they move through the world, a limitation of the Light Detection and Ranging,"
