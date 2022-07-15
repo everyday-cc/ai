@@ -27,8 +27,8 @@ images:
 related:
   - title: "DeepMind AI learns simple physics like a baby"
     excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
-    publishedDateTime: 2022-07-11T23:17:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476"
+    publishedDateTime: 2022-07-11T20:53:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com"
     type: article
     provider:
       name: Nature
