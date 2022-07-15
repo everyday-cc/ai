@@ -18,57 +18,48 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028"
-    excerpt: "A new report titled, Global Artificial Intelligence (AI) in Drug Discovery Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has been added by MarketsandResearch.biz in its database of research reports."
-    publishedDateTime: 2022-07-13T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-2022-07-13"
+  - title: "$305 Million Worldwide Pharmaceutical Robots Industry to 2027 - Featuring ABB, FANUC and Seiko Epson Among Others - ResearchAndMarkets.com"
+    excerpt: "The global pharmaceutical robots market reached a value of US$ 161.84 Million in 2021. Looking forward, the publisher expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 11."
+    publishedDateTime: 2022-07-11T15:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-kawasaki-heavy-industries-ltd-272386df98e54bcb8df2a2601d509e2c"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Water Rescue Robot Market 2022 Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
-    excerpt: "Global Water Rescue Robot Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 is a study reported by MarketsandResearch.biz that offers detailed coverage of the Water Rescue Robot industry worldwide."
-    publishedDateTime: 2022-07-13T19:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-water-rescue-robot-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Operation Technology Market 2022 Business Scenario, Advance Technology, and Analysis by Recent Trends to 2028"
-    excerpt: "Market companies operating in the regions are deeply studied and their developmental opportunities in the next years from 2022 to 2028 time-period. The report presents a thorough analysis of existing and emerging market developments and prospects."
-    publishedDateTime: 2022-07-13T19:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-operation-technology-market-2022-business-scenario-advance-technology-and-analysis-by-recent-trends-to-2028-2022-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Drug Discovery Global Market Opportunities And Strategies To 2031: COVID-19 Growth And Change"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) In Drug Discovery Global Market Opportunities And Strategies To 2031: COVID-19 Growth"
-    publishedDateTime: 2022-07-11T17:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28021396/artificial-intelligence-ai-in-drug-discovery-global-market-opportunities-and-strategies-to-2031-co"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Worldwide Healthcare Payer Services Industry to 2027 - Featuring Accenture, Hewlett-Packard and Xerox Among Others - ResearchAndMarkets.com"
+    excerpt: "The Healthcare Payer Services Market is expected to register a CAGR of 10.1 % during the forecast period (2022-2027). Dell, Inc. Change Healthcare Inc. Claims Management Services Segment Is Expected To Hold A Major Share In The Market The claim management services segment is expected to hold a major share in the healthcare payer services market and is expected to do the same over the forecast period."
+    publishedDateTime: 2022-07-11T15:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-accenture-plc-xerox-corp-206bd46b61d548eda3c47c37d24edb4d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
+    publishedDateTime: 2022-07-14T08:41:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "b8VHB+i30sbyLVnRgdpH08CRZoJHsPj9HocFVXCGhoz0vZYTeker24nvjvpoULbXjKULxnT/3FVi2fQhWxv6d/9AXW4tNH0gERuf1nw5hTadSyfiWXLmAr8GtgaUM+RX9A3MuThgxw5PkkUvYW2x9bOKu8NZrcm7phYFRMeTHcM1eJO4mRTnJxIvKg0C/CeRtLe3YyL073vewfzPCPiX9457jPmlzO+wgpnENbeQgsZ1+FGXzN9rNaSo5joG8PMyelTllKAWuUSID8FBpMaNTKIXbDtn0cK1AG7tchoA4t3zUYYv1lX7IOmeRVOSCVLOoilgcon1cXxSI9o4l5y/g2bwhFa9UveaV5seTtxR2pY=;b9GYSt8ZxynAiIaYI+GRDg=="
 ---

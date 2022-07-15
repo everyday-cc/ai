@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 in conjunction with the i.am/Angel Foundation."
-publishedDateTime: 2022-07-14T21:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-boyle-heights-selected-as-host-site-artificial-intelligence-/2022/07/14/9639344.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-boyle-heights-selected-as-host-site-artificial-intelligence-/2022/07/14/9639344.htm"
+publishedDateTime: 2022-07-14T20:03:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-a1ec1669c56f17773b9877dfca7e9d03"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-a1ec1669c56f17773b9877dfca7e9d03"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii"
@@ -90,6 +97,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!"
+    excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai.org/application."
+    publishedDateTime: 2022-07-14T20:22:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-education-philanthropy-artificial-intelligence-mark-cuban-f7887cf04aea1cdc0ab34e3f4e65b943"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Honolulu Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Honolulu will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T19:47:00Z
@@ -108,15 +129,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
-  - title: "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!"
-    excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application."
-    publishedDateTime: 2022-07-14T21:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Atlantic City Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "South Jersey Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Atlantic City will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:23:00Z
@@ -126,15 +138,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
-  - title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
-    publishedDateTime: 2022-07-14T19:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+  - title: "Baltimore Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "ThoughtSpot, the Modern Analytics Cloud company will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 at Johns Hopkins University. The No Cost AI Bootcamp in Baltimore will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T21:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-baltimore-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639328.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+  - title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T21:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639326.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
   - title: "Chicago Selected as Host Site for Artificial Intelligence Bootcamp Hosted By McDonald's USA - APPLICATIONS NOW OPEN!"
     excerpt: "McDonald’s USA will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Chicago will be offered for high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:03:00Z
@@ -145,6 +166,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "aqjsYfNcnfYb7OO9XJtmbbXfZnD623mHryXSS80oTKrs79+U9MYfVRZhr/LVWUNkbMoDdNWov6964cXdjcvQ2qjCdF/rxTaHj+1bKvT11pWlqx4l0cyvuW7wPz8xgoGcqyoM7Ms9zpV0wRFMbPZUNsZHjxsMZ1+xSOgTm2s88nqBUVAELY3U+RtnP+/hphBm0GIZQfTj085Bnm/yW+o/xn/EfSyfaAJZzQ53zTJLfpKPrXcRWiW7piPIqHqgPAxrZLvqvu3D+lDANdkbrDJL0DbgxSTrauuknEvL1wFyKL85vtQ2w/4+PeXUdw9rveXFTPtbTKrrJKjb6Dz1wDvoZYNUEh+WkWnN71bFoENezm8=;9MTlz6KnTwAl7wa6+gHmPw=="
+secured: "kRriPd7Jk83/Wu2/1TndAF5acPL726Q3Ls60x2J9X6M3Mm6//mdSTICKIhKLr8qP7y561KriM3EBOPX/rGZ8dMadlz6hOz71CknAbuVHvjONtTX4T1/dvTWc6r717zCbdHc0jRxkQlR1ruJJeEYgaNFaJfGhCnn6kNRm9z3ST3s6Ek82Eicde9r/yyFmUzp+Hbw7S7mA7JZTtvo0/cUDwbyLsZSDs2GQPAlIDVY2NKve+JqzwcT0ntktxTijNHwRYkwctVB3ptTUmVtVjuP76x4GF1/YN6E97d2n/JjesbvJytjPzOWScwVI1hyp0nzDNhdXQhUMq9Wet6snxZ/EeJYLtp+u/tU1hxopjeTb/rI=;kDAWWzXWc4FGraRFwoqkNg=="
 ---
 

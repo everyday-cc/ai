@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-balancing-scooter-m
 webUrl: "https://www.marketwatch.com/press-release/self-balancing-scooter-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Diagnostics Market 2022 Detailed Analysis of Current Industry Figures with Size, Share, Forecasts Growth 2030"
+    excerpt: "Key Companies Covered in the Artificial Intelligence in Diagnostics Market Research are Aidoc Medical., AliveCor, GE Healthcare, Imagen Technologies, Inc., Vuno Inc., IDx Technologies Inc., Neural Analytics,"
+    publishedDateTime: 2022-07-11T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-2022-detailed-analysis-of-current-industry-figures-with-size-share-forecasts-growth-2030-2022-07-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PB5b+QZ/rSYZiyF0VCqgoscq8oIl5OK/LBfIwgIN8fmQI3LScLADeTJVo83NGivfSbJENT22FJgxIeAKb8k+axvQUFghmUYjOGw9FYZZ7CHK34JtX+lly5sWtyFdlheBpsy1UZniVlKSNwma2Qa+jjO7hdSBsWVjPF1YGtguKtPiue1jw10YMru64frseZ0DSyQOROxaUu2Isdw4uspdHD/YiNFFHv0U5QxFNNJwyCpkTsowcePRVh9rXPpu0mB0AT/1TblOyWM8xzX6gj1eYWEltGLvE3Xr2/RC/mX/WeNk6TNkxVAdMj+7yHbFGW48pN85KEBj+jWWnmKwliCt0pCe9nj+ETW9GaVMD2gQrg8=;62etBDkgNRFtArjLmMdNuA=="
 ---

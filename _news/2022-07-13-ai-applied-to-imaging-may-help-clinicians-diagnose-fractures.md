@@ -25,21 +25,14 @@ images:
 
 related:
   - title: "Using AI to diagnose birth defect in fetal ultrasound images"
-    excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
-    publishedDateTime: 2022-07-14T18:16:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
+    excerpt: "In a new proof-of-concept study researchers are pioneering the use of a unique Artificial Intelligence-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
+    publishedDateTime: 2022-07-15T01:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220714145147.htm"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "XxZ7QajVsGsa0DWcQXGuqh1b1vyCXYlWIBGkuwu2QZeI2gtWpKcivsez5hx04+Cw5Fs/76iLHVeX6bYEDCQI2gxhp4LrIiA5uFr+qT7oKLurVqEeLs59TQCx37jsEB+kHKnx19EoQJK127cNozh6puWhkbyhJK5meyme95vvj9xfmfUYxgxnPYfYFBKQVmtoHsmq/024+ELEW6HSw1EW1XD1OnNQlsj2XyhMB+a0orUj6VjA/2MyUJa9utFyp4xUoQ+SWbWslg0bLFQ6Sa3bpKLgZ2e3QSLbkR17MiNh2oUGYVRa9QlxZks4qKTJcJTf15K1N84eGiyZT0GcF+d3WmiKrdvVeqSafUsMMDiIIhs=;6Orb9k7DoPaLRnjw50SaBg=="
 ---

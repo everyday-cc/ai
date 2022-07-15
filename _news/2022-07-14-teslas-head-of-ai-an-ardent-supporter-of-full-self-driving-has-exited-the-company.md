@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
 quality: 111
-heat: 211
+heat: 212
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
@@ -174,6 +174,6 @@ related:
       domain: carscoops.com
     quality: 18
 
-secured: "rcLvGQ0LReq1twf/x7jwpDm1x+BfKBh/JCVGoYOZZMuEa2iXPHIlGcdyNbMZbCclfJ2ZDdKkSi2TFYmDm/kETz3q67D/pypxY9UGUmwx7YrEdYOszlpX+ROWqCAhB07lTTiJFJEg39eHW0QT9TJye63oY/44G1Qg2dh09B3YlLqC4VHtGLKMzlxskqRQO342m4Gxh4E8C7nNuqnUZX0eWruQTkfwm9E8s6Fc3icjAQXGEU7y8x3Cm5Ke5cX1EqR/tOlAZA8rhoWRJ/PrLTGYhOA6vaPD0pOyhjozjJvzC6PZMsr1CqvKD672SHHc6hcF5b1w9dYct0/Gq5ZEaZD5T9uzg+slAqHqhlX843dcNTs=;pI1v6+Uw2G1ur6Gn+W0uMA=="
+secured: "lVb6tBcxNEILs+O/LLDzXy5P3FnLUMA2/MUDce2CODf9D+l57L4Ymyzr1l4C6lDtaLFNlaAYPIxcDWO8vX+K1olHzJyUGGaBuzUt+cDvn4JL3BCfm9oGpZqYQ4F2mA8JmHwQIwFoKkw8pryC1xd9vpHI0UNfcLJlMVweibTG8IiCmFRzDqw1fj+DXjKaLdN0Abtj+EcLIIZaaoBTSPnMcS+684V0nAaSc78UqYFBaLQl2pWnl9dEXRMEzAXiHDkKZsGDvWHQoBK2L6WugrHzk+hW8A+Lla4yXG9L6huNxpdtQmbc7EHniD2fEKqqUpOM6VHtoPpY0/ZBmpgmKTB8hm5Qydex+R5Sof2x2gs1ZYU=;1hwUCEGYs6LofDprcUVmTw=="
 ---
 

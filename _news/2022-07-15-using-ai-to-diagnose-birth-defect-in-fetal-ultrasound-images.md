@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Using AI to diagnose birth defect in fetal ultrasound images"
-excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
-publishedDateTime: 2022-07-14T18:16:00Z
-originalUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html"
-webUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
+excerpt: "In a new proof-of-concept study researchers are pioneering the use of a unique Artificial Intelligence-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
+publishedDateTime: 2022-07-15T01:29:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/07/220714145147.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/07/220714145147.htm"
 type: article
-quality: 57
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg"
-    width: 1280
-    height: 1920
-    isCached: true
 
 related:
   - title: "AI Applied to Imaging May Help Clinicians Diagnose Fractures"
@@ -41,6 +37,6 @@ related:
         height: 600
         isCached: true
 
-secured: "kORefoEfInENhSmnF8W4DtfTMlW2AY1D+NDo174tA09qe19XV9uWMuQ33t0JwEsgFBukYbNMxISKtddepzHDZ4sYE4AvsA6CyEKPN3B9t42xmewIr7l2NaAbfvBYI2EBrUBm3IIqZyXIUbXulMWkV7b84yuQ4rfYXCy6NLeqv5L8aT7hBK8Oe6Hja9Nf1NVvAuMXAYaYhCVFFpp6kZFMOxON6RYwGwM85j6mGC96vzibVQhBOuvvwaRPwmGFvuqcYwN927/zrmyThdXKbvGbee62aBI4VmPyeGGXWvLoIgIao2O4wXph4imGj5B8auahXiCG0E9QgM2MbkJ4Bcleom7F97B0liegkLJ8pIr4wuI=;/DxpGle/hGotDDgZVVKKRw=="
+secured: "YwXN+mFsw9pEFZmI89kzwj4/TiRZAJd0VGzMi4xgCbooe0chBu4DlWb2epGrTf24dadDsSDOWWb/RUpTW3oLr9DL+B/FyvR9lGOkqXvE2hS4gpyuTOHD0frRhYcpkBG0E2LQkQ8Swp6kbOih5NeGhkPJDXz1nVWwOHjrR+veD8r6mkzGPIEG8b2NJZQqEQI4tD+LnLRTY+xrS4DQnmm21jUWp8wuqT4MV8ghutvnCK9+7Xplv0XahColx/P9FLxNq1aoNIFNK2SiMTbm3xNGh8TzA35WsNwEReUdYL9RVu+UzalnRevH54MefrHq876DxgFhBa0ydXZB9rmMqWNIHYC72N2VIMcgjL1bJXY7KgU=;0UdtwVAy5LUoXg0Png+61w=="
 ---
 

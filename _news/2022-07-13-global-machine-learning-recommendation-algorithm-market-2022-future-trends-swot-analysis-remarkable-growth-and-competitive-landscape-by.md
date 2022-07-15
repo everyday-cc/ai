@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Military Market Size, Share, Trend, Manufacturing Cost Analysis, Sales and CAGR Value and Future Outlook 2029"
-    excerpt: "The Artificial Intelligence In Military Market (2022-2029) Research reports provide detailed information on current"
-    publishedDateTime: 2022-07-12T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12"
+  - title: "Machine Learning Artificial intelligence Market SWOT Analysis By 2028 | Size, Scope, Top Companies, Growth Drivers By VMR"
+    excerpt: "The study focuses on global companies that operate in the Global Machine Learning Artificial intelligence Market and includes information such as company profiles, product samples and descriptions, capacity,"
+    publishedDateTime: 2022-07-11T21:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028"
+    excerpt: "A new report titled, Global Artificial Intelligence (AI) in Drug Discovery Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has been added by MarketsandResearch.biz in its database of research reports."
+    publishedDateTime: 2022-07-13T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-2022-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,34 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
-    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
-    publishedDateTime: 2022-07-12T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-12T00:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 5
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
         isCached: true
 
 secured: "xJt5GP4qA3cujogfiGX2a0fTUmDpWBgq1ukxqOu2rm6my9E7kaRIWsYpHEfDUjHlolId0CgmwRel9TTRz0C448jg9HTYGF2ZEfy3kMmcq0tYZFd65NV8MwVsZPRI5RZoIaIIHowK11evMr7TtFHvYO50abOyECFga7CZZ2+an+Lp+e/jX0a/Mbj0E/knj9r5XU9fIvByHWpwBi2UFni3ONM9SGx2iN5bC9FlbRYFMdDLh6AhSeIvWVc7I1GsZVD9ZVhsEmcydTTT9crpKCPTgPjAZd/DRTMfuHBwzegXxQooNdXVvC/iKifdCHPG0BBz+z7Q3YjvPWhoQpO7ondJzzPBLzZ90KEaru1iaAaQVzc=;JyAD21oFWAN68EVPzm5Shw=="
