@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii"
