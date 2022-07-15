@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Reddit buys natural language processing company MeaningCloud"
-excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors."
-publishedDateTime: 2022-07-02T07:18:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms"
+excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p.."
+publishedDateTime: 2022-07-02T09:06:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
 type: article
 
 provider:
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg"
-    width: 600
-    height: 450
+  - url: "https://etimg.etb2bimg.com/thumb/msid-92616242,imgsize-23830,width-1200,height-628,overlay-ettelecom/reddit-buys-natural-language-processing-company-meaningcloud.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "OdizfwX/33UsOwW27vUBgcC46/JgqGKEV6eng5mh0E/IPqOfABHgoMsmf9f+isb+ZR87rs2FC+fFQiEsqxJ8OHpbwvaqdnroZ/kP10oOsnx1wLdk6FDEZi7tKEhOnUnhYp8pl34YujUmZSVc+YjBGQoiSjbh0kFazqCxbBxr/2wQxzuu248aSJqk0BYpwI9EPKwP3pVaui2tUElLKmesYVDuocvmc0htXej51LqGygPMbomdhlTcgaKpT9pQM0NN/glFhBniFasOe9QeB2zRnI+evu+EOCxga4MQ9fYhK0vOq2wvvke8QWExpyE/hw8XOZhTgiPiOu2OTe4NFmB0BaIDMhGeMQFhQ0xWmg5jkzo=;ZzxTgPVuqH7pOJU6d+ev6Q=="
+secured: "SiDZoJQ/0r75c+QB/M5GPi+JnYIG1JsQfgMCTsjB88vZmtw1Vqz4Dg/Zz12A8MXbWf+tR7OyWNELzQUIzCTCUHczldsS1gJ6Zrvf0VYZq6+Fr9TZSlKJUHzNfxinfJqW64wjMgZBCrirhcrYJvzjmo7248FejBNua4cmgCnRUIZ9TZLP02kQRqsOe7Ae5L5H9B2fA18cIY77M9Y3HtnXoQpOy5hpDYiwKZHvfH9OY0xGn1qBD9QNmFr9WThEC1zFgPS/7qMRQDnjlj09Rx0cIkO3N6XwOkXQDnkaawjEn3INIUDxexzPqnYULFhVYSKNXSJVtXJw1yCac/w8Nn47amwdVRpzmyaqT5ssYWqdC00=;OTJ+aD0b56Yv5abxCDFqvg=="
 ---
 

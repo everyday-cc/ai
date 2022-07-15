@@ -2,9 +2,9 @@
 category: news
 title: "What AI Still Doesn’t Know How To Do"
 excerpt: "Large language models like LaMDA or San Francisco-based Open AI’s rival GPT-3 are remarkably good at generating coherent, convincing writing and conversations—convincing enough to fool the engineer. But they use a relatively simple technique to do it ..."
-publishedDateTime: 2022-07-15T15:20:00Z
-originalUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316?mod=hp_listb_pos1"
-webUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316?mod=hp_listb_pos1"
+publishedDateTime: 2022-07-15T15:22:00Z
+originalUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316?mod=tech_lead_pos10"
+webUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316?mod=tech_lead_pos10"
 ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "8LZbV9e2T5/6b3wofF909JSFnsqdzMPOOLpS07bJAuJgNIb5jOc+MDv81k5jqqoS06TnWRprIGdpYbDAlHGe3B8YGi4bQtUvuQ+jQQryMnhbNnE/dZ8RtX7M0vuNPcv1Y/pHf80kfdWRJgfWTUfNUdQJ0RZO20qkrWSIxmmtlfLNKRYopgNaCs4QEiZjcyQAIqjHHZNuadmHso93fUly5H16hCAtiKpvxmULgFoBvjeClVXfmH0xdjtaifWhGG/pM9k7hSVAxz30bTHz4akCU/b4nm8/zTOY+t72uwN/aDnxL0QrpRAS5PMBGFquNCIarM/poudLR3nUAYQDH9rJqNIspbLWcJ4NTirnDJAH3xA=;wHfXF79ZwkuyEmrqXCe2Ug=="
+secured: "8dkHOaZMsow0R22oVmSNnU3wMdSQYEXzALGR554NiMMCWneI67s9GDg1C+2Q/XMME1Va92nRGkbOmR2iguDqwoeZ3tI2jsidHt/+iyzSF9bgTtNpobQfbaB3LatekvGChSu01A367cQEeUFs43dH2cA6qn7pCwNCi5KHGP7tsiBY7mbKxI7QGPvycymP4Cc1Jm952+FB8JwIKilz9H56zqHAe+2C7Tl0t/OrTpW8/p5gx3lJ5r/dAM7Cn6jsKTCakrFijFRDeX01RScm5CgsD4y75fLQkVoqWyBaQXcMr9CLsxW4n99yCYOyHJYCGJkAvo0MDZu2ADY+W6Seb3oAfsTvRcC1oQ6WcBHJV5oU2QA=;fKArsQXpiG43o9Kq21Kbvw=="
 ---
 

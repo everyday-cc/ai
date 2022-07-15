@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm"
-    excerpt: "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ..."
-    publishedDateTime: 2022-07-12T15:10:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm"
+    excerpt: "This report evaluated 15 AI/ML Platform vendors based on 25 criteria. Of the vendors evaluated, DataRobot was one of three leaders, and received the highest score possible in the market approach, performance,"
+    publishedDateTime: 2022-07-12T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-476a2b2ab5ce4dd5b759613a7b8e52ac"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 33
+      name: Associated Press
+      domain: apnews.com
+    quality: 53
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "V5Y9lu+7+rvhw32KexJ5wTgcAnJ2FswYh+jXjwpiQZ0bB/KGDIHJWUE9oC4YupJ2KA3ofYg/uavgkN4VNxjY2ahdZi9oIG4IIIUE1ceajrF+FzZNyKVLbmPeXzznns01O9XAIH1CuEIrje3Yhp5eyl6oxUQRitxcNw7WG3n/FUZdv5Vkc3BWyewUYduaM9w/NS67kCLYImajyobFx4g28Hn/3xbcnVj0z7RAt5lnfI3+2FcCyWSxyPs4Jl9biubyyR2oWGarYf7Zwgi8qno2rGd19knVG68crxp48kLsMR7ilI4YGq4VMVMQBgSl2E5QOdW1soLKGsnMn8oJjTrhK5exZpSX1pzWKxd+fvDCbfqIuWYaHh1pgIFuNNMP1bHD1wDCXMbOCY88aq5HA6OvCf2KwGXRBMJzOLNRpWvzZFCtc8DhWDgQF8EjjPx4CsUxyIT721hZDQ8F7ypXLt1+Zy8QYwLoXDywd6EQy0Ku8SW+/mvziqPBqTvrh/SYCp0eVzndEdATpy339TM4ukBO4A==;GLtKmnhm5WVfwIbqCLUJNQ=="
 ---

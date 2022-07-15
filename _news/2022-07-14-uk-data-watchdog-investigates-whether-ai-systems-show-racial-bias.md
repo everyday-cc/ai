@@ -3,8 +3,8 @@ category: news
 title: "UK data watchdog investigates whether AI systems show racial bias"
 excerpt: "ICO says AI-driven discrimination can lead to job rejections or being wrongfully denied bank loans or benefit"
 publishedDateTime: 2022-07-14T04:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
+webUrl: "https://www.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/14/uk-data-watchdog-investigates-whether-ai-systems-show-racial-bias"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ckQCu+24r4DbBt76eWo1ooIN7/HWxAHZ4p94bKVlzFkXEnzlncFIVb/5BUHDFCwzI/CGBWx2A8Kq+omwejJQWv5Uk7HTD1OEVXE5ksDKhE2hAGKhhRsJo9abkbB9ehvIxJcZp+x9m6DHzOn3pIkpwxx/HALbWEPdalyB0GYA+A358fu98Y0g1/KkDeMUYzfYVBKo2lWO0cPUvij4vl9jbGI5HsvRYof31488EiLF+VyNUg6mvDpAEdlXlbD/xeLFugrix1DTU1I3pDAZXE4k98sX4KKJoKBoOHQPZRfqz9Bt9Q0U6iRaCKTF/zn9lPP/Z5v3wZy4aBdkJL4XrggeTtim7jzv5AcgIKu6LKdcwjg=;3GzPQ3hlPj5MiFX0heYidg=="
+secured: "BSDcnqQL7VaxIkDJXVee+CGNQKtejue9uqhudMUUtm2rU773g+er2rmg/2RBVzMFb9gaPXg6by4l+UUiVhCvC8okvmMZ/z3yF7qSLqwbDzRJRro7BMwj1CiOYtC+0Bujdw7A0mOzqIv8JLMAxQ+u2tYY51PAnHeQaNwoTM7kWfpwLzpeSdbkV2WZ3CcAvTEIMnZu7pthWrpXA5xQNeqArmLK++xo+uPY5LAT574uf1GP7FR8e4HSeQbxQTxpdXS+luTryGZzAohv1w1BFiQDcIapOL1J4mg0g4dVRYhs8T+fqkkIedu/M3o43JjIYIzTCMqf6km3EUAxi88D1aARFSBYUU43Lnl/pyw4dZnRcI0=;ETyeUeL+kFhIs0gC4gC2Xg=="
 ---
 

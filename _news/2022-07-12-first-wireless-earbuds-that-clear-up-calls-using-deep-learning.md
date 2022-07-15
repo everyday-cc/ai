@@ -44,20 +44,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 44
-  - title: "ClearBuds: First wireless earbuds that clear up calls using deep learning"
-    excerpt: "University of Washington researchers created ClearBuds, earbuds that enhance the speaker’s voice and reduce background noise."
-    publishedDateTime: 2022-07-11T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/958498"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e452777e-d584-4e8c-8d9f-a320bd9d7a13/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Rewinding a supernova with machine learning"
     excerpt: "New work looks at using machine learning to decipher the early stages of supernovae explosions by reconstructing the light emitted during the outburst. The research was presented today at the 2022 National Astronomy Meeting by Eleonora Parrag,"
     publishedDateTime: 2022-07-13T18:10:00Z

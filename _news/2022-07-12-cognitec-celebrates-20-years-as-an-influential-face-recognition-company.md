@@ -220,6 +220,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "London police paying public to test live facial recognition during live operation"
+    excerpt: "The latest trials of real-time facial recognition by London's Met Police included both testing with paid performers and live operations."
+    publishedDateTime: 2022-07-15T15:59:00Z
+    webUrl: "https://www.biometricupdate.com/202207/london-police-paying-public-to-test-live-facial-recognition-during-live-operation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
   - title: "The Five Biggest Facial Recognition Trends in 2022"
     excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
     publishedDateTime: 2022-07-13T12:55:00Z

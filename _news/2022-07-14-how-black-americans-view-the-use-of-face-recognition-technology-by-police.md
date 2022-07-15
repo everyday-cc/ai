@@ -41,6 +41,20 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Predictably low trust by Black Americans in facial recognition in new poll"
+    excerpt: "Every answer in a new survey about police use of facial recognition makes it clear that Black Americans expect more to be targeted than helped by the software."
+    publishedDateTime: 2022-07-15T16:59:00Z
+    webUrl: "https://www.biometricupdate.com/202207/predictably-low-trust-by-black-americans-in-facial-recognition-in-new-poll"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/22114740/market-report-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "u8aDdkKH+vXi47thKV0mjK6WJyIJlAzfB8Gs+Cj5ZIHf474cWlZTsgG9MK0mfyuUcd/7NlC2hc1HaJ6h4M7858rH/UYioL20NzFDOdhXaYs3C9Zw4yrGdRFOAWjgigx4KyhX2P2yC9AR+KeDnm6arBHX1AUeU+dAeEZY9u2QJ1MegZiVZTGKDccqOAly1F1bFtiDd2II7x3l5e4zMNts2zrScIuBiBS81Ate/Dmc1hZ8xFo50dFj9nSZrybQZNP+CYtQ3AoOeQj2YwVhCHBJNEEWEZpObadhseDfySvaIx0R3sPeKtTy+ilwG2l7Vt5a9eyDNP6YXlPsh2LymPBdid4rL0atan/FRqkm3Pgeys4=;WpGYXtu6GeB7BPL6NF35Kw=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 746
         height: 367
         isCached: true
-  - title: "ClearBuds: First wireless earbuds that clear up calls using deep learning"
-    excerpt: "University of Washington researchers created ClearBuds, earbuds that enhance the speaker’s voice and reduce background noise."
-    publishedDateTime: 2022-07-11T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/958498"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e452777e-d584-4e8c-8d9f-a320bd9d7a13/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "First wireless earbuds that clear up calls using deep learning"
     excerpt: "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations."
     publishedDateTime: 2022-07-11T18:25:00Z
