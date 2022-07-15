@@ -8,7 +8,7 @@ otherNames:
   - "chumenwenwen.com"
 overview: "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data"
 type: "profile"
-heat: 20
+heat: 216
 
 website: http://www.chumenwenwen.com
 
@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: "Mobvoi_Official"
   url: "https://twitter.com/Mobvoi_Official"
-  followers: 52305
+  followers: 52303
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -49,6 +49,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=z-H_xsUFD68"
 
-secured: "K9oR5nWIFwTkdLkBHtKQfGvv4V5+KrGbZeyaCaKSapHCE+ul2Tss58e4cHx3ujLXSIZesYPqjzzRVHZ6kxcz8FrTyfD/fzibaWZuEofS1RvDzHSdz8Je4YS90ExlROFStCXMZPFAujR/0m2gOX9206YaIZ4nFRZQ+ZiBgnXLRBtWDje7Wxt6cPFnfL5aVI0GowqtnutgoaLM9y2xuExZMZUUF4PSNt/DCyWU37ULClttTnE+4jP2fDLDGTXli4fJWX8gN5LDJa2jjGPtYqsa49IySwJMX/GsBC8ZzFtHMPcP57iBE9Um/awiuiu+cATjCvaretqlny643fQ92MRoy7aXC9jYTfsYRDJBZEJkVbXDhD6Dt2beaKCkpcV48Sy6t4HddSsnZjjOtaxKo4zoIEzZ4oXbolleptJDt0yzsrY=;LZx6w5AUrvsY0gsxyaEtdw=="
+secured: "WDcWVx4+IdP5jIQOvjcWbVtNuIGsx4zou2BGp9fylyEAkO8JTnpxxCgnI9U9K1lk31g78cw4mfNJTGKLUB7xBSfN525pil2Ps7X2XUMx+ZKmca9JrdWfcnEWn94byCJkJx9WE82k0Frq5u5U23MpTdTJ/HqQA93yqZHIvzU1wXB4owWlksF9H+XFGhOAO/K/YUiI8q/ktvHh67AeLvB4666fKq1PGhr0Z2uK4RJnceG4P3XqnYDL/NEU61gQuSoSnYMBSqgwZW5A0Nr1tR0yncfAqA6YLyLBi5+T7oS1u44VcLtl40KyEMqwZzPLKdLnlB3xvTTJWxyO7WC4eWebC0+FAwpxR+nH87FxqNFYjpwnXcIJ3DG7WBJyz+wr/TJ/t0swktu57Rs/P6AAUEndU/TKlz+lTiirg788SMsAyu8=;G0tSWuofw0B+RKZv49kR3Q=="
 ---
 
