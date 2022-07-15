@@ -1,30 +1,20 @@
 ---
 category: news
-title: "Meta's new AI research tool turns ideas into digital art"
-excerpt: "The concept called 'Make-A-Scene' will enable new forms of AI-powered creative expression while putting creators and their visions at the centre of the process, the social media giant wrote in a ..."
-publishedDateTime: 2022-07-15T11:23:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/metas-new-ai-research-tool-turns-ideas-into-digital-art/92900696"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/metas-new-ai-research-tool-turns-ideas-into-digital-art/92900696"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/metas-new-ai-research-tool-turns-ideas-into-digital-art/92900696"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/metas-new-ai-research-tool-turns-ideas-into-digital-art/92900696"
+title: "Meta's New AI Research Tool Turns Ideas Into Digital Art"
+excerpt: "New Delhi, July 15 (IANS) Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches to generate ..."
+publishedDateTime: 2022-07-15T10:05:00Z
+originalUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
+webUrl: "https://menafn.com/1104536188/Metas-New-AI-Research-Tool-Turns-Ideas-Into-Digital-Art"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-92900696,imgsize-112488,width-1200,height-628,overlay-ettelecom/meta-s-new-ai-research-tool-turns-ideas-into-digital-art.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "aXvePMh9sgSgKxFCl5JVaG8m+6OcZIjE8wLo75ATAKCgcoyYOiNb84W6DDktbrHNWj9KZgHN5h4SzbmwOq4wWoNRG3UU6YVxCzMfkkNBD7DynpDz54xIrsLhJAVWxgzqC9V2jM5NRJtVwJ/HL590R4GtLTopZVQz0NdRz5F3xKMtz8CZPX/Gc6ZxteaeJ1bgbz9NdaHl7uifgQKab+IEybjbBs71ijflIon9Pn9HaOltmr2JvLdOxQ3Hz5L/tIMOrB7UOFmkbfOGiU3amQcDdQWhBbcot25L9YLwkEWXsxQDola95awl+N0Nu+LcPWxzmSXoHceFOxfCTSg25vMS2s6xavPatBrynx7w8VssPnM=;1zGqGCrWIQS6WdlRPezl4g=="
+secured: "DKKFaQx3lGrtD2n5lKTuCgAPf+esWZjWk/SOszYRfJovE25lck+S7D8NUyOig5JFfLvgCNjOXx6t17ozl3PrjFPnVKlxcC45XJwuutnoE0yvzeJmPKhjK28wCEUzf3bLaoimLvXzWIXlmK5/dJoIwbD9fQD8Og7Ez6GaMTu31F7yJhIpKMuk8Z8a6WyTjSA3EM5dRahjyYpYDdV0PZzKC5zZf2YnnDaWUBizjVw+I5+j8TW35eOZ9pHJkJuPNBPJb0B0r/yLveEhi5/BGjSPXC1K4/ctVF+9GxH5VYBjzCLA09FtnO/+dDm5Dn/U/KaVzSi+6U4PxphBmqcWugnsYG4ATZ02G8Wv8s0IFvRgXDj/mxgEi8fXlgOu8F/uErgXwbhrSWo22rtZOmKacnDuwIRSfNTUo+s672SmmChhrvAhU5pTL5DUx9wt5/P5jXZBVVUQfF6FlUYSAMJZA2v2XhnjegkuzHySaqREVmo7Mf+2MeVNtZYuTuVGsyQ410efdVs2f2cwkR/xm+MK6k3O6g==;Xb4/jJOtZ5H9fICqHG/Gkg=="
 ---
 

@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://i.insider.com/62cf1c90b0ab4f0018538ed4?width=1200&format=jpeg"
@@ -54,6 +55,6 @@ related:
       domain: beckershospitalreview.com
     quality: 34
 
-secured: "czFIz0dPI1tZvhoeM9AvHoPPoro0Yw8zpHet+GfNkXt+lPhOx8vIksb9XyPjd+zv2VLj2Tw4gTLSf306N8GK+pQo3oIGGfkOrJmD5TBqW0CidNM6m4ntivvkifvw3mZbLQBjYfdDgtYzKrD/AYLX9lTKxpO65qBEbefO6UWtEO8XErmT2uSzEo87xFJ9/XI5bDaQSphWsf+Qo7ktz295RrHOcLYsnTpFt8UqXtFJeS2TWaNbE8rU7+5Fwfb0NYPyngXiYVdc930sZMLQ9lTW+Zh8WJXR5f5mkHtwSTG1qUtoHyjlsao611ocbTXaZ5lc7ltNpUlD2hLIZE1wc+Oz/dodzi3+nbuQgwII80S6qTM=;C7Y6n0ZaAvrACs1fvTv5VA=="
+secured: "GO9fSONalaTgvrJOqv020CFqsGVOAKQoR/dfR+IV5TsExJlSgL4CK+vs5pS/BufSSi+GP9ea7fq8TYPUkioMwnwYkb61z48NDOk4uLqZQoYKdMfcm23uTcDIFcafUywzWqt04bIqD/a3f5bws9hAHofYltTExaCQkV2Wd7UeM/Zvf+M/AqsairKN7d/+TT+GqQvenAvRW41boQ2bv1ONRcGYadlZMFmRVVmFMYh+8SRhjFj1IlnNUQd22AoM13YR0hoYRzk7BLEx8uSeESZYXT5dje3dHbr2v2syRhP8FrvHXikioum+PTVcwJAPvQrAxf9E5Fc5wI+k7v9xB5NQYLtTDVc1r2BatDgGNO185vt6/YXUdMRIhxAjLkCVXGMSXuwopje5Lx/4/ulZcXCYQrV7uVw9/uY8gACJMNoX6Ych0JgUrJWoapFwWldeTcsE+PmSXxEs8Z8x7fS0pctwl73dNtDylf8mj2ErOV5zZLJHUOnOflum3i+6cWON3kEda2FAHlEm3lsDNQAoYDCqsg==;MoBKG4O4E08D0jDT1kWf8A=="
 ---
 

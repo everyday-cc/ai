@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1657881116/itpro/Dstl-logo_upscale.jpg"
@@ -59,6 +60,6 @@ related:
         height: 229
         isCached: true
 
-secured: "jv1Q4B50LMzf/fvkdrccomb/IiKHfdocvn5GhOqbu/lWHfi1vFOmEhQ0UziwIWwx2AG7xfN0UsPWKLjEbW5BHYhkjeEK3DmJzgzVbKP+jdJ0z6oLRk/Ye3zq5yI1k/EFDeSMhFMjwnW6GXHZzznfjSR76aLm9rqIf3uDr9i6nM/gFWt7ivv2tKR/xlUvBjMA3VPWWEiq9s7IvSQ9EPlnKr5rJd3+P44uby9enep4kTVUCg/pWkSRdOsULhGihVjBCBLw4KgRuQmA6OVQDM1GN8Jt7ok3h+BMN1IORp/kS+RLmg4Ee5561f1+R1ijWSM97B0lsCakV+Gm7jQpQlUCzfjQ8Q8Bqg9/YqTl3gLnK8Q=;vTIrzhpytm59i6b9JRGu+g=="
+secured: "eJvwG9eLoS88Bj9GuvowRT1t6BjW5b/3ROUGywSmcOJtHRx1+CadzNRZj+pu7qJ1dY4Xlom5V4OJUiLy3m4dwBNP/F24PLPInXoSTKHUP3t6hoGBbmoDxsttRt8eekdUudfc/pnHe7iY4GI0FU832gKSzvP95xj3VjFaz+4HrE1ZcF78/rilHs3Wm5w3gu9vPmJkMtn/q0VViQEU1/JB1neuGqJkEvp18kQv371T/RY37BrVBKWP55izrX3H+rTdtKKfNYeOslPBQquySK5TFrWafeoFBkZcjaKpXkO12kuQGRNgUua7aXBWsdKd3Rhvlo4BH9JXa31qyLNzKLIiLtqBa1SuYGvbvQrglFNzARh0Qx0MKMOH5ruvjcU5c7fGEwwCE2MZgrvw1RNecmNNjw9v5Djh6yxJGDW62piTzi/1jpLxZmc6VowXSTdBXweHopagmbnauZoFVITl3VbabgHDqpkdv53d2iTDf9nPuNYtCerY/FAVOp8bC9M9Los9a3bwbkmYRZ3Ezy5b7ulAMA==;imRQKspK9vGAPIVdKh3Lxw=="
 ---
 
