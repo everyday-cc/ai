@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-11T06:09:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-2022-detailed-analysis-of-current-industry-figures-with-size-share-forecasts-growth-2030-2022-07-11"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-2022-detailed-analysis-of-current-industry-figures-with-size-share-forecasts-growth-2030-2022-07-11"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

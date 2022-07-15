@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "5 Times AI Business Analytics Failed Horribly"
+    excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
+    publishedDateTime: 2022-07-14T15:22:00Z
+    webUrl: "https://techreport.com/news/3478095/5-times-ai-business-analytics-failed-horribly/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
 
 secured: "A0NQmILG7P4ZfsY5gi3y9RHUMLNjVUmeQwyvgN05ET9GDw3ETG4YtkphFppeqnaVaGyZwNtUXQR2IO452W4rQkMzvYwwYnCbt4GQMqy7mImvfTLEFPMai24W8R8gQT99OUBWYIq0A6aFEjlwJqUMv2FBHsTBay6xWpdvkBnmLa4G/pQuIaOwMQ1tWGHXRpkgBOIV8AczBrA7vRLIMb6gthB//pGtZ2rzZhDujNZvGP1coVjK9eCoU7vLSlST2WUbpDog3czOW2AL2lna3s4XRILB0cRkHvmcn6yDxvXGCRYr0f/jSQFmf0PWutJ6riErWF8puLwVaIGSSjuYEczbXTVak1O0HQUYIxmvt1oRcpY=;i1u5Zv9w9nN7hLnYQwzXHw=="
 ---

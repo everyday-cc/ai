@@ -117,6 +117,20 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Scientist launches AI program ‘Plato’ that gains intuitions like a human body"
+    excerpt: "This AI, dubbed 'PLATO' for Physics Learning Through Auto-Encoding and Tracking Objects, learned physics like a"
+    publishedDateTime: 2022-07-15T05:29:00Z
+    webUrl: "https://www.phoneworld.com.pk/scientist-launches-ai-program-plato-that-gains-intuitions-like-a-human-body/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 36
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/AI.png"
+        width: 971
+        height: 434
+        isCached: true
 
 secured: "F+ZFsnHvvO0j3BCQn/ljho5fy4Z53pRSfFnJ63ivsJJXA152caImrdD3JvhgsCosb438097d2HEcq2BF95PD9xT+x8zQD/4oi05JcXUC6Aci/WcTPXbms5Uvdg25j8doShqB4H7L5UVdLxZ/2uIcnJzTJAEwK5cldA0UxiKOQ4qjTfIKBIbT04TpK5stvP8sfkhGS+ewkTTvv6JbqwjCtGBpRIFx0t3R0RKcOKL7Sv5/ZZ+Vbp7Ibw9oGLtrbJivY/uNO23/MPxH9rjmYdspr5Viw+pYhNswcH2sQm3Gqmi06avBolxA0WgAx/putaWgUdEK2mLc/YFpXjzf7vH9bQXo3bYWHualWznlnx6J6b0=;P9aeEfDdYpFfvRpaKJ+jmw=="
 ---

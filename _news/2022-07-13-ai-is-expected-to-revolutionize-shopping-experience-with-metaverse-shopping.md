@@ -34,15 +34,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI will help realize the true vision the Metaverse hopes to achieve"
-    excerpt: "One underappreciated fact about the Metaverse is that it fundamentally needs artificial intelligence woven in at its core in order to provide a lasting user value proposition."
-    publishedDateTime: 2022-07-10T12:16:00Z
-    webUrl: "https://cointelegraph.com/news/ai-will-help-realize-the-true-vision-the-metaverse-hopes-to-achieve"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 17
 
 secured: "4PTSO5QSXccXT2hXUyGhBSbOx3lP3Ru2HMG5dQ5btjYn20Tj5b81OcAuc/DLzDh/e572EESFd8N7C+flkwMq9pNPmLOiRTmzfpGe9NOfxPcHE9yilsP4H1c2miciFtR29/yn6LSRKXrOpW2FKALl7r+T4r0mjIZsfQZzC1Jijwu2KGyCDGmD6lZWHWp8J5LmG851s6nYXl6SfvbHuwzNvS1hP4o2jitDPiNZiT4KCHE774MaGKWtkXRHgLAvhHRLqzoJHkyOPa7wUom7f6PcLQqM8nlAtE0HZUQkbY68sZX4CFAFmAPq980tTNR2pZmwpZdQP4TWMfG7HrbZhbWpoPD7P2hIzcUWQzIkK9kU94U=;NsXvhasYZIh4lIP4s6DH1g=="
 ---

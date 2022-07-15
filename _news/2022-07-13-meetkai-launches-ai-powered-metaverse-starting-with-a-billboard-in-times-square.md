@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metav
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI will help realize the true vision the Metaverse hopes to achieve"
-    excerpt: "One underappreciated fact about the Metaverse is that it fundamentally needs artificial intelligence woven in at its core in order to provide a lasting user value proposition."
-    publishedDateTime: 2022-07-10T12:16:00Z
-    webUrl: "https://cointelegraph.com/news/ai-will-help-realize-the-true-vision-the-metaverse-hopes-to-achieve"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 17
   - title: "AI Is Expected to Revolutionize Shopping Experience with Metaverse Shopping"
     excerpt: "Since the onset of the pandemic, there has been a major shift in how people purchase goods and services. From groceries to luxury"
     publishedDateTime: 2022-07-13T12:38:00Z

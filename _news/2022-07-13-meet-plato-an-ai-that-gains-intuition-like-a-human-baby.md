@@ -106,6 +106,20 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Scientist launches AI program ‘Plato’ that gains intuitions like a human body"
+    excerpt: "This AI, dubbed 'PLATO' for Physics Learning Through Auto-Encoding and Tracking Objects, learned physics like a"
+    publishedDateTime: 2022-07-15T05:29:00Z
+    webUrl: "https://www.phoneworld.com.pk/scientist-launches-ai-program-plato-that-gains-intuitions-like-a-human-body/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 36
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/AI.png"
+        width: 971
+        height: 434
+        isCached: true
   - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
     excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
     publishedDateTime: 2022-07-11T16:11:00Z

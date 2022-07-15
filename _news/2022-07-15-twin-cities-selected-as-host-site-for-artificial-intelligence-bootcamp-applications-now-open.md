@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!"
-excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai.org/application."
-publishedDateTime: 2022-07-14T20:22:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-education-philanthropy-artificial-intelligence-mark-cuban-f7887cf04aea1cdc0ab34e3f4e65b943"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-education-philanthropy-artificial-intelligence-mark-cuban-f7887cf04aea1cdc0ab34e3f4e65b943"
+excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application."
+publishedDateTime: 2022-07-14T21:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm"
 type: article
-quality: 25
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii"
@@ -34,7 +28,7 @@ related:
     provider:
       name: KHON2
       domain: khon2.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/03/GettyImages-1295900106.jpg?w=1280"
         width: 1280
@@ -62,7 +56,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -110,6 +104,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Birmingham Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Protective Life will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Birmingham will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T20:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-birmingham-artificial-intelligence-mark-cuban-4fb698910227c502e47956482c377ecc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Honolulu Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Honolulu will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T19:47:00Z
@@ -119,15 +127,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 10
-  - title: "Birmingham Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Protective Life will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Birmingham will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T21:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-birmingham-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639341.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Atlantic City Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "South Jersey Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Atlantic City will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:23:00Z
@@ -165,6 +164,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "4ZR2O4hQ9Z/Lfo23NnwCxVjP/TvTqDLiqIojTvQ34yzCZvUAeNXADw25wwslQy8cW3m0uNLrRWlSRGWOZcvmBlJXaDNxnrsIXPuv1YhspDz4jhs0re7p60Z/Ui94kTzUYuKSQUWBesMBWVlkSmlLqSpYtbFEkn1iK+jUVdDE0YyYd722nDZkaoq/9VEHwI2sHCuNsuKULW//plB5uxACEsuZK8SnehaTcTkvYg6NgYbhYO2Mw7WTi9t7CL671BVEkTEC2VXErztR38qgR3vq2oseIQiDkiJv8o5v2wVPlpt8OOF0OwcqT7/D36vL0dUi4aASkI/WUU4GlQMOMG7VpNah6Rj9yzoT7A0+R/9ugo0=;5qcmzCFG8oxZ3jwoHzrgrQ=="
+secured: "Xen1IPKtfaslCveQMdIwTTcrwSx6ryDzYdXkFGrQhWp8BHZfVewsyN+MhLRhPA8WZhluy9CnqwcUUEYVfkQT2fShHH1snQiJ/JroQvMqskDkxyROZwNyLJzThvcffs2VJMJdCMaeUsQqG2JNlxwaBKyIw7RUDnh/cOLIFLlc6+1vfx9a4t0lJrcplYdlefwOz3exePhGI4u9fsn4IMBEQMmaXv/RMFPlxtIl2yDKd4uVczyPIz/eQ+sSvQSATpSs7n1sp7QVraYU94HOqZBjaTMQQBjwKITq6BRSSlHO58yFKCOHt/yzbKT/qncroM1Iv8NJfwIVyzaegnpCBWXQQHp6gM+6qwJKLxdKFR/TvIQ=;bLn8Rr7ziFtUlx3kkmQ7Gw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-p
 webUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "5 Times AI Business Analytics Failed Horribly"
+    excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
+    publishedDateTime: 2022-07-14T15:22:00Z
+    webUrl: "https://techreport.com/news/3478095/5-times-ai-business-analytics-failed-horribly/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
 
 secured: "9VRQcLmb6Q2ngMj37WZ92oq60iM3NEjWU9Ab9Lw/Hls/luefpNxIvU8zoAUB4sbcEkPdPvg9xhmrgg+6jyHug0XFf7hEqXmjUI6bwjxxjviKR+Z1U/6KRX/IVKWSWC46Q3Fz4l86MB9sLV3uDl38XcFLZ3DwRcrfusWmnTK76wXpvJDvlgXUBwXJzWmVtyLAyju0yT6tTLziQwQW2QJDcT6EDDuUCeY/uFmVFLwe4kNn8+Dp8ahvd55JsTjhajOTz7GuUSTCJjd/w3GKsrcfxzOSAhmAPRUUvsXPHWfm4n7b4nZJAdcZgJsCwpBonp9jboM/EzHM/0LojUoRVN6rFxmM+tYKLNFkRYBpTy7U2CcMSCgkYJcx1TSimEm0DOcXbsSSk3z4ODnpLfZvNGULByQpAbl3yYffuHpawr9ndnodFkzW6zskxyCzrsoH8cO95Z8JPkPUlCbTveoVgOB5dTf8eRNr7MN18/+oYaNF0q3NDUcNdjSBvpWkUWvx9wOUT1DqRhbHXNLFfPyCKASOTQ==;NzVWLpBxJZ0NAXUAV79ruA=="
 ---
