@@ -9,8 +9,8 @@ ampWebUrl: "https://www.india.com/news/world/australias-sydney-to-use-ai-technol
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How we used machine learning to cover the Australian election"
+    excerpt: "We used AI to help show how campaign promises were targeted at particular seats, with marginal seats and seats held by the same party as the one making the promises being hugely overrepresented. Here’"
+    publishedDateTime: 2022-07-15T05:28:00Z
+    webUrl: "https://www.theguardian.com/info/2022/jul/15/how-we-used-machine-learning-to-cover-the-australian-election"
+    ampWebUrl: "https://amp.theguardian.com/info/2022/jul/15/how-we-used-machine-learning-to-cover-the-australian-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2022/jul/15/how-we-used-machine-learning-to-cover-the-australian-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/a06b1fa95037e071b8515f9345096ac7b1d27027/0_0_1000_600/master/1000.jpg?width=620&quality=85&auto=format&fit=max&s=0cb24096a4cccc1c8e995528b0d40046"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Global fintech Smart expands pension offering to Australia"
     excerpt: "Smart technology powers UK Smart Pension, a digitally led pension and retirement scheme setup for employers. The Australian business will operate under the Smart brand and provide its fintech offerings locally."
     publishedDateTime: 2022-07-12T01:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-e
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-07/14/KT_b506eimage_story.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "MBZUH launches Arab world’s first Bachelor of Arts in Philosophy and Ethics degree program"
+    excerpt: "It was developed in line with the university’s goal to expand its academic programs in such a way that will help spread the values of Islam and strengthen the bonds of human fraternity."
+    publishedDateTime: 2022-07-15T06:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuh-launches-arab-worlds-first-bachelor-of-arts-in-philosophy-and-ethics-degree-program-hi1hxlmz"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 29
+    images:
+      - url: "https://static.zawya.com/version/c:OWQ2MjI0ZmEtMzU0ZS00:N2UxMzVi/h-edr-dr-khaledaldhaheri-chancellor-mbzuh-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "MBZUH Launches Arab World's First Bachelor Of Arts In Philosophy And Ethics Degree Programme"
     excerpt: "Approved by the Academic Accreditation Commission of the UAE's Ministry of Education, the programme will be open to local and international students. Dr. Khaled Al Dhaheri, Chancellor of the MBZUH, stressed that the Bachelor of Arts in Philosophy and Ethics programme embodies the UAE's commitment to moral and philosophical education and the promotion of universal principles and values that reflect the common experiences of humanity,"

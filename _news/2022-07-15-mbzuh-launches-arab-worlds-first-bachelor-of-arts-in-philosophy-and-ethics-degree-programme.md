@@ -55,6 +55,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "MBZUH launches Arab world’s first Bachelor of Arts in Philosophy and Ethics degree program"
+    excerpt: "It was developed in line with the university’s goal to expand its academic programs in such a way that will help spread the values of Islam and strengthen the bonds of human fraternity."
+    publishedDateTime: 2022-07-15T06:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/mbzuh-launches-arab-worlds-first-bachelor-of-arts-in-philosophy-and-ethics-degree-program-hi1hxlmz"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 29
+    images:
+      - url: "https://static.zawya.com/version/c:OWQ2MjI0ZmEtMzU0ZS00:N2UxMzVi/h-edr-dr-khaledaldhaheri-chancellor-mbzuh-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "irPOpMwzQ75+kUoB74CJWPGolc9+7AY+xk/bqO1Ar2E9r2pJZ1IPu/l/LsYFS5JOQC3zkqVFHcb5qiK2qaORSxDYSgAKeGyVf4WyqBKJp5ySmUXyLDvYI9nDNw1LWbv0Gpaf9qKHbTYMgrAXapFvpiZ3tvcbOrJ/dn+h7rIbbQTRv7qELfSU6ZJutYizQoBBqcbrmEBXkGGPJuLDsl8zGiq3AThujeUq4lBJNlzNy/FzveBvy9j2S6PGL5GHTYjBYCZrWo0mSULMG9yh7P3YLZddllob+7QdLwP23aQesWzjuIKI59bxKKFk1bFnPAaaudZB9X/eBloAe0iycgSjkySVGkxgqE2I/ZSbbIMIn6w=;vO9PxiOb2d6KKMefA/Sw3A=="
 ---
