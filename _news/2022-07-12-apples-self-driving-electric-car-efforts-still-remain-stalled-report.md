@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electr
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Apple’s self-driving car effort stuck in low gear"
-    excerpt: "Apple’s quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported on July 11."
-    publishedDateTime: 2022-07-12T04:18:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/12/report-apples-self-driving-car-effort-stuck-in-low-gear"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656295.jpg"
-        width: 1240
-        height: 858
-        isCached: true
   - title: "Tech Report: Apple tests new self-driving cars in Montana"
     excerpt: "Apple’s self-driving cars had trouble navigating streets, frequently bumped into curbs and veered out of lanes in the middle of intersections during test drives. During the test in Montana, the Apple self driving car performed well but navigating city streets near the company’s California headquarters was a struggle."
     publishedDateTime: 2022-07-13T19:55:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T13:17:00Z
 originalUrl: "https://www.businessinsider.com/kontentai-raises-40-million-for-ai-content-delivery-platform-2022-7"
 webUrl: "https://www.businessinsider.com/kontentai-raises-40-million-for-ai-content-delivery-platform-2022-7"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Business Insider

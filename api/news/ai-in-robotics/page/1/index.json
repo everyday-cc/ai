@@ -62,7 +62,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -191,6 +191,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-scientists-built-a-self-aware-robot-that-can-perceive-itself-as-concern-over-ai-sentience-grows.md",
+      "title": "Scientists built a ‘self-aware’ robot that can PERCEIVE itself as concern over AI sentience grows",
+      "excerpt": "The robotic arm is powered by artificial intelligence and can contort ... cameras and fed the video directly into the robot's \"neural network\" - its AI mind. The robot observed itself for three ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/",
+      "originalUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/07/LM_robotAI_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/amp/",
+      "publishedDateTime": "2022-07-14T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1327,49 +1371,6 @@
       "provider": {
         "name": "ETF Daily News",
         "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
-      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
-      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

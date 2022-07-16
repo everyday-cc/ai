@@ -76,10 +76,10 @@ related:
         isCached: true
   - title: "Industrial AI Startup Detect Technologies Bags $28 Mn Series B Funding To Strengthen Global Footprint"
     excerpt: "Detect Technologies has raised $28 Mn in Series B funding round led by Prosus Ventures, with participation from Accel and Elevation Capital."
-    publishedDateTime: 2022-07-15T00:15:00Z
-    webUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
-    ampWebUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
+    publishedDateTime: 2022-07-15T09:48:00Z
+    webUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/"
+    ampWebUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/amp/"
     type: article
     provider:
       name: inc42.com

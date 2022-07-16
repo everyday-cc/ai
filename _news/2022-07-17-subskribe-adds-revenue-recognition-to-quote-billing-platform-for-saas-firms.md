@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-16T19:06:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/07/193677-subskribe-adds-revenue-recognition-to-quote-billing-platform-for-saas-firms/"
 webUrl: "https://www.crowdfundinsider.com/2022/07/193677-subskribe-adds-revenue-recognition-to-quote-billing-platform-for-saas-firms/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Crowdfund Insider

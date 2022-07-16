@@ -1,14 +1,11 @@
 ---
 category: news
 title: "CWallet, Microsoft Qatar partner to bring latest fintech services to organisations through Azure"
-excerpt: "Fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping businesses with the latest tools to ensure safe and secure digital payments."
-publishedDateTime: 2022-07-02T17:23:00Z
-originalUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fintech-services-to-organisations-through-Azure"
-webUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fintech-services-to-organisations-through-Azure"
+excerpt: "Under the new agreement, CWallet will leverage a number of Microsoft products and services including, but not limited to, Azure Machine Learning, Cosmos DB, Power BI, Kubernetes, Application ..."
+publishedDateTime: 2022-07-02T20:23:00Z
+originalUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi"
+webUrl: "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
   name: Gulf Times
@@ -24,6 +21,6 @@ images:
     height: 355
     isCached: true
 
-secured: "mrW83KnaEIfTLAohZxDrXJa7viCwVsG9T7xoHRsWDTHQ6AJ/+Qe3iNjFN6Le1+FVbdRcgncztQSx93yDml/KH0SAZ5bAlzzWCqHihWyt6BYktHue+8qsnueGtc4rr+AgA9Yrv9qdD6bq2HW6ySwWRvtsEqkmKXDa51hf9xbaHD92C2OvshA3lADYF0shTDzOtmBUgmRRsI/l7bViz0F8xWbjNoQ0+Tfovr/0ttmLq6y+F12imTwUpQV+cxC9X2tkCXK5URi1FKnLKVnTfzNHPGxPKM+AWG4DhJpOcXxsdMWeAVS79JIWJzdb4AqaHO62WmA633FDBlDvuObiMN62eI1KoPl9P/uRhmOQKlj0RtIwAo48fmtCCTi2BR3vjq6GdlVJ7mDet2FRMlvNNDVkYYRzhziCXQVImrVVu1oU5acpEMWd9Q3SOC5sSluR+jr/ESEpbDojmmsdQ3PmZA3PvVD5rI1kq9p+O9SbyPWeVX/6i79iG7/vXJ7Ruv2wyHSdvvzXIvlLgdTI2hep0mqHrA==;Xp7eoDUBPl++1nXu/DQTeg=="
+secured: "zThiI6CuX+muWB9IRvtwTnNHw4m1aI1+9jkmGeS5ahT5oXtcuup75e9gg1pcBndmymz3BDDuxNSYDM4+1ot2SWq8z8MdXugsxZwZW/Bu5RLoBjLrjWw6lpkpQwGL11/TluCUbqFKtS6NCAt7zeunNL/3PJ69XJGkrHmsIplHa7ICVsQ3QCReX5L/bsn6vtk/if2LKy8xiwWEgfm1dTYseFo2u/y+HcmJ5bVj7zEPlbE8sfMBREZD7dGQDZVbkq1KMXJNFmTTyfEdFdSCvuNo7aE1+1EdF0FhpAI1XxvnvgMO9tTnqGlsFBkU/46c4CEc1/SW/JGbmePYZ1Ot9P5UGLrq8UOYe73FRYQMNgda9GI=;OvvkCKyuj+QmFjXBhJ5ULg=="
 ---
 

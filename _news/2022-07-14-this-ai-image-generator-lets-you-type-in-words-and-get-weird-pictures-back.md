@@ -3,8 +3,8 @@ category: news
 title: "This AI image generator lets you type in words and get weird pictures back"
 excerpt: "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up."
 publishedDateTime: 2022-07-14T12:31:00Z
-originalUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
-webUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+originalUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+webUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
@@ -56,6 +56,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "IdRuyOCJV5rxuMpSs8H1IbNMNnZjBpz55ZjSyZLDouvSv2zfgnA8+M7iSwhKetyZyEUUxExb9dJN28jV8/ydPVsIEeS/LcOd0Ro80sd572fLRheo5eX1H3ycxEcUxnpfHg3QP+VgEyBPogyJVIgwMQrs5u+P1d4qQ7sbVld3Tq3rkTOmwBtiGl05zFKMd2Qww2EHEkTYt4GFT2PAF4by5UlD/jo41LGF7+K/w5yEIljU52Smw5aBzW7kwPO4iYhCg0XM6DDUtBS5iDrzyC1wkH2LdJUlMLyG1o2e8zhEqWDJ7sgUp60Oo4pG5WFa6CxMDbenjwNC9Xt1TKBKGIvFd8DC5Q7FTbRpL+SVHCnYLkyIHejBBfI1Eyl+A2a2mebTMJS1h4DoOOJRgnNXAfC1amqvdsElWDX+O4Vl34seSE+AzXx+B85JZB1ueNR2nogaUCuFplQzvWuTp9UkVHwLlG/i2Z3goZhnQ+pSEEUNHVX5B+tnYp9iVcTzUr71MmFz2314J5SbDfrTOIPNomOqdA==;MoLCkWZTwhYlDcwNbQATCw=="
+secured: "uPZ1eFxlRNPrffYTlFik0ZDrU9vt1JATtEUDff+t8ccFxsHb+ybKloZ15mbz2pqG76Z09qzodBCrmq/px+we7xi24h4AN87r4cjep2cfb9zwc6/T8pkWQBfPsMcD6zZ6GSYNT2Jr9fy43zCiE51R88CrlJCgwx6qjPRS5rm1XPxSjbHEuN0FwE5w4OFfL9giptRrD2WIbuhGuvMGrRW55IAypcNx1Gk1uHBtpDrHSzf9voqiZ0D9L0w6QrMatuKHOqDJD+bZI23zd6dbsjvNEIAjdqcQP8fZuZ2PWMgF4Rr+kHt8njzw3kkcCOU9OxJzKMxqibV9ejhuMPi1KWRuWlRuiw5PLJ5F5cOsElcZriI=;Gn0izOp06hCxIzvjZGI1gg=="
 ---
 

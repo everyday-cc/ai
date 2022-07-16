@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Report: Apple’s self-driving car effort stuck in low gear"
-    excerpt: "Apple’s quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported on July 11."
-    publishedDateTime: 2022-07-12T04:18:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/12/report-apples-self-driving-car-effort-stuck-in-low-gear"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656295.jpg"
-        width: 1240
-        height: 858
-        isCached: true
   - title: "Apple's self-driving car effort stuck in low gear, says report"
     excerpt: "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new 'big thing' from the company since its iconic co-founder Steve Jobs died in October 2011."
     publishedDateTime: 2022-07-12T18:00:00Z

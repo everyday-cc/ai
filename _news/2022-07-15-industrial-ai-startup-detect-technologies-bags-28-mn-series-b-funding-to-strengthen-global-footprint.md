@@ -2,11 +2,11 @@
 category: news
 title: "Industrial AI Startup Detect Technologies Bags $28 Mn Series B Funding To Strengthen Global Footprint"
 excerpt: "Detect Technologies has raised $28 Mn in Series B funding round led by Prosus Ventures, with participation from Accel and Elevation Capital."
-publishedDateTime: 2022-07-15T00:15:00Z
-originalUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
-webUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
-ampWebUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
-cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
+publishedDateTime: 2022-07-15T09:48:00Z
+originalUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/"
+webUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/"
+ampWebUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/amp/"
+cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/amp/"
 type: article
 quality: 42
 heat: -1
@@ -96,6 +96,6 @@ related:
       domain: analyticsindiamag.com
     quality: 17
 
-secured: "PNhNvpHrzx7gqweL4Clpa51oAgNiAbcYtP3uWrwbw1JAM11A7QQ+iAEvrKK53sp6EdGzHaZe8PRI6CN7yKTYYp6O0/LI8XfzlJTTM0hYKg8E3z/78+qNmuQQuQFVvqgJSk90owqRBKbCSRVtY+XKNsDuqE2H8pFmAQAgiOhLIRjfYsUoR0EnqyyRZFsfvHVDXiFYqqIuDZvJ/5/0ZcoAMevoEfdARLSSUw3qiou3lrMnGQfHh9mqCwH+pIC/KHQPD/2Ji7wMKPYY/qCC2SqrdV/K4F+ms5RUSruqCybMqO9kmJeuXPjMPT69v5JvJQ7ES4TaHp2RuwFI0kyZ3ZnJQfpHrLeW/3/iIPzaaDiR4fLkKpRz7Ce4qZ19Zo/nUYiAcOh90bBqqHSsikut43YAazoulfxZrakPrLS3RSx6yjHeAXp9L5zq+CHc30yZ0TiEUZ3WHmLNjVW/c3aW3tiNoSVcpmE1eVw0ZlwzLkY/3TXL2uoZyjN4FloyLjJCizzjaHbJTUAKfHzXoQdjen8XQg==;JN9DL5fKEgdyORXe0tjpcQ=="
+secured: "+XHOKtIPmqCqEOjFP9rqXhpHk+5Xh6qiFiIfhSiioNYJWJ64lVH8D/xw+p2q6rjwNll9fSvyLs9Txd2CDx0DErNb7TUBGFM6cnFgp9geP7L7rBWZwtLD+LAgNOPkDQyC2CBLKIcBJitC6K39tzIDih1Vz81EQler3Uy1/Z+KLZ9Bw/AkVxYszS292ii39e5glkUiLlLYMEGQdLmf+7Lpzrk93DpiyJv8Koi5TSJyowu565CWCdRqy8KqkJ/JevnC9VyrkTNxsJ2eTbERbJaTpVg10vNeGM1KxMoJYCba+WUN3bJar5UhRbg8KN4Zjr2pbj4bbWfIZhqo8uagTbBJfA8WugzdgmDJ88sCI1A9jfQ=;PIZmE7uTfgqD31lP2O6dKQ=="
 ---
 

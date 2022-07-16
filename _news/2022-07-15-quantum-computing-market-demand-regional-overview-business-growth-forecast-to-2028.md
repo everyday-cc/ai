@@ -113,20 +113,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI In Telecommunication Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global AI In Telecommunication market is segmented by Types (Machine Learning and Deep Learning, Natural Language Processing) and by"
-    publishedDateTime: 2022-07-12T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
     excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
     publishedDateTime: 2022-07-12T05:27:00Z

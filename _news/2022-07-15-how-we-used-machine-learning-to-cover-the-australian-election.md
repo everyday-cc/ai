@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Global fintech Smart expands pension offering to Australia"
-    excerpt: "Smart technology powers UK Smart Pension, a digitally led pension and retirement scheme setup for employers. The Australian business will operate under the Smart brand and provide its fintech offerings locally."
-    publishedDateTime: 2022-07-12T01:29:00Z
-    webUrl: "https://www.financialstandard.com.au/news/global-fintech-smart-expands-pension-offering-to-australia-179795890"
-    type: article
-    provider:
-      name: Financial Standard
-      domain: financialstandard.com.au
-    quality: 4
 
 secured: "pF0tg4X7DgeVtWNy1WvvBePgUVKBGaEi5ZiYxJ2XvQCwJiJjgHNtRV9hL2PPMAga00CLm4zMfFV+QmsWeY+lpSr4wF9HnCcD/5Q8ljDz1c4gF74Voiwgjk+9Z6Wn3eyBYrKbFpm/T6ulKNjKHim0TC8ON9j+XbB6JLts92bp8nr6Kizkwh+x0k6McH3LR/g4FhiouT+MfYbbvnn0FMIWmfMysnhS+riYcWpUeKg3OIw/RPVU7Fg2yEtHVXa3bjQfHX1E8LQfOxfd5ADAYLZ1h08ytbLH6mx+rbaxDH2Kk7NEWLjwBDffptbkdSv2PCQKcJMBpnNXMUKlf1Pugm5YVDQXCfiZnlW0hxW4E/Ev4ZMsE7Fd7DTSlfaUlBroxuq26SK7TOj44JY7gMW7bzrHGdL3PtZXRWDhKfc40Qj4L2M5JTTsmhDjMjTLohb6IyxFo50/FyTy2BT5uvco1C5GTilo/9SyFW2N6+Ww79CO16RYFdbObM8ErrtYeLyWuby7cTfY30HRqV0iRaMNjL5Mgw==;yCKm09I2CSxDcarsSOCfhQ=="
 ---

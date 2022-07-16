@@ -126,20 +126,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI In Telecommunication Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global AI In Telecommunication market is segmented by Types (Machine Learning and Deep Learning, Natural Language Processing) and by"
-    publishedDateTime: 2022-07-12T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
     publishedDateTime: 2022-07-15T13:52:00Z

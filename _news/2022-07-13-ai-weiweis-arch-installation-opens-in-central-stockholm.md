@@ -7,7 +7,7 @@ originalUrl: "https://www.archdaily.com/985289/ai-weiweis-arch-installation-open
 webUrl: "https://www.archdaily.com/985289/ai-weiweis-arch-installation-opens-in-central-stockholm"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Ai Weiwei unveils cage-like Arch installation in Stockholm"
-    excerpt: "Chinese artist and activist Ai Weiwei's steel sculpture Arch has been installed in Stockholm, where it will be shown outside Sweden's national gallery before getting a permanent home in the city."
-    publishedDateTime: 2022-07-12T05:00:00Z
-    webUrl: "https://www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/"
-    ampWebUrl: "https://www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/amp/"
-    cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2022/07/12/ai-wei-wei-cage-like-arch-installation-stockholm/amp/"
-    type: article
-    provider:
-      name: Dezeen
-      domain: dezeen.com
-    quality: 57
-    images:
-      - url: "https://static.dezeen.com/uploads/2022/07/arch-by-ai-weiwei-for-brilliant-minds-stockholm_dezeen_2364_col_hero-852x480.jpg"
-        width: 852
-        height: 480
-        isCached: true
 
 secured: "ALtKT8+hhFgaMlM/j2YUUtJWyGuLs3/pzFqe9YkSQFjHPG8LTXzOLC6XN0PuUPiPKkdlDPhPpryrFuyUOn9f70nQ+CAjo46I4/puJUe+U3Ej/7eG7st7ItKyy5vezF6TVqpUfANRVczqFSr8WKiBkI89lC9Igxj0/G3vu4Xit6/HqpE4DvU4trBDO5iv8Tw0D/BBBEK8lVS0byrJElhG4zjlcJKZdKeYRfB3Sqo3P5UMUkwP1b3Xm8s0eCV6GE48CEc9kS/LMFarwg+U23NcEArg7rVxBdk5bAd/ca/YtlT2Pl9awQF14GEjJmqSW2e0DdOyrb1Sb8heAWbEwQysitmqd2eCnjVbydk5skegxz4=;YRT+Yt3QAWCGxBar9eXBiw=="
 ---

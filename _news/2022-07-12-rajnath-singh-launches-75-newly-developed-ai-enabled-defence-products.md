@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.
 webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
-    excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
-    publishedDateTime: 2022-07-12T02:22:00Z
-    webUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772"
-    ampWebUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
-    type: article
-    provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 52
-    images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/07/12/2521695-untitled-design.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "GN3FdZ6GRVTLsFcKUMJaEFgXnitFqozmZW7WYBUqBH0gVlUs4cjzVNBZEK3EhzM+4aNrABwP79djTZfaAq4qBn7BTwzVE2Q8TL8Dx4Cnb2nmDUTZkTg1fIOPsspM5j/xiy5NpmyFDawCQhS/3yXuvs0I3dHCvhi1DkmnCun39pE6+j0hnqd9cZYsCjYS1hYg2UqQiusRil1Y6crgrhYONTvo19+xpWqrihRcKy35SCIx5Wi0nboyYxkKUjNzkCC75Oust/BUnO0jnT+S1vJSYO0dLKIcqpBsoR1egDehNnMBJkagUqc134b1H+qO2ZHBnwez+72nruB4pbX7VDOAQcETjV10kIM8sR+TCyHcYGI=;WrS1eceQ3cRrBtv07MPeLA=="
 ---

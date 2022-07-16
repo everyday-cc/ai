@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-13-how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry.md",
+      "title": "How Artificial Intelligence Can Empower The Future Of The Gaming Industry",
+      "excerpt": "The gaming industry has experienced amazing advances in the past few years, and AI can offer many more benefits and innovative solutions that could continue driving the industry to new heights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cd8de3fe04dc8a1f4c2949/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/",
+      "publishedDateTime": "2022-07-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
       "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
       "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
@@ -577,49 +628,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads.md",
-      "title": "Australia’s Sydney To Use AI Technology To Smooth Bumpy Roads",
-      "excerpt": "The Australian state of New South Wales (NSW) has announced a new AI (artificial intelligence) technology that is set to automate and revolutionise the way the state's roads are maintained and repaired.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/",
-      "originalUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/07/Collage-Maker-13-Jul-2022-12.44-PM.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/",
-      "publishedDateTime": "2022-07-12T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

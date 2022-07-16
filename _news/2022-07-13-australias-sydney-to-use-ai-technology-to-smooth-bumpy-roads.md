@@ -9,8 +9,8 @@ ampWebUrl: "https://www.india.com/news/world/australias-sydney-to-use-ai-technol
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/australias-sydney-to-use-ai-technology-to-smooth-bumpy-roads-5510608/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India.com
@@ -43,15 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Global fintech Smart expands pension offering to Australia"
-    excerpt: "Smart technology powers UK Smart Pension, a digitally led pension and retirement scheme setup for employers. The Australian business will operate under the Smart brand and provide its fintech offerings locally."
-    publishedDateTime: 2022-07-12T01:29:00Z
-    webUrl: "https://www.financialstandard.com.au/news/global-fintech-smart-expands-pension-offering-to-australia-179795890"
-    type: article
-    provider:
-      name: Financial Standard
-      domain: financialstandard.com.au
-    quality: 4
 
 secured: "U6WB8ZGZ/cSrG152XhbUKo8ZqW0wOScd+/WA4ADXhEh06eS2OyWpZAf87A35vkSdZ03d05kf40Wfgijj6fNbC29afGc62eb+d93VPfZL0vihDsAb1AEmAuEOX8nqie04NoiX+T/eavzy05kk8AG2gasTWmCdBELVXvRyuIaiHna/QBVRcMfu4n8KOFhSmPbpZ2up8PESPJGCccWj21/uKYVSGmDW3Uksww2EsmOhr3FWzXa3/rTTOhs8sP7Pk5TEKG4McZzg4vm77CfyVfTOXSJkB7hTA23KFCCnjSuqNbdXhqNeKJv/iuK9Z8ko01Cs76iML6H4a87VTOAoqITN/Csh7hbdYroi27BJlTR1jDa+QIYIMo5ONg8PxGZozwXMP7W9ad2BjF32obuiVLdNc5rGZoRwe7Cekp13YGV4lvm9P3E5TYfvennwyfvQJG1K7YZEdBxLxuQT+HmTEEknwYIQqN5U9AUxkCfUwLghKe1HMCbM6bzqCicT7yG8ZGpqfFuvZoYnBI1f2PI3dh4phQ==;bSQnN06NOy6iFNdq39EEBA=="
 ---
