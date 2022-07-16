@@ -14,7 +14,7 @@ website: https://www.patreon.com/poetofcode
 twitter:
   username: jovialjoy
   url: https://twitter.com/jovialjoy
-  followers: 78512
+  followers: 78514
 
 linkedin:
   url: https://www.linkedin.com/in/buolamwini/
