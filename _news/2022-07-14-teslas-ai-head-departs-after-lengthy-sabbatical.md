@@ -151,6 +151,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
+    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
+    publishedDateTime: 2022-07-14T12:00:00Z
+    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 43
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
     excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
     publishedDateTime: 2022-07-14T12:19:00Z

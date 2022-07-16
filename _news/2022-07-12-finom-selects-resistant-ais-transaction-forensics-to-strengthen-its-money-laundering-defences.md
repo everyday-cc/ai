@@ -67,22 +67,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "India needs to develop its Artificial Intelligence technology in order to become invincible: Rajnath Singh"
-    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in present context."
-    publishedDateTime: 2022-07-11T13:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/videoshow/92807783.cms"
-    ampWebUrl: "https://m.economictimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/amp_videoshow/92807783.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/amp_videoshow/92807783.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-92807783,imgsize-31378/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "India must be ready to face upheaval due to AI: Defence Minister"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
     publishedDateTime: 2022-07-11T21:35:00Z
@@ -120,15 +104,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
-    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
-    publishedDateTime: 2022-07-11T13:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/defence-artificial-intelligence-council/videos"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
 
 secured: "R0TB7M/e+7fBdaDufvANwXhaZmRzQ5cSXUV8y+e0TIIFC0ffJSFT5Nc3M5YfPvEOCEkDge6MGsdsF1aizbXRJVKLP+ZbqYwlhPNaVhFxIeNo/vfk5JBGhjTtysLoIg0xlJnAnffn7uPOBDD7E5GJkHsAd4eafaby4SQ99ACHZstWnhjVtTpXvnfv/NKaO6I/SE3vbeD7snCZvzFq2LGgVqpSf0NN5mShZsvafN5wbmES9GDx4oZ8NhlcgDr8Xeve6MbBB0PfUAM3C2b1qinUE76A+n7zeUSbVPOYMPJDRaoiMgWDRtzwUUAOHN7HvtIzfKfBMslTSlLJfmKEd6v7ZJNs1vHAqKE/+whDBWSqNwg=;JdkG7MjnlEUSjrjoyxJl4A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/when-ai-makes-art/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-makes-art/amp"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1312
     height: 984
     isCached: true
-
-related:
-  - title: "Humans Are The Future Of AI"
-    excerpt: "Taking a look at the power of AI in its latest evolution reveals its ability to impact businesses in an exceptional way."
-    publishedDateTime: 2022-07-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/humans-are-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "q2NCivrwVpheOdXcsHzPyqXDjq6JgcEw7gxldSnAbdLQF0Zc2iyzvVTF0zVoOog1uKpy6Hlk2q7N37iUtfoa70KFxfRy9yF6p1v3OlIpIQpV0asPffdx+/skBmfrbxS/BS39+zJnNbm4kdt58/teVzNfpw6uLvNiP50uHRjMYwQo88UvnB2lcMeGkbWc+C/c8QD6Rf3gbfv7sT0VMoa6kLVm3E7JdvzdALEqBv7VbfNC5imXsokBsXraScTNerN1dA2OJp86eeMHqsWAQZQup/6RrJbivEjJokFiJ041S2Js2v/r654Jab/sSGjVKw2cuSQFP8vyxZQo//visv410PnkNieuz3/qTVF0tSeqxN4oCxTLZtw7RlT7FMoJC4VIClnry7RIO795BfPno7/qhHikaMCtewzcQUAjhbj4rqIua/QfKULHrK1l+DOI6q1bsxNWscloZJmFeQNVVy5xzNHJuaF8li170NSmt6FzZLeKX+KPJMQoYvj17YPUUB+1WQwyFjSPa3xaVEcaO/OVNA==;f7vvSrxudeePwci7G7GwLA=="
 ---

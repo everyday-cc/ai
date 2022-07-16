@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-13T00:00:00Z
 originalUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare"
 webUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Microsoft AI
 
 images:
   - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"

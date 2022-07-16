@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple Car rumors: Self-driving vehicle could have 4 facing seats, no steering wheel, much more"
-    excerpt: "The Information's Wayne Ma today published an in-depth report reflecting on Apple's struggles to build a self-driving electric vehicle, including technical challenges and several leadership changes since the project began around eight years ago."
-    publishedDateTime: 2022-07-11T14:50:00Z
-    webUrl: "https://wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/"
-    ampWebUrl: "https://wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 32
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/06/Apple-logo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tech Report: Apple tests new self-driving cars in Montana"
     excerpt: "Apple’s self-driving cars had trouble navigating streets, frequently bumped into curbs and veered out of lanes in the middle of intersections during test drives. During the test in Montana, the Apple self driving car performed well but navigating city streets near the company’s California headquarters was a struggle."
     publishedDateTime: 2022-07-13T19:55:00Z

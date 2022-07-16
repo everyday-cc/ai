@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/for-all-the-hype-paytalk-falls-short-of-
 webUrl: "https://bestgamingpro.com/for-all-the-hype-paytalk-falls-short-of-delivering-voice-enabled-transaction-capabilities/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 365
     isCached: true
-
-related:
-  - title: "PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go"
-    excerpt: "PayTalk, a new app accepted into the first Black Founders Build with Alexa Program, aims to allow users to conduct all sorts of transactions with voice commands"
-    publishedDateTime: 2022-07-11T14:00:00Z
-    webUrl: "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/"
-    ampWebUrl: "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
-    images:
-      - url: "https://i.ytimg.com/vi/GIMROH_q0po/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "9YHPQxvy3Xcqv8eefrjLDU0KaJjaqXpdcz0EVxo3uLUTs9qXvqHh/1eaKkGBChWSQ4BEgFkW4aytQ9Cx+XS88+Vt+G5ppVbMHhlq+Md8QF5qUOm4zZ6O2f/86HuLHcMP3FCXlGCiW5V/s84/ctQvU34BYJPfQzUQYUd3g0SN+mg84pJ0i/FTUw0j/3UFNTKmn1dozF07FWJur1GA9oY86AWPPDzssl7u3bjsKibYK2o+Hk6WUXK8b0MKJGEJLOEZOqKx4i84jYA0/Dki4IqFC+9pN/ymEun9xLAvyTyCNECYef0Dfja913Kbso9nMZQYQEkdpnuecswMbc+mOk+zzt4YnN9pne6i5y/OFYhSdYDd91KAi7GA86/Bt+SEzr7BgDJ1FR8n9kkLzIucvH+ePHQ7M6PtcjxitUC1F1honrhwd2plFr4DEmJsJ7euHvy3jCqj6lDW3XNGTs/s+HYFv27yHVvyYRKfe/9Q8yIoBrexqdIrOQS+fF/Q6mpdmPi6dGBvKfuJbPAje4YVm9wNzw==;WdipnTn8s8bmPTSH00z3YA=="
 ---

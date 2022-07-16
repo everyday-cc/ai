@@ -43,7 +43,7 @@ related:
     provider:
       name: MD&M East
       domain: mddionline.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"
         width: 770

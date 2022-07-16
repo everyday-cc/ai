@@ -1,20 +1,21 @@
 ---
 category: news
-title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
-publishedDateTime: 2022-07-14T19:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+publishedDateTime: 2022-07-14T21:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -34,10 +35,10 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Denver Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Western Union will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Denver will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+  - title: "Houston Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Houston will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T20:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-21fd3da791fe13bbdc75e5f0608368d7"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee"
     type: article
     provider:
       name: Associated Press
@@ -48,15 +49,15 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Houston Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Houston will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+  - title: "Denver Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Western Union will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Denver will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T20:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-mark-cuban-21fd3da791fe13bbdc75e5f0608368d7"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 31
+    quality: 29
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -186,6 +187,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yey9YyTQOvLWy2ctbbo8M6Sja1VeYOoPaVSpP7z3Y7OTTv/+95LntzHRMSE94H6qyium2pr5+DlmttYWQuvrdhGSWRCG1+7um1QcDLIq0ZvmhzsSwTyrdkSl6kmqH4iWYk4wNf8tPE1aGHOcYDVThzsj6yvtKqs3qRKJR0qDDrORiA/6+MqA7d3bhMSB7BdatevHcjp3Gk+5fDKQVW19BcBFK2382GYTaya5eEpCxdbxRtGBwnSSXXcjUU9s9fuld4BEEjo9AJaCdSE2ZDMXfbFpxMCopyPycAddsTrjiqfPuICoWUqyKdOe+J3qrYwQPR3Qdi/L+UBcyuSYkJ8wMtRazM0DdJHVdMWbsgpNO/w=;ZI+xdSLehHcA7BBFhL1KeQ=="
+secured: "g2DLs5rmPLyEXnIoOi+Y57A433U6Toqay4NCH75spLo35nLukYicsgoaYv7REC48RuUncY4crFxzqHjlK93NL+BKe2rnqmtnNzvE+iyGnh4BX69If9W6AVZxHDDA6In0bGpBf8cZX8NiZh9g1pSlb9r3jHSC9iT49wMColTijlp5/VPPBs9Btg4dtsEMpDV7wo7ydilaMVSps0kYRrwM7PZQHvht807QapmrPERPrwkpdXt7mtmOPNfe8/EwXFotgUt2OW+hy/mNb37GlcHsVh3renFoubyY/j9Jmy/azWWJ22biuMI8XK9+pEXCX/bxv6MCQqmxyWSb4dkcViBLMvj5rdMbTJkpIyJJ0DGSsiA=;YHOV2+SjXiPP2JTqGHR8yg=="
 ---
 

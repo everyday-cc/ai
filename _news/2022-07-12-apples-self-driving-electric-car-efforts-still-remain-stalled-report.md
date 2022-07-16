@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electr
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23001447-1657557949494.jpg?quality=75&strip=all&1657543615&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Apple Car rumors: Self-driving vehicle could have 4 facing seats, no steering wheel, much more"
-    excerpt: "The Information's Wayne Ma today published an in-depth report reflecting on Apple's struggles to build a self-driving electric vehicle, including technical challenges and several leadership changes since the project began around eight years ago."
-    publishedDateTime: 2022-07-11T14:50:00Z
-    webUrl: "https://wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/"
-    ampWebUrl: "https://wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/11/apple-car-rumors-self-driving-vehicle-could-have-4-facing-seats-no-steering-wheel-much-more/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 32
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/06/Apple-logo.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Report: Apple’s self-driving car effort stuck in low gear"
     excerpt: "Apple’s quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported on July 11."

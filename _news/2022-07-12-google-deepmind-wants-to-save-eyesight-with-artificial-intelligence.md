@@ -50,19 +50,21 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "DeepMind AI learns physics by watching videos that don't make sense"
-    excerpt: "An algorithm created by AI firm DeepMind can distinguish between videos in which objects obey the laws of physics and ones where they don't"
-    publishedDateTime: 2022-07-11T15:00:00Z
-    webUrl: "https://www.newscientist.com/article/2327766-deepmind-ai-learns-physics-by-watching-videos-that-dont-make-sense/"
+  - title: "Alums From Google DeepMind Want to Bring AI Energy Controls to Industrial Giants"
+    excerpt: "It's relying on the same fix as their former company, DeepMind, Google's research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data centers, ultimately shaving huge chunks off the company’s ..."
+    publishedDateTime: 2022-07-16T06:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 69
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/11121145/SEI_114169887.jpg"
-        width: 1200
-        height: 800
+      - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "DeepMind AI learns simple physics like a baby"
     excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "DeepMind AI reacts to the physically impossible like a human infant"
-excerpt: "DeepMind has looked to developmental psychology to help AI gain a basic understanding of the physical world. Real-world physics are difficult for AIs to grasp when asked to start from scratch with only training data to guide them."
-publishedDateTime: 2022-07-12T09:59:00Z
-originalUrl: "https://www.theregister.com/2022/07/11/deepmind_ai_baby_brain/"
-webUrl: "https://www.theregister.com/2022/07/11/deepmind_ai_baby_brain/"
+title: "Alums From Google DeepMind Want to Bring AI Energy Controls to Industrial Giants"
+excerpt: "It's relying on the same fix as their former company, DeepMind, Google's research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data centers, ultimately shaving huge chunks off the company’s ..."
+publishedDateTime: 2022-07-16T06:55:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
 type: article
-quality: 34
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: theregister
-  domain: theregister.com
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics"
@@ -44,22 +52,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "Alums From Google DeepMind Want to Bring AI Energy Controls to Industrial Giants"
-    excerpt: "It's relying on the same fix as their former company, DeepMind, Google's research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data centers, ultimately shaving huge chunks off the company’s ..."
-    publishedDateTime: 2022-07-16T06:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DeepMind AI learns simple physics like a baby"
     excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
     publishedDateTime: 2022-07-11T20:53:00Z
@@ -88,7 +80,16 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "DeepMind AI reacts to the physically impossible like a human infant"
+    excerpt: "DeepMind has looked to developmental psychology to help AI gain a basic understanding of the physical world. Real-world physics are difficult for AIs to grasp when asked to start from scratch with only training data to guide them."
+    publishedDateTime: 2022-07-12T09:59:00Z
+    webUrl: "https://www.theregister.com/2022/07/11/deepmind_ai_baby_brain/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 34
 
-secured: "/knygS+ms5rwsWJLx8qcrfOeDYGN0qZFOEFp0gPn3pXHQS57QXgOTVVldWffCh55q2Yo2EUs3WJ8rh3qJYV3Q9etI/wMVN9pp10Mbu//UdjNpLNWPIoqpoAdmn8oWWQhfJS8kOZ4AQL3ib6ckGWtfpe4u9azpxYcztBeJyBg/OzjmGTC7aszeBPFYp1axvci/FzFa3koeCy1+R+09v6JcuaXK9Ar+3T2CXrFTMTNB6fhPYc299XNdkrGFSyL/38NM3FOJBCJzQTYYH3QKiHEK577c557Bn1VYZsEwRnZa/ajUJuDPmL1DU/ulQY0CBw/ojVHkASkHOJSNZHd3vEKWnFiv/pISGUi/TN8izHtzznLCtF7EWJd4JovzyL2mZ0Btx7WFICVH/0ctRxZF9NMK3L/ZFiOwxhsnZ9bD1wm7lsDtxa4bDNRW+7llWdfG0iOJC4iPBaXiH0LHUkM5+X3rbchiUT6SH436sHpPsCsvP5MWyE7xxPwFQPDTvEEpXZZoazSJTsKpdblYyfYBfPSqA==;GnHs04bWIVqe+be7A778Jg=="
+secured: "4kF1Uzg/Sl0ayf2W7jfEGkGDtJmmGYcDKNyvSUsR6M3xHcnFCIqBjicVSb2XCAe1EIMWQKGMDtvS5+2wQZDMDuo9i39c8HjNO84FCS21VDgVnxMMumasQY5bQxb409KanabblwMsHG5t5rovpq4e/P1Nwc2NGwVW+fMkjrWrVzax9HkFbCvQpaeEuJZ1QRBRVu2r1yyBn9Lfb8FY60NeVTn3VAsMYgq7rpofcqI2wJjFgvSgQqHvA7f2W4+NqEg582Rgtw8NSyjHDNWdfREFG3yNnKPzNfk/XG4rl5yY+h7A3CAzqQ2YxdpaW2K9Et8oFoEzRLI08zQScn6iiq0EpqbgEqxI7oiWULqTf+yaBKk=;OQPfOqCEP/cWrbYNzdtAZw=="
 ---
 

@@ -159,6 +159,20 @@ related:
         width: 750
         height: 521
         isCached: true
+  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
+    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
+    publishedDateTime: 2022-07-14T12:00:00Z
+    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 43
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
     excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
     publishedDateTime: 2022-07-13T18:28:00Z
