@@ -1,20 +1,20 @@
 ---
 category: news
 title: "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'"
-excerpt: "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,"
-publishedDateTime: 2022-06-30T17:03:00Z
-originalUrl: "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
-webUrl: "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
+excerpt: "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general ..."
+publishedDateTime: 2022-06-30T23:55:00Z
+originalUrl: "https://theconversation.com/people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call-o-182100"
+webUrl: "https://theconversation.com/people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call-o-182100"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "suzpIvs7r1Ft+Gir6RtdMnJigRC8Ir6+2HB/nylGx+foyaCFE8U2GTQ8fjlrOfWujuTqdbWB/GJHm2Ix6czE43jmCKRmGt1W8NJjgiKnnRpQoLaH9MXzCqnTmFJQJWT4yczlxhZsFZ3gDR5Fxyv4fvK0tpcmaQhb9i9+dvPGcsTZs3uDCZMuNamyz0niZsK46Yejld3KC2P+uWn7teTF37EQa8FpnowfBc9IlsodPgI05zKF8/F4cC4ZzbrkbEKm+uKgDZFgTy1jbbPOsTFeGUBp397Tsj3daCNBEz2bXmjN0aHs3+hR07HpasTPUCz3W0PL59qf9HUSTXzWxtuEEz3R5YwyCeXXM2WIiMkNiPhtpkQBjPTYGQ0ZKgs8+d8GPV9E/eDRk09aCDh4sL2zodVoHgSF7HQNSPRxzcqwQcaeb237ANQnSucle8bUC60IHezqvq1jSGQbKJJjVfet9hejibTfL6uyNTQAZWMdMivSpXgfX8YsJmrzjHFIfRTrAc/MAOSeibwQ7Xjqq8SUoQ==;bTaoWy/PwmrrcwMXUgQPaQ=="
+secured: "QO9zhhGhX77yq1oPBT79lLg079/si9hK5GaIGVoa1Y2e3usOlYcToPufBZ/deW4eUa+s3fjnVivzlmnZd50rwupcQuTKCD0ADqkUPMLRG9/vjVP1k34VA/aGqPszDBQm6Psq5ek65R1kJ8IhBqmeaHAXnClOO57UmO+UwQ9oB9fU36oYxbcFGgZMBjURwYkikZvSXY9pOWNCqRsxVQUbW5NKJjGFo98fHDjFVM0VnW1Z4Z98Eoo5cfdfhO/viewMDOeJlC1BYmxVm5pfZQcxpfmkgvAjWVeQxPKaPAwPp4d1MR2e99YdNzO16Tp5uXwad2fDWvguezywPcbo5fLfGHs9R6y9UyNe1gEcnjlOLYo=;7184nsBWi/dNFGiW1WpkbQ=="
 ---
 

@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 related:
   - title: "The Air Force plans to test an AI copilot on its cargo planes"

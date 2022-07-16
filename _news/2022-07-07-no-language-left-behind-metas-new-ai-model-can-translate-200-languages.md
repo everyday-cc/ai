@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://cdn.neow.in/news/images/uploaded/2022/07/1657179489_287605911_512850337132384_8138110729340998362_n_story.jpg"
