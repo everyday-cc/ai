@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/indian-tech-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Standard
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 innovative FinTech start-ups in Japan"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-07-11T07:45:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-innovative-fintech-start-ups-in-japan/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_FinTech-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "The future of fintech"
     excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
     publishedDateTime: 2022-07-13T08:32:00Z

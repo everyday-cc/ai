@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesstoday.in/amp/technology/story/india-must-be-read
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: Business Today
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh"
-    excerpt: "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,"
-    publishedDateTime: 2022-07-11T07:53:00Z
-    webUrl: "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
-    ampWebUrl: "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
-    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html"
-    type: article
-    provider:
-      name: Oneindia
-      domain: oneindia.com
-    quality: 59
-    images:
-      - url: "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Rajnath Singh Claims India Must be Ready To Face Disorder Due To AI"
-    excerpt: "Defense Minister Rajnath Singh has brought attention to India's need to be cautious with artificial intelligence (AI) as it is bound to face legal, and economic distress among issues."
-    publishedDateTime: 2022-07-11T07:09:00Z
-    webUrl: "https://www.outlookindia.com/national/rajnath-singh-claims-india-must-be-ready-to-face-disorder-due-to-ai-news-208306"
-    ampWebUrl: "https://www.outlookindia.com/national/rajnath-singh-claims-india-must-be-ready-to-face-disorder-due-to-ai-news-208306/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/rajnath-singh-claims-india-must-be-ready-to-face-disorder-due-to-ai-news-208306/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
     excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
     publishedDateTime: 2022-07-12T02:22:00Z
@@ -75,37 +43,21 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "'India Believes World Is A Family, Developing AI For Humanity's Progress': Rajnath Singh"
-    excerpt: "Singh, who was speaking at the symposium on 'Artificial Intelligence in Defence' in Delhi, addressed several factors concerning the use of AI and its future."
-    publishedDateTime: 2022-07-11T08:06:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/india-believes-world-is-a-family-developing-ai-for-humanitys-progress-rajnath-singh-articleshow.html"
+  - title: "India Must Be Ready To Face Upheaval Due To AI, One Nation Shouldn't Dominate Tech: Defence Minister"
+    excerpt: "He stressed that AI technology should not be dominated by a country or a group, as has been the case with nuclear technology, and India needs to make advancements in the field"
+    publishedDateTime: 2022-07-11T11:48:00Z
+    webUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404"
+    ampWebUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 48
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 44
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1gqvpf6atlnz8oxu_1657523738.jpeg"
-        width: 768
-        height: 439
-        isCached: true
-  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath Singh"
-    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
-    publishedDateTime: 2022-07-11T08:24:00Z
-    webUrl: "https://www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-singh/article65626423.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 43
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/fig4eg/article65626449.ece/alternates/LANDSCAPE_615/PTI07_11_2022_000021A.jpg"
-        width: 615
-        height: 383
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Indian Armed Forces get ready for future warfare! Undergoing important changes due to AI, says Rajnath Singh"
     excerpt: "From focusing on Artificial Intelligence (AI), Quantum Labs, Industry 4.0, Machine Learning, Neural Networks and Deep Learning algorithms, Robotics and much more are gradually being introduced and ..."
@@ -138,6 +90,20 @@ related:
       - url: "https://img.etimg.com/thumb/width-600,height-450,msid-92807783,imgsize-31378/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "India must be ready to face upheaval due to AI: Defence Minister"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-defence-minister/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/07/page5-4-6.jpg"
+        width: 800
+        height: 414
         isCached: true
   - title: "India should be prepared for upheaval due to AI: Rajnath"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"

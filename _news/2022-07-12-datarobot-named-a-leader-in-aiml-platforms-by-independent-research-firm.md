@@ -1,28 +1,22 @@
 ---
 category: news
 title: "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm"
-excerpt: "This report evaluated 15 AI/ML Platform vendors based on 25 criteria. Of the vendors evaluated, DataRobot was one of three leaders, and received the highest score possible in the market approach, performance,"
-publishedDateTime: 2022-07-12T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-476a2b2ab5ce4dd5b759613a7b8e52ac"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-476a2b2ab5ce4dd5b759613a7b8e52ac"
+excerpt: "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ..."
+publishedDateTime: 2022-07-12T15:10:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm"
+webUrl: "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "C3 AI Named a Leader in AI and Machine Learning Platforms"
@@ -40,6 +34,6 @@ related:
         height: 539
         isCached: true
 
-secured: "27ei0k0rWUJeqH5LK4jNASnKAsIXxV4gGKHeb8HWjZi7wg2qXs9YnFNasmGcQfPBrRCuT7Jm5GbdM+XPHYH6eT9z9XL7kwefUwD4hkwkDVfXStwgwEwj95yrJ3iGM8iLMjQW770LzvQH2sT/U4wEHtdXawMwwfa4SWRgh0OLxaNbdn7c++4oimwtJdzE9HX1R+9Il++u7TLxlJS83xOFf5QsesugHotZR2tdGzflRfOwfw5KALeMNrVTttkbO+4nCKkkJ8uPkmq9X2tJQLN38kYjdLKcDdx6RKfpicvXE6uKGcGygTxRPla1OA71WVr7Iafh0VF3kmDW1D8k6faYN2QTU7WhGUJotlK+JrFJ/+k=;wCGwTxp2JlYd5DHTcxnRug=="
+secured: "mHxPiwwx8GxOF6W7oir7g2c8amvBOa6XD8/KHzQbIdTzlXf2vkAo/NulTBcMMCCikLQguLBO1/B+xNHN3kdzvCRYnUNk/Pnifkg122HhIrUDIeUsSY+XJkPyeAkXxcD7Aml5yxQHPeFzvo7h2YjzTsNhOJQhVIJWPZuADiPc7kskp3vSg89XDuqSWgsTXdMIgKiAj8NA1wfP/xnqeFdPu679JrcXwo93ozvMz6pLDxynrKQMPlGoWu93HrlckS8M0w2YeZB/ghy9QD5vOnkzXqF5fHuSY5JRsaMWfkFVD/qzRw8IkBwVHw5gNqzeRJZZw9xnEDiomFQ3N+OqSbVgqqrkhT80Sdcf8dfiVMuWT6Q=;AlNQhUc8FNyCpwIB9g2Qfg=="
 ---
 

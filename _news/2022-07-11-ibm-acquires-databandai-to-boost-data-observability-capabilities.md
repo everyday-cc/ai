@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Acquires-Databanda
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Acquires-Databandai-to-Boost-Data-Observability-Capabilities-153842.aspx"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "Why did IBM acquire Databand.ai?"
-    excerpt: "Since Arvind Krishna took charge of IBM in 2020, the tech giant has acquired more than 25 companies. This year alone, the company has added five more names to its kitty, with the latest acquisition being Databand."
-    publishedDateTime: 2022-07-11T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-did-ibm-acquire-databand-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/IBM.jpeg"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "IBM To Acquire Databand.ai"
-    excerpt: "IBM (NYSE: IBM) is to acquire Databand.ai, a Tel Aviv, Israel-based provider of data observability software that helps organizations fix issues with their data"
-    publishedDateTime: 2022-07-11T08:17:00Z
-    webUrl: "https://www.finsmes.com/2022/07/ibm-to-acquire-databand-ai.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
-        isCached: true
 
 secured: "YGdB7ZX1eNvG6+u2j1rfbc9PRmy8AmmdRQZ4SofzoXZLUtOwjvLwNu2lc1yNkC6DAjkGX3vr1O1mMxNPfKQ61s+xSnu/O68AYIHKHuXH7Rxp58abWlYBHKFxFmUS9uulqxUbXYRl4EY6sdeIuZ3FZPxjWjV2jR2FEMY+ZzFFOzJ2cLodhUMIerOdVeXg2QF62crvtPGgI3dKcZB+cuHFZXZdJPuL/EHb3okZwiX/untiM1mohyDs955UOjH5WO4kbMyiHxxMZhJpm3yjCTWsePuPXzpgIliMUxrrvFxb1IgXALpuQCIejxCyQBY/PF3+LkgjUR9osghLalLC+ln1yI3N8mH1UaUSnHujSB8xIXk=;IJikIVD+vCNH4aQhIMs8+A=="
 ---

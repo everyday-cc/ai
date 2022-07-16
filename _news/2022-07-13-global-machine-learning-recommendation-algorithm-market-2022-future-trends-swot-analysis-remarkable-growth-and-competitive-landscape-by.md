@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
+    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
+    publishedDateTime: 2022-07-14T19:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
     excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
     publishedDateTime: 2022-07-12T06:40:00Z

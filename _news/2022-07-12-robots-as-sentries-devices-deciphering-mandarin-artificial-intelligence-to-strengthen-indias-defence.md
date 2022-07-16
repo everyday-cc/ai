@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentri
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
 type: article
 quality: 58
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -42,36 +42,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "India Must Be Ready To Face Upheaval Due To AI, One Nation Shouldn't Dominate Tech: Defence Minister"
-    excerpt: "He stressed that AI technology should not be dominated by a country or a group, as has been the case with nuclear technology, and India needs to make advancements in the field"
-    publishedDateTime: 2022-07-11T11:48:00Z
-    webUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404"
-    ampWebUrl: "https://www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldn-t-dominate-tech-defence-minister-news-208404/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 44
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1655541594.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "India must be ready to face upheaval due to AI: Defence Minister"
-    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
-    publishedDateTime: 2022-07-11T21:35:00Z
-    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-defence-minister/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 39
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/07/page5-4-6.jpg"
-        width: 800
-        height: 414
         isCached: true
   - title: "75 AI products launched at first-ever ‘AI in Defense’ symposium & exhibition in New Delhi"
     excerpt: "India’s Minister of Defense Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defense’ (AIDef) symposium and exhibition, organized by the Ministry of Defense in New Delhi on July 11,"

@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
-      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
-      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-09-sure-githubs-ai-assisted-copilot-writes-code-for-you-but-is-it-legal-or-ethical.md",
       "title": "Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?",
       "excerpt": "GitHub's Copilot is an AI-based, pair-programming service. Its machine learning model raises a number of questions. Open source experts weigh in.",
@@ -1134,6 +1091,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-discover-how-to-step-up-your-ai-game-on-day-1-at-transform.md",
+      "title": "Discover how to step up your AI game on Day 1 at Transform",
+      "excerpt": "If you haven’t yet embraced artificial intelligence (AI) and machine learning (ML) in your operations – or plan to embrace them – it’s time to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/",
+      "originalUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/amp/",
+      "publishedDateTime": "2022-07-07T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

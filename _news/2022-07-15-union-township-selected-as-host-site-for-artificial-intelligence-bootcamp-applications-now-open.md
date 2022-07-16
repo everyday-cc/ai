@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-14T19:38:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
 type: article
-quality: 5
+quality: 3
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Autos
   - AI
 
 related:
@@ -178,6 +177,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "6WiabyyQlK1P3uu+uXkWt6XVjbxQx27HlwYhlV0wyi48wpo1NoY/GAU10Q79ai2arlT9Qj4F0ld3bne8MDUjHaVF7HPFy4KUpikZPZY7VlyaS+5oGVOgIdvb6do0tqjPIIkoCym+ZyoYT8bgeMd/jp6sOLIIUr94PUDUhvLzp/rYFOeu4FE5zj70Zx/tltshrEo3HFeVQfW+1JaVt0ONwR65wEtvtc2kza+TCj/f/nOvOFMWcwdpNDJY2n5HUmSbJL6MzaueVv0Rcur7fd8tPRbAjoxk8nUeB/2OQgjQSmx+cXv1AgudTB1wkfaSV8r1oxdYgiTN6peSOyqfiBNmz7PXNXDt8uTVY5nSgCEhyyM=;vfsqpD+TidKYhoYtTt/Zpw=="
+secured: "u77s5AKI0e7rLgKvxASCGkczo3Ynd8tHTFxKNu4G5vqnBNTB1Rk3yo2zElBVqgzJmnEFMfqZxCNyQ40PyTOMpfOvfd1NUQRlAXHuEQvxDo4om+KzKfsZdDvI8N9yNzGmSpU2XGL/XsGcHbCDWffgp+0RocFsAlmZ9+IQQjIyM7ZkkKsvZtnU7Gvmvrk8icYVnUG/DPJHg1Wwhs1q1GOniAFgDkE07OnVdTiGdRemW4O5o3Piqt5IVUwVxN/MzW4hXCAmy4jCW8K1eHYpWZa1Va4bzmVyz8NVBBscUR49Vy2wDvbOrDNhp++dlRXEl98WglRy0mD71EESMIpyBNo7NEGdczkZJs9O2yMHrm2BecY=;+yKx+I2xwkPRemNjE5e6bQ=="
 ---
 

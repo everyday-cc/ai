@@ -1,22 +1,32 @@
 ---
 category: news
-title: "London Tech Start-Up Eswapp Teams Up With St. James's Place To Pioneer New Way Of Learning"
-excerpt: "London, UK, 11th July 2022, ZEXPRWIRE , Award-winning London AI company eSwapp has joined forces with St. James's Place , the UK's largest wealth management"
-publishedDateTime: 2022-07-11T19:30:00Z
-originalUrl: "https://menafn.com/1104512929/London-Tech-Start-Up-Eswapp-Teams-Up-With-St-Jamess-Place-To-Pioneer-New-Way-Of-Learning"
-webUrl: "https://menafn.com/1104512929/London-Tech-Start-Up-Eswapp-Teams-Up-With-St-Jamess-Place-To-Pioneer-New-Way-Of-Learning"
+title: "London Tech Start-up eSwapp Teams up with St. James's Place to Pioneer New Way of Learning"
+excerpt: "Award-winning London AI company eSwapp has joined forces with St. James's Place, the UK's largest wealth management company, to launch a brand-new skill swapping platform as part of its Digital Learning strategy."
+publishedDateTime: 2022-07-11T18:44:00Z
+originalUrl: "https://www.marketwatch.com/press-release/london-tech-start-up-eswapp-teams-up-with-st-jamess-place-to-pioneer-new-way-of-learning-2022-07-11"
+webUrl: "https://www.marketwatch.com/press-release/london-tech-start-up-eswapp-teams-up-with-st-jamess-place-to-pioneer-new-way-of-learning-2022-07-11"
 type: article
-quality: 0
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AI Start-up eSwapp Teams up with SJP to Pioneer New Way of Learning"
@@ -29,6 +39,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "9tyds25c/D8jlE5kTiC72/Z20uCt/57XKonL+hQa+0oBLN8sPLbLUtCD1lsXuRpvxgRE5ejJssUUMDibWUThfkpYDDMZmAKdFUnGkWPNL9xche8TXez5KUcOqQIKNgeh0IEATWcpGjLA3/01PAeKMTG2yfpfyeEQkMgNT+sL1f5ezCOGIRRO0BYl7o/PqMk0i8QslHS+ImWC48fwgT9mDBUxhVnGO3ihdo8+psNffyBUwqRNTa3MZbFFBsymQOVkTHgJFXgGiUtd5Al4a4CrnlakzboRYKL+HSV1ynZI6saoE9WTEkylC1GvyGXF075BTwb0/uDo7cs8B3XHNaXyDTFxDWyA0dS2/OQOd0FCDJu5pmVRKI3PVZQlyTWIftbmVJQPrF6+S4n75aux7a+09ZYsKFwhUoIK2uJTE0fuQ16bYXltVvNYWgNBrYZxGrpozSLfa9F6nb+kI0Bh9vMOTgLXmQ0Gc0R9P2Oykkn7H8YJOHoZOzVmjFPOwdq1LjcFhB+4+dCZ/gaWo+8OGOVgeg==;Gt0czZtp0tE94hSSxtM7DA=="
+secured: "Arqnh+X3onw7m79NFaJtsjhyylsYpoMQTsLyXYoqUwkAcgoxMo0xc1xsoakWNYbzx3RDi7Sz1pEOoBkbsvwv036ztDp9pbC204av3+Wn3F1Trc67EKAIx6UVtVF1Q/FcXlVxJcW54FELeRAFM8S6sgKDI4Oktul9H/nrtdWokkv02lr0gKNdGI0hOc23NZCtQBRcxr26vz0jZ3xmxPjiVbTsJgCtoQAzXWa9gtdY+XNvmYr2GPEaI3bnCr13jQrs86t3P5bXkBUtXTsNa1cqMUuITXHo0u1X8GaI6bJEDxkKBAxZn3P+ZcoMYvVOyMtSBusB0M5znW0N2OvAzYa+OCBlyyo5rM524lmP8+E+C3A=;dt0AoSP9KndatobrwGUAWw=="
 ---
 

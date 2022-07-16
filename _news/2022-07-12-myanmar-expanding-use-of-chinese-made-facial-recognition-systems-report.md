@@ -7,7 +7,7 @@ originalUrl: "https://thediplomat.com/2022/07/myanmar-expanding-use-of-chinese-m
 webUrl: "https://thediplomat.com/2022/07/myanmar-expanding-use-of-chinese-made-facial-recognition-systems-report/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Yangon, military junta will install Chinese facial recognition cameras"
-    excerpt: "Mother of Abe's killer belonged to the Unification Church; New mass-testing campaign in Shanghai; Rajapaksa will leave on 13 July but yet to issue a statement; the d"
-    publishedDateTime: 2022-07-11T08:09:00Z
-    webUrl: "https://www.asianews.it/news-en/Yangon,-military-junta-will-install-Chinese-facial-recognition-cameras-56230.html"
+  - title: "GT Voice: China-Myanmar trade won’t be affected by Western noise"
+    excerpt: "Myanmar is installing Chinese-built cameras with facial recognition capabilities in more cities across the country, Reuters reported on Monday, citing anonymous sources. While it is unclear whether the local companies that won the tender for Myanmar's safe ..."
+    publishedDateTime: 2022-07-11T15:27:00Z
+    webUrl: "https://www.globaltimes.cn/page/202207/1270280.shtml"
     type: article
     provider:
-      name: Asia News
-      domain: asianews.it
-    quality: 39
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
     images:
-      - url: "https://www.asianews.it/./files/img/size3/00_COP_AsiaToday.png"
-        width: 700
-        height: 460
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-11/6f18756d-3e5f-422d-bed5-8a38e5ff0f7f.jpeg"
+        width: 1200
+        height: 720
         isCached: true
+  - title: "Myanmar expands facial recognition-ready surveillance ‘safe cities’"
+    excerpt: "Myanmar is creating five more safe city surveillance schemes across the country using technology from the Chinese firms Dahua, Huawei and Hikvision."
+    publishedDateTime: 2022-07-12T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202207/myanmar-expands-facial-recognition-ready-surveillance-safe-cities"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "Uo3lwvWEWJRvrw66I3yu/mwDXlL7O8vhRg3jPaqXR7ZcJ+e9jNoXN/HRRX/3Qf/Cpm09Uvv/7VoljSXD48NI59dBEg2szki587Dym8pzV4ncK2M30jFRlCwvBx6uJy04p0B+bLDJpv/X8VFkd9B/vrcQQZmxcYtb1HqBkv6NXtdSHTLdp7B2+d8ykndlhUYyYx9qSz7wh/EKFthNMGnkLhWGUSPa6dlEP55z9buWrLwEda1lcT0tzLCvbtlVYYt+J7Y1krfX1UFGxHBl1rooIjYNGjvf/9oCpYIWVl7PmLWMHlcZuu3/Y9z1OKyswl8haZvYrBgAYmSiaUtPSY5ezpyblkPe7daq3toHp8kRRwm8nS8Ubv/NJyMPTSX/wWynwPLGuzOqHhRC3BKuBIGBHqn5mlKa90D5X1AkDToZxnHZSFMuDbcirh+lxZjSZ80OxaGl6TtaeByk5jI9gSaT5MiigGOxsqMLRrE8X+4frBaeJVXlOmoa6ylFwleF3WvntoHvPe8gPRZUQL3jIn1n0g==;A0BJ6MjrnmRwTnJB83R4vw=="
 ---

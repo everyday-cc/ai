@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-07-12-artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025",
-      "excerpt": "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-12-how-ai-is-helping-drug-hunters-succeed.md",
       "title": "How AI is helping 'drug hunters' succeed",
       "excerpt": "Dr. Iya Khalil is using AI and big data to transform medicine and healthcare. For more Life Itself talks and related articles visit CNN's collection here.",
@@ -142,49 +91,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-bowdoin-college-to-offer-ai-ethics-course-in-2023.md",
-      "title": "Bowdoin College to Offer A.I. Ethics Course in 2023",
-      "excerpt": "A private liberal arts college in Maine is working with a North Carolina nonprofit on a course about responsible use of artificial intelligence, including related media and unintended consequences in the job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8866f9f/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F97%2F45%2Ff1838f9c45d6b639399db0b5b014%2Fbowdoin-college.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true",
-      "publishedDateTime": "2022-07-11T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -604,6 +510,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh.md",
+      "title": "India must be ready to face upheaval due to AI, says Rajnath Singh",
+      "excerpt": "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
+      "originalUrl": "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202207/ezgif-sixteen_nine_142.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
+      "publishedDateTime": "2022-07-11T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1166,6 +1115,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
+      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
+      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

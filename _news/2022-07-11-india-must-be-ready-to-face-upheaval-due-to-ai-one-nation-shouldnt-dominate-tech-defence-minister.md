@@ -27,37 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
-    excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
-    publishedDateTime: 2022-07-11T19:25:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
+  - title: "India must be ready to face upheaval due to AI, says Rajnath Singh"
+    excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
+    publishedDateTime: 2022-07-11T09:08:00Z
+    webUrl: "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 58
+      name: Business Today
+      domain: businesstoday.in
+    quality: 59
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
-        width: 600
-        height: 390
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202207/ezgif-sixteen_nine_142.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Deploying robots as sentries, deciphering Mandarin into English: Artificial Intelligence to strengthen Indian defence forces"
-    excerpt: "NEW DELHI: India’s focus on the new age disruptive technology Artificial Intelligence (AI) will lead the forces soon to have not just robots doing sentry duty but also the soldiers in mine laden fields will have robots marking and warning about the mines."
-    publishedDateTime: 2022-07-11T19:27:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
+  - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
+    excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
+    publishedDateTime: 2022-07-12T02:22:00Z
+    webUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772"
+    ampWebUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
+      name: DNA India
+      domain: dnaindia.com
+    quality: 52
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/07/12/2521695-untitled-design.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Indian Armed Forces get ready for future warfare! Undergoing important changes due to AI, says Rajnath Singh"
+    excerpt: "From focusing on Artificial Intelligence (AI), Quantum Labs, Industry 4.0, Machine Learning, Neural Networks and Deep Learning algorithms, Robotics and much more are gradually being introduced and ..."
+    publishedDateTime: 2022-07-11T12:52:00Z
+    webUrl: "https://www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/"
+    ampWebUrl: "https://www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/indian-armed-forces-get-ready-for-future-warfare-undergoing-important-changes-due-to-ai-says-rajnath-singh/2590206/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 40
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/PIC-5.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "India needs to develop its Artificial Intelligence technology in order to become invincible: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in present context."
+    publishedDateTime: 2022-07-11T13:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/videoshow/92807783.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/amp_videoshow/92807783.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh/amp_videoshow/92807783.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-92807783,imgsize-31378/india-needs-to-develop-its-artificial-intelligence-technology-in-order-to-become-invincible-rajnath-singh.jpg"
         width: 600
-        height: 390
+        height: 450
         isCached: true
   - title: "India must be ready to face upheaval due to AI: Defence Minister"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
@@ -73,38 +105,89 @@ related:
         width: 800
         height: 414
         isCached: true
-  - title: "75 AI products launched at first-ever ‘AI in Defense’ symposium & exhibition in New Delhi"
-    excerpt: "India’s Minister of Defense Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defense’ (AIDef) symposium and exhibition, organized by the Ministry of Defense in New Delhi on July 11,"
-    publishedDateTime: 2022-07-12T14:46:00Z
-    webUrl: "https://thesouthasiantimes.info/75-ai-products-launched-at-first-ever-ai-in-defense-symposium-exhibition-in-new-delhi/"
+  - title: "India should be prepared for upheaval due to AI: Rajnath"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-12T00:54:00Z
+    webUrl: "https://theshillongtimes.com/2022/07/12/india-should-be-prepared-for-upheaval-due-to-ai-rajnath/"
     type: article
     provider:
-      name: thesouthasiantimes
-      domain: thesouthasiantimes.info
-    quality: 30
+      name: Shillong Times
+      domain: theshillongtimes.com
+    quality: 39
     images:
-      - url: "https://thesouthasiantimes.info/wp-content/uploads/2022/07/kathy-hochul-images-sauspiel-de-413x250.jpg"
-        width: 413
-        height: 250
+      - url: "https://theshillongtimes.com/wp-content/uploads/2022/07/Rajnath.jpg"
+        width: 945
+        height: 632
         isCached: true
-  - title: "DEFENCE ARTIFICIAL INTELLIGENCE COUNCIL"
-    excerpt: "Defence Minister Rajnath Singh inaugurated a Defence program on Artificial Intelligence organised by Department of Defence Production on July 11. He talked about the importance of Artificial Intelligence in various sectors and its relevance in"
-    publishedDateTime: 2022-07-11T13:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/defence-artificial-intelligence-council/videos"
+  - title: "Rajnath Singh’s pitch for AI in defence"
+    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
+    publishedDateTime: 2022-07-11T21:04:00Z
+    webUrl: "https://www.nagalandpost.com/index.php/rajnath-singhs-pitch-for-ai-in-defence/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 39
+    images:
+      - url: "https://www.nagalandpost.com/wp-content/uploads/2022/07/Rajnath-Singh.jpg"
+        width: 800
+        height: 578
+        isCached: true
+  - title: "India needs to work on artificial intelligence mechanism carefully: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh on Monday said that the country should exercise restrain and caution while working on Artificial Intelligence (AI) mechanism and use it for the progress of humanity."
+    publishedDateTime: 2022-07-11T11:29:00Z
+    webUrl: "https://www.thehansindia.com/news/national/india-needs-to-work-on-artificial-intelligence-mechanism-carefully-rajnath-singh-752919"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 32
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/07/11/1302290-rajnath-singh.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
+    excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
+    publishedDateTime: 2022-07-11T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-2/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 26
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Rajnath Singh calls for tapping AI potential in defence sector"
+    excerpt: "An Artificial Intelligence exhibition was organised which provided an opportunity for innovators to display their capabilities, products and state-of-the-art technologies"
+    publishedDateTime: 2022-07-11T11:53:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/rajnath-singh-calls-for-tapping-ai-potential-in-defence-sector-101657540436279.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 19
+  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
+    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
+    publishedDateTime: 2022-07-12T12:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "India must be ready to face upheaval due to expansion of AI: Rajnath Singh"
+    excerpt: "Defence Minister Rajnath Singh has said that India needs to work on artificial intelligence mechanism 'extremely carefully' and be ready to face the upheaval that may follow with its expansion"
+    publishedDateTime: 2022-07-11T12:17:00Z
+    webUrl: "https://www.livemint.com/news/india-must-be-ready-to-face-upheaval-due-to-expansion-of-ai-rajnath-singh-11657541613044.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
     quality: 17
-  - title: "FINOM Selects Resistant AI's Transaction Forensics to Strengthen its Money Laundering Defences"
-    excerpt: "The Pan-European B2B Fintech Platform Can Now Prioritise In-house Alerts More Effectively While Adding Advanced Anomaly Detection Resistant AI, the AI and machine learning financial crime prevention specialists, today announced that FINOM, the Netherlands ..."
-    publishedDateTime: 2022-07-12T07:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56527302-finom-selects-resistant-ai-s-transaction-forensics-to-strengthen-its-money-laundering-defences-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "INMYjGWddD3T/mYD2rVi1NVZPFbubb8fTueKRLE0vDD8QecHXtsLeHMUSvtyMvK2sgFKLaeuKcI4PDex2wkkUDY5Rqm9f1gVfXJG06pe8ypshLdgV5NYnCScnXAaVJ1mmJ7y+CXEoS2YqTHPdvtIzxnJkmQYLgkzss9MT8zAe4tDmUW0gG8oyfVvWQ3LneH0zSbdOeqpukkO/MM5ct44D0UnTrqw3jPeCPA+HjRns/2kZG5wL/V6sTHAmhXHt5DhMcPZAje4KDX4CreYC4xRQKmeLp7ctMrCtwpqu9QKbDVsPEcym6w9/VHjkCD26j/QZYDWoOno82QhnaoSo7NlQmYyb1puMxwnfC0H4IUgk2PaoicGhIFW8yvcMPz4k9E+8YYLH4ZkUOGIfNzi0ntwX07fafTUEyh08iwmw4DFGFikxVlXvsiLqRxtC8LFsG9szlR8bu/gxjxc5nctvdbXUUl55fYVPk4j+bJuXFH+2LkJ22O99NMPMS2H2tWezmb7WhCFFCn5pSsLTdnu1mP9tg==;dm59gMJFtsjbKQAOnNUkhQ=="
 ---

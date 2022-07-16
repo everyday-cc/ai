@@ -167,7 +167,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 5
+    quality: 3
   - title: "Chicago Selected as Host Site for Artificial Intelligence Bootcamp Hosted By McDonald's USA - APPLICATIONS NOW OPEN!"
     excerpt: "McDonald’s USA will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Chicago will be offered for high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:03:00Z

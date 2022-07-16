@@ -152,15 +152,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 5
-  - title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
-    publishedDateTime: 2022-07-14T19:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
   - title: "Round Rock/ Austin Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Dell Technologies will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Round Rock/ Austin will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:22:00Z
@@ -169,6 +160,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 3
+  - title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
+    publishedDateTime: 2022-07-14T19:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 3
   - title: "Chicago Selected as Host Site for Artificial Intelligence Bootcamp Hosted By McDonald's USA - APPLICATIONS NOW OPEN!"
     excerpt: "McDonald’s USA will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Chicago will be offered for high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."

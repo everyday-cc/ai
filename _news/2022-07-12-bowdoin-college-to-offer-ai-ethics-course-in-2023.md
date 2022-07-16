@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/bowdoin-college-to-offer
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/bowdoin-college-to-offer-a-i-ethics-course-in-2023?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -41,15 +41,6 @@ related:
         width: 923
         height: 519
         isCached: true
-  - title: "Bowdoin College to offer class on ethics of AI in everyday life"
-    excerpt: "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development."
-    publishedDateTime: 2022-07-11T08:00:00Z
-    webUrl: "https://www.pressherald.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 34
 
 secured: "c2I/hV75PusR5wwCqWbwuS5gUhUYQW8A+ITkVo1vIKDp5c1q7VX2FJli1Ml5NYpkFCeSEUZqupfCNBPO1KQVJpMAzX5rIiGcVkt0sINXHi8fSSAFjzPnb927QXLSd8tLwaAVuf3tjR1u8YTlHV01WOVhQEmPs46wwjCe30eRgOHy6GmfLShsAfRgnQ+GxbKZPEeT3Nfpzq/hGF0KmpY7MqvYsK/JQOpLlZ/a2WmCPzLiF5IVbf2WP2E2gB6WBwWHekYZLYul0VxtjkLDOV0qmSldnm8vALyown5y2bkIIX1PM6PRMpGDsR+NM64Mw8dIz2BWDPH0y+rV7N7DwBwPMRixfFeSQ0Xb2W9W+EeEwg5Uyc2Q6/nmow0ftr4+OyMrHYvd65v6/ADdoKrIRGuC17l97J7QE5u1DbmrwbJBTHqPKwNByseVyqJnmQVgNvkdysq7vZ6GQVc9k4jEYDFI3i+YnMXJlJz6OP/Wwa+yMOGJUn6K3CTpEo4DyhouS5k0OUz52Iixkj6gEY3oXI0ovA==;S/RUBxj5jgWf1nUyRaqPfw=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year"
-excerpt: "By utilizing the latest technologies of \"Azure Digital Twin Platform,\" \"Azure Databricks,\" and \"Azure Machine Learning\" for its recent project with Hyundai Motor Group, it has proven its ..."
-publishedDateTime: 2022-06-28T21:04:00Z
-originalUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-microsoft-country-partner-year-second-consecutive-year-0"
-webUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-microsoft-country-partner-year-second-consecutive-year-0"
+excerpt: "SEOUL, South Korea, June 28, 2022 /PRNewswire/ -- Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the ..."
+publishedDateTime: 2022-06-28T19:36:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/image_1_91.jpg?h=c66d06c9&itok=1ULr9iGj"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/1849080/image_1.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "OWS0cOP0njyfbP4K8r3T0U0E3bT53rCFe0lm4dAgQmhwvy+hPPg5TOpgOeXazwnUAOuVMceiMFYrW3+SP6SFJMCJ5iDZ1nOZwTXitjnuqfac0wi8OR1W/+KgiILDCgsOr+UMllC7hMtr6xIR6ObRhoA3HmFrLQheZWI4AgqoswKuUFuaI42T6jdPqPPacT9vB86shkTAmIOnXvmbDJ207MSwK8FiODkRzzbo0Gi5oQ68EiZvAEJVe7Brlrgze0Ppgkh6Y+9OldeWrnQza7fK74bDN3Sv9w+RP4vIUyKLgDLZiGrYxe1kDkAskB/scNWUF8u2CzFJFM8m8NWhpRDTkOSI3xlyUbGWLR+Gwizq0rI=;I2HBb+ylsm0OD9GQfexYbg=="
+secured: "Vv4rEGpWlZdrPEsKDx9umtfshXV5FaJA0/KlX1icqNZF3x/XpfyMD2eOqSQH3UlkJ1JdlZO938tF062l4n1pOHvXrLTzVOuhUbyM1W5t9CtyvQ/jlJWJHl0msIrAaNv/SzoFRkKXJ5/A4CuYPEfcPSdfxMptw8IbSbnSosehDUFFZwJXTRmeKFlv2jBh37z+AfkcnbvGDbG2GmYJuB6MWRC83CXHktZyx1WD/Mz+TdHTvdV3NRrYtKYGOC2kQ2fhDgLd2umNDTAW0ixYaH5Zb5GjAp2iZQb7buCYOM/QUihMmCRhT5Rf8IpAOZ8WKDpnMbcEnIAqdP501QDzQgBUYzu/XKbnRSRluV769DbVhmY=;pODzO3nWhXGDaP/HaDglAA=="
 ---
 

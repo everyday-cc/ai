@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robots aren't done reshaping warehouses"
+    excerpt: "When Digit spends an afternoon unloading boxes from a tractor-trailer in 100-plus-degree heat, co-workers never hear a complaint. Digit, a blue-and-white humanoid robot, was designed to handle the tough,"
+    publishedDateTime: 2022-07-16T01:00:00Z
+    webUrl: "https://www.standardspeaker.com/news/business/robots-arent-done-reshaping-warehouses/article_8baa180c-c6fa-5865-928f-047a5d1a77bc.html"
+    type: article
+    provider:
+      name: Hazleton Standard Speaker
+      domain: standardspeaker.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/standardspeaker.com/content/tncms/assets/v3/editorial/4/66/466fa737-96df-527f-8fa0-d3d143397ad3/62d20c66be85a.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q9FzJ+BdIKfFzQKcL2BDp4Amr7Z+FATkc/IrKJWrfHTbdHBhKk4YlnVMGrW8zNi+c4YDHnmNYPCXIq0kYD9Ur0iCBX0W3j8U0gu+E3J2P33M7sCbf9Yr3OX1kbjx3rNZ8avNwHHTzwg+mHq7OCIMS0a8MWb+a0zhTFX0WYBkBz+aF3xXT2RyfUfQ7RJmxPhX2Mj/Ci4yRMmMx55AtcX+BTnAqyR3Ry1BTLv7IfUf0oFazEKE07jcTLxRyPShUyfmAOlw5cswCB/04u0wIIObGp64OvzbOiwHec03OCWsbqRStAJBS6kQ+JT+D4Z9G4ES+gJn51TWRFinjmfH8Afd19d6dApWUkT88lRWvf8qi6uP28z6Yh4TRGD7LukBYFyHJbxSFqM3jUHQQ0fuk7PVv61pqKZcjJyQVgOOXjypbfzWga4W/b2Gyuil4t1qnsLGmgav7NA1S1ifKA85TEwZxoaUvMFhTVs4le3rQtyDPGM0KIBhE3TgXxigY7aNyJPHXWo+9cuMcc0sqbgzmgsyHg==;jSjbe3ei5dmviWUpPwaXig=="
 ---
