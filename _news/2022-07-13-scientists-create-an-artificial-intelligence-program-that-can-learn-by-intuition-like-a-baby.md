@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "This AI With a Baby Brain Shows Us How Humans Think"
-    excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
-    publishedDateTime: 2022-07-11T17:52:00Z
-    webUrl: "https://www.thedailybeast.com/this-ai-with-a-baby-brain-shows-us-how-humans-think"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657550545/220711-Bender-AI-baby-teasetease_mal845"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Scientist launches AI program ‘Plato’ that gains intuitions like a human body"
     excerpt: "This AI, dubbed 'PLATO' for Physics Learning Through Auto-Encoding and Tracking Objects, learned physics like a"
     publishedDateTime: 2022-07-15T05:29:00Z

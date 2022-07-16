@@ -19,19 +19,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Argo AI lays off 150, closes Washington D.C. operation"
-    excerpt: "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success."
-    publishedDateTime: 2022-07-11T17:07:00Z
-    webUrl: "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/"
+  - title: "Why Delivery Robots Could Leave Driverless Cars in the Dust"
+    excerpt: "Delivery robots are on the fast-track to the mainstream. Companies including Uber, Dominos, and Grubhub are currently testing the technology, while the artificial intelligence startup Starship has delivery robots zipping around college campuses across the ..."
+    publishedDateTime: 2022-07-15T17:30:00Z
+    webUrl: "https://www.inc.com/ben-sherry/ai-delivery-robots-autonomous-vehicles.html"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 67
+      name: Inc
+      domain: inc.com
+    quality: 56
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/argo-featured.jpg"
-        width: 770
-        height: 500
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1387109566_507955_gxi1cv.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "DaXqaLpmfn6BR5dwYsaVBzf9TPtsF/rVgjxc9+GmCC4SQfwvE7zBWsJYz84jb4sgqH3MIUNAfGvwNLuInUl311CNa0V7hgSdpOUPwILIIYT1qw0PF3e60bmMvpKyEOdNd5lJs0GeMCi1sLbo6/sl9By8yzFfLUPT+B3Vv4f1pewWlmItYR3JGxoW0vbz7TUOMA/tAYUbBUe91tLgq1lRmOq8TfSN7dUkgxFKx3xfR18yl2cDSvPzld4E2l7O/9q/zCdbqEdgfXOWuEIKmvf6LVXhMhQdSE53ioIc5XIcp90DYhJ5TK1MSWXqogo+3BOYpkUYJODl/Dq9xpL+CQc4jaT8Gw+HxYSKCXt3IT8s32mWVrhdEDPZTfNMFIwDXrXXRsPmrwOVbCgYHDGDMiKQdkd13XJYplJGa1vf3jlTAX0xk4kE261J64NbmJm/wf+qQ0bGlEFvWSq5OpEpMnMQnTJIsBZJV2SBFR0uRQgVTL6OAf2P8m6K1fBGiPRQ4hsdvKbl7DEVIkmEZuejeAoG5g==;Gvv9LX229CPLI/XBGTIMyw=="

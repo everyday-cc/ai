@@ -44,15 +44,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 44
-  - title: "First wireless earbuds that clear up calls using deep learning"
-    excerpt: "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations."
-    publishedDateTime: 2022-07-11T18:25:00Z
-    webUrl: "https://techxplore.com/news/2022-07-wireless-earbuds-deep.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
   - title: "ClearBuds: First Wireless Earbuds That Clear Up Calls Using Deep Learning"
     excerpt: "ClearBuds is one of the first machine-learning systems to operate in real time and run on a smartphone. Wear both earbuds to get the best noise suppression experience."
     publishedDateTime: 2022-07-12T13:33:00Z

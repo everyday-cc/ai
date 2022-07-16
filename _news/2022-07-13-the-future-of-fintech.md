@@ -41,6 +41,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Funding in startup dropped by 17% to $6 billion"
+    excerpt: "Funding for startups decreased by 17% quarter over quarter to USD 6 billion (about Rs 47,800 crore) in the April to June period."
+    publishedDateTime: 2022-07-16T10:51:00Z
+    webUrl: "https://techstory.in/funding-in-startup-dropped-by-17-to-6-billion/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 22
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/Startup-ep-1.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "KA1ZdzkLpVi4ViAqYVWgshEAy5yLHOmq9Dzy8x1VxrSWrgbLbt6zml7OIE/B6m2rUy/R98hnmwElF2AlqN0cpXkH88uTMMtiOUU3ghnV1r0lj+qrOxpNxoczwZ1AsY8vR0UC/MFsiYgF3bmBLSSk9orCWX/H0R/awliO8vk/dkV/jdP7CBqyXZEqqkajwEotdTy7DWn/4hBlM1hP/B7i8RJojLLjJLt9jQ0v7ywqRwk+Rw2jITD/yCPFFa2iur+Cqkppt/DwDmiqv25nWKStzAJsjRKIqGB0bFwdA/qjAsVTpfbQr4pIqcZtLCmh0LJ1CKiiDyxvAAm0PQfOLu835brftpxJXY2LRAtCWVcqIeGbGTDMz5m70cakfEyDQrkKOWdcfBjXCOITgGPYhnFY04ySi09ka4KLUsBzHJ7gxqqHLQiG46HAa8E+BQlLDmPt34if4EW1cVPa3HcgA8fib5mhLHmT5PqCdYKMDmonyGEeIjnavPT/+S3gQo7KPgmB0kIvFfigGMZZ9ESW5DeZwA==;hlnBbvHyvxramzSv7irchA=="
 ---

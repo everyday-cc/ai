@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "New AI tool could help diagnose Alzheimer’s disease earlier"
+    excerpt: "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say."
+    publishedDateTime: 2022-07-12T00:56:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "AI automates diagnosis of Alzheimer’s disease"
     excerpt: "Researchers at Boston University have developed a tool that could automate the process of diagnosing Alzheimer’s disease, an advance that could eventually be available online."
     publishedDateTime: 2022-07-13T07:57:00Z

@@ -3,18 +3,18 @@ category: news
 title: "At Texas Democratic Party convention, recognition of high stakes and a tough road ahead"
 excerpt: "Attendees in Dallas seemed energized by the state’s abortion ban, lax gun laws and power grid failures. But they also knew they face major headwinds."
 publishedDateTime: 2022-07-16T09:25:00Z
-originalUrl: "https://www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/"
-webUrl: "https://www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/"
-ampWebUrl: "https://www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/?outputType=amp"
-cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/?outputType=amp"
+originalUrl: "https://www.ksat.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/"
+webUrl: "https://www.ksat.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/"
+ampWebUrl: "https://www.ksat.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/?outputType=amp"
+cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/?outputType=amp"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Computer Vision
@@ -26,6 +26,6 @@ images:
     height: 469
     isCached: true
 
-secured: "yJVUGYVRRMe+5k0iZ/Va0p/p/ZPXy8Ifhry1yMM+6TmvJ01JsBuDnHhOFVH7I4wFUQ2x6o+dc7vwTe7e4YjaGLVSVAFYipbUm7y4gNMxS4SJx6sDwGBCs6RRskYsNb2PupmikacLZKW+8XFtNKxbx8NAGi7m4NR6ya4G95Ro4Dp+oUYmwgEr5QgouplVDPqVDql+k2gu8vg2pT9eKSUq1uR5xQssLbPdm8dJouyaJVKsYXpxgEnhTF7nTE+M8RlhflKdpy0VjEUJyqcjj8q54jrtyH9RlQqeLnlAtODW1mnHlLWQoYsH6/LaD8WRHPSBQforCsAarJMbxbC9KZHk/3Xz0Mqq6j8zjouXYK4w3xU=;qDa/ARcEDvqA/FlvaCNqag=="
+secured: "5c+LczbttVTWgvBoRtMyyWZmC6TffIDh22hPbj/P+Cn4O1LWkJGOHKKxEClQw1aMq1CfDPJjxWJeK6+Iky3XLO1/0ROiF4P9dVN74LgHNqMpXqBENImh8CzvhdEyJh85DxYXR62XoAbi18KS985VwulofqLunS4S+rkjuZ/3lqprlEHXNZUU1bpryehxM76LKCxnV7JXfZoZgwk0sFRayPK8qBS6prgj/PyYeX2gs7KvBqjina7TXpCSRcZM+Xwaj/v7l55UhcNsyyt7wPY8/D+BBRwso+qY03ylXW1aErBFOuftPPaBWw7aiZtdeCK8o9+8zGOCsLfRAwSKYqJTm/Xc5kcnLeDX8GRbB08lnQI=;ilfteKkSvF1fSNKE8rjtbg=="
 ---
 

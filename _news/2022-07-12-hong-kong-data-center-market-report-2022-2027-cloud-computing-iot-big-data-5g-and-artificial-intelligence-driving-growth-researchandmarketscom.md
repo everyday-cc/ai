@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)” report has been added to ResearchAndMarkets.com’s offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
-    publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
+  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
+    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
+    publishedDateTime: 2022-07-12T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
@@ -46,20 +46,29 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
-    publishedDateTime: 2022-07-14T08:41:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
+    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
+    publishedDateTime: 2022-07-12T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
+    publishedDateTime: 2022-07-11T20:27:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
 
 secured: "b8VHB+i30sbyLVnRgdpH08CRZoJHsPj9HocFVXCGhoz0vZYTeker24nvjvpoULbXjKULxnT/3FVi2fQhWxv6d/9AXW4tNH0gERuf1nw5hTadSyfiWXLmAr8GtgaUM+RX9A3MuThgxw5PkkUvYW2x9bOKu8NZrcm7phYFRMeTHcM1eJO4mRTnJxIvKg0C/CeRtLe3YyL073vewfzPCPiX9457jPmlzO+wgpnENbeQgsZ1+FGXzN9rNaSo5joG8PMyelTllKAWuUSID8FBpMaNTKIXbDtn0cK1AG7tchoA4t3zUYYv1lX7IOmeRVOSCVLOoilgcon1cXxSI9o4l5y/g2bwhFa9UveaV5seTtxR2pY=;b9GYSt8ZxynAiIaYI+GRDg=="
 ---

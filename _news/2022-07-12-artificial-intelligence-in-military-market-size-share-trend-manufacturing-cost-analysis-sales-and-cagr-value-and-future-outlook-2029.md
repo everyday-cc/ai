@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
-    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
-    publishedDateTime: 2022-07-12T19:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
+  - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
+    excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."
+    publishedDateTime: 2022-07-15T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-market-2022-share-size-recent-trends-growth-development-revenue-covid-19-impact-analysis-on-demand-and-forecast-to-2029-2022-07-15"
     type: article
     provider:
       name: MarketWatch

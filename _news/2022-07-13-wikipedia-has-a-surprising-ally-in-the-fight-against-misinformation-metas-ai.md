@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1174
         isCached: true
-  - title: "Meta develops AI system for reviewing Wikipedia citations"
-    excerpt: "Meta detailed the AI system today. The company also released the code for the system under an open-source license. Wikipedia editors ensure that a given piece of information in a Wikipedia article is accurate by checking the source from which the information was retrieved."
-    publishedDateTime: 2022-07-11T17:49:00Z
-    webUrl: "https://siliconangle.com/2022/07/11/meta-develops-ai-system-reviewing-wikipedia-citations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-3.png"
-        width: 848
-        height: 478
-        isCached: true
   - title: "Meta launches AI tool that can improve accuracy of Wikipedia citations"
     excerpt: "Meta said its AI model can automatically verify hundreds of thousands of Wikipedia citations at once. Researchers at Meta have made a new open-source AI tool that can scan a massive amount of encyclopedia citations at once,"
     publishedDateTime: 2022-07-12T11:23:00Z

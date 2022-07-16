@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-balancing-scooter-m
 webUrl: "https://www.marketwatch.com/press-release/self-balancing-scooter-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
+    excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
+    publishedDateTime: 2022-07-12T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-remote-patient-monitoring-market-2022-industry-size-key-vendors-growth-drivers-opportunity-forecast-to-2028-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PB5b+QZ/rSYZiyF0VCqgoscq8oIl5OK/LBfIwgIN8fmQI3LScLADeTJVo83NGivfSbJENT22FJgxIeAKb8k+axvQUFghmUYjOGw9FYZZ7CHK34JtX+lly5sWtyFdlheBpsy1UZniVlKSNwma2Qa+jjO7hdSBsWVjPF1YGtguKtPiue1jw10YMru64frseZ0DSyQOROxaUu2Isdw4uspdHD/YiNFFHv0U5QxFNNJwyCpkTsowcePRVh9rXPpu0mB0AT/1TblOyWM8xzX6gj1eYWEltGLvE3Xr2/RC/mX/WeNk6TNkxVAdMj+7yHbFGW48pN85KEBj+jWWnmKwliCt0pCe9nj+ETW9GaVMD2gQrg8=;62etBDkgNRFtArjLmMdNuA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: MarketWatch
@@ -29,103 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025"
-    excerpt: "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172."
-    publishedDateTime: 2022-07-11T18:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11"
+  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
+    publishedDateTime: 2022-07-15T13:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Growth, Key Manufacturers, Opportunities and Outlook to 2025"
-    excerpt: "The study on the ‘Artificial Intelligence in Manufacturing and Supply Chain market’, now available with Market"
-    publishedDateTime: 2022-07-11T18:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-growth-key-manufacturers-opportunities-and-outlook-to-2025-2022-07-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in healthcare offers 'myriad of investment opportunities'"
-    excerpt: "Artificial intelligence is transforming the healthcare sector and presenting myriad opportunities for investment said Tim Day co manager of The Sanlam Artificial Intelligence Fund"
-    publishedDateTime: 2022-07-13T08:45:00Z
-    webUrl: "https://www.ftadviser.com/investments/2022/07/13/ai-in-healthcare-offers-myriad-of-investment-opportunities/"
-    type: article
-    provider:
-      name: FTAdviser
-      domain: ftadviser.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F8%2F0%2F9%2F2929086-5-eng-GB%2Fpexels-alex-knight-2599244.jpg%3Fv1?source=ftadviser"
-        width: 4896
-        height: 3264
-        isCached: true
-  - title: "Artificial Intelligence in Law Market 2022 Industry Growth, Trends and Forecast to 2028 |AIBrain, Amazon, Anki, CloudMinds, Deepmind"
-    excerpt: "A new Market Research from Infinity Business Insights, the Global Artificial Intelligence in Law Market, is expected to show tremendous growth in the coming years. Analysts also analysed the ..."
-    publishedDateTime: 2022-07-14T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-law-market-2022-industry-growth-trends-and-forecast-to-2028-aibrain-amazon-anki-cloudminds-deepmind"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/9f102c3c6d56cb1069f10b4ca808a9f22db416aa-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI In Telecommunication Market 2022 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2026 with Top Countries data"
-    excerpt: "The global AI In Telecommunication market is segmented by Types (Machine Learning and Deep Learning, Natural Language Processing) and by"
-    publishedDateTime: 2022-07-12T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2026-with-top-countries-data-2022-07-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in healthcare offers 'myriad investment opportunities'"
-    excerpt: "Artificial intelligence is transforming the healthcare sector and presenting myriad opportunities for investment said Tim Day co manager of The Sanlam Artificial Intelligence Fund"
-    publishedDateTime: 2022-07-13T08:45:00Z
-    webUrl: "https://www.ftadviser.com/investments/2022/07/13/ai-in-healthcare-offers-myriad-investment-opportunities/"
-    type: article
-    provider:
-      name: FTAdviser
-      domain: ftadviser.com
-    quality: 34
-  - title: "Global Artificial Intelligence In Remote Patient Monitoring Market 2022 Industry Size, Key Vendors, Growth Drivers, Opportunity, Forecast to 2028"
-    excerpt: "New York, US, The report by Zion Market Research on the Artificial Intelligence In Remote Patient Monitoring Market - By Product (Whole Exome, Whole Genome, Vital Monitors, And Targeted Sequencing & Resequencing),"
-    publishedDateTime: 2022-07-12T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-remote-patient-monitoring-market-2022-industry-size-key-vendors-growth-drivers-opportunity-forecast-to-2028-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
-    excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."
-    publishedDateTime: 2022-07-15T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-market-2022-share-size-recent-trends-growth-development-revenue-covid-19-impact-analysis-on-demand-and-forecast-to-2029-2022-07-15"
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
+    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
+    publishedDateTime: 2022-07-12T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
     type: article
     provider:
       name: MarketWatch
@@ -136,6 +57,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
+    publishedDateTime: 2022-07-11T20:27:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
+  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
+    publishedDateTime: 2022-07-12T11:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "ns6TqNaUWj/c2WBhSfzM5MWU1Co05R7/EhGc4ZhWl9zaFfgGuE88i9jDsWSTPjCzlTPJWFROW4AT4wF29y9niRkPQoZYvne/vzCBr+cD5kgz9HGmMBpIOS4EBSfNcOpLFyToRkILiILik7S3DHWQuC0jojAhnxEwwg/AwRiXxBRSRxaQcpdesLyHPbA14khIr7jyzWnxJXH+Ls/4TygcwV82zwVOldzF+N4eSaRgo5HXx+YVSanYuGpY1XkjnGC2K5jj1g+xaQpobvTaW3RhUwX/Ow/9XswUQubeRgxo/d3rVKoIYRQcUF3QBKWp2E9WF+RV7/oQjAlTQw0ZuX6HvlcaBsdAY+rPl06ydXiVrSs=;dn9HhdIqfhuwbgYk+h1RsA=="
 ---

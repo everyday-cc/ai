@@ -9,8 +9,8 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: CTV News
@@ -26,22 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Gender bias revealed in AI tools screening for liver disease"
-    excerpt: "Artificial intelligence models built to predict liver disease from blood tests are twice as likely to miss disease in women as in men, a new study by UCL researchers has found."
-    publishedDateTime: 2022-07-11T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.amp"
+  - title: "AI automates diagnosis of Alzheimer’s disease"
+    excerpt: "Researchers at Boston University have developed a tool that could automate the process of diagnosing Alzheimer’s disease, an advance that could eventually be available online."
+    publishedDateTime: 2022-07-13T07:57:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-automates-diagnosis-of-alzheimer-s-disease"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/liver.jpg"
-        width: 1920
-        height: 1920
+      - url: "https://www.theengineer.co.uk/media/zmepmh2f/dementia_use-this-one-adobestock_269870085.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Hoth Therapeutics Announces HT-ALZ Therapeutic Shows Cognitive Improvements in Alzheimer's Disease Mouse Model"
+    excerpt: "Chronic treatment with HT-ALZ (>5 weeks) demonstrated significant improvement in behavioral and cognitive function tests in an Alzheimer's"
+    publishedDateTime: 2022-07-12T14:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hoth-therapeutics-announces-ht-alz-therapeutic-shows-cognitive-improvements-in-alzheimer-s-disease-mouse-model-1031581652"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "qxmDRlpeZZOidp6vmfMbSAghblZ12bpvMc8zV7MDrhe8gMbZW9/rN899+DjCtxoYDOUWGyjix0msUAuJfxjeWHSXG+n1pc14YH3CWnBsVlmgqPe/pPkfu38C5ZBlhWXzcaUWPIiQkyVPhT2oY845l/IXk1B7UHxGF+/oai01c3k6RA0Cb9QhBAJmyzq53laRVH7JlDgEOYUnjLbClO5+C9P5b+o92TwlSHGmYRrW3EbFvt1P/nHHsJGb9qC7RtVa5oBXs6tKMzFYyuun3vZOlMjmzjgdFwunayMK1l7FSD1tfqaNacbnS2p5Us5M60AZVUPMODOkMDeUOolxIk5CtA8hIgNCNjhONimSB/8H7eo=;Ka7L7H7++/AOgZnt1zA5WA=="
 ---

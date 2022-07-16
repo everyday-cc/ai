@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/429429"
 webUrl: "https://www.entrepreneur.com/article/429429"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -80,16 +80,7 @@ related:
         width: 1600
         height: 1184
         isCached: true
-  - title: "Where investors see fintech opportunities during a downturn"
-    excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."
-    publishedDateTime: 2022-07-11T17:20:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/where-investors-see-fintech-opportunities-during-a-downturn"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 4
 
-secured: "MTKHCAV8Y9q3nJooBVTqMjnlBqI0rS/3vJalaI0MHrD6xBEKwHDGDljbOn1DIRfn8Op9zABjQ09kqH/LMtVmnRX7Aibz+R3jH8GN0nwGT8cuQMUCxJgYwQJRpjwHz+Sv91hI8HZTgKwin3GlhdONgmrD3W5DENvH3cHzmtqXqRo6JhggmjiF2YYuIJfHCv9qogjd2EUXqZzNXJIptIbZA5iq/FPf86SETzxy/3UJ1fN8zU4KAEMqQGn3Rzgtk463fErstljHSfMLx/bog/po701G4l/kRoB5aHd7kOVxEBl9z5vd2+zGv2byK0g1+C7flJ6dUrljP0kqMrH9buuUu8s+wNQvr+3Ob++bsFMzWlE=;rhDhiGtfLtG352XJUzqifA=="
+secured: "uJkMl+BzFwxkdxBtLDtUieOFICzVdjDvgk+zxqLVLdQHeSfI1Qu+UPwbxQfTEZAqu6H6in67KWnU/vwc8i9BLwZWVmv5uZlM+7g6Am+mbc6zX/e+1kPucVmLQQaX3z+NXpJ55HHl/jp4JLVK1hgSlnyZu1dqMpNI9knl95RLogQBlTMhxD+ihbGT4qm8NAgNjcYSks6kRAtHqRQ+2wKFDs10kTk7xNJUWBovq73pFw4556wkcRFCBIqQ2ICwDBFs0aqkvGKorU5/L1A2G0A9ruApMHGznLbWOEE1ID5Pk21qJsmqPoPz3aJydk0fP4Np4xSckPy+IZtMTEXnZTac8e/OfqBudqf1679AM/gy4Wa0iQhPnnbHO5NjfsLXRrw1aCeSDcrl36prwQBa5FrTGDwnVdN/VgBBTKYiXqAPYVfQY+K0gx7xfaS5PyyDz56kHpfBqTlJlukVCSORTGLENWRx9THjMRdbjKgUjBa48HVW6mHxCaVL5tUeLhcY6j1gE9nAIHWvZIhPRNcaEV98lw==;G126qlxIPpvtS/9VL/xmTA=="
 ---
 

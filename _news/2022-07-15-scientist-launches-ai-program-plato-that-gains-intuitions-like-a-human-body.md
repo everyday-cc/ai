@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "This AI With a Baby Brain Shows Us How Humans Think"
-    excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
-    publishedDateTime: 2022-07-11T17:52:00Z
-    webUrl: "https://www.thedailybeast.com/this-ai-with-a-baby-brain-shows-us-how-humans-think"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657550545/220711-Bender-AI-baby-teasetease_mal845"
-        width: 1480
-        height: 833
-        isCached: true
 
 secured: "aQJd+2M9/eiyb+AFwfL5tx/5T+QRa0sVeLHmWMu0v6ghM9l9F6vn8LBuk4+Xc9aJFct6XgZ4qlQMOtLnOX9ZvmlVxCg4lubWBlKtcs8lVfdc4b3e/PWB+0P/wCReFey4txPmCMkoJQtWPh0aSN8/+1eqIuO2kJvsk7oYt4y/25ZDSzbPDP7EBG2qnGDo1e0QM5kZ1dhVilhhzUStQqAkAzje8jrdwZ9KZP2aAHrENs0u6HBwFLgaxdza15GK7lNre9MzVeb5Z3JwM3W9tUPpAM0mrzuykbSHnE9nV2c2QWV+NhOnQu6AppWIUw7edWBG7VwwFS90g6ddOnApL9tlgJEaLM9+i4+MCF+JVePCSq5HkcQjs6fHER/8YmoaJnKeJUK979CUls9mTB8C6oWpOxvmc/rvGQzN+aiQOzmPJQok7u3FGBJHThs2L+SnIVlRI6lVd4fmObVEUjF68tEceo4xUbeIBdv2dGCFKWwGVqsbWTJeOt6Hc3o5GNM5sUUJFAvNfiYMrgcsYnaCEjAKFA==;DOHrTk3fe/BGz2yr6DvptA=="
 ---

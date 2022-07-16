@@ -24,20 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)” report has been added to ResearchAndMarkets.com’s offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
-    publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
+  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
+    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
+    publishedDateTime: 2022-07-12T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
+    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
+    publishedDateTime: 2022-07-12T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence"
+    excerpt: "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity."
+    publishedDateTime: 2022-07-11T20:27:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
   - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
     excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
     publishedDateTime: 2022-07-12T11:26:00Z
@@ -47,20 +70,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
-  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
-    publishedDateTime: 2022-07-14T08:41:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "E4bQu4tkkUfjhSIUXYdYU39hDoJvOW3hkH2iVajEceAhN0QahRELC7x3r/DbwusZiuhP7Bgz5pPWL5f+jKzfSJWoW3jPz7/7lIp8e27m0RozF6/V05rX7m4fg8uy+pHFopepkyVOXrcrovxGJzzkmI7VpKjzAZUR0IXcDJEN5fajQHadtiwbo9DxVyBazRXQ7zm+MbLvnZ203/E+ckqoCwmAxgRrn8i7Aci/guMolWMmKOivhO02rbagV2sDzlt647AYRtO+Du5D+G/KrIeSotXMBvu7jrjNxShjd5Td4gAII/yRTULqTAr2sdkFHIOtOIhMKeCOvcspDNLoX7Ee8l1QJ6gHhIny8f9jKQ0fLOI=;TIuFn76/Y6rlowSRAjWABA=="
 ---

@@ -39,29 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
-    publishedDateTime: 2022-07-15T13:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
-    publishedDateTime: 2022-07-12T11:26:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "VKzJCNyeXOaYv0ylPkg5tczAAlhP34tMFf52btXU9oMLeTd9xwr7fzJe+ICNAHp22wMMBTR5Nm5JpjWgrVDaKBRFKr7UcdGToq7JYyQ+ylJOQCEOI4it0RLy/d+ZB60Tyx+WrBFLhPkI/tNFcdrwdD0RY+Hh/g0GPXF6wHDcaZF8uWiWKiuAvpgwC0K96uSW1KWMZVI0SQeDAMlCluR7epMLPvk0yEHIJpqAVBvgtNgEoeALiwBv5EuqcY2rV/4BhzTsJqs7v4qiiEvwA39av5ECJGZDrU4psfGdDB7YIMGnaMPu5BSL/H3TfZwA+JVPvxpg9nXCieEAk6pwktgyBHiobVlmHcAdnwmvcYlMO7a1fsyeteCYzEoGckhRXUIchw2QMQf/4QZfyuxtriy1DnmDxEPu93PL6WoIx/jha7SCy54ZAa4p9dH7HlnKrt0YHzY6t0HiznNgg2TQGaTvCovQyj6NfdDoo9bFYBzslBW0uw/J79g+az3ES27SkrMmIAL9Gj+H4b604Izi6e5w+w==;4OnM2nJEk/4xsnmKkBVnyw=="
 ---

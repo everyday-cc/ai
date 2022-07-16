@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-washington-first-wirele
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning/"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 44
-  - title: "First wireless earbuds that clear up calls using deep learning"
-    excerpt: "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations."
-    publishedDateTime: 2022-07-11T18:25:00Z
-    webUrl: "https://techxplore.com/news/2022-07-wireless-earbuds-deep.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
   - title: "Rewinding a supernova with machine learning"
     excerpt: "New work looks at using machine learning to decipher the early stages of supernovae explosions by reconstructing the light emitted during the outburst. The research was presented today at the 2022 National Astronomy Meeting by Eleonora Parrag,"
     publishedDateTime: 2022-07-13T18:10:00Z

@@ -1,20 +1,21 @@
 ---
 category: news
-title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
-publishedDateTime: 2022-07-14T19:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+publishedDateTime: 2022-07-14T21:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -186,6 +187,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "pNfpVNNxm6tFN7b/ljoHRuU65QrEmRtyB9mTTjgfWQlqBrroJd3iPjg5nvNnF53FnRxqmjO5ha+3XcSIn2DNVM7uouQsJ9T6Ga4YrW6NAPHl9//zOMXKKUeu/fiwoOzEQ4hJp28DgBFhY9/VGDYjVJj1YeUQLZR2GoXP6KMAR9XYjA9AvXtAi4Czoq9rFVhFcI7bRZMZkPHLg8M+cGM+/gdysUn7D5r43JE1WMCh34ITI8D73eGDHCadYVCefKG7d5xQKSdxo1l3BryI9iQg5iaQlcNHkG2LQ9GNUKfftEfjQBnkqs9ZQHYjClRqd/E41YwY/YlTQ+DnfaIXr6ApBCV4Lv2g6qLVrWCVnYEMReo=;lWIsZwQcQyGvp1G4YUfy7Q=="
+secured: "gykRPO6SZYX3OtDyNVcbVN7v4pVZ7JsoC5iJlv5/cTh/8zTKOuIUWanyCfLTVUdZViAKssSGaWynQOdsnxsRFYIIHksxJtA93evBfxw2H21sOQ+XI2SKoZn4aPLPuHuKDgYR640zI5FIc24bYWH+ni+aDQ5WeEXMOfpChYZtvkbt62ULyOPRkxCjlhZz9jGR+gufHxX+m9GUr6jliBUpdmwK/BDD4XbWN/kYOwOQ0NJ9v46zw6SgINPgS60GEIlsVK9AVOX3ejeE5bFRYM8ol3n4RJKkyi6y9Xt+PjICz48sHODIOEDKlsUkp/sGjgAvSI1zwvnNB2vznCVcaAuOrXge9i2KPpGI5/HcS/LM+88=;x8r1do3q7ElDS1+TZsD1dw=="
 ---
 

@@ -76,15 +76,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Where investors see fintech opportunities during a downturn"
-    excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."
-    publishedDateTime: 2022-07-11T17:20:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/where-investors-see-fintech-opportunities-during-a-downturn"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 4
 
 secured: "jwZePJZgN9D497vz5tgO5mxuanUwy/nuplOgUUp6dkA86sj5lgR8JrNzd0H+NozCmrfHx1KElsIZmsK91iJYJEY1x/eHTH0T/Vw/NqW3N+tb3OPWMv/Sp1RONy/NaiZnxdxMYrxemGQNTgEmsGgLLJrQd76uU7gxDEss1oQtBNrTWG6mILMAHqfoWlRtUR6r/6Oh5cScrQ3aiqigxT4b85zRGJTHl3P8dCdsnpGHr8lwjhh5/PSikcxXpf4a5dem8x5Aa0gqnmKH+BG9QTLNKwJF6Zin61vydlIP56QWYKmktoQSeMJBP9AIkCcWMPfPH7dfMzHJGOpyChRkVEHaLLYdjtIrXbSz0CwPjhJxBqw=;rzQdLB/v+NwWDoNFMPzcYA=="
 ---
