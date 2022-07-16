@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/13/us-college-to
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/13/us-college-to-offer-class-on-ethics-of-ai-in-everyday-life"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 923
     height: 519
     isCached: true
+
+related:
+  - title: "Use that everyday AI in your pocket"
+    excerpt: "Artificial intelligence powers more apps on your mobile devices than you may realize. Here’s how to take advantage of the technology — or turn it off."
+    publishedDateTime: 2022-07-16T13:10:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/use-that-everyday-ai-in-your-pocket/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
 secured: "lw9MYErRgy8zNWrLfUpNj/ZjF2MpQ83+HcRQdXrOSWjkJDDFeKoEXkU/I5+jd0QKFeXCsfiG0LYxR6ebwM+mHN9196tIock1FsgcxtLZm5ZFIQ48t5dTtyYIqikY3BKnckk1WRCFGNxFecf+A9POiGl/HW8xIfTyk5qvwQQfi/Qn7m6OIhhvKVJPoEWSC0YPIU7yznRmWYr0576Fn+3WxidXRbnYSSOpUtiqGmaycfTke8FiDVoIaOpLuPtR8K+acCWa2H/SKWsQmafgjgSLOaBz1gkA6KRLcbitm4WFD29oimd46/Gbp87wwvkMIKASEykvfSQCH+PQjoe6GckA4lOrK4to4ZK8YNp/AEQ8y+OqKvilGuQIv59Cl3lWduMHebBinxSHuqz2277uJovuLFtkyASpqzb4YlBF8qF68UQ6GBlNQNYZf42CT8+D+lUG3xq/GoMgeJnF9/oMGGPRR4sZ0QWNtN2Qdw8GodcMC5P5CWTuSN1wy8SIKFFR7lGjejIwwohsiW45B8kXG0+zpg==;jxbYZ3ZQU7VZqNpboKnjkQ=="
 ---

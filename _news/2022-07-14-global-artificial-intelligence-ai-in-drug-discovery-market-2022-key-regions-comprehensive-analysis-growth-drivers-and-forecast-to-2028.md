@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Artificial intelligence Market SWOT Analysis By 2028 | Size, Scope, Top Companies, Growth Drivers By VMR"
-    excerpt: "The study focuses on global companies that operate in the Global Machine Learning Artificial intelligence Market and includes information such as company profiles, product samples and descriptions, capacity,"
-    publishedDateTime: 2022-07-11T21:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11"
+  - title: "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030"
+    excerpt: "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ..."
+    publishedDateTime: 2022-07-12T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
-    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
-    publishedDateTime: 2022-07-14T19:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Global Machine Learning Recommendation Algorithm Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
     excerpt: "The research study of the Global Machine Learning Recommendation Algorithm Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is by MarketsandResearch.biz is designed by keeping in mind all the segments and sub segments."
@@ -70,20 +56,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
-    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
-    publishedDateTime: 2022-07-12T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
+  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
+    publishedDateTime: 2022-07-15T13:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
+    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
+    publishedDateTime: 2022-07-12T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
+    publishedDateTime: 2022-07-12T11:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "XQj0TVCCc/7K++peZKeYU2bc0IJq95bUuoUFbDL7AZ+uoC5AHIQNMaSRvlLhOkF4u6kL5kHfV1mtOMao6C/vOgvjuePGW2A3ZlxM9g4ZNFe9/+JVKz+Mo+IGvA6O9huMirmkxW0c5M3G9QbZKVl/BecIwNPv/sOByED1Ex2pg3p9n4Yb5052RoLDyMfBGPtm1c7zuVdHvpYl0V9x9LDjHlfY9R8cTM4UJTOzV2uPWPuPsTbUGAfQ2ntlgRQiAB46BlKzwB8k7f409Mbs6uoHuz+89HMAr9rT47imDMBYZcYj0FEVzJJrH62+rhwaqth9FS9doYJzkCKGZODPEtnVMpwHmu786PgWE8ehGWSZXfs=;rr1ZKBzFvhF9/vPGf4fIZw=="
 ---

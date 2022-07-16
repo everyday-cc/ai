@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-o
 webUrl: "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: The Next Web
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI researchers develop model for verifying Wikipedia citations"
-    excerpt: "Wikipedia is often the first stop when someone is looking for information online, but the validity of that information is all dependent on where it is being sourced from."
-    publishedDateTime: 2022-07-11T21:01:00Z
-    webUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 67
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2022/07/4fb7533579e9e445735e1995cfcfe43c.png"
-        width: 583
-        height: 327
-        isCached: true
   - title: "Meta thinks its new AI tool can make Wikipedia more accurate"
     excerpt: "Meta launched a new artificial intelligence tool which it claims can be used to automatically verify Wikipedia citations."
     publishedDateTime: 2022-07-12T19:00:00Z

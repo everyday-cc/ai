@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-l
 cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: DNA India
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rajnath Singh’s pitch for AI in defence"
-    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
-    publishedDateTime: 2022-07-11T21:04:00Z
-    webUrl: "https://www.nagalandpost.com/index.php/rajnath-singhs-pitch-for-ai-in-defence/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 39
-    images:
-      - url: "https://www.nagalandpost.com/wp-content/uploads/2022/07/Rajnath-Singh.jpg"
-        width: 800
-        height: 578
-        isCached: true
   - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
     excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
     publishedDateTime: 2022-07-12T12:57:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-16T06:33:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-florida-ai-micro-credential-helps-working-professionals-boost-career-options/"
 webUrl: "https://indiaeducationdiary.in/university-of-florida-ai-micro-credential-helps-working-professionals-boost-career-options/"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: India Education Diary

@@ -40,14 +40,14 @@ related:
         height: 480
         isCached: true
   - title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
-    excerpt: "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots."
-    publishedDateTime: 2022-07-15T18:00:00Z
-    webUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
+    excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
+    publishedDateTime: 2022-07-16T15:45:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 2
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 32
 
 secured: "99vuPOnv/ASJgJoMEoQigmOlo4VDfTspMeyLIVtGcGiQ5tKoIjD3DP1mGMsclQEmLEpn0L0yqMYX78bKKw1s00Qp2bphICVILfCa5GpoO9aKRQsAeEhzkNW+ezN+3shBThIyJkDdY9gHu5O/7f/Cd69TZnE3EXbK+QhavP39LBHAM8kpqjAGfE5QTeska6slVzLd/pw7KS/jvBY4wHeMrxYz2r4JnCZAQ3e5agMomnOLOHwlAzu4NxFSJoJWDQvpEdgxijhpNh7nS+PV1Vm3mXRWvc58fn4+g0MJw8Uiv+1Z4P5Mzlg0GA77b2sxtLacpJ008/yefjS70aI+vAaYrGypTxLchNR3H38W4OxZoM+OLPDZQIUjNglttyHEduu8Wcky6buG5gHU5SKwfsSVFBTzwOyAQX6PPuMLCyvLW978ydapbFD9Py36aEotSEbQzRgEBTxt8PkP2pS2hcKGuM/x9eSv0q2aJsXqVmvrqQfSFudLPCKrZi8CyRLuXucggvYH76B74Cj7aDNWEe06xA==;Foxo41wGIQc9dJr0IaMxoA=="
 ---

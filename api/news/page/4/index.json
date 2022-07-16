@@ -2,6 +2,188 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
+      "title": "AI goes multilingual with Hugging Face’s BLOOM",
+      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
+      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
+      "publishedDateTime": "2022-07-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
+      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
+      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
+      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
+      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "publishedDateTime": "2022-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
+      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
+      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
+      "publishedDateTime": "2022-07-11T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030.md",
       "title": "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030",
       "excerpt": "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ...",
@@ -10,7 +192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -585,6 +767,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-11-arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms.md",
+      "title": "Arteris IP’s Next Generation of Vision Processing for Edge Devices Selected by Inuitive for Its Next Generation of Computer Vision Platforms",
+      "excerpt": "RA’ANANA, Israel and CAMPBELL, Calif., July 11, 2022 (GLOBE NEWSWIRE) -- Arteris ® Inc (Nasdaq: AIP) - a leading provider of system IP consisting of network-on-chip (NoC) interconnect and IP ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-is-sentient-ai-upon-us.md",
       "title": "Is Sentient AI Upon Us?",
       "excerpt": "Many people would say animals are sentient because they exhibit emotions like joy, sadness, fear and love. We also know that some animals have more complex emotions than others; animals such as elephants are known to mourn their dead relatives in ways we find familiar enough to call grieving “mourning” ourselves.",
@@ -961,240 +1186,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-find-what-moves-you.md",
-      "title": "Find what moves you",
-      "excerpt": "The Quaker State 400 starts soon. Even if you don't have cable TV, you can enjoy all the racin' and rubbin' in Atlanta from home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/1162/",
-      "originalUrl": "https://www.cnet.com/roadshow/1162/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e588511b23a04b20ba1b2bcbad43926e66cca8cb/2022/04/27/6e683780-bcc3-41c7-99a7-adfdfda611c1/avatar-cnet-cars-square.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-building-neural-networks-with-tensorflownet.md",
-      "title": "Building Neural Networks With TensorFlow.NET",
-      "excerpt": "we call it the Deep Neural Network (DNN). Artificial Neural Networks are a fundamental part of Deep Learning. They are mathematical models of biological neural networks based on the concept of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
-      "originalUrl": "https://www.infoq.com/articles/building-neural-networks-tensorflow-net/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/building-neural-networks-tensorflow-net/en/headerimage/generatedHeaderImage-1657201887957.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-that-everyday-ai-in-your-pocket.md",
-      "title": "That everyday AI in your pocket",
-      "excerpt": "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
-      "originalUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Jul/1657492588_new-project-2022-07-11t040527-511.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
-      "publishedDateTime": "2022-07-10T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-10-this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.md",
-      "title": "This AI powered text-to-speech tool makes voiceovers sound true to life",
-      "excerpt": "The problem is that they often make videos sound robotic and lifeless, which is never good. Wish there was a better option? Then check out Speechnow, an AI-powered tool that makes video voiceovers sound true to life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html",
-      "originalUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/07/sale_314201_article_image-1.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html/amp",
-      "publishedDateTime": "2022-07-10T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-rajnath-singh-to-launch-75-ai-enabled-defence-products.md",
-      "title": "Rajnath Singh to launch 75 AI-enabled defence products",
-      "excerpt": "Defence Minister Rajnath Singh will launch the first-ever 'Artificial Intelligence in Defence' (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "originalUrl": "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.catchnews.com/upload/2020/09/02/rajnath.jpg",
-          "width": 730,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "cdnAmpWebUrl": "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "publishedDateTime": "2022-07-08T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catch News",
-        "domain": "catchnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

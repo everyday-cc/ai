@@ -64,6 +64,15 @@ related:
         width: 960
         height: 576
         isCached: true
+  - title: "How Robots Can Take Up the Cybersecurity Fight"
+    excerpt: "“More importantly, as the latest developments in AI now start to reliably deploy systems that can start up and fully learn its environment in the way a skilled and experienced human does, AI can now deliver reliable and repeatable analytics with ..."
+    publishedDateTime: 2022-07-16T12:07:00Z
+    webUrl: "https://za.investing.com/news/how-robots-can-take-up-the-cybersecurity-fight-2585841"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 19
 
 secured: "6KSZLHjIypNlz2CohiUZSmHwQPlBAoXG/AwasHS5pJxj3QxFPzvg+U6VyTBMH/zeSmADJcFxaGks2kKTEuJy0p8fFsMQORL/Qqo21ObZZ+6o5yIs/pwpbriKjsBl8uavbsI/fyj13XmzkDE/iW0yD3pnNAW+nRqQDHEH6jeo0yU1PdeMBH2PF0eVkqCXm7kKJlVh1ITYN/qwJea/TYWJi7L611zNZumjzK1W/Dx6oqUEkGp/Bydfmw7OCY7h3pSkf8FzdZ4HufHTulOAR4t+SGESqz3MmMBOHgzg3uHZvjnTHB+Afurvs/j/Gm6MMuAjs8/U3tc1Px/xQ6WrUFssVD5fNuqqjnjlZfAMttKm/TE=;AlCt2ovfHnjiD08e26kffQ=="
 ---

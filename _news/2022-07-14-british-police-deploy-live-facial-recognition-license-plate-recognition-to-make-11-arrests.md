@@ -24,6 +24,17 @@ images:
     height: 530
     isCached: true
 
+related:
+  - title: "Met police deploy facial-recognition technology in Oxford Circus"
+    excerpt: "Police facial recognition deployment resulted in three arrests, despite sustained calls from Parliament and civil society to limit the technology’s use until a specific legal framework for biometrics"
+    publishedDateTime: 2022-07-13T13:30:00Z
+    webUrl: "https://www.computerweekly.com/news/252522694/Met-police-deploy-facial-recognition-technology-in-Oxford-Circus"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 4
+
 secured: "JhobW+9QcLden8Yf4z+7mIZoXUI/m/SbA90XHa9Ou3dtGgJn0yynsvfAo6LZ4dSPG8gwfYTv7He58zBRmhb3DtltNYlAE9om1FUMstmyTKZKbdjcVNAz77aDcPI1SxCLbfAioMXqnfu5x/BMc6qaR2VHy5aw1lzqAO2GC+WujTjSr27EE7Hgad2Xl1eQ5PWv8akL6pCB0ClwPFWXfNbRdMUx0ORgRN2HyxqaJ9wpYj5IAwxWkUOxMmup/wPbSH2U0nlw2JTK49tVUPWDOkQzil1baiYpiYv0tNuYVR6uLKqjpH/tdi3lMuz1M6I0oxEVMxmQU4pMh90rBWBPpWK/lq2up1GDDblDFbuTZIyJ2t6gO2NzfwJXNzGdl5ecsDrTHa+RAWmczZqLtFvOeT5T47ePSLLFIrfnrvWwb11mwywG/QcMnvgsN0mHSZsID0Ds5MHW8A8oBs5YjxjxgFYiwB+R1ITeS3uL38X64YB5iGgZlonbdbqWKcEajszccI9SoMqJQGvmS1bFpWh6Z5UWlA==;d1eIwz5uvmYegpXfn3cNyg=="
 ---
 

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
+      "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
+      "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/",
+      "originalUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image-1.png?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/",
+      "publishedDateTime": "2022-07-16T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car.md",
+      "title": "Crash Test Dummies: Nascar Used Robotics To Crash Test Next Gen Car",
+      "excerpt": "NASCAR’s Next Gen car features a lot of new tech. The testing of that car also featured new ways of testing that included crash testing with not only crash test dummies, but AI and robotics as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/",
+      "originalUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d2cb72252022454a9139f7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/",
+      "publishedDateTime": "2022-07-16T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.md",
       "title": "Scientists combine robotics with biology to construct biohybrid microrobots",
       "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
@@ -86,6 +191,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-what-ai-and-power-plants-have-in-common.md",
+      "title": "What AI and power plants have in common",
+      "excerpt": "AI is powering progress and innovation, becoming crucial to our economy with the same scale impact as the introduction of electricity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/",
+      "originalUrl": "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1051,151 +1200,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-mike-shinoda-backs-a-startup-that-lets-you-do-video-calls-as-nft-avatars.md",
-      "title": "Mike Shinoda backs a startup that lets you do video calls as NFT avatars",
-      "excerpt": "As I speak to Tong Pow over Google Meet, he appears as a cartoon medieval-helmet-clad cat that talks and bobs its head, mirroring Pow’s movement behind the webcam. The visor may be hiding a Cheshire cat grin because Pow has raised $6.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/",
-      "originalUrl": "https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/hologram-founders.jpeg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/amp/",
-      "publishedDateTime": "2022-07-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-ai-startup-detect-technologies-raises-28-mn-in-series-b-round.md",
-      "title": "AI startup Detect Technologies raises $28 mn in Series B round",
-      "excerpt": "Artificial Intelligence-based software-as-a-service (Saas) firm Detect Technologies has raised $28 million in its Series B funding round. Led by Prosus Ventures, the round saw participation from existing investors Accel,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/14_thu/img_1657806738405_149.jpg?",
-          "width": 1080,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "publishedDateTime": "2022-07-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots-humans.md",
-      "title": "Are We Getting The Best Out Of Our Bots? Co-Intelligence Between Robots & Humans",
-      "excerpt": "When inflation is soaring, utility bills are hitting record heights and job vacancies far outstrip the number of people seeking work, it’s tempting to see technology as the solution. But after over two years of reduced human contact are we starting to see a thirst for human contact?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
-      "originalUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d034647543ed2119e20af3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
-      "publishedDateTime": "2022-07-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

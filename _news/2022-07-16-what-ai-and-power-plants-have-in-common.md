@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-i
 webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -24,6 +24,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Fullpower®-AI Announces the Issuance of Three New U.S. Patents Further Covering Smart Beds, Sleeptracker®-AI, and the Fullpower®-AI PaaS Platform"
+    excerpt: "Fullpower ®-AI, the leading IoT biosensing and sleep technology company, today announced that the United States Patent and Trademark Office (USPTO) had issued three new U.S. Patents directed to methods related to the Fullpower ®-AI platform."
+    publishedDateTime: 2022-07-14T14:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fullpower-ai-announces-the-issuance-of-three-new-u-s-patents-further-covering-smart-beds-sleeptracker-ai-and-the-fullpower-ai-paas-platform-1031587989"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1859411/Fullpower_AI_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "The Air Force plans to test an AI copilot on its cargo planes"
     excerpt: "The Air Force and Merlin Labs will work together to bring an AI copilot to C-130J cargo planes. Here's how the system works."
     publishedDateTime: 2022-07-14T23:00:00Z

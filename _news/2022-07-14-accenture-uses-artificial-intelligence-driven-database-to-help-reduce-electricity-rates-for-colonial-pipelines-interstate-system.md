@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T12:00:00Z
 originalUrl: "https://www.valdostadailytimes.com/news/business/accenture-uses-artificial-intelligence-driven-database-to-help-reduce-electricity-rates-for-colonial-pipeline-s/article_489580b5-7b8f-5b83-9849-77f44049e5e1.html"
 webUrl: "https://www.valdostadailytimes.com/news/business/accenture-uses-artificial-intelligence-driven-database-to-help-reduce-electricity-rates-for-colonial-pipeline-s/article_489580b5-7b8f-5b83-9849-77f44049e5e1.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Valdosta Daily Times

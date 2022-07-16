@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-wikipedia-has-a-surprising-ally-in-the-fight-against-misinformation-metas-ai.md",
+      "title": "Wikipedia has a surprising ally in the fight against misinformation: Meta’s AI",
+      "excerpt": "While its reputation for accuracy has improved, even Wikipedia doesn’t consider itself a reliable source. The Wikimedia Foundation, the non-profit organization that oversees Wikipedia, regularly explores new solutions for these shortcomings.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency",
+      "originalUrl": "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design-4.jpg&signature=9603ada9242a020a0ba12541717c7b0c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-meta-ai-tool-sphere-could-help-curb-fake-news.md",
       "title": "Meta AI Tool 'Sphere' Could Help Curb Fake News",
       "excerpt": "Facebook parent company Meta on Monday launched Sphere, an AI information verifier that validates the strength of claims in web entries, as reported earlier by TechCrunch. The tec",
@@ -579,6 +631,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found.md",
+      "title": "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found",
+      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower raised ... and director of the school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good application of AI. “It’s a worthwhile endeavor to try and protect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.egyptindependent.com/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/",
+      "originalUrl": "https://www.egyptindependent.com/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amayei.nyc3.digitaloceanspaces.com/2022/06/220624020303-01-instagram-ai-age-estimation-face-scan-restricted-exlarge-169.jpg",
+          "width": 780,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Egypt Independent",
+        "domain": "egyptindependent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1307,110 +1402,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-us-court-will-soon-rule-if-ai-can-legally-be-an-inventor.md",
-      "title": "U.S. court will soon rule if AI can legally be an ‘inventor’",
-      "excerpt": "Can artificial intelligence (AI) be legally listed as an inventor? After all, if AI can legally invent products, the number of patents on drug-discovery tools will shoot up fast. The issue is currently before a United States court.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-and-patent-law-fade-60.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/",
-      "publishedDateTime": "2022-06-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-ai-is-driving-iams-shift-to-digital-identity.md",
-      "title": "How AI is driving IAM’s shift to digital identity",
-      "excerpt": "The IAM industry needs to shift to digital identity, evolving away from legacy constructs to an AI-powered system that's always on.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
-      "originalUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/GettyImages-961645454-e1645559719112.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
-      "publishedDateTime": "2022-06-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

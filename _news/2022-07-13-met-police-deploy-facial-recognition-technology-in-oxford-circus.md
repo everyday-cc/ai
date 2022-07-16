@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "VERIFY: New Virginia law lets local, campus police use facial recognition technology. How can they use it?"
-    excerpt: "WASHINGTON — A bill expanding facial recognition technology use by law enforcement in Virginia took effect on July 1. It allows local and campus law enforcement to use facial recognition technology, something that only state, federal and private police ..."
-    publishedDateTime: 2022-07-11T22:51:00Z
-    webUrl: "https://www.wusa9.com/article/news/verify/when-can-virginia-state-local-and-campus-police-use-facial-recognition-technology/65-d125aa62-6790-4fe8-80e6-1d8d1b0d74f8"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/verify/when-can-virginia-state-local-and-campus-police-use-facial-recognition-technology/65-d125aa62-6790-4fe8-80e6-1d8d1b0d74f8"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/when-can-virginia-state-local-and-campus-police-use-facial-recognition-technology/65-d125aa62-6790-4fe8-80e6-1d8d1b0d74f8"
+  - title: "British police deploy live facial recognition, license plate recognition to make 11 arrests"
+    excerpt: "British police operating in London and the northwest of England recently used live facial recognition and automatic number plate recognition."
+    publishedDateTime: 2022-07-14T16:42:00Z
+    webUrl: "https://www.biometricupdate.com/202207/british-police-deploy-live-facial-recognition-license-plate-recognition-to-make-11-arrests"
     type: article
     provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 41
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
     images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/f52fe56d-862d-475f-a545-d17a694c72a4/f52fe56d-862d-475f-a545-d17a694c72a4_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/17122736/live-facial-recognition-uk-police.jpg"
+        width: 800
+        height: 530
         isCached: true
 
 secured: "ZA8le/bIYUL0fu/AECTQTELy4tVd5JqUct3yLFehdox08PvWzUNmoCJ+T9L5L781CU3OPjEm//PVnUyBJp10fkw4Zw4gOTKBNArBH6AUHueorKzPOg+FrP89Cdquhtahjka8+H/GZ0oW4OtMB8JktcDxBgP4FaHHGRpuBV2ZbUfcKXHc6zihYbPwwbbzeXuu9IoazC8QN/CpO0stS0vTVCpMK+hwmkGwbYxpQ0FN1IeJe21XAAqGk8MqvPVs3/UJpVS5lkuLKUEA0c5QemyHLf1tB+BjT+a5UBfUDG+l1jv5QD2ETheGsvid3R09JNRR2l7lkzrwKnU2u8S+8q+lZEvv127+l3nHn25XAR9ZcR/2akQH+0EaAwgYdd19SipwrjJUf6OhFdJl/tCrChMvndRaS0j6MOAsmK9rGex7hzxXvCjnV+Oujql/LK90iTHieodwd+W8DxJBkho0jcT/2S0bKIlRxzVX4OmfBOHwNYdpOAYzDCo0kom7cYCr9XPBaOYXezgCwdiOccpdngbLZA==;WpBNkoM/31eYhiNaur+Ylw=="

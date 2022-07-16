@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T18:27:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-7-15-prometheuz-providing-accessible-high-end-artificial-intelligence-applications-for-the-public"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-7-15-prometheuz-providing-accessible-high-end-artificial-intelligence-applications-for-the-public"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Daily Herald

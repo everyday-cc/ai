@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Meta Showcases Its AI-Based Image Generation Tool"
+    excerpt: "Meta has showcased an image generation tool called Make-A-Scene that requires users to provide a text-based prompt as well as an initial sketch of what they want to create. \"Prior state-of-the-art AI systems that generated awe-inspiring images primarily used a text description as input,"
+    publishedDateTime: 2022-07-16T13:35:00Z
+    webUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-generation-tool"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "IdRuyOCJV5rxuMpSs8H1IbNMNnZjBpz55ZjSyZLDouvSv2zfgnA8+M7iSwhKetyZyEUUxExb9dJN28jV8/ydPVsIEeS/LcOd0Ro80sd572fLRheo5eX1H3ycxEcUxnpfHg3QP+VgEyBPogyJVIgwMQrs5u+P1d4qQ7sbVld3Tq3rkTOmwBtiGl05zFKMd2Qww2EHEkTYt4GFT2PAF4by5UlD/jo41LGF7+K/w5yEIljU52Smw5aBzW7kwPO4iYhCg0XM6DDUtBS5iDrzyC1wkH2LdJUlMLyG1o2e8zhEqWDJ7sgUp60Oo4pG5WFa6CxMDbenjwNC9Xt1TKBKGIvFd8DC5Q7FTbRpL+SVHCnYLkyIHejBBfI1Eyl+A2a2mebTMJS1h4DoOOJRgnNXAfC1amqvdsElWDX+O4Vl34seSE+AzXx+B85JZB1ueNR2nogaUCuFplQzvWuTp9UkVHwLlG/i2Z3goZhnQ+pSEEUNHVX5B+tnYp9iVcTzUr71MmFz2314J5SbDfrTOIPNomOqdA==;MoLCkWZTwhYlDcwNbQATCw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-16-crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car.md",
+      "title": "Crash Test Dummies: Nascar Used Robotics To Crash Test Next Gen Car",
+      "excerpt": "NASCAR’s Next Gen car features a lot of new tech. The testing of that car also featured new ways of testing that included crash testing with not only crash test dummies, but AI and robotics as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/",
+      "originalUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d2cb72252022454a9139f7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/",
+      "publishedDateTime": "2022-07-16T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.md",
       "title": "Scientists combine robotics with biology to construct biohybrid microrobots",
       "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
@@ -383,49 +435,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products.md",
-      "title": "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products",
-      "excerpt": "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772",
-      "originalUrl": "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/07/12/2521695-untitled-design.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp",
-      "publishedDateTime": "2022-07-11T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

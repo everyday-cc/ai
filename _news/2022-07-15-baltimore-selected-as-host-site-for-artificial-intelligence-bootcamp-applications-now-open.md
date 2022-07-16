@@ -49,20 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Denver Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Western Union will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Denver will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T20:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-mark-cuban-21fd3da791fe13bbdc75e5f0608368d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Boyle Heights Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 in conjunction with the i.am/Angel Foundation."
     publishedDateTime: 2022-07-14T20:03:00Z
@@ -105,6 +91,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Denver Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Western Union will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Denver will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T20:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-21fd3da791fe13bbdc75e5f0608368d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
   - title: "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!"
     excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application."
     publishedDateTime: 2022-07-14T21:43:00Z

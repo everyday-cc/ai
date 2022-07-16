@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
+    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
+    publishedDateTime: 2022-07-12T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cBy+DPhsFzPwfSZZGrOlTz4wsRThI3rnHME3H4cYQrCneeGpaBjFPzmaWoZjzX+EfBJPANNgjI41k7tn0M2HnQ9gG9/zJbxOdfreL4rndK4gUH8P+18u5G/TxcvuBchD4ftQu3oqaosOZVcw1akpcBCZ7hDKmgcyWlnyYwTLsuq6VfBRFHgeZMLG59ruXHsvqYz9C22a7L4qDfRQhpXTFgpimMsSupDDiMmImMQ0rUkCvvN4CqwbtrVRpnmFfY/ZQqaAerhYWiDSgxFLDLdeUDEYJeGstRqcVhrre03+8ePfzSJCORdbZMHbZCGZLtPdHYkPZs6c5Xq3wEU5E+83ungR2tAKPTg9hH2FvbRua7I=;dXiNPxCKbTUVqF4UBXFlIA=="
 ---

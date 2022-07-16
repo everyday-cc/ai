@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 960
         height: 576
         isCached: true
+  - title: "How Robots Can Take Up the Cybersecurity Fight"
+    excerpt: "“More importantly, as the latest developments in AI now start to reliably deploy systems that can start up and fully learn its environment in the way a skilled and experienced human does, AI can now deliver reliable and repeatable analytics with ..."
+    publishedDateTime: 2022-07-16T12:07:00Z
+    webUrl: "https://za.investing.com/news/how-robots-can-take-up-the-cybersecurity-fight-2585841"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 19
 
 secured: "MPWJQyJ4KWs0lYiSx7HLc2qNNCNpxkAXXSKUjEHXg/rcFOvxcrqlZnp5mpn8lHvbHhotuUgmDF4ZW6PKueCjSOxYtUdSe2aDiX2b0HT7M3WDD3rr1ZNIazLQwrPuVBqJohUoKye9nuabLC6VDgMcaCfaszuujahr60Sq28h6876zy5AXxrzCr2XFUbjUoSd/qHlPlH2FsK8viUjQWvGn+e/sW3IHbDiEkiUBAZydIO11dYkhizmT8fmeV/MAFLJsK2yNOygDX5vtl7toM9emG/qWLWfTc+4rz+YBDHvzoe0PCAqFJ0m/eTbHo3IGp0/fwmqqtUEw9Ig+kCSGndFUI/S0AwqoS2A+hnqP5A75WAezuGyMN5j96nRsaSrio+2sXF0WpA0RXnfIfQrM/+R6OCkFRmO5Sj7y84tYvtjs+DkgHUGJQzni8GU3dZqTUfcb8Jk9EmUvj3X18Jr3Ocm8xfbOCDfHOYxA21Ff1E/BD+P+5XvNaUET6IN0rYaHXbuIG1Feqv6e9U0INHYsTNjmBA==;4+FyEuWhIKEPDyq9y70mfA=="
 ---

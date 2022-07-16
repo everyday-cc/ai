@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
+      "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
+      "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "publishedDateTime": "2022-07-13T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-online-math-tutoring-service-uses-ai-to-help-boost-students-skills-and-confidence.md",
+      "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
+      "excerpt": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "originalUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:59:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-deci-lands-25m-for-tech-that-makes-ai-models-more-efficient.md",
+      "title": "Deci lands $25M for tech that makes AI models more efficient",
+      "excerpt": "Deci has raised $25 million in fresh capital to further develop its platform and technology that make AI models more efficient -- and less costly to run.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/",
+      "publishedDateTime": "2022-07-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square.md",
       "title": "MeetKai launches AI-powered metaverse, starting with a billboard in Times Square",
       "excerpt": "MeetKai is a conversational AI company that has expanded into building a real-world metaverse, starting with a billboard in Times Square.",
@@ -484,6 +623,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-wikipedia-has-a-surprising-ally-in-the-fight-against-misinformation-metas-ai.md",
+      "title": "Wikipedia has a surprising ally in the fight against misinformation: Meta’s AI",
+      "excerpt": "While its reputation for accuracy has improved, even Wikipedia doesn’t consider itself a reliable source. The Wikimedia Foundation, the non-profit organization that oversees Wikipedia, regularly explores new solutions for these shortcomings.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency",
+      "originalUrl": "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design-4.jpg&signature=9603ada9242a020a0ba12541717c7b0c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
       "title": "Top 10 causes of stalled AI/ML projects",
       "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
@@ -667,6 +858,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-12-artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029.md",
+      "title": "Artificial Intelligence In Military Market Size, Share, Trend, Manufacturing Cost Analysis, Sales and CAGR Value and Future Outlook 2029",
+      "excerpt": "The Artificial Intelligence In Military Market (2022-2029) Research reports provide detailed information on current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-share-trend-manufacturing-cost-analysis-sales-and-cagr-value-and-future-outlook-2029-2022-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023.md",
       "title": "AI, data analytics firm Ganit raises funds; to double headcount by 2023",
       "excerpt": "Ganit was founded in 2017 by three veterans of the data science industry Shivaprasad KT, Ashok Harwani and Hariharan R.",
@@ -717,7 +960,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -930,231 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
-      "title": "AI goes multilingual with Hugging Face’s BLOOM",
-      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
-      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
-      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
-      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
-      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "publishedDateTime": "2022-07-11T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products.md",
-      "title": "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products",
-      "excerpt": "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772",
-      "originalUrl": "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/07/12/2521695-untitled-design.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp",
-      "publishedDateTime": "2022-07-11T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
-      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
-      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "publishedDateTime": "2022-07-11T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

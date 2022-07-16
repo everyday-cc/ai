@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/soon-ai-based-mandarin-transl
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
-    excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
-    publishedDateTime: 2022-07-11T19:25:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 58
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Meta’s AI machine translation research to help break language barriers"
     excerpt: "Meta has announced that it has built and open-sourced ‘No Language Left Behind’ NLLB-200, a single Artificial Intelligence (AI) model that is the first to translate across 200 different ..."
     publishedDateTime: 2022-07-13T09:15:00Z

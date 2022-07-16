@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "DeepMind AI learns simple physics like a baby"
-    excerpt: "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ..."
-    publishedDateTime: 2022-07-11T20:53:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Google DeepMind Wants to Save Eyesight with Artificial Intelligence"
     excerpt: "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ..."

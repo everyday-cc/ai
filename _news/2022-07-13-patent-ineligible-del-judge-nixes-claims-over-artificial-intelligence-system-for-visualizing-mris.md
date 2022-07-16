@@ -27,20 +27,6 @@ images:
 related:
   - title: "Artificial Intelligence System for Visualizing MRIs Is Ruled Patent Ineligible"
     excerpt: "AI Visualize said its patents deliver real-time immersive 3D interactive VR telepresence,” but Judge Richard Andrews said the company merely claimed the abstract idea of remotely storing a dataset of images,"
-    publishedDateTime: 2022-07-11T19:21:00Z
-    webUrl: "https://www.law.com/therecorder/2022/07/11/artificial-intelligence-system-for-visualizing-mris-is-ruled-patent-ineligible/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2022/07/David-Lender-2019-18-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Artificial Intelligence System for Visualizing MRIs Is Ruled Patent Ineligible"
-    excerpt: "AI Visualize said its patents deliver real-time immersive 3D interactive VR telepresence,” but Judge Richard Andrews said the company merely claimed the abstract idea of remotely storing a dataset of images,"
     publishedDateTime: 2022-07-13T16:54:00Z
     webUrl: "https://www.law.com/legaltechnews/2022/07/11/artificial-intelligence-system-for-visualizing-mris-is-ruled-patent-ineligible/"
     type: article

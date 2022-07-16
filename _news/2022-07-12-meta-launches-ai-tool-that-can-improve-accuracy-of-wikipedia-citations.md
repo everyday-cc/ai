@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI researchers develop model for verifying Wikipedia citations"
-    excerpt: "Wikipedia is often the first stop when someone is looking for information online, but the validity of that information is all dependent on where it is being sourced from."
-    publishedDateTime: 2022-07-11T21:01:00Z
-    webUrl: "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 67
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2022/07/4fb7533579e9e445735e1995cfcfe43c.png"
-        width: 583
-        height: 327
-        isCached: true
   - title: "Wikipedia has a surprising ally in the fight against misinformation: Meta’s AI"
     excerpt: "While its reputation for accuracy has improved, even Wikipedia doesn’t consider itself a reliable source. The Wikimedia Foundation, the non-profit organization that oversees Wikipedia, regularly explores new solutions for these shortcomings."
     publishedDateTime: 2022-07-13T01:37:00Z
