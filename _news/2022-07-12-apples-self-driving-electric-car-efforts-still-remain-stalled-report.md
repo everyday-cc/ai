@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electr
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2022/07/s/l/7c41e7139fed615e563346bb50baff691dd9d24b.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Apple self-driving cars reportedly hit curbs, veer out of lanes at intersections"
-    excerpt: "According to the report, Apple’s self-driving cars have had problems navigating streets, including frequently hitting curbs and veering out of lanes in the middle of intersections near the company’s headquarters."
-    publishedDateTime: 2022-07-11T23:15:00Z
-    webUrl: "https://siliconangle.com/2022/07/11/apple-self-driving-cars-reportedly-hit-curbs-veer-lanes-intersections/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/02/27050412940_5a0e5ac101_o.jpg"
-        width: 640
-        height: 400
         isCached: true
   - title: "Apple's self-driving car effort stuck in low gear, says report"
     excerpt: "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new 'big thing' from the company since its iconic co-founder Steve Jobs died in October 2011."

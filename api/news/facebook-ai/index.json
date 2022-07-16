@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
+      "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
+      "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/",
+      "originalUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image-1.png?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/",
+      "publishedDateTime": "2022-07-16T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Math for AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text.md",
       "title": "Meta's Make-A-Scene uses AI to create digital imagery from text",
       "excerpt": "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches",
@@ -1359,49 +1414,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-no-googles-ai-is-not-sentient.md",
-      "title": "No, Google’s AI is not sentient",
-      "excerpt": "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/",
-      "originalUrl": "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://krdo.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRDO",
-        "domain": "krdo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

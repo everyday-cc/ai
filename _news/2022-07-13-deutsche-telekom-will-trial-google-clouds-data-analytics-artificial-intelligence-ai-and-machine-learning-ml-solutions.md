@@ -7,7 +7,7 @@ originalUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-p
 webUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 278
-        isCached: true
-  - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
-    excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
-    publishedDateTime: 2022-07-11T23:17:00Z
-    webUrl: "https://www.datanami.com/2022/07/11/how-intuit-is-building-ai-analytics-and-streaming-on-one-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/Intuit_shutterstock_Tada-Images.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Esri Melds GIS with AI, Graph, and Analytics"
     excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"

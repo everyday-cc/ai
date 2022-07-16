@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-06-azra-ai-expands-innovative-incidental-findings-technology-to-help-clinicians-identify-more-cancers.md",
+      "title": "Azra AI expands innovative incidental findings technology to help clinicians identify more cancers",
+      "excerpt": "Azra AI’s proprietary software — which uses artificial intelligence (AI) and natural language processing to identify incidental lung nodules in medical reports — is expanding to include liver, kidney and adrenal,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
       "title": "Voice And Speech Recognition Software Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
       "excerpt": "The \" Voice And Speech Recognition Software Market Research Report \" and Industry Analysis examine the Voice And Speech Recognition Software industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,",
@@ -1349,60 +1392,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
-      "title": "What’s new in Microsoft Azure’s NLP AI services",
-      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
-      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 398,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
-      "publishedDateTime": "2022-06-22T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
       ]
     }
   ],

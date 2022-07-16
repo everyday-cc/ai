@@ -49,20 +49,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "How Intuit Is Building AI, Analytics, and Streaming on One Lakehouse"
-    excerpt: "With more than 100 million customers and revenues close to $10 billion, Intuit has enterprise-scale data processing needs, as well as enterprise-scale"
-    publishedDateTime: 2022-07-11T23:17:00Z
-    webUrl: "https://www.datanami.com/2022/07/11/how-intuit-is-building-ai-analytics-and-streaming-on-one-lakehouse/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/Intuit_shutterstock_Tada-Images.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "5 Times AI Business Analytics Failed Horribly"
     excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
     publishedDateTime: 2022-07-14T15:22:00Z

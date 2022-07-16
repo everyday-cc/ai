@@ -2,6 +2,84 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-06-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
+      "title": "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year",
+      "excerpt": "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
+      "originalUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
+      "publishedDateTime": "2022-06-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy.md",
+      "title": "RayStation 12A brings deep learning segmentation for all users as well as new features for brachytherapy",
+      "excerpt": "With the release of RayStation 12A, deep learning segmentation is available for everyone that is using RayStation for patient modeling. New and updated segmentation models will be released on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-april-taps-ai-to-help-personalize-and-autofill-tax-filings.md",
       "title": "April taps AI to help personalize and autofill tax filings",
       "excerpt": "April, a startup developing a system to help personalize tax filings by pulling information from various apps and systems, has raised $30 million in a venture funding round.",
@@ -819,49 +897,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "Apollo driving platform was launched in 2017, self-driving taxi service 3 years later China's Baidu races Waymo, GM to develop self-driving cars Beijing: With no one at the wheel, a self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048",
-      "originalUrl": "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/06/29/China_Self-Driving_Cars_00621_181ae12b58e_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048",
-      "publishedDateTime": "2022-06-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-29-be-the-first-to-know.md",
       "title": "Be the first to know",
       "excerpt": "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars. Baidu is test-driving more than 5",
@@ -1082,58 +1117,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos.md",
-      "title": "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos",
-      "excerpt": "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
-      "originalUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T19:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

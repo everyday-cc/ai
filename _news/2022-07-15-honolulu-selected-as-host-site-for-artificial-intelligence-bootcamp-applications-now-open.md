@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Honolulu Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+title: "Honolulu Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Honolulu will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-publishedDateTime: 2022-07-14T21:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-honolulu-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639329.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-honolulu-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639329.htm"
+publishedDateTime: 2022-07-14T19:47:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-honolulu-artificial-intelligence-mark-cuban-72bee5f9ae1262fff0c8afe7aff45145"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-honolulu-artificial-intelligence-mark-cuban-72bee5f9ae1262fff0c8afe7aff45145"
 type: article
-quality: 6
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii"
@@ -144,15 +151,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 6
-  - title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T21:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
   - title: "Round Rock/ Austin Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Dell Technologies will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Round Rock/ Austin will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:22:00Z
@@ -161,6 +159,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 3
+  - title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
+    publishedDateTime: 2022-07-14T19:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 3
   - title: "West Palm Beach Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Florida Power and Light will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in West Palm Beach will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
@@ -181,6 +188,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OaJFGSZIJogMmqgnOBTjuBigxTdaZ7LNcWZNo0lImkwzq3gg2e5CJ8bhOO1JYAEGdkbfiWo/hTeFVG69W1FHifpCP7/lfJZ7hq2tZ/J6BmN3AfnDIpnDZcvWb9HXSU1s3xJAklZCpHw1YOafeGsc9+N3TMMU5A+new0RUGqLr0RSyWKGNb8XtfVNgoq26b5jML7gVWQKjh5xo0W4McdPrPEcOrqrPE54ashAKABEzs4MxaxkzuHoHgvQGgAdovaDF2TtK3xs/Q9h1UTG8DLvE52qs1vphge0AO0BrsyuJWiYvZmacnHmgASo/20nE5DA1cpBT/G3uVB2UO49W1vu9WhpddWEKhdvS0UvB5S73UQ=;9qm3K0Lt/XKBb/Xy9RYw+g=="
+secured: "cUGhCDk4gJr28fTZOjzLgTSxVvOYn9cCqJGuOr4QyURYE8k/lSU0xWgh9DrTzwCTJxB89V2NhkVnUH2b3SE5LPnsyuDn8k//XWj4ijPzghczXfaKhywFe/MJ4v3XAvnigOjsHd4T65jxMgqJl0XtNYag6WdWyaBT0KUK8Rs0ckFzN/NG2fmiki9JcxFWQOxR8E7EX7RG0TEKYkytmt/qTYWitZjIVaOR7A9j2V7VyRt8CxV7MUPXPoBDrgGwFjd1qym1z1IiV5cOGFRB8N0BG/Hm46xUpTcRxJkyvU0PLc8yNTI2ol6FZ1JHMr06EKzZNwMyUTc8AqS5E70lHyoW0WgQI5QW1fgxT6zdf06nNuQ=;+N8tCEzFPDqy973CqFHahQ=="
 ---
 

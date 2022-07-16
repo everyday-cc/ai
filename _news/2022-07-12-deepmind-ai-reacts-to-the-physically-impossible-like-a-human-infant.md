@@ -60,20 +60,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google DeepMind Wants to Save Eyesight with Artificial Intelligence"
-    excerpt: "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ..."
-    publishedDateTime: 2022-07-12T00:01:00Z
-    webUrl: "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "/knygS+ms5rwsWJLx8qcrfOeDYGN0qZFOEFp0gPn3pXHQS57QXgOTVVldWffCh55q2Yo2EUs3WJ8rh3qJYV3Q9etI/wMVN9pp10Mbu//UdjNpLNWPIoqpoAdmn8oWWQhfJS8kOZ4AQL3ib6ckGWtfpe4u9azpxYcztBeJyBg/OzjmGTC7aszeBPFYp1axvci/FzFa3koeCy1+R+09v6JcuaXK9Ar+3T2CXrFTMTNB6fhPYc299XNdkrGFSyL/38NM3FOJBCJzQTYYH3QKiHEK577c557Bn1VYZsEwRnZa/ajUJuDPmL1DU/ulQY0CBw/ojVHkASkHOJSNZHd3vEKWnFiv/pISGUi/TN8izHtzznLCtF7EWJd4JovzyL2mZ0Btx7WFICVH/0ctRxZF9NMK3L/ZFiOwxhsnZ9bD1wm7lsDtxa4bDNRW+7llWdfG0iOJC4iPBaXiH0LHUkM5+X3rbchiUT6SH436sHpPsCsvP5MWyE7xxPwFQPDTvEEpXZZoazSJTsKpdblYyfYBfPSqA==;GnHs04bWIVqe+be7A778Jg=="
 ---

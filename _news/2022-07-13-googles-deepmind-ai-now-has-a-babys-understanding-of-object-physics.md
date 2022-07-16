@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Google DeepMind Wants to Save Eyesight with Artificial Intelligence"
-    excerpt: "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ..."
-    publishedDateTime: 2022-07-12T00:01:00Z
-    webUrl: "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png"
-        width: 600
-        height: 315
         isCached: true
   - title: "DeepMind AI reacts to the physically impossible like a human infant"
     excerpt: "DeepMind has looked to developmental psychology to help AI gain a basic understanding of the physical world. Real-world physics are difficult for AIs to grasp when asked to start from scratch with only training data to guide them."

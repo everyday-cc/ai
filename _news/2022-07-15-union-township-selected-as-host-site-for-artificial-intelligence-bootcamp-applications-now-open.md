@@ -1,21 +1,20 @@
 ---
 category: news
-title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-publishedDateTime: 2022-07-14T21:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
+title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in"
+publishedDateTime: 2022-07-14T19:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/g28072277/union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
 type: article
-quality: 5
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Autos
   - AI
 
 related:
@@ -44,6 +43,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Honolulu Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Honolulu will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
+    publishedDateTime: 2022-07-14T19:47:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-honolulu-artificial-intelligence-mark-cuban-72bee5f9ae1262fff0c8afe7aff45145"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -127,15 +140,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
-  - title: "Honolulu Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-    excerpt: "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Honolulu will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-07-14T21:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-honolulu-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
   - title: "Johnston Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "Granular will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Johnston will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-07-14T21:23:00Z
@@ -182,6 +186,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "NR4ZWjSqhYHkukeQ60EmbFn2iGXxNu3DSok4wXQ7LQQNABqCogrMIuq+dGdbGF6SEWMd3jBpJEYHvUlM7jIP+2qHzqdfhkjoyhNe4laAieVsNoOc67MC8fsfsyNJefvTmOxegJbv8GjJWbtNjJtzzHKNMdvY76xWqgfdNvtFHoRpuKGl0nLXr6NTqCtZ7/DKUD8Y1txIiCOa4BSRm7BnwKSn2gAtj/Fyu7JT1xXsOkLwcP860JG9OGxc51hfBdOVXkbsKui4zQu6MgqFcSiU5UtV0lHKrt38nNG1sCGUL+pp27uvsmfPNgKcY58jUblmiB1oJW+I0gJhF8DmgeyV3QRW95tNdlLpCrrZjWpuaWY=;5Sn1TXpjEY3GSTEaojZ6sw=="
+secured: "JMb/iAk0l9mqLkDW6jps+MwR+vnREg2Anm9/5Mh3ln36AUDplvowvjFiVfxKTQQGrRr90SPklByUUL8C8I+hemDPcP5k8CZZK8qkLPRTbLmAu2zEOHMeolctHCJndjyHn7R9x4myT7csY4+RVnPlwrU4vpbgAMUmkl5v4D/rnmWJnZWYDlaCdVFDq/VDL60VQuERjzjmu8xC28B9jaUwnMtuBgUoBF7q9H4GwZ7Iz0L+dW+8E5V4v9wj6KVtWF+m/NguBegLHXooO11HBbwKx2QOHOc20lZQLgprgwmVNXjUctXxPS6nR8/5i1O0/4iCgX/BetP2aFNBVAaupfi08dPh0M85c9wqma1BxN9P7R0=;cSM0ZPcNsEVIvYrGIizZmg=="
 ---
 

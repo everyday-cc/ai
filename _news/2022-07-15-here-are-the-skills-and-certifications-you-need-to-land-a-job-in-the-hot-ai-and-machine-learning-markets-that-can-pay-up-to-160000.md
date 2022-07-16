@@ -30,22 +30,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "More job candidates are lying and cheating in their interviews. Employers are using artificial intelligence to catch them."
-    excerpt: "Candidate fraud is increasing as remote hiring and a labor shortage have fueled opportunities for dishonesty on the part of applicants."
-    publishedDateTime: 2022-07-14T10:00:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-can-catch-fraudulent-cheating-job-candidates-in-tech-2022-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: "https://i.insider.com/62cefde2b0ab4f0018538393?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "GO9fSONalaTgvrJOqv020CFqsGVOAKQoR/dfR+IV5TsExJlSgL4CK+vs5pS/BufSSi+GP9ea7fq8TYPUkioMwnwYkb61z48NDOk4uLqZQoYKdMfcm23uTcDIFcafUywzWqt04bIqD/a3f5bws9hAHofYltTExaCQkV2Wd7UeM/Zvf+M/AqsairKN7d/+TT+GqQvenAvRW41boQ2bv1ONRcGYadlZMFmRVVmFMYh+8SRhjFj1IlnNUQd22AoM13YR0hoYRzk7BLEx8uSeESZYXT5dje3dHbr2v2syRhP8FrvHXikioum+PTVcwJAPvQrAxf9E5Fc5wI+k7v9xB5NQYLtTDVc1r2BatDgGNO185vt6/YXUdMRIhxAjLkCVXGMSXuwopje5Lx/4/ulZcXCYQrV7uVw9/uY8gACJMNoX6Ych0JgUrJWoapFwWldeTcsE+PmSXxEs8Z8x7fS0pctwl73dNtDylf8mj2ErOV5zZLJHUOnOflum3i+6cWON3kEda2FAHlEm3lsDNQAoYDCqsg==;MoBKG4O4E08D0jDT1kWf8A=="
 ---
 

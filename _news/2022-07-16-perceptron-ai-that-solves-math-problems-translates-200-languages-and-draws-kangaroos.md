@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-proble
 ampWebUrl: "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/"
 type: article
-quality: 98
-heat: 98
+quality: 117
+heat: 117
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - Computer Vision
   - AI
   - Math for AI
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/06/image-1.png?w=680"
@@ -31,6 +33,6 @@ images:
     height: 453
     isCached: true
 
-secured: "rKtmXxDL2Bv1kt8feiC3PDNel6nOtx3g7dPT9bDU0LCrtiLOOZlH4zN6yy6XEUM3IlZcyBOF4WW3vqYCHIMUt242IORE1Ct5TFf5CG/XCectEcZoT+HvfaR6tV88awM2Q7DH2seW318GieEiFamOEQUuwGjHW4TEYRXQwJ6aIrxBY7F/gXHCKUL1DWP5WEZxJSqtINPc3biuOIjloshfGGne1zhKdWCH8e5lJIzGfl8MGXRDvi6M+TP7FOv9VLxP8MloP6MU0+XWncoOjhjTLF5NI6PKVFDi64PcJK/VWkHAYgN24kzW/sG0HTRUluXdLUsLfsuv8d7uZiXQADhYm3jxp/SszOuyCw1TPMsgnhE=;9gpHdOzbUSL4BO5+0g0Jyg=="
+secured: "bU5eRVhjVNLwat/tZTvuKUUZB4IcA48HVB87Y4U84Dim/NOWL1BG4ZImVc77I8xL+Jotu8hB5Rss3AGee3bSx820gFO8f7v/GjGJ697TZRV8ZEAO7PYCjeMr5ye8nR+/Xgq90Ssb1/tJSh4xpXOMMHMnzLyM8ZNCTICdqrmHw52wYX/1onvbsWLxYzvbL2b4YDjCtUolhmKegRYrS7w7aXlrRQbGHyebnXjK3zhlHGkJmbnlzPpdPQrSpfgtW6XZQxXvh/UdYKIDVUA73K6dsZ3d6u0xF7n0dXHI5SxCoyyULvthWz+MnmtZjO0+18jvAZNmO3B2ILgsHT6OxlLgJqehPowJmr7+FWmoQ1y5xd8rK3G/d8lvx0y7Z+eXPX+78R0vGVS6BRZ409lpi04soQVYpyWEHvhgYoAmvQmtK0SWJRz8FYOc76Y/liLVPDLfq4PenLpNYgsRkDldrN+vJuICIODvIs2JD/ZdLJpIo+EZB252ipPpdYk+Ygnb1zoZNOSnXZgnCxngdefHIa2HyA==;ZUNqRW0eVvWPCMX0HLM54Q=="
 ---
 

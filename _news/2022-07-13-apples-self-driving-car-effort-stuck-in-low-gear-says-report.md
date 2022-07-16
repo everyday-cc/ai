@@ -63,20 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple self-driving cars reportedly hit curbs, veer out of lanes at intersections"
-    excerpt: "According to the report, Apple’s self-driving cars have had problems navigating streets, including frequently hitting curbs and veering out of lanes in the middle of intersections near the company’s headquarters."
-    publishedDateTime: 2022-07-11T23:15:00Z
-    webUrl: "https://siliconangle.com/2022/07/11/apple-self-driving-cars-reportedly-hit-curbs-veer-lanes-intersections/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/02/27050412940_5a0e5ac101_o.jpg"
-        width: 640
-        height: 400
-        isCached: true
 
 secured: "o7nQk5eqDnTT7Mv7E4VGcg201pTde9ASvPJ2MKtWXDPYMOqtuKMrxNcybtVjz4++0wsy/4mpJtK0XMMTanfflqJ9R6tkM1BUqIJz+nKFNWPhWZkapMNcQ6XrVas0ethBK9BM5XWLwSkcXYyYAeIbYzvp4/ne0NTNl33YN/bzEscfMhkzDbnYNHEow0jdXUOCAgTB4MznGPf1hIrCigwxwl9sUx7EVEuSIuFo3wd+4onggFn56EdZfEi2oW+LCoCtCPUJQKTI5p2SjDAkre27UMvRYuLxke5lnW152eu3BcMGLwx/6d+JcGyiZn893QtLA+WLoFZSAm+zD/0Tw4kYSgWS57VyUDL8wnkGJao1eE04b7AIPdKftSbwoGLWx9TTRSgweksMeQRfWF095K3OAeMfdRvwIrPTj6C74hLqDxEAxVPOXqVMNALOD/FYoUw1kMYshO54IE+I9eCCRejq2XmdciOmfZuPDPfkvM9t+GaPTBZ8K1JJHBXc6w65uZPYxa7JN2TRTz7P6Cvfrxjdiw==;K5LU7kr72ExKScfptEgIvw=="
 ---
