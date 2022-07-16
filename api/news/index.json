@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-16-scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.md",
+      "title": "Scientists combine robotics with biology to construct biohybrid microrobots",
+      "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules.md",
       "title": "U of G receives $1M donation to launch ethical AI training modules",
       "excerpt": "TD Bank Group has announced a C$1 million donation to the University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence or CARE-AI. The funds, which will be paid out over a five-year period,",
@@ -1017,7 +1061,7 @@
       "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1152,49 +1196,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
-      "title": "How machine learning can identify gun buyers at risk of suicide",
-      "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
-      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/07/CA_suicide_07142022AP.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
-      "publishedDateTime": "2022-07-14T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-16-scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.md",
+      "title": "Scientists combine robotics with biology to construct biohybrid microrobots",
+      "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
       "title": "How artificial intelligence (AI) affects business executives",
       "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
@@ -1317,58 +1361,6 @@
         "name": "ETF Daily News",
         "domain": "etfdailynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
-      "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
-      "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
-      "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
-      "publishedDateTime": "2022-07-01T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

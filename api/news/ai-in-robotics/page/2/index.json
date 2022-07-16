@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
+      "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
+      "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
+      "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
+      "publishedDateTime": "2022-07-01T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
       "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
       "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
@@ -1230,49 +1282,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-area-high-school-students-learn-about-robotics-at-summer-camp.md",
-      "title": "Area high school students learn about robotics at summer camp",
-      "excerpt": "Isa Alstrom and Brody Guajardo worked together Tuesday to build a robot and create a program that will allow the robot to detect colors using sensors during the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "originalUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/02/c02058d6-f264-11ec-b8b3-3f74528f226c/62b3730067bfb.image.jpg?resize=400%2C302",
-          "width": 400,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

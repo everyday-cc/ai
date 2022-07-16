@@ -49,6 +49,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Self-driving cars — the future of transport or an unnecessary indulgence?"
+    excerpt: "Late one evening last month in downtown San Francisco, California, a car came to a halt at an intersection. Nobody was behind the wheel.Before long it was joine"
+    publishedDateTime: 2022-07-16T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-the-future-of-transport-or-an-unnecessary-indulgence-kfrd5f6r5"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 23
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F80fbf35a-041a-11ed-aa15-45d37b45dc0d.jpg?crop=3402%2C1914%2C0%2C177&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "of/U6M6XLTGM40qx9NH4zNuLlGvDwSDqZ3WZ62l5guSK/tBXKJviola7XmLwzrhDxMQgCqZAuYn5kM6UIUc/K2SddK94bNi7cnAt5yB82MqYqePu6w3/mT1Tl2xs/Vaa3l+8/3rcPwiBpbq1hU1SkwjN1Xi2KEoP7NpEmzternPf7GkLtWRBJREfFPLPJr9SUGY77GkcwWvHmDOQdABsYysn+wFjXKQOiMRpPg04UpdeKqYipVBnYL5xsoD9lr6xc6NdiUd18J2RjdnBOJvBjEob/mVSTPJp1k6MH/RCje6GIkhyMXefMHZHDBuXoE7VBvcsrJrwLNfCYu8Q7hU1dH7umWV1JbCzxLo9rIuvhqoGoIN3n9nPi/e525swNmSHNPvNXhUSE7cw7gKfIwlU+3hhpnbyI4Vci9jws8XCc/ijzFYtAUST9U4ts7ynlmP8WHTAo1nKpaNZtT45YCYY1yNW6/XiACy/51CzYNXwkSoxT4a3Uc1atmIx/0nluNjw4nCe75lqzeHhXNzV45oKZA==;xBcfRCzZ/b0KxNwe9v/iUg=="
 ---

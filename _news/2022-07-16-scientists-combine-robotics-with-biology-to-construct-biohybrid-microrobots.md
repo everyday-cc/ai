@@ -1,0 +1,55 @@
+---
+category: news
+title: "Scientists combine robotics with biology to construct biohybrid microrobots"
+excerpt: "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots."
+publishedDateTime: 2022-07-15T23:28:00Z
+originalUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx"
+webUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx"
+type: article
+quality: 54
+heat: 74
+published: true
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - AI in Healthcare
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
+
+related:
+  - title: "Festo Adds Motion Control to Universal Robots’ Cobots"
+    excerpt: "The Festo Motion Control Package can add up to four axes of motion to Universal Robot’s collaborative robot products."
+    publishedDateTime: 2022-07-14T12:00:00Z
+    webUrl: "https://www.automationworld.com/factory/motion/article/22327272/festo-adds-motion-control-to-universal-robots-cobots"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/07/festo_handling_guide_gallery1.62cd8a70a9b13.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 600
+        height: 650
+        isCached: true
+  - title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
+    excerpt: "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots."
+    publishedDateTime: 2022-07-15T18:00:00Z
+    webUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 2
+
+secured: "sfrwgrQkiJUEGhKFW/PD5vIaJhhV/Gfb3c0JDy9TZB7QC/fdgEE347E+wD5w2Pfcpo7GXJ0O3Q/PbY/BDGGHtA5K04zyL61ipg8SfU9Ipz53ZJcT5m9Vwxz/ic7XsNn5lJSZuukVm4/6HBaPEn0iEOp2vF47VKEncoFFBFGtsrmHIaYS8peIPniYH3v3K5V/UME9SFBaNJLWpqrowtXUxpXex+0ELlDq09vgy3NM6QY7kD/+cgRbJwaQ1HDzbJtNlOg1ksUrGDx1k1NAVE6dRMdjMg5EEyBcjBhG+QsrEmPTlZ6g5rDD5BJH1ktA+51WqJAZAGhR2pv5raIXqqJweav+kK/pF6LOqDyM0LeWhHs=;IMJ2YU2c3eR/a8Bs1Qfb8g=="
+---
+

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Reddit buys natural language processing company MeaningCloud"
-excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p.."
-publishedDateTime: 2022-07-02T09:06:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/reddit-buys-natural-language-processing-company-meaningcloud/92616242"
+excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors."
+publishedDateTime: 2022-07-02T07:18:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms"
 type: article
 
 provider:
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-92616242,imgsize-23830,width-1200,height-628,overlay-ettelecom/reddit-buys-natural-language-processing-company-meaningcloud.jpg"
-    width: 1200
-    height: 628
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "pJgwbMaXtGJQ5Uv1dqI6hpe4XIDBtCa3JRp4BSX1pD0m6bDek2RKaN8LnXtjUHAOpfTbfeXlbOANOOX9DdWT8vpJgBTdzMqP/PmpcSG4YvEiC8xIZcqnrNg1+dqxNrmHt3CRUYw2uWtY3nAgRJY2Rn3WL4VL7TPQEbtQS765H0PRTUCnuddDQiaugVXka6EFn0jKFYEoapW9Y/iCx+6j4dftFmjgkw6yXany5j6F+VwOmShZrlvVr99YxEPYyr+emQexeEK/lkFGmJD5IXdu1krUmQPC6HEMROqH+4t+sfpx8l/BfWWjp+VKu+qcoll1+AjLdnd/3rV/WctVMiPX23buTwubPRYzwzTN5H5CiGhHHMEYG9+lS+DqzHILiCzW7VsJNsi+LfvH0Ep0k+Cu8ThGBCB1cznyP8gXJsH1CDUXm/2qEo7OziRufj6+UKsy1tfxnOTEjS8LYiiQo4Y158RCe/4BRnE633OcxVPPQwyzf6rymaEmhTyjB2qGrvMZvj7nJHSvLx2zDKRVri+NMQ==;GXh4q3cP22cD1Ob3OoQgKA=="
+secured: "WmJ8QtKOYwhkRRIa5/y6koRdhyFtMgb6h377qy4zGHY2DrlMQ0C9w1USjuxpFtpr3hx4ktVVudzSTnJwEuQ5VB3n8EsTVZR35jjcC9lSPHWGpSTnhJnDYEMS/EUOifla5GsXpIB7ZIWnOIbgR49YkoV007RAcyNzWrGCQ2nQG2zOvD14uxX85/A1TZF6L0itBtKX/tz3H9w2U63HoPnSHEnOtxoxfyN1OVNtXPZn5i/YSmE50swMYVn2YHxGiSCKpbQIzdVVswZvgmq8W1pyXU+Ifg/81qC6FxAXk9fPJ/WIlHCAOwMc0wPjeHsxd3LQDI4IKp7dkvFdsoh9gcRKTIWsytVzxb7MXvTEtqUz1IY=;1qA+kyI6gZQfn8qaUpUsxw=="
 ---
 

@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "India Must Be Ready To Face Upheaval Due To Artificial Intelligence: Rajnath Singh"
-    excerpt: "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back."
-    publishedDateTime: 2022-07-11T06:55:00Z
-    webUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495"
-    ampWebUrl: "https://www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/india-must-be-ready-to-face-upheaval-due-to-artificial-intelligence-rajnath-singh-3146495/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 53
-    images:
-      - url: "https://c.ndtvimg.com/2022-07/rnbsvuao_rajnath-singh-pti_625x300_11_July_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
     excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
     publishedDateTime: 2022-07-12T02:22:00Z
@@ -210,20 +194,6 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2022/07/11/1302290-rajnath-singh.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "India must be ready to face upheaval due to AI; one nation shouldn't dominate this tech: Rajnath"
-    excerpt: "India needs to work on the artificial intelligence mechanism \"extremely carefully\" and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
-    publishedDateTime: 2022-07-11T07:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/india-must-be-ready-to-face-upheaval-due-to-ai-one-nation-shouldnt-dominate-this-tech-rajnath-411423"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 26
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_458303496.jpg"
-        width: 660
-        height: 486
         isCached: true
   - title: "Rajnath Singh calls for tapping AI potential in defence sector"
     excerpt: "An Artificial Intelligence exhibition was organised which provided an opportunity for innovators to display their capabilities, products and state-of-the-art technologies"

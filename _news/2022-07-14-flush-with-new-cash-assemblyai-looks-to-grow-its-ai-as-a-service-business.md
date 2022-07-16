@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-loo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AssemblyAI Raises $30M in Series B Funding"
+    excerpt: "to create State-of-the-Art AI models for transcribing, understanding, and analyzing audio and video data – including Transformers, Large Language Models, massive GPU clusters, and large datasets."
+    publishedDateTime: 2022-07-14T12:02:00Z
+    webUrl: "https://www.finsmes.com/2022/07/assemblyai-raises-30m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/assemblyai.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Businesses urged to adopt Artificial intelligence"
     excerpt: "Most Kenyan CEO’s say partnerships, Simple Solutions, and a proper mindset are among the main ingredients needed for a successful technologically integrated business. Speaking during the multi-sectoral Insights Summit 2022 and launch of the industry survey report sampling 50 CEOs,"
     publishedDateTime: 2022-07-14T13:43:00Z

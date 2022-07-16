@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/victoria-government-mig
 webUrl: "https://www.datacenterdynamics.com/en/news/victoria-government-migrates-to-aws-cloud/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Victoria signs gov-wide cloud deal with AWS"
-    excerpt: "The three-year agreement, which replaces a 2014 enterprise agreement with the hyperscale cloud provider, gives all agencies a standardised way to buy more than 200 AWS cloud services. Local councils,"
-    publishedDateTime: 2022-07-11T06:12:00Z
-    webUrl: "https://www.itnews.com.au/news/victoria-signs-gov-wide-cloud-deal-with-aws-582472"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/aws_sign.jpg"
-        width: 1184
-        height: 888
-        isCached: true
 
 secured: "5Z/Cykez4RWWh1IilPIer1dPzUe3hbXsELR+Ev8XYn9Di/XB+lYvwvTRiBLrqbkGVJnshll50olKhUM8mm7ZDsVsPx1ydaapR4YmC52FIn5nNiTebkY4XqIpj3uFu5o07GwdPMiu3XDMdsmp6/ZdVTXUmXB+kmCOT9K0Ub2voMJblFJeZWk4/zPlscH8R8iYCZXq0hGuf8CKwp+2hZE9J0uASO3c8GaJlZ+uErAETE47z0Jm/C0t7E2hRf6a0kRdCuqkqp51WCNnhE8BzPz98Q89jtiPHcTMamtk7gay2Oye5MmNh9ALQcpogh7hGwDJXzo2Khq5TAyzYXUGh7csXb7zLyko6yz3+6O4XjSqSbmZZhI04Xwgv0pRFSlVnI8Th+CzZoPIFIn9v4YpOKFLX/6RynCHOckamb1u+QlPdG4uAMZ5Ps4F2znHDFDYJI5GK0QZXX+R+QRTJPECEq08V6M+USEQO+QoCdcK25qqdrC0tGS5OdWt7nz7SelBdHp7QbP5Cji/MGbG9Og7hXuckw==;2m81a7g+okVtwGAYLmvIxQ=="
 ---

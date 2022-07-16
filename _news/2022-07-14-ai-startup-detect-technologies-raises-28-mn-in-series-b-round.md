@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-ra
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
 type: article
 quality: 57
-heat: 108
+heat: 107
 published: true
 
 provider:
