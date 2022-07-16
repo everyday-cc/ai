@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rajnath Singh’s pitch for AI in defence"
-    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
-    publishedDateTime: 2022-07-11T21:04:00Z
-    webUrl: "https://www.nagalandpost.com/index.php/rajnath-singhs-pitch-for-ai-in-defence/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 39
-    images:
-      - url: "https://www.nagalandpost.com/wp-content/uploads/2022/07/Rajnath-Singh.jpg"
-        width: 800
-        height: 578
-        isCached: true
   - title: "India must be ready to face upheaval due to AI; one nation shouldn’t dominate this tech: Rajnath"
     excerpt: "India needs to work on the artificial intelligence mechanism “extremely carefully” and it must be ready to face legal, ethical, political and economic upheaval that may follow due to this technology,"
     publishedDateTime: 2022-07-11T21:35:00Z

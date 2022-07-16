@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
+      "title": "How machine learning can identify gun buyers at risk of suicide",
+      "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/07/CA_suicide_07142022AP.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "publishedDateTime": "2022-07-14T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-robotic-arms-allow-partially-paralyzed-man-to-feed-himself.md",
       "title": "Robotic Arms Allow Partially Paralyzed Man To Feed Himself",
       "excerpt": "Thanks to the work of scientists at Johns Hopkins University, a partially paralyzed man was able to feed himself for the first time in thirty years using just his mind and a pair of robotic arms.",
@@ -1204,59 +1247,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-when-ai-makes-art-humans-supply-the-creative-spark.md",
-      "title": "When AI Makes Art, Humans Supply the Creative Spark",
-      "excerpt": "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/when-ai-makes-art/",
-      "originalUrl": "https://www.wired.com/story/when-ai-makes-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62ce1726540a1fd5ca4bd872/master/pass/Dall-E-2-Meat-Men-Business.jpg",
-          "width": 1312,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/when-ai-makes-art/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-makes-art/amp",
-      "publishedDateTime": "2022-07-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

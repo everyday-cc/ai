@@ -71,6 +71,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
+    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
+    publishedDateTime: 2022-07-13T13:33:00Z
+    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 52
+    images:
+      - url: "https://www.crn.com/resources/0277-15a179bc9714-757354b8c8b7-1000/tecton.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "XPENG Robotics Completes US$100 Million Series A Fund Raising"
     excerpt: "robot interaction and artificial intelligence. As of the end of June 2022, XPENG Robotics has over 300 employees, 80% of whom are R&D staff integrating expertise from key sectors including robotics, artificial intelligence, automotive design and ..."
     publishedDateTime: 2022-07-12T07:40:00Z
@@ -94,15 +108,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
-    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
-    publishedDateTime: 2022-07-13T13:33:00Z
-    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
 
 secured: "HXFRZ48k9JBmuo44UAjHnPaJzM1NliYN7F+HgG03VuOngFK9uNJgTfoCzscIEe8deVGfsq70I3N6GZE/kJUXmw4JenULI3eXhuUFCWgsljv7sZIgrlTvQ9xExt1TLNGXomhsg7fsDDlSviSyRuE/7Cf3sv35GBeizIWosIfl8AZ3K1v6Z1KwmiGB+tzgnKIaio0qyrbhGlmD1JDQvMll2NuHlbwRosppx+FLBxFGrDZP62EBaZMZ3teUGiRObq6GZgkXgU4UHo3EcA71/s+I58f0PPwQfEbBFhr7O2p5ycZY7wRad7nPV7oUbys/jgK2Nbe/2oDA/IOS63A/O3CISL3PtdB7a/EyfnGT9oAZ55w=;N/+dSkGOJ+3+t5p2fWN5XA=="
 ---

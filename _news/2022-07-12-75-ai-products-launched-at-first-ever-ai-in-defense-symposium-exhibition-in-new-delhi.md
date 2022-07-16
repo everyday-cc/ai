@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Soon AI-based mandarin translation devices for troops on LAC"
+    excerpt: "... products and applications unveiled by Defence Minister Rajnath Singh at the ‘AI in Defence’ symposium on Monday. “It is an offline handheld language translation system which works based on AI. It has been tested in the forward areas and Army has ..."
+    publishedDateTime: 2022-07-12T09:27:00Z
+    webUrl: "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
     excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
     publishedDateTime: 2022-07-11T19:25:00Z
@@ -41,70 +57,34 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
-    excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
-    publishedDateTime: 2022-07-12T02:22:00Z
-    webUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772"
-    ampWebUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
+  - title: "Meta’s AI machine translation research to help break language barriers"
+    excerpt: "Meta has announced that it has built and open-sourced ‘No Language Left Behind’ NLLB-200, a single Artificial Intelligence (AI) model that is the first to translate across 200 different ..."
+    publishedDateTime: 2022-07-13T09:15:00Z
+    webUrl: "https://tribuneonlineng.com/metas-ai-machine-translation-research-to-help-break-language-barriers/"
     type: article
     provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 52
+      name: Nigerian Tribune
+      domain: tribuneonlineng.com
+    quality: 56
     images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/07/12/2521695-untitled-design.jpg"
-        width: 640
-        height: 360
+      - url: "https://tribuneonlineng.com/wp-content/uploads/2020/08/Why-the-Travel-and-Tourism-Industry-Needs-Translation.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Deploying robots as sentries, deciphering Mandarin into English: Artificial Intelligence to strengthen Indian defence forces"
-    excerpt: "NEW DELHI: India’s focus on the new age disruptive technology Artificial Intelligence (AI) will lead the forces soon to have not just robots doing sentry duty but also the soldiers in mine laden fields will have robots marking and warning about the mines."
-    publishedDateTime: 2022-07-11T19:27:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
+  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
+    excerpt: "We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,” Translated Founder and CEO Marco Trombetti said."
+    publishedDateTime: 2022-07-13T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-0b972fe257da425a944557d6125cea71"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
-        width: 600
-        height: 390
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "India must be ready to face upheaval due to AI: Defence Minister"
-    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
-    publishedDateTime: 2022-07-11T21:35:00Z
-    webUrl: "https://www.dailyexcelsior.com/india-must-be-ready-to-face-upheaval-due-to-ai-defence-minister/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 39
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/07/page5-4-6.jpg"
-        width: 800
-        height: 414
-        isCached: true
-  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
-    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
-    publishedDateTime: 2022-07-12T12:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-  - title: "FINOM Selects Resistant AI's Transaction Forensics to Strengthen its Money Laundering Defences"
-    excerpt: "The Pan-European B2B Fintech Platform Can Now Prioritise In-house Alerts More Effectively While Adding Advanced Anomaly Detection Resistant AI, the AI and machine learning financial crime prevention specialists, today announced that FINOM, the Netherlands ..."
-    publishedDateTime: 2022-07-12T07:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56527302-finom-selects-resistant-ai-s-transaction-forensics-to-strengthen-its-money-laundering-defences-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "v9Ekx2UkmwVQDMPGy81PQzxyNQWCdA2Mq+UJXb17cLFE/lvdKQCQCxQRDhzjYat0ss+prXddldjaFhbB+TxUJpSaP+yjgP7WcMvH2ixLcIlTW5H405WBQRK9vXP0VMY4vzEDf94SLVgtV9E+T4Lvai1mRlwyPKRMlwIXeIBh8g1TgC6EleKlXtNTutf0D4PV+x/8IDNzjltxkAkKZc4BmVwP44AewTWnG7ES+utrnvygGOMQoKGcNu5KHIvqE4nIf6eyG6e+1CZP/tfuKP6woniCP/UsDVbXAn70FwGf049r25cF/aeLL8JxXg/WQOOCdYYszhP6UrJ78NPgxYA1wXgieTgytovIFHMJ0bQlMMI=;Ze28AFeiEv3apgbnKyGm/A=="
 ---

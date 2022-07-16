@@ -39,20 +39,6 @@ related:
         width: 945
         height: 632
         isCached: true
-  - title: "Rajnath Singh’s pitch for AI in defence"
-    excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
-    publishedDateTime: 2022-07-11T21:04:00Z
-    webUrl: "https://www.nagalandpost.com/index.php/rajnath-singhs-pitch-for-ai-in-defence/"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 39
-    images:
-      - url: "https://www.nagalandpost.com/wp-content/uploads/2022/07/Rajnath-Singh.jpg"
-        width: 800
-        height: 578
-        isCached: true
 
 secured: "UnepxZVEPQH266QYl1ncou0zIdfYFzKi1OiD4ZFIXjbiosRFeeFQg3kN6apeT3+CrQ0WdrwCBat5nQoRgJJz45dL+QA1TjwnuOxfVIKMnBbHPdwCnjg8IqHqCG9j64SFjBEQ36dbddpT+XPRv95L3WKaoYdLjbo2ZDE01SH7JIbi4M0lQ0ADJv+Bx5KbmQTeY9WNERipij7UVqHH1Qw/XnDf1ph+RwGGPW96lmpDstodeLCP/qfEgnyomVxI46oMRZ11FLSL3YiwsvM5P+512QgN61CSSghXMUdlsC5J/R+KI7GZqWNac9qWYLoTEB0lg74Y/Iqk5av57YMjuAhuNx12G+4Vf4UUIFs0oAzosyKYeleP7T976LU8HxMR3ciNPuvPRNoAnBIasYxNFtHVi+93Vqa8ifRJazrjfN/mGGALO17zUf2QmeYsDrC/4C2Zc1SdA/8o/iCmhV8f4s6pX7X/4EwB7Z2BaNex1bWWwsNIRqWJT8kF6x2gDVpuR9YeV+9eiMWwP533NBcNWBOP1g==;2QUnIkYMR28/OxCzpr4nkA=="
 ---

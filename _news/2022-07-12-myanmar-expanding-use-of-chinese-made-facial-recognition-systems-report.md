@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GT Voice: China-Myanmar trade won’t be affected by Western noise"
-    excerpt: "Myanmar is installing Chinese-built cameras with facial recognition capabilities in more cities across the country, Reuters reported on Monday, citing anonymous sources. While it is unclear whether the local companies that won the tender for Myanmar's safe ..."
-    publishedDateTime: 2022-07-11T15:27:00Z
-    webUrl: "https://www.globaltimes.cn/page/202207/1270280.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-11/6f18756d-3e5f-422d-bed5-8a38e5ff0f7f.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Myanmar expands facial recognition-ready surveillance ‘safe cities’"
     excerpt: "Myanmar is creating five more safe city surveillance schemes across the country using technology from the Chinese firms Dahua, Huawei and Hikvision."
     publishedDateTime: 2022-07-12T19:20:00Z

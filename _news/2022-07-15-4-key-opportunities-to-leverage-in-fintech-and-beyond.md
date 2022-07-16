@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/429429"
 webUrl: "https://www.entrepreneur.com/article/429429"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Discounted Fintech Stocks To Buy Now and Never Sell"
-    excerpt: "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,"
-    publishedDateTime: 2022-07-11T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
     excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
     publishedDateTime: 2022-07-15T04:43:00Z
@@ -63,19 +52,33 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fintech firm unveils Melbourne office"
-    excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
-    publishedDateTime: 2022-07-11T16:15:00Z
-    webUrl: "https://international-adviser.com/fintech-firm-unveils-melbourne-office/"
+  - title: "ComplyAdvantage Secures Place In The Fintech Power 50 2022 Cohort"
+    excerpt: "This week, the Fintech Power 50, a list of the 40 most innovative companies and 10 visionary personalities shaping the financial services industry has been revealed for 2022. The exclusive annual program acts as a hub for driving change and creativity in the financial services industry,"
+    publishedDateTime: 2022-07-12T16:49:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-financial-services-1614cacab189ae63ae26973e17e41f7c"
     type: article
     provider:
-      name: International Adviser
-      domain: international-adviser.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/Melbourne-Australia-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fintech TIFIN Acquires SharingAlpha"
+    excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
+    publishedDateTime: 2022-07-15T14:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193696-fintech-tifin-acquires-sharingalpha/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
+        width: 1600
+        height: 1184
         isCached: true
   - title: "Where investors see fintech opportunities during a downturn"
     excerpt: "Fears of a recession abound, but payment and other financial technology companies that can address pressing business challenges will draw funding, according to venture capital investors."

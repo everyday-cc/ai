@@ -2,6 +2,93 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-29-qa-the-investment-case-for-robotics.md",
+      "title": "Q&A: The Investment Case for Robotics",
+      "excerpt": "As robotics and artificial intelligence advance together, more complex tasks can be automated. There are two key areas where we see the next generation of robotics driving change: logistics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
+      "originalUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly.md",
+      "title": "Create audio for content in multiple languages with the same TTS voice persona in Amazon Polly",
+      "excerpt": "Amazon Polly is a leading cloud-based service that converts text into lifelike speech. Following the adoption of Neural Text-to-Speech (NTTS), we have continuously expanded our portfolio of available voices in order to provide a wide selection of distinct speakers in supported languages. Today, we are",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T12:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-gms-approach-innovate-collaboratively-integrate-tech-uniquely.md",
       "title": "GM’s Approach: Innovate Collaboratively, Integrate Tech Uniquely",
       "excerpt": "The advancement of artificial intelligence (AI ... Today, we use deep learning and convolutional (visual-based) neural networks in the vision systems that monitor quality in our assembly lines. These trace their roots back to the early 1970s, when ...",
@@ -1026,110 +1113,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-cloud-computing-market-size-projected-to-hit-usd-79128-billion-by-2028.md",
-      "title": "Cloud Computing Market Size Projected To Hit USD 791.28 billion By 2028",
-      "excerpt": "The Global“Cloud Computing Market Size” 2022 researchreport is a compilation of first-hand information, qualitative",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-computing-market-size-projected-to-hit-usd-79128-billion-by-2028-2022-06-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-computing-market-size-projected-to-hit-usd-79128-billion-by-2028-2022-06-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai.md",
-      "title": "Speechmatics raises $62M for its inclusive approach to speech-to-text AI",
-      "excerpt": "I wrote about an AI startup that’s building technology that can alter, in real time, the accent of someone’s speech. But what if the AI goal instead is to make it possible for people speaking in whatever way they do,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/",
-      "originalUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image-1.jpg?w=680",
-          "width": 679,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/",
-      "publishedDateTime": "2022-06-28T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

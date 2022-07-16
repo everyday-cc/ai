@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple’s self-driving cars ‘smacked into curbs, veered out of lanes’: report"
-    excerpt: "Apple has been trying to work out the kinks in Project Titan, its autonomous electric vehicle program, since it sent several of the self-driving cars on a test run."
-    publishedDateTime: 2022-07-11T16:55:00Z
-    webUrl: "https://nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/"
-    ampWebUrl: "https://nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/11/apples-self-driving-cars-smacked-into-curbs-veered-out-of-lanes-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 42
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23001447-1657557949494.jpg?quality=75&strip=all&1657543615&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Report: Apple’s self-driving car effort stuck in low gear"
     excerpt: "Apple’s quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported on July 11."
     publishedDateTime: 2022-07-12T04:18:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/07/12/1656295.jpg"
         width: 1240
         height: 858
-        isCached: true
-  - title: "Apple’s Self-Driving Car Still Struggling and Nearly Hit a Jogger: Report"
-    excerpt: "Apple's bid to create its own self-driving car has been a long and bumpy journey, and the company is likely still years away from bringing one to market."
-    publishedDateTime: 2022-07-11T16:21:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apples-self-driving-car-still-struggling-and-nearly-hit-a-jogger-report/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 23
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/06/carplay-1.jpg"
-        width: 1536
-        height: 864
         isCached: true
   - title: "Apple self-driving cars reportedly hit curbs, veer out of lanes at intersections"
     excerpt: "According to the report, Apple’s self-driving cars have had problems navigating streets, including frequently hitting curbs and veering out of lanes in the middle of intersections near the company’s headquarters."

@@ -2,30 +2,30 @@
 category: news
 title: "At Texas Democratic Party convention, recognition of high stakes and a tough road ahead"
 excerpt: "Attendees in Dallas seemed energized by the state’s abortion ban, lax gun laws and power grid failures. But they also knew they face major headwinds."
-publishedDateTime: 2022-07-16T04:25:00Z
-originalUrl: "https://www.texastribune.org/2022/07/15/texas-democrats-convention-headwinds/"
-webUrl: "https://www.texastribune.org/2022/07/15/texas-democrats-convention-headwinds/"
-ampWebUrl: "https://www.texastribune.org/2022/07/15/texas-democrats-convention-headwinds/amp/"
-cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2022/07/15/texas-democrats-convention-headwinds/amp/"
+publishedDateTime: 2022-07-16T09:25:00Z
+originalUrl: "https://www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/"
+webUrl: "https://www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/"
+ampWebUrl: "https://www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/?outputType=amp"
+cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/texas/2022/07/16/at-texas-democratic-party-convention-recognition-of-high-stakes-and-a-tough-road-ahead/?outputType=amp"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Texas Tribune
-  domain: texastribune.org
+  name: Click2Houston
+  domain: click2houston.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://thumbnails.texastribune.org/DVXgpQtPRqgUX63X9uY-FX6i10k=/1200x630/filters:quality(95)/static.texastribune.org/media/files/ec3a99b32cbe0edb418af4439415de55/TX%20Democratic%20Convention%20KC%20TT%2033.jpg"
-    width: 1200
-    height: 630
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/IJVZ2RODEFGANCC5Y5OIBA74YA.jpg?_a=ATAK9d60"
+    width: 700
+    height: 469
     isCached: true
 
-secured: "ic8kqvweHGcz8Z/6IhpPBj4vjFFPO5X/yd0n4LWwgsQFXuaqU1IGWJ0CakEhh7vRHwWeMstQBUM0duzN3WvDrEI7IVxKf8+xwf53QKdY6nYZ+iIZsIgwUPWPOIIOyZlpw8/wJeyPXicdY45LRAKqnaa9yWAibvDiLWlkW6sRTEIfQc56slZsFQYaCFGE2GoiW8YjJzFiEgLLWq5ItG6wN9/6VSOMPgaDO6fPaDI6/n62xeDYxLNGpmdcDI7rYO4n+dCbrPIVckv71PNTlsDo1CNXV30hRSiNnaEFSD1UdJnr7bqZW/ztInI5WxFPkEbkeNLXBmeNY/i5dTxtwM/XiLv57q8SO5sPOdMSnFcIIWA=;rc3/zoRbNOGc42TYwGFKvA=="
+secured: "yJVUGYVRRMe+5k0iZ/Va0p/p/ZPXy8Ifhry1yMM+6TmvJ01JsBuDnHhOFVH7I4wFUQ2x6o+dc7vwTe7e4YjaGLVSVAFYipbUm7y4gNMxS4SJx6sDwGBCs6RRskYsNb2PupmikacLZKW+8XFtNKxbx8NAGi7m4NR6ya4G95Ro4Dp+oUYmwgEr5QgouplVDPqVDql+k2gu8vg2pT9eKSUq1uR5xQssLbPdm8dJouyaJVKsYXpxgEnhTF7nTE+M8RlhflKdpy0VjEUJyqcjj8q54jrtyH9RlQqeLnlAtODW1mnHlLWQoYsH6/LaD8WRHPSBQforCsAarJMbxbC9KZHk/3Xz0Mqq6j8zjouXYK4w3xU=;qDa/ARcEDvqA/FlvaCNqag=="
 ---
 

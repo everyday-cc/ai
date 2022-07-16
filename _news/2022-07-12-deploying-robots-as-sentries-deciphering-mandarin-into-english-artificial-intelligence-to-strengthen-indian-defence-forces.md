@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/deploying-robots
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/deploying-robots-as-sentries-deciphering-mandarin-into-english-artificial-intelligence-to-strength-2475459.amp"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots as sentries, devices deciphering Mandarin: Artificial Intelligence to strengthen India's defence"
-    excerpt: "Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defence’ (AIDef) symposium and exhibition."
-    publishedDateTime: 2022-07-11T19:25:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jul/12/robots-as-sentries-devices-deciphering-mandarin-artificial-intelligence-to-strengthen-indias-defence-2475459.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 58
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/12/w600X390/Indian_Army_PTI112.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Union minister Rajnath Singh launches 75 newly-developed AI-powered defence products"
-    excerpt: "The Raksha Mantri released the physical as well as e-version of the book comprising of details of these 75 products, showcasing the collective effort."
-    publishedDateTime: 2022-07-12T02:22:00Z
-    webUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772"
-    ampWebUrl: "https://www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-union-minister-rajnath-singh-launches-75-newly-developed-ai-powered-defence-products-2967772/amp"
-    type: article
-    provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 52
-    images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/07/12/2521695-untitled-design.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "India must be ready to face upheaval due to AI: Defence Minister"
     excerpt: "India needs to work on artificial intelligence mechanism “extremely carefully” and be ready to face the legal, ethical, political and economic upheaval that may follow the expansion of this technology,"
     publishedDateTime: 2022-07-11T21:35:00Z
@@ -73,29 +41,6 @@ related:
         width: 800
         height: 414
         isCached: true
-  - title: "75 AI products launched at first-ever ‘AI in Defense’ symposium & exhibition in New Delhi"
-    excerpt: "India’s Minister of Defense Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) products/technologies during the first-ever ‘AI in Defense’ (AIDef) symposium and exhibition, organized by the Ministry of Defense in New Delhi on July 11,"
-    publishedDateTime: 2022-07-12T14:46:00Z
-    webUrl: "https://thesouthasiantimes.info/75-ai-products-launched-at-first-ever-ai-in-defense-symposium-exhibition-in-new-delhi/"
-    type: article
-    provider:
-      name: thesouthasiantimes
-      domain: thesouthasiantimes.info
-    quality: 30
-    images:
-      - url: "https://thesouthasiantimes.info/wp-content/uploads/2022/07/kathy-hochul-images-sauspiel-de-413x250.jpg"
-        width: 413
-        height: 250
-        isCached: true
-  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
-    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
-    publishedDateTime: 2022-07-12T12:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "FINOM Selects Resistant AI's Transaction Forensics to Strengthen its Money Laundering Defences"
     excerpt: "The Pan-European B2B Fintech Platform Can Now Prioritise In-house Alerts More Effectively While Adding Advanced Anomaly Detection Resistant AI, the AI and machine learning financial crime prevention specialists, today announced that FINOM, the Netherlands ..."
     publishedDateTime: 2022-07-12T07:35:00Z

@@ -3,20 +3,26 @@ category: news
 title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
 excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
 publishedDateTime: 2022-07-12T13:30:00Z
-originalUrl: "https://www.messenger-inquirer.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_90aceffd-9e8e-53ed-bc69-77b69b830230.html"
-webUrl: "https://www.messenger-inquirer.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_90aceffd-9e8e-53ed-bc69-77b69b830230.html"
+originalUrl: "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html"
+webUrl: "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Messenger-Inquirer
-  domain: messenger-inquirer.com
+  name: Rome News-Tribune
+  domain: northwestgeorgianews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/9/e3/9e30b9a6-8ead-570e-abc3-ae51c25dedef/62cd740dc2611.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Brad Pitt believes he has rare 'face blindness' disorder—what is it?"
@@ -36,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qr7x8Rj9IFddiIOjaz9AWsO9MfVzTS2DNaO3zcm1kmv2ov96Vyif4y4E1/l8I5zLdptOFnjnamIzFm7EmzxVzRd17FBbWJCDFZ0+T+dgUJ2IFnAyUnRaCqmGTDID48jjW8SBV3B7rqubYpkNu6aPdDft8EPzpTqo9Q2dROzpahQ1SAswaTmlnZBdMGurHQYg89EW7Xd10km+0tyZOzOwFEVnLMyaIHf2lgZpmOsW1WIhD6/YuMQGUfFTpSehYy2txKb/4aQkjPYNTPZeCrqirNIcum0fymhG+8PEs31ZxHXl292gj+tFzNLLRhlwg6jzoPGllyJJTfxJSDmdg20dtG4GMqFgP6b4c9f058+8gIh9GW4dakuDCcXEIdv/57UHQVpAYeZhskBVP9WgBC6AE/NPyef4qSom1HP3kcM9wzlZvaFA+Szmuz8I7PW7EFlk8oO/2fy2pgM18N4Dq1t0FsPU+OwZx8Fy52YvxkvuAPxFKB4lhJQBqk/p1lgfQmCCJYEi4vdMq4deyC2zwXbWWw==;4eV1lvYMHmvtQgMoeFWgXA=="
+secured: "8c9eDNXmPAxeAAq44bL8XhRm28fQwqvpoeSFzY747+ozhgpkGQP/fCOFre/Q7W6vD5Hq03jUGUzBJoV+o/Vs1v+7GOmaUpOz5HwU0vEXiS9dPFYO0R6WwmWR36EihDoAwQt1+K2HmWUXz3Q2SBTxwhK5sSvCFAXfNgSDxsty8yDBhxrLJMWjSfdM8BYZHG5d/86nkZR3oN2j0mUToZF8tY7SxeI+RHGuTOH9HZBLLV7RTYZsTkS99vXFwO5zM09NxIGNYLZH62rvkS9qoeBDkJwLrpvqxO9rwaFXH/PYGRNdAmlUvoyWOebsZCEV3vnaKE71IWfFWbAAl2HOcnbk2gCYEXTQQVvFIITP5sAsA4k=;ZkhnI8Tk32kq53fpPDzmmw=="
 ---
 

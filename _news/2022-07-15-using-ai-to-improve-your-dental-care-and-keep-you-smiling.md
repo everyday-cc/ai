@@ -18,20 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "Inuvo Applying Artificial Intelligence To Digital Marketing"
-    excerpt: "Worldwide digital advertising spend was $521 billion in 2021, forming a lucrative market opportunity for service providers with intelligence on consumer online behavior."
-    publishedDateTime: 2022-07-11T16:07:00Z
-    webUrl: "https://seekingalpha.com/article/4522702-inuvo-applying-artificial-intelligence-to-digital-marketing"
+  - title: "Using AI to diagnose birth defect in fetal ultrasound images"
+    excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
+    publishedDateTime: 2022-07-14T18:16:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 58
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1335295270/image_1335295270.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
+      - url: "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg"
+        width: 1280
+        height: 1920
         isCached: true
+  - title: "AI Applied to Imaging May Help Clinicians Diagnose Fractures"
+    excerpt: "For fracture detection, artificial intelligence (AI) and clinicians have comparable diagnostic performance, according to a review published in the July issue of Radiology. Rachel Y. L. Kuo, M.B., B.Chir."
+    publishedDateTime: 2022-07-13T15:19:00Z
+    webUrl: "https://www.physiciansweekly.com/ai-applied-to-imaging-may-help-clinicians-diagnose-fractures/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 37
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/07/image1657725544.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
+    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
+    publishedDateTime: 2022-07-15T10:39:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207931-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 14
 
 secured: "61p6OHjCNs8szItGNOVcKOHoEaWAvYgqI0qsx5WXHf1oy/khuum2i5Nqc8NhJfIl3J/Y5Y7fULuPlwOLpu1Dlg7zFqwg3nRu8SjAKKcR90SwyrovgSIhBbk/dzBIipWsk+HOsSE7wtECV12851qKvWygHdugix63W+kMvrEfYnP0RIBboG1nX6wVcyBJsgpnnwPeHNr58gRuxQr8vgPGenXWGtxAZlkGQpMSct2Jor0II7X5eYxoPYczNw/6iNrcAHUWZeB8vwwDv/mjtqtlvd4b9vokku86gjM6A3S59kQ1dnfEm3xk3AFCg1Mj55kBdgjYVrms1fS/ZSfOZQ7ZXOMaGVWW8TMfX5QEoATbgImRgqcWbkYaUdU0pWi2kkEYJaJL5z5U9Dgg15Td1Miej1rsV2KvNK+cUIWMnaZbMCtoAi0fsrFHFhdq8+/pn5hMf0fDhoGTqcj4J0SRAclBidHoF5f234Y5Aa0ttyGaIWvOMT3iIMgXr44CCQ6hBvzQA4/WrYBAhOeCS2YmlnEw+g==;mL7s4MouZeh7IjmF7jeSwg=="
 ---

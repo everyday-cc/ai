@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Discounted Fintech Stocks To Buy Now and Never Sell"
-    excerpt: "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,"
-    publishedDateTime: 2022-07-11T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "4 Key Opportunities to Leverage in Fintech and Beyond"
     excerpt: "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?"
     publishedDateTime: 2022-07-14T21:00:00Z
@@ -67,19 +56,33 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fintech firm unveils Melbourne office"
-    excerpt: "Global retirement technology provider Smart chooses Melbourne as the home of its Australian headquarters #australia"
-    publishedDateTime: 2022-07-11T16:15:00Z
-    webUrl: "https://international-adviser.com/fintech-firm-unveils-melbourne-office/"
+  - title: "ComplyAdvantage Secures Place In The Fintech Power 50 2022 Cohort"
+    excerpt: "This week, the Fintech Power 50, a list of the 40 most innovative companies and 10 visionary personalities shaping the financial services industry has been revealed for 2022. The exclusive annual program acts as a hub for driving change and creativity in the financial services industry,"
+    publishedDateTime: 2022-07-12T16:49:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-financial-services-1614cacab189ae63ae26973e17e41f7c"
     type: article
     provider:
-      name: International Adviser
-      domain: international-adviser.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/Melbourne-Australia-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fintech TIFIN Acquires SharingAlpha"
+    excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
+    publishedDateTime: 2022-07-15T14:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193696-fintech-tifin-acquires-sharingalpha/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
+        width: 1600
+        height: 1184
         isCached: true
 
 secured: "S0p5rmnKlsFJw9LpB8C7jYq2UTXDwgVT7VRQDG6uBxmIoEeEAdVN4MdowG/XlnTL0meWSMIe6eDpSPTW6lZ8zK/zxwg7vSyvnP5NTLoI/fBIH1fgCLtkEKvG6LXcdQe3K9uo17GSBv9prJjYJd7jZCCJSWzxz0VEQe4KvC3f4v1fnnMlkgtMWpSbqaXQk123WwHCCa+cr8P7sGrVlpPmR6ijAjz6eYxIycpLFc86TOJP11jh958Nr92luVJOIzfYM+JmA1yB3gEM+E/s7gi6wGHfNWJcROJhAS1otzoWKnTKlu+lCcM3zB0kZHID80wsr1IYuJLlls+KRYfCpZbeETDFkFBrU4pFc9kMvOKXh9z0ZfDQbP+Gd9g6gTLs2h0s44R7M7FOSY+Y4x9nFUNxP10j8CK9iz0/+WujPtQgjJ6gL4p0baN02tx4/+vixFrkztrvegzwvYnoYWmiW9GJnjUMkVs2cjpR/RPBZvO4MYYVf6Zu0Si2Yms3xWVtJM3DeSFlKsZTkL8cVOzOSjuy0Q==;Fm12ixY38dXR/rQUbm7QSQ=="

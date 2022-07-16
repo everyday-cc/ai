@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-13T13:33:00Z
 originalUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
 webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.crn.com/resources/0277-15a179bc9714-757354b8c8b7-1000/tecton.jpg"
+    width: 610
+    height: 457
+    isCached: true
 
 related:
   - title: "Xpeng’s Robotics Arm Just Raised $100 Million In Funding"
@@ -103,6 +109,6 @@ related:
         height: 480
         isCached: true
 
-secured: "BHz28VJOUUXPT73imRuPcmzsAzMoCgtjnpBZL3h1y6UtSPrGgWEq0gIbI5TRqKobOvqLEK/wvny8LsyGWKfkYE899yKy4dD2gtBuv005QqS3yYG/+YfKfPw3cjY4rvn1VoHq0pw8RqVIuhwZ8BVsttEg9RCYCvAYLIeWSPsJWXtmaCl/vektFMBgYTFG/y/eDaZBI0g5gbteFLqM2diGdQlV978ttKo5sMlfrrXCFuG7jaber8DFvNYzSNKOS7DS55keY2aqK4cUlTlmVetVN2jajUSD0BdvJUbADToXVwuyPPUh4BgMj1YYbUaXhaMv6R78PH/xIVaU1IvtalDuc+ycUIVAD3AQ/kq3jlIMsZ0=;YguKJrMOZi7hb9SB/Tdhaw=="
+secured: "uoGB7d+14twseciZ5czr41haIbuplo0+3qzUtEZmNNr8xg1rnjSwbcQKKydZWWYiUaGrfiCJdbYQkG+7o4SFubac6tVM3vOlK29Xpeve0wQZbzbvQlXSmPxyMqe7Czuqmi5qxcNYzoUaVfuq1zwuVY/hXL+xAh7PsRFwAmujlrCiQ1sYxGUyvFzdvo56WQXn40NM+7ydUCphjzYdeQsylvGy+Vn5+eJ1Vj//YjJx3PMwCacEvuEQi8nMOSWQekll85Oohec2QkM9knIe06m7qnsciEI/Kc4qlDEdaSo90nJGSE4A6yYJFij79K40IBvdoOCbIhSdGET7/C086+MgHV/RG+3XlhzdD8FAe+COdH8=;gaFhIZggz1p34fYBkf5JeQ=="
 ---
 

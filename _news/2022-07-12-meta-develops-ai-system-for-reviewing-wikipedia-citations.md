@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Wikipedia turns to a surprising ally in the fight against misinformation: Meta’s AI"
-    excerpt: "While its reputation for accuracy has improved, even Wikipedia doesn’t consider itself a reliable source. The Wikimedia Foundation, the non-profit organization that oversees Wikipedia, regularly explores new solutions for these shortcomings."
-    publishedDateTime: 2022-07-11T16:02:00Z
-    webUrl: "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design-4.jpg&signature=9603ada9242a020a0ba12541717c7b0c"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Meta thinks its new AI tool can make Wikipedia more accurate"
     excerpt: "Meta launched a new artificial intelligence tool which it claims can be used to automatically verify Wikipedia citations."
     publishedDateTime: 2022-07-12T19:00:00Z

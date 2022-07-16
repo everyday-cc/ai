@@ -27,20 +27,6 @@ images:
 related:
   - title: "Army’s New Plan to ‘Transform’ Soldier Health Care with Technology"
     excerpt: "The Army wants to dramatically change the way it provides health care to soldiers by accelerating research in a variety of emerging technologies, from using quantum computing that can better detect and treat chronic illnesses to developing synthetic blood,"
-    publishedDateTime: 2022-07-11T16:27:00Z
-    webUrl: "https://www.defenseone.com/defense-systems/2022/07/armys-new-plan-transform-medical-care-technology/374051/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 24
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2022/07/11/5940005/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Army’s New Plan to ‘Transform’ Soldier Health Care with Technology"
-    excerpt: "The Army wants to dramatically change the way it provides health care to soldiers by accelerating research in a variety of emerging technologies, from using quantum computing that can better detect and treat chronic illnesses to developing synthetic blood,"
     publishedDateTime: 2022-07-12T12:31:00Z
     webUrl: "https://www.nextgov.com/emerging-tech/2022/07/armys-new-plan-transform-medical-care-technology/374112/"
     type: article

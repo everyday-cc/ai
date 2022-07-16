@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DeepMind AI learns simple physics like a baby"
-    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."
-    publishedDateTime: 2022-07-11T16:09:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-01921-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "This AI With a Baby Brain Shows Us How Humans Think"
     excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
     publishedDateTime: 2022-07-11T17:52:00Z
@@ -114,22 +100,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657550545/220711-Bender-AI-baby-teasetease_mal845"
         width: 1480
         height: 833
-        isCached: true
-  - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
-    excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
-    publishedDateTime: 2022-07-11T16:11:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/Scientists-create-AI-think-like-baby.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 23
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/07/11/17/60139263-0-image-a-2_1657555440540.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "aQJd+2M9/eiyb+AFwfL5tx/5T+QRa0sVeLHmWMu0v6ghM9l9F6vn8LBuk4+Xc9aJFct6XgZ4qlQMOtLnOX9ZvmlVxCg4lubWBlKtcs8lVfdc4b3e/PWB+0P/wCReFey4txPmCMkoJQtWPh0aSN8/+1eqIuO2kJvsk7oYt4y/25ZDSzbPDP7EBG2qnGDo1e0QM5kZ1dhVilhhzUStQqAkAzje8jrdwZ9KZP2aAHrENs0u6HBwFLgaxdza15GK7lNre9MzVeb5Z3JwM3W9tUPpAM0mrzuykbSHnE9nV2c2QWV+NhOnQu6AppWIUw7edWBG7VwwFS90g6ddOnApL9tlgJEaLM9+i4+MCF+JVePCSq5HkcQjs6fHER/8YmoaJnKeJUK979CUls9mTB8C6oWpOxvmc/rvGQzN+aiQOzmPJQok7u3FGBJHThs2L+SnIVlRI6lVd4fmObVEUjF68tEceo4xUbeIBdv2dGCFKWwGVqsbWTJeOt6Hc3o5GNM5sUUJFAvNfiYMrgcsYnaCEjAKFA==;DOHrTk3fe/BGz2yr6DvptA=="

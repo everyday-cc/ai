@@ -1,28 +1,24 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars BEIJING -- With no one at the ..."
-publishedDateTime: 2022-06-29T04:12:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
-webUrl: "https://abcnews.go.com/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+title: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars"
+excerpt: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ..."
+publishedDateTime: 2022-06-29T02:06:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "vPSyYw+3FZ+cbsK5kGkpNxkp/Xim5AJeLM+DPIUXc5q4VW5pMaIzDAtialOSXpjAwRbVbwLdQ7PeZXcr7s087Ikzf3pZttoes7aSwklhsoMveZCjssb5wwUcBkziSjGJP7HIndvEMQ1Xhzg8L+1xngbZPLwfuZXnCwsny4oZq129JlEQnGcA4aHF7wZN+aXnwXr9CY/5y/Ft1bKyJm6H8NrGftdGjlp7YZhKWHYwrLFeGI4HkbCPPTTJA1DnL3KK/0Eh9G6GgHgdGtUxmDabnNzUDaPJpYyPg68ED2ETzbjIg82MXgc1tORat1Py12xnf+9EAdPjnrMfgK7EReE/40GwhcxvOZwjBdlWF1TbI/c=;W/B58BIJNQpSD2xBIHrzVA=="
+secured: "SlZwJU6Mc4sH06BnqeDtSakxNWNJd/iavI0VPGi7XpVx/vKDqFNPHYCpYnz0+JDUNo9aAtT/V+mYl2HgJcWODni9I1aZqmFj3FErsNScOt+T9VuW7f2Rckb+3PL2o6a4wKHH8/3kwT1jmZYM1GmGpJk2nV0NMHm9wSTQsE9bp1ELEza6ftdwtqVvbC5CoDc+28H2ez7Da/GJkGhUYnBtBjjP4q5WWBkaN/F7DHDCtTfFhzNWjXHm6s9KmbVgV+Zrkh3OGsjYgNqon5w/bjpBmzhD4coMbuwr2PLgeSQnZu4PGBueiN0qHSZBLuKeXwLaAuwP9p8eDYVc6d97TmVVG5MynUt28u6U7P+m9zUgnWg=;bkGx2gn2Tg2Xrp6w9wWpTQ=="
 ---
 

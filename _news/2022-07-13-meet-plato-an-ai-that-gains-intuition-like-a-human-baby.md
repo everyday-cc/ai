@@ -78,20 +78,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DeepMind AI learns simple physics like a baby"
-    excerpt: "Inspired by research into how infants learn, computer scientists have created a program that can learn simple physical rules about the behaviour of objects — and express surprise when they seem to violate those rules."
-    publishedDateTime: 2022-07-11T16:09:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-01921-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "This AI With a Baby Brain Shows Us How Humans Think"
     excerpt: "Do babies enter the world with an innate understanding of how physics works? New research could unlock the answer."
     publishedDateTime: 2022-07-11T17:52:00Z
@@ -119,22 +105,6 @@ related:
       - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/AI.png"
         width: 971
         height: 434
-        isCached: true
-  - title: "Robots could soon think like HUMANS: Scientists develop AI that can learn the basic common sense rules of the physical world – just like a baby"
-    excerpt: "Creating an AI system that can think like a human has been one of the greatest challenges in computer science. Now, researchers claim to have created an AI that can think like a baby, by teaching ..."
-    publishedDateTime: 2022-07-11T16:11:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/Scientists-create-AI-think-like-baby.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11002519/amp/Scientists-create-AI-think-like-baby.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 23
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/07/11/17/60139263-0-image-a-2_1657555440540.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "z6Gr2cDn+lGXY/nzqzTMYjdoPi2wqq8JzeBuj5rSysljnjXYOqBStpKH4m+GCeb8U3iq813lZjHM7gFHTUYDPB7Ks2A+qv6ugnzTdOyGhX51ujkLvK4MuTUQlUrfIO4usnABR9h+7eJnDWYcnv38ayGpuMS/EVfi/LAxRUhgspx1JRDQn9uBvjNPD1afX1grTJAmYjd+QoJYTX2Z3LDePTtl8TGEG43KTB3uNAJCZGC8qKVDXuEeO/l4T8FOxqEAQmpSPvwUm9hqUPSVupN6C6ImgYYPXoEFtZZcbFNixTQu/Vi+PPTMG6HzIR5rc8EyzFPSOZhJe8iJcc/uo5wd6FvrqAnP7PiHJR5rObz/aYvzewdOIcQacSW1x+OwOT2DCvnJ8jHEyJ89SKe7v6urtkLcc7S5IzQiaCnkwI0QYpYI74XcBcntsihAr2NJmSTFwZotNeWZgclB606WtEfnKCEmRM8OxMtpR7EW3e1jIvGlk3cidGczCkJZ6vPHedCUPqtIhyJ+NSYplr+AC9TQgg==;wr6+aWm0RHHj1wx+RAmqqg=="

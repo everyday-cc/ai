@@ -71,6 +71,20 @@ related:
         width: 944
         height: 531
         isCached: true
+  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
+    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
+    publishedDateTime: 2022-07-13T13:33:00Z
+    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 52
+    images:
+      - url: "https://www.crn.com/resources/0277-15a179bc9714-757354b8c8b7-1000/tecton.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "XPENG Robotics Completes US$100 Million Series A Fund Raising"
     excerpt: "robot interaction and artificial intelligence. As of the end of June 2022, XPENG Robotics has over 300 employees, 80% of whom are R&D staff integrating expertise from key sectors including robotics, artificial intelligence, automotive design and ..."
     publishedDateTime: 2022-07-12T07:40:00Z
@@ -94,15 +108,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
-    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
-    publishedDateTime: 2022-07-13T13:33:00Z
-    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
 
 secured: "mmOs9q3NptB7Y3JjuYU4dMfs1BLQDYezNFURR5rIcjPDi/fCgNkOot5eND329nq6Qaja0VR2eQqDO6vx7fz6vXC2bIoAj+X+Z0oib8FuojcXj5RqLP+i7suUOoS+dHqsmTABQIPt5JaHGEjS++ycbiTX86O+pPvMI6cI+v1jVMgwGN2N0lUX+VtunnseE6rIUh3oUH7/OzkJxJ4BAZ04yRve2SkpJkjs7w0NdKyQKfLFhrCbfm46kRYmK8lmUYadzWhh/mClI8YQv2ys0ZWjTq3f6tl7FOJzn310JY1WSUTdhrz1+Weepwn+MPcFNUQSDj2u6C0r70U44ey7BwymfCNTFUg7armzpFn06jj0gEy1iCRcPuhAaKno5/p3wlEXJof9QbLh92ifbcohwIHuppL2SaV0LhIWz6wO871FBjXiCyi05KkQho2Y0sCOTjHcoHi//bm/+vXrk5AhLF4iOI7ubR6n/O0T/7727u5g4RkNbedRBfEexec3pPS1ckMTLx49jm6CogAYEEjOOK8BMg==;7CzGeah6qI2nmJZZn6Xe3g=="
 ---
