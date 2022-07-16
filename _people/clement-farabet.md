@@ -21,7 +21,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=u3u16tgAAAAJ
-  citations: 10032
+  citations: 10039
 
 topics:
   - AI
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Clément Farabet"
 
-secured: "vfStYxeESDMc6MhQb0j6+jE5qhzSpWVoavMg5QZe9t7YgyFoO6evYhcXAf8O6g+52YlFl6lhhdPUDyc1rmJr/aKwu6rlm2AR6oHbsNh1OHfr9SIb+WFM+4N8IdonyTsUAO6bwXRdsLdCTY+1jNMWjzNSNMNod92m28IMI9vzOcmGWTbDyxVD9lW+9PIvF94t5mBFDQtIFi6dubye4AheQjWh8MR+a1SSt+8ADVpzipoRAP1M+YGdn5JgVntk8BVanCP505UtiMe4+n/bQppTKJCQTejP9EFEOY3jkXoYAkH1akHsc845lsV8asMwvmVt/42at/cb3lDRl0ZaUvTctOpc/QCrweeQdS+UeHo3ZbG/Kx73xiYvI+VyluHLDySwrcgcgioIJc+Z/x8ScIYevVBhyuGbBhizmrnWybv6PQg=;XElwNphYmz38v/WxvJkbjw=="
+secured: "BVtxF5dDWf6tTN6lDuawn+zKsnv9wf0+xZW83AxW6Oe2wQh+sj3emNCYIjbUBTuARf82JcGVutfTSBIhAEnSOe4slEZnsCtYZyXetQFMASFEp+nkL2+jUK8qd+hJSgsZ0R5jqiUcL2czdRA86WTOakiqCs9zmlR5G6XtAd6bp+Gz6dtECyCcvT4JO6E9ZmYBAydGh+IRYm3542tgLv3kHGKrWLEGUkzYoJmCzTSXU/v2s1N8XG2LRG5IHFZXnkhB2XUxGX6GXfAUxLEYvsOKg8XRtVnM7lRYCJHuWeLm5UxNLjvbQjqL3xKI5nyM9lwjOywsWBJB35W/6aI1HZ1qnMwDSwktlzw8SY53k+FAaaPognMQXGfK9B3oW6MktA5FiiHpsB7lxF1UF0HznCegQyDR8kPfb7i9FFQiMmYJjKc=;u+gB+qvj5DeHScHss2IZlQ=="
 ---
 

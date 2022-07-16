@@ -18,11 +18,11 @@ website: https://t.co/qaAoprog1k
 twitter:
   username: chrisbishopmsft
   url: https://twitter.com/chrisbishopmsft
-  followers: 5765
+  followers: 5764
 
 googleScholar:
   url: https://scholar.google.com/citations?user=gsr-K3ADUvAC
-  citations: 122925
+  citations: 122981
 
 topics:
   - AI
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Christopher M. Bishop"
 
-secured: "IOdf6OJpphAE7lHvehAqy7sBpRCbkIzs3JKVWcl3SSM6ZYcOQja3fGmyHPgXQD8svQcuNNSB+oL5OTJ6Iwff2zjKOpn1VVIatxWML9PqUJgLP1lqMBg4z1mUgKbFV9Zpm17Fcz9JiaytFPtN6nytSdYpHtsCKrRN0pnKA174g2LQx+qus0CKkggsyohZBvBgUuXoObrJfHefTPgPEn6IaGKrVnjsvhYsxmzfEXHEsvKWXl8edA78tNFocc9VfObWMan5EB0oDl1yQz44Sh+JZDmBXWF5GBP5mya+Dv929fHCeJ9b9LzNyteaaGaRNUe/4gYX5VYnuQu4DJS1FZ8teZ6LlROvri9Rjfw8tzoBNWlBLDklT3PgCJ22ivEgMSDfJ3XcsAbrbFAnFfLmAD3hmQs0YJ8CokKDCnenHNrTd7U=;ZDzmF4Np3ShmC3aZNUo/IQ=="
+secured: "sDST3hl5qaRiRfB+QtTGga4AoJ4PbXfBTVZ4yRefXkUsEunNd3Hi4qHlPtnmLKjYumz0QoLvMZUtU53Qrdp1q/+qiSy2b205ptCoZKX+E4FL9ZX4FzVxzPjlJexTMaqiRi2FxFA+LC2/3YqBXYF0xa6jWUAe167XTTxpzUVD4fK4S+h/0yafEN5GM9pxBYSUNBwqIRLhiXMhKwhF23Mi8Y+PllTfymbZ2CQhW8fr/l1UgTiSESQWpWW/12QNirNd52xQTbhfH+fy8mr5Pxe4MDYOzj9FXuMLPAwOtH3qPlML8iufJmW+4f69uIT2es6aijoCGBQ0YvtcSRXOd3KiGPkuxAETQtGlXs2jNDesJ7265KZ+w5qci/uIfmi9XrlhE2RLOQlzgyARkUtRIJQUwRuS8Spg//0snhC0Xk8udKs=;rwZhiptizL9nCt0Dz2B3BA=="
 ---
 
