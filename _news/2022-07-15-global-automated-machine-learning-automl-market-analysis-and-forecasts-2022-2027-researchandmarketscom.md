@@ -40,20 +40,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Worldwide Telepresence Robot Industry to 2027 - by Type, Component, End-user Industry and Geography - ResearchAndMarkets.com"
-    excerpt: "The “Global Telepresence Robot Market - Forecasts from 2022 to 2027” report has been added to ResearchAndMarkets.com’s offering. Telepresence robots are self-contained autonomous robots with a smartphone or motorized desktop stands connected to a display or camera and may be controlled remotely."
-    publishedDateTime: 2022-07-11T12:13:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-smartphones-af41b07cab7d44739cdb070d60e11400"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "$305 Million Worldwide Pharmaceutical Robots Industry to 2027 - Featuring ABB, FANUC and Seiko Epson Among Others - ResearchAndMarkets.com"
     excerpt: "The global pharmaceutical robots market reached a value of US$ 161.84 Million in 2021. Looking forward, the publisher expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 11."
     publishedDateTime: 2022-07-11T15:43:00Z

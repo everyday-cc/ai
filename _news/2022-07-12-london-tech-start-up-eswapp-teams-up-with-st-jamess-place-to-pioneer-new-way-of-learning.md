@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI Start-up eSwapp Teams up with SJP to Pioneer New Way of Learning"
-    excerpt: "Award-winning London AI company eSwapp has joined forces with St. James’s Place, the UK’s largest wealth management company, to launch a brand-new skill swapping platform as part of its Digital Learning strategy."
-    publishedDateTime: 2022-07-11T10:52:00Z
-    webUrl: "https://www.finextra.com/blogposting/22570/ai-start-up-eswapp-teams-up-with-sjp-to-pioneer-new-way-of-learning"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-
 secured: "Arqnh+X3onw7m79NFaJtsjhyylsYpoMQTsLyXYoqUwkAcgoxMo0xc1xsoakWNYbzx3RDi7Sz1pEOoBkbsvwv036ztDp9pbC204av3+Wn3F1Trc67EKAIx6UVtVF1Q/FcXlVxJcW54FELeRAFM8S6sgKDI4Oktul9H/nrtdWokkv02lr0gKNdGI0hOc23NZCtQBRcxr26vz0jZ3xmxPjiVbTsJgCtoQAzXWa9gtdY+XNvmYr2GPEaI3bnCr13jQrs86t3P5bXkBUtXTsNa1cqMUuITXHo0u1X8GaI6bJEDxkKBAxZn3P+ZcoMYvVOyMtSBusB0M5znW0N2OvAzYa+OCBlyyo5rM524lmP8+E+C3A=;dt0AoSP9KndatobrwGUAWw=="
 ---
 

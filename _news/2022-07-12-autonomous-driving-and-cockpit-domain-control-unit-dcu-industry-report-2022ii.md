@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-12T14:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28035574/autonomous-driving-and-cockpit-domain-control-unit-dcu-industry-report-2022-ii"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/g28035574/autonomous-driving-and-cockpit-domain-control-unit-dcu-industry-report-2022-ii"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Benzinga.com

@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
-    publishedDateTime: 2022-07-11T09:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "fa/u15jLPZbXnjhO2fleH1A68RvDg4z8drCmhpCgAbDE33ZjigB8L28MMcTdAy9rsf3swuJE4nx2BElSQZZeXdye0gfv0UCpxYOXzTLvlQ7ZBQu+H+HkWT62KPrt84db/WtKOYMOvbPZQxjXA3/AW7uw2jTwOhZ7onEyhuOzNngXH4T1+i3YZDRKYyrWrZAQKrHLkP7eLrhjPbpmibu65WQacJxnRAcnrLkvgobeFYMsqJ0kiy12EDMFLMMYQJ4xs7I3qJWNuVqVyC4mUH8erjiaBxfkrb10Txdn8ZVJfj9mAN9nu4kUXyLSYhtB87b3H0qqzJv3f2iSyXN42rUqaGq5Xt15Wsmpgxfr3MpqxOk=;SV4kaEJuPgS7hzFL6qpuzg=="
 ---

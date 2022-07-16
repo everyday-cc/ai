@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11"
 type: article
 quality: 60
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Telepresence Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The global telepresence robots market reached a value of US$ 248.2 Million in 2021. Looking forward, the publisher expects the market to reach US$ 587.5 Million by 2027, exhibiting a CAGR of 15.44% during 2021-2027."
-    publishedDateTime: 2022-07-11T09:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-61c26b99693b46859628e7f3bbf13ec2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "O+0w9B2MQWlycoiaaYmm0qISXogqc+nlV1r/H6ltxKXEPyRZ1G9sYtEZNi1hKtyVpNxTn934oNEoqOsM7QWeaAPUiTEuOPSFvUEZ3LhvVFQi3I9BUEBOzPq9MIbWM00jxI+Gfl+2CgzfjcZzrIKij9q3ukJW23KPEUwnF91jdZtwhaYhkSuN6sgCZ3qkMw0WhAW0NB6pTR0lZuDTDWl0ya9xQDekCXAc5Lu24MG/0zXb/Jb6+RDsA1Il6KVvM0Fo9M9i8e9IQpZ5jtTtIuLjOIS8sA59Grrl6GQSf61nAJc66Uq3wfEfCt9it7cIr+GW5KT+hGO4ylrkKIT3JnuNrV9SSWeoV4pb6Lt/ieCnOis=;tfByifgJ111615c43/YYFQ=="

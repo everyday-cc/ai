@@ -72,34 +72,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Altair, LG Electronics Collaborate to Accelerate Digital Transformation with AI-based Simulation for Product Development"
-    excerpt: "Companies Sign Digital Transformation and Simulation Memorandum of UnderstandingTROY, Mich., July 11, 2022 /PRNewswire/ -- Altair (Nasdaq: ALTR),"
-    publishedDateTime: 2022-07-11T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/altair-lg-electronics-collaborate-to-accelerate-digital-transformation-with-ai-based-simulation-for-product-development-1031577976"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://mma.prnewswire.com/media/1855851/Altair_and_LG_Electronics_Sign_MOU.jpg"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "Meta claims its AI has cracked translation"
-    excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
-    publishedDateTime: 2022-07-11T09:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55123-meta-claims-its-ai-has-cracked-translation"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 41
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f12bd2a0811183bf2359ca3dc07974ee_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "iC0VOMbOfkZSfOSQ9JHIJjEOBVWO78/wHkqluvUzW1Q3F7exI6x+8hioqqkWzkcc6tQmW7FLs8mjS98QAEg2z30GPB67/I38e+9LFwJohKrEhsAxgwaZv7lJEf5JYtJFAqztkomQAJu/9asp2UmMRGgheYTHXQdbuWAGUHqEDBJUHqbEnthfYhfNfrfMaDtwGRy0yHb1qmMPspYkCdxMxUEzC4tBNXXKu3AvU5qDLc5twuX7DIB9KJ2UZyjnDsuvY9s8fanLwWhWYGPWyZh75AhEmT746e8kBPc6RdPJ3MHlzRrsertW7EVhTnoC9CETEHJ5kx1hrWxAaUzy7YQq/p+YdSQi0jh7EsnwLD3rnNEO8KVFwl01SGOR2mv8m/Nu6uSdEweLS3yN/WRG0ICJY4nMqmXBDm4JptKhJKcI1OvKb1+pZFsSaF0sNMnf1zpyln3ti+6tMiPFsOlqAL/XG0YPlaQLPoiOJQvJKKXoRVKC9LI+jbJu4mlow7MuUKmqhS2/MADEik/oIFYkXrun9A==;7FxI67hq9RIL3/mXSELA7A=="
 ---

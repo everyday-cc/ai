@@ -20,22 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "The 35+ Best Amazon Prime Day 2022 Deals"
-    excerpt: "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products."
-    publishedDateTime: 2022-07-11T11:37:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/"
-    ampWebUrl: "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://cdn.thewirecutter.com/wp-content/media/2022/07/early-prime-day-2048px-3x2-v6.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The best Amazon Prime Day 2022 robot vacuum deals: Roomba, Samsung Jet Bot, more"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
     publishedDateTime: 2022-07-12T09:17:00Z
@@ -67,22 +51,6 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon Prime Day is LIVE NOW and we have the list of top deals!"
-    excerpt: "Amazon Prime Day is live now! See the huge updated list of top deals including Prime Channels for only $0.99/mo. each (Paramount+, Showtime, Starz & more), Amazon devices, AirPods Pro, Yankee Candle,"
-    publishedDateTime: 2022-07-13T10:00:00Z
-    webUrl: "https://www.wral.com/amazon-prime-day-is-live-now-and-we-have-the-list-of-top-deals/20340274/"
-    ampWebUrl: "https://www.wral.com/amazon-prime-day-is-live-now-and-we-have-the-list-of-top-deals/20340274/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amazon-prime-day-is-live-now-and-we-have-the-list-of-top-deals/20340274/?version=amp"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 44
-    images:
-      - url: "https://wwwcache.wral.com/asset/5oys/smartshopper/2022/06/16/20333080/Amazon_Prime_Day_2022_from_PR_News_press_release_6-16-22-DMID1-5v8qgyng9-1804x1080.jpg"
-        width: 1804
-        height: 1080
         isCached: true
   - title: "Amazon Prime Day 2022: Best deals on Dyson vacuums"
     excerpt: "Amazon Prime Day 2022 is almost over. If you're looking to score a deal on a new vacuum cleaner, now is the time to shop. Amazon is offering dramatic discounts on Dyson vacuums during Prime Day. Keep reading to shop the best deals on Dyson vacuums."

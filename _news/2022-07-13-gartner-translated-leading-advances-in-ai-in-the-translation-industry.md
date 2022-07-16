@@ -71,34 +71,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Altair, LG Electronics Collaborate to Accelerate Digital Transformation with AI-based Simulation for Product Development"
-    excerpt: "Companies Sign Digital Transformation and Simulation Memorandum of UnderstandingTROY, Mich., July 11, 2022 /PRNewswire/ -- Altair (Nasdaq: ALTR),"
-    publishedDateTime: 2022-07-11T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/altair-lg-electronics-collaborate-to-accelerate-digital-transformation-with-ai-based-simulation-for-product-development-1031577976"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://mma.prnewswire.com/media/1855851/Altair_and_LG_Electronics_Sign_MOU.jpg"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "Meta claims its AI has cracked translation"
-    excerpt: "Boffins say what they meant to say was that the claim is lost in translation Facebook claims that its AI tools have cracked translation and can translate 204 different languages, twice as many as ever before attempted,"
-    publishedDateTime: 2022-07-11T09:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55123-meta-claims-its-ai-has-cracked-translation"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 41
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f12bd2a0811183bf2359ca3dc07974ee_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "XvkaRHeESOgCdlBF0PXAhz3GegfLGZbd0FQMuh7nM4G4htZrBXFuTo2+B/OVnhDNoWdziWbwC9iXSLOwMGTixo4d/YLiM9wgweP7Qy8eJieL/OaQX5h/d9rPYB8Boj0c8qEHcB3WTbsYADq0/UrgLk7G2eIzuQeqKMu6RkuwFzvTWhKHeXt6VKMtbns6muQ4MAVfRqc3kMhtdQlFId1puHKgA1DOh1Eihx8TF8pGvr4hwhsp0DZ/0j2I9cW+Tmf0eHHP8lqKedHydFQClApnqQIcmvwGKzPabAUJJktE3K4wler4sn1/KiUv6b1qQJXOnYm3LugSvlDr/JyE1lVAMp2IVMKOIVpZvWSi8zm0Hus=;G4LugoB22TEV8tzbhzb2Zw=="
 ---

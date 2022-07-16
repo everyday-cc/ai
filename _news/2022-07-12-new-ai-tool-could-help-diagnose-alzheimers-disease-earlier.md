@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "5 tips for covering racial bias in health care AI"
-    excerpt: "In covering health care AI, journalists often focus on datasets gone wrong, when experts say there’s more to the story worth covering."
-    publishedDateTime: 2022-07-11T12:00:00Z
-    webUrl: "https://journalistsresource.org/home/5-tips-for-covering-racial-bias-in-health-care-ai/"
-    type: article
-    provider:
-      name: Journalist's Resource
-      domain: journalistsresource.org
-    quality: 41
-    images:
-      - url: "https://journalistsresource.org/wp-content/uploads/2022/07/artificial-intelligence-gf20f733b7_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "qxmDRlpeZZOidp6vmfMbSAghblZ12bpvMc8zV7MDrhe8gMbZW9/rN899+DjCtxoYDOUWGyjix0msUAuJfxjeWHSXG+n1pc14YH3CWnBsVlmgqPe/pPkfu38C5ZBlhWXzcaUWPIiQkyVPhT2oY845l/IXk1B7UHxGF+/oai01c3k6RA0Cb9QhBAJmyzq53laRVH7JlDgEOYUnjLbClO5+C9P5b+o92TwlSHGmYRrW3EbFvt1P/nHHsJGb9qC7RtVa5oBXs6tKMzFYyuun3vZOlMjmzjgdFwunayMK1l7FSD1tfqaNacbnS2p5Us5M60AZVUPMODOkMDeUOolxIk5CtA8hIgNCNjhONimSB/8H7eo=;Ka7L7H7++/AOgZnt1zA5WA=="
 ---

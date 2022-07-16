@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How startup Advanced Abilities is harnessing AI to improve healthcare in PH"
+    excerpt: "Advanced Abilities is the first to bring an AI and cloud-powered X-ray platform in the Philippines that reduces turnaround time of patients getting results from 7 to 10 days to 1 day MANILA, Philippines – In May 2022, Filipino startup Advanced Abilities ..."
+    publishedDateTime: 2022-07-16T02:34:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-startup-advanced-abilities-harnessing-ai-transform-healthcare-philippines/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 32
 
 secured: "o61UOKZWtx/ALiPssI/BVAFTm4RWBqBqvlz1XpmbQc0pQUulmaGmr1eTKFbhU9FQpycXYVvEgglMFuqTHfrY0bHv2kAnFKevTtFgRVK30VUeOXMqnxP5qWoF1X1P+MdR/+v1eP5LRQjDsF2CU1Pi5as1KGBTSah1yRYrYA1XHwzRf/hjtqhXs0KyAohhrY+M0EzW07ppnQ7zcp1wpApOzHpX4iiW0vFZxwSk3dSqMJwUFoTmqQSc9I17cX7LYWyf3vjtDvDZZ5vA1gqxQGh1PPHaw9s9B2nmIa2Zpm/FlwyVd4Fdkf/WZ2Hiv5K1t8xY8VaPna+3xjONaO4z4i72WB9ykwXASlD1XQSsYZDF5nU=;i5+wJHHOQVTFcQciAG0BSA=="
 ---

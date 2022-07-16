@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Fintech Market to Grow at CAGR of 26.2% through 2030 - Industry Expanding Horizons as Digitization of Business Services Bolster: The Brainy Insights"
-excerpt: "As per the report published by The Brainy Insights, the global fintech market is expected to grow from USD 115.34 billion in 2021 to USD"
-publishedDateTime: 2022-07-14T13:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/fintech-market-to-grow-at-cagr-of-26-2-through-2030-industry-expanding-horizons-as-digitization-of-business-services-bolster-the-brainy-insights-803477403.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/fintech-market-to-grow-at-cagr-of-26-2-through-2030-industry-expanding-horizons-as-digitization-of-business-services-bolster-the-brainy-insights-803477403.html"
+excerpt: "As per the report published by The Brainy Insights, the global fintech market is expected to grow from USD 115.34 billion in 2021 to USD 936.51 billion by 2030, at a CAGR of 26.2% during the forecast period 2022-2030."
+publishedDateTime: 2022-07-14T15:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639061.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639061.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "ZKEE8COQoJJkXBvJBrgpgnXIHVjvm2T4eB1jHFjO+pFtJaxtTmludPeJuv7spEkuaVMgYGUIlPgzKnpVPo5466Ss3cgDZdWU5yPqdGYrYBSFxjgOEpIcGip5bizWMsChtB3YyToWI7LIJuy3YOat8AEvGsP6i4r5ils/vC31Mw4h8fwcxHV4QFj48/ilnrAhZZhER4rAyfCH4WH01AaEQzsexbuSfrAR2O1OrJqNfdQf7raPHEuKNnMQ8Dtxd4KTQq8VDpZixpk6Gv/6m7FgLBWIJYMqj5eV5hHYKIq2Ai0zSRfZqm8dOkV/rjL6XI6QngwEwMi5p/KdwaCzPygBCee5DrFtEeDiRSZ0vDuvMX+y1KLk/Y3HUpsj2BYrQyw8Wjdk7dUmWhiu6Yaw/exzk9di7yUHafAod5bxQKIH0amkFznyvrnuOfAdILX6dEgmqfvl2eipEetSti8Oi/3DZxcRweNygi46cxnPDL6g84fy0YeKljMEuJSsrLKaBKDdDcH2C/bY/HadQv0015sApQ==;kP4+V0dccqp5PuBq15JUUQ=="
+secured: "7s52kKIlArCIk93JlrzTSHtgrHS1G2Qb2mRsDoEXDONvvXSIER3EidIZ3ghjLEEfYgNSQbc4vTXmDkiqUZ+XodI0eMQqws4YJ9KOpLZqfB0CxApCvUR+WNtxjJ9WdMkm85PN2vrDDwjvUYyzdt048B4BohdRsU1sJd8pxmx21jLOuNXHl0PtGYu0wkA+UhUsCcsA8hR4IXVd5Jta4YR7LYTW+rry/1j1zuQ6TaP7NaCIGlJsy1wweiSvHr7tvt4m3lANJb8VVUhjXz+bXGH7ERcy9Ryf9LqJuBudooTb0f9zCeNJ7RRSzHWcLd+i15b9Ge6Vqd2zr1FFWaeXYI6vi9SzU1f54M9EgtMRoi7svmY=;+2TC+AE/HQetldTDLrecmQ=="
 ---
 

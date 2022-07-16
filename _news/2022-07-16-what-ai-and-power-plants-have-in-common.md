@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-15T18:07:00Z
 originalUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
 webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:

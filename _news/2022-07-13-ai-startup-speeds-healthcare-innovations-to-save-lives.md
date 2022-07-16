@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "How startup Advanced Abilities is harnessing AI to improve healthcare in PH"
+    excerpt: "Advanced Abilities is the first to bring an AI and cloud-powered X-ray platform in the Philippines that reduces turnaround time of patients getting results from 7 to 10 days to 1 day MANILA, Philippines – In May 2022, Filipino startup Advanced Abilities ..."
+    publishedDateTime: 2022-07-16T02:34:00Z
+    webUrl: "https://www.rappler.com/technology/features/how-startup-advanced-abilities-harnessing-ai-transform-healthcare-philippines/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 32
 
 secured: "kjdx6crnUOoXMrzI6ZHrdDB61zvJF7rKr6a9xvtuTLkDJeC6eFZVwKIy3eYNrlaI78Cr9t94WRtlw9o+BHZI0tO6Eb2ZT4JtfpFTuYBTgz+ZgZjDwKSGcw/Mw0Py0THdaaG1+jPzzVD/TQq30unrqdkS3gKXZOq3scA73umGUA1Pnbgxshem1ImVoqbP7uF4sR96K5Jwgso85BUpZmH/iUpTbQgfsqHdXtt1pM5+ktPiycVHYm9GQI+iU10CnQVdGu6VxmEiBR9t1fJ1DllvWXC5jNLxqdeNaOavRcgulWewOOfCIBR/Jqb5XSDxsKL0NPZHXRDyrKkLMsH9/z01hYV9j8IHXY5aeZ5h8PocJbsAbME5Du6esNiQEaAApVZEKM2V5wPUWErFZ48BWp6WGCNV3s9/sXYhNXRbEs3uO1seK7AyCcP6Mjm5RBpy962974IzEOJkT871rwM2TfyIoayCosMZnNzL4EA/wwFPdmET8pH5kyTur43B8iJeaqJDrBIOFUwReGS9vJ+CjduElA==;5A28VEpthR7z6TjZcpRIww=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-gender-bias-revealed-ai-tools.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -41,20 +41,6 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg"
         width: 1020
         height: 574
-        isCached: true
-  - title: "5 tips for covering racial bias in health care AI"
-    excerpt: "In covering health care AI, journalists often focus on datasets gone wrong, when experts say there’s more to the story worth covering."
-    publishedDateTime: 2022-07-11T12:00:00Z
-    webUrl: "https://journalistsresource.org/home/5-tips-for-covering-racial-bias-in-health-care-ai/"
-    type: article
-    provider:
-      name: Journalist's Resource
-      domain: journalistsresource.org
-    quality: 41
-    images:
-      - url: "https://journalistsresource.org/wp-content/uploads/2022/07/artificial-intelligence-gf20f733b7_1920.jpg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "QxAB2dYk15RqQGD7XcVOEexwb3FjT8E/kp35/M4eUR+2g+COOf2DCdFhJKxjdlkir1LUvq2EXnCXHfclzCJB6Iv6ko0RlPJxHF5qVoIAmA/1f5DqD4DjSNDmsMMEKtU6HxB/g8wrXR9NsfP8C5TsXThXWpz8r56vcUQFLXSB0ljCADYi9izehkqvK5v6b3RcE34KdHSc2VL7V2847FUdVgNMzEvKQEbFaTGVfznEncWrWTVqLZY9n2EYRgYxpaJdm9FKgD44xxX6z/tc/QugxWm2szh3J/uVLoO9uJWLKMnvFowB5t0nkmxl9VJrDaL29yueU4kS7llAt8REIi+frQoC8vP8IDxwQE0gt5sWDKwpAQq+yBjtwtnWD3cJQOKlzH/6uoIBYR2An3Q2J/gR5u5hvVce/pb4eV+Q5+5Tyr9OYm3G37M04uZKiIx4p3yRQCLLB7jQBW5IQHZZZIoJBTYwddpc2RTRELIzQXhaCca2VD7wQBCeLAk+X8vyTzy1xw4qqoIpfbfZyxT+TCz0gw==;gkNGeFOlkna6vemrSavSvg=="
