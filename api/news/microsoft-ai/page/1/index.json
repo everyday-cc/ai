@@ -388,20 +388,29 @@
     {
       "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
       "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
-      "excerpt": "Microsoft and Amazon Web Services have been awarded Ukraine's peace prize for their efforts in helping keep the nation's digital infrastructure online during the Russian invasion.",
+      "excerpt": "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
-      "originalUrl": "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "webUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:55:00-07:00",
+      "publishedDateTime": "2022-07-07T08:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

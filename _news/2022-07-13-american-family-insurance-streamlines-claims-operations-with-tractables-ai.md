@@ -31,20 +31,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs"
-    excerpt: "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware with a robust and flexible compiler that makes it easier"
-    publishedDateTime: 2022-07-12T15:00:00Z
-    webUrl: "https://www.asiaone.com/business/furiosaai-forays-north-american-ai-chip-market-welcomes-former-intel-and-western-digital"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 40
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_542.jpg?h=7de12b8a&itok=XXIYDfyw"
-        width: 600
-        height: 316
-        isCached: true
   - title: "American Family Insurance Streamlines Claims Operations with Tractable’s AI"
     excerpt: "Specifically, American Family Insurance Claims Services (AFICS) will be using Tractable as part of its claims subrogation settlement process. American Family is one of the earliest top 10 private passenger auto carriers in the U."
     publishedDateTime: 2022-07-14T21:30:00Z

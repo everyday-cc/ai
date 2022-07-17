@@ -26,17 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "O’Reilly Announces Launch of Cloud Labs to Meet Increased Demand for Cloud Computing Skills"
-    excerpt: "With cloud computing on the rise, organizations around the world are seeking to hire cloud experts at an unprecedented rate. According to 2021 job data from Indeed, the share of cloud computing jobs per million increased by 42% from 2018 to 2021."
-    publishedDateTime: 2022-07-12T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-cloud-computing-34a539d60b5742cba0454bd30675a2d4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-
 secured: "EGpmtX/FsRr8VrgOCHqipLDj6DE/lj4ja4rnmWQsC3yPDvGOnqKA1RW666KVC05tcwFmX0SRJQAyTeNcqfVWXcC4QhjNauu9WmjC2AvrE6l+cqFRvuihg7TozVby21GzFToRC8jUpBaQE8+e4OVSuFTEue0fT1ycia5ls1mn5tNeGZAMmqpo9MXum/VU4z/5gP9v1tVomqtEVP6Ex6A1Bynvl/t9EUALLDSAH3+7XpvCFE/W4JJ0t7L/EigKG9HlGrOZoKtR9h2JwB4r+tEI1RDFCjZN15W3AAWr1eAJrEpiCg6goiOwmI0oxortGkCCJvffDtZF96S3K+vLQ4fpcdHdYFyuO2+BDiGGe04SMmV/pFAk0bdSd0H8wCOGFZG2OV0ujc4fT7Wzkl8JIWfFkA0m+9XaPcwuNZhXODwXwxbNbWwA5lA7C9nhX6xsiUoxhRmIAM2fkd0hPk4HUd4O8D49ryQc6fD8D74hm342lJs8mXlTfqeA8HZjLvFfTRsqr9uH4lXFKxa31yC464O4rA==;jOc2PP3bJRjgRn18DwvDlA=="
 ---
 

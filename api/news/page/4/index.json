@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai.md",
+      "title": "Kyndi Credited for Helping Companies Capitalize on the Potential of AI",
+      "excerpt": "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
+      "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
+      "excerpt": "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html",
+      "originalUrl": "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/8/ed/8edb8772-a1db-57b2-9d35-0eb082f54077/62cd742023586.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Journal",
+        "domain": "djournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
       "title": "The Brains: How to Leverage AI in Influencer Marketing",
       "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
@@ -1086,91 +1163,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-3-discounted-fintech-stocks-to-buy-now-and-never-sell.md",
-      "title": "3 Discounted Fintech Stocks To Buy Now and Never Sell",
-      "excerpt": "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
-      "originalUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
-      "publishedDateTime": "2022-07-11T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-can-ai-be-a-force-for-good-in-improving-diversity-in-hiring.md",
-      "title": "Can AI Be A Force For Good In Improving Diversity In Hiring?",
-      "excerpt": "Khyati Sundaram is the CEO and Chairperson of Applied. Founded in 2016, Applied’s mission is to be the essential platform for unbiased hiring. Throughout the company’s history, Applied has been hesitant to use machine learning on its platform — until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cb9115280693e6b441015a/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
-      "publishedDateTime": "2022-07-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

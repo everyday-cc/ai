@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/07/15/why-investors-see-the-potential-
 webUrl: "https://techcrunch.com/2022/07/15/why-investors-see-the-potential-in-ai-powered-copy-generating-adtech-companies/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kyndi Credited for Helping Companies Capitalize on the Potential of AI"
-    excerpt: "Natural Language Processing leader named an AI 50 from KMWorld SAN MATEO, Calif, July 12, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld,"
-    publishedDateTime: 2022-07-12T13:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033784/kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "The potential for artificial intelligence in construction"
     excerpt: "Robotics, AI, and IoT can alter the business model and make the process of project completion more efficient writes Ibrahim Imam, Co-Founder, Group-Co-CEO, CEO MENA & APAC at PlanRadar"
     publishedDateTime: 2022-07-14T08:03:00Z

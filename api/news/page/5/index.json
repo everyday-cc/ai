@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-11-3-discounted-fintech-stocks-to-buy-now-and-never-sell.md",
+      "title": "3 Discounted Fintech Stocks To Buy Now and Never Sell",
+      "excerpt": "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
+      "originalUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
+      "publishedDateTime": "2022-07-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-can-ai-be-a-force-for-good-in-improving-diversity-in-hiring.md",
+      "title": "Can AI Be A Force For Good In Improving Diversity In Hiring?",
+      "excerpt": "Khyati Sundaram is the CEO and Chairperson of Applied. Founded in 2016, Applied’s mission is to be the essential platform for unbiased hiring. Throughout the company’s history, Applied has been hesitant to use machine learning on its platform — until now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cb9115280693e6b441015a/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/11/can-ai-be-a-force-for-good-in-improving-diversity-in-hiring/amp/",
+      "publishedDateTime": "2022-07-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms.md",
       "title": "Arteris IP’s Next Generation of Vision Processing for Edge Devices Selected by Inuitive for Its Next Generation of Computer Vision Platforms",
       "excerpt": "RA’ANANA, Israel and CAMPBELL, Calif., July 11, 2022 (GLOBE NEWSWIRE) -- Arteris ® Inc (Nasdaq: AIP) - a leading provider of system IP consisting of network-on-chip (NoC) interconnect and IP ...",
@@ -1085,93 +1170,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-sure-githubs-ai-assisted-copilot-writes-code-for-you-but-is-it-legal-or-ethical.md",
-      "title": "Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?",
-      "excerpt": "GitHub's Copilot is an AI-based, pair-programming service. Its machine learning model raises a number of questions. Open source experts weigh in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
-      "originalUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
-      "publishedDateTime": "2022-07-08T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday.md",
-      "title": "75 indigenously made AI-based defence products to be unveiled on Monday",
-      "excerpt": "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/bnps89/article65617742.ece/alternates/LANDSCAPE_615/AJAY%20KUMAR.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
-      "publishedDateTime": "2022-07-08T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

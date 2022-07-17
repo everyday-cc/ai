@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-07-deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028.md",
+      "title": "Deep Learning Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2028",
+      "excerpt": "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-metas-new-open-source-ai-is-a-step-towards-a-universal-language-translator.md",
+      "title": "Meta’s new open-source AI is a step towards a universal language translator",
+      "excerpt": "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
+      "originalUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
       "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
       "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
@@ -1043,103 +1148,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
-      "title": "Meta’s AI machine translation research helps break language barriers",
-      "excerpt": "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen",
-      "sourceUrl": null,
-      "webUrl": "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "originalUrl": "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i4.ytimg.com/vi/7ms9iyEoadg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyJoyOnline",
-        "domain": "myjoyonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
-      "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
-      "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/Featured-images-for-ML-6711.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T15:37:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

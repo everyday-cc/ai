@@ -44,15 +44,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 44
-  - title: "ClearBuds: First Wireless Earbuds That Clear Up Calls Using Deep Learning"
-    excerpt: "ClearBuds is one of the first machine-learning systems to operate in real time and run on a smartphone. Wear both earbuds to get the best noise suppression experience."
-    publishedDateTime: 2022-07-12T13:33:00Z
-    webUrl: "https://www.medindia.net/news/clearbuds-first-wireless-earbuds-that-clear-up-calls-using-deep-learning-207894-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 18
 
 secured: "zf04WpWTdehWATKcytUo+PlIOXuG+1UtkJ+6vUHBk6kZlgEIkNieuMUklZjshatHIzTaUe9ifMGQueGywMPqIUkYnkOqASwV3mvzoxS48PN6mKpwIOYGTSO6C4S1QBPYcbd8MuxzkmQ7UUSysDeUlmnE2gNJSoruK/ZrX6JjaEsTZN+3fKI70W1uDaENa6QmL3EvmwpuHYdL/ZhQMXaCuUg/T4IxnJHVWuz80vo3rsoVO137yOGJejo5ZWVlERVy1xDyxAqvLNYu0jQWG/gke57DoCedymhDn7BJyTqSxSQ2/XPF861+oiEvlI6lFuZysnqgYJ/uWiMFcUM7vzJwIGuWvZJMtU2/Uamh1JabUAUiBuwK4UzWwVxn9/zaeAcOP+bKElx3mt1EtUrjOuFUjRYJr73FBSo48/o5eyvp+m84Z3oOaSYWCglC3OOXVz04RzCxlS5ZKlCvMRxGq7q1d5kCnKMfgzdg4FXesWBtLJe0SW7avChvm1TR3a/zvS0j+MN9rVcqRmMFHjz3f46hYA==;n66Y31EwiHmQPfPfM3ilqQ=="
 ---

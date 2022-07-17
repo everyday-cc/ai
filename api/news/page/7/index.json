@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-08-who-is-shivon-zilis-meet-the-neuralink-exec-and-ai-expert-who-had-twins-with-elon-musk.md",
+      "title": "Who is Shivon Zilis? Meet the Neuralink exec and AI expert who had twins with Elon Musk",
+      "excerpt": "Neuralink exec Shivon Zilis is reported to be the mother of Elon Musk's 9-month-old twins, who were born weeks prior to his second child with Grimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "originalUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62c7374e99259b00181e5dcc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
+      "publishedDateTime": "2022-07-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-accelerate-aiml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore.md",
+      "title": "Accelerate AI/ML with the new IPU-based cloud platform by G-Core Labs & Graphcore",
+      "excerpt": "By Seva Vayner, Director of Edge Cloud at G-Core Labs More and more businesses are looking to implement artificial intelligence and machine learning into their processes and solutions. Machine learning models can impact businesses across all verticals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
+      "originalUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1024х683.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies.md",
       "title": "Artificial Intelligence In Insurtech Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies",
       "excerpt": "The global \" Artificial Intelligence In Insurtech market \" is projected to register healthy growth during the forecast period 2022 to 2028. It offers an in-depth examination of the factors influencing market growth;",
@@ -737,6 +842,59 @@
       ]
     },
     {
+      "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
+      "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
+      "excerpt": "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
       "title": "How AI Can Boost Rural Connectivity & Healthcare",
       "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
@@ -778,50 +936,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
-      "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
-      "excerpt": "Microsoft and Amazon Web Services have been awarded Ukraine's peace prize for their efforts in helping keep the nation's digital infrastructure online during the Russian invasion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
-      "originalUrl": "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1055,111 +1169,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028.md",
-      "title": "Deep Learning Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2028",
-      "excerpt": "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-new-open-source-ai-is-a-step-towards-a-universal-language-translator.md",
-      "title": "Meta’s new open-source AI is a step towards a universal language translator",
-      "excerpt": "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
-      "originalUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

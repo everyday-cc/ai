@@ -49,15 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
-  - title: "AI21 Labs Raises $64 Million to Change the Way People Read and Write Using Artificial Intelligence"
-    excerpt: "The funding round was led by Ahren and brings AI21 Labs valuation to $664 million TEL AVIV, Israel, July 12, 2022 /PRNewswire/ -- AI21 Labs, an Isareli startup aiming to fundamentally change the way p"
-    publishedDateTime: 2022-07-12T13:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033787/ai21-labs-raises-64-million-to-change-the-way-people-read-and-write-using-artificial-intelligence"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
 
 secured: "FsdTE35Px0If2fy3V3fVsneGuAjkLtkWEERbExTyyV9G8k/H1xKfVfxzB7h05CyJNr01C23LPLoiCWOnlBmdWS3ym5iX+CP6pv5Bq9e+52nAv/GrXVH3z4viHHoQdlGM6pCICbcJBnClJsE09WA6qMsLnzZ4sDmCyQYPQNKGXGLbtzQcHuRVgvHrQDDpfuC0CtKUeu6vxknJdhMG7yhehkLYLG4kWCHMg30RJ8K3+JJNZFCxb7NzsyIF0SJqCkkk3SNI+qb+O5vpdrjNkRUQ44FawzOnqjf5Hk5MegGGMXiP/fXqPusZeAAu05NA6HmXx2LtJ1EQ60yVItLeZYzihI6V66QoRYGk+ulGoR9wTwm5WFkdoPJzO+VmplOw1SVQKvKVnHOi+8eKYK6/mZt98fuUXwta6iBdcVPqP3voR1KRk3SpadRsmwhLe0YXjRLV3QBd0IC0N/bikBgwQsNMiO8fM9jH+tOCdyy60k1VpkaB/TPbbKxPBIJys1eh1GEPhA2LT+V9OpZk0Jcb5fnSXw==;2siin9uYkFhVZBhDFcdvuQ=="
 ---

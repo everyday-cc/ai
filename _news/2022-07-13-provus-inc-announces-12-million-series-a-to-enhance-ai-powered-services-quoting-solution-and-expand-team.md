@@ -52,15 +52,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "AI21 Labs Raises $64 Million to Change the Way People Read and Write Using Artificial Intelligence"
-    excerpt: "The funding round was led by Ahren and brings AI21 Labs valuation to $664 million TEL AVIV, Israel, July 12, 2022 /PRNewswire/ -- AI21 Labs, an Isareli startup aiming to fundamentally change the way p"
-    publishedDateTime: 2022-07-12T13:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033787/ai21-labs-raises-64-million-to-change-the-way-people-read-and-write-using-artificial-intelligence"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
 
 secured: "FUd/QTU5oMwxzpTcVBioVRffT96uLSv8Wm9rjzl3SvXulCVXLVyxNpB+saokXnAij2RYr89WVVlenzKy8PNh1I/lU+cPlZE7nPwe+GXdzW3db6sUb/DnnZK5ZlulxLfO5FBw7+1pFbgvqgEScTiRNUzf11B+WXJxT6Fe/59Y3JlMF4GJQL9J/KMECqy2lqtQU/+uIAqEcstr1KmhdQxOvH0Z3R44A9oXRACbZOie7E/mocrpRN9ijSB/BbeVK9HEvv5vCGHcZ1MtGAv6f5wf4xVAIGbUjX2gWM+7aDSKy8X5eazFvaYAQpxNQLSGZEfDuss4ZKDb2Yt0TKmpUSRidUQLLkHZ5bSRp2N7z45L2kimVG1seznZgGGVGbCfUf/2P9RjfxAy0i3WWwQvFYhGERCKuTvEgs5//zEoQ96gBE32E1JTop+Hzh/cZcL6dyh9qgPdrM4Z4ZFGykmloL6vfaniTYexZbzTQRmkINItl+5FnStKjnZpb4ejyzc3BME82zSxiYy6f1skt70IL3VwyA==;PIjFO/UCjpj1WJkI0xbp5w=="
 ---

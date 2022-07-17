@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-07-vaccine-attitudes-tweets-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-vaccine-attitudes-tweets-ai.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "AI model detects people's vaccine attitudes from their social media posts"
-    excerpt: "People's attitudes towards vaccines can now be detected from their social media posts by an intelligent AI model, developed by researchers at the University of Warwick."
-    publishedDateTime: 2022-07-12T13:35:00Z
-    webUrl: "https://www.news-medical.net/news/20220712/AI-model-detects-peoples-vaccine-attitudes-from-their-social-media-posts.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 16
 
 secured: "93Vs5gtXZLdDLtXZDPFYDjBe3FXq63cYmG/k4/lAkM5DcIDE61aQBPa+vqv4MHo0eT8kR9AES0WZciTtEWkLnIRx4jK4PIWtaDwjhMytuikd44X9wfE6bXk5DnLIqAqHR7MWD0xtoKxuwqhExBszdUeD5UATfke54yqt15h/G6mR/EqeimmkZZ88RTVBxUW2kG8Udp2rtL3/pFwmJ0SBlTmZ94qpJyKOd4ooIyGteUOme1MPpndaANt4gY81jwieKKfo+ep+QoVx88X5mU0Q5ipUwJPyteYQrsbGHT6PKUw64nBCVhLZndoiOE74a/82JaHKimfyVsalwqoVeV55oyl8FCz5oxfEGmivlvtSER1tpMC1BGybHeemlMYiwtQd9V4NuFCJHAxrZsH1vCr2KFTZpNnogsfT/Exd+py8wpSg0Sysv8ttzssZGhvI9CodM2roeF83qWwRbkQHIyUt/df5S55DyQWl4flMBjZCo3SjZNpTPPVaauZckQc8KHBDU4PcTf7vjnf6lxtVpPn1uQ==;dRQqLyFS1QQRWOWcLHdmDw=="
 ---

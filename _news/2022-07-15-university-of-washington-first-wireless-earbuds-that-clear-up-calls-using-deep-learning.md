@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-washington-first-wirele
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning/"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 19
-  - title: "ClearBuds: First Wireless Earbuds That Clear Up Calls Using Deep Learning"
-    excerpt: "ClearBuds is one of the first machine-learning systems to operate in real time and run on a smartphone. Wear both earbuds to get the best noise suppression experience."
-    publishedDateTime: 2022-07-12T13:33:00Z
-    webUrl: "https://www.medindia.net/news/clearbuds-first-wireless-earbuds-that-clear-up-calls-using-deep-learning-207894-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 18
 
 secured: "HJc4nOAyQ9dGtY6+6sqSYAQ0+a2Vu9GWLhfiGqu0ebX5/R8XSfc/0Fr6fciCMWhfcg3NwxUuDiiNcRBNHCGLgd4C3gQhlzjZJYAHYrAeaUajT/0/AOJuAotSmvLGHQ/gNqjZPDRl9JKw4s7EiUEt7uKKFO+UDByGUtxUXPaZC1xxF0ZgJZXE8I3Ei+RoZuXvl5NeHlydMq5mk6IUuNRm2WeCrXnMQE21uyYE6Y917+lrmdP2vD8CHNcP+Fld3dQkb/qEgk8KCRmHd+oeYQhYas02crj0A+X1Q6ZPZlY+ZZAnk2pYdnVkErH5hCKUYbUTYdzG9cAD9BKmV+vUm8/r5U31ytmr79KHsal2EwSxejU=;4Kk8KOvcJOkOP7bKrU0OTg=="
 ---

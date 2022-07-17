@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts"
-excerpt: "Microsoft and Amazon Web Services have been awarded Ukraine's peace prize for their efforts in helping keep the nation's digital infrastructure online during the Russian invasion."
-publishedDateTime: 2022-07-07T14:55:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
-webUrl: "https://www.techradar.com/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
+excerpt: "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment."
+publishedDateTime: 2022-07-07T15:10:00Z
+originalUrl: "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
+webUrl: "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts"
 type: article
-quality: 81
-heat: 91
-published: true
 
 provider:
   name: TechRadar
@@ -23,22 +20,12 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "TRaiCE Now Available in the Microsoft Azure Marketplace"
-    excerpt: "TRaiCE Inc. today announced the availability of the TRaiCE application in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. TRaiCE customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-07-07T13:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/chicago-b6c6b305324052b5146bd9e844e74640"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+    width: 970
+    height: 545
+    isCached: true
 
-secured: "55wxqK5PxR5RObRF5Zg7ebO+IPMSn4jI7O85FteukpsXXnvKeSCRH5JC1fp+8tyax4Hyux8UPjpkonG7C5/zjUUSxSshsykWBtquhkAX61ADFw/9jn0acYeVKIIii7vVYc2FKSctxSO/Qxkm1yEeiFvw3/fQLhZk7eSEoiqJu9LErBncwGxxC4ER5jnI/QxHloOGoHRJZbyIoBApbSiwlLoxPHtxya0tM9HU0GJ/avdUQZ/KyXjJAE9wuqyg4BRTdfsZl81o5t2kazbTOgtF6NlCFFjjlfsEaWgvHinxzy1gaeK9uEWQax2vM6vw7vRHLWjDT5Au/PGPwWO6JMA2TkBAy0PhuFeboF2NYOHCiiw=;12DL6OLfoylbX6tvjbIVpA=="
+secured: "b9UrwWhRWqSWjOocvtw6uHuodpotPe32wBeEnIXlOw3HidADysRwSy5qSvVMQ4l963QiDqsy7PslQ+pA5KRj41ZPwDRVPOlxPeBt77vNu7xO5tnVwttTylrbza3++66BMs2P3kEzuzhHwVD+ONvzPI5gty89GhpYwdprbzjQOw7Ub3s6xccE9YLBRsv6/0qr86Lwz1FAmiBwfbldek+0jm+yAmFRaD+9ydU+aN6LZKJ5rZBGlTHmgdnFaP8eoXPUYJ5GsMEL9YteX3LTBOEk0F0YYXKy2a14gGv1PFMutLQ2j4j431IXnmBtIAF9Feg9jawtzcyp3rsDWi+MlnDVqU6eK3Sr7KseH458EEv1Q0Q=;VCSWdNUI+rwSUvGaYTFY9Q=="
 ---
 

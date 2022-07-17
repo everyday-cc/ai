@@ -42,20 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs"
-    excerpt: "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware with a robust and flexible compiler that makes it easier"
-    publishedDateTime: 2022-07-12T15:00:00Z
-    webUrl: "https://www.asiaone.com/business/furiosaai-forays-north-american-ai-chip-market-welcomes-former-intel-and-western-digital"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 40
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_542.jpg?h=7de12b8a&itok=XXIYDfyw"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "2g5W+VbQZG5lUv5RqsBXyiWQ5reNXNCc8ztmy5IrNyCi3ObtGhg0XXq2gQwF+tYjw2En/xyDSqZcjCGO5mbexMef18IPE9zG2NsIkuAHn4Zuy6n85P8hm6UgB0/uMVtVBzMLuC4/0WaL0xrfUHlEDXE8yLmASNV0WRgfZ2GG0VPINw5uEs6YCwe6xw7XmxYJT1PftDbPod5J4bqLue4p7VthiZbtkLTCKBG+RG+QhTyPS8fa++Svtv2PNd+gx6Rodd17c+GzG9pXiuXMv1cZmbbub9xodG3uP4wGy9QasaUYWqJgvTgcuq2hFffGcWSSmZyBP+o41aBSnKM5MY1BHgqBVuaYXQUuIwAkxWOsUFAQ/ZT1Tw2XnzamMUUlXF2fOVp4lawR+pySeQxH783QEzR1SE11uVQDM+neWko2DdamTlJCY5dl5skw0RTgLWRYdEYGM/r1FmKOC+tKB1UU7cs2ib2KRVJWbMrlWx6LjGaydpB/pi7cecUvuISLQJFaDPTEA80HF1pL12IdQtqbCw==;WnxoP56InkgTCDWav9vCKQ=="
 ---

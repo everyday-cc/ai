@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Geisinger Health Plan to reduce denial rates using AI, machine learning"
-    excerpt: "Danville, Pa.-based Geisinger Health Plan partnered with utilization management technology company Cohere Health to support its value-based care delivery and reduce administrative costs. Geisinger Health Plan will use Cohere Health machine learning and artificial intelligence technology to create episode-specific care paths based on the member's utilization history and individual care needs to prompt providers to select high-value care options before requests are submitted,"
-    publishedDateTime: 2022-07-12T14:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/geisinger-health-plan-to-reduce-denial-rates-using-ai-machine-learning.html"
+  - title: "Novartis turns to algorithms developer Anumana to apply AI to cardio conditions"
+    excerpt: "They launched the startup last year and backed it with a $ ... Anumana said the alliance builds on its own efforts to develop AI-enabled software that detects signals from ECGs that humans cannot ..."
+    publishedDateTime: 2022-07-15T21:03:00Z
+    webUrl: "https://medcitynews.com/2022/07/novartis-turns-to-algorithms-developer-anumana-to-apply-ai-to-cardio-conditions/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 33
+    images:
+      - url: "https://medcitynews.com/uploads/2017/07/GettyImages-628328284.jpg"
+        width: 745
+        height: 469
+        isCached: true
 
 secured: "TbKUtrqenMbQtliMz8ERomnRrpxBX8c7s6vX45TnsUt3rx/7Ofp3XacJ4Mvft5C8+ImZfa3p7OtVGctmZthLgXK37W5E8CDTBiPdk0RRrYNJSU+MHXFYJW790UXgyCPUd98cFqLucVBegiHBauGQJuuXkP5Zd7GG9dVY6RU8WEZIOpvWcMfMzobKOltZPR20xFvDTtTTT8rmhfmb91uuNS6P1NSM3frREag52onmsWkEMYEo7PaHPjwjphY7sWyBHY7C7LNMLlDoSyvS8ulxXkhgiY+W7jcjH2EEReR4lN0eMUAIY6gMdHh7hgaSCs63TlUjMY59UG8X6n99nYBUjJs701Vw0enYOmzHj9FcYvn8VIgcPw1WxeyNp7h3uLZGKYQdmQY2jtLzRb1lEvBt9mjOzw+R5/LNydiYhAIrZ3WQ4iL3dJ0T5kA4TGERzXIFQeCZCY811OfsdUpjGjzgKWUC5jMSxQoKGTwXboyWyvFTPxEaOMQsUKvLWcj7eEB8SxwxfQ6He3+GJ7qtNPE0uQ==;LdtzTmUZfdjqI0bo9j48LA=="
 ---

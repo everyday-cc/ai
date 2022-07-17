@@ -3,45 +3,24 @@ category: news
 title: "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?"
 excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
 publishedDateTime: 2022-07-12T13:30:00Z
-originalUrl: "https://www.wyomingnews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6a3a4190-d74d-557f-aec1-00ec348af819.html"
-webUrl: "https://www.wyomingnews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6a3a4190-d74d-557f-aec1-00ec348af819.html"
+originalUrl: "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html"
+webUrl: "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/b4/cb48dc5c-f449-5d66-91ae-0e253dd0d27f/62cd7415b911c.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/8/ed/8edb8772-a1db-57b2-9d35-0eb082f54077/62cd742023586.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
 
-related:
-  - title: "Brad Pitt believes he has rare 'face blindness' disorder—what is it?"
-    excerpt: "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces."
-    publishedDateTime: 2022-07-12T16:32:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-brad-pitt-believes-rare-disorderwhat.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/brad-pitt-believes-he.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "ohnaqnSEa2tQZRDRCQ7cA5BhHY63+UaXF3wiLKyd8G1Q1/cw9ScCRegd9VY/qJb64CJaDfJdhaKqZFwlNP2ppGwuoIhetN2kX1rbC19qcGxMRihc3nbOUPvb3cOmio6VZoCdCLq7tBT6wdrVeVmA293GfGZtAEtasaCq2WD8EEbWKOzWY0hy6VFDe5KZ6+nE3lmddMcf1u4xctY73EldLOGEyKCCbDEqD0GFIqcBsWGXBuMRaXD7EGaK85dT+1UDK6cWY0c1yH75Ff9NOXBwpPqmPVRYaHq32YutRtpvyeJOIqJ4byLaoTaykjtJ7jRd1wtQH6xMyDkIatErY2WiK6WDPwph4fJF0tHYWFxRj7o=;YUxRxFNJa0UeMtOblbDOow=="
+secured: "MDAt1TQhJo0OyfHewCPxvd9ELKk0ac1uRf0ks89f4z7MdbTfGCd+r1OYj+owaPdaGFZoW5osmKOTt3mYUoY0VlqRaCY6BFy4rQenjEHUOY+vkN+FbQHH8P3Tv+bNJobUMIAS+FCM+ozUyTz/wJM7H1epgFoeJec8LYue1YJ/wQHE+MCvEo1VIzL4KIMIM/aGxv2wSGGkOqPuAA1i2tBm4v7yjX2vcS2HHGiUNYapf4u0G7nBB1crgiXZaGNiD5mubg4tap72+f237at5eMHTQKkXaV8MUDq4KOS6SLgdjOZe0a52fX5S5pwA30GDg9+26LcznZhoNOkxV80h5wE9Jy4FO7aUE24xpyZaj4TVYxg=;fsaf2hffL5H96l+lfSyhZg=="
 ---
 
