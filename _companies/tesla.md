@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 630
+heat: 627
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 16392997
+  followers: 16393967
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "fkRYjw8dNkvrdu9+SnSxy83UNbgRc627OCgEawQ2Lf0oawiEGETR+UPSdc4lr0Y0ijn/UK1HB2T9UBoyAgo3JCSuKEDys0BBaT/pVsJ6Y9kvFq1/sbigbU0vA379BzI9WfNgit8gMrndQUAELeauLYOKTcd4XCiyy6+Ut99z993nWF4c51ltIrT5kXuUbdt70Elz7GUr8mAEq5i8Wi9z8bKcShHDVqV7JYdbOh5+UfUjHoX93cQqbFayX/zHMpHufEG3yiAViuu22dVXspwuwYDzMPGyv5sO4dDDrbDCKIwLmEU/WceOMfHId4za/f8LVd/hGMvK8wLaeq64zSUJlpvjpphzVdPFqRv5xElIbPLd+1Iw/3eezgTvgHJlhWDV3k4SV1MFsiWSLWZNGqCgT7RAVyuwePMgWryRd8AmwmE=;yvAAjtMd/eFmExviqgtpqw=="
+secured: "LNoY4sskLp7hoNsn6waKj/j+z3S38P8ep7dXHmcffYNLX74UVjTMDXLnTeV+Ed4Lp+U7PByEYUg4Z13yVg9rfII4uPgeCl81ynn5MAtRrp4N2T3nDeUsWThH0VWUizU6YJegEotsLcRk7j2BGU3fkqzmVoCnUKAOnB81/P956hcEsC3Dk6ulJNcUaBIVJzMwOPDfeMQxHljvCgyVLhn7wwKWlx11lDXL5ykYpaa7+WtlhEKi07RD7hvwPhDhiz8eEb7jDPSDGCgPMW3pG+QD91G5qLaoWme8WNA61tHGKunYj6B4XQnwR8hSKZ4NGq1KxtJuySVFrKr1dA/8AHR+EMfXAMuHFHxPqLMTGI8jn7Pp4RUnnD/VMWFliEZdzt+/4wpWGIZP+AgJop5eNP+IFFJN/kEkHcCml7ISLmDiUEE=;hdYOslubWvrevRsNK93PNQ=="
 ---
 
