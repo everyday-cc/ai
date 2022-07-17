@@ -23,22 +23,6 @@ images:
     height: 368
     isCached: true
 
-related:
-  - title: "VOXPROTECT - A Witness’s voice is not protected"
-    excerpt: "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal."
-    publishedDateTime: 2022-07-12T15:51:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "gy5QQD+B6j5Li+jDUpmbhdhb1MFR/rOJoMbhnRKvwllDG96elIovFrd69mxSqf2iYVIsks5NJgSy7MEWxkjYO5iIV1TeJUDcVUv9IL6DYcD5GJpOLl2LJ9GT6UsxPZ4VWBxLbBPOH8CR2YTFbVkDKK8wXAhUoECLUsOMAQEN+nr9Zm1Q+mlAi7QrF6CPoPrRh+vgzfu0JFWBto1SV8Wa8CrbrxDAxexxWWpo3EDcGz1L/nyoSHf5FcBtQc0HBoarQcLjLI5BTJ4kMl1v5VZHbTs5f6GsfMhVXrMqkAsutXNvYAnYulCP2iUMMrvQ2WXNIbzUnAsMQtFGwCr0MnXGWrKKVZUa6lV3wM2D24aoCNM=;B7m6FwHUtAtENfp7orsIQg=="
 ---
 

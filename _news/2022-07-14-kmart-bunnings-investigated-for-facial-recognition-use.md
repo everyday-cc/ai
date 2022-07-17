@@ -115,17 +115,6 @@ related:
         width: 621
         height: 414
         isCached: true
-  - title: "Kmart, Bunnings probed over use of facial recognition technology"
-    excerpt: "The investigations follow a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys,"
-    publishedDateTime: 2022-07-12T16:17:00Z
-    webUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
-    ampWebUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 39
 
 secured: "ZGLH/rGADwCuU6sOasvTKr/Nmy62LBIIBylqlo7UvnTFPURRCMaDfjX7trZzWwoXzQ9DO7FzuP+LCl9uQFXwMuYF5q3+lsye8Fo5QIjr6eGyw4RPo4pco37AWMSlikWb0gCIJTK3yA9iFN6kG5tM9WEGTRnTuW4u1f2Bs2Z/2lhRUyDxXc0b8qJKN99s0WXdu4QZtVo/GQL6f2UM2uMO0rnjfPGZcZEk2Rk8S4L4tt7URyJn43vVLtOUPiUW0rtIwGppSG4AhbS6z33uiJm0GwTp5Ly/rpZN+rlVRnyEr8h15Qnn/ffcDKAhMIah5Zg/r0Zm9y7e5yI/Y9UZXpAyGXymRv1ivyfPYQXMQ+6v/M25qSD8y8hWg39WTY6aGAkzYJuzNaZqebDAr11a3MDdxYkpq8Dze2DmzSnlQnhvhp09XSsjmY1RgqqgN2QY91XU3w1ArRloJqVjG8xmLDLB+4bV6MQoDDY1bpMuY08YkCAHqZMWrH+PL2cx88lGqiwv7jZ2vw2615F6cu5pVZiDZw==;Ht62UCiS+Z8ReYmqOKG30A=="
 ---

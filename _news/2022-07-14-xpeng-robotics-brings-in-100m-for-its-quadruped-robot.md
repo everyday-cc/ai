@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "XPeng goes from four-wheeled EVs to four-legged robots with $100M in Series A funding"
-    excerpt: "XPeng Robotics, an affiliate of XPeng Inc., has announced an agreement to receive over $100 million in Series A capital funding, led by a group of longtime investors. The fresh financing will enable XPeng Robotics to further its R&D in robotic hardware and software and talent acquisition while accelerating product development."
-    publishedDateTime: 2022-07-12T16:33:00Z
-    webUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/"
-    ampWebUrl: "https://electrek.co/2022/07/12/xpeng-robots-funding/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/12/xpeng-robots-funding/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 84
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/XPeng-Robots-Dog.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
     excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
     publishedDateTime: 2022-07-13T13:33:00Z

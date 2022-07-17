@@ -37,20 +37,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "ComplyAdvantage Secures Place In The Fintech Power 50 2022 Cohort"
-    excerpt: "This week, the Fintech Power 50, a list of the 40 most innovative companies and 10 visionary personalities shaping the financial services industry has been revealed for 2022. The exclusive annual program acts as a hub for driving change and creativity in the financial services industry,"
-    publishedDateTime: 2022-07-12T16:49:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-financial-services-1614cacab189ae63ae26973e17e41f7c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Fintech TIFIN Acquires SharingAlpha"
     excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
     publishedDateTime: 2022-07-15T14:04:00Z

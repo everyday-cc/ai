@@ -27,6 +27,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 24
+  - title: "Short Interest in Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Declines By 32.6%"
+    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) was the recipient of a large drop in short interest in June. As of June 30th, there was short interest totalling 15,500 shares,"
+    publishedDateTime: 2022-07-17T08:28:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/17/short-interest-in-global-x-artificial-intelligence-technology-etf-nasdaqaiq-declines-by-32-6.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 18
 
 secured: "l/EHJXTGI7KlM7XTBkSXzWrFaOC/rHoJ0mRZA8r8RMeLteGofScVimmpy8CHhiKLGGDQlOwl29CyP7B9bbmGUS+MqXkS6IjuXjYHNH09gO+Q62D2jDG7lWkGjTXTWRmW83WfB61af9MWARexOcEAuYLA2rm4kPAx9cV4WVPyfvnYUF0SbNGx2jYi2Vy/leTCTIPshMMPUqwx48y6kQA0K4B1QxKHsWnurLaVxHsiDWke1RgvHv04Z1N+tleNLNEWuSjSqpxbCR11UIq8Jip3bqgIb0dSjhLpjE594filFdagqPO+U10nmHuwVIlq65i3IK2dxorylsnCuXMO6K3aCI7VdYViFlGjDN0EgLVlqpk=;KU1DtOgGSRczgt2IoGMhbw=="
 ---

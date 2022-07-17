@@ -33,15 +33,6 @@ related:
         height: 710
         isCached: true
   - title: "Intel Releases Open Source AI Reference Kits"
-    excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
-    publishedDateTime: 2022-07-12T16:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-intel-releases-open-source-ai-reference-kits"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
-  - title: "Intel Releases Open Source AI Reference Kits"
     excerpt: "AI workloads continue to grow and diversify with use cases in ... 1 Predictive Utility Analytics Reference Kit, measured on June 29, 2022. HW Configuration: Microsoft Azure Standard D4_v5, OS: Ubuntu 20.04.4 LTS (Focal Fossa), 8 X Intel Xeon Platinum ..."
     publishedDateTime: 2022-07-13T16:20:00Z
     webUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-ai-reference-kits/"

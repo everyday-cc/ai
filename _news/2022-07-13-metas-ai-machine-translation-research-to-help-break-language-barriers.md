@@ -7,8 +7,8 @@ originalUrl: "https://tribuneonlineng.com/metas-ai-machine-translation-research-
 webUrl: "https://tribuneonlineng.com/metas-ai-machine-translation-research-to-help-break-language-barriers/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Nigerian Tribune
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta’s Language AI to Connect the World"
-    excerpt: "Facebook’s parent company Meta's “No Left Behind” Al project, can now translate 200 different languages in a single mode."
-    publishedDateTime: 2022-07-12T15:40:00Z
-    webUrl: "https://joyofandroid.com/news/metas-language-ai-to-connect-the-world/"
-    type: article
-    provider:
-      name: FaceTime On Android
-      domain: joyofandroid.com
-    quality: 19
 
 secured: "iC0VOMbOfkZSfOSQ9JHIJjEOBVWO78/wHkqluvUzW1Q3F7exI6x+8hioqqkWzkcc6tQmW7FLs8mjS98QAEg2z30GPB67/I38e+9LFwJohKrEhsAxgwaZv7lJEf5JYtJFAqztkomQAJu/9asp2UmMRGgheYTHXQdbuWAGUHqEDBJUHqbEnthfYhfNfrfMaDtwGRy0yHb1qmMPspYkCdxMxUEzC4tBNXXKu3AvU5qDLc5twuX7DIB9KJ2UZyjnDsuvY9s8fanLwWhWYGPWyZh75AhEmT746e8kBPc6RdPJ3MHlzRrsertW7EVhTnoC9CETEHJ5kx1hrWxAaUzy7YQq/p+YdSQi0jh7EsnwLD3rnNEO8KVFwl01SGOR2mv8m/Nu6uSdEweLS3yN/WRG0ICJY4nMqmXBDm4JptKhJKcI1OvKb1+pZFsSaF0sNMnf1zpyln3ti+6tMiPFsOlqAL/XG0YPlaQLPoiOJQvJKKXoRVKC9LI+jbJu4mlow7MuUKmqhS2/MADEik/oIFYkXrun9A==;7FxI67hq9RIL3/mXSELA7A=="
 ---
