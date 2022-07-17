@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/
 ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
@@ -54,6 +55,6 @@ related:
         height: 724
         isCached: true
 
-secured: "w2ekbK1fORAYTUOrDfzNw7aaZyrerM+KTfeHWLG40pPDVj+PXE77CrALd9hJ0qGVURHDWLW1zsG/Oe1OdAharoV0j7iZlmZzWvitLALbxaSRKMIBkMroiKJ57biXGFEQ32wWh9PR15HwER3gppOqCqpQMNZ5ACj7q+XBXi7mh5481edcGKrAO5Hsd2cjlj4hPOSICuQLR4NH+JOoj5xA5yLtLbmJz5STmSIRWUcbstLRHVQSNR0WtH6Yf7qISqNLgrpCZikh8V8H3uGNBjQbIwkqkou0gxdQsZqcJnyx1jjykQKCokelKSIYwo4/y+o3bmmyoXTChhta730V0Aev0WHmulTygxNBGHf+jITzkPE=;U5TFH/ixu1wXni1WtNTCUQ=="
+secured: "f+z5H447lVtvIddNA3WzJrQmLpNI3j5lDk9RwhjVsI7dhkQx2wJyAtkE71AZ7etkne+jD7qmjGOMZ0XgzUvHaiebOt/nB9EiMP2g66Bhbl2YgdXzEA94vh2HjBpzCVImQeWHotG4j5y2jf8ZE5T+RrGLZW6nxuAHYQ5BCni91NvTyD7peNjDqggtIuz8V3aeOhhGsDD6tQM73JL7ydXXRfTCVJOEEBHKjA9lmXU41p7lp7eb1jXYnXuWhPJZnbWkeL3M880YpH9hviJBx/ZvWHfI40AT+2sPK7uCmD+CtoTeH9W3ydvMTYx4tugmTQazmUZfzqiRTBgn9zt8UeK0fg2kLAIDUvDaOSrPr9AWXa6Jrg6JhhfMV034eR6WICWF+pjiaL7ShzozuUvcPMfmlMejoG81i/p42M62Jr3sY7ANU3n5O3MqeNgXYVK2vGl3+dOw8buO6fxenBnOcQWo68D9MXqcSBdOJV8B0N8K+8kKf/Qpl+nRcZpuLJ67C6RiH0XVfCfa2GfULbzLlW/4XQ==;Vie1G03NvpwrnB10FMxBvw=="
 ---
 

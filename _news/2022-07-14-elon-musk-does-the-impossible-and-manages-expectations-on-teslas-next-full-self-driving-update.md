@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
-    excerpt: "Critics say that the name Full Self-Driving is a misnomer, and that no car available for sale to an individual in the US can drive itself."
-    publishedDateTime: 2022-07-17T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/17/musk-backed-a-boast-of-zero-039self-driving039-tesla-crashes-but-data-show-otherwise"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 34
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/15/1660139.jpg"
-        width: 1240
-        height: 788
-        isCached: true
   - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
     excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
     publishedDateTime: 2022-07-13T18:28:00Z
@@ -63,6 +49,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 16
+  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
+    excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
+    publishedDateTime: 2022-07-17T12:00:00Z
+    webUrl: "https://billingsgazette.com/business/musk-backed-a-boast-of-zero-self-driving-tesla-crashes-but-data-show-otherwise/article_90d214c6-048d-11ed-a0f5-779418748d88.html"
+    type: article
+    provider:
+      name: Billings Gazette
+      domain: billingsgazette.com
+    quality: 14
   - title: "Self-Driving Cars Could Soon See Much Better"
     excerpt: "Self-driving vehicles, including the ones that the U.S. military is experimenting with, are still pretty bad at picking out small details as they move through the world, a limitation of the Light Detection and Ranging,"
     publishedDateTime: 2022-07-14T17:32:00Z

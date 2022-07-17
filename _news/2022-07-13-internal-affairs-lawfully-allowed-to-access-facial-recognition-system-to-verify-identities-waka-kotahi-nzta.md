@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?rmode=crop&rnd=133022801966170000&height=395&width=635&quality=95&scale=both"
         width: 635
         height: 395
-        isCached: true
-  - title: "Government agencies have access to facial recognition system"
-    excerpt: "Government agencies have a facial recognition system that can use driver licence photos to check people's identity when they get a Covid-19 vaccine. Health officials insist they have never used it although a document from last year shows it is ready to go."
-    publishedDateTime: 2022-07-12T20:59:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018849237/government-agencies-have-access-to-facial-recognition-system"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--UqAhW-6Z--/c_scale,f_auto,q_auto,w_1050/4M9Y744_image_crop_123200"
-        width: 1050
-        height: 630
         isCached: true
 
 secured: "dK1AjKaYXOBTYm41t3gVCdiWH7754JYberPedvu11skstb8vVL0zxjzjR6Qe4L9gIcP19Ol+xy9qN5PvE6bc0baJCkcfA46u55TUkHNlCz8/HxISSUiwJKbwt6ezide3y5QT6p7gTRfRnY626bQn12DXZ6jynG0CF3MRQHcKBJHGOzQy0eUXO0U2/84i9JgMZFf7inc0mlMO+QdI0Dhna1JdmuckTdEW9JeJtJi/6XKwg5hqWS+/cbG+EhRBTdP1RjoIGkXPsxCceJ67EJqhRiI4WVDIXtDQmzA8GJ2Z7Y5OhjxwnqTtVc1AsP9xOHQVb0B0ID0lpWBB7AYeTF51fIX5Hsp4vUpBVlua7vaLXC4jiQHmtkxX9lCRB08BhcNnbT9DCFsa4J9/g/kAZ5b8ScCbYtbqO1NfFFsbHqhjMs4Q6SNgvJGubZW2Fbzva3vOoam63oWWYjPzVEPf+RNPsUlp4p+6MXNVWHE/C2pgWSVBCgK7m+G0LTnMHnLxsg7WvPdNY+ALEg7rScAnpJ9IyA==;enuPGvLu0mTkz4BJc8bP5g=="

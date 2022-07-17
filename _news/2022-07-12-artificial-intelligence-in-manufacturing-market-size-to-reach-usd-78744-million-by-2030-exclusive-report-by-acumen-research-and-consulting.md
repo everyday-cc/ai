@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
-excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-publishedDateTime: 2022-07-12T00:13:00Z
-originalUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
-webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
+excerpt: "Acumen Research and Consulting recently published report titled \"Artificial Intelligence in Manufacturing Market Size, Share, Analysis Report and Region Forecast, 2022 - 2030\" BEIJING, (GLOBE NEWSWIRE"
+publishedDateTime: 2022-07-12T00:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive"
 type: article
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Z8+NXIqvq92b23ZZvjX6bBIu21LflnM7V+kKS5GD0vY6ojQKCh2tCFbe8nm3F4vtoWK565LzYTvCsawykYQuXvdURHbSUujzCQG588699Lmds8diQ4rjCiKX+SugQ9Xd0Bf0Cr5aJYOYjQrw2M8ZkoRCpEWJVacL/lrbTMOC0FwOjl4uUxJOgILbhZxjL2HW3aj0DCRcbUxZUrgT672naemQjCvciwC1Y6b5hphkbGR2zX/QrtVFJhulVifYH5bt8pxz4ID9UmfM1AQKMVTqtKU8V6K3NZL2ndUSitx4tOEYVIJfJxPB5dBVOL0aZAsy6zIlp9mueTmku6V1b2dJBkm3yY10PNIkLB/8oprIO8U=;L07z4ntjP13hz05zhmW9Tg=="
+secured: "TK2nzCqCSMC5skxBvKkIKWYqugY4BZCeRn5b8UwHO0nJBFLU59wry699xo4mEQF8isIleuLwhsuUCWtNYtC49Vr3qO/uFTDaH7GC+9hNRT6Q5oufOrXM5ckFeHS2/CwRTTjXDMGRY3feQ/rdG4CT3l0VvNvtFRGCiXPLT3WuqqwGnShYvlOviYfm+IYCbYGM9Pr7WEeWTI7JClK70ufuPQkWxYYZiQpp+J+vQFbTEgKPH+WMYCbe6109LozVptnKOt5yfnZ+jY6ZOYdfEdTOm8x94OcY9qEFtMh4ymt/NRQqtTUkGcNA1qvcPSjs2ApsEXmXBHDtefQQKEsNwLotRdfAKnM6OaQX1tcQUHBdZW8=;Cg+WfE8+IJOhCC/1mJJBOQ=="
 ---
 

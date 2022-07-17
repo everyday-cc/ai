@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: Tiger Woods has big voice on LIV Golf controversy, just not as much visibility"
-    excerpt: "Woods says the players who have defected to the new Saudi-funded series “turned their back” on the very tour that made them famous, and what the PGA Tour wouldn’t give to have Woods at full"
-    publishedDateTime: 2022-07-12T22:22:00Z
-    webUrl: "https://www.pe.com/2022/07/12/commentary-tiger-woods-has-big-voice-on-liv-golf-controversy-just-not-as-much-visibility/"
-    ampWebUrl: "https://www.pe.com/2022/07/12/commentary-tiger-woods-has-big-voice-on-liv-golf-controversy-just-not-as-much-visibility/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/07/12/commentary-tiger-woods-has-big-voice-on-liv-golf-controversy-just-not-as-much-visibility/amp/"
-    type: article
-    provider:
-      name: The Press-Enterprise
-      domain: pe.com
-    quality: 34
-    images:
-      - url: "https://www.pe.com/wp-content/uploads/2022/07/AP22193391462690.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Column: Tiger has big voice, just not as much visibility"
-    excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. Woods left little room for interpretation Tuesday when the 15-time major champion hammered away at Greg Norman's new Saudi-funded LIV Golf series as not being in golf's best interests."
-    publishedDateTime: 2022-07-12T20:18:00Z
-    webUrl: "https://www.chron.com/sports/article/Column-Tiger-has-big-voice-just-not-as-much-17299597.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/44/03/22692084/3/rawImage.jpg"
-        width: 2048
-        height: 1701
-        isCached: true
   - title: "Tiger has big voice, just not as much visibility"
     excerpt: "Tiger Woods, left, and Jack Nicklaus, both from the United States pose for a photo on the Swilken Bridge during a 'Champions round' as preparations continue for the British Open g"
     publishedDateTime: 2022-07-13T07:00:00Z

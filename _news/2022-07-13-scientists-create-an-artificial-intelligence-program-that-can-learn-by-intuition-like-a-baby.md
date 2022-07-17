@@ -9,8 +9,8 @@ ampWebUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Mashable
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Plato, an AI That Gains Intuition Like a Human Baby"
-    excerpt: "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child."
-    publishedDateTime: 2022-07-12T19:38:00Z
-    webUrl: "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
-        width: 716
-        height: 408
-        isCached: true
   - title: "Scientist launches AI program ‘Plato’ that gains intuitions like a human body"
     excerpt: "This AI, dubbed 'PLATO' for Physics Learning Through Auto-Encoding and Tracking Objects, learned physics like a"
     publishedDateTime: 2022-07-15T05:29:00Z
@@ -57,15 +41,6 @@ related:
         width: 971
         height: 434
         isCached: true
-  - title: "The Air Force plans to test an AI copilot on its cargo planes"
-    excerpt: "The Air Force and Merlin Labs will work together to bring an AI copilot to C-130J cargo planes. Here's how the system works."
-    publishedDateTime: 2022-07-14T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "VhBEBCACQjmW6ZCQgL8ZcUYN2D573rwvlpxN9uHsmBQsl01y18oL7I0gbeUNOhPfLFIklsf6FPNi/3DTg7kbiCxXB79P5rIEylXNAIhS+loVlFgd3zCkRTwGjYJHAGgCn9EO9j9dQ2lvJULTJdK6xSbyU3XaUfWri8qscIi0+Nn80PBCwEdrnu07OeKom524AD1fquVmKPjpLym9ZDZ7+zjLiVBjUneZ5z8vlZvnnGIN9roS75AQKGsgslUyAIUrVjyZJ+k/dL7+cILd2qVe04yn6trHNzyzUMCfFy1PvzQg3aKFzXQW5hFQeL2M7Iqc41RuriAPltsMTxrurrBzpQ70aSgZ94Kb+3OuVN11waKdtLUxg9Baj701rfpWaWVO0Z5DHZvGTBp/UhoyyU1nSRkbKkt1Ff5a3E5TxdjfnYuArVJ0qP0kgNA02wX71Vn4LYmSlnsvYDFqpheiR21iCnze8UhVYVnNBmB7XlQZh97RkBskccUflovigdIvpSyQf2kOGXvWcxjKB8Lb8rdDWw==;EMg4+1XsjjkvxfogI2EYhA=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
-    excerpt: "Critics say that the name Full Self-Driving is a misnomer, and that no car available for sale to an individual in the US can drive itself."
-    publishedDateTime: 2022-07-17T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/17/musk-backed-a-boast-of-zero-039self-driving039-tesla-crashes-but-data-show-otherwise"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 34
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/15/1660139.jpg"
-        width: 1240
-        height: 788
-        isCached: true
   - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
     excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
     publishedDateTime: 2022-07-13T18:28:00Z
@@ -67,6 +53,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 16
+  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
+    excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
+    publishedDateTime: 2022-07-17T12:00:00Z
+    webUrl: "https://billingsgazette.com/business/musk-backed-a-boast-of-zero-self-driving-tesla-crashes-but-data-show-otherwise/article_90d214c6-048d-11ed-a0f5-779418748d88.html"
+    type: article
+    provider:
+      name: Billings Gazette
+      domain: billingsgazette.com
+    quality: 14
 
 secured: "of/U6M6XLTGM40qx9NH4zNuLlGvDwSDqZ3WZ62l5guSK/tBXKJviola7XmLwzrhDxMQgCqZAuYn5kM6UIUc/K2SddK94bNi7cnAt5yB82MqYqePu6w3/mT1Tl2xs/Vaa3l+8/3rcPwiBpbq1hU1SkwjN1Xi2KEoP7NpEmzternPf7GkLtWRBJREfFPLPJr9SUGY77GkcwWvHmDOQdABsYysn+wFjXKQOiMRpPg04UpdeKqYipVBnYL5xsoD9lr6xc6NdiUd18J2RjdnBOJvBjEob/mVSTPJp1k6MH/RCje6GIkhyMXefMHZHDBuXoE7VBvcsrJrwLNfCYu8Q7hU1dH7umWV1JbCzxLo9rIuvhqoGoIN3n9nPi/e525swNmSHNPvNXhUSE7cw7gKfIwlU+3hhpnbyI4Vci9jws8XCc/ijzFYtAUST9U4ts7ynlmP8WHTAo1nKpaNZtT45YCYY1yNW6/XiACy/51CzYNXwkSoxT4a3Uc1atmIx/0nluNjw4nCe75lqzeHhXNzV45oKZA==;xBcfRCzZ/b0KxNwe9v/iUg=="
 ---

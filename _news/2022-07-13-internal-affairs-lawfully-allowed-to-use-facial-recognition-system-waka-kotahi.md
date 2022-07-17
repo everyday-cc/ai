@@ -55,20 +55,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Government agencies have access to facial recognition system"
-    excerpt: "Government agencies have a facial recognition system that can use driver licence photos to check people's identity when they get a Covid-19 vaccine. Health officials insist they have never used it although a document from last year shows it is ready to go."
-    publishedDateTime: 2022-07-12T20:59:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018849237/government-agencies-have-access-to-facial-recognition-system"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--UqAhW-6Z--/c_scale,f_auto,q_auto,w_1050/4M9Y744_image_crop_123200"
-        width: 1050
-        height: 630
-        isCached: true
 
 secured: "CWvHO+0sJVjOAdt74pdPjqQE+A/IzmEPtB5knzc8pfBoWZxjVkqPg6ufSeGPBq84rdSBuORHi7GF/k2RTwzCVCrXe+HgGo8d/xVnXgJeSO/wGW3aohAKQlKyrmu7bo1OOJIVKxkwR9954fFIUJnUmZt6RCjO2/jZ05EG9ob9XZatkbXYcltKbBRtjHnsWSlati5vlafqoTfAfJQXfxT6RIyvkKjokOl0iyeX5jOHYzx42CLNsHy9Z2wXhblpcVyTQZ5IyQHBjcRocLsmHl/HSVLHq6wm7lkOp0EXZKiO6hg7Kf5ANDJNNjhqZJ4OMjxJNpSg0ZIp50THi3fv+yrh4Yg7Ez/gBpZ8oqHG2hJ2L314BCFf3jt9BGQ2WX1ALpAaTHLTynqP5Cob5jP2u7Xsk/3o6HW1JVPvoN3g8UvDx3iqZNgwHD2ZUtkv2WbjA/FOOfoeJtt7+P83iBeVimLd4M4aaZIXSo6Udk4u7g4Noy0AppJ0PmDDNdhzdcB1cTHImyT06PuCV9OGsIJKjT6zRg==;J/YQFc6e4R7jnOrc0PQVyQ=="
 ---
