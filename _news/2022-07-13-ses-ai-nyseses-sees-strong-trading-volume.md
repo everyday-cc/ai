@@ -18,35 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "AI Powered Equity ETF (NYSEARCA:AIEQ) Shares Down 3.7%"
-    excerpt: "AI Powered Equity ETF (NYSEARCA:AIEQ – Get Rating)’s share price dropped 3.7% during trading on Monday . The stock traded as low as $31.58 and last traded at $31.58. Approximately 15,009 shares traded hands during trading, an increase of 0% from the ..."
-    publishedDateTime: 2022-07-12T05:41:00Z
-    webUrl: "https://www.etfdailynews.com/2022/07/12/ai-powered-equity-etf-nysearcaaieq-shares-down-3-7/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/07/12/ai-powered-equity-etf-nysearcaaieq-shares-down-3-7/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/12/ai-powered-equity-etf-nysearcaaieq-shares-down-3-7/amp/"
+  - title: "C3.ai Inc. (NYSE: AI): One Stock To Trade As Economic Progress Advances"
+    excerpt: "In the last trading session, 2.6 million shares of the C3.ai Inc. (NYSE:AI) were traded. Most recently the company’s share price was $18.42, and it changed around -$1.52 or -7.62% from the last close,"
+    publishedDateTime: 2022-07-12T15:33:00Z
+    webUrl: "https://marketingsentinel.com/2022/07/12/c3-ai-inc-nyse-ai-one-stock-to-trade-as-economic-progress-advances/"
     type: article
     provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 37
-  - title: "6,826 Shares in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Bought by Cerity Partners LLC"
-    excerpt: "Cerity Partners LLC bought a new position in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) during the 1st quarter, Holdings Channel reports. The fund bought 6,826 shares of the company’s stock,"
-    publishedDateTime: 2022-07-14T14:46:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/14/6826-shares-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv-bought-by-cerity-partners-llc.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
-  - title: "Cerity Partners LLC Makes New $316,000 Investment in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
-    excerpt: "Cerity Partners LLC acquired a new position in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) during the first quarter, Holdings Channel reports. The fund acquired 6,826 shares of the company’s stock,"
-    publishedDateTime: 2022-07-14T14:46:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/14/cerity-partners-llc-makes-new-316000-investment-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 17
 
 secured: "m8Bk5sQKha+Lpx9L7S50DGcZxuhfQGVwy7DD04VdTyJFtup25elYUldEClFzUEa/1ZVyTBIB5FadC7cf/G///T+ye0nQVLcXXd0f27ajUJ2k6Jz3lx71aoHCBSLOl0PD/voBS+YwRO/BNLEl/0n4wxHZjuLpUjutc1+Zpy/5QnsQqj/c/PTZ3BOuSUZabjKAgLug4n9jVi07Ftwsa3sTAvnRJTjhc3JNo4J4Ge8wQUGFtBNFhbp9BLFiTQ37kvePQzOUkcNfG38zFcmrM0a7za1P7Ada41PrTF94Uo4KcWNmhMvuhxy/RqpxxWSX5HqxAgygmZbd0fYM4ewNOMD0zwmK1FfOPp9OnZos5C8h2zk=;6nE8D++8OF62K17QRa9yIA=="
 ---

@@ -1,0 +1,55 @@
+---
+category: news
+title: "Cyborg Method Of Human Intelligence And AI Discovers 40,000 New Ring Galaxies"
+excerpt: "A group of volunteers scoured data alongside an AI assistant in order to locate an unprecedented number of ring galaxies."
+publishedDateTime: 2022-07-16T17:10:00Z
+originalUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-and-ai-discovers-40000-ring-galaxies"
+webUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-and-ai-discovers-40000-ring-galaxies"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: HotHardware
+  domain: hothardware.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/59125/content/ring-galaxy.jpg"
+    width: 708
+    height: 419
+    isCached: true
+
+related:
+  - title: "New ‘cyborg’ method combines human and machine intelligence to find 40,000 ring galaxies"
+    excerpt: "A new artificial intelligence algorithm called 'Zoobot' helped to identify 40,000 ring galaxies. What else is the astronomical AI capable of?"
+    publishedDateTime: 2022-07-15T16:07:00Z
+    webUrl: "https://interestingengineering.com/new-cyborg-method-combines-human-and-machine-intelligence-to-find-40000-ring-galaxies"
+    ampWebUrl: "https://amp.interestingengineering.com/new-cyborg-method-combines-human-and-machine-intelligence-to-find-40000-ring-galaxies"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/new-cyborg-method-combines-human-and-machine-intelligence-to-find-40000-ring-galaxies"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 35
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/MRw4gB7z61/sizes/ring-galaxy_resize_md.jpeg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "Human and artificial intelligence 'cyborg' discovers 40,000 galaxies"
+    excerpt: "A new artificial intelligence named Zoobot and humans has teamed up to discover tens of thousands of ring galaxies in space."
+    publishedDateTime: 2022-07-15T10:51:00Z
+    webUrl: "https://www.tweaktown.com/news/87413/human-and-artificial-intelligence-cyborg-discovers-40-000-galaxies/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
+
+secured: "Jbt30T00r/5oU5sh1t2EWXBkADhdIg1dbGuP66+kp8OwedLZ/aMRuRoJm+yo9duKpaNfbPH9vUL5l1iBu7yPG1Qum06ga/5YY6DJA+/NOdC6vFieb8SIP3D9g+fXgTBMrMbbnGcX3zxlbszei/OwBsapKIcGe7KB9WhWtNPmeh7LVUZGsvE4yZBHGalVkOyDCv1tmr9Tifi3r8eMrT/N6eB7wgyvb8isjfwjBxqdKPN6x4qz8D6dDSCGj4RyPjJFUO8lmxMCFo6FCTXH/X/fTYs4Wr3EWw7pkydr5meZeExNYJbfxygdb1nCphCtzeeuLJrUDVvaggbGRCKG9XZdrvX5Enx8zXCfcD5ULNGz8J4=;N769LV5MrhGe5m3aKucaLQ=="
+---
+

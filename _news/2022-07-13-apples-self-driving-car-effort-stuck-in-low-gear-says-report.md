@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple's self-driving, electric car efforts still remain stalled: Report"
-    excerpt: "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future."
-    publishedDateTime: 2022-07-12T05:19:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tech Report: Apple tests new self-driving cars in Montana"
     excerpt: "Apple’s self-driving cars had trouble navigating streets, frequently bumped into curbs and veered out of lanes in the middle of intersections during test drives. During the test in Montana, the Apple self driving car performed well but navigating city streets near the company’s California headquarters was a struggle."
     publishedDateTime: 2022-07-13T19:55:00Z

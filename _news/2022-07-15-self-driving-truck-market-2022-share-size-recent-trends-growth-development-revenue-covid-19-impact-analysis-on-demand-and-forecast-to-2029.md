@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Search Tools Market Size 2022, Share, Growth, Company Profiles, Competitive Landscape and Key Regions Analysis 2029"
-    excerpt: "With tables and figures helping analyze worldwide Global Cognitive Search Tools market trends, this research provides"
-    publishedDateTime: 2022-07-12T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-tools-market-size-2022-share-growth-company-profiles-competitive-landscape-and-key-regions-analysis-2029-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
     excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
     publishedDateTime: 2022-07-12T19:51:00Z

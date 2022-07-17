@@ -52,7 +52,7 @@ related:
   - title: "Self-driving cars — the future of transport or an unnecessary indulgence?"
     excerpt: "Late one evening last month in downtown San Francisco, California, a car came to a halt at an intersection. Nobody was behind the wheel.Before long it was joine"
     publishedDateTime: 2022-07-16T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-the-future-of-transport-or-an-unnecessary-indulgence-kfrd5f6r5"
+    webUrl: "https://www.thetimes.co.uk/article/1b711e3e-0429-11ed-a4ba-b61f33f3c1cb?shareToken=066d9a5953a29fa1eb7c31accb99ab54"
     type: article
     provider:
       name: The Times

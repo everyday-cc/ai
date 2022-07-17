@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Is AI making iGaming Safer?"
-    excerpt: "Artificial intelligence is increasingly playing an important role in the advancement of the gaming sector. Both land-based casinos and online casinos are"
-    publishedDateTime: 2022-07-12T06:08:00Z
-    webUrl: "https://www.androidheadlines.com/2022/07/how-is-ai-making-igaming-safer.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/07/how-is-ai-making-igaming-safer.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/07/how-is-ai-making-igaming-safer.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/07/Gambling-image-843938498348.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "How AI Regulations Are Shaping Its Current And Future Use"
     excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
     publishedDateTime: 2022-07-14T13:00:00Z

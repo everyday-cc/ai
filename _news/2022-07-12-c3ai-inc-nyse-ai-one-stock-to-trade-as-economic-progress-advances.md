@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "SES AI (NYSE:SES) Sees Strong Trading Volume"
+    excerpt: "Shares of SES AI Co. (NYSE:SES – Get Rating) saw strong trading volume on Monday . 17,397 shares were traded during trading, a decline of 98% from the previous session’s volume of 786,804 shares.The stock last traded at $4."
+    publishedDateTime: 2022-07-13T08:44:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/13/ses-ai-nyseses-sees-strong-trading-volume.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
+
 secured: "nHK8DBr/7xDpg57CoY0/72f3cqBP3d+EMOHPg6pRrr9+/u7vqUFwJsSoCSaTeuVPsBeD1LqoEWFtIdldGcItSccKihi/TqYt/0phBhC2sniypCnmIHgH94LFe+OnB5dBvZn8Ym9Jc2NvA2RTGxY+Ad7gv7gIJ7VEOogLy2kD8vG4xl2n5bp9A4fP+ar1xBafel6GK4v6LiTc2cmk9QmTrRtUZ2vfvVgTtkUbCBPMQHtI8idZ8d4H+ZBx4IXlNHMJ9yDUVGt9yKlhmtFCVnYATXBvV9dz+dMpC0GBV0gDpk3B+o1O28MkWaFbImcF0YVcIuYmEP0UuuRON4yjJORfrJ8tcmf9zSVusRZS0taXtQ4=;v1ft3BEdfnEGetMxepsHVg=="
 ---
 

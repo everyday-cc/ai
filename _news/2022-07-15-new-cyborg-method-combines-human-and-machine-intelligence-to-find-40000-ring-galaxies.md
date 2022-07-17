@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cyborg Method Of Human Intelligence And AI Discovers 40,000 New Ring Galaxies"
+    excerpt: "A group of volunteers scoured data alongside an AI assistant in order to locate an unprecedented number of ring galaxies."
+    publishedDateTime: 2022-07-16T17:10:00Z
+    webUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-and-ai-discovers-40000-ring-galaxies"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 34
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59125/content/ring-galaxy.jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "Human and artificial intelligence 'cyborg' discovers 40,000 galaxies"
     excerpt: "A new artificial intelligence named Zoobot and humans has teamed up to discover tens of thousands of ring galaxies in space."
     publishedDateTime: 2022-07-15T10:51:00Z

@@ -208,22 +208,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Australia’s Privacy Commissioner Is Officially Looking Into Bunnings and Kmart’s Use of Facial Recognition In-Store"
-    excerpt: "A few weeks ago, we reported that Kmart, Bunnings Warehouse and The Good Guys were all using facial recognition technology in-store. Today, Australia’s Privacy Commissioner has opened an investigation into two of the three: Kmart and Bunnings. As ..."
-    publishedDateTime: 2022-07-12T06:34:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/07/oaic-bunnings-kmart-investigation/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/07/oaic-bunnings-kmart-investigation/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/oaic-bunnings-kmart-investigation/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 37
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/12/gizmodo-23.png?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "London police paying public to test live facial recognition during live operation"
     excerpt: "The latest trials of real-time facial recognition by London's Met Police included both testing with paid performers and live operations."
     publishedDateTime: 2022-07-15T15:59:00Z

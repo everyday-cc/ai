@@ -3,8 +3,8 @@ category: news
 title: "This AI image generator lets you type in words and get weird pictures back"
 excerpt: "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up."
 publishedDateTime: 2022-07-14T12:31:00Z
-originalUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
-webUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+originalUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
@@ -56,6 +56,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "uPZ1eFxlRNPrffYTlFik0ZDrU9vt1JATtEUDff+t8ccFxsHb+ybKloZ15mbz2pqG76Z09qzodBCrmq/px+we7xi24h4AN87r4cjep2cfb9zwc6/T8pkWQBfPsMcD6zZ6GSYNT2Jr9fy43zCiE51R88CrlJCgwx6qjPRS5rm1XPxSjbHEuN0FwE5w4OFfL9giptRrD2WIbuhGuvMGrRW55IAypcNx1Gk1uHBtpDrHSzf9voqiZ0D9L0w6QrMatuKHOqDJD+bZI23zd6dbsjvNEIAjdqcQP8fZuZ2PWMgF4Rr+kHt8njzw3kkcCOU9OxJzKMxqibV9ejhuMPi1KWRuWlRuiw5PLJ5F5cOsElcZriI=;Gn0izOp06hCxIzvjZGI1gg=="
+secured: "rDcXX7I7tvMSuQji4QJy2dEjPhKfNtP779cHqfVNquF0BLWJuOIDs+KZ4MCDRGaz0uIlM9HuoL4mGHm7Miyk+4Jbdny7O4BPHsZCN+7gwzsnk/gJ39kZae7rj9k6X0K6dkNKxvPvinnMfoeOsPlo3YUI4BKcYI9tjjY+PjpAeqQVnM5Geo/FQyVJy/rBLxfNnmoo6be3O9h0Ftp5p3FhgzpijQTmF65GM1MmW2YV4VPsi+i8S1h5LUv5mxJhyATRu6yFWRAZdni3uJutHF6thsBDP2hVF80eO/fnWM9Mh6ZF84U9JBWaw+N296GZDqL6oinWC0dMRZ57jzAT5Ne5Jr1GHHPNL9+CXBcvURDu7GM=;uxIiDk2E4wLw+/gYYhh1Xg=="
 ---
 

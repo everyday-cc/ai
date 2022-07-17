@@ -1,28 +1,28 @@
 ---
 category: news
 title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "Apollo driving platform was launched in 2017, self-driving taxi service 3 years later China's Baidu races Waymo, GM to develop self-driving cars Beijing: With no one at the wheel, a self-driving ..."
-publishedDateTime: 2022-06-29T06:15:00Z
-originalUrl: "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048"
-webUrl: "https://gulfnews.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048"
-ampWebUrl: "https://gulfnews.com/amp/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars-1.1656483270048"
+excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars BEIJING -- With no one at the ..."
+publishedDateTime: 2022-06-29T04:12:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+webUrl: "https://abcnews.go.com/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85905328"
 type: article
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2022/06/29/China_Self-Driving_Cars_00621_181ae12b58e_medium.jpg"
-    width: 540
-    height: 405
+  - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "M6lBhDb9GcgFeffCwyWtdGOzXucjoQyPEVoPF6jeGvxrPtqyHrRJ+5ILvZRgL73N7RamiK05MQiDG+tPJ0cf1s8bl6Ion/37x7+71IJWaZG4WNevr6dQRxRBzEENbx00748SmnAKnukSHXUDSdMumB73/Qwf6OGgT0+HHILnYJeewL7q6SQaqdjVgORFQSCmn/UHKFA8Pmg/aG5NWJqp5yzYmZhbgobroxlv9Ry0q8xu6FXxIYeK/1QN1LEx3qzGwcsS9xghYCds35GwShhHaKfGK6V8Zohpld6GxFlHqKGbRGAWAElXq/517boy5o910NpWZwiF6KDWKT/GsW69i9/EM+USFSTKQgg+SveQd7Y=;fC2sJTnOtxt9yQeLiy8WxA=="
+secured: "RPQfsskX4Scxp0YD5lyjii4TzR4m5JZoGwPOLFe5UaPRKu9rpxEGejyPBgO2vd8SVjzkpMGQH1XrSc3FS23Sl30RO0pIFyTGYBulEBzMLCysrXSrEWW9yecPxVR+98PRvYKGUb+9s5zjwEQ3O8zH8+zgWofnKSJMR8SmBsXe72qHecUosA3HniU0fQBdKxj4y5GAV93Kqopl/reKcE0wOguU4Z2UyIzFZb/m3t4nbwixZHL17PAAQR0jhd5oDcKpvDtfdxeqchZnDzX+uT39BSUbd0BszbSm+2dWdzeIgD232l+j9u4Y2luRx7Gtq+b+U0DHw+9LNdX3kK7tkRIzZUvvI6Ts+EvzaUwbaywfvGY=;pbYZobh7qz9txgi2qz2WaQ=="
 ---
 

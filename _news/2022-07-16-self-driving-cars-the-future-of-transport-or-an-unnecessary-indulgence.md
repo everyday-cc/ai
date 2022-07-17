@@ -3,8 +3,8 @@ category: news
 title: "Self-driving cars — the future of transport or an unnecessary indulgence?"
 excerpt: "Late one evening last month in downtown San Francisco, California, a car came to a halt at an intersection. Nobody was behind the wheel.Before long it was joine"
 publishedDateTime: 2022-07-16T00:00:00Z
-originalUrl: "https://www.thetimes.co.uk/article/self-driving-cars-the-future-of-transport-or-an-unnecessary-indulgence-kfrd5f6r5"
-webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-the-future-of-transport-or-an-unnecessary-indulgence-kfrd5f6r5"
+originalUrl: "https://www.thetimes.co.uk/article/1b711e3e-0429-11ed-a4ba-b61f33f3c1cb?shareToken=066d9a5953a29fa1eb7c31accb99ab54"
+webUrl: "https://www.thetimes.co.uk/article/1b711e3e-0429-11ed-a4ba-b61f33f3c1cb?shareToken=066d9a5953a29fa1eb7c31accb99ab54"
 type: article
 quality: 23
 heat: -1
@@ -65,6 +65,6 @@ related:
       domain: defenseone.com
     quality: 4
 
-secured: "X6azd5MCAjJZRWrk90cBf2QyGg4424lTbejvpYEkGQ4E2+baEuzxr+JezuCUiS2PSelCi/zxhcWS7xHAwsjWjvrb/kiBOtHdIg9dQ8510Qy4ruxmv5o7oBvyOJ1vk6I2gTJHpAWCPZLfGfzhUfqZEBVln//Yr4YDK0+u8ZX/PjkspLrENRtaxuoxQGDiLEqRqwavo++ZSlremWIW4FvkByJMztnkGmY6V7A7rgiGt0jkXN6dx4PBCUefyfu4nrCGOJaB89xn8jEFU/1jhn9wBhRAW1RtZTQdgJDON4ZGaQ+krtkIIbA694mqMbuyxzZp8lYMgDXPIVsFxSMBIulk3Pei3EO64X1PuUBc+WhVBXBXAMt9BqaSBXpkSV3P+JV76g0ujuDnbv91VyuphzKBqKWaK6SSQBJGoqgQf79u3cq4P25b6kdfz/WTYgu4Q3OIoZQweul9ttR0EOGYzaIsPGJ+wzPAN9/PkdqTeoEGpisLzAKwJi52JTa4gW40O5wkWFaAilNN/sFUVcz14pfwlw==;G31kDPyLN58IkFzbcBoMNw=="
+secured: "pL/OOIlGP70sSqy7kHgbsX6DOB6HP+O0cOsCWtbzB8NPurelbvYi8WftflDlU7/S8Xv/HZUFd+5WuWj8Bn6JM+bb6CgPq56mrQXxImXIt4YRAXrGEsLts2D8TJvCv9YwHQc5YWUYVIBXFNKNtGWl3SDXawqJne2GXXMN+EtiZoviqrfZCDRL4gKn8NKeo6xnnF2F92b2b3AzUxD9DYwbWcBqxC+3DtKhQQ6ZrrXAG8g7wjFho8Vdvg5tyy2se2LZV4/K9ka7o69RPaUEURiuoIbC/+84FKiEOXWfKQ48MIRkSPGYJLT8la0CQFTilgplCYhxMpnw11DiWPaSAy7TQdIvGp0CaVJhrP4YoWueC34=;foxpMNo0BwBTjJFAvPdZQA=="
 ---
 

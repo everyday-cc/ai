@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificia
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/"
 type: article
 quality: 76
-heat: 229
+heat: 226
 published: true
 
 provider:
