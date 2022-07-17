@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IAF Centre of Excellence for Artificial Intelligence to redefine air combat"
-    excerpt: "A Big Data Analytics and Al Platform has been commissioned in the IAF's Al Centre, for handling all aspects of Analytics, Machine Learning, Neural Networks and Deep Learning algorithms. AI is going to redefine the air combat and the scope of C4I."
-    publishedDateTime: 2022-07-12T09:15:00Z
-    webUrl: "https://www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/"
-    ampWebUrl: "https://www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 72
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/GettyImages-1201077556.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Government launches Defence Centre for AI Research"
     excerpt: "The MoD and Alan Turing Institute announce the project as part of a wider plan to make the UK a world-leader in AI research"
     publishedDateTime: 2022-07-15T10:43:00Z
@@ -55,6 +39,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
+    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
+    publishedDateTime: 2022-07-12T12:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "FQia7xz4wcM+KoDltV+k1boa7eEC7+/tqts/FBle03y0ymfxQXaM41KUytozLFODbZf9gpYBlR0tuQU78KxEC3HxIg4fR7s73+N29EZp34f3FPPYh1GrUU0sQ3SszW72lEsDjl7NakXGwOdW7L2k+t45wNiL+k/M7ruOfty1u02fFuqexRD8gezXf+/FLIsQPKtwIxGrH64VcWjsg/n/4Awq9LqW4B0gSnkG1sEyYFwKIY+nwaiYlxEyj0xh7d15TnI+6LZAXQF9effu/1fdDRuq17M8HmfHWIWeexPI6OMNwhww+Fcy5cMKPecrWVZ74lqgxT7JfLKjEhZ/ho52mz2oScol8tmsihcDAKcVj3zmfalWQ8vhHmw4ubMqfNp7wHNHcm6IRpVA7X1ux9oWMtNov7Vt56uAhZUvdePTnvDjZPW1XHTJ+qD7x/ZmtiY4GxX5TGj9bV4byE4DETO64eArZrB5RQfc0jJHtY/OPGp86oiBaf/nZGNhY/5bk7EGcg2nW9tkLY4iIQpNpsscQA==;G5ixkpo9qH+74PE9dPuMIA=="
 ---

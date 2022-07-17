@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best Amazon Prime Day 2022 robot vacuum deals: Roomba, Samsung Jet Bot, more"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2022-07-12T09:17:00Z
-    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-2022-deals-robot-vacuums/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-deals-robot-vacuums/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-deals-robot-vacuums/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more"
     excerpt: "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,"
     publishedDateTime: 2022-07-12T16:28:00Z

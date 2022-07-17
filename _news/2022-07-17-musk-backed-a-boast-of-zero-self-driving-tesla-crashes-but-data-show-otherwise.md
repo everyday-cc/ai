@@ -69,6 +69,6 @@ related:
       domain: defenseone.com
     quality: 4
 
-secured: "ozAwKRv36b3IG5cZHsMaM/HWNMI+WFi6+CXFJrP/YkljuGXdtlM/hHYLSkPJV+K9PJwai/eS4hVnze8q+d2jiWlsSowIi6Rs4LGbCwglBmRrLaJw3YEENjbp/X521bxumqhtI1Q0so2ydSoIQkjNdrkHk66NYLRDz3pO+vvZEFIriv2obpZZoPrCbFMm4N3+0sD4m0IWeP887oRz5cB2hTnhMf+gIbmmnbbabgBT9i3+wEGTi5FPKTjboJRqjcBqK8HfuMNDx/E66riH+glmXLNtD8MD4x+/PJZqzy7IfW7nyWdZUHgVp1jiyALNRLpwq1x3WBcqiLLiMONIheYVdxF8IUMc+ywxVIZCrcju0L0=;4zk/A7ygD7jnK3INk/oZfA=="
+secured: "A/zrjttugQmrGOPnak837fo0/TMx+T8I8DT7vDrX5HrKtA93xqCSwh3cT0TccDZgUpHJBudTdYvvc5uKzIZrsO5Ol5T+VZv2FZ08pZhiA54A4N34+EvgQ/vQzBt5Gr/UzVILYtNjpMQyZvzXXhPQf5pxEoDBqtWWA7Q/2tfcdjWmyxjylkk45HkQQ1HZjpM+vZO1k6um1W/ohX3U/z6pvc1rqUQhMnBpsz4vbuuFoNI5g+hA6PeJvSuL/QjHY5+3NDY0+ccyV+lPPhpTgL75yY+ramD4OOkthuhL1ulyIqUyYe1MJITwuUnLaZvAxcvcEch4BQ66aB2DuCpszj4ZLuyVyxibvF2DRXQjD9sxoYQqLR1LZEnvMhyqjXXTAa4L2lBZveCv2Mz996487oqeAnxHGv/bO3qO7qHCdABtV6eMMXR+4W8ussg2WJl6voX8/7vMmy1TtemntgMeD1F+OqzN6ifNSw6fG/ppQ1xYXzYDhaPcHu792Pw34PymorFg4t9pS6uUcrKwebUP/Ajdfw==;DW+7tQZzd36P/bsD/qIzvA=="
 ---
 

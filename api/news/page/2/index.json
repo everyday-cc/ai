@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-15-scientists-built-a-self-aware-robot-that-can-perceive-itself-as-concern-over-ai-sentience-grows.md",
+      "title": "Scientists built a ‘self-aware’ robot that can PERCEIVE itself as concern over AI sentience grows",
+      "excerpt": "The robotic arm is powered by artificial intelligence and can contort ... cameras and fed the video directly into the robot's \"neural network\" - its AI mind. The robot observed itself for three ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/",
+      "originalUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/07/LM_robotAI_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/amp/",
+      "publishedDateTime": "2022-07-14T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-using-ai-to-diagnose-birth-defect-in-fetal-ultrasound-images.md",
+      "title": "Using AI to diagnose birth defect in fetal ultrasound images",
+      "excerpt": "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg",
+          "width": 1280,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp",
+      "publishedDateTime": "2022-07-14T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies.md",
       "title": "How AI Bots Became The Face Of The World’s Most Innovative Companies",
       "excerpt": "Very quietly, these AI bots are revolutionizing work — becoming the face of the world’s most innovative companies. So what are they? And what's allowed them to win over employees, when so many AI projects fail to get off the ground?",
@@ -200,7 +286,7 @@
       "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -890,6 +976,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-14-explained-why-australias-top-retailers-are-under-investigation-for-using-facial-recognition-tech.md",
+      "title": "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech",
+      "excerpt": "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
+      "originalUrl": "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
+      "publishedDateTime": "2022-07-13T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-a-case-study-on-how-to-succeed-as-a-deep-tech-start-up.md",
       "title": "A Case Study On How To Succeed As A Deep Tech Start-Up",
       "excerpt": "No problem is too complicated that software cannot solve, either now or in the future. So why not focus on solving the world's biggest problems? That's the promise of Deep Tech.",
@@ -1093,160 +1222,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge.md",
-      "title": "Red Hat’s new CEO to focus on Linux growth in the hybrid cloud, AI and the edge",
-      "excerpt": "Red Hat announced that long-time engineering leader at the company, Matt Hicks, will now be the company's president and CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/red_hat_mainlobby-e1657725975271.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
-      "publishedDateTime": "2022-07-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity.md",
-      "title": "Salesforce's AI Economist research wants to explore the equilibrium between equality and productivity",
-      "excerpt": "Economic theory is known to be constrained by a number of inefficiencies in its modeling. Salesforce researchers claim AI can help address that, leading to more robust economic policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "originalUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25ec13c6fd6b909c20e9f957229fc13c548877fe/2021/09/21/14983cc7-2431-4227-a32c-4886b5005490/salesforce.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "publishedDateTime": "2022-07-13T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages.md",
-      "title": "AI In Computer Vision Market Worth USD 43620 Mn by 2028 at CAGR of 26.5% – Report Spread across 100 Pages",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 13, 2022 (The Expresswire) -- [100 Pages] \"AI In Computer Vision Market\" Insights 2022 By Types ( Hardware Software), Applications ( Healthcare Automotive Agriculture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

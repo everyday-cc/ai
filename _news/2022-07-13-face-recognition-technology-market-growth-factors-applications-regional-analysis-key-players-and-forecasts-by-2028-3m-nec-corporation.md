@@ -26,227 +26,183 @@ images:
     isCached: true
 
 related:
-  - title: "OAIC concerns spark facial recognition investigation"
-    excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores."
-    publishedDateTime: 2022-07-12T09:20:00Z
-    webUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/"
-    ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/"
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028"
+    excerpt: "A new report titled, Global Artificial Intelligence (AI) in Drug Discovery Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has been added by MarketsandResearch.biz in its database of research reports."
+    publishedDateTime: 2022-07-13T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-2022-07-13"
     type: article
     provider:
-      name: The New Daily
-      domain: thenewdaily.com.au
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/07/1657620710-facial-recognition-AP.jpg?resize=960%2C540"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech"
-    excerpt: "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,"
-    publishedDateTime: 2022-07-14T05:16:00Z
-    webUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 60
-    images:
-      - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 667
+        height: 630
         isCached: true
-  - title: "Probe launched into retailers using facial recognition technology"
-    excerpt: "An investigation has been launched by the office of the Australian Information Commissioner into retailers using facial recognition technology. The probe will focus on what retailers do with the personal information they collect,"
-    publishedDateTime: 2022-07-13T07:13:00Z
-    webUrl: "https://www.4bc.com.au/probe-launched-into-retailers-using-facial-recognition-technology/"
+  - title: "Global Water Rescue Robot Market 2022 Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
+    excerpt: "Global Water Rescue Robot Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 is a study reported by MarketsandResearch.biz that offers detailed coverage of the Water Rescue Robot industry worldwide."
+    publishedDateTime: 2022-07-13T19:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-water-rescue-robot-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-07-13"
     type: article
     provider:
-      name: 4BC
-      domain: 4bc.com.au
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://www.4bc.com.au/wp-content/uploads/sites/10/2022/07/getty-istock-facial-recognition.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Vix Vizion facial recognition protecting Australian and NZ retailers"
-    excerpt: "The use of facial recognition technology to combat crime may seem like a dystopian solution to some, but for many retailers it’s working."
-    publishedDateTime: 2022-07-13T07:25:00Z
-    webUrl: "https://insideretail.com.au/technology/security/vix-vizion-facial-recognition-protecting-australian-and-nz-retailers-202207"
+  - title: "Quantum Computing Market Demand, Regional Overview, Business Growth & Forecast To 2028"
+    excerpt: "These may include money laundering protection, image recognition, fraud detection, and training neural networks. The global quantum computing ... the Internet of Things, Artificial Intelligence, and uptake of IaaS and SaaS platforms. The integration ..."
+    publishedDateTime: 2022-07-15T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/quantum-computing-market-demand-regional-overview-business-growth-forecast-to-2028-2022-07-15"
     type: article
     provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/07/bigstock-Dome-Cctv-Infrared-Camera-Te-433233587.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
-  - title: "Everything you need to know about retail’s facial recognition fiasco"
-    excerpt: "On Tuesday, the Australian government’s privacy watchdog opened an investigation into retail giants Bunnings and Kmart over their use of facial recognition technology in stores. The move followed a complaint by the consumer advocacy group Choice regarding the retailers’ use of the technology,"
-    publishedDateTime: 2022-07-13T23:53:00Z
-    webUrl: "https://insideretail.com.au/business/everything-you-need-to-know-about-retails-facial-recognition-fiasco-202207"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2021/04/Bunnings-Carpark.png?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
-  - title: "Bunnings and Kmart under investigation over information handling linked to facial recognition technology"
-    excerpt: "A report from consumer advocacy group CHOICE prompts the Office of the Australian Information Commissioner to investigate whether retail giants Kmart and Bunnings are breaching privacy laws with their use of facial recognition technology."
-    publishedDateTime: 2022-07-13T03:47:00Z
-    webUrl: "https://www.abc.net.au/news/2022-07-13/bunnings-kmart-investigated-over-facial-recognition-technology/101233372"
-    ampWebUrl: "https://amp.abc.net.au/article/101233372"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101233372"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
-        width: 621
-        height: 414
-        isCached: true
-  - title: "Face recognition tech sparks investigation"
-    excerpt: "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores. Kmart and Bunnings will be investigated over their use of the technology which captures images of shopper’s faces and ..."
-    publishedDateTime: 2022-07-12T09:23:00Z
-    webUrl: "https://www.crikey.com.au/2022/07/12/face-recognition-tech-sparks-investigation/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 39
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/f01de6ac-d9ea-4583-a9b6-d0b1d05c9627.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kmart, Bunnings probed over use of facial recognition technology"
-    excerpt: "The investigations follow a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys,"
-    publishedDateTime: 2022-07-12T16:17:00Z
-    webUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8"
-    ampWebUrl: "https://www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/business/retail/kmart-bunnings-probed-over-use-of-facial-recognition-technology/news-story/dff38c03ab498e0a535dee7e7b2aa6b8?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 39
-  - title: "Privacy probe of Bunnings, Kmart use of facial recognition technology"
-    excerpt: "The federal Privacy Commissioner is investigating the personal information handling practices of Bunnings and Kmart, focusing on the companies’ use of facial recognition technology used to identify people who had previously been involved in “incidents ..."
-    publishedDateTime: 2022-07-12T09:05:00Z
-    webUrl: "https://www.afr.com/politics/federal/privacy-probe-of-bunnings-kmart-use-of-facial-recognition-technology-20220712-p5b14e"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e54691db479e878d890e82dc42a81d94e1fd4ba8"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Kmart, Bunnings investigated for facial recognition use"
-    excerpt: "Kmart and Bunnings will be called before the Information Commissioner to explain exactly how their use of facial recognition to monitor customers in their stores is in line with Australian privacy laws following last month’s revelations that retailers had quietly begun using the controversial surveillance technology."
-    publishedDateTime: 2022-07-14T00:31:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/kmart--bunnings-investigated-for-facial-recognition-use.html"
+  - title: "Global Machine Learning Operation Technology Market 2022 Business Scenario, Advance Technology, and Analysis by Recent Trends to 2028"
+    excerpt: "Market companies operating in the regions are deeply studied and their developmental opportunities in the next years from 2022 to 2028 time-period. The report presents a thorough analysis of existing and emerging market developments and prospects."
+    publishedDateTime: 2022-07-13T19:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-operation-technology-market-2022-business-scenario-advance-technology-and-analysis-by-recent-trends-to-2028-2022-07-13"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/kmart%20facial%20recognition%20store.jpg"
-        width: 689
-        height: 388
-        isCached: true
-  - title: "Police scan faces of shoppers in London in facial recognition trial"
-    excerpt: "You will be taking facial photographs, videos, and selfies with a variety of camera systems to provide data for analysis of the performance of face recognition systems"
-    publishedDateTime: 2022-07-14T18:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-trial-police-scan-faces-oxford-circus-london-b1012411.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
-    images:
-      - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 799
+        height: 630
         isCached: true
-  - title: "New adversarial mask designs evade facial recognition systems"
-    excerpt: "Fabric face masks covering the nose and mouth and printed with adversarial patterns evade facial recognition systems more than 96 percent of the time."
-    publishedDateTime: 2022-07-15T20:52:00Z
-    webUrl: "https://www.biometricupdate.com/202207/new-adversarial-mask-designs-evade-facial-recognition-systems"
+  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
+    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
+    publishedDateTime: 2022-07-14T19:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/15165051/adversarial-mask-design.png"
-        width: 1187
-        height: 519
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "London police paying public to test live facial recognition during live operation"
-    excerpt: "The latest trials of real-time facial recognition by London's Met Police included both testing with paid performers and live operations."
-    publishedDateTime: 2022-07-15T15:59:00Z
-    webUrl: "https://www.biometricupdate.com/202207/london-police-paying-public-to-test-live-facial-recognition-during-live-operation"
+  - title: "Artificial Intelligence in Law Market 2022 Industry Growth, Trends and Forecast to 2028 |AIBrain, Amazon, Anki, CloudMinds, Deepmind"
+    excerpt: "A new Market Research from Infinity Business Insights, the Global Artificial Intelligence in Law Market, is expected to show tremendous growth in the coming years. Analysts also analysed the ..."
+    publishedDateTime: 2022-07-14T12:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-law-market-2022-industry-growth-trends-and-forecast-to-2028-aibrain-amazon-anki-cloudminds-deepmind"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/9f102c3c6d56cb1069f10b4ca808a9f22db416aa-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Cognitec celebrates 20 years as an influential face recognition company"
-    excerpt: "Cognitec is proudly looking back at 20 successful years developing high-ranking face recognition technologies, and working with partners around the world on major government and commercial"
-    publishedDateTime: 2022-07-12T13:59:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/cognitec-celebrates-20-years-influential-face-recognition-company-co-2232-ga-co-3322-ga.1657629157.html"
+  - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)” report has been added to ResearchAndMarkets.com’s offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
+    publishedDateTime: 2022-07-15T08:36:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 19
-  - title: "The Five Biggest Facial Recognition Trends in 2022"
-    excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
-    publishedDateTime: 2022-07-13T12:55:00Z
-    webUrl: "https://mobileidworld.com/the-five-biggest-facial-recognition-trends-2022-071301/"
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Machine Learning Recommendation Algorithm Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
+    excerpt: "The research study of the Global Machine Learning Recommendation Algorithm Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is by MarketsandResearch.biz is designed by keeping in mind all the segments and sub segments."
+    publishedDateTime: 2022-07-12T21:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-recommendation-algorithm-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-07-12"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
-  - title: "Privacy watchdog to investigate Bunnings and Kmart over use of facial recognition technology"
-    excerpt: "Information commissioner will look into the personal information handling practices of the retail giants"
-    publishedDateTime: 2022-07-12T09:14:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/jul/12/privacy-watchdog-to-investigate-bunnings-and-kmart-over-use-of-facial-recognition-technology?mid=1"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Content and Application Provider Market Growth, Size, Analysis, Outlook by 2022- Trends, Opportunities and Forecast to 2028"
+    excerpt: "In addition, the report outlines the factors driving industry growth and the description ... Alibaba, SINA, Akamai, Baidu, Yahoo, Axel Springer, Twitter, Oracle The research insights presented ..."
+    publishedDateTime: 2022-07-12T18:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/content-and-application-provider-market-growth-size-analysis-outlook-by-2022--trends-opportunities-and-forecast-to-2028-2022-07-12"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 8
-  - title: "A voice of recognition"
-    excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
-    publishedDateTime: 2022-07-15T14:02:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/a-voice-of-recognition/news-story/c0901c504bee2a467f0fbea358c8e631"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
+    publishedDateTime: 2022-07-15T13:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
+    excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
+    publishedDateTime: 2022-07-12T19:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022---product-introduction-major-manufacturers-segmentation-and-forecast-study-to-2028-2022-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
+    excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."
+    publishedDateTime: 2022-07-15T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-market-2022-share-size-recent-trends-growth-development-revenue-covid-19-impact-analysis-on-demand-and-forecast-to-2029-2022-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
+    publishedDateTime: 2022-07-12T11:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "o7vC3e44NRMszsAJkprQU2a4kR87KwpCbv7OPGX5MBeTQnH4R9wSq9b5zPIzygw6MXpgJFo6/5q5CHap0zHboqxJy2gWYysCco/R7DwyevupZ6lQYTatGaClFerKj/X7F+HEQV842H0sIBdsaadImyYe9zt3W9BuPNgExgHUQiYdbKtDPn9ALi6lnQ5NOw+h7gGee3a64SizXScIU3ydaQOSXKVbFgppNSNWGJ1mz+eZdSuxE0L1zv+FiHPSxfAXUzUHx/lACuhdAgdSiZLp7/cZOc7biUE8bDrEEy7AKafA/vVwzlPkoNpAEniPcl3cYZpw296tBeO2oIuAK4VKt7+WsA/+MslZfmtRtDn3lV8=;lmIG3NXrhToBPR5o5hP0IA=="
 ---

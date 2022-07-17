@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-03-advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
+      "title": "AdvisorNet Financial Inc Has $37,000 Holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
+      "excerpt": "AdvisorNet Financial Inc lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 44.2% in the 1st quarter, according to the company in its most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "originalUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks5.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "publishedDateTime": "2022-07-03T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
       "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
       "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
@@ -1238,49 +1281,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc.md",
-      "title": "Artificial Intelligence (AI) Robots Market is booming Globally with Top key players – NVDIA,SoftBank,Intel,Xilinx,ABB,Fanuc",
-      "excerpt": "This report studies the Artificial Intelligence (AI) Robots Market with many aspects of the industry like the market size, market status, market trends and forecast, the report also provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/9d10d8d3314df424ef41caaa66d71f8209d22a35-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

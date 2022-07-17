@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Cognitec celebrates 20 years as an influential face recognition company"
+    excerpt: "Cognitec is proudly looking back at 20 successful years developing high-ranking face recognition technologies, and working with partners around the world on major government and commercial"
+    publishedDateTime: 2022-07-12T13:59:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/cognitec-celebrates-20-years-influential-face-recognition-company-co-2232-ga-co-3322-ga.1657629157.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 19
   - title: "'At last - finally': Civil liberties advocates celebrate recognition of right-to-record"
     excerpt: "Civil liberties advocates are celebrating the Denver-based federal appeals court's decision this week to recognize the First Amendment protects the right to publicly record law enforcement officers, even while scratching their heads at some of the reasoning the court employed to reach its conclusion."
     publishedDateTime: 2022-07-14T20:45:00Z

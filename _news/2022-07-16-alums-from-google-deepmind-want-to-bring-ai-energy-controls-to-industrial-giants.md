@@ -52,15 +52,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "DeepMind AI reacts to the physically impossible like a human infant"
-    excerpt: "DeepMind has looked to developmental psychology to help AI gain a basic understanding of the physical world. Real-world physics are difficult for AIs to grasp when asked to start from scratch with only training data to guide them."
-    publishedDateTime: 2022-07-12T09:59:00Z
-    webUrl: "https://www.theregister.com/2022/07/11/deepmind_ai_baby_brain/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
 
 secured: "uKgOc/7DJwZDZZJyW4cJsaZIyD7mtf3yiCs4uzTwaI6+vWBzJxWlTMouOlkTAmYDkUk+v4ekJESuZtf+asSnJJyy1a/Kb8CHaUASLcp2GpKmT7UVj+Qirqsodue5b0f6L/RV/neXFQRilHhGXYBSb8V5Do0JiHZZtaFMHWUc65FKi8CBpCXsH5PleRhACvhTobqqmj4xLAdWjdH/hYMks8QLU6sNhNqcvWRFeveruJrsZaJldZ2SHHoHBCYlVV3mZx5kilm97I6flumgfoHMzMc1JrMT/IdP0QGTQs30aR/U3cAnB3e3sEbqwsM0ZObKuPGvgLBhXfRwqSZ9R2iTIkdrndnH76/OU4F7GS96iu6jcUYWrphc/45/VxWnaWdOTXQTGfABNR4WxAi6czgwotwLKu3b8Dnb/D0FlVsrgKmpQL9RCPrNJGVgJ+E/DR/cPZiyz1w0oOdKIlGXUFYK8x/OX7SipFtJLhnwtVnFERMc2AccvELdAU2iEIOcam3xrOPsbfXatWf9DnPGsBESTQ==;GWX+ygX+BQnreIUu+2qqHA=="
 ---

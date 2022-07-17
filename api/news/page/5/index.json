@@ -2,6 +2,256 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-11-paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go.md",
+      "title": "PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go",
+      "excerpt": "PayTalk, a new app accepted into the first Black Founders Build with Alexa Program, aims to allow users to conduct all sorts of transactions with voice commands",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
+      "originalUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GIMROH_q0po/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
+      "publishedDateTime": "2022-07-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc.md",
+      "title": "GPU as a Service Market To Value USD 65 billion by 2030, Says Global Market Insights Inc.",
+      "excerpt": "Major GPU as a service (GPUaaS ... a service market share by 2030 led by growing adoption of cloud computing and AI technologies across various industries. Various enterprises are adopting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market/article_928fba0a-4d18-565a-9ec2-87ce4d64b47c.html",
+      "originalUrl": "https://www.victoriaadvocate.com/gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market/article_928fba0a-4d18-565a-9ec2-87ce4d64b47c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/bf/0bf7fa6e-16d4-58ec-a2e6-c902076621c8/62cc09ddec28b.image.jpg?crop=1495%2C785%2C2%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-is-sentient-ai-upon-us.md",
+      "title": "Is Sentient AI Upon Us?",
+      "excerpt": "Many people would say animals are sentient because they exhibit emotions like joy, sadness, fear and love. We also know that some animals have more complex emotions than others; animals such as elephants are known to mourn their dead relatives in ways we find familiar enough to call grieving “mourning” ourselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83a13fef1dee7d35374c5/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
+      "publishedDateTime": "2022-07-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-why-regulating-ai-is-a-mistake.md",
+      "title": "Why Regulating AI Is A Mistake",
+      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
+      "title": "The 35+ Best Amazon Prime Day 2022 Deals",
+      "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2022/07/early-prime-day-2048px-3x2-v6.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
+      "publishedDateTime": "2022-07-11T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-chip-subsidies-are-popular-in-congress-they-still-might-fail.md",
       "title": "Chip subsidies are popular in Congress. They still might fail.",
       "excerpt": "The Democrats have an ambitious legislative agenda following the July recess. Chip subsidies hang in the balance, and Sen. Mitch McConnell wants Democrats to stay focused on them.",
@@ -323,10 +573,10 @@
     {
       "path": "_news/2022-07-11-find-what-moves-you.md",
       "title": "Find what moves you",
-      "excerpt": "Our experts put you in the driver's seat with automotive advice and news. Want to find the best deals, but don't want to spend hours looking for them? Keep your browser locked here for continuous ...",
+      "excerpt": "This EV has plenty of get-up-and-go, but the GV60 always seems happiest when it's playing the role of a small luxury car. Toyota's oldest nameplate returns to the States as a perplexing hybrid ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/1163/",
-      "originalUrl": "https://www.cnet.com/roadshow/1163/",
+      "webUrl": "https://www.cnet.com/roadshow/1165/",
+      "originalUrl": "https://www.cnet.com/roadshow/1165/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -345,7 +595,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T18:15:00-07:00",
+      "publishedDateTime": "2022-07-10T18:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -931,241 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-brain-stimulation-can-rewire-and-heal-damaged-neural-connections-but-it-isnt-clear-how.md",
-      "title": "Brain stimulation can rewire and heal damaged neural connections, but it isn’t clear how",
-      "excerpt": "The connections between the neurons in your brain enable you to do amazing things, from brushing your teeth to solving calculus equations. When these connections become damaged, often as a result of conditions like stroke or traumatic brain injury,",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
-      "originalUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gcn.com/media/img/cd/2022/07/08/brain_GCN_070822/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-meta-releases-ai-model-that-translates-over-200-languages.md",
-      "title": "Meta Releases AI Model That Translates Over 200 Languages",
-      "excerpt": "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/",
-      "originalUrl": "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud.md",
-      "title": "AWS now lets you access your very own M1 Mac Mini in the cloud",
-      "excerpt": "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
-      "originalUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sKXZvLaQHgtG97gXwkZZAo-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
-      "title": "Researchers Develop Self-calibrated Photonic Chip",
-      "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg",
-          "width": 500,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
-      "publishedDateTime": "2022-07-08T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-data-scientist-industry-reaches-point-of-maturity-as-specializations-grow.md",
-      "title": "Data scientist: Industry reaches 'point of maturity' as specializations grow",
-      "excerpt": "Computer science specializations are becoming more common. Codecademy recently introduced new data science learning paths to meet employers' changing expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a7387db1a7576e9b16458e25dc5c6f4a2c224a01/2022/07/07/15867fb1-8658-42ad-956b-7d2e552772b8/michelle-mcsweeney.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "publishedDateTime": "2022-07-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

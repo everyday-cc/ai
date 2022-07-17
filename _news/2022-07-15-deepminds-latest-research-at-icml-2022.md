@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DeepMind AI reacts to the physically impossible like a human infant"
-    excerpt: "DeepMind has looked to developmental psychology to help AI gain a basic understanding of the physical world. Real-world physics are difficult for AIs to grasp when asked to start from scratch with only training data to guide them."
-    publishedDateTime: 2022-07-12T09:59:00Z
-    webUrl: "https://www.theregister.com/2022/07/11/deepmind_ai_baby_brain/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
 
 secured: "gwCwc+i5Qv676zvFGO8aiLNz6QEIQlnzBp2aBncsOXp4CsQctbyrYhjp36fGNpokWZ5d4FGgZes4B+tE8H+qW5jSzMXHHimRcTFrZxCyVxKGz59il0g/PgMniL8PwOBxL7gybPnqPW9p8VB31iJgT1gne2lzRboLdMomVr7sUwqsQION8uIJgMH7LlXvnoThYS92noNFAV+rcKX/fSES2pp8ckAIBvnaqO1uZnaEbX+VouVOwSVka5SrDx8V7s/1HbtcKExIt6489VTrvB/nA0XjJ/kqGr+mUHpMcoakbHYS6nvoTFXcb750LFdEh4MgzFWcvLLQ1diIWknkBwCW24ghrMzgYgQ8KufhJh8de+c=;87N3b18rFCL1fO3kskS+tQ=="
 ---

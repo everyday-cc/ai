@@ -36,6 +36,15 @@ related:
       name: The Gazette
       domain: gazette.com
     quality: 20
+  - title: "Cognitec celebrates 20 years as an influential face recognition company"
+    excerpt: "Cognitec is proudly looking back at 20 successful years developing high-ranking face recognition technologies, and working with partners around the world on major government and commercial"
+    publishedDateTime: 2022-07-12T13:59:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/cognitec-celebrates-20-years-influential-face-recognition-company-co-2232-ga-co-3322-ga.1657629157.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 19
 
 secured: "kZaF2gMZfIULPA9w+i9lBdxmdaGZJNIqL48fDf3rvKWGgnIlO78BhdspKiIeuSLiBVDBMFYjgIoN8oqJAzSE6zoFuLwZNcYLWqQgfHc24TfZ7OQ62IIE3lMtwvflGGIJibW6ty7VeOuQVXowGXnP6bQddl1yws6Y+FiSDPajKtuPqJRjZZpzy5AnpwxOC3y07V8kbjysjfCKB/GrCsNDsPpfiZFHzCSeSSGqfcRoI8mR7++NBDL7w57AqUpVHP1Db2dzDPMiXXIkecvl8BtaqO0uSYjNoYBB/XAwSE+cssbFsLYQIr+RijRx2hEgGsUexSfEAaMydXJl1tAnpBRClj7F0jqLs7lEz6/mA9qVY720xVvBhh2isbj3WAfbn9ACdExaoIk1O7B5xDluxfnTX7wKt6OBCuPnawlJYuR3lTgD6JNjCiU7k1VFxSg1UjdE/G5z3I77aNRogGyerN6Gii8Lr2S/yAVv8AUOoda9Mma50E/e6pliM5wEr98A9mGLp85yHfzFmRI2CIM9vxahTA==;jXRcxy2zao6bbMUEL97yJw=="
 ---

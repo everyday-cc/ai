@@ -688,6 +688,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-15-government-launches-defence-centre-for-ai-research.md",
+      "title": "Government launches Defence Centre for AI Research",
+      "excerpt": "The MoD and Alan Turing Institute announce the project as part of a wider plan to make the UK a world-leader in AI research",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1657881116/itpro/Dstl-logo_upscale.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-ai-for-revops-ready-for-takeoff.md",
       "title": "AI For RevOps: Ready For Takeoff",
       "excerpt": "To make a RevOps model possible, marketing must shift to also focus on opportunities and revenue in order to be able to unify their systems with sales and align on common metrics.",
@@ -830,6 +882,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-retailers-would-be-breaking-new-laws-governing-facial-recognition.md",
+      "title": "Retailers would be breaking new laws governing facial recognition",
+      "excerpt": "Human Rights Commissioners past and present are troubled by Wesfarmers use of AI to weed out problem customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
+      "originalUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_1.5521%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2%2C$y_439/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fdec91aa3302f32ec1857e6f912d765efd1026ae",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1124,92 +1219,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-scientists-built-a-self-aware-robot-that-can-perceive-itself-as-concern-over-ai-sentience-grows.md",
-      "title": "Scientists built a ‘self-aware’ robot that can PERCEIVE itself as concern over AI sentience grows",
-      "excerpt": "The robotic arm is powered by artificial intelligence and can contort ... cameras and fed the video directly into the robot's \"neural network\" - its AI mind. The robot observed itself for three ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/",
-      "originalUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/07/LM_robotAI_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19204781/scientists-built-a-self-aware-robot/amp/",
-      "publishedDateTime": "2022-07-14T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-using-ai-to-diagnose-birth-defect-in-fetal-ultrasound-images.md",
-      "title": "Using AI to diagnose birth defect in fetal ultrasound images",
-      "excerpt": "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg",
-          "width": 1280,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp",
-      "publishedDateTime": "2022-07-14T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

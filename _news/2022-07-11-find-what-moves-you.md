@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Find what moves you"
-excerpt: "Our experts put you in the driver's seat with automotive advice and news. Want to find the best deals, but don't want to spend hours looking for them? Keep your browser locked here for continuous ..."
-publishedDateTime: 2022-07-11T01:15:00Z
-originalUrl: "https://www.cnet.com/roadshow/1163/"
-webUrl: "https://www.cnet.com/roadshow/1163/"
+excerpt: "This EV has plenty of get-up-and-go, but the GV60 always seems happiest when it's playing the role of a small luxury car. Toyota's oldest nameplate returns to the States as a perplexing hybrid ..."
+publishedDateTime: 2022-07-11T01:16:00Z
+originalUrl: "https://www.cnet.com/roadshow/1165/"
+webUrl: "https://www.cnet.com/roadshow/1165/"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "UhMK8hfKDgvn98DnBbe9UqzVclv0JLW2K+QgatM9ziFar6yblYoAUU2rda2AIBMsQ7YxplU91nCr5+7E5DaK3AQdSGhp/lDfO0cEqFWMUasJ8XHvvkHIDMU3xbAp4KP60q61eWXaLJdys0yUgai1k/zrkptWU6xikXxD0qKi5GeTa5duEvudtkcqZvuzkgVbPb415qzOep3vuvoykLYiozSOrjPvspQGLMvju+YE093KAdiCOIR9cTZHcWA5uY2FyWutmaKKqczoU2LIHMBjr8u7ZmN+lbwhMlGzsbvVuvzVj3mqa19s5n6+K33AB+24q44SeIVLvVI96rnh4LfSwgB+Qlo0bF0iQqT/7sHBXmI=;SGYZpZmxQNT1lk+mhaYSkQ=="
+secured: "/O0u3dL3Hp28B/f3wW0OU8N4hH+CV7akGXrr+ZA9mxgbdzaTCsjbcoEBZbvlaos+EbiOehLYp05Eb5/ZUMD/vfwc7Rj2kzxbSWChYDpwkfqomQbjSYC4oikq4Ny/XB4zvRN7HVZFceFsHWG+gDtR5iQ0OFfLK1f4/tISqz4RDEVTWWVCv8kCFHHxoovWItoa4P6BKKt1nC1FtEU4pYPXt9tdT5UsjqQsSac6cp3PJGiCXEybp7V0lrDAoY/xiH1ssrWhmM7Z0NChTzOrZVGgOLY3xEwKDrj27YF+dFvvb+KPDLT8ZCJSvveA7zGS6VcogsftOVChvTbzc7E51oNo/0xcrzB7+wienazRsTKAV2g=;D+K3+hZBwZN03rWn2wVCMw=="
 ---
 

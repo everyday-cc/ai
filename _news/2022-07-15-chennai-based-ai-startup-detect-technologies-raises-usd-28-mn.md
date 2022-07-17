@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chennai based AI startup Ganit raises funds in pre-series A round"
+    excerpt: "AI and data analytics startup Ganit said it had raised funds in pre-series A round led by Sangeet Kumar, co-Founder & CEO of Addverb Technologies"
+    publishedDateTime: 2022-07-14T10:05:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-ganit-raises-funds-in-pre-series-a-round/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-2-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
     excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."
     publishedDateTime: 2022-07-14T11:49:00Z

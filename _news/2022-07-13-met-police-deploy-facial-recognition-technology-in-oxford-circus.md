@@ -19,20 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "British police deploy live facial recognition, license plate recognition to make 11 arrests"
-    excerpt: "British police operating in London and the northwest of England recently used live facial recognition and automatic number plate recognition."
-    publishedDateTime: 2022-07-14T16:42:00Z
-    webUrl: "https://www.biometricupdate.com/202207/british-police-deploy-live-facial-recognition-license-plate-recognition-to-make-11-arrests"
+  - title: "Police scan faces of shoppers in London in facial recognition trial"
+    excerpt: "You will be taking facial photographs, videos, and selfies with a variety of camera systems to provide data for analysis of the performance of face recognition systems"
+    publishedDateTime: 2022-07-14T18:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-trial-police-scan-faces-oxford-circus-london-b1012411.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/17122736/live-facial-recognition-uk-police.jpg"
-        width: 800
-        height: 530
+      - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 799
         isCached: true
+  - title: "The Five Biggest Facial Recognition Trends in 2022"
+    excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
+    publishedDateTime: 2022-07-13T12:55:00Z
+    webUrl: "https://mobileidworld.com/the-five-biggest-facial-recognition-trends-2022-071301/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 19
+  - title: "A voice of recognition"
+    excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
+    publishedDateTime: 2022-07-15T14:02:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/a-voice-of-recognition/news-story/c0901c504bee2a467f0fbea358c8e631"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "ZA8le/bIYUL0fu/AECTQTELy4tVd5JqUct3yLFehdox08PvWzUNmoCJ+T9L5L781CU3OPjEm//PVnUyBJp10fkw4Zw4gOTKBNArBH6AUHueorKzPOg+FrP89Cdquhtahjka8+H/GZ0oW4OtMB8JktcDxBgP4FaHHGRpuBV2ZbUfcKXHc6zihYbPwwbbzeXuu9IoazC8QN/CpO0stS0vTVCpMK+hwmkGwbYxpQ0FN1IeJe21XAAqGk8MqvPVs3/UJpVS5lkuLKUEA0c5QemyHLf1tB+BjT+a5UBfUDG+l1jv5QD2ETheGsvid3R09JNRR2l7lkzrwKnU2u8S+8q+lZEvv127+l3nHn25XAR9ZcR/2akQH+0EaAwgYdd19SipwrjJUf6OhFdJl/tCrChMvndRaS0j6MOAsmK9rGex7hzxXvCjnV+Oujql/LK90iTHieodwd+W8DxJBkho0jcT/2S0bKIlRxzVX4OmfBOHwNYdpOAYzDCo0kom7cYCr9XPBaOYXezgCwdiOccpdngbLZA==;WpBNkoM/31eYhiNaur+Ylw=="
 ---

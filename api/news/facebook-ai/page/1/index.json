@@ -100,6 +100,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-metas-ai-machine-translation-research-to-help-break-language-barriers.md",
+      "title": "Meta’s AI machine translation research to help break language barriers",
+      "excerpt": "Meta has announced that it has built and open-sourced ‘No Language Left Behind’ NLLB-200, a single Artificial Intelligence (AI) model that is the first to translate across 200 different ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/metas-ai-machine-translation-research-to-help-break-language-barriers/",
+      "originalUrl": "https://tribuneonlineng.com/metas-ai-machine-translation-research-to-help-break-language-barriers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2020/08/Why-the-Travel-and-Tourism-Industry-Needs-Translation.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-wikipedia-has-a-surprising-ally-in-the-fight-against-misinformation-metas-ai.md",
       "title": "Wikipedia has a surprising ally in the fight against misinformation: Meta’s AI",
       "excerpt": "While its reputation for accuracy has improved, even Wikipedia doesn’t consider itself a reliable source. The Wikimedia Foundation, the non-profit organization that oversees Wikipedia, regularly explores new solutions for these shortcomings.",
@@ -1362,58 +1406,6 @@
         "Facebook AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-google-brain-alum-to-helm-new-nonprofit-ai-research-lab.md",
-      "title": "Google Brain alum to helm new nonprofit AI research lab",
-      "excerpt": "a startup creating large language models to rival those from OpenAI and AI2Labs. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "originalUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/sarasedits-3-e1655168633102.jpg?fit=450%2C600&strip=all",
-          "width": 450,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "publishedDateTime": "2022-06-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

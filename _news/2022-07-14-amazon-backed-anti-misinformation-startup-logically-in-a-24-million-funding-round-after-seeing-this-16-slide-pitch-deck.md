@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chennai based AI startup Ganit raises funds in pre-series A round"
+    excerpt: "AI and data analytics startup Ganit said it had raised funds in pre-series A round led by Sangeet Kumar, co-Founder & CEO of Addverb Technologies"
+    publishedDateTime: 2022-07-14T10:05:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-ganit-raises-funds-in-pre-series-a-round/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-2-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Chennai- based AI startup Detect Technologies raises USD 28 Mn"
     excerpt: "Chennai- based startup will utilise the fresh capital to further expand and strengthen its sales and operations across international markets"
     publishedDateTime: 2022-07-15T10:26:00Z
