@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions"
-excerpt: "\"At DeepMind, my co-founders and I saw first-hand how deep reinforcement learning was creating breakthroughs in multiple real-world applications. We started Phaidra to bring the benefits of this ..."
-publishedDateTime: 2022-07-15T15:41:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
+excerpt: "The $25M Series A will help Phaidra accelerate its mission of increasing Fortune 100 profitability while reducing emissions with artificial intelligence and deep reinforcement learning. Company announced the appointment of industry veteran Robert Locke as its new president and chief strategy officer."
+publishedDateTime: 2022-07-15T15:30:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-climate-and-environment-8c6e321c3262c84a755bb77f0cf8ba04"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-climate-and-environment-8c6e321c3262c84a755bb77f0cf8ba04"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Google AI
   - AI
 
-images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
-    isCached: true
-
-secured: "aoLFjnh9CUueE+SOtZZriLfgl0tWw4GbfccBIRRzbCBY2/NgU/ef5G8PhNPVz7Yl1jzflY34ds0QaWLS+HFcUeMmRIypl4c5GBydrwpIDgrWpTSAx1JltLaApSBrYI89ohGse7z5XBbEMtOXSRp3tLC+84OIxLn8lUxfczpiDmdr1uZP/UBmCrPoDuqKdFNoP5/uhRjGqmzMLnEV4Ycm45a+1odiVBa0IOQdT/G2z0OGSzLVwcHXDI/glvoXkiTntQPvPZiz/hI+aEbxpf6dHOUCa9vRr0EOkpOs12ewGv6auV+t7zssqUXTw9xvs9Dn2wo5R0qwXXRIo/5QHFZZP/h5zxbJ+SJ2jwNX56qypwk=;CEAK1r5mi3wLUdc2xQYsNg=="
+secured: "B4/OuJva9w2nD5fNzgi9B4RWm71mtAsyq3cwU13c3etgGtt7aRDqr89YFpxJET7TPTekKHA46ndY1+A2aaGgbKAt9yJ6r/X2kvZ+07ljThK5otSBiyPsaIXr4fAwjTseX39vau5QLbK4NK9AZYkDzg8yx8SxE3WJu0d1lqnhuv0CV9vq2G9XtoHMQjYBRulvZYEjE9wXLKzNUzVlaLrF+H28j+3bZj8cp42VxHYz+RmlCZtr3hT26IZIFZeeD1Kmwh9Q66sXdQqlkRxvdVhP1P0g4ob91fUh2wSopHFTPDwzuGoPuufvcp2bnHY7Vs2uhkKDzk0UGiKA1y2ftLhFZEPMvfW/4plbvL2bs1Kcp/w=;Tt+VKhzwMYYBgBSGYR7h6g=="
 ---
 

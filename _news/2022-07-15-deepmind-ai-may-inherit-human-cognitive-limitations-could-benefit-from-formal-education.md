@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Education
   - Google AI
+  - Natural Language Processing
 
 images:
   - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/thinking_MAIN.jpg"
@@ -25,6 +26,6 @@ images:
     height: 480
     isCached: true
 
-secured: "A8AkLUWImRq7c9xL58Z+rpejziP49BAqLc94YjM2sbMW6zy17NSkHFj14MA2rYk4TEUmhbX6VhM4O44zX5/in40jIWZnazTnuhnZP9CXU8KTQISuA920iyzEhO8Jov99j46vL3KIfnbdM5pzf0XPtivthWYvHqUaaCvXK+f4rxiiTbYvRcAsiRIQViJA7n6X1UXlqJ3h5ygEyuSKvh0erVNwYW3+QZ4rO2wMSvzxqodw1w2330A7+4o6aSbr/3+424e4gLj/bYcU0eJpfCXEQyfUIr8AbbFbOiVdry0qrZEylS7NNCxSLbHvg4HOgEebIXsvuIjU+YFQzyupNJnva8jnloPUurg5DUsz4r8XOf8=;bamiXUJZH/FV8urvSm91hQ=="
+secured: "T24oUk5H2UnHtbCpb/lScymkWNDg7tD2TjOpD2B6ugY0o9jd9DOyChClxZPeIO8H22lkQhkCDRY/oAASbvPxN6mZo6ehXNwEoT1d4LzPpg3MLWlQLVVh0aUZQ5DGDv4xVEGEOnGeF04tyIRYeFigkIDAxOTgKvn4mZf9bgK/805zWLAVMcCqZGqvmojv3S5jtC2gw+DzVW+QU3Cj1OXEpiWofG04Kc+uu7vV7g84UI5VYzZJeejtMX0f3fs5Vp6Jx1bf4MHygQmgvAmgibliYL8u4vXgZWiV2vwSFVbbx8nukiLgujZlWEFGlW0r84+ejcxfs4tEgv/RBhQ0Zlu5UAnaabbmfXCMB/EUo0FPECGhRskuF1MurCn7tyG8CW3+jBobKizk+kzLTobvf/d1muBRMUvBKOYU/mVemq170jyfAyJ/QZDJHO1QHlyq/WcJhTERuKnPtdP1D8G9qPNnRckcdXOwl5RLdy989Otf/0gqsA2/fivswi3Cc60RP4jPsuCEk7GkU1diFerpkAoL7Q==;qW+/+Hm07QLJ3jWItUDDmQ=="
 ---
 

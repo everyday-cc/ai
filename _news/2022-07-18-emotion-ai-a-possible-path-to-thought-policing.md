@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1273872391-Devrimb.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 619
     isCached: true
 
-secured: "ccSReIu0dKJtYezeh78zJv3Me5dnI/RwdVY7TuaUOWXX0T0r1E9Lwr9pk36drVp7IkQqlQVloajR25oXQDGf2Deru28xznGNT7x1QLCPEmyNRRThVCC6vT+6ESZtQKI/P5skoDUm7ALgw6OgpamdlfrXZux9i9xRDpRvw4MTLNdujUVbaRWjTghS8ojR6AEZAEEG3jZcTr/kZHHW/FztUQTyu5BKy86hPRQK5BjAGpe/Ji63dFWwlgGuFsPDF8zEl5pjtffr06kFEt3+IVq4iikWGTNgCFRF07htKXLrrA2lrJy5iZuNNoapUzu3Psao/6q6KbfAXFlBxVIMP6QOi5S50Rg5xToXYJmUDF55vxA=;XuIkiSksn9YrLI6CTMM1bQ=="
+secured: "/s4a9/hxwD0F9Cio5+U1bjdCkfARyO5rBaAEPVvdsd4MHwBSn/wQL0KWuEaIX3itNa1/CZpW2kPvjXH1hjkiGbrKq62TZQNSbwTSpxTOwLhfgGhxX8XKIgOuQdWeeuLroSSVTB+fQ/OWOeyoIyOQbqVtKrbdvsQhu+auN0yrOgX+k6297qr8mSSukU4afihYv8mdxFlp0GmtwrwA9gC7kqbhIDpg54PjfuobqWDOMRnAcV9v5jfuCtcFvt/DNynOH/Wvo5aQWXEVdAP6kNV18EVa4WJ0Ln64fhXPQ1SrDpHQ5Tpw6tuQvIlcm1NGU8T5Ro8ZNeuXYd6+UcOgbOCC1h1xNs6uJfGZZ9Wso7yigV/GQnYGmGx+G8jpHhDDemfZX202IZ2AJ3FlS7zqUg/vPIYHEWgkDcomE4TgvlXnsc4rGOLAhG314x1RSe5WSjgyAT1CCqTv5gj8rdp1wgxzRRqCNoJeNIMUIQAmcRbFUi1ljNHDtOBU8b2OLOnCNohpSKeZD6CtpkcyfQ3ZSvm7rA==;L/AqOW1w5mtKkOtfXKpUug=="
 ---
 
