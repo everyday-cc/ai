@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3685
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
     provider:
       name: theregister
       domain: theregister.com
+    quality: 17
+  - title: "Intel Open Source AI reference kits now available for free"
+    excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
+    publishedDateTime: 2022-07-13T11:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-open-source-ai-reference-kits-made-available/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 17
 
 secured: "SeSJjUJaravno+O1NbYVabWRV0VXTgU2bhEYGsgoi5J/Dg5UOYjDxeXbNEQgBrvtseJUhevKHH4NTOQOIsaPvGB5XsHH/1/cUp4rFsFt+QM6v9zNNkQHWyNuwiXxZRaFS386oVIvSqCgG9ttv0mnYgeu1WRhgE7xLCVV9jzY4dG1eIzghDF/26bKKygjkrU8uTgmuP3uec9BXh73fQu6J8ar/jBF1qVdfsa36xhQ8W5c5fe4+lb8Gi5khycFiy9igq79rEd7Q7CKtvJCyXedV9ccATiC5MfxMBTPFlckT0xavu+EWM8EpuJi8SQn7GjlTBAydDumsBXYxrB5amwgyJTUjPoAgFNRtRXzRmlL+RY=;6LQO8+acC1C+O+jC+4QKgg=="

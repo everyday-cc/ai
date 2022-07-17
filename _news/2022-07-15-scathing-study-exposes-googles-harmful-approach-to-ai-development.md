@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/scathing-study-exposes-googles-harmful
 webUrl: "https://thenextweb.com/news/scathing-study-exposes-googles-harmful-approach-ai-development"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,19 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Tapping Artificial Intelligence for Global Development"
+    excerpt: "The National Artificial Intelligence Strategy 2031 aims at positioning ... They were of the view that autonomous vehicles also called driverless vehicles, which make use of sensors that are ..."
+    publishedDateTime: 2022-07-14T00:00:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2019/05/09/tapping-artificial-intelligence-for-global-development/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2019/05/09/tapping-artificial-intelligence-for-global-development/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2019/05/09/tapping-artificial-intelligence-for-global-development/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 39
 
 secured: "pU2vaLglTxfgGuKro0fNVJcAZZ60oAS/KJ48wNuI0GW+vM5GR3dfYYLsDlcd3rJLkqcz4KrPxRTnzP5+GS4cJA8z95mH9E2CNb+ysPmUx3ZtIuOGBf3fNaSNpSDFVa0lxgiID7PYuz6IVjqhaoyduPyFPcwQGCBHx3nyyh33kqZlvM6BZx/FUPXMncg8dAAjbxrbK/X0lhbhiYzQDHX789nr9AWF9A0cp+ZlIkDQaWd95OVpxmnsmkZn+5X+CvQYZVR0/gMsxkXa15XFK6JZhZRLcPrwrb0rAfcsD1md54YuzfYqJCUb4CWWUwuKYfZDigSHGyHWzeXYdMwtO3+IeWSdlz/0JlTyHQWFhwglipjI6a0EBpSU5/FDJ3d7Ur8UyT4v6ReF1DPObF7LTX71lhvKXuORthKLlYXIp9wG5xjvmDeWdvGMxYsxA5OsEkUBBxKALGiyYdXv1zJhpOKk2erH5HbmgEeCS6e32vc0rfxwS74El10dGE96x25uFJNicZFZpehIpF7wZDZa5VCAFA==;G4uretEmOUSKXZ/BfMZJEw=="
 ---

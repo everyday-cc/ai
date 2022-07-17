@@ -51,6 +51,15 @@ related:
       name: theregister
       domain: theregister.com
     quality: 17
+  - title: "Intel Open Source AI reference kits now available for free"
+    excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
+    publishedDateTime: 2022-07-13T11:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-open-source-ai-reference-kits-made-available/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "yxRzL7PExH7hQWVF2fm/V/CbD2v/rKDA6pNWjJ6Xgvcd4/vX7qy3KKqjAcHW6oFA3pkGo1RMxjOP0TUIBkcr5l5mL1SIv+bkdLO3AkVGF+4+YXDFgFQ3FHhhtBLTuQuc6M2wsl29BDjOSroG40+7xvtbOmXpuFD2J1jarzomMa+ZvsIDSguw0yVs1jGjXNUcNMEcZBmpzVmQFjPwBTbLo2HlVE5qhBOjrTXJNZB+te9qU2fRbBSHZ8kxC5HwBCfwDTkWc3uVwKQiEkdNpSec/gecvH8i3DFApuKxYHfST5St/Y0ZbvvScsTwn0RhVSvwRyXfRqEm1mr0bdAOHQJ39oMB+Lnp0NecdavGnESYYfI=;oUBboaiIhm6A9TQtC5Jtcw=="
 ---

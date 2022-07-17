@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-10
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "XPENG Robotics Completes US$100M Series A Funding"
-    excerpt: "Xpeng Robotics, a Shenzen, China-based affiliate of XPeng Inc. and a key part of its mobility ecosystem dedicated to creating smart robots, raised over US$100 million in Series A funding"
-    publishedDateTime: 2022-07-12T07:45:00Z
-    webUrl: "https://www.finsmes.com/2022/07/xpeng-robotics-completes-us100m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 54
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/07/xpeng-robotics-2.jpeg"
-        width: 944
-        height: 531
-        isCached: true
   - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
     excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
     publishedDateTime: 2022-07-13T13:33:00Z
@@ -85,15 +71,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "XPENG Robotics Completes US$100 Million Series A Fund Raising"
-    excerpt: "robot interaction and artificial intelligence. As of the end of June 2022, XPENG Robotics has over 300 employees, 80% of whom are R&D staff integrating expertise from key sectors including robotics, artificial intelligence, automotive design and ..."
-    publishedDateTime: 2022-07-12T07:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28027758/xpeng-robotics-completes-us-100-million-series-a-fund-raising"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
   - title: "Xpeng's Pengxing Scores USD100 Million, Biggest Bionic Robot Funding in Years"
     excerpt: "Xpeng Pengxing, an affiliate of new energy vehicle maker Xpeng Motors, has raised more than USD100 million in its Series A round of financing, the largest sum in China's sector of bionic robots in the past two years."
     publishedDateTime: 2022-07-13T09:36:00Z

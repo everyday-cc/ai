@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions"
-excerpt: "The $25M Series A will help Phaidra accelerate its mission of increasing Fortune 100 profitability while reducing emissions with artificial intelligence and deep reinforcement learning. Company announced the appointment of industry veteran Robert Locke as ..."
-publishedDateTime: 2022-07-15T15:30:00Z
-originalUrl: "https://www.goskagit.com/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/article_c3400315-ad41-5fbf-9a40-0f009a37b6c9.html"
-webUrl: "https://www.goskagit.com/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/article_c3400315-ad41-5fbf-9a40-0f009a37b6c9.html"
+excerpt: "\"At DeepMind, my co-founders and I saw first-hand how deep reinforcement learning was creating breakthroughs in multiple real-world applications. We started Phaidra to bring the benefits of this ..."
+publishedDateTime: 2022-07-15T15:36:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png?resize=600%2C293"
-    width: 600
-    height: 293
-    isCached: true
-
-secured: "rwTJIL9gFCe08H4JTrqPU9cgKDBE3rrBM6ZnAxvl5s/LkDyURP3YRLj39zKqotSuxpHm32SLWnIj8lC0KEChk5smy7BcpvInHz8srFdr4kaSmVc2LKUynxbugZodIKneng8fUBz5v1BP+pTPcdHus8jDsH2e3SdQqZ4uzM7WSMQ20HqMjRmYMknnQ+gr1uPoiApJ6Iw2ogCjm3g2PQpn2EBBnhNMVb7jROnmbPys3D9GsdzcSwstmb+fDcp3H8EMeDuS2rtKgXE4reOJNJ82L7MP3zll/o6Cx+qQVFUMKq20yPnMHno2jLCnkLdjO0vWuFMatXNFQfTv2AAuuV0k9ybZ4bJII6yAwVc2mKpbkAanQFqXpgZazBTfplXDiJ7o30ZmxbRh86n2HolsCEiJNzL4oy+N3lIST4TPwRTFRnPb5WFhn9+7y669qFjkSXcvWhKONP7OSsnXvxD1C4Oic0j1ojGpJbJbyOIstU6EeNVHaxokdVs5g3Bg3Tte8Vtwul4hOTioIfPkpW+xs++4lw==;BjLHxzmcb4vxWv1vR7z9BA=="
+secured: "k1XRoZ4Moe6bTCQlUnGTCmAx9tlKXsuUG0Hek0nwjR4ZpGVnGCx8aillzGdTEw2U9DJ5wgPwmnc/UOiDr0B1FAbVTMTTbNYO+mLgyBxG5hoduaV4hAHqc6x+w57BnplCuqKu7MxhK595zPZIEiP0u2GWz/zxh7+NBpZY5Mrtrfe/85ulTIMzkGNGtNwBx/u2d/sNaYrlT8rZibEPTQGcq/Bl647RwfEQMgEXr1LVDk+viq1Foey7q4P30aAISzGAjaj90PJ++bBRbaX1w0JSU0utaFznXnuuu9NFLSJs2XVMnTg0fRi+UekqVq7/KtLzzHcXx3D9pkB9bx7a9SfHQ5FKxaeWfLewwHfzs3H+QkE=;rD0K/iwzGJ+4y5gHwzLZ8Q=="
 ---
 

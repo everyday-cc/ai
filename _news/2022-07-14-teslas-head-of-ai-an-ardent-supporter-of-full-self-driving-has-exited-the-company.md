@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
-excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
-publishedDateTime: 2022-07-14T15:24:00Z
-originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
-webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
+excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
+publishedDateTime: 2022-07-14T16:05:00Z
+originalUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+webUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
 type: article
-quality: 111
-heat: 221
-published: true
+quality: 61
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg"
+    width: 860
+    height: 484
     isCached: true
 
 related:
@@ -74,22 +68,6 @@ related:
     quality: 84
     images:
       - url: "https://www.reuters.com/resizer/86pVQ7gNgEPZBUo8OOhocg2TE9U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R632R3TYZ5MULKKUAVL54V2JUE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update"
-    excerpt: "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-07-14T14:44:00Z
-    webUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/"
-    ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
@@ -141,6 +119,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Loses Key AI Executive: How Elon Musk Reacted"
+    excerpt: "Tesla Inc’s (NASDAQ: TSLA) senior director of artificial intelligence, Andrej Karpathy, has quit. CEO Elon Musk said it was an “honor” working with the deep learning and computer vision expert."
+    publishedDateTime: 2022-07-14T02:21:00Z
+    webUrl: "https://www.benzinga.com/news/22/07/28059512/been-an-honor-elon-musk-full-of-praise-as-tesla-ai-director-steps-down"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/07/13/shutterstock_357431555.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla’s AI head departs after lengthy sabbatical"
     excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
     publishedDateTime: 2022-07-14T01:32:00Z
@@ -155,20 +147,6 @@ related:
         width: 750
         height: 521
         isCached: true
-  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
-    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
-    publishedDateTime: 2022-07-14T12:00:00Z
-    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
     excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
     publishedDateTime: 2022-07-14T12:19:00Z
@@ -178,16 +156,7 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
-  - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
-    excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
-    publishedDateTime: 2022-07-13T18:28:00Z
-    webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
 
-secured: "+iRhh5XA9jxRifPWLr6xcCHwrPRbTLDdkKTdPOMQ+rX5zDZutYIivhmMeIKIXi0lNnCwm07qcUsjKvB7+XiaHeHUcY3g2E80Ow+S2hUr+UEPVzXUnediiMuz4ej3u8+1QFM7t8UlU0AqyCzh/fG6D2OHVrY6PyQz8gaL/oM/IHXVqFzsZ1vbL4hxEj1Dg9SGLb1kzq1PPcZE5oybHdEFADdp3Wz4kSNUvRUs7Av9j1D7zrU/RFFXKHNTNAMnE003p6oJJsbi9bOnFs3VIi6GEFamAhc0Tzu3JIWlmRBZDoDAfIeP6hYjfDBdXpytvwZuQLhOXhp9FoEKmpO3uwgGHXBE3qEdhKyFnNowNodJyXOc6XZCP6iIME+CArB1ovAKpUUDvQc+mRbkHlltwsfmD/fm3hHTpmvQy7O+Oa2TgBiI1JRDXBiXaa8fPBbm8C7l+mJBV+LwIkGJec6+FeL/eMtc+xFnXdwFyHLc0bkfNPWjcVaI6gy+EfRegbooMs4nSSCxpyYL/jwUmQWUBtkKBg==;4BiVQWS7ESbhOukv3tdS/g=="
+secured: "xmhYcclR1YvNNCGK+rn3Fpu29s735Jf8qCxC2hqLH5dk5EEAZGXQjbAT0eQarJkAV4S6ozqOXxsTH5QN+u4DiQeKVX9FnKU1cfUbUA5xxJD3pemzcspB1DMPDEBgKFcojC/z+4iBU0WQLEbp2qT6YmBNaHdp0ATS8ln8YlTnTgHD7IXgSRK/9Bz6meLVWcm3guQXykdgedt8NGs20WHbqWJ/ZCtmfPTnfXKfDVrYFBdWtOdtMPe291xo8IS4vXdpG0HN69hWIuaYbfTgzp7vdtTiREruRpeEI7JPnsauml7fEa/MEVkoXuYCahD402U14g3+fGmSBURHmMtm1PN+MQss0EpJZ0D5UMNsRGUCw8Q=;3lRJfx3NGsqqJbu1wDiXTA=="
 ---
 

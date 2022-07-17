@@ -18,36 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "A year in the making, BigScience’s AI language model is finally available"
-    excerpt: "BigScience, a collaborative research effort spearheaded by Hugging Face, has released a large language model that can be applied to a range of domains."
-    publishedDateTime: 2022-07-12T09:00:00Z
-    webUrl: "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/"
-    ampWebUrl: "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/"
+  - title: "Intel rolls out Open Source AI Reference Kits for enterprises"
+    excerpt: "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,"
+    publishedDateTime: 2022-07-13T09:01:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "New open-source model that dwarfs GPT-3 aims to free AI from Big Tech labs"
-    excerpt: "The initiative is bootstrapped and led by AI startup Hugging Face. “Large ML models have changed the world of AI research over the last to years but the huge compute cost necessary to train ..."
-    publishedDateTime: 2022-07-12T19:48:00Z
-    webUrl: "https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm"
+  - title: "Intel Releases Open Source AI Reference Kits"
+    excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
+    publishedDateTime: 2022-07-12T16:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-intel-releases-open-source-ai-reference-kits"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design-1-2.jpg&signature=2b3ea2c0f7c6537b588fda34f8b22cbc"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
+  - title: "Intel Releases Open Source AI Reference Kits"
+    excerpt: "AI workloads continue to grow and diversify with use cases in ... 1 Predictive Utility Analytics Reference Kit, measured on June 29, 2022. HW Configuration: Microsoft Azure Standard D4_v5, OS: Ubuntu 20.04.4 LTS (Focal Fossa), 8 X Intel Xeon Platinum ..."
+    publishedDateTime: 2022-07-13T16:20:00Z
+    webUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-ai-reference-kits/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "Intel, Accenture put bow on open-source AI kits to push adoption"
+    excerpt: "Intel and IT consultancy Accenture are hoping to help businesses adopt AI applications quicker with bundles of open-source software designed to speed performance and lower development costs. The open source AI reference kits,"
+    publishedDateTime: 2022-07-12T17:57:00Z
+    webUrl: "https://www.theregister.com/2022/07/12/intel_accenture_seek_to_help/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 17
 
 secured: "0tUUpLMInam64KWsDy3XUbcCBGkCENaH6va4XWvKT6i3fqWnCd4D455KCDIKBTnyhBBOVukk3IJydqLqKV1AbyhIm/K/S5pFYpELgNpRzyf2QqcZZXYhIqBgweRfBw2x8cLg3UxuQZpJKjZyPLSssh+geRSZoh42fE5U5j2SFhH46KS0VMh8kKxTHpm38KU1BL7NEvZYE410dFQo81APMLhTdf7BLw5h5aFQEC40IutrZJnh0fHjgj3cTfSAafo5a5rvsk8jFOFPqQiNMuurxWn5gCtu470TlB1tVCfZFE1p86UZC3MPeYjixIYAuT9K8isXZFUiIRlHLx5Yz+4clcjLCTCdd7s86rLs/fWxnJKybwef/hxP5eYQa4gsq/nBbWx3W8c2wMj9zA0lYnmQW5VFZcq+vRSx+Zw8tU1yVK0g6AzFB/xxVeBU0dC9xMIUdPNFaNYVFL3XtA90Ccm30zY50MZuOw+mQT+ZpOLk9xD+1GIKNBn4viBWr8qzK9k5xHqG0SoyaZoMTZYtkGMItA==;wmqyEcJvLpIO8QxzmnmWAA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-l
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 196
+published: true
 
 provider:
   name: TechCrunch
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
-    excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
-    publishedDateTime: 2022-07-14T15:24:00Z
-    webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 111
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Tesla loses its head of AI and vision Andrej Karpathy – a big loss for the Autopilot team"
     excerpt: "Andrej Karpathy, senior director in charge of AI and computer vision at Tesla, announced that he is leaving the automaker. It is a big loss for Tesla’s Autopilot team and self-driving effort. Karpathy joined Tesla more than five years ago as a neural net and computer vision expert."
     publishedDateTime: 2022-07-13T22:20:00Z
@@ -78,22 +62,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update"
-    excerpt: "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-07-14T14:44:00Z
-    webUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/"
-    ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving"
     excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
     publishedDateTime: 2022-07-14T15:55:00Z
@@ -109,6 +77,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2019/03/TechWire_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
+    excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
+    publishedDateTime: 2022-07-14T16:05:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 61
+    images:
+      - url: "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg"
+        width: 860
+        height: 484
         isCached: true
   - title: "Head of Tesla's Self-Driving Abruptly Leaves Company as Efforts Sputter"
     excerpt: "Andrej Karpathy, the head of Tesla's AI department, has left the company, in a high profile departure from a department that oversees the company's controversial Autopilot driving assistance feature."
@@ -142,6 +124,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Loses Key AI Executive: How Elon Musk Reacted"
+    excerpt: "Tesla Inc’s (NASDAQ: TSLA) senior director of artificial intelligence, Andrej Karpathy, has quit. CEO Elon Musk said it was an “honor” working with the deep learning and computer vision expert."
+    publishedDateTime: 2022-07-14T02:21:00Z
+    webUrl: "https://www.benzinga.com/news/22/07/28059512/been-an-honor-elon-musk-full-of-praise-as-tesla-ai-director-steps-down"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/07/13/shutterstock_357431555.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla’s AI head departs after lengthy sabbatical"
     excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
     publishedDateTime: 2022-07-14T01:32:00Z
@@ -156,20 +152,6 @@ related:
         width: 750
         height: 521
         isCached: true
-  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
-    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
-    publishedDateTime: 2022-07-14T12:00:00Z
-    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
     excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
     publishedDateTime: 2022-07-14T12:19:00Z
@@ -179,15 +161,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
-  - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
-    excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
-    publishedDateTime: 2022-07-13T18:28:00Z
-    webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
 
 secured: "JYb6JStlTZQl+kAI5rDyIpd1GXqR/7XSNc7bvNlmiGbmuf9owL/ILmW5sING71L0Eklh8CaCaoBEoATswZ6KHFtvh6vs87V8opDeNfILCcH/HSPqZywvRmS5BMN2EAIYnzo4JOmOxgyoDgZAh1wmkhALchQcTDoMDTTr/vDH66G485+mecNCw8AicsvUEz0zTMGfLF8TCl0D+7K/X4e/E6S43Mxm/RIaaI0uREhcjf5uFL1dsVS99afEPEIQx3NsbhERSjmPLI0fjKNPHdtHeH5u7HGM2//eTjXF+DoqWmpm1kFG7OaOuUvC/cD7AuTHGhDuhpzlX74c8dGm3L8lvCRhtJyJ69QOJrgF9jFXdXFMZxUMvr8dOhnN2H+igKawMOF7XMLPPiBkAVdHGZXILS5CPKzGYhMwPSX0d1AbuALW1MMgjhMdV8pKrqNmOGOfh1oXiPLPZGWyCRH3qCOsbeqE0O6d+//S+mNTcPapNEw2Alen22xTMIpOTLuntkD2tXi+K3eGcqsiq08tKFCizQ==;ySx5s8xMPM7NAFJU27pwdw=="
 ---

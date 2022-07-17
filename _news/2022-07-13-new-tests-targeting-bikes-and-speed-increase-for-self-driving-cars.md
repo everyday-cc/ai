@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Cars Could Soon See Much Better"
-    excerpt: "Self-driving vehicles, including the ones that the U.S. military is experimenting with, are still pretty bad at picking out small details as they move through the world, a limitation of the Light Detection and Ranging,"
-    publishedDateTime: 2022-07-14T17:32:00Z
-    webUrl: "https://www.defenseone.com/technology/2022/07/self-driving-cars-could-soon-see-much-better/374463/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 4
 
 secured: "PP39bW7qtX+ook7tlD7C6uTI96VcU9gcAoTdb/fPA7RaHgTcwfTejs4DSasAq+qLlrV8K6z02MFd+MNqsNWW6ZHn9EF+HB1XWUo1IU8Ae37p6rYYT/p/2BGeYYTTzwtgxUWFMq7ZgvVUS5YRDsxh5F0Rb3c6zNYRdyUTe4OpZNddmU/Ck5iq+qFow8YtTXnElPqkQW3FnkqpX3XeNg6vUyQE7BsPOTet1C7QI3mlJ+m5bLv5XIZXvgBNGo2CV5nmxjiTT1bTpBigBE7+JhdBYk5Ac+mLjZCYjQ9DVNWqq5svD3tZEwJz9xmWn6Yu4Jw8buQs35uF+ciXYe2f9x4jLtujETw7KyU2FUBPAcYwhh4=;lS9O3TCfd0iHPrWu+rdvDg=="
 ---

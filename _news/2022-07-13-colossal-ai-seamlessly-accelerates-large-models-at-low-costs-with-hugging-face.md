@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerat
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/amp/"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI goes multilingual with Hugging Face’s BLOOM"
-    excerpt: "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\""
-    publishedDateTime: 2022-07-12T09:00:00Z
-    webUrl: "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/"
-    ampWebUrl: "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/"
+  - title: "Baidu to Reveal Latest Updates for Autonomous Driving, AI Cloud, Large AI Model at Baidu World 2022"
+    excerpt: "Centered on the theme of \" Deepening AI innovation for social growth \", the conference will explore the possibilities of AI across various fields, revealing Baidu's latest developments in autonomous driving,"
+    publishedDateTime: 2022-07-15T11:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "75p694VHnZs4j43GPpk8WhkfWkBtGeHbWQ/iUnLLilbs+j3lOhf3ie8J8Z9Gz0jdaw0bVWnN8vTVtz6zE0OJ16DNQM2KrrmTv3d6D7GvV8Ef84+Y7pMee6Q6LBmCx7Jn62tABoGi8jdiPzUur1++vHNbIGHdbgzEa5g3DqTabC1YfrfoGKZUh+oP3kCQ2efTvjtq6hDp0Uyz2CjAVml6CawlzB7ILW+H84nnzg3hhajcoJRxPHy39Ol79JZEfFL1ltRH98wewrCkploAtUHPtZx9JIcjz7lbjNQ7ecWqG4rXZ6UICPdRtEX5zdTM6ZgXRn2rc11iFAmkq9OhapuFm+r/0RwLBJNDKl1Zcp8wtuA=;4MiCKZ8o22YbNbea1C/uXg=="
 ---

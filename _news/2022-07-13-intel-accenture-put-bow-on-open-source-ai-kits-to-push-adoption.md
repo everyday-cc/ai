@@ -50,6 +50,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Intel Open Source AI reference kits now available for free"
+    excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
+    publishedDateTime: 2022-07-13T11:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-open-source-ai-reference-kits-made-available/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "a0xjNzeR7MsIJ6qcUbtDIZ0Dnf7HCIJ1K+3cpL+cyJP3jIqMD61ppEZXai/HQPStlCAdQxM/4An4ww2PHkbKq34lxAG0iXsqp1QdFS5CnEOOCMj+A0EpKITTKpRCJBsMd3bVmhPf3oDjnWRHBsHefOnY/WkWANzwS2bINInGAxXfxvsFF30VpDOGcMWqtPJwSj1erOIZqOiQ+UedbMIY7No5BNza1rxgGcl1GJ5JgyOc/9Fx2GZhBFRifvobKfSQjDgjE5P1KW56CIF3a+x92rgEGVF83PjhWsx17S/lYQCF2Kklik/jQDbQ3KmAIeBDG5REB96eFBkdJ80G2p+ec5+FC/YDVbvqmcJZIIDA/ayb+C08YuT9n5tYS/68N5lEcBs+LQTobuY0jgmeSvAwgVojuEjsiIyzZG0ajl8sK6IwCFkAcOiZKhsOTQxamGQReu5G5Foq20utxulCNoqjX05ZjyrI7DqSCE+nJHGg12eJnvL6qwnz3Ki16nsMIBNCdZztJK756GV3khClpSEf/w==;mipcRAE5nw0rfy6eCyRACA=="
 ---

@@ -59,34 +59,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Bunnings, Kmart facial recognition use to be investigated by OAIC"
-    excerpt: "A month after a Choice report exposed facial recognition being used across multiple Australian retailers, the Office of the Australian Information Commission (OAIC) has opened investigations into Bunnings and Kmart for use of the technology. The privacy ..."
-    publishedDateTime: 2022-07-12T08:09:00Z
-    webUrl: "https://www.cmo.com.au/article/699780/bunnings-kmart-facial-recognition-use-investigated-by-oaic/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 54
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/biometrics_facial_recognition_2_1.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "OAIC opens probe into Bunnings, Kmart over facial recognition"
-    excerpt: "Bunnings and Kmart Australia’s use of facial recognition to analyse CCTV footage will be probed by Australia’s privacy watchdog after a CHOICE investigation of the country’s 25 largest retailers. The Office of the Australian Information Commissioner ..."
-    publishedDateTime: 2022-07-12T07:09:00Z
-    webUrl: "https://www.itnews.com.au/news/oaic-opens-probe-into-bunnings-kmart-over-facial-recognition-582541"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "Probe launched into retailers using facial recognition technology"
     excerpt: "An investigation has been launched by the office of the Australian Information Commissioner into retailers using facial recognition technology. The probe will focus on what retailers do with the personal information they collect,"
     publishedDateTime: 2022-07-13T07:13:00Z
@@ -195,6 +167,20 @@ related:
       - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
         width: 1200
         height: 799
+        isCached: true
+  - title: "New adversarial mask designs evade facial recognition systems"
+    excerpt: "Fabric face masks covering the nose and mouth and printed with adversarial patterns evade facial recognition systems more than 96 percent of the time."
+    publishedDateTime: 2022-07-15T20:52:00Z
+    webUrl: "https://www.biometricupdate.com/202207/new-adversarial-mask-designs-evade-facial-recognition-systems"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/15165051/adversarial-mask-design.png"
+        width: 1187
+        height: 519
         isCached: true
   - title: "London police paying public to test live facial recognition during live operation"
     excerpt: "The latest trials of real-time facial recognition by London's Met Police included both testing with paid performers and live operations."

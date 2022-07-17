@@ -71,20 +71,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "XPENG Robotics Completes US$100M Series A Funding"
-    excerpt: "Xpeng Robotics, a Shenzen, China-based affiliate of XPeng Inc. and a key part of its mobility ecosystem dedicated to creating smart robots, raised over US$100 million in Series A funding"
-    publishedDateTime: 2022-07-12T07:45:00Z
-    webUrl: "https://www.finsmes.com/2022/07/xpeng-robotics-completes-us100m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 54
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/07/xpeng-robotics-2.jpeg"
-        width: 944
-        height: 531
-        isCached: true
   - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
     excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
     publishedDateTime: 2022-07-13T13:33:00Z
@@ -99,15 +85,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "XPENG Robotics Completes US$100 Million Series A Fund Raising"
-    excerpt: "robot interaction and artificial intelligence. As of the end of June 2022, XPENG Robotics has over 300 employees, 80% of whom are R&D staff integrating expertise from key sectors including robotics, artificial intelligence, automotive design and ..."
-    publishedDateTime: 2022-07-12T07:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28027758/xpeng-robotics-completes-us-100-million-series-a-fund-raising"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
 
 secured: "nflA3fWO4/NqEBIAhQmnETW8Drd4Uiy7J0IG/XtK1itXecS1aVLdI5KmLP1CjR1g+RW21BRtFELE0xIkO7aysqy+8qolzbdvKIWFjac3XHWILfczzp1rbiw1M05JQslVKjKndDE3r4BjAISht0ucsVXyWAl8Xfdah3wA0xeAvIJJCeknGe5sPoPzYFkHpaBQBmuNsECX+p5cdZU2d9N529izLj/mGNbpz2me9R6l5LYaehmVoP5RhfAYpi7F20DWs7hEpFHGvkFNL2f4BMDG7qGXwJGU6hF2WD0Ydwng2U6Mz5v86vgPeypA4xBZw65tcn2xf8kLmK8utvgyWBMaE7P4tJ1BPneNwYKGi3UCyvc=;tInqO9Abf7FYslCmpiwFoQ=="
 ---

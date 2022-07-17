@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/429429"
 webUrl: "https://www.entrepreneur.com/article/429429"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 49
-  - title: "FinTech Global Again Recognizes Earnix as Top AIFinTech100"
-    excerpt: "Earnix, a global provider of real-time AI-driven rating, dynamic pricing, product personalization, and fully operationalized telematics solutions for Insurance and Banking, today announced that it has been named in the 2022 AIFinTech100 list by FinTech Global."
-    publishedDateTime: 2022-07-12T07:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-tel-aviv-artificial-intelligence-d63a4de9337d4ba3872c23129c9b3518"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "ComplyAdvantage Secures Place In The Fintech Power 50 2022 Cohort"
     excerpt: "This week, the Fintech Power 50, a list of the 40 most innovative companies and 10 visionary personalities shaping the financial services industry has been revealed for 2022. The exclusive annual program acts as a hub for driving change and creativity in the financial services industry,"
     publishedDateTime: 2022-07-12T16:49:00Z

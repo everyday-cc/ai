@@ -19,50 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars: The future of Formula racing"
-    excerpt: "Teams are tested and their performance is rated based on a combination of engineering challenges plus driving skills demonstrated on the track. The goal of the project is to enable engineering students – and those in other fields – to acquire practical ..."
-    publishedDateTime: 2022-07-15T08:27:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/article-712202"
-    ampWebUrl: "https://m.jpost.com/business-and-innovation/article-712202/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/article-712202/amp"
+  - title: "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update"
+    excerpt: "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-07-14T14:44:00Z
+    webUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/"
+    ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 44
+      name: Electrek
+      domain: electrek.co
+    quality: 77
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/510199"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "New tests targeting bikes, and speed increase for self-driving cars"
-    excerpt: "Autonomous or self-driving vehicles are set for a speed increase, as well as new tests focused on how well they can detect motorcycles."
-    publishedDateTime: 2022-07-13T07:35:00Z
-    webUrl: "https://www.visordown.com/news/general/new-tests-targeting-bikes-and-speed-increase-self-driving-cars"
-    type: article
-    provider:
-      name: Visordown
-      domain: visordown.com
-    quality: 24
-    images:
-      - url: "https://cdn.visordown.com/field/image/self%20driving%20cars%2001.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Self-driving cars — the future of transport or an unnecessary indulgence?"
-    excerpt: "Late one evening last month in downtown San Francisco, California, a car came to a halt at an intersection. Nobody was behind the wheel.Before long it was joine"
-    publishedDateTime: 2022-07-16T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/1b711e3e-0429-11ed-a4ba-b61f33f3c1cb?shareToken=066d9a5953a29fa1eb7c31accb99ab54"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 23
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F80fbf35a-041a-11ed-aa15-45d37b45dc0d.jpg?crop=3402%2C1914%2C0%2C177&resize=1200"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
+  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
+    excerpt: "Critics say that the name Full Self-Driving is a misnomer, and that no car available for sale to an individual in the US can drive itself."
+    publishedDateTime: 2022-07-17T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/17/musk-backed-a-boast-of-zero-039self-driving039-tesla-crashes-but-data-show-otherwise"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 34
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/15/1660139.jpg"
+        width: 1240
+        height: 788
+        isCached: true
+  - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
+    excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
+    publishedDateTime: 2022-07-13T18:28:00Z
+    webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 18
+  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes. Data show otherwise"
+    excerpt: "Dozens of drivers have filed safety complaints with NHTSA over incidents involving Full Self-Driving — and at least eight of them involved crashes."
+    publishedDateTime: 2022-07-14T14:39:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/07/14/tesla-backer-claimed-zero-self-driving-crashes-data-disprove/10057741002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 16
 
 secured: "of/U6M6XLTGM40qx9NH4zNuLlGvDwSDqZ3WZ62l5guSK/tBXKJviola7XmLwzrhDxMQgCqZAuYn5kM6UIUc/K2SddK94bNi7cnAt5yB82MqYqePu6w3/mT1Tl2xs/Vaa3l+8/3rcPwiBpbq1hU1SkwjN1Xi2KEoP7NpEmzternPf7GkLtWRBJREfFPLPJr9SUGY77GkcwWvHmDOQdABsYysn+wFjXKQOiMRpPg04UpdeKqYipVBnYL5xsoD9lr6xc6NdiUd18J2RjdnBOJvBjEob/mVSTPJp1k6MH/RCje6GIkhyMXefMHZHDBuXoE7VBvcsrJrwLNfCYu8Q7hU1dH7umWV1JbCzxLo9rIuvhqoGoIN3n9nPi/e525swNmSHNPvNXhUSE7cw7gKfIwlU+3hhpnbyI4Vci9jws8XCc/ijzFYtAUST9U4ts7ynlmP8WHTAo1nKpaNZtT45YCYY1yNW6/XiACy/51CzYNXwkSoxT4a3Uc1atmIx/0nluNjw4nCe75lqzeHhXNzV45oKZA==;xBcfRCzZ/b0KxNwe9v/iUg=="
 ---

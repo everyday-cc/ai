@@ -48,20 +48,6 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 49
-  - title: "FinTech Global Again Recognizes Earnix as Top AIFinTech100"
-    excerpt: "Earnix, a global provider of real-time AI-driven rating, dynamic pricing, product personalization, and fully operationalized telematics solutions for Insurance and Banking, today announced that it has been named in the 2022 AIFinTech100 list by FinTech Global."
-    publishedDateTime: 2022-07-12T07:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-tel-aviv-artificial-intelligence-d63a4de9337d4ba3872c23129c9b3518"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Fintech TIFIN Acquires SharingAlpha"
     excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
     publishedDateTime: 2022-07-15T14:04:00Z
