@@ -204,49 +204,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-13-artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write.md",
-      "title": "Artificial Intelligence, AI21 Labs has Raised $64 Million to Transform the Way People Read and Write",
-      "excerpt": "AI21 Labs announced today the completion of its $64 million series B funding round, bringing the company's valuation to $664 million.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/",
-      "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Artificial-Intelligence_-AI21-Labs-has-Raised-_64-Million-to-Transform-the-Way-People-Read-and-Write.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/",
-      "publishedDateTime": "2022-07-13T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
       "title": "The Brains: How to Leverage AI in Influencer Marketing",
       "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
@@ -1352,6 +1309,49 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-chinas-baidu-joins-race-to-develop-driverless-cars.md",
+      "title": "China’s Baidu joins race to develop driverless cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/",
+      "originalUrl": "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/06/29/2DChinaCars0630_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

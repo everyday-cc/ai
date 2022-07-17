@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recogni
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
 type: article
 quality: 60
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -84,22 +84,6 @@ related:
       - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2021/04/Bunnings-Carpark.png?fit=720%2C400&#038;ssl=1"
         width: 720
         height: 400
-        isCached: true
-  - title: "Bunnings and Kmart under investigation over information handling linked to facial recognition technology"
-    excerpt: "A report from consumer advocacy group CHOICE prompts the Office of the Australian Information Commissioner to investigate whether retail giants Kmart and Bunnings are breaching privacy laws with their use of facial recognition technology."
-    publishedDateTime: 2022-07-13T03:47:00Z
-    webUrl: "https://www.abc.net.au/news/2022-07-13/bunnings-kmart-investigated-over-facial-recognition-technology/101233372"
-    ampWebUrl: "https://amp.abc.net.au/article/101233372"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101233372"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
-        width: 621
-        height: 414
         isCached: true
   - title: "Kmart, Bunnings investigated for facial recognition use"
     excerpt: "Kmart and Bunnings will be called before the Information Commissioner to explain exactly how their use of facial recognition to monitor customers in their stores is in line with Australian privacy laws following last month’s revelations that retailers had quietly begun using the controversial surveillance technology."

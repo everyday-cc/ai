@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T11:35:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
 webUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
 type: article
+quality: 35
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -19,6 +22,24 @@ topics:
   - AI in Autos
   - AI
 
-secured: "eNbTFDremrvYCvKXF62Okc/kV4M7I/7ml5o1z3D1BHaXq7PUFjpsbzUG+WqV1KUkZxTZrrleRTCGlNJjL/zHPFDFmNG9daj8u1hI8W0bRRvFaP6J0rKDpdNhzqgbLTIz5IzKUjP9V7ybb6WpzZGvY3RweVzzHals8b5J40hsr42rGgUGl/mscWuOkbnO172YqeGnpnCLT8R/SemSOmI1N6QizjyXxQhqp3JWiaipIoXUEyXd+1ZESg1CWshM9Wd4ZL9DUteXDHEpWO6jGRtgwPNv63yvI8uqdbyOhtfNDAqAe14s0ZSyJcHOo5pD93xrSmpEC3eE74c5jMeyBd0vEaM1pg7TdIJBCh/Jp6MARCI=;rLKSLNUvE2SWP4TnVwuhTw=="
+related:
+  - title: "Colossal-AI Seamlessly Accelerates Large Models at Low Costs with Hugging Face"
+    excerpt: "Forbes News, the world's leading voice, recently declared large AI models as one of six AI trends to watch for in 2022. As large-scale AI models continue their superior performances across different domains,"
+    publishedDateTime: 2022-07-13T16:29:00Z
+    webUrl: "https://syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/"
+    ampWebUrl: "https://syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
+
+secured: "PU4ukeHTb6pppZiJ6NWPjXMIzBO85r+Hjx9e0yIejMUjcJF+Ncca4Nym4p1G2FBzkIojHSdAjJD/OFg8EkkDJzDwWXEi+wboqlhybrHXa77CrQtYm7wshagcOb5BjSSKOu7Fa5IgJ3wtM85/tAOTK1dgCJZglJf0O7czHVDlcJK1eMEi0h/yeFv/YcpOS5KsWswOeWyW5p5tenSxZOufSP7c0JnwDdrCud2eTckOq60FaiSv/VKU0A6d8pOJI+N21UuKACd0xiM/cV5MzUzR05ZCNPNpqDrKlYOgqFdhPhY+11FDVJdWJC8Je1/t5oLyR6fVNE5OUj+gloMy3VLGqkCyp5HLHp73N6G9Q1nh6fY=;UMVGkUSKVILZzzhoVKxSWQ=="
 ---
 

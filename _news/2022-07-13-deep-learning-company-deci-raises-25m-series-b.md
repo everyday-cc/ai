@@ -44,6 +44,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Israeli Firm Deci Raises $25M For AI Efficiency"
+    excerpt: "The company hopes to use the newly acquired funding to expand its go-to-market activities and accelerate its R&D efforts."
+    publishedDateTime: 2022-07-17T20:41:00Z
+    webUrl: "https://nocamels.com/2022/07/deci-series-b-a/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/07/deci.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Deep learning automation startup Deci raises $25M in Series B round"
     excerpt: "Artificial intelligence startup Deci.AI Ltd. said today it has closed on a $25 million round of funding, just seven months after announcing its last round. Leading today’s Series B round was Insight Partners,"
     publishedDateTime: 2022-07-13T11:00:00Z

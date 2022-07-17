@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-ha
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: enterprisetalk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "News: AI tech startup AI21 Labs secures $64 million in Series B funding round"
-    excerpt: "Artificial Intelligence startup AI21 Labs, which specialised in AI that can fundamentally change the way we can read and write, has announced today the completion of its $64 million series B funding round."
-    publishedDateTime: 2022-07-13T04:56:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/ai-tech-startup-ai21-labs-secures-64-million-in-series-b-funding-round-34549"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 34
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1654594033/ad-drezxt5v.png"
-        width: 990
-        height: 550
-        isCached: true
   - title: "Provus Inc. Announces $12 Million Series A To Enhance AI-Powered Services Quoting Solution And Expand Team"
     excerpt: "Provus Inc., provider of an automated services quoting solution, today announced it has raised $12 million in Series A funding. Norwest Venture Partners led the round with returning participation from angel investors Accel Partners and Storm Ventures,"
     publishedDateTime: 2022-07-13T13:06:00Z

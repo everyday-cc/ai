@@ -101,18 +101,18 @@ related:
         height: 337
         isCached: true
   - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)” report has been added to ResearchAndMarkets.com’s offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
+    excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
     publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Daily News
+      domain: galvnews.com
     quality: 38
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"

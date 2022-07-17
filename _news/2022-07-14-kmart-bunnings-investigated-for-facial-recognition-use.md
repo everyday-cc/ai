@@ -99,22 +99,6 @@ related:
         width: 720
         height: 400
         isCached: true
-  - title: "Bunnings and Kmart under investigation over information handling linked to facial recognition technology"
-    excerpt: "A report from consumer advocacy group CHOICE prompts the Office of the Australian Information Commissioner to investigate whether retail giants Kmart and Bunnings are breaching privacy laws with their use of facial recognition technology."
-    publishedDateTime: 2022-07-13T03:47:00Z
-    webUrl: "https://www.abc.net.au/news/2022-07-13/bunnings-kmart-investigated-over-facial-recognition-technology/101233372"
-    ampWebUrl: "https://amp.abc.net.au/article/101233372"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101233372"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
-        width: 621
-        height: 414
-        isCached: true
 
 secured: "ZGLH/rGADwCuU6sOasvTKr/Nmy62LBIIBylqlo7UvnTFPURRCMaDfjX7trZzWwoXzQ9DO7FzuP+LCl9uQFXwMuYF5q3+lsye8Fo5QIjr6eGyw4RPo4pco37AWMSlikWb0gCIJTK3yA9iFN6kG5tM9WEGTRnTuW4u1f2Bs2Z/2lhRUyDxXc0b8qJKN99s0WXdu4QZtVo/GQL6f2UM2uMO0rnjfPGZcZEk2Rk8S4L4tt7URyJn43vVLtOUPiUW0rtIwGppSG4AhbS6z33uiJm0GwTp5Ly/rpZN+rlVRnyEr8h15Qnn/ffcDKAhMIah5Zg/r0Zm9y7e5yI/Y9UZXpAyGXymRv1ivyfPYQXMQ+6v/M25qSD8y8hWg39WTY6aGAkzYJuzNaZqebDAr11a3MDdxYkpq8Dze2DmzSnlQnhvhp09XSsjmY1RgqqgN2QY91XU3w1ArRloJqVjG8xmLDLB+4bV6MQoDDY1bpMuY08YkCAHqZMWrH+PL2cx88lGqiwv7jZ2vw2615F6cu5pVZiDZw==;Ht62UCiS+Z8ReYmqOKG30A=="
 ---

@@ -585,6 +585,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-30-meta-warns-employees-of-serious-times-in-internal-memo-listing-key-product-bets.md",
+      "title": "Meta warns employees of ‘serious times’ in internal memo listing key product bets",
+      "excerpt": "Cox says teams will have to “prioritize more ruthlessly” Cox also lays out six areas where he believes Facebook ... Research SuperCluster). The FAIR team will continue to drive AI research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
+      "originalUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-the-fight-over-which-uses-of-ai-europe-should-outlaw.md",
       "title": "The Fight Over Which Uses of AI Europe Should Outlaw",
       "excerpt": "The European Union’s AI Act will set ground rules for what the technology can and can’t do to people—like whether it’s OK to deploy AI lie detectors at borders.",
@@ -634,6 +677,83 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-the-metaverse-in-2040.md",
+      "title": "The Metaverse in 2040",
+      "excerpt": "See our research on: Gun Policy | Economy | Abortion | Russia ... They believe the infusion of more data into people’s experiences, progress in artificial intelligence (AI) assistive systems and the creation of entirely new spaces and experiences ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/06/PI_22.06.28_metaverse_featured.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan.md",
+      "title": "Instagram is testing AI that verifies your age with selfie scan",
+      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower ... school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good use of AI. “It’s a worthwhile ...",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
+      "originalUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1265,136 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
-      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Japan Times",
-        "domain": "japantimes.co.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-google-brain-alum-to-helm-new-nonprofit-ai-research-lab.md",
-      "title": "Google Brain alum to helm new nonprofit AI research lab",
-      "excerpt": "a startup creating large language models to rival those from OpenAI and AI2Labs. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "originalUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/sarasedits-3-e1655168633102.jpg?fit=450%2C600&strip=all",
-          "width": 450,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "publishedDateTime": "2022-06-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-no-googles-ai-is-not-sentient.md",
-      "title": "No, Google’s AI is not sentient",
-      "excerpt": "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/",
-      "originalUrl": "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://krdo.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRDO",
-        "domain": "krdo.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

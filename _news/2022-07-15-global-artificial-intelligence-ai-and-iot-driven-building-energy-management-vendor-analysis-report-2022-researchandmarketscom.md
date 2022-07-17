@@ -109,18 +109,18 @@ related:
         height: 337
         isCached: true
   - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)” report has been added to ResearchAndMarkets.com’s offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
+    excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
     publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Daily News
+      domain: galvnews.com
     quality: 38
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
     excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."

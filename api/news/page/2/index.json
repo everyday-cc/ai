@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-15-university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning.md",
+      "title": "University of Washington: First wireless earbuds that clear up calls using deep learning",
+      "excerpt": "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations.This experience inspired three University of Washington researchers,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/Signature_Stacked_Purple_Hex-1.png",
+          "width": 746,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning/",
+      "publishedDateTime": "2022-07-14T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii.md",
+      "title": "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii",
+      "excerpt": "Applications are now open for high school students interested in learning about artificial intelligence. Bootcamps will be held across the country, including in Honolulu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
+      "originalUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2022/03/GettyImages-1295900106.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
+      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
+      "publishedDateTime": "2022-07-14T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHON2",
+        "domain": "khon2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful.md",
+      "title": "Artificial Intelligence: Not A Panacea For Supply Chain Issues, But Extremely Helpful",
+      "excerpt": "At this point, only one in five companies have seen technology deliver positive results in their supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d08ec883b3814e6af35bc8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/amp/",
+      "publishedDateTime": "2022-07-14T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-scathing-study-exposes-googles-harmful-approach-to-ai-development.md",
       "title": "Scathing study exposes Google’s harmful approach to AI development",
       "excerpt": "Google researchers claim they built a dataset that can teach AI models how to read human emotion in text. What a bunch of hokum.",
@@ -1077,151 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-bobidi-launches-to-reward-developers-for-testing-companies-ai-models.md",
-      "title": "Bobidi launches to reward developers for testing companies’ AI models",
-      "excerpt": "Bobidi, a new platform that rewards developers for testing companies' AI models, has raised $5.5 million in seed funding from investors",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/",
-      "originalUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?w=1024",
-          "width": 1024,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/",
-      "publishedDateTime": "2022-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-the-new-saudi-arabia-vision-2030-and-ai.md",
-      "title": "The New Saudi Arabia - Vision 2030 and AI",
-      "excerpt": "While the media focuses on the negative news to grab your attention, the world is rapidly improving. One of the pockets of this positive change is Saudi Arabia which recently committed spending about 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cd42f5538f696829f09d7e/0x0.jpg?format=jpg&crop=1710,1140,x0,y170,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/07/14/the-new-saudi-arabiavision-2030-and-ai/amp/",
-      "publishedDateTime": "2022-07-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-explained-why-australias-top-retailers-are-under-investigation-for-using-facial-recognition-tech.md",
-      "title": "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech",
-      "excerpt": "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
-      "originalUrl": "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/",
-      "publishedDateTime": "2022-07-13T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -37,6 +37,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "Use that everyday AI in your pocket"
+    excerpt: "Artificial intelligence powers more apps on your mobile devices than you may realize. Here’s how to take advantage of the technology — or turn it off."
+    publishedDateTime: 2022-07-16T13:10:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/use-that-everyday-ai-in-your-pocket/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
   - title: "The Air Force plans to test an AI copilot on its cargo planes"
     excerpt: "The Air Force and Merlin Labs will work together to bring an AI copilot to C-130J cargo planes. Here's how the system works."
     publishedDateTime: 2022-07-14T23:00:00Z

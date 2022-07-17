@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-though
 ampWebUrl: "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
