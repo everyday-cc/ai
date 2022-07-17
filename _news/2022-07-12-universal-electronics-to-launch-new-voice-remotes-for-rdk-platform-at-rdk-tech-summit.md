@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit"
-excerpt: "Universal Electronics Inc. (UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK."
+excerpt: "(UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK. RDK is one of the leading broadband and pay-tv platforms for the cable industry,"
 publishedDateTime: 2022-07-12T07:17:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-england-universal-electronics-inc-4960118aab9f4286b55d3de16f56a7d8"
-webUrl: "https://apnews.com/press-release/business-wire/technology-england-universal-electronics-inc-4960118aab9f4286b55d3de16f56a7d8"
+originalUrl: "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "9Lxh870pXp60PP9ZKISpidNZjFOEK5wDAYiteSMkMUrPHst/o/s7N2D+q6HjqKABE6vdeYmHKu32lGEHXVH0l4OvHJ0MBuHnzTKbY8LANtQ5sIcpjjoP8W/KCmB0sTJwVqWLSbLGiq+qsZVqJ3TKUgqB3PEtV/no/iFID4zWhwD2mij6HxwA54lsV+MaCZE7p+EoEz1otQilJt3JpZJU18Jm8SnybSvpTDXOOZUWfgoqEdpXVEO7v7poZRKxtKSWJsHgro2z89oEcYYY5H/m3fMS2fIhpL/ASUFg+eZfYUo4LI6FShT6kQAqeb5JncLByJL78H0CUNbaurbC7e365EPZYhHD7zjN3ciRpDiHYKU=;TmrUixXgwsmhMH9wkcD7Zw=="
+secured: "y9RlMIsf0dko+U/EXurcdTur7ZtBKJ7Toc0QrUFtEuXO9gFQ+xIIUr2bmB9w0fQTDC9dZHXx+W1VVM0HIBejUBTHORNVCXOrlT2JdBb0zHUlVswD890jTnB6yaqBXAibN7NXnSfG6prReWr4pw/YMpslCv5Ru/4GYw5nz27KT3wXj0vKZo0uGRgU32kzpjDkrI0BAg0IDVXihKUyP+Pcq9Rd7vUf9jHzY92Tvd8+iDyUl2uZAI6BQ5bXlHv4QA7+3fJAgdlhLIEbf/fVaKQOdnWLLyDm5O/Va/NFdITS8eLCBfciO05+Bf7DFHUQIGNfVo9S1ax9tWdR9ZftpZOroKr+KGS2GfWLbZWA5+Tj54xxxbaQUDiR626N2J28f3EZcbQNVfWemUYNZmC7J00srVSLXfvSooCFkNN+Ov2J1BvDTr322E82b64d42wlshAis/bf/9eIjr+fOOame2FUDOk3xmAEwRosuoxOveupPrETyhEx2NJEJRZnMG86KPzfjcQl7aCsgp9W5BQbzMltGA==;4yo4xuTYdd5fcAY/IZ4vrw=="
 ---
 

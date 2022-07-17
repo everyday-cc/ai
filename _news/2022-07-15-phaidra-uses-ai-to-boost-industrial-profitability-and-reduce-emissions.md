@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-15T15:41:00Z
 originalUrl: "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
 webUrl: "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: FOX8 Cleveland
@@ -18,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
-    isCached: true
-
-secured: "gBJw/NEdFe1HUk1PA9N7b3CoOxcyrgOrHyl3n25p/B1z4wc0oRRS/osEDO7iSkXF7Xg+ELB5gvNaYTKHmqMYromxO2jXstVB0Wqwwuk3fcPzyXMKmdDLgj4gdoZiFp3W4nKykkHD7KpGRASd6lHMAg+7xvM+xl4TlQhVy1dIB61qUVVITTZZMYXKZ0YB6lE7Vhv0aIGoAzqOV5vf6lkpkMCnf4EgdSvQ74REE0asYzbvAYwCImGNgkb0aPppGjShpapA/wVe4dacLoohgb1y70Li5BoXJdtSICRtzq2q/02EYFEBwUs6E8QOt4wTBEqJhJjyvwgIawKj9okhGLep3ZQHZfMsVYxqREOOx4KumS4=;OC+RE1f4+nxOuNS45ZCIPA=="
+secured: "XtD/hV2OiUQPX4vDAP7W06EnAkeyKvoLp5PwExBT98F848BGNlS4UWns3JHhFRS7fufN2vr59uxc9RJEYi7TviLA7T5qRuSXGcw5nJXtx+4gLsPfxrd4jq+3EeL5uXGKEhTfVzL6aAybIkdEK83Co8oaWxd9kmjOSC72shm+dCY/JdjeX3R3amqJDQIhPiXK/g19sXfp2bMF8Jg6inspW1Oq9AngyjN7ExfHiySzT5/LgcjI4BZFR4dd829CZ+8iqGfvIpz5UUwXWUV853PbtVvnnh+emwBakbDkwYAXJRd2tkQFUTRFBy6indwHJxpCwCVnfIdhZHWB1hPdhZ84uNqsCw07cnhDFCa7c+jl34E=;5Fkpnxl8P9MoDFnn7k1pfA=="
 ---
 
