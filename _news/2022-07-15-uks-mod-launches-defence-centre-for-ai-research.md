@@ -39,15 +39,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
-    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
-    publishedDateTime: 2022-07-12T12:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "FQia7xz4wcM+KoDltV+k1boa7eEC7+/tqts/FBle03y0ymfxQXaM41KUytozLFODbZf9gpYBlR0tuQU78KxEC3HxIg4fR7s73+N29EZp34f3FPPYh1GrUU0sQ3SszW72lEsDjl7NakXGwOdW7L2k+t45wNiL+k/M7ruOfty1u02fFuqexRD8gezXf+/FLIsQPKtwIxGrH64VcWjsg/n/4Awq9LqW4B0gSnkG1sEyYFwKIY+nwaiYlxEyj0xh7d15TnI+6LZAXQF9effu/1fdDRuq17M8HmfHWIWeexPI6OMNwhww+Fcy5cMKPecrWVZ74lqgxT7JfLKjEhZ/ho52mz2oScol8tmsihcDAKcVj3zmfalWQ8vhHmw4ubMqfNp7wHNHcm6IRpVA7X1ux9oWMtNov7Vt56uAhZUvdePTnvDjZPW1XHTJ+qD7x/ZmtiY4GxX5TGj9bV4byE4DETO64eArZrB5RQfc0jJHtY/OPGp86oiBaf/nZGNhY/5bk7EGcg2nW9tkLY4iIQpNpsscQA==;G5ixkpo9qH+74PE9dPuMIA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3685
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Rajnath Singh launches 75 newly-developed AI-enabled defence products"
-    excerpt: "Union Defence Minister Rajnath Singh launched 75 newly-developed Artificial Intelligence (AI) technologies during the first-ever 'AI in Defence' (AIDef) symposium and exhibition, organised by the Ministry of Defence in New Delhi on Monday."
-    publishedDateTime: 2022-07-12T12:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20220712/3961805.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "eJvwG9eLoS88Bj9GuvowRT1t6BjW5b/3ROUGywSmcOJtHRx1+CadzNRZj+pu7qJ1dY4Xlom5V4OJUiLy3m4dwBNP/F24PLPInXoSTKHUP3t6hoGBbmoDxsttRt8eekdUudfc/pnHe7iY4GI0FU832gKSzvP95xj3VjFaz+4HrE1ZcF78/rilHs3Wm5w3gu9vPmJkMtn/q0VViQEU1/JB1neuGqJkEvp18kQv371T/RY37BrVBKWP55izrX3H+rTdtKKfNYeOslPBQquySK5TFrWafeoFBkZcjaKpXkO12kuQGRNgUua7aXBWsdKd3Rhvlo4BH9JXa31qyLNzKLIiLtqBa1SuYGvbvQrglFNzARh0Qx0MKMOH5ruvjcU5c7fGEwwCE2MZgrvw1RNecmNNjw9v5Djh6yxJGDW62piTzi/1jpLxZmc6VowXSTdBXweHopagmbnauZoFVITl3VbabgHDqpkdv53d2iTDf9nPuNYtCerY/FAVOp8bC9M9Los9a3bwbkmYRZ3Ezy5b7ulAMA==;imRQKspK9vGAPIVdKh3Lxw=="
 ---

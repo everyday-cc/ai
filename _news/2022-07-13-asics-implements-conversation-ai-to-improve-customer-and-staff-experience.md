@@ -23,17 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Tethr and DCM Insights form partnership, helping organizations use conversation intelligence to improve sales results"
-    excerpt: "The partnership continues a long-standing relationship—focused on research into the science of customer engagement—between Tethr and Matt Dixon and Ted McKenna, now founding partners of DCM Insights."
-    publishedDateTime: 2022-07-12T12:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-ce7b395ca78a32c662b322b25bbd3874"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-
 secured: "SZ4d6Fqr5mbvO6cYfHSlYWACi6e1HlJR3focwnRY7FYP+sU0ZDXwvrs7U4s88Is7lHd0SDBgIUzGS1d5DWhUPCxUvU+c9O65wtahwUTN57OXCqzi+d2RrfdGS6gUYedDTHOBLC10YFkRJWexts0gxcCOxE+U8F7gDSy0RbYoLhVYf8SpWWVY3zN0DXzRsfJs1AQVUfBiLm0bUHq4PF1W9FY06ZSJY7B0JoeKBl/LIwqZ1WduCJltBTVZEHghIbQ5JIzwDzBRu4QuOGEsbp540FxJ0afZwpTzgGNdJrQCq/Z3LYFEeX98X11hoZQXsFs9jFHfn7jj38+UuBGJoY5cLLVpFnWyyhtrXu6rzfVTbVo=;MzHhA1t6zy5seBcTMm0MrQ=="
 ---
 

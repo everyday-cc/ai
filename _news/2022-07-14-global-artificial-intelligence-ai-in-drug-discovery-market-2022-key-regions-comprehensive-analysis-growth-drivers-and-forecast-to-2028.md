@@ -196,15 +196,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Hong Kong Data Center Market Report 2022-2027: Cloud Computing, IoT, Big Data, 5G and Artificial Intelligence Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Hong Kong Data Center Market - Investment Analysis and Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Hong Kong is a prime location for cloud service providers because it can serve both Asia Pacific and Mainland China."
-    publishedDateTime: 2022-07-12T11:26:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-hong-kong-data-center-market-report-2022-2027-cloud-computing-iot-big-data-5g-and-artificial-intelligence-driving-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "XQj0TVCCc/7K++peZKeYU2bc0IJq95bUuoUFbDL7AZ+uoC5AHIQNMaSRvlLhOkF4u6kL5kHfV1mtOMao6C/vOgvjuePGW2A3ZlxM9g4ZNFe9/+JVKz+Mo+IGvA6O9huMirmkxW0c5M3G9QbZKVl/BecIwNPv/sOByED1Ex2pg3p9n4Yb5052RoLDyMfBGPtm1c7zuVdHvpYl0V9x9LDjHlfY9R8cTM4UJTOzV2uPWPuPsTbUGAfQ2ntlgRQiAB46BlKzwB8k7f409Mbs6uoHuz+89HMAr9rT47imDMBYZcYj0FEVzJJrH62+rhwaqth9FS9doYJzkCKGZODPEtnVMpwHmu786PgWE8ehGWSZXfs=;rr1ZKBzFvhF9/vPGf4fIZw=="
 ---

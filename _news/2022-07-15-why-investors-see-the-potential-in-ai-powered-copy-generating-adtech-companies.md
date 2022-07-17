@@ -29,13 +29,13 @@ images:
 
 related:
   - title: "Kyndi Credited for Helping Companies Capitalize on the Potential of AI"
-    excerpt: "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,"
-    publishedDateTime: 2022-07-12T14:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm"
+    excerpt: "Natural Language Processing leader named an AI 50 from KMWorld SAN MATEO, Calif, July 12, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld,"
+    publishedDateTime: 2022-07-12T13:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033784/kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
   - title: "The potential for artificial intelligence in construction"
     excerpt: "Robotics, AI, and IoT can alter the business model and make the process of project completion more efficient writes Ibrahim Imam, Co-Founder, Group-Co-CEO, CEO MENA & APAC at PlanRadar"

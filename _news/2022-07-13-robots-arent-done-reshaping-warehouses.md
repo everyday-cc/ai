@@ -7,7 +7,7 @@ originalUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/
 webUrl: "https://www.sfexaminer.com/robots-arent-done-reshaping-warehouses/article_f7ffebe3-6465-571c-8db7-d396cb1a759b.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Aren’t Done Reshaping Warehouses"
-    excerpt: "The pace of automation has accelerated in the pandemic, as big players invest billions in their efforts to streamline how goods are sorted and shipped."
-    publishedDateTime: 2022-07-12T13:00:00Z
-    webUrl: "https://www.nytimes.com/2022/07/12/business/warehouse-technology-robotics.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Robots aren't done reshaping warehouses"
     excerpt: "When Digit spends an afternoon unloading boxes from a tractor-trailer in 100-plus-degree heat, co-workers never hear a complaint. Digit, a blue-and-white humanoid robot, was designed to handle the tough,"
     publishedDateTime: 2022-07-16T01:00:00Z

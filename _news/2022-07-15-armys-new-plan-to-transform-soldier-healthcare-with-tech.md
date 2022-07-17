@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Army’s New Plan to ‘Transform’ Soldier Health Care with Technology"
-    excerpt: "The Army wants to dramatically change the way it provides health care to soldiers by accelerating research in a variety of emerging technologies, from using quantum computing that can better detect and treat chronic illnesses to developing synthetic blood,"
-    publishedDateTime: 2022-07-12T12:31:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/07/armys-new-plan-transform-medical-care-technology/374112/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 4
-
 secured: "dNxEeRiU/slzxOWm9b4fWC0gTX6XfSBamYiA2t6Wqu+XGA3iA5I9Zu7nvC4bobtRhSDk49mC1pNOVJ5oZYHzmN1MKCd3z4mIwF5CUNBIwYRJ7YZKEgo3IHK1yaT2OULhrn/p5cXDMv4dz9VCiGYjgr68OBCFQeHFGa9AFg3kWUj0neJA4KKBe8xA/mhnD6FRyiNmTNsBpi4TgYeYeVBaz6pUa7KJEehCLnqESz5YxHMmzzQHQ0TEM9/6P/NgcQKtjjUjQ/UvNaF6MmFRyf/MRiDW9Xz6/Y2qBIWwR80BGl3OSqlopWPBOqDK2SyHSC7BRhOJoSEsgWKdHMRXIJHyxRHvb5UqiGGvQclVt1zi9zVlNHLJG3MKfxRNMlFi5Y9WbWEgaBR88aMN+8XACukn3n3yNwHWw4uZXm2i4rmn+Y6XAu/lik+bH7ihgU9jW7T+Ax28Wo+ERjSdUHBwRXyZfiiMbE9S36EDZJQY7DUfcpB3EISqw2uuT2CO08/qH1a6FhxxUjbAFCN6qYnb6waZEA==;KVPAbBcrGq3HLXRV/Zv7hw=="
 ---
 

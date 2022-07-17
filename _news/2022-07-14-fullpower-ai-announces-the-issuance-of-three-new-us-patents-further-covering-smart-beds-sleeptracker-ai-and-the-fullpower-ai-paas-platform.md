@@ -37,15 +37,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
-  - title: "The Air Force plans to test an AI copilot on its cargo planes"
-    excerpt: "The Air Force and Merlin Labs will work together to bring an AI copilot to C-130J cargo planes. Here's how the system works."
-    publishedDateTime: 2022-07-14T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "Q3O+nVNtPaRnaH7w1I6Ugs7Jtvn9MFeCNnfRMLADsV2C3GhBlct5nbI/Ok/R9R3yQvQw5yte+ozYgROTvMhPPSx7x37j4Q7JJl66hhMDfbBICN5sTquPLm7CeI+JQuLzSh7Ec2ebRpDPr+ehTdzYt3C86JZVhAuBUkovfqttFxQ+0yNIITrnsTY+DsnwTrx5iiCHSPzz7bH65DeWv/Hbesb2kgMbrc7hLdembDvnfw5CNSuOkCYYiXrEEFTNEpiZySq5dpKgLXw8E55QfV3cZd1PUt0pcS1JeBuxikxMZ6nLk6TnlBHlE0VqUtejJkWJd3gnKaywRpIlhcrgg4G+UrT0QzQn6+K6xjmxLfX3MFyq8sD28Gjq7z1ejY7efyzh9F0BbcS4xU7SZbaJOsJcgwozkffQM0+LvX+svlYoFyBbpfcadpOKZTwM/81oGvC5I9RzZtRsFBKwKdHyZFd/isLy6+eLZrCIXyxKhmEtHyFKRLodv185FZx9ETiGRqXymVK5ajuT/Ln7mKLEnWYRAg==;c2mW1m3bv6RAck2WxBLRxg=="
 ---

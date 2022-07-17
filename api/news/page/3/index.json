@@ -803,7 +803,7 @@
       "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-ai21-labs-has-raised-64-million-to-transform-the-way-people-read-and-write/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -984,7 +984,7 @@
       "originalUrl": "https://thenextweb.com/news/wikipedia-meta-ai-verify-information-on-ency",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1068,6 +1068,59 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-meet-plato-an-ai-that-gains-intuition-like-a-human-baby.md",
+      "title": "Meet Plato, an AI That Gains Intuition Like a Human Baby",
+      "excerpt": "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1155,50 +1208,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "The Brains: How to Leverage AI in Influencer Marketing",
-      "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-04-the-global-edge-analytics-market-size-is-expected-to-reach-283-billion-by-2028-rising-at-a-market-growth-of-248-cagr-during-the-forecast.md",
+      "title": "The Global Edge Analytics Market size is expected to reach $28.3 billion by 2028, rising at a market growth of 24.8% CAGR during the forecast period",
+      "excerpt": "Reportlinker.com announces the release of the report \"Global Edge Analytics Market Size, Share & Industry Trends Analysis Report By Component, By Type, By",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27944178",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27944178",
+      "publishedDateTime": "2022-07-04T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-how-this-entrepreneur-has-revolutionised-everyday-trading-leveraging-ai-and-data-analytics.md",
       "title": "How This Entrepreneur Has Revolutionised Everyday Trading, Leveraging AI And Data Analytics",
       "excerpt": "Muhammad Haider, a serial entrepreneur with his AI enabled trading toolkit platform Tradytics, has strategically disrupted the market of amateur trading with the help of the innovative use of artifici",
@@ -1092,49 +1126,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-tv-mohandas-pai-on-the-future-of-fintech-in-india-and-the-power-of-data-ai.md",
-      "title": "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI",
-      "excerpt": "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "originalUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "publishedDateTime": "2022-07-02T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

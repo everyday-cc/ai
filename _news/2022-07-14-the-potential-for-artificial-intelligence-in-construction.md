@@ -34,13 +34,13 @@ related:
         height: 400
         isCached: true
   - title: "Kyndi Credited for Helping Companies Capitalize on the Potential of AI"
-    excerpt: "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,"
-    publishedDateTime: 2022-07-12T14:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm"
+    excerpt: "Natural Language Processing leader named an AI 50 from KMWorld SAN MATEO, Calif, July 12, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld,"
+    publishedDateTime: 2022-07-12T13:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28033784/kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "MM9nwQdOP8KzL3SlNTroj0EoU7Jk50hy5BtwixHcTK6oVvtuMItvbxybR90p9NzR7fBI5Xw+7Ru4WPlzB+DWe72BkY6RbBhY/X8HMDZ/jIoUNOgZdE15Up9Yv6//MlQTKhSaO35t37hQfQuV6xk5eTa1NxrCOkJaRnVDUaq+TBt6FbYYVPbo+DpqPFNxrgB/aM3+723LjGVbyH8SzorvC9KpZqZJlgKZGqnJEo8/nwD0GJOeCpx/k2A6jRCRbda6ZgAmOXSNq6nrhVoJzXnMTL7ltU6ndQ5rOdg+VHtWNLcXL1lYPBfHP+jTehPWE/nEgqjIF+nLqBEgyBMuXRVogfz5fFmW+pNA1LA3aW7hTkY=;LGF7OZGxgY0jMRJBrslfPA=="

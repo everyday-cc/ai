@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-int
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: CNET
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Artificial Intelligence System Gains Intuition Like a Human Baby"
-    excerpt: "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do."
-    publishedDateTime: 2022-07-12T11:23:00Z
-    webUrl: "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
-        width: 716
-        height: 408
-        isCached: true
   - title: "Scientists Create An Artificial Intelligence Program That Can Learn By Intuition Like A Baby"
     excerpt: "Now this blurs the line between artificial intelligence and human behaviour as we know it. If an AI can be embedded with ‘gut feelings’ maybe an AI can become sentient enough to guy you too! The worst case scenarios should always be scrutinised before glorifying any research."
     publishedDateTime: 2022-07-13T11:13:00Z
@@ -64,20 +48,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "Researchers trained this AI to ‘think’ like a baby — here’s what happened"
-    excerpt: "Researchers created a deep-learning AI system that acquired an understanding of some common-sense laws of the physical world."
-    publishedDateTime: 2022-07-14T15:26:00Z
-    webUrl: "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FBabyAI.jpg&signature=f8c30ed28fe11f30412f7003c07b0dd0"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Scientist launches AI program ‘Plato’ that gains intuitions like a human body"
     excerpt: "This AI, dubbed 'PLATO' for Physics Learning Through Auto-Encoding and Tracking Objects, learned physics like a"
     publishedDateTime: 2022-07-15T05:29:00Z
@@ -92,6 +62,15 @@ related:
         width: 971
         height: 434
         isCached: true
+  - title: "The Air Force plans to test an AI copilot on its cargo planes"
+    excerpt: "The Air Force and Merlin Labs will work together to bring an AI copilot to C-130J cargo planes. Here's how the system works."
+    publishedDateTime: 2022-07-14T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "z6Gr2cDn+lGXY/nzqzTMYjdoPi2wqq8JzeBuj5rSysljnjXYOqBStpKH4m+GCeb8U3iq813lZjHM7gFHTUYDPB7Ks2A+qv6ugnzTdOyGhX51ujkLvK4MuTUQlUrfIO4usnABR9h+7eJnDWYcnv38ayGpuMS/EVfi/LAxRUhgspx1JRDQn9uBvjNPD1afX1grTJAmYjd+QoJYTX2Z3LDePTtl8TGEG43KTB3uNAJCZGC8qKVDXuEeO/l4T8FOxqEAQmpSPvwUm9hqUPSVupN6C6ImgYYPXoEFtZZcbFNixTQu/Vi+PPTMG6HzIR5rc8EyzFPSOZhJe8iJcc/uo5wd6FvrqAnP7PiHJR5rObz/aYvzewdOIcQacSW1x+OwOT2DCvnJ8jHEyJ89SKe7v6urtkLcc7S5IzQiaCnkwI0QYpYI74XcBcntsihAr2NJmSTFwZotNeWZgclB606WtEfnKCEmRM8OxMtpR7EW3e1jIvGlk3cidGczCkJZ6vPHedCUPqtIhyJ+NSYplr+AC9TQgg==;wr6+aWm0RHHj1wx+RAmqqg=="
 ---

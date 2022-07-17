@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Aren’t Done Reshaping Warehouses"
-    excerpt: "The pace of automation has accelerated in the pandemic, as big players invest billions in their efforts to streamline how goods are sorted and shipped."
-    publishedDateTime: 2022-07-12T13:00:00Z
-    webUrl: "https://www.nytimes.com/2022/07/12/business/warehouse-technology-robotics.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "Robots Aren't Done Reshaping Warehouses"
     excerpt: "When Digit spends an afternoon unloading boxes from a tractor-trailer in 100-plus-degree heat, co-workers never hear a complaint. Digit, a blue-and-white humanoid robot, was designed to handle the tough,"
     publishedDateTime: 2022-07-12T18:00:00Z

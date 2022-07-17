@@ -3,8 +3,8 @@ category: news
 title: "This AI image generator lets you type in words and get weird pictures back"
 excerpt: "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up."
 publishedDateTime: 2022-07-14T12:31:00Z
-originalUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
-webUrl: "https://www.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+originalUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
+webUrl: "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html"
 type: article
@@ -56,6 +56,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "L27NIl+q6z9dZLQ2FT/sm4nkYlPrt6vE6JP6W7zW7vzigbktxU+TH+YYMS0dCfPIJiFtd/5BdzVmC8Q8F+lLmyr3SKiUH+SXZn3J3KZnQzamVT8vKwsAPGBZ4G6lRbz8Q6RDZpbyeOzYQWGVcbLqs/0cPxLqLq4GW001n/kpoOIbovOnap9WwqpHJ73rh0xXjZBc88HlcMqtnaxHQ7xp1ooCXgJjP3QI9U3gnUeGcOQFKykjXfSAQwl7zd6j0P09j+beZHLNZygaHS0nn66OWhxBYjFC3INIFagaO3FI06Sz/789SgRwnPLgSyxSCweGRz3EjPjGEXBDk/iGKfDDjVP98YxIM9Vj550meEdf+6lgM/MXZArblPKHjK7f5RVcQqduhmhYyeOTjSqZLvKvLoaKHW2wAx7u6ygrT27NZg3UgmwvVvC/bJB6TAS3cQYf+Etq9d3pxFf43bHQB53vy4+7t++MFCPjUL5htSZxIdZFhmqaTMTeguPQd///JkkC9OT3lkV90iBxlP95hiWNuA==;0qGSUoIYEGUU3FoLudZr0A=="
+secured: "XJYdvZe7puNJcBZRRhBuNEWifEkR09t7Z7jwUryzXfmC6T+9ks2DoZH89kedYwcF18f4d9QZSwK2U2OidSQmG5S83KKwo7iIrXm039vwPrn2pENkdQ8EBnbNMH9nD0WV3a372aumtTLqZZpaRBF/hljZysZJQPHXiG1DaVfwTCwMLTWvPbqQ0f0M+HABGyr7mfVZD/YX2KBlm1L/n9u/rINCJaXU9TzhUspYOQpXjLMkxIczFvPo9GzFu31LlhYRwBi1qwnxbg+UREH2Rxle4c8f/n6rpCDxn6SQp1fx0lbqw9ePOfb6IXx8y1ZG+rXsGjv8idsDfBn6c7Q8GE5cbaptALnahjXuoaV9+5AWHY8=;zpiSkLiGbKUuEOM1ttxT5A=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a
 webUrl: "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Next Web
@@ -28,67 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "This Artificial Intelligence System Gains Intuition Like a Human Baby"
-    excerpt: "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do."
-    publishedDateTime: 2022-07-12T11:23:00Z
-    webUrl: "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/"
+  - title: "Researchers trained an AI model to ‘think’ like a baby, and it suddenly excelled"
+    excerpt: "OPINION: Infants approach the physical world with some ‘principled expectations’ about how it works. What happens when an AI system is programmed this way?"
+    publishedDateTime: 2022-07-15T02:00:00Z
+    webUrl: "https://www.stuff.co.nz/technology/digital-living/300638384/researchers-trained-an-ai-model-to-think-like-a-baby-and-it-suddenly-excelled"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 34
     images:
-      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
-        width: 716
-        height: 408
-        isCached: true
-  - title: "Meet Plato, an AI That Gains Intuition Like a Human Baby"
-    excerpt: "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child."
-    publishedDateTime: 2022-07-12T19:38:00Z
-    webUrl: "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp"
-        width: 716
-        height: 408
-        isCached: true
-  - title: "Scientists Create An Artificial Intelligence Program That Can Learn By Intuition Like A Baby"
-    excerpt: "Now this blurs the line between artificial intelligence and human behaviour as we know it. If an AI can be embedded with ‘gut feelings’ maybe an AI can become sentient enough to guy you too! The worst case scenarios should always be scrutinised before glorifying any research."
-    publishedDateTime: 2022-07-13T11:13:00Z
-    webUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby"
-    ampWebUrl: "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 78
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/plato_7ehy.620.jpg"
-        width: 619
-        height: 374
-        isCached: true
-  - title: "Scientist launches AI program ‘Plato’ that gains intuitions like a human body"
-    excerpt: "This AI, dubbed 'PLATO' for Physics Learning Through Auto-Encoding and Tracking Objects, learned physics like a"
-    publishedDateTime: 2022-07-15T05:29:00Z
-    webUrl: "https://www.phoneworld.com.pk/scientist-launches-ai-program-plato-that-gains-intuitions-like-a-human-body/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 36
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/07/AI.png"
-        width: 971
-        height: 434
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/q/7/0/image.related.StuffLandscapeSixteenByNine.1420x800.4yzq28.png/1657850424188.jpg"
+        width: 1420
+        height: 798
         isCached: true
 
 secured: "IdFZHMDaB6lYq0Toh6lFzmFUD9ypnqza7X9fSyYgoI1rd4D5ECi/r5rCuAAXKbbyiyjbxJ3cZ791Y5v1uRemHq1NflRQ0Imi9GWCodO6i5WQRrOPrYgoHDHjdsYa/Px/SUmTZ2Jk0zIWLEBn6zQC0Bmr2kx63U9PbETZj7URBzJIUqff59w77Fre3VD1HOMAdJ7zSOgfpIzJe7CwFNvqMzGq2i8mkGGp60zNg0ukHndWu3ygyDniqtKhHe+Z4rtmxWBv8JalTw6ZYW9qk5Kn4NaqPoMUhZhBlHU6IirU8jHrVOA4TgqzbziMY707+b08vebA7DKQHKHcSrfMixT3PQY7bE2AIOf1fnahxdMEd1mVZd4V5azhM1/CQOhvc0mSr/nXBnwaxcWVJgTuczALottG26U3XBDznht2kz2lWHNNkRxxulLkU1BKYpFdT9em7OOXEcHELD0m2boMmJUd0VooMFKOEDJreozl1pO7bU1y2m4kPhZXX+7Ka8yBDJOu3lMfwA39Zj1SHpEw+0yoyA==;H0fOr1bRGDIqOUuaQ+HXyw=="

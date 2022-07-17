@@ -36,7 +36,7 @@ related:
     provider:
       name: justthenews
       domain: justthenews.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2022-07/Screen%20Shot%202022-07-16%20at%203.37.52%20PM.jpg?h=5bf6543a&itok=_8EfavcJ"
         width: 1200

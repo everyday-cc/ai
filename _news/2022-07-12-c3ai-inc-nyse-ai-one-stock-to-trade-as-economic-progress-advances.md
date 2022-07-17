@@ -7,7 +7,7 @@ originalUrl: "https://marketingsentinel.com/2022/07/12/c3-ai-inc-nyse-ai-one-sto
 webUrl: "https://marketingsentinel.com/2022/07/12/c3-ai-inc-nyse-ai-one-stock-to-trade-as-economic-progress-advances/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Is SES AI Corporation (NYSE: SES) Hit More of the Losses Given A -136.49% Dip From High?"
+    excerpt: "During the last session, SES AI Corporation (NYSE:SES)’s traded shares were 0.42 million. At the end of the trading day, the stock’s price was $4.85, reflecting an intraday gain of 8.99% or $0.4. The 52-week high for the SES share is $11."
+    publishedDateTime: 2022-07-16T19:04:00Z
+    webUrl: "https://marketingsentinel.com/2022/07/16/is-ses-ai-corporation-nyse-ses-hit-more-of-the-losses-given-a-136-49-dip-from-high/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 28
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "SES AI (NYSE:SES) Sees Strong Trading Volume"
     excerpt: "Shares of SES AI Co. (NYSE:SES – Get Rating) saw strong trading volume on Monday . 17,397 shares were traded during trading, a decline of 98% from the previous session’s volume of 786,804 shares.The stock last traded at $4."
     publishedDateTime: 2022-07-13T08:44:00Z

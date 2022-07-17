@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
+      "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
+      "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025.md",
       "title": "Managed Services Market to Reach $393.72 Billion by 2028 | At Least 60% Organizations to Depend on Managed Services by 2025",
       "excerpt": "Organizations are turning to managed services for a number of reasons, including the need to reduce costs, improve operational efficiencies, and free up internal resources to focus on more strategic initiatives.",
@@ -1088,58 +1140,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-like-brad-pitt-do-you-have-trouble-recognizing-people-it-may-be-prosopagnosia-or-face-blindness.md",
-      "title": "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'",
-      "excerpt": "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
-      "originalUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/253c7156-c626-439a-aec0-49160966ee42/0ba5dff5-9160-466c-94b3-967d1ba42b12/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
-      "publishedDateTime": "2022-07-06T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-08-artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies.md",
+      "title": "Artificial Intelligence In Insurtech Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies",
+      "excerpt": "The global \" Artificial Intelligence In Insurtech market \" is projected to register healthy growth during the forecast period 2022 to 2028. It offers an in-depth examination of the factors influencing market growth;",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler.md",
       "title": "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler",
       "excerpt": "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical",
@@ -1108,58 +1160,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
-      "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
-      "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

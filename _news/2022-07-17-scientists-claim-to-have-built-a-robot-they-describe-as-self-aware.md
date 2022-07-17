@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-16T19:36:00Z
 originalUrl: "https://justthenews.com/nation/technology/scientists-claim-have-built-robot-they-describe-self-aware"
 webUrl: "https://justthenews.com/nation/technology/scientists-claim-have-built-robot-they-describe-self-aware"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2022-07/Screen%20Shot%202022-07-16%20at%203.37.52%20PM.jpg?h=5bf6543a&itok=_8EfavcJ"

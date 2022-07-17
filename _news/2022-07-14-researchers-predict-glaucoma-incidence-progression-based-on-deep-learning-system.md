@@ -33,15 +33,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "Network-based machine learning method helps predict cancer patients' response to immunotherapy"
-    excerpt: "Immunotherapy is a new cancer treatment that activates the body's immune system to fight against cancer cells without using chemotherapy or radiotherapy."
-    publishedDateTime: 2022-07-12T12:01:00Z
-    webUrl: "https://www.news-medical.net/news/20220712/Network-based-machine-learning-method-helps-predict-cancer-patients-response-to-immunotherapy.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 7
 
 secured: "ylbIM6Wi9CpATAF7G2P6QogpXdGJTaUyA34WptvaWWCzapZHXjkidZoEP4sAHYOsGHD5NiF38l0A837DScyTa2jGBaNbrEgoBPgcYy/RsnEmBGNQQv/bCmDs52cmT0dSDT4fOM3EAjXW0/wWg1SIrXleCPKV85T6YW3YEkXF/Hgpzm5BaxSjq9nWfKNQAt9Y2O2mV9JWtbD6dTOq/hs/GIYDqed9qnDV9L6GXWtFVEC68XuByIDt/pd0PDGrOwzjMCNzTyhqn5nzIa3eEmd6MuOYE5yRC0uQpco2S/ai434nJNxQNsx+lwR09iUwNTl6vqyjANzO54a0zrEfh1B4eUeMiyInf27GhREGdzjY5YhCHns8t0hnKxN5x1wSOtFN0k0Umtcshnzv2frwxgTyB6CTWzZ2NKbfincFn9TweAd5niEJf5AMmsId1Qe4i6e8ztHBl+u9CBYqlz3ydPmMmg4OFPWWA9Ck1dmQ3njtRZRSiuNV+5ca93qtT3l2ZuxQ9klIbq1bMCbGPLusIjYCwA==;LnLPnK53Qjgud+YNYZ/xwA=="
 ---
