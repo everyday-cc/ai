@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3685
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Intel, Accenture put bow on open-source AI kits to push adoption"
-    excerpt: "Intel and IT consultancy Accenture are hoping to help businesses adopt AI applications quicker with bundles of open-source software designed to speed performance and lower development costs. The open source AI reference kits,"
-    publishedDateTime: 2022-07-12T17:57:00Z
-    webUrl: "https://www.theregister.com/2022/07/12/intel_accenture_seek_to_help/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 17
   - title: "Intel Open Source AI reference kits now available for free"
     excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
     publishedDateTime: 2022-07-13T11:46:00Z

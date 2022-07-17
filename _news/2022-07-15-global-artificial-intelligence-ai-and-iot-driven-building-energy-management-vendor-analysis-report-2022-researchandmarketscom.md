@@ -136,20 +136,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Content and Application Provider Market Growth, Size, Analysis, Outlook by 2022- Trends, Opportunities and Forecast to 2028"
-    excerpt: "In addition, the report outlines the factors driving industry growth and the description ... Alibaba, SINA, Akamai, Baidu, Yahoo, Axel Springer, Twitter, Oracle The research insights presented ..."
-    publishedDateTime: 2022-07-12T18:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/content-and-application-provider-market-growth-size-analysis-outlook-by-2022--trends-opportunities-and-forecast-to-2028-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Intelligent Speech and Voice Recognition Market 2022 - Product Introduction, Major Manufacturers, Segmentation and Forecast Study to 2028"
     excerpt: "The growth factors of the market are discussed in detail wherein the different end users of the global Intelligent Speech and Voice Recognition market are explained in detail. This report covers a complete analysis of the market and market data validated by two approaches including top companies’ revenues."
     publishedDateTime: 2022-07-12T19:51:00Z

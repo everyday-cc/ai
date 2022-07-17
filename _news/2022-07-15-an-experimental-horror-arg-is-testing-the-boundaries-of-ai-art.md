@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-
 webUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,38 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Art Is Challenging the Boundaries of Curation"
+    excerpt: "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,"
+    publishedDateTime: 2022-07-17T11:00:00Z
+    webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/"
+    ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "The future of cars: How AI integration is changing the automotive industry"
+    excerpt: "Estimated reading time: 0 minutes A natural next step for the automotive industry is the heightened integration of artificial intelligence ... Alphabet (with Waymo), and Ford are competing ..."
+    publishedDateTime: 2022-07-15T15:11:00Z
+    webUrl: "https://techaeris.com/2022/07/15/the-future-of-cars-how-ai-integration-is-changing-the-automotive-industry/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 37
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2022/07/Tesla-automotive-industry-min.jpg"
+        width: 1170
+        height: 724
+        isCached: true
 
 secured: "f30PUXZk6u3PHahJ1Y58oIJH/Q2CO1hrUOsbiZQN87kvgvWtFvKFSpkkd5aQumAdjjjJwRaWfRrkd3wfe4Ntw5Gb+Jjo9f+WuKcmJvtk0Pot4U1pK8dTkxtFWh3CI1qmQDs4/lVdmAdqS4m/vIbNIgZc5fx+zx/H4bxO7JrAxSQwq8VKVIeNJCkVSGi35hczVzCzld06w5+pmYQwb+Au9IHILutLupCaO5nxkuHapC1bHB9FfIjZDgK3VL4MEwObzrk1Y8BOOKIBTcqWZOISXgnjMlxu5UnPGGd8cfmEZw5UrN2+wb9JZVcEwLT46MYLTbGQPo6Lv1763YXjkBdLfSk495T8FQxpR4a3Pk+OUbO+GlfxyiPSfwaEudxV7yv0InmgG5CBCYKjE3WH5cUDzHOSxge4VGkULX+o9b/9RFttfoG9ASstFbw3UWuUkVnv1QaVy6ERoiXUZ6lmk5Kt5xC1vJ3HNDFdXn4LRGXfp2kHlPlQkysKRaXW2RXwdp5pDpm06BXaIlPXwijQdfaASA==;Necbbw9OwxaLTECYYCJSDQ=="
 ---

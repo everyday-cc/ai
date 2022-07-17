@@ -33,15 +33,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Intel, Accenture put bow on open-source AI kits to push adoption"
-    excerpt: "Intel and IT consultancy Accenture are hoping to help businesses adopt AI applications quicker with bundles of open-source software designed to speed performance and lower development costs. The open source AI reference kits,"
-    publishedDateTime: 2022-07-12T17:57:00Z
-    webUrl: "https://www.theregister.com/2022/07/12/intel_accenture_seek_to_help/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 17
   - title: "Intel Open Source AI reference kits now available for free"
     excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
     publishedDateTime: 2022-07-13T11:46:00Z

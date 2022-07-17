@@ -127,20 +127,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Content and Application Provider Market Growth, Size, Analysis, Outlook by 2022- Trends, Opportunities and Forecast to 2028"
-    excerpt: "In addition, the report outlines the factors driving industry growth and the description ... Alibaba, SINA, Akamai, Baidu, Yahoo, Axel Springer, Twitter, Oracle The research insights presented ..."
-    publishedDateTime: 2022-07-12T18:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/content-and-application-provider-market-growth-size-analysis-outlook-by-2022--trends-opportunities-and-forecast-to-2028-2022-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
     publishedDateTime: 2022-07-15T13:52:00Z

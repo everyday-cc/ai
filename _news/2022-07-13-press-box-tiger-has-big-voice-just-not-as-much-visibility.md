@@ -79,15 +79,6 @@ related:
         width: 1175
         height: 617
         isCached: true
-  - title: "Tiger Woods still has big voice, just not as much visibility"
-    excerpt: "US golfer Tiger Woods speaks during a press conference at the British Open golf championship in St Andrews, Scotland, Tuesday,  ST. ANDREWS, Scotland — Tiger Woods has a voice that can be as a big as his golf game."
-    publishedDateTime: 2022-07-12T17:39:00Z
-    webUrl: "https://www.newsday.com/sports/golf/tiger-woods-pga-tour-liv-golf-series-fdqfoxgg"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 4
 
 secured: "EKB68cLdumUKiAWpWJLKHRoJdlqZX0E1ttTf0oqYSqRR0PYx67bqyAmFdVGks0OMmE12fDWYu7IDAwa5FwD/DFmLWADgrdoDE9ZM6eErHx+94Q7PDhwVCebFEMBWDdRCmwr70ueNfmfJUewBb9ow0nkGcEUQsAuLznWevT8oQ2ZNHunfypehCHsMeqIksbzpCc9H/7CbGyUdw47cpl2Qj7GZ3z7ax2NZsThtfU4QBuXevqEhVn9G8TQ+jcE8oibTeNwv7O3q8DWN6ntvN06W7cXX24egI4GKhZ0JrTr1SijoYow783eUfj3SraRF5r2YlLon/OAZ75HkvHd6kQaIqSEZG+KlHlThKWhzn0em6Pk=;+E9YsVjmJKvtnyHyEM0UEA=="
 ---

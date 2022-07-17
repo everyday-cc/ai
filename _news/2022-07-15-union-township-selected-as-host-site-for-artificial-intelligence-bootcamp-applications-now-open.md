@@ -3,10 +3,10 @@ category: news
 title: "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
 excerpt: "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
 publishedDateTime: 2022-07-14T21:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639326.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639326.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -186,6 +187,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "8LsjovsDE4wD9XqI/hnMAXWdyy6oBBklSETUioLb44inxbMCwFRjf+8N172EEUXLRcR80/v8/dmRScTYAk4mQDAv68ntv8/1e3SXgg9k3tVbLp/wLTA1Iyp/rLSjcV+4wl4a30m5DNU2ABFtf3Eaf/ijKFZR3ChTp9gZlcS8JAhn5pSnxIlU/s+lavOAARfBhvBTQCmYshId4RONkNr9a5u6eH2clXdkANLOF2h274KPtTEga9gbww4nYMJpVpHIHYGHysGHQDALTFM5uWmftykJVzOJTn2L5OdjsB1PLPgg5IYZaeIcjMY6MHtAc4YAPBH6nNBcouzL/iF3vfgSp1F2qgZ4/iN25pyi99/ouNM=;U3chJoBRxbfSS8REcp32rw=="
+secured: "+DwdHCnfdxqNRnE2oituHHWb4Jj6NsM4q8RL4gcn8gVQMb5ZIhBnxy5NIgmb4cBIzuVoLETcFQfIJjLWahizRZiUzSsBOkDEcSUffFlftJXCvpqiuwbBA0nTzVJYSnvM3DGXgqEmgvY+quSLHjg5OWAX1iY7TrRHgX8LMV0r1huswLac4ganbfYmTS/iXwAz+5/Z4m9ERMvejV36PJxsanPO86T4kF+AvlxkhwKjTbNIJSGBLw5CCFsJTKnrGVLO8I/amULesfn309wL67Jg9coIKRCo/9Tx9nPLSHpdrO6epj6W+YtvhtVxrVGULQeHWv1jaZ86NRuiVKbBuAJeQO44vqoqOOavkmZn/ORPtUA=;WWn8bbO2kReF+x0lygnGBA=="
 ---
 

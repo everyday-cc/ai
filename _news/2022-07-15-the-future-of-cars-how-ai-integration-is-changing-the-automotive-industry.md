@@ -25,46 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Empower The Future Of The Gaming Industry"
-    excerpt: "The gaming industry has experienced amazing advances in the past few years, and AI can offer many more benefits and innovative solutions that could continue driving the industry to new heights."
-    publishedDateTime: 2022-07-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
+  - title: "AI Art Is Challenging the Boundaries of Curation"
+    excerpt: "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,"
+    publishedDateTime: 2022-07-17T11:00:00Z
+    webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/"
+    ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62cd8de3fe04dc8a1f4c2949/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "Artificial Intelligence: Revolutionising the iGaming Industry"
-    excerpt: "The online gaming sector has been making exponential strides in our country, and with the comfort, it provides - allowing you to play and bet in the comfort of your home - its not at all surprising. But despite its obvious advantages over the traditional casino industry and popularity among players,"
-    publishedDateTime: 2022-07-13T13:28:00Z
-    webUrl: "https://www.mykhel.com/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
-    ampWebUrl: "https://www.mykhel.com/amphtml/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
-    cdnAmpWebUrl: "https://www-mykhel-com.cdn.ampproject.org/c/s/www.mykhel.com/amphtml/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
+  - title: "An experimental horror ARG is testing the boundaries of AI art"
+    excerpt: "This was the beginning of Sheridan’s own ARG experiment using AI art to flesh out a mix of cosmic horror and alt-history science fiction. VIIR invites “players” to examine documents taken from the fictional institute, founded in 1958 by a physicist ..."
+    publishedDateTime: 2022-07-15T13:32:00Z
+    webUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
     type: article
     provider:
-      name: mykhel
-      domain: mykhel.com
-    quality: 57
-    images:
-      - url: "https://www.mykhel.com/img/2022/07/dmitrybelianinccopmi-1657721962.jpg"
-        width: 950
-        height: 634
-        isCached: true
-  - title: "How AI Regulations Are Shaping Its Current And Future Use"
-    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
-    publishedDateTime: 2022-07-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Verge
+      domain: theverge.com
     quality: 47
 
 secured: "UaJDwXbfCcwqbjl528su+oGxujwLgCAh9jZUlWQdExY/qaG5W3JMLBVTPw+FuONYG5ja2nxMici3dm6VqZy+jc1U2y1jJxeLRTRrp7Y+sg8/QdKOdaHMDcd3ZOMcMY8RzLXwF3IyDuiXVx92QBHgnpaH+dM8dOQiuR6QTD8VG7k8ErCODPJtlIwPqBAsAu/fvLuo8TWSjqWax6EQH0OwjG6TR5b/c6S/CB3He4ATygth1uln2ZpkNk4t8MM+IGbUN+qjz+i4UcTj7OqnAn88d05DFsfIFmLJEAFDLWQblKmNSvDXMLadU6UL/4VCDPEeLAcvpBJW3wiP1PrenZkndLKaW1tJEHoCtHlBONWynsodbKAns0I8qkdxoRRcT6sJFVgx8LrkWVSPzLLPHoQomIoy68gqG5pun3yqzfwJE20ecxuucTupLmJXPaTlo0tmUdtEjXSeNemTWD6c71MZf2cl4UnUc09Yn8D/p+BwjWCwSqAsyiAPOQS9t2oZIMRoG/yOvHnqxkKLnG+6RoBLJA==;Cy+JwcPq5X35+D/YJwVubg=="

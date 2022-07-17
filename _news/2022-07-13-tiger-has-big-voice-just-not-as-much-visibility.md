@@ -80,15 +80,6 @@ related:
       name: Fulton Sun
       domain: fultonsun.com
     quality: 4
-  - title: "Tiger Woods still has big voice, just not as much visibility"
-    excerpt: "US golfer Tiger Woods speaks during a press conference at the British Open golf championship in St Andrews, Scotland, Tuesday,  ST. ANDREWS, Scotland — Tiger Woods has a voice that can be as a big as his golf game."
-    publishedDateTime: 2022-07-12T17:39:00Z
-    webUrl: "https://www.newsday.com/sports/golf/tiger-woods-pga-tour-liv-golf-series-fdqfoxgg"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 4
 
 secured: "pqs3lpCfD6ukP79Q5GaEH4XDoBBXmxCSm5f7eG6vF/aVXgoNESHrSiImn7GV1MSasDAOzkv9FfXVdShWYlznLfecwXljZI5LBQ7gI/UYJ7Zrn71WCOxyh38ZzeYf2xu7m+KrxT9osxN3ziA2Ky0BW66Vp6yIv4a2qc/zP71i7BnK63YdrH4+d7lJ8iv8UmWmF6cqOhLi6OO2fkWLF9EHL8SWqO+ymeIejhEGdZjl7eB6+Iz3q3WZAIVtekR66SilGz9IekBvyTqxDHG+A1sDH1lhL0Ef/wFo9OP12j9+rQV8o96AZ9elypHSNhkf7o3f/dbPDfvvgu0HnuegQKOWTGwkG8USPVkGp5B3fFDoPf69QTPuBVay1EbaAdIArGuymaunfOiagLVXfrzM7rOeccfkKhchcTA8jJAKCSsC0KkEUg3GD3KVlMnhs0nU4shxx6xeHQYOu1k0AQl2N/zIzNIu8vSnP32hv0ZStTXz3wRoCANfj0tdM1LptxNCEqzGlag8CbQKxTb3b2MvTq5oeA==;aKSG+oHNjElBjB1cZPzDsQ=="
 ---
