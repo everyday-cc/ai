@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "How location intelligence plays a crucial role in self-driving and supply chain"
-    excerpt: "Tech Wire Asia discussed with HERE Technologies on how location intelligence and geospatial thinking are key to strengthening supply chains."
-    publishedDateTime: 2022-07-13T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/07/how-location-intelligence-plays-a-crucial-role-in-self-driving-and-supply-chain/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 35
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/07/web_hero_banner_2280x880.jpg-7.jpg"
-        width: 2496
-        height: 1070
-        isCached: true
-
 secured: "tBdbU0SB5rWgOuA+Gs/m6BvWVikdKQBATMJqKS+Pt1Bgx9h+PWUoR8RXpfCyZlqwkF+T+RqbZVY9RipXbWggVs7cBNdeWm7ttd4SvN9aUkHWoie3WVF/aDWcIecUiibyx2X/wZZvY8usm9DPh7tSkddKLtu7t8jovcGgcckoTVlqJGTkwQqSjGxwo0M6UUgTD0bc+j6J3WFGl56WMZYuj9i7mmFQZQaWFuhPEV9zkFcxXzYl7TNLzYO5El0PxgKTNVQWyyc14XBEQu4ay+ejO6ogkyInVmSakv4Rmlzlt9eDYtM1jnvBUpqeL13sScvTPl3t8jwPUKL05968+HD7xCmfgcNhoALc/M5+lnn2USX4//HSSiAL9gHR0139C1lt0SQyYzfQvj5sSnt78NHtjPW4JsrpFe3JX0F5mqdoHyogzcPkWFWzH31BMsn4yJWyhPkwxkaMtqe7xJHMXnFiNPU7c2zkGk7gQgpuAfMEEsgRDzax7Gbcy4ls5AQn1RDo+exaD8pdzeYespPxF/hwsA==;k2/gJjggInmAqGqtH/KI7w=="
 ---
 

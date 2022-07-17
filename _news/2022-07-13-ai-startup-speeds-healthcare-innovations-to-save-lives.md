@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Continues to Transform Healthcare"
-    excerpt: "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ..."
-    publishedDateTime: 2022-07-13T00:00:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 58
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "How startup Advanced Abilities is harnessing AI to improve healthcare in PH"
     excerpt: "Advanced Abilities is the first to bring an AI and cloud-powered X-ray platform in the Philippines that reduces turnaround time of patients getting results from 7 to 10 days to 1 day MANILA, Philippines – In May 2022, Filipino startup Advanced Abilities ..."
     publishedDateTime: 2022-07-16T02:34:00Z
