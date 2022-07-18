@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Towards a Strangerless World: Here’s How Machines Are Transforming The Translation Industry"
+    excerpt: "That progress is made possible by the development of machine translation and artificial intelligence (AI). How are AI and machine translation being utilized by translation services providers today? What’s in store for translators in a world that is increasingly becoming automated?"
+    publishedDateTime: 2022-07-18T13:32:00Z
+    webUrl: "https://www.bbntimes.com/technology/towards-a-strangerless-world-here-s-how-machines-are-transforming-the-translation-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 0
+
 secured: "XMYNXfJ/lZra5HzDqI0k9G0ynzEZp6dOdFvr9ZugE29a3vQzUET2DVPQJQo9zGCGRcOq49Ot90vJYBhIGr9JXTyby5XpfP4hNXVH3M6pKYO+GGJj+C0yi/8Jg/TJSjnTHnxqpgP5u6gZEQuAN8E9ylm7KxZLWKXbUdFj1v3w/Z8DKRDBgehK7e9F/ByY6pjWhsxYGlUrRe/XbymKRKLqUBB8Pe0Cqhjl9lkOkadXfXTf4cSmQmPC/HZucJi35AQQ90/OfrrrLs9wOshpRMJQjR2PhQaebeDJQ5iHgqT66iA2QP01i6uPa2HHRho8n/Iro6MOJOwLkub6j+6GwoJmQ3hlXhQEMRFwNHgSiNtz3s0=;DzQQ0hDJDpZukSEbPJ5g6A=="
 ---
 

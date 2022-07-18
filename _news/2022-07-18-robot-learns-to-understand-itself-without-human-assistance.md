@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:12:00Z
 originalUrl: "https://www.unite.ai/robot-learns-to-understand-itself-without-human-assistance/"
 webUrl: "https://www.unite.ai/robot-learns-to-understand-itself-without-human-assistance/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: unite

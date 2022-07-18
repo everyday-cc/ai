@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T18:47:00Z
 originalUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 webUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: The Valdosta Daily Times

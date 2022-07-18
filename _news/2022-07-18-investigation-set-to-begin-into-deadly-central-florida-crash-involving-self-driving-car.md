@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T12:21:00Z
 originalUrl: "https://www.wftv.com/news/local/investigation-set-begin-into-deadly-central-florida-crash-involving-self-driving-car/EPZRVAWJS5CDNCSDAXYEM4GLSQ/"
 webUrl: "https://www.wftv.com/news/local/investigation-set-begin-into-deadly-central-florida-crash-involving-self-driving-car/EPZRVAWJS5CDNCSDAXYEM4GLSQ/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFTV

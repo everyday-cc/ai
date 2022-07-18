@@ -48,6 +48,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 32
+  - title: "Steerable Bacteria-Based Biohybrid Microrobots Developed to Deliver Anticancer Drugs"
+    excerpt: "Researchers suggest bacteria-based biohybrid microrobots with medical functionalities could one day battle cancer more effectively."
+    publishedDateTime: 2022-07-18T12:00:00Z
+    webUrl: "https://www.genengnews.com/topics/drug-discovery/drug-delivery/steerable-bacteria-based-biohybrid-microrobots-developed-to-deliver-anticancer-drugs/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 0
 
 secured: "99vuPOnv/ASJgJoMEoQigmOlo4VDfTspMeyLIVtGcGiQ5tKoIjD3DP1mGMsclQEmLEpn0L0yqMYX78bKKw1s00Qp2bphICVILfCa5GpoO9aKRQsAeEhzkNW+ezN+3shBThIyJkDdY9gHu5O/7f/Cd69TZnE3EXbK+QhavP39LBHAM8kpqjAGfE5QTeska6slVzLd/pw7KS/jvBY4wHeMrxYz2r4JnCZAQ3e5agMomnOLOHwlAzu4NxFSJoJWDQvpEdgxijhpNh7nS+PV1Vm3mXRWvc58fn4+g0MJw8Uiv+1Z4P5Mzlg0GA77b2sxtLacpJ008/yefjS70aI+vAaYrGypTxLchNR3H38W4OxZoM+OLPDZQIUjNglttyHEduu8Wcky6buG5gHU5SKwfsSVFBTzwOyAQX6PPuMLCyvLW978ydapbFD9Py36aEotSEbQzRgEBTxt8PkP2pS2hcKGuM/x9eSv0q2aJsXqVmvrqQfSFudLPCKrZi8CyRLuXucggvYH76B74Cj7aDNWEe06xA==;Foxo41wGIQc9dJr0IaMxoA=="
 ---

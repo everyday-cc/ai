@@ -25,20 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Smart Lock Market Share Status, Growth Strategy, Developing Technologies and Business Development 2022 to 2028"
-    excerpt: "Global Face Recognition Smart Lock Market Overview and Analysis: In the report, we cover company profiles, product"
-    publishedDateTime: 2022-07-15T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-share-status-growth-strategy-developing-technologies-and-business-development-2022-to-2028-2022-07-15"
+  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
+    publishedDateTime: 2022-07-15T13:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
+    publishedDateTime: 2022-07-18T14:57:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-25-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
+  - title: "Bot Services Market Worth $6.7 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Bot Services Market by Service Type (Platform & Framework), Mode of Channel (Social Media, Website), Interaction Type, Business Function"
+    publishedDateTime: 2022-07-14T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28067556/bot-services-market-worth-6-7-billion-by-2027-exclusive-report-by-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "VKzJCNyeXOaYv0ylPkg5tczAAlhP34tMFf52btXU9oMLeTd9xwr7fzJe+ICNAHp22wMMBTR5Nm5JpjWgrVDaKBRFKr7UcdGToq7JYyQ+ylJOQCEOI4it0RLy/d+ZB60Tyx+WrBFLhPkI/tNFcdrwdD0RY+Hh/g0GPXF6wHDcaZF8uWiWKiuAvpgwC0K96uSW1KWMZVI0SQeDAMlCluR7epMLPvk0yEHIJpqAVBvgtNgEoeALiwBv5EuqcY2rV/4BhzTsJqs7v4qiiEvwA39av5ECJGZDrU4psfGdDB7YIMGnaMPu5BSL/H3TfZwA+JVPvxpg9nXCieEAk6pwktgyBHiobVlmHcAdnwmvcYlMO7a1fsyeteCYzEoGckhRXUIchw2QMQf/4QZfyuxtriy1DnmDxEPu93PL6WoIx/jha7SCy54ZAa4p9dH7HlnKrt0YHzY6t0HiznNgg2TQGaTvCovQyj6NfdDoo9bFYBzslBW0uw/J79g+az3ES27SkrMmIAL9Gj+H4b604Izi6e5w+w==;4OnM2nJEk/4xsnmKkBVnyw=="
 ---

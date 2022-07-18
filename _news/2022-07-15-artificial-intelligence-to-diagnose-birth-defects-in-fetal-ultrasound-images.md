@@ -51,19 +51,14 @@ related:
         height: 1920
         isCached: true
   - title: "AI, deep learning to now assist in diagnosing birth defects"
-    excerpt: "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects. A team from the University of Ottawa in a new proof-of-concept pioneered the use of a unique deep learning model as an"
-    publishedDateTime: 2022-07-18T10:41:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=980163"
+    excerpt: "The goal of the study, published in the scientific journal Plos One, was to demonstrate the potential for deep-learning architecture to support early .."
+    publishedDateTime: 2022-07-18T12:00:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-deep-learning-to-now-assist-in-diagnosing-birth-defects/92957072"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 54
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_180722_prov.jpg"
-        width: 474
-        height: 364
-        isCached: true
+      name: India Times
+      domain: indiatimes.com
+    quality: 34
 
 secured: "wbh7515YT6xBaGE10Wfq9dJngNh4KxXPZyx+rTjN8G2UgxIJJWqUcjgavindh52+m0yYiQCc8s1WRLhWwMcO8xP1sJhxxGdI0xv+osEiHpN1wuwj6nDwGqwSzp1U2m/7wDx9zcbBMtKO7Rg/pCofPiS5stfKYZC+F5Jrov/RXNGnqHK4Hhyg16RyFGqxBbMP7mW23k8VJmWg77rlRnBqLqQbc0FkNmd7P2182g3kuxejF/xd+5U3oboO7aqZtVDyquMKo3Bwsa5uEEWvVa2iwbgvRhonI/K0WxndFP10PWhxcwykm9iomeTAJbWxnlqqmRRUeL2RTH0si8Oi6QK9dj6HelLDri2OPwPweYMvRPqJ/zru0Q+8LgCqQY3ZH1fLVol39maBpYXge1UnjjU4UibRSlwbbUGzSnPi1IXESy6jnASgbR4wNSt2nGbN6CIxzJ7Y3EIpN/fBvNu4h+Mcd/uS07/Z4M7Fqgp99o+R5K6K/reRr6Hzg6xu0xzOGHg5ysXiAVeCO8rQhIdKv/XTtA==;onSr8QhVbsnU+3h2P1RNTw=="
 ---

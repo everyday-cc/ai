@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:21:00Z
 originalUrl: "https://www.gizmochina.com/2022/07/18/iqoo-10-series-v1-plus-chip-teaser/"
 webUrl: "https://www.gizmochina.com/2022/07/18/iqoo-10-series-v1-plus-chip-teaser/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Gizmochina

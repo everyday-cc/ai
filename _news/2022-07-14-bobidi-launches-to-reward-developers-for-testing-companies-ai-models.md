@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-develope
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 286
         height: 229
         isCached: true
+  - title: "AI Workforce Development: Opportunities for the Emerging Vietnam’s Companies"
+    excerpt: "Discussion with several Artificial Intelligence (AI) experts shows the potential of AI workforce development in Vietnam, as FPT Software - the Vietnam-based global tech company achieved its first deep learning patent in the U."
+    publishedDateTime: 2022-07-18T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-ai-workforce-development-opportunities-for-the-emerging-vietnams-companies"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
 
 secured: "OgOQ0OUeNTECUksQQk5Qzn3qFwR3clnpvcmvm3DPxJQW0p823t/9DVX2Z3JRII3WRzpcfVNaaPsgJV9Lh3lWQP5ueFedYCTkY2l30hvt9aQLoJlJpC9BnNRlQgiIUZo0orVgrexcEzj0NiKddHMafqyGR3UYXhibJP5xypqhvxGZXFK/USu0T9QB4kqFsjc4OwSsdJQyb+hH1bmsz20avEtwEawxR9tAHDjzYUXHqTwYreJxI0iUZHTrIccuRj0DJCJnytQ6ROGpfFZqFt5l5BzzQ95hbtGSENY39VlLZ6zLLA43hlDsW3sWhMSedn7Xpbuy01vz5ASR/6USNJyztPTJLMDHmw9zKRKDTQ6j5m0=;DCyqfLpcRTC2nXwwq17Ahw=="
 ---

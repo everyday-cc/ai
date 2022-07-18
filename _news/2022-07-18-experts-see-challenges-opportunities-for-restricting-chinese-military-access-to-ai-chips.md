@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:32:00Z
 originalUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips/"
 webUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips/"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: FedScoop

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T12:55:00Z
 originalUrl: "https://internationalsupermarketnews.com/walmart-expands-spanish-search-on-walmart-com/"
 webUrl: "https://internationalsupermarketnews.com/walmart-expands-spanish-search-on-walmart-com/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: International Supermarket News

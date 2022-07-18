@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robo
 webUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 32
+  - title: "Steerable Bacteria-Based Biohybrid Microrobots Developed to Deliver Anticancer Drugs"
+    excerpt: "Researchers suggest bacteria-based biohybrid microrobots with medical functionalities could one day battle cancer more effectively."
+    publishedDateTime: 2022-07-18T12:00:00Z
+    webUrl: "https://www.genengnews.com/topics/drug-discovery/drug-delivery/steerable-bacteria-based-biohybrid-microrobots-developed-to-deliver-anticancer-drugs/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 0
 
 secured: "sfrwgrQkiJUEGhKFW/PD5vIaJhhV/Gfb3c0JDy9TZB7QC/fdgEE347E+wD5w2Pfcpo7GXJ0O3Q/PbY/BDGGHtA5K04zyL61ipg8SfU9Ipz53ZJcT5m9Vwxz/ic7XsNn5lJSZuukVm4/6HBaPEn0iEOp2vF47VKEncoFFBFGtsrmHIaYS8peIPniYH3v3K5V/UME9SFBaNJLWpqrowtXUxpXex+0ELlDq09vgy3NM6QY7kD/+cgRbJwaQ1HDzbJtNlOg1ksUrGDx1k1NAVE6dRMdjMg5EEyBcjBhG+QsrEmPTlZ6g5rDD5BJH1ktA+51WqJAZAGhR2pv5raIXqqJweav+kK/pF6LOqDyM0LeWhHs=;IMJ2YU2c3eR/a8Bs1Qfb8g=="
 ---

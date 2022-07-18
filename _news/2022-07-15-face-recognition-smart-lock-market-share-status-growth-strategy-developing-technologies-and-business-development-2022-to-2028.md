@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-smart-l
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-share-status-growth-strategy-developing-technologies-and-business-development-2022-to-2028-2022-07-15"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
-    publishedDateTime: 2022-07-14T08:41:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
+  - title: "Quantum Computing Market Demand, Regional Overview, Business Growth & Forecast To 2028"
+    excerpt: "These may include money laundering protection, image recognition, fraud detection, and training neural networks. The global quantum computing ... the Internet of Things, Artificial Intelligence, and uptake of IaaS and SaaS platforms. The integration ..."
+    publishedDateTime: 2022-07-15T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/quantum-computing-market-demand-regional-overview-business-growth-forecast-to-2028-2022-07-15"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
+    excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."
+    publishedDateTime: 2022-07-15T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-market-2022-share-size-recent-trends-growth-development-revenue-covid-19-impact-analysis-on-demand-and-forecast-to-2029-2022-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
+    excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."
+    publishedDateTime: 2022-07-15T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-global-computer-vision-market-is-expected-to-reach-a-value-of-usd-30-94-billion-by-2028-at-a-cagr-of-15-89-over-the-forecast-period-2022-2028-2"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 0
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/f4afc96392ec0b343620dafd81129cb3bc652810-e1657907126925-600x337.jpg"
         width: 600
-        height: 338
+        height: 337
         isCached: true
 
 secured: "UWdxoHHlMshNSu7iHhv+Z5y4kmSTFS11zpHSBSXG0T+l8xRY3GsmZo+EQlMHkQaJ+Ddv45Aa91mi4D4Hn7uun8W/NK2mM/2y4JEdtNUxofj5hbgkqaM967NI0bXX5GLtm+9nqPhPd9TQ27jCxXhth567dkzXkS/RgEnqSxpKwBuOW1ZxvY9oVxoUs8hkeKrhIbV5NoDwevLfL4pIt1PtKkvOlNNj5tYEAKLvpRLCRMxa6jIPHxA9nyHJLY+A75VcMIjlGWEfdqudKhtqU8D4+r11TGszEQ8qXziAMwGFuHRv6C0TSAZCxHnEy17MOuOBqLjqFpHMcLZgB7gzkbdROxlKpHe8YlLswUbp73Pm1xs=;hZnPCVExIlY3cwL4jb+jLQ=="

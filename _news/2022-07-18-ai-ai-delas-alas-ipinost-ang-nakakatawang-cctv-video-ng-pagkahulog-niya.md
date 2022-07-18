@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:25:00Z
 originalUrl: "https://kami.com.ph/entertainment/celebrities/144839-a-ai-delas-alas-ipinost-ang-nakakatawang-cctv-video-ng-pagkahulog-niya/"
 webUrl: "https://kami.com.ph/entertainment/celebrities/144839-a-ai-delas-alas-ipinost-ang-nakakatawang-cctv-video-ng-pagkahulog-niya/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: KAMI Philippine News

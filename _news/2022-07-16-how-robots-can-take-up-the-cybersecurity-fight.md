@@ -72,6 +72,15 @@ related:
         width: 336
         height: 280
         isCached: true
+  - title: "Fortified Health Security Releases 2022 Mid-Year Horizon Report on the State of Cybersecurity in Healthcare"
+    excerpt: "Findings highlight industry’s progress toward adopting a security-first mindset as cyberattacks evolve and grow more sophisticated; explores key role of emerging AI/ML detection and response technologies FRANKLIN,"
+    publishedDateTime: 2022-07-18T13:02:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-health-a5ddc8e971e8598a2bd79fbd871223e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
   - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-07-18T08:13:00Z
@@ -80,7 +89,7 @@ related:
     provider:
       name: indianweb2.com
       domain: indianweb2.com
-    quality: 8
+    quality: 10
     images:
       - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
         width: 301

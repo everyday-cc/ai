@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T12:21:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/uk-lays-out-regulatory-model-for-artificial-intelligence/"
 webUrl: "https://www.euractiv.com/section/digital/news/uk-lays-out-regulatory-model-for-artificial-intelligence/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: EURACTIV

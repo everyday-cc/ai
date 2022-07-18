@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:32:00Z
 originalUrl: "https://www.exchange4media.com/pr-and-corporate-communication-news/clanconnectai-becomes-free-for-brands-and-agencies-121402.html"
 webUrl: "https://www.exchange4media.com/pr-and-corporate-communication-news/clanconnectai-becomes-free-for-brands-and-agencies-121402.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Exchange 4 Media

@@ -43,19 +43,14 @@ related:
         height: 464
         isCached: true
   - title: "AI, deep learning to now assist in diagnosing birth defects"
-    excerpt: "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects. A team from the University of Ottawa in a new proof-of-concept pioneered the use of a unique deep learning model as an"
-    publishedDateTime: 2022-07-18T10:41:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=980163"
+    excerpt: "The goal of the study, published in the scientific journal Plos One, was to demonstrate the potential for deep-learning architecture to support early .."
+    publishedDateTime: 2022-07-18T12:00:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-deep-learning-to-now-assist-in-diagnosing-birth-defects/92957072"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 54
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_180722_prov.jpg"
-        width: 474
-        height: 364
-        isCached: true
+      name: India Times
+      domain: indiatimes.com
+    quality: 34
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
     publishedDateTime: 2022-07-15T10:39:00Z

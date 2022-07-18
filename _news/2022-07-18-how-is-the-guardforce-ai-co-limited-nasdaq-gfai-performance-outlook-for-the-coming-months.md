@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:32:00Z
 originalUrl: "https://marketingsentinel.com/2022/07/18/how-is-the-guardforce-ai-co-limited-nasdaq-gfai-performance-outlook-for-the-coming-months/"
 webUrl: "https://marketingsentinel.com/2022/07/18/how-is-the-guardforce-ai-co-limited-nasdaq-gfai-performance-outlook-for-the-coming-months/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: marketingsentinel

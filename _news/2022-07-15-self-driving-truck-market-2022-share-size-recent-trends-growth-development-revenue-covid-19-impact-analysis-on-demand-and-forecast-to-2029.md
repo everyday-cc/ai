@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028"
-    excerpt: "A new report titled, Global Artificial Intelligence (AI) in Drug Discovery Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has been added by MarketsandResearch.biz in its database of research reports."
-    publishedDateTime: 2022-07-13T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-2022-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Water Rescue Robot Market 2022 Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
-    excerpt: "Global Water Rescue Robot Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 is a study reported by MarketsandResearch.biz that offers detailed coverage of the Water Rescue Robot industry worldwide."
-    publishedDateTime: 2022-07-13T19:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-water-rescue-robot-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Quantum Computing Market Demand, Regional Overview, Business Growth & Forecast To 2028"
     excerpt: "These may include money laundering protection, image recognition, fraud detection, and training neural networks. The global quantum computing ... the Internet of Things, Artificial Intelligence, and uptake of IaaS and SaaS platforms. The integration ..."
     publishedDateTime: 2022-07-15T11:53:00Z
@@ -71,47 +43,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
-    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
-    publishedDateTime: 2022-07-14T19:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
+  - title: "Face Recognition Smart Lock Market Share Status, Growth Strategy, Developing Technologies and Business Development 2022 to 2028"
+    excerpt: "Global Face Recognition Smart Lock Market Overview and Analysis: In the report, we cover company profiles, product"
+    publishedDateTime: 2022-07-15T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-share-status-growth-strategy-developing-technologies-and-business-development-2022-to-2028-2022-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
+    excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."
+    publishedDateTime: 2022-07-15T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-global-computer-vision-market-is-expected-to-reach-a-value-of-usd-30-94-billion-by-2028-at-a-cagr-of-15-89-over-the-forecast-period-2022-2028-2"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 39
+    quality: 0
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/f4afc96392ec0b343620dafd81129cb3bc652810-e1657907126925-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
-    publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
-    publishedDateTime: 2022-07-15T13:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "cBy+DPhsFzPwfSZZGrOlTz4wsRThI3rnHME3H4cYQrCneeGpaBjFPzmaWoZjzX+EfBJPANNgjI41k7tn0M2HnQ9gG9/zJbxOdfreL4rndK4gUH8P+18u5G/TxcvuBchD4ftQu3oqaosOZVcw1akpcBCZ7hDKmgcyWlnyYwTLsuq6VfBRFHgeZMLG59ruXHsvqYz9C22a7L4qDfRQhpXTFgpimMsSupDDiMmImMQ0rUkCvvN4CqwbtrVRpnmFfY/ZQqaAerhYWiDSgxFLDLdeUDEYJeGstRqcVhrre03+8ePfzSJCORdbZMHbZCGZLtPdHYkPZs6c5Xq3wEU5E+83ungR2tAKPTg9hH2FvbRua7I=;dXiNPxCKbTUVqF4UBXFlIA=="

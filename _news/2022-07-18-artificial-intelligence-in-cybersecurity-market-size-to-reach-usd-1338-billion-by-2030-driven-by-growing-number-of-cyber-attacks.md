@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-18T08:13:00Z
 originalUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
 webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -87,6 +87,15 @@ related:
       name: Investing
       domain: investing.com
     quality: 19
+  - title: "Fortified Health Security Releases 2022 Mid-Year Horizon Report on the State of Cybersecurity in Healthcare"
+    excerpt: "Findings highlight industry’s progress toward adopting a security-first mindset as cyberattacks evolve and grow more sophisticated; explores key role of emerging AI/ML detection and response technologies FRANKLIN,"
+    publishedDateTime: 2022-07-18T13:02:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-health-a5ddc8e971e8598a2bd79fbd871223e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
 
 secured: "oiEjwtAvE/QtiEVzNPDWA3CTf3S5y1tlNl87gDkmhDb3kA1G71Weh/phzIpSGLMdRxDzr2U2flG3oYnWwQ8ljeIl5ncHuNO61M7e8PweNgUGy9+AxdW9fD2WMq13gdZK9B0zGaKrhopNYgB/ScmxBU5G7GPipbylv5WkRxLxwb1r3c5newr/QszJasIRCV8YpZA6gQfJxpvFS6AbB3EtY7PcPtxgD85dVMZrQnSfaP9BB+WLzUn4yeIC6H72j7cga4KVpqys4qYrL5RUo4621zktx9oAlI+i2lif/3C5ixbh/oiGdft0xzRIryZpiXzxfQTLQ9ERdx5ZifTgmJ9pKhBRIYhY0cSKK1Oe+wy+c88=;ZvvcAZPWL6N5ywr4+dzPgw=="
 ---

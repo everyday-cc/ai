@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-artifici
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,89 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028"
-    excerpt: "A new report titled, Global Artificial Intelligence (AI) in Drug Discovery Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has been added by MarketsandResearch.biz in its database of research reports."
-    publishedDateTime: 2022-07-13T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-2022-07-13"
+  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
+    publishedDateTime: 2022-07-18T14:57:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-25-billion-by-2027-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Water Rescue Robot Market 2022 Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
-    excerpt: "Global Water Rescue Robot Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 is a study reported by MarketsandResearch.biz that offers detailed coverage of the Water Rescue Robot industry worldwide."
-    publishedDateTime: 2022-07-13T19:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-water-rescue-robot-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-07-13"
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
+  - title: "Bot Services Market Worth $6.7 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Bot Services Market by Service Type (Platform & Framework), Mode of Channel (Social Media, Website), Interaction Type, Business Function"
+    publishedDateTime: 2022-07-14T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28067556/bot-services-market-worth-6-7-billion-by-2027-exclusive-report-by-marketsandmarkets"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Quantum Computing Market Demand, Regional Overview, Business Growth & Forecast To 2028"
-    excerpt: "These may include money laundering protection, image recognition, fraud detection, and training neural networks. The global quantum computing ... the Internet of Things, Artificial Intelligence, and uptake of IaaS and SaaS platforms. The integration ..."
-    publishedDateTime: 2022-07-15T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/quantum-computing-market-demand-regional-overview-business-growth-forecast-to-2028-2022-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
-    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
-    publishedDateTime: 2022-07-14T19:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
-    publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
+    publishedDateTime: 2022-07-14T08:41:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
     type: article
     provider:
       name: Daily News
       domain: galvnews.com
-    quality: 38
+    quality: 0
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
-    excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."
-    publishedDateTime: 2022-07-15T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-market-2022-share-size-recent-trends-growth-development-revenue-covid-19-impact-analysis-on-demand-and-forecast-to-2029-2022-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "E4bQu4tkkUfjhSIUXYdYU39hDoJvOW3hkH2iVajEceAhN0QahRELC7x3r/DbwusZiuhP7Bgz5pPWL5f+jKzfSJWoW3jPz7/7lIp8e27m0RozF6/V05rX7m4fg8uy+pHFopepkyVOXrcrovxGJzzkmI7VpKjzAZUR0IXcDJEN5fajQHadtiwbo9DxVyBazRXQ7zm+MbLvnZ203/E+ckqoCwmAxgRrn8i7Aci/guMolWMmKOivhO02rbagV2sDzlt647AYRtO+Du5D+G/KrIeSotXMBvu7jrjNxShjd5Td4gAII/yRTULqTAr2sdkFHIOtOIhMKeCOvcspDNLoX7Ee8l1QJ6gHhIny8f9jKQ0fLOI=;TIuFn76/Y6rlowSRAjWABA=="

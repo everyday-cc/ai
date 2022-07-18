@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T12:47:00Z
 originalUrl: "https://www.reviewjournal.com/news/news-columns/road-warrior/vegas-loop-plans-still-include-self-driving-and-higher-capacity-vehicles-2609290/"
 webUrl: "https://www.reviewjournal.com/news/news-columns/road-warrior/vegas-loop-plans-still-include-self-driving-and-higher-capacity-vehicles-2609290/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Las Vegas Review-Journal

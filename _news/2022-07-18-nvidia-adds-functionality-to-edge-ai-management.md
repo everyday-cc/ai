@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T13:36:00Z
 originalUrl: "https://venturebeat.com/2022/07/18/nvidia-adds-functionality-to-edge-ai-management/"
 webUrl: "https://venturebeat.com/2022/07/18/nvidia-adds-functionality-to-edge-ai-management/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

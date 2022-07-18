@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T09:17:00Z
 originalUrl: "https://nocamels.com/2022/07/spatial-biology-partners-us-company/"
 webUrl: "https://nocamels.com/2022/07/spatial-biology-partners-us-company/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

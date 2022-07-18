@@ -51,6 +51,15 @@ related:
         width: 600
         height: 650
         isCached: true
+  - title: "Steerable Bacteria-Based Biohybrid Microrobots Developed to Deliver Anticancer Drugs"
+    excerpt: "Researchers suggest bacteria-based biohybrid microrobots with medical functionalities could one day battle cancer more effectively."
+    publishedDateTime: 2022-07-18T12:00:00Z
+    webUrl: "https://www.genengnews.com/topics/drug-discovery/drug-delivery/steerable-bacteria-based-biohybrid-microrobots-developed-to-deliver-anticancer-drugs/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 0
 
 secured: "DoZwTknLPZqdE2Dz0GH5PdmaRM1eQDKXtApI0nAqngYbM92XBZ1sPywxpfMI3v4KypsM3oFbju5bBEkGavZ7eSrZHJ4CRKdOb8DZS/AWHyYeYYd1UH1IexRwKa6C22XFwuDEV+pIOeUZklbOMjP58HW1Hb/h811lZVHGvl1c7MQ+NaLG5qBla8q7AFZTkkPhX2VK5nFzxLeIeHuHEuQxf8ZpElax64vrX5+lr6NNKdeJzm3evyKmhq4iPmorahGZ5nlb13QaGVZ6hCDAxy6PGHuzf8Unw44U+y/yj3Oz53DzVCQ1hbCOnbTGcp+NoYT0I4duvOfo99prx+9CzEU1CAL80g6T0S2nGi1c7Vt/7B0=;O4mm4InSnQBOj0433QZacA=="
 ---
