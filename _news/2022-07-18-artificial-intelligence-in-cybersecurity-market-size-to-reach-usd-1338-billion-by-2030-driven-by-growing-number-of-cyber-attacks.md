@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"

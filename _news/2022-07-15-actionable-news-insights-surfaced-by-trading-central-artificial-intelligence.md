@@ -6,24 +6,15 @@ publishedDateTime: 2022-07-14T18:47:00Z
 originalUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 webUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: The Valdosta Daily Times
   domain: valdostadailytimes.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
-images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "KAbqQwYNvNrHZu9kAsJqTSuYRcsNEqECT8+xS/SrueLiZ6iU3U42Ksu7/TzmXRlc0A0y08VIiNu0AGM8XxkL0DKHYKC9rBGOcw6X9pCquuTZe0SYw+m41PjFVoLec7CRh3oFZQolTocV1F/yHetOfbyBj7qUvXGN/9pJg2Vs79QmAoe+9m1AIO2LTMq/v2ObPwLFPvLyfpHrqkBxzpJAYoQXzHhd/yQLutzrIj69ikSGh6kmCSbkobHIhqSXeB3w1LHlx9UpnrpIC6lWswPRzJd3szwwTWOf+ztSdYU3HZjxadSbuyX1n0sV0QJWqa+dkZ9bp4gfhV97hyEMkoCqA5qeQDKAmDNlAJnM9JjtKLc=;//8FaD1nFhiRxNVk6e6XEg=="
+secured: "7/0sBmEzvGhMeOWwmEdDQ4S7ZGpGDng5WkkoLha94CpbE1xmQhutL53nDR1/GYxm+8UAIPc0mNt+RaTnRzGsW9E/5KAS3R8aEj1y7m9br3bDaE3Z0SMWPYvvUY6RwppvYWfmr8EKCX2ENwsFnRegB+dxN6aH4DIsmIFjZ9bLJyY3lKFEDaOe0HDO32tpILCswhY73ayWAaUA4BF33iXbMFpl2xdImUMziG6B93eWWxgj/N538Lgyibzj3gu76He2Z23Wun2+S+rk12yMh/eAdFz3tVxwvO7B60g5KAzscb6yIycrMMjGZMgJTP9dMwsHs4y9yb7ng3GCV9I1ZcvRZgKXiCXJy4ZZGNGThOYEOXc=;3zhEUEHgoAmaCTaLmZafBg=="
 ---
 

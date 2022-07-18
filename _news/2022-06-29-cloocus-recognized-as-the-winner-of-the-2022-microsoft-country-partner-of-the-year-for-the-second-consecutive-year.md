@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1849080/image_1.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "A/IKsSgFAO5nkPdQZt0fbV81t1WN4DFFhur1rzCWW/8h27nw0wv/E1D4Ik9kizZssMWue9PE/ZQtjdY5iP2DMqnwx1rDmk9XGdcHENuVa98KiQBW+8H7W6Q9V8f+tq4P63xSdzlGtaImWW94FjcuNevJGOoMt0vCbwYaBhI9TkH3lVScAwyUWUVlSCtKVkFpAZ5zcfb2PRKeQ4EaYBDTq1tfPMIGYJlSTEHzRcYqY5NqlZzd4Ks7k218XID598K6Jwb8zZMuop1xck9bHZtFfyAwGgg66OQXyJGmurPVHCm4K30Qw4Uhv6dfLZOF6QKl+hw2yOuv56SanUJ5awfI9TwX6cVjFa/zqlPD4r1c6rU=;Ry80N5Mo41E5K+3sz/V0sw=="
+secured: "bYZN0UHnqwVjYzdaFZktHoNk/YEpITqUP2Kvqe8xshHpXSrWm5wJfHAM41U1r748moL3+j845tgepzhjai63nCDAzXiHrWqCwWWs+Yj+d33o9AiY3wwX+63DKdELeYHMKTOLYyx9JafEvxMTQDP8l4F2MMqDg0p6VAIq+Yeol8D3yGFzYj02CSkS3Y+pQEMzqGmhYS1+fK2cXybSXEaXNitJOJAJlyGVie8xpgQIRWCrAe/sKwUnPYaX5nF4b72UbKcEWrM0mDjjmucCPT2Q6OllGNTDeNVx+Mxy4Sddbmh/T+jTfmZundtPq6sjWMYLMShRyF4AJFNj+p/Qb8MLmMNZ0bc9fL5qvzggRw+mATE=;sKKrxlfxQb5PL5zoefDjTw=="
 ---
 

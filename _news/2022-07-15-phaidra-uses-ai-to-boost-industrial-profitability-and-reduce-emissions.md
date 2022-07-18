@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-15T15:36:00Z
 originalUrl: "https://fox4kc.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
 webUrl: "https://fox4kc.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: FOX4 Kansas City
@@ -18,6 +15,6 @@ topics:
   - Google AI
   - AI
 
-secured: "O96v0wP1S8kQtQCmReNE42M7pSjWN7FUee9v1o9alsjGQuTiwFV3UgP0S8MsUvgmhYrrtjz2WX3Bz1V4MmjC4rtzER7v7JOUNJcWosjndrCfGbslUlO1LCOJEvfxnXMH5US2ET5dpG7v4/+QxHamMEkJ7IZ+fL4AHqMAvADQEwJsM+plGi+AmVgTZ2fbyueaZ+/IbSBGyTlyiKdBJlV52yxV7oMW5sC0NTOFPCyzou0oUiD+WgrLrBm0/bAIzI6DCp/6mDxojlMc6STD2yHb4x40L6SREmJdCSoZUzP3Iji78LLksME6slmUE+wxNl3QNztLVmi98ErFrxR0jxPgaATIoVq5+d2pUyrgnqy29fg=;x0+eHiL7Vf2ITT8XNgWDfQ=="
+secured: "fHtod8kysyU6wN4n2j3hf/g3h+pGFjg5UCj0z1Mxq9iB/vxNcf6D78tdZC16Gtbv9XfASAwSDRaijI5jkvg/c9Jc+lHTLGuvjMQcbCoI5bYYf1amez0traBQkvD65AcmyulsD5HRQ9Qe20TxEeIc8WMqPuCXiMwn4DSlvIo0VV+tG/DWJcDzO/soGNB8+eiaek46SQbtweZrs/7P1ub8yPtzC/6DPBWqEBnB4m5Lp7mPq/v1xfmUvgBASCQbtiGKfOopCb4Psu9zew58HHAOev/FiXff8vzXw0GXE3SVOomygG6UusqpUvlVInzQ24EK9grl6RrElI2fSIFK9W5EspYwnf0FpVX+djDQbPCfzyU=;aOOzEnNZ6cGESubNIdVCKg=="
 ---
 
