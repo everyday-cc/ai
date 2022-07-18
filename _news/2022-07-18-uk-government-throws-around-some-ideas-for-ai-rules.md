@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Government proposals for UK AI regulation"
-    excerpt: "The Government's preferred approach to AI regulation in the UK has been set out today. Read a summary and techUK's comment below."
-    publishedDateTime: 2022-07-18T11:23:00Z
-    webUrl: "https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 39
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
-        width: 400
-        height: 276
-        isCached: true
   - title: "Lessons and consequences of the failure to regulate AI for women’s human rights"
     excerpt: "The current absence of adequate regulation by states to protect human rights from the deployment of AI systems is, in itself, a violation of human rights."
     publishedDateTime: 2022-07-14T20:00:00Z

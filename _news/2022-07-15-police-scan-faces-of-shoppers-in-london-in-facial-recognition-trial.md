@@ -24,6 +24,22 @@ images:
     height: 799
     isCached: true
 
+related:
+  - title: "Activation of new facial recognition technology expected within the next year"
+    excerpt: "A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the government moves towards setting up a common identity verification service."
+    publishedDateTime: 2022-07-17T23:21:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018849817/activation-of-new-facial-recognition-technology-expected-within-the-next-year"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 36
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--UqAhW-6Z--/c_scale,f_auto,q_auto,w_1050/4M9Y744_image_crop_123200"
+        width: 1050
+        height: 630
+        isCached: true
+
 secured: "N7KwFgyvpg3bLkcL+pKzpiTCXAVa1EL4CZwU7KZ25oL+sOAPJrEWCy687MSA2bqIU4t40jGlS5vJAnm0knoL6+Hqug8vdu8yBYSakGij+PHwZUtHtjnX3fFv0MH3XzV+XE0gQBWtscplkcckPt4WxJ4SM0v/udvH1I4LdLhg9/m9xLZGqcdAHWAG85J3VTVFih/ZtcoQKBWqoSb8XmXliLDcwPYDaiwdEmYCGJtWqeR4rgcl8S5Pu8KHxpgjvjU9sApM6OhNydrLqH1/TSdLmPQTkzf5gts0AgxYcgYKpcw8UXmt8Ms+s68pjsVuyzAiHJMTwtW/rDIXma6DC2z4r9f+dsDZUJsgcVRzb5kL3db7HXvWca+TTWJuiwQxjzn2uXv5jgWGStwqHGaXPkg0R72IuWHcqprLb1j3XYhqQMmTrJX6dtCWfM6fVL075+P3YyQTjZyx0anmzjudNM5LIKbxBXJI6kL3iHTQZjEMbM36pPY5RqFOHDcC9oEhkUlHN5v4UYLJ7CwBxLiTV69JGQ==;THP9KlcTzzepeemzP+DVpA=="
 ---
 

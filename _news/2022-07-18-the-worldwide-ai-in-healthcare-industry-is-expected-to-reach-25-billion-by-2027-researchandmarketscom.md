@@ -2,22 +2,28 @@
 category: news
 title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
 excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
-publishedDateTime: 2022-07-18T14:57:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-25-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-25-billion-by-2027-researchandmarketscom"
+publishedDateTime: 2022-07-18T14:58:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
@@ -34,6 +40,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
+    excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
+    publishedDateTime: 2022-07-18T00:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56571148-transparency-market-research-facial-recognition-market-size-to-reach-us-dollar-20-5-billion-by-2031-tmr-study-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The Worldwide Collaborative Robot Industry is Expected to Reach $3.2 Billion by 2026"
+    excerpt: "Analysis By Payload Capacity, By End User, By Application, By Region Size and Trends with Impact of COVID-19 and Forecast up to"
+    publishedDateTime: 2022-07-14T18:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28071692/the-worldwide-collaborative-robot-industry-is-expected-to-reach-3-2-billion-by-2026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
   - title: "Bot Services Market Worth $6.7 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \"Bot Services Market by Service Type (Platform & Framework), Mode of Channel (Social Media, Website), Interaction Type, Business Function"
     publishedDateTime: 2022-07-14T15:00:00Z
@@ -58,6 +87,6 @@ related:
         height: 338
         isCached: true
 
-secured: "gb+rPnSSAfMfvY3beb8KjaamreJWC0khgsNBM41qLJg1Y1mufy4OMh5lbD0P7qrsrMq614gfsTnnMnlam6lRGK3Q31LblhLGejGP613GNuxDtII30L/96Uvro6vdO5bshwcCO2CLfXGahJcJdeFNtVqtyzqZjtrc0RLFc8v4AnKUQkx5D29cdvhxacxZeMbyoC9D70q0KMv8ySz8j9q3bKQbSxalwf8eI0+dJ+eVXk9N2B3ghDTsjeFNbibbDicbKXCTgH7LBJtCTp0TgYV9ASaVLDwTPK2tVTevffI0K28HX+Di17fG4YHln6JJZRi+uTYwdRHLjVbsDy3mRWGZAlE0+EbPJJEZifzzwODfbJs=;4N74k1RL1cGuGUngH1DeAQ=="
+secured: "b3aT3/giNnjnsEFdUrz8RRYFSfMZEjNJBY2rjomLlHYjRjpLfiOHP+Ycgrazhvidab/TOhLUuLwpMguZHNEeR8Zno/QrKiuJj+czJsARHB0W9SmqaIo4m+ceg3uYJ4zsqoI9OvOPv6s7M3UlfAofAMve8PH3fK0VinAIk8Lq06WX9FNqLVk8JQZCzmggcQgcvmSaP9jJCPGrwwxbtF7I8dgo7Gv82XevAxTgvGzkplJ4N9rlWZvPWjB5NkHaGAPuZyWypgnOzKxD+Nj2DLRAHz4mB6MIjy0BL07fNHsTtinm96jinFboLOkqYUnsh8OONymsPy7QeUCRBOcC/5IsHjyVu66/eXepgxGzlBvLTHI=;3j8q9vHIp07QbmTmnXZTiA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: WRAL TechWire
@@ -27,82 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla loses top AI executive who led Autopilot vision team"
-    excerpt: "Andrej Karpathy, the deep learning and computer vision expert who was Tesla's director of AI and led Autopilot vision team, is officially leaving the company."
-    publishedDateTime: 2022-07-13T23:38:00Z
-    webUrl: "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/"
-    ampWebUrl: "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/tesla-autopilot-getty.jpeg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
-    excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
-    publishedDateTime: 2022-07-14T16:05:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 61
-    images:
-      - url: "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg"
-        width: 860
-        height: 484
-        isCached: true
-  - title: "Head of Tesla's Self-Driving Abruptly Leaves Company as Efforts Sputter"
-    excerpt: "Andrej Karpathy, the head of Tesla's AI department, has left the company, in a high profile departure from a department that oversees the company's controversial Autopilot driving assistance feature."
-    publishedDateTime: 2022-07-14T15:51:00Z
-    webUrl: "https://futurism.com/the-byte/head-of-tesla-self-driving-leaves-company"
-    ampWebUrl: "https://futurism.com/head-of-tesla-self-driving-leaves-company/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/head-of-tesla-self-driving-leaves-company/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/07/head-of-tesla-self-driving-leaves-company-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Tesla Loses Executive Who Was Overseeing Self-Driving Programs"
-    excerpt: "Tesla's director of artificial intelligence, Andrej Karpathy, is leaving the electric-vehicle company. He was leading some of the company's autonomous driving programs."
-    publishedDateTime: 2022-07-14T07:13:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-561244/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Tesla Loses Key AI Executive: How Elon Musk Reacted"
-    excerpt: "Tesla Inc’s (NASDAQ: TSLA) senior director of artificial intelligence, Andrej Karpathy, has quit. CEO Elon Musk said it was an “honor” working with the deep learning and computer vision expert."
-    publishedDateTime: 2022-07-14T02:21:00Z
-    webUrl: "https://www.benzinga.com/news/22/07/28059512/been-an-honor-elon-musk-full-of-praise-as-tesla-ai-director-steps-down"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/07/13/shutterstock_357431555.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla’s AI head departs after lengthy sabbatical"
     excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
     publishedDateTime: 2022-07-14T01:32:00Z
@@ -117,15 +41,20 @@ related:
         width: 750
         height: 521
         isCached: true
-  - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
-    excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
-    publishedDateTime: 2022-07-14T12:19:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-andrej-karpathy-self-driving-cars-51657782745"
+  - title: "Top 7 Autonomous Vehicle Stocks to Buy Now"
+    excerpt: "Buy these stocks to get a piece of the driverless auto industry. Autonomous vehicles, or AVs, are pretty self explanatory: vehicles that move without human control. The technology is extremely"
+    publishedDateTime: 2022-07-14T12:00:00Z
+    webUrl: "https://wtop.com/news/2022/07/top-7-autonomous-vehicle-stocks-to-buy-now-5/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
+      name: WTOP News
+      domain: wtop.com
+    quality: 24
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "yQ46Oo5/hiBFL2EBa2JbgkT3Bb1yRxCB1C97QwULzMdTEi3savPqwx0Uyb2nTOfhhyUjQYJlek50Xtq4KwzZX7Z3+fv8PyxzdvWxwkRyw+nPRlS3lP5gtA7vsH9nSnNd8arPgw3X1DmCAVSBLGAjiKJ/JWsh7NpOI8/roEC7gaHzCAgDZ2jO5pqDM2NbzX+C1r4Hg3D3vB1FMQctLB79m2wcR+KeO5L+tnUxcUGsQD5iP1CrYkvQkMyTCzbQht2Yu+l85tcqv7T1YEZ6qtMk3eS/GGWQ4ZRL+Q+8N7HLFi2yBRNCvHwiygqONgPzMaXZenl/yRhV5VHF/xmco1Pw+ntZ9XknCjBoBHB9BTYeuDwjfjsEyxbXDIwTfoMs84h9dPbjEHmSJnooJ8WUmXoe3agRaP+zMbl58Uh+XoQBAvaMmU9OdYL1lukR444vpxtLsBXLhkJSYmH2Fri8ShcWs2v2z/EIoghGiJ79fosedqbT3tiVyziS+KVtE0HyKptlGnNelwIBtsiY9Is3QnkX2w==;vJaei6Xw2/gU3yNI2ZtYbQ=="
 ---

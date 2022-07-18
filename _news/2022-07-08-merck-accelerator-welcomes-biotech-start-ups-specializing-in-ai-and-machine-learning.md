@@ -3,8 +3,8 @@ category: news
 title: "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning"
 excerpt: "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development."
 publishedDateTime: 2022-07-08T08:53:00Z
-originalUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus?aca_news_section=Global+Industry+News"
-webUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus?aca_news_section=Global+Industry+News"
+originalUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus"
+webUrl: "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 443
     isCached: true
 
-secured: "bTpB6HfCkRv5EHKx52VnqFByNcAtuwOyjtz3jboyodnb+YF2NEzje417n5VsPlesLjLYLRiNU0BZXwXBGwqqaPgvjjWcR0drKAKlCL0AdmjXtflMiXBDVGjZO4RGoI4ag5HDHx8tJLQQ+khWeM0mzoXShF0JSqLpuQ/jhPd23IbuwybzOjMUiQXUGV8NSwdkYWGo3YTk0YFtNXce+43SCPBLwACH9I7FsPYB1OLr06TQ6Gzp3V3KqgsWJH8GMwZWr7x3hi2smFlfWr41A85Vttloxz3bcwLwOvcfmbe5rrWAUnUKSeBjpltzfScSuLYsHD6+xFpcrx9YBq9YPSeY9fpMGsgjROOwzDCDdmOxLs4Sn0mZ5gWoHmnKKPvOxtTSsA5pwtsHmfu4Sr8MRt+TsuC7h0Ku56/m3G9lcg7RBD6KUYL6Ft2LxMBOklS0nBz+eV7eP0Fl70xZCxOii5O7FN/Qr/mTpEUdaoetXcTA5ZYJkt3di+eAj2cYobsQcB4YPuH2aA2tf23JNwCKlY6KTA==;aDKufEqrouAWr+jYr1tzGg=="
+secured: "ELUbMRwIYf6mFhOEWC5k9OLf1+VOuaLjF6Cw4DxCs2lNQIeii6BindyVzj/key58qC6efnGr2zCXwypcvTGkFzFnJ53lP373kisfXV1v6aYoWNTp4be3CS8eLRw3ZI1vO4cGf1sAUGxQIZ10ZwGvNuMxdLmAN9PlkkKXJNT7XgmV5XdqUUZNO4927lJwozPrPp+RLakcrCz584S6rc5aMMQFvVZ6pNd8ZX+CjwSAFlxCQA3Xno0PdlB+KuTHD/jQU1OVbBKJnvJlqusCCPPUDXFp+nn9Bi/h5ygt3csBhh9DbIMgHsmGNgKCFqrUTVUh8Ha67NVgo8Yb4EMc/u4Hg9iTItc1sHYARvpjmk/m628=;+D0tZOcuYErJQiWkg4TRDg=="
 ---
 

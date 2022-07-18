@@ -38,6 +38,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung unveils Galaxy Enhance-X software, uses AI to enhance photographs"
+    excerpt: "For those who are experienced photographers, Samsung has the Expert RAW software, however, because of the company's large customer base, not every Galaxy user is aware of what each dial does"
+    publishedDateTime: 2022-07-18T17:42:00Z
+    webUrl: "https://www.business-standard.com/article/technology/samsung-unveils-galaxy-enhance-x-software-uses-ai-to-enhance-photographs-122071801504_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/samsung-unveils-galaxy-enhance-x-software-uses-ai-to-enhance-photographs-122071801504_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-unveils-galaxy-enhance-x-software-uses-ai-to-enhance-photographs-122071801504_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 56
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/18/full/1658166109-865.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "bAA6cul5W9ElnygktVFL4lCL8w79x+gv97dol0dctBJIl97ElxgEwvrcP/2X/ICR8NRGBCZX0jeqzFFJNV0RF1aNlYQRbIDt1B6yQbIWRBhwlLxV/6nOzF/i/gLvfSXdUsKj2t/ZvCtK4huLus8fXVCTNa+e62ARA+fvbVkG1WWjeeS5gE6+DEqDayfKmq5W1hoUhv1TQ8EMeOok2ae7R7XQ0KVLtYLMz7K6RsNR/ud65r8gj1jrB8UUK32DuUz+ePUG473p6HG8Isw7defRhy4QbCxHns38sFISdULBEln/8Y0NdxQK37rOOC1xt+gQMLR8LzEpIg7VR8yl1cyE9jZDmljWvf3grHdHIbUHdCA=;P+p7PhLVovx3E6uYeJJDSg=="
 ---

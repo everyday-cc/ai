@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-artifici
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -26,13 +26,41 @@ images:
 related:
   - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
-    publishedDateTime: 2022-07-18T14:57:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-25-billion-by-2027-researchandmarketscom"
+    publishedDateTime: 2022-07-18T14:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
+    excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
+    publishedDateTime: 2022-07-18T00:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56571148-transparency-market-research-facial-recognition-market-size-to-reach-us-dollar-20-5-billion-by-2031-tmr-study-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The Worldwide Collaborative Robot Industry is Expected to Reach $3.2 Billion by 2026"
+    excerpt: "Analysis By Payload Capacity, By End User, By Application, By Region Size and Trends with Impact of COVID-19 and Forecast up to"
+    publishedDateTime: 2022-07-14T18:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28071692/the-worldwide-collaborative-robot-industry-is-expected-to-reach-3-2-billion-by-2026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
   - title: "Bot Services Market Worth $6.7 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \"Bot Services Market by Service Type (Platform & Framework), Mode of Channel (Social Media, Website), Interaction Type, Business Function"
     publishedDateTime: 2022-07-14T15:00:00Z

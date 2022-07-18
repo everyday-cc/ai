@@ -7,7 +7,7 @@ originalUrl: "https://wtop.com/news/2022/07/top-7-autonomous-vehicle-stocks-to-b
 webUrl: "https://wtop.com/news/2022/07/top-7-autonomous-vehicle-stocks-to-buy-now-5/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 512
     height: 512
     isCached: true
+
+related:
+  - title: "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving"
+    excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+    publishedDateTime: 2022-07-14T15:55:00Z
+    webUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/"
+    ampWebUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/03/TechWire_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla’s AI head departs after lengthy sabbatical"
+    excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
+    publishedDateTime: 2022-07-14T01:32:00Z
+    webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
+        width: 750
+        height: 521
+        isCached: true
 
 secured: "5aD4YDr/vQlgTk2WhAFX2+SIbqlF/6AS/5MaRmOTGUt8BUF00oylspPdVUyILJeW8HwSIAikFO3tfAPuaBLO+k7ilcBoS8o0vDWli2gSjEiLKGJViRVmogPvyS8aq7+qN0mf4xbVHtAxGvDVw1PBmOyjdvUBO6jDTN2+qCBVEjSwFs5hXFSXfQQOOlRG7rgnJjW3PFr90hoLmtYOr1wzImrMcszBdPXqYykQOzjxqo+d6YP6wizFumXNeCOdT21nnij6Tn8NN13wrTXjTzV0n0gR3zD9CvfXf2FnxFia5sNkdG8p4ne5CdgszZEb0IR9mF0JHD9z15HYpBieSpT/1CiyWsZjeW2sv9NwZUsk4C4=;O+E+khx1LADpBx3v2N2y8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

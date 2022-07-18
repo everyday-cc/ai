@@ -28,17 +28,17 @@ images:
 related:
   - title: "As AI language skills grow, scientists worry about accuracy"
     excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
-    publishedDateTime: 2022-07-17T23:24:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    publishedDateTime: 2022-07-17T18:24:00Z
+    webUrl: "https://www.wfaa.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
+      name: WFAA8
+      domain: wfaa.com
     quality: 57
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+      - url: "https://media.wfaa.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -73,6 +73,6 @@ related:
         height: 576
         isCached: true
 
-secured: "VHS4hpXTxKJGP38f4zdhbUOPV4ejULg5uM80u+YeMXeJ5pHtG+INGJNwbdVbP6PSr3bDbwh7+0ts9RY5mU5GO30VqRd510sjvHEoHk6jx/Sj4WUaZSEl56jXMQRFJb2R5BIiKD8pJW4ZgwDcwEpZJeOHv6CaAqOayLCzdoSFs7eCD51Z50wmiXI0u161rps+LRGOfQlGSIwHsNJX0vytwAoadBvFUjGzKu4bjKKHzJHacVxYIdR2Tr6JbkdFUUNiy/1e7CxIntnAnlxUtcnMai/joHtdw4rkImz1+EmG5rkhFTKWgSHM7o8iPMnmJ94uDzuhfnf9lg2rjE0cqvGZbG1iFE9Fmuqh5t7+TZqM6Hk=;xRfBJlGSeL12JBEQqMOuQg=="
+secured: "AuSBUeNGI1Eixj8yKjN9I3oFrYh0UBM/WNxU2LpMX6xc4VAxxNdMRVCNbrbONmGHECYAbILow4cI9W/XLZEFT+L/vRzvb8imBjDLf4wQynsMXxFJ4/P6CfigKHG3jDfyE7AhCX1vvmdooP3HQQuPlVtXhIAuSIvBYA93VaQ/N8m0uQN38YWnfRUyYwP/GcmZ/UWpvrI5gbcFpTsKxORO+hGxdYhmC29dZBEEjWc+/5JjmU2yjQuiJZBK/b8zKlgX61EJadx4kDnzpOto15ucvNHfdXt/ZRNFOyewLlDW9Li6lYnKU/3DQVDctSf6Rzy6jOhzUYby7TVjg6+YuBUIxUIQdlNlLDbP3w9FN9PXrD/yD+LZFrsa3JAdozSyNTg2H+ozCwacJ2Pj3wdmR9Du7jGTaDbIpAda8qmf/klX/z4Yd0Qzy06IMe4r29z4RitOfMgvjJHH9tAfq4/Egag+LCahwrtVGcx+CaXRPBMvUKAuHgabIjDC9spVq2uRJulkT30nNrFfRE4SKex/qWUgbg==;Kk62KF9qvq42ztWm6WFHhw=="
 ---
 

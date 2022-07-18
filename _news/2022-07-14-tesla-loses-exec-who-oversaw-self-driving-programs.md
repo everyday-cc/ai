@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Tesla loses top AI executive who led Autopilot vision team"
-    excerpt: "Andrej Karpathy, the deep learning and computer vision expert who was Tesla's director of AI and led Autopilot vision team, is officially leaving the company."
-    publishedDateTime: 2022-07-13T23:38:00Z
-    webUrl: "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/"
-    ampWebUrl: "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/"
+  - title: "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update"
+    excerpt: "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-07-14T14:44:00Z
+    webUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/"
+    ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: Electrek
+      domain: electrek.co
+    quality: 77
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/tesla-autopilot-getty.jpeg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving"
-    excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
-    publishedDateTime: 2022-07-14T15:55:00Z
-    webUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/"
-    ampWebUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 67
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/03/TechWire_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
     excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
@@ -111,20 +95,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla’s AI head departs after lengthy sabbatical"
-    excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
-    publishedDateTime: 2022-07-14T01:32:00Z
-    webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
+  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes. Data show otherwise"
+    excerpt: "Dozens of drivers have filed safety complaints with NHTSA over incidents involving Full Self-Driving — and at least eight of them involved crashes."
+    publishedDateTime: 2022-07-14T14:39:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/07/14/tesla-backer-claimed-zero-self-driving-crashes-data-disprove/10057741002/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
-        width: 750
-        height: 521
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 16
+  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
+    excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
+    publishedDateTime: 2022-07-17T12:00:00Z
+    webUrl: "https://billingsgazette.com/business/musk-backed-a-boast-of-zero-self-driving-tesla-crashes-but-data-show-otherwise/article_90d214c6-048d-11ed-a0f5-779418748d88.html"
+    type: article
+    provider:
+      name: Billings Gazette
+      domain: billingsgazette.com
+    quality: 14
+  - title: "Self-Driving Cars Could Soon See Much Better"
+    excerpt: "Self-driving vehicles, including the ones that the U.S. military is experimenting with, are still pretty bad at picking out small details as they move through the world, a limitation of the Light Detection and Ranging,"
+    publishedDateTime: 2022-07-14T17:32:00Z
+    webUrl: "https://www.defenseone.com/technology/2022/07/self-driving-cars-could-soon-see-much-better/374463/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 4
 
 secured: "pzs8LUqMipWf9BjtWZmgagtJ0pzMGLBVtU5Vkbgx5/y3W+nNVXZn8ucJotyJM9WsFdw28OrAwzjhQXm0AegJvQR6FJlRsC9T+DwKGcJAD3uy3VPrebkOe/Mc9xrwrmm+R6WZa1EEajmID1x/g3ASp6XGk/jri4sfx9JT8+8rKy7oGKAFwmC6xWc31jZq3nug4RkN+IGtSGYyo/AzegxTfo0GB89pvg3/laUVWo3Vr2+lUX9AlfGGoKiGgx4HR8/avYcSypvJpnLOZr6EBcuod737X+SdGA2GDSHXDJKikUm9VJDiDcfPchRiIvz45yw1ORAT1iahDXUZLW4YhKGV0C3WheUmEmLUJuYrMJd+RjGpZ1Qgp3Jwi7vqPcxU51J6s9KtF2vhZShnUHrZZvlYZ3LC+PH4tBSbvWVUAlPbj0fx9+oPIF3ykGRvBDb6comVlFOJI+YCwU9JfYRXWD/ZpTiIrew+TSLoM5nHEH+byL2Z3ukGPK2nrzqPSGZM+AQEUODIJj6qR96jHuS/zAFOLw==;8Ke/dcohGdwXwTZvSfADtg=="
 ---

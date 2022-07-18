@@ -45,14 +45,19 @@ related:
         height: 229
         isCached: true
   - title: "AI Workforce Development: Opportunities for the Emerging Vietnam’s Companies"
-    excerpt: "Discussion with several Artificial Intelligence (AI) experts shows the potential of AI workforce development in Vietnam, as FPT Software - the Vietnam-based global tech company achieved its first deep learning patent in the U."
-    publishedDateTime: 2022-07-18T15:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-ai-workforce-development-opportunities-for-the-emerging-vietnams-companies"
+    excerpt: "The Vietnamese government opened the door to AI and high-tech development in 2014, when they introduced the term “industrial revolution 4.0” in their economic directions, focusing on AI and 5G. After six years,"
+    publishedDateTime: 2022-07-18T15:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-software-vietnam-artificial-intelligence-6c4ec91c66a74b61b3f38f061d06dd10"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "OgOQ0OUeNTECUksQQk5Qzn3qFwR3clnpvcmvm3DPxJQW0p823t/9DVX2Z3JRII3WRzpcfVNaaPsgJV9Lh3lWQP5ueFedYCTkY2l30hvt9aQLoJlJpC9BnNRlQgiIUZo0orVgrexcEzj0NiKddHMafqyGR3UYXhibJP5xypqhvxGZXFK/USu0T9QB4kqFsjc4OwSsdJQyb+hH1bmsz20avEtwEawxR9tAHDjzYUXHqTwYreJxI0iUZHTrIccuRj0DJCJnytQ6ROGpfFZqFt5l5BzzQ95hbtGSENY39VlLZ6zLLA43hlDsW3sWhMSedn7Xpbuy01vz5ASR/6USNJyztPTJLMDHmw9zKRKDTQ6j5m0=;DCyqfLpcRTC2nXwwq17Ahw=="
 ---

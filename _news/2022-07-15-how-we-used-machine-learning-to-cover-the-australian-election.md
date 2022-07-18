@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Everything you need to know about retail’s facial recognition fiasco"
-    excerpt: "On Tuesday, the Australian government’s privacy watchdog opened an investigation into retail giants Bunnings and Kmart over their use of facial recognition technology in stores. The move followed a complaint by the consumer advocacy group Choice regarding the retailers’ use of the technology,"
-    publishedDateTime: 2022-07-13T23:53:00Z
-    webUrl: "https://insideretail.com.au/business/everything-you-need-to-know-about-retails-facial-recognition-fiasco-202207"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2021/04/Bunnings-Carpark.png?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
-  - title: "Kmart, Bunnings investigated for facial recognition use"
-    excerpt: "Kmart and Bunnings will be called before the Information Commissioner to explain exactly how their use of facial recognition to monitor customers in their stores is in line with Australian privacy laws following last month’s revelations that retailers had quietly begun using the controversial surveillance technology."
-    publishedDateTime: 2022-07-14T00:31:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/kmart--bunnings-investigated-for-facial-recognition-use.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/kmart%20facial%20recognition%20store.jpg"
-        width: 689
-        height: 388
-        isCached: true
 
 secured: "pF0tg4X7DgeVtWNy1WvvBePgUVKBGaEi5ZiYxJ2XvQCwJiJjgHNtRV9hL2PPMAga00CLm4zMfFV+QmsWeY+lpSr4wF9HnCcD/5Q8ljDz1c4gF74Voiwgjk+9Z6Wn3eyBYrKbFpm/T6ulKNjKHim0TC8ON9j+XbB6JLts92bp8nr6Kizkwh+x0k6McH3LR/g4FhiouT+MfYbbvnn0FMIWmfMysnhS+riYcWpUeKg3OIw/RPVU7Fg2yEtHVXa3bjQfHX1E8LQfOxfd5ADAYLZ1h08ytbLH6mx+rbaxDH2Kk7NEWLjwBDffptbkdSv2PCQKcJMBpnNXMUKlf1Pugm5YVDQXCfiZnlW0hxW4E/Ev4ZMsE7Fd7DTSlfaUlBroxuq26SK7TOj44JY7gMW7bzrHGdL3PtZXRWDhKfc40Qj4L2M5JTTsmhDjMjTLohb6IyxFo50/FyTy2BT5uvco1C5GTilo/9SyFW2N6+Ww79CO16RYFdbObM8ErrtYeLyWuby7cTfY30HRqV0iRaMNjL5Mgw==;yCKm09I2CSxDcarsSOCfhQ=="
 ---

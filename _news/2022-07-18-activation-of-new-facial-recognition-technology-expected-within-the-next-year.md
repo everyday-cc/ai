@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What you need to know: Ministries toy with facial recognition"
-    excerpt: "Analysis - Documents show multiple government ministries and agencies have been batting about the idea of using controversial facial recognition technology."
-    publishedDateTime: 2022-07-13T23:18:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/470915/what-you-need-to-know-ministries-toy-with-facial-recognition"
+  - title: "Police scan faces of shoppers in London in facial recognition trial"
+    excerpt: "You will be taking facial photographs, videos, and selfies with a variety of camera systems to provide data for analysis of the performance of face recognition systems"
+    publishedDateTime: 2022-07-14T18:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-trial-police-scan-faces-oxford-circus-london-b1012411.html"
     type: article
     provider:
-      name: rnz
-      domain: rnz.co.nz
+      name: London Evening Standard
+      domain: standard.co.uk
     quality: 39
     images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
-        width: 1050
-        height: 630
+      - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "6nmM6O5nXWcADak3e3RQh6xtIDNz9Iywy8yLq/sBle6W6zC9kDsbN7pqsmYZMYGbTPUzeufl4aVvfpYckl7gLX+H+jhpdttz/S+kkJWcnkiL9dfvP4vUxzgJY+puqseVzRQBHgx9Hffw32BryL17E5TSKnHIZE3Hcl6UGR5cvb7BbOKe+MD95MGKq63hb4ItTXUI/S/WOuW1AoLWd+iov/iBAJ3SkZdwWOvUvN5FRGIEo4TJcCvsCw/ddKoDWKWNsvzbpowo3s0omq++oFuH5m6qEbnNHkf4iNvPU4ZRz3iHnKDOFE86eVE0FNZoIly1mxc/gtEUh0OeNXgwdn1f8yzr1thE2mseZ4efOvxgQwA=;oeG/LhzlmeXKHq4JhqoRbw=="

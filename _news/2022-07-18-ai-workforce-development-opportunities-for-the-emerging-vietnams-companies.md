@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AI Workforce Development: Opportunities for the Emerging Vietnam’s Companies"
-excerpt: "Discussion with several Artificial Intelligence (AI) experts shows the potential of AI workforce development in Vietnam, as FPT Software - the Vietnam-based global tech company achieved its first deep learning patent in the U."
-publishedDateTime: 2022-07-18T15:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-ai-workforce-development-opportunities-for-the-emerging-vietnams-companies"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-ai-workforce-development-opportunities-for-the-emerging-vietnams-companies"
+excerpt: "The Vietnamese government opened the door to AI and high-tech development in 2014, when they introduced the term “industrial revolution 4.0” in their economic directions, focusing on AI and 5G. After six years,"
+publishedDateTime: 2022-07-18T15:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-software-vietnam-artificial-intelligence-6c4ec91c66a74b61b3f38f061d06dd10"
+webUrl: "https://apnews.com/press-release/business-wire/technology-software-vietnam-artificial-intelligence-6c4ec91c66a74b61b3f38f061d06dd10"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Bobidi launches to reward developers for testing companies’ AI models"
@@ -49,6 +55,6 @@ related:
         height: 229
         isCached: true
 
-secured: "UvaVyXDxUlLCPK9kKSUSjP4xtZk36GW54qv68AoSlvYLd+httT6gHw1zevISoTfTHAH25YSyv1ncwhTKO2e01BLEjIMoInbmLnvQBNlFxT27FuxH0xb5ElvcfmsjiF5G/gK5Qs3sPQBo/ztA8Xbs5/UjwIUIRphalyKAIAvd8hlc9ndU69tteopx+TTglpxWC9PsfidlMC93X1djrPMklorQvj+fEP4flS5Lbb9o+PK8OB1UmJY8yW1Rj+NdRoAiis/jA8Nr/5aEVbWkLWkagRqUhS+McVZVrF9jEbykMCko2q0qR2szeHCQuiPGxpb74dvaztDn6TfrgTVsVJ952f1+AT5UmuueU6g+4Eyn0hE=;BztvuMBtn58pAxAhwhX9jw=="
+secured: "aiOQPYmR4wTJWZFFUd7gAB/lNFSC3OSTlrDIx+iE3zJkB2+JqwH+fHm4Q5o+j/eiPFAjsfuPJEWuxd699bF/MQLPkhki6+dVA1AgQSYo8vqMKMn6VNISAJFur4G05N1bl9awSf9kaM/oH7T06A9GTlUIYS1XEeidxZSl+9sifTEVUlAGHfuRcwsUtVVbGxBm/YKvtgJQJTuVeKHX9KEd0meHQpYJKp1HyEy7pmItUgVYbB3mpLMXs44chwKq5KjVyaN3UtehQrl56cOs9J1K1YWRyM4yPgE40LCGUryhJP/RoEqgndwk7ZvKrv35ebQYBvPfjgVPFM5l5TFzUczWpM6oQfpKrcKYQmFm8aPBWAA=;UPblDLb7JzjkiwE4p3FMxg=="
 ---
 
