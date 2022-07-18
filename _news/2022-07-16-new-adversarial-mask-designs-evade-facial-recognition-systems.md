@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OzTech: Deakin Uni breached; AI for NSW roads; Retailers’ facial recognition probed; First CDR penalty; $23.7B in IoT spending"
+    excerpt: "The hacker used the information accessed to send a phishing SMS as if from Deakin to 9,997 students informing of a parcel arrival, of all things. The person or group behind the breach also downloaded contact details of 46,"
+    publishedDateTime: 2022-07-17T17:00:00Z
+    webUrl: "https://www.computerworld.com/article/3667372/oztech-deakin-uni-breached-ai-for-nsw-roads-retailers-facial-recognition-probed-first-cdr-penalty-2.html"
+    ampWebUrl: "https://www.computerworld.com/article/3667372/oztech-deakin-uni-breached-ai-for-nsw-roads-retailers-facial-recognition-probed-first-cdr-penalty-2.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667372/oztech-deakin-uni-breached-ai-for-nsw-roads-retailers-facial-recognition-probed-first-cdr-penalty-2.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 46
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/02/oztech-roundup-100876243-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "London police paying public to test live facial recognition during live operation"
     excerpt: "The latest trials of real-time facial recognition by London's Met Police included both testing with paid performers and live operations."
     publishedDateTime: 2022-07-15T15:59:00Z

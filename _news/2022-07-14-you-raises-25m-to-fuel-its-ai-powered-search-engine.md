@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Deep Learning Company Deci Raises $25M Series B"
-    excerpt: "Deci, the deep learning company harnessing AI to solve the AI efficiency gap, today announced it has raised $25"
-    publishedDateTime: 2022-07-13T16:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/deep-learning-company-deci-raises-25m-series-b/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-
 secured: "VkactoU1BbI2208W4s1uOhLOw/RcxQLAB43W5AYynHyd73ozicPMUWHmas2MrX3C2zsG3S3FJrC30vPFNeterFzfgx4AgQXU4986xi9fxAimz+zFW8c/O0cHQGQPyfB57VzJ4Ug63Z9gffv7mmmsQxDCBl45aJgVlLiH5fjcx+sr8I66XrBn1L+EDOjQCol+mllfaf/SVKN5fIFmrQ4orVb7M/8kK5QXG2D5fDBJLQG30ayJzfw3sBBqjdrP67nG2eoGnM2b4S1TMcKso1CVmNGukdRLhjOolm3UuRmJ82StMFRS4l5N/buPTfHuB/TaSQSdtRMwixVWDJUlvSo58a3qzaWCvmlkQBtAJGMCdAHANxkJ7U3u2N4v82T26WhrkcvQaN9DOl/7do3FFdCVB+hUv3LUHYpSgnv1FmkNfOqoGkG3ydm4VGqGEH97fj8titIll2GbbC/ZwzBTGJol7UfA2RbZw6qVZQCa2xfYZbfc/eez4vrVReJxSi0hgsad4ZAslhB+VYBjwy0WfXE2pw==;bWVuFkTh8fOEGt+cBwNICw=="
 ---
 

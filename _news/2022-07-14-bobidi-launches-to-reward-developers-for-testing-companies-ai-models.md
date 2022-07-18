@@ -38,7 +38,7 @@ related:
     provider:
       name: AlphaGalileo
       domain: alphagalileo.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"
         width: 286

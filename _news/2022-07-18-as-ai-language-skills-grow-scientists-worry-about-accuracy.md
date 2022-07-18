@@ -2,25 +2,25 @@
 category: news
 title: "As AI language skills grow, scientists worry about accuracy"
 excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
-publishedDateTime: 2022-07-17T18:24:00Z
-originalUrl: "https://www.wfaa.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-webUrl: "https://www.wfaa.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+publishedDateTime: 2022-07-17T23:24:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+webUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
 type: article
 quality: 57
 heat: 77
 published: true
 
 provider:
-  name: WFAA8
-  domain: wfaa.com
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.wfaa.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+  - url: "https://media.whas11.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -43,20 +43,20 @@ related:
         height: 3770
         isCached: true
   - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
-    publishedDateTime: 2022-07-17T19:31:00Z
-    webUrl: "https://keyt.com/news/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
+    excerpt: "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+    publishedDateTime: 2022-07-17T17:48:00Z
+    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: KVIA
+      domain: kvia.com
     quality: 39
     images:
-      - url: "https://keyt.b-cdn.net/2022/06/US-World-AP.jpg"
+      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
         width: 1024
         height: 576
         isCached: true
 
-secured: "IkwOhI+/PrQawaVGtPkWxvdmwW/399KGBb+jpZ5SfuJXlRn4bN67XHDCb7VFIGciq44+tVtcHqIg7M1/TkicUrYcAB3x6UT5ZELZ/+5hfh6yIKNh0u0Wd1kh/fntSUf9u7JwrqcgpZyjSEf8jxqNtQFEBWlDA7GSk1QoESApbbDGeSZImVOM1wiSOUj9n12duVtdYXwmRd+UDHpAVpdiBNwNd9aA1+55HCCyeaJ2SZdyYBKQw1hYlRbgUr9i5H6dGXUyDvx2+hXPHFnjIo1KHslm9bMzOsFK3HgxC8rzRoOvBk9zIOVWvpC6JQosm/hfIasW2fKbSBsYMlNgaxGt4A5VcFR+/IN5mmHw0DOJdvA=;6S1iUiRWVLsiS4OfQRCHOA=="
+secured: "f6FvAldX0ixT4PGYtKC+ZWWbtP7+2rFwNfI8WOB0eDgPYFETrp47/cxfu19+0qEq8iYV+iGi8xIUafxF64kSryAfkzLIaj5nhjNBfFd9e3otJQZ1dVPTz3sc8VAOWuN37gkkDIb0MBTj+vSmaXxNW1BA2OWgQJ4twSMthDYXis43ifCcr2UYUbq5xQWYrsn0lyUoVcgNKq7b8yU58yyCBotYV9sGQtYguxFFdZv9Feu6C/jDJZN06m93nccioi7dHRFBnXrdHAGBrgzM0EeHGcLz3JGQS+1c4+fvrCi9GJJe5CfQfHJ7WWk/0S4ZZhQCszQcPsEVIOUbMkwf/GMlVTwo7l57p7tHdppiyytjpUI=;yFbA+atSD69F9dzDvcV2Zw=="
 ---
 

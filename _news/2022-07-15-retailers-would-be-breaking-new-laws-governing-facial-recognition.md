@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/retailers-would-be-breaking-new-law
 webUrl: "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "OzTech: Deakin Uni breached; AI for NSW roads; Retailers’ facial recognition probed; First CDR penalty; $23.7B in IoT spending"
+    excerpt: "The hacker used the information accessed to send a phishing SMS as if from Deakin to 9,997 students informing of a parcel arrival, of all things. The person or group behind the breach also downloaded contact details of 46,"
+    publishedDateTime: 2022-07-17T17:00:00Z
+    webUrl: "https://www.computerworld.com/article/3667372/oztech-deakin-uni-breached-ai-for-nsw-roads-retailers-facial-recognition-probed-first-cdr-penalty-2.html"
+    ampWebUrl: "https://www.computerworld.com/article/3667372/oztech-deakin-uni-breached-ai-for-nsw-roads-retailers-facial-recognition-probed-first-cdr-penalty-2.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667372/oztech-deakin-uni-breached-ai-for-nsw-roads-retailers-facial-recognition-probed-first-cdr-penalty-2.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 46
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/02/oztech-roundup-100876243-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New adversarial mask designs evade facial recognition systems"
     excerpt: "Fabric face masks covering the nose and mouth and printed with adversarial patterns evade facial recognition systems more than 96 percent of the time."
     publishedDateTime: 2022-07-15T20:52:00Z

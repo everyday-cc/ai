@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-14-this-ai-image-generator-lets-you-type-in-words-and-get-weird-pictures-back.md",
+      "title": "This AI image generator lets you type in words and get weird pictures back",
+      "excerpt": "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220711163147-craiyon-rainbow-lion-eating-pizza-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "publishedDateTime": "2022-07-14T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched.md",
+      "title": "UAE: First BA Philosophy and Ethics programme in Arab region launched",
+      "excerpt": "Mohamed Bin Zayed University for Humanities has launched a Bachelor of Arts in Philosophy and Ethics degree programme under the College of Arts and Humanities, the first academic offering of its kind in the region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
+      "originalUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=b5885a70-097d-52bb-9b86-ef567ea5a247&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
+      "publishedDateTime": "2022-07-14T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-in-data-centric-ai-its-all-eyes-on-the-data.md",
       "title": "In Data-Centric AI, It’s All Eyes On The Data",
       "excerpt": "The data and the results are fed into a neural network. The neural network then generates a model to connect said d",
@@ -1134,100 +1228,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
-      "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
-      "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "originalUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/019ff2d0-028c-11ed-bfbd-7e14de53802c",
-          "width": 1600,
-          "height": 1038,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "publishedDateTime": "2022-07-13T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
-      "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
-      "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
-      "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
-      "publishedDateTime": "2022-07-13T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

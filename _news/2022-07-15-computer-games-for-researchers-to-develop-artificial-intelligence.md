@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-15T08:00:00Z
 originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223217"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223217"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"
@@ -41,6 +42,6 @@ related:
         height: 358
         isCached: true
 
-secured: "Bts9eE2zMGpMXpq12Of5okPTesilZtdjqmiWEYS41f+/XRC7l94/JmaUjAMfYrDTGOR0Dz6jVwxmL93Iia8WG8QcBcXpv4CQYGZZXJvXxVAvKDiTcYQnFSI/HdOUco0guySuzx2wX5x4ErPDGGfXlSmfgjhyRDMElgLGgC9kx95T3DKZaiGFvOhgnxPVCubA9K189THFseQau7m8y2kV0y1aFPbifpXaoNcqSrR71fFiS89IB7fLA8+Dx3AG5tXyLy4w/HfTXsq4FzRtdJlBf5dc+8s+VFh+V9p1+IXP3PZ3F4PDFpYN8K2DIiq6Zp49RP3MmpoRt39bnadoLFhYWt44O8LZBy0Gv3tpKYc0E5o=;KmDXlagg/Yg6FRk4bQ2Tgg=="
+secured: "gy7Jb9M5yUAA4es+kvKlS7OCsr+cXGdXodgq+1kZyst7O1g15kx7Y7TslTV67PCayQj+Z2LiZJeAq7AXE32c0jKZBVqWidK1ywDDdIbXc2hAtVTwJGjNQgU+Vx2LQDedLuFu3jEoiUvfDEpxzY4/beYd/HMe5Q9b68s9tCXcj5+y3sZwRScDoSidM9F4JbrPocJtXrxfHoF8cvGgArefsvKgzQRRneRNVNZTXF/SPxxnvbhTFYAfH4wtVRRhTQu0glwIL5MqROdGJ4Z06+QGw1//fAFWAB/K5GtVpLp2rFl+xVvaOb94E3JEeKYfuCRYGnrsPPRTPMBng2xoxZNypg7sgAoJzjcrjpF7xipNlc9sKGzU0zlG4tfZJz1kgvqLCmW4cpjEEN1nMmO7FBkTKm/M9AtLAXWgnnuZraPy7MCcacSTkiGyzwB/QQ7asZicbZ//aHFdfbqpwNnpgKEsu9AoFAoKdyCTkJ1tO/ulhSLKouZAuoM8EB41p/RZCijl+hx6VjAodaAMqTltY1Pw7g==;y6yuWaiIga2Se3VVQ8V54A=="
 ---
 

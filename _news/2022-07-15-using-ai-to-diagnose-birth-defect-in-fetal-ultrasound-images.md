@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultraso
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Applied to Imaging May Help Clinicians Diagnose Fractures"
-    excerpt: "For fracture detection, artificial intelligence (AI) and clinicians have comparable diagnostic performance, according to a review published in the July issue of Radiology. Rachel Y. L. Kuo, M.B., B.Chir."
-    publishedDateTime: 2022-07-13T15:19:00Z
-    webUrl: "https://www.physiciansweekly.com/ai-applied-to-imaging-may-help-clinicians-diagnose-fractures/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 37
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/07/image1657725544.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Using AI to improve your dental care and keep you smiling"
     excerpt: "In this interview, we speak to Severin Stalder, CEO of Zaamigo, about their AI dental camera and how it is helping to improve people's dental hygiene. Hi! I am Severin and the founder and CEO of Zaamigo. Zaamigo aims to ‘bring healthy teeth and a beautif ..."
     publishedDateTime: 2022-07-15T13:27:00Z

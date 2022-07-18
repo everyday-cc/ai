@@ -73,6 +73,20 @@ related:
       name: Investing
       domain: investing.com
     quality: 19
+  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2022-07-18T08:13:00Z
+    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 8
+    images:
+      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
+        width: 301
+        height: 251
+        isCached: true
 
 secured: "O22wMQf+J2j6XzpWo/Ex7JgdmDtJNzyepCVQAI5mFxZ64NpPDrSW2xX1ErpsdYpZSuAybWmKpKna4Xa+myONprbkoYALNYQ3zigyJ9eJVsHXfCQCtSGkADIKx539xdz23KgHlblROCVQi2+NkRpvG+BK3gl2T+ywzRr++AuCEa5fr6qKwRGWEMdh37Bv/9QyXkNw3Us51Q81cRqe/uz9+g7LwhVsb6UV2P2BnBx1mj6k4P3+BZwlJ34HACqiogYyX4wGjKto/4bce431d/nYbFWOTwRP4SNoO7tIx2Fq74aBDC44he1/4JwvuxVjX0qIU9e9KGhfMNToGXAYT9JNYZn+Umko7JtVuXom9UBGmP+OOvSJRgVWilR4/hIV55K+zoHaA2lWPQ9TX0JucL0/s0Bq9bIit9NscxgL/YdftRMYj7HHPhPN7KMxIvzILqlpomm1aupD3dPcWg5oJhEHnd0KrSMCFV3l/X53meP/plpfxPJEf82pcbpbrU/AMsxNhwG/YZmaVx2PTKzcX7QQVA==;5zwY0/RdyRSJbpFw9GMFSw=="
 ---

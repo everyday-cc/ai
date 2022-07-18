@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Identity revealed: New facial recognition technology expected within the next year"
-excerpt: "A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the government moves towards setting up a common identity verification service."
-publishedDateTime: 2022-07-18T00:11:00Z
-originalUrl: "https://www.rnz.co.nz/news/national/471137/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year"
-webUrl: "https://www.rnz.co.nz/news/national/471137/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year"
+excerpt: "A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the Government moves towards setting up a common identity verification service."
+publishedDateTime: 2022-07-18T00:49:00Z
+originalUrl: "https://www.nzherald.co.nz/nz/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year/V5BQHLB42ECXWYJ2CMQJHGQWI4/"
+webUrl: "https://www.nzherald.co.nz/nz/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year/V5BQHLB42ECXWYJ2CMQJHGQWI4/"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: rnz
-  domain: rnz.co.nz
+  name: The New Zealand Herald
+  domain: nzherald.co.nz
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://rnz-ressh.cloudinary.com/image/upload/s--u_5cv1Ti--/c_scale,f_auto,q_auto,w_1050/4LZKAWU_frt2_jpg"
-    width: 1050
-    height: 659
+  - url: "https://www.nzherald.co.nz/resizer/7dH532lDMRb5J6pQk-znvvhNJCM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/66CCX5KYPJH2TPHDWRVIRWFSXA.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "WiqiXAl7cL2hS9sORxFePLQ3++s01S5fYcjpFvMdLj+iJQwXYRDnP8qaFMskLI23AFJO16KNKPPNtguR1ycYPKtLJgjdpU284cGQORZj1yaPOWu2rUSdfMtXHgeaLmg85pUXWv0Jbr4jQKLXFPsvzqi3VAtyNhaIA5cOZbB/6oKJmXcin04r6M2DNjdMCh6+GJc6k2A7KJrbn9lVktuZeeSksK4bLJAEAIpiFJ/dS5AwRLnB4dQqNrTrO9cRwPzVEmOhgejviO5F26aMdxZ78GNaL4exwrcmFA/vrrUEZYM8t+qvufJcExqhJrh/F6B7BEHW4P5bMR5B7Q53hzpHZErDC2+f0jGlzo59l0bfQKfcJNJaZxdLN6J1WXfKNoHGFGvCtVRD3SzDYonIOivr2dVjcmBJlA2kiq6mXIiX/Jb+2989MWNkZJOvJ+vfEo/hmU7r0gnq4rwkVM9ST9fGfqaxkxBLk8X9kI8WO+b6doGIql+h4slDjazeDZ2wyWTnpRyrFHn5RhIOIoH4revf0Q==;zZV5wYGYWN+y22hQ4J0BOA=="
+secured: "rtbeLvYywSNxpI450vurZw+qA1RS4Z63UFz6n77CmViTDL+LOm3S0D6+JvD+8fOBlyH75WtMAmr9KiAVv5Zr9vK8Intbu9tnok0lWfsLM3HJMUkZry0eKuWGXapUOuPISsXdvcSXW73nV1+98ypiMNGmT6BAKPjqbbyyDy1vaUZdS6+QppVjuyupCBBfWsXIVemLOQn8p65AkE2COk7d4SSaHRCvrjn9E3naz1KF0w0FJaNbNNAUhwO9g5PurCwH+g7he9tYQuQ8VTgp5+F8nv2XX6h4U8Kbi14t+bgaCNixs5GkzKlJjm34LCyT1i2z0CDGhpQi+60i4qoIRFvFQMNDRlM2/Lw+hUbZuiZrLCk=;wANkPcJPKXaVo7sNcEpNJA=="
 ---
 

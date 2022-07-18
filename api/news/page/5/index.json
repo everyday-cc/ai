@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
+      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
+      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
+      "publishedDateTime": "2022-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
+      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
+      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
+      "publishedDateTime": "2022-07-11T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030.md",
       "title": "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030",
       "excerpt": "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ...",
@@ -482,49 +567,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-11-gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc.md",
-      "title": "GPU As A Service Market To Value USD 65 Billion By 2030, Says Global Market Insights Inc.'",
-      "excerpt": "GPU as a Service (GPUaaS ... as a service market share by 2030 led by growing adoption of cloud computing and AI technologies across various industries. Various enterprises are adopting cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104510645/GPU-As-A-Service-Market-To-Value-USD-65-Billion-By-2030-Says-Global-Market-Insights-Inc",
-      "originalUrl": "https://menafn.com/1104510645/GPU-As-A-Service-Market-To-Value-USD-65-Billion-By-2030-Says-Global-Market-Insights-Inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-07/11/PN_3cced203-6_Image_In_Body.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-11-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
       "title": "Soon AI-based mandarin translation devices for troops on LAC",
       "excerpt": "Indian soldiers patrolling on the Line of Actual Control (LAC), when they come face to face with Chinese soldiers, will soon be able to understand Mandarin and reply back instantly, with the help of a 600gm Artificial Intelligence-based device developed by an Indian start-up.",
@@ -903,6 +945,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-11-gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc.md",
+      "title": "GPU as a Service Market To Value USD 65 billion by 2030, Says Global Market Insights Inc.",
+      "excerpt": "Major GPU as a service (GPUaaS ... a service market share by 2030 led by growing adoption of cloud computing and AI technologies across various industries. Various enterprises are adopting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc--825282794.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc--825282794.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1856429/GPUaaS_Market.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-chip-subsidies-are-popular-in-congress-they-still-might-fail.md",
       "title": "Chip subsidies are popular in Congress. They still might fail.",
       "excerpt": "The Democrats have an ambitious legislative agenda following the July recess. Chip subsidies hang in the balance, and Sen. Mitch McConnell wants Democrats to stay focused on them.",
@@ -1069,92 +1154,6 @@
       "provider": {
         "name": "Business Today",
         "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life.md",
-      "title": "Bowdoin College to offer class on ethics of AI in everyday life",
-      "excerpt": "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sunjournal.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/",
-      "originalUrl": "https://www.sunjournal.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://multifiles.pressherald.com/uploads/sites/10/2022/07/31301327_20220708_ArtificialIntelligence_0181.jpg",
-          "width": 634,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Journal",
-        "domain": "sunjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
-      "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
-      "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
-      "publishedDateTime": "2022-07-11T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
         "images": null,
         "publishers": null,
         "authors": null

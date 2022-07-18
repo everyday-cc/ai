@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
+      "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
+      "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "originalUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/019ff2d0-028c-11ed-bfbd-7e14de53802c",
+          "width": 1600,
+          "height": 1038,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "publishedDateTime": "2022-07-13T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
+      "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
+      "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
+      "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
+      "publishedDateTime": "2022-07-13T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-ai-startup-speeds-healthcare-innovations-to-save-lives.md",
       "title": "AI Startup Speeds Healthcare Innovations To Save Lives",
       "excerpt": "Faster synthesis and analysis of healthcare data get medical innovations to market faster. By harnessing AI, big data, machine learning, and predictive analytics, this startup is doing just that for medical device and pharmaceutical companies.",
@@ -333,19 +427,19 @@
     {
       "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
       "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
-      "excerpt": "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -355,21 +449,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:16:00-07:00",
+      "publishedDateTime": "2022-07-12T08:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1048,91 +1133,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
-      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
-      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "publishedDateTime": "2022-07-11T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
-      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
-      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "publishedDateTime": "2022-07-11T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

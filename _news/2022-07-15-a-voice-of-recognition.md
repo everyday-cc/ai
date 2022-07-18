@@ -19,19 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "Police scan faces of shoppers in London in facial recognition trial"
-    excerpt: "You will be taking facial photographs, videos, and selfies with a variety of camera systems to provide data for analysis of the performance of face recognition systems"
-    publishedDateTime: 2022-07-14T18:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-trial-police-scan-faces-oxford-circus-london-b1012411.html"
+  - title: "Civil liberties advocates celebrate recognition of right-to-record in Colorado"
+    excerpt: "Civil liberties advocates are celebrating the Denver-based federal appeals court's decision this week to recognize the First Amendment protects the right to publicly record law enforcement officers, even while scratching their heads at some of the reasoning the court employed to reach its conclusion."
+    publishedDateTime: 2022-07-16T16:00:00Z
+    webUrl: "https://gazette.com/premium/colorado-civil-liberties-advocates-celebrate-recognition-of-right-to-record-at-last---finally/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.html"
+    ampWebUrl: "https://gazette.com/premium/civil-liberties-advocates-celebrate-recognition-of-right-to-record-in-colorado/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/civil-liberties-advocates-celebrate-recognition-of-right-to-record-in-colorado/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.amp.html"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
+      name: The Gazette
+      domain: gazette.com
+    quality: 40
     images:
-      - url: "https://static.standard.co.uk/2022/07/14/14/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 799
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/4d/44d05c99-272a-503d-9143-39c56597e197/629a5dcba8c76.image.jpg?resize=1024%2C489"
+        width: 1024
+        height: 489
+        isCached: true
+  - title: "Civil liberties advocates celebrate recognition of right-to-record in Colorado"
+    excerpt: "Civil liberties advocates are celebrating the Denver-based federal appeals court's decision this week to recognize the First Amendment protects the right to publicly record law enforcement officers, even while scratching their heads at some of the reasoning the court employed to reach its conclusion."
+    publishedDateTime: 2022-07-14T20:45:00Z
+    webUrl: "https://gazette.com/news/courts/at-last---finally-civil-liberties-advocates-celebrate-recognition-of-right-to-record/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.html"
+    ampWebUrl: "https://gazette.com/news/courts/at-last---finally-civil-liberties-advocates-celebrate-recognition-of-right-to-record/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/courts/at-last---finally-civil-liberties-advocates-celebrate-recognition-of-right-to-record/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 20
+  - title: "'At last - finally': Civil liberties advocates celebrate recognition of right-to-record"
+    excerpt: "Civil liberties advocates are celebrating the Denver-based federal appeals court's decision this week to recognize the First Amendment protects the right to publicly record law enforcement officers, even while scratching their heads at some of the reasoning the court employed to reach its conclusion."
+    publishedDateTime: 2022-07-14T20:45:00Z
+    webUrl: "https://www.coloradopolitics.com/courts/at-last---finally-civil-liberties-advocates-celebrate-recognition-of-right-to-record/article_863c860e-03a7-11ed-b67b-b3198552c073.html"
+    type: article
+    provider:
+      name: The Colorado Statesman
+      domain: coloradopolitics.com
+    quality: 16
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/c/62/c62a787c-dad8-11ec-835d-e37faabfadef/628bf1fb472c7.image.jpg?crop=941%2C494%2C47%2C0&resize=941%2C494&order=crop%2Cresize"
+        width: 941
+        height: 494
         isCached: true
 
 secured: "w5/6QS0NYh3h8Z/dKGDhZW2C6ExyEAZXA+VyqtV9l32BPy7fLuwCojzxMb9lAxZxrOGFS2xtSMZTLuaeKjB6A2pO3h0rA4oyfgS6wmyxHt7n8LiF5NwYpGEYsrq3TnKfAFfdaQzgIW8J7ZN75D4NlC86fMUzb34xgtrZV/sNYfIVvQ8AVtuu9SHCIVjgPI4ZSfpgf/ADjljdkses9Seo3HPETQKbx+U5I9CjYCHugDkWUv8AxJ46wWzdnTHqYBD0apcOWFFn+Qws9kikyBERgGM7zgxBsD0KjFTkeEwqggZpupXnRefpnTC1JyFdcbGPwcga4KsLO0PK7elfv7PKNSxmVHXBn563sRF73t664ACez+5LXdaXpnxeIQFRhRjynH2PObvjgfUR++iwK5Adg2C73lGe0H787RQYA2RyEPZw8lnwDdmw0yKcTxjFpT0wEYUOhX1Aq3LlSmnMCocxCxUvC1aaYBrNclS2weL/hNpSPC3e846DaOUNo3A3z1gtGsB0wtbro0v9HP9+sJkjkg==;kfE0rPOWe9loxEMxY4sFnw=="

@@ -34,20 +34,6 @@ related:
         width: 1280
         height: 1920
         isCached: true
-  - title: "AI Applied to Imaging May Help Clinicians Diagnose Fractures"
-    excerpt: "For fracture detection, artificial intelligence (AI) and clinicians have comparable diagnostic performance, according to a review published in the July issue of Radiology. Rachel Y. L. Kuo, M.B., B.Chir."
-    publishedDateTime: 2022-07-13T15:19:00Z
-    webUrl: "https://www.physiciansweekly.com/ai-applied-to-imaging-may-help-clinicians-diagnose-fractures/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 37
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/07/image1657725544.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
     publishedDateTime: 2022-07-15T10:39:00Z

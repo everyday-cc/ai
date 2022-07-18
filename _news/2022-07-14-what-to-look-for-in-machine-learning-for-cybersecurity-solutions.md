@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       name: Investing
       domain: investing.com
     quality: 19
+  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2022-07-18T08:13:00Z
+    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 8
+    images:
+      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
+        width: 301
+        height: 251
+        isCached: true
 
 secured: "MPWJQyJ4KWs0lYiSx7HLc2qNNCNpxkAXXSKUjEHXg/rcFOvxcrqlZnp5mpn8lHvbHhotuUgmDF4ZW6PKueCjSOxYtUdSe2aDiX2b0HT7M3WDD3rr1ZNIazLQwrPuVBqJohUoKye9nuabLC6VDgMcaCfaszuujahr60Sq28h6876zy5AXxrzCr2XFUbjUoSd/qHlPlH2FsK8viUjQWvGn+e/sW3IHbDiEkiUBAZydIO11dYkhizmT8fmeV/MAFLJsK2yNOygDX5vtl7toM9emG/qWLWfTc+4rz+YBDHvzoe0PCAqFJ0m/eTbHo3IGp0/fwmqqtUEw9Ig+kCSGndFUI/S0AwqoS2A+hnqP5A75WAezuGyMN5j96nRsaSrio+2sXF0WpA0RXnfIfQrM/+R6OCkFRmO5Sj7y84tYvtjs+DkgHUGJQzni8GU3dZqTUfcb8Jk9EmUvj3X18Jr3Ocm8xfbOCDfHOYxA21Ff1E/BD+P+5XvNaUET6IN0rYaHXbuIG1Feqv6e9U0INHYsTNjmBA==;4+FyEuWhIKEPDyq9y70mfA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/
 webUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Android Authority
@@ -27,6 +27,22 @@ images:
     height: 1080
     isCached: true
 
-secured: "TtFBNizgwEKpbiyeXqfdg9FwnMhmWRXoBCNO4atE1ZLFsjotAT6RPToNUkQy9dZmWDqT5/fGLAT2jntVC706ew2YSrG5H1Jy9K1Do3vtIkCvUp1elsWNzCkxD5//tj8FbVRSQZeAeoU/hO9Cic64KqQtLPDT7E1LDwt7KVucFBEOczgZL9AEiYnsaP7H9tODygHQ8dLmqEGWgFAMfZYq2URwLNMV6LmPeYukIm04SjWc0pBsicDqNPFgSveyLf+wfVogg6ZN2O1Eq5auLzkeFCOw4wfJMJTFCw0s+VBSR7oYXm2/SsiMbxKw0iuH7bQ3HiJuwJCSekqOWDR971Ndtepi+mR6z7BotpbHriyfBho=;7YtUEGo+kvsfDNUnZfgBBg=="
+related:
+  - title: "Samsung has a new AI-powered photo editor app with lots of features"
+    excerpt: "Just a few months after releasing the Expert RAW camera app for Galaxy devices, Samsung is back at it again with yet another interesting photography app available in the Galaxy Store. Dubbed Galaxy Enhance-X,"
+    publishedDateTime: 2022-07-18T09:32:00Z
+    webUrl: "https://www.phonearena.com/news/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features_id141398"
+    type: article
+    provider:
+      name: Phone Arena
+      domain: phonearena.com
+    quality: 37
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/141398-wide-two_1200/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "KgW1nW8dt+YCELr3aC6qYFxfmnrQ9Ees0QmfKI8eZFpW6sHx3ojvUqA5YVNZlCAFpZ5NRe5f4gvnWQer+HQu8Qi3WTyDSuyKp3tBhtUe+FBxG4N62DySz20xKhK5hksTfyEJYG97ww5GDfXitemcn+8bkQx5v4QVceDAThKfFpCka39rKmMXj7NK3wkkYp880WBZO7ltLnOBWj7XxI1C9yhutt49QNO0NDVktfGz8OfUc48p0bRTJ8oHioqS7Fn3j+E1ZHBKhqB9kx8NM8wn3nZiXj5WN72RkCq6SoyFZ8ZTgKAFwHraqmOmsMCC4WMuzVj5+0L4BERorMnfRJRREUiyL68ytbxME6tuU84hR0ShTlkfL40qUVut/d+LN4BKIth0k2cXHW4py7mwiB8yT4XiXqmLTgHg6kOUnSS3Lx9uyqzbIk6WfMF6tQqYRQoJtG6sn05JwkgPZ/3yVpbnoh8RKfIgAgFh0S1tSSF03sTNUV/NuHnCd+9MyTqDd/t3I/7NEVbZXFlPgDf9B0PI3Q==;CGEo17M2BSmar3kDsTDDiQ=="
 ---
 

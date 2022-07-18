@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-la
 webUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,24 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Colossal-AI Seamlessly Accelerates Large Models at Low Costs with Hugging Face"
-    excerpt: "Forbes News, the world's leading voice, recently declared large AI models as one of six AI trends to watch for in 2022. As large-scale AI models continue their superior performances across different domains,"
-    publishedDateTime: 2022-07-13T16:29:00Z
-    webUrl: "https://syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/"
-    ampWebUrl: "https://syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/13/colossal-ai-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 55
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
-
-secured: "1T0fTQjy7Rj+LYt0YQ32QoYx3OrUCtVeCUz9vczrZxGg8ixbfuTeM/853ePqdDMv46SivT2Uh9/jAcuzWDC7chFxmwMEFLX/G3rfxfyaIH8dKg0x6KRYQivgObW23Olmrs5Jib832whmlEHp9lHVHGSMtbJ/vSICNOYqXEYj3Qi5OAtvqYKjjFHQF5jinMI+PlzXTTAs6c3INHyZOSjRF+eY5OqsXonHkWVXbg0nK8AkMKKcanDDrLsiJQWe96yj5v3P4dGtxOh1ee2/y9GXDKNwWs9x1XQ126hFS3Nkb7gauhzH/qRvu7r7Aw2F6LPmhzAmeBiTvZFNk62BKg2jTVn9AjV1n+rPTxZ9nPdyx68=;ZjTXNorBH0h3luxh+Fk8ew=="
+secured: "BdijJzzwThBRBwSCXQVhoU00kOM69koysdiYnJK2DpxC+3KxpNFE1ykqk/W4Ii+Cjr21kPAEfJSLaPRuumWtcnJAh5kXbICH7VZGM3ErVbGl0UcjbxecOPquv5oCRGw8OT+i4BwqHqZ6wLuqb2OVyIlcC/YTuy066Uar1FaRS/jPbViGA+yX6RSNL3ILJoXdcFzxjAuGOj0ziqmkBT1/WFVKxQcqeWOh5zoJUobchK8gAjfs86Ulg0JFZr3vCjfoyXy07prFBTfdS49gx74HrWnlCEXPxXi5WVr2DCRN6fKn33ZEJn0lNyoap66tfgUwXBHYZR8rxVR1xGm1ZeZgsM77HBVXujIFvfrH7knWi3g=;0wYGWf93jCBC2HqEXN1VBQ=="
 ---
 
