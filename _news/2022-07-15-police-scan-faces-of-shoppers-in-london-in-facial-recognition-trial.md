@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Five Biggest Facial Recognition Trends in 2022"
-    excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
-    publishedDateTime: 2022-07-13T12:55:00Z
-    webUrl: "https://mobileidworld.com/the-five-biggest-facial-recognition-trends-2022-071301/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "Met police deploy facial-recognition technology in Oxford Circus"
     excerpt: "Police facial recognition deployment resulted in three arrests, despite sustained calls from Parliament and civil society to limit the technology’s use until a specific legal framework for biometrics"
     publishedDateTime: 2022-07-13T13:30:00Z

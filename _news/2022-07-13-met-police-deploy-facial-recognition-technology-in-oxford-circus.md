@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The Five Biggest Facial Recognition Trends in 2022"
-    excerpt: "Today, we answer those questions with a roundup of the five biggest trends that are now defining the facial recognition space. Keep reading to learn more about what you can expect to see in the back half of the year!"
-    publishedDateTime: 2022-07-13T12:55:00Z
-    webUrl: "https://mobileidworld.com/the-five-biggest-facial-recognition-trends-2022-071301/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "A voice of recognition"
     excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
     publishedDateTime: 2022-07-15T14:02:00Z

@@ -437,7 +437,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -478,50 +478,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-israeli-startup-deci-turns-to-insight-partners-to-help-produce-ai-models-on-steroids.md",
-      "title": "Israeli startup Deci turns to Insight Partners to help produce AI models on steroids",
-      "excerpt": "Startup Deci is developing an ML system that helps ML scientists get significant performance improvements. Is this a recursion?",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/deci-raises-25m-series-b/",
-      "originalUrl": "https://www.geektime.com/deci-raises-25m-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2022/07/board-453758_640-1515047518.jpg",
-          "width": 640,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/deci-raises-25m-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deci-raises-25m-series-b/amp/",
-      "publishedDateTime": "2022-07-14T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1380,6 +1336,40 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
+      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
+      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
         "images": null,
         "publishers": null,
         "authors": null

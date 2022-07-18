@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Baidu to Reveal Latest Updates for Autonomous Driving, AI Cloud, Large AI Model at Baidu World 2022"
-excerpt: "Centered on the theme of \" Deepening AI innovation for social growth \", the conference will explore the possibilities of AI across various fields, revealing Baidu's latest developments in autonomous driving,"
-publishedDateTime: 2022-07-15T11:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
+excerpt: "Centered on the theme of “Deepening AI innovation for social growth”, the conference will explore the possibilities of AI across various fields, revealing Baidu’s latest developments in autonomous driving,"
+publishedDateTime: 2022-07-15T10:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-beijing-af4b737843d939075a583b5b5f633100"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-beijing-af4b737843d939075a583b5b5f633100"
 type: article
-quality: 35
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Colossal-AI Seamlessly Accelerates Large Models at Low Costs with Hugging Face"
@@ -40,6 +41,6 @@ related:
         height: 320
         isCached: true
 
-secured: "CSBYCwswab+W8UHVf41oXGAkPD8QpP+NLAsseurVsOfby9+zGu5sSYlq+J8qbiYM2PH2sHJKmQFy+rY+elk9NrIkokU7JO6O+KLYYb0y6lrQ9INtbI1yA+Pf/CTx+lWhIaTyNc/Hbtf/DofPUNokgvTNUZlqLbQJE+0GG65GyLf88dNcdta4iELhCpyrnCbHjdgsXF/HoQwa1CfzgR6QB3Oe1DU7rpiDXE68ym0JRV3R8WcStjr5gb2TKxtwXk3ObyRR3oJ9NQY6Grsz2yDmIbGi8lb+PEJovVdIGhd5vVu15VmSCTC4WTIoznea2DWV8xAl6ln2AbbC+ljpPqUA2CaQ3ttm3k/EQZegHRCbF0c=;kFibV0FKq1qWplCMnvMbLQ=="
+secured: "c3UQo4B/sVMvfucL6UZqr1noPMZ+7yqtddvK1E+RA53zy3nQ/J+psh3WhNWhQz2mTJl4yQCkl96lClR+4JWIustqCD17TNSOCYKroJGQnxiRICjtM6QPohf+Qu8Jxf75RhFCS0NxouTIQ4j9eIHaxm/h3JPiYGYIMg7TVTZKB27DuWErbAgzEfYgPrAmcR+wiCVthtlC+tv2JTadH6VUdzFvoSeRH2AgzGCy0u9ICR0y3AZCyBvMLWDy/PEGjaDoND6tE9U5h9xM1iAjKVnc769KT8ILZXTciiSN4JVdV/gcZM8ivljqwd4FZx1TQEr5x4o3ZOVtXj9N3BLC2pK3caaJIp/YmyIL6DS/iTgH0eI=;ZPezZJNI68RFN1nyCEAnwA=="
 ---
 

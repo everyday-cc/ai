@@ -1,22 +1,20 @@
 ---
 category: news
-title: "How AI Regulations Are Shaping Its Current And Future Use"
-excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
-publishedDateTime: 2022-07-14T13:00:00Z
-originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
+title: "How artificial intelligence is revolutionizing the food and beverage industry"
+excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
+publishedDateTime: 2022-07-18T05:43:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
 type: article
-quality: 47
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
@@ -54,18 +52,16 @@ related:
         width: 950
         height: 634
         isCached: true
-  - title: "How artificial intelligence is revolutionizing the food and beverage industry"
-    excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
-    publishedDateTime: 2022-07-18T05:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+  - title: "How AI Regulations Are Shaping Its Current And Future Use"
+    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
+    publishedDateTime: 2022-07-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
-secured: "QlO1P5mlgmqhNwbB+dxKvtYtvz/lvPh4v3r+PzaxJvXJpwgeSbtXPsCyhiY6Q5j1eeaKiwpaPYYkJaDEvMQkReWi1LXJNtqVWbQb/M+aP3e7i3YuqX+H8ZZNVu6tkDSAQJtdIK1k6d3XQKAhPZAfDFUMYSOO2tzFoJ4PljYLX8jg2fBepKmaljhRsJBcpXpIp3bmbN/E3nWXGyABMobwyEIsaGbe6c7scbo5c9GZmQE5GRuG5wx2T3y8vber1FMJ1OCk1lwjYQO2VJJOKs5W7/HUUejEpwjnlzmu+iH7Trpf3ee4wryOuLs4zKi/1Ntqu+mPa3ShijH1IaOksipzwqPpn7t4omYoNpmIfBDfKF7qprN28rAeHSO2gYA+8PAgCvEcs88tP8ylkzTx7OCpqdgN77LkQXABnMJKMA9rz1oXg8z/oDypzxLf+UI9rRk/x09uWtVtx1RnkGXDQB+mnlRv9YVm2phHIH03ayPaaht/z6uXPpHwUwPQTAydqdwJQaH3kOrfdgo7dyoSVFhOuA==;tUKIG8kH7sV7nk0JbY6FBg=="
+secured: "/Ec6x1P24AE/YcLtkxEu6fxaJ837MoSXqeqiQpXBLFl/vr8YZpSNfIcsfh8ZuUnKF2h1rwWXwtK4tP2oMbeWy8telAbQdRnSeGc6NTdXODcBCx3ZAefhggK81s7V+jMYRQrEQxwfmX/XCk+Sh03p6Pl7qxPRTQsrJJbIa8DQyPj6mFSJ+HU14f54qzG8Xy6ffr3lSk+zEVDYOramiKi2HC017pGovTkk2eKOrsvmEGUiErpFY229Z8fthREqdycaGP0UgxbdZ5zoy3fIoeEsoAWYF3LaAi68gwWOqFBKgdJDl2Md+ATR5+tg79oH+xDyNQzCu0qR454DYHQR/qwEX05ZBuCWyaxKvhS8huOe6tRUt4qXPh93oXKbCSMYzgnbECFibX83Hpnf/cvsQXHB3D0y0EDskU0UHnCoIJCeR8AiENeTavhXBHVkjwx7sCyl02vjeUjeLK9UfidMkfR5N6Q4dTGGzhQFtdJToPYA4eTGz3op8Ib0mTDYHmEX/gnSvxFXPiUZ4Uv0Rk7JphotUg==;EIiD0bULFKHA9/lLgnOp2Q=="
 ---
 

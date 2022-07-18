@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-04-china-turns-to-automation-and-robotics-to-solve-aging-problem.md",
+      "title": "China Turns to Automation and Robotics to Solve Aging Problem",
+      "excerpt": "Senior Product Manager The impact of an aging population has taken a toll on China’s economy. Industrial automation and robotics could be the solution. The largest existential threat facing China is its declining population – the impact of an aging population on the country’s economy has the potential to be highly unsavory and should not be ignored by global investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
+      "originalUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
+      "publishedDateTime": "2022-07-04T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence.md",
       "title": "Digital nursing 1: exploring the benefits and risks of artificial intelligence",
       "excerpt": "Artificial intelligence is already being used to support advanced ... a robot for children that can respond to emotions; Paro, an animal therapy robot (Robert, 2019). A common theme in the literature on AI and robotics in healthcare is the expectation ...",
@@ -1218,49 +1252,6 @@
       "provider": {
         "name": "KASU",
         "domain": "kasu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience.md",
-      "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
-      "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "originalUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg",
-          "width": 3000,
-          "height": 2035,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "publishedDateTime": "2022-06-27T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
         "images": null,
         "publishers": null,
         "authors": null

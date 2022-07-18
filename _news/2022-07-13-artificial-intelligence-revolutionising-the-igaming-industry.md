@@ -51,6 +51,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How artificial intelligence is revolutionizing the food and beverage industry"
+    excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
+    publishedDateTime: 2022-07-18T05:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 34
 
 secured: "Qj2KChbDfFrkm1Ng0Lx4Q6Eq3GiKSIbqOpZlAJsROHBpa2Hz+4MJc9n6ES01Z+3MofMSF+ANYiFYjVWqhCSdz2OFvftPtrEowYm8BzH043prtaJ9y0v2s7/E4V1BNVFnTUPpxrLw4w54/I1iEkjjk8ANGPyoPojztw9+9feUpwgif5btED420O2qM0shRYlIVz/33cE4xdVVy/4tsHQIl8EmO2y2hKF/cHq1n3p7Pl5xXsB+U3wJXzPA/kge7fD9JM8Ixrk0G5ojr/wowsAr58+UNQ1x3FLmEs8iNE3Khc8dQJdvq3p4wDVEyG55j+tGgpp+J9ojPnF4SQoQzKieJIMXSRianYIbDF17oLOEQ28=;sqM1fSnYqDSvue+YlhEXLg=="
 ---

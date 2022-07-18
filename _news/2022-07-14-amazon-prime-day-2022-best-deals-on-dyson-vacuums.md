@@ -26,17 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2022"
-    excerpt: "Amazon Prime Day is the collection of limited-time exclusive sales, discounts and special offers available exclusively to Amazon Prime members. It all kicks off Tuesday at midnigh"
-    publishedDateTime: 2022-07-13T12:01:00Z
-    webUrl: "https://www.oregonlive.com/shopping-deals/2022/07/the-best-deals-on-roomba-irobot-more-robot-vacuums-for-amazon-prime-day-2022.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 17
-
 secured: "X2hI/y0zfMkt+WrsYRJNo2xDrtqS2y3Q88lNUmAV7cd/HJJ7LLlnX4ldjq7ekcUk/rF5yi7tmm/ZQIpX6gtXKKmiSTw4t70Vt9vNEOsdvrUSv0c34OC5a6AKtwlrrINVhbtmFCaQhKH9khLXxI05f+KYOVwvt+NsH/Vd+KEhhaPRQnl6uR18Yi0nkQes6d89vF0s/esOKlsdlvfM6VLrQOc28GEHyBrvXjDJzWZAtVVElCIsO07xcA4uVThluD+zhMS6uaxU0GPgIlkeP8yz8ORGKwx9X8WBHokEe8nMEpdRPUkl7bDYCulAaoX9aZ+BEV0ptHfEv+pr5pYxnHBebrI5wAniXED2xmYAa5Q09xDpLr2/YITvXbolZ4Tv57f11aK5Orope7w4RBZYMpQmMMp6xq0aMFzuwUBABvljbk8W3CA6D3SGHfLBRJ9+CBAtV11gm3PkYMH8gUZaT3YFnGhfAk0BR5+LuUApCE1lCbXdfAf/B5dR1WwBA0O86FsYpZ1fH6Zebz3auYNmzwxwuQ==;JGaUtvCjP7KA/Z1KnUmA1A=="
 ---
 

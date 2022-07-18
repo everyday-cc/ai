@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geektime.com/deci-raises-25m-series-b/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deci-raises-25m-series-b/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Geektime
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Israeli deep learning co Deci raises $25m"
-    excerpt: "Israeli deep learning company Deci has announced the completion of a $25 million Series B finncing round led by Insight Partners, with participation from existing investors Square Peg, Emerge, Jibe Ventures,"
-    publishedDateTime: 2022-07-13T12:34:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-deep-learning-co-deci-raises-25m-1001417980"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 34
 
 secured: "HepepsxoQoZwV/SGwgEnZdwNkOr/Fq/pex9WTwvjaHh65pQByrvp8CKGxfMcaPk86T2zyJfpiVhBo319Ldky1eYYWXZg0WOY7XMZ3fQieMRBsJKvHdh/HChYXV/TSoG1XlMXAbLA5cqn9Za8EizrrBhumEj+Bli5yd5zuvuI5sWA3dQg2K9F2+hqGan3OFDz5eytJ9cQ0jArjDPSX75X3X3h2bKuxu0VEyFPp9xgwJ+1l+xshO4ZaZSDKAPUAwXwdkVPcFwdKuFrptxlWVpJEyGTsAA+kO9biNwBta9HgbhofldGtM6KmwohdNDLWJDu/rAlNytI6ocEQagXfgWq72M18ZPL2G773ZvO9daf2Jj90cgCq7dhYz9t5mBNxkEleVGQorFcECjul1LSuXOK95J5DdcaG+IaOKLA13jjEkapvDMlsEZo42ZXvGUzsAFtBKR6xkaaeqAZ/Q3em305wH08cBC4DGKc9wcEnlWC5wOR6WWEFrLFlYYqIVRUMdGxlJK8FL7F3SDzjsNnW1dv5w==;4pADqBUb/Hl5sAO+SA1xUw=="
 ---

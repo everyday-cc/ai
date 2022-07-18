@@ -40,15 +40,6 @@ related:
         width: 640
         height: 434
         isCached: true
-  - title: "Israeli deep learning co Deci raises $25m"
-    excerpt: "Israeli deep learning company Deci has announced the completion of a $25 million Series B finncing round led by Insight Partners, with participation from existing investors Square Peg, Emerge, Jibe Ventures,"
-    publishedDateTime: 2022-07-13T12:34:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-deep-learning-co-deci-raises-25m-1001417980"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 34
 
 secured: "LPXwqA0mr3qR5dhsdMN6i1sLdPoLqqrWVTZJ/ZQlIPrjlrmN7vEn03HbNr5xX2o2dcGNsZNMEaOvIlllB8LVcfCJtHvjn9TgxxRVSKlo0oaZ/zVCGLKrj/tF0AtSKPtonlA4IjBXj3JItOEzA951zWnJkgqynHv6gi6rcgmCO3R104mp2tmlSuDKQCkKV5t8iFgdahapuyUuxZfyFqhaY6MbcEvLhXAXeMQIUBlgnrpzPSJz7zTzM5swsxsz9cxTFbm4jKc60UW4gMc/GLL0mPFya2l7wTDE3GfZJwj/5YS0ArudOfBA9NkzW/gMW+HHQRST8NQ5okhi5yaQKyR4c9oTZhhwY0qRR1SRGOlqok3+QRFgnI9xHWl+NLjPDz5A4pqI3Ph2pGZ+BItvGv1LI1jJAqWImPFdfyBw/T/S2f+N7qtFaal/xmhYyYpdi+I6FkZCfu5KqGdrCttuWBtbMmTPURjtOHdFkvxYkckibzV5ONdQAzsE60xSYY9R8ewX3jpO1NSjHHUqefyD3hyOdw==;EqjBCui4eLwliVLlvLrRIA=="
 ---
