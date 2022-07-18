@@ -48,6 +48,20 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 49
+  - title: "Unchain Fintech Festival took place in Oradea between the 13th and 14th of July, setting the regional trends of the most effervescent industry"
+    excerpt: "Events - Unchain Fintech Festival, which shaped the fintech landscape in Central and Eastern Europe (CEE) and set the industry trends, took place in Oradea last"
+    publishedDateTime: 2022-07-18T11:52:00Z
+    webUrl: "https://business-review.eu/bucharest-going-out/events/unchain-fintech-festival-took-place-in-oradea-between-the-13th-and-14th-of-july-setting-the-regional-trends-of-the-most-effervescent-industry-233250"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2022/07/FilmChain-Unchain-Fintech-Festival-1024x683.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "jwZePJZgN9D497vz5tgO5mxuanUwy/nuplOgUUp6dkA86sj5lgR8JrNzd0H+NozCmrfHx1KElsIZmsK91iJYJEY1x/eHTH0T/Vw/NqW3N+tb3OPWMv/Sp1RONy/NaiZnxdxMYrxemGQNTgEmsGgLLJrQd76uU7gxDEss1oQtBNrTWG6mILMAHqfoWlRtUR6r/6Oh5cScrQ3aiqigxT4b85zRGJTHl3P8dCdsnpGHr8lwjhh5/PSikcxXpf4a5dem8x5Aa0gqnmKH+BG9QTLNKwJF6Zin61vydlIP56QWYKmktoQSeMJBP9AIkCcWMPfPH7dfMzHJGOpyChRkVEHaLLYdjtIrXbSz0CwPjhJxBqw=;rzQdLB/v+NwWDoNFMPzcYA=="
 ---

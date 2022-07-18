@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: cio.economictimes.indiatimes
@@ -39,6 +39,20 @@ related:
       - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_79769.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "renovai will launch their Visual Commerce Solutions on Seldens Designer Home Furnishings website, delivering AI powered shopping experiences"
+    excerpt: "\"Complete the Look\" on Seldens product pages and the Virtual Designer quiz in order to generate hyper-personalized recommendations for furniture and home décor shoppers. The short quiz will allow the machine-based virtual designer to build a style profile for each shopper,"
+    publishedDateTime: 2022-07-18T11:47:00Z
+    webUrl: "https://www.retaildive.com/press-release/20220718-renovai-will-launch-their-visual-commerce-solutions-on-seldens-designer-hom-2/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 2
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1658144227/press_release/assets/header_images/Seldens_iznjuo.png"
+        width: 1500
+        height: 700
         isCached: true
 
 secured: "uZY3d383EDg3CSf7FmMC1iYjyBsvIjckTvDj2wJjf/CgIJpJ+HzgHL4jgehY29IzHb8YlOHFyFpYNfA4F7+JOKlHrkIkeUN6NTFGTC3+rRXMwd2mV3jALSG4pBNMR2TEbcHLoSkZQujmNE7s962mbjP7KTUdxUh63TGI47V8+5P11lYEjIY60vBz255NulXic+Pq1qJr3GaPD/IVGopRLwtyl8Sh+s+RuqRM0wyeiv092T/y/yDlP9TliiaxeI8pNlb0xAevXIX4dfUxltsKnFLFmr1IdJvmea7zAfSiPO9PqXJKb9T8G0bzE3bb7OOw+F9mO/u6kBxr3ABkrXwEzX8nYm/r22I6HqXqkPq9+wU=;aLEFq3SrSuEwxuMkIAWZFg=="

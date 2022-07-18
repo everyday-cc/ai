@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence, deep learning to assist diagnosing birth defects"
+    excerpt: "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects."
+    publishedDateTime: 2022-07-18T11:40:00Z
+    webUrl: "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 73
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Using AI to diagnose birth defect in fetal ultrasound images"
     excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
     publishedDateTime: 2022-07-14T18:16:00Z
@@ -34,15 +50,20 @@ related:
         width: 1280
         height: 1920
         isCached: true
-  - title: "Using AI to improve your dental care and keep you smiling"
-    excerpt: "In this interview, we speak to Severin Stalder, CEO of Zaamigo, about their AI dental camera and how it is helping to improve people's dental hygiene. Hi! I am Severin and the founder and CEO of Zaamigo. Zaamigo aims to ‘bring healthy teeth and a beautif ..."
-    publishedDateTime: 2022-07-15T13:27:00Z
-    webUrl: "https://www.news-medical.net/news/20220715/Using-AI-to-improve-your-dental-care-and-keep-you-smiling.aspx"
+  - title: "AI, deep learning to now assist in diagnosing birth defects"
+    excerpt: "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects. A team from the University of Ottawa in a new proof-of-concept pioneered the use of a unique deep learning model as an"
+    publishedDateTime: 2022-07-18T10:41:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=980163"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 17
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 54
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_180722_prov.jpg"
+        width: 474
+        height: 364
+        isCached: true
 
 secured: "wbh7515YT6xBaGE10Wfq9dJngNh4KxXPZyx+rTjN8G2UgxIJJWqUcjgavindh52+m0yYiQCc8s1WRLhWwMcO8xP1sJhxxGdI0xv+osEiHpN1wuwj6nDwGqwSzp1U2m/7wDx9zcbBMtKO7Rg/pCofPiS5stfKYZC+F5Jrov/RXNGnqHK4Hhyg16RyFGqxBbMP7mW23k8VJmWg77rlRnBqLqQbc0FkNmd7P2182g3kuxejF/xd+5U3oboO7aqZtVDyquMKo3Bwsa5uEEWvVa2iwbgvRhonI/K0WxndFP10PWhxcwykm9iomeTAJbWxnlqqmRRUeL2RTH0si8Oi6QK9dj6HelLDri2OPwPweYMvRPqJ/zru0Q+8LgCqQY3ZH1fLVol39maBpYXge1UnjjU4UibRSlwbbUGzSnPi1IXESy6jnASgbR4wNSt2nGbN6CIxzJ7Y3EIpN/fBvNu4h+Mcd/uS07/Z4M7Fqgp99o+R5K6K/reRr6Hzg6xu0xzOGHg5ysXiAVeCO8rQhIdKv/XTtA==;onSr8QhVbsnU+3h2P1RNTw=="
 ---

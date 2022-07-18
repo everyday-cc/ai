@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
-    excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
-    publishedDateTime: 2022-07-13T18:28:00Z
-    webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
   - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
     excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
     publishedDateTime: 2022-07-17T12:00:00Z

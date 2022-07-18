@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Scathing study exposes Google’s harmful approach to AI development"
-    excerpt: "Google researchers claim they built a dataset that can teach AI models how to read human emotion in text. What a bunch of hokum."
-    publishedDateTime: 2022-07-14T22:29:00Z
-    webUrl: "https://thenextweb.com/news/scathing-study-exposes-googles-harmful-approach-ai-development"
+  - title: "Open source isn’t working for AI"
+    excerpt: "What’s the point of open sourcing code that runs at a scale no one can replicate? AI needs collaboration, but let’s think about it differently."
+    publishedDateTime: 2022-07-18T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.amp.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fpichaiethics.jpg&signature=8c3d968a9a275c2f483385e3d5fac783"
-        width: 1280
-        height: 640
+      - url: "https://images.idgesg.net/images/article/2021/10/it_leaders_it_professionals_engineers_technicians_in_network_server_room_data_center_consulting_discussion_planning_review_by_gorodenkoff_shutterstock_1699780489_royalty-free_digital-only_2400x1600-100907146-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NP/vJTP3+aV3haiceSf1y318w8n+579edTPzLkZ1pqRu4VAop2TlbhAI5Go827/l19gGLFkCfWgOXL5wi/d9mW9zB4Rf0aAT7uch5213R6CQcJETQu42Po5y80/74TnkQTXyJIhdyDHuNA39ge3pNfjfiu4fOUbE8+Q6DK//+VwI1QeHlKFcZB9F5/Stt2tFbGHkeu1pzAWI77EBEe+ltFjuJvKBXp7Ub1Yjo2k29QeGIp41nDkHwoZNVtVGcga5plHsNha/ngd1qDUQpK/JOgHo/RJuC7wGtkYdhqxoy3FznF1wADy0Yhn7kZQ06qQL2BH8ddopIgABczmRc48psyKKq4wr7sQBWTx6c2HCENk=;4RHk+wwTme7Fp84/i+EUVQ=="

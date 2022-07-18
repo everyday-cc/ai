@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Well, Would You Look At That, Tesla’s “Full Self-Driving” Actually Worked"
-    excerpt: "This is our best look yet at the interior and exterior of the upcoming Cadillac flagship. The Apocalypse 6×6 Juggernaut has 850 hp from its upgraded 6.2-liter supercharged V8. This chrome-wrapped Lexus LFA has been on Germany’s used car market for over two years."
-    publishedDateTime: 2022-07-13T18:28:00Z
-    webUrl: "https://www.carscoops.com/2022/07/well-would-you-look-at-that-teslas-full-self-driving-actually-worked/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
   - title: "Musk backed a boast of zero 'self-driving' Tesla crashes. Data show otherwise"
     excerpt: "Dozens of drivers have filed safety complaints with NHTSA over incidents involving Full Self-Driving — and at least eight of them involved crashes."
     publishedDateTime: 2022-07-14T14:39:00Z

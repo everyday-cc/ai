@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-14T18:47:00Z
 originalUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 webUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"

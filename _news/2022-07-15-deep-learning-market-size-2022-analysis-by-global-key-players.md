@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Operation Technology Market 2022 Business Scenario, Advance Technology, and Analysis by Recent Trends to 2028"
-    excerpt: "Market companies operating in the regions are deeply studied and their developmental opportunities in the next years from 2022 to 2028 time-period. The report presents a thorough analysis of existing and emerging market developments and prospects."
-    publishedDateTime: 2022-07-13T19:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-operation-technology-market-2022-business-scenario-advance-technology-and-analysis-by-recent-trends-to-2028-2022-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
     excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
     publishedDateTime: 2022-07-15T08:36:00Z

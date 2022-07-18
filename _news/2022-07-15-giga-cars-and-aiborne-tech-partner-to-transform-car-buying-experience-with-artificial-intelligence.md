@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "renovai will launch their Visual Commerce Solutions on Seldens Designer Home Furnishings website, delivering AI powered shopping experiences"
+    excerpt: "\"Complete the Look\" on Seldens product pages and the Virtual Designer quiz in order to generate hyper-personalized recommendations for furniture and home décor shoppers. The short quiz will allow the machine-based virtual designer to build a style profile for each shopper,"
+    publishedDateTime: 2022-07-18T11:47:00Z
+    webUrl: "https://www.retaildive.com/press-release/20220718-renovai-will-launch-their-visual-commerce-solutions-on-seldens-designer-hom-2/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 2
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1658144227/press_release/assets/header_images/Seldens_iznjuo.png"
+        width: 1500
+        height: 700
+        isCached: true
 
 secured: "XzxHnxu7iLWzUjvaNrqGiYhNJQge+ZbF8euYWBz7HYqPQ/vMEY2zbZAfYeX9AljbYTCun2CMyXN4SOwnFcf6mGgQGowb1R+uJdO+C/9BTzi/XZvv1sAOenlM5Mhivjb7UTYFsfJHZEXw5EWvyWO93MshYVgz/aSlwRrqDuxFSlFdDRgakxI2Fgxyh6Uuxkysdvu5eitpl41cXGLLsK+HT3k75PB2uAzPov7wI805csDtZg9s5izxlfsh2mFVOFUxNp21hZanLKL46kE210lKAwDw+rid8VRB4AMQGDDBDW5w4a2+aVRrKcQlpyjLVTKBY9SY08FPJvfsM30BpZuPrxAPdOuK7K4fk7n5C22vSlg=;E0yYM10DUQwJSH6eJRiX+g=="
 ---

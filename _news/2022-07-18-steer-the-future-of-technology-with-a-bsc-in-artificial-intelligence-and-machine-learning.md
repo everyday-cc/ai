@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
-excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
-publishedDateTime: 2022-07-18T08:56:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
+excerpt: "Students are looking to drive change in society by leveraging their skills in tech. They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India’s GDP"
+publishedDateTime: 2022-07-18T08:43:00Z
+originalUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/"
+webUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/"
+ampWebUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/?amp"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 68
+heat: 88
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
+  - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Healthcare
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2022/07/ATLAS_SkillTech_University2022071807542920220718081910.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Massachusetts Institute of Technology: Teaching AI to ask clinical questions"
@@ -35,7 +45,16 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Exciting new tech uses AI to improve the lives of those with hearing loss"
+    excerpt: "Over 37 million adults in the United States experience some degree of hearing loss — 29 million of which could benefit from a hearing assistive device. Studies show that"
+    publishedDateTime: 2022-07-15T16:50:00Z
+    webUrl: "https://www.abc4.com/gtu/gtu-sponsor/exciting-new-tech-uses-ai-to-improve-the-lives-of-those-with-hearing-loss/"
+    type: article
+    provider:
+      name: abc4.com
+      domain: abc4.com
+    quality: 16
 
-secured: "LYNBEShvDQhGlkm/lB1Tt6mJ+qjruO+P31d/pZfIZo6UGff/SXENVq3BeXoMcU3T9aaS4vG6aNKbc9OjuFSt/d/5Se0w+aenF8hXU3Q2sfw+xH4H/iOf54O4atUgJDpKYc4qANNiUP5HZdMlycB7C9SbOSSkdYmKilqo43A8Xxyv5o1c3o43AQjN/4rHfyW5wWEz41OYTCEJO4hpU6y1qBCmFHeRA14AKkiVlHWITVj59klq41MZdbuuqnDRFSFvbXVUt8QTKWP/kSqk743MfDfVUoEI0wrCE7CObqgYhMAawkwCMVG4Mpr0AK3/9G+cwjpm0KV7h89+a+tQXj2LegSwalnYRjTsC1nKjuqYITo=;0m9kgdIbT5iMDraGEcpmnw=="
+secured: "qodllpMfJUSX6RDYZ3zz98ojx3CPnup5wNgtKrDIpw01VDh/0L5TQPIZNHRRSuSdSmsAqeLhHh+lo63zHWHQc254fp61iDvO0aYw/dHIuMsiHUAOsRaFToNWUJvfhDyKtqZVZC/On2eyt0ag5Qq3QF9kNqjgQJLXtcLVASjXYvic0GTF6krg2gFK8Z90k3GsvWX9KSEZUyttWafOjLTGU/rU4uTOO1bHTfu3BvKvg2ph0uk1kCbdzTyiW34Qtllbb9Y/4ITcz1I/jtNH03dP5Rz7mttbG2QbBSLr682lLDxtMB4gF0Ybefu3sBXlaFixpcRkOetC0P+Qv3ZgzWfP5Pb0v9OKiW3DV62t55SU87I=;p7FTtm4k3CgxXFRZFBh4mw=="
 ---
 

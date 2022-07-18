@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/429429"
 webUrl: "https://www.entrepreneur.com/article/429429"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
         width: 1600
         height: 1184
+        isCached: true
+  - title: "Unchain Fintech Festival took place in Oradea between the 13th and 14th of July, setting the regional trends of the most effervescent industry"
+    excerpt: "Events - Unchain Fintech Festival, which shaped the fintech landscape in Central and Eastern Europe (CEE) and set the industry trends, took place in Oradea last"
+    publishedDateTime: 2022-07-18T11:52:00Z
+    webUrl: "https://business-review.eu/bucharest-going-out/events/unchain-fintech-festival-took-place-in-oradea-between-the-13th-and-14th-of-july-setting-the-regional-trends-of-the-most-effervescent-industry-233250"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2022/07/FilmChain-Unchain-Fintech-Festival-1024x683.jpeg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "uJkMl+BzFwxkdxBtLDtUieOFICzVdjDvgk+zxqLVLdQHeSfI1Qu+UPwbxQfTEZAqu6H6in67KWnU/vwc8i9BLwZWVmv5uZlM+7g6Am+mbc6zX/e+1kPucVmLQQaX3z+NXpJ55HHl/jp4JLVK1hgSlnyZu1dqMpNI9knl95RLogQBlTMhxD+ihbGT4qm8NAgNjcYSks6kRAtHqRQ+2wKFDs10kTk7xNJUWBovq73pFw4556wkcRFCBIqQ2ICwDBFs0aqkvGKorU5/L1A2G0A9ruApMHGznLbWOEE1ID5Pk21qJsmqPoPz3aJydk0fP4Np4xSckPy+IZtMTEXnZTac8e/OfqBudqf1679AM/gy4Wa0iQhPnnbHO5NjfsLXRrw1aCeSDcrl36prwQBa5FrTGDwnVdN/VgBBTKYiXqAPYVfQY+K0gx7xfaS5PyyDz56kHpfBqTlJlukVCSORTGLENWRx9THjMRdbjKgUjBa48HVW6mHxCaVL5tUeLhcY6j1gE9nAIHWvZIhPRNcaEV98lw==;G126qlxIPpvtS/9VL/xmTA=="

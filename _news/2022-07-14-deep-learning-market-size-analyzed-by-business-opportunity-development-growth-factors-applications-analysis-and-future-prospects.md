@@ -34,6 +34,48 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial intelligence rules to require human liability"
+    excerpt: "Artificial intelligence systems will have to identify a legal person to be held responsible for any problems under proposals for regulating AI unveiled by the government today. The proposed 'pro innovation' regime will be operated by existing regulators rather than a dedicated central body along the lines of that being created by the EU,"
+    publishedDateTime: 2022-07-18T11:29:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/artificial-intelligence-rules-to-require-human-liability/5113150.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 39
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/3/2/1/105321_istock1277975917_184490_crop.jpg"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Government proposals for UK AI regulation"
+    excerpt: "The Government's preferred approach to AI regulation in the UK has been set out today. Read a summary and techUK's comment below."
+    publishedDateTime: 2022-07-18T11:23:00Z
+    webUrl: "https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
+  - title: "UK government throws around some ideas for AI rules"
+    excerpt: "The UK Government has put forward proposals on the future regulation of AI, which would see various regulators apply six ‘principles’ to markets which are implementing such technologies."
+    publishedDateTime: 2022-07-18T11:41:00Z
+    webUrl: "https://telecoms.com/516500/uk-government-throws-around-some-ideas-for-ai-rules/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/06/iStock-1327735623-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Lessons and consequences of the failure to regulate AI for women’s human rights"
     excerpt: "The current absence of adequate regulation by states to protect human rights from the deployment of AI systems is, in itself, a violation of human rights."
     publishedDateTime: 2022-07-14T20:00:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Operation Technology Market 2022 Business Scenario, Advance Technology, and Analysis by Recent Trends to 2028"
-    excerpt: "Market companies operating in the regions are deeply studied and their developmental opportunities in the next years from 2022 to 2028 time-period. The report presents a thorough analysis of existing and emerging market developments and prospects."
-    publishedDateTime: 2022-07-13T19:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-operation-technology-market-2022-business-scenario-advance-technology-and-analysis-by-recent-trends-to-2028-2022-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
     excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
     publishedDateTime: 2022-07-14T19:55:00Z
