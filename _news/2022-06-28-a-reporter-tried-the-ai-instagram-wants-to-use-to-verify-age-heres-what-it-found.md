@@ -15,12 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://amayei.nyc3.digitaloceanspaces.com/2022/06/220624020303-01-instagram-ai-age-estimation-face-scan-restricted-exlarge-169.jpg"
-    width: 780
-    height: 438
-    isCached: true
-
-secured: "pfmYvctUlyBl74+h1U8B3OsVfxEdsU6ekoOtdzDWJ8X6bO5EaOSEejQGtUbuBUqNnGPQdOd38bWLkzwOn6IM3Yw+12sFh1n4cANZ9CSRO8aYlZnDSZi+IAjrGO37MDtLyHctZljHwLGdQqpkeBY04sQAqZeVgastQ51Go+7RLK6z9/D6zkU6ShW372AJWFLH/nhtaUFp0Ih4N27pMzyMgMvqCH2XFDRN/9zKtSPoSO+X6iKgd4oWZkagJCoET58sGoRD+4pvB97jGXzPV9kpnD9LhzHx6WCuM6qMhT5fBQ7cLlWWMx14uOn2qG9LtbPey6leehkPnypgCbsvLAw9efFup0zZOJ8JPdmojHxhz1U=;0pJP7PzCGWuiFpopvgK8kA=="
+secured: "qmvj0D6umT4OtOajHiMtAquSCjyUNm4kVlPKRf1rNGBS5lLophmFeMnIoUqwutIsR/mx0YFHfP7iO5wrx+tyVibJwzYtDCrhCQhezA0fCBytvOhG3MJbnvuIpcZxD/38ljDYwCrE8qOqtjkju2gxs8duY6qzYdUAwok8mPrH01qPfx+BHEKaRU2QgEQjcqDU2E0BKAW3uvF8EHtXUIcggRUvejxrUyDhJGAX1FF+pu8//aTcznEprn0RRWjFdeSDPuXyK9TOKNuZpYBWiwctkTZGF2pHccvw0G1ryQ9h7+yBpwUH6m8gy637ozS8R4fZSDvr+CcE3jw4XAq+n6He85Es9UwxryM2/V4sHVWwiSY=;w5HMm8PUMEcsn+xenVNJsw=="
 ---
 
