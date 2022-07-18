@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-ra
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
 type: article
 quality: 57
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1858606/Detect_Founders.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
-    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
-    publishedDateTime: 2022-07-13T13:33:00Z
-    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 52
-    images:
-      - url: "https://www.crn.com/resources/0277-15a179bc9714-757354b8c8b7-1000/tecton.jpg"
-        width: 610
-        height: 457
         isCached: true
   - title: "FPL Technologies Becomes India’s 4th Fintech Unicorn This Year, Raises $100 Mn From Temasek"
     excerpt: "The other three fintech players who joined the unicorn club this year include Open, Oxyzo, and Yubi Pune-based FPL Technologies has raised about $100 million in a new funding round led by Temasek. The Singaporean sovereign fund invested $46."
@@ -100,15 +86,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Provus Inc. Announces $12 Million Series A To Enhance AI-Powered Services Quoting Solution And Expand Team"
-    excerpt: "Provus Inc., provider of an automated services quoting solution, today announced it has raised $12 million in Series A funding. Norwest Venture Partners led the round with returning participation from angel investors Accel Partners and Storm Ventures,"
-    publishedDateTime: 2022-07-13T13:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/provus-inc-announces-12-million-series-a-to-enhance-ai-powered-services-quoting-solution-and-expand-team-1031584579"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
     excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."
     publishedDateTime: 2022-07-14T11:49:00Z

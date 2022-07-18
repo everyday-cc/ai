@@ -2,25 +2,25 @@
 category: news
 title: "As AI language skills grow, scientists worry about accuracy"
 excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
-publishedDateTime: 2022-07-17T23:24:00Z
-originalUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-webUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+publishedDateTime: 2022-07-17T18:24:00Z
+originalUrl: "https://www.wfaa.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+webUrl: "https://www.wfaa.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
 type: article
 quality: 57
 heat: 77
 published: true
 
 provider:
-  name: WHAS11 News
-  domain: whas11.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.whas11.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+  - url: "https://media.wfaa.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 576
         isCached: true
 
-secured: "fPBgSPCMqtz0qOQeALQiTBZi8hkjFBuFGTMGGzjBhvZfzUkb4r5O4jQfcd1yEYqepPGEshPAQovNE3S2f7xpkPXI6iz1UG58WobMK5B08JqloWMGVvxs8k0VkCKWwjFsux84tzbEaQE0EgR2eSMY7N1JhjRmpDuZ409yZJ0IcdG/ZSH0sINTuotu0PBELtlhMBq1ey05500fOSqksgDp7dck9Bcqq6kb1PbFxNwCqLPKjSGqqMYmvrNEYE/3IP9r7W1jQpKc8QNht1MbmXmriW2WF9wcgxA6EVGRQVicGkBmqT175j2JKlI6ajMNC2OUJ4B2rCQwL4SZfNPRWoF9E+Fc0uEt8sjE3Lq2OyzadoVq/lHf0LsgGEjzDR02A7VWrvJqtb8xLus8Wg1qdEmqIzCLIy7FcTUuG3i32PZfZjGdSORS23vo1rQ2R760kGgpjI0Kx9ESV8YkOZXuT/JncRi3g5v77wwZqimg2WMU+SLyPNDw2LKYkl6sHtA3fSppfrK0rcB9RncWHMhUenlFAA==;lw64UxeTip849q+v96zVfA=="
+secured: "IkwOhI+/PrQawaVGtPkWxvdmwW/399KGBb+jpZ5SfuJXlRn4bN67XHDCb7VFIGciq44+tVtcHqIg7M1/TkicUrYcAB3x6UT5ZELZ/+5hfh6yIKNh0u0Wd1kh/fntSUf9u7JwrqcgpZyjSEf8jxqNtQFEBWlDA7GSk1QoESApbbDGeSZImVOM1wiSOUj9n12duVtdYXwmRd+UDHpAVpdiBNwNd9aA1+55HCCyeaJ2SZdyYBKQw1hYlRbgUr9i5H6dGXUyDvx2+hXPHFnjIo1KHslm9bMzOsFK3HgxC8rzRoOvBk9zIOVWvpC6JQosm/hfIasW2fKbSBsYMlNgaxGt4A5VcFR+/IN5mmHw0DOJdvA=;6S1iUiRWVLsiS4OfQRCHOA=="
 ---
 

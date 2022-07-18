@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics"
-    excerpt: "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding."
-    publishedDateTime: 2022-07-13T13:23:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 74
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "DeepMind’s latest research at ICML 2022"
     excerpt: "Starting this weekend, the thirty-ninth International Conference on Machine Learning (ICML 2022) is meeting from 17-23 July, 2022 at the Baltimore Convention Center in Maryland, USA, and will be running as a hybrid event. Researchers working across artificial intelligence, data science, machine vision,"
     publishedDateTime: 2022-07-15T00:00:00Z
@@ -52,6 +36,20 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "Artificial Intelligence in Law Market 2022 Industry Growth, Trends and Forecast to 2028 |AIBrain, Amazon, Anki, CloudMinds, Deepmind"
+    excerpt: "A new Market Research from Infinity Business Insights, the Global Artificial Intelligence in Law Market, is expected to show tremendous growth in the coming years. Analysts also analysed the ..."
+    publishedDateTime: 2022-07-14T12:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-law-market-2022-industry-growth-trends-and-forecast-to-2028-aibrain-amazon-anki-cloudminds-deepmind"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/9f102c3c6d56cb1069f10b4ca808a9f22db416aa-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "uKgOc/7DJwZDZZJyW4cJsaZIyD7mtf3yiCs4uzTwaI6+vWBzJxWlTMouOlkTAmYDkUk+v4ekJESuZtf+asSnJJyy1a/Kb8CHaUASLcp2GpKmT7UVj+Qirqsodue5b0f6L/RV/neXFQRilHhGXYBSb8V5Do0JiHZZtaFMHWUc65FKi8CBpCXsH5PleRhACvhTobqqmj4xLAdWjdH/hYMks8QLU6sNhNqcvWRFeveruJrsZaJldZ2SHHoHBCYlVV3mZx5kilm97I6flumgfoHMzMc1JrMT/IdP0QGTQs30aR/U3cAnB3e3sEbqwsM0ZObKuPGvgLBhXfRwqSZ9R2iTIkdrndnH76/OU4F7GS96iu6jcUYWrphc/45/VxWnaWdOTXQTGfABNR4WxAi6czgwotwLKu3b8Dnb/D0FlVsrgKmpQL9RCPrNJGVgJ+E/DR/cPZiyz1w0oOdKIlGXUFYK8x/OX7SipFtJLhnwtVnFERMc2AccvELdAU2iEIOcam3xrOPsbfXatWf9DnPGsBESTQ==;GWX+ygX+BQnreIUu+2qqHA=="
 ---

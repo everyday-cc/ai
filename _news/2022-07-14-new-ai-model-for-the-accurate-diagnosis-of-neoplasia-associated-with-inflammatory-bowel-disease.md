@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Researchers develop an AI system to classify IBD neoplasia lesions accurately"
-    excerpt: "The incidence of inflammatory bowel disease (IBD)-;an intractable disease characterized by chronic inflammation of the gastrointestinal (GI) tract-;has increased significantly in Japan."
-    publishedDateTime: 2022-07-13T13:52:00Z
-    webUrl: "https://www.news-medical.net/news/20220713/Researchers-develop-an-AI-system-to-classify-IBD-neoplasia-lesions-accurately.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 14
-
 secured: "HL2ArmfU7/tGmxblSjDKkVy7lJXL1KQ3ZEKlAgvJJ2Y/BGXsZnX8czwQa7FU7xD6zKI2RaIVaQuX7uxD6uoEc3dP1P1StKhAMBO2j42/gMT/GUfSsqVPbCzWaW7Y6hg9t0ZOajjsbtGUKKR6MV0Fltpn0MZQLFwF51tHT1zNbYJ3F4xBiPpxa6XLvumM4sPAYyF+dKRowcoUp4Se8BkJrdOjr90IRuprR9aZjgBgKiLV3Sf5nfeaIAubaQaWKxsK8issJXljL7FX56oxvUVWtp/F69T/ZowVxo9sKcdrUnbuHVuHxd4O+k41e7QhqUd+ZOx8dmEm5nRNDHMXqEBovtnUbF9/7rRKwmO/KrZMbYo=;fXQBEW+rxe4F1dsqTHHWRg=="
 ---
 

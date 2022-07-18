@@ -25,33 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Smart Lock Market Share Status, Growth Strategy, Developing Technologies and Business Development 2022 to 2028"
-    excerpt: "Global Face Recognition Smart Lock Market Overview and Analysis: In the report, we cover company profiles, product"
-    publishedDateTime: 2022-07-15T12:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-share-status-growth-strategy-developing-technologies-and-business-development-2022-to-2028-2022-07-15"
+  - title: "How AI Regulations Are Shaping Its Current And Future Use"
+    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
+    publishedDateTime: 2022-07-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Lessons and consequences of the failure to regulate AI for women’s human rights"
+    excerpt: "The current absence of adequate regulation by states to protect human rights from the deployment of AI systems is, in itself, a violation of human rights."
+    publishedDateTime: 2022-07-14T20:00:00Z
+    webUrl: "https://www.openglobalrights.org/lessons-and-consequences-of-failure-to-regulate-ai/"
+    type: article
+    provider:
+      name: openglobalrights
+      domain: openglobalrights.org
+    quality: 33
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.openglobalrights.org/userfiles/image/Vijeyarasa%20%26%20Villarino_image1_07_14_22.jpg"
+        width: 531
+        height: 360
         isCached: true
-  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
-    publishedDateTime: 2022-07-14T08:41:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
+  - title: "The Role of Artificial Intelligence in Wildlife Conservation: A step for achieving SDGs"
+    excerpt: "The Context Wildlife is becoming extinct at an alarming rate. Traditional wildlife monitoring and management techniques are costly, time-consuming, inefficient, and in need of better alternatives. The cutting-edge technology"
+    publishedDateTime: 2022-07-14T09:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/policyresearcher/the-role-of-artificial-intelligence-in-wildlife-conservation-a-step-for-achieving-sdgs-43767/"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
+      name: India Times
+      domain: indiatimes.com
+    quality: 29
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "pvKLUkVEgaddtwdvTCyX0yCt7dJK5YhENRCrEAHKWzWi/7fbe5uRf+1iTylCZS7txpI9YuQEAHcYZvQWSYL0kJ9mmBxsCNlLf14vQkU5i2+yVl7FHskao2p8+0PwCXJKgpzf91JrtRTATAy34VweVyM5kgQwhJhQ00YATRfGLkotyhae3IKJDhs6EllhYQ8tGf2Rv+G+tziHJNTdhroNaFGhIt5MYwYMswfXwhZdn0tQMmB7d1CURpOw1E3kUqjhuiJL26i129jEgqoX3BIBnBmzHameOdrngoqM0xJQO6cQFrL5pefIjzsYD+8xZwZsMRJoaFXB9pPKmbeY3uo3sX4PqJEfP5Q6tkRbsOUn5w0=;EAnegq3wLMvtAgwvXv70AA=="

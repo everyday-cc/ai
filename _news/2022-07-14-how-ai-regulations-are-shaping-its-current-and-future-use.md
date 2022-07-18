@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-r
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,49 +22,48 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Can Empower The Future Of The Gaming Industry"
-    excerpt: "The gaming industry has experienced amazing advances in the past few years, and AI can offer many more benefits and innovative solutions that could continue driving the industry to new heights."
-    publishedDateTime: 2022-07-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/"
+  - title: "Lessons and consequences of the failure to regulate AI for women’s human rights"
+    excerpt: "The current absence of adequate regulation by states to protect human rights from the deployment of AI systems is, in itself, a violation of human rights."
+    publishedDateTime: 2022-07-14T20:00:00Z
+    webUrl: "https://www.openglobalrights.org/lessons-and-consequences-of-failure-to-regulate-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: openglobalrights
+      domain: openglobalrights.org
+    quality: 33
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62cd8de3fe04dc8a1f4c2949/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.openglobalrights.org/userfiles/image/Vijeyarasa%20%26%20Villarino_image1_07_14_22.jpg"
+        width: 531
+        height: 360
         isCached: true
-  - title: "Artificial Intelligence: Revolutionising the iGaming Industry"
-    excerpt: "The online gaming sector has been making exponential strides in our country, and with the comfort, it provides - allowing you to play and bet in the comfort of your home - its not at all surprising. But despite its obvious advantages over the traditional casino industry and popularity among players,"
-    publishedDateTime: 2022-07-13T13:28:00Z
-    webUrl: "https://www.mykhel.com/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
-    ampWebUrl: "https://www.mykhel.com/amphtml/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
-    cdnAmpWebUrl: "https://www-mykhel-com.cdn.ampproject.org/c/s/www.mykhel.com/amphtml/more-sports/artificial-intelligence-revolutionising-the-igaming-industry-193761.html"
-    type: article
-    provider:
-      name: mykhel
-      domain: mykhel.com
-    quality: 57
-    images:
-      - url: "https://www.mykhel.com/img/2022/07/dmitrybelianinccopmi-1657721962.jpg"
-        width: 950
-        height: 634
-        isCached: true
-  - title: "How artificial intelligence is revolutionizing the food and beverage industry"
-    excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
-    publishedDateTime: 2022-07-18T05:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+  - title: "The Role of Artificial Intelligence in Wildlife Conservation: A step for achieving SDGs"
+    excerpt: "The Context Wildlife is becoming extinct at an alarming rate. Traditional wildlife monitoring and management techniques are costly, time-consuming, inefficient, and in need of better alternatives. The cutting-edge technology"
+    publishedDateTime: 2022-07-14T09:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/policyresearcher/the-role-of-artificial-intelligence-in-wildlife-conservation-a-step-for-achieving-sdgs-43767/"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 34
+    quality: 29
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Deep Learning Market Size Analyzed By Business Opportunity, Development, Growth Factors, Applications Analysis And Future Prospects"
+    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2022-07-14T07:16:00Z
+    webUrl: "https://menafn.com/1104528998/Deep-Learning-MarketSize-Analyzed-By-Business-Opportunity-Development-Growth-Factors-Applications-Analysis-And-Future-Prospects"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?63655"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "QlO1P5mlgmqhNwbB+dxKvtYtvz/lvPh4v3r+PzaxJvXJpwgeSbtXPsCyhiY6Q5j1eeaKiwpaPYYkJaDEvMQkReWi1LXJNtqVWbQb/M+aP3e7i3YuqX+H8ZZNVu6tkDSAQJtdIK1k6d3XQKAhPZAfDFUMYSOO2tzFoJ4PljYLX8jg2fBepKmaljhRsJBcpXpIp3bmbN/E3nWXGyABMobwyEIsaGbe6c7scbo5c9GZmQE5GRuG5wx2T3y8vber1FMJ1OCk1lwjYQO2VJJOKs5W7/HUUejEpwjnlzmu+iH7Trpf3ee4wryOuLs4zKi/1Ntqu+mPa3ShijH1IaOksipzwqPpn7t4omYoNpmIfBDfKF7qprN28rAeHSO2gYA+8PAgCvEcs88tP8ylkzTx7OCpqdgN77LkQXABnMJKMA9rz1oXg8z/oDypzxLf+UI9rRk/x09uWtVtx1RnkGXDQB+mnlRv9YVm2phHIH03ayPaaht/z6uXPpHwUwPQTAydqdwJQaH3kOrfdgo7dyoSVFhOuA==;tUKIG8kH7sV7nk0JbY6FBg=="
 ---

@@ -96,20 +96,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Law Market 2022 Industry Growth, Trends and Forecast to 2028 |AIBrain, Amazon, Anki, CloudMinds, Deepmind"
-    excerpt: "A new Market Research from Infinity Business Insights, the Global Artificial Intelligence in Law Market, is expected to show tremendous growth in the coming years. Analysts also analysed the ..."
-    publishedDateTime: 2022-07-14T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-law-market-2022-industry-growth-trends-and-forecast-to-2028-aibrain-amazon-anki-cloudminds-deepmind"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/9f102c3c6d56cb1069f10b4ca808a9f22db416aa-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
     publishedDateTime: 2022-07-15T13:52:00Z

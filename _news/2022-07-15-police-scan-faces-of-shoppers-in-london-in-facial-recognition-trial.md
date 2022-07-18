@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Met police deploy facial-recognition technology in Oxford Circus"
-    excerpt: "Police facial recognition deployment resulted in three arrests, despite sustained calls from Parliament and civil society to limit the technology’s use until a specific legal framework for biometrics"
-    publishedDateTime: 2022-07-13T13:30:00Z
-    webUrl: "https://www.computerweekly.com/news/252522694/Met-police-deploy-facial-recognition-technology-in-Oxford-Circus"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
   - title: "A voice of recognition"
     excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
     publishedDateTime: 2022-07-15T14:02:00Z

@@ -18,35 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Deutsche Telekom will trial Google Cloud’s data analytics, artificial intelligence (AI) and machine learning (ML) solutions"
-    excerpt: "Deutsche Telekom and Google Cloud will pilot several network services such as 5G SA in Austria, as well as remote packet gateway functions."
-    publishedDateTime: 2022-07-13T14:57:00Z
-    webUrl: "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud"
+  - title: "NFRA to identify risk parameters using data analytics, artificial intelligence for audit review"
+    excerpt: "\"There would be different weightages for different risk parameters and we will be using more technology like data analytics and artificial intelligence in this regard,\" Pandey noted. Besides the ..."
+    publishedDateTime: 2022-07-15T11:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
     type: article
     provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 58
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 45
     images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2018/08/86347751_l.jpg"
-        width: 2048
-        height: 2048
-        isCached: true
-  - title: "Defense Health Agency to Utilize AI, Data Analytics to Enhance PTSD Treatment"
-    excerpt: "The agency has partnered with AiCure to deploy artificial intelligence solutions as part of its PTSD Drug Treatment Program, which aims to optimize treatment and increase patient support."
-    publishedDateTime: 2022-07-13T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/defense-health-agency-to-utilize-ai-data-analytics-to-enhance-ptsd-treatment"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92900692,imgsize-19434,width-1200,height-628,overlay-etcio/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Esri Melds GIS with AI, Graph, and Analytics"
     excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"
