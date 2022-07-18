@@ -50,6 +50,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
+    excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
+    publishedDateTime: 2022-07-18T20:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 26
 
 secured: "dGeNOOI8oJEWXLj9U+S5sbi7W5QnvsjJmGcIaGkZKDbDGl7CDkUtKzASSzHYHiDAd2FUfbL/RKvqRXvXR+jY1eJCFEg0hyVBjO5WFUPm85yP+JrxUNy4OvuttveLNUtMf8GUS2uMqEw2xfygzA0SRsU9D478rDSbitmO3pX86EW6XVhQ6nszX49SsYcayVF0eFsuIdNPaJ/XrccxiZ4wWkRtT+bVMu7HNA3oJxf7AE7Eie0b3Yy/BIBSntBi8z1okpF2mBhg8vUHxrB6PV+Ng+pJQKxLcy5n3tfGqCfV3GAmy1ESYMSYlVya5aPRya0KW3YYPap01g0y3mITuQBnd+hOvQMcgDd6ncZZZbmrCig8mJ59uQKOqx1rs2drdqNZmYSzMQAbLLz4F6Z2xj6SEsWOogJSnjHeMgQgq3aCSIATiaC9wqjss+fNKEyaKQT7S7Dv5gys/yBCkRit8UJjci/FyXMqUDMMOPASTlekJOb/MmVKJmKYdCyYxj5NgnlEPxUMbkWnDV+7ZnwwiML2lA==;7B5v8SDAtNXYcFlYLEsVjg=="
 ---

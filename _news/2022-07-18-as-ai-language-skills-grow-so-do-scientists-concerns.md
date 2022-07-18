@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38698"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "As AI language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+    publishedDateTime: 2022-07-18T18:06:00Z
+    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 19
 
 secured: "AuSBUeNGI1Eixj8yKjN9I3oFrYh0UBM/WNxU2LpMX6xc4VAxxNdMRVCNbrbONmGHECYAbILow4cI9W/XLZEFT+L/vRzvb8imBjDLf4wQynsMXxFJ4/P6CfigKHG3jDfyE7AhCX1vvmdooP3HQQuPlVtXhIAuSIvBYA93VaQ/N8m0uQN38YWnfRUyYwP/GcmZ/UWpvrI5gbcFpTsKxORO+hGxdYhmC29dZBEEjWc+/5JjmU2yjQuiJZBK/b8zKlgX61EJadx4kDnzpOto15ucvNHfdXt/ZRNFOyewLlDW9Li6lYnKU/3DQVDctSf6Rzy6jOhzUYby7TVjg6+YuBUIxUIQdlNlLDbP3w9FN9PXrD/yD+LZFrsa3JAdozSyNTg2H+ozCwacJ2Pj3wdmR9Du7jGTaDbIpAda8qmf/klX/z4Yd0Qzy06IMe4r29z4RitOfMgvjJHH9tAfq4/Egag+LCahwrtVGcx+CaXRPBMvUKAuHgabIjDC9spVq2uRJulkT30nNrFfRE4SKex/qWUgbg==;Kk62KF9qvq42ztWm6WFHhw=="
 ---

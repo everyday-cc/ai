@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposa
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 400
         height: 276
         isCached: true
+  - title: "DCMS Sets Out Proposal For New AI Rulebook"
+    excerpt: "The UK government has set out proposals for a new AI rulebook to unleash innovation and boost public trust in the technology, according to a policy paper published today by the Department for Digital,"
+    publishedDateTime: 2022-07-18T19:10:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/dcms-ai-rulebook/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "DZSkF4Cv5FhQWWbD3NeZCms9/mXDcYlK6daK/NE51S7l6sJGNRyJ8zstz+O5x6y8jaj+ZXEyp/vsFWwDF/5vFMQR164OKed8LFzNIBNFSMo5goP/i37qHGyKH6xH7rrI05z0Seg02HTvG7wAM1SRfnrV7NyVU4DyIwE/PKsE+sRUlUUDh8yv+kJnj3VQGcBUi2FzDAsoRkRA7kTupTYvJoL555IxTJeOczoI7PUfV87b/Oasnd7PaE0dCw/kTHENuwcxxOUt8oghbjYFZwBUT5zHrW92T32i7PBm6WyX31OiKHPvZF2Fk/WTevFuURhde7NwO9vnSEUrKgm+2HO/+v9vjL/zvpd51vzEkHn2bxc=;g1G8AL5Jx/mX4Qqp09qFdA=="
 ---

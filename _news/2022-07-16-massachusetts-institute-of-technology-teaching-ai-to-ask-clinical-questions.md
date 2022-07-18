@@ -43,6 +43,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
+    excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
+    publishedDateTime: 2022-07-18T20:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 26
   - title: "Exciting new tech uses AI to improve the lives of those with hearing loss"
     excerpt: "Over 37 million adults in the United States experience some degree of hearing loss — 29 million of which could benefit from a hearing assistive device. Studies show that"
     publishedDateTime: 2022-07-15T16:50:00Z

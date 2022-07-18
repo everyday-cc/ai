@@ -1,0 +1,82 @@
+---
+category: news
+title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
+excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
+publishedDateTime: 2022-07-18T19:22:00Z
+originalUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
+webUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Credit Union Insight
+  domain: cuinsight.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.cuinsight.com/wp-content/uploads/2022/07/FInTech-Incubator-Challenge-WinnerFINAL-600x450.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+related:
+  - title: "4 Key Opportunities to Leverage in Fintech and Beyond"
+    excerpt: "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?"
+    publishedDateTime: 2022-07-14T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/429429"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
+    excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
+    publishedDateTime: 2022-07-15T04:43:00Z
+    webUrl: "https://www.scmp.com/country-reports/country-reports/topics/country-business-reports-company-features/article/3185016"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 49
+  - title: "Fintech TIFIN Acquires SharingAlpha"
+    excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
+    publishedDateTime: 2022-07-15T14:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193696-fintech-tifin-acquires-sharingalpha/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
+        width: 1600
+        height: 1184
+        isCached: true
+  - title: "Unchain Fintech Festival took place in Oradea between the 13th and 14th of July, setting the regional trends of the most effervescent industry"
+    excerpt: "Events - Unchain Fintech Festival, which shaped the fintech landscape in Central and Eastern Europe (CEE) and set the industry trends, took place in Oradea last"
+    publishedDateTime: 2022-07-18T11:52:00Z
+    webUrl: "https://business-review.eu/bucharest-going-out/events/unchain-fintech-festival-took-place-in-oradea-between-the-13th-and-14th-of-july-setting-the-regional-trends-of-the-most-effervescent-industry-233250"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 3
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2022/07/FilmChain-Unchain-Fintech-Festival-1024x683.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "krvV8BuAkoZMwMSRF4uhYUw73LxKlJ/AQYWi2WcKHTwSYM2YPRTRoF79aFNsSeBgTL2HXkWYJ50tSycAo186cQn5sjNjUcz6tDJQkHsURt4koLZqtgzBEYZhu1N3jfk55CDUjsAR5H84XW09URIBxHG/Ow0bQJuieoIkj5+xK0uwBiH2OrXioEy2afyC5CtHWmW3E8LDAA+HsZzs3qdXaUeW9A4k9AlaSQWuoYvhCAq5266uFdjAEts5gZhnfqnbRt1msOd4KQs5HUMVXf82RlGGhwXuXRRb+L6jnwJ3xCZrr3OQouBoi3oPDMg6v/ixYO1kkQ57a8/8YkRa7Buap/+Aog09o8yplzlJRM2ASXw=;hZ5Xkrx/BQcRRdwY4mU2XQ=="
+---
+

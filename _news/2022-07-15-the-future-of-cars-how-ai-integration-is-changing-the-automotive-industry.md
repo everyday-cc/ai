@@ -41,6 +41,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "AI art is challenging the boundaries of curation"
+    excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
+    publishedDateTime: 2022-07-18T21:05:00Z
+    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "An experimental horror ARG is testing the boundaries of AI art"
     excerpt: "This was the beginning of Sheridan’s own ARG experiment using AI art to flesh out a mix of cosmic horror and alt-history science fiction. VIIR invites “players” to examine documents taken from the fictional institute, founded in 1958 by a physicist ..."
     publishedDateTime: 2022-07-15T13:32:00Z

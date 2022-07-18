@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T18:30:00Z
 originalUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/"
 webUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

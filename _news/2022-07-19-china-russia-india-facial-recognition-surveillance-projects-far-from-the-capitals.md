@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T18:18:00Z
 originalUrl: "https://www.biometricupdate.com/202207/china-russia-india-facial-recognition-surveillance-projects-far-from-the-capitals"
 webUrl: "https://www.biometricupdate.com/202207/china-russia-india-facial-recognition-surveillance-projects-far-from-the-capitals"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Biometric Companies

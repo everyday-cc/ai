@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T18:52:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/07/18/carnegie-robotics-expands-into-buncher-park.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/07/18/carnegie-robotics-expands-into-buncher-park.html"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: The Business Journals

@@ -44,20 +44,15 @@ related:
         width: 286
         height: 229
         isCached: true
-  - title: "AI Workforce Development: Opportunities for the Emerging Vietnam’s Companies"
-    excerpt: "The Vietnamese government opened the door to AI and high-tech development in 2014, when they introduced the term “industrial revolution 4.0” in their economic directions, focusing on AI and 5G. After six years,"
-    publishedDateTime: 2022-07-18T15:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-software-vietnam-artificial-intelligence-6c4ec91c66a74b61b3f38f061d06dd10"
+  - title: "AI Workforce Development: Opportunities for the Emerging Vietnam's Companies"
+    excerpt: "The Vietnamese government opened the door to AI and high-tech development in 2014, when they introduced the term \"industrial revolution 4.0\" in their economic directions, focusing on AI and 5G. After six years,"
+    publishedDateTime: 2022-07-18T16:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-workforce-development-opportunities-the-emerging-vietnams-companies-/2022/07/18/9640411.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "OgOQ0OUeNTECUksQQk5Qzn3qFwR3clnpvcmvm3DPxJQW0p823t/9DVX2Z3JRII3WRzpcfVNaaPsgJV9Lh3lWQP5ueFedYCTkY2l30hvt9aQLoJlJpC9BnNRlQgiIUZo0orVgrexcEzj0NiKddHMafqyGR3UYXhibJP5xypqhvxGZXFK/USu0T9QB4kqFsjc4OwSsdJQyb+hH1bmsz20avEtwEawxR9tAHDjzYUXHqTwYreJxI0iUZHTrIccuRj0DJCJnytQ6ROGpfFZqFt5l5BzzQ95hbtGSENY39VlLZ6zLLA43hlDsW3sWhMSedn7Xpbuy01vz5ASR/6USNJyztPTJLMDHmw9zKRKDTQ6j5m0=;DCyqfLpcRTC2nXwwq17Ahw=="
 ---

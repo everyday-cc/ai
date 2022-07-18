@@ -38,6 +38,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 89
+  - title: "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations"
+    excerpt: "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using"
+    publishedDateTime: 2022-07-18T18:11:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
   - title: "Track your ML experiments end to end with Data Version Control and Amazon SageMaker Experiments"
     excerpt: "Data scientists often work towards understanding the effects of various data preprocessing and feature engineering strategies in combination with different model architectures and hyperparameters. Doing so requires you to cover large parameter spaces iteratively, and it can be overwhelming to keep track"
     publishedDateTime: 2022-07-14T16:41:48Z

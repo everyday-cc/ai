@@ -62,6 +62,20 @@ related:
         width: 1600
         height: 1184
         isCached: true
+  - title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
+    excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
+    publishedDateTime: 2022-07-18T19:22:00Z
+    webUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/07/FInTech-Incubator-Challenge-WinnerFINAL-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "LNGc/KpUJBDcFpzzXCrctsRtk/a9Qy16jZNj66NOGrvMZ/MnJcd9BtT9Epq6X5D3ATRgH9qh44OVR0uXEI3RNIJcgZD4TM6Wn/+lDlVNZ+lLHqNB3IcOlI8YM1xwy5led2lSzTxQvAf4ReqTIsCtFjmtkShFMnsd4nYL9vOIzcvJzHnegfFWo+UFlTywA6E2+6vqQZK98Une+LBrOtD91JHQ4SZXcv9ttfM2h86Ea4swuHnaUhAblBeUgAEjiAIdUduXzpEU9+7oKErgXul9+uGwSQiHtyPVQSj9cAfJsdQASsYKMnTgEaaafoQERi1sud3hX6PhNZWgnR14nyulkwpckO/QNoRdxNfTuzPTOqdzgWHxqi56rRSNR04a1SHFL8+53U4dYDEMcNJcRog8baIpDu+ScT+IgDWA8MVMx/S0cykckrOR1n8wlZ4k5/SAqsRB0io8yno8x4Se4DKsdAiEu4y8506BGWZImKAbEDb97J65LG6nHE4rDoxKZ8J5zUpUI6HLwladPKvwTP88cQ==;n1NjnLoBkcbbkAkjVwLH9A=="
 ---

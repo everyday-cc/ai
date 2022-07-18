@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T18:15:54Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/"
 type: article
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: AWS

@@ -47,6 +47,15 @@ related:
         width: 1222
         height: 630
         isCached: true
+  - title: "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations"
+    excerpt: "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using"
+    publishedDateTime: 2022-07-18T18:11:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
   - title: "Build a news-based real-time alert system with Twitter, Amazon SageMaker, and Hugging Face"
     excerpt: "Today, social media is a huge source of news. Users rely on platforms like Facebook and Twitter to consume news. For certain industries such as insurance companies, first respondents, law enforcement, and government agencies, being able to quickly process news about relevant events occurring can help"
     publishedDateTime: 2022-07-15T18:37:47Z

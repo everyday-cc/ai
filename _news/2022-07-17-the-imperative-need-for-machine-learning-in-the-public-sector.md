@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-l
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Advancing AI/ML in the public sector"
+    excerpt: "Government and industry leaders share practical applications of artificial intelligence and machine learning and strategies to move forward."
+    publishedDateTime: 2022-07-18T20:54:00Z
+    webUrl: "https://www.fedscoop.com/special/advancing-ai-ml-in-the-public-sector/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
+        width: 264
+        height: 264
+        isCached: true
 
 secured: "kgB+gjhR07Q9phGRWNkUdpULhuX2sJJ8ovxya3nnqcp2qm2yWxd+U0zM+AmaZjBnw5PaGzycvtHwZjLfoT9TkNNQXlvjyfccJP87+fKVMEOqWtk3d1dNsP0A/JOZxFQcImcGbaOZYsWzlmeUqP8Cc2CB6/uheE3uwJF7drscpBriSBQgDgD0bK10/MLIv/pLURTvrXkVNYzMQFlmKAeOHwVFuMQD3DbgaZjJua4rwygcadu/eRipRLjH6z5G0NlJxVxQaxpy4VFlQWBHj3ZJhPPiFH7Fs1uh+tBHVIFrur0+EnTSTsdkhPnzTao7hOsuu40dPrvZbpP+6tVn9fW4jzrcTrshT51r/UZhBu/iCTGWaTz8gx0iYc0ed7kNC4CMBbZE2EnjiDFVH+vIAQ9NXs3qcK7equmVXpEvIvn5lW/XhJCNjnY1cA9CUjYa9eHiQunnfFjFPumQ7uRACNKGcjo78QYHjDkEFqmW71h5kCGsJBuDuv1k5i2O8Q7I0sIaw+uyi83o50fIsbV3GvzI6g==;RsmEPviFBzB4jLyp+Od+dQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s AI head departs after lengthy sabbatical"
-    excerpt: "AI and Autopilot Vision chief Andrej Karpathy announced late Wednesday that he has left the company. “It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,"
-    publishedDateTime: 2022-07-14T01:32:00Z
-    webUrl: "https://seekingalpha.com/news/3856628-teslas-ai-head-departs-after-lengthy-sabbatical"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg?io=getty-c-w750"
-        width: 750
-        height: 521
-        isCached: true
   - title: "Top 7 Autonomous Vehicle Stocks to Buy Now"
     excerpt: "Buy these stocks to get a piece of the driverless auto industry. Autonomous vehicles, or AVs, are pretty self explanatory: vehicles that move without human control. The technology is extremely"
     publishedDateTime: 2022-07-14T12:00:00Z

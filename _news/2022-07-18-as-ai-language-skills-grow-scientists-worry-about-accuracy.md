@@ -72,6 +72,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "As AI language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+    publishedDateTime: 2022-07-18T18:06:00Z
+    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 19
 
 secured: "cj2Af62jWbDb5jix1ldxBPc4SeDil0XwjdjdbITbpoLrRhTpO3h8yGwCv0CtIxFkt3JvcS8Jqt5+Htl27aY2gzwADfIxRGTCYKPliQojd2lbali8vJW/zJBRNorvc9CUbO9eum/UkSFHvLWSq7y2bYuAghFrBdUi/yrfeuUzNzgNa/rwhokWiMw+4UaAhF0m76mi2GWPDylkNaSbE0MIDVhoyX4zgL1ratMVO5ZTyJVARO+z2wlU/1PJHJU85KY2/n9SsVIYAhNtiKqcPPN177Xa34vmv3evN8Qtm05HjgctFM1XNc5GyPx0rK35zNYFYxkCIYD2lEsF9KCL38t6voRvetysbiAGGi2d1KsoP/c=;sjuS+SSJov1Pi122Cw5bDA=="
 ---

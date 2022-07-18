@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-14T15:05:00Z
 originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/14/9639061.htm"
 webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/14/9639061.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mobility Techzone

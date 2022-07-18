@@ -77,20 +77,15 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla Loses Key AI Executive: How Elon Musk Reacted"
-    excerpt: "Tesla Inc’s (NASDAQ: TSLA) senior director of artificial intelligence, Andrej Karpathy, has quit. CEO Elon Musk said it was an “honor” working with the deep learning and computer vision expert."
-    publishedDateTime: 2022-07-14T02:21:00Z
-    webUrl: "https://www.benzinga.com/news/22/07/28059512/been-an-honor-elon-musk-full-of-praise-as-tesla-ai-director-steps-down"
+  - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
+    excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-07-18T18:17:00Z
+    webUrl: "https://electrek.co/2022/07/18/tesla-full-self-driving-beta-10-13-release-notes-left-turn-animal-detection-speed-limits-more/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/07/13/shutterstock_357431555.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Electrek
+      domain: electrek.co
+    quality: 33
   - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
     excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
     publishedDateTime: 2022-07-14T12:19:00Z

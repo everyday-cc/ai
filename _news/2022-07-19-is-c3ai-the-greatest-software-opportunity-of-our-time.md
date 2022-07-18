@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T18:56:00Z
 originalUrl: "https://seekingalpha.com/article/4524020-c3-ai-software-opportunity-investment"
 webUrl: "https://seekingalpha.com/article/4524020-c3-ai-software-opportunity-investment"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha

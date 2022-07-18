@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/429429"
 webUrl: "https://www.entrepreneur.com/article/429429"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
         width: 1600
         height: 1184
+        isCached: true
+  - title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
+    excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
+    publishedDateTime: 2022-07-18T19:22:00Z
+    webUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/07/FInTech-Incubator-Challenge-WinnerFINAL-600x450.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Unchain Fintech Festival took place in Oradea between the 13th and 14th of July, setting the regional trends of the most effervescent industry"
     excerpt: "Events - Unchain Fintech Festival, which shaped the fintech landscape in Central and Eastern Europe (CEE) and set the industry trends, took place in Oradea last"
