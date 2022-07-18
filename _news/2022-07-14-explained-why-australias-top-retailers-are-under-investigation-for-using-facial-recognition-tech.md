@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recogni
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
 type: article
 quality: 60
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -42,34 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a06b1fa95037e071b8515f9345096ac7b1d27027/0_0_1000_600/master/1000.jpg?width=620&quality=85&auto=format&fit=max&s=0cb24096a4cccc1c8e995528b0d40046"
         width: 620
         height: 372
-        isCached: true
-  - title: "Probe launched into retailers using facial recognition technology"
-    excerpt: "An investigation has been launched by the office of the Australian Information Commissioner into retailers using facial recognition technology. The probe will focus on what retailers do with the personal information they collect,"
-    publishedDateTime: 2022-07-13T07:13:00Z
-    webUrl: "https://www.4bc.com.au/probe-launched-into-retailers-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: 4BC
-      domain: 4bc.com.au
-    quality: 54
-    images:
-      - url: "https://www.4bc.com.au/wp-content/uploads/sites/10/2022/07/getty-istock-facial-recognition.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Vix Vizion facial recognition protecting Australian and NZ retailers"
-    excerpt: "The use of facial recognition technology to combat crime may seem like a dystopian solution to some, but for many retailers it’s working."
-    publishedDateTime: 2022-07-13T07:25:00Z
-    webUrl: "https://insideretail.com.au/technology/security/vix-vizion-facial-recognition-protecting-australian-and-nz-retailers-202207"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/07/bigstock-Dome-Cctv-Infrared-Camera-Te-433233587.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
         isCached: true
   - title: "Everything you need to know about retail’s facial recognition fiasco"
     excerpt: "On Tuesday, the Australian government’s privacy watchdog opened an investigation into retail giants Bunnings and Kmart over their use of facial recognition technology in stores. The move followed a complaint by the consumer advocacy group Choice regarding the retailers’ use of the technology,"

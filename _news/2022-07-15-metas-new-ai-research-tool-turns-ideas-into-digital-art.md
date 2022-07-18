@@ -35,15 +35,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Tech firms slug it out to create ultimate AI translator"
-    excerpt: "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models."
-    publishedDateTime: 2022-07-13T07:09:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/tech-firms-slug-it-out-to-create-ultimate-ai-translator-68ae0347-0d3e-49df-b35f-0e0605c3a04f"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 19
   - title: "Meta’s ‘Make-A-Scene’ Uses AI to Create Imaginative Artwork"
     excerpt: "Scene, an AI research tool that uses sketches and text to produce new artwork. Shared by Mark Zuckerberg, the tool is designed to give creative control to anyone, artists and non-artists. Most AI systems rely solely on text prompts to generate images,"
     publishedDateTime: 2022-07-15T18:05:00Z

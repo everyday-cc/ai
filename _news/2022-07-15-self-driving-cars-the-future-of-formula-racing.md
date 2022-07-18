@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New tests targeting bikes, and speed increase for self-driving cars"
-    excerpt: "Autonomous or self-driving vehicles are set for a speed increase, as well as new tests focused on how well they can detect motorcycles."
-    publishedDateTime: 2022-07-13T07:35:00Z
-    webUrl: "https://www.visordown.com/news/general/new-tests-targeting-bikes-and-speed-increase-self-driving-cars"
-    type: article
-    provider:
-      name: Visordown
-      domain: visordown.com
-    quality: 24
-    images:
-      - url: "https://cdn.visordown.com/field/image/self%20driving%20cars%2001.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Self-driving cars — the future of transport or an unnecessary indulgence?"
     excerpt: "Late one evening last month in downtown San Francisco, California, a car came to a halt at an intersection. Nobody was behind the wheel.Before long it was joine"
     publishedDateTime: 2022-07-16T00:00:00Z

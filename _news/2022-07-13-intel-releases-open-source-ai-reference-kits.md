@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-a
 webUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-ai-reference-kits/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel rolls out Open Source AI Reference Kits for enterprises"
-    excerpt: "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,"
-    publishedDateTime: 2022-07-13T09:01:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 67
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Intel Open Source AI reference kits now available for free"
     excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
     publishedDateTime: 2022-07-13T11:46:00Z

@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-12T15:04:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
   name: Joplin Globe
@@ -18,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "wr6ceV3rIcB7QVDZVysJ5hGd/e13oBut49GP9aZYgnvaVNTQjF3zYyY9ebjck8uMUJ9Xfs+yiIbZrqmTzjJEI6eVGCoANFm2oA2PoYZOEZqs9mxP6fDK1JfgQEx/38dYNX4Cuzm9VoIqO85NxLHGrCScs8hBXgNy5Rr5nUhRINdSDPBrt83cwBayNRj9srKK84Yjd36WKq1VUNfL3sQv8PRT8gCJeTZjkyeqQ/UePJdx+zUGgsgp82dilijv75lQOnPSGo+g0SerQa9G0tsRrLUiGUhMK4fWoeygz2O+Qbjey3P9F+3+YQWe7ctIU4Dc7u5fpI3077PvYSu7Qd2oZBCBWwGGp1xQj1GjXGok1cfjXNMV4RGOYHfwCkWFDfCZhVOTmQx2J1/7ZyJg1Hubm9wY3VamCTyzxKa+a1Rnh+82C54Xgdjm6Hijfdr/DVwhjzQkACLHFDtb+Hywg4ncZPE7UOXPcHaV2WSWd1sM5NPZDxcA2sfEosbASyxIMtvrz5PaRqE9IKymy4D2OCEELA==;8PDV14IJHyWw7efxcA7aMQ=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+    width: 415
+    height: 539
+    isCached: true
+
+secured: "Ijl7iWjgXfR4EBuIxI1Tv1J+E6zp/IT45j3v6JBWXBTVk9r/tT2zvYUTJM5YTGHy+2RAACzfLtB/7UHCs5Q/4pNx5NbCyno1nUGiFCOBOrohzVcN8/FYkeNQVkQx6abmdzmGvPl9bFZhoxs0pRPj73sYEiBTk5XShpCuLjXDTd5c/eER8qEYpwSwMZ0DvCNRK6dPXJAxqic3iz9PPCj4b/2ck0MWS6NWxtgKlfoL7CN5JdBr16NZMe8lHPqA/Mrlt+pYPq0WmyIjVF4ta+mpA+8ChRczBwavS7G3jkyBzzIODU4NzRgVK1hB/EufrQtjrHdRJUUE/IDH3wGk2rozqSneWGhVVKfpVwtg9pCWEew=;PLXDMjdULCfwno+S8gQ0cg=="
 ---
 

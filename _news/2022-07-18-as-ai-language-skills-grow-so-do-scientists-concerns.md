@@ -1,26 +1,27 @@
 ---
 category: news
-title: "As AI language skills grow, so do scientists' concerns"
-excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
-publishedDateTime: 2022-07-17T23:40:00Z
-originalUrl: "https://www.chron.com/news/article/As-AI-language-skills-grow-so-do-scientists-17310673.php"
-webUrl: "https://www.chron.com/news/article/As-AI-language-skills-grow-so-do-scientists-17310673.php"
+title: "As AI language skills grow, so do scientists’ concerns"
+excerpt: "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+publishedDateTime: 2022-07-17T17:48:00Z
+originalUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
+webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/26/50/43/22710507/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -57,6 +58,6 @@ related:
         height: 3770
         isCached: true
 
-secured: "V16RavsJypV0onvD0GgNw8JnBvVkNBJNwinx0H02jsQveEc4izVHysnbo57rEYbK85QgD7kKaU7xU1XUdydKs1797Iu6VEWZqA2gUpRnGk5hqTNwaaEER1GPIDwdtR4Y8V+XeyuoN5FZd7yWLd0L7S9ZTMVIwtNSM8PXfdGOUzy17w1u37YWkfsL1YDaGwaSHtvGVaUH25xftL8t0qZfzLaPutGmEtw2dfdis/b1UAtB/8rAe8v/vaMAiEeX+7CpsCOJLdy1rQzE9Qq9chFxwWwEFEAnxelxJ1kAC+ABoDV7Cx502tpBJkuj7M6aux5keEsghY8BEaQLCzdrqNeetvbak+y0PMHgk2eRBsYGzFw=;p/P8vxvcdc5uX3unaAkTUg=="
+secured: "KZ6jGorkUYsL1b9cNtSJZmKUan4yinFCXHdPzfca/2oIXD63O7K5p3/vQb/lOyg+5SQX0LowHApKNatml46fVeMfm9QLu7AIO6OlWou//1dhLFPP5J71Pv41iQM5w+Iq0+Y76qqY1+XJqqe9pwhmDPt+Z/FQsFvYNihbAhnbJc6VhxLZjQG/pShh55+ExjZd1GM9D4yLJY4qAj/IDRhc2QbEBYQjQXqQFLZ0YndW2xAOzAZZf9IwpdhTo1ro0JYWQUJDQpjMn+fIzTAGo9kuAUc7p+5ou/CjPdNhwF5RQ6LzVPaACOU8hSbTqjLSi6uPz5khqLqMwCcRZRAkh5mIylS3D1FiC6WG8o74ipo6vmk=;P9GKIwTuKI3ca+HTfoGtBA=="
 ---
 

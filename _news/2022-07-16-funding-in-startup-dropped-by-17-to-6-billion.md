@@ -40,20 +40,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "The future of fintech"
-    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
-    publishedDateTime: 2022-07-13T08:32:00Z
-    webUrl: "https://www.independent.co.uk/news/business/business-reporter/the-future-of-fintech-b2117928.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 24
-    images:
-      - url: "https://static.independent.co.uk/2022/07/07/12/Main%20image%20-%20Kuflink%20-%20iStock-978531552.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "IA9F/tmz2N6LHDKyrv+PHmMX1oLUemuZtxFPFhAzLIegkD8VwMr+PLoGulOOy32Io6V+y/VvxZvGD5wcRYxCKuyz1VWk4kOP6Xqt3G43EKVyCuafhk7pwH4AGwhrcPudokFxSNyhwqMaN5cGQtvdGZVmYGhKq+xxyiChvLeWRBubSjsLied2trnbNyQmC7sj8klOhdXJsLoXEhtULjtIcxQNnYPm/llfPTxKpAf17PhfEqUbLtDfsudEtz/N3V7x4HMaLXKwQDBxaeVdwU3gqIosFW9zckLA++GdH9JJkTPTy0SbA2S/nVdXnArm0sTSVmubeHp3KbEwWSHaXp+XGdx7r5CLldWpA3H7eOkYBo4=;lmMHmQV/ivFCBBm17omdWQ=="
 ---

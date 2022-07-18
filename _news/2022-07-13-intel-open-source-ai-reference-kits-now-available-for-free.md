@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel rolls out Open Source AI Reference Kits for enterprises"
-    excerpt: "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,"
-    publishedDateTime: 2022-07-13T09:01:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 67
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Intel Releases Open Source AI Reference Kits"
     excerpt: "AI workloads continue to grow and diversify with use cases in ... 1 Predictive Utility Analytics Reference Kit, measured on June 29, 2022. HW Configuration: Microsoft Azure Standard D4_v5, OS: Ubuntu 20.04.4 LTS (Focal Fossa), 8 X Intel Xeon Platinum ..."
     publishedDateTime: 2022-07-13T16:20:00Z

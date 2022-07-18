@@ -142,20 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Growth Factors, Applications, Regional Analysis, Key Players and Forecasts by 2028 | 3M, NEC Corporation, Aware Inc"
-    excerpt: "For example, Amazon Rekognition can break down facial attributes, including state of mind, visual calculation, eyes open or shut, and hair tone. These properties assist clients with arranging a ..."
-    publishedDateTime: 2022-07-13T08:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/face-recognition-technology-market-growth-factors-applications-regional-analysis-key-players-and-forecasts-by-2028-3m-nec-corporation-aware-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/France-Bastille-Day-military-parade-AFP-1K-02-e1657779506824-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "2PDN6LJiTGY9OnAymf0K0jDwp8kTsOghm66CSq2EBXAjbVf2c+42snPjuFX+aYtM+pI7CRH/37eLz2TMgJ522V6SYLQBA1zoTPEDCnF65a+oJoc9Z8qi+kmRZXDlMVcNmVGI05cMefjS/+EpZGyE9cTqrBddJMSuS2cNaChgGFNZQjBVRdiJR3ZMd0mJoWauwrmKtJPlv2FMoI1RwhwoXzCqHWI5xZFJUDLG9uol8nJYsHCLAn6FEaHvqQgn3x0UzdS38kxTWFXgEB6ZHGeZdm4v5LKfZ8D2/XucUGLqOLD/W1DxjE+LkYjBo0+hH2Srtt70Bp993ZsxBltCH5s5xLTM8NzWaKsxB9lxNbfuJYU=;AjVHnXx3oS4F5jafPMnFDw=="
 ---

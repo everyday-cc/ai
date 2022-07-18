@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/indian-tech-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Standard
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of fintech"
-    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
-    publishedDateTime: 2022-07-13T08:32:00Z
-    webUrl: "https://www.independent.co.uk/news/business/business-reporter/the-future-of-fintech-b2117928.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 24
-    images:
-      - url: "https://static.independent.co.uk/2022/07/07/12/Main%20image%20-%20Kuflink%20-%20iStock-978531552.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Funding in startup dropped by 17% to $6 billion"
     excerpt: "Funding for startups decreased by 17% quarter over quarter to USD 6 billion (about Rs 47,800 crore) in the April to June period."
     publishedDateTime: 2022-07-16T10:51:00Z
