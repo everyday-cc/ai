@@ -437,7 +437,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1073,6 +1073,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-08-malignant-or-benign-quick-and-accurate-diagnosis-with-artificial-tactile-neurons.md",
+      "title": "Malignant or benign? Quick and accurate diagnosis with artificial tactile neurons",
+      "excerpt": "Teams led by Dr. Hyunjung Yi and Suyoun Lee have developed a simple but highly accurate disease diagnosis technology by combining tactile neuron devices with artificial neural network learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
+      "publishedDateTime": "2022-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion.md",
       "title": "KDD 2022 Announces Special Conference Tracks for Government, Health, Deep Learning, Diversity and Inclusion",
       "excerpt": "KDD 2022, the premier interdisciplinary conference in data science, today announced special days dedicated to health, government, deep learning, and equity, diversity and inclusion (EDI). Taking place between Aug.",
@@ -1336,49 +1370,6 @@
       "provider": {
         "name": "syncedreview",
         "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
-      "title": "How to quickly deploy TinyML on MCUs",
-      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
-          "width": 470,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-12-artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78744-million-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
+      "title": "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting",
+      "excerpt": "Acumen Research and Consulting recently published report titled \"Artificial Intelligence in Manufacturing Market Size, Share, Analysis Report and Region Forecast, 2022 - 2030\" BEIJING, (GLOBE NEWSWIRE",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-deepmind-ai-learns-simple-physics-like-a-baby.md",
       "title": "DeepMind AI learns simple physics like a baby",
       "excerpt": "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ...",
@@ -1133,58 +1167,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-find-what-moves-you.md",
-      "title": "Find what moves you",
-      "excerpt": "This EV has plenty of get-up-and-go, but the GV60 always seems happiest when it's playing the role of a small luxury car. Toyota's oldest nameplate returns to the States as a perplexing hybrid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/1165/",
-      "originalUrl": "https://www.cnet.com/roadshow/1165/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e588511b23a04b20ba1b2bcbad43926e66cca8cb/2022/04/27/6e683780-bcc3-41c7-99a7-adfdfda611c1/avatar-cnet-cars-square.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-14-in-data-centric-ai-its-all-eyes-on-the-data.md",
+      "title": "In Data-Centric AI, It’s All Eyes On The Data",
+      "excerpt": "The data and the results are fed into a neural network. The neural network then generates a model to connect said d",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61950a7915fa72dc11db736c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/",
+      "publishedDateTime": "2022-07-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-bobidi-launches-to-reward-developers-for-testing-companies-ai-models.md",
       "title": "Bobidi launches to reward developers for testing companies’ AI models",
       "excerpt": "Bobidi, a new platform that rewards developers for testing companies' AI models, has raised $5.5 million in seed funding from investors",
@@ -844,7 +895,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1154,7 @@
       "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1186,49 +1237,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.md",
-      "title": "Internal Affairs lawfully allowed to access facial recognition system to verify identities - Waka Kotahi NZTA",
-      "excerpt": "Drivers' licence photos will not be run through the One Time Identity facial recognition system unless a person chooses it, the Transport Agency says. Waka Kotahi has created an interface with the OTI system being developed since 2019 by the Department of Internal Affairs (DIA),",
-      "sourceUrl": null,
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
-      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta/_jcr_content/par/image.dynimg.768.q75.jpg/v1657703692827/facial-recognition-GETTY-IMAGES-130722.jpg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
-      "publishedDateTime": "2022-07-13T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

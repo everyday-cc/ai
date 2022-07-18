@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-10
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

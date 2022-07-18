@@ -50,20 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Robots take up the cybersecurity fight"
-    excerpt: "The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report, and may yet exceed that amount"
-    publishedDateTime: 2022-07-13T05:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/robots-take-up-the-cybersecurity-fight-jzl0gs3i"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:MGQ4ZDcxZjItNWJkNy00:NzFjYjA3/patrickevans-png.png?f=3%3A2"
-        width: 443
-        height: 295
-        isCached: true
   - title: "How Robots Can Take Up the Cybersecurity Fight"
     excerpt: "“More importantly, as the latest developments in AI now start to reliably deploy systems that can start up and fully learn its environment in the way a skilled and experienced human does, AI can now deliver reliable and repeatable analytics with ..."
     publishedDateTime: 2022-07-16T12:07:00Z

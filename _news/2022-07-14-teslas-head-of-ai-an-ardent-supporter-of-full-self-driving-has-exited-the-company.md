@@ -157,6 +157,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "eMXvHVYXiPOgUc22eNK7zh9f6PBI4fUCr/spUY4LkSw1br/SnyleV3vTFhiAVLYxPgavwDW+PEfrRmuTKGBPNPhcSsMUfAwj3TWL5XWbFcjyi00N4jpZ/wduGIvxEGFn9h/W4ix5AsmW2FVTw7hYgm+fDgWkj1eZ2Kmcq6z6zpU/f93DDl5fw3rLCNwx7P06iEMyM6Xe2tCaj5z9kr97U8xyq2AtVJTHoJtYjkDB3wen5c0qJHcpdBhkGTzFS2Ris2PjvI+bKKPNS0SMNS68xIix9U7LcxBaHKNNQiiBybxdzFAQSDrkwwSecgGNlPrJS0+lnWk/FNjnzOtGGWWA6c8yhelmeMSH9L4PINVxLRk=;+3MvYyOE1yrwCLHqELN0Fw=="
+secured: "UB9aqiJcbb1bPR35YxT7i3c3FKyG1L9zH6AlmatANJm3j+l/IMF+EFhD2wiRzzpTbSxjf0Vu+2/2lhSy4Qmm6l52qtuT5A4AwO/BPn6z+N2Eu/VHW0ovkEzNe6/niFkEf17u1H+DyUqcIiAi4Q2EsljcnaPUDqtMXZPef6bzQu0h0PYnlU6/5WvprF+FODsH4rQlL4IW5EA3tv002sWKKtVszlJT685cIOeMjVUN9rfgpvUsTh6DWCxQ4yz8ifLuS/Dv9ZPYkC7eBuvXyhfnEae8PfPk5s8r0SGAeymkPoy5xm1latFviYZ/5Dh2Dp5UX6XX+pNHZNbleQIWidD0pVInxnS80z0CvOQ94zx+3gk=;PoHyu6RBvwlY6Ewjxu6IrQ=="
 ---
 

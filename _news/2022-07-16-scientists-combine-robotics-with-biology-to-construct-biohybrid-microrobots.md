@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robo
 webUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx"
 type: article
 quality: 54
-heat: 78
+heat: 74
 published: true
 
 provider:

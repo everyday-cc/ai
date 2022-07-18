@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-15-retailers-would-be-breaking-new-laws-governing-facial-recognition.md",
+      "title": "Retailers would be breaking new laws governing facial recognition",
+      "excerpt": "Human Rights Commissioners past and present are troubled by Wesfarmers use of AI to weed out problem customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
+      "originalUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_1.5521%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2%2C$y_439/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fdec91aa3302f32ec1857e6f912d765efd1026ae",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-university-of-washington-first-wireless-earbuds-that-clear-up-calls-using-deep-learning.md",
       "title": "University of Washington: First wireless earbuds that clear up calls using deep learning",
       "excerpt": "As meetings shifted online during the COVID-19 lockdown, many people found that chattering roommates, garbage trucks and other loud sounds disrupted important conversations.This experience inspired three University of Washington researchers,",
@@ -1030,7 +1073,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1164,57 +1207,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-in-data-centric-ai-its-all-eyes-on-the-data.md",
-      "title": "In Data-Centric AI, It’s All Eyes On The Data",
-      "excerpt": "The data and the results are fed into a neural network. The neural network then generates a model to connect said d",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61950a7915fa72dc11db736c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/",
-      "publishedDateTime": "2022-07-14T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

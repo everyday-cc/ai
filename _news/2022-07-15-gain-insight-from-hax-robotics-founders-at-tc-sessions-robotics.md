@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-fou
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/amp/"
 type: article
 quality: 119
-heat: 120
+heat: 119
 published: true
 
 provider:

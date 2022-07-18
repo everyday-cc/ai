@@ -2,21 +2,21 @@
 category: news
 title: "Accenture Uses Artificial Intelligence-Driven Database to Help Reduce Electricity Rates for Colonial Pipeline’s Interstate System"
 excerpt: "Accenture (NYSE: ACN) is using a proprietary database powered by artificial intelligence (AI) to help Colonial Pipeline, the largest refined products pipeline in the United States, reduce regulated and deregulated electric utility rates for its interstate pipeline system."
-publishedDateTime: 2022-07-14T12:00:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/accenture-uses-artificial-intelligence-driven-database-to-help-reduce-electricity-rates-for-colonial-pipeline-s/article_489580b5-7b8f-5b83-9849-77f44049e5e1.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/accenture-uses-artificial-intelligence-driven-database-to-help-reduce-electricity-rates-for-colonial-pipeline-s/article_489580b5-7b8f-5b83-9849-77f44049e5e1.html"
+publishedDateTime: 2022-07-14T11:59:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-14-accenture-uses-artificial-intelligence-driven-database-to-help-reduce-electricity-rates-for-colonial-pipelines-interstate-system"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-14-accenture-uses-artificial-intelligence-driven-database-to-help-reduce-electricity-rates-for-colonial-pipelines-interstate-system"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-secured: "tLrmHOL9eOHudABjzSM5ePYOzoLzMqiz5uU7FV0R3sA5votd9GyynHt3N1Ndna/YVqOnqFgT4SqoGImPdH+VaYfw8zsFeT7SlJzR2//j5bw3fwh1/GEOgiMqSBn2/cr3kp4739/KFKa/B+2UxJ3wzvN1Hcw/e0Xeg7M92JQl9/OratjcAJIii0KMQrau+JmIf1xY4iJtqVwcbfDMpphEMDopjXxIcXdXL5PWvDihyHrO06Nuwnjlu+BlOnmx0yT0Yu0Avnt6FX0LoYVEER7v/16qY1LhqYMlcrq50GEu+37/Wxq6sWFypArNglHlrQAOJTBvghjARpp2zCgbGap032lHMHH3jAKgqErVU0B4Vmc=;lqTRpQM22XC3gMSKskpV+w=="
+secured: "nhU6uzv2Cvu5QDP9sUIxKqveArsuTnt7uht5voEorctRiv83bwMsD++UGY4vsC6bwSyWJD80fRGlzFBpcT099l+++/UkezXOZWNWyLrNGFJDSWNlD3c8lPyfs2W7i/ThurGJ7VY81ZoXfDDLf1N0ehcu2RT6nxWLkes9ieiHObC/JZb0qFhCmQ/05xY1Vga9iWKQZCS7i7MRLJlm4iPpobFEeOy1vW2cTEMQsmJ3fghEmDMrL+P3igebrVdjyA5MtuDe6GA1yltkQUResRj1+CQYTtB7ngGNYropuI/2oleYKF5EDSdvIb62o+/Y0llzSGqFSfTm74SybzqzWirgHsCzwebMx4GFDb8k7QUkYxM=;gkQKfMODVHqn5B7dKeVwpA=="
 ---
 

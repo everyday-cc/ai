@@ -49,6 +49,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Deci Finalizes $25M Series B to Accelerate the Productization of AI Apps"
+    excerpt: "Deci, the deep learning company harnessing AI to solve the AI efficiency gap, recently announced it has raised $25 million via a Series B."
+    publishedDateTime: 2022-07-17T23:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193755-deci-finalizes-25m-series-b-to-accelerate-the-productization-of-ai-apps/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Deep learning automation startup Deci raises $25M in Series B round"
     excerpt: "Artificial intelligence startup Deci.AI Ltd. said today it has closed on a $25 million round of funding, just seven months after announcing its last round. Leading today’s Series B round was Insight Partners,"
     publishedDateTime: 2022-07-13T11:00:00Z

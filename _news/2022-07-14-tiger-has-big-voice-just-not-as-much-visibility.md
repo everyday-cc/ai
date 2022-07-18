@@ -26,31 +26,6 @@ images:
     height: 377
     isCached: true
 
-related:
-  - title: "Tiger has big voice, just not as much visibility"
-    excerpt: "Tiger Woods, left, and Jack Nicklaus, both from the United States pose for a photo on the Swilken Bridge during a 'Champions round' as preparations continue for the British Open g"
-    publishedDateTime: 2022-07-13T07:00:00Z
-    webUrl: "https://lmtribune.com/sports/tiger-has-big-voice-just-not-as-much-visibility/article_8fdc652c-a5be-543f-a946-c700ce718bb3.html"
-    type: article
-    provider:
-      name: Lewiston Tribune
-      domain: lmtribune.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/1/e4/1e43f688-c4ca-50eb-8ace-a45f6ab4b256/62ce62fa6e527.image.jpg?crop=1175%2C617%2C0%2C573&resize=1175%2C617&order=crop%2Cresize"
-        width: 1175
-        height: 617
-        isCached: true
-  - title: "Press Box: Tiger has big voice, just not as much visibility"
-    excerpt: "Tiger Woods has a voice that can be as a big as his golf game. What he lacks is enough visibility. Woods left little room for interpretation Tuesday when the 15-time major champion hammered away at Greg Norman’s new Saudi-funded LIV Golf series as not being in golf’s best interests."
-    publishedDateTime: 2022-07-13T05:44:00Z
-    webUrl: "https://www.fultonsun.com/news/2022/jul/13/press-box-tiger-has-big-voice-just-not-as-much-visibility/"
-    type: article
-    provider:
-      name: Fulton Sun
-      domain: fultonsun.com
-    quality: 4
-
 secured: "fe7cy+4452lWgVypSkkcBP2G0uXXzvzcalZjQzxUFA2OIcQWCqMsyafg/wr5h5VOLc4wqO4FDcmiFQDd1UIA/3nbzTpEM6DYsId4P37naFElenAAwXeBj8xRGweQNIwSlcu/FCrxYZZ+0fQPlg20Ng6W8eUwCvuamnopX4Piv1F6StGkhxmJDtoVHjmjBp1p3Lti3UKueKAwHfrNupeUETezkGR6hTsTbVri9z5F8EOEGjlTH8ZWuSivcYKydVjIKHa/j2zPvq/f96RTmuIw1l37pjRuS9O56ZrKbYZa+rz5OUKOgNLecEGOtou7nwM66HS4n/ewhlXTdKbdkx25ZniUn9yzTGcPcSENKWz1ujpREmdxlVs25blzvxRLtZnXC/zbdtXkdqlIZVyxxhjl4PfOi6zLx13Pz23UBhKTLfnpuw1ZStIfoAwFL54BjEu0j91VgeWNQ8id99cGgwIWmtadvqoUTr9PmtTtk5VneL5oM8MHwy/N44JhfifuYcaJcW3xNnGKlE/TQt6as7hFcg==;AWH0QYCSxh3ptgnI35IWsg=="
 ---
 

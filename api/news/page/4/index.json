@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-13-internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.md",
+      "title": "Internal Affairs lawfully allowed to access facial recognition system to verify identities - Waka Kotahi NZTA",
+      "excerpt": "Drivers' licence photos will not be run through the One Time Identity facial recognition system unless a person chooses it, the Transport Agency says. Waka Kotahi has created an interface with the OTI system being developed since 2019 by the Department of Internal Affairs (DIA),",
+      "sourceUrl": null,
+      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
+      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta/_jcr_content/par/image.dynimg.768.q75.jpg/v1657703692827/facial-recognition-GETTY-IMAGES-130722.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/07/internal-affairs-lawfully-allowed-to-access-facial-recognition-system-to-verify-identities-waka-kotahi-nzta.amp.html",
+      "publishedDateTime": "2022-07-13T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-intel-rolls-out-open-source-ai-reference-kits-for-enterprises.md",
       "title": "Intel rolls out Open Source AI Reference Kits for enterprises",
       "excerpt": "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,",
@@ -317,15 +360,15 @@
       "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
       "excerpt": "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces.",
       "sourceUrl": null,
-      "webUrl": "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html",
-      "originalUrl": "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html",
+      "webUrl": "https://www.wyomingnews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6a3a4190-d74d-557f-aec1-00ec348af819.html",
+      "originalUrl": "https://www.wyomingnews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6a3a4190-d74d-557f-aec1-00ec348af819.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/8/ed/8edb8772-a1db-57b2-9d35-0eb082f54077/62cd742023586.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/b4/cb48dc5c-f449-5d66-91ae-0e253dd0d27f/62cd7415b911c.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -340,8 +383,8 @@
       "publishedDateTime": "2022-07-12T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Journal",
-        "domain": "djournal.com",
+        "name": "Wyoming News",
+        "domain": "wyomingnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1080,40 +1123,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78744-million-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
-      "title": "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting",
-      "excerpt": "Acumen Research and Consulting recently published report titled \"Artificial Intelligence in Manufacturing Market Size, Share, Analysis Report and Region Forecast, 2022 - 2030\" BEIJING, (GLOBE NEWSWIRE",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
