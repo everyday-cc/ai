@@ -43,16 +43,16 @@ related:
         height: 641
         isCached: true
   - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-17T17:48:00Z
-    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
+    excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
+    publishedDateTime: 2022-07-17T19:31:00Z
+    webUrl: "https://keyt.com/news/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: KEYT
+      domain: keyt.com
     quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+      - url: "https://keyt.b-cdn.net/2022/06/US-World-AP.jpg"
         width: 1024
         height: 576
         isCached: true

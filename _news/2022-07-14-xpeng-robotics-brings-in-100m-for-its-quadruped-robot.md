@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-i
 webUrl: "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Robot Report
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Xpeng’s Robotics Arm Just Raised $100 Million In Funding"
-    excerpt: "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,"
-    publishedDateTime: 2022-07-13T10:31:00Z
-    webUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/"
-    ampWebUrl: "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/"
+  - title: "Company Raises $100M to Build Rideable Robot Unicorn"
+    excerpt: "Robots can serve so many useful functions and with some hard work and a whole lot of money, unicorn riding could soon join the list of things that robots can provide. Xpeng Robotics, a division of Chinese electric vehicle manufacturer Xpeng,"
+    publishedDateTime: 2022-07-15T15:34:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22327768/company-raises-100m-to-build-rideable-robot-unicorn"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 89
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Machine Learning Startup Tecton Raises $100 Million In Latest Funding Round"
-    excerpt: "Machine learning technology superstar Tecton has raised $100 million in a Series C round of funding as the startup reports surging demand for its machine learning feature platform. Investors in the round,"
-    publishedDateTime: 2022-07-13T13:33:00Z
-    webUrl: "https://www.crn.com/news/applications-os/machine-learning-startup-tecton-raises-100-million-in-latest-funding-round"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 52
-    images:
-      - url: "https://www.crn.com/resources/0277-15a179bc9714-757354b8c8b7-1000/tecton.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "Xpeng's Pengxing Scores USD100 Million, Biggest Bionic Robot Funding in Years"
-    excerpt: "Xpeng Pengxing, an affiliate of new energy vehicle maker Xpeng Motors, has raised more than USD100 million in its Series A round of financing, the largest sum in China's sector of bionic robots in the past two years."
-    publishedDateTime: 2022-07-13T09:36:00Z
-    webUrl: "https://www.yicaiglobal.com/news/xpeng-pengxing-scores-usd100-million-biggest-bionic-robot-funding-in-years-"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 36
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/xpeng-pengxing-scores-usd100-million-biggest-bionic-robot-funding-in-years-/17110600540869.jpg"
-        width: 720
-        height: 480
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/mm1130tn.62d186ea6baab.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+BHjey6mrmT83AvFOh55OG71m5E36KmgLoiPpB6zibPzgFKz0KyzgbOLCrs06tM8SY+rbyLfWUE7JZjO5F5xsR82eXV4ERzmtObrXjcTYEc8nTt4bY0v48lRB0pSosxnxTbRViLITfq9mqcb7r8DZnvAC5yv/R8nL7BAkoU/Tx3hPKVTELcPE0PTKI1K8KPz+cPtDV97iJ2cy6XhRxjT83fbOp3m042O1Yq1yHo44TPKTgS4x1mAix4ucV13uHO4WXcMsNmav8YKhVXT4y4GojFbr8Ne3z9dMSVsEn+p+Q/cW/+N56PzXL26ujtP4GO9+14QmNNVth2BYwSasvjlVpO0MYlBTnXFLygMGi9mkIKKZzlG/Lg0pjRa+tylDu/gPn82Jy/NtePKGqSB+VjERKRU/RhhX9Q5+PFcvta4VZKW/kvyXufkJQgqHIFEodkq52XNdR1RK+kOK4kYx94r30NJXFikeo4rCs61kcbMwsWaPxY+4V44lCfTtJf/Ejp4dJQG0CDBN/PXXeipOm9q1w==;No1BQ9byw813a0l587DeAA=="

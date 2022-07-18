@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s AI machine translation research to help break language barriers"
-    excerpt: "Meta has announced that it has built and open-sourced ‘No Language Left Behind’ NLLB-200, a single Artificial Intelligence (AI) model that is the first to translate across 200 different ..."
-    publishedDateTime: 2022-07-13T09:15:00Z
-    webUrl: "https://tribuneonlineng.com/metas-ai-machine-translation-research-to-help-break-language-barriers/"
+  - title: "Gartner: Translated Leading Advances in AI in the Translation Industry"
+    excerpt: "We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,” Translated Founder and CEO Marco Trombetti said."
+    publishedDateTime: 2022-07-13T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-0b972fe257da425a944557d6125cea71"
     type: article
     provider:
-      name: Nigerian Tribune
-      domain: tribuneonlineng.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://tribuneonlineng.com/wp-content/uploads/2020/08/Why-the-Travel-and-Tourism-Industry-Needs-Translation.jpg"
-        width: 650
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
 

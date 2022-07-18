@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Ringing Alarm Bells About The Looming Specter Of AI Biases At Massive Global Scale, Especially Fueled Via Looming Fully Autonomous Systems"
-    excerpt: "AI has the alarming possibility of promulgating AI-steeped biases at scale, massive scale. This dire aspect is worthy of considering, along with how to deal with it, and highlighted via examples involving AI-based self-driving cars."
-    publishedDateTime: 2022-07-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623ffe097bf3a40bb1746450/0x0.jpg?format=jpg&crop=1190,792,x163,y2,safe&width=1200"
-        width: 1190
-        height: 792
-        isCached: true
   - title: "More job candidates are lying and cheating in their interviews. Employers are using artificial intelligence to catch them."
     excerpt: "Candidate fraud is increasing as remote hiring and a labor shortage have fueled opportunities for dishonesty on the part of applicants."
     publishedDateTime: 2022-07-14T10:00:00Z

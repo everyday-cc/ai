@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Ethics Ringing Alarm Bells About The Looming Specter Of AI Biases At Massive Global Scale, Especially Fueled Via Looming Fully Autonomous Systems"
-    excerpt: "AI has the alarming possibility of promulgating AI-steeped biases at scale, massive scale. This dire aspect is worthy of considering, along with how to deal with it, and highlighted via examples involving AI-based self-driving cars."
-    publishedDateTime: 2022-07-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/13/ai-ethics-ringing-alarm-bells-about-the-looming-specter-of-ai-biases-at-massive-global-scale-especially-fueled-via-looming-fully-autonomous-systems/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623ffe097bf3a40bb1746450/0x0.jpg?format=jpg&crop=1190,792,x163,y2,safe&width=1200"
-        width: 1190
-        height: 792
-        isCached: true
 
 secured: "GsrrtyQemLtwTNX1GDaYc5isIw8ZfDXF6tHvp4ayIpArMHlbZdEiWnl3q/U0ZV8kdTVoRFqTvJKH6OqBrtMIAarmxA8lVjDHctshUDQJ9UFjX1OIpS/9C7e7t5LvHHYrevzM24H4xKzx/bbgX/yv/HE92vRRPdp04AawB4ibvFb6d/XEt2nzRETJddqDbtNQ8YmQOWjm9SSWl9lozN3lXnsFSJfA0DrHuEpI0WxNUdzPnYbY2mSPtPkQKH0E6rz4c/qDLPtXdt+/hQnuuiAUSe+LyQUK3rmkRuQS1NyvhunEBB7xFtI8RYIYQAG2hetnfFAv860lNF260hIgZbDlR2QQFSZnUWOUKAtEBo+j3A6zKtz1OgdplLZtYVjnSuaP3gw3SxKhgEsZHrA6u2YW4Zb2+6iUDhK/W7tzXGQBivadob31Cnte++vF5kQETxXHGPsQS3N86+tmb6iMwy7MbMiZzhok0He0Lpfyzk0oKV7/svTEBFxHhit2dr8nxkKnMTTPQYAQ73WJWb+dDb8GiQ==;6dlDx7V0gEbpWFX7ebGQXw=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting"
-excerpt: "Acumen Research and Consulting recently published report titled \"Artificial Intelligence in Manufacturing Market Size, Share, Analysis Report and Region Forecast, 2022 - 2030\" BEIJING, (GLOBE NEWSWIRE"
-publishedDateTime: 2022-07-12T00:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive"
+excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+publishedDateTime: 2022-07-12T00:13:00Z
+originalUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
+webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: indianweb2.com
+  domain: indianweb2.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "TK2nzCqCSMC5skxBvKkIKWYqugY4BZCeRn5b8UwHO0nJBFLU59wry699xo4mEQF8isIleuLwhsuUCWtNYtC49Vr3qO/uFTDaH7GC+9hNRT6Q5oufOrXM5ckFeHS2/CwRTTjXDMGRY3feQ/rdG4CT3l0VvNvtFRGCiXPLT3WuqqwGnShYvlOviYfm+IYCbYGM9Pr7WEeWTI7JClK70ufuPQkWxYYZiQpp+J+vQFbTEgKPH+WMYCbe6109LozVptnKOt5yfnZ+jY6ZOYdfEdTOm8x94OcY9qEFtMh4ymt/NRQqtTUkGcNA1qvcPSjs2ApsEXmXBHDtefQQKEsNwLotRdfAKnM6OaQX1tcQUHBdZW8=;Cg+WfE8+IJOhCC/1mJJBOQ=="
+images:
+  - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
+    width: 301
+    height: 251
+    isCached: true
+
+secured: "0yCx72XZkyFtVYhRcqIrsDu17lRdVhDFWR+7Q7/n9AcmHOkZvQEh6MfX9pPloEho/px3A7aABRcg4s/TU419zP453Zb1KLbWcVZ7q0sq09PjVMPye3msCYgoMnZQ3Jn8nCmkkpGK1W+R24mnN+jqzhDHFf8gMp5SPtRanzMO1SUTDD07lLyTIQdID0Ap7I6jmpCC2fStNgYLzDPRJAqTkQjCxhHcLDDYrXaQ0d9cHvLdo1Z7l6tZyfnwC26j/YJ5NcHTz2ngMzfaFP5AEu/OGaOcTmvKHb75VeT+Dq+FIDrWzillPYDGZdqqDw/bPQSQf/XkLYezOlvGI1mmGXWGjXkM3UDNtRSBBJztbEC4NDg=;iqB25UAxEdZuOpBPtvgpmA=="
 ---
 

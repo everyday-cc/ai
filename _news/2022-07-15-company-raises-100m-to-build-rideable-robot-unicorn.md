@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/video/video/22327768/company-raises-
 webUrl: "https://www.manufacturing.net/video/video/22327768/company-raises-100m-to-build-rideable-robot-unicorn"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "XPENG Robotics brings in $100M for its quadruped robot"
+    excerpt: "XPENG Robotics' first product will be a quadruped robot with autonomous navigation, and equipped with a robotic arm."
+    publishedDateTime: 2022-07-13T23:44:00Z
+    webUrl: "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/07/featured-web-XPENG.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "Bev3OB4H4hjmISZZzrBtwZYPYesR6ewMWEQurQqX3bKP+cZ1aVsen29GvZOkwRxOsEuvERLIfzl+WyecHx76pdqvjHFO5Q5wOCsHxvxWDKgiZEYeq7wgiKXa70OkA/n7Ute1u6f0XjMfq4iCWvQpVdri7bmwn4zPs5QbG3X2XKNT+F/UdqNABla0kM8RZgHbWNVMbgXlW9w89Xyo0yvTl1NGhyVt79mDPd/ysTsK7WfAt3iLh26OufJX5edOJ/PuEtQKce9V/y5RB68YvDukZizGdyW6jNKig3hoYhwEsGLuDaRBScjyu+GVTmSfnC6rFE7E9Tz0sxc8+UTy0+BtXdEBsTTz9EfJKl3ZXVDfUlhb6Dj8dt4Fy0fZHHmZoWRGteLxqolPqFeON4Q7cMK2nNpaX+u+ufnhIg12eHo7tAVeDdpof1ipZWqrc7k0ILY326RF2E2oV+wYFcW1FoNROA0DvkB0G85eWlqP/3MgX5no+mWWuMpOO7Xs/jkm+DoS9MIv+gC3fjrOec3jsfR71A==;H/pQ3RBRdTjmoJ+rWg8L4A=="
 ---
