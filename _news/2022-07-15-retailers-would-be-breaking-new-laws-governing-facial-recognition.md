@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/retailers-would-be-breaking-new-law
 webUrl: "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1151
+        isCached: true
+  - title: "Port of Baltimore starts using facial recognition technology for disembarking passengers"
+    excerpt: "Facial recognition technology is now being used to verify disembarking passengers’ identity at the Port of Baltimore under a plan announced Monday by U.S. Customs and Border Protection in partnership with the Maryland Port Administration and Carnival Cruise Line."
+    publishedDateTime: 2022-07-19T03:57:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/cng-co-face-biometrics-port-of-baltimore-20220719-oi4w74m6rbfcbbn5kyx7yhde6e-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 30
+    images:
+      - url: "https://www.baltimoresun.com/resizer//Gzy0BBCZRYorm9HZ3VwDcTGHPK0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2TOXSJURLRBZAA2LLRB5XSMNOE.aspx"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3PzsE45dAzeyT0X14yQP/3aacMYlvl21CcLH7gvyyCceTajpgOJ+C/XyhJMINNr/NdDtYokeAmNXpvsTF/I1UlG/0gGFBxodODxKHgNFvOh7rHUpjJbnXKoMZ7kzX7qvriHuBROTvA8+Qc4o8rPKfIuB3W94hh5Q0YCk3qsqvCGgF8yPe6A/MUXPRk+MyxUMTuNfOWv24cSZfAQZUs4eLyznDsKZpfXhTfvFhTTQidB42Dw5MRn6sbmtSJ+zRYmajCFxxXKUHQ99O16zgTqdTcq11zUsPrj5cZpfHiy5PU6io89HVSYTSwnseWIS0YtEhDmLGavnFjO27NkZZaCOdHIfcoeqro/AsYS/fCXvRiBkCCOyvEkmNbAmOHp7RVxRqr1Y9hIQvAwMFVGHnz5akC2RDk8jlJGqCzXAzxh7ywEMH6hnmoCcf6aayHzbMqYLeqk3K7eBE4R/ZuakRKnYLnhrBi1orjOZomvFH4ywRClt5hcfAKDvpzNfsqK04Y5MD73nonlaEwZ7a3fWItWaoA==;aqXaFTUN6Ud4JjNOdAyl4g=="

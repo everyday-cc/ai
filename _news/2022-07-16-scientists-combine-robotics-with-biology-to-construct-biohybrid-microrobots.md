@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robo
 webUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Festo Adds Motion Control to Universal Robots’ Cobots"
-    excerpt: "The Festo Motion Control Package can add up to four axes of motion to Universal Robot’s collaborative robot products."
-    publishedDateTime: 2022-07-14T12:00:00Z
-    webUrl: "https://www.automationworld.com/factory/motion/article/22327272/festo-adds-motion-control-to-universal-robots-cobots"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/07/festo_handling_guide_gallery1.62cd8a70a9b13.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 600
-        height: 650
-        isCached: true
   - title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
     excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
     publishedDateTime: 2022-07-16T15:45:00Z

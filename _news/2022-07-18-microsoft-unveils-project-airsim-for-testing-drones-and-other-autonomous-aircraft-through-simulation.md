@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: ZDNet
@@ -34,14 +34,14 @@ related:
   - title: "Microsoft launches simulator to train drone AI systems"
     excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
     publishedDateTime: 2022-07-18T14:19:00Z
-    webUrl: "https://www.bbc.com/news/technology-62202118?at_campaign=64&at_medium=custom7&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_custom4=18B26796-06A1-11ED-9711-8AEE4744363C"
-    ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
+    webUrl: "https://www.bbc.co.uk/news/technology-62202118"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 104
+      domain: bbc.co.uk
+    quality: 74
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
         width: 1024

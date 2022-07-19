@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
-    publishedDateTime: 2022-07-18T18:51:00Z
-    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 75
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
-        width: 800
-        height: 800
-        isCached: true
 
 secured: "XH2/OWCI2ReEuhaCiBxMjXoG+TpuVt2USp46xB/ZJBWl30/jSnyoM+8cyJhZoSOuxEfSMZ3WbbxTn4YKWGDSv/UjQ19MQ/4/JRRH+DqGSrWGgBGMbIgxFVMjOM7R5G4O1NtRBDitK2BUSlVHyxxan1Ckb8Ow5077o2GAzniwNlGnW8xTaZL7FVcsBhxAk0Uq3U4U0OlvS2kovyCMgH8KSuyRc97pLFaKpZnv2rxw1nFocvvUcQz5H2PmYFsBAYtFH+Id8yrrhrQ1xMX3CYqOaYZmEaKGrN0CdGSmWp8t/A48ZGVIkE0l9xP38Z0BFt2GQUj4oGWmkTfz63ab4afQXoOzaho+vw5veU3V4IvrcTlHMVFjOL/NDLYPW4dz79eBMN3tiV6ony/DMjCOU2fAC7xCsVZiiBMYBhrbi3ABRX+Eo/wyG4EK7+/if6yZu6Q5ph9NXjF3xaQA7bDktos6fO9NuBlbcFsAdJqzNd5tWZ0LwftldnXIk4/nB+o/RMk8lzPSHKwjF0TKgUN0YsPtIw==;L7GjtSOToA5gq61IjFsBZw=="
 ---

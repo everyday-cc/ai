@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
-    publishedDateTime: 2022-07-18T18:51:00Z
-    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 75
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Will Artificial Intelligence Rule The World?"
     excerpt: "Artificial Intelligence is dominating science, military, financial and many other spheres - are governments too late to control it?"
     publishedDateTime: 2022-07-15T19:02:00Z

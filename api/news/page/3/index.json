@@ -209,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -292,6 +292,57 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored.md",
+      "title": "In the age of AI, energy efficiency in the data center can’t be ignored",
+      "excerpt": "Using less energy in the first place can help us all get closer — especially when it comes to energy-hungry data centers faced with increasingly heavy workloads in the age of machine learning and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/",
+      "originalUrl": "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1354126692.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/",
+      "publishedDateTime": "2022-07-14T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -399,7 +450,7 @@
       "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -544,7 +595,7 @@
       "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -744,7 +795,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -849,7 +900,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1179,57 +1230,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-a-case-study-on-how-to-succeed-as-a-deep-tech-start-up.md",
-      "title": "A Case Study On How To Succeed As A Deep Tech Start-Up",
-      "excerpt": "No problem is too complicated that software cannot solve, either now or in the future. So why not focus on solving the world's biggest problems? That's the promise of Deep Tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
-      "originalUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cf0d03b5d34c2eec4c2945/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
-      "publishedDateTime": "2022-07-13T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

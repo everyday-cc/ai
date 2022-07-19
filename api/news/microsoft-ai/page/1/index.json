@@ -107,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
-      "title": "Microsoft launches simulator to train drone AI systems",
-      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
+      "path": "_news/2022-07-18-microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation.md",
+      "title": "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation",
+      "excerpt": "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62202118?at_campaign=64&at_medium=custom7&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_custom4=18B26796-06A1-11ED-9711-8AEE4744363C",
-      "originalUrl": "https://www.bbc.com/news/technology-62202118?at_campaign=64&at_medium=custom7&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_custom4=18B26796-06A1-11ED-9711-8AEE4744363C",
+      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
-          "width": 1024,
-          "height": 576,
+          "url": "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 709,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,16 +129,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
-      "publishedDateTime": "2022-07-18T07:19:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "publishedDateTime": "2022-07-18T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -154,8 +154,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1306,27 +1306,45 @@
       ]
     },
     {
-      "path": "_news/2022-06-30-birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.md",
-      "title": "Birmingham police searching for missing veteran, 71, with cognitive disorder",
-      "excerpt": "Birmingham police asked for the public’s help Wednesday in finding a 71-year-old veteran with a cognitive disorder. Kerry Lee Walker was last seen at 7621 2nd Ave. South wearing a gray shirt ...",
+      "path": "_news/2022-06-30-using-azure-communication-services-for-email.md",
+      "title": "Using Azure Communication Services for email",
+      "excerpt": "use the Microsoft Graph APIs to monitor an Exchange Online mailbox set as the “reply to” address in your messages. This will allow you to use tools like Cognitive Services to generate dynamic ...",
       "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
-      "originalUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "webUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
+      "originalUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/incoming_emails_by_thinkstock_dns_security_locked_server_parked_domain_by_imaginima_gettyimages_3x2_2122x1415-100825984-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T19:04:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
+      "publishedDateTime": "2022-06-29T19:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

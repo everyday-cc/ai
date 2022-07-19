@@ -35,6 +35,15 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Meta Showcases Its AI-Based Image Generation Tool"
+    excerpt: "Meta has showcased an image generation tool called Make-A-Scene that requires users to provide a text-based prompt as well as an initial sketch of what they want to create. \"Prior state-of-the-art AI systems that generated awe-inspiring images primarily used a text description as input,"
+    publishedDateTime: 2022-07-16T13:35:00Z
+    webUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-generation-tool"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Meta’s ‘Make-A-Scene’ Uses AI to Create Imaginative Artwork"
     excerpt: "Scene, an AI research tool that uses sketches and text to produce new artwork. Shared by Mark Zuckerberg, the tool is designed to give creative control to anyone, artists and non-artists. Most AI systems rely solely on text prompts to generate images,"
     publishedDateTime: 2022-07-15T18:05:00Z

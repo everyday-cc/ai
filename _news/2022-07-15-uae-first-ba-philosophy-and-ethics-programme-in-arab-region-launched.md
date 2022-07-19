@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104533576/UAE-First-BA-Philosophy-And-Ethics-P
 webUrl: "https://menafn.com/1104533576/UAE-First-BA-Philosophy-And-Ethics-Programme-In-Arab-Region-Launched"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAE: First BA Philosophy and Ethics programme in Arab region launched"
-    excerpt: "Mohamed Bin Zayed University for Humanities has launched a Bachelor of Arts in Philosophy and Ethics degree programme under the College of Arts and Humanities, the first academic offering of its kind in the region."
-    publishedDateTime: 2022-07-14T11:43:00Z
-    webUrl: "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched"
-    ampWebUrl: "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=b5885a70-097d-52bb-9b86-ef567ea5a247&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "MBZUH launches Arab world’s first Bachelor of Arts in Philosophy and Ethics degree program"
     excerpt: "It was developed in line with the university’s goal to expand its academic programs in such a way that will help spread the values of Islam and strengthen the bonds of human fraternity."
     publishedDateTime: 2022-07-15T06:30:00Z

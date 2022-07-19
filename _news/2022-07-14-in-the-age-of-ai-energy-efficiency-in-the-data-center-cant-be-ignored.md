@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficienc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,20 +30,18 @@ images:
     isCached: true
 
 related:
-  - title: "In Data-Centric AI, It’s All Eyes On The Data"
-    excerpt: "The data and the results are fed into a neural network. The neural network then generates a model to connect said d"
-    publishedDateTime: 2022-07-14T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/in-data-centric-ai-its-all-eyes-on-the-data/amp/"
+  - title: "The Future of Artificial Intelligence"
+    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
+    publishedDateTime: 2022-07-18T18:51:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: eWeek
+      domain: eweek.com
+    quality: 75
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61950a7915fa72dc11db736c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
+        width: 800
         height: 800
         isCached: true
 

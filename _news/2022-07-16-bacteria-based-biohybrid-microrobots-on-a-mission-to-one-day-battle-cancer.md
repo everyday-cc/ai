@@ -37,20 +37,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Festo Adds Motion Control to Universal Robots’ Cobots"
-    excerpt: "The Festo Motion Control Package can add up to four axes of motion to Universal Robot’s collaborative robot products."
-    publishedDateTime: 2022-07-14T12:00:00Z
-    webUrl: "https://www.automationworld.com/factory/motion/article/22327272/festo-adds-motion-control-to-universal-robots-cobots"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/07/festo_handling_guide_gallery1.62cd8a70a9b13.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 600
-        height: 650
-        isCached: true
   - title: "Steerable Bacteria-Based Biohybrid Microrobots Developed to Deliver Anticancer Drugs"
     excerpt: "Researchers suggest bacteria-based biohybrid microrobots with medical functionalities could one day battle cancer more effectively."
     publishedDateTime: 2022-07-18T12:00:00Z

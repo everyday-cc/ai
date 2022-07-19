@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-ra
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/07/detect-social.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
-    excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."
-    publishedDateTime: 2022-07-14T11:49:00Z
-    webUrl: "https://www.businessinsider.com/amazon-fake-news-firm-logically-pitch-deck-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-    images:
-      - url: "https://i.insider.com/62cea7cf36748a0018ea227a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Chennai- based AI startup Detect Technologies raises USD 28 Mn"
     excerpt: "Chennai- based startup will utilise the fresh capital to further expand and strengthen its sales and operations across international markets"

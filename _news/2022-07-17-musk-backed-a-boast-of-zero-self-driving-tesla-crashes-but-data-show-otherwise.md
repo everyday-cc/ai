@@ -83,20 +83,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
-    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
-    publishedDateTime: 2022-07-14T12:00:00Z
-    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
     excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-07-18T18:17:00Z
@@ -106,15 +92,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 33
-  - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
-    excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
-    publishedDateTime: 2022-07-14T12:19:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-andrej-karpathy-self-driving-cars-51657782745"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "QpMFZqE9H/njtFLPfxTY1BbYJSZhmBDBBqikraL659d/6heJGyV6wnQU80TSFbktQaC4liVZPzMHMxDFrkrVcDkHYRlKzK3vGNz2efGk8gTmIjKER6pKziKxkiaRd/XFjfsBPEHecy5jbWgzaLGha6IT/Sa6Nc7WejIgDfnhzyVfhhm1AX6NhPekhcIJIZ487UV7Lwx1iWzLNT2aIbpw+E5uLPbdmYOp3CUcne9OFNbRQafRljGuOnnHfVbdwvQnNwWNMl/1EC3NffhLxrAD6XohhCd+gwChQvDgaWe4ZhZi0XCtNvt5fkEXpS9el1XgpRub1M+/ALCioJM3b9DiMrnz2LQF6hSydIkJRmutC6tjI16eVBrRMXD1sfjyuzPUJdMQDDtjogpgUYr10FtyzATjVcpEfz9Bh0phZrGLRHVA6D8p2RCWGqtCXdnJdIcvhjcQxYF7P5F3OjdiMcOLa37Nns6gS4li6lbxOHZUbuemvWG3ie4UcAIATKeM9HnOCeLhKebid8mp4piRKHdrIQ==;8h3mkX+BwhQkYlfB9BEXPg=="
 ---

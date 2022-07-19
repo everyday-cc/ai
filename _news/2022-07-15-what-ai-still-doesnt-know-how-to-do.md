@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to be an artificial intelligence & machine learning expert"
+    excerpt: "Thus, AI/ML has redefined the future of technology The Telegraph Online Edugraph brings you an insightful and enriching webinar called How To Be An Artificial Intelligence & Machine Learning Expert on July 23,"
+    publishedDateTime: 2022-07-19T04:01:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 74
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Jul/1658205411_ad_edugraph_-how-to-be_180722_-558x372_lead-article.jpg"
+        width: 558
+        height: 372
+        isCached: true
 
 secured: "sL+3g73bNQfPSGcBddH81tqbJBg0RilrVQQP+ZjTz8RwUJXSkQH9sTupSaIrBdH/Z0eoByYi+A2pHqaVdtj6tHPJm8Jv9qjueRLcwa6z5O2a0BiaejLw5OGTNJzRwrk62PzTKnVcXa2lhqoUcRflrUD073R7XiWn3SNsNF0FQTHH+qcHvcCyzY7RRtAY9UZKk5KlNmaHbJSeOjKa40eTLLTH3ej1Pc5rRVjqfQZoWqpDDmx/7KwmZwhwqMm1u1HPWvDqbIIkxyTfRed+cCWaWMhQjVZZ4mPGljktEsMAbJ+P5ilerZinAstTNi/2wG2GTT8LhzzOiiToeSqaoOVmcd/xQ04V8WltcbnrwZ+LMok=;oLClXlxOtQpSsqaGlYajxw=="
 ---

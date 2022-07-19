@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
-    excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."
-    publishedDateTime: 2022-07-14T11:49:00Z
-    webUrl: "https://www.businessinsider.com/amazon-fake-news-firm-logically-pitch-deck-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-    images:
-      - url: "https://i.insider.com/62cea7cf36748a0018ea227a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "XBE+ITDlADRNevhrp0IvVvU6RztJdDW+tcRGUHJxvI5LtF5kUULGWhlwBr60jhygd09vmUZek0IffTt62Pq3jbHGMr1g4Z2+UitsJWK6GQS0GGpS7yH2uw2iu2N5Z0GDaw3u4ApXakXG9eNJEtPENtq952wtGyu0g1aUlsM95/dxyzvcpKjDOBJvRbj08aVc+0sLzBeZYTw+RRPmaqXcD1ifhqo4aV/toWMFPABIrKiVWFoDbkySWShdIitC6Jqr8Tu5mLWXN8II8IWSeIekIX3+m2Qpjxt7zLFRyIJPxg28eG1tWKuP29tQqp2FvQi6q7lHqjiQeLd+u2xKbX5f4ZD6J0l5WqdmkNqjV/Wp96d9Neh8LfhwvBFKe5KJuNUQOs1a6R2cKjqWlK1NzTcjiYd+6lfFH3ImWDqCABDpBoISnwD3aGjJJgVvL9M6VpB5PvzbN7ryVwW46DOAeUveM903o0tFLnj94+CXI9yxLR/aDFHqsdW4yj9wwwY35Pek/Tnjj/g+wyaa3U8E4f4drA==;sntEgXcWXHvkxSmaSxZbCg=="
 ---

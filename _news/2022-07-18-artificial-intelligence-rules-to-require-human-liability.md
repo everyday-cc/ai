@@ -7,7 +7,7 @@ originalUrl: "https://www.lawgazette.co.uk/law/artificial-intelligence-rules-to-
 webUrl: "https://www.lawgazette.co.uk/law/artificial-intelligence-rules-to-require-human-liability/5113150.article"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Regulations Are Shaping Its Current And Future Use"
-    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
-    publishedDateTime: 2022-07-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "UK government throws around some ideas for AI rules"
     excerpt: "The UK Government has put forward proposals on the future regulation of AI, which would see various regulators apply six ‘principles’ to markets which are implementing such technologies."
     publishedDateTime: 2022-07-18T11:41:00Z

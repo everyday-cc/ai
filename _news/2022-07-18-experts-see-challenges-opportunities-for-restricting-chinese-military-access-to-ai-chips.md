@@ -2,12 +2,12 @@
 category: news
 title: "Experts see challenges, opportunities for restricting Chinese military access to AI chips"
 excerpt: "China’s People’s Liberation Army is leveraging American-designed semiconductors to enhance its artificial intelligence capabilities, which could play a key role in a future war against the United States and its allies."
-publishedDateTime: 2022-07-18T08:30:00Z
-originalUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips%EF%BF%BC/"
-webUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips%EF%BF%BC/"
+publishedDateTime: 2022-07-18T13:32:00Z
+originalUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips/"
+webUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips/"
 type: article
-quality: 28
-heat: 28
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: fedscoop.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 500
     isCached: true
 
-secured: "F4f5xX/wS6fBwAChC/rZjwrpONTNwOcGk25kgxnFiis3NqKV9Xgw1D7FB/nsFFRmDlLxumeNjHFKMAA8XWqPkyQWt38qHBk880bcR9Kta8argnyqOwFvHbj468bYP5UH+RSov5QnxMDuuuX99t4TL/xkVidbQK/GLnAqb9guvTgCEMvxkCkBOWkCEiQKlUqyzpWICIevKHrJCIukrcMZgGEB2UkWGh7QEK9M5Y5c/mv5jW9jvS4mSCUCj5HUra1LtSPVriycG8xgKUaa7CmoDuXvjKCznNg49VF1X9NIFSnm5lPjINb3rruY+JHYdsxDl+5T2zLge3tFWMHCxTL+DdZUCgAvneTYS5rKRXb9wUs=;DK0l3pPp0FTr34ygki1UcQ=="
+secured: "vvBZn8DT92Lyc0chw6BHn9Vhw/sF+HnF0TJEQ2u3YfDKcCkLSzE68VZdL+aHP5qosEZ6HruIUxBlywK2eS8Zg6tOux8DpfPQr3I15L/fYefGsEfXJWzajsOOua/vR6n0Rgd1FAXrizAL11wzmmT+mpRY0/7ErWc4iNXzhashr5uCS9VGRu9BC56kqwQq9BXtL3Uxb7hfdxFEUGlnHs+OJSu30li18y1OztjW5+nDhWZoGLq6+thBE0oRc3SUEXqXMn46YPkLjK+2qnepY2IN4kPE1XMIFr6vuyfvZseNiXF7JVYFQLcNqe+zahs7Z2QS81j945kB4aq4ky8iG9+cohDZinhRiUxP/sctfqmzq98=;wxcBSgbvVs2QqDDrMDHWZg=="
 ---
 

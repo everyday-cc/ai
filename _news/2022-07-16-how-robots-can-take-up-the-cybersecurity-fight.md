@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why cybersecurity must pair humans with self-learning AI (VB On-Demand)"
-    excerpt: "Don’t miss this VB On-Demand event to dive into why IT professionals and self-learning AI are a cybersecurity dream team."
-    publishedDateTime: 2022-07-14T12:44:00Z
-    webUrl: "https://venturebeat.com/2022/07/14/why-cybersecurity-must-pair-humans-with-self-learning-ai-vb-on-demand%EF%BF%BC/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Robots take up the cybersecurity fight, SLVA Cybersecurity"
     excerpt: "Even those with robust cybersecurity strategies in place are concerned by the sheer number of business attacks, which increase in number every year. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report,"
     publishedDateTime: 2022-07-18T05:57:00Z

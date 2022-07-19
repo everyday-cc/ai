@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Showcases Its AI-Based Image Generation Tool"
+    excerpt: "Meta has showcased an image generation tool called Make-A-Scene that requires users to provide a text-based prompt as well as an initial sketch of what they want to create. \"Prior state-of-the-art AI systems that generated awe-inspiring images primarily used a text description as input,"
+    publishedDateTime: 2022-07-16T13:35:00Z
+    webUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-generation-tool"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Meta's New AI Research Tool Turns Ideas Into Digital Art"
     excerpt: "New Delhi, July 15 (IANS) Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches to generate ..."
     publishedDateTime: 2022-07-15T10:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-el
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.wsj.net/im-582826/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "How to be an artificial intelligence & machine learning expert"
+    excerpt: "Thus, AI/ML has redefined the future of technology The Telegraph Online Edugraph brings you an insightful and enriching webinar called How To Be An Artificial Intelligence & Machine Learning Expert on July 23,"
+    publishedDateTime: 2022-07-19T04:01:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 74
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Jul/1658205411_ad_edugraph_-how-to-be_180722_-558x372_lead-article.jpg"
+        width: 558
+        height: 372
         isCached: true
 
 secured: "MKsukCWfc/Xm7zPl196jxm9YtE7GfABbwikQwDyXywHoxrXWoFQduMIfUQ4FOzgsNa0cPVmvER4IbZg0BmEDlps1rLPnO+7jMZNiq2tvfvFlzoiDTQXChu9PVmS9/1RW/YvfH+Az/tDEhn6TEdJWuXSkkYrrOAzxQTLvosr0q4/NaN4xBi1kwYIHTOFrxYBuYIMDk6NKGBO7mCCnrKaWOFzucbh9lxmHGcBo3CdeSt0DyhZNSh0dT/e3VlIIJGypAQc7FuKI7pnDtKwzsGF43fIKmxOSWFXWn0PBow5vB05YQy0gYCHova82IZXuVEl0wn/UEwPIL8fzemMKb1/JuFBmvMauSnSGb69m9iNLgBMjsX0KIBYth9E2zW5t8wVeGvzWiolEmV69UDr1HQfpxMWbhIZhREfkl2tlBogjOnmpA3z/xlv5cTrd6NmqzwGN+rBdTuFib3H3mJCJaK3wgHzLXz6lQ5y4zhUVM8nisfm6jGKHFof0XMGcgNyIrPI09cl/vSfqnhqkV3qcAl9/9w==;bopFJTQGk6Y5xnCHubvCEQ=="

@@ -36,20 +36,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "Artificial Intelligence in Law Market 2022 Industry Growth, Trends and Forecast to 2028 |AIBrain, Amazon, Anki, CloudMinds, Deepmind"
-    excerpt: "A new Market Research from Infinity Business Insights, the Global Artificial Intelligence in Law Market, is expected to show tremendous growth in the coming years. Analysts also analysed the ..."
-    publishedDateTime: 2022-07-14T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-law-market-2022-industry-growth-trends-and-forecast-to-2028-aibrain-amazon-anki-cloudminds-deepmind"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/9f102c3c6d56cb1069f10b4ca808a9f22db416aa-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "uKgOc/7DJwZDZZJyW4cJsaZIyD7mtf3yiCs4uzTwaI6+vWBzJxWlTMouOlkTAmYDkUk+v4ekJESuZtf+asSnJJyy1a/Kb8CHaUASLcp2GpKmT7UVj+Qirqsodue5b0f6L/RV/neXFQRilHhGXYBSb8V5Do0JiHZZtaFMHWUc65FKi8CBpCXsH5PleRhACvhTobqqmj4xLAdWjdH/hYMks8QLU6sNhNqcvWRFeveruJrsZaJldZ2SHHoHBCYlVV3mZx5kilm97I6flumgfoHMzMc1JrMT/IdP0QGTQs30aR/U3cAnB3e3sEbqwsM0ZObKuPGvgLBhXfRwqSZ9R2iTIkdrndnH76/OU4F7GS96iu6jcUYWrphc/45/VxWnaWdOTXQTGfABNR4WxAi6czgwotwLKu3b8Dnb/D0FlVsrgKmpQL9RCPrNJGVgJ+E/DR/cPZiyz1w0oOdKIlGXUFYK8x/OX7SipFtJLhnwtVnFERMc2AccvELdAU2iEIOcam3xrOPsbfXatWf9DnPGsBESTQ==;GWX+ygX+BQnreIUu+2qqHA=="
 ---

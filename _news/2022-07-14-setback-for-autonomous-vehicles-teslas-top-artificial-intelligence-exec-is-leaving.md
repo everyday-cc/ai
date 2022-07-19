@@ -75,20 +75,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
-    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
-    publishedDateTime: 2022-07-14T12:00:00Z
-    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
     excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-07-18T18:17:00Z
@@ -98,15 +84,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 33
-  - title: "Tesla Loses Exec Who Oversaw Self-Driving Programs"
-    excerpt: "Director of artificial intelligence Andrej Karpathy announced on Twitter he is leaving the electric-vehicle company."
-    publishedDateTime: 2022-07-14T12:19:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-andrej-karpathy-self-driving-cars-51657782745"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
   - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
     excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
     publishedDateTime: 2022-07-17T12:00:00Z

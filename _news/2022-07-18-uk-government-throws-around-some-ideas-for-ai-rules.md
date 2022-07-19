@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Regulations Are Shaping Its Current And Future Use"
-    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
-    publishedDateTime: 2022-07-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial intelligence rules to require human liability"
     excerpt: "Artificial intelligence systems will have to identify a legal person to be held responsible for any problems under proposals for regulating AI unveiled by the government today. The proposed 'pro innovation' regime will be operated by existing regulators rather than a dedicated central body along the lines of that being created by the EU,"
     publishedDateTime: 2022-07-18T11:29:00Z
