@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/18/can-ai-clean-
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/18/can-ai-clean-up-one-of-the-dirtiest-corners-of-the-corporate-world"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1240
     height: 826
     isCached: true
+
+related:
+  - title: "Will Artificial Intelligence Rule The World?"
+    excerpt: "Artificial Intelligence is dominating science, military, financial and many other spheres - are governments too late to control it?"
+    publishedDateTime: 2022-07-15T19:02:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "ONGck0Dru+WVRmV0J3QY4Odyep3aZfJkQsrGK9fgCaPngP0lNi5Ran6ZNDsDo3cxFWMKQx4vnqHHLm/xF+nZjiK6JbDI+F90dXYCNAESzw5P77zXQ2jlAwwE8pqKltNcKh+sg3E6CceaP1T11uxtb3mi0hEmu4Yg936bxh0ZutK6DML7+MlJwknYnWB0pXBrypSG6ydB7euHbou+Iw6CUYm+ipoTasEeTp3NAAQ2fajagSi7rc/f91vtcX2j2zIf8erHcENViSJul7VJRuQ05sPq/C3T0+pUxR0c1/u831IT0OP+UtfT7imVb50zoKkBXwi8XtxSOLI3Naj4GUM1VzxcvQyEoiThhUpiA95hPTvMv4r+irpkVBFjQ/ae5cXNvh3s753dNP/cZcJvcYS6/A0u7xTKuukXaFpXkqJTGa2+wfdEoxd4GknLFIYuH1hHwfLA3+1X8URvtPcmNpEeCw3NnTUAgre4KJqBfEb0hFVQND+HxO6IITfn3VzHoIJ7tRuLzQrwXN5ExObdKMaT0g==;3DqUrhXNwuVJsSifx/AZuA=="
 ---

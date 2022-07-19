@@ -48,6 +48,20 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 49
+  - title: "Global Mobile Speech Recognition Software Market 2022 - Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
+    excerpt: "The studies then highlights over the key problems limiting marketplace increase and the international Mobile Speech Recognition Software market's capability increase possibilities. This study explains expansion techniques and procedures,"
+    publishedDateTime: 2022-07-19T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022---regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-07-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hsyisXQmKMfUBGKrZmuliRyWoyTocO8XO0tCesDZegNGCac+ikpWvi2992ZXAGN8wgUEVrcCkMaoP84/Yhyn6d00/2/0qIH8o3GpC+5MVjVGOq9dTeI2WQth8QgvYPQYJpr7cTG7Fjvui2YhIKq2Ywvme70o7K7cPhDcnt6QxLJsiGWOBlQbwSBR+06P/sy6S32Lu1RmCKv9B+m7qiL5e+ubAjwfyqPwdoh35jW374BSVr9+DZZ6+J9b8ss0dsG05DI+veLaTvdQcDJBieSbXGoI45Crl2+07TE5aA7kCjpq+thr1OG1FkM7Y9e9StfNgS2HBwXO8CNvJgjP233vPbkVnHsd6sl5LyfT34TAZU4=;O0F/gB/R6ELYXgLHoW/whg=="
 ---

@@ -67,15 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The Worldwide Collaborative Robot Industry is Expected to Reach $3.2 Billion by 2026"
-    excerpt: "Analysis By Payload Capacity, By End User, By Application, By Region Size and Trends with Impact of COVID-19 and Forecast up to"
-    publishedDateTime: 2022-07-14T18:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28071692/the-worldwide-collaborative-robot-industry-is-expected-to-reach-3-2-billion-by-2026"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "Kyvi+0Z4GcYt8gqYi6J3btsr1H0YLi6YoJQpR0jRE+o+rb1A/E0kl16j8TPrBrxLrN5385kNUjfY6lCpt6no32B/jiyDQjIwpPq2hFbQf9u4E/WXnpzrbXMXa4DH42EqoBzbUTjpfaMVciQzvkMIvRbhGl7DE3Yi/5qc3Wge7+U7n+QXFVsTKj7Se6Ys+urNTWt2xAoQN3Lzfo6rHzxQuGe06pagpcPMSUTZcx9qAVtpXiZiu/Vl5whQH6Q+UeeKJp6RwVVQGeIr/g/0lwNBin2LpNVKOwIAHWRqkx4c9Bc78PQmwtUbhrzS4763hNG7CdXsvzxsyDT+1ASGkTU0taiPbit15ghlQTujOhp4GPI=;K4uH0qDS1gnVgfhkuikrpg=="
 ---

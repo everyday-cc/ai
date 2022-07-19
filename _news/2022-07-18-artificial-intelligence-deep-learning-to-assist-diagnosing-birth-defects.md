@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to diagnose birth defect in fetal ultrasound images"
-    excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
-    publishedDateTime: 2022-07-14T18:16:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
   - title: "AI, deep learning to now assist in diagnosing birth defects"
     excerpt: "The goal of the study, published in the scientific journal Plos One, was to demonstrate the potential for deep-learning architecture to support early .."
     publishedDateTime: 2022-07-18T12:00:00Z

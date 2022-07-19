@@ -23,17 +23,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Taiwanese AI solutions provider Gorilla Technology goes public through SPAC merger"
-    excerpt: "Taiwanese AI solutions provider Gorilla Technology Group (GRRR) has gone public via a merger with Global SPAC Partners (GLSPU) that had pegged the combined company with a"
-    publishedDateTime: 2022-07-14T17:11:00Z
-    webUrl: "https://seekingalpha.com/news/3856932-taiwanese-ai-solutions-provider-gorilla-technology-goes-public-through-spac-merger"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 11
-
 secured: "LQxvSSF3/yITKfPk5zsZ0wN22wc9Srw++Hqi+04EQZsOTBihyUKBqTyYapsCTrposVwfu3gTlva/lsFBvucx7h+EvZIiSm1vixziZRbVCpx9GhD0yIfoVe1PFO6Us15w9Mue6wv4ihJnL8rn8lqqUpgM1RCTXqF4ENNwe2nurehqaJlyHRRzTPxE62/ftt3ILq5fyuTIr08kYRLhlCwerbnndqmMkBoq4NcVe8R1N2jAtsbilEWtuR+0HA2nYIm5wikGt8QGzSqrvrozmWtWWLt7g9XNf3IbTjH7vdurkvyin0Osnu4/rdY8BnF84x5KZ61Giq0799yg1Ol43M/FDU0IEkNG4baa8TvELBPUi4AAoItLVMB4VSovOPlqHC95Z1pCjRPs3O/HhlLDJB4RTWQmp9DpfvhyVSALAOh2FdDfVKm3TqX0FawCIKly/yvybehDUnBYCU5dFWMqLIRJhP9pnr6rXWkMiE3Ad8ivboJ92IuingjbUVm3pDTRKbk/wmLbl/Iv6aXtpwsd4Db8kQ==;CcRWUxzZGgdJAqULLafIgw=="
 ---
 

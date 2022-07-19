@@ -3,8 +3,8 @@ category: news
 title: "AI art is challenging the boundaries of curation"
 excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp="
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp="
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
 type: article
 quality: 67
 heat: -1
@@ -84,6 +84,6 @@ related:
         height: 724
         isCached: true
 
-secured: "LRBbh3IEd8Vn1OtgyMyYViYJXecpuz/nPffmnqNdysCcXiKX7T5ziSNUN2DJEkA89ZZ3hFTaWf4WNYEJS/U9FZgrhkbnHjec4H1v3Q6Zu69IkkwEepnCO0fEqM5uiSU3vuVZ+bngd2CVT3HDw/yWVRZi+QnLDPeUBkLl8/mOeBEqgarcpg0KKPKrmzdhhKF14rmTaKrrZQP7w+zwWH1zxMlawOyGUg4zqmMgF3gO5/BYR2jydm0jc0eYd7RDmahmizxiOiJbLBy2szVx9lkTYBmc78JUk8dDLc/yiSRthRPXUzTBPORl34Kh7ueF7eA8ctNiC/+OhY+dXdj9z3VZLJg3oDguPRcMxtODLjcMkKY=;RP/asvwiV2fhGAVELEROPQ=="
+secured: "7+ApX+XMS9zJDIlH/qLaOceE+UH9s3ver7FgHRdPdJgOxXDfuZZUtSuiZyAU8jN+TbNCVV2WfTCE9WLKK7301JELxc4nmy/ZHul0TnNiZPWVJKvCPvEGbL344QrtQWIhx2nox/FJpVacFY5CzEfGOk7bYe1vfXOid/LuvuuD0QwJeY0L4U8UaItSGvxEOuZ16E4dbqjQcfUSLc8o7gamTcHI1F9JCd3FBt3c2pZAJTrVS8QLtSD/yUO3DpY/iScrhNWQpwESHFv/phQh+AMsCXIW/xleVi8SUQq1V50PuZslvK6Lcg4wJ9P7+2Luu2AyJjDZIx3r6CO8dXifrITWLWF9PJIPxnLzkaMGJ9fV4DQ=;NrQckvdZo8aCT6UOY6iZKA=="
 ---
 

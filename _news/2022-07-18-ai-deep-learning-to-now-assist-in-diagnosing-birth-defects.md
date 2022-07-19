@@ -35,22 +35,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Using AI to diagnose birth defect in fetal ultrasound images"
-    excerpt: "In a new proof-of-concept study led by Dr. Mark Walker at the uOttawa Faculty of Medicine, researchers are pioneering the use of a unique AI-based deep learning model as an assistive tool for the rapid and accurate reading of ultrasound images."
-    publishedDateTime: 2022-07-14T18:16:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-birth-defect-fetal-ultrasound.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/ultrasound.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
     publishedDateTime: 2022-07-15T10:39:00Z

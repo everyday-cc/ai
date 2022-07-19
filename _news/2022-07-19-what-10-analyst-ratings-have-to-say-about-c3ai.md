@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-10-analyst-ra
 webUrl: "https://markets.businessinsider.com/news/stocks/what-10-analyst-ratings-have-to-say-about-c3-ai-1031594709"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -26,17 +26,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "What AI and power plants have in common"
-    excerpt: "AI is powering progress and innovation, becoming crucial to our economy with the same scale impact as the introduction of electricity."
-    publishedDateTime: 2022-07-15T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
 
 secured: "Bvn4j9y19hSl5uKIbyd/quKIbcnFXxteOidpcEI/IoQUokcvvT3HyAF1OcKCLUsk7vbV+IwVH/xtRyPTCuXtt7lWFuEpvgrHdEZX2dMwz3cWHbcnEYQSjvXYGcL/hh+QE08Ng5Be2ibdrKxIodqmQGWHJ4Z9R+l1DIWuXbrVy9rqizYupKBXKn7gEt2/7beB+0VlORdrxyfYsb0+cZYnPAqqBdNpc/n+3FmvJgGI2UoDb8D/slGT/ahJ0V7NW4qAXAr9Dt6Y6FdGMBsudVmzGHmLOH9ujvHvsKTy1HlJMDbJGrER3+Uj+ZMYWSZSX6IFD1DmCEBpS7rFFJrnhUrZFohs0kYky9Ckjm2y33/2u6YQEYfaAa8kYmspBrCofC1Rjjf0rLw1FYhGEzPRNUZsHhdCooHtEqT+VCvXX/rtSvaB4+9miZ4ztrZETQcFs+FdBUfJkBipi6nGyFc69HWpzi16Gvfka/NMm7ZouxdS+AtLqOTdNN3lt9LM+X7P18W/Qkyy/CV1V0MLDXWNILzK1Q==;nOLv4qLYzMQAfrUkLzweKQ=="
 ---

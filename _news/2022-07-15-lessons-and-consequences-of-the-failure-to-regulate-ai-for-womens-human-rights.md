@@ -24,34 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence rules to require human liability"
-    excerpt: "Artificial intelligence systems will have to identify a legal person to be held responsible for any problems under proposals for regulating AI unveiled by the government today. The proposed 'pro innovation' regime will be operated by existing regulators rather than a dedicated central body along the lines of that being created by the EU,"
-    publishedDateTime: 2022-07-18T11:29:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/artificial-intelligence-rules-to-require-human-liability/5113150.article"
+  - title: "The Future of Artificial Intelligence"
+    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
+    publishedDateTime: 2022-07-18T18:51:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
     type: article
     provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
+      name: eWeek
+      domain: eweek.com
+    quality: 75
     images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/3/2/1/105321_istock1277975917_184490_crop.jpg"
-        width: 1024
-        height: 536
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
+        width: 800
+        height: 800
         isCached: true
-  - title: "UK government throws around some ideas for AI rules"
-    excerpt: "The UK Government has put forward proposals on the future regulation of AI, which would see various regulators apply six ‘principles’ to markets which are implementing such technologies."
-    publishedDateTime: 2022-07-18T11:41:00Z
-    webUrl: "https://telecoms.com/516500/uk-government-throws-around-some-ideas-for-ai-rules/"
+  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
+    excerpt: "Students are looking to drive change in society by leveraging their skills in tech. They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India’s GDP"
+    publishedDateTime: 2022-07-18T08:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/?amp"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 37
+      name: ThePrint
+      domain: theprint.in
+    quality: 68
     images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/06/iStock-1327735623-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.theprint.in/wp-content/uploads/2022/07/ATLAS_SkillTech_University2022071807542920220718081910.jpg"
+        width: 600
+        height: 450
         isCached: true
+  - title: "Artificial Intelligence may be the future but treat it with care"
+    excerpt: "Allocating investments to AI is a leap of faith. But this tech revolution will not be reversed, no matter how disturbing some may find its possible consequences."
+    publishedDateTime: 2022-07-16T07:02:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/investing/article-11018463/Artificial-Intelligence-future-treat-care.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-11018463/amp/Artificial-Intelligence-future-treat-care.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11018463/amp/Artificial-Intelligence-future-treat-care.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/15/23/60323993-0-image-a-37_1657923715986.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
+    excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
+    publishedDateTime: 2022-07-18T20:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
 
 secured: "WOAU6LyYAAKd9+Oe3p5EDAUZusPO4y+1sdoL7dtUdjezNOUzzpU2gmRlCtHtK/FNOTDl2s94Rwkw08A+kiwkM8PbeHu4PIeN+2b4LfnpAdFODjIA3css1uwtW21ZYtOfQiHsn1R9OUGI3/2lCj2JlsxSkSbUp+l9G+7GY6YWsg6EpMjnjMsIhb5mwc8S1CuM8FYjy4FpeWn/ghGU7ki+RzKtXb+FNP+qkkAz0IBbLphDcZJsB404n7XSjbLEH1FtbpSXJJtoceKzAl3GfSf3x9lL6fkcim3jIs41DfbvR8nfBP5Pacg235cCc2LwJf+sDSrUDeRRgperqmUFQ8D72e2bwdR0w/JfH5zzDu7W3WI=;OTthgMJw9Z5icBsqEDRk/Q=="
 ---

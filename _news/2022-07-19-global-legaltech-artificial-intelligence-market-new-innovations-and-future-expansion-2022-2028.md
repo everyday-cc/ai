@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-legaltech-artific
 webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: South China Morning Post
       domain: scmp.com
     quality: 49
+  - title: "Global Mobile Speech Recognition Software Market 2022 - Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
+    excerpt: "The studies then highlights over the key problems limiting marketplace increase and the international Mobile Speech Recognition Software market's capability increase possibilities. This study explains expansion techniques and procedures,"
+    publishedDateTime: 2022-07-19T03:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022---regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-07-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-07-19T06:07:00Z
