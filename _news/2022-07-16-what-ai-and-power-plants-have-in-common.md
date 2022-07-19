@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-i
 webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -24,38 +24,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Fullpower®-AI Announces the Issuance of Three New U.S. Patents Further Covering Smart Beds, Sleeptracker®-AI, and the Fullpower®-AI PaaS Platform"
-    excerpt: "Fullpower ®-AI, the leading IoT biosensing and sleep technology company, today announced that the United States Patent and Trademark Office (USPTO) had issued three new U.S. Patents directed to methods related to the Fullpower ®-AI platform."
-    publishedDateTime: 2022-07-14T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fullpower-ai-announces-the-issuance-of-three-new-u-s-patents-further-covering-smart-beds-sleeptracker-ai-and-the-fullpower-ai-paas-platform-1031587989"
+  - title: "What 10 Analyst Ratings Have To Say About C3.ai"
+    excerpt: "According to 10 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $17.95 with a high of $28.00 and a low of $14.00. Below is a summary of how these 10 analysts rated C3."
+    publishedDateTime: 2022-07-18T19:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-10-analyst-ratings-have-to-say-about-c3-ai-1031594709"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 30
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/1859411/Fullpower_AI_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_21066.jpeg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Use that everyday AI in your pocket"
-    excerpt: "Artificial intelligence powers more apps on your mobile devices than you may realize. Here’s how to take advantage of the technology — or turn it off."
-    publishedDateTime: 2022-07-16T13:10:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/use-that-everyday-ai-in-your-pocket/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
-  - title: "The Air Force plans to test an AI copilot on its cargo planes"
-    excerpt: "The Air Force and Merlin Labs will work together to bring an AI copilot to C-130J cargo planes. Here's how the system works."
-    publishedDateTime: 2022-07-14T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/merlin-labs-air-force-cargo-planes/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "jTq6vtB1eXQDmc5Kjky7t5LKBJsZ0/honICuFIjMqbJgnGBDOeuaielCz5EFv0UhhhOYFOYJLIo3z2kXJ2lVbGOaNF4emuyuJvu/IE6sVMosh+t7AWqzQT9fkbD6U9onVR9bGEuagLeK7QX7QGL17QQpdk2hWtI0HT1ICv54G9aufOhDg8L0qSgqmkuR+H28F2rKNyxC4CWbc6lq+1ZYZCA3+w6yobkVG/JslzzYjWZCwJHTmislMcUggGl10R3+KoTWSodiArzTWZnkXi21MsnBzcrtjnaZdEG4UswOGsYY3rTX2yNKwo/e4U2U/FJZ4orTwZ6vFxKLI68mfg5TpY+Oikt5r1z0X0x4cM4VJCrdm9vR/CANtpqvKhpWDKIKKJgEXIGWinhAl35/Hf1mM2NyX5HA2JYaQH9UW4Q9MlVmuSZfvu+uzO8LZyfDIO/kJ12ZyFAI4i5E9U24HxL+1EPMDduHA8w/ptU0h+hCL0GAKbXN/wOoqyfVnFq1xAHfd0LW6DpIlJPy3BpmLN6z4g==;5N9qUu+K2qfTYvtQHbjGHQ=="
 ---

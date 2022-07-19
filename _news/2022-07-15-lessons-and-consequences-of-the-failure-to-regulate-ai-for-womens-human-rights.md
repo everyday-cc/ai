@@ -61,20 +61,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The Role of Artificial Intelligence in Wildlife Conservation: A step for achieving SDGs"
-    excerpt: "The Context Wildlife is becoming extinct at an alarming rate. Traditional wildlife monitoring and management techniques are costly, time-consuming, inefficient, and in need of better alternatives. The cutting-edge technology"
-    publishedDateTime: 2022-07-14T09:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/policyresearcher/the-role-of-artificial-intelligence-in-wildlife-conservation-a-step-for-achieving-sdgs-43767/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 29
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "WOAU6LyYAAKd9+Oe3p5EDAUZusPO4y+1sdoL7dtUdjezNOUzzpU2gmRlCtHtK/FNOTDl2s94Rwkw08A+kiwkM8PbeHu4PIeN+2b4LfnpAdFODjIA3css1uwtW21ZYtOfQiHsn1R9OUGI3/2lCj2JlsxSkSbUp+l9G+7GY6YWsg6EpMjnjMsIhb5mwc8S1CuM8FYjy4FpeWn/ghGU7ki+RzKtXb+FNP+qkkAz0IBbLphDcZJsB404n7XSjbLEH1FtbpSXJJtoceKzAl3GfSf3x9lL6fkcim3jIs41DfbvR8nfBP5Pacg235cCc2LwJf+sDSrUDeRRgperqmUFQ8D72e2bwdR0w/JfH5zzDu7W3WI=;OTthgMJw9Z5icBsqEDRk/Q=="
 ---

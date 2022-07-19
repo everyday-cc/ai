@@ -2,21 +2,28 @@
 category: news
 title: "Actionable news insights surfaced by Trading Central Artificial Intelligence"
 excerpt: "Winner of the Best A.I. Product at the recent TA Awards, TC Market Buzz helps modern investors & traders tackle infobesity while improving brokerage platforms' return on news investment.. The cutting-edge technology employs proprietary artificial intelligence (AI) in particular natural language processing (NLP) trained by market analysts to crunch incredibly large amounts of content into simple actionable insights."
-publishedDateTime: 2022-07-14T20:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm"
+publishedDateTime: 2022-07-14T18:47:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_d3b73200-c8c4-5b4e-b706-9f7bda2ae37f.html"
 type: article
-quality: 14
-heat: 14
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
+  - Natural Language Processing
   - AI
 
-secured: "fdgmbIijFc6c4OqU3KIg8c2jdBH0r9Iu4U1xedQblBHipcmiFxgtFaG9ALFQ1zElDnx4VTYYfddZzPwxMcrhZiQuw9zDl+8OihVu6HyGaOptDW4nyJG/f1+8fPPtImaaLmt/M7KxXonUmiZDj6so7LMNWjlKCNRW1p0M2lXkjDDaneQJuuraopkI1CD7IOHv8JJJaNAHOnNOGpBXAhMxauQ+MH250CAQH0l7xX4QvBFtuGVUhBJTcoMQ8+z7JkwO45SI2WtmJt/UkYEjv84A26iEz4pKr4S3OIF/7O/e9gaBbcSnnucK6D3ZgNcN1628i9KylXwDWSNpvY/JFo/iCjE7ggAlp6NAuFgcmOhPDh0=;/HGpeyCLIR+JdX7T1yTItA=="
+images:
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "5iNUnGzZHjsvSBFOTXVtqiKAKBlD9FrzyI6GyXMtfniJpxLJJ+Sp9AFTU7x5d/Syj+GCmARyT9hspLYxGpya8g6UIO6RqGCOOGJRT3MaLRM/MJA917pp2gmSidgOsKygKqVQVb1FsGY3B+178i7MHCMdCsPrp2YXTUieOLJF1sc3EjWWuy73QSIUXlTB+ey6gLbcBK0fx8FDY/uckHPefXygnDPv2DtZREV65UpO9Yqg4kGfVGNqi+MroeZCh9SBCBNY2ld3zf3xMFEURoZJYt2Ebdp46d+4fbC+Wlmvyuj/QV/6d2HG/DEKL5Xqs1M1Jm+RXkTIw/ebKnTQLZe7B9VsjBM+/qOzkhWhuKAge3E=;oBlWCubUfJDQs4OSgK3GJQ=="
 ---
 

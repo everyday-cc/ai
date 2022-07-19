@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-06-29-david-zubler-irs-using-artificial-intelligence.md",
+      "title": "David Zubler — IRS using artificial intelligence",
+      "excerpt": "The IRS revealed a new artificial intelligence system to reduce wait times to resolve simple tasks, and improve customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themountainpress.com/lifestyles/lifestyles_columnists/david-zubler-irs-using-artificial-intelligence/article_fc1128bf-1fbd-51a9-b1e6-9f6c0043c84c.html",
+      "originalUrl": "https://www.themountainpress.com/lifestyles/lifestyles_columnists/david-zubler-irs-using-artificial-intelligence/article_fc1128bf-1fbd-51a9-b1e6-9f6c0043c84c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/themountainpress.com/content/tncms/custom/image/02ffe7d8-0d98-11eb-9099-b76c6aee61a3.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mountain Press",
+        "domain": "themountainpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-artificial-intelligence-techniques-used-to-obtain-antibiotic-resistance-patterns.md",
       "title": "Artificial intelligence techniques used to obtain antibiotic resistance patterns",
       "excerpt": "The Universidad Carlos III de Madrid (UC3M) is conducting research that analyzes antibiotic resistance patterns with the aim of finding trends that can help decide which treatment to apply to each type of patient and stop the spread of bacteria.",
@@ -1063,49 +1105,6 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
-      "title": "7 key Microsoft Azure analytics services (plus one extra)",
-      "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
-      "originalUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/cso_budgets_data_analytics_charts_money_finance_thinkstock_475775688_2400x1600-100808344-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
-      "publishedDateTime": "2022-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
         "images": null,
         "publishers": null,
         "authors": null

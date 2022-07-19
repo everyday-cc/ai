@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-07-cute-desktop-robot-designed-to-keep-armchair-engineers-engaged.md",
+      "title": "Cute desktop robot designed to keep armchair engineers engaged",
+      "excerpt": "Building a robot from the ground up and then getting it to do exactly what you want it to can be a serious head-scratcher. Taiwan's NUWA Robotics is looking to make things simpler with a cute little robot companion called the RobotCreator DX,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/robotcreator-dx-nuwa/",
+      "originalUrl": "https://newatlas.com/robotics/robotcreator-dx-nuwa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0b41e23/2147483647/strip/true/crop/2598x1364+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F43%2F34207bd743c28bd68cc6ca918dde%2Fscenario-1.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-rehab-boost-launches-advisory-board-appointing-seasoned-healthcare-executive-bruce-lawrence-chair.md",
       "title": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair",
       "excerpt": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair. MIAMI, July 7, 2022 /PRNewswire/ -- Rehab Boost Inc, a pioneer in artificial int",
@@ -1140,49 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-sk-telecom-sk-hynix-offer-ai-chip-curriculum-to-universities.md",
-      "title": "SK Telecom, SK hynix offer AI, chip curriculum to universities",
-      "excerpt": "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202207/df4f6d66dda4407ea2613c045295f652.jpg",
-          "width": 980,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "publishedDateTime": "2022-07-07T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

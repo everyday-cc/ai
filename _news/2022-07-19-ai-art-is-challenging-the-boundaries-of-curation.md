@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
+excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -69,6 +68,6 @@ related:
         height: 724
         isCached: true
 
-secured: "szIKAd6bKk/H0SBLhPcyBrDHhxoTiEf3ginx4zfqm88eHVISgqy2FH9b0UY8caB3t2BzGh9L2wRp8Fhh23mDg10wTVzi8kcK0VAW4BBLSdhNMroV2ziCJoo3bq4ilu91wzd2X4jmrUCf3G3yRvGend/Ul2QD+EnpC+Fd2y/TbKlKuTv3E9riDZXw8uMN/vBw34pdAlJHVxKHIdYfoduvdFbVMvtKJXV4mxRmesOeh/+rrhClwB3uYAjHELuVLpeAMNFK/AdwUcuzak6NM4uLOztDOsn0kS4d+TKxXoOZjtwKVOdAxvPFQrElspdK3KcsBo8cPz/nCADV3nPmqmrA9sjEy1F+PxRyF12Ul9CIz8M=;gf+khkG5pRPxQuoN15jzFw=="
+secured: "/aQKrMaBV8/uvmDXwQR9YHBvYECnKMfOKqHAxJcTgRcYDlYYiudlIxj2G6XRAhPI7naiE6/rUc90fB+kKQLFBUaxmE8TUm/vu07iDw0ULxf/bip6U+qKdm8zWGucbDion6HsD8XpKg8zJcGjUhSvPUcnETspixhioGRTHXpirYq220E/ZR2JYHlY7+qx3+FHoWb37QMyBQy64Cw+rhoEtdIA8Cx7LMUh15NfjdCrEm5TsGitmyZTyCVQIPZTmITldxFH1Wo5JWQ0HVrOn/Z/shWpoFISl5naV7gmUhS5TpDLXfvcn5BXCkVPeRq2xr1FR0O4CdxXlT9SXRXdueUS8GcPJFE4k0CjbK4oWtQ+i2Q=;wdfbQzVlyK+VjLNVMBavzA=="
 ---
 

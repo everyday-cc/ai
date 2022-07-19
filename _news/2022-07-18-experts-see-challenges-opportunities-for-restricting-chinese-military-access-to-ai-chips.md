@@ -2,12 +2,12 @@
 category: news
 title: "Experts see challenges, opportunities for restricting Chinese military access to AI chips"
 excerpt: "China’s People’s Liberation Army is leveraging American-designed semiconductors to enhance its artificial intelligence capabilities, which could play a key role in a future war against the United States and its allies."
-publishedDateTime: 2022-07-18T13:32:00Z
-originalUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips/"
-webUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips/"
+publishedDateTime: 2022-07-18T08:30:00Z
+originalUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips%EF%BF%BC/"
+webUrl: "https://www.fedscoop.com/experts-see-challenges-opportunities-for-restricting-chinese-military-access-to-ai-chips%EF%BF%BC/"
 type: article
-quality: 25
-heat: 25
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -15,9 +15,14 @@ provider:
   domain: fedscoop.com
 
 topics:
-  - AI Hardware
   - AI
 
-secured: "59zqW5M5ux91pjMzjSxF8tETsdn6bS4b7D4QrhVpnXib1jN3dIwgCoMJkcIL6NJbxYkSb0I8L2A6GdiIeNx2TIcJN3uBXGAycAXkkrMXgMTvBCBS0Na9u+H4uKghQu3Ml871pKH26sm65OE5vxuH3jogC//WG1Mf+z/LZJvwQ/naXKj12KBMk9G+Nli7+RsWvweXDP/zluK+3UcKZTzjipPgIC/ud27fILxSY1RyNMUAHKXZM/Rciv7c4mehNK6R43jflU0iYv2xuNjQixSLsQ4qkPXlumxqJ6z6H3voXksixbPc8WBd//cYO6oDaA7UQb8Cz2nO5YbOuxpLVvHMwyTumig+CwwlIVc/hVh17DDanGRGZqEVn8OmzcRGP/VP2Tpey6eMIspQrPhwGo56ApxX+Frk+Ew+rNlrUl8YAETwyyIpNO3B4NAZlHSm3TNuyeDYrT3F69O5YmQThp+d8AqTlZ5rMFlQbla+M5APB01h6MtnZkS0HuAKgdho26PfpCDgZZ3n3Ie4DSzQlTKSrA==;V9z5nTnCehss5XfhDJYn8A=="
+images:
+  - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/07/Semiconductor.jpg?w=1200&h=500&crop=1"
+    width: 1200
+    height: 500
+    isCached: true
+
+secured: "F4f5xX/wS6fBwAChC/rZjwrpONTNwOcGk25kgxnFiis3NqKV9Xgw1D7FB/nsFFRmDlLxumeNjHFKMAA8XWqPkyQWt38qHBk880bcR9Kta8argnyqOwFvHbj468bYP5UH+RSov5QnxMDuuuX99t4TL/xkVidbQK/GLnAqb9guvTgCEMvxkCkBOWkCEiQKlUqyzpWICIevKHrJCIukrcMZgGEB2UkWGh7QEK9M5Y5c/mv5jW9jvS4mSCUCj5HUra1LtSPVriycG8xgKUaa7CmoDuXvjKCznNg49VF1X9NIFSnm5lPjINb3rruY+JHYdsxDl+5T2zLge3tFWMHCxTL+DdZUCgAvneTYS5rKRXb9wUs=;DK0l3pPp0FTr34ygki1UcQ=="
 ---
 

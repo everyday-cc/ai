@@ -3,8 +3,8 @@ category: news
 title: "Blue Hexagon Spotlighted on the CRN® 2022 Emerging Security Vendors List"
 excerpt: "Blue Hexagon, a leading agentless cloud-native AI security platform company, announced today that CRN ®, a brand of The Channel Company, has named the company to its 2022 Emerging Vendors list in the Security category."
 publishedDateTime: 2022-07-18T15:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/18/9640358.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/18/9640358.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-blue-hexagon-spotlighted-the-crnreg-2022-emerging-security-/2022/07/18/9640358.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-blue-hexagon-spotlighted-the-crnreg-2022-emerging-security-/2022/07/18/9640358.htm"
 type: article
 quality: 20
 heat: 20
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Security
 
-secured: "v4TxZ539GbVPhZ8ctNzX+zyHn6Afnp/0XQ5hD6OnxO6LIw8AS02bzG+83XKXKORdFHAX7DthxPDnPjj/KSdq+J+IdNfMoIas0pVCajPiG9V/XgRrnozdjJfj1HpCuvuEIDwjxm6WXrpRTAWFqOXKh//i9r8rRw7OipEtfN866yUS0i9VkpOcOpUEK8s26CcARqqTIW1GovodugLSZnDGvExccY14SNjaC9YEGrk+FRsJGDpCzHa1I/GlMxxPr4MzhwiUuWKYkL3YLDAyLeLOiygDmlgBoQR5i/MtJxe0RmBCO3fdpV/JScs5vOrirY0C+NHPNZew4cnNpXpO/NkWO5zQdw0h1TaYY9lkqAdWRD8hbaH8AC0QRICgdfVsko37dYShzkta0JaLiwiYkt6/i7Gk/0PoWt+4zY/dWPHdDs8e3ZYi4YVOXMN+Bk33bb9noQg9mHv2UPdqYAGSLzMWtd8i8jkqcl3QkqdD0E9/WnsC7sdDDnHfWMAiCuYOW++hRygsQiqgx77Y0akhJc3RxA==;3ENNQs0xQSiSYh8fzKjXcw=="
+secured: "ABXNm8lbIoWl0BnUpdngPykqZvtxwuUPhLHbN0BB4XMAbu2bOlX1L3GYm/pvhyztVFyygTLLWOZTmJhTdBuQT9Wfr1bxY8xGnqgFQyYW23Ko7ycSCQrSKk28vtvPv9ZvYWUXJJJx39a8khz9Rz4I+7HyV2q1iv45HjLOkVL5hzW9e3yaruiWgmFZqWRCTUzIoExMtuDEyBhrrAk0kAi0gF9xcT5u/CYoeygyex4U35jpD8MJEMwt3fxcdXVdbJ4TUKTo1T/yELR8YpsYf0exs6h0PUEltHCSeZcUwVMOBf0seZX7XxR+X7gK4xX9v9m4eIHNuUR4uYtCfQrJO6cpl2rFfnM91PtUKQnfKhZ1I8cbc52i83g92QT/jsbE+zNW8wMOOQvl26eVvoz0GzaPfQNZJPa0RH1btcBOhyvtuEtFF23FVYgfhlHWcjAUK3jAzP/zThN0INxk3ZDhSFPQiE4vpwEPenaAMDunDmH4Tt1RmPqk1cf2vKq0zh/NjO6iz/aEoWcBb2iTptKKzxIU2A==;xXys0hC8ktyr6Ezj+PQiPQ=="
 ---
 

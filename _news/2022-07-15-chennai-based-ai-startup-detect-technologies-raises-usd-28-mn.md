@@ -34,20 +34,6 @@ related:
         width: 1080
         height: 761
         isCached: true
-  - title: "Industrial AI enterprise Detect Technologies raises $28mn in Series B funding led by Prosus Ventures"
-    excerpt: "The company gears to further expand its global footprint to fulfil the accelerating demand for industrial automationCHENNAI, India, July 14, 2022"
-    publishedDateTime: 2022-07-14T10:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-enterprise-detect-technologies-raises-28mn-in-series-b-funding-led-by-prosus-ventures-1031586985"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1858606/Detect_Founders.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "FPL Technologies Becomes India’s 4th Fintech Unicorn This Year, Raises $100 Mn From Temasek"
     excerpt: "The other three fintech players who joined the unicorn club this year include Open, Oxyzo, and Yubi Pune-based FPL Technologies has raised about $100 million in a new funding round led by Temasek. The Singaporean sovereign fund invested $46."
     publishedDateTime: 2022-07-14T14:34:00Z
@@ -79,20 +65,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/07/detect-social.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Chennai based AI startup Ganit raises funds in pre-series A round"
-    excerpt: "AI and data analytics startup Ganit said it had raised funds in pre-series A round led by Sangeet Kumar, co-Founder & CEO of Addverb Technologies"
-    publishedDateTime: 2022-07-14T10:05:00Z
-    webUrl: "https://analyticsindiamag.com/chennai-based-ai-startup-ganit-raises-funds-in-pre-series-a-round/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-2-scaled.jpg"
-        width: 2560
-        height: 1280
         isCached: true
   - title: "Amazon backed anti-misinformation startup Logically in a $24 million funding round after seeing this 16-slide pitch deck"
     excerpt: "Logically has raised a $24 million Series A round, backed by Amazon's Alexa Fund, to try and fight misinformation at scale."

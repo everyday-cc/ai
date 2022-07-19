@@ -7,7 +7,7 @@ originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223217"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223217"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Bobidi launches to reward developers for testing companies’ AI models"
-    excerpt: "Bobidi, a new platform that rewards developers for testing companies' AI models, has raised $5.5 million in seed funding from investors"
-    publishedDateTime: 2022-07-14T11:00:00Z
-    webUrl: "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/"
+  - title: "Researchers propose AI model to better understand human expectations"
+    excerpt: "A research team has proposed an AI system in which robots not only serve as listeners but also speakers, providing an opportunity for AI to better understand human expectations."
+    publishedDateTime: 2022-07-19T02:01:00Z
+    webUrl: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/index.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?w=1024"
-        width: 1024
-        height: 358
+      - url: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/img/7915a102fde14e688c03c23547deea4c/7915a102fde14e688c03c23547deea4c-750.jpeg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "AI Workforce Development: Opportunities for the Emerging Vietnam’s Companies"
-    excerpt: "The Vietnamese government opened the door to AI and high-tech development in 2014, when they introduced the term “industrial revolution 4.0” in their economic directions, focusing on AI and 5G. After six years,"
-    publishedDateTime: 2022-07-18T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-software-vietnam-artificial-intelligence-6c4ec91c66a74b61b3f38f061d06dd10"
+  - title: "Google researcher goes on leave after claiming AI is sentient"
+    excerpt: "It will likely be a long time before we get truly sentient AI if that ever happens at all. Can a machine think and feel like a human? Questions and fears over the subject predate artificial intelligence ( AI) itself,"
+    publishedDateTime: 2022-07-17T12:57:00Z
+    webUrl: "https://knowtechie.com/google-researcher-goes-on-leave-after-claiming-ai-is-sentient/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 17
 
 secured: "gy7Jb9M5yUAA4es+kvKlS7OCsr+cXGdXodgq+1kZyst7O1g15kx7Y7TslTV67PCayQj+Z2LiZJeAq7AXE32c0jKZBVqWidK1ywDDdIbXc2hAtVTwJGjNQgU+Vx2LQDedLuFu3jEoiUvfDEpxzY4/beYd/HMe5Q9b68s9tCXcj5+y3sZwRScDoSidM9F4JbrPocJtXrxfHoF8cvGgArefsvKgzQRRneRNVNZTXF/SPxxnvbhTFYAfH4wtVRRhTQu0glwIL5MqROdGJ4Z06+QGw1//fAFWAB/K5GtVpLp2rFl+xVvaOb94E3JEeKYfuCRYGnrsPPRTPMBng2xoxZNypg7sgAoJzjcrjpF7xipNlc9sKGzU0zlG4tfZJz1kgvqLCmW4cpjEEN1nMmO7FBkTKm/M9AtLAXWgnnuZraPy7MCcacSTkiGyzwB/QQ7asZicbZ//aHFdfbqpwNnpgKEsu9AoFAoKdyCTkJ1tO/ulhSLKouZAuoM8EB41p/RZCijl+hx6VjAodaAMqTltY1Pw7g==;y6yuWaiIga2Se3VVQ8V54A=="
 ---
