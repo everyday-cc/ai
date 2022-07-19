@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 1625975
+        "followers": 1626179
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,7 +41,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 517,
+      "heat": 526,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -67,7 +67,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 339003
+        "followers": 339006
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -87,7 +87,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 335,
+      "heat": 333,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -113,7 +113,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 679313
+        "followers": 679314
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -148,7 +148,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 331,
+      "heat": 323,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -188,13 +188,127 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 286,
+      "heat": 275,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Demis Hassabis",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fei-fei-li.md",
+      "title": "Fei-Fei Li",
+      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
+      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
+      "type": "profile",
+      "name": "Fei-Fei Li",
+      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "location": "Stanford, CA, U.S.A.",
+      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "twitter": {
+        "username": "drfeifei",
+        "url": "https://twitter.com/drfeifei",
+        "followers": 404170
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+        "citations": 170437
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Healthcare"
+      ],
+      "heat": 245,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fei-Fei Li",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
+      "type": "profile",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
+      "twitter": {
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 217353
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 220050
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 238,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
           "isCached": true
         }
       ],
@@ -212,7 +326,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 146777
+        "followers": 146782
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -230,7 +344,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 256,
+      "heat": 232,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -290,7 +404,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 256,
+          "heat": 232,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -314,7 +428,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 335,
+          "heat": 333,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -327,7 +441,7 @@
         }
       ],
       "size": 3,
-      "heat": 256,
+      "heat": 232,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -335,60 +449,6 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
-      "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 217350
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 220050
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 249,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jeff Dean",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -407,7 +467,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 93326
+        "followers": 93329
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -437,7 +497,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 245,
+      "heat": 202,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -450,102 +510,42 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/fei-fei-li.md",
-      "title": "Fei-Fei Li",
-      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
-      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
+      "path": "_people/ilya-sutskever.md",
+      "title": "Ilya Sutskever",
+      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
+      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
       "type": "profile",
-      "name": "Fei-Fei Li",
-      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "location": "Stanford, CA, U.S.A.",
-      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "name": "Ilya Sutskever",
+      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
       "twitter": {
-        "username": "drfeifei",
-        "url": "https://twitter.com/drfeifei",
-        "followers": 404165
+        "username": "ilyasut",
+        "url": "https://twitter.com/ilyasut",
+        "followers": 117604
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 170437
+        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
+        "citations": 328330
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
       },
       "affiliation": {
         "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
+        "name": "openai.com",
+        "domain": "openai.com"
       },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Healthcare"
+        "Machine Learning"
       ],
-      "heat": 224,
+      "heat": 182,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1548311632597553154/WYGE5NGW_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Fei-Fei Li",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/soumith-chintala.md",
-      "title": "Soumith Chintala",
-      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
-      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
-      "type": "profile",
-      "name": "Soumith Chintala",
-      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "location": "New York, NY",
-      "website": "https://soumith.ch/",
-      "twitter": {
-        "username": "soumithchintala",
-        "url": "https://twitter.com/soumithchintala",
-        "followers": 103489
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/soumith"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Facebook",
-        "domain": "facebook.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "PyTorch"
-      ],
-      "heat": 168,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Soumith Chintala",
+          "title": "Ilya Sutskever",
           "isCached": true
         }
       ],
@@ -581,13 +581,55 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 147,
+      "heat": 172,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1498032872116002816/5ECdf5AC_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/soumith-chintala.md",
+      "title": "Soumith Chintala",
+      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
+      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
+      "type": "profile",
+      "name": "Soumith Chintala",
+      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "location": "New York, NY",
+      "website": "https://soumith.ch/",
+      "twitter": {
+        "username": "soumithchintala",
+        "url": "https://twitter.com/soumithchintala",
+        "followers": 103487
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/soumith"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Facebook",
+        "domain": "facebook.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "PyTorch"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Soumith Chintala",
           "isCached": true
         }
       ],
@@ -622,13 +664,55 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 145,
+      "heat": 121,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Nando de Freitas",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kyle-cranmer.md",
+      "title": "Kyle Cranmer",
+      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "type": "profile",
+      "name": "Kyle Cranmer",
+      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "location": "New York",
+      "website": "https://t.co/OiHC3bfPoX",
+      "twitter": {
+        "username": "KyleCranmer",
+        "url": "https://twitter.com/KyleCranmer",
+        "followers": 13341
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
+        "citations": 201348
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1529454611920207874/6CRRMnHU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kyle Cranmer",
           "isCached": true
         }
       ],
@@ -646,7 +730,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 9285
+        "followers": 9287
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -688,7 +772,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 19403
+        "followers": 19404
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -712,7 +796,7 @@
         "AWS AI",
         "Machine Learning"
       ],
-      "heat": 83,
+      "heat": 89,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
@@ -725,91 +809,36 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "path": "_people/andrew-moore.md",
+      "title": "Andrew Moore",
+      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
       "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
+      "name": "Andrew Moore",
+      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "location": "Pittsburgh, PA",
+      "website": "http://www.cs.cmu.edu/~awm/",
       "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 13341
+        "username": "awmcmu",
+        "url": "https://twitter.com/awmcmu",
+        "followers": 6177
       },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 201348
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
       },
       "topics": [
         "AI",
-        "Math for AI",
+        "Google AI",
         "Machine Learning"
       ],
-      "heat": 72,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1529454611920207874/6CRRMnHU_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kyle Cranmer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
-      "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
-      "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5763
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 123062
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher M. Bishop",
+          "title": "Andrew Moore",
           "isCached": true
         }
       ],
@@ -1299,40 +1328,6 @@
           "width": 128,
           "height": 128,
           "title": "Lev Dudko",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lily-asquith.md",
-      "title": "Lily Asquith",
-      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lily-asquith/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lily-asquith/",
-      "type": "profile",
-      "name": "Lily Asquith",
-      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 217961
-      },
-      "affiliation": {
-        "path": "",
-        "name": "University of Sussex",
-        "domain": "sussex.ac.uk"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
-          "width": 128,
-          "height": 128,
-          "title": "Lily Asquith",
           "isCached": false
         }
       ],
