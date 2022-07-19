@@ -1,22 +1,27 @@
 ---
 category: news
 title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-publishedDateTime: 2022-07-18T18:06:00Z
-originalUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
-webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they’re n"
+publishedDateTime: 2022-07-18T21:34:00Z
+originalUrl: "https://www.columbian.com/news/2022/jul/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
+webUrl: "https://www.columbian.com/news/2022/jul/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
-  - Facebook AI
   - AI
+
+images:
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2022/07/Smarter_AI-Cracking_the_Black_Box_95499.jpg-4ce18.jpg"
+    width: 900
+    height: 600
+    isCached: true
 
 related:
   - title: "As AI language skills grow, so do scientists’ concerns"
@@ -38,16 +43,16 @@ related:
   - title: "As AI language skills grow, scientists worry about accuracy"
     excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
     publishedDateTime: 2022-07-17T18:24:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    webUrl: "https://www.ktvb.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
+      name: KTVB
+      domain: ktvb.com
     quality: 57
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+      - url: "https://media.ktvb.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -82,6 +87,6 @@ related:
         height: 576
         isCached: true
 
-secured: "EoJQUleoZErDOSDdB9y9QDx5j1ixjAW1GFDsiwiGQPTOlFrqEoqtvW59Iafj54MUnRO3nZQ5q25qz7aHuSiuwL2B9dwObT58AT+24p2ThVaUzBj5QRkVC2km9dgmiG/KPCOFtjg8YPCmELubKGXTQMeHobIC2vXGBk1OeUZwMHI6fhsT+KqH6lrMKZ9bfXGZQA/Qrr4fnkRuc3w6inVQ+71nxyv+ccOi0q1Cj6z26uTI5t3wo1wsp2D3Bl8NPeH57A7uvdfDwkKQHngd0j8nQFIp1EDsejNjiaBlYhC1PUVA+9SxOFNQLH7eDPIN9EVOHk2wQN6tZZ6q4y4JGcAHXcEGg+hinCEZrVtRfgSSXlFFmEWEbggZHu99oEFq8x8fNSUChgYVY69dWVBARvu04FqaV+QIKf0aDBECYBMq6tPYuGaCorpQV+nC3QxM4rke1RoCe0A8CGCijfZvdoaH9GR4O1DTkjvUd2+kuHZBaH5yWHiIz1AiHnbdaatrlhoBcLEk9xqhvykvRNnjM+AE3A==;N3BxFLMXH4qYFHxWjAsq0g=="
+secured: "KPq1XIfwszGCssdDnYZyFDFHJIs3N9Ex++eBHeXSUlpn+TD+7H3M2meJ58usovoWaXM2NfuAaxYkhNLw8EjMT0pfL4AbBVKo85hYQM5MU+C3lh8oWrIm0cRy1W8A3/FJbwXkNhwNVHjnvqrczk7z1446AuOzo+cv7y7jqFfjl7WWShsu78u9M00OMSQKgzGui/3bEP7ujarvAYmvgUUh+8IBOoQBg3ejAJtkCcCFLJT4e2ap3aYR/KwKN9QYtLXmE2AgzaumhKAThq8tuIHMVgDl/FPRC1GsLUY8qSoQMPHAbCCveIfLrCxlg9Woif7B6qNt5X3TYiIdfhjMNIQr51f+6RzZstMvnto/k+bLQjU=;nnaqBmSxWFwuN68HCllVPQ=="
 ---
 

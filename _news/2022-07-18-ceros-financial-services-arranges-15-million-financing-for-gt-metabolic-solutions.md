@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28102646"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28102646"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Financial Services Turn to Confidential Computing for Key Use Cases"
+    excerpt: "Banks hesitate to put sensitive data in the public cloud due to concerns over data privacy and governance. Confidential Computing solves these issues."
+    publishedDateTime: 2022-07-15T00:00:00Z
+    webUrl: "https://cloudsecurityalliance.org/articles/financial-services-turn-to-confidential-computing-for-key-use-cases/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 24
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--07333eccf0a650bd36d9cd0571627eab33998df3/Financial-Services-Turn-to-Confidential-Computing-for-Key-Use-Cases.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "wc/WvwyqAxR9ViNRSKww3vlGbSWdGnOZ9lKYAE8CLJaghOB1LihjmXoQsBhgD1gWjOcZ3icnjSSsWzF+RgCnGCnW5x+lgdt3iLpqVMAQk6QzdsNdtpclA+oVI/pxdY6gDvPDVfPoaAV7F5zOibg7n2casnwJRJGzDkko9D7VZt7hPZjBDtWlAW6+J/WsUsiGYbadd/meHSfuInw6YiWkF1nAjHenJs+jvT38qJa/LWvRFO+Uh0m2eNSYj7CR+3WseWAs/W2blUlLHIlYuP66lpowHl1F5zCUPV9Iggdg1o+Ol1IeSHEpzQHisjb+MSxT2zDLvRHa3IMKEDbzzFDWIS2ScniQyP+CFs+xx/QiZxg=;ixBNFfZ/YkHYWV+rjl/kRg=="
 ---

@@ -45,16 +45,16 @@ related:
   - title: "As AI language skills grow, scientists worry about accuracy"
     excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
     publishedDateTime: 2022-07-17T18:24:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    webUrl: "https://www.ktvb.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
+      name: KTVB
+      domain: ktvb.com
     quality: 57
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+      - url: "https://media.ktvb.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -73,14 +73,19 @@ related:
         height: 576
         isCached: true
   - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-18T18:06:00Z
-    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they’re n"
+    publishedDateTime: 2022-07-18T21:34:00Z
+    webUrl: "https://www.columbian.com/news/2022/jul/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 19
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2022/07/Smarter_AI-Cracking_the_Black_Box_95499.jpg-4ce18.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "RiRRiembqt37/itig5dp/6zmN3oDEZH3ASexkNKfV1mWpT1J2MLrhF5EoS8k/q9lU+nggQBtnu4ju9HhfJun60TMMK8/3XTWN3OroBDCr5RpFNyihzLV1+ya91pKiaFNKqipVGjv2/N/6T0di5iOifpRA/ziw/VoCikC+dXGb80ZC7Z+USbw9fseq7O0eKSJCRsE2rkNYJ67WSkLBvC0gf2j4ZTGsakXOC6iAqjtQil/y1VAvq1AN3qk2l7G2t5o/XQSsxAt6O9xmPQ6ZGgUvOX1bI5upbB8DHx02EcK3p9uJurA+PIT+hGf62N9vr924DgHgbepj6t2FPoLjL+qfJfnF9cnSHjf9Yeu1LkRW4THfQ7T2dg8Nuva9bbrsKBxDfqXTCr8m4NtneVj63tfvL4VdhN8n9+MFJTxBj/YVgoUW2LtYlLhTMIpa/Ed4h9JXCT4L/gH1PRg7W5ELEIW0yDm9gghWDs1SWXWL4nG0H2mYyViEkRqJF2Rxjp994DzCizXH26KO0CmW78SbbRwlQ==;DbueukMjnCzlwElO9bvOpw=="
 ---

@@ -85,20 +85,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
-  - title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
-    publishedDateTime: 2022-07-14T08:41:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "Kyvi+0Z4GcYt8gqYi6J3btsr1H0YLi6YoJQpR0jRE+o+rb1A/E0kl16j8TPrBrxLrN5385kNUjfY6lCpt6no32B/jiyDQjIwpPq2hFbQf9u4E/WXnpzrbXMXa4DH42EqoBzbUTjpfaMVciQzvkMIvRbhGl7DE3Yi/5qc3Wge7+U7n+QXFVsTKj7Se6Ys+urNTWt2xAoQN3Lzfo6rHzxQuGe06pagpcPMSUTZcx9qAVtpXiZiu/Vl5whQH6Q+UeeKJp6RwVVQGeIr/g/0lwNBin2LpNVKOwIAHWRqkx4c9Bc78PQmwtUbhrzS4763hNG7CdXsvzxsyDT+1ASGkTU0taiPbit15ghlQTujOhp4GPI=;K4uH0qDS1gnVgfhkuikrpg=="
 ---

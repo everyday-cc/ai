@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-da
 webUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 53
+  - title: "Cornerstone AI Raises $5M in Seed Funding"
+    excerpt: "Cornerstone AI, a San Francisco, CA-based company solving healthcare’s data challenges to improve research and care, raised $5 million in seed funding"
+    publishedDateTime: 2022-07-18T23:34:00Z
+    webUrl: "https://www.finsmes.com/2022/07/cornerstone-ai-raises-5m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/carta-440x293.png"
+        width: 440
+        height: 293
+        isCached: true
 
 secured: "O8T7IztZ3BYbiTf5b1ayY/5c047Pxa+UId12+H9nL3CDOqGT423s1lU7nM5boAgKCbHooNC4G1nRktQuNANdj92z3BWc2ulfYkDQIT7TNjEzSi+icYXgMzNiclYhyk63jpV2lhi8g4FehViR3KstVnqTZPch7DAVkuZz2e+F/HN8adBKFe0EgnsHd7pZ/WluxVtnidXj4w8z8dnxbZQHk9+vpiCOWXXEXV1Pj3qO9ZUuMoTVoOZQ6Dap9X0cG1aYLTo5iAwt3Eb8CPD9+WnHKeXavRCtFtAhRFOTgPMQG4919oSe3tdlWdNUAQIMWmI/xupVIFtdRaINxLZ9wMDUq/IfBoNai7ltKNZ+4S9uJsUoCtv+TbtmyYny2nFDuHSn7iD5Jk7UL5C7q6EdIHvP9A7oraE2pwUnFRQw5qPbUWAAjoeb2glFDODDR3o/PBqlSfBYJNG2r/tsal0GkZB7cBknFYLZr3fHu/bniVIz8LjjhXyC2YC4mPR6XN2OCcyA/cEbB4ksRy8sFk4GiabxQA==;rbcILriI2onvtRjfozF+Gw=="
 ---

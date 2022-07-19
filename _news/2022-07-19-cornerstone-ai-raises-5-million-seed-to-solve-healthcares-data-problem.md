@@ -30,6 +30,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Cornerstone AI Raises $5M in Seed Funding"
+    excerpt: "Cornerstone AI, a San Francisco, CA-based company solving healthcare’s data challenges to improve research and care, raised $5 million in seed funding"
+    publishedDateTime: 2022-07-18T23:34:00Z
+    webUrl: "https://www.finsmes.com/2022/07/cornerstone-ai-raises-5m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/carta-440x293.png"
+        width: 440
+        height: 293
+        isCached: true
 
 secured: "VTzrji6qDmMza8znqvVezJxknaVNN/8Bu9S7rx7SJXLBLT73kteK6KbupOy9p3fOrxno7I4RPKTsIdaeyYXd/j5my8VmmBXXZtjNBUgo7BLIudACwJa5MUKBETLqpNxRbsqqVrFfH+U0hQC5cMzvMuVVZqMCuBGZtGSMqmB5Slj/hHNPlSrtYHnaeZLnNAW7ARV6G4qKKFdb29p7QkOItyZCy1w7zSzH3k0hL9or0HKza9ypSKoSEmLJD/GEVQfGjGscVEZlPbDn89RQquQksLcL0fbShyIz76jGFKvW/fZ1zEEMYQXoDgD5JiPoW1Pjz1Sb6oqM7JI6CmFqcrvinzblZpbta8fmWAmy9bj/df4=;tEW+aAk6Jxuvl/MROfkiDQ=="
 ---

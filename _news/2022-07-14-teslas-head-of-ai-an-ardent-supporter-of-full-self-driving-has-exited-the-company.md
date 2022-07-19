@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
 quality: 111
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tesla Loses Executive Who Was Overseeing Self-Driving Programs"
-    excerpt: "Tesla's director of artificial intelligence, Andrej Karpathy, is leaving the electric-vehicle company. He was leading some of the company's autonomous driving programs."
-    publishedDateTime: 2022-07-14T07:13:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-561244/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
     excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
     publishedDateTime: 2022-07-14T12:00:00Z
@@ -137,6 +121,6 @@ related:
       domain: billingsgazette.com
     quality: 14
 
-secured: "SkLtAG15yV0E4RuxEwRYipqBWnLdND8r7g6eU7opwUA2rRZ7d9IVusMyHrTN+U/SDrZnpdUjSOsG+qYDuxa42R4mETnJzsmYsZi58bql66O+GvPDUruG58KX9J5XrafwGItMLF9DxMIzzeFlNgeEndl9pHyR9rvUQ2yiw7nXgzDPsdg95mhepTRdmhxCOA/WLy3QyvjLN+Gyli91OD+pc0FzSwxpx0ne2s8Fm1pAv7PZkgHuRDf5Nc2tgPU3ijqlZeJPFpIaobTAYHmvDZMyzl1M7gJcTerspnxyZ6KeYcAC5udEW9NzlB/LLIhSPre6fuYwlhghdo3O9c2/x8ulm3p0Sve3F+ONz/0BPxLD5MM=;k0T14hQXLkSVZKc6huS1pQ=="
+secured: "a2pI0MXOxsp2kIrDvCclGf5EtYAH+o8QoZLm3aHfpvUlcLhSQZXfbzWgYSBzpI6FHWoP2+qQX79mxXjhHz3QPjPZ7Aee8C74TZ16mqTcqNUQjZeFoIc8oPNJEtirAlYb9MBG6GM7ZOeWl/FA0hxhHe61GTeB1+ZNxUiJgOz+puXTspOhA4d0pMHtQArKHzNzDXAoei6doo5JEhf/UOVMtmqpF8qIiLLzpe2zpNsoZqmP2VRNzyBOwvqMl1m3mFnyp2ONvTydv5+TZME01qLH/iRDLQ3MhMUVDyS1b1xu2sJ/gVAgQ1aMKSIDnmeL7abScBkX6zCG978a6+oSkD+Ea7hHpdXctYC3hT0SR0uluJ0kpQArRXWtGh7QcC3I6uoVY3FCy3ocRYNK2eQMD/8qPkk+XZwcSYxG6aC0WlcoSzVysl9rKlycyUFjxMN3vDdweTA5gbX7NeMD5jiXZQBAFa0SmPjYsekZ9Q0HLyZWyA982Qdyt+VzyC58XfMJZc0dlvulTBj7I33MrtQfuU98bA==;/SmIg7M5seMflqSqoWzbyQ=="
 ---
 

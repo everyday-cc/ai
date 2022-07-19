@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 17
-  - title: "Deep Learning Market Size Analyzed By Business Opportunity, Development, Growth Factors, Applications Analysis And Future Prospects"
-    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
-    publishedDateTime: 2022-07-14T07:16:00Z
-    webUrl: "https://menafn.com/1104528998/Deep-Learning-MarketSize-Analyzed-By-Business-Opportunity-Development-Growth-Factors-Applications-Analysis-And-Future-Prospects"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?63655"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "y15fT1jM1t2GLo/EVBrwydyf8B3Nrmbt212qfQGIRsr6S1rRtHVBQlloxiZIQagtPqrz2lAP9DtTM8hZOJh+z0nHZQ+Ms5GaS5w5ojDJg/F1cwgDNqFeFCBAF5aVkkmL9AYufyOGLQlJBsVcrTiWAtYe3k97avMC7AFStEp75gFCzJ3s3Ad64Qw4TULhsx58MP6ImWvnx0TR1/P6sH+6SZdYj19Joh1vv18yqHppqs8zZ9uvHioLcD61HxaWe0VPmw7NkCGx/LC96fXUH+BjraW2Oj2rko3WcFL5/NnOsTP1qQg7Zf1cvUyEJeUezA9Pjd6F1yMBLAGlubVid6BEa2dj/DDuQt8cFKnVNyDxPfk=;H0oePI9Sg7zivs1prYe2VA=="
 ---

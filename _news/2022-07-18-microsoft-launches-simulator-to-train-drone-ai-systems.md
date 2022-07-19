@@ -3,18 +3,22 @@ category: news
 title: "Microsoft launches simulator to train drone AI systems"
 excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
 publishedDateTime: 2022-07-18T14:19:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-62202118?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-62202118?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
+originalUrl: "https://www.bbc.com/news/technology-62202118"
+webUrl: "https://www.bbc.com/news/technology-62202118"
+ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 104
+heat: 144
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -76,6 +80,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "91QPfVPob5Na+oJtm8ryJ7eSy+l4ec9FXjK8bdSpRsAD+Y7CfHJXm5ILGKf8AhqExGj5Iq25T7ZsKCYzmMO0m2b6khGd93XJS22tCTkYgq+jDF8gr3VF6KgOa4Yaup2EfLvPaIBAbVGVn7+NIBUsqOS7fLydvITytnY0Fii4a+MLWueHDg7X3KTS3KWV5kFUoV4HkwXZdrN/HpocgpmxVOynm/P1jP62ZkgPtdcQnBMeCiqG57njuiRPO2Mpbxc/RoqK78jaJxRi9Q0YiNQCC0pBdnpcLUL+dA8vBmyQ4XMooEHVkKOZTDxzbKMkUW4wfSlzQHqG+vDll1MY3SBHTNHmRrZqWGPj6v2clBuDy4o=;BRr4eh1g03lsddTsGdbVuQ=="
+secured: "w4BZldFMr1xqgCSDROSZGaL3ha16UbDMANoSVdE3OF8cNEB+bjJ5BMpt8ZNQoLH5Hiqykf2DMkEpnTN1S6ppOV6i+IqfnpgVHJo1DDTuao37PhJAuQDNqZTtrTMk1FixPA6a2jQRZUeRdTdYonDZqVMvCNPggu6YsPO6TTey9zPXjMtzQBjnLcXwlWzkVZNKH8+Amuum9Ka3GIAfmMGtUHSZgOOwHqHgmF6DoM6w+IJ702mR06qnJhq064qAPm38oDWOlUlSbm6tYurTGOE0PPWo4CNDyFxHUNwTQIM6cXLNfG70UVL940dXLgHqHv6xrxSRjAnVMIglwppb3xdt/R8sp5rR925Vvo6Z51ty18I=;C4q7iUoLwwHm3qA4ir8Obg=="
 ---
 

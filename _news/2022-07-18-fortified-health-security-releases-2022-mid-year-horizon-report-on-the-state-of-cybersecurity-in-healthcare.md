@@ -45,20 +45,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Robots take up cybersecurity fight"
-    excerpt: "Some businesses are addressing the massive surge in cybercrime in new ways, writes PATRICK EVANS, CEO of SLVA Cybersecurity."
-    publishedDateTime: 2022-07-14T08:01:00Z
-    webUrl: "https://gadget.co.za/robots-take-up-cybersecurity-fight/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2019/05/cyber-security-3400657_960_720.jpg?resize=960%2C576&#038;ssl=1"
-        width: 960
-        height: 576
-        isCached: true
   - title: "Robots take up the cybersecurity fight, SLVA Cybersecurity"
     excerpt: "Even those with robust cybersecurity strategies in place are concerned by the sheer number of business attacks, which increase in number every year. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report,"
     publishedDateTime: 2022-07-18T05:57:00Z

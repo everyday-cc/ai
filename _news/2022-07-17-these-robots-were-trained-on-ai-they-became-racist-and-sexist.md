@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots
 webUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Grio
       domain: thegrio.com
-    quality: 53
+    quality: 70
     images:
       - url: "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg"
         width: 1280

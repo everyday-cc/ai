@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-18T08:19:00Z
 originalUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/"
 webUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Security
+  - AI in Autos
 
 images:
   - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg"

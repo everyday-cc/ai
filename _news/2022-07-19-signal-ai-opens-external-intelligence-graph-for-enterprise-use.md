@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelli
 ampWebUrl: "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/10/Signal-A.I.-Grows-Global-Footprint-with-Strategic-North-American-and-Asia-Pacific-Expansion-e1571678390601.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FcmIhC/nvK4E2+0pgOGDiLCxWaxTBnPsJPPxFgpkZidMwmosRj9cnsz9Vn9D9k8/+DHf+rt/F+GugJbj/o7iou2xzcH3AqHn8wVcyPeP4vomrRzW2t/GNu0BsT+yMm/5Q1GEU1GisuLOCxhp8cVkXa6zsFetewG1Fqp49MQIqb9O382dWIy5qkMrVWhvYLw/4nDPhUyNGg0rjdeKwEdMRV2tDSAC6gVEKgVtjYBSqkbeUjPDAw/CMGCwoI7ZS2j19LpS7WGNakgN654bO6FNomSbVUiCgZIf1DVLJe0q5YWXw7mwQCdYmAGAQBZoaG0YYgmmODCq0Bub8GP5LV105daRLYE2ZyFK3uidmzMxhLQ=;JjzidhJgXUOMOUEfezzFtA=="
+secured: "HnDmb/JFPqKogAOsU7+exkceHkr1kcxVgS7Bad7ssdQVhrjqEYw3ETXxHFxVOD4GuLQVx08qc1j8ilMbmXrH8T97YAqErZqw/BPJLtCX6yEXDz2rFEv0AIoTZOGLo69AOKji0PLLL1tHarRQNJE4Can/VwzZy33qGrXUHHPOThhkEoSrdPyqZsEGb0TlnJ2YecX6R+c2RW+W5sjEGAzoZh0p1F7xIsGa5kLNSzoImLt0Ywz2CknmQk1zTm34LCE74jaAHzPomgVLMYAF0By0E+RsKsIoJ6lUaw3lT4d+h3/jR7O0i8Tu+bo2LgMWfMQU5X49lFfLajTAb5QxSL7mgT2mtoMKPuxVhIFlLJ9XGn76KHtc5fo5vr8gUDgq52xJkVigGvn8MU3NxFFwNPU2+ANCJwJo4uj37fgrkrZ9pTSLUCLDAA8Lxj12czExHMhJN1wk7vAgeNZEs3h22tfVIS7GQdN3xigxX/foMxYE+U8RuC9MiwmcvoQpdE1+a4FNY8u8hfQV6ldd17U8r6DBHw==;WYUw5bhx53R0sbIWGNPg0Q=="
 ---
 

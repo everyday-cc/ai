@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2022/07/15/why-investors-see-the-potential-
 webUrl: "https://techcrunch.com/2022/07/15/why-investors-see-the-potential-in-ai-powered-copy-generating-adtech-companies/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: TechCrunch
@@ -26,17 +26,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "The potential for artificial intelligence in construction"
-    excerpt: "Robotics, AI, and IoT can alter the business model and make the process of project completion more efficient writes Ibrahim Imam, Co-Founder, Group-Co-CEO, CEO MENA & APAC at PlanRadar"
-    publishedDateTime: 2022-07-14T08:03:00Z
-    webUrl: "https://meconstructionnews.com/53251/the-potential-for-artificial-intelligence-in-construction"
-    type: article
-    provider:
-      name: meconstructionnews.com
-      domain: meconstructionnews.com
-    quality: 19
 
 secured: "Cq6VnE9tYcRivabG0eLrlwMKQK1mVLI2DVFZ0ZEQieEyIZOzK0jtOc4b7cPAS7KeTkdW5oCml1QflmrxkZWvZlu0wfPOQfxGTm65XwcwmTv5B2SaIDhlnQab6VIbVpOYvfjg5b0MCKb89ePvhn1ydVtXcVyj8zPJBa+Pd4wL02YMEBwdV5oSU5zu1DGmxoRgoZGtZrOw/ZL3pD2XqwyT8fGeE/C+I9vfgfIa4NM3/Dy43F0DzJtgVmKyONgsBT/KnZJEONKn2/qrRfMWVlgjMQPkBKjC5/ESROUXf+uDbcg1/ehLYIYOnPSfL4KHdmuI9sWa/Xu5SNXkYJKorcd+Zmn6bb9V6mtjZC689bQvhLvQhPIPoiiERTFABcOmiff4quWnAtHzlhyCW/dPJYWbhgoLVUoGhFqRbrjTC/AWIMRhTPLp3Aj94pt7Bs4M0QQThnwv/E8fqa4nNYF0aZ+EkH+gN1VJGAuP037xq6PsU/hkHvZ6XhkNfDaYGgSGrApPrUED/J8uk1/lV94A6C+/Kw==;mDmp6NXpJf4YSZcqShGqTQ=="
 ---

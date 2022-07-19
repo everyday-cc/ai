@@ -89,22 +89,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tesla Loses Executive Who Was Overseeing Self-Driving Programs"
-    excerpt: "Tesla's director of artificial intelligence, Andrej Karpathy, is leaving the electric-vehicle company. He was leading some of the company's autonomous driving programs."
-    publishedDateTime: 2022-07-14T07:13:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-autopilot-ai-self-driving-executive-51657782745"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-561244/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
     excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-07-18T18:17:00Z
