@@ -32,6 +32,22 @@ related:
         width: 1440
         height: 829
         isCached: true
+  - title: "Robots became racist after AI training, always chose Black faces as ‘criminals’"
+    excerpt: "Scientists have confirmed that robots trained with artificial intelligence software perpetuates harmful racist stereotypes."
+    publishedDateTime: 2022-07-18T22:29:00Z
+    webUrl: "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/"
+    ampWebUrl: "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 53
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg"
+        width: 1280
+        height: 575
+        isCached: true
 
 secured: "cLALcp5KTMa++EoLnOE/HdL3pIeZHCIZYFuot+2jEdkA0xgdfFIbC9+fsTR15GX1Nh2Sco65NBziX+7yVIceN0UfYUHHWFfSQcnmyXmPtfEf6eOF/Q7wpwyUpUMqu3wJ1H5rI1lgmA8XIrUgcwfpeKlZQmkDoC9U3KKJSWs/7gziN8nwhupBypOe0E0DbkE6ntqjsG+woncNqr2ylRgPrXAZ9P1wWG0oK7zqosvbYskeO7XQQLbybm8MOUMzZUGRLMl4OV5AXETcYD7+eXEPR2E3tfJSp9Pa/futjQU3n4ctjDaAkc0ycy39Qsgrg1jWro0HRPBKTTp19f20qXciZwt1s1bzYI4B8eODu4kElz+tgVS8oaFWI3jbrI3XpX66GMynJSxyLQ6G3mERjm7cIDLOqSx43wOVaEwC+dlFDgDpqNhnjoQKpSdYx3Ps4KIIDvCr3Uui9U2xnr/LOo80xTPLyhUV58oyOnwAh/MBDkUEH+TBxwbex58GaaQUdZGPY6i1HVSjVolcuF2NCyaIZA==;W1jTI00mrlruHXNWmQ+M4Q=="
 ---

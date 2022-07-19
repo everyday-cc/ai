@@ -45,16 +45,16 @@ related:
   - title: "As AI language skills grow, scientists worry about accuracy"
     excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
     publishedDateTime: 2022-07-17T18:24:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    webUrl: "https://www.10tv.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
+      name: 10TV.com
+      domain: 10tv.com
     quality: 57
     images:
-      - url: "https://media.wfaa.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+      - url: "https://media.tegna-media.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

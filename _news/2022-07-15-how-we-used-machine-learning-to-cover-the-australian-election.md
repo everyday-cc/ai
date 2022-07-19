@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/info/2022/jul/15/how-we-used-machine-lea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2022/jul/15/how-we-used-machine-learning-to-cover-the-australian-election"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Explained: Why Australia’s top retailers are under investigation for using facial recognition tech"
-    excerpt: "Two retail chains in Australia, Bunnings and Kmart, are being investigated for using facial recognition technology and storing data of their customers without their knowledge. What is this technology,"
-    publishedDateTime: 2022-07-14T05:16:00Z
-    webUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    ampWebUrl: "https://indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/australia-facial-recognition-technology-bunnings-kmart-8028069/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 60
-    images:
-      - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759.jpg"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "pF0tg4X7DgeVtWNy1WvvBePgUVKBGaEi5ZiYxJ2XvQCwJiJjgHNtRV9hL2PPMAga00CLm4zMfFV+QmsWeY+lpSr4wF9HnCcD/5Q8ljDz1c4gF74Voiwgjk+9Z6Wn3eyBYrKbFpm/T6ulKNjKHim0TC8ON9j+XbB6JLts92bp8nr6Kizkwh+x0k6McH3LR/g4FhiouT+MfYbbvnn0FMIWmfMysnhS+riYcWpUeKg3OIw/RPVU7Fg2yEtHVXa3bjQfHX1E8LQfOxfd5ADAYLZ1h08ytbLH6mx+rbaxDH2Kk7NEWLjwBDffptbkdSv2PCQKcJMBpnNXMUKlf1Pugm5YVDQXCfiZnlW0hxW4E/Ev4ZMsE7Fd7DTSlfaUlBroxuq26SK7TOj44JY7gMW7bzrHGdL3PtZXRWDhKfc40Qj4L2M5JTTsmhDjMjTLohb6IyxFo50/FyTy2BT5uvco1C5GTilo/9SyFW2N6+Ww79CO16RYFdbObM8ErrtYeLyWuby7cTfY30HRqV0iRaMNjL5Mgw==;yCKm09I2CSxDcarsSOCfhQ=="
 ---

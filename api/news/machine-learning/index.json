@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-19-nanomagnets-can-discern-wine-and-could-slake-ais-thirst-for-energy.md",
+      "title": "Nanomagnets can discern wine, and could slake AI's thirst for energy",
+      "excerpt": "Human brains process loads of information. When wine aficionados taste a new wine, neural networks in their brains process an array of data from each sip. Synapses in their neurons fire, weighing the importance of each bit of data—acidity,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/nanomagnets-can-choose.jpg",
+          "width": 960,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "publishedDateTime": "2022-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects.md",
       "title": "Artificial intelligence, deep learning to assist diagnosing birth defects",
       "excerpt": "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects.",
@@ -202,7 +246,7 @@
       "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -242,7 +286,52 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-machine-learning-and-marketing-analytics.md",
+      "title": "Machine learning and marketing analytics",
+      "excerpt": "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/09/surabhi.2020.jpg",
+          "width": 350,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "publishedDateTime": "2022-07-17T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -1289,110 +1378,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028.md",
-      "title": "Deep Learning Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2028",
-      "excerpt": "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-this-new-neural-sleeve-helps-people-overcome-mobility-challenges.md",
-      "title": "This new neural sleeve helps people overcome mobility challenges",
-      "excerpt": "The wearable device from CIONIC combines gait analysis with functional electrical stimulation. It has recently emerged from stealth mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8d4999e33afec39c2aa280f1c474f1299ebe00e8/2022/07/06/5c717121-032a-4673-9625-83b9082fdd20/cionic-neural-sleeve-1-edit.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "publishedDateTime": "2022-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

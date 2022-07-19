@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-da
 webUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,19 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+related:
+  - title: "Cornerstone AI Raises $5 Million Seed to Solve Healthcare's Data Problem"
+    excerpt: "Cornerstone's Enterprise platform launches to unlock the power of clinical data in a fraction of the time of traditional methods SAN FRANCISCO (PRWEB) Today, Cornerstone AI, a new company solving"
+    publishedDateTime: 2022-07-18T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/p28105868/cornerstone-ai-raises-5-million-seed-to-solve-healthcares-data-problem"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28105868"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28105868"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
 
 secured: "O8T7IztZ3BYbiTf5b1ayY/5c047Pxa+UId12+H9nL3CDOqGT423s1lU7nM5boAgKCbHooNC4G1nRktQuNANdj92z3BWc2ulfYkDQIT7TNjEzSi+icYXgMzNiclYhyk63jpV2lhi8g4FehViR3KstVnqTZPch7DAVkuZz2e+F/HN8adBKFe0EgnsHd7pZ/WluxVtnidXj4w8z8dnxbZQHk9+vpiCOWXXEXV1Pj3qO9ZUuMoTVoOZQ6Dap9X0cG1aYLTo5iAwt3Eb8CPD9+WnHKeXavRCtFtAhRFOTgPMQG4919oSe3tdlWdNUAQIMWmI/xupVIFtdRaINxLZ9wMDUq/IfBoNai7ltKNZ+4S9uJsUoCtv+TbtmyYny2nFDuHSn7iD5Jk7UL5C7q6EdIHvP9A7oraE2pwUnFRQw5qPbUWAAjoeb2glFDODDR3o/PBqlSfBYJNG2r/tsal0GkZB7cBknFYLZr3fHu/bniVIz8LjjhXyC2YC4mPR6XN2OCcyA/cEbB4ksRy8sFk4GiabxQA==;rbcILriI2onvtRjfozF+Gw=="
 ---

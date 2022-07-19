@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-17-ai-art-is-challenging-the-boundaries-of-curation.md",
+      "title": "AI Art Is Challenging the Boundaries of Curation",
+      "excerpt": "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "publishedDateTime": "2022-07-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
       "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
       "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
@@ -54,6 +107,58 @@
         "Math for AI",
         "Natural Language Processing",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-optical-illusions-could-help-us-build-the-next-generation-of-ai.md",
+      "title": "Optical illusions could help us build the next generation of AI",
+      "excerpt": "It sounds a bit like a word game, but that is it in a nutshell.” So what does this have to do with computer vision? Potentially everything. In order for a robot, for instance, to be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/",
+      "originalUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/machine-vision-featured-image.jpg?p=1",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/?amp",
+      "publishedDateTime": "2022-07-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -400,15 +505,15 @@
       "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
       "excerpt": "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces.",
       "sourceUrl": null,
-      "webUrl": "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html",
-      "originalUrl": "https://www.djournal.com/lifestyle/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_6662cdcf-d83d-582a-8aa3-c28fd4804069.html",
+      "webUrl": "https://www.indexjournal.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_64622d7b-7c46-5b73-8b57-a5743e2ef4b6.html",
+      "originalUrl": "https://www.indexjournal.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_64622d7b-7c46-5b73-8b57-a5743e2ef4b6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/8/ed/8edb8772-a1db-57b2-9d35-0eb082f54077/62cd742023586.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/indexjournal.com/content/tncms/assets/v3/editorial/3/2e/32ecda6c-8139-5094-a726-f5d9fff71786/62cd73e49deee.image.jpg?crop=600%2C315%2C0%2C73&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -423,8 +528,8 @@
       "publishedDateTime": "2022-07-12T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Journal",
-        "domain": "djournal.com",
+        "name": "Index-Journal",
+        "domain": "indexjournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1297,115 +1402,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-emotionally-intelligent-education-defining-student-experiences.md",
-      "title": "Emotionally Intelligent Education Defining Student Experiences",
-      "excerpt": "I could feel from their body what they may not be able to put into words and a recognition that it's not the same as ... That mentality says, “if I'm a good object, that means I'm doing good.” It goes back to absorption foreshadows transcendence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bd209a2bd95f3270d547b7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "publishedDateTime": "2022-06-29T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
-      "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
-      "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "publishedDateTime": "2022-06-29T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

@@ -25,71 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Regulations Are Shaping Its Current And Future Use"
-    excerpt: "Consistent research and development have been influenced by worldwide interest and are driving causes in the continued use and advancement of this technology."
-    publishedDateTime: 2022-07-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/how-ai-regulations-are-shaping-its-current-and-future-use/"
+  - title: "Machine learning and marketing analytics"
+    excerpt: "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ..."
+    publishedDateTime: 2022-07-17T10:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial intelligence rules to require human liability"
-    excerpt: "Artificial intelligence systems will have to identify a legal person to be held responsible for any problems under proposals for regulating AI unveiled by the government today. The proposed 'pro innovation' regime will be operated by existing regulators rather than a dedicated central body along the lines of that being created by the EU,"
-    publishedDateTime: 2022-07-18T11:29:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/artificial-intelligence-rules-to-require-human-liability/5113150.article"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/09/surabhi.2020.jpg"
+        width: 350
+        height: 445
+        isCached: true
+  - title: "NFRA to identify risk parameters using data analytics, artificial intelligence for audit review"
+    excerpt: "\"There would be different weightages for different risk parameters and we will be using more technology like data analytics and artificial intelligence in this regard,\" Pandey noted. Besides the ..."
+    publishedDateTime: 2022-07-15T11:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
     type: article
     provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92900692,imgsize-19434,width-1200,height-628,overlay-etcio/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
+    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
+    publishedDateTime: 2022-07-14T19:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 39
     images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/3/2/1/105321_istock1277975917_184490_crop.jpg"
-        width: 1024
-        height: 536
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "UK government throws around some ideas for AI rules"
-    excerpt: "The UK Government has put forward proposals on the future regulation of AI, which would see various regulators apply six ‘principles’ to markets which are implementing such technologies."
-    publishedDateTime: 2022-07-18T11:41:00Z
-    webUrl: "https://telecoms.com/516500/uk-government-throws-around-some-ideas-for-ai-rules/"
+  - title: "Esri Melds GIS with AI, Graph, and Analytics"
+    excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"
+    publishedDateTime: 2022-07-15T18:32:00Z
+    webUrl: "https://www.datanami.com/2022/07/15/esri-melds-gis-with-ai-graph-and-analytics/"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 37
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/06/iStock-1327735623-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Lessons and consequences of the failure to regulate AI for women’s human rights"
-    excerpt: "The current absence of adequate regulation by states to protect human rights from the deployment of AI systems is, in itself, a violation of human rights."
-    publishedDateTime: 2022-07-14T20:00:00Z
-    webUrl: "https://www.openglobalrights.org/lessons-and-consequences-of-failure-to-regulate-ai/"
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "5 Times AI Business Analytics Failed Horribly"
+    excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
+    publishedDateTime: 2022-07-14T15:22:00Z
+    webUrl: "https://techreport.com/news/3478095/5-times-ai-business-analytics-failed-horribly/"
     type: article
     provider:
-      name: openglobalrights
-      domain: openglobalrights.org
-    quality: 33
-    images:
-      - url: "https://www.openglobalrights.org/userfiles/image/Vijeyarasa%20%26%20Villarino_image1_07_14_22.jpg"
-        width: 531
-        height: 360
-        isCached: true
-  - title: "The Role of Artificial Intelligence in Wildlife Conservation: A step for achieving SDGs"
-    excerpt: "The Context Wildlife is becoming extinct at an alarming rate. Traditional wildlife monitoring and management techniques are costly, time-consuming, inefficient, and in need of better alternatives. The cutting-edge technology"
-    publishedDateTime: 2022-07-14T09:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/policyresearcher/the-role-of-artificial-intelligence-in-wildlife-conservation-a-step-for-achieving-sdgs-43767/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 29
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
 
 secured: "pvKLUkVEgaddtwdvTCyX0yCt7dJK5YhENRCrEAHKWzWi/7fbe5uRf+1iTylCZS7txpI9YuQEAHcYZvQWSYL0kJ9mmBxsCNlLf14vQkU5i2+yVl7FHskao2p8+0PwCXJKgpzf91JrtRTATAy34VweVyM5kgQwhJhQ00YATRfGLkotyhae3IKJDhs6EllhYQ8tGf2Rv+G+tziHJNTdhroNaFGhIt5MYwYMswfXwhZdn0tQMmB7d1CURpOw1E3kUqjhuiJL26i129jEgqoX3BIBnBmzHameOdrngoqM0xJQO6cQFrL5pefIjzsYD+8xZwZsMRJoaFXB9pPKmbeY3uo3sX4PqJEfP5Q6tkRbsOUn5w0=;EAnegq3wLMvtAgwvXv70AA=="
 ---

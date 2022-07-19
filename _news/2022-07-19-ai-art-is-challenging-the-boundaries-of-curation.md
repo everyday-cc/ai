@@ -3,10 +3,10 @@ category: news
 title: "AI art is challenging the boundaries of curation"
 excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -38,7 +39,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
         width: 2400
@@ -68,6 +69,6 @@ related:
         height: 724
         isCached: true
 
-secured: "bOoeOXO5a+Pev6VoHkTVO/eSMmHhJ8XGpuFrNE79+irvUCoXv8I9zyxzaQJaV9sA1FippxXTpbp35Z46Ih1jse6t6/hUtSVeS1YQxAAPyGkex+YD6GPcu/OuVjl3hpcYUqlcflNaVxyecKskTS5qljAZFrlo0id8FMfVyMn53lo/OUa+GyNxK7oRdUnhk3aX/IcO66zPdiKi30IJep7XsigOZvG0WSRhbeROm42ZLqxhvA7gaRVFBFozYUoFsfloAiQDcb7g74mPIT5cb6bUcPe6IULW5Ux4zNqTcIlEHsRYnRgeIVJk7kF4yDSUAZ9dZHIthlOq7gv6nStmzuFs3fw2N3GDQCIBRLebNV1oirk=;DPJtDKXW+JkqDMWrCM0bBA=="
+secured: "szIKAd6bKk/H0SBLhPcyBrDHhxoTiEf3ginx4zfqm88eHVISgqy2FH9b0UY8caB3t2BzGh9L2wRp8Fhh23mDg10wTVzi8kcK0VAW4BBLSdhNMroV2ziCJoo3bq4ilu91wzd2X4jmrUCf3G3yRvGend/Ul2QD+EnpC+Fd2y/TbKlKuTv3E9riDZXw8uMN/vBw34pdAlJHVxKHIdYfoduvdFbVMvtKJXV4mxRmesOeh/+rrhClwB3uYAjHELuVLpeAMNFK/AdwUcuzak6NM4uLOztDOsn0kS4d+TKxXoOZjtwKVOdAxvPFQrElspdK3KcsBo8cPz/nCADV3nPmqmrA9sjEy1F+PxRyF12Ul9CIz8M=;gf+khkG5pRPxQuoN15jzFw=="
 ---
 

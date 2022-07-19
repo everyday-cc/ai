@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-a
 webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
-    publishedDateTime: 2022-07-15T08:36:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
+  - title: "Machine learning and marketing analytics"
+    excerpt: "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ..."
+    publishedDateTime: 2022-07-17T10:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 38
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/09/surabhi.2020.jpg"
+        width: 350
+        height: 445
+        isCached: true
+  - title: "NFRA to identify risk parameters using data analytics, artificial intelligence for audit review"
+    excerpt: "\"There would be different weightages for different risk parameters and we will be using more technology like data analytics and artificial intelligence in this regard,\" Pandey noted. Besides the ..."
+    publishedDateTime: 2022-07-15T11:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92900692,imgsize-19434,width-1200,height-628,overlay-etcio/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Esri Melds GIS with AI, Graph, and Analytics"
+    excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"
+    publishedDateTime: 2022-07-15T18:32:00Z
+    webUrl: "https://www.datanami.com/2022/07/15/esri-melds-gis-with-ai-graph-and-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "5 Times AI Business Analytics Failed Horribly"
+    excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
+    publishedDateTime: 2022-07-14T15:22:00Z
+    webUrl: "https://techreport.com/news/3478095/5-times-ai-business-analytics-failed-horribly/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 17
+  - title: "Deep Learning Market Size Analyzed By Business Opportunity, Development, Growth Factors, Applications Analysis And Future Prospects"
+    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2022-07-14T07:16:00Z
+    webUrl: "https://menafn.com/1104528998/Deep-Learning-MarketSize-Analyzed-By-Business-Opportunity-Development-Growth-Factors-Applications-Analysis-And-Future-Prospects"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?63655"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "MvRM0UA2/8UJWpO0kQWJUSFqtnB0jeSUBW/v2zrDhShA1hJGMN4N/ApP/+j8gT0IUepbdbdK6t/081qqfOmZ9ysMh6Wo3jF83Q2eCj6H34NKiFOwo0Zz4r9oAFscZbOYPwHE+kIiC1lykjgJhq+foUOSdaIJiNVBCoo2oy+7+7nNr5IuPi/rzaeYZoSbHHextJ6VpaeeAK98saJQV31Fd7u9T74gPgcUQqrabLUe0WyZrqKB9CX6vbIgV8djyN2hZVzJqvzuCn8mm9ElJTdYe2juO/UpngVatVXAhXwb0fcLVrHFF7bwA1u67SJHV1PaOBAwD8v+txsbfJomNpKh+VxOZylAv71NwUD4ma830gw=;RlRXggg5qwiP/8ys72ejLg=="

@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-amazon-gave-ring-videos-to-police-without-owners-permission.md",
+      "title": "Amazon gave Ring videos to police without owners’ permission",
+      "excerpt": "Amazon handed Ring video doorbell footage to ... after its facial recognition service Rekognition falsely associated 28 members of Congress with criminal mugshots in 2018 and how its Echo Dot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "originalUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.com/dims4/default/b27232b/2147483647/strip/true/crop/6570x4380+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff0%2F16%2F599c9aa445b5a954e0e341e460f5%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1170779505",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "publishedDateTime": "2022-07-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
       "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
       "excerpt": "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
@@ -1388,49 +1431,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-three-insights-you-might-have-missed-from-snowflake-summit-2022.md",
-      "title": "Three insights you might have missed from Snowflake Summit 2022",
-      "excerpt": "Cloud data warehouse disruptor Snowflake Inc. is the rockstar of the data management scene. So, it is appropriate that the energy at Snowflake Summit 2022 was akin to the buzz at a live concert ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/24/3-insights-might-missed-snowflake-summit-snowflakesummit/",
-      "originalUrl": "https://siliconangle.com/2022/06/24/3-insights-might-missed-snowflake-summit-snowflakesummit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Frank-Slootman-Snowflake-Summit-2022.jpg",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

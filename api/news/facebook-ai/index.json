@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-19-signal-ai-opens-external-intelligence-graph-for-enterprise-use.md",
+      "title": "Signal AI opens External Intelligence Graph for enterprise use",
+      "excerpt": "Signal AI unveiled its new tool, a data structure that constantly tracks the major and minor events for companies that course through the news sphere each day.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Signal-A.I.-Grows-Global-Footprint-with-Strategic-North-American-and-Asia-Pacific-Expansion-e1571678390601.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/",
+      "publishedDateTime": "2022-07-18T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-open-source-isnt-working-for-ai.md",
       "title": "Open source isn’t working for AI",
       "excerpt": "What’s the point of open sourcing code that runs at a scale no one can replicate? AI needs collaboration, but let’s think about it differently.",
@@ -1358,40 +1410,6 @@
       "provider": {
         "name": "Washington Post",
         "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-ftc-recommends-congress-use-great-caution-in-promoting-ai-to-address-online-harm.md",
-      "title": "FTC recommends Congress use ‘great caution’ in promoting AI to address online harm",
-      "excerpt": "The Federal Trade Commission (FTC) recommended Congress proceed with caution in promoting artificial intelligence (AI ... innovation in this area and research is important, Congress should ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3526738-ftc-recommends-congress-use-great-caution-in-promoting-ai-to-address-online-harm/",
-      "originalUrl": "https://thehill.com/policy/technology/3526738-ftc-recommends-congress-use-great-caution-in-promoting-ai-to-address-online-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

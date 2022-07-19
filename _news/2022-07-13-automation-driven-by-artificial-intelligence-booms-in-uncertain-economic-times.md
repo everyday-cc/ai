@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Zy0tzN4pNtN6wktQhaBDUqGc13ypcFfceHDRFB+1f2wTqpOADMtQg9uDn8f/7J31Eaa0rOWsExr1LKVhH1w82DSP9+OoZ9yiMUOdL0WaSQ2nbg+rKr9q9XeJ2EJaFwxDaf1vHwT237MXWs5WuYZTC6UpGh7DCJJmhRZU/xPxETcg2jN4SLza0AAPANUoBfgy+W6hioW+sEy0rdeLDjIvPSFEDraKmZx8CXD9yX30vbRpbir+4spTdZSrxvxOtSCCALr9XAkKBraMpoDSuNsik6QoyCzQeRyZIXZZkd6HilkdIFwt6TF2YOIk5ptangB09kfX9RU/X20Eoj/Lfwn1p4n9kA58n1rGx+xYgJQciP0=;vCAeeh/70hF5FaQDrMh8Pw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "g/ptrLYOPMmqTP413I27Zxw4RunEQZ+oy+8YHmFvq45dklQsR7I+oZchOT//2wQSWl+KaGT0XNx2nGoxs1ma2kNyzVj8S8Ol76bV8v5mB1qeqsm056mgV6gsouauJ86/4sgtFfY15/oXRDDjL8fq+Uos3WsuaI0YMMeQeqaPEC60CJQtQYQ8t3mqpyHsmGm2rk2AV7AYDUFOfGbvcUM4pNr2gOzr1PN+IVudGKupk8oMh+oSQl4v2dT6kacnsq8de0nMa0OIHGtYYd4+npb1kzKBtvCpePNNaAdVFmyKCAC3QUOzJYZZoQuvlzW/G+qe+8FirQlz3YqHB/Vz7QGIYIQXVfhmxBhT6ojIGcknl6k=;EnzgIyDXPSwq2CflVzpwEA=="
 ---
 

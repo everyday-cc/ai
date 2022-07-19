@@ -78,20 +78,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep Learning Market Size Analyzed By Business Opportunity, Development, Growth Factors, Applications Analysis And Future Prospects"
-    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
-    publishedDateTime: 2022-07-14T07:16:00Z
-    webUrl: "https://menafn.com/1104528998/Deep-Learning-MarketSize-Analyzed-By-Business-Opportunity-Development-Growth-Factors-Applications-Analysis-And-Future-Prospects"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?63655"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "QlO1P5mlgmqhNwbB+dxKvtYtvz/lvPh4v3r+PzaxJvXJpwgeSbtXPsCyhiY6Q5j1eeaKiwpaPYYkJaDEvMQkReWi1LXJNtqVWbQb/M+aP3e7i3YuqX+H8ZZNVu6tkDSAQJtdIK1k6d3XQKAhPZAfDFUMYSOO2tzFoJ4PljYLX8jg2fBepKmaljhRsJBcpXpIp3bmbN/E3nWXGyABMobwyEIsaGbe6c7scbo5c9GZmQE5GRuG5wx2T3y8vber1FMJ1OCk1lwjYQO2VJJOKs5W7/HUUejEpwjnlzmu+iH7Trpf3ee4wryOuLs4zKi/1Ntqu+mPa3ShijH1IaOksipzwqPpn7t4omYoNpmIfBDfKF7qprN28rAeHSO2gYA+8PAgCvEcs88tP8ylkzTx7OCpqdgN77LkQXABnMJKMA9rz1oXg8z/oDypzxLf+UI9rRk/x09uWtVtx1RnkGXDQB+mnlRv9YVm2phHIH03ayPaaht/z6uXPpHwUwPQTAydqdwJQaH3kOrfdgo7dyoSVFhOuA==;tUKIG8kH7sV7nk0JbY6FBg=="
 ---

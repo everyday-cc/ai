@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-19-teaching-home-robots-to-learn-by-watching-people.md",
+      "title": "Teaching home robots to learn by watching people",
+      "excerpt": "A team at Carnegie Mellon University is demonstrating the Wild Human Imitating Robot Learning, or WHIRL, an algorithm that can train a system by watching a video.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pIbHOuvuCl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/amp/",
+      "publishedDateTime": "2022-07-18T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
       "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
       "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
@@ -139,6 +191,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-these-robots-were-trained-on-ai-they-became-racist-and-sexist.md",
+      "title": "These robots were trained on AI. They became racist and sexist.",
+      "excerpt": "Researchers trained robots on artificial intelligence exhibited racist and sexist behavior, bringing concerns for the future of automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POCA72AEUEI63C7LFNHEQGYVAA.jpg&w=1440",
+          "width": 1440,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-16T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1305,93 +1401,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
-      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
-      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
-      "publishedDateTime": "2022-07-06T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
-      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
-      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
-      "sourceUrl": null,
-      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
-          "width": 749,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fredericksburg.com",
-        "domain": "fredericksburg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

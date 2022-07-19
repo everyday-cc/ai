@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
-excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
-publishedDateTime: 2022-07-14T16:05:00Z
-originalUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
-webUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
+excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+publishedDateTime: 2022-07-14T15:24:00Z
+originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
-quality: 61
-heat: -1
-published: false
+quality: 111
+heat: 191
+published: true
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg"
-    width: 860
-    height: 484
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -40,6 +46,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving"
+    excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+    publishedDateTime: 2022-07-14T15:55:00Z
+    webUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/"
+    ampWebUrl: "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/03/TechWire_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Head of Tesla's Self-Driving Abruptly Leaves Company as Efforts Sputter"
     excerpt: "Andrej Karpathy, the head of Tesla's AI department, has left the company, in a high profile departure from a department that oversees the company's controversial Autopilot driving assistance feature."
@@ -73,6 +95,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Musk said not one self-driving Tesla had ever crashed. By then, regulators already knew of 8"
+    excerpt: "Tesla's CEO has claimed a perfect record for the safety of his company's robot-driving system. A public crash-reporting database contradicts him."
+    publishedDateTime: 2022-07-14T12:00:00Z
+    webUrl: "https://www.aol.com/news/musk-backed-boast-zero-self-120013162.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 43
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/m_J3DNPnGkGL_kmvnvLXfQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/9a3d858b8cb5261378a7626a0e62da3a"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
     excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-07-18T18:17:00Z
@@ -91,15 +127,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
-  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes. Data show otherwise"
-    excerpt: "Dozens of drivers have filed safety complaints with NHTSA over incidents involving Full Self-Driving — and at least eight of them involved crashes."
-    publishedDateTime: 2022-07-14T14:39:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/07/14/tesla-backer-claimed-zero-self-driving-crashes-data-disprove/10057741002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 16
   - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
     excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
     publishedDateTime: 2022-07-17T12:00:00Z
@@ -109,16 +136,7 @@ related:
       name: Billings Gazette
       domain: billingsgazette.com
     quality: 14
-  - title: "Self-Driving Cars Could Soon See Much Better"
-    excerpt: "Self-driving vehicles, including the ones that the U.S. military is experimenting with, are still pretty bad at picking out small details as they move through the world, a limitation of the Light Detection and Ranging,"
-    publishedDateTime: 2022-07-14T17:32:00Z
-    webUrl: "https://www.defenseone.com/technology/2022/07/self-driving-cars-could-soon-see-much-better/374463/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 4
 
-secured: "ZxqQ3LyAGQD23CzstKXddzsWkzkVpNKWJFMjLo2s5Tx0E/sMRo16vyvoxGCYn6M6c/9m/2hwUKD6eNKAJHKcc4Eu6sfeXFmnNrbqrZr1xoAvnmj3z8fKgzJS6+DDxalXUFkDB6njBx8yQz2iaNnOzDJFUC4P16w1Bjiq9qFL+8yWCcB7tdG+0DAga1tB+IqJ5KaP9jma9+4u+QIbpPK+JBA5ui6fedlIO5PP4DnfQsvphOA9S2joroq11xO5JY8WSEPUzRUS34QmV8UBkSn82YUcrpzy84rI1OrPR0LHhWDcH28f3PZXv3yYypvdrJGa+MHfwBfZgMUbn515evalKs20Zy9v5/6HC+02T3uhuHo=;Ki3S7PsoZGFkZYrkq2U1ZQ=="
+secured: "SkLtAG15yV0E4RuxEwRYipqBWnLdND8r7g6eU7opwUA2rRZ7d9IVusMyHrTN+U/SDrZnpdUjSOsG+qYDuxa42R4mETnJzsmYsZi58bql66O+GvPDUruG58KX9J5XrafwGItMLF9DxMIzzeFlNgeEndl9pHyR9rvUQ2yiw7nXgzDPsdg95mhepTRdmhxCOA/WLy3QyvjLN+Gyli91OD+pc0FzSwxpx0ne2s8Fm1pAv7PZkgHuRDf5Nc2tgPU3ijqlZeJPFpIaobTAYHmvDZMyzl1M7gJcTerspnxyZ6KeYcAC5udEW9NzlB/LLIhSPre6fuYwlhghdo3O9c2/x8ulm3p0Sve3F+ONz/0BPxLD5MM=;k0T14hQXLkSVZKc6huS1pQ=="
 ---
 

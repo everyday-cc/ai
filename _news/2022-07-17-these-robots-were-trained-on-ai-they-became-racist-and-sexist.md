@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots
 webUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Washington Post
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots became racist after AI training, always chose Black faces as ‘criminals’"
+    excerpt: "Scientists have confirmed that robots trained with artificial intelligence software perpetuates harmful racist stereotypes."
+    publishedDateTime: 2022-07-18T22:29:00Z
+    webUrl: "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/"
+    ampWebUrl: "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 53
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg"
+        width: 1280
+        height: 575
+        isCached: true
   - title: "These robots were trained on AI - They became racist and sexist"
     excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
     publishedDateTime: 2022-07-18T17:00:00Z

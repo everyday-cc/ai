@@ -46,21 +46,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-14-setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving.md",
-      "title": "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving",
+      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
+      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
       "excerpt": "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people.",
       "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/",
-      "originalUrl": "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/",
+      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/03/TechWire_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,59 +68,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/07/14/setback-for-autonomous-vehicles-teslas-top-artificial-intelligence-exec-is-leaving/?amp=1",
-      "publishedDateTime": "2022-07-14T08:55:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "publishedDateTime": "2022-07-14T08:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-elon-musk-does-the-impossible-and-manages-expectations-on-teslas-next-full-self-driving-update.md",
-      "title": "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update",
-      "excerpt": "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/",
-      "originalUrl": "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/",
-      "publishedDateTime": "2022-07-14T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -204,7 +161,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1351,6 +1317,41 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-arable-matters-is-the-agbot-robot-tractor-a-game-changer.md",
+      "title": "Arable Matters: Is the AgBot robot tractor a game changer?",
+      "excerpt": "I guess like most visitors to the Highland last week one of the 'must see' items was the driverless robot tractor – the ... probably be their new sprayer technology – which uses artificial intelligence (you’re probably best not to go with the term ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "originalUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scottish Farmer",
+        "domain": "thescottishfarmer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],
