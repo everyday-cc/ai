@@ -25,6 +25,22 @@ images:
     height: 800
     isCached: true
 
-secured: "Wp1Nh7asHCdyFNDbizPEgex0N2fFd2qTUlZg2C28GhDI+TmcAtMCg1MVS2SlVBcn2tCD3wCl+1hXU8xx3/TlGSRCUAgDoV1SV25LuO9zr/W8kXfhlft6B3xmxCZRA5QwPNI+qhwb3g+yPl0Mlf9cqLCE+Xv2ZF3sC2aST5ctd3ZGeC5LJdKlls51Zmk+g5G5OC911JDKn7juKBz5X8x6+YLDDngKNoFB39kCiIj4WPAkDMdo2YMtJqCewKE68lwYwnqecfWFOw7LhnkowlWt6nZ9UURplHDA1+JJkMl5/ppUAeY0tX7vtYwzcK2iGnYKJwsusA11OOxMFYDwFV7u5o1oj5USuqT0x4UBkwZJ4OI=;LwKdGxAXzS0QkuNAimZNLg=="
+related:
+  - title: "AI may help diagnose cystic hygroma in fetal ultrasound images, finds study"
+    excerpt: "The birth defect can typically be easily diagnosed prenatally during an ultrasound appointment, but Dr. Walker-co-founder of the OMNI Research Group (Obstetrics, Maternal and Newb"
+    publishedDateTime: 2022-07-19T15:16:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/ai-may-help-diagnose-cystic-hygroma-in-fetal-ultrasound-images-finds-study-96240"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 35
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2022/07/19/181243-ultrasound.jpg"
+        width: 1500
+        height: 960
+        isCached: true
+
+secured: "VCxn0rjQln6Gt00jVwqftTHzOmip7lATFPMXPYf9Wz+/X+3Xdfm90Kp4RQZv9e7GHoLnuQEpjICjXZMJA7bC0iCRZ1t9slT6Y/Jcx+ffOp43dDwIrkHXD/ic7TvjotvGzaHXig4sKa+38Rd2kQIXOLaCvzoeahYr6uyK4DpBirFTr+Xov2aJJHVJBVhf+FvgGaVYo7473ZxvGVLgoP9B/V9Wo0RCf0vvBUnwwshqjlOkWXSuwoeS827XSMvpXJK/XDk89LqJo0wOh5uIIgc+CmG7l5urDOEGc0yQ/Si5OtlgZL49vb2Vsqqqrk0cbLvMnv+kbt9Voxe0UpCb2iVdWdrOK2wVTW/fkYRq2d6XHS7ItKDpzKYrbmkkCRssnnLKyyE1bQcfa/VKnDpqUkx7pT/XRTTBiCUAKJ8zymwx+WA8goKgk/uvVUjKg9XCejvRNoikpXzPLmzV+SsCWTlsn2OAMOWtFofrByLkmM2/1jK/eegQwBbM6nuMGRcAgrk5176YbRVFl9B7Bj07rfaavw==;PYrACa5JaRUzVQOClC9pjg=="
 ---
 

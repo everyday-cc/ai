@@ -35,6 +35,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Emerging AI And Machine Learning Tool Vendors To Know In 2022"
+    excerpt: "The CRN Emerging Vendors 2022 list includes startups developing next-generation AI and machine learning technologies."
+    publishedDateTime: 2022-07-19T15:56:00Z
+    webUrl: "https://www.crn.com/news/applications-os/emerging-ai-and-machine-learning-tool-vendors-to-know-in-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0277-15a7a2cefcc2-490af3510757-1000/2022-crn-emerging-vendors.jpg"
+        width: 610
+        height: 343
+        isCached: true
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
     publishedDateTime: 2022-07-15T10:39:00Z

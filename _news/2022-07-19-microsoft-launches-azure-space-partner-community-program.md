@@ -75,6 +75,17 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 60
+  - title: "Microsoft launches project AirSim to help train drone AI systems"
+    excerpt: "Microsoft has unveiled AirSim, a flight simulator that companies can use to train and control drones. The simulator allows developers to imagine “what-if” scenarios that would be unsafe to test in real life – such as what happens when a drone’s view is obscured."
+    publishedDateTime: 2022-07-19T12:46:00Z
+    webUrl: "https://www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems"
+    ampWebUrl: "https://www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 54
   - title: "Microsoft reveals Azure Space Partner Community"
     excerpt: "Microsoft is expanding its relationships with space companies through the Azure Space Partner Community, an initiative unveiled July 19 at the Microsoft Inspire 2022 conference."
     publishedDateTime: 2022-07-19T15:00:00Z
@@ -132,6 +143,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Kfd5p38vcBPLICS9iPBtOi3ijymxH4aKmCty1EqZFwtusOdjDb0a00UCn8f+0GBJrC7WwQ+oC4prZOPpianbJDw1zSFPZXpF4s9tgSSuwKLrCX5MD8EkeuY7JfmxZCdqgh6GRGtxnLH+z3b09d3MrLA5AtqrwBMZ0qh7P7IJhyKZiTqJWjJ74H4rWC99wfUDP9uTklkq8R61VY/Dd/oH16KLQKN+Of+IRjZlQwiJd++fRrEldnQIsvggPrm5yHE6YnvqTR+eSlxqsvAF2bJgeKG6reGgiLASJ2scsM2IauzDHRwZZgSmP3JZOSRNmsDnmgmM+tWXgQFiWdAGrSU28Ogy9AeO6ETxu/UMY3tJm/M=;q3rNzeZeyC2Sr4G+FKtcaA=="
+secured: "3IsclszLAJqfbWppQecVPvGGTDb9k/f/kuufu3W97XT+hUVwiyUwhFWnm6SWWNbqCaPaJlKUqxTP5lgasTP83Z2Q0htt22h5Rsc4c/96cGb5+8Z50Ans0YgJuAysG3xzF0aK57s4pIk0uMstu8DTLftnSo6pcZsPQ6KCAx92Yx61xRtJT7APuagyBMXg/YfLHH5QG3Ub3OZeaSELs1Jfw0oXngAZnaCxd8BEeIQH2ms+gFXA29YIvKrg3NHC/WTk51Ai4+oF0XiCWaIYl5p+SYMGpOSRQE86ycycQwN6A7rSHD3i7MyMDLkgjjY84crDTLX/3t6pZrJztICQ6Pago4/u1sA+tz70ns+TdB4OtofOAue0Vqi0nfNimnMtvM2ayE+abzjJj3o/Y982+D7kqB4ifkIyQ4ZYoZNw7nzZltILAScX1IJSuE+EpTJZTK81U5qaGmj1LcHMzlow2SvI/KsCt4c3AYpUMG4w7i+/JlCpaqI33M1n6mXDFlWmFXjkhu2doxuf8fJr906XsJC9aw==;ERI0r/uzqHNMEe3KC5CMNw=="
 ---
 

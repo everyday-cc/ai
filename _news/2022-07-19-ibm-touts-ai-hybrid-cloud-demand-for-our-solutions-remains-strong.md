@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-19T15:44:00Z
 originalUrl: "https://www.crn.com/news/cloud/ibm-touts-ai-hybrid-cloud-demand-for-our-solutions-remains-strong-"
 webUrl: "https://www.crn.com/news/cloud/ibm-touts-ai-hybrid-cloud-demand-for-our-solutions-remains-strong-"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.crn.com/resources/0277-15a9720a5b3e-925bfa27c054-1000/arvind6.jpg"
@@ -23,6 +24,6 @@ images:
     height: 458
     isCached: true
 
-secured: "/T/S5g8HfIM7pd2iJlWapKqEcdSmxrRdDyitwa8Jb59cUuy1gWOvJhJrsgLuUazT+SA9p92ZtfZcKpDfgHelQnZ9MbDVdJjzyAWU/OF5aeoxHl++SNnX3aLzOnMCX/4V2YSQMTPctAsyFdV0X8Btf0k1o7yT+VFrG5imIBvLTUU7maYLl54itsMO4Diye1oKNOR6w3vrTFB/liA3ABrPMOBK5qOrYEUkrPUOz7x+KStqyB6ja0+2xNh4L2czMmS0PdksSRTsASsSdhodjqaXikEBB9qe3HZN0jA74aPeX+CJD8kst3nxSJuEHHD9nw44+o1GAPoEM6vQeCkUI+uxsPVDs9FnD8ot/DqdUlGqnT8=;RrhL/8+f0y/jvT9OownOzg=="
+secured: "AxmajN+uyZMogOIdwianVTj7sWWnNcY9RDtu0sgLE9HMztYR72FQPDKvGxQHZgfxYiIRW2gE1XGctlJfiwvv0t8eXHSSfoviKGtTVasKSWxEVZVnvNuvuX3BRu70TH+wS/7M/pQsZo9SqvzuhNX/Mpn6sD/tKMil+hs9a7nOfN1++bNoL5tf/9zW8kAGqrbHz+ZFtXAlK7cpVBtmGLY3PZAMMMeOqKDI0Amc33VdJJDoTZH5VhSKmlLDKYGeN4DZbsdsLB+vsd2B2WTQDXRFfbo84lqIn6XeBvj7UnAMCS9rPYLf6zwLDvKEPbH4MRJdLUDOyEKTuPBHt9QQW18EMjLKTxqlR3M93Whn//KgNcBm8xnevbfYH0EKk+ojWnsmRaCPGr7UMXWxPf9IpNJY7//zlQ5oEN7OuOpHu1VWNGbf4cc69MjsAqLCDjS5cZ4CPhTxRxdQjkeDtZyBa8c8y0n71qDRN7MlT158+JO8nRe0sWQncWjV1G30eETbvBrwV4/71kmk/wkWpuyroNIPHA==;h2pOFaebQS3/kerXZmMp+w=="
 ---
 

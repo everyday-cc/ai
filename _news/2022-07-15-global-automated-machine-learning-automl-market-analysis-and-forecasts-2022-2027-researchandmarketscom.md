@@ -48,7 +48,7 @@ related:
     provider:
       name: Bio IT World
       domain: bio-itworld.com
-    quality: 25
+    quality: 27
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
     publishedDateTime: 2022-07-15T13:52:00Z

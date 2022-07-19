@@ -60,7 +60,7 @@ related:
     provider:
       name: Bio IT World
       domain: bio-itworld.com
-    quality: 25
+    quality: 27
   - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
     excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
     publishedDateTime: 2022-07-18T00:35:00Z

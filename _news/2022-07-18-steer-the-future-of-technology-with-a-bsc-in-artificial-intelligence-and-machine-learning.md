@@ -68,6 +68,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Deciphering The Future Of Robotics And Automation"
+    excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
+    publishedDateTime: 2022-07-19T14:25:00Z
+    webUrl: "https://www.canyon-news.com/deciphering-the-future-of-robotics-and-automation/160193"
+    type: article
+    provider:
+      name: Canyon News
+      domain: canyon-news.com
+    quality: 56
+    images:
+      - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
+        width: 1773
+        height: 1182
+        isCached: true
   - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
     excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
     publishedDateTime: 2022-07-18T20:56:00Z

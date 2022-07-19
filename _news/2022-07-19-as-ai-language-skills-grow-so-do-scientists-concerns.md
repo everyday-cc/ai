@@ -2,22 +2,29 @@
 category: news
 title: "As AI language skills grow, so do scientists’ concerns"
 excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-publishedDateTime: 2022-07-18T22:55:00Z
-originalUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
-webUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
-ampWebUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+publishedDateTime: 2022-07-18T18:06:00Z
+originalUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
+cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Philadelphia Inquirer
+  domain: inquirer.com
 
 topics:
+  - Facebook AI
   - AI
+
+images:
+  - url: "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg"
+    width: 760
+    height: 507
+    isCached: true
 
 related:
   - title: "As AI language skills grow, so do scientists’ concerns"
@@ -97,6 +104,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ujtBdzaHo7yh175FBlxR+rRIap3bp0YKxJ9gKfUmk+kRYGYrdk1R7MlQXZVFgHMJEgE/6aPIiDdQPzKULDh28wQA+mHFhzyPMZrSP+N3zrfQIeUiGeF5SnFG2YpZXv9gLg6PR6siUNhb4+ntGjPa2rtbXaDd2ABHkjobNYL5mnhdr214vxJeARbpqo4lOsjyRd5LJ/8rWgO3jsDVf06H+AT5RSfraKOpxUu8lShp34xysL90yU8YDUFgg56b3j2ayjVRU5d6xrnQn7/wgC1BDn9lJgy9kd8pPKu/XFo1Dvg97ARO5nlH/UyAto2CEqBMmClprX/vA0lu9u6lrr6WV0OWGju3feQ5Wf+pnM0DuwK6fZiT/DLeLyxe/rGAjS6rQTmkHtjQfiyumJk/qJSAuejHtzIgwyp8kYHraUFAK7j8LUmEa/tJhGrnmH5JqvfbCrlAQX5RjXiG5u35IfbZSW4GMuz1xylxxObsXqcWPqdaCHW3ZdwFlKJ9EcjCFNBmS9JfqzjX/OBIX/pqfJ16bA==;HOptiL/nesFHOjQuvbCsBQ=="
+secured: "vRkT2Mda1oRI0x5I4NHu1QpV2AUztST4YYGvNs4G/nU9ojEQfDiQwbxq4NtYmNtAIKz8WqsM+aHKhZdhw/2tKtj5XGe/ZQIKQzIswgljcZEkPoeL59T1UK/GH3jg6RyubmB0IaZGFVvPK+fQwHqBuH8facn3gyvuFbjSWe/qNJWPnyOj1XrnhUAq2pdvMGpcbY4gSmHmAaXEfEqNARSvY5vliwsIXaE867iWn0ILxZIzspmavJ/2c2iNj7cu0Fjf43pk2JQt4EccBkGVUInAD4vA2TnkWsXH4e5kzBgpTRpKKa2aZI5MijYb6798kTUDz7d95YK4k6VT5ov0PLDDGB2MG6BSbLyzXw2qybB+26o=;M0HrPx6w04bqx/yAvOpwAw=="
 ---
 

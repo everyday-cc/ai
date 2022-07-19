@@ -76,6 +76,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Deciphering The Future Of Robotics And Automation"
+    excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
+    publishedDateTime: 2022-07-19T14:25:00Z
+    webUrl: "https://www.canyon-news.com/deciphering-the-future-of-robotics-and-automation/160193"
+    type: article
+    provider:
+      name: Canyon News
+      domain: canyon-news.com
+    quality: 56
+    images:
+      - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
+        width: 1773
+        height: 1182
+        isCached: true
 
 secured: "7OEVecGWnNTvfpi/pUErHq0QvdmDaSyDYU3PeXIIDeuO9u3R9WO0L152m80pVy4LcsUDj1RtZAtPw6ftiOJUfQwb6ewLv4938q3/WAVN5dxO4syVQioDlVDAjtprbcWV4BK5OxCM6q4JAh5wXeIVq3xAEx5J9XtYYtnFR5NH3jyeU3BPY2cz6cDMtpEDQIKQHgVjaiohDSQIPeCFxTUK/FXXR7+tKYGsPAXPDJtO9Zmfv0zJcwmg71oChCUT26ThIbb5DBxcCzH2JyCyimozqySw5p9N1WhR1gxISG4D+npqoOXa/Oy7cgCpAVLRLyrdTLCsBItElMmhsXxN803dBuGhJxC7xwRrYX0KREU4vgE=;8ZOLJk5JiptQeModbwzIkg=="
 ---

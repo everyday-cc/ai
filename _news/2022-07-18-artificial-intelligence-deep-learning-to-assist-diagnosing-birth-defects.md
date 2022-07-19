@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Emerging AI And Machine Learning Tool Vendors To Know In 2022"
+    excerpt: "The CRN Emerging Vendors 2022 list includes startups developing next-generation AI and machine learning technologies."
+    publishedDateTime: 2022-07-19T15:56:00Z
+    webUrl: "https://www.crn.com/news/applications-os/emerging-ai-and-machine-learning-tool-vendors-to-know-in-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0277-15a7a2cefcc2-490af3510757-1000/2022-crn-emerging-vendors.jpg"
+        width: 610
+        height: 343
+        isCached: true
   - title: "AI, deep learning to now assist in diagnosing birth defects"
     excerpt: "The goal of the study, published in the scientific journal Plos One, was to demonstrate the potential for deep-learning architecture to support early .."
     publishedDateTime: 2022-07-18T12:00:00Z
