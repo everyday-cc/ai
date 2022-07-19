@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-19T15:39:00Z
 originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/19/9641333.htm"
 webUrl: "https://www.mobilitytechzone.com/lte/news/2022/07/19/9641333.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Mobility Techzone
@@ -17,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "g7PNd3KaSK9epgOX1dLQIZGsic1yI9pW9uZJUPr5AGxFkF5NSD6+TMGO5EXlfP0NDVlea6qnA6qlEmMdDyKM6vVWI9lcM+NsctkZsOEykVaH5Wu+i/0GmCRYNfUsshh/jI7X2vOu510yWZv+VsNUwBUMAKIfyB/dXiKIkHP8P0mBsAZPEyIxWZEAxkM64GSPDKKb3JN3g6yZSs77i8Tt5uau3FLxLh0amgxudLVd7miwGlkPHpBdeXJGpEjf1R5cEw6GJsRMnyostvi6jt//Zah35hJ9aNjjaOblxs8qzCEWYxED75R6B6LgjJ/Wh78+9khiWtbTRrii542nUhtM8XgW4d4sNNzRTJS8rRHXO84=;y18aKNXFatNY1TGkUz44kA=="
+secured: "Jbo2D7woGm4ymFB2WbgJrYo2VpRJS+84QzQSt6J835GkD3grLGQdvmSdNuAsi2NjBRoZ8A2/O2lf/HUk01h9NbQmYViMCxzH19rdzd1ZNqRQyI3Ge9u3k7Z1OajUCcsEs2gfi79ZEXtD2f16z6ZoLCa9djSFf+y0eznIxB1SWCuy2IlvhVPjs8YGR5f3sWQ0lNEmpMfLHFBL6VRMqU9s036Bb/QKL1dn7f2YU6kKb+sNUhnUQhF1mCCS6vYIG6nl/zzTQSqsxofTDPJwnmvpYXdbyH7MHhvt0CTJylrspw324BIz4Ssw+xjyroEevONhPZ1YERkSPfQA3LkfMiXx3ENvGjhCVCQKpWlgpFECoTo=;yyGhE/fYT8C6RtaUDbG71g=="
 ---
 
