@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "FPL Technologies Becomes India’s 4th Fintech Unicorn This Year, Raises $100 Mn From Temasek"
-    excerpt: "The other three fintech players who joined the unicorn club this year include Open, Oxyzo, and Yubi Pune-based FPL Technologies has raised about $100 million in a new funding round led by Temasek. The Singaporean sovereign fund invested $46."
-    publishedDateTime: 2022-07-14T14:34:00Z
-    webUrl: "https://www.outlookindia.com/business/startup-unicorns-in-india-fpl-technologies-becomes-india-s-4th-fintech-unicorn-this-year-raises-100-mn-from-temasek-startup-funding-news-209255"
-    ampWebUrl: "https://www.outlookindia.com/business/startup-unicorns-in-india-fpl-technologies-becomes-india-s-4th-fintech-unicorn-this-year-raises-100-mn-from-temasek-startup-funding-news-209255/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/startup-unicorns-in-india-fpl-technologies-becomes-india-s-4th-fintech-unicorn-this-year-raises-100-mn-from-temasek-startup-funding-news-209255/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 49
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1654594158.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Industrial AI Startup Detect Technologies Bags $28 Mn Series B Funding To Strengthen Global Footprint"
     excerpt: "Detect Technologies has raised $28 Mn in Series B funding round led by Prosus Ventures, with participation from Accel and Elevation Capital."
     publishedDateTime: 2022-07-15T09:48:00Z
@@ -58,6 +42,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Seattle AI startup Phaidra raises $25M Series A"
+    excerpt: "\"We are delighted to support Phaidra as they transform the industrial sector.\" Other investors included Helena, Ahren Innovation Capital, and existing investors Flying Fish, Section 32, and Character."
+    publishedDateTime: 2022-07-19T04:47:00Z
+    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/07/19/industrial-ai-startup-phaidra-funding-round.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Chennai- based AI startup Detect Technologies raises USD 28 Mn"
     excerpt: "Chennai- based startup will utilise the fresh capital to further expand and strengthen its sales and operations across international markets"
     publishedDateTime: 2022-07-15T10:26:00Z

@@ -39,15 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
-    excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
-    publishedDateTime: 2022-07-15T04:43:00Z
-    webUrl: "https://www.scmp.com/country-reports/country-reports/topics/country-business-reports-company-features/article/3185016"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 49
   - title: "Fintech TIFIN Acquires SharingAlpha"
     excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
     publishedDateTime: 2022-07-15T14:04:00Z

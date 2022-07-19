@@ -7,7 +7,7 @@ originalUrl: "https://africabusinesscommunities.com/tech/tech-news/robots-take-u
 webUrl: "https://africabusinesscommunities.com/tech/tech-news/robots-take-up-the-cybersecurity-fight-slva-cybersecurity/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What To Look For In Machine Learning For Cybersecurity Solutions"
-    excerpt: "In the cyberworld, the “game” pits your computing environment—protected by your skilled but overworked security team—against a range of miscreants and nation-state-sponsored actors seeking illicit access to your crown jewels."
-    publishedDateTime: 2022-07-14T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f1b24deb13c5b56bae01eff/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Robots Can Take Up the Cybersecurity Fight"
     excerpt: "“More importantly, as the latest developments in AI now start to reliably deploy systems that can start up and fully learn its environment in the way a skilled and experienced human does, AI can now deliver reliable and repeatable analytics with ..."
     publishedDateTime: 2022-07-16T12:07:00Z

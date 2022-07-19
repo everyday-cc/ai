@@ -77,15 +77,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "Bot Services Market Worth $6.7 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Bot Services Market by Service Type (Platform & Framework), Mode of Channel (Social Media, Website), Interaction Type, Business Function"
-    publishedDateTime: 2022-07-14T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28067556/bot-services-market-worth-6-7-billion-by-2027-exclusive-report-by-marketsandmarkets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "b3aT3/giNnjnsEFdUrz8RRYFSfMZEjNJBY2rjomLlHYjRjpLfiOHP+Ycgrazhvidab/TOhLUuLwpMguZHNEeR8Zno/QrKiuJj+czJsARHB0W9SmqaIo4m+ceg3uYJ4zsqoI9OvOPv6s7M3UlfAofAMve8PH3fK0VinAIk8Lq06WX9FNqLVk8JQZCzmggcQgcvmSaP9jJCPGrwwxbtF7I8dgo7Gv82XevAxTgvGzkplJ4N9rlWZvPWjB5NkHaGAPuZyWypgnOzKxD+Nj2DLRAHz4mB6MIjy0BL07fNHsTtinm96jinFboLOkqYUnsh8OONymsPy7QeUCRBOcC/5IsHjyVu66/eXepgxGzlBvLTHI=;3j8q9vHIp07QbmTmnXZTiA=="
 ---

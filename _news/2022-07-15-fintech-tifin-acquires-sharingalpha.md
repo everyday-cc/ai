@@ -39,15 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
-    excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
-    publishedDateTime: 2022-07-15T04:43:00Z
-    webUrl: "https://www.scmp.com/country-reports/country-reports/topics/country-business-reports-company-features/article/3185016"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 49
   - title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
     excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
     publishedDateTime: 2022-07-18T19:22:00Z

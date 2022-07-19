@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligen
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Artificial Intelligence is the New Basis of Civilization"
+    excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."
+    publishedDateTime: 2022-07-19T06:45:00Z
+    webUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "An experimental horror ARG is testing the boundaries of AI art"
     excerpt: "This was the beginning of Sheridan’s own ARG experiment using AI art to flesh out a mix of cosmic horror and alt-history science fiction. VIIR invites “players” to examine documents taken from the fictional institute, founded in 1958 by a physicist ..."

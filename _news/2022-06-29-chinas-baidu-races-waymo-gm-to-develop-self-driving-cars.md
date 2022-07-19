@@ -1,24 +1,26 @@
 ---
 category: news
-title: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars"
-excerpt: "China's Baidu Races Waymo, GM to Develop Self-Driving Cars By JOE McDONALD, AP Business Writer BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is ..."
-publishedDateTime: 2022-06-29T02:06:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-28/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ..."
+publishedDateTime: 2022-06-29T14:46:00Z
+originalUrl: "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+webUrl: "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Courthouse News Service
+  domain: courthousenews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "1yvKruks8XX7m+kuYOk/L5l0c9dlwzYldVeraPFGaSTRABz02FJGnjzUduBmRY/Yt0wrwnYTvkY+B6+fXgv56DvU/ttk1YecBpjoK4mlAxcJLPDDyu8nsfPYQBwVx19a0wbKUf491Z4AImrme9x+8NKX3GPhRqJElr5rZ0Lw3jNWYF2tW5cK9O72EqwXOz6Hab7hf0LUR/CBdFrk9c8BzC+nIGWS6x4cN7aycU1fb1HtRRKpLzDklCzDMOZ3EQ2JAxjLb0SFyAVT8HOK9djbaUQC9lEKhPg3tNEj4dPVuL5tv/kkxodGlMwhW/pJfwqedpTdlnfsZ7dXIfz5z0Eyiq74P9TIawEv7GgDNiWkaWM=;SqaNvMJOQTeaThQW328ENg=="
+images:
+  - url: "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg"
+    width: 2600
+    height: 1733
+    isCached: true
+
+secured: "wwDKpewMe+PBHJVEAqH1nIRQ/KuJslsBUiteCZNeTTqlDjRKp5x0lCOPFU1u+o27oW4nru9J4SpnTShMKBumPZwoVLT1Y52EJrMR1E4yAvl1WC4hS1X2eM5lC3I9dXKXkEaKH7RdGdjbGt/XirikyugYsNt6oNOQXZlMFLYl93C0ctlAm/uM40OKJrupg0EfUuJyFVUDG32+zUxfuCm6zLrkWC5QT2kZAasoMLqaKTP36nJRocoI3ly5be7swUrlwaLd/f+xsIQQC+1xkOT3e4v6kHBwF8kOa6Qz+5FWgrCLFzRyTjka5LWMss2nR2htZ47+RnVjHCkQgoLXULf0btC49RrvkgB6G03LLQjYxv4=;Wh5kf8HtDSLeg2wli8SquQ=="
 ---
 

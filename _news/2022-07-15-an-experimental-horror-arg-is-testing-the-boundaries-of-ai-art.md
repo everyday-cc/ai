@@ -52,6 +52,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Artificial Intelligence is the New Basis of Civilization"
+    excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."
+    publishedDateTime: 2022-07-19T06:45:00Z
+    webUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "The future of cars: How AI integration is changing the automotive industry"
     excerpt: "Estimated reading time: 0 minutes A natural next step for the automotive industry is the heightened integration of artificial intelligence ... Alphabet (with Waymo), and Ford are competing ..."
     publishedDateTime: 2022-07-15T15:11:00Z

@@ -23,61 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "4 Key Opportunities to Leverage in Fintech and Beyond"
-    excerpt: "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?"
-    publishedDateTime: 2022-07-14T21:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/429429"
+  - title: "Global LegalTech Artificial Intelligence Market New Innovations and Future Expansion 2022-2028"
+    excerpt: "The report involves six major parameters namely market analysis, market definition, market segmentation, key developments in the global LegalTech Artificial Intelligence market, competitive analysis,"
+    publishedDateTime: 2022-07-19T02:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fintech TIFIN Acquires SharingAlpha"
-    excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
-    publishedDateTime: 2022-07-15T14:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193696-fintech-tifin-acquires-sharingalpha/"
+  - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-07-19T06:07:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/19/call-center-ai-market-2022-development-status-competition-analysis-type-and-application-2032-2/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 27
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
-        width: 1600
-        height: 1184
-        isCached: true
-  - title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
-    excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
-    publishedDateTime: 2022-07-18T19:22:00Z
-    webUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/07/FInTech-Incubator-Challenge-WinnerFINAL-600x450.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Unchain Fintech Festival took place in Oradea between the 13th and 14th of July, setting the regional trends of the most effervescent industry"
-    excerpt: "Events - Unchain Fintech Festival, which shaped the fintech landscape in Central and Eastern Europe (CEE) and set the industry trends, took place in Oradea last"
-    publishedDateTime: 2022-07-18T11:52:00Z
-    webUrl: "https://business-review.eu/bucharest-going-out/events/unchain-fintech-festival-took-place-in-oradea-between-the-13th-and-14th-of-july-setting-the-regional-trends-of-the-most-effervescent-industry-233250"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 3
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2022/07/FilmChain-Unchain-Fintech-Festival-1024x683.jpeg"
-        width: 1024
-        height: 683
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/07/ThinkstockPhotos-520939832.jpg"
+        width: 1500
+        height: 968
         isCached: true
 
 secured: "cgq1/giEO/bL/y3erSD6RjUowu/ekzTga08oXeVSwsuFYmlP3taDqslLyyXgGORx4BGAOnII7VR0+8EbzpliU5SaP+NRM9y+sTrONjrVrPk9otPoV5ZFwZeetnxWDXpH5rkTGykIpnKjSZZrGYv55KzLoimAj7bKpG0HlRR/TdEu1WfqL4AXkn2nocHDeLiWQpTKIKpIGo6vlSBsUVzizIBneisptsR3kFNbr1mG8LiPxiX3xMsfU6T/LD5/AerIP5BCtMKXGDBa/D38l541Aa2qqPfPSo8hOvjLeoMfTlHEXLPRpvEe3CFk/fnEVpRLp9RRQIWKlqfzG4Qr1yRwYoV1W9UbUMQQsJOex6ynP/4=;Oxlxn4bspiEhFZATFWLeAA=="

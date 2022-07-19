@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
 quality: 111
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk does the impossible and manages expectations on Tesla’s next Full Self-Driving update"
-    excerpt: "Beta software updates with adjectives like “fire” and “mind-blowing,” surprises by actually managing expectations on Tesla’s upcoming v11 FSD Beta software update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-07-14T14:44:00Z
-    webUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/"
-    ampWebUrl: "https://electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/14/elon-musk-manages-expectations-tesla-next-big-full-self-driving-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Setback for autonomous vehicles? Tesla’s top artificial intelligence exec is leaving"
     excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
     publishedDateTime: 2022-07-14T15:55:00Z

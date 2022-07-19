@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Bumrungrad International Hospital, Southeast Asia's Largest Hospital to Deploy Lunit's AI Cancer Screening System"
-excerpt: "Lunit and FujiFilm Thailand to supply Lunit INSIGHT CXR and Lunit INSIGHT MMG to one of SEA's largest hospital using Microsoft AzureAim to detect"
-publishedDateTime: 2022-07-05T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
-webUrl: "https://markets.businessinsider.com/news/stocks/bumrungrad-international-hospital-southeast-asia-s-largest-hospital-to-deploy-lunit-s-ai-cancer-screening-system-1031567577"
+title: "Bumrungrad International Hospital, Southeast Asia’s Largest Hospital to Deploy Lunit’s AI Cancer Screening System"
+excerpt: "Aim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region SEOUL, South Korea, July 5, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced that it has signed a contract with FujiFilm Thailand and Microsoft to supply AI cancer screening products to Bumrungrad International Hospital,"
+publishedDateTime: 2022-07-05T13:04:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1852570/Lunit_Chest_x_ray_diagnosis__Bumrungrad_International_Hospital.jpg"
-    width: 400
-    height: 266
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "MiXYVabipYXKgfTNB3ATYpajrI3OmCDKZEywQAjdAmpRzoNt48JbyITPjQVdVt0pHh/NXqtBNiYv/JmyIukIVRlfk3ZhyIF9V/rioz3tT2ZO3XJBtLjw1C35aT8SPYtjDMxQC1poXXEbOuq70G/X75/npL+mBD5vluQA40fj8J4pPPW7vw6WxuWQAJRmyu1Xmdl2wq2Qn1OVcDJdRvzyf9PG69+jCG3HtzB8kJhN796o7VvtJf8JLEbPOsmPWqdSXwC5S77duX3AeAPu1XKyEeTxblw1x/w4w2nAYNsdJNDy4OGplYCIPt9vcxOJ2nlexX/svEXRVcuBBqCHixNGLk5QIrhK4g1yZq7KObauXno=;OnFVbdEwnXkIaBSou2g6jg=="
+secured: "s6CdWNF/PQgwqgkfYqwPsGXU+CoQ35eZtA64fU2hOGtvcfd/2pnrgffCbz4FI2UY2/2BKc87S9TLCHmpfRHusbwiLONObgoKTOx68PNaj4U0buKOo8ZBKYazL/gZvYqeQ7W7d25AJ9K5c70R81k1uJB3ZWyjL5B7nyqqAfoqd9zRIT1tb+jDjokV9Cl/EZ1Dnib99Cz2YINA/Uhto8hCHAo3WRF3qlL+fxKzJxJrPGUuDjDbI+vfjWyrzc396kzbD6Z7l7YDa6etc6vNQ5XO5n3s+WG5X5pvTV/74w1Mc815GQU+035gp1riCglCDCKHDKLJxfSrYn6YioosYtSj4/HAXRj75bITGz0KAOXcUlI=;ltcB2kwXZjpZu9PpZgj4Aw=="
 ---
 

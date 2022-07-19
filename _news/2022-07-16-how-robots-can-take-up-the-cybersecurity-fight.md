@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "What To Look For In Machine Learning For Cybersecurity Solutions"
-    excerpt: "In the cyberworld, the “game” pits your computing environment—protected by your skilled but overworked security team—against a range of miscreants and nation-state-sponsored actors seeking illicit access to your crown jewels."
-    publishedDateTime: 2022-07-14T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f1b24deb13c5b56bae01eff/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Robots take up the cybersecurity fight, SLVA Cybersecurity"
     excerpt: "Even those with robust cybersecurity strategies in place are concerned by the sheer number of business attacks, which increase in number every year. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report,"
     publishedDateTime: 2022-07-18T05:57:00Z
