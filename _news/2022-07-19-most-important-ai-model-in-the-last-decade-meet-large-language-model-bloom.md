@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://slator.com/assets/2022/07/BLOOM-AI-Language-Model.png"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qE1V/UPvjPGxARq4SG0u6ZvjQheBNxW1vspVCxHMFhqBnY3UOXccCwMX6YfN1HGZSmitC6Ko2sHZaLT7QhffkQyLLL2NJqKEClL2AD9k1LoY6A4fxDeodys607FfcV/ShM15U1VMzEsvLntDpLW7aLbr4pm2eExrBnv4FjG9cnF/2CF87445FSmIxyF9M40BFcBmnxVtZcNgI3tUMhpqJcw5RY9BRk+Bpwb0uWVnNyhYs1I1PNhPf3l0XECCkLt/CBNVOD0fxc3f6ER9vE2+4HEabVmpcGLzhyNNyv0gc9ZqLxLFUhGui9mhYDtAChSW10S0FKaiv695quym5bu/isRdxDYfOsB/0dBqvddmSyI=;ZKblBOZx1EUw/b5bmVL30g=="
+secured: "gHNLBcT2oJiFHux9lw/85q7qG1O6YPpivnJ/7bKRP3JrXPtebtFp50/QFWHSj1G/WcB8ZAKZjPMjDy3ipTWfzito2B94WWN3C4wmxTrKsBkpOMqcjHcgUzV8JHAHpg5iXlLigWNzzeKYsqK3oTBhCNMQTZu1CQ89UhsYKAkFH39SGwdsFg+84HMZzJs3WVpRV8JSrQdPxwjuZ+Ox7Lxiz0Gak5PuSNDs3Ik6oc7C7Or5wWqV6t1h5nm7f8fE1Nb+CK6GDV6dFzk+kvUITpNJQGUJlZi9U6EfhNtfcLxFI+SiIfovmpvjkESiKHQa1QK2brwCCTysAqVnfDIUN2/63ZAlktujKXkdq0lMq6Gyvl4EpXUk2pkM7AQByLw9PWj97KDfS4DOhe3y4gO6wBMOZBNd/LkojGjcfrA99RbuRGoaLuyudNw5JzXYB4+97eYjiuEevUtWjZOCFLulY/EfQSONoorkAQxfmFge9dcgxDRwqzw2faSD2Ceerp/k+eC9qbQhqy8LbCDYKQfpjZOLcQ==;SZDnHGMfoLS4PwIxlhBlpQ=="
 ---
 

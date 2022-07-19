@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Blue Hexagon Spotlighted on the CRN® 2022 Emerging Security Vendors List"
-excerpt: "Blue Hexagon, a leading agentless cloud-native AI security platform company, announced today that CRN ®, a brand of The Channel Company, has named the company to its 2022 Emerging Vendors list in the Security category."
-publishedDateTime: 2022-07-18T15:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/18/9640358.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/18/9640358.htm"
+excerpt: "Blue Hexagon, a leading agentless cloud-native AI security platform company, announced today that CRN®, a brand of The Channel Company, has named the company to its 2022 Emerging Vendors list in the S"
+publishedDateTime: 2022-07-18T14:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28100644/blue-hexagon-spotlighted-on-the-crn-2022-emerging-security-vendors-list"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/b28100644/blue-hexagon-spotlighted-on-the-crn-2022-emerging-security-vendors-list"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
 
-secured: "vl4zdJcjkqrqGBZ7TccwtlgkxEs2XUVmPh9OmnpOkNu9aNZy7pJy4b1CH9UCszQy+kxBhXPZTHUytNH+m64wJRfuaGUbWHSm0KqFonkvJVcEYhUcLc/HP4TwoqCyhMmpe0EP8Wc3igiDaeRQEkSbhkJp3HWRQlXS3Ctlst88MuCfsK1nqFeMkbm5QRecBWkKItHOJO4PC2BjjWM49PBzGrOkylG/WmNlSEN+ywNAwidyoB+9vNJOgBjibLeQkTuejNbJygWZY82aQAEDtUBcrhSFyL5YVT2qFajcJI3MUnmNgKuKwyokGuSnlKN7ETqC2BeCVIzQaLksBet0scMcu4nKRy/JMWU6FrKM/6tLzpZdkwQcJDekvRzwR9FFbmejC/GoVlVVoAYlBhxbpMVGaHEG11yRnQxwOIMtfLD8Y93jwk4EBllTxqqeDO34NKUYV58DamgGE1CrlaT/Mig8LlYOmVal33v7pazfEx2b7p/wqXH1+vhD5k7WCAyF8UgsIbPMwKId7CwFm8oDyN1iAg==;JHb6LyECxX4XZ8TYBDYfvQ=="
+secured: "zjyF52oWQ7pljb9GExNx8NEGK7OYwZs5zGO/g5x+OC7L1/pwPfNgYS1JnwJrVR/8kntUihHSHCTVgLzxWpEUqt4RgbIuwkM0/CqpRiISYRM6RvwGdiADLFKmb/eqDYT/guXiqFPJ4QHDpio38hpK9kozgGp/KLjKnyAwslPePVkObl8avecnHKD35Hosfiz3U+w+y8XkQF14gTWrG7+tImH/ghXxnR8fhf4GooBl94MW/PZFCdLKQ8Mgip1KM07Fc7bM0JMXVr2OruvwLo/xvkrkQ1J9lGLF9xXA1sA/xuOiNosbjHMVWHYVruAPGAbtlc+Y0LJO5nOzYrHx3KH4baTCPgiBeg7Y01NqY/Iar4cUL1DBKdNLqNUsCl6xeO5+r4i3tmRhkjGdLSmFR/mDRCDwxN0axF1wZprAVnrAmKcYYX7UVjlsyzIRuU9h9feDE1xnB6vLfpLvUz2hy2wF4alVBG1ogDmajnSuHrRCiInzqB8ZqUcMBJiKJQ7/YmNtjzy+kdkOWtoqKMtHOZ8HYg==;NXU/YdHxQyppJlh+cXfj7w=="
 ---
 
