@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: IBTimes India
@@ -26,6 +26,24 @@ images:
     height: 322
     isCached: true
 
-secured: "BngIBykkO5ZMAdL9CNClYaKAB2olX7SiTPdF8id4NXrk5FpeGB/VdNzOxGDFnz39jIDDADPp2bMvF4fZO4Yz2vJud8cDvf4qUGXAKs9if+PfGu5PjxgTnHDWBBFiaE8vjZhctGKoFymoqhe6Uug80K2wVabPeR7tXSw2rgxZbc0ct9g4XSSOTmWvPRPcXzJey/I1PTMTwd7H6m3codOkOpt2/dfA3j+hHnGVm2L1/Ntu/Mq7d31gAxIYGYlc7aXa/BHQBX+XPDDoQpWybi8EjCuZmrqnDG/2OI9cxf0nJ09bHRxuVio58MKABW3CrBoI5iGUnnvs3/hdfBdIgTEP5C21FScy2faejgtV1CHSubI=;f6h2+2jzdBp+Z6ou3fpiMQ=="
+related:
+  - title: "Check in using facial recognition to begin at Bengaluru airports on Aug 15 under Digi Yatra project: Jyotiraditya Scindia"
+    excerpt: "Passenger check ins using facial recognition will be rolled out at Bengaluru airports on August 15 under phase one of the Digi Yatra project. Along with Bengaluru, the project will also be kicked off at Varanasi airports on the same day (August 15) while the airports in Pune,"
+    publishedDateTime: 2022-07-19T08:17:00Z
+    webUrl: "https://www.timesnownews.com/bengaluru/check-in-using-facial-recognition-to-begin-at-bengaluru-airports-on-aug-15-under-digi-yatra-project-jyotiraditya-scindia-article-92975289"
+    ampWebUrl: "https://www.timesnownews.com/bengaluru/check-in-using-facial-recognition-to-begin-at-bengaluru-airports-on-aug-15-under-digi-yatra-project-jyotiraditya-scindia-article-92975289/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/bengaluru/check-in-using-facial-recognition-to-begin-at-bengaluru-airports-on-aug-15-under-digi-yatra-project-jyotiraditya-scindia-article-92975289/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 49
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92975289,imgsize-100,width-1280,height-720,resizemode-75/92975289.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "vOuFnVPqBzHtsZIKbPU4hFYrceZArUjqz/DcxXKw9xeMIkDA/sEBfenlpi0IfKdDi8YeyaI3t318PFHlbUa1ZCgUN/69TDA8OV0pbH7DJSzzTtbv7KSnNSsuBfZkmghbjnGeUkcxqv1DamfdPidmoHyu0301eZeUEmDO2cvuPl3r1Bl0eRxpluh9JjoBA/4p+iilhz822bzO/OP+Ymaa7Ebgw+PpEwZy6jswyh5rK4ghrRnSgzUk29lzhH2/T6P6Z+aSSdqsxjt4ZUaTUVadeJbHtniEXbLqETHFpf1EAjrWXLdGk0OaY69RAhM2Ucbem8gPbRstyG3hiBjTc5LphxPfVXG/rd6MmgIQaqxtqgx5zzjJJOxoslC3qk/O0D6aUOgFgc8WmnpX7esty2XVvwB8R28D/NM7aqnh0uRUIS1SV46sr2vOhgEmtVg5xloRrwlQjzgkKK75edJtqmlOeZTRqvosn1XY0Fl4ZESipsn6GWnetL91Pk0hnuaXg5lfaIxjET/pWK6EvisfMVmsEA==;CCbO5EX0rRZkwlNLZKLqNQ=="
 ---
 

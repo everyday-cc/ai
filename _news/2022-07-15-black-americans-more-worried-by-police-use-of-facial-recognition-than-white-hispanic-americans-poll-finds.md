@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Black Americans view the use of face recognition technology by police"
-    excerpt: "Black Americans are critical of key aspects of policing and criminal justice. But their views on face recognition technology are more nuanced."
-    publishedDateTime: 2022-07-14T16:59:00Z
-    webUrl: "https://www.pewresearch.org/fact-tank/2022/07/14/how-black-americans-view-the-use-of-face-recognition-technology-by-police/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 38
-    images:
-      - url: "https://www.pewresearch.org/wp-content/uploads/2022/07/ft_2022.07.14_facialrecognition_01.png?w=420"
-        width: 420
-        height: 331
-        isCached: true
   - title: "Predictably low trust by Black Americans in facial recognition in new poll"
     excerpt: "Every answer in a new survey about police use of facial recognition makes it clear that Black Americans expect more to be targeted than helped by the software."
     publishedDateTime: 2022-07-15T16:59:00Z

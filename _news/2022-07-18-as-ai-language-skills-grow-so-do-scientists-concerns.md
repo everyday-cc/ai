@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38698"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/AI_Scientist_AP.62d567ab383c0.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C53%2C1024%2C576&w=1200"
         width: 1024
         height: 576
+        isCached: true
+  - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
+    publishedDateTime: 2022-07-18T03:18:00Z
+    webUrl: "https://www.ibj.com/articles/as-artificial-intelligence-language-skills-grow-so-do-scientists-concerns"
+    type: article
+    provider:
+      name: Ibj.com
+      domain: ibj.com
+    quality: 35
+    images:
+      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "AuSBUeNGI1Eixj8yKjN9I3oFrYh0UBM/WNxU2LpMX6xc4VAxxNdMRVCNbrbONmGHECYAbILow4cI9W/XLZEFT+L/vRzvb8imBjDLf4wQynsMXxFJ4/P6CfigKHG3jDfyE7AhCX1vvmdooP3HQQuPlVtXhIAuSIvBYA93VaQ/N8m0uQN38YWnfRUyYwP/GcmZ/UWpvrI5gbcFpTsKxORO+hGxdYhmC29dZBEEjWc+/5JjmU2yjQuiJZBK/b8zKlgX61EJadx4kDnzpOto15ucvNHfdXt/ZRNFOyewLlDW9Li6lYnKU/3DQVDctSf6Rzy6jOhzUYby7TVjg6+YuBUIxUIQdlNlLDbP3w9FN9PXrD/yD+LZFrsa3JAdozSyNTg2H+ozCwacJ2Pj3wdmR9Du7jGTaDbIpAda8qmf/klX/z4Yd0Qzy06IMe4r29z4RitOfMgvjJHH9tAfq4/Egag+LCahwrtVGcx+CaXRPBMvUKAuHgabIjDC9spVq2uRJulkT30nNrFfRE4SKex/qWUgbg==;Kk62KF9qvq42ztWm6WFHhw=="

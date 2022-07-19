@@ -39,7 +39,7 @@ related:
     provider:
       name: Semiconductor Engineering
       domain: semiengineering.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
         width: 2560

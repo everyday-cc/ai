@@ -8,7 +8,7 @@ webUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-
 ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
@@ -44,9 +45,9 @@ related:
         height: 1350
         isCached: true
   - title: "AI art is challenging the boundaries of curation"
-    excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+    excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
     publishedDateTime: 2022-07-18T21:05:00Z
-    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp="
     type: article
     provider:
       name: Ars Technica
@@ -81,6 +82,6 @@ related:
         height: 724
         isCached: true
 
-secured: "ES8rQooIDzkcUWGXGaoYd9hlQZZ5+onwWKNlGH3vw+vV7X2oDQ9MMqculp/nDo4WUgirC4AJhBklppXgLDiRwPRWOswgKwb02mLUqV7OpEWgR9Bn7CtF90J7fc61DZ0sMJ3Jl5hudISsjx1woaxPxCMoSREDDHHMrHn6eSDr+p4FDNVk6KmfgDYeehYG4/p8E781l9vp0yiXjyrOnFErviiw5om+R79/na9nqXcDOHBKN5I4Xxj927AbWN8sG29kPyzHAryGyq7BKc0lz6Xt0B+8aM+wP7hM8sLrFyxavs9ih2NxK4qxtlQ7sF+eOA/xYTJsLDav2W+2IO1ENOj/zgkqvfhiI0ELngEjVFiogys=;3vIw2wPkGErmPCLTj3viIA=="
+secured: "O4ahKNWgM7nEolD3IoOH5b9ne7htfSewFA7S892uYrDgxXRFc2HcenqLJw07CheAJQZU3YgGLbL4licInkTCWPXFfP3PEaOTPpG/S16g1G+hCVuk7Ii4C2QUyITmp8AxjdlT2rrdQOySFLdWG6LTDhW+xymyh5FWUnRXunF6GRxP84vFdQ58y3iWSAJaqT+rH/OOVPJLFcOVE8ndVQgi+Qn/znLfr06ODtczdlVzUYQ0d2gztLNI1Jv1AtO0yhnkzyUUaHVjr0n90rgO14yXUiL2+0wcV9Vb5A54WHOZXJ84xrBRZnaaL1fR48X0tw1/rbSnql/k/i70qxrD1QWM/Bcva/LSz15uoPHAp7HSEjtvOTvuTFwGwxHMMq3M2PNQgRfLkiNkjlTuDd0au5myPcrzSmMDUApkZTPX6911LmZGoh2MVBQihZC2W9MQn5LKxA8WtRIylW4TrzHr5mA3+EW8me+INdd2zxSDYHaWrhScV3s2rUZkEWd167o4ubAne0B3Gw8ap2A0ZFKYam5EOg==;ValoBy/g5UVWF/mh87S66w=="
 ---
 

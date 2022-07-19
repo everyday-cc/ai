@@ -51,15 +51,6 @@ related:
         width: 941
         height: 494
         isCached: true
-  - title: "A voice of recognition"
-    excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
-    publishedDateTime: 2022-07-15T14:02:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/a-voice-of-recognition/news-story/c0901c504bee2a467f0fbea358c8e631"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "9cuSqvhBvxKSJInRAYwQzznT5wMyWaWyEtegw1bcxWSmx2VAV1ddw1mgzoG4sou593EEXTQhysof9QCfQpwNHxxhwCQUVNkqKwrpndz3ndfBPZ9A9UPMH1XYR8no8aCVoph2C84WgJ5Y1cARQbr4ITouxew0786Dlhi5U16sJw90zHAYCfpYSRKXE1rVQpJlQzKEJYVvsyyvLYE2Nx2UfZx2ba8HgeK5QuNZcttPU1rBii96bpcV4BVCmk8+GX2/6TBkjotDtaWTVoAAM5lxCYkmy7uxcGXE/aoq5b2NFAJRVGEnvtaKfNOgFR+vlQvEgKH48OLnW3lMenQpKcQke+/cESawaQaIwTYrlVjfevg=;YQ/I2Mut+YsXGu6OHDgQPQ=="
 ---

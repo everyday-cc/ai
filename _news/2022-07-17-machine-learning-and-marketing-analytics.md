@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "5 Times AI Business Analytics Failed Horribly"
-    excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
-    publishedDateTime: 2022-07-14T15:22:00Z
-    webUrl: "https://techreport.com/news/3478095/5-times-ai-business-analytics-failed-horribly/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 17
 
 secured: "y15fT1jM1t2GLo/EVBrwydyf8B3Nrmbt212qfQGIRsr6S1rRtHVBQlloxiZIQagtPqrz2lAP9DtTM8hZOJh+z0nHZQ+Ms5GaS5w5ojDJg/F1cwgDNqFeFCBAF5aVkkmL9AYufyOGLQlJBsVcrTiWAtYe3k97avMC7AFStEp75gFCzJ3s3Ad64Qw4TULhsx58MP6ImWvnx0TR1/P6sH+6SZdYj19Joh1vv18yqHppqs8zZ9uvHioLcD61HxaWe0VPmw7NkCGx/LC96fXUH+BjraW2Oj2rko3WcFL5/NnOsTP1qQg7Zf1cvUyEJeUezA9Pjd6F1yMBLAGlubVid6BEa2dj/DDuQt8cFKnVNyDxPfk=;H0oePI9Sg7zivs1prYe2VA=="
 ---

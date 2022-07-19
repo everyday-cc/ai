@@ -32,22 +32,31 @@ images:
     isCached: true
 
 related:
-  - title: "In the age of AI, energy efficiency in the data center can’t be ignored"
-    excerpt: "Using less energy in the first place can help us all get closer — especially when it comes to energy-hungry data centers faced with increasingly heavy workloads in the age of machine learning and AI."
-    publishedDateTime: 2022-07-14T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/"
-    ampWebUrl: "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/"
+  - title: "How AI Bots Became The Face Of The World’s Most Innovative Companies"
+    excerpt: "Very quietly, these AI bots are revolutionizing work — becoming the face of the world’s most innovative companies. So what are they? And what's allowed them to win over employees, when so many AI projects fail to get off the ground?"
+    publishedDateTime: 2022-07-14T17:55:00Z
+    webUrl: "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/"
+    ampWebUrl: "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1354126692.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62d0504d3015048c18f35bcc/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 665
+        height: 800
         isCached: true
+  - title: "Will Artificial Intelligence Rule The World?"
+    excerpt: "Artificial Intelligence is dominating science, military, financial and many other spheres - are governments too late to control it?"
+    publishedDateTime: 2022-07-15T19:02:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "Bs95JZ+64LhWKeAYDElzruOcMabY7RNh6fFpNl0nNip7UFnSVuGn4fXYV2dEdpMpmCdXwA/Yul/DVzc1i63yF4ryooSNBpA08KAfcPuNgzWPZsLFCINJ2sMJ5oIW/ezyQhPb2zwecpf5Y29Aips0wi58d506yqKbwCl7a+sNXfFEP2zF+QLEdsmDKSz1wEOhej7NSOT3VR9W/G2uAuyntD+C5rTEWdM9eZ65pzgsyIv+NXWhQjY7ES6NPN2cSWn9M8Lcrh4gMmnsIxwhzGeTrHyxVBgvejwuVixJHCl+daXro1pPyGkmxa5pkwa004gEAFfmKGM3mshPtoLQSOPzuBO79mAiXroBc1ijaIDzkWt/P925eyD5cqk51GW0GTC+0idqe4PB/gSPjZDc8nsVNb2ggHZxwEtDGO7TYnTITheBSobnfvRfbrmbdxMAYzW51C4eIO0us2a5obxuQpqBiJ4e1VWBaeBRLIaOPdK8FRr2TDBwp6Tq3g0leEE9gjcpYkINKfR25k1tBY28YbNrBw==;buyUtah8/p1AoeF0FNrS2w=="
 ---

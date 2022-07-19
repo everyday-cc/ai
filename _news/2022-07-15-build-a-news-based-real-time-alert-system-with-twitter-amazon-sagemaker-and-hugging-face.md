@@ -23,15 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Build a predictive maintenance solution with Amazon Kinesis, AWS Glue, and Amazon SageMaker"
-    excerpt: "Organizations are increasingly building and using machine learning (ML)-powered solutions for a variety of use cases and problems, including predictive maintenance of machine parts, product recommendations based on customer preferences, credit profiling, content moderation, fraud detection, and more."
-    publishedDateTime: 2022-07-14T16:26:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
   - title: "Achieve enterprise-grade monitoring for your Amazon SageMaker models using Fiddler"
     excerpt: "This is a guest blog post by Danny Brock, Rajeev Govindan and Krishnaram Kenthapadi at Fiddler AI. Your Amazon SageMaker models are live. They’re handling millions of inferences each day and driving better business outcomes for your company. They’re performing exactly as well as the day they were launched."
     publishedDateTime: 2022-07-14T21:23:13Z
@@ -46,24 +37,6 @@ related:
         width: 1222
         height: 630
         isCached: true
-  - title: "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations"
-    excerpt: "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using"
-    publishedDateTime: 2022-07-18T18:11:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-  - title: "Track your ML experiments end to end with Data Version Control and Amazon SageMaker Experiments"
-    excerpt: "Data scientists often work towards understanding the effects of various data preprocessing and feature engineering strategies in combination with different model architectures and hyperparameters. Doing so requires you to cover large parameter spaces iteratively, and it can be overwhelming to keep track"
-    publishedDateTime: 2022-07-14T16:41:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/track-your-ml-experiments-end-to-end-with-data-version-control-and-amazon-sagemaker-experiments/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
 
 secured: "yZ7p7qzCKabhGB1vmfX+Uc3+nXM25u59rNDo2V+BRmXxdmW3bk1sCNgCxGYVMimfHtLhN+tXD2+Bv09ifrubMU/nLXUV0JoEAaXoTI7zSCKDC+cq3y2rbyoubnq4mzMH2R8HbniuY/AarBWtqKQxp0vS+4ZcQJL+5WrydICN6P8p2dxO9MdqsAPWLbtZeh0vCCo/ItGaaYRf61/GDsMQn7+B2/LeGXlZGAHCX/1RoKYr9eHgq/aBtHojDmUdXRD/U2UV01QkrQ/sWC8CQZ9VW06MtCE+EgDDBDk7HD6ya/VlRb/XfeRGDE4lglLlo1Nzr22uNilZ8Nj0fkuGv3Agi+QL1BMtfUp/KcW/mElgIvs=;XcwIUKhskbIDZjLkSWIJ4Q=="
 ---

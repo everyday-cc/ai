@@ -24,6 +24,17 @@ images:
     height: 293
     isCached: true
 
+related:
+  - title: "Seattle AI startup Phaidra raises $25M Series A"
+    excerpt: "\"We are delighted to support Phaidra as they transform the industrial sector.\" Other investors included Helena, Ahren Innovation Capital, and existing investors Flying Fish, Section 32, and Character."
+    publishedDateTime: 2022-07-19T04:47:00Z
+    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/07/19/industrial-ai-startup-phaidra-funding-round.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
 secured: "k1cMp49OI5VquYJaFm3Mu0ulUCb0F3/+OfGwydKPj5K/kwGpVhe4P55zT8HEPDf2KhMTaEkzpP2n/FodUh520of3hgk2YFoEzw2Yb3VEKUSQCBtYet3JyWzNFWzrxRqVSIKT31ksT25JRyWSxSU/7wqomJVxRoUIMboA0o6dvNHJcP0Oo5gprehJQBUdNUZRSY7+GZwEjEAJOBpgiNAqFGQixGrV8cKCSJuAg85apjeNAvCVWM7cxyY0f/d/5FeBQudJFIHmMvouuE3TQoUGYFU//3cdlprEI+Ywg1Fe5tqrrmw4SHYRbfBFO1GjotJBeeCNtLM4AI/Y5wgPX9lXDzJpH4BkW0c6/pVMqSzMuXE=;E7kHFlj06RoCYJrFkenLVQ=="
 ---
 

@@ -88,6 +88,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
+    publishedDateTime: 2022-07-18T03:18:00Z
+    webUrl: "https://www.ibj.com/articles/as-artificial-intelligence-language-skills-grow-so-do-scientists-concerns"
+    type: article
+    provider:
+      name: Ibj.com
+      domain: ibj.com
+    quality: 35
+    images:
+      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "/+j9OsRNYXZpcc26BYIad/x4PxoXU9UNBtuIQxKz/sZk0sa25fi8qo7qlhbhJWjNnomtmbOkgLZ7TRAIdJ4ps9D1J6N89n/hCrXpUUJ+I+y2u6inZNxCrfQzUTK5ydzXIsC0H4KCNESngxoTIzzcmbmzI/wyhDXzCnilro0r9fFwMW8SbAFHq70+4ehC7y2MWWgcI5IpM6wQZXmDCCy6718d70KC5pJ823yAw3n1lkg2qsm2r8ULZdhy+nolq9rEbQ1OLfsKYAhZ4v3yoguNK0Wxei0igl3sGa/7A6NsHC1H41h4Vha7jpWmsoI6ZO5rn1MUP3pDRAkEtJdLQWpUscRtz6nNOlRVNRAWu1TO5V8=;+HyABuBF7gFwJSKa6PMKlQ=="
 ---

@@ -33,6 +33,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "How is AI impacting the Automobile Industry?"
+    excerpt: "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of."
+    publishedDateTime: 2022-07-19T09:11:00Z
+    webUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/"
+    ampWebUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/Automobile-Industry.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Cornerstone AI Raises $5 Million Seed to Solve Healthcare's Data Problem"
     excerpt: "Cornerstone's Enterprise platform launches to unlock the power of clinical data in a fraction of the time of traditional methods SAN FRANCISCO (PRWEB) Today, Cornerstone AI, a new company solving"
     publishedDateTime: 2022-07-18T19:05:00Z

@@ -52,15 +52,6 @@ related:
       name: The Gazette
       domain: gazette.com
     quality: 20
-  - title: "A voice of recognition"
-    excerpt: "It is unsurprising, then, that the constitutional voice to parliament, a duty to consult, arose as the primary aspiration for recognition during the past decade. It ranked higher than a non-discrimination clause, something Tony Abbott called a “one ..."
-    publishedDateTime: 2022-07-15T14:02:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/a-voice-of-recognition/news-story/c0901c504bee2a467f0fbea358c8e631"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "kZaF2gMZfIULPA9w+i9lBdxmdaGZJNIqL48fDf3rvKWGgnIlO78BhdspKiIeuSLiBVDBMFYjgIoN8oqJAzSE6zoFuLwZNcYLWqQgfHc24TfZ7OQ62IIE3lMtwvflGGIJibW6ty7VeOuQVXowGXnP6bQddl1yws6Y+FiSDPajKtuPqJRjZZpzy5AnpwxOC3y07V8kbjysjfCKB/GrCsNDsPpfiZFHzCSeSSGqfcRoI8mR7++NBDL7w57AqUpVHP1Db2dzDPMiXXIkecvl8BtaqO0uSYjNoYBB/XAwSE+cssbFsLYQIr+RijRx2hEgGsUexSfEAaMydXJl1tAnpBRClj7F0jqLs7lEz6/mA9qVY720xVvBhh2isbj3WAfbn9ACdExaoIk1O7B5xDluxfnTX7wKt6OBCuPnawlJYuR3lTgD6JNjCiU7k1VFxSg1UjdE/G5z3I77aNRogGyerN6Gii8Lr2S/yAVv8AUOoda9Mma50E/e6pliM5wEr98A9mGLp85yHfzFmRI2CIM9vxahTA==;jXRcxy2zao6bbMUEL97yJw=="
 ---

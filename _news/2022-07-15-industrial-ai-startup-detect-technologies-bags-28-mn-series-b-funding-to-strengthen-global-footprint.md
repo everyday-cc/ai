@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/industrial-ai-startup-detect-technologies-bag
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/industrial-ai-startup-detect-technologies-bags-28-mn-series-b-funding-to-strengthen-global-footprint/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,31 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Detect Technologies raises $28 mn in Series B round"
-    excerpt: "Artificial Intelligence-based software-as-a-service (Saas) firm Detect Technologies has raised $28 million in its Series B funding round. Led by Prosus Ventures, the round saw participation from existing investors Accel,"
-    publishedDateTime: 2022-07-14T15:40:00Z
-    webUrl: "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/14_thu/img_1657806738405_149.jpg?"
-        width: 1080
-        height: 761
-        isCached: true
-  - title: "Seattle AI startup Phaidra raises $25M Series A"
-    excerpt: "\"We are delighted to support Phaidra as they transform the industrial sector.\" Other investors included Helena, Ahren Innovation Capital, and existing investors Flying Fish, Section 32, and Character."
-    publishedDateTime: 2022-07-19T04:47:00Z
-    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/07/19/industrial-ai-startup-phaidra-funding-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Chennai- based AI startup Detect Technologies raises USD 28 Mn"
     excerpt: "Chennai- based startup will utilise the fresh capital to further expand and strengthen its sales and operations across international markets"
     publishedDateTime: 2022-07-15T10:26:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Actionable news insights surfaced by Trading Central Artificial Intelligence"
-excerpt: "Winner of the Best A.I. Product at the recent TA Awards, TC Market Buzz helps modern investors & traders tackle infobesity while improving brokerage platforms' return on news investment.. The cutting-edge technology employs proprietary artificial intelligence (AI) in particular natural language processing (NLP) trained by market analysts to crunch incredibly large amounts of content into simple actionable insights."
-publishedDateTime: 2022-07-14T20:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm"
+excerpt: "Winner of the Best A.I. Product at the recent TA Awards, TC Market Buzz helps modern investors & traders tackle infobesity while improving brokerage platforms’ return on news investment.. The cutting-edge technology employs proprietary artificial intelligence (AI) in particular natural language processing (NLP) trained by market analysts to crunch incredibly large amounts of content into simple actionable insights."
+publishedDateTime: 2022-07-14T18:47:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-canada-ontario-artificial-intelligence-3d98f3ffa36741c2b70164af90aa135e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-canada-ontario-artificial-intelligence-3d98f3ffa36741c2b70164af90aa135e"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "K5/1pSN4ujkCsGnwZuCaRRktN9L+PZUbu6v61CWEYFL+Sxq7Vo5wgAJK90OTU4a+UIca+lfXNe4c+YIelgrzMDsieBAyKQRLG8CGA9okVipIVHI+/K50Ivu4aXvZ7SS9Yj88V5l0iZBr8YSebLQjrqpnLoFy5cx2TeqbbT49Ha4+TQG3G0WEMhueoEGmc4mY5s9rOebMSftiM1Uc7bt7zpJGV82O/ldo5qLHVErlKjlM8U6wi216hNeZTRNGPYent64bgS3XzDjnURq5an2uJof7SxkivdxYdp3LoZ3xeAGC7UPahSEn/v3QH9KezF8RPMsKn//RAA4+HIkiKysC+Z+JAeXGKnmNFCmC58iw4kk=;GIsbCtSW1+72xVtUZCfhwA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ZQKGPB5y+rlyb9CI6XmRdXZ41ev6eXENJr4TEtiy/xcBN2XqkHXiXsMaJr5Bbe9WZSUzU/jLldsJ5k0yIrkrWV3+MkDsxP7Ek33DkzCzN3oTYpGEVb04cfeWHwCCwZZuNQDet2OK6QqwbhxiTDS+E1VAwA0/4IMjJZNkvFRjwErUaTRBomszci++rxnDRyo0/E30FD3f3hxg4vWgcB/z75jPMkkORS9J/uDn4fpJNbpJM/6NFsQ99xV0g7uN66jtY36YqhTm+XHUggGVmjyKYTLDjMWWYhmwA2JKKCpviDKc7CsFnj5r4q4J9JRr0K/ryMgTVkc6OllUczxiQxv91BOmCf73opJxGJu5cc02YqU=;WLTfPFPuKX3RbwPq3SVKQQ=="
 ---
 

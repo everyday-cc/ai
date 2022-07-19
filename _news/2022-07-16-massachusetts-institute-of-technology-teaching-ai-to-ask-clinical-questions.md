@@ -52,6 +52,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 26
+  - title: "New survey reveals AI and VR are set to be technologies largely influencing your child’s future"
+    excerpt: "Inaugural UAE Future of Learning 2022 survey by Citizens School Dubai highlights parent views and opinions on education Artificial Intelligence (AI) and Virtual Reality (VR) identified as technologies that will have the biggest impact on a child’s future Resilience,"
+    publishedDateTime: 2022-07-19T09:46:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/new-survey-reveals-ai-and-vr-are-set-to-be-technologies-largely-influencing-your-childs-future-qxwo7ykx"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://static.zawya.com/version/c:ZGY0NDU3MzYtNmViZS00:ZjQzMzQ1/photo01-b-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Exciting new tech uses AI to improve the lives of those with hearing loss"
     excerpt: "Over 37 million adults in the United States experience some degree of hearing loss — 29 million of which could benefit from a hearing assistive device. Studies show that"
     publishedDateTime: 2022-07-15T16:50:00Z

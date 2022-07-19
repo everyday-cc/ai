@@ -59,6 +59,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 26
+  - title: "New survey reveals AI and VR are set to be technologies largely influencing your child’s future"
+    excerpt: "Inaugural UAE Future of Learning 2022 survey by Citizens School Dubai highlights parent views and opinions on education Artificial Intelligence (AI) and Virtual Reality (VR) identified as technologies that will have the biggest impact on a child’s future Resilience,"
+    publishedDateTime: 2022-07-19T09:46:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/new-survey-reveals-ai-and-vr-are-set-to-be-technologies-largely-influencing-your-childs-future-qxwo7ykx"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://static.zawya.com/version/c:ZGY0NDU3MzYtNmViZS00:ZjQzMzQ1/photo01-b-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "dGeNOOI8oJEWXLj9U+S5sbi7W5QnvsjJmGcIaGkZKDbDGl7CDkUtKzASSzHYHiDAd2FUfbL/RKvqRXvXR+jY1eJCFEg0hyVBjO5WFUPm85yP+JrxUNy4OvuttveLNUtMf8GUS2uMqEw2xfygzA0SRsU9D478rDSbitmO3pX86EW6XVhQ6nszX49SsYcayVF0eFsuIdNPaJ/XrccxiZ4wWkRtT+bVMu7HNA3oJxf7AE7Eie0b3Yy/BIBSntBi8z1okpF2mBhg8vUHxrB6PV+Ng+pJQKxLcy5n3tfGqCfV3GAmy1ESYMSYlVya5aPRya0KW3YYPap01g0y3mITuQBnd+hOvQMcgDd6ncZZZbmrCig8mJ59uQKOqx1rs2drdqNZmYSzMQAbLLz4F6Z2xj6SEsWOogJSnjHeMgQgq3aCSIATiaC9wqjss+fNKEyaKQT7S7Dv5gys/yBCkRit8UJjci/FyXMqUDMMOPASTlekJOb/MmVKJmKYdCyYxj5NgnlEPxUMbkWnDV+7ZnwwiML2lA==;7B5v8SDAtNXYcFlYLEsVjg=="
 ---

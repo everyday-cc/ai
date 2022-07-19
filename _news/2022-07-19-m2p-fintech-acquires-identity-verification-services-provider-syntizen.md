@@ -26,22 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "iDenfy Enhances its Identity Verification Platform with the New Face Authentication Feature"
-    excerpt: "The global digital identity verification and fraud prevention company, iDenfy, introduced a new feature to its automated ID verification toolkit, Face Authentication. The newly launched service will help authenticate existing customers by eliminating account takeover threats."
-    publishedDateTime: 2022-07-18T10:31:00Z
-    webUrl: "https://financialit.net/news/digital-identity/idenfy-enhances-its-identity-verification-platform-new-face-authentication"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/visual.png"
-        width: 2396
-        height: 1188
-        isCached: true
-
-secured: "21PpXMxZV/LEXegXnHGbdCd9C13iJpn3nOvZsoJoc8ggUlgh06+CiBfY0umAaDcCXGzxxwAF0R1CrWsNowWcleKQk5DbUbPCvdP3CIAa0lYlBhclPHrolFGk6OumkuAgURImtUuPsO67o0cjuP2zrl2hhPKyopFbN0YoVFgzELKVLPCMN6JDnBp/fN8neTNd3Ooh5q/mNG+2OGUkM9repdJK2WEjI/X/nwY6wQDsMfWn+bJ6WXr9XesP087U0I3gfm/KVZD+RonuyXhZR/1gWUAC9niCMoqUojY2U5deNS2AWQxJDcb8/lW/9fmht2uAsEuZNDIQ1xkY2P6VQXPLxSb1xg2TER8WsH7UP4tWPm4=;YLYvM0Wil5uYLw1ifESahw=="
+secured: "O+1LfHOZLt0U5UP2vtYZ+ry/50H5+m/TJ47ooMcETS5j+/x7kaGbIIYdvjc+6q5DqpI5ws6n3uD2906LIPJCluvDAx2fo0vtAnaTTBzLJaVq3T4oIA3mVIJJCYWRv2GDBeFQZNaAWprvRcKKOb4OWfCe9ip/Ib6ORPNRvD3RDroa7hHJzS3B9LZaQdpW9qjz6eZbPlDSBWuCR+xumbmkr2Cn5Ihhz5bt3yM23YUabkwtRITfZ5fl3+zzRry5fKC7z2wZhMuZHHb0Xl6oVRuE5EGdkqPWM9HLYrgxhaX4GsT2mjvXCyHj1JaZ5t7v8loGKZOOYspvduzwcqI8CRpZvoA90jhSKto1mz90SF5SK9ap6GS3pgqBrTbJlUtFZeLUYyShJjXdYR9bmBU3QDuahV8wQRuQclTW44kI1bJhNfYtCAp3cf1BvypPwtbg+/GyX9b48YDfAX0vERArhhIbG8quG0JhZptfBdKRIjnQF9Oboi4ejOrVwMb0UFFHLTGmZ1OkDaAprnAnLbpyKzqKQg==;EommU5Evse7DGIy9DPBUwQ=="
 ---
 

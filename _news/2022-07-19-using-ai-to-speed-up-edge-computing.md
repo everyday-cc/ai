@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-19T07:04:00Z
 originalUrl: "https://semiengineering.com/using-ai-to-speed-up-edge-computing/"
 webUrl: "https://semiengineering.com/using-ai-to-speed-up-edge-computing/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
@@ -42,6 +43,6 @@ related:
         height: 800
         isCached: true
 
-secured: "LM6t+6N4JDdlMfOz6wJmTVnz5qetx2e0DDbgT+3fthzI5nV4bK8DCEjG2QDQjcXL7xU+huHN+Rd4M6dup36kwF7cEn6/+vWnDMDCIekgteC2vALl/kgGNBMNDVwDnOGOLFWyPn9n+26IKq5Iuur7hCACruHS+IuVrdZfjsFweDiXfibh0EYa+rEMFMoLa2+oUPmqTq6i52+rCpU01XwBCp8Cui5TGv96hzne7ezVwNd8m2A9zkNwssOoeE7+dLxqHwWjsXCAU3iOKnLVxEh6ZJ5nVf5SpYEQylMR09pZYWyndxO1HmzGFyEzmxNu9O/4T5LGBzbWcF+jSeyURVfu0j+S96NkoBM8BiEObzC9hNE=;7I45dF6gpdWcLSkbPaQCGg=="
+secured: "hyZjtKLccZ/EgGTizED3BYVdTEYyhxEJglK1lebU1kbizRHmoyjkYKgMpMPXp/sIEe8hEZI26P/xuxu+KEbUdJeHEaSXdQ0wgyAURYHJ5MWEWQkvZK4U8p8fu8BNawJ52f4MFqDAJRSh9IVCTN/l7BR8TXxQRf2+5YcKB2rqSRca+4KcM9UUQ3mUgQlyxLznGcH3euCfqHOlhJ9f2dnhnXWUiCFhY0t9nMLGEqqrIlyX40o8dKC7afvkJMNjT9dkLFLy/Cf5f+IqBA1GS86dgVtdjKSqqvm2do7pmns7nwFazVTxKyOw8EDMQAIDLRoSUU5uH4qSxTN+HlrMa4K95AnWj7PiZoc1Qy1r1C7DE0KazCC6j+VyD1UW6NpkuVqEdh8kk26OnbrkpkU8kC1qYN0/2eknmb3N6KKGDd8yiXlUf5g3vUvpblty2m75LUPXPQ2v/RRyBy1+N9EAFCDk/UmPgWu1d9UaaFyOxUlh+QLUnof70kAHQrl6UCHpgp8tfAJac1JyPbNwgMZLwfny4A==;IXUwJrwO7sFDvC6V0bh6Og=="
 ---
 

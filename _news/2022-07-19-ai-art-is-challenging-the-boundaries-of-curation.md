@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp="
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp="
 type: article
 quality: 67
 heat: -1
@@ -54,7 +54,7 @@ related:
     provider:
       name: Leadership
       domain: industryleadersmagazine.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
         width: 1000
@@ -84,6 +84,6 @@ related:
         height: 724
         isCached: true
 
-secured: "FEG+3IWVNgNOhYZluiqTVkLXjf0Epw1HzwCgbO2p+oQgDtH9hjP82A0zGd3ijkAgbdaNvzIKjx57vKXDF+RLw78GRGslyoIPmoyx0Tw9Dnme5RV1oBrnQT14gkfg9twY5eYwEFQrN58+5RKgdBnTG4bFvQ1mG/k0o22wujPGk/+PT51UuBJqglgx5ImlQHsJKoEH+OkAPyP59wc7nNoTslON+prVDRY4oiHvtqroWsdXKSNi+Vjz5FAm/uG393DboUj7UFX7KH3op2KWGMq/2k7qRWq2e1gS49BhPwE29Vhx47mFKEXonHZiOjzdcffNrdzN6MHlJLtUQVi1JiZJ3zOFRQkIJpOw1rSi88oa638uTCAdhoh9TK8gh5jUh8JIP02X9thxnK0JWuXdLD4NFAtmuP1KDJbppnoMFqs4Z5uL6+hui8xcua04smIH2mvcLSKG5Ovkp92CwjEhCq6g7s8CK2wE1tqmEb2qcErfxJhF56ufLXW839zx9K/qD9Hul1zLxZDUr9yjA9ywWA9b6g==;/tcYDDkiHNlTBAGERwxwUg=="
+secured: "LRBbh3IEd8Vn1OtgyMyYViYJXecpuz/nPffmnqNdysCcXiKX7T5ziSNUN2DJEkA89ZZ3hFTaWf4WNYEJS/U9FZgrhkbnHjec4H1v3Q6Zu69IkkwEepnCO0fEqM5uiSU3vuVZ+bngd2CVT3HDw/yWVRZi+QnLDPeUBkLl8/mOeBEqgarcpg0KKPKrmzdhhKF14rmTaKrrZQP7w+zwWH1zxMlawOyGUg4zqmMgF3gO5/BYR2jydm0jc0eYd7RDmahmizxiOiJbLBy2szVx9lkTYBmc78JUk8dDLc/yiSRthRPXUzTBPORl34Kh7ueF7eA8ctNiC/+OhY+dXdj9z3VZLJg3oDguPRcMxtODLjcMkKY=;RP/asvwiV2fhGAVELEROPQ=="
 ---
 

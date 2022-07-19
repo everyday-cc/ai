@@ -66,15 +66,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "5 Times AI Business Analytics Failed Horribly"
-    excerpt: "Wondering about the utility of AI at its worst times? We take a look at five examples where AI business analytics failed horribly."
-    publishedDateTime: 2022-07-14T15:22:00Z
-    webUrl: "https://techreport.com/news/3478095/5-times-ai-business-analytics-failed-horribly/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 17
 
 secured: "MvRM0UA2/8UJWpO0kQWJUSFqtnB0jeSUBW/v2zrDhShA1hJGMN4N/ApP/+j8gT0IUepbdbdK6t/081qqfOmZ9ysMh6Wo3jF83Q2eCj6H34NKiFOwo0Zz4r9oAFscZbOYPwHE+kIiC1lykjgJhq+foUOSdaIJiNVBCoo2oy+7+7nNr5IuPi/rzaeYZoSbHHextJ6VpaeeAK98saJQV31Fd7u9T74gPgcUQqrabLUe0WyZrqKB9CX6vbIgV8djyN2hZVzJqvzuCn8mm9ElJTdYe2juO/UpngVatVXAhXwb0fcLVrHFF7bwA1u67SJHV1PaOBAwD8v+txsbfJomNpKh+VxOZylAv71NwUD4ma830gw=;RlRXggg5qwiP/8ys72ejLg=="
 ---

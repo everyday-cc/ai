@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-v
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-vancouver-robotics-4b09c5ef3da2900ae023dffb09c08f01"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Luffy AI Receives Investment from Chrysalix Venture Capital"
+    excerpt: "Chrysalix Venture Capital made a new investment in Luffy AI, an Abingdon, Oxfordshire, England, UK-based leader in Adaptive Intelligence (AI) for the control and optimized performance of robotics, mac"
+    publishedDateTime: 2022-07-19T08:01:00Z
+    webUrl: "https://www.finsmes.com/2022/07/luffy-ai-receives-investment-from-chrysalix-venture-capital.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/07/Luffy-AI-Logo.png"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "qFX1RoB77pTkvGcxeviVNuomkTffUGR5Cz1K7Em79MXbLYHFZXf9PA5FDA7pEzc0fJW1OD+KI2Wto5JT67U0B2EYlSAZn9S8yNsIjYFKqVmDrqgYXwkz/DTtVsNzQTwiMCTQ2Hlfoq3U3Wx2Xes0zDvJI0QhldAN/iC0/0uqdhcamVhw01TbkrtZBcx+jLtOBDScXfqY23FrqLeObljU5pGEvhwj+QSxSoAyswiADQECsr8A1pyeXOyPKHHzNmYNQkoFEJncHGrP1KpCeRntgAS9Un0MadB0oenoCXeF4zRTkBItrNC/KdUlAUVgWpqPn/BuP2WixeukJxb1oNX+4NNcZ30ZJWHmTqFqQjlajW8=;IlHCbanVNYzzwmSWHS7MYg=="
 ---
