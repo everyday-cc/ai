@@ -62,6 +62,29 @@ related:
         width: 558
         height: 372
         isCached: true
+  - title: "History of Artificial Intelligence"
+    excerpt: "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life."
+    publishedDateTime: 2022-07-19T17:40:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 49
+  - title: "White House Advocates Cloud Investment as a Path to Artificial Intelligence"
+    excerpt: "A new report from the White House points to advanced cloud technologies to help bolster artificial intelligence R&D at the federal level."
+    publishedDateTime: 2022-07-19T20:32:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/07/white-house-advocates-cloud-investment-path-artificial-intelligence/374663/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/07/19/071922cloudAING/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "sL+3g73bNQfPSGcBddH81tqbJBg0RilrVQQP+ZjTz8RwUJXSkQH9sTupSaIrBdH/Z0eoByYi+A2pHqaVdtj6tHPJm8Jv9qjueRLcwa6z5O2a0BiaejLw5OGTNJzRwrk62PzTKnVcXa2lhqoUcRflrUD073R7XiWn3SNsNF0FQTHH+qcHvcCyzY7RRtAY9UZKk5KlNmaHbJSeOjKa40eTLLTH3ej1Pc5rRVjqfQZoWqpDDmx/7KwmZwhwqMm1u1HPWvDqbIIkxyTfRed+cCWaWMhQjVZZ4mPGljktEsMAbJ+P5ilerZinAstTNi/2wG2GTT8LhzzOiiToeSqaoOVmcd/xQ04V8WltcbnrwZ+LMok=;oLClXlxOtQpSsqaGlYajxw=="
 ---

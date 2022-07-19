@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T19:41:00Z
 originalUrl: "https://www.pharmaceutical-technology.com/analysis/artificial-intelligence-related-deals-significantly-decreased-in-the-pharmaceutical-industry-in-h1-2022/"
 webUrl: "https://www.pharmaceutical-technology.com/analysis/artificial-intelligence-related-deals-significantly-decreased-in-the-pharmaceutical-industry-in-h1-2022/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Pharmaceutical Technology

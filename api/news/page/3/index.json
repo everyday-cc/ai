@@ -788,6 +788,82 @@
       ]
     },
     {
+      "path": "_news/2022-07-15-actionable-news-insights-surfaced-by-trading-central-artificial-intelligence.md",
+      "title": "Actionable news insights surfaced by Trading Central Artificial Intelligence",
+      "excerpt": "Winner of the Best A.I. Product at the recent TA Awards, TC Market Buzz helps modern investors & traders tackle infobesity while improving brokerage platforms' return on news investment.. The cutting-edge technology employs proprietary artificial intelligence (AI) in particular natural language processing (NLP) trained by market analysts to crunch incredibly large amounts of content into simple actionable insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-tempe-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Tempe Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "DriveTime will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Tempe will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-985da84addeb06f744611758c370ede5",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-985da84addeb06f744611758c370ede5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds.md",
       "title": "Black Americans More Worried By Police Use Of Facial Recognition Than White, Hispanic Americans, Poll Finds",
       "excerpt": "Only 22% of Black Americans say the use of facial recognition technology would lead to safer policing, significantly lower than the 36% of whites and 40% of Hispanics who believe so, according to a new Pew Research Center study,",
@@ -881,48 +957,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-actionable-news-insights-surfaced-by-trading-central-artificial-intelligence.md",
-      "title": "Actionable news insights surfaced by Trading Central Artificial Intelligence",
-      "excerpt": "Winner of the Best A.I. Product at the recent TA Awards, TC Market Buzz helps modern investors & traders tackle infobesity while improving brokerage platforms' return on news investment.. The cutting-edge technology employs proprietary artificial intelligence (AI) in particular natural language processing (NLP) trained by market analysts to crunch incredibly large amounts of content into simple actionable insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_ee5547d0-c33f-5ec6-bd37-5bc47d05121e.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/actionable-news-insights-surfaced-by-trading-central-artificial-intelligence/article_ee5547d0-c33f-5ec6-bd37-5bc47d05121e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1155,48 +1189,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-ai-startup-detect-technologies-raises-28-mn-in-series-b-round.md",
-      "title": "AI startup Detect Technologies raises $28 mn in Series B round",
-      "excerpt": "Artificial Intelligence-based software-as-a-service (Saas) firm Detect Technologies has raised $28 million in its Series B funding round. Led by Prosus Ventures, the round saw participation from existing investors Accel,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/14_thu/img_1657806738405_149.jpg?",
-          "width": 1080,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "publishedDateTime": "2022-07-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

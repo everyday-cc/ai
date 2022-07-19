@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-19T14:51:00Z
 originalUrl: "https://cacm.acm.org/news/262831-raising-the-voices-of-the-dead"
 webUrl: "https://cacm.acm.org/news/262831-raising-the-voices-of-the-dead"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:

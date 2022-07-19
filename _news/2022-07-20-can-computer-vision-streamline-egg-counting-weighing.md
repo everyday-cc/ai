@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T17:59:00Z
 originalUrl: "https://www.wattagnet.com/articles/45474-can-computer-vision-streamline-egg-counting-weighing"
 webUrl: "https://www.wattagnet.com/articles/45474-can-computer-vision-streamline-egg-counting-weighing"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WATTAgNet

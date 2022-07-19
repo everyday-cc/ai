@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Giga Cars and AiBorne Tech Partner to Transform Car Buying Experience with Artificial Intelligence"
-    excerpt: "Giga Cars, the largest used car superstore in India has partnered with AiBorne Tech, a leading provider of Artificial Intelligence-powered visual inspection solutions with an a"
-    publishedDateTime: 2022-07-15T04:30:00Z
-    webUrl: "https://www.businesswireindia.com/giga-cars-and-aiborne-tech-partner-to-transform-car-buying-experience-with-artificial-intelligence-79769.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 38
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_79769.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "renovai will launch their Visual Commerce Solutions on Seldens Designer Home Furnishings website, delivering AI powered shopping experiences"
     excerpt: "\"Complete the Look\" on Seldens product pages and the Virtual Designer quiz in order to generate hyper-personalized recommendations for furniture and home décor shoppers. The short quiz will allow the machine-based virtual designer to build a style profile for each shopper,"
     publishedDateTime: 2022-07-18T11:47:00Z

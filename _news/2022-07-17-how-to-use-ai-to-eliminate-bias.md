@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-el
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,29 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2022/Jul/1658205411_ad_edugraph_-how-to-be_180722_-558x372_lead-article.jpg"
         width: 558
         height: 372
+        isCached: true
+  - title: "History of Artificial Intelligence"
+    excerpt: "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life."
+    publishedDateTime: 2022-07-19T17:40:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 49
+  - title: "White House Advocates Cloud Investment as a Path to Artificial Intelligence"
+    excerpt: "A new report from the White House points to advanced cloud technologies to help bolster artificial intelligence R&D at the federal level."
+    publishedDateTime: 2022-07-19T20:32:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/07/white-house-advocates-cloud-investment-path-artificial-intelligence/374663/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/07/19/071922cloudAING/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "MKsukCWfc/Xm7zPl196jxm9YtE7GfABbwikQwDyXywHoxrXWoFQduMIfUQ4FOzgsNa0cPVmvER4IbZg0BmEDlps1rLPnO+7jMZNiq2tvfvFlzoiDTQXChu9PVmS9/1RW/YvfH+Az/tDEhn6TEdJWuXSkkYrrOAzxQTLvosr0q4/NaN4xBi1kwYIHTOFrxYBuYIMDk6NKGBO7mCCnrKaWOFzucbh9lxmHGcBo3CdeSt0DyhZNSh0dT/e3VlIIJGypAQc7FuKI7pnDtKwzsGF43fIKmxOSWFXWn0PBow5vB05YQy0gYCHova82IZXuVEl0wn/UEwPIL8fzemMKb1/JuFBmvMauSnSGb69m9iNLgBMjsX0KIBYth9E2zW5t8wVeGvzWiolEmV69UDr1HQfpxMWbhIZhREfkl2tlBogjOnmpA3z/xlv5cTrd6NmqzwGN+rBdTuFib3H3mJCJaK3wgHzLXz6lQ5y4zhUVM8nisfm6jGKHFof0XMGcgNyIrPI09cl/vSfqnhqkV3qcAl9/9w==;bopFJTQGk6Y5xnCHubvCEQ=="

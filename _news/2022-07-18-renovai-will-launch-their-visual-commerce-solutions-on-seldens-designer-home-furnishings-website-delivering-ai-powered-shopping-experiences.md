@@ -54,20 +54,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Giga Cars and AiBorne Tech Partner to Transform Car Buying Experience with Artificial Intelligence"
-    excerpt: "Giga Cars, the largest used car superstore in India has partnered with AiBorne Tech, a leading provider of Artificial Intelligence-powered visual inspection solutions with an a"
-    publishedDateTime: 2022-07-15T04:30:00Z
-    webUrl: "https://www.businesswireindia.com/giga-cars-and-aiborne-tech-partner-to-transform-car-buying-experience-with-artificial-intelligence-79769.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 38
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_79769.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MgvlkyPL3Te7F4l4ROF6vkxtomIXVEGtUQuRfzwz+1gHobkqIrtslIO0NkPveDP5kbWL3mY1bgr0nx8bYx8uqKk/WZ6GK8pA5LeP1jzac+YGDwBY9l4x2rGWBJxnVp0pXIp8z7IhUoqUnxgUUtHpzkNlJev1OT5pHAkcEsp8SAgX5bIORObwXuJ3NvbpMrkstMr2KC/x58PC2QJLUCEqhKxldw/VEdc4GvYBb+moczUxxEaWt5Wp/KVQ5SXGrfdwR8JHETngDgfKu6FcWMhe5egpG185Z1avRlcmGiktlpOpx8zrGhDkoCqvSRj9LG2QE3a31ZQ59kHoZW5M+vQC3+mQBB7Fn34x4c+SUyW+saQ=;/0f7p6XFwqvMXmJMcoC8FQ=="
 ---

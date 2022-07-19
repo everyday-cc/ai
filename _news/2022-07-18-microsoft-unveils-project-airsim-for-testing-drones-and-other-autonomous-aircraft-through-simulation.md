@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/"
 type: article
 quality: 89
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -34,14 +34,14 @@ related:
   - title: "Microsoft launches simulator to train drone AI systems"
     excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
     publishedDateTime: 2022-07-18T14:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-62202118"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
+    webUrl: "https://www.bbc.com/news/technology-62202118"
+    ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      domain: bbc.com
+    quality: 104
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
         width: 1024
@@ -146,6 +146,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
+    excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."
+    publishedDateTime: 2022-07-19T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/inspire-2022-microsoft-unveils-digital-contact-center-platform"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "WSDpCW4tQbcD/mA2YlxXCJFFGVp1RPiIDMiSv1cx+Bav8ERQLLwZV0wPOREEKAAISSFq1r4jJByxvFKhQCcue4KMrJ4eOocOJmA/uPTVmQrBcuGQ9W4C9uo3YnCWkLdM4ysJc6AuyAouZ284TfC83EFXFP6foH+AyksMQi6Osl/B1f0XaL6A0ZmSA/O7Ez6Utz4p/7gJZBu1Z3GNgCWEO8F8GJc9tdDozSy/KmlGJC2EicIbq0uvdar2EcbiA5ibyYLIaOhD5xxOpIUV2a5Y9WYokjhf2LB8YJyWxl5GjfyXFPRZOeICmNMLWvXTLTxn9qoJ5/J5S92xLCmYIk8Zu3T8mbcklT/KMr3PIWTpPJUwimRWOgrzvHoQN1Vldjsl0FtYBulwkZDwVg1Q16gD4HHewb57xJRq+5F22bceHGAUwpa9xsawnZ3VVINimrCMDr2CCEiPvMDmY6T4W/hjUdy6UXvUdlZ+5cX2Os6tp4MxmEYkbyqkQ8xneq/VttY6JoD6pDQtPGtGkhpYvIJ69A==;RXodStaM1EL99ZFj1O878w=="
 ---

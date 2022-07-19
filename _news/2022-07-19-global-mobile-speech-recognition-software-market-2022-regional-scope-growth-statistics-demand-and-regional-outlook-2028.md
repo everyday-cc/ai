@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
-    excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
-    publishedDateTime: 2022-07-15T04:43:00Z
-    webUrl: "https://www.scmp.com/country-reports/country-reports/topics/country-business-reports-company-features/article/3185016"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 49
   - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-07-19T06:07:00Z

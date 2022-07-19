@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1861425/Univar_Solutions_Receives_Top_Recognition.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Giga Cars and AiBorne Tech Partner to Transform Car Buying Experience with Artificial Intelligence"
-    excerpt: "Giga Cars, the largest used car superstore in India has partnered with AiBorne Tech, a leading provider of Artificial Intelligence-powered visual inspection solutions with an a"
-    publishedDateTime: 2022-07-15T04:30:00Z
-    webUrl: "https://www.businesswireindia.com/giga-cars-and-aiborne-tech-partner-to-transform-car-buying-experience-with-artificial-intelligence-79769.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 38
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_79769.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "renovai will launch their Visual Commerce Solutions on Seldens Designer Home Furnishings website, delivering AI powered shopping experiences"
     excerpt: "\"Complete the Look\" on Seldens product pages and the Virtual Designer quiz in order to generate hyper-personalized recommendations for furniture and home décor shoppers. The short quiz will allow the machine-based virtual designer to build a style profile for each shopper,"

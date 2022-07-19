@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 39
+  - title: "Zesty.ai raises $33M for its AI-powered climate risk platform"
+    excerpt: "Zesty.ai Inc., a startup with a climate risk platform that provides data about wildfires, storms and other severe weather events, has raised $33 million in new financing. The company announced the investment this morning."
+    publishedDateTime: 2022-07-19T21:02:00Z
+    webUrl: "https://siliconangle.com/2022/07/19/zesty-ai-raises-33m-ai-powered-climate-risk-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-5.png"
+        width: 850
+        height: 477
+        isCached: true
 
 secured: "1GR1bM8HIZjdKh2/AYKnKGdiushJHH6DdSGXJZe24C53A0Qa7W1DjH0ODOVmfYo6HR5SZTZ7kJTAAXk33xXORivOItc4vA4ZKHGjif/hJqU2a5uCod2ol2KWuW+4fqmupmgKUg54/4nCoazegmPQYjC8MVW93h5hJQHECiZFfcUTbm1wMdSZ/A3kI38MpZmPWaxTFHBeflctJ2uAopoG1ApV0yskhi9clCplreYu/xjYV7glfmsPSFeyi0b6QoTrFpGzvfqiR6Zv48oEAJC5QeeyW7dUg+czicz0kiCryZY09tHpzR4Mdy6BWDcIBTDyZqHodW6APF8ZixfUZXh8Azk453ZPy/EP+OoJTm1MojQAuT+Q+BFznK1ScR29VKLEjVYCQ9GObIgNZz914TR6LQfqMv9VYS3MIRMaPtZ5xlvmDyr6Om0Kt3Q4n3iwsPxUiflFkKKvbXSWw/aRVI89SOhYccN8Fj/0Mi67x0PTm0Ef1DIYzX+QrTkI3sxfG/ZY+y0XVhn/oRvhkpF+MqzJUw==;u7L2Re8bKQXtX/eFd4XRWQ=="
 ---

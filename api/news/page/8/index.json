@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-09-ford-and-vw-backed-self-driving-company-shuts-down-dc-operations.md",
+      "title": "Ford and VW-backed self-driving company shuts down DC operations",
+      "excerpt": "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "publishedDateTime": "2022-07-08T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-09-shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech.md",
       "title": "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech",
       "excerpt": "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan.",
@@ -1100,49 +1152,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-watch-google-deepminds-alphago-documentary-for-free.md",
-      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
-      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
-          "width": 1278,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

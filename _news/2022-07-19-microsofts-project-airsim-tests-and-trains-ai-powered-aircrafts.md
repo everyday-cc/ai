@@ -20,6 +20,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Microsoft launches simulator to train drone AI systems"
+    excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
+    publishedDateTime: 2022-07-18T14:19:00Z
+    webUrl: "https://www.bbc.com/news/technology-62202118"
+    ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation"
     excerpt: "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview."
     publishedDateTime: 2022-07-18T14:24:00Z
@@ -35,22 +51,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 709
-        isCached: true
-  - title: "Microsoft launches simulator to train drone AI systems"
-    excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
-    publishedDateTime: 2022-07-18T14:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-62202118"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Microsoft’s Project AirSim is pushing drone simulation software to new heights"
     excerpt: "With Project AirSim, Microsoft offers a way to put a drone's control software through its paces millions of times before the first takeoff."
@@ -142,6 +142,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
+    excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."
+    publishedDateTime: 2022-07-19T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/inspire-2022-microsoft-unveils-digital-contact-center-platform"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "uUUQYZVCzmQmC2PSj5j0Mrz5ehUWzuPsPcEtfIBle1IgL3mit1TtCOjH0zOZXOP7Nhs6J0/CeugST8K8pP3wiV23IBaakzB1k4IeqkAvZ9hNpAOPAfvuiNJVn7EL4QVq6Atn8hVS+whX5qDbgKaS1Fy6tZEgznYmnzESntJkHsHo0PSk66hvx65AYCttJTKSnq3DtreWGhA8M3za6dpeTN1VXZYvQKg+OStG6i3Pve99hn670eFqU6P2hfGmi9cHQqd6gGKWreiIf6FvSOlYPj17/xgSIjiR5cEbJJPIWIZy42PcJke+ALS95JIXHfS6XM6rtH/i9FnxhmARCUMc4oO6sNy5n34uAN8mydpDuBR+n4tI6ncR7bQrAJektzTSsgIfdn8BTV9SruAFuo221jkzrvAKVYPRKdQNNEcFkSj93O9Zz8aBS+P6a5TJX1fOYr53qu9/rX0/3bHsu0DQjDiPTbDJgnpyKEsa7kJ3hei40MI8XxUxvgEMEv6XDhUsCDXIKqHqIzvE0QhtupiFyA==;LZGJR0kqG/CFbP8Mv82D3A=="
 ---

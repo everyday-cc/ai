@@ -18,24 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "How startup Advanced Abilities is harnessing AI to improve healthcare in PH"
-    excerpt: "Advanced Abilities is the first to bring an AI and cloud-powered X-ray platform in the Philippines that reduces turnaround time of patients getting results from 7 to 10 days to 1 day MANILA, Philippines – In May 2022, Filipino startup Advanced Abilities ..."
-    publishedDateTime: 2022-07-16T02:34:00Z
-    webUrl: "https://www.rappler.com/technology/features/how-startup-advanced-abilities-harnessing-ai-transform-healthcare-philippines/"
+  - title: "AI Device Tells You Why Your Baby Is Crying"
+    excerpt: "Device learns little one's behavior patterns and messages parent's smartphone to avoid an emergency developing"
+    publishedDateTime: 2022-07-19T11:59:00Z
+    webUrl: "https://nocamels.com/2022/07/ai-monitor-why-baby-crying/"
     type: article
     provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 32
-  - title: "How Labor Department harnesses AI to improve services"
-    excerpt: "Labor Department CTO Sanjay Koyani and HPE AI evangelist Steve Heibein compare lessons for advancing AI/ML use in government."
-    publishedDateTime: 2022-07-18T18:42:00Z
-    webUrl: "https://www.fedscoop.com/video/labor-department-harness-ai-improve-services/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 19
 
 secured: "61p6OHjCNs8szItGNOVcKOHoEaWAvYgqI0qsx5WXHf1oy/khuum2i5Nqc8NhJfIl3J/Y5Y7fULuPlwOLpu1Dlg7zFqwg3nRu8SjAKKcR90SwyrovgSIhBbk/dzBIipWsk+HOsSE7wtECV12851qKvWygHdugix63W+kMvrEfYnP0RIBboG1nX6wVcyBJsgpnnwPeHNr58gRuxQr8vgPGenXWGtxAZlkGQpMSct2Jor0II7X5eYxoPYczNw/6iNrcAHUWZeB8vwwDv/mjtqtlvd4b9vokku86gjM6A3S59kQ1dnfEm3xk3AFCg1Mj55kBdgjYVrms1fS/ZSfOZQ7ZXOMaGVWW8TMfX5QEoATbgImRgqcWbkYaUdU0pWi2kkEYJaJL5z5U9Dgg15Td1Miej1rsV2KvNK+cUIWMnaZbMCtoAi0fsrFHFhdq8+/pn5hMf0fDhoGTqcj4J0SRAclBidHoF5f234Y5Aa0ttyGaIWvOMT3iIMgXr44CCQ6hBvzQA4/WrYBAhOeCS2YmlnEw+g==;mL7s4MouZeh7IjmF7jeSwg=="
 ---

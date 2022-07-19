@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:03:00Z
 originalUrl: "https://financialit.net/news/investment/xalles-acquire-aigrowthhub-and-expand-ai-based-solutions"
 webUrl: "https://financialit.net/news/investment/xalles-acquire-aigrowthhub-and-expand-ai-based-solutions"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Financial IT

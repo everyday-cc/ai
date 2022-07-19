@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T19:53:00Z
 originalUrl: "https://theconversation.com/push-for-ai-innovation-can-create-dangerous-products-186101"
 webUrl: "https://theconversation.com/push-for-ai-innovation-can-create-dangerous-products-186101"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Conversation

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/info/2022/jul/15/how-we-used-machine-lea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2022/jul/15/how-we-used-machine-learning-to-cover-the-australian-election"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Low adoption of AI is hurting Australia in the global field"
+    excerpt: "Australia is at risk of becoming a low-skilled economy without a serious commitment to investing in new technologies like artificial intelligence."
+    publishedDateTime: 2022-07-19T19:00:00Z
+    webUrl: "https://www.afr.com/technology/low-adoption-of-ai-is-hurting-australia-in-the-global-field-20220715-p5b1t7"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "pF0tg4X7DgeVtWNy1WvvBePgUVKBGaEi5ZiYxJ2XvQCwJiJjgHNtRV9hL2PPMAga00CLm4zMfFV+QmsWeY+lpSr4wF9HnCcD/5Q8ljDz1c4gF74Voiwgjk+9Z6Wn3eyBYrKbFpm/T6ulKNjKHim0TC8ON9j+XbB6JLts92bp8nr6Kizkwh+x0k6McH3LR/g4FhiouT+MfYbbvnn0FMIWmfMysnhS+riYcWpUeKg3OIw/RPVU7Fg2yEtHVXa3bjQfHX1E8LQfOxfd5ADAYLZ1h08ytbLH6mx+rbaxDH2Kk7NEWLjwBDffptbkdSv2PCQKcJMBpnNXMUKlf1Pugm5YVDQXCfiZnlW0hxW4E/Ev4ZMsE7Fd7DTSlfaUlBroxuq26SK7TOj44JY7gMW7bzrHGdL3PtZXRWDhKfc40Qj4L2M5JTTsmhDjMjTLohb6IyxFo50/FyTy2BT5uvco1C5GTilo/9SyFW2N6+Ww79CO16RYFdbObM8ErrtYeLyWuby7cTfY30HRqV0iRaMNjL5Mgw==;yCKm09I2CSxDcarsSOCfhQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T15:51:00Z
 originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/07/19/from-enabling-hybrid-work-to-creating-collaborative-experiences-heres-whats-new-in-microsoft-365/"
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/07/19/from-enabling-hybrid-work-to-creating-collaborative-experiences-heres-whats-new-in-microsoft-365/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Microsoft

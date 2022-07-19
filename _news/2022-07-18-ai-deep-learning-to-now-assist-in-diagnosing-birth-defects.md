@@ -49,6 +49,15 @@ related:
         width: 610
         height: 343
         isCached: true
+  - title: "Startup Aims to Secure AI, Machine Learning Development"
+    excerpt: "With security experts warning against attacks on machine learning models and data, startup HiddenLayer aims to protect the neural networks powering AI-augmented products."
+    publishedDateTime: 2022-07-19T19:11:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 34
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
     publishedDateTime: 2022-07-15T10:39:00Z

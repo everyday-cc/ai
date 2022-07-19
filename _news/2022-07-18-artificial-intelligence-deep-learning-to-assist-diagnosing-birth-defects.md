@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
+    quality: 34
+  - title: "Startup Aims to Secure AI, Machine Learning Development"
+    excerpt: "With security experts warning against attacks on machine learning models and data, startup HiddenLayer aims to protect the neural networks powering AI-augmented products."
+    publishedDateTime: 2022-07-19T19:11:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
     quality: 34
   - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
     excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."

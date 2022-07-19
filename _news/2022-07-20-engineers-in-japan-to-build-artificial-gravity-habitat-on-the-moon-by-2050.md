@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T18:47:00Z
 originalUrl: "https://thenextweb.com/news/engineers-in-japan-build-artificial-gravity-habitat-on-moon-by-2050"
 webUrl: "https://thenextweb.com/news/engineers-in-japan-build-artificial-gravity-habitat-on-moon-by-2050"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: The Next Web

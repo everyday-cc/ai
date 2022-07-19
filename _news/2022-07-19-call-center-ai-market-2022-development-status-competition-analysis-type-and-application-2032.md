@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech, AI and innovation spur SCB Asset Management’s growth"
-    excerpt: "Artificial intelligence (AI) and ML – a branch of data science – are rapidly ... As one of Thailand’s first movers in fintech and big data, SCBAM has already begun to incorporate ML into its asset management strategy. Over the past five years ..."
-    publishedDateTime: 2022-07-15T04:43:00Z
-    webUrl: "https://www.scmp.com/country-reports/country-reports/topics/country-business-reports-company-features/article/3185016"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 49
   - title: "Global Mobile Speech Recognition Software Market 2022 - Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
     excerpt: "The studies then highlights over the key problems limiting marketplace increase and the international Mobile Speech Recognition Software market's capability increase possibilities. This study explains expansion techniques and procedures,"
     publishedDateTime: 2022-07-19T03:27:00Z

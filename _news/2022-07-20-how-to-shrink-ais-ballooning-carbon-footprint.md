@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-19T17:23:00Z
 originalUrl: "https://www.nature.com/articles/d41586-022-01983-7"
 webUrl: "https://www.nature.com/articles/d41586-022-01983-7"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:

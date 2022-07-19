@@ -3,18 +3,22 @@ category: news
 title: "Microsoft launches simulator to train drone AI systems"
 excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
 publishedDateTime: 2022-07-18T14:19:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-62202118"
-webUrl: "https://www.bbc.co.uk/news/technology-62202118"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
+originalUrl: "https://www.bbc.com/news/technology-62202118"
+webUrl: "https://www.bbc.com/news/technology-62202118"
+ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 104
+heat: 204
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -142,7 +146,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
+    excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."
+    publishedDateTime: 2022-07-19T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/inspire-2022-microsoft-unveils-digital-contact-center-platform"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
-secured: "UkMf1fMaacuJbt4YKKcKqfbjdEXtUsdA5c5Y8c3YvubUAMZ/wZo2aneWNNwONfMOjT9CKCpk5AbOaOLHCt/AlCG9XCNkMKycgBXPQsQ0KG/bed16PF2xl5qHEATYc54sra/GBZxAKem7NP5DF4is6nLTEf4//KDf3ckWUP3y6nOSNrefskySmsvGly0NKuIatA39EntqZneXmTELUajRmdKxXe+lXvEhvb6504Ufjp3sFVk1SEpxSW7CTtJRdvOFJNF/gXpyIVt4yLXbvpl44/teDUSpsmRXj7rDBHCfQUmpy+VtOYIUKqABS+G87JQDiZurIq1/AfrWimLC8EZ+6bp8zFn4RXFgofhAekXM/2lpKTEbw1tVXJ2lqUjdo3zVlTpfqZ3V15uSz0N/zdy0H+27zv2Oki3qPba4336axtvMh2eOYGi+2vyJpjz3bUZUuQvhF5bohfSmlrTcPHCBMMq9aElPUCYMre6knjPVACtqSNZZZK8UkAcQTaH1CEAC9x+lYDN43wIi8sZqh2mRtQ==;SXBIcycV/prS79TrExXjcw=="
+secured: "elXPLIvEXCwXC6nopcgqEtEh5GE+lLWdptV0SxjukbTXrLfkXCPsZtsQOHYkLIHqHXL5YwQGP6h9qiqxDZvAqx9qk+LxTR5QbeH/fBBsv2ZpTfuNoXY6V/NhGBP8IuaC8BK0HXCFCLoVFyOAefCEr8KNaCbgb3UqFBwW8DZXIEtEVR2yI2CXiG/qPWWzpO3XwKNrWb3teRqdLZwZAyp435LZpj7Q2HBsqVz4xb4SBf3clqTpTy6jcx3Guni7/NABg39QSs6M7qVDwsET9AzaJjJ6pj1lFEqE69nR4mU1Be6elwjqTcpzlb0BpvZ3uuvdh70mSFNToRefooFD5PVgn4TIRZSGdQjwVxz5EGA7s2s=;oZdnydW7UfH0L4c+VSmpIA=="
 ---
 

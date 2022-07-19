@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
+      "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
+      "excerpt": "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html",
+      "originalUrl": "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rome News-Tribune",
+        "domain": "northwestgeorgianews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
       "title": "The Brains: How to Leverage AI in Influencer Marketing",
       "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
@@ -1081,57 +1115,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-how-ai-is-helping-drug-hunters-succeed.md",
-      "title": "How AI is helping 'drug hunters' succeed",
-      "excerpt": "Dr. Iya Khalil is using AI and big data to transform medicine and healthcare. For more Life Itself talks and related articles visit CNN's collection here.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "originalUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220602170223-iya-khalil-life-itself-wellness-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "publishedDateTime": "2022-07-11T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

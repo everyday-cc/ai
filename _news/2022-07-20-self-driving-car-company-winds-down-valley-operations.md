@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T19:49:00Z
 originalUrl: "https://yourvalley.net/stories/self-driving-car-company-winds-down-tempe-operations,316977"
 webUrl: "https://yourvalley.net/stories/self-driving-car-company-winds-down-tempe-operations,316977"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Sun City West Independent
