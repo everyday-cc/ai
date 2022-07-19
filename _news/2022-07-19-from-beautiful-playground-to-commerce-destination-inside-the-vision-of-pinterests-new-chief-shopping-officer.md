@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:00:00Z
 originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
 webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Retail TouchPoints

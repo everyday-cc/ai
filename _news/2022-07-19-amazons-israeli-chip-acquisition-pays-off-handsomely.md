@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:00:00Z
 originalUrl: "https://en.globes.co.il/en/article-amazons-israeli-chip-acquisition-pays-off-handsomely-1001418553"
 webUrl: "https://en.globes.co.il/en/article-amazons-israeli-chip-acquisition-pays-off-handsomely-1001418553"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: globes.co.il

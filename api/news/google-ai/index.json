@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-15-deepminds-latest-research-at-icml-2022.md",
-      "title": "DeepMind’s latest research at ICML 2022",
-      "excerpt": "Starting this weekend, the thirty-ninth International Conference on Machine Learning (ICML 2022) is meeting from 17-23 July, 2022 at the Baltimore Convention Center in Maryland, USA, and will be running as a hybrid event. Researchers working across artificial intelligence, data science, machine vision,",
+      "path": "_news/2022-07-19-deepmind-gave-an-ai-intuition-by-training-it-like-a-baby.md",
+      "title": "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby",
+      "excerpt": "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp.",
       "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-icml-2022",
-      "originalUrl": "https://www.deepmind.com/blog/deepminds-latest-research-at-icml-2022",
+      "webUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
+      "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T17:00:00-07:00",
+      "ampWebUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
+      "publishedDateTime": "2022-07-19T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "Google AI",
+        "AI"
       ]
     },
     {

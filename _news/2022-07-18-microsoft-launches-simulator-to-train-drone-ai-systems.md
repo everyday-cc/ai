@@ -3,22 +3,18 @@ category: news
 title: "Microsoft launches simulator to train drone AI systems"
 excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
 publishedDateTime: 2022-07-18T14:19:00Z
-originalUrl: "https://www.bbc.com/news/technology-62202118"
-webUrl: "https://www.bbc.com/news/technology-62202118"
-ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-62202118"
+webUrl: "https://www.bbc.co.uk/news/technology-62202118"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
 type: article
-quality: 104
-heat: 144
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -65,6 +61,62 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 60
+  - title: "Microsoft launches Azure Space Partner Community program"
+    excerpt: "Microsoft has launched a partner program focusing on partners with space-focused products and services, providing access to a range of support and benefits."
+    publishedDateTime: 2022-07-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/article/699978/microsoft-launches-azure-space-partner-community-program/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vincentiu-solomon-ln5drpv_imi-unsplash.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Microsoft reveals Azure Space Partner Community"
+    excerpt: "Microsoft is expanding its relationships with space companies through the Azure Space Partner Community, an initiative unveiled July 19 at the Microsoft Inspire 2022 conference."
+    publishedDateTime: 2022-07-19T15:00:00Z
+    webUrl: "https://spacenews.com/microsoft-azure-space-partner-community/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 54
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2022/07/rsz_screen_shot_2022-07-18_at_74017_pm.png"
+        width: 879
+        height: 421
+        isCached: true
+  - title: "Microsoft Unveils AI Powered Contact Center Powered by Its Nuance Tech"
+    excerpt: "During the opening day of its Inspire 2022 virtual partner conference on Tuesday, Microsoft revealed its latest intelligent contact center platform"
+    publishedDateTime: 2022-07-19T15:02:00Z
+    webUrl: "https://redmondmag.com/articles/2022/07/19/microsoft-unveils-ai-powered-contact-center-powered-by-its-nuance-tech.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/vsm_4appuitips2.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft revamps its Project AirSim for easier autonomous aircraft simulation training"
+    excerpt: "Microsoft is dusting the mothballs off its open-source drone project from years back and relaunching it as Project AirSim today to help build, test, and train"
+    publishedDateTime: 2022-07-19T13:26:00Z
+    webUrl: "https://onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 46
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/07/Project-AirSim.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft launches Project AirSim, an end-to-end platform to accelerate autonomous flight"
     excerpt: "His North Dakota-based company has been using these hyper-realistic simulations to train autonomous aerial vehicles that are now inspecting wind farms, surveying wildlife and detecting leaks in oil tanks across the Midwest."
     publishedDateTime: 2022-07-18T15:04:00Z
@@ -80,6 +132,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "5DvKxU00dsPgtkpwpcQQD/ITukEySD5DIkxnFY7e64BaPOUIpzYpvKzqL2k+eMSCac+DHb7lkQIMsUnGn8VbdS+7E57w7N224/0z3ZxIJ03Ek4dcHSZ/LXwtqavf7n4vfXFyj1s+gcX3j4ty0yrclhF2X1TVPEYvDVtIjiyw6SNVS83J5EjhNQzQJeIDsOSl/yfCZhD4/ryzc7FpGlSKUsiPYwKkjiBNrc67kkHUsmjq9ueDrXOJ4vck+eASwJnh6DscOfFzSj4fDrFoWCpDoPHjXna1V9LH2yJTOVWXc/sPn32KBOEBmVvV2llGKWv5qzTcOGMqb0coE1FqqZdw+eLiPEVFNgF3Ylujt6kGfeXGeJnuoLMQijRhhnPgVr1VlR4/ld0qWmOp1wRTWyjblBk+xacEIz/3N0N9O4yj9bH2lNPtf86p94snUvX0NTNw373vbR3hbXZX5w94PJc/5eYmo4GDc+JUb8PHV25IBHdNd3hRN/4jm0eYvANAPTN4OZKq3ngp9EcPoXTRJYcBRw==;p48JHEV5wAkXsUHxOttE7w=="
+secured: "6cItHb1J1jWjeZqgYWzezf+jxx3bfB0DxRvZeodfbMOLp6zi2Q2/lAT4BJkcQwLcgbdt1Z183bMp5s7jdh1pvWEIow2V8nMWoK/5FyD1MP8MtVwc/zOeE1yyaqS1c45nwRVM9iOi0tW6BWduxtsvs/lm81/QFnMfYDmyhI+TtSEpaHQuBLlmhwIHwKXeSa7R3iChF/ioRRA3opNjIsdeeqSsdzqvgjvgJF4VHrOlwF6l7crokcGnie7XF2rFfPf9HLv2k9SXQhSfqKA+JzAWGbVLMmcyTUpAhh5/3gB2ESVkhfdxijCSeBFip7LXgDICBUgfK0VA2uOR0kzXHWRdh/qS2TsOdhpkSknlNfqgeZA=;9MGzeVS8nRgIzl1DHdfTCA=="
 ---
 

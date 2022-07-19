@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:15:00Z
 originalUrl: "https://economictimes.indiatimes.com/magazines/panache/powerful-ai-can-finish-your-sentences-but-struggle-most-times-to-find-solutions-to-basic-tasks/articleshow/92982580.cms"
 webUrl: "https://economictimes.indiatimes.com/magazines/panache/powerful-ai-can-finish-your-sentences-but-struggle-most-times-to-find-solutions-to-basic-tasks/articleshow/92982580.cms"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: India Times

@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "This AI-powered prosthetic hand is bringing design and style to a life-changing product"
+    excerpt: "Esper Bionics is elevating both the science and the design of prosthetics, while turning it into a lifestyle category."
+    publishedDateTime: 2022-07-19T13:18:00Z
+    webUrl: "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-bringing-design-and-style-to-a-life-changing-product/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 39
 
 secured: "jTq6vtB1eXQDmc5Kjky7t5LKBJsZ0/honICuFIjMqbJgnGBDOeuaielCz5EFv0UhhhOYFOYJLIo3z2kXJ2lVbGOaNF4emuyuJvu/IE6sVMosh+t7AWqzQT9fkbD6U9onVR9bGEuagLeK7QX7QGL17QQpdk2hWtI0HT1ICv54G9aufOhDg8L0qSgqmkuR+H28F2rKNyxC4CWbc6lq+1ZYZCA3+w6yobkVG/JslzzYjWZCwJHTmislMcUggGl10R3+KoTWSodiArzTWZnkXi21MsnBzcrtjnaZdEG4UswOGsYY3rTX2yNKwo/e4U2U/FJZ4orTwZ6vFxKLI68mfg5TpY+Oikt5r1z0X0x4cM4VJCrdm9vR/CANtpqvKhpWDKIKKJgEXIGWinhAl35/Hf1mM2NyX5HA2JYaQH9UW4Q9MlVmuSZfvu+uzO8LZyfDIO/kJ12ZyFAI4i5E9U24HxL+1EPMDduHA8w/ptU0h+hCL0GAKbXN/wOoqyfVnFq1xAHfd0LW6DpIlJPy3BpmLN6z4g==;5N9qUu+K2qfTYvtQHbjGHQ=="
 ---

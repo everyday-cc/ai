@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations"
-    excerpt: "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using"
-    publishedDateTime: 2022-07-18T18:11:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/"
+  - title: "Civil liberties advocates celebrate recognition of right-to-record in Colorado"
+    excerpt: "Civil liberties advocates are celebrating the Denver-based federal appeals court's decision this week to recognize the First Amendment protects the right to publicly record law enforcement officers, even while scratching their heads at some of the reasoning the court employed to reach its conclusion."
+    publishedDateTime: 2022-07-16T16:00:00Z
+    webUrl: "https://gazette.com/premium/colorado-civil-liberties-advocates-celebrate-recognition-of-right-to-record-at-last---finally/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.html"
+    ampWebUrl: "https://gazette.com/premium/civil-liberties-advocates-celebrate-recognition-of-right-to-record-in-colorado/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/civil-liberties-advocates-celebrate-recognition-of-right-to-record-in-colorado/article_4a1de58c-96f1-511e-9fe4-726c6f25664a.amp.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-  - title: "Generate synchronized closed captions and audio using the Amazon Polly subtitle generator"
-    excerpt: "Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions, helping to improve productivity and reduce costs. As our customers continue to use Amazon Polly for its rich set of features and ease of use, we have observed a demand for the ability"
-    publishedDateTime: 2022-07-18T18:15:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-  - title: "Univar Solutions Receives Top Recognition in USCX Awards for Exceptional Customer Experience"
-    excerpt: "Company wins four U.S. Customer Experience Awards across all its nomination categories for customer experience, strategy, and use of data-driven"
-    publishedDateTime: 2022-07-18T20:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/univar-solutions-receives-top-recognition-in-uscx-awards-for-exceptional-customer-experience-1031594996"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: The Gazette
+      domain: gazette.com
+    quality: 40
     images:
-      - url: "https://mma.prnewswire.com/media/1861425/Univar_Solutions_Receives_Top_Recognition.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "iDenfy Enhances its Identity Verification Platform with the New Face Authentication Feature"
-    excerpt: "The global digital identity verification and fraud prevention company, iDenfy, introduced a new feature to its automated ID verification toolkit, Face Authentication. The newly launched service will help authenticate existing customers by eliminating account takeover threats."
-    publishedDateTime: 2022-07-18T10:31:00Z
-    webUrl: "https://financialit.net/news/digital-identity/idenfy-enhances-its-identity-verification-platform-new-face-authentication"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/visual.png"
-        width: 2396
-        height: 1188
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/4d/44d05c99-272a-503d-9143-39c56597e197/629a5dcba8c76.image.jpg?resize=1024%2C489"
+        width: 1024
+        height: 489
         isCached: true
 
 secured: "w5/6QS0NYh3h8Z/dKGDhZW2C6ExyEAZXA+VyqtV9l32BPy7fLuwCojzxMb9lAxZxrOGFS2xtSMZTLuaeKjB6A2pO3h0rA4oyfgS6wmyxHt7n8LiF5NwYpGEYsrq3TnKfAFfdaQzgIW8J7ZN75D4NlC86fMUzb34xgtrZV/sNYfIVvQ8AVtuu9SHCIVjgPI4ZSfpgf/ADjljdkses9Seo3HPETQKbx+U5I9CjYCHugDkWUv8AxJ46wWzdnTHqYBD0apcOWFFn+Qws9kikyBERgGM7zgxBsD0KjFTkeEwqggZpupXnRefpnTC1JyFdcbGPwcga4KsLO0PK7elfv7PKNSxmVHXBn563sRF73t664ACez+5LXdaXpnxeIQFRhRjynH2PObvjgfUR++iwK5Adg2C73lGe0H787RQYA2RyEPZw8lnwDdmw0yKcTxjFpT0wEYUOhX1Aq3LlSmnMCocxCxUvC1aaYBrNclS2weL/hNpSPC3e846DaOUNo3A3z1gtGsB0wtbro0v9HP9+sJkjkg==;kfE0rPOWe9loxEMxY4sFnw=="

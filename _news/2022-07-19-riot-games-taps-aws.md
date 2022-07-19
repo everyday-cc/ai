@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Riot Games taps AWS for new cloud-based esports content"
+    excerpt: "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS."
+    publishedDateTime: 2022-07-19T12:09:00Z
+    webUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 19
 
 secured: "5e5ic4WbGYWDqAvmDY/BQosBsvcI9NDe/SNwd2JtmaBLwdO/k+AluliSvJvoVejS7ltFYJWk5hWsdIlEeSkS3BDHVJ9Uij3Bgt6mk1YnYv2uIt+cCcpskqSmssVOvVG8V2mnvY76tyIXa1F8UICE/bT8amd7jdCvLV3QzAf02DZQBH/7tBfTtJ4wpeV3wYFKTKCwojl1NFFLhTn2ga0ahlrlabR2mbF+/XN7cFnz4UTzkBhF4T2YubPpgTdxqI/Djcgzc7cK60pDBPrNu5x3JHoJ/nB7HjvTIQBA5Eel+tIOxKArCIBbEEQ4oCKPBka6eRgLforCLblyxjISCRDSmSjuJhKM1jwwzIDKfgt9gYilw8ZK/oM3ZTD56w2VQ3VEnKSPmov1HIBROtG73/pB7THnjit6zTeTLhJkW5j/Zi8CxNABPSqz7m4Ota4JQC58BfLReSP7RsQukt6dFsyjkDt9tgJXLhlhhAJuJljJLA4duVCm3JyYZarE3utwZi65YpwU5Ep+Bq8Vm0vEAfBTVg==;KoQGOcZOq2jd08cNqjqWVA=="
 ---

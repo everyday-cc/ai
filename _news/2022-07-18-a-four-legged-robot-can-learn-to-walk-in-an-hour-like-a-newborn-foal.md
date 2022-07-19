@@ -50,6 +50,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
+  - title: "Better Than A New Born Baby? This Robot Dog Learned To Walk On Its Own In Just One Hour"
+    excerpt: "Once more, the robot overlords are attempting to outpace humanity by learning how to walk quickly. A robotic dog developed by scientists at the Max Planck Institute for Intelligent Systems (MPI-IS) in Germany can learn to move about on all fours in about an hour."
+    publishedDateTime: 2022-07-19T13:34:00Z
+    webUrl: "https://in.mashable.com/tech/35187/better-than-a-new-born-baby-this-robot-dog-learned-to-walk-on-its-own-in-just-one-hour"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 41
   - title: "Robot dog learns to walk in one hour"
     excerpt: "Like a newborn animal, a four-legged robot stumbles around during its first walking attempts. But while a foal or a giraffe needs much longer to master walking, the robot learns to move forward fluently in just one hour."
     publishedDateTime: 2022-07-18T15:21:00Z

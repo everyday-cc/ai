@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T11:30:00Z
 originalUrl: "https://analyticsindiamag.com/ian-goodfellow-has-joined-deepmind-now-what-to-expect/"
 webUrl: "https://analyticsindiamag.com/ian-goodfellow-has-joined-deepmind-now-what-to-expect/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

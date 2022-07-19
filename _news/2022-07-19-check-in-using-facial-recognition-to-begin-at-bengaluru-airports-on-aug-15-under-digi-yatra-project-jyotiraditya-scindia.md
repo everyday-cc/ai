@@ -43,6 +43,15 @@ related:
         width: 570
         height: 322
         isCached: true
+  - title: "Check-in using face recognition at Bengaluru airport from Aug 15"
+    excerpt: "The first phase of Centre's Digi Yatra project, which allows passengers to check in at airport using facial recognition technology, will commence at Bengaluru's Kempegowda International Airport on August 15."
+    publishedDateTime: 2022-07-19T13:39:00Z
+    webUrl: "https://inshorts.com/en/news/checkin-using-face-recognition-at-bengaluru-airport-from-aug-15-1658237986290"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 34
 
 secured: "ZVroury3JLqgTAVYXcqSyQIwmk7dKJU9RxnY/a4mREOy1FX5fiPzDiqq5I81ja1NrQlEX5zgaAmG9GWabAM7DxlvHRRuiTAB3Ql8tkjXcqDTCydDNczUQk693gMY0VWdyszY6W0Ztg/LrpEfQtohz+tE/wKljmFq2TbWcFM/gsFnjDemBJtgnEzUToJKj4RU0QFAjeWiBxqI3MjTR4s05VcUlRf1C8HlvaVSytRaYD006x48N7R3cat7gK++pVITpY3pyyQmdfgdnmVd2x4YjKLE01bSSmJupdCKD8O/1qz+2/YwuB3e1M9UvASPohjth3eIIqXhWeEsKx8KgX7o1RW4aGd1BFH1ffrqearEFibvYwW3PeykDgfVM6olQwkgAKJoWRIR3PLyKxtr8VNdgP8HOPdAO9dhR/e0l3Xs7S7yQuBNpLSy2mzXrLuztKPsoNDqajrhEZ1wBq0S3fle68+3Fq634CBfMphUzgrkdCvVkZKOHmlUfQpc0R52uVWJZME9OdbYwAnExkXeIANeYg==;atilLswQ+vqFR7rf8DVZ+A=="
 ---

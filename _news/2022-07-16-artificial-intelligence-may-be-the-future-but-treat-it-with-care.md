@@ -41,6 +41,15 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "The virtuous cycle of AI research"
+    excerpt: "We recently caught up with Petar Veličković, a research scientist at DeepMind. Along with his co-authors, Petar is presenting his paper The CLRS Algorithmic Reasoning Benchmark at ICML 2022 in Baltimore, Maryland, USA."
+    publishedDateTime: 2022-07-19T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/the-virtuous-cycle-of-ai-research"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
     excerpt: "Students are looking to drive change in society by leveraging their skills in tech. They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India’s GDP"
     publishedDateTime: 2022-07-18T08:43:00Z
@@ -56,20 +65,6 @@ related:
       - url: "https://static.theprint.in/wp-content/uploads/2022/07/ATLAS_SkillTech_University2022071807542920220718081910.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Lessons and consequences of the failure to regulate AI for women’s human rights"
-    excerpt: "The current absence of adequate regulation by states to protect human rights from the deployment of AI systems is, in itself, a violation of human rights."
-    publishedDateTime: 2022-07-14T20:00:00Z
-    webUrl: "https://www.openglobalrights.org/lessons-and-consequences-of-failure-to-regulate-ai/"
-    type: article
-    provider:
-      name: openglobalrights
-      domain: openglobalrights.org
-    quality: 33
-    images:
-      - url: "https://www.openglobalrights.org/userfiles/image/Vijeyarasa%20%26%20Villarino_image1_07_14_22.jpg"
-        width: 531
-        height: 360
         isCached: true
   - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
     excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."

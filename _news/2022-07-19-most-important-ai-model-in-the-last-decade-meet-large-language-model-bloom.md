@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-19T11:30:00Z
 originalUrl: "https://slator.com/most-important-ai-model-last-decade-large-language-model-bloom/"
 webUrl: "https://slator.com/most-important-ai-model-last-decade-large-language-model-bloom/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:

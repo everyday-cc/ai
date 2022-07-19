@@ -53,6 +53,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
+    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
+    publishedDateTime: 2022-07-19T14:23:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 25
   - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
     publishedDateTime: 2022-07-15T13:52:00Z

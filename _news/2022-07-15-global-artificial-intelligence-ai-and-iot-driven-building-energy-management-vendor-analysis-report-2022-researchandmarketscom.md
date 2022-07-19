@@ -52,6 +52,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
+    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
+    publishedDateTime: 2022-07-19T14:23:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 25
   - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
     excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
     publishedDateTime: 2022-07-18T00:35:00Z

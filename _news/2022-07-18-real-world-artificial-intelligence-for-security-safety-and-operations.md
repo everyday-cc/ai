@@ -7,8 +7,8 @@ originalUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-
 webUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Campus Safety Magazine
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Applying fictitious AI to the real world"
+    excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
+    publishedDateTime: 2022-07-19T13:43:00Z
+    webUrl: "https://techxplore.com/news/2022-07-fictitious-ai-real-world.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
   - title: "Global AI for Drug Target Discovery and Validation"
     excerpt: "The \"Growth Opportunities in AI for Drug Target Discovery and Validation\" report has been added to ResearchAndMarkets.com's offering. The score provided by the AI algorithms is responsible for the prioritization of the drug target."
     publishedDateTime: 2022-07-18T17:12:00Z

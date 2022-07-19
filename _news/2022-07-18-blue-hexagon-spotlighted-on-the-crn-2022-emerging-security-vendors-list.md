@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-18T14:01:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28100644/blue-hexagon-spotlighted-on-the-crn-2022-emerging-security-vendors-list"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/b28100644/blue-hexagon-spotlighted-on-the-crn-2022-emerging-security-vendors-list"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Benzinga.com

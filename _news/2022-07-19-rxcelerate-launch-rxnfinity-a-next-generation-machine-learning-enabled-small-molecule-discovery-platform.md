@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T12:08:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56587025-rxcelerate-launch-rxnfinity-a-next-generation-machine-learning-enabled-small-molecule-discovery-platform-399.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56587025-rxcelerate-launch-rxnfinity-a-next-generation-machine-learning-enabled-small-molecule-discovery-platform-399.htm"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Finanznachrichten

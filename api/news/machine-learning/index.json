@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
+      "title": "Gmail is getting a machine learning boost for smarter searches",
+      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
+      "title": "Localize content into multiple languages using AWS machine learning services",
+      "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/localize-content.jpg",
+          "width": 1530,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:29:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
       "title": "Using AI and machine learning to kickstart climate change fightback",
       "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
@@ -139,6 +244,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
+      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
+      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security",
+        "AI in Autos"
       ]
     },
     {
@@ -958,8 +1108,8 @@
       "title": "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence",
       "excerpt": "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
+      "webUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -969,11 +1119,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:28:00-07:00",
+      "publishedDateTime": "2022-07-11T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1245,136 +1395,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-malignant-or-benign-quick-and-accurate-diagnosis-with-artificial-tactile-neurons.md",
-      "title": "Malignant or benign? Quick and accurate diagnosis with artificial tactile neurons",
-      "excerpt": "Teams led by Dr. Hyunjung Yi and Suyoun Lee have developed a simple but highly accurate disease diagnosis technology by combining tactile neuron devices with artificial neural network learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
-      "publishedDateTime": "2022-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion.md",
-      "title": "KDD 2022 Announces Special Conference Tracks for Government, Health, Deep Learning, Diversity and Inclusion",
-      "excerpt": "KDD 2022, the premier interdisciplinary conference in data science, today announced special days dedicated to health, government, deep learning, and equity, diversity and inclusion (EDI). Taking place between Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/890716/KDD_Logo.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-accelerate-aiml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore.md",
-      "title": "Accelerate AI/ML with the new IPU-based cloud platform by G-Core Labs & Graphcore",
-      "excerpt": "By Seva Vayner, Director of Edge Cloud at G-Core Labs More and more businesses are looking to implement artificial intelligence and machine learning into their processes and solutions. Machine learning models can impact businesses across all verticals,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
-      "originalUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1024х683.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Machine Learning"
       ]

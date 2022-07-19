@@ -2,6 +2,301 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-19-can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies.md",
+      "title": "Can Tom Siebel Fulfil His Vision To Make C3 AI One Of The World’s Next Great Software Companies?",
+      "excerpt": "Founded in 2009 long before the wide adoption of either the Cloud or AI by legendary Silicon Valley entrepreneur and billionaire Tom Siebel, C3 provides an open model-AI architecture that simplifies data science and application development to offer an end-to-end platform for deploying AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d6c84fe0962dd880f269bb/0x0.jpg?format=jpg&crop=500,282,x0,y11,safe&width=1200",
+          "width": 500,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
+      "publishedDateTime": "2022-07-19T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
+      "title": "Gmail is getting a machine learning boost for smarter searches",
+      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
+      "title": "Localize content into multiple languages using AWS machine learning services",
+      "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/localize-content.jpg",
+          "width": 1530,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:29:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels.md",
+      "title": "Identify rooftop solar panels from satellite imagery using Amazon Rekognition Custom Labels",
+      "excerpt": "Renewable resources like sunlight provide a sustainable and carbon neutral mechanism to generate power. Governments in many countries are providing incentives and subsidies to households to install solar panels as part of small-scale renewable energy schemes. This has created a huge demand for solar",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/rooftop-solar-panels.jpg",
+          "width": 1533,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:24:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-deepmind-gave-an-ai-intuition-by-training-it-like-a-baby.md",
+      "title": "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby",
+      "excerpt": "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
+      "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
+      "publishedDateTime": "2022-07-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.md",
+      "title": "‘Care is increasingly moving outside the hospital, retail healthcare will make it a new reality’",
+      "excerpt": "In healthcare, the health-tech industry is gaining traction and has emerged as the leader in terms of growth. The health-tech market has been driven p..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92981804,imgsize-22320,width-1200,height-628,overlay-ethealthworld/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "publishedDateTime": "2022-07-19T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-robots-arent-replacing-employees-theyre-enhancing-them.md",
       "title": "Robots Aren’t Replacing Employees, They’re Enhancing Them",
       "excerpt": "Tedious and repetitive tasks are one of the biggest issues contributing to burnout within finance and accounting teams.",
@@ -62,7 +357,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -164,7 +459,7 @@
       "originalUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -510,7 +805,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -697,22 +992,22 @@
       ]
     },
     {
-      "path": "_news/2022-07-18-accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations.md",
-      "title": "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations",
-      "excerpt": "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using",
+      "path": "_news/2022-07-18-generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator.md",
+      "title": "Generate synchronized closed captions and audio using the Amazon Polly subtitle generator",
+      "excerpt": "Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions, helping to improve productivity and reduce costs. As our customers continue to use Amazon Polly for its rich set of features and ease of use, we have observed a demand for the ability",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 77,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:11:20-07:00",
+      "publishedDateTime": "2022-07-18T11:15:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -737,7 +1032,7 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Computer Vision"
+        "Natural Language Processing"
       ]
     },
     {
@@ -927,298 +1222,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
-      "title": "Microsoft launches simulator to train drone AI systems",
-      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62202118",
-      "originalUrl": "https://www.bbc.com/news/technology-62202118",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
-      "publishedDateTime": "2022-07-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
-      "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
-      "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
-      "originalUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1_ctE__hKyugfxRaoXUQpqmQ.gif",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
-      "publishedDateTime": "2022-07-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content.md",
-      "title": "Riot Games and AWS are teaming up to deliver fresh esports content",
-      "excerpt": "Riot Games is teaming up with Amazon Web Services to bring all new data analytics and experiences to esports fans around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Riot_AWS-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/",
-      "publishedDateTime": "2022-07-18T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-github-copilot-can-this-ai-programmer-really-improve-developer-productivity.md",
-      "title": "GitHub Copilot: Can this 'AI programmer' really improve developer productivity?",
-      "excerpt": "GitHub knows Copilot's code suggestions aren't always accurate or fast, but its engineers argue that misses the point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
-      "originalUrl": "https://www.zdnet.com/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
-      "publishedDateTime": "2022-07-18T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-laivly-launches-attended-ai-platform-to-modernize-call-centers-at-scale.md",
-      "title": "Laivly Launches Attended AI Platform to Modernize Call Centers at Scale",
-      "excerpt": "Real-time AI platform proven to increase ROI, drive better customer experience, generate greater productivity and higher job satisfaction for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/laivly-launches-attended-ai-platform-to-modernize-call-centers-at-scale-1031593838",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/laivly-launches-attended-ai-platform-to-modernize-call-centers-at-scale-1031593838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1860644/Laivly_Logo.jpg",
-          "width": 400,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects.md",
-      "title": "Artificial intelligence, deep learning to assist diagnosing birth defects",
-      "excerpt": "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "publishedDateTime": "2022-07-18T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T12:40:00Z
 originalUrl: "https://techxplore.com/news/2022-07-aboriginal-language-complex-ai-problems.html"
 webUrl: "https://techxplore.com/news/2022-07-aboriginal-language-complex-ai-problems.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

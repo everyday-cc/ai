@@ -27,15 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s latest research at ICML 2022"
-    excerpt: "Starting this weekend, the thirty-ninth International Conference on Machine Learning (ICML 2022) is meeting from 17-23 July, 2022 at the Baltimore Convention Center in Maryland, USA, and will be running as a hybrid event. Researchers working across artificial intelligence, data science, machine vision,"
-    publishedDateTime: 2022-07-15T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/deepminds-latest-research-at-icml-2022"
+  - title: "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby"
+    excerpt: "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp."
+    publishedDateTime: 2022-07-19T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/"
+    ampWebUrl: "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "DeepMind: AI May Inherit Human Cognitive Limitations, Could Benefit From ‘Formal Education’"
+    excerpt: "A new collaboration from DeepMind and Stanford University suggests that AI may often be no better at abstract reasoning than people are, because machine learning models obtain their reasoning architectures from real-world,"
+    publishedDateTime: 2022-07-15T13:19:00Z
+    webUrl: "https://www.unite.ai/deepmind-ai-may-inherit-human-cognitive-limitations-could-benefit-from-formal-education/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 63
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/thinking_MAIN.jpg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "uKgOc/7DJwZDZZJyW4cJsaZIyD7mtf3yiCs4uzTwaI6+vWBzJxWlTMouOlkTAmYDkUk+v4ekJESuZtf+asSnJJyy1a/Kb8CHaUASLcp2GpKmT7UVj+Qirqsodue5b0f6L/RV/neXFQRilHhGXYBSb8V5Do0JiHZZtaFMHWUc65FKi8CBpCXsH5PleRhACvhTobqqmj4xLAdWjdH/hYMks8QLU6sNhNqcvWRFeveruJrsZaJldZ2SHHoHBCYlVV3mZx5kilm97I6flumgfoHMzMc1JrMT/IdP0QGTQs30aR/U3cAnB3e3sEbqwsM0ZObKuPGvgLBhXfRwqSZ9R2iTIkdrndnH76/OU4F7GS96iu6jcUYWrphc/45/VxWnaWdOTXQTGfABNR4WxAi6czgwotwLKu3b8Dnb/D0FlVsrgKmpQL9RCPrNJGVgJ+E/DR/cPZiyz1w0oOdKIlGXUFYK8x/OX7SipFtJLhnwtVnFERMc2AccvELdAU2iEIOcam3xrOPsbfXatWf9DnPGsBESTQ==;GWX+ygX+BQnreIUu+2qqHA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/"
 type: article
 quality: 87
-heat: 97
+heat: 108
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "This AI-powered prosthetic hand is bringing design and style to a life-changing product"
+    excerpt: "Esper Bionics is elevating both the science and the design of prosthetics, while turning it into a lifestyle category."
+    publishedDateTime: 2022-07-19T13:18:00Z
+    webUrl: "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-bringing-design-and-style-to-a-life-changing-product/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 39
 
 secured: "1GR1bM8HIZjdKh2/AYKnKGdiushJHH6DdSGXJZe24C53A0Qa7W1DjH0ODOVmfYo6HR5SZTZ7kJTAAXk33xXORivOItc4vA4ZKHGjif/hJqU2a5uCod2ol2KWuW+4fqmupmgKUg54/4nCoazegmPQYjC8MVW93h5hJQHECiZFfcUTbm1wMdSZ/A3kI38MpZmPWaxTFHBeflctJ2uAopoG1ApV0yskhi9clCplreYu/xjYV7glfmsPSFeyi0b6QoTrFpGzvfqiR6Zv48oEAJC5QeeyW7dUg+czicz0kiCryZY09tHpzR4Mdy6BWDcIBTDyZqHodW6APF8ZixfUZXh8Azk453ZPy/EP+OoJTm1MojQAuT+Q+BFznK1ScR29VKLEjVYCQ9GObIgNZz914TR6LQfqMv9VYS3MIRMaPtZ5xlvmDyr6Om0Kt3Q4n3iwsPxUiflFkKKvbXSWw/aRVI89SOhYccN8Fj/0Mi67x0PTm0Ef1DIYzX+QrTkI3sxfG/ZY+y0XVhn/oRvhkpF+MqzJUw==;u7L2Re8bKQXtX/eFd4XRWQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T12:37:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/novelis-announces-partnership-with-innovative-recycling-startup-sortera-alloys-1031597041"
 webUrl: "https://markets.businessinsider.com/news/stocks/novelis-announces-partnership-with-innovative-recycling-startup-sortera-alloys-1031597041"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Business Insider

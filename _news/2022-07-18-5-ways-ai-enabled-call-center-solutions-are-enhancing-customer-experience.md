@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Univar Solutions Receives Top Recognition in USCX Awards for Exceptional Customer Experience"
+    excerpt: "Company wins four U.S. Customer Experience Awards across all its nomination categories for customer experience, strategy, and use of data-driven"
+    publishedDateTime: 2022-07-18T20:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/univar-solutions-receives-top-recognition-in-uscx-awards-for-exceptional-customer-experience-1031594996"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1861425/Univar_Solutions_Receives_Top_Recognition.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Giga Cars and AiBorne Tech Partner to Transform Car Buying Experience with Artificial Intelligence"
     excerpt: "Giga Cars, the largest used car superstore in India has partnered with AiBorne Tech, a leading provider of Artificial Intelligence-powered visual inspection solutions with an a"
     publishedDateTime: 2022-07-15T04:30:00Z

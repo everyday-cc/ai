@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top 8 Uses Of Data Analytics In Accounting And Finance"
+    excerpt: "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations."
+    publishedDateTime: 2022-07-19T14:01:00Z
+    webUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/"
+    ampWebUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 61
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "NFRA to identify risk parameters using data analytics, artificial intelligence for audit review"
     excerpt: "\"There would be different weightages for different risk parameters and we will be using more technology like data analytics and artificial intelligence in this regard,\" Pandey noted. Besides the ..."
     publishedDateTime: 2022-07-15T11:19:00Z
@@ -43,20 +59,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-92900692,imgsize-19434,width-1200,height-628,overlay-etcio/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Deep Learning Market Size 2022 Analysis by Global Key Players"
-    excerpt: "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market is ..."
-    publishedDateTime: 2022-07-14T19:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-2022-analysis-by-global-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Ukraine-Army-Drones-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Esri Melds GIS with AI, Graph, and Analytics"
     excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"

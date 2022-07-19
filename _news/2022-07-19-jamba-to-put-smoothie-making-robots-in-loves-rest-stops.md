@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:00:00Z
 originalUrl: "https://www.restaurantbusinessonline.com/technology/jamba-put-smoothie-making-robots-loves-rest-stops"
 webUrl: "https://www.restaurantbusinessonline.com/technology/jamba-put-smoothie-making-robots-loves-rest-stops"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Restaurant Business

@@ -57,6 +57,51 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
+      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
+      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii.md",
       "title": "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii",
       "excerpt": "Applications are now open for high school students interested in learning about artificial intelligence. Bootcamps will be held across the country, including in Honolulu.",
@@ -65,7 +110,7 @@
       "originalUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1329,58 +1374,6 @@
         "name": "Medicine Buffalo",
         "domain": "buffalo.edu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-einrides-driverless-electric-pod-approved-for-us-public-roads.md",
-      "title": "Einride's Driverless Electric Pod Approved for US Public Roads",
-      "excerpt": "Swedish transport company Einride got the green light to operate autonomous electric trucks without a driver present on US public roads. The National Highway Traffic Safety Administration approved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/einrides-driverless-electric-pod-approved-for-us-public-roads",
-      "originalUrl": "https://www.pcmag.com/news/einrides-driverless-electric-pod-approved-for-us-public-roads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01rHJw6orrO7bZqmlxZ9Z7H-2.fit_lim.size_1200x630.v1656579363.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

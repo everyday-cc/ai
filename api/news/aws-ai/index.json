@@ -2,22 +2,84 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-18-accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations.md",
-      "title": "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations",
-      "excerpt": "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using",
+      "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
+      "title": "Localize content into multiple languages using AWS machine learning services",
+      "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 103,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/localize-content.jpg",
+          "width": 1530,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:11:20-07:00",
+      "publishedDateTime": "2022-07-19T08:29:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels.md",
+      "title": "Identify rooftop solar panels from satellite imagery using Amazon Rekognition Custom Labels",
+      "excerpt": "Renewable resources like sunlight provide a sustainable and carbon neutral mechanism to generate power. Governments in many countries are providing incentives and subsidies to households to install solar panels as part of small-scale renewable energy schemes. This has created a huge demand for solar",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/rooftop-solar-panels.jpg",
+          "width": 1533,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:24:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -46,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator.md",
+      "title": "Generate synchronized closed captions and audio using the Amazon Polly subtitle generator",
+      "excerpt": "Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions, helping to improve productivity and reduce costs. As our customers continue to use Amazon Polly for its rich set of features and ease of use, we have observed a demand for the ability",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:15:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content.md",
       "title": "Riot Games and AWS are teaming up to deliver fresh esports content",
       "excerpt": "Riot Games is teaming up with Amazon Web Services to bring all new data analytics and experiences to esports fans around the world.",
@@ -54,7 +160,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1340,96 +1446,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-apple-reportedly-preparing-to-release-a-flood-of-new-products.md",
-      "title": "Apple reportedly preparing to release a ‘flood of new products’",
-      "excerpt": "Apple Inc. is preparing to launch a wide range of new products in the second half of the year and early 2023, according to a report by Bloomberg’s Mark Gurman. Describing the forthcoming ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/26/apple-reportedly-preparing-release-flood-new-products/",
-      "originalUrl": "https://siliconangle.com/2022/06/26/apple-reportedly-preparing-release-flood-new-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/Apple_iphone13_design_09142021.jpg",
-          "width": 1960,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-aws-azure-google-cloud-top-cloud-ai-developer-market.md",
-      "title": "AWS, Azure, Google Cloud top cloud AI developer market",
-      "excerpt": "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping US$135 billion by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
-      "originalUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220628072254_0_0_0_0_70__Features_20211207121924_cloud_1.jpg",
-          "width": 1183,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

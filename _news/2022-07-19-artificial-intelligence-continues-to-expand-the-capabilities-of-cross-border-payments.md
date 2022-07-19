@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:53:00Z
 originalUrl: "https://financialit.net/news/artificial-intelligence/artificial-intelligence-continues-expand-capabilities-cross-border"
 webUrl: "https://financialit.net/news/artificial-intelligence/artificial-intelligence-continues-expand-capabilities-cross-border"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Financial IT

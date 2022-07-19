@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 870
         height: 500
         isCached: true
+  - title: "Riot Games taps AWS for new cloud-based esports content"
+    excerpt: "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS."
+    publishedDateTime: 2022-07-19T12:09:00Z
+    webUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 19
 
 secured: "Tka+C4Knmek2uOL3IWObxat+5gw0FZgWZPRXEMu5ib5fcl8MTj3/670tlwrxlGE0zLcSP7XwKIFmPrPLQI1DdzpJgeD9cBxKqM+8gv7/vVXj2uYtjq8WwJ7N+g2Hvud6Ag+DBdNdNAOQT8olgy8cB0eJjs8zO56cN0vTdDAGjxknQ9fOn6opXU3rZkQbZ9GqPoE9VHPjCaeqlgsTs+kczLjPY5b0Ybqg7c2GEs6wTjkgTviADSGsxOuK/d5vuJeh+3Tpsf3jneu7T1C89WCCpFNEJJcXIiWBK4fVw6+CU6H2YhNgVknODq3mAdtZHyPiAEkk4bo1CxxsHnNSZ09p1Acjq5vgT0aGN9U2f4kbVgHPUtOc8Zzun7w/WPCA22uv7syhU9s6kn1hDyEwZoSjad7ivcvCh+mOutQCZN26WewMNXr38ypunr9mZTXTUOZQKsNjr2MHeXBIWWBN2rLpB9a+vNw/knt6XrUoUMrOrIdokzQo64xip4TaH+ZskGJGj9PMbXSg+k1NUpVjbVuInw==;nWu1E2yZfHmXANBkp4W7mw=="
 ---

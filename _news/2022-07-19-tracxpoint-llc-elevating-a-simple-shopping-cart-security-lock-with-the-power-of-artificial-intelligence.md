@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:57:00Z
 originalUrl: "https://www.dgap.de/dgap/News/corporate/tracxpoint-llc-elevating-simple-shopping-cart-security-lock-with-the-power-artificial-intelligence/?newsID=1616341"
 webUrl: "https://www.dgap.de/dgap/News/corporate/tracxpoint-llc-elevating-simple-shopping-cart-security-lock-with-the-power-artificial-intelligence/?newsID=1616341"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: dgap

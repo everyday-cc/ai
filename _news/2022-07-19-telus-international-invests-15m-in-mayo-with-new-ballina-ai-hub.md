@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T13:05:00Z
 originalUrl: "https://www.siliconrepublic.com/business/telus-international-ballina-ai"
 webUrl: "https://www.siliconrepublic.com/business/telus-international-ballina-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SiliconRepublic

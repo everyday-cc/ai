@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T12:00:00Z
 originalUrl: "https://techcrunch.com/2022/07/19/hiddenlayer-emerges-from-stealth-to-protect-ai-models-from-attacks/"
 webUrl: "https://techcrunch.com/2022/07/19/hiddenlayer-emerges-from-stealth-to-protect-ai-models-from-attacks/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch
