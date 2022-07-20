@@ -32,6 +32,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Kami Vision grows by 350 percent as demand for AI services in security & safety industry surges"
+    excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced the company has grown 350 percent since its launch in August 2020."
+    publishedDateTime: 2022-07-20T10:52:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/kami-vision-grows-350-percent-demand-co-1658295198-ga.1658297973.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 24
   - title: "Global AI for Drug Target Discovery and Validation"
     excerpt: "The \"Growth Opportunities in AI for Drug Target Discovery and Validation\" report has been added to ResearchAndMarkets.com's offering. The score provided by the AI algorithms is responsible for the prioritization of the drug target."
     publishedDateTime: 2022-07-18T17:12:00Z

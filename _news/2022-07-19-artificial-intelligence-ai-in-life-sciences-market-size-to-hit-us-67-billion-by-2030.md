@@ -20,20 +20,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
-    publishedDateTime: 2022-07-18T14:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
+  - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
+    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
+    publishedDateTime: 2022-07-20T11:45:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 28
   - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
     excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
     publishedDateTime: 2022-07-18T00:35:00Z
@@ -48,6 +43,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
+    publishedDateTime: 2022-07-18T14:57:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-18-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-25-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
 
 secured: "NZaGGBRTaSPI4n76Vl7/eQLaUwZwy7FFhRHaYp4f5fqWLWqEvins4iKcOl3looMsg+lNr1b5zh4odmhvnO57ymGH7VZg2m3r3IRqiH7u80R0B1vlY1ZULj7p+C5Wn9dmwnKLI0EWXNcCapU92SY5xY1r5iugnoTpZ4xsReoH2gCUx1g3TpkC5zIqmjTGLMczTszHnNGfO40gzJktJT8bQEPzI+e2tAkwPiqjdjFj7FLvkvq42QjakCMi7bGGUJ7/pvNQhDlTwwBGLFV/FJmV4L4ZDQow2/7u54FawQ5T62x5n1Nx+twPuyHGAku7SuJz+tKfbjLSG1665N77Y3e9ZZnlV4gbeGxnCQ2RwldcykU=;nWUeIz8BXCeRw8mXlzqr9Q=="
 ---

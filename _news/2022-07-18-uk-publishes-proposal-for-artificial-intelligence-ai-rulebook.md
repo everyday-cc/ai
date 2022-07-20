@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposa
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     provider:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
+    quality: 17
+  - title: "UK proposes new AI rulebook"
+    excerpt: "The UK government has published its plans to regulate the use of artificial intelligence (AI) which would see it depart from the EU's strategy to establish a centralised body to oversee the use of technology."
+    publishedDateTime: 2022-07-20T10:51:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40678/uk-proposes-new-ai-rulebook"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 17
 
 secured: "DZSkF4Cv5FhQWWbD3NeZCms9/mXDcYlK6daK/NE51S7l6sJGNRyJ8zstz+O5x6y8jaj+ZXEyp/vsFWwDF/5vFMQR164OKed8LFzNIBNFSMo5goP/i37qHGyKH6xH7rrI05z0Seg02HTvG7wAM1SRfnrV7NyVU4DyIwE/PKsE+sRUlUUDh8yv+kJnj3VQGcBUi2FzDAsoRkRA7kTupTYvJoL555IxTJeOczoI7PUfV87b/Oasnd7PaE0dCw/kTHENuwcxxOUt8oghbjYFZwBUT5zHrW92T32i7PBm6WyX31OiKHPvZF2Fk/WTevFuURhde7NwO9vnSEUrKgm+2HO/+v9vjL/zvpd51vzEkHn2bxc=;g1G8AL5Jx/mX4Qqp09qFdA=="

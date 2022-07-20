@@ -48,6 +48,15 @@ related:
         width: 400
         height: 276
         isCached: true
+  - title: "UK proposes new AI rulebook"
+    excerpt: "The UK government has published its plans to regulate the use of artificial intelligence (AI) which would see it depart from the EU's strategy to establish a centralised body to oversee the use of technology."
+    publishedDateTime: 2022-07-20T10:51:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40678/uk-proposes-new-ai-rulebook"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "UOwe2Nfx0pucghQ/BKD3xTnEANEZC47Ap4xMqqZ9NLR4zHInWmjL5+EfEBkUCEAmcd31pBPm/VTMLmz1RMJP15TjyZoNYhbQ9N+4te0pLvw5LoUZU0c0pN71wymBnBUDsQaWhQXLTvqQ6O8lTP/8eFGD5WSRKM5wYtj9jC/ZZX0gSUb/dpQfPFYUeGFuiMG9HELHE5BJHTBvL3zH2HG75aQdbWtPUvaTgVmlXSehqiQ2HR1XMeWdX7IlWDLFUdDeU+fr6fMU9qn/PzoFJV87AndBXkMGa+VMSLDYFN5/2Aux5IuoI5ck3SJd1/dRBMQBMk1ZIe1DqJVsoze83Pw1gx9+bJzwKmBS25RTCmScE2lhStKNis5VbINPas/2PfR3zvSGWtLWci54Za2BNsNFQMFvr9kcoCiYUKKPd/ZVgRHhDtlF5FJpcqQUYU6mqhRDvJ/jWVQzTnONNQrRUfZ1LKOBSSjnREsKg2mVlGbhvESw+ARrw/fSvEZLgXnWCZS7MkPXZlzBFAIW0EA27ADsqQ==;/pnQGdrYzV9ujDtAF98sTg=="
 ---

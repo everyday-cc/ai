@@ -40,6 +40,15 @@ related:
         width: 322
         height: 250
         isCached: true
+  - title: "Global Artificial Intelligence in Healthcare Market (2022 to 2030) - Size, Share and Trends Analysis Report - ResearchAndMarkets.com"
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. Nuance Communications,"
+    publishedDateTime: 2022-07-20T11:47:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-global-artificial-intelligence-in-healthcare-market-2022-to-2030-size-share-and-trends-analysis-report-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 3
 
 secured: "fIAasiPI04Ho3bjCnABg2x9UKHOJONkbq5Z1GitbCUWDeAP58nhJ3c+L/qdZcRfJjvEKKyZg57oCv1GjVyXiEw5BZG5oP4MQcz1gGIL98+0qFrNzPF6kvlYIY+2mGlQEg4o6HVwABRc7IcawrtksD430SBTKKlcrUUWbQE1KkDTuvGiTJd2QAhrQBX3a1xiyycyfUl6Sn+8CIq28gM/TZDQUJVdeJZEhsVoY0wSmI9rutXqgdy3ASOH4AcIifMZgghdT2X1dG9kIprn2pqA2bU6MYhXGiHq7+9MgGLYmJ9fbADTFQ42/Vli3Da84w5zX8ZsCHCfV3SB9d5TLT0JL/r7OLnUWU3d+O4cHTJ4OIL4=;okdkopNRhxTU1OoTYqsElw=="
 ---

@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Esri Melds GIS with AI, Graph, and Analytics"
-    excerpt: "Esri has long been the industry leader in geographic information systems (GIS), which are used by urban planners, building engineers, and landscape"
-    publishedDateTime: 2022-07-15T18:32:00Z
-    webUrl: "https://www.datanami.com/2022/07/15/esri-melds-gis-with-ai-graph-and-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
   - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
     excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
     publishedDateTime: 2022-07-19T23:03:00Z

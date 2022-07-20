@@ -32,6 +32,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Kami Vision grows by 350 percent as demand for AI services in security & safety industry surges"
+    excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced the company has grown 350 percent since its launch in August 2020."
+    publishedDateTime: 2022-07-20T10:52:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/kami-vision-grows-350-percent-demand-co-1658295198-ga.1658297973.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 24
   - title: "Applying fictitious AI to the real world"
     excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
     publishedDateTime: 2022-07-19T13:43:00Z

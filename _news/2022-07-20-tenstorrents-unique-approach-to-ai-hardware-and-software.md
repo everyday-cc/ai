@@ -8,8 +8,8 @@ webUrl: "https://www.electronicsforu.com/india-corner/tenstorrents-unique-approa
 ampWebUrl: "https://www.electronicsforu.com/india-corner/tenstorrents-unique-approach-to-ai-hardware-software/amp"
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/india-corner/tenstorrents-unique-approach-to-ai-hardware-software/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/11/Artificial-Intelligence-Garment-Generator.jpg"

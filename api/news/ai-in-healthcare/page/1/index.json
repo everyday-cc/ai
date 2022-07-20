@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-20-iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students.md",
+      "title": "IIT Palakkad offers free 12-week online course on artificial intelligence (AI) for students",
+      "excerpt": "IIT Palakkad is offering a free 12-week online course on artificial intelligence (AI) for students on the NPTEL platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "originalUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/boy-1986107_1280-647x363.jpeg?5xvcK3yrJoB82_1jS0Y8wtsaZJuspTA.",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "publishedDateTime": "2022-07-20T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
       "title": "Should We Worry About Artificial Intelligence?",
       "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
@@ -203,7 +246,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1312,10 +1355,10 @@
     {
       "path": "_news/2022-07-02-could-artificial-intelligence-replace-therapists.md",
       "title": "Could Artificial Intelligence Replace Therapists?",
-      "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy.",
+      "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist ... technology can be used as an effective tool for psychological therapy. Further, if people who interact with LaMDA believe it is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1332,9 +1375,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
-      "publishedDateTime": "2022-07-02T07:44:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "publishedDateTime": "2022-07-02T08:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -1349,52 +1392,7 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-facial-recognition-software-mental-healthcare-in-schools-among-63-new-alabama-laws.md",
-      "title": "Facial recognition software, mental healthcare in schools among 63 new Alabama laws",
-      "excerpt": "On July 1, more than 60 new laws went into effect in Alabama, among those are laws regarding facial-recognition software and mental healthcare in schools. State Senator Arthur Orr sponsored several new laws in the 2022 legislative session,",
-      "sourceUrl": null,
-      "webUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
-      "originalUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-waff-prod.cdn.arcpublishing.com/resizer/XlXt-tLT2A48ziQkvqnMnVz_XQQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7Q47P474QJD6JIIRH23WO737WA.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-waff-com.cdn.ampproject.org/c/s/www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
-      "publishedDateTime": "2022-07-02T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAFF",
-        "domain": "waff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     }
   ],

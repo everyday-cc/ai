@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What AI and power plants have in common"
-    excerpt: "AI is powering progress and innovation, becoming crucial to our economy with the same scale impact as the introduction of electricity."
-    publishedDateTime: 2022-07-15T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
   - title: "Zesty.ai raises $33M for its AI-powered climate risk platform"
     excerpt: "Zesty.ai Inc., a startup with a climate risk platform that provides data about wildfires, storms and other severe weather events, has raised $33 million in new financing. The company announced the investment this morning."
     publishedDateTime: 2022-07-19T21:02:00Z

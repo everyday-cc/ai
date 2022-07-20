@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 709
         isCached: true
+  - title: "Microsoft announces simulator for autonomous aircraft development"
+    excerpt: "Microsoft has unveiled a simulator for training autonomous drones, powered by Microsoft Azure to allow for millions of complex flight simulations per second. Project AirSim is the successor to Microsoft’s earlier AirSim,"
+    publishedDateTime: 2022-07-20T10:25:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/368606/microsoft-announces-simulator-for-autonomous-aircraft-development"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1658311975/itpro/Microsoft-Project-AirSim-Promo1.png"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft’s Project AirSim tests and trains AI-powered aircrafts"
     excerpt: "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts."
     publishedDateTime: 2022-07-18T18:49:00Z

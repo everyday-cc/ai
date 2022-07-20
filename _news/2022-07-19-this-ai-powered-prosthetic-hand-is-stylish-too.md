@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "What AI and power plants have in common"
-    excerpt: "AI is powering progress and innovation, becoming crucial to our economy with the same scale impact as the introduction of electricity."
-    publishedDateTime: 2022-07-15T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/07/15/what-ai-and-power-plants-have-in-common/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
   - title: "This AI-powered prosthetic hand is bringing design and style to a life-changing product"
     excerpt: "Esper Bionics is elevating both the science and the design of prosthetics, while turning it into a lifestyle category."
     publishedDateTime: 2022-07-19T13:18:00Z
