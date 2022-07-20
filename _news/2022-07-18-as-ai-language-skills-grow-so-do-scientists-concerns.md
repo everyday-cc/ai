@@ -1,29 +1,47 @@
 ---
 category: news
 title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they’re not so good — and sometimes dangerously bad — at handling other seemingly straightforward tasks."
-publishedDateTime: 2022-07-17T19:31:00Z
-originalUrl: "https://apnews.com/1a652de47c2d0e502c2896748d9d1d5f"
-webUrl: "https://apnews.com/1a652de47c2d0e502c2896748d9d1d5f"
+excerpt: "A coalition of AI researchers is launching an open-access language model meant to bring some transparency to a relatively secret technology."
+publishedDateTime: 2022-07-18T14:56:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
+webUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38698"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 137
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/f8b8f9e15e70476aadf11f573219f722/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-07/220718-steven-le-scao-ai-mn-1040-c489c3.jpg"
+    width: 1240
+    height: 827
     isCached: true
 
 related:
+  - title: "As AI language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+    publishedDateTime: 2022-07-18T18:06:00Z
+    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
+    ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 59
+    images:
+      - url: "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "As AI language skills grow, scientists worry about accuracy"
     excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
     publishedDateTime: 2022-07-17T18:24:00Z
@@ -70,17 +88,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-18T22:55:00Z
-    webUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
-    ampWebUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
     excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
     publishedDateTime: 2022-07-18T03:18:00Z
@@ -96,6 +103,6 @@ related:
         height: 315
         isCached: true
 
-secured: "dDkezlmYcV/R/lYlec+axZUloKYQW6xNRzuELGeWcQNp8E7BObQUFX14fAqEZIwBJy2phWslFPQfFkza7/H7oJKJJce3Zdy86uRR2DAtuhi4kA1TchFxYGknwrznXjEOeywCi7av2BPnFlMY+VreouKa5r1LiJ5VOicis1qBInPPrZRT4kiPUQLhlYYd4Ouofn9EL+Iq865H+XiEPwO7GaLCqaR23aDB9rrS7VLvxv6EdpR3kwPtWeDd1hxIX4xzdgOv2yTt/tagXwGS+0BwczcmEvFE7LN5mGkVG3Z4g4OXVmXMOr7I6V4eUpdweJnZuMfSV1Kk/RIgiyQNhFdxoDthm9RKg+8177Z2d/vgivHOzjrjBOFLK5E5D/McCi05ygj43eJtoOTJGiApfAVcBzJeaEfQlikuKURtf0GhcJtwkIak5ErTg3oUsBkIZbwpcUEq3GSbbdt+5hdMvAXaFC3/bmGVfwL5i6DihTcykX2SJ2MoUesxp3bA5MqObWRGGnIWcTzc0Uj20K2na1VivA==;kDg2bh2sH52q4eZYewG6eg=="
+secured: "abpc7alBDOBSByO9gSCu0ftpjDzkl7O0BjIeC+TePi/KTZCJIuhDz++CTmXyh33kKMFZ6TCDL3CuRVrfHbu6X9FYGpUSEe9LCWlus7dqx9NtbWJjBZph/Goifr0jEftuzdiWhVfwV6ATuuQ9okWzevHrTJRnQXEEIV5KmApysRFbbup69GkCr/3ZHcdL04B20JA7FGstLoVs3SubVWLtHnOB4tcTa9pFTPc/cPEGsTwXJs/qrhpujb6YOTzmvaiGuj1H24tJrBZ5EuJSB9FfMzEWWxpPim8r19k+q6mFP8dYjR0N9acFty2T2IequDUmDTt0VQKr6T70qZnxDo8sk6BfEMmi7+968rptvJvYDqY=;xk0Yzq6M77pFpk0O4H+UqA=="
 ---
 

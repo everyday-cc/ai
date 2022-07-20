@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-15-indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules.md",
+      "title": "Indian tech startups raise $6 billion in April-June quarter, Fintech rules",
+      "excerpt": "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "publishedDateTime": "2022-07-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-4-key-opportunities-to-leverage-in-fintech-and-beyond.md",
       "title": "4 Key Opportunities to Leverage in Fintech and Beyond",
       "excerpt": "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?",
@@ -182,6 +225,49 @@
         "AI in Finance",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-sentinels-recognized-as-a-top-ai-innovator-in-financial-services-across-the-world.md",
+      "title": "Sentinels Recognized as a Top AI Innovator in Financial Services Across the World",
+      "excerpt": "Sentinels, a Fenergo company and Europe’s leading intelligent transaction monitoring platform, has been recognized as one of the world’s most innovative AI solution providers by being included in the AI FinTech 100 List for 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
+      "originalUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/sentinaels_0.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1247,74 +1333,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution.md",
-      "title": "InvestorNewsBreaks – Infobird Co. Ltd. (NASDAQ: IFBD) Selected by Leading Fintech Provider to Deliver Intelligent Customer Engagement Solution",
-      "excerpt": "Infobird (NASDAQ: IFBD), a leading provider of AI-powered customer engagement solutions in China, announced its entry into a cooperation agreement with a leading global fintech service provider. Under the agreement,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-6-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-6-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
-      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

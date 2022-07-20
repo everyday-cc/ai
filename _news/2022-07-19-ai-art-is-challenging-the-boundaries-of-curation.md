@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
-publishedDateTime: 2022-07-18T21:11:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
+publishedDateTime: 2022-07-18T21:05:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -61,15 +60,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "An experimental horror ARG is testing the boundaries of AI art"
-    excerpt: "This was the beginning of Sheridan’s own ARG experiment using AI art to flesh out a mix of cosmic horror and alt-history science fiction. VIIR invites “players” to examine documents taken from the fictional institute, founded in 1958 by a physicist ..."
-    publishedDateTime: 2022-07-15T13:32:00Z
-    webUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
   - title: "The future of cars: How AI integration is changing the automotive industry"
     excerpt: "Estimated reading time: 0 minutes A natural next step for the automotive industry is the heightened integration of artificial intelligence ... Alphabet (with Waymo), and Ford are competing ..."
     publishedDateTime: 2022-07-15T15:11:00Z
@@ -85,6 +75,6 @@ related:
         height: 724
         isCached: true
 
-secured: "s5qmu8VMzP1BAA8riuIUkzHrrnIsesNGwZ2mlIC1kF/pjwRTUwMLe5Z4u6axD+c/t+PYbXME2yNX+BQStFfCj8Qu8Aa7d/9s/32cxQqC8lF/15J/0bd8zfQm5dlWxr33fsEGltujnif1hEyZT7fZy2bJBao78QLSu+4IWRPaZ1WjVoCVPpaq3K+usTPW1QHfFDq9uj/VxEwDGHCSSqp3m6/sX+sEL9KJdEvSwFB/0PoRNw+nslP8NpA4hd0SIlDpSwU9kuK9HQIFwOihe5LylP4hG5STT7njJOf6QVIH92r1JcahCMY07nk+IUGLY8RLEmu+RAtjdQLJnHyYzkwc6ArYJfoRmdrsJ98EqfbMZLo=;zx13sn7DPVWTeiz2AjZdrA=="
+secured: "lUx6DZRhwkDHBvgNvl/gUD+07IelzmO9x9ooTZT+bM5u0mkZWfBwst2rbKb0dgmJr5VHgT10CT2/YvPQOtQt4+gtpymgFCSSSyIbPWFGXhm37PgdwUEY/Sr8dYDjaKBiT9uGvGlLZi73jrzZjBlqmj3xFQwetfieKeZuQy9XcvY9pGevClA7r/mBvb+DpOQDDskjhyDcv5VWPpeme8QAEYSBdx5RaKB/4CYI0X5vTqyC+jJs8sNKUKv25fiUSbvqurY0vdRSPFzKlpIbFyvnA+VBJWI6k3iYWmxFo1u8brAFfbIbi4SFoAoaTlH5xJL9ZIkqfFcpfStVXxv8r1c9619YHmWMKM/x9reDie2YVg8=;3Fq+CeyGEdjCE9e2T+QnlQ=="
 ---
 

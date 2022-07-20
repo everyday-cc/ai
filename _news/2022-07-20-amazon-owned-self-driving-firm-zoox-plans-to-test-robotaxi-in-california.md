@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
-    excerpt: "Zoox, a self-driving technology firm owned by Amazon.com Inc, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U."
-    publishedDateTime: 2022-07-19T22:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp"
+    excerpt: "Zoox, a self-driving technology firm owned by Amazon.com Inc , said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U."
+    publishedDateTime: 2022-07-20T04:30:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/amazon-owned-self-driving-firm-zoox-seeks-test-robotaxi-california-2022-07-19/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 68
+    images:
+      - url: "https://www.reuters.com/resizer/fm7Wb01nAtof4V8ow9w5roPdA5I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E745S6G5CRNHNEAUI5YKDWHCOM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "unRGiBo2T+KQKpTTxvPDUzCdGUQJ8igkbhv8KZ73a7bbeEnD60lt7JGbgfClUy42d0DsTjbY1QST+My6WObiH7K5V0+ZELkjzrSgdIa1qqSSKOO2L57mbTnJUnaHW5vX7mMCqaJUNhPGsIwi/RkKzDFISDjX67hH84AMfDTYpPgkiBHxinZR+JM8k9vb5B8XhDA2g9yhTwVBQcT1omh/wzPSDfQK4uJ5VOv6Gj4Tgj5lWh8XpXsJYBtARd1iIFjMFDzAi3x1gXVloMcL5m9Auq7o4zswpvP+Baus2+FgemakXMbFTlOki95e9DhiGa8GHkYarbClindZHoZGvLdBlsFqYNOUq4b9wPHfJbQ8vV0=;nvZgflYIj1PjcET4KMpOEw=="
 ---

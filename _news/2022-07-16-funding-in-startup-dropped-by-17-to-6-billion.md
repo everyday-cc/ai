@@ -40,6 +40,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Supporting financial inclusion in the fintech space"
+    excerpt: "What percentage of venture capital (VC) funding goes to Black, Latinx and female entrepreneurs? If you guessed somewhere near each group’s share of the"
+    publishedDateTime: 2022-07-20T07:45:00Z
+    webUrl: "https://www.cuinsight.com/supporting-financial-inclusion-in-the-fintech-space/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/10/bigstock-Mid-adult-man-relaxing-on-sofa-429391631.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "IA9F/tmz2N6LHDKyrv+PHmMX1oLUemuZtxFPFhAzLIegkD8VwMr+PLoGulOOy32Io6V+y/VvxZvGD5wcRYxCKuyz1VWk4kOP6Xqt3G43EKVyCuafhk7pwH4AGwhrcPudokFxSNyhwqMaN5cGQtvdGZVmYGhKq+xxyiChvLeWRBubSjsLied2trnbNyQmC7sj8klOhdXJsLoXEhtULjtIcxQNnYPm/llfPTxKpAf17PhfEqUbLtDfsudEtz/N3V7x4HMaLXKwQDBxaeVdwU3gqIosFW9zckLA++GdH9JJkTPTy0SbA2S/nVdXnArm0sTSVmubeHp3KbEwWSHaXp+XGdx7r5CLldWpA3H7eOkYBo4=;lmMHmQV/ivFCBBm17omdWQ=="
 ---

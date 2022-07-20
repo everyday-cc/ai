@@ -42,14 +42,14 @@ related:
         height: 1350
         isCached: true
   - title: "AI art is challenging the boundaries of curation"
-    excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
-    publishedDateTime: 2022-07-18T21:11:00Z
-    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+    excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
+    publishedDateTime: 2022-07-18T21:05:00Z
+    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
         width: 760
@@ -71,15 +71,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "An experimental horror ARG is testing the boundaries of AI art"
-    excerpt: "This was the beginning of Sheridan’s own ARG experiment using AI art to flesh out a mix of cosmic horror and alt-history science fiction. VIIR invites “players” to examine documents taken from the fictional institute, founded in 1958 by a physicist ..."
-    publishedDateTime: 2022-07-15T13:32:00Z
-    webUrl: "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
 
 secured: "UaJDwXbfCcwqbjl528su+oGxujwLgCAh9jZUlWQdExY/qaG5W3JMLBVTPw+FuONYG5ja2nxMici3dm6VqZy+jc1U2y1jJxeLRTRrp7Y+sg8/QdKOdaHMDcd3ZOMcMY8RzLXwF3IyDuiXVx92QBHgnpaH+dM8dOQiuR6QTD8VG7k8ErCODPJtlIwPqBAsAu/fvLuo8TWSjqWax6EQH0OwjG6TR5b/c6S/CB3He4ATygth1uln2ZpkNk4t8MM+IGbUN+qjz+i4UcTj7OqnAn88d05DFsfIFmLJEAFDLWQblKmNSvDXMLadU6UL/4VCDPEeLAcvpBJW3wiP1PrenZkndLKaW1tJEHoCtHlBONWynsodbKAns0I8qkdxoRRcT6sJFVgx8LrkWVSPzLLPHoQomIoy68gqG5pun3yqzfwJE20ecxuucTupLmJXPaTlo0tmUdtEjXSeNemTWD6c71MZf2cl4UnUc09Yn8D/p+BwjWCwSqAsyiAPOQS9t2oZIMRoG/yOvHnqxkKLnG+6RoBLJA==;Cy+JwcPq5X35+D/YJwVubg=="
 ---

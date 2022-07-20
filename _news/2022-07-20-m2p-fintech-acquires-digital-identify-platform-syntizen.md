@@ -26,22 +26,6 @@ images:
     height: 383
     isCached: true
 
-related:
-  - title: "Fintech TIFIN Acquires SharingAlpha"
-    excerpt: "TIFIN, a Fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced its initial launch into international markets through the acquisition on SharingAlpha, a community of ..."
-    publishedDateTime: 2022-07-15T14:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193696-fintech-tifin-acquires-sharingalpha/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
-        width: 1600
-        height: 1184
-        isCached: true
-
-secured: "A5S6IwAkYLjwv/bOl3+T1Gg3HyiZN8ui/8bBD0v4inq0Niyka9cA3BrYZfwWidDJCqC92HhzGiKh52MfhfD9v6HDk1vdj9ECn8ApODVbX8oAHyRx8IqSq6Tv7QfKI+BmBALvj5sxXYcg2Siz/+9V6Bor6ejl0CezKYPV2/nwU0OpXJ9rdUTmnlOTDm7PksuoqEjpENco/JiNM5KLqNznxWm6e2VVfZSFWYqaFjDR9CDmlzsyXZGSp1EGU0T7Ufz9NYcX//66HbbTNU9QUFrJwPKDNxRQ/WnyDkQhShBmGegr8uBAJgndG3JCYr0bfzD6ubJKrr7ibraWkTdQ5FI1m8wxq9Cac10DsAQv/+nYYb0=;ire+nTF14AzFeB70hHUXCA=="
+secured: "fnT6ZTUGKrX/cfroo7bFzUI5nnYTUTz0jxviWVFIV61Pqao8P0wn1UCHwU/BEnYi4YIxODHbOb8l884T906psTL1awyXM3XPW1cyE0RH72n++0pGbQ7bWlkLIHuF2vsI9Q1zxCZZS4+V2VMuwiDaSR1cp516A0ntHzUkUZohJ9zYvLm5Q8+UV2lQdcEQOL5zoXJDL32eONtE9Vhoc0/ueShtkotZ8ykYiLTYC7PGJQHkbKfLJXWWcNE80IfUOsLrDjY9UU3Aqs0sASw3SzfYBS+cGxWZN92YvHaQC46M5NwArQDkraXjJInlPVpopLBODgdfessdtq0HgOnyYyfxpC8QzWw4q3ToHvtMgum+nsu4P+GdjfmVEpnKat4MX/pjmXjvtWOFxkVlQiAkhSXVaO76kzfBSdG1tMYA1cAnGEZaBloVB61BHUIodHIcIegKVB9jBhx5Ncag+ZN63ubjZhY6J99vyzqumfNmZFtO00GKvK38a9mcmKB2TvzwVIv73fYC/gpJogWirjBWADvI2w==;hDdcAuITr82rzyVCS9MzDQ=="
 ---
 

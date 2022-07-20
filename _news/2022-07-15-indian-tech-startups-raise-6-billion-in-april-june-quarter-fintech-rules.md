@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/indian-tech-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Standard
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Supporting financial inclusion in the fintech space"
+    excerpt: "What percentage of venture capital (VC) funding goes to Black, Latinx and female entrepreneurs? If you guessed somewhere near each group’s share of the"
+    publishedDateTime: 2022-07-20T07:45:00Z
+    webUrl: "https://www.cuinsight.com/supporting-financial-inclusion-in-the-fintech-space/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/10/bigstock-Mid-adult-man-relaxing-on-sofa-429391631.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Funding in startup dropped by 17% to $6 billion"
     excerpt: "Funding for startups decreased by 17% quarter over quarter to USD 6 billion (about Rs 47,800 crore) in the April to June period."
     publishedDateTime: 2022-07-16T10:51:00Z

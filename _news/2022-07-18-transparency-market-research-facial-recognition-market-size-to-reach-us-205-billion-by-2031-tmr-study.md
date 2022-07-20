@@ -48,20 +48,6 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 27
-  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
-    publishedDateTime: 2022-07-15T13:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Kyvi+0Z4GcYt8gqYi6J3btsr1H0YLi6YoJQpR0jRE+o+rb1A/E0kl16j8TPrBrxLrN5385kNUjfY6lCpt6no32B/jiyDQjIwpPq2hFbQf9u4E/WXnpzrbXMXa4DH42EqoBzbUTjpfaMVciQzvkMIvRbhGl7DE3Yi/5qc3Wge7+U7n+QXFVsTKj7Se6Ys+urNTWt2xAoQN3Lzfo6rHzxQuGe06pagpcPMSUTZcx9qAVtpXiZiu/Vl5whQH6Q+UeeKJp6RwVVQGeIr/g/0lwNBin2LpNVKOwIAHWRqkx4c9Bc78PQmwtUbhrzS4763hNG7CdXsvzxsyDT+1ASGkTU0taiPbit15ghlQTujOhp4GPI=;K4uH0qDS1gnVgfhkuikrpg=="
 ---

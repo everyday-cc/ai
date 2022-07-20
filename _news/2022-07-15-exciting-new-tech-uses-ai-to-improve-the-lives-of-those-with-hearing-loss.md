@@ -32,6 +32,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "A new AI can make 2D images 3D, like these high def faces and yes, even cats"
+    excerpt: "The researchers have called the AI model EG3D, and takes high resolution 2D GAN images and moves them into the 3rd dimension. It does this in a manner that is far less computer intensive and more accurate than previous attempts,"
+    publishedDateTime: 2022-07-20T05:19:00Z
+    webUrl: "https://www.pcgamer.com/a-new-ai-can-make-2d-images-3d-like-these-high-def-faces-and-yes-even-cats/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iHbCBthLvn5cfdAMRP7yRg-1200-80.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Put people first for AI success, technology expert advises"
     excerpt: "Artificial intelligence (AI) is a hot topic and big buzzword in business today.Infoholic Research predicts that AI in the logistics and supply chain markets will grow at a compound annual growth rate of 42."
     publishedDateTime: 2022-07-18T13:35:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=trending_now_opn_6"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=trending_now_opn_6"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -21,15 +21,15 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://images.wsj.net/im-586525?width=860&height=573"
-    width: 860
-    height: 573
+  - url: "https://images.wsj.net/im-586525/social"
+    width: 1280
+    height: 640
     isCached: true
 
-secured: "aDoRHuNq8mTjupoRjnrUh6he14vGHQ1q5egFAGCBj5CuxqJ6nbOzevHGCs66CRhybw8QQlVnsxRf8DPBEVzhQTbZ9aqqGEkBcUwBWsd1sKZ31bzlX+CG3XmIhN5629zkbcq8bVxSNHlH7HDNHhnBBtjJto4+etFLD27qMJifkYhfJ0QtXdnR4NVz39vUswm3dEqI/euqrrJTwfVdUuWEvZVrT6nv9VxKAconhRYqRATUMbhjEA0HDmMkIsj588ByfNEY3c25a0/0TRStMp/NesGL6nISUAJMrLccI4XMuui8fqyHqRKVnqWlXbzx708XLz6ur5yDu286GMextndkh2PYfMNFtujgzE/Z9OEoWDS7Cm4hwVMTthoPXgNMotC3lT4R45dcT3ndT1unhrVbRPvFJV0yL6ARjQaueLDBgcFww9XxN+alzo1mGm4Z85wBccxDJh3cYPW5480HSGt0xcqcTG8WE9uMUr4TQkEzGeChMWMIPF2XFa/4yxbDtHLFuF2VuN8Vgj11FGNxeDxfUg==;deThNirYfnOOl42bL3L+Dg=="
+secured: "DPM4VMOK1KiaJIMEm5B9OBrxtyn0s+b6xXjVhfwIcBzLG5iWumqsKUErObD9MmJWl87MLeT8+6Urd66XgWA5K4sJqgSJ931oTc76YpM4fmRT0yYzHC5OpTgfcPynOsTCZ2AB0WftD0xI71aTP9P2ajcUoGxYVDnjyj9q+mInwX5nrAGZbDhfGXMYlxDoHUxu0x1hOo8XiSbrGFiw4zQQQql5AJBj/xargIXfVbT0Nv/ITZSCfVKeMsp31+AVFFvLvtc+fyAsG7iDcfHWfzsCLTZfEOF3NpyPgXNJ9y4mGnDjHcOmwu1NlQC9kC2Bl/FIy8Y/kvYrgKOO61xamy7APJE+DDEI+uHuZ3MnlL0PFjM=;UtQQOpuuJd+tqwwY0t0aMQ=="
 ---
 

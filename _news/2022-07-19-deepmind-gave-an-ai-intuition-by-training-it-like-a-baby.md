@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "DeepMind: AI May Inherit Human Cognitive Limitations, Could Benefit From ‘Formal Education’"
-    excerpt: "A new collaboration from DeepMind and Stanford University suggests that AI may often be no better at abstract reasoning than people are, because machine learning models obtain their reasoning architectures from real-world,"
-    publishedDateTime: 2022-07-15T13:19:00Z
-    webUrl: "https://www.unite.ai/deepmind-ai-may-inherit-human-cognitive-limitations-could-benefit-from-formal-education/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 63
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/thinking_MAIN.jpg"
-        width: 800
-        height: 480
         isCached: true
 
 secured: "i5A+KF6IlpCRFH7hRDyH8ayp76zMbCEgh2VA2vLdpc3p5hLvHxoKh1v+6V9vbtQo4NowD4cCQoQxU6WTtveYc07K8ifZBjGIrpaDPvtYoov1gTAdGwu6YZRr5jJmUTC9DFaBukDxkdmL85ET5feg6VeoyiITlu7e7vovONISq0ZgYOrs0rInIv3S3ZK+exqIxvkY9b+jcu/OYY+OtFc5HhnD6E/R+zaXrQARsgXWbkAnHindcbdVaYpZub23CtZSI15o85Cf9txYcOX6fCUVRdVYrAT4G2SFIJOCK2lprAqocnNrfsX5ovnkvVXh59kEBpIcO/8LaWxU8mNEkbLvaoPEyv7xJUj03l6SvTg0WySY7JM/1iWdJ6sJjiyqD0ZWjv2kyMeEoH2HNT7Ro7mOok+SpV9tH/NDJuemg4COuEq6G0NGsdBLU3nQXRYetYosdEYJgXPnOqA7KWCADbYNwlkLiszZB34YShgrB/kU2md44OJfAd8rJQSm9HZnW+bMCmTEn8+TfIqDIHgb6LR+ag==;gIklqXQ2F+ZeRO99CSStHg=="

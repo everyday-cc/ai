@@ -3,8 +3,8 @@ category: news
 title: "Microsoft launches simulator to train drone AI systems"
 excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
 publishedDateTime: 2022-07-18T14:19:00Z
-originalUrl: "https://www.bbc.com/news/technology-62202118"
-webUrl: "https://www.bbc.com/news/technology-62202118"
+originalUrl: "https://www.bbc.com/news/technology-62202118?at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=18EB0F7E-06A1-11ED-9711-8AEE4744363C&at_custom1=%5Bpost+type%5D"
+webUrl: "https://www.bbc.com/news/technology-62202118?at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=18EB0F7E-06A1-11ED-9711-8AEE4744363C&at_custom1=%5Bpost+type%5D"
 ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
 type: article
@@ -156,6 +156,6 @@ related:
       domain: crn.com
     quality: 19
 
-secured: "2YxF1BA6FVY+7pbdRfosyb+oJ8TPcxmnBn5eerZUqccWEW0ijIOGVGlfDyDCvrvCcSnMxVQjxLg2XxXEDpQE5AgBdSHgmi+D3krcoj9uPOqnwB2IQTpCsWOqAG6rmZNIIcfvXKK3K7EUVF48qqdnIk6rc52zyOZQF6SJn2IrLcMckno72ahLfqE7PFBfkqTF2IVMCuw+P0xHl5PnpoB3WJrunPRVbNULIgOTZX5O0GDmLq4SEGHT9Yn/rkZNYo9XU5sPE1Iyou5HXBiLggZFyszCltiL+R3Mphq4ABDPpt/x8+1IX7Udvy8FDI8LxBs6HS8eAR5YbHbqTtAh46fWRJrgRJq+Wbog4WKOJ6OzmtA=;mYNfCdsNIsE7HywCbOPZJg=="
+secured: "vTS+xFokyeumLWVULT7bCX/qYQiw9GlB+QvibDbpW/sF8vfUKEbXX20/rbglVqZyqSy3nDVjVfLuD92sWtgAzap++Zlrfr+F4qSHU1ohebC7Hx52t51Fah+LBT5VunqHEmRseIuegtqMRf9UG5msKULFDzKu/YLeL0Z+LxDkj9srGZi/b6B3z5n4BHVL8DYcHkhxzvf+nKu665lHP5TF7cnU7wJ3Ur9NSXlSCzI6qyfeRuCSUcjPjgnMsTNBSshiC3bU+1NqrKwpvjIMn8QJdPQyXz4L3uWSN24MhpYmXcmZDPctV8J2M+c22RaAXBGm8isy5wKX/58Uy8fBOt7WU2C8b/Ds9iB1lVjjCB+vKQ8=;5cKoXzrqyr+zCuoEvHT5sg=="
 ---
 

@@ -137,6 +137,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california.md",
+      "title": "Amazon-owned self driving firm Zoox seeks to test robotaxi in California",
+      "excerpt": "Zoox, a self-driving technology firm owned by Amazon.com Inc , said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/amazon-owned-self-driving-firm-zoox-seeks-test-robotaxi-california-2022-07-19/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/amazon-owned-self-driving-firm-zoox-seeks-test-robotaxi-california-2022-07-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fm7Wb01nAtof4V8ow9w5roPdA5I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E745S6G5CRNHNEAUI5YKDWHCOM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-winners.md",
       "title": "Transform 2020: Women in AI and AI Innovation Awards winners",
       "excerpt": "VentureBeat’s 4th AI Innovation Awards recognizes and awards noteworthy, compelling, innovative and successful AI initiatives in five categories: Conversational AI, Applied AI,",
@@ -241,55 +293,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-20-amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california.md",
-      "title": "Amazon-owned self driving firm Zoox seeks to test robotaxi in California",
-      "excerpt": "Zoox, a self-driving technology firm owned by Amazon.com Inc, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp",
-      "publishedDateTime": "2022-07-19T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
       "title": "Should We Worry About Artificial Intelligence?",
       "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=trending_now_opn_6",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=trending_now_opn_6",
+      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
+      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-586525?width=860&height=573",
-          "width": 860,
-          "height": 573,
+          "url": "https://images.wsj.net/im-586525/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -322,8 +340,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -588,7 +606,7 @@
       "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {

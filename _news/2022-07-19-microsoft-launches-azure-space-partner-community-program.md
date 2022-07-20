@@ -28,7 +28,7 @@ related:
   - title: "Microsoft launches simulator to train drone AI systems"
     excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
     publishedDateTime: 2022-07-18T14:19:00Z
-    webUrl: "https://www.bbc.com/news/technology-62202118"
+    webUrl: "https://www.bbc.com/news/technology-62202118?at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=18EB0F7E-06A1-11ED-9711-8AEE4744363C&at_custom1=%5Bpost+type%5D"
     ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
     type: article

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Baidu to Reveal Latest Updates for Autonomous Driving, AI Cloud, Large AI Model at Baidu World 2022"
-excerpt: "Centered on the theme of \" Deepening AI innovation for social growth \", the conference will explore the possibilities of AI across various fields, revealing Baidu's latest developments in autonomous driving,"
-publishedDateTime: 2022-07-15T11:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022-1031589833"
+excerpt: "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21. Centered on the theme of “Deepening AI innovation for social growth”,"
+publishedDateTime: 2022-07-15T10:14:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-beijing-af4b737843d939075a583b5b5f633100"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-beijing-af4b737843d939075a583b5b5f633100"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "BdijJzzwThBRBwSCXQVhoU00kOM69koysdiYnJK2DpxC+3KxpNFE1ykqk/W4Ii+Cjr21kPAEfJSLaPRuumWtcnJAh5kXbICH7VZGM3ErVbGl0UcjbxecOPquv5oCRGw8OT+i4BwqHqZ6wLuqb2OVyIlcC/YTuy066Uar1FaRS/jPbViGA+yX6RSNL3ILJoXdcFzxjAuGOj0ziqmkBT1/WFVKxQcqeWOh5zoJUobchK8gAjfs86Ulg0JFZr3vCjfoyXy07prFBTfdS49gx74HrWnlCEXPxXi5WVr2DCRN6fKn33ZEJn0lNyoap66tfgUwXBHYZR8rxVR1xGm1ZeZgsM77HBVXujIFvfrH7knWi3g=;0wYGWf93jCBC2HqEXN1VBQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "xLws3Sf5THmqNsK7OAoISui8tqsWiP5/V/qOU75Pasv7l9i2wmHAIpBylFS3mlvIzeORPyuKS32wqAboltFS4jffzq5SybQDw2bjHSORA23xk4MPLYtEvJse9Ewj0vRKmlYgfi+ggy4EMM8hHX5vnNQqjWPsiRcwYpXyDUCcWrztDzDt9LAZue7jT9nw3UAnTUCo0xe6hra2kaWaSmSUNqts8fuGnB82xYAbtBfdrhQUwXS6kt7tSJDhmamEp918aDZauucW6dhFlBR39oDYihr125in5qHQ+beRa2Wdg1SrUtoDJIQg2+UC5+3l4+Z43O60P7x5X0X6Z/AOnp2GET0qki3zAx2roe9eDX4RSuE=;wyBDZUk33aOG31YwAa38cw=="
 ---
 
