@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Tachyum Signs Agreement with M Computers to Expand HPC, AI, Edge and Cloud Computing in Central and Eastern Europe"
-    excerpt: "Tachyum™ today announced it has entered into an agreement with M Computers, an IT services provider based in the Czech Republic, to bring Tachyum's Prodigy technology to commercial, industrial, and scientific research institutions in Central and Eastern Europe (CEE)."
-    publishedDateTime: 2022-07-19T13:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/19/9640964.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "JoCn+afj/xKQCxHsz8oclbtqhPZ9y1pBk2Dzk5zTvG22QRyWGk82q1z3XRtdWwR5FtEGvzYkAm9x7OsgrP/UYqXFxHslkwfWZSi+9g33wdQwtT2DRee7lnum3moKfqw+PnreuA3cG6XvFXWgKa7+2HWtorI2LQwWCAuKYzTp/3KswbXcpyhB2lIv/aRJlZeCnaaeykEFYeM0M8CTMuDIldjnp8KWbdUDNn77muShsPcXrgRjRnlGt8/KH6FFAl8iQY5C8LQc0qaM4hOBzFDKmGYdkdVsXkJ8fVd3UGt2ojZEfyoaegPXKgSl5IUuW9/zarJyiuFbm7MiXOsinVl44uHOiJJ+g0gb2Lv/Innvgh8=;Rb4dPpUIrivCQcufjvMLvA=="
 ---
 

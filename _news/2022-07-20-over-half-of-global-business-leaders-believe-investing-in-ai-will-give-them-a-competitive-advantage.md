@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T11:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-over-half-of-global-business-leaders-believe-investing-in-ai-will-give-them-a-competitive-advantage"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-over-half-of-global-business-leaders-believe-investing-in-ai-will-give-them-a-competitive-advantage"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Daily Herald

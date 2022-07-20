@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T12:09:00Z
 originalUrl: "https://www.arabianbusiness.com/opinion/ai-is-already-delivering-sustainability-gains-it-can-do-much-much-more"
 webUrl: "https://www.arabianbusiness.com/opinion/ai-is-already-delivering-sustainability-gains-it-can-do-much-much-more"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Arabian Business

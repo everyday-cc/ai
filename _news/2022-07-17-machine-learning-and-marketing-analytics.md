@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
-    excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
-    publishedDateTime: 2022-07-20T04:49:00Z
-    webUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/"
-    ampWebUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 47
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-23-at-12.38.43-PM.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
     excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
     publishedDateTime: 2022-07-19T23:03:00Z
@@ -74,6 +58,15 @@ related:
         width: 644
         height: 360
         isCached: true
+  - title: "aiSensing Deploys Highly Successful End-Point AI Vibration Sensor Using SensiML Analytics Toolkit and QuickLogic EOS S3"
+    excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that its customer, aiSensing, has successfully completed and deployed an endpoint AI-based vibration sensor for a large multi-national manufacturer in Asia."
+    publishedDateTime: 2022-07-20T13:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aisensing-deploys-highly-successful-end-point-ai-vibration-/2022/07/20/9642025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "y15fT1jM1t2GLo/EVBrwydyf8B3Nrmbt212qfQGIRsr6S1rRtHVBQlloxiZIQagtPqrz2lAP9DtTM8hZOJh+z0nHZQ+Ms5GaS5w5ojDJg/F1cwgDNqFeFCBAF5aVkkmL9AYufyOGLQlJBsVcrTiWAtYe3k97avMC7AFStEp75gFCzJ3s3Ad64Qw4TULhsx58MP6ImWvnx0TR1/P6sH+6SZdYj19Joh1vv18yqHppqs8zZ9uvHioLcD61HxaWe0VPmw7NkCGx/LC96fXUH+BjraW2Oj2rko3WcFL5/NnOsTP1qQg7Zf1cvUyEJeUezA9Pjd6F1yMBLAGlubVid6BEa2dj/DDuQt8cFKnVNyDxPfk=;H0oePI9Sg7zivs1prYe2VA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T12:40:00Z
 originalUrl: "https://venturebeat.com/2022/07/20/women-in-ai-whose-voice-should-be-loudest-in-the-diversity-convo/"
 webUrl: "https://venturebeat.com/2022/07/20/women-in-ai-whose-voice-should-be-loudest-in-the-diversity-convo/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Freshworks unifies customer data to AI-enable a more joined-up experience"
+    excerpt: "The new Freshworks summer release connects AI-enabled chat into a unified customer record, or CDP, across all its CRM applications."
+    publishedDateTime: 2022-07-20T13:47:00Z
+    webUrl: "https://diginomica.com/freshworks-unifies-customer-data-ai-joined-up-experience"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 16
   - title: "renovai will launch their Visual Commerce Solutions on Seldens Designer Home Furnishings website, delivering AI powered shopping experiences"
     excerpt: "\"Complete the Look\" on Seldens product pages and the Virtual Designer quiz in order to generate hyper-personalized recommendations for furniture and home décor shoppers. The short quiz will allow the machine-based virtual designer to build a style profile for each shopper,"
     publishedDateTime: 2022-07-18T11:47:00Z

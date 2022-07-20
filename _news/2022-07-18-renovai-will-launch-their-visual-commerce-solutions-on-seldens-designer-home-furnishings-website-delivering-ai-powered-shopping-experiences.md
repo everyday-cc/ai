@@ -54,6 +54,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Freshworks unifies customer data to AI-enable a more joined-up experience"
+    excerpt: "The new Freshworks summer release connects AI-enabled chat into a unified customer record, or CDP, across all its CRM applications."
+    publishedDateTime: 2022-07-20T13:47:00Z
+    webUrl: "https://diginomica.com/freshworks-unifies-customer-data-ai-joined-up-experience"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 16
 
 secured: "MgvlkyPL3Te7F4l4ROF6vkxtomIXVEGtUQuRfzwz+1gHobkqIrtslIO0NkPveDP5kbWL3mY1bgr0nx8bYx8uqKk/WZ6GK8pA5LeP1jzac+YGDwBY9l4x2rGWBJxnVp0pXIp8z7IhUoqUnxgUUtHpzkNlJev1OT5pHAkcEsp8SAgX5bIORObwXuJ3NvbpMrkstMr2KC/x58PC2QJLUCEqhKxldw/VEdc4GvYBb+moczUxxEaWt5Wp/KVQ5SXGrfdwR8JHETngDgfKu6FcWMhe5egpG185Z1avRlcmGiktlpOpx8zrGhDkoCqvSRj9LG2QE3a31ZQ59kHoZW5M+vQC3+mQBB7Fn34x4c+SUyW+saQ=;/0f7p6XFwqvMXmJMcoC8FQ=="
 ---

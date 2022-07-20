@@ -2,37 +2,33 @@
 category: news
 title: "Microsoft announces simulator for autonomous aircraft development"
 excerpt: "Microsoft has unveiled a simulator for training autonomous drones, powered by Microsoft Azure to allow for millions of complex flight simulations per second. Project AirSim is the successor to Microsoft’s earlier AirSim,"
-publishedDateTime: 2022-07-20T10:25:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/368606/microsoft-announces-simulator-for-autonomous-aircraft-development"
-webUrl: "https://www.itpro.co.uk/cloud/368606/microsoft-announces-simulator-for-autonomous-aircraft-development"
+publishedDateTime: 2022-07-20T13:11:00Z
+originalUrl: "https://www.techcentral.ie/microsoft-announces-simulator-for-autonomous-aircraft-development/"
+webUrl: "https://www.techcentral.ie/microsoft-announces-simulator-for-autonomous-aircraft-development/"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mozilla
+  domain: techcentral.ie
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1658311975/itpro/Microsoft-Project-AirSim-Promo1.png"
-    width: 1260
-    height: 710
+  - url: "https://www.techcentral.ie/wp-content/uploads/2022/07/Microsoft-Project-AirSim-Promo1.png"
+    width: 620
+    height: 349
     isCached: true
 
 related:
   - title: "Microsoft launches simulator to train drone AI systems"
     excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
     publishedDateTime: 2022-07-18T14:19:00Z
-    webUrl: "https://www.bbc.com/news/technology-62202118?at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=18EB0F7E-06A1-11ED-9711-8AEE4744363C&at_custom1=%5Bpost+type%5D"
+    webUrl: "https://www.bbc.com/news/technology-62202118?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
     type: article
@@ -44,6 +40,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Oracle partners with Microsoft to launch database service for Azure"
+    excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
+    publishedDateTime: 2022-07-20T14:44:00Z
+    webUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation"
     excerpt: "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview."
@@ -170,6 +182,6 @@ related:
       domain: crn.com
     quality: 19
 
-secured: "Qr+gYJb1BRZltqZ856SJA3gj7qJK5rW/3f8/tvRUY4gSnjgkpvjY4FZBZqfRTZoIV87Fjhtrjfsq6jh1+/BPzDfimtqcd+9SVgXus6bSTfGwq9NaOsF7C5AMf1kLpLBCWCojUiwmimLw5x/wblmrDcLaulT7Wb/WA7EbSzA8kIvQOrrinXFHXQp3mkuO9Wm5KgcU/77xCv4piqNXw1BnM0CqYadjR4+u1Fb2Kox9xdkRjBh5tlUQIfzcfVT/nu8lET/5lIrv97iqqeXlnnGnJ1LdpGh8az/NGVsFwJI0hNp5dgWkUXI6JWZr99TMu16SiSJt1qKeX35uZs8W4SviwH7zdR+BR5FHTloBP3bjKjPo1KJU8l3lgB0T3agLX3AmqWfDlxEH4+RANaN7PVbiqk+s/8FfXetKVuEN1z6ihb5fCts3BuaQUSGbpD9Z9A6oIbJSNfKORty48nFOMhwXHbQ/vIdku48eFr2pCzzfbTBYYzbig+gi35JxtiWaa8lJq1vEzZuL7qmFwy2Pkyk7qQ==;vviGIWX5m1Y/1l3VdmuvUg=="
+secured: "+Le2Y9bjgc7grsp08Nl8w2WtqtoriOi2yp7ols1voWqT7Z/FpVKv/6bgKpv9GaUfIl2gMdHog8L2cDHI4ArLUGgFeqdjOzPFsjog0SNC0bKg+vNd32ojQtXawZw5z94LHWIZtoh63RgqpDYlkV+VhSvPWBha166lxBbbuFK9iLorTWsJUk62FO8iHT5ks1QOX0ijmX6sM6ZW62F52aKYcBeR4eDZ86dJN+C8fVG9ZfjSQibOyyzoDdGKV6/sTNtDFbijigKaanw5Tzb+/U42Qhy4X3NC60k9s7VgPsDCiac7c3k2coJ5qv/9//0XcYUL0ZjugShUWLFpZBkpkXXnnI1/1QxH8FrBnzpS1gNbDhU=;kA5K2XRkUt73cEmV2/ysag=="
 ---
 

@@ -19,34 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Chip Market Growth Trends 2022 Key Developments, Demand-Supply Status, Global Share, Size, and Regional Segments Forecast to 2027"
-    excerpt: "Deep Learning Chip Market Report 2022-2027 highlights statistical analysis of top growing industry segments with type, applications and regions. It covers opportunity, challenges, trends ..."
-    publishedDateTime: 2022-07-17T17:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-growth-trends-2022-key-developments-demand-supply-status-global-share-size-and-regional-segments-forecast-to-2027"
+  - title: "Artificial Intelligence as a Service Market Size USD 92 Bn by 2030"
+    excerpt: "The global artificial intelligence as a service market size was accounted at USD 4.7 billion in 2021. The use of artificial intelligence in the form of service is expected to"
+    publishedDateTime: 2022-07-20T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28133745/artificial-intelligence-as-a-service-market-size-usd-92-bn-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28133745"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28133745"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Forest-Fires-Europe-AFP-1K-03-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+        width: 900
+        height: 594
         isCached: true
-  - title: "Global Deep Learning Market 2022 Comprehensive Research Study, Business Overview And Regional Forecast To 2031"
-    excerpt: "The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the ..."
-    publishedDateTime: 2022-07-18T05:41:00Z
-    webUrl: "https://menafn.com/1104544481/Global-Deep-Learning-Market-2022-Comprehensive-Research-Study-Business-Overview-And-Regional-Forecast-To-2031"
+  - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
+    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
+    publishedDateTime: 2022-07-20T11:45:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?604799"
-        width: 322
-        height: 250
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 28
+  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
+    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
+    publishedDateTime: 2022-07-19T14:23:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 27
 
 secured: "/j+gh7pKVoa+DcqdaSdu+MGhDj+D0qnJusooBTVYuV2kicwFMj5L3W+bwd8r6y4Uj7c1fHypeuJn2jC6hTVwh7IBDZ5pEhCwQBUMZ7F05zadcRpDCYnWbIX0UUYbUsbluvhqSer5pR2UfojTdoYwntj2Wi7y65cOS/j56gOfPEfxqiSTcUVETaXwG/aj6MRE88X0Gf0zHlSeYCY9FP5nmcR8qwIIBgDjl7Ge4WcE3CNB5uT5CbKZCbPnaGaG6j9HlhEqVaeNOm4Pk2IJlYzEItrQW1BFnuUiP0Ay111U6cB9uAl5zCbsvdY7eVZ0gO7p8EpORDSD3z8qUd1Qz8yNXxN4SKPSLrKbuNML/qL1cG4=;eUbQ9onxm7dhipJo6OYJkw=="
 ---

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Writesonic launches an AI-powered tool for professional content generation"
+    excerpt: "With a vision to articulate AI writing with a human touch, Writesonic is aiming to increase the volume of daily content generated from their platform"
+    publishedDateTime: 2022-07-20T13:37:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/writesonic-launches-an-ai-powered-tool-for-professional-content-generation-101658324001282.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 15
+
 secured: "i1reuFVN6vJ9p/9hSdxrOG2qLnFP01fOrrMgi6UrIdq0MgeTfLP/VZ+DdAcBDP7+BzXl86Ovo98iS7z0kHHWgKzJaJGqmcdpr4HZIQGTQW/q+dv2dlu2UT+j1cLtYGMpJIXwL+hMO2QbGqInHb3mmxZc81Zq0scz5Dvr4Ddso6obSynactw0suHbl8U3QUKbWGirnOBATOhQVRJbItXlXBLfObBXwUfcEFAa/RmvHd5/YMO6i3Y/QjMLIuTP/lpfWrQAtLzYWfkXMEx2vMschdmag9xzS3gJPFghI69qqKhfcUyChIhdKnI3HP87MmqWr8e8LD+RqqX35Sup+VRSzIU6/bDiO7731FJZ/Z+n2jHfeD1GI6+k1afCdmoka1xE69DPpjhOnzoC+UDo2iYkdAw3cUWcmxbl+dSgvie4f/hadr+UWgYH9Z+m0KWJZ7bGYMjMk/cRCnACK/tyLKQmGH9+rIlqCcttkyOREJdYzy6iOg0t3bx1jS6jMnGKYo0biGRlCQSOtPvesYxNJUsa6w==;S+JUYRxzUGQG1eu4U21qVA=="
 ---
 

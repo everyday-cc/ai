@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T11:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-software-e9bb97de043152ee5730c7640af24f0c"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-software-e9bb97de043152ee5730c7640af24f0c"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38698"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "As AI language skills grow, so do scientists' concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel"
+    publishedDateTime: 2022-07-17T14:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/2022/07/17/cb773f2c-05f8-11ed-80b6-43f2bfcc6662_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "I77Td0ZsxZbkelU9xZdHQxD2rK3J01vq5Gv5DSx9chygpGX0R+whH1KDgrRi0ZuNW0+lwjBGIvu+YGuhB9Oaz08tfIiMTildQtv3e48t20zXXaKWYRI9TR2+agzMKQ3GPf2Ka9IabEfwBVBr/zWTt3PB6V4tdabg5jh3yyou2pAkMtdm306MLTNg6nQcjvLFpjWiBFfXBTvLE1cWmjkCD5NCcFOfCX0ACzOQHUVBJdfCjOqCLA89IFbv+2WP24LvhR+xW0PIrPY82IM4pdtrM0ZB/0qFVH36ehJ9Za5GpzElL6zkNjDVp6+QrrArpJC2SRhOpDhbyVhCfVMa04preBao1B7getKEgbVIYBAGZPBlDsc8TNDPSyzQJhsr39sLV0GUhyBiPMgWacHBMAo11YeKkScHsU6jgrLO6rqBrd7Vjx8zkI0EedOpN+OPq3/rbnfGalU6YGyGWr7PauzvV+rEE1g3PGkdNCqJhZqH32Ps0dVOysVPHYj91+m7edXlsCcX+1Togfo8TM0tXSPSiA==;DifhiXvu0uu6qHhmQN5N9w=="
 ---

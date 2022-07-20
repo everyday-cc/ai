@@ -73,6 +73,15 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
+  - title: "AI Diagnoses Devastating Olive Tree Infection"
+    excerpt: "The researchers collected twig samples from 66 trees and used their algorithm to compare lipid profiles along with infection status, tree variety, and whether each tree had been treated with Dentamet,"
+    publishedDateTime: 2022-07-20T13:24:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-diagnoses-devastating-olive-tree-infection/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "6/0KwfoYHVTXU+vV27JUZZENrm4TbasneU7Bv4IwWiA82Xpdbshtdh47ZVxyU3KUAAkVVLdz8XTaQ74a3As8GInnSi6ryMbDlUun5GGbL+KykXdz4wwsFV1yviTE0nlz8mp9VL863++rJVsPQSMj9e3vkPFlEQcQ0s+XxT6jLoDZEaXZVEkraWbeiXHvv97y8n2jOywp+SIYrQ7yraDFv9br7b+ZWvpfZoE2zNNe3nNvlMUT9f55yWJ3+QMoPethzqeP4Q7EqHiEzNXKi2YQVE8v5t1DNg4c3fmx9D8G5VKMmYP3/FhgAf8l2FetAJYsDaK2Ew9PiMWO9F/J1SPA32KXIhnPopt/o0zhuM/lCNK9sC+jWolXo2+ubCg16zZVqVZtlzo4pt/8AjUyMIac0gZJW7LEdHAJuI3BYe3HdbDdNll/xLMQi+TWq90JcuW3chaBKnaiqNVI4NpEvd0qPJ4XmKENeFkFdaaLTV3ZjR7Q/LjpMhwkVLC+rNaqiA9BTmRXk23rkkStDQztYlezLg==;2wkEb1/iTrxJz2lY31nfcw=="
 ---

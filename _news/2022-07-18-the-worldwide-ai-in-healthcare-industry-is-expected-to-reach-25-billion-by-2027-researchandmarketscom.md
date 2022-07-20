@@ -20,24 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
-    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-    publishedDateTime: 2022-07-20T11:45:00Z
-    webUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 28
-  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
-    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
-    publishedDateTime: 2022-07-19T14:23:00Z
-    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 27
   - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
     excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
     publishedDateTime: 2022-07-18T00:35:00Z
@@ -51,6 +33,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Global Deep Learning Market 2022 Comprehensive Research Study, Business Overview And Regional Forecast To 2031"
+    excerpt: "The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the ..."
+    publishedDateTime: 2022-07-18T05:41:00Z
+    webUrl: "https://menafn.com/1104544481/Global-Deep-Learning-Market-2022-Comprehensive-Research-Study-Business-Overview-And-Regional-Forecast-To-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?604799"
+        width: 322
+        height: 250
         isCached: true
 
 secured: "Y6PXd5FNIZYYNiYMfh3ciX1e8adItJnMdgcZ45Z4Brs42/lTDzrRKPv01s9Mmw8hRzKC9a5SaBY4VS4HhQ7r+BbmjgQzm37c0918BlcEviwkmDrXbP5p0WEgZC0cIlCJ4AJ6u6c8YR6j+D+d6IXh6FOjF378cKspTUWws3AGTlUOlAyAK2ivzjySA8ZZX/dKNw/TWX6vlr39K2IeTo1bS5oqlBTZ2CnVE77Jo0saBFFCta3BOWDUrZfGlgPsLsOJqWbuxluwrUf+OmoP/4eVu+ZYinhiyhHDt6PTyKKU/MJbePKBFgOgGc3XBwuroVFS2HzrcWaouFbl26qu5/A15pXP87AWY2dYmoEyFK4oyBI=;rD0W8WK6+UQboNBGOdN6iA=="

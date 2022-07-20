@@ -72,6 +72,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AI Diagnoses Devastating Olive Tree Infection"
+    excerpt: "The researchers collected twig samples from 66 trees and used their algorithm to compare lipid profiles along with infection status, tree variety, and whether each tree had been treated with Dentamet,"
+    publishedDateTime: 2022-07-20T13:24:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-diagnoses-devastating-olive-tree-infection/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "zmjOX7TEPPjSFogGsNE+pWPGxYTzes7QkKSlmgyqVEb7eCcFnrxWWvB6/eB2CYS8aWviFrkPXkh7wPUib3QmstB8Fb2mlCQRu3r8YnKzf1h8SF9JQwpqf5V2L1Y60D+rhN84bPPSp/uwhk10IULJOjlHY5hlrnLYJ/1yFwvNLpgMfCKYWy01NbBG/KrEIOMzoUbDpBfWD7ZitT8xUoatkcIMamrJn8YNSMGhSokTPZoTL9EjJaRMGaL9S1IOA8oBNqTMdqSl3LL7Zy9m679l2DdjbuQ0HKfv9ypor5jMpy2v0xNdrPgIunCl1WOGaZoZd+rlB8Qvs83kAMRoW3nl5nWdgA9ap5ZNKANv+c2L6aeSXxHIY6EOpbb1/Fijhdo8KVx7z4dNLLaY/7dzQoZUjGnE0YXNgHCrxB71yjI/QRbpCcnUE+ja1dsA3kkxG0DuPRrGOPxmBgxUwl1g0TMqdo7uKmxSzRHJAmH9ZGuk3gzXV7sGzgTzxmPFcy+l895k2yAnI1hNsUo1AnjQikMciw==;lyo3r2TNipbkHwUNC8fEag=="
 ---

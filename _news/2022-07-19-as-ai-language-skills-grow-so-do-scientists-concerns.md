@@ -103,6 +103,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "As AI language skills grow, so do scientists' concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel"
+    publishedDateTime: 2022-07-17T14:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/2022/07/17/cb773f2c-05f8-11ed-80b6-43f2bfcc6662_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "X+I89hIIv5NNNB0Vi7RWn+w45LT+zk++jmcf1OsODEZ4/BGY/eWU9tTL3fyEbCcPx/PGSUuEKOfRl349jxv7CbTH8GaHTuc5hWxMC3P2VGj50iEnsQ0tcS+kU/mhfKLdF6P9TO1ibT24Ig8gX7d+AmIhtgFomn433SBzactpuQCCGNVy/MdMYOp0FdQe5auV3LXQ3VQLVlms+lS51FpkULGqKaT2GmT9P4LJIlTHY2MmTE0PvtCiGFCP6qeY3ookIVPJbFW/W3GvjlZTtg5Fg+LZzhJdnWZ1oksbJg2jpRABSkWNaQ2VVvKN36SjX4iCNz4Dh4yIBv/FJKTFoLGNBVNwo+yq4l2V3CQLVnREwuhm2pElrgqA8lQRAmck2wfea++IQexgJc9SRTpWnRgqxhHbq1dr2rElGj12eba22o04dYiUDKbQBsUIv2reB3sYIwR/0Rcfb6kXHCh2BulboMHVydigCHlxD84GXRPMUIcf9xBdevKlrjzaYxiCvXag4UCscgGsZ/g0SsmXiGZTBA==;GZMd/AaiBkXdMq40pnvH/A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/
 webUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://m-cdn.phonearena.com/images/article/141398-wide-two_1200/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung launches Enhance-X AI image enhancement app"
+    excerpt: "Samsung has launched an AI-powered image enhancement app, Galaxy Enhance-X, which allows you to improve images stored on Android smartphones."
+    publishedDateTime: 2022-07-20T15:11:00Z
+    webUrl: "https://www.amateurphotographer.co.uk/latest/photo-news/samsung-launches-enhance-x-ai-image-enhancement-app-170348"
+    type: article
+    provider:
+      name: amateur photographer
+      domain: amateurphotographer.co.uk
+    quality: 37
+    images:
+      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/02/Samsung_Galaxy-S22-Ultra_Portrait2_1000.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "KgW1nW8dt+YCELr3aC6qYFxfmnrQ9Ees0QmfKI8eZFpW6sHx3ojvUqA5YVNZlCAFpZ5NRe5f4gvnWQer+HQu8Qi3WTyDSuyKp3tBhtUe+FBxG4N62DySz20xKhK5hksTfyEJYG97ww5GDfXitemcn+8bkQx5v4QVceDAThKfFpCka39rKmMXj7NK3wkkYp880WBZO7ltLnOBWj7XxI1C9yhutt49QNO0NDVktfGz8OfUc48p0bRTJ8oHioqS7Fn3j+E1ZHBKhqB9kx8NM8wn3nZiXj5WN72RkCq6SoyFZ8ZTgKAFwHraqmOmsMCC4WMuzVj5+0L4BERorMnfRJRREUiyL68ytbxME6tuU84hR0ShTlkfL40qUVut/d+LN4BKIth0k2cXHW4py7mwiB8yT4XiXqmLTgHg6kOUnSS3Lx9uyqzbIk6WfMF6tQqYRQoJtG6sn05JwkgPZ/3yVpbnoh8RKfIgAgFh0S1tSSF03sTNUV/NuHnCd+9MyTqDd/t3I/7NEVbZXFlPgDf9B0PI3Q==;CGEo17M2BSmar3kDsTDDiQ=="

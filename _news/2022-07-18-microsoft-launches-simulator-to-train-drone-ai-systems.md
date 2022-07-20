@@ -3,13 +3,13 @@ category: news
 title: "Microsoft launches simulator to train drone AI systems"
 excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
 publishedDateTime: 2022-07-18T14:19:00Z
-originalUrl: "https://www.bbc.com/news/technology-62202118?at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=18EB0F7E-06A1-11ED-9711-8AEE4744363C&at_custom1=%5Bpost+type%5D"
-webUrl: "https://www.bbc.com/news/technology-62202118?at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=18EB0F7E-06A1-11ED-9711-8AEE4744363C&at_custom1=%5Bpost+type%5D"
+originalUrl: "https://www.bbc.com/news/technology-62202118?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.com/news/technology-62202118?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle partners with Microsoft to launch database service for Azure"
+    excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
+    publishedDateTime: 2022-07-20T14:44:00Z
+    webUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation"
     excerpt: "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview."
     publishedDateTime: 2022-07-18T14:24:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 709
-        isCached: true
-  - title: "Microsoft announces simulator for autonomous aircraft development"
-    excerpt: "Microsoft has unveiled a simulator for training autonomous drones, powered by Microsoft Azure to allow for millions of complex flight simulations per second. Project AirSim is the successor to Microsoft’s earlier AirSim,"
-    publishedDateTime: 2022-07-20T10:25:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/368606/microsoft-announces-simulator-for-autonomous-aircraft-development"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1658311975/itpro/Microsoft-Project-AirSim-Promo1.png"
-        width: 1260
-        height: 710
         isCached: true
   - title: "Microsoft’s Project AirSim tests and trains AI-powered aircrafts"
     excerpt: "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts."
@@ -132,6 +134,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft announces simulator for autonomous aircraft development"
+    excerpt: "Microsoft has unveiled a simulator for training autonomous drones, powered by Microsoft Azure to allow for millions of complex flight simulations per second. Project AirSim is the successor to Microsoft’s earlier AirSim,"
+    publishedDateTime: 2022-07-20T13:11:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-announces-simulator-for-autonomous-aircraft-development/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/07/Microsoft-Project-AirSim-Promo1.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Microsoft revamps its Project AirSim for easier autonomous aircraft simulation training"
     excerpt: "Microsoft is dusting the mothballs off its open-source drone project from years back and relaunching it as Project AirSim today to help build, test, and train"
     publishedDateTime: 2022-07-19T13:26:00Z
@@ -170,6 +186,6 @@ related:
       domain: crn.com
     quality: 19
 
-secured: "PhvVWxFdmtakvmD0YJHUEoAWcuhcCEinwO6VkqOJzVq5naTbXfD0bPSKolCAPo/ngKnrSdRKQf3Slfo06A9JsXCsOa7h+6f9wbnkDqLiSPzEK4hkCT4f+H99itvAq8UhkNrYZ7O/zFzzmpAZb01bFOD8kjfetPUXwtWfIIyWTHdyjlDnagC3Dzv98OcEOi6VhneED+lXvXB40RsspS92Uxy2j63PRWqUBz0henrKqxtQtoECAJYCXYWIQkV4qdNSUZmXf7THuBnuUUG3eoTbHETX8fKa/uqWhl5tspr+Xf+1jIDQclihO69W1i7F4/VyE71XcN5YU658uQKYUJUnCqTBh1eohzTZtb1n8INcrTZM5HismFat11E7Ff6fstAWyHKYnBkr0r9FZkJ7nm1tqV9A5XTPuENaBz4v9ot/NkLP5p13PoMSB8y0GcWoEyAJD3BtrvefZ1gPEcODLYr/r18ZZjdGIxHDGmiSM9toVuYgS3C9bVjGQPrYzYI4BfM7crQM8U/sN/OHNZU8b4ZJ2Q==;iTeRhlHNAgJi0BtApFPRdA=="
+secured: "7KVdf8x/eytCpuQK7WCbYRUXONXKga74s6bDWZBB4gge8/35Cx1exdfRwCfQ9VSlTUvrpFIg9UN/eqHiGGkW/pHRyLax7ML9GXfgl4Y3s7zbT97qWd7MhqCUKSK8tPX3kaJGmWnJvCbNBEvj04/xntYC6xUYJVho34a/z/a1tyhaNVIZBTPecAyZ8YzosS8+nfQg7XriWSgwMM3v9iphTljL0I5VXJqVBYk8NenQewgUwPd8ybKuCwOaieeLPXjRYDyI/XYU2v1qamJyhMAeA1Yk+5fxbxhgHdDPsBwRKgSjoxh5M1TsS5FAPilDYeW6QWVLAMc8hK8aroCd4UMIRJHaUn9SNuHIWCGU4Aqh5UM=;4X0tR7CxIAM9beoqt9Uwnw=="
 ---
 

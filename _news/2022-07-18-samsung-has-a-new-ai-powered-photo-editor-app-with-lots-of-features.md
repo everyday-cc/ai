@@ -54,6 +54,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Samsung launches Enhance-X AI image enhancement app"
+    excerpt: "Samsung has launched an AI-powered image enhancement app, Galaxy Enhance-X, which allows you to improve images stored on Android smartphones."
+    publishedDateTime: 2022-07-20T15:11:00Z
+    webUrl: "https://www.amateurphotographer.co.uk/latest/photo-news/samsung-launches-enhance-x-ai-image-enhancement-app-170348"
+    type: article
+    provider:
+      name: amateur photographer
+      domain: amateurphotographer.co.uk
+    quality: 37
+    images:
+      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/02/Samsung_Galaxy-S22-Ultra_Portrait2_1000.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "bAA6cul5W9ElnygktVFL4lCL8w79x+gv97dol0dctBJIl97ElxgEwvrcP/2X/ICR8NRGBCZX0jeqzFFJNV0RF1aNlYQRbIDt1B6yQbIWRBhwlLxV/6nOzF/i/gLvfSXdUsKj2t/ZvCtK4huLus8fXVCTNa+e62ARA+fvbVkG1WWjeeS5gE6+DEqDayfKmq5W1hoUhv1TQ8EMeOok2ae7R7XQ0KVLtYLMz7K6RsNR/ud65r8gj1jrB8UUK32DuUz+ePUG473p6HG8Isw7defRhy4QbCxHns38sFISdULBEln/8Y0NdxQK37rOOC1xt+gQMLR8LzEpIg7VR8yl1cyE9jZDmljWvf3grHdHIbUHdCA=;P+p7PhLVovx3E6uYeJJDSg=="
 ---

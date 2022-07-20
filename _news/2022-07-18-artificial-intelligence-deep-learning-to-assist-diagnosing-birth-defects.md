@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AI Diagnoses Devastating Olive Tree Infection"
+    excerpt: "The researchers collected twig samples from 66 trees and used their algorithm to compare lipid profiles along with infection status, tree variety, and whether each tree had been treated with Dentamet,"
+    publishedDateTime: 2022-07-20T13:24:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-diagnoses-devastating-olive-tree-infection/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "JQUqPEwnnkoDDiAigWPWsMWGd/jw0ywpTFzJ/sMtl5mBP0mVrYW5HgAOGu8RcHSp7fYBzkPJzjDPsWjVLf86C1xGoydWxQp6112fzvHv2q68i9BfJrflff/Sw4YSr/UL/F1BWG1sFDIxHFcQwJNh9NKUiLU9vwKKrbo+nm0WVf0IvcVr5NCxH3MQZ+DnHnk5jQLC8+XjpML2jvo0DMjrjrUoTt/qeaa150cEAH5wY6f7pxCWcuZMxCbCI8RUolB5iHGM3XsoAfsAaLWRjrFeFEKBYETmch1XeYE+NfoyqUpT0RbWoKMegWxzQ82Uw30pNNiTTz6n2ZTplA0xqPl2KlxnAw4vlbpx440/Q2wpaAiBlZ7MKTxojYWCraypf/S0c7LFXVg6XMA3f+6f/MhkZjJYuf4aIWaYb3KOe49UFSecoj0NN5IW6exZAf9FVyFrPDiJ7IkP2gf0fdwahGrDFOK6B2VXlcEMwAw2xknbOSmTXarWXUCA3JzByh4eBv9TbBZhPa2bk6bo+R3ww3/5Mg==;T31sEg3qdrwHY8Ts/Xu2/Q=="
 ---

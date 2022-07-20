@@ -57,22 +57,15 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
-    excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
-    publishedDateTime: 2022-07-20T04:49:00Z
-    webUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/"
-    ampWebUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
+  - title: "aiSensing Deploys Highly Successful End-Point AI Vibration Sensor Using SensiML Analytics Toolkit and QuickLogic EOS S3"
+    excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that its customer, aiSensing, has successfully completed and deployed an endpoint AI-based vibration sensor for a large multi-national manufacturer in Asia."
+    publishedDateTime: 2022-07-20T13:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aisensing-deploys-highly-successful-end-point-ai-vibration-/2022/07/20/9642025.htm"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 47
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-23-at-12.38.43-PM.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "jNPOOBrdlhRXOyueWDNW++8oSVk7ZkOLywUkBDG9D0VlwWx0y48YxfP4HkpJJO02fArHyuqWZ6wVNe51lwZbgmwO4I2Z7sjqbGDeM3PGSdjUIT2zM1B/hhfvocGRXBmFZbKQIKlekUGCi56gDwNW2O3yVbe8YrnLj21i1K+Q6MVECK6QjGK8NEYy15vc5nsbwoZ4DFQp4S9TtVGxMPTbps3FeMEdtKHfxL8tbN/E+d4q7znlnJwmttCIlw0k6ZpmdpdWBZiaXTzaydXAmCCW6TDMOeCGgOvC9oICJHYAkQehJnbTPQy699Y8/BgSOzxgtB6W2O2QEf3Qg8bJTe2N5jfVfkkt/LFUcIUn/JqIPVc=;6cZMuBIotOJqM2Wxz+8vUw=="
 ---

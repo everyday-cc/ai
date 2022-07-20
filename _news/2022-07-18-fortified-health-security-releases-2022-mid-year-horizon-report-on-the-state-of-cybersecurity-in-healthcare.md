@@ -43,20 +43,6 @@ related:
       name: Investing
       domain: investing.com
     quality: 19
-  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-18T08:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 10
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
   - title: "Former Cybersecurity CEO Christian Espinosa Sheds Light on The Lack of Emotional Intelligence in The Tech Industry"
     excerpt: "With ‘The Smartest Person in The Room,’ Author Christian Espinosa aims to teach business leaders the importance of emotional intelligence and nurture it within their employees. Former Tech Founder & CEO Christian Espinosa has published his book titled ‘The Smartest Person in The Room."
     publishedDateTime: 2022-07-20T05:20:00Z

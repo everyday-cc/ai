@@ -26,52 +26,54 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning and marketing analytics"
-    excerpt: "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ..."
-    publishedDateTime: 2022-07-17T10:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+  - title: "5 ways AI is detecting and preventing identity fraud"
+    excerpt: "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The rise in identity fraud has set new records in 2022. This was put in motion by fraudulent SBA loan applications totaling nearly $80 billion being approved,"
+    publishedDateTime: 2022-07-20T14:40:00Z
+    webUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/"
+    ampWebUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/09/surabhi.2020.jpg"
-        width: 350
-        height: 445
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Top 8 Uses Of Data Analytics In Accounting And Finance"
-    excerpt: "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations."
-    publishedDateTime: 2022-07-19T14:01:00Z
-    webUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/"
-    ampWebUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
+  - title: "Zefr acquires Israeli AI firm Adverif.ai, bolstering technology-led approach to identifying and defunding misinformation"
+    excerpt: "Acquisition provides additional machine learning, fact-checking and data science expertise to help brands avoid and measure misinformation across"
+    publishedDateTime: 2022-07-20T10:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zefr-acquires-israeli-ai-firm-adverif-ai-bolstering-technology-led-approach-to-identifying-and-defunding-misinformation-1031600436"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://mma.prnewswire.com/media/557108/ZEFR_Logos_Charcoal_Logo.jpg"
+        width: 400
+        height: 285
         isCached: true
-  - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
-    excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
-    publishedDateTime: 2022-07-19T23:03:00Z
-    webUrl: "https://campustechnology.com/articles/2022/07/19/6-technologies-and-practices-impacting-the-future-of-data-and-analytics-in-higher-ed.aspx"
+  - title: "Floating Plastic Litter Detected, Categorized Using AI"
+    excerpt: "A new AI technique pioneered by scientists at PML uses images from a vessel-mounted camera to identify different types of"
+    publishedDateTime: 2022-07-20T12:52:00Z
+    webUrl: "https://www.marinetechnologynews.com/news/floating-plastic-litter-detected-621239"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 17
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220719dataanalytics.jpg"
-        width: 644
-        height: 360
-        isCached: true
+      name: marinetechnologynews.com
+      domain: marinetechnologynews.com
+    quality: 19
+  - title: "There’s no AI in Identity — Yet"
+    excerpt: "In this special guest feature, Jackson Shaw, CSO, Clear Skye, discusses why it’s still early days for artificially intelligent identity management. The article explores what needs to happen in order for businesses to start realizing the value of AI and what is possible for the future of identity management when backed by real deep learning technology."
+    publishedDateTime: 2022-07-20T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/07/20/theres-no-ai-in-identity-yet/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "nXHJbixCB86bfRMvb9ga2XF2fgDk9DI9leHNOmFaFQLFc0Vi613ib8voC93dma441x+zOD04GnpbnQtBEan7146qnUrUtdBWk1NltkKcNGYBXiHTrG6fFMQxWe3DR/qpkd4eZ+cO5B9/CEMfub8/WiE8odxHIPfgJU5mhr0tAfHAE5G/28PzMIJQuyYlRESzc1yp6Y/AOsnUG/InlOhpQoU6LjNHcPluS8husQ7IQwcS61pPPbb+8dZuAMWuaeK9InqfQaDP+VD98TNPqCdOoVNBfjVwIvIKmYmr6InxePo5fBDSGtXA9KNAiHg9LcsiENLfFxSfNypyP5/XcAGcdCY+m3qnGdv4tWj55/XV5mg=;XzoewlvsEPL0sFpSz3H01g=="
 ---

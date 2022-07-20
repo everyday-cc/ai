@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T13:31:00Z
 originalUrl: "https://marketingsentinel.com/2022/07/20/here-is-a-bargain-stock-you-should-look-at-c3-ai-inc-ai/"
 webUrl: "https://marketingsentinel.com/2022/07/20/here-is-a-bargain-stock-you-should-look-at-c3-ai-inc-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: marketingsentinel

@@ -27,6 +27,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 19
+  - title: "Vyant Bio (NASDAQ: VYNT) Engages Skyline Corporate Communications Group, LLC To Continue Advancing Its Communications With The Financial Industry"
+    excerpt: "Vyant Bio Inc. (NASDAQ: VYNT), a biotechnology company focused on identifying unique biological targets and novel and repurposed therapeutics, has retained the services of Skyline Corporate Communications Group,"
+    publishedDateTime: 2022-07-20T12:31:00Z
+    webUrl: "https://www.benzinga.com/news/22/07/28129251/vyant-bio-nasdaq-vynt-engages-skyline-corporate-communications-group-llc-to-continue-advancing-its-c"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "u1ofFoFCMLbJyzYZMmYBere3O9mO19DLvYXBKMb7oA7DJkXBfvIIP7/4Du8v5kDxSGn4Sysa3JU5S3SD3CR1D1F9z1Yfeiq8PbC8coBA22W+XUKK49bnyeoaUw42XUrj/3W28r7zjNeijp9gakiUJsSgVZbufZ606Qz58IaaycVTfAC3fTzHjJ4qaeOfib9uG7bKqOfXj5aGKjhCxBvHWNJEhu+B7dagP0uuO8rYZvtn+lmKqSn1r6OBGD+p2r/KjgCExpsXNvYax2V6QSs6GVWyYmGgCWIN4rN/0aKwPBEorxWvXwsdc6myFxWFBOBelPLGF2+Hj4Om+GNQx/mYnTTBIhigOkU89csBmAVsCRQ=;+FaYbbW7LJ4MF1W74QPs7g=="
 ---

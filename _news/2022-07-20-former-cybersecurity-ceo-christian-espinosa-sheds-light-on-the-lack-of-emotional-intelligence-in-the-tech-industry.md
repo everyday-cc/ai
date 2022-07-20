@@ -50,20 +50,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 18
-  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-18T08:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 10
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
 
 secured: "4Nb/bw/dAk7NWgHUypnsJzqg8Wq1Jam3lkmMFCQbwN+90z5t6M4E0/9D5QJXM4ejO0usBStFdgBPjWBMU51bVHzCRqLgYYE9HvCFxW2olYUojggzIlFN6uIyF+jJNyDdmChnshoyOZP41HImnyJuOrdpS+3J9i9vZ5armnZw/yYwWxPMj5CY73gr0XPpqwGy4gjYaIUQZ137zr+ULpJpZsELe7EzcvNggnyrtbxEHnO5T1EP+iIFbDG8gXHhZplTfw/RPfnHiKiOY7dMnVOpuVLNh4KXBkodwsXAsgnRZ06YWf6rlo6KJeShAdUQKBx7FBoWCAZ7U2yi8fjHn5MKU18TWfs3mHnl47eX/lDWx3o=;FvHYBin/rRfITB+Y85HDZg=="
 ---

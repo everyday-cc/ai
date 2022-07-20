@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T13:07:00Z
 originalUrl: "https://medicalxpress.com/news/2022-07-infection-machine-methods.html"
 webUrl: "https://medicalxpress.com/news/2022-07-infection-machine-methods.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress
