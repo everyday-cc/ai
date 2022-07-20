@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
-  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
-    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
-    publishedDateTime: 2022-07-15T10:39:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207931-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 14
 
 secured: "JQUqPEwnnkoDDiAigWPWsMWGd/jw0ywpTFzJ/sMtl5mBP0mVrYW5HgAOGu8RcHSp7fYBzkPJzjDPsWjVLf86C1xGoydWxQp6112fzvHv2q68i9BfJrflff/Sw4YSr/UL/F1BWG1sFDIxHFcQwJNh9NKUiLU9vwKKrbo+nm0WVf0IvcVr5NCxH3MQZ+DnHnk5jQLC8+XjpML2jvo0DMjrjrUoTt/qeaa150cEAH5wY6f7pxCWcuZMxCbCI8RUolB5iHGM3XsoAfsAaLWRjrFeFEKBYETmch1XeYE+NfoyqUpT0RbWoKMegWxzQ82Uw30pNNiTTz6n2ZTplA0xqPl2KlxnAw4vlbpx440/Q2wpaAiBlZ7MKTxojYWCraypf/S0c7LFXVg6XMA3f+6f/MhkZjJYuf4aIWaYb3KOe49UFSecoj0NN5IW6exZAf9FVyFrPDiJ7IkP2gf0fdwahGrDFOK6B2VXlcEMwAw2xknbOSmTXarWXUCA3JzByh4eBv9TbBZhPa2bk6bo+R3ww3/5Mg==;T31sEg3qdrwHY8Ts/Xu2/Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Alums From Google's DeepMind Want to Bring AI Energy Controls to Industrial Giants"
-    excerpt: "It’s relying on the same fix as their former company, DeepMind, Google’s research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data ..."
-    publishedDateTime: 2022-07-15T10:46:00Z
-    webUrl: "https://nationalpost.com/pmn/business-pmn/alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants"
-    ampWebUrl: "https://nationalpost.com/pmn/business-pmn/alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants/wcm/234df28f-3dea-48f5-8f95-2603eb88ce5d/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants/wcm/234df28f-3dea-48f5-8f95-2603eb88ce5d/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 48
 
 secured: "i5A+KF6IlpCRFH7hRDyH8ayp76zMbCEgh2VA2vLdpc3p5hLvHxoKh1v+6V9vbtQo4NowD4cCQoQxU6WTtveYc07K8ifZBjGIrpaDPvtYoov1gTAdGwu6YZRr5jJmUTC9DFaBukDxkdmL85ET5feg6VeoyiITlu7e7vovONISq0ZgYOrs0rInIv3S3ZK+exqIxvkY9b+jcu/OYY+OtFc5HhnD6E/R+zaXrQARsgXWbkAnHindcbdVaYpZub23CtZSI15o85Cf9txYcOX6fCUVRdVYrAT4G2SFIJOCK2lprAqocnNrfsX5ovnkvVXh59kEBpIcO/8LaWxU8mNEkbLvaoPEyv7xJUj03l6SvTg0WySY7JM/1iWdJ6sJjiyqD0ZWjv2kyMeEoH2HNT7Ro7mOok+SpV9tH/NDJuemg4COuEq6G0NGsdBLU3nQXRYetYosdEYJgXPnOqA7KWCADbYNwlkLiszZB34YShgrB/kU2md44OJfAd8rJQSm9HZnW+bMCmTEn8+TfIqDIHgb6LR+ag==;gIklqXQ2F+ZeRO99CSStHg=="
 ---

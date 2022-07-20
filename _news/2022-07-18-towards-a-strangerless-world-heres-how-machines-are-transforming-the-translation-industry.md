@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/towards-a-strangerless-world-h
 webUrl: "https://www.bbntimes.com/technology/towards-a-strangerless-world-here-s-how-machines-are-transforming-the-translation-industry"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Translating Myself and Others — giving voice to the world"
-    excerpt: "Yet this is not so for Lahiri, whose voice is a strong one in the current campaign to give translators more recognition. Her candidness about the hardships of translation and her enthusiasm for its rewards make you want to hear more from these fascinating ..."
-    publishedDateTime: 2022-07-15T10:00:00Z
-    webUrl: "https://www.ft.com/content/cd7a530d-ad71-4983-b853-7f810d35ae91"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "5gWTtscDzV8IRr6SRLDSFaZQVsKgrLBjnVWjtE/FPlRC1xutQElNWND0j12MIaUTwsIT8TwnbuqSUrS0gY3sYgJI83uZt+NfoW9T/IV9PWKriR2m45lZImYHzc7bhZXl9wRO9ym1NuJhxUZQezA7Y+ju6eJlrvHb5vYMmzoSXR0GhLljGcOHm4Vgmmwbum/n4RjlmR6mJMiE43AKooYK1QtritBojI13YGLv1CFHWvPo0R9wMIRUiW9oSAXejd/OmpO6L3CDEuETt6Aak6f8o7EoitzRAszn8P/vtFyJ+4e8qtnganLudGcQone0uMdQesx9/afhV50jgUtoGsL6f33+OOalTDLQR7K1A11refRETRjfXLbOOe3bbAGQfQiDoGSboNZgACNSlPUCXiAkqMlpAPMelzRFTwThrEaxCV4If5azQQUv59U3NwrmKwT9ptJWr85mPr3aFpSBMYPrLLCjcg2hxgnBlNRNEnSX+pgftqU0hD+7c9P3n/UUZCnyd3oh3tvkaKkPjcAUN+CsgA==;9Ynf2fiDf1Gu/kG0tkEQ3A=="
 ---

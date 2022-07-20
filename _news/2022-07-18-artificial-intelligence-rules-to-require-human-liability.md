@@ -24,6 +24,22 @@ images:
     height: 536
     isCached: true
 
+related:
+  - title: "Government publishes principles for AI regulation"
+    excerpt: "The UK government has produced a set of principles for the future regulation of artificial intelligence. The Department for Digital, Culture, Media and Sport (DCMS), the Department for Business, Energy and Industrial Strategy (BEIS) and the Office for Artificial Intelligence have published a policy paper outlining the plans."
+    publishedDateTime: 2022-07-19T01:42:00Z
+    webUrl: "https://www.ukauthority.com/articles/government-publishes-principles-for-ai-regulation/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 37
+    images:
+      - url: "https://www.ukauthority.com/media/10495/ai-head-istock-1181533674-monstij.jpg"
+        width: 600
+        height: 405
+        isCached: true
+
 secured: "a1I7MbzOy/IYCj26+DWg7Qimg2YPEEzwky+8w45mPuQeLNnc4dvkoInm+OXko85zeUqm+1vcGaHxXhspTt251063V9NrgSn2k1PB7gJBBKqLBUQ8HfXBtHaYeRr6cIfHrwPl1e/sVr+aiWo/tDjsKXcALbFW/TYux/KYDzDGGT5GD7HrPhQkYuhv1QSD72p5hfvfJXu1p8iEdzk4pFHj7YMim65ZqvRVKVap34nmWIqLUSEmSLi5uEnefPUL/60O/ag80OIvqks5OEaWHEzKwEao39bAcgRKhRqWRzzeHRzdQ4Sdev4PC41VGwwXq2MWkZF2lbsBNmxOta1a0hwv4EKPxOOnp5RWS01MhE13T4qhsvl0u9BnvrSIHrpwK4Ha24Y551CJBlHujrKyK2slC+o90bsvOpccKrDCnwpvHLWGZalNDVPkzVFI2AWolLeULCei0e8LA6kcaDdwHTSkaeTUvzomgeRAP8tOu/XtHZ1R61fvjLqAjWR+/p0r3Kd3qiFAM0DnVhWZoU+u74JVBA==;hm1wTe/1dfW/fYVAWZyW7g=="
 ---
 

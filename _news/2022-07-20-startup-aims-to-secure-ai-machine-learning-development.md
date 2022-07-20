@@ -58,15 +58,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 34
-  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
-    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
-    publishedDateTime: 2022-07-15T10:39:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207931-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 14
 
 secured: "zmjOX7TEPPjSFogGsNE+pWPGxYTzes7QkKSlmgyqVEb7eCcFnrxWWvB6/eB2CYS8aWviFrkPXkh7wPUib3QmstB8Fb2mlCQRu3r8YnKzf1h8SF9JQwpqf5V2L1Y60D+rhN84bPPSp/uwhk10IULJOjlHY5hlrnLYJ/1yFwvNLpgMfCKYWy01NbBG/KrEIOMzoUbDpBfWD7ZitT8xUoatkcIMamrJn8YNSMGhSokTPZoTL9EjJaRMGaL9S1IOA8oBNqTMdqSl3LL7Zy9m679l2DdjbuQ0HKfv9ypor5jMpy2v0xNdrPgIunCl1WOGaZoZd+rlB8Qvs83kAMRoW3nl5nWdgA9ap5ZNKANv+c2L6aeSXxHIY6EOpbb1/Fijhdo8KVx7z4dNLLaY/7dzQoZUjGnE0YXNgHCrxB71yjI/QRbpCcnUE+ja1dsA3kkxG0DuPRrGOPxmBgxUwl1g0TMqdo7uKmxSzRHJAmH9ZGuk3gzXV7sGzgTzxmPFcy+l895k2yAnI1hNsUo1AnjQikMciw==;lyo3r2TNipbkHwUNC8fEag=="
 ---

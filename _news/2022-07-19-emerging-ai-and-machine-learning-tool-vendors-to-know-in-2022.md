@@ -59,15 +59,6 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
-  - title: "Artificial Intelligence to Diagnose Birth Defects in Fetal Ultrasound Images"
-    excerpt: "Artificial Intelligence (AI) can identify rare, life-threatening disorders and birth defects in fetal ultrasound scans, reveals a new study. Can AI Read Ultrasound Images? In a new proof-of-concept study led by Dr."
-    publishedDateTime: 2022-07-15T10:39:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-diagnose-birth-defects-in-fetal-ultrasound-images-207931-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 14
 
 secured: "ShLHlEVvYgB1EaX8S93Qsxmy8paAAHFlp34OyWH/c3hk9dSlG0NAf7Q7iXCZmH/o2wfQCVGy2QRyIUCxHF53xcIo2BlO3NeKWmsnHauHDoNzVOugLzH+rOW0sgr7IgFau4lu3V6ln5phlC1mQQPK4/BsUJplTjG6mLtnH/Io0xlM/O4Co2qN6Jq+LcP7xHJLYw3awRdItRrvy5L01OgnXvk2T9ZXgh/avXPF+smOp3m3hRMPQLuIybK7+LG+fNqBkzqQhAtayBLjsyYDKWfHpDQFgG7xitaWjQfT+q12/4k6+HeXvGssoqVUJtKoH5w78tOatKFupI+jkdS70NYzdMZzo0WxT9s072BOAnSY2vpSqD1lEfgGaGhhzM554FVX5xoJNDfQhPdOFcai6r9koWETVZPwakQBrlNc2PImiDMRUMEgEDvep4yMwHExQAoXqxOA8bkq/LFXXASdgJASKG39fj3gZnm0Cmg0qlKEg0cNCfJBZoE+tAtrjPAWlgXga4r2UmD/yGbwsUlw5eHHdg==;WSsi7cw7p2UgAGwtz7iNxQ=="
 ---

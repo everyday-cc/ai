@@ -59,17 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Alums From Google's DeepMind Want to Bring AI Energy Controls to Industrial Giants"
-    excerpt: "It’s relying on the same fix as their former company, DeepMind, Google’s research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data ..."
-    publishedDateTime: 2022-07-15T10:46:00Z
-    webUrl: "https://nationalpost.com/pmn/business-pmn/alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants"
-    ampWebUrl: "https://nationalpost.com/pmn/business-pmn/alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants/wcm/234df28f-3dea-48f5-8f95-2603eb88ce5d/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants/wcm/234df28f-3dea-48f5-8f95-2603eb88ce5d/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 48
 
 secured: "T24oUk5H2UnHtbCpb/lScymkWNDg7tD2TjOpD2B6ugY0o9jd9DOyChClxZPeIO8H22lkQhkCDRY/oAASbvPxN6mZo6ehXNwEoT1d4LzPpg3MLWlQLVVh0aUZQ5DGDv4xVEGEOnGeF04tyIRYeFigkIDAxOTgKvn4mZf9bgK/805zWLAVMcCqZGqvmojv3S5jtC2gw+DzVW+QU3Cj1OXEpiWofG04Kc+uu7vV7g84UI5VYzZJeejtMX0f3fs5Vp6Jx1bf4MHygQmgvAmgibliYL8u4vXgZWiV2vwSFVbbx8nukiLgujZlWEFGlW0r84+ejcxfs4tEgv/RBhQ0Zlu5UAnaabbmfXCMB/EUo0FPECGhRskuF1MurCn7tyG8CW3+jBobKizk+kzLTobvf/d1muBRMUvBKOYU/mVemq170jyfAyJ/QZDJHO1QHlyq/WcJhTERuKnPtdP1D8G9qPNnRckcdXOwl5RLdy989Otf/0gqsA2/fivswi3Cc60RP4jPsuCEk7GkU1diFerpkAoL7Q==;qW+/+Hm07QLJ3jWItUDDmQ=="
 ---

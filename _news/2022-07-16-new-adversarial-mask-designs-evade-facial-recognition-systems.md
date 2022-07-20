@@ -24,22 +24,6 @@ images:
     height: 519
     isCached: true
 
-related:
-  - title: "New facial recognition technology expected for online"
-    excerpt: "By Phil Pennington of RNZ A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the"
-    publishedDateTime: 2022-07-19T00:54:00Z
-    webUrl: "https://www.newstalkzb.co.nz/lifestyle/technology/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/eh3h5jhx/facial-recognition-technology-123rf.jpg?rmode=crop&rnd=133027080602900000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
-
 secured: "WnHrC/0deXe3sz+oidXjU4S5s1QyoC3KWRoKjZWE2+Q2Xbg1sUVsZw3liS5571VZMurWMRNO93yhBj0rVNJPstve4zvLoJt3Nc0ZT0yW6H1DTWsRzxzyvDtH8MtId1/iYPdl6BdZuF8kQJdJTrErI+yCXeh71RYb6h1gwTl8AEFSXymIy182hecroX/LEbIvf9WNQmq7b9unNeULlQWxLZrmZOklTL+tx6VaJt7u0vCfiUDXT6UkNoz4jeS0nvlGbBwFz94VN29CQeDFr2gRQOLgnvVHDQtWX4SiLP66YQQP6Ts7iPQ8Eqn+ma71QLooWh/yJBZ14zWLLfmifgT6kdh5lkqFb1IBV6kpZBnLNbeSlN1QU1ke8bMTJer4fvNtspFY/OwWQOhpX5V7gXD3A/mid54DoUMAQe8S9JItClj4jhW/hv/X2pcqDACcgNfLBx9EqggMci3wl6CYu18sY6kGNheI8QM/Y/+wvoNReOE0iZCWesW7I42v02WWe2d2OsuwW1gCsN+ej2ZxK78w7g==;3Q3ECzmY0QIp+/8Ni+7G+A=="
 ---
 

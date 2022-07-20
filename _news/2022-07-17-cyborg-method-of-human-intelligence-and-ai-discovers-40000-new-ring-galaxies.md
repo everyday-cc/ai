@@ -40,15 +40,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Human and artificial intelligence 'cyborg' discovers 40,000 galaxies"
-    excerpt: "A new artificial intelligence named Zoobot and humans has teamed up to discover tens of thousands of ring galaxies in space."
-    publishedDateTime: 2022-07-15T10:51:00Z
-    webUrl: "https://www.tweaktown.com/news/87413/human-and-artificial-intelligence-cyborg-discovers-40-000-galaxies/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "Jbt30T00r/5oU5sh1t2EWXBkADhdIg1dbGuP66+kp8OwedLZ/aMRuRoJm+yo9duKpaNfbPH9vUL5l1iBu7yPG1Qum06ga/5YY6DJA+/NOdC6vFieb8SIP3D9g+fXgTBMrMbbnGcX3zxlbszei/OwBsapKIcGe7KB9WhWtNPmeh7LVUZGsvE4yZBHGalVkOyDCv1tmr9Tifi3r8eMrT/N6eB7wgyvb8isjfwjBxqdKPN6x4qz8D6dDSCGj4RyPjJFUO8lmxMCFo6FCTXH/X/fTYs4Wr3EWw7pkydr5meZeExNYJbfxygdb1nCphCtzeeuLJrUDVvaggbGRCKG9XZdrvX5Enx8zXCfcD5ULNGz8J4=;N769LV5MrhGe5m3aKucaLQ=="
 ---

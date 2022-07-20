@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/universities-in-cincinna
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/universities-in-cincinnati-coventry-partner-on-ai-course?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Amid labor crunch, Cincinnati chicken wing chain turns to robots"
-    excerpt: "Amid an ongoing labor shortage and the so-called 'Great Resignation,' a Cincinnati-based chicken wing chain is turning to robots."
-    publishedDateTime: 2022-07-15T10:32:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2022/07/15/wings-and-rings-miso-robotics-partnership.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "tu9UclaNF/hOVekZiRof5+IKh6CAmbeTI35g3fa5PUhMu4wQ2d2T+WzuhlAX+ukziqW/0JFNjUY4f1BPu9nQkkDy4d3Fis9MNwJOKhPgmS4idEdsDcgJ5qLlXKFFCJlv5JGSXFJns9cNkAuQLlJ+MIQhvO7u6mlGZt3hL2capWwzxalQPS6rwSY6BtWv+ECcBj8pJYQ62/L6XkXeZoSeQxOBHkwOWa0jL19P+EaJE8HGWkEpmvh4XedIaZTSjmqpc0C9QMj9SNkJgJshnVdx8zQPUTxJ8xrZTDshmlzKber3V/Fs/IWxR1zfuq4VQhQohvtJst5uXLaHRQ+RmyolMU47VX67OqFvNqgo71LdEKYEzQbrHOEhPztERWFjkdqqg2nHgoLp95rNfL/tbSFmB//BO4k+eWDFcvGFJ/87fTLJRhmWMKZcAgOpADNnRXGu0DjzJ7c/yyjgc03mUhaVTS8UV6Ks3iDQjXYkeRS7gkgbiLUgpA9b8AzR1liVLh/aO5Kc/cBgqx2qN4xUQ9YxFw==;65bvxfuzoru+CQo7mdnZRA=="
 ---
