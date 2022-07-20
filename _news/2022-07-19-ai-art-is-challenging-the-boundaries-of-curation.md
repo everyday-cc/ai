@@ -1,14 +1,11 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
-publishedDateTime: 2022-07-18T21:11:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+publishedDateTime: 2022-07-18T21:05:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
 type: article
-quality: 69
-heat: -1
-published: false
 
 provider:
   name: Ars Technica
@@ -19,49 +16,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
-    width: 760
-    height: 380
-    isCached: true
-
-related:
-  - title: "AI Art Is Challenging the Boundaries of Curation"
-    excerpt: "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,"
-    publishedDateTime: 2022-07-17T11:00:00Z
-    webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/"
-    ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Artificial Intelligence is the New Basis of Civilization"
-    excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."
-    publishedDateTime: 2022-07-19T06:45:00Z
-    webUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/"
-    ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
-    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 61
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-
-secured: "DIi8GuQ6WyRmazfVquhh8kXYvQACrmHfqsuiur/+QLmOzdplGT93Rp9LHuvZ/G9prNq25wFnYmUmFFmOyaLzqECUvYLTnhWrnTa4bNCdNWz/fMF4YVZzez99zz6M4bZqh8Q4ogU9nSqE3Rfh6UrU74eXo+tLEkKcftWSeDSxEDLMJJeIMvpSQDiTGicuwFROC/2UoGxMmfWN3GbFFzj+va9z0I9WmNAcZ0i03iG3gm2DgqjRklAO1jpjmFBBCfKt+c4xrBnBVNFrP4Yht+nyQ8Uj8ZlNkrIoUVGHP6cWZNcVcJNLyBuvB/iZUb4iKMUbaWKKT/+U6QmEJqK0TG+rUQBDyXNqsfdinzy2HAITmmw=;hrwo5jM/fWgZ/8HTMqNTtw=="
+secured: "tFHTPYVSyRCrHrX1f60MxYAKPq3qYrGgEzP1O3pKwaWPRX+cDhJZGBEeMeVMOZqG6f3pcCHpTlh8qOrGce1ab67gl56c7cROmYpIwfdlhxm4OipKO1IrK4acNZzERZyztO1C5taEzmb/kwUG+IiXcqZYFiNQS4T5QeMMVSc2V1gqmXbY07+qMUlwZ94NNQZj6fphPGUYwYbW06p58Xu1RaoSaZfh8OIB6bw4x/fNKsse5ue8bQbZXSPdcRQOEMPbDY0TKPhVr1eRfRT/l4WJ4cpScKf/5AWA+lBcK2V1cwDrPWhlxPiXnUcsoBp6FkDdZlHElU6Lgmx6Sz0gqj6VUOrbvS6wlhE55y3teQdfI9tTlfBN/93VnT565wVFnKOBof/KcwlBcIPoeJPgapHu9nVs7uieQJzfBiSmlDtPUkpjhigrmKNXWGizYWk52A40G+enRXTWsP+TQbwTowosqAnweKiVEo4xMsVa1g+2wZw3X8ICoZsDTjAEGzSnbehMgkwFXeyNgRspYm+lUwWrew==;BIsugY/v7YkPz2sMhgnKQA=="
 ---
 

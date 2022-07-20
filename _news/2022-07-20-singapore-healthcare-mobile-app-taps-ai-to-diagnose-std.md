@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 related:
   - title: "S'pore app uses AI to analyze your dick pic for any potential signs of STDs"

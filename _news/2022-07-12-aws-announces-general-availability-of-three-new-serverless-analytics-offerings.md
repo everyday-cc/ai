@@ -19,12 +19,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "UzRKNVPHoVqUp/ENQnN5yECxFwVSC7WSqgoex2cLuJ/5lZnZxHo4CWpkp4Wg+oVc9w+zmKR/zvvXqgDwiQJNh//6ahZThPtl+ffVyn3BBmsTW55oVst3SBP3jE9URG+Kj9DbDMU50OKLVTUIYahQz0apbmGeIFqT+SokjGV/Fs5PCkjludVQjvrYUQ+XeB6KYOcAJT9Uw73PZmLJOYqPQItCxP1YC3bM4aO9mwZ0/Fhiitw9z7tixTWVV0koS0/ZaW+AYXHOkcFkgDE9JV3tbc66cMSpWPP+VplkJMNmrYey/uIGapYRgvh6Z7FBazWGWTkcCSpAIIwHfVsI13szF09qXc9CMyJRtpBa37UKe5A=;BXMtIIzscxdwwznywtiMOA=="
+secured: "wHTD2EQ2r17N/dNFJE4HrujT5+Am1fnHeO3j1L7EZiahfiJHzVaGoIaymzuI1eoZ2jJx29/oI8w5eccbtXrPCADY3yXeC6V/UyOljWLt/Mx77Kk6HhtTUsU9521rr2NWM/Nkq9I+9kPhwanx9RE+lZzTpXfsKCNZDtfXKrpDa0T9NeHMdc80Lw3b5o7RKct4EhCykm2/zattIR+TG2c0DK8dN0siCq7YFh75GnS0BlfMizSbLPPliJK2coHJhI8535gYq06ZhJDMHlu8mhoZFJszXhPJ/gwQUTGcb8xQIoQXq8NBPDfd0u4EqefuqS3a2tB7KR84QidhYDlolOyMsYPocgDE9XWb44Z0q8lxFFk=;Bn7O0YRkyGRy1xb9r6UKUA=="
 ---
 

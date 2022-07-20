@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1240129511-1-e1658272820429.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "uYWeP9Ft3/DLqustPuqCXp4IVTtkGTJXh2dId23nANH6dkANbobFCLP7RdLzGJwrlLUgbpNO0a6JT00w25glTyeEzj8O72v24ZqZ0q1loZ0nFwhYlJnThWi3iGGntUpSnGYWAD9SrauNNkR16JTENPh+oHcyXz2M+JtJHF9Db9nI1Y4XAZfFIRAcR/orHDSoGVUfmLmoNsbsSPmFFrwobPibBwbDwmlweC9LFrmfN/OW0M6+6fcfahjhhsQ/jDZq1+tA19efFEUVl+Q9hkiIvw43T7SpA0PJYd1NjiovFnhcspXoNu48QBBBXYDoCNXyimTPP6xlONeKWkhq03mOd3mkXXJBKctEy4yxC2Z2iUs=;Su68RAVWCKf983MOuEeK2Q=="
+secured: "FVIEB5G+HAOckW85wPv/XJsZ1RiRvqlMXSi1j5o2VgTXX7zWzkJOf40F8Poiot6ThBHaRxx+LFNxPYrRo0klRGbyUVNycx1O6ySeNMnukwy4LnI4iBdRLOOLH3GnjIp17CdsYSk7RwAy2MPHtb1ow+ozhcs59doiBTeQoBw07IMHAoFnHImiwCGSLqiT6JAVqV8XC3QSu8UpFHbuxpyJE146nndF1YaqSTzG1slj1wa9rkETBp9oX4bVu+BMkV+2rDuPCD3vp/As+BRZZ2KN+cI5Kfh3qOU+KiizgBMWFEUZLANewnVHyn300lEOcoN8BM/Rme58to0GoSzK+5n/gw2iXWhvqBvWuU2PmPszareDykDkA0QXQ0n0dN0TIrHfOBphiZL+NJDySzSuwebg5+ayEefoMFXj6Q5dmCx/HieHVLkUL9V/8X+TX58iSwm929pBKLXS3ZfaHsqoZWX5da2S1uzUj6sD3qlunydYUTogxIoSakMQXafk0Fpup4YZSpFEFICGCP/w3q0G0PWsJg==;dQNRhVcKWNc9AWWK9SllLQ=="
 ---
 
