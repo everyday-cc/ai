@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "vMupqhhOtwQ15HyfPL+/qn+b/m8A29JtdiQbydvPonVwcJDkDmpWWhk9IwdK7q5Q9vfQU91+qaBafrvXBh8xHJZi4VvkNSkHJLTKJ1EYxm+Kx6y7tdoIbXRzm0U5uxGwZRyi4OVNb6NZ5NsFdvfQkBJOfavlBJkGira2q+o+Gwco9xWc5ZnXTV8KZkblJemBBRqUkR5u5nAaz+ElRdcWZXm2szX2KTfG62I4qKMfV+htpeofY7kcZKJUob8YFw9tnT7rzzRlHHQnBc0mR8j0qDJFbf38H2ywdoWZr3mXk7sTiPMFD/iwb0GJ5VOkfX5umcCW6fiNNRNXLE7FFKPAKbSe/QKRad4vGOjmUthq0D9j7uiOyBb4WC+gZ9IfPIFWJ14igQd0o6JyDHavaVfUSU32Mo5nDMEnFW2Fo4G3SuQ=;yFwOSrcsVInr0UwxKBQOjQ=="
+secured: "Aoz3pNza9qKWCVbxGRbtJl/cY9J+1RO+um7frvYXIY6BCjS7heOiEgs4AtAGwjL4Iwttgh+4inv15hqssjJ4lgKYj/FINDFua1ZTC8C3NXNC2tSjKtQOfnYjr0n8pd4U5DV3ep3ALMmSB/GOcX1cX2Syf5NuoM/gUj7bMpZgT6EtO68RrXATmgKwjBOs7KumwVMVAe1nWQ2bwykWIR0nvs9mH56Vao52//tZcYfkTpK6CHWbpqVK43Q9KOUfOnLcOKgGCqo4qKlop8QTt46NC7iAo8QjcdoLaVpLtsmeT4gsYc+Yt+gv2nygyRzQpdKDJ9DD6SuhGwAgZA3cjAn2PGYUyu6sJnhJe3aSNp0FbihIn0xu85aPlGQfNkCMeTTK9N/SZYStQNrI6i92PbaLpHQhfl+Vu59e3hThFpQlxZM=;N4EBGFg/a3taupzK49vV+A=="
 ---
 
