@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-t
 ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 86
+heat: 96
+published: true
 
 provider:
   name: ZDNet

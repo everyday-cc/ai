@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T19:55:00Z
 originalUrl: "https://sporttechie.com/ai-camera-startup-veo-livestreams-kevin-de-bruynes-kdb-cup-games-to-104-countries"
 webUrl: "https://sporttechie.com/ai-camera-startup-veo-livestreams-kevin-de-bruynes-kdb-cup-games-to-104-countries"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: SportTechie

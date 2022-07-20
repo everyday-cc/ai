@@ -5,6 +5,8 @@ excerpt: "Teams led by Dr. Hyunjung Yi and Suyoun Lee have developed a simple bu
 publishedDateTime: 2022-07-08T00:00:00Z
 originalUrl: "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html"
 webUrl: "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "RzP7Hz95dSp6NRSrzgLA6jZboIlsnWz5fxi2PmowzVbO5Tfz1qE8jXzlsOaBUoy2nZQpVUR+xpkySaN5lTz+p0Y1WcHZrZTsRkJlnncP21wVaWyPryu5INHcHKzepdsYSJwBEgWAJolESQq2+JUaTB3fsc3uu03UUGBxvN7n0fiuFdWdUCnyPJfXugPugOMdiNE26Ub/rTVv/B9n7UV2TGIfhDFOTzyK5aEV0wg8XQG54+KlCx6YkQoYIMFOmBSdyOCmG962LxPTU4aJyQr89riQDWqNJuapKmzWf5Ea9NS2UuNv92nCrdvxSEq3xmq7wrFhR1Tl9QVErtYYk6KfupUar7MwVbHSueKgZ1kbdfc=;JRR23eCd8G/OyH+p+pcP5w=="
+secured: "f7d4GvpzOV5S8ZI8Xk4qHWcac9Uy7ilE07Q3oXl+AA3CoIum8VZ2e5jDwLGBkA1SkWj6u/W8XTSaUvu+16q0lYj08g1DfMJP2cDlabRG+xhSm2O24UqmFlkUrfd+YmSssnwOAXxw2RiTlbudPBpd+xfbjARUQwAILs3HFWcRXCYtXQX4oLanwY+XWC98qO9jsHemYE6MVW58XkJS6LCgCD0go+xCc4GDZhWedxDuyH5leSpqP0g+Po62I6nw340AGX8P/2dWV4fpOKcnrNBGrBUNe/nC8aK7CV+1RFIUU0l6Ps87t19i/v4Ej8jeohtVECda179m0VDu5t8OpJwnefmOzgH4tV+XBRSAQkSHj/0=;5riSYwl5nWF6da21zgp7ZA=="
 ---
 

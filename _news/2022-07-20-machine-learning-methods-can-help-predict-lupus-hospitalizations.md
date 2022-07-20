@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T14:27:00Z
 originalUrl: "https://www.lupus.org/news/machine-learning-methods-can-help-predict-lupus-hospitalizations"
 webUrl: "https://www.lupus.org/news/machine-learning-methods-can-help-predict-lupus-hospitalizations"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Lupus Foundation of America

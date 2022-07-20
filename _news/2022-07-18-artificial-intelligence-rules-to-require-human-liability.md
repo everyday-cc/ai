@@ -39,6 +39,20 @@ related:
         width: 600
         height: 405
         isCached: true
+  - title: "UK government positions itself away from EU on AI regulation while testing how light touch it can go"
+    excerpt: "The department responsible is clear on the UK approach differing from that of the EU as regulation will be spread across six bodies rather than one."
+    publishedDateTime: 2022-07-20T20:51:00Z
+    webUrl: "https://www.biometricupdate.com/202207/uk-government-positions-itself-away-from-eu-on-ai-regulation-while-testing-how-light-touch-it-can-go"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
 
 secured: "a1I7MbzOy/IYCj26+DWg7Qimg2YPEEzwky+8w45mPuQeLNnc4dvkoInm+OXko85zeUqm+1vcGaHxXhspTt251063V9NrgSn2k1PB7gJBBKqLBUQ8HfXBtHaYeRr6cIfHrwPl1e/sVr+aiWo/tDjsKXcALbFW/TYux/KYDzDGGT5GD7HrPhQkYuhv1QSD72p5hfvfJXu1p8iEdzk4pFHj7YMim65ZqvRVKVap34nmWIqLUSEmSLi5uEnefPUL/60O/ag80OIvqks5OEaWHEzKwEao39bAcgRKhRqWRzzeHRzdQ4Sdev4PC41VGwwXq2MWkZF2lbsBNmxOta1a0hwv4EKPxOOnp5RWS01MhE13T4qhsvl0u9BnvrSIHrpwK4Ha24Y551CJBlHujrKyK2slC+o90bsvOpccKrDCnwpvHLWGZalNDVPkzVFI2AWolLeULCei0e8LA6kcaDdwHTSkaeTUvzomgeRAP8tOu/XtHZ1R61fvjLqAjWR+/p0r3Kd3qiFAM0DnVhWZoU+u74JVBA==;hm1wTe/1dfW/fYVAWZyW7g=="
 ---

@@ -50,6 +50,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI Boxes help fuel proliferation of video analytics"
+    excerpt: "A look at how AI appliances are helping a larger number of end users take advantage of intelligent surveillance tech"
+    publishedDateTime: 2022-07-20T19:01:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21274802/ai-boxes-help-fuel-proliferation-of-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/bigstock_Iot_Machine_Learning_With_Huma_265744639.62d8500b35a09.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SYSU and UBTECH Propose Big Learning for Justifying, Analyzing, and Improving Foundation Models"
     excerpt: "The recent development of large foundation models such as BERT, GPT-3 MAE, etc., has brought a paradigm shift to AI. Such models benefit from pretraining on big data at scale and have demonstrated game-changing performance and excellent transfer capability on various downstream tasks."
     publishedDateTime: 2022-07-20T15:57:00Z

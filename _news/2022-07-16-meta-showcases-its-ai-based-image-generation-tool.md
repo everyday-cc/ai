@@ -52,6 +52,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Dall-E AI image generator just entered a limited open beta"
+    excerpt: "OpenAI's Dall-E image generator is both powerful and weird. So far, the developers have only allowed a handful of AI researchers to use the tool. However,"
+    publishedDateTime: 2022-07-20T20:55:00Z
+    webUrl: "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-20-image-20.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "OpenAI to Expand Access to DALL-E 2, an AI That Draws Whatever You Want"
+    excerpt: "Need an AI to draw a professional picture for you? Research lab OpenAI is preparing to expand access to DALL-E 2, a program that can generate images out of whatever you type. On Wednesday, OpenAI announced that DALL-E 2 has officially entered its beta testing phase,"
+    publishedDateTime: 2022-07-20T18:15:00Z
+    webUrl: "https://www.pcmag.com/news/openai-to-expand-access-to-dall-e-2-an-ai-that-draws-whatever-you-want"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
     excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
     publishedDateTime: 2022-07-20T16:45:00Z

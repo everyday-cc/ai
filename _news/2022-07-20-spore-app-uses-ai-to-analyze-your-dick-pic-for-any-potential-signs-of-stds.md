@@ -9,8 +9,8 @@ ampWebUrl: "https://sea.mashable.com/tech/20886/spore-app-uses-ai-to-analyze-you
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/20886/spore-app-uses-ai-to-analyze-your-dick-pic-for-any-potential-signs-of-stds?amp=1"
 type: article
 quality: 85
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 86
 
 secured: "i7KlI0chzUE17VYlo9l2UFSW6t84ppLC7CylBTnBePC+V5cpWRDbbTpsYFEpzb1FGc3eWakZRuUgGQJ+htdZLaPiLDyNvW7iXQ9/6RCmhTG/XmBvpLjWwTKrFm+ardyr+hQhLA/0uyV1RCKta/EDbvo1m4rtYqRLZwxKCgTlPR3c2H2qlh5SY7jo+r2dEf4f8yYD7LSD8qgwJstmGzfPF3cpdu1WTlO2PVJnsIWqLW7grUOl3qK9NX+SlisNSj0MWWJVBGlCPEg6HV9FPZDD+7VEthislU3w8XSoonE6dm+/D5Pi8Zc/EveyZ8K9BJHNo3/7gZY9ya/IYxLs4pN9A+br4bntmFSoUlK0xIDIjnE=;eP01z4hDTx2DgOOaM2+wVw=="
 ---

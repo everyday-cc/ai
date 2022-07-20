@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T19:00:00Z
 originalUrl: "https://www.afr.com/technology/what-could-be-better-than-a-robot-vac-the-lg-all-in-one-tower-20220714-p5b1j8"
 webUrl: "https://www.afr.com/technology/what-could-be-better-than-a-robot-vac-the-lg-all-in-one-tower-20220714-p5b1j8"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Australian Financial Review

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T18:09:00Z
 originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21274740/port-of-baltimore-starts-using-facial-recognition-technology-for-disembarking-passengers"
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21274740/port-of-baltimore-starts-using-facial-recognition-technology-for-disembarking-passengers"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Security

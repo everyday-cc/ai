@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T18:40:00Z
 originalUrl: "https://venturebeat.com/2022/07/20/transform-2022-how-data-and-ai-drive-opportunities-for-linkedin-and-its-members-and-its-customers/"
 webUrl: "https://venturebeat.com/2022/07/20/transform-2022-how-data-and-ai-drive-opportunities-for-linkedin-and-its-members-and-its-customers/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: VentureBeat

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T19:04:00Z
 originalUrl: "https://www.bizjournals.com/bizjournals/news/2022/07/20/driving-factors-behind-growth-of-3-cre-assets.html"
 webUrl: "https://www.bizjournals.com/bizjournals/news/2022/07/20/driving-factors-behind-growth-of-3-cre-assets.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: The Business Journals

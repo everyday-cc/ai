@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T18:54:00Z
 originalUrl: "https://www.brown.edu/news/2022-07-20/karniadakis-award"
 webUrl: "https://www.brown.edu/news/2022-07-20/karniadakis-award"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Brown University

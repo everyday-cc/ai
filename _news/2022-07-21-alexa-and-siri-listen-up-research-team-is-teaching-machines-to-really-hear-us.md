@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T17:54:00Z
 originalUrl: "https://techxplore.com/news/2022-07-alexa-siri-team-machines.html"
 webUrl: "https://techxplore.com/news/2022-07-alexa-siri-team-machines.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

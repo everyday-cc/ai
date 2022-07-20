@@ -59,6 +59,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
+  - title: "UK Announces New Proposals for AI Regulation"
+    excerpt: "The United Kingdom (UK) has set forth new proposals for regulating the use of artificial intelligence (AI) technologies while promoting innovation, boosting public trust, and protecting data.  The new set of plans comes as the Data Protection and Digital Information Bill is introduced to Parliament."
+    publishedDateTime: 2022-07-20T19:00:00Z
+    webUrl: "https://www.unite.ai/uk-announces-new-proposals-for-ai-regulation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "xux48XFhUjx94qVr1C6H8OJYeBN2qhARDhlEEtRfplWSUPt/9RdnfubzBPaCw4kZh5mlGRVWb7uqNbxQX7E2h7O4lDU5c6oegysJVBoHCZ7azSsmMOrN3aDD1b1VN6MiJHdJ/Y6yehT7/nXu4xvI1G2OTo//b6qTOKT8XqntI8z59WYdRJgiyLi6YBS/dySiNSbmWh/0sG51P+Ae0ftQoXxrQ/rVZ6+cksQUhbflSYlGmULDMxdDN6iXhme0uWgNsoZL2MSJ6qXZQHzy4i+qB+sq+3LdJqEAtwJXW183/opzyDw+b7r/KevElZ/Y9PQZ6loZWlto/Sp9Tz5mzP54KMqhSm2W93iDXt80AOt7a/7g3iyI1YATWFIUeQL1v0azqX1abfbxOUbplzSvrD82PdkFdi+bFQC4Uq0gd409/59Om3GjajbRcsv9Jg3TaUsq9JwNq2zz6PdclHRBywRN60BOVRJTJKRGU8sI38cl3i61qaFw+vsUVG3OYAPEfLJVFdhZhbktj937hAmk97Rogg==;CUw1YI5BLqF+une7ppIDgg=="
 ---

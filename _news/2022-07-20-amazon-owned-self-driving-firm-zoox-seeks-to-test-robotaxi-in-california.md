@@ -45,15 +45,15 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Amazon-owned Zoox seeks to test self-driving robotaxis in California"
-    excerpt: "Zoox is self-certifying that its vehicle with no pedals or steering wheel meets U.S. federal regulations and is applying for a permit in California to test-drive it."
-    publishedDateTime: 2022-07-20T12:25:00Z
-    webUrl: "https://www.autoblog.com/2022/07/20/zoox-amazon-autonomous-robotaxi-california/"
+  - title: "Amazon-Owned Self Driving Firm Zoox Seeks to Test Robotaxi in California"
+    excerpt: "Zoox, a self-driving technology firm owned by Amazon.com Inc, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U."
+    publishedDateTime: 2022-07-20T17:47:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-07-19/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "bmjOualxMWtSVsMhioRMEZMG537mc3Pu9Vrz2QUN3DqZMOsZ7WhHYf2SPVz0qgxHhaAUV8Fzws/Qvq8iUuAw6JH8XOzbmxfeiKflWgr9+vUTBofIH3cVlBXjeKdRPm0Al+C/46M4mFl8QEpwYoLiCkhYDzZI+6IISM+4pzu764L7xJmZiu9HInSBk156JithEtTi6LgyeIjgUGEYwkVmBALcwWMtF6MUqox3Fur+HJOlwjkPE8JAmqMQeTNyjk4SrymCNuqWjScfvV1j4RIqASHMut5nPTR2SELU7h3D0ek183jzvxqbMk6v2G3R0lOHYYO4Rv9j2dglhG2D9LdVc0d1RAgDDxdQtxwiJRAwyR8tO5K9fsHzLUu+qR8fpa1s5tDjk56Dl+pt/UiIYps9jIRC5SIWwY0iuzVlNQKxy2buXa1/oCjFKkPySJ8/sGPuDrZ9RZ/G17zOUtnrAWPLHc+GnE2cYMfD5spcIs5JT/ntxKh0hJ901VEvLmdUosf5FGi0sSk09qO0skQKQuBJ4Q==;6xeSI+cjs9lfcrcJjV51VA=="
 ---

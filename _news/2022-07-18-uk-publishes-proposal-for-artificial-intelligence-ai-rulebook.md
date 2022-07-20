@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposa
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 17
+  - title: "UK Announces New Proposals for AI Regulation"
+    excerpt: "The United Kingdom (UK) has set forth new proposals for regulating the use of artificial intelligence (AI) technologies while promoting innovation, boosting public trust, and protecting data.  The new set of plans comes as the Data Protection and Digital Information Bill is introduced to Parliament."
+    publishedDateTime: 2022-07-20T19:00:00Z
+    webUrl: "https://www.unite.ai/uk-announces-new-proposals-for-ai-regulation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
     quality: 17
 
 secured: "DZSkF4Cv5FhQWWbD3NeZCms9/mXDcYlK6daK/NE51S7l6sJGNRyJ8zstz+O5x6y8jaj+ZXEyp/vsFWwDF/5vFMQR164OKed8LFzNIBNFSMo5goP/i37qHGyKH6xH7rrI05z0Seg02HTvG7wAM1SRfnrV7NyVU4DyIwE/PKsE+sRUlUUDh8yv+kJnj3VQGcBUi2FzDAsoRkRA7kTupTYvJoL555IxTJeOczoI7PUfV87b/Oasnd7PaE0dCw/kTHENuwcxxOUt8oghbjYFZwBUT5zHrW92T32i7PBm6WyX31OiKHPvZF2Fk/WTevFuURhde7NwO9vnSEUrKgm+2HO/+v9vjL/zvpd51vzEkHn2bxc=;g1G8AL5Jx/mX4Qqp09qFdA=="

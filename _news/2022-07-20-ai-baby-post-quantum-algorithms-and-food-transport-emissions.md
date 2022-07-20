@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-20T09:10:00Z
 originalUrl: "https://www.nature.com/articles/d41586-022-01958-8"
 webUrl: "https://www.nature.com/articles/d41586-022-01958-8"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01958-8/d41586-022-01958-8_23277848.jpg"

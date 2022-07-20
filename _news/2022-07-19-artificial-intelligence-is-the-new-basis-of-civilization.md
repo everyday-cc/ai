@@ -58,6 +58,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Collaboration sets sights on acceleration of cystic fibrosis research"
+    excerpt: "Epistemic AI, Cincinnati Children’s Hospital Medical Center, and Boomer Esiason Foundation are working together to advance research into the rare disease."
+    publishedDateTime: 2022-07-20T17:52:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2022/07/20/collaboration-sets-sights-on-acceleration-of-cystic-fibrosis-research"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 4
 
 secured: "O4ahKNWgM7nEolD3IoOH5b9ne7htfSewFA7S892uYrDgxXRFc2HcenqLJw07CheAJQZU3YgGLbL4licInkTCWPXFfP3PEaOTPpG/S16g1G+hCVuk7Ii4C2QUyITmp8AxjdlT2rrdQOySFLdWG6LTDhW+xymyh5FWUnRXunF6GRxP84vFdQ58y3iWSAJaqT+rH/OOVPJLFcOVE8ndVQgi+Qn/znLfr06ODtczdlVzUYQ0d2gztLNI1Jv1AtO0yhnkzyUUaHVjr0n90rgO14yXUiL2+0wcV9Vb5A54WHOZXJ84xrBRZnaaL1fR48X0tw1/rbSnql/k/i70qxrD1QWM/Bcva/LSz15uoPHAp7HSEjtvOTvuTFwGwxHMMq3M2PNQgRfLkiNkjlTuDd0au5myPcrzSmMDUApkZTPX6911LmZGoh2MVBQihZC2W9MQn5LKxA8WtRIylW4TrzHr5mA3+EW8me+INdd2zxSDYHaWrhScV3s2rUZkEWd167o4ubAne0B3Gw8ap2A0ZFKYam5EOg==;ValoBy/g5UVWF/mh87S66w=="
 ---
