@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
+  - title: "Learning to fight infection"
+    excerpt: "Researchers at The University of Tokyo found that analyzing short amino acid segments from T-cells could improve machine learning algorithms that predict the infection history of the donor. Based on the performance comparison using multiple diseases and sample size,"
+    publishedDateTime: 2022-07-20T04:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/959174"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/df426ff9-78e2-4d5a-bf47-4b556ca3154c/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "JQUqPEwnnkoDDiAigWPWsMWGd/jw0ywpTFzJ/sMtl5mBP0mVrYW5HgAOGu8RcHSp7fYBzkPJzjDPsWjVLf86C1xGoydWxQp6112fzvHv2q68i9BfJrflff/Sw4YSr/UL/F1BWG1sFDIxHFcQwJNh9NKUiLU9vwKKrbo+nm0WVf0IvcVr5NCxH3MQZ+DnHnk5jQLC8+XjpML2jvo0DMjrjrUoTt/qeaa150cEAH5wY6f7pxCWcuZMxCbCI8RUolB5iHGM3XsoAfsAaLWRjrFeFEKBYETmch1XeYE+NfoyqUpT0RbWoKMegWxzQ82Uw30pNNiTTz6n2ZTplA0xqPl2KlxnAw4vlbpx440/Q2wpaAiBlZ7MKTxojYWCraypf/S0c7LFXVg6XMA3f+6f/MhkZjJYuf4aIWaYb3KOe49UFSecoj0NN5IW6exZAf9FVyFrPDiJ7IkP2gf0fdwahGrDFOK6B2VXlcEMwAw2xknbOSmTXarWXUCA3JzByh4eBv9TbBZhPa2bk6bo+R3ww3/5Mg==;T31sEg3qdrwHY8Ts/Xu2/Q=="
 ---

@@ -1,29 +1,43 @@
 ---
 category: news
 title: "Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
-excerpt: "The VH6, with no pedals or steering wheel, has room for four passengers, with two facing each other. Read more at straitstimes.com."
-publishedDateTime: 2022-07-19T22:48:00Z
-originalUrl: "https://www.straitstimes.com/world/united-states/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
-webUrl: "https://www.straitstimes.com/world/united-states/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
+excerpt: "Zoox, a self-driving technology firm owned by Amazon.com Inc, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U."
+publishedDateTime: 2022-07-19T22:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
+webUrl: "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
+ampWebUrl: "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp"
 type: article
-quality: 38
-heat: 38
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/07/20/ac_zoox_200722.jpg?VersionId=oIt4bVXJ.IRYkkSAhVY3GiYBecfw80Wb"
-    width: 860
-    height: 573
-    isCached: true
+related:
+  - title: "Amazon-Owned Self Driving Firm Zoox Plans To Test Robotaxi In California"
+    excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
+    publishedDateTime: 2022-07-20T04:59:00Z
+    webUrl: "https://www.ndtv.com/business/amazon-owned-self-driving-firm-zoox-plans-to-test-robotaxi-in-california-3175258"
+    ampWebUrl: "https://www.ndtv.com/business/amazon-owned-self-driving-firm-zoox-plans-to-test-robotaxi-in-california-3175258/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/amazon-owned-self-driving-firm-zoox-plans-to-test-robotaxi-in-california-3175258/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2022-07/o1t6gkq8_reuters-image_625x300_20_July_22.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
 
-secured: "OT6wAAqk6QHF+ND7ZlowVQsN17ftmZmijSCciJY/ZrycPzWboepPycuIWE0SyW24Qtewq9T0AE/qX4KjxbJ8HBLDLxipeHMYwyCQvpvGSD0JiyYzSg/RazUKaqPPnrtzrFSJVpUIFyM5VwUEA10/D8H2neEP5NbGYgbisMLsIoOA5R1RemnWyYEGkccohZFv6Iz5vxjWsQYU/EKQgg4b8517bOFkUNfthHcNEhXnqL+vx3AU3AWCZCFN8rAx2B524mkAfmyq2jVncKIuAoNstZlPbXh7gpL0tDqUq3ilDexsdTbrZB9zYmFjtWn2b4sN+gv8dNV/xEpt3BeoodhETZVoUqOK0dHkPBAsRsvTCxzzetzTas7yXcqXtAIQmex0ceYPxOf/VceziZXwA5NCnVxE5HkM6ybJPYtpYufkmAVqPFNXa8JlmRPRc+lSWGWfW3iP4UCBvdvJv65Gk+awp1KaWDan4w80qdCGDYtx5s4+YEN4IpvSika3Y9CdZLteQSsRiHSuG4UVkCRh/rssTw==;lw7SKmL5a/mywtDH/YZH4g=="
+secured: "iMO5OOsmRZXoKJvTbmSgvm48Sq2MgsScD5PynjH46+fVCrpWzCV554xoZi2PEPBJfq4jOgUSSCSYQW4UpSc7cO3oq0Ywn+MCrls3yNoH7pmYEya6pX2ckJB0BuBb8Trj9mBOqaAOmVSiylWW/dSoSi/YoVi4ocxK1W8p+6nOIkiW0FAbOETir+N3WONgNyvTL5YG3zbJbOZzXIFsVaI3nLnQZW6YhlMUalrrGsbYKooVcDUzQjVfGnVBo5w41J9GV91p91xY7bD9nVKELF9nU/8QMBMLxZUu/epk1QPmw6DxiC5LFLu/F1ehfQ25QRtquoXuMkHsoA9qNIHDxlw9Rgsh2r5AAR7/5e6hkxCfMVA=;/sKrP5TC+r8CcWn7mQDudA=="
 ---
 

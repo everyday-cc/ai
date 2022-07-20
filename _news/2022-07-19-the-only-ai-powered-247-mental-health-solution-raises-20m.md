@@ -23,6 +23,22 @@ images:
     height: 518
     isCached: true
 
+related:
+  - title: "Zesty.Ai Raises $33M As Centana Growth Partners Leads Series B"
+    excerpt: "Zesty.ai , the leading provider of property risk analytics solutions powered by Artificial Intelligence (AI), today announced the closing of $33M in funding, in conjunction with their Series B led by Centana Growth Partners,"
+    publishedDateTime: 2022-07-20T05:22:00Z
+    webUrl: "https://menafn.com/1104558579/ZestyAi-Raises-33M-As-Centana-Growth-Partners-Leads-Series-B"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/20/ND_cd91cimage_story.jpg"
+        width: 600
+        height: 314
+        isCached: true
+
 secured: "K28VolJVvLSxzRFVW5bN1bCuga+YxTwO8dj/3/4Ndq8SNstXFS0n+p2xOr30y04y7zEeS1hpDgfqySCABuGu27ZeznjOOjGALIpnmQ9dAPwTTjSxhlDtIqK+M8vNvp+g628IvSnlwExV6/bFK14YirXv6gIZk3PvRRDV/n6HHgj3P18Xz4XPX5GomhmFT4e/pEvPs8qT6DVFE3CT9pQQStq67GvsO8jMlfWJlJXSVEF2kqDu1v4kADwvALGAes2+8uU5Q0otdXvjgo9WxiBxTw+VKVJGe4o6idz/eS0FflQf3kN04rGfZOKhwkO6sW32/ehUZmtXpdlmxRCJp8QZJhsPP/fr8AHCwqB4AkAltRs=;jEi2yFmf9fHOWhj8zZ3IqQ=="
 ---
 

@@ -58,6 +58,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 34
+  - title: "Learning to fight infection"
+    excerpt: "Researchers at The University of Tokyo found that analyzing short amino acid segments from T-cells could improve machine learning algorithms that predict the infection history of the donor. Based on the performance comparison using multiple diseases and sample size,"
+    publishedDateTime: 2022-07-20T04:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/959174"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/df426ff9-78e2-4d5a-bf47-4b556ca3154c/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "zmjOX7TEPPjSFogGsNE+pWPGxYTzes7QkKSlmgyqVEb7eCcFnrxWWvB6/eB2CYS8aWviFrkPXkh7wPUib3QmstB8Fb2mlCQRu3r8YnKzf1h8SF9JQwpqf5V2L1Y60D+rhN84bPPSp/uwhk10IULJOjlHY5hlrnLYJ/1yFwvNLpgMfCKYWy01NbBG/KrEIOMzoUbDpBfWD7ZitT8xUoatkcIMamrJn8YNSMGhSokTPZoTL9EjJaRMGaL9S1IOA8oBNqTMdqSl3LL7Zy9m679l2DdjbuQ0HKfv9ypor5jMpy2v0xNdrPgIunCl1WOGaZoZd+rlB8Qvs83kAMRoW3nl5nWdgA9ap5ZNKANv+c2L6aeSXxHIY6EOpbb1/Fijhdo8KVx7z4dNLLaY/7dzQoZUjGnE0YXNgHCrxB71yjI/QRbpCcnUE+ja1dsA3kkxG0DuPRrGOPxmBgxUwl1g0TMqdo7uKmxSzRHJAmH9ZGuk3gzXV7sGzgTzxmPFcy+l895k2yAnI1hNsUo1AnjQikMciw==;lyo3r2TNipbkHwUNC8fEag=="
 ---

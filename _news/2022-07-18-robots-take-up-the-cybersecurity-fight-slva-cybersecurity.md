@@ -57,6 +57,15 @@ related:
         width: 301
         height: 251
         isCached: true
+  - title: "Former Cybersecurity CEO Christian Espinosa Sheds Light on The Lack of Emotional Intelligence in The Tech Industry"
+    excerpt: "With ‘The Smartest Person in The Room,’ Author Christian Espinosa aims to teach business leaders the importance of emotional intelligence and nurture it within their employees. Former Tech Founder & CEO Christian Espinosa has published his book titled ‘The Smartest Person in The Room."
+    publishedDateTime: 2022-07-20T05:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-20-former-cybersecurity-ceo-christian-espinosa-sheds-light-on-the-lack-of-emotional-intelligence-in-the-tech-industry"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "T+AT9nsfQNAycA8AHBCQ2znRBRpGajCgAWYR7K/hcID6Gf8WrSarb9qsjCrohifBrhwYB0LTVp4HLJwt90Vd2pGCI8tPzi62LBQHVyP42WFOoVcbtCJ46/VlxNlAF4KokAlcvrQJ4p060PjXY4/DPYPt32bFutBdDLsfzqn9HEdiT6vbkBQQD3sVJThK9i/c+F0uLidZv2F6rU/+Ukn7cq66z96UE9hr61qncibcCe3niVl/UjB8G3AvWaxJ4zvGefev2CmHAzwPub/JTD/QfZiV0NQfQ+iG4BE7qOluR9Izt8jhZfN7hr2m7smI4J6n6KcxVNO+zIApSbEhq4TvQ/sO8+2xi7kHk8QbCgw0m9k=;4b1Zjd3KXH3KB0MXjj6hGg=="
 ---

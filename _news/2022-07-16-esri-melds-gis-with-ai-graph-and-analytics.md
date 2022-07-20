@@ -51,21 +51,21 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "NFRA to identify risk parameters using data analytics, artificial intelligence for audit review"
-    excerpt: "\"There would be different weightages for different risk parameters and we will be using more technology like data analytics and artificial intelligence in this regard,\" Pandey noted. Besides the ..."
-    publishedDateTime: 2022-07-15T11:19:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review/92900692"
+  - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
+    excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
+    publishedDateTime: 2022-07-20T04:49:00Z
+    webUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/"
+    ampWebUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 45
+      name: Impacts
+      domain: techbullion.com
+    quality: 47
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92900692,imgsize-19434,width-1200,height-628,overlay-etcio/nfra-to-identify-risk-parameters-using-data-analytics-artificial-intelligence-for-audit-review.jpg"
-        width: 1200
-        height: 628
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-23-at-12.38.43-PM.jpeg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
     excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."

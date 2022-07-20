@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-el
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What AI Still Doesn’t Know How to Do"
-    excerpt: "Artificial intelligence programs that learn to write and speak can sound almost human—but they can’t think creatively like a small child can."
-    publishedDateTime: 2022-07-15T12:21:00Z
-    webUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-582826/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "How to be an artificial intelligence & machine learning expert"
     excerpt: "Thus, AI/ML has redefined the future of technology The Telegraph Online Edugraph brings you an insightful and enriching webinar called How To Be An Artificial Intelligence & Machine Learning Expert on July 23,"
     publishedDateTime: 2022-07-19T04:01:00Z

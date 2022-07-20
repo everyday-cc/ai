@@ -58,6 +58,20 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
+  - title: "Learning to fight infection"
+    excerpt: "Researchers at The University of Tokyo found that analyzing short amino acid segments from T-cells could improve machine learning algorithms that predict the infection history of the donor. Based on the performance comparison using multiple diseases and sample size,"
+    publishedDateTime: 2022-07-20T04:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/959174"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/df426ff9-78e2-4d5a-bf47-4b556ca3154c/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "7GIOd15x3lvit+v0ktgi/soVuu7+mN8gPqF8C+eINi7ohZmYgN4mC4ubQZOHQ82XkqCFmMOLPInEmVwAKiWBoGHRB1w4GEfy+XVYFKn/2zzk0xpzhfmfHdeJ8OCvrUuivIKkqSmbySI+uZ1AGrRDnpa72OKXqYy5fyehPx67V6pN2avPYGmJNJof5UKVjD0GTjApK/3sFSA+5GbT3PwqXkxvhwEsJpaRW4M1JRdsI1MF8xr2z5EFlgzWr1FjWJxXUob744V2pBuXLKI6zb2jFxOz2ZxEXV2OyldFFbSvIlj3NARZh0yNEWJzjr+iT8oXqhAD2PXnLQ6AVC+w4cALBvTYp7lWM41PJ29YJ5BSjelSyKuwAVApLSbHda/YsqCJvTdfhqh/cv8SQjwvzItw8BWiwaGL5GA3Z+xmv7YMtjJ1kc24ZVf6GpKCH7tVlUEurLPOAu9FuPYQ3rHge6TKpSmzW09GhpqqP3Pd6ScQg9cdHPKVwjKmYSWozxqyfldR3TVkeAVpIyVrrNjsXt9YgA==;3pHiXygbgvmjLa8mG8X66A=="
 ---

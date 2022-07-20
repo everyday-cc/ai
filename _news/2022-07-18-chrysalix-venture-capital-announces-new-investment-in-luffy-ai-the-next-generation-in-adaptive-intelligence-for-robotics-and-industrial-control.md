@@ -26,20 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Luffy AI Receives Investment from Chrysalix Venture Capital"
-    excerpt: "Chrysalix Venture Capital made a new investment in Luffy AI, an Abingdon, Oxfordshire, England, UK-based leader in Adaptive Intelligence (AI) for the control and optimized performance of robotics, mac"
-    publishedDateTime: 2022-07-19T08:01:00Z
-    webUrl: "https://www.finsmes.com/2022/07/luffy-ai-receives-investment-from-chrysalix-venture-capital.html"
+  - title: "How AI will democratise strategy for the next industrial revolution"
+    excerpt: "During the transition between the fourth and fifth industrial revolution, strategising must go through a sea change. Intelligent platforms aided by AI/ML will transform the traditional strategy develo"
+    publishedDateTime: 2022-07-20T05:48:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 57
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/07/Luffy-AI-Logo.png"
-        width: 600
+      - url: "https://www.forbesindia.com/media/images/2022/Jul/img_190095_technology.jpg"
+        width: 900
         height: 600
         isCached: true
+  - title: "How artificial intelligence is revolutionizing the food and beverage industry"
+    excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
+    publishedDateTime: 2022-07-18T05:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 34
 
 secured: "qFX1RoB77pTkvGcxeviVNuomkTffUGR5Cz1K7Em79MXbLYHFZXf9PA5FDA7pEzc0fJW1OD+KI2Wto5JT67U0B2EYlSAZn9S8yNsIjYFKqVmDrqgYXwkz/DTtVsNzQTwiMCTQ2Hlfoq3U3Wx2Xes0zDvJI0QhldAN/iC0/0uqdhcamVhw01TbkrtZBcx+jLtOBDScXfqY23FrqLeObljU5pGEvhwj+QSxSoAyswiADQECsr8A1pyeXOyPKHHzNmYNQkoFEJncHGrP1KpCeRntgAS9Un0MadB0oenoCXeF4zRTkBItrNC/KdUlAUVgWpqPn/BuP2WixeukJxb1oNX+4NNcZ30ZJWHmTqFqQjlajW8=;IlHCbanVNYzzwmSWHS7MYg=="
 ---

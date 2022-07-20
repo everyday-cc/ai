@@ -23,22 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Chrysalix Venture Capital Announces New Investment in Luffy AI, the Next Generation in Adaptive Intelligence for Robotics and Industrial Control"
-    excerpt: "Chrysalix Venture Capital, a global technology venture capital firm that specializes in transformational industrial innovation, announces a new investment in Luffy AI, the next generation in Adaptive Intelligence (AI) for the control and optimized performance of robotics,"
-    publishedDateTime: 2022-07-18T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-vancouver-robotics-4b09c5ef3da2900ae023dffb09c08f01"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "c2UgVBVIJfYZrb5tlboeHILo/lCLVuPKdWq5cBNWrud+ln2ITMEDdIudhSL9KrMMA97SktcI7aQHUJQxAruJFCPWpkbq0vbcRPLqumim+0a2ySNHYA/I0xUMb3xggvDPP5B7Fm7vRbCT1rLTNa2aq+CKj+TTGtn4d0SgCOKetZ0XzNL+q19FpfJIr5NDlKr0ynEHlmzrc/wEJLp8e3tsWxax3jdLe6UCh+f79j+4u1yFahcgLlBmvHf97YT2Ut/+7khfadtPu10cOy5BQhbKVbW9GHye/4/F3jss9ga5nXdJLjYYQNwbZVfsoUWZ5T6di2/RU59BOen+czgZN5ZEnyhOnC1AOHNMgyoGHbz/K24=;pWd6x8CLDZTUqMd3cUtXiQ=="
 ---
 

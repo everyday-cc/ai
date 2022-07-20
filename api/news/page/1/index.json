@@ -2,6 +2,141 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-20-how-ai-will-democratise-strategy-for-the-next-industrial-revolution.md",
+      "title": "How AI will democratise strategy for the next industrial revolution",
+      "excerpt": "During the transition between the fourth and fifth industrial revolution, strategising must go through a sea change. Intelligent platforms aided by AI/ML will transform the traditional strategy develo",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "originalUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Jul/img_190095_technology.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "publishedDateTime": "2022-07-19T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-switchback-and-amd-bring-ai-to-battlebots.md",
+      "title": "Switchback And AMD Bring AI To BattleBots",
+      "excerpt": "To accomplish the move towards autonomous driving, the Switchback team is leveraging the AMD-Xilinx KV260 Vision AI Starter Kit and Kria SOM (System-on-Module) with the AMD-Xilinx Vitis AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d78d4434f0533661f269bb/0x0.jpg?format=jpg&width=1200",
+          "width": 643,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/amp/",
+      "publishedDateTime": "2022-07-19T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-spore-app-uses-ai-to-analyze-your-dick-pic-for-any-potential-signs-of-stds.md",
+      "title": "S'pore app uses AI to analyze your dick pic for any potential signs of STDs",
+      "excerpt": "But Singapore-based startup HeHealth may have just the solution for weary men needing very important answers – in the form of a mobile app that uses AI to analyze a photo of your penis for any signs of sexually-transmitted diseases (STDs).",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/20886/spore-app-uses-ai-to-analyze-your-dick-pic-for-any-potential-signs-of-stds",
+      "originalUrl": "https://sea.mashable.com/tech/20886/spore-app-uses-ai-to-analyze-your-dick-pic-for-any-potential-signs-of-stds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/3_dg74.620.png",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/20886/spore-app-uses-ai-to-analyze-your-dick-pic-for-any-potential-signs-of-stds?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/20886/spore-app-uses-ai-to-analyze-your-dick-pic-for-any-potential-signs-of-stds?amp=1",
+      "publishedDateTime": "2022-07-19T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-winners.md",
       "title": "Transform 2020: Women in AI and AI Innovation Awards winners",
       "excerpt": "VentureBeat’s 4th AI Innovation Awards recognizes and awards noteworthy, compelling, innovative and successful AI initiatives in five categories: Conversational AI, Applied AI,",
@@ -103,6 +238,40 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california.md",
+      "title": "Amazon-owned self driving firm Zoox seeks to test robotaxi in California",
+      "excerpt": "Zoox, a self-driving technology firm owned by Amazon.com Inc, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california?amp",
+      "publishedDateTime": "2022-07-19T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1039,192 +1208,6 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-nanomagnets-can-discern-wine-and-could-slake-ais-thirst-for-energy.md",
-      "title": "Nanomagnets can discern wine, and could slake AI's thirst for energy",
-      "excerpt": "Human brains process loads of information. When wine aficionados taste a new wine, neural networks in their brains process an array of data from each sip. Synapses in their neurons fire, weighing the importance of each bit of data—acidity,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/nanomagnets-can-choose.jpg",
-          "width": 960,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
-      "publishedDateTime": "2022-07-18T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
-      "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
-      "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator.md",
-      "title": "Generate synchronized closed captions and audio using the Amazon Polly subtitle generator",
-      "excerpt": "Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions, helping to improve productivity and reduce costs. As our customers continue to use Amazon Polly for its rich set of features and ease of use, we have observed a demand for the ability",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:15:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

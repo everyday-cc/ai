@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What AI Still Doesn’t Know How to Do"
-    excerpt: "Artificial intelligence programs that learn to write and speak can sound almost human—but they can’t think creatively like a small child can."
-    publishedDateTime: 2022-07-15T12:21:00Z
-    webUrl: "https://www.wsj.com/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-still-doesnt-know-how-to-do-11657891316"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-582826/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "History of Artificial Intelligence"
     excerpt: "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life."
     publishedDateTime: 2022-07-19T17:40:00Z
