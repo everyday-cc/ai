@@ -1,30 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Three New Serverless Analytics Offerings"
-excerpt: "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2022-07-12T15:16:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y"
+excerpt: "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,"
+publishedDateTime: 2022-07-12T15:04:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "YbPdCZFOHvC/oT+UMGXfVIgmQX6GQ47ZupfJ8xxBc+WkiAn5CFwZ7/BwrkLopgZkkeRyH7WGOZ9Kc4lVC2pSP6LqUcCJi1Zd8i6yZKr2ToOZXR6TI4/d/7LeQWd0Qbiz1scJO0tmjE0hUeNUMNQPu2CC4sPfdTvToacHuk2WFXbe1Nueo8cNKhtZ7BYDn0x0thL76xmnHhr0KhigLIrLGLbwR0EPKiqWl4uVVyGGfTBapOe+RkHvDIvvclQeE433Ibo4CpQeiDRnIIP0Op+SmhBPf/A+owwf5lZFAcazo0IiLnbbnAN+w6fiu48FnUd/fnrC/Sh4f34XisAvVgQUKxfxiBa7ePBJR5sAx3pCJnw=;pnNEqQmIzMilTBco/4ri+w=="
+secured: "GL4mp1H7evJX4n5HetAolY6pKjZbEgwKAC/GKCExT8cD2jZENzWYK0blXLu+M8nVnqgaTKzYrfiyW0Rjkve4fvZump/Gkf/c38OEXPDmsVtScBWiz5nBHVfpDxpsgSL7GDNALcG1iRMHFH07LknrgpfHJYqzUMi7uLI6dcRhqD4PkS1XdoJl0go/CVw2Llsn3kswTaH5vn/loWALc90vTJjS7zs4Cz3EqpaZmv+npB0PUZF3b+kFqOvS5Xabjh6FJQCC9u4Vk3mjczfsm/BcihSnPsrmqrtv8F4BU+fQ6xXAteBdvZ309vKZitGCRhSu8LkqWCck/JNVzUqAC1LZrx7wQfTP8jPiPp05ncvFEt23TuwCnHMZ3/0TxbL2DxjLq6ljue/zd3G4B6jyBOa4FsAthn4MSlpcsscX+0Z8MIruc7r9ssPejSGtwaqZub3qI+0L00UxOeyjHlXZmptlEtatB/zFU/NrEOo+OX1CPDRYS41FfrumGM8oGyyzJfRnIMJDzxOR1hUAhA1sHxcVYw==;AYrS5Q/vlVwcB1XejP+RQQ=="
 ---
 
