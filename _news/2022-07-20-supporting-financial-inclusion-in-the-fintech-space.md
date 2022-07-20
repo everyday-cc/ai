@@ -25,37 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Indian tech startups raise $6 billion in April-June quarter, Fintech rules"
-    excerpt: "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs."
-    publishedDateTime: 2022-07-15T15:05:00Z
-    webUrl: "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
+  - title: "M2P Fintech acquires digital identify platform Syntizen"
+    excerpt: "This comes close on the heels of M2P Fintech’s earlier acquisition of Bengaluru-based cloud lending platform Finflux in the first week of July. The company also acquired credit card sourcing platform Wizi and collection operation services provider Origa."
+    publishedDateTime: 2022-07-20T04:27:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/m2p-fintech-acquires-digital-identify-platform-syntizen/article65658124.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/m2p-fintech-acquires-digital-identify-platform-syntizen/article65658124.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/m2p-fintech-acquires-digital-identify-platform-syntizen/article65658124.ece/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Funding in startup dropped by 17% to $6 billion"
-    excerpt: "Funding for startups decreased by 17% quarter over quarter to USD 6 billion (about Rs 47,800 crore) in the April to June period."
-    publishedDateTime: 2022-07-16T10:51:00Z
-    webUrl: "https://techstory.in/funding-in-startup-dropped-by-17-to-6-billion/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 22
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/Startup-ep-1.jpg"
-        width: 1200
-        height: 900
+      - url: "https://bl-i.thgim.com/public/incoming/osl6q4/article65660768.ece/alternates/LANDSCAPE_615/Madhusudanan-M2P.jpg"
+        width: 615
+        height: 383
         isCached: true
 
-secured: "6RLnB0LW+SmSM8NX8gOYd81VqFe7sYne9k/2BWrAnToB5oD8NZB7eMmy4jp7hhoYbiQbQTUf+ODuLswn6wbYFv2V3EVs/n/G2of/x4byoV2S34nouMcEwF9eL88XlqFUtg8KrMqMuOByPU/6MBo9bi+X06FiPI7N+YgatBy61EFr8KNbcwsLNBgRnOwzooEPn+TuvhQOBUWfG/FaRvr5xRb/eWn4maFwQcCVdOdeObLiJpMDMa7mUa75YIxgBuMQPcA3LY286hVu4y7K8sLGjEynsFTgdwKc5WwyrHjabd51BTmPtlu66irphxrTp84LvF/b2OvnUHg625VUiJAI1wi0/Rz7AX4kzcAHWQ255Sc=;GhKbA0KuwZSf1UdzFy/WPw=="
+secured: "nAnmUi1xE1DXnRmtuaGDyoEqiB7+8A6aK/x1X9rpXT8JT2bpJRe/kDMWBZgv59yBMGJ1wkDQ65p+en5KFzCY9zdnmXeEFp4tByrvWXhKfviOK/0FqdpZ2Y1f+6QB375sBaVv5dqWjjgHteEipbEGAtjuuvtM9H/heSOzat6IejsesnDwfXOxLmnm4asPEmPeJTCzSiNlYhJUvoqXQ6I5llUSa4pA1MveXAbFrFPFI+sh/kWfyfOWyRNp3+qFOgFQVlx2nvHTLRgJaU8vvYOaXTNG8AqMpoiHXOanzoyFs0rZ28GOSJMUkQA6UVpBawrk/szZRrqe/V/fycdcUPl3ly22vhFRLtTimbBEhphAA+Paw3vWwDP8ZDSZdkd5KZjj86Z1Ytt0CL9Z/dkXaTjBTJFM5fTz2CnYSpgSrpK/WNaL1+RFf3zww0DspsZ6J/uhzgHcFqm+RtVxQbfqbp7NZHyjdwvKjb7Au9xyD8USWmB0aBmsKe9JyZKQlmHCtKObgcgWwnb2aXjUHkD0+Fw7Fg==;Pv7/lMJnNtMAAgy5GzsNRA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are/amp/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,25 +41,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
-  - title: "Global LegalTech Artificial Intelligence Market New Innovations and Future Expansion 2022-2028"
-    excerpt: "The report involves six major parameters namely market analysis, market definition, market segmentation, key developments in the global LegalTech Artificial Intelligence market, competitive analysis,"
-    publishedDateTime: 2022-07-19T02:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18"
+  - title: "AI disruption is already here, even if we don’t notice it"
+    excerpt: "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28."
+    publishedDateTime: 2022-07-17T20:14:00Z
+    webUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/"
+    ampWebUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/aideal-hwa-J9LDdCPkxfI-unsplash-e1657915844880.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 539
         isCached: true
 
 secured: "oh7YDfl/Vb/6bgOYD0CMAxAHnRsmuofYqGlDIIACzuXN5phGEQ/OLeYWg25B5DIyczg5462ktpKwN9PZauwNgbiO2Wx7xPXnjCt9XnybIGeh/lowgDfp6qw9/+mN5yPAroOMl5mQX2+ZDh9sBhDuH3OTF0UwvLwTtlkO098E3qHqeaWdjIzNdpRsJWi5fMuSSUSHjSPuJdpte9nMQDCvuReAW+6BSMmFNBw/jYBfgDkUsMqqfpbqVXMos7L0Gx8LhoXCVsiNtxgubDdMpGOOlvipcT6aPCqtB3IAYWX7gC9MnTVuUZcerQ2ALhnbbu4CxRMRorg2ayzMamQ+X8TCLvP5HGweid/fRiOR5gOu2dG/bAzgqQ6WYBiSWtz/CiYziSSsuhTxntfm1xV4UjjbjLyQ+/35U70Bxx7naFN+SuOjBuN2UiP/XwOlCmST4XGFOudsMv2k1LcljorROI0RDy04aWbbfpTF6PQtVzPRna2zO5fm6EyjajUFW/a6hCS3ly+P/DQuuFfQH/IXs0CNIw==;Q2sXJXBUq7WYIOmsDK2Ksw=="

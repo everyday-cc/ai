@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligen
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "The future of cars: How AI integration is changing the automotive industry"
-    excerpt: "Estimated reading time: 0 minutes A natural next step for the automotive industry is the heightened integration of artificial intelligence ... Alphabet (with Waymo), and Ford are competing ..."
-    publishedDateTime: 2022-07-15T15:11:00Z
-    webUrl: "https://techaeris.com/2022/07/15/the-future-of-cars-how-ai-integration-is-changing-the-automotive-industry/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 37
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2022/07/Tesla-automotive-industry-min.jpg"
-        width: 1170
-        height: 724
         isCached: true
 
 secured: "f+z5H447lVtvIddNA3WzJrQmLpNI3j5lDk9RwhjVsI7dhkQx2wJyAtkE71AZ7etkne+jD7qmjGOMZ0XgzUvHaiebOt/nB9EiMP2g66Bhbl2YgdXzEA94vh2HjBpzCVImQeWHotG4j5y2jf8ZE5T+RrGLZW6nxuAHYQ5BCni91NvTyD7peNjDqggtIuz8V3aeOhhGsDD6tQM73JL7ydXXRfTCVJOEEBHKjA9lmXU41p7lp7eb1jXYnXuWhPJZnbWkeL3M880YpH9hviJBx/ZvWHfI40AT+2sPK7uCmD+CtoTeH9W3ydvMTYx4tugmTQazmUZfzqiRTBgn9zt8UeK0fg2kLAIDUvDaOSrPr9AWXa6Jrg6JhhfMV034eR6WICWF+pjiaL7ShzozuUvcPMfmlMejoG81i/p42M62Jr3sY7ANU3n5O3MqeNgXYVK2vGl3+dOw8buO6fxenBnOcQWo68D9MXqcSBdOJV8B0N8K+8kKf/Qpl+nRcZpuLJ67C6RiH0XVfCfa2GfULbzLlW/4XQ==;Vie1G03NvpwrnB10FMxBvw=="

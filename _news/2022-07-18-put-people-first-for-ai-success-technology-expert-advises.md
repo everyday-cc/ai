@@ -47,15 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Exciting new tech uses AI to improve the lives of those with hearing loss"
-    excerpt: "Over 37 million adults in the United States experience some degree of hearing loss — 29 million of which could benefit from a hearing assistive device. Studies show that"
-    publishedDateTime: 2022-07-15T16:50:00Z
-    webUrl: "https://www.abc4.com/gtu/gtu-sponsor/exciting-new-tech-uses-ai-to-improve-the-lives-of-those-with-hearing-loss/"
-    type: article
-    provider:
-      name: abc4.com
-      domain: abc4.com
-    quality: 16
 
 secured: "qRrXyr4dBgSU9H+yYsjio4gG/rndfM7pUEA6qnkKvQIzd/F8x1Xeetp9r2XiUyUYRNdZD9jVNjC0L06R/4x3SGz6w5LNhfC9IgiAc6ZMsCluSWzSkOK79nJM49X4ANXclQu7HjUrGxiCWFNSRw/sBdbVMg8Pjd4QXyh4/POKCttwyv/UtEpNWU6+pA2KpenNJq3UhrHn0Yg45kO5n4zYLNCI01PY0lDqKLuwSFZgu7kno9zyTOTraeiMRw1H1Vl6x9jzp9te3OPX4KK2xvYm5oCzSR1Xw/WgAYns8eGv++X3FEsLQr3wgOJMUZt63RZ+stcCRVBBtazsPl3VEwouxVLJgsyrVf8/t/wnNnr9UWE=;YeHHp57gvMlogfhmYQ6g2g=="
 ---

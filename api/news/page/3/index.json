@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-18-emotion-ai-a-possible-path-to-thought-policing.md",
+      "title": "Emotion AI: A possible path to thought policing",
+      "excerpt": "Community We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1273872391-Devrimb.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/",
+      "publishedDateTime": "2022-07-17T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-the-imperative-need-for-machine-learning-in-the-public-sector.md",
+      "title": "The imperative need for machine learning in the public sector",
+      "excerpt": "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "publishedDateTime": "2022-07-17T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-17-ai-art-is-challenging-the-boundaries-of-curation.md",
       "title": "AI Art Is Challenging the Boundaries of Curation",
       "excerpt": "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,",
@@ -10,7 +115,7 @@
       "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -394,6 +499,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
+      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
+      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "originalUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "publishedDateTime": "2022-07-15T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1068,161 +1225,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful.md",
-      "title": "Artificial Intelligence: Not A Panacea For Supply Chain Issues, But Extremely Helpful",
-      "excerpt": "At this point, only one in five companies have seen technology deliver positive results in their supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d08ec883b3814e6af35bc8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/amp/",
-      "publishedDateTime": "2022-07-14T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler.md",
-      "title": "Achieve enterprise-grade monitoring for your Amazon SageMaker models using Fiddler",
-      "excerpt": "This is a guest blog post by Danny Brock, Rajeev Govindan and Krishnaram Kenthapadi at Fiddler AI. Your Amazon SageMaker models are live. They’re handling millions of inferences each day and driving better business outcomes for your company. They’re performing exactly as well as the day they were launched.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/ML-9510-image001-1222x630.png",
-          "width": 1222,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:23:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-4-key-opportunities-to-leverage-in-fintech-and-beyond.md",
-      "title": "4 Key Opportunities to Leverage in Fintech and Beyond",
-      "excerpt": "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/429429",
-      "originalUrl": "https://www.entrepreneur.com/article/429429",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

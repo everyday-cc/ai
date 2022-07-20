@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/funding-in-startup-dropped-by-17-to-6-billion
 webUrl: "https://techstory.in/funding-in-startup-dropped-by-17-to-6-billion/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Indian tech startups raise $6 billion in April-June quarter, Fintech rules"
-    excerpt: "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs."
-    publishedDateTime: 2022-07-15T15:05:00Z
-    webUrl: "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Supporting financial inclusion in the fintech space"
-    excerpt: "What percentage of venture capital (VC) funding goes to Black, Latinx and female entrepreneurs? If you guessed somewhere near each group’s share of the"
-    publishedDateTime: 2022-07-20T07:45:00Z
-    webUrl: "https://www.cuinsight.com/supporting-financial-inclusion-in-the-fintech-space/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/10/bigstock-Mid-adult-man-relaxing-on-sofa-429391631.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "IA9F/tmz2N6LHDKyrv+PHmMX1oLUemuZtxFPFhAzLIegkD8VwMr+PLoGulOOy32Io6V+y/VvxZvGD5wcRYxCKuyz1VWk4kOP6Xqt3G43EKVyCuafhk7pwH4AGwhrcPudokFxSNyhwqMaN5cGQtvdGZVmYGhKq+xxyiChvLeWRBubSjsLied2trnbNyQmC7sj8klOhdXJsLoXEhtULjtIcxQNnYPm/llfPTxKpAf17PhfEqUbLtDfsudEtz/N3V7x4HMaLXKwQDBxaeVdwU3gqIosFW9zckLA++GdH9JJkTPTy0SbA2S/nVdXnArm0sTSVmubeHp3KbEwWSHaXp+XGdx7r5CLldWpA3H7eOkYBo4=;lmMHmQV/ivFCBBm17omdWQ=="
 ---

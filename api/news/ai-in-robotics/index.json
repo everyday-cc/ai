@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
+      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
+      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "publishedDateTime": "2022-07-19T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-robots-arent-replacing-employees-theyre-enhancing-them.md",
       "title": "Robots Aren’t Replacing Employees, They’re Enhancing Them",
       "excerpt": "Tedious and repetitive tasks are one of the biggest issues contributing to burnout within finance and accounting teams.",
@@ -1354,59 +1397,6 @@
         "name": "Pragativadi",
         "domain": "pragativadi.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
-      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
-      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "publishedDateTime": "2022-07-07T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

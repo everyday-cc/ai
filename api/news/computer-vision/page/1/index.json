@@ -10,7 +10,7 @@
       "originalUrl": "https://www.barrons.com/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -150,7 +150,7 @@
       "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1093,6 +1093,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-07-snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements.md",
+      "title": "Snap Says Facial Recognition Technology Abuse Suit Fails to Meet Jurisdictional Requirements",
+      "excerpt": "A motion filed by Snap Inc., operator of the popular application Snapchat, said that the federal court has no authority to decide the Illinois Biometric",
+      "sourceUrl": null,
+      "webUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
+      "originalUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/04/iStock-1139217536-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
+      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
+      "publishedDateTime": "2022-07-06T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law Street Media",
+        "domain": "lawstreetmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-want-strong-physical-security-dont-forget-about-cybersecurity.md",
       "title": "Want Strong Physical Security? Don’t Forget About Cybersecurity",
       "excerpt": "Neither physical security nor cybersecurity are new concepts, but as technology has evolved, the two regularly find themselves working hand in hand.",
@@ -1379,40 +1422,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-o-ability-your-power-of-perception-is-mostly-innate.md",
-      "title": "'O' Ability: Your Power of Perception Is Mostly Innate",
-      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general, is o just another name for general intelligence? We don’t think so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
-      "originalUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearscience-com.cdn.ampproject.org/c/s/www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html",
-      "publishedDateTime": "2022-07-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

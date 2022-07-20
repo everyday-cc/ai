@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-in
 ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all"
@@ -46,19 +47,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global LegalTech Artificial Intelligence Market New Innovations and Future Expansion 2022-2028"
-    excerpt: "The report involves six major parameters namely market analysis, market definition, market segmentation, key developments in the global LegalTech Artificial Intelligence market, competitive analysis,"
-    publishedDateTime: 2022-07-19T02:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18"
+  - title: "AI disruption is already here, even if we don’t notice it"
+    excerpt: "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28."
+    publishedDateTime: 2022-07-17T20:14:00Z
+    webUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/"
+    ampWebUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/aideal-hwa-J9LDdCPkxfI-unsplash-e1657915844880.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 539
         isCached: true
 
 secured: "3uMJFeDw2zmi4oA/hBFVQOpi9+lr7M3f9Jl4P8tYNIHFw3C4y9d5RfIWeM72EybzYTY0WmZsIlalPpXYcrvd1EgKGKQv403DLGepdvOmYqsiUnd6jmg4JiDdRFNyQSXqz+YwdR24f2gLWV+UFSxyWib2ggiOV8Q8a6jQbmB9WBwQD/K/vJyAc84P7zdRTWS+EYNyZ5OdxHGL3vlik0H2CEFFBeV6BCLd34rhmmuJiLH2ZyO60SpRuaha+WgJXTI8ujOOAYlJNtgsxvE00IOJg3qB4uZ/6AYO5fkapQ219F8pD2TddKgRQOQRXlIjg6uot4BDKhxpyA/bAPCpTDQqtMwIQ4U3PMg5uIDOQvShGqLSc3AHXVUBxRNy7WmV4XZYXZPpyLTADaMI3OPcvOWWq8hu9t8PtmY3+Ux/8yzSAB+ZiBEalnZfsZzSL0yAiTMbB93FV4SGuPGU3tcKq/u+5/JeTvBB7e06hmRgur663No2/5/Nhb0nTGiK2K7x5O/CZW5PpAAZUndL1T9tJYrdMg==;TKTC/Gsf0CYfsNi3ykgH3w=="

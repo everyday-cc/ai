@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-rec
 webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022---regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-07-18"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global LegalTech Artificial Intelligence Market New Innovations and Future Expansion 2022-2028"
+    excerpt: "The report involves six major parameters namely market analysis, market definition, market segmentation, key developments in the global LegalTech Artificial Intelligence market, competitive analysis,"
+    publishedDateTime: 2022-07-19T02:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-07-19T06:07:00Z
@@ -42,34 +56,6 @@ related:
       - url: "https://www.fmiblog.com/wp-content/uploads/2022/07/ThinkstockPhotos-520939832.jpg"
         width: 1500
         height: 968
-        isCached: true
-  - title: "Deep Learning Chip Market Growth Trends 2022 Key Developments, Demand-Supply Status, Global Share, Size, and Regional Segments Forecast to 2027"
-    excerpt: "Deep Learning Chip Market Report 2022-2027 highlights statistical analysis of top growing industry segments with type, applications and regions. It covers opportunity, challenges, trends ..."
-    publishedDateTime: 2022-07-17T17:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-growth-trends-2022-key-developments-demand-supply-status-global-share-size-and-regional-segments-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/Forest-Fires-Europe-AFP-1K-03-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Deep Learning Market 2022 Comprehensive Research Study, Business Overview And Regional Forecast To 2031"
-    excerpt: "The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the ..."
-    publishedDateTime: 2022-07-18T05:41:00Z
-    webUrl: "https://menafn.com/1104544481/Global-Deep-Learning-Market-2022-Comprehensive-Research-Study-Business-Overview-And-Regional-Forecast-To-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?604799"
-        width: 322
-        height: 250
         isCached: true
 
 secured: "wL9pHl1O5TKq+kq0URfOs/7nZZcETZ7K/lzIztx8kGhnrihHIrrhjl6Jk/Ysn4P1Q/2hSFKfeEbhGMUeg7mUlyOAS/58PeMKJ/KrXRC69PlldeFLE/D7vhehjkzbCc2zE64sNbpvY0pYcyKM1uyBbEetqX1AxxcDq2QV8qNyWoH9JUHELEBeUjaR4MlTd8iTkrae9d10c1ua0axKAt1IY/+PrG6KOFTCjtZCi3wWUCPgDgp8YX7rhFQtZcSHkbRXIxxnDQyrainZKwiA2X1XIi0vaHalT3uizv5PPMOyBJt+DaZ/A/4Yoqpex2H/0bk6lohljXHij0NpuAzPscw7gdSOaRJxH2MHHOTtq6nbvyc=;ENvcDEYzIjtezpJ+cd3sRg=="

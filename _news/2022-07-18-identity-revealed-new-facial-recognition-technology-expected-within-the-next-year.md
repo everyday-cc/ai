@@ -99,20 +99,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "London police paying public to test live facial recognition during live operation"
-    excerpt: "The latest trials of real-time facial recognition by London's Met Police included both testing with paid performers and live operations."
-    publishedDateTime: 2022-07-15T15:59:00Z
-    webUrl: "https://www.biometricupdate.com/202207/london-police-paying-public-to-test-live-facial-recognition-during-live-operation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
   - title: "Port of Baltimore starts using facial recognition technology for disembarking passengers"
     excerpt: "Facial recognition technology is now being used to verify disembarking passengers’ identity at the Port of Baltimore under a plan announced Monday by U.S. Customs and Border Protection in partnership with the Maryland Port Administration and Carnival Cruise Line."
     publishedDateTime: 2022-07-19T03:57:00Z

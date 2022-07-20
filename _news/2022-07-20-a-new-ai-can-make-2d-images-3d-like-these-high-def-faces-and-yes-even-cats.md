@@ -47,15 +47,6 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 19
-  - title: "Exciting new tech uses AI to improve the lives of those with hearing loss"
-    excerpt: "Over 37 million adults in the United States experience some degree of hearing loss — 29 million of which could benefit from a hearing assistive device. Studies show that"
-    publishedDateTime: 2022-07-15T16:50:00Z
-    webUrl: "https://www.abc4.com/gtu/gtu-sponsor/exciting-new-tech-uses-ai-to-improve-the-lives-of-those-with-hearing-loss/"
-    type: article
-    provider:
-      name: abc4.com
-      domain: abc4.com
-    quality: 16
 
 secured: "tq4VxVKJx6juXeoYndvizVoS4ngxWrcTkJeEYfhmgQyAcVsGZ36E2SjujzYBY+pFLI6XchcvLpGkZZXMzMzAQxK4W9TjCQpQtxxXfkxBIYWKDFB5qHKtEGCofsmyEt+bABccZGUGJXeeZrLGM/TqMTXRddVqai0e4k3+P04UwvNobmD66DYEQ0iismq2eLz1nIZ1ARMltB7ZrXGsFVKd4kVu8ZV9EGy3okoekGItnZ9OKLnUcVsw/OFmwkzW/lXilBtVyCtmUE34geCKtwzD0Xy8COhpbCADbGIS2Eg+QnEoWkVS4sx8Ox5LvMy3W+Em0sBwse/G6QRoCmRiRCpYY4MJyYXz4x0wNp3eTRcNxxs=;L1PXTo3nWOerhVrJNNdY9w=="
 ---

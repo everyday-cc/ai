@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-20T07:22:00Z
 originalUrl: "https://gadget.co.za/machine-vision-will-transform-our-lives/"
 webUrl: "https://gadget.co.za/machine-vision-will-transform-our-lives/"
 type: article
-quality: 24
-heat: 24
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
+  - AI in Finance
 
 images:
   - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/07/pexels-photo-2599244.jpeg?resize=1000%2C600&#038;ssl=1"
@@ -24,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "cjm40/AgT+y4N5y9/QnZ/uup0mBp9kyotdO84Rva5ak7ChieTCxrfpp8NYO39zuT96g33cese7zLX2WcUFIkNI4peWTyt19vkUvqgMP9MWUWq/nj2sKY4glwihtn1mXErfgpZa4tq+aFPptL415eZjtzeGFWw5RatEwK6mZoOKtH+u1AMIeXG7zcgP/sR8QGQmDVSx1NxVpeLIZOAN2H2jKCich1VhmlXEGjSO2+4vynrs4F7y2vwPnRsOQGJSLJv4s4B74gDJZQsy15bgHC2aZWyjdqbGfjKOIyDtthVypWZZNWc4E42npQaaAenpqYai+9bF01B18V+NGjRJgKzdz5SNRCsJHKM7zV+lz1VOw=;RxyRfd+zhAN7aqD8CCr03g=="
+secured: "7mgaS7WZrJjobyjncdMqPxR3gZ88Yz8ou+vyf7e9BUwAJP4vllx2fWnBsoNJutIvmUKhonfi7BoXPHxPx3BVs8GXik6xgd386l4cRMTHijCvFcPs6Cl8d462EFW/vtcJAroXwMI7gQ3rJxe5iYjCBw0aOv/sIr+n3J7M/4BFbq9UcxtLzBEZjJM9aAvL5OaA3U9e8/5e2REb4iRRlXqvjuvIg6iL7LpugahbuLH14pb06RCtr4DjhyOh6pUKeb7+Mv1pMBzOqonaEjWfGfAeSSEq7DXr4Ksvps5u1I1RrOcqZHwBhUVXBo4kfG/mTp/GbH1Rqd7fLBE9BHUx+P4IM+LZCyO99lPgNlar6Lk1dnfVXGRq6BLcRJCJJmm/0gYaS0CVDvvDOTMeQFd4IRVCCwdkRH/ZImZoqF6ZRn3uckOSTQ/k+/o54IEkm0fUHTakZS5wwFujU8hszADQ18nhF9V/xw0aqbpbq2yQF3JNp2RLN+bOUBgEYO6nb37muW2uNpNFa/rUPllDSpCI1IHMYA==;rIgt7mkm3gyJVsoiyzmVEw=="
 ---
 

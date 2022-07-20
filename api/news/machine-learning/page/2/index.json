@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-08-brain-stimulation-can-rewire-and-heal-damaged-neural-connections-but-it-isnt-clear-how.md",
+      "title": "Brain stimulation can rewire and heal damaged neural connections, but it isn’t clear how",
+      "excerpt": "The connections between the neurons in your brain enable you to do amazing things, from brushing your teeth to solving calculus equations. When these connections become damaged, often as a result of conditions like stroke or traumatic brain injury,",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
+      "originalUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gcn.com/media/img/cd/2022/07/08/brain_GCN_070822/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-global-control-room-market-growing-as-ai-and-machine-learning-enhance-solution-offerings.md",
       "title": "Global control room market growing as AI and machine learning enhance solution offerings",
       "excerpt": "The control room market “shrugged off” pandemic-induced project delays in 2021, as a new Omdia report reveals market growth at 9.6%.",
@@ -1269,50 +1312,6 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-weights-biases-and-runai-announce-partnership-to-accelerate-ml-developer-workflow.md",
-      "title": "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow",
-      "excerpt": "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
