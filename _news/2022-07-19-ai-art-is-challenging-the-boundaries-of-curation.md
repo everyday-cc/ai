@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
-publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
+publishedDateTime: 2022-07-18T21:11:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -61,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3DK5XQD1lNqcm0i9QlIG5t06wAdGNWVzI8k7IYgyP59O5SsdORPD5h75p8sEddaxIsFD4IvEYwlDW0J2l8yVa7oVBhmQ0k3UxwYqtAsDGE5+JCENp+o36kkH+US3znfGAiRGTxzV88H/fH2XFygXCgwPxZQJ1CoMcXmmdh42stjd2NehI10OfRMAPeBBOJ25Vy9orzL9Skzktf4KndxJIHroSWE3vHa+aErWCIL9Q1RIHRHxW9SOrz0RriDLlnQbv6NV78X/5vVyhbwuxWr/Z8dxf6UAXC6iCCltmt4wjorIbUIGffCntJo1pbba6syHt4Py3nGpYNlsIWJ28hH1SdwjNgwtpbiWI4i85+CooFw=;xad0W/spl6K03VdHmocuPg=="
+secured: "DIi8GuQ6WyRmazfVquhh8kXYvQACrmHfqsuiur/+QLmOzdplGT93Rp9LHuvZ/G9prNq25wFnYmUmFFmOyaLzqECUvYLTnhWrnTa4bNCdNWz/fMF4YVZzez99zz6M4bZqh8Q4ogU9nSqE3Rfh6UrU74eXo+tLEkKcftWSeDSxEDLMJJeIMvpSQDiTGicuwFROC/2UoGxMmfWN3GbFFzj+va9z0I9WmNAcZ0i03iG3gm2DgqjRklAO1jpjmFBBCfKt+c4xrBnBVNFrP4Yht+nyQ8Uj8ZlNkrIoUVGHP6cWZNcVcJNLyBuvB/iZUb4iKMUbaWKKT/+U6QmEJqK0TG+rUQBDyXNqsfdinzy2HAITmmw=;hrwo5jM/fWgZ/8HTMqNTtw=="
 ---
 

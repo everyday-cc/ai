@@ -26,22 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Robots became racist after AI training, always chose Black faces as ‘criminals’"
-    excerpt: "Scientists have confirmed that robots trained with artificial intelligence software perpetuates harmful racist stereotypes."
-    publishedDateTime: 2022-07-18T22:29:00Z
-    webUrl: "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/"
-    ampWebUrl: "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/"
+  - title: "Using artificial intelligence to train teams of robots to work together"
+    excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,"
+    publishedDateTime: 2022-07-20T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 70
+      name: techxplore
+      domain: techxplore.com
+    quality: 89
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg"
-        width: 1280
-        height: 575
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg"
+        width: 500
+        height: 310
         isCached: true
+  - title: "Applying fictitious AI to the real world"
+    excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
+    publishedDateTime: 2022-07-19T13:43:00Z
+    webUrl: "https://techxplore.com/news/2022-07-fictitious-ai-real-world.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
   - title: "These robots were trained on AI - They became racist and sexist"
     excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
     publishedDateTime: 2022-07-18T17:00:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "BUILDER.AI REVEALS THE APPS AMERICA CAN’T LIVE WITHOUT"
-excerpt: "According to new research by Builder.ai®, over 27% of Americans claim to have over 30 apps on their phone, but more than half of those admit to using only 10 or less. And of those apps being used, over 30% rank social media,"
-publishedDateTime: 2022-07-20T12:12:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-2cd51182bd7dfc527e0127747a15713b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-2cd51182bd7dfc527e0127747a15713b"
+title: "BUILDER.AI REVEALS THE APPS AMERICA CAN'T LIVE WITHOUT"
+excerpt: "New data reveals nearly half spend more time on apps than the internet. NEW YORK,  /CNW/ -- It's no secret that we're living in an increasingly digital world. 'Screen"
+publishedDateTime: 2022-07-20T16:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/20/9641899.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/20/9641899.htm"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "ju2PCHW8HhqhpzzwmV6ocblGIN77rHp0zoM2QcuFAqln0Sit9xCfX3P7GYMvCw9GAs90G810Mi/bjspN/Aw+ZjEO9oz9X6TP8pmiMriiO0pVHU1Np+r0PJ11+r1oh3dvvSveKgLwUVcHSFWzNJ1SpurHYzu63A7hE6Yvf1gdV2LCHlFXT0EZcyKncS5Z3TPG1uRNGPmEVQgwCD+DMtfwBYn3/02DYYXi0Q6mbKiETc4DrWBjKc4AUGJ6nAfDhrK1mKrHLyD8QYfeJpkejd4/Y7/kO5uStYowloY9IW8MWynYLxwvUBUh499RUpL8XMzmczao6qv4sjbArXbgq2ElmSuihZXrxhLPVUAoG9mFeOs=;S2M3wwczKVW8gk1vDRb/iA=="
+secured: "kOIeVZhahpUDyw+FhHKpkjLga20d4yKebdaFjrS3yElLQRL9+22gy2I+XhSXtV/DSTyJUZVJExwfiP/sAgVfbpYOM6lQg12nZpG2uwv98pijJmynn3kj3My07DBPNNPDnT4HOW0q+eaE0dulfikSQDsPxvSUA1VCURWu6kD/rZVmC++IwY4PBoU8qMxr4+x7E+A+XQoWf/goCsKqwlosdYDLCZSyHjO5zyKR8qTp0CY2FTS2XpFTP04UxCMwGq6NdisKlJcUdJGsiU+MJS+BTfzEkA2wgU4Itkz+HLUm2PaotMyTUeEYFW+RA/nDgl2Q6qCInN0QHOMR5PCjSzE0sQn0mJgh1znC8qGO4bfZLsObQ3s1bCsnupxrNdmpP8jJhrfOhVAKqLI/L/VmUXGr2MmXlYBRq5K6bmZgSXjYn9ZLqUccXhmzIDna0cWHyOjxzEYZDd2XKErsrxN2+bu4X/7y1yHEMR62VcsPzGDJSLt6hLbN70UTfurkCPUiqTESjdASxWZK/uJ3/wLOQBRUdg==;/uYVGJVcE4d/WJAO9VYTVQ=="
 ---
 

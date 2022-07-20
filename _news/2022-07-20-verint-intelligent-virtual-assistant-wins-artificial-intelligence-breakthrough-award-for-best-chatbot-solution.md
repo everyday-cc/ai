@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "Qbr8+9yT5U+bmS+gBbgvP7Pcrn2vUelija5LwmFeZzuPS/mg4y14f4xU0vSZZmJx6Y1+GOK0YXAgE759GoGv7c2fQHA+p0rqNK+Lq04PsM3smxFA85dzwJDHNdH+/XENl768qY/4adEyJJ/NLp5qaRGf7+3Pf/CbNGuy1cOQWXZ9Xl6blFwvhaVZWIFn7rINb++maMMpEHJWEyLz9HAweXKy9ZjGRYUBhZq4qmTho90DTsXNSLvbxY4aqiXqsqcxHtrHeKfPpjJ2qNjZIV2YU6kkRp/P7h7hyqoeb+jagkQrRCkQdY0oKzOL9tQiTIKLgkOIr+QDvRJVh9y/Z8uh2p4Uy9WyGlc828ABR90Bzz0=;GWOBFpmxRO4BFdYcgKYcoQ=="
+secured: "FiCAnLtsVbDcc7/GNEJ5pTadxcUMg7mrDKc9FhocLgixl5uSy5whKwiZOwlC/RlvDZlnLgdhIcLRBiPa9yMpISJxOIsXeYzvTS1cddE9K6COpLwsWpvTEZw2vgoopcKP4rTMEGrl83P5jSeCr/xrh5jaVD+f/GV8CN3RF+UTn8aaOyiB5QFP6c5jPLbWkAPRNAc3YPoZ2XsvH9hlSUHI3rMamjWr64Sky2AucdlS+wkuwLiJaSqFCNIFfK4zIHXCLp59SCoXno8ve76qvy+LRrqCcnVr0I0YfnC/3dkQIW/6GW42w9xndIMRwvxaGY76qya3Y/A3yny510/mK13BTRzB6sssXKzyO5ti+fnrAZo=;IUvu2czHZIUWZRkSu2s5Rg=="
 ---
 

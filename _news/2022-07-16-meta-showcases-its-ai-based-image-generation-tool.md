@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-gener
 webUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-generation-tool"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,50 @@ topics:
   - AI
 
 related:
-  - title: "Writesonic launches an AI-powered tool for professional content generation"
-    excerpt: "With a vision to articulate AI writing with a human touch, Writesonic is aiming to increase the volume of daily content generated from their platform"
-    publishedDateTime: 2022-07-20T13:37:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/writesonic-launches-an-ai-powered-tool-for-professional-content-generation-101658324001282.html"
+  - title: "OpenAI expands access to DALL-E 2, its powerful image-generating AI system"
+    excerpt: "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks."
+    publishedDateTime: 2022-07-20T16:51:00Z
+    webUrl: "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/"
+    ampWebUrl: "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 15
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024"
+        width: 1024
+        height: 692
+        isCached: true
+  - title: "DALL-E's powerful AI image generator is now available in beta"
+    excerpt: "The beta also expands the usage rights to include commercial projects. You can print the images on shirts or children's books, for instance. OpenAI will still reject DALL-E image uploads that include realistic faces,"
+    publishedDateTime: 2022-07-20T17:43:00Z
+    webUrl: "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/08fb3150-084c-11ed-8bae-00915c7d9e77"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
+    excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
+    publishedDateTime: 2022-07-20T16:45:00Z
+    webUrl: "https://www.npr.org/2022/07/20/1112331013/dall-e-ai-art-beta-test"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 31
+    images:
+      - url: "https://media.npr.org/assets/img/2022/07/19/dogwoods_wide-13967fd64ede7836bea897caf01c87ec2b7ab088.jpg?s=1400"
+        width: 778
+        height: 437
+        isCached: true
 
 secured: "i1reuFVN6vJ9p/9hSdxrOG2qLnFP01fOrrMgi6UrIdq0MgeTfLP/VZ+DdAcBDP7+BzXl86Ovo98iS7z0kHHWgKzJaJGqmcdpr4HZIQGTQW/q+dv2dlu2UT+j1cLtYGMpJIXwL+hMO2QbGqInHb3mmxZc81Zq0scz5Dvr4Ddso6obSynactw0suHbl8U3QUKbWGirnOBATOhQVRJbItXlXBLfObBXwUfcEFAa/RmvHd5/YMO6i3Y/QjMLIuTP/lpfWrQAtLzYWfkXMEx2vMschdmag9xzS3gJPFghI69qqKhfcUyChIhdKnI3HP87MmqWr8e8LD+RqqX35Sup+VRSzIU6/bDiO7731FJZ/Z+n2jHfeD1GI6+k1afCdmoka1xE69DPpjhOnzoC+UDo2iYkdAw3cUWcmxbl+dSgvie4f/hadr+UWgYH9Z+m0KWJZ7bGYMjMk/cRCnACK/tyLKQmGH9+rIlqCcttkyOREJdYzy6iOg0t3bx1jS6jMnGKYo0biGRlCQSOtPvesYxNJUsa6w==;S+JUYRxzUGQG1eu4U21qVA=="
 ---

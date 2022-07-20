@@ -18,37 +18,44 @@ topics:
   - AI
 
 related:
-  - title: "Real-World Artificial Intelligence for Security, Safety, and Operations"
-    excerpt: "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape."
-    publishedDateTime: 2022-07-18T08:19:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/"
+  - title: "Using artificial intelligence to train teams of robots to work together"
+    excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,"
+    publishedDateTime: 2022-07-20T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
     type: article
     provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 58
+      name: techxplore
+      domain: techxplore.com
+    quality: 89
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg"
-        width: 1000
-        height: 500
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg"
+        width: 500
+        height: 310
         isCached: true
-  - title: "Kami Vision grows by 350 percent as demand for AI services in security & safety industry surges"
-    excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced the company has grown 350 percent since its launch in August 2020."
-    publishedDateTime: 2022-07-20T10:52:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/kami-vision-grows-350-percent-demand-co-1658295198-ga.1658297973.html"
+  - title: "These robots were trained on AI. They became racist and sexist."
+    excerpt: "Researchers trained robots on artificial intelligence exhibited racist and sexist behavior, bringing concerns for the future of automation."
+    publishedDateTime: 2022-07-16T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 24
-  - title: "Global AI for Drug Target Discovery and Validation"
-    excerpt: "The \"Growth Opportunities in AI for Drug Target Discovery and Validation\" report has been added to ResearchAndMarkets.com's offering. The score provided by the AI algorithms is responsible for the prioritization of the drug target."
-    publishedDateTime: 2022-07-18T17:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-drug-target-discovery-validation-market-analysis-/2022/07/18/9640430.htm"
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 56
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POCA72AEUEI63C7LFNHEQGYVAA.jpg&w=1440"
+        width: 1440
+        height: 829
+        isCached: true
+  - title: "These robots were trained on AI - They became racist and sexist"
+    excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
+    publishedDateTime: 2022-07-18T17:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/international/these-robots-were-trained-on-ai-they-became-racist-and-sexist-e281126b-f15c-4738-b973-c0be98f52be2"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: IOL News
+      domain: iol.co.za
     quality: 17
 
 secured: "Te494gn+cFJxhnifEmMCZew/4AnWFbZotFdUmDkFJ5020/VT+eZx6eseI7/1ncrarLylSF3mRFHD4Z74KTdCzaGW4yLrqnuKUm7uzCLWcshyRoTscVvIyUpQuZ5DBS/ys36NqINdHXm/r+G1J/Ps2zvTr6em2ILF8mEZ3B1g8h2WUXrL8Wc/q+Jn52FTD6q7nnormpyF8RXCITkAhoWC2BYJLMRZZvL/vPROCekpBAlaYliBwY5+A+G+BPKJ1D4uhIflan2yRebyTzT5CglDGCWRcY9zsVaRAbtg9XERiHOOfal62jBfjeRHvmbWqlumTTikvtEU7x6fgX4gQ7DuQfExZzO6wlQd27MjJ6opEKxE48GkOc684ttIt2/13IFvkX5qcoVpnpzz9wHlCtqKjNhIs1ELQoQJV0tUhuGOnY4/tMbhmVq3ipdI8MVKNwapYPEeHonHT3lJGhZun4lLdjApPvTWAGBOq06kEftPglWQTUj1jkKrwvBKBVWs/aAxCX3dsn2+UDXHkH+tS9PDQw==;8/1EOMxDvOWWn4GZFh1SyA=="

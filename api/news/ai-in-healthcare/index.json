@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-20-amazon-extends-alexa-to-enable-ambient-intelligence.md",
+      "title": "Amazon extends Alexa to enable ambient intelligence",
+      "excerpt": "At Amazon's Alexa Live 2022 event, the company announced updates and outlined its general strategy for enabling ambient intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1240129511-1-e1658272820429.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/amp/",
+      "publishedDateTime": "2022-07-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-artificial-intelligence-as-a-service-market-size-usd-92-bn-by-2030.md",
       "title": "Artificial Intelligence as a Service Market Size USD 92 Bn by 2030",
       "excerpt": "The global artificial intelligence as a service market size was accounted at USD 4.7 billion in 2021. The use of artificial intelligence in the form of service is expected to",
@@ -1340,49 +1392,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-factors-to-consider-regarding-ai-therapy.md",
-      "title": "Factors to Consider Regarding AI Therapy",
-      "excerpt": "In the first part of this post, we discussed how an effective AI therapist might be developed in the near future. In this second part, we will discuss some additional considerations of an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/willyam_bradberry_shutterstock.jpg?itok=fc36pwQy",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy?amp",
-      "publishedDateTime": "2022-07-03T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

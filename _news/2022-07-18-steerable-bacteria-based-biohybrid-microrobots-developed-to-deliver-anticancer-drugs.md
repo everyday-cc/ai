@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Scientists combine robotics with biology to construct biohybrid microrobots"
-    excerpt: "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots."
-    publishedDateTime: 2022-07-15T23:28:00Z
-    webUrl: "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
     excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
     publishedDateTime: 2022-07-16T15:45:00Z

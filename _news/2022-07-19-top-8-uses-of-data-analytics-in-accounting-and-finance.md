@@ -44,6 +44,22 @@ related:
         width: 350
         height: 445
         isCached: true
+  - title: "SYSU and UBTECH Propose Big Learning for Justifying, Analyzing, and Improving Foundation Models"
+    excerpt: "The recent development of large foundation models such as BERT, GPT-3 MAE, etc., has brought a paradigm shift to AI. Such models benefit from pretraining on big data at scale and have demonstrated game-changing performance and excellent transfer capability on various downstream tasks."
+    publishedDateTime: 2022-07-20T15:57:00Z
+    webUrl: "https://syncedreview.com/2022/07/20/sysu-and-ubtech-propose-big-learning-for-justifying-analyzing-and-improving-foundation-models/"
+    ampWebUrl: "https://syncedreview.com/2022/07/20/sysu-and-ubtech-propose-big-learning-for-justifying-analyzing-and-improving-foundation-models/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/20/sysu-and-ubtech-propose-big-learning-for-justifying-analyzing-and-improving-foundation-models/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 32
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
     excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
     publishedDateTime: 2022-07-19T23:03:00Z

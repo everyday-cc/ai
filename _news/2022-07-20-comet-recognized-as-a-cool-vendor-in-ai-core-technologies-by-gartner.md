@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Comet Recognized as a Cool Vendor in AI Core Technologies by Gartner®"
-excerpt: "We are honored to be included on the Gartner Cool Vendors in AI Core Technologies list which, we believe, is another strong outside validation for Comet being the category leader in this space,” said Gideon Mendels,"
-publishedDateTime: 2022-07-20T12:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-7d207ebc60704071b00133e49fd7fc16"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-7d207ebc60704071b00133e49fd7fc16"
+title: "Comet Recognized as a Cool Vendor in AI Core Technologies by Gartner"
+excerpt: "Comet, provider of the leading development platform for machine learning (ML) teams from startup to enterprise, today announced"
+publishedDateTime: 2022-07-20T16:47:00Z
+originalUrl: "https://www.datanami.com/this-just-in/comet-recognized-as-a-cool-vendor-in-ai-core-technologies-by-gartner/"
+webUrl: "https://www.datanami.com/this-just-in/comet-recognized-as-a-cool-vendor-in-ai-core-technologies-by-gartner/"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "U6hkEw3Lb4hFHPqJEZqCZzCoarFP6SVEMIMoi1TT6nXFdThHJTHqgVsSMreo1yPK8R/6tso6ONAS2aReTwFTf2ccp8staiOKGh6vsjAIdeN/ps2nAUtYcGXqhAz9LfsEBeO7wfQ2rsHzey/xUSMaUrqtiGVgJbgGsrbwU2SvnywimO3HqPAang48cJjL3HYmblwX8AwmvsfWBZeb5Q3cwcQ049RzL+DKa1sqTOa6ubvAk6VBib7fASm7i3te6qmWBhKtZ8kOYfDSUCrAfDsGLQyG7u3sSVdWhSMLjAPp2neIB0E74Oa9Whc9WW+y+NZ5xk45Cn1P5iPpE5xTnOPMsRWhN16B1aVIc9Ivf/BEorA=;A4JXKICuqP10cnNYsz07mg=="
+secured: "hov6bOEJE4CvnP23XlB9I+wBO7ceBJ8ufDHghxRyIDeB1/R9lsPeNw+hXtDtb76s67Cror5rnrwN8cKKo82d0GlVoLOUl6fWClx/rAiRdlEepSq3sZVhCDecH85DWA/myfdT4whYwptOgaOGfoQW7lCH9Vr/WlWMSWG8j5LQaxMx0gGASj23FmLRgkGqu1RX0qApc+KYEfxt7Lms1RCOQhJ5gEt8bbX8Xq0paysig4cQkWzMUlX+f233TXr0hBkXvqqYU/de5qqyvgNuWyhiv6RRYxouVnsfi10R9QpDof5NDYYz3629qQv/y3Z365g28gPYMXSKXodNKylu428xvB/7rjFbkZdQWDkS6uILQaHDK3OR2lLTaFiG/9/lxqFScxk4kmLmwmTbydYyfXGEqYRDsPzeWi6ZV2y4b0A9LymlVXx/lvpsQC7JIoXhEr3VCl+1VuuWusslKkUsMbaG9qlvAJr76+UKSRGUYjGYp1IT/efMJle9TnTNwbAkPomMEXqphYb0go8e/02nzT30Ig==;zB3rLc5t3ctqNMkPAtNGHQ=="
 ---
 

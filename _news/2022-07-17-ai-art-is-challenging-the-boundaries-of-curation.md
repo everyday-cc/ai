@@ -33,14 +33,14 @@ images:
 
 related:
   - title: "AI art is challenging the boundaries of curation"
-    excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
-    publishedDateTime: 2022-07-18T21:05:00Z
-    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+    excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
+    publishedDateTime: 2022-07-18T21:11:00Z
+    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
         width: 760

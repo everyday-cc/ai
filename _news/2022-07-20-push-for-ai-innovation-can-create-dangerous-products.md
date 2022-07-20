@@ -23,6 +23,22 @@ images:
     height: 1019
     isCached: true
 
+related:
+  - title: "Push for AI innovation can create dangerous products"
+    excerpt: "This past June, the U.S. National Highway Traffic Safety Administration announced a probe into Teslas autopilot software. Data gathered from 16 crashes raised concerns over the possibility that Teslas AI may be"
+    publishedDateTime: 2022-07-20T17:09:00Z
+    webUrl: "https://www.econotimes.com/Push-for-AI-innovation-can-create-dangerous-products-1637689"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 37
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202207203e99f137149f39838_th_1024x0.jpg"
+        width: 736
+        height: 400
+        isCached: true
+
 secured: "C/flm1SagZzkXjiInnP0lsRbPmwzmYyZxNDmxLox5Huz2ZgcNLDnLGEMV555gNdRlB7Q2pKXCOWchMQ3MkHpuPt/laK/Vu67q68fEifn4kcLMKTLtBE6HotqV7nElJbkjLWqKe7XiDhZyTPKSo4/FvS8DsfGCQLStXCBpS0hpw5f46CHBe8FHMr6HPRs8IFZrnzW5SLZuqbZyFuCzHfXK6hhe/QJiBnBQVw199ZhZQjCo7eVSKH9RBRW0ozUCjRs010GNPN5sEsLfpPWd7pKdeyyXpiinnDqC5CNzBV3Vo3KV9f3WLuf3miDVKPU1pTG8VtfQPJD/qlk7Prlr7eoEWIsXIvRL5XIOsd89sxfpEk=;C6vIROzVAYMEYAYPIFtQzQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:
@@ -79,6 +79,6 @@ related:
       domain: insidebigdata.com
     quality: 19
 
-secured: "oT2GoI+u6bMauS1zgOM4ZITfO+LxzB0ifsXaYww14+2j0wywDPspJZLiGVhEHPPcDhhkOc8jTu25O12lT0c7T9AeNjMSZvkk4WTxEaL4GvFtwu0zLoHbM/f4lNsBkPGaSBAvUH5kRywG5n+wBuBp2IWwPZoUPuBSx1Fn41jZPrR77NGcWY22rKZtaMA0HA/QaEES7ZwI0QmjGM/W6DUMQAsHeCrJEmaSMBBc6vLWh8MuCIThRJ/vBF3KnWz61LF20+PirwkXQPmm8j+Jk2oOP03sh+3yz4iY0x2FL5IgllUZg3PYe4MOsxLdoK4UBYrL/ZUnqD1zWaZdapNUeH5oZdGhVg8T08tHhgyabqzF6R4=;rX4nGkUTtY90avIfUobvHQ=="
+secured: "5Rmavzf3i/zIOXnzC8b3CMvTZBdm83V6RYdQRXBP4E5qcklZDh4cPLCotKeAyjdXl6sI4xIHiDa4fCAxadzQwSap5h+8d2B7q60GHSoXA2QlQilaav0Je6GK3EKsOlipnP4nI7pK03BdgjDbCmBaAaZUdzrQlNdCdeNeseNrP0FBrX9oYQZTKtsx6PcjPoOk2V1wOq3Ha07zWjgn/hW9vn8dP23QmcLT7JwzHLHpwudwk5HSw8m07lf5z3pNhA+5cO/Qkh/Mn2sfWQmWMX59IyDbvqFHBo0Ia+KEuydqbUKvhwVwjMYGq/dMfoMm4RbGVeIoZiYEQWo0DkGw09IEQtqIZrdxdHtF76JWQbL0F2O6zmRk8glwMN66DloMs1XkzZwvQ8/pNs3P3JxXG3816wy2EOD1WJRi1BsRoA3KRVejhYeLig1NVvjpr16pPC5Y7SKT4IdWWP5lnaeU68svkITQhzLL0vJ+WB3Rhoy+DogG0ccGbcutjoa88iCfkdj7PKV03CoMiXEpGCozuz0xDg==;GrkuCBMnXJrPSyxertMqbg=="
 ---
 
