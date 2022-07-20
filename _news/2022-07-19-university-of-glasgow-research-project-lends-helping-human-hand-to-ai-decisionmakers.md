@@ -35,6 +35,20 @@ related:
         width: 5568
         height: 3712
         isCached: true
+  - title: "Researchers propose AI model to better understand human expectations"
+    excerpt: "A research team has proposed an AI system in which robots not only serve as listeners but also speakers, providing an opportunity for AI to better understand human expectations."
+    publishedDateTime: 2022-07-19T02:01:00Z
+    webUrl: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/img/7915a102fde14e688c03c23547deea4c/7915a102fde14e688c03c23547deea4c-750.jpeg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "F3p/JRNUdXG9RolIZ37kk/UwcJchZtyVP5lj0g7YahuA2Aaw/Op1G25S7UZCQDvxnlQf69VlpLgcFI/01wP3lw9J7LcHLRpIw6e91Labr1bHAPDbI0QGcmHm2MKCtmXPlrKjYyrS9Ed2VWNDS28kxpNYgMMIvoknPiRvg5uI5cdcpNLtSYQ5nj2iN2zk6hdTr3VvPmvBWhlnASr0Vq+t3JJA0fsDhzjzzSEszPt+slOA8MG8xrrhzC5uhQcP8HlJzFrUYBef/6ffPaklLnxbhPWChbNaeEETibq2nSpF2R+13gEFaqrJ6Hj9UHLs9D1PUuNxvgQdETjf+HqJBenBynSctIXZPwtcDwE7RCAYVGuT1fsa7Q3EX5KyWqBKYRxmc/pnWigV+3Vlhxnyl2hNVVW0ZvqeUeE9Ka2YK9LRB2sdOHukz9L4ejPTmHVcs8ShzCixNS7OvRG/NYChvgJF2MA57Y4kWE/EqqpZs72f8EmsqGDgVGIvHCqiqD8UqPHoamf2Uv5ia0iTGF2KUO7vlQ==;iv4Z+t+KPV9NEwZlOSWXig=="
 ---

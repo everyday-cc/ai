@@ -54,19 +54,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Truck Market 2022 Share, Size, Recent Trends, Growth, Development, Revenue, Covid-19 Impact Analysis on Demand and Forecast to 2029"
-    excerpt: "Jul 15, 2022 (The Expresswire) -- “With tables and figures helping analyze worldwide Global Self-Driving Truck market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for ..."
-    publishedDateTime: 2022-07-15T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-market-2022-share-size-recent-trends-growth-development-revenue-covid-19-impact-analysis-on-demand-and-forecast-to-2029-2022-07-15"
+  - title: "Global Deep Learning Market 2022 Comprehensive Research Study, Business Overview And Regional Forecast To 2031"
+    excerpt: "The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the ..."
+    publishedDateTime: 2022-07-18T05:41:00Z
+    webUrl: "https://menafn.com/1104544481/Global-Deep-Learning-Market-2022-Comprehensive-Research-Study-Business-Overview-And-Regional-Forecast-To-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?604799"
+        width: 322
+        height: 250
         isCached: true
   - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
     excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."

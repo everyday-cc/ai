@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers propose AI model to better understand human expectations"
+    excerpt: "A research team has proposed an AI system in which robots not only serve as listeners but also speakers, providing an opportunity for AI to better understand human expectations."
+    publishedDateTime: 2022-07-19T02:01:00Z
+    webUrl: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/img/7915a102fde14e688c03c23547deea4c/7915a102fde14e688c03c23547deea4c-750.jpeg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "University of Glasgow: Research Project Lends Helping Human Hand To AI Decisionmakers"
     excerpt: "A new research project is setting out to help artificial intelligence systems make fairer choices by lending them a helping human hand.Researchers from the University of Glasgow and Fujitsu Ltd. have teamed up for the year-long collaboration,"
     publishedDateTime: 2022-07-19T05:01:00Z

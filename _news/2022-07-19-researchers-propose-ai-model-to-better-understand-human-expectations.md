@@ -24,29 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Computer games for researchers to develop artificial intelligence"
-    excerpt: "Assistant Professor at the University of Agder (UiA) has developed computer games that researchers can freely use to train artificial intelligence to"
-    publishedDateTime: 2022-07-15T08:00:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223217"
+  - title: "Research project lends helping human hand to AI decisionmakers"
+    excerpt: "A new research project is setting out to help artificial intelligence systems make fairer choices by lending them a helping human hand."
+    publishedDateTime: 2022-07-19T05:49:00Z
+    webUrl: "https://www.gla.ac.uk/news/headline_860675_en.html"
     type: article
     provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
+      name: gla.ac.uk
+      domain: gla.ac.uk
     quality: 39
     images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"
-        width: 286
-        height: 229
+      - url: "https://www.gla.ac.uk/media/Media_860677_smxx.jpg"
+        width: 5568
+        height: 3712
         isCached: true
-  - title: "Google researcher goes on leave after claiming AI is sentient"
-    excerpt: "It will likely be a long time before we get truly sentient AI if that ever happens at all. Can a machine think and feel like a human? Questions and fears over the subject predate artificial intelligence ( AI) itself,"
-    publishedDateTime: 2022-07-17T12:57:00Z
-    webUrl: "https://knowtechie.com/google-researcher-goes-on-leave-after-claiming-ai-is-sentient/"
+  - title: "University of Glasgow: Research Project Lends Helping Human Hand To AI Decisionmakers"
+    excerpt: "A new research project is setting out to help artificial intelligence systems make fairer choices by lending them a helping human hand.Researchers from the University of Glasgow and Fujitsu Ltd. have teamed up for the year-long collaboration,"
+    publishedDateTime: 2022-07-19T05:01:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-glasgow-research-project-lends-helping-human-hand-to-ai-decisionmakers/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-glasgow-research-project-lends-helping-human-hand-to-ai-decisionmakers/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-glasgow-research-project-lends-helping-human-hand-to-ai-decisionmakers/"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 17
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 32
 
 secured: "VFgUadJ7HqtBaNQG8Eiz/3jPhjxqGY8MKu9M0fIxoIsKa1/UfU9SE0aoz9L0EarcMbuYu0rTsa3P8tKj9Aq1cSNiJ9s/tyUCNteAXQ8avCzbk7vZqZlOJO0lKkfDWH4IGw7V2tTgDBJ5b7FB1sNpQZYYlqbzqEEhx6GHZk1FR1k/nr26XXFphjSFHHWr5SjFbyfST5gQBNPbZtTdLg24syijCjF3zxpqEgDr6MW4J0mTamvYTExoIcnF/fPZJf+bAPjgBk+ucoBlsjeB1hk3qJqNxoJKupBExtQErvZ/L7Pw4Lg6uFxky+9amy+Tw0NzlH4FMl171GNW8GRbpirJMczyYl7ousLzamcr0ot6s48E3oZqJr1A/DAha+IbJKuEAShZTffAYSROLHaonPAPntMC7yQRcL8ogbsgCBEnTFFbTJTOJb8eojprWnibGhJfZlGaqwpNAiwyFG4dWFxa4Asw9x8bExeB1FcQH1J3v/Sj3Hp/H+cbTvYCR+lv0tlwRrK4mex+E736I8cluQo+ew==;cvLSW1mN4poBBr1PKa08eQ=="
 ---

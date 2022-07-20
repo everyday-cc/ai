@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-i
 ampWebUrl: "https://www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200"
 type: article
-quality: 102
-heat: 102
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.wsj.net/im-585899/social"

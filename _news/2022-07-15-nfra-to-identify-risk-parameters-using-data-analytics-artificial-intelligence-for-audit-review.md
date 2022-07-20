@@ -67,6 +67,20 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
+    excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
+    publishedDateTime: 2022-07-19T23:03:00Z
+    webUrl: "https://campustechnology.com/articles/2022/07/19/6-technologies-and-practices-impacting-the-future-of-data-and-analytics-in-higher-ed.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 17
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220719dataanalytics.jpg"
+        width: 644
+        height: 360
+        isCached: true
 
 secured: "apy+wQ32qVmZWuS9R5CAPADWT5M+T9NNETDyH8Rl7nnF5HqpXVmTZ+2lgcT72zo66hUkrU7u4DX9lHYxGsdl1nhLf7XEuVgfTa+hMQLPse7NcDBYVy9h6AxR+18QMYFK5z5nOnlLhgwx4MNVIBZCwomZmkTGBMhuJdZTzLV2y3cpZ+D0cy0bS8wfiKs1Fj44cZFOAyUBxGF+zI4YAETHlfpbjf34zkFJhC/y0kTykr7EkJLsmnAv5+9g9jNbwL4lzsW7Mw8cAEJBnljFaXBOgKMeTxj590vOiAyRJSr2Ic30cmMJjIps3pF2OESkQr3iPv91goH9AOYsZNgtKcHgsXDeSZPzsE+9pgDRpvR5DDs=;Yd4/e5Yxvm+0RRaS1iLPtg=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
+      "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
+      "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
+      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1394403496-BlackSalmon.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
+      "publishedDateTime": "2022-07-19T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
       "title": "Should We Worry About Artificial Intelligence?",
       "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
@@ -313,7 +365,7 @@
       "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-austin-texas-artificial-intelligence-f4a3a1405f8ea33a8cd893dc997e97b1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -502,7 +554,7 @@
       "originalUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -541,7 +593,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1130,21 +1183,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-18-forbes-ai-newsletter-july-9th.md",
-      "title": "Forbes AI Newsletter - July 9th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "path": "_news/2022-07-19-as-ai-language-skills-grow-so-do-scientists-concerns.md",
+      "title": "As AI language skills grow, so do scientists’ concerns",
+      "excerpt": "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
+      "webUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html",
+      "originalUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d1bc618a37a26e45c4a0fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 637,
+          "url": "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg",
+          "width": 760,
+          "height": 507,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,64 +1205,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/amp/",
-      "publishedDateTime": "2022-07-18T09:44:00-07:00",
+      "ampWebUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp",
+      "publishedDateTime": "2022-07-18T11:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
-      "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
-      "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg",
-          "width": 1080,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
-      "publishedDateTime": "2022-07-18T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
+        "name": "Philadelphia Inquirer",
+        "domain": "inquirer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1219,7 +1221,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Facebook AI",
         "AI"
       ]
     }

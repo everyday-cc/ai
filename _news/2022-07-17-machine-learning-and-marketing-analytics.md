@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
+    excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
+    publishedDateTime: 2022-07-19T23:03:00Z
+    webUrl: "https://campustechnology.com/articles/2022/07/19/6-technologies-and-practices-impacting-the-future-of-data-and-analytics-in-higher-ed.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 17
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220719dataanalytics.jpg"
+        width: 644
+        height: 360
+        isCached: true
 
 secured: "y15fT1jM1t2GLo/EVBrwydyf8B3Nrmbt212qfQGIRsr6S1rRtHVBQlloxiZIQagtPqrz2lAP9DtTM8hZOJh+z0nHZQ+Ms5GaS5w5ojDJg/F1cwgDNqFeFCBAF5aVkkmL9AYufyOGLQlJBsVcrTiWAtYe3k97avMC7AFStEp75gFCzJ3s3Ad64Qw4TULhsx58MP6ImWvnx0TR1/P6sH+6SZdYj19Joh1vv18yqHppqs8zZ9uvHioLcD61HxaWe0VPmw7NkCGx/LC96fXUH+BjraW2Oj2rko3WcFL5/NnOsTP1qQg7Zf1cvUyEJeUezA9Pjd6F1yMBLAGlubVid6BEa2dj/DDuQt8cFKnVNyDxPfk=;H0oePI9Sg7zivs1prYe2VA=="
 ---
