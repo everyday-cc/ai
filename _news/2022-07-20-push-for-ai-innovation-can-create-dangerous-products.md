@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Push for AI innovation can create dangerous products"
-excerpt: "Competition between corporations drives innovation and development. But when it comes to artificial intelligence systems, the prevention of harm should be more important."
-publishedDateTime: 2022-07-19T19:53:00Z
-originalUrl: "https://theconversation.com/push-for-ai-innovation-can-create-dangerous-products-186101"
-webUrl: "https://theconversation.com/push-for-ai-innovation-can-create-dangerous-products-186101"
+title: "Push For AI Innovation Can Create Dangerous Products"
+excerpt: "This past June, the U.S. National Highway Traffic Safety Administration announced a probe into Tesla's autopilot software. Data gathered from 16"
+publishedDateTime: 2022-07-19T23:15:00Z
+originalUrl: "https://menafn.com/1104557332/Push-For-AI-Innovation-Can-Create-Dangerous-Products"
+webUrl: "https://menafn.com/1104557332/Push-For-AI-Innovation-Can-Create-Dangerous-Products"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI Ethics
   - AI
 
-secured: "MyAySxe+s+np4D3NWL9c7m+gcvwK3Oxwu0Kd9KJoe94Kv4trOF+isnFsciHhxhJT9h6197aBnu72jeDd3RGeAcXwl3Vr/NLFNG73wGZR+m4o9cH4WpIa7UT26w/OmzJR1ZAu2ZEF4d7I9ZKyd4qMTn8vQfZvhTWcmEeaVvLOf3uvoHv+LnF8arBEe0jikB4RigRwi8Yay5ZcL4kbO1YMfqryu68iSpkn0k9J7OQO7YrCB+MVzYqvx+Kx5tGvM1/av/WoD/icNQRmCTA/9wzjq7HECUHdQzg2PRWMXea7rn6AqvFvyhm0yhpLrFYT8E4BO4M01mXt5PKSZBzHeLxCY4YvwlnyHe937C1gxdIQKHSecr8h4Ee2O9DJ//GqnfBPjFJ7AsUUppjH64HTtouSS82aj4NfZSUeU1IRBXY7xp23gpww83P8VR3D60saDaPg0eYj6+t7jiD16VmYMnmbX6nMShUXFZ9hUPyKOTzuPIWpU+Sl6cGF/1YDE9u7Mcp4/6tQBob13yyS90f3QpYIxA==;MzXCZbYWmJa/F3IELrY88g=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-07/19/TC_32a7dimage_story.jpg"
+    width: 1875
+    height: 1019
+    isCached: true
+
+secured: "NcO3oy43pwHaGCc/Y6m5dH+r3H2QUWxSi0iF/RCezMeFsHbTIAtGJ6YswQ4dGiEnOFTz6LW8IczDOmkynkelc+GuAeTAA7kZntLPgMQI8nUiZ7n1lhnYq0+2rc/ds31ecZCOmaqT3LAlQ88uHS/J32b2dxDj+Zeion4DIZ+sWTnudX9xvpGzNTajLX3G6fsiYWv6zEIUl5EFansWiBsaw9RJQ/0igjkAJzqlQgIDj7WVT8J6QVtkOZ6zpkrCTGKC0RT0pia7o2FrwTbNfd6ZprXyJ2XeuNY4ugIKgTP45KvO9IdSSiP6m6giu9keEiYhZ+/4oDviiIE4ElgCQt2DwHQMnPqgOqJ2014RcLKelo0=;Ti6UsHbZJgehMsFY8cuJIw=="
 ---
 

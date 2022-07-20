@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
-publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
+publishedDateTime: 2022-07-18T21:11:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -84,6 +85,6 @@ related:
         height: 724
         isCached: true
 
-secured: "vSkl7nY8lYRbhWClfFJs2hzGuyqJoPjMgFKyOkuomdjegx0aWKz33jIkjx77Mf5VbqfXETk5kRGC2jVoDhi77XpyWwFXOnl4vobo15Td+fJVbxZxxihVbU/xMUym4PC4exRq2qTfnz2JMlnK3bU3Q7grw0/3bP3aPp9Ik5RvjR6gwZOR6nigAV8gib4natWQ54OiqRcBU6JcraTIV1LbBsS99eQchy4hnVQZMrK8vOVcdqlC5ZjQIH9sHLvVczZoZaWQOKVXO9767/9+AEvsWNATQoJMATOJdLUK2xi/zx8McJaBbSck7rrMiWIalpNG4as71TJUMY06aDZ8XY+TVWcy48EzqKKeuxHZyPTCjE4=;sTey97c4JGqFN7/XODbqrg=="
+secured: "s5qmu8VMzP1BAA8riuIUkzHrrnIsesNGwZ2mlIC1kF/pjwRTUwMLe5Z4u6axD+c/t+PYbXME2yNX+BQStFfCj8Qu8Aa7d/9s/32cxQqC8lF/15J/0bd8zfQm5dlWxr33fsEGltujnif1hEyZT7fZy2bJBao78QLSu+4IWRPaZ1WjVoCVPpaq3K+usTPW1QHfFDq9uj/VxEwDGHCSSqp3m6/sX+sEL9KJdEvSwFB/0PoRNw+nslP8NpA4hd0SIlDpSwU9kuK9HQIFwOihe5LylP4hG5STT7njJOf6QVIH92r1JcahCMY07nk+IUGLY8RLEmu+RAtjdQLJnHyYzkwc6ArYJfoRmdrsJ98EqfbMZLo=;zx13sn7DPVWTeiz2AjZdrA=="
 ---
 

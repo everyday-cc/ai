@@ -160,21 +160,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
-      "title": "Microsoft launches simulator to train drone AI systems",
-      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
+      "path": "_news/2022-07-18-microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation.md",
+      "title": "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation",
+      "excerpt": "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62202118",
-      "originalUrl": "https://www.bbc.com/news/technology-62202118",
+      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 189,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
-          "width": 1024,
-          "height": 576,
+          "url": "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 709,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -182,16 +182,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
-      "publishedDateTime": "2022-07-18T07:19:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "publishedDateTime": "2022-07-18T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -207,8 +207,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -273,7 +273,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -976,17 +976,17 @@
       "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
       "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
       "sourceUrl": null,
-      "webUrl": "https://tucson.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_4b357c0d-684d-59db-9ec8-b23acb03b498.html",
-      "originalUrl": "https://tucson.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_4b357c0d-684d-59db-9ec8-b23acb03b498.html",
+      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
+      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/4/b3/4b357c0d-684d-59db-9ec8-b23acb03b498/62bc9a9d57244.preview.jpg?crop=610%2C343%2C0%2C27&resize=610%2C343&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/f/8d/f8d59b3b-963b-5800-bbdc-0c1c29f65abe/62bc9a94703e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
           "width": 610,
-          "height": 343,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -996,11 +996,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:36:00-07:00",
+      "publishedDateTime": "2022-07-02T18:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
+        "name": "Rapid City Journal",
+        "domain": "rapidcityjournal.com",
         "images": null,
         "publishers": null,
         "authors": null

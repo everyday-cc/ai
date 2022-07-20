@@ -1,16 +1,13 @@
 ---
 category: news
 title: "'O' Ability: Your Power of Perception Is Mostly Innate"
-excerpt: "Like snowflakes, no two people are exactly the same. You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solvi"
-publishedDateTime: 2022-07-01T20:35:00Z
-originalUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html"
-webUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html"
+excerpt: "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general, is o just another name for general intelligence? We don’t think so."
+publishedDateTime: 2022-07-02T00:00:00Z
+originalUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!"
+webUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!"
 ampWebUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
 cdnAmpWebUrl: "https://www-realclearscience-com.cdn.ampproject.org/c/s/www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: RealClearScience
@@ -20,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "+Fou+OVYbK2U6mA0C2XX9bYDUqHxqbsh8yRs7D1dm4g5bQeR5tpGMqOwQG/9bMTMhbLOos52Xo/Q59A/BGobKsAAsy/4TJAU4TXSR3rSX00hy6UvqngeFJRBt4STrYb61gI5w4YgkT6YZwgpE6aNMro6UdWgKbMvo5mcHZE2UaZoBOmX9Ieo9JW1GmVIT/opYFmW5NRKjKqpbeXW7416Je671rR8KRM08VWp2Z9eXf1viHyRHH/M9uYy6w7QKMA84hLnHL36b2cXQq7HXl/z/h8ONe5trjaaVBdNMMTWPcTx++dgLXkJ1X1wc9aZII6v0oMaZ7s5MqjzHRxyzAwzW3x7gll6azAqph4recW6D02lK6XDjikE5DEmLe+z6relJ6KwKQ7GAuQ6yK1D1quOywI7LrU0uWA0NbpX/B8IxaqMdu9DJj1jL+kgFfx5uaT84PyA1aIR+M21mfz5ov9HvzWtBCizUN/dbEWudoQtFscOSUr3uCmzlx9NWMq/GgfSbkcL5dI6C0mIsxG4KjcrQQ==;zXHF/Sbq35SZrhgaocYlOg=="
+secured: "PRS6ic3u62GdfAz9Hma+ptCoJ8xl4PoluHDZEOLGtCLsaC11jMdOpZGocgRnlF4mPxpEX62T4t5FoKCogCCPiRbZGilJldLM+KTiOWX9fVr60zcsHhheFhLl8POmGdbl/2cGAV2dWu4kamaDjxkKLL/ScchLNoYPKzzS2UdEUgyp0STOybkh2l4NcQDKmPHfA1EP+yqyRAvjSDxk1rfoefQSxSMtlDMGCG/A2qQV02GNm+4rX6aqfpW6ZGbaXu6KN6qXhuhL2YUX46hfGJU1LvsmyFlUK5Oz1yaji2nty4tiDN2qEy7jKk9FS3/W8x4RticH9NWEsF1JoSt/V3ILUnopRt/p1u/OtV54S8kU5q8=;Hoskqyy3SuJlEKzrjz4QBw=="
 ---
 

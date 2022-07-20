@@ -76,6 +76,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Time to act now on AI Bill of Rights"
+    excerpt: "To address the unprecedented threats artificial intelligence may pose to Americans’ civil rights and privacy, the Senate must urge the nominee to commit to releasing a Bill of Rights for an Automated Society."
+    publishedDateTime: 2022-07-19T22:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/"
+    ampWebUrl: "https://thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/06/9524461e8e5d4e6b9aeab4369b30a99a.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Deciphering The Future Of Robotics And Automation"
     excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
     publishedDateTime: 2022-07-19T14:25:00Z
@@ -89,6 +105,20 @@ related:
       - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
         width: 1773
         height: 1182
+        isCached: true
+  - title: "Olive AI lays off 450"
+    excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
+    publishedDateTime: 2022-07-19T16:21:00Z
+    webUrl: "https://www.axios.com/pro/health-tech-deals/2022/07/19/olive-ai-lays-one-third-staff-450-people"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/B7f8Hgb9wjxvbBqWxTc6BA0mfAc=/0x0:1920x1080/1366x768/2022/07/19/1658247033039.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "7OEVecGWnNTvfpi/pUErHq0QvdmDaSyDYU3PeXIIDeuO9u3R9WO0L152m80pVy4LcsUDj1RtZAtPw6ftiOJUfQwb6ewLv4938q3/WAVN5dxO4syVQioDlVDAjtprbcWV4BK5OxCM6q4JAh5wXeIVq3xAEx5J9XtYYtnFR5NH3jyeU3BPY2cz6cDMtpEDQIKQHgVjaiohDSQIPeCFxTUK/FXXR7+tKYGsPAXPDJtO9Zmfv0zJcwmg71oChCUT26ThIbb5DBxcCzH2JyCyimozqySw5p9N1WhR1gxISG4D+npqoOXa/Oy7cgCpAVLRLyrdTLCsBItElMmhsXxN803dBuGhJxC7xwRrYX0KREU4vgE=;8ZOLJk5JiptQeModbwzIkg=="
