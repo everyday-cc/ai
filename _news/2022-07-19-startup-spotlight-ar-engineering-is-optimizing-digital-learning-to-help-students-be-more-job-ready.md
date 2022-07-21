@@ -27,6 +27,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Startup Spotlight: Predixa Is Helping Companies Across The UAE Unlock The Financial Value Of Diversity, Equity, And Inclusion"
+    excerpt: "Helping companies realize the social, as well as financial value associated with achieving diversity, equity, and inclusion forms the crux of Predixa's mission."
+    publishedDateTime: 2022-07-21T05:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/431843"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 5
+
 secured: "gC9PM2KAtBPTgen3GbfeIYQpuCuFxgCzoTvWRDJw4lEhwWAM9uR61Ri3FvCene4NwRSCwc3HCGvR+x+D2+nOFgjK9uvETZoalOg1IYlJ0Q7i21yugRUwEYVJ+ZV6Qg/MazvaLoD70XVXC8iwg7zmPWfv6FLEek47Q2ppR3UAFfW3lp3c5DPpLelZq2dei/trnSUTAc0+FcEBY6sefLnKwqr7+u4hBP5TBomfJgE5y+QCTcJFoyGl0PD6Xd4ecSMjfS659YdMH/3Z8mqRLUdTa40g5VjotBW6q44HNerp8UFMoFVIcU6n0GTWtRdelLmvYtBv6zsr8jYGbvZ4GoplBGFRz+nd0eK0n/pNmuTMIHVzayVLNd5v6PQ9VW7Q15JgETAZ9cWJXBWl4FeyypfRcdQ9Xv2DpDktBmkpzjMDKiv6n9bMGzSoGi3/3WzvTfvsdJFIAjyEegLBW5wpz65tHJ6CGFaBbr6NrWQvTcZW++FXHlxa2Htk8iKozcd10DPuxs6mr2OGK3z+1Onk+4HGZA==;2Y0PllMTLaVygrLvAcXucA=="
 ---
 

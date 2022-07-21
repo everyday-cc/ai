@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Bacteria-Based Microrobots Could One Day Battle Cancer"
+    excerpt: "E. coli bacteria equipped with a magnetic steering system and loaded with chemotherapeutic drugs have been developed that could one day help to battle cancer."
+    publishedDateTime: 2022-07-18T08:27:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/bacteria-based-microrobots-could-one-day-battle-cancer-363764"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363764/bacteria-based-microrobots-could-one-day-battle-cancer-363764-640x360.jpg?cb=20220718"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Steerable Bacteria-Based Biohybrid Microrobots Developed to Deliver Anticancer Drugs"
     excerpt: "Researchers suggest bacteria-based biohybrid microrobots with medical functionalities could one day battle cancer more effectively."
     publishedDateTime: 2022-07-18T12:00:00Z

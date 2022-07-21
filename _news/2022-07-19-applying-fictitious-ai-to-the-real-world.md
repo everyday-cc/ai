@@ -48,6 +48,20 @@ related:
         width: 1440
         height: 829
         isCached: true
+  - title: "Using AI To Speed Up Edge Computing"
+    excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."
+    publishedDateTime: 2022-07-19T07:04:00Z
+    webUrl: "https://semiengineering.com/using-ai-to-speed-up-edge-computing/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 41
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "These robots were trained on AI - They became racist and sexist"
     excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
     publishedDateTime: 2022-07-18T17:00:00Z

@@ -111,6 +111,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Oracle partners with Microsoft to offer database service for Azure"
+    excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
+    publishedDateTime: 2022-07-21T06:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "Microsoft launches Project AirSim, an end-to-end platform to accelerate autonomous flight"
     excerpt: "His North Dakota-based company has been using these hyper-realistic simulations to train autonomous aerial vehicles that are now inspecting wind farms, surveying wildlife and detecting leaks in oil tanks across the Midwest."
     publishedDateTime: 2022-07-18T15:04:00Z

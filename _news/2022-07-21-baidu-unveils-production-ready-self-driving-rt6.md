@@ -27,16 +27,35 @@ images:
 related:
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
-    publishedDateTime: 2022-07-21T03:52:00Z
-    webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-    ampWebUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
+    publishedDateTime: 2022-07-21T07:51:00Z
+    webUrl: "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    ampWebUrl: "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?outputType=amp"
+    cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?outputType=amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
+      name: WPLG
+      domain: local10.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TWDLDROC7VABDKAAOMFTLFUHNI.jpg?_a=ATAK9d60"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
+    excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."
+    publishedDateTime: 2022-07-21T03:08:00Z
+    webUrl: "https://techwireasia.com/2022/07/baidu-unveils-autonomous-vehicle-without-steering-wheel-to-be-operational-in-2023/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 33
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6-Exterior117223-scaled.jpg"
+        width: 2560
+        height: 1710
+        isCached: true
 
-secured: "RH3r0IoG6XyzHfbsaabtpmYfHEzBD/ZI4tiudfX944jXk/kQ21uR3b8urnEr3Q6QiIZ1KGd3PjNbnfMFIy45qBOQ+WWmYvP17YO26c/1LNvOb9lu1OqqmxpldMqy/u4KqQhY7AHo6Ac47y2v9HeNJWMYW4HL88wK9eQP0K+v9IzsiqTZcr4HYshH6/7YLTrWzbbLp6YKCYW9ZcU3d9kr2ntXeWbX3UdFKVQbl+14oswikxyvs+szkWB45ZDkQj+0cV2nUzoVuvuBGy9zQ5izR+ZbsMGcPaOBs3eulV7+ZZgGAnJME1biovvagl2sR9rXca9IPFUcovLMXOcwuQet1uRHmGp/mVa5yjN/gvebRNY=;NeZMwRPDByekJkQNz5vqfA=="
+secured: "T8J2eK3qec1xBjNKh7+dOVZeTq3+g5ngCJ8+3vhqyGgO1WDo8p+vZyl8WzJU42WR9z0mI1XYT87gvNVxiQYjVvgyA67qvmpacOTxWHwHzlgWxlIvslSqIZj8Rm4wso0Lx659mhFFfJCBfIkY4RsgTXxtmcY9frkD1/ssDuIncMgLvmboQGzFf2idngnTuyYrCVfMyUuc0nictyiUv8OEElNK1XsIPEcocsmvWtojJVm/gLXFoMZZgXux3XoVc8bNQMrA+lFADArNMLoySbPDe/cMNJm+Oo+VK8oko3+vZ9COP0vBWOyyl62qI0nAhxwIsNGK+8n3WOp/fuLYCFc6Y9mTSfWgOOmoGOUC1cW50oCQk4cumKyaJgLEVv6AWwDifdtgMb14Qgtstx/p6QMUJWOI8UvTo42w/mbLS3rX0TGG+8nzFw6QMcU4aCe8aCV7alkjlqwiB+VER+OQY5jmXYoAR9+Qp1fQI8/NhIYq1/Ktnl68oBlmDHdjchTVL1XNzBfsXm05DaKsUw4BaRhg2A==;V5cYbOR3S1egbENcbgu2Yg=="
 ---
 

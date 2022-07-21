@@ -33,15 +33,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication modules, announced the launch of AI smart module SCA825 W. Powered by"
-    publishedDateTime: 2022-07-21T03:04:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/259985"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 2
 
 secured: "VsBksRjFqwypAzU5iSKUIkv+nVXeuduBDQK8lz/FZWcrFz9EcPe4/B0t9mOVtiGg8VUm1HOrs6rhqFJJOagCuDJ2G7PPlr4+LTITJX0/k3pZsnYeiBvwNMeo7xw0musv/OWCtDFfdp90PLHVvPUmna/dK2R4geb6fjFXDW7HV8bwf5l3ThgAkeSLnAKdpkxh3xetP5vTcqDw5OYiN7RXe+0XJySXwSKoaN5ELjhCbfr0/6NMXO4wVckdw6LYxTfaugaHhdGMClr6veDyLxDR5lMTjdx7DHUFkSZFq52pDZMuNIZs0U6pzBbvsRyTIBPcmYg3I8BDVUpIEhYBlQoz1O/OMKwOYK68aELNyS7/ymM=;JxR73hD6uGBAmEcwr4V56Q=="
 ---

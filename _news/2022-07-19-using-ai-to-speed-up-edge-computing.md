@@ -26,22 +26,54 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Cautiously Assessing Whether Offering AI Biases Hunting Bounties To Catch And Nab Ethically Wicked Fully..."
-    excerpt: "The latest in AI Ethics consists of AI bias bounty hunting, though this raises a lot of questions, including as considered for aiming at AI-based self-driving cars."
-    publishedDateTime: 2022-07-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/"
+  - title: "Using artificial intelligence to train teams of robots to work together"
+    excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,"
+    publishedDateTime: 2022-07-20T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
+      name: techxplore
+      domain: techxplore.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x182,y0,safe&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg"
+        width: 500
+        height: 310
         isCached: true
+  - title: "These robots were trained on AI. They became racist and sexist."
+    excerpt: "Researchers trained robots on artificial intelligence exhibited racist and sexist behavior, bringing concerns for the future of automation."
+    publishedDateTime: 2022-07-16T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 56
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POCA72AEUEI63C7LFNHEQGYVAA.jpg&w=1440"
+        width: 1440
+        height: 829
+        isCached: true
+  - title: "Applying fictitious AI to the real world"
+    excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
+    publishedDateTime: 2022-07-19T13:43:00Z
+    webUrl: "https://techxplore.com/news/2022-07-fictitious-ai-real-world.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
+  - title: "These robots were trained on AI - They became racist and sexist"
+    excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
+    publishedDateTime: 2022-07-18T17:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/international/these-robots-were-trained-on-ai-they-became-racist-and-sexist-e281126b-f15c-4738-b973-c0be98f52be2"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 17
 
 secured: "hyZjtKLccZ/EgGTizED3BYVdTEYyhxEJglK1lebU1kbizRHmoyjkYKgMpMPXp/sIEe8hEZI26P/xuxu+KEbUdJeHEaSXdQ0wgyAURYHJ5MWEWQkvZK4U8p8fu8BNawJ52f4MFqDAJRSh9IVCTN/l7BR8TXxQRf2+5YcKB2rqSRca+4KcM9UUQ3mUgQlyxLznGcH3euCfqHOlhJ9f2dnhnXWUiCFhY0t9nMLGEqqrIlyX40o8dKC7afvkJMNjT9dkLFLy/Cf5f+IqBA1GS86dgVtdjKSqqvm2do7pmns7nwFazVTxKyOw8EDMQAIDLRoSUU5uH4qSxTN+HlrMa4K95AnWj7PiZoc1Qy1r1C7DE0KazCC6j+VyD1UW6NpkuVqEdh8kk26OnbrkpkU8kC1qYN0/2eknmb3N6KKGDd8yiXlUf5g3vUvpblty2m75LUPXPQ2v/RRyBy1+N9EAFCDk/UmPgWu1d9UaaFyOxUlh+QLUnof70kAHQrl6UCHpgp8tfAJac1JyPbNwgMZLwfny4A==;IXUwJrwO7sFDvC6V0bh6Og=="
 ---

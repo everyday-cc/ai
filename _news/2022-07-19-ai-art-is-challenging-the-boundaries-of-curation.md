@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
-publishedDateTime: 2022-07-18T21:11:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+publishedDateTime: 2022-07-18T21:05:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -71,6 +70,6 @@ related:
       domain: outsourcing-pharma.com
     quality: 4
 
-secured: "5A/TuudapRWKbnfLbf3TN/0JC0Dmk30VMb9R9NahCRQH03XgzdWOacEd6Bz6ZKfUR5vHzsEn7EMxXZWoSTXWUkELUuurAj4ws/jtAvz+ALpR1SmdmWSxgG6R2dXaIBHX43noMiLmPQaLRnx2A3X7VCLk5wgr/TYyd1iUOZQWWkRU1exxZiKyCQBZU/N/eB58GEgVJU8jFBuq+WGACU4x7FQBLFQJA175HKuRrsVYPd+UeXqyobyxu8LkUCdadGaz9NEXZwAznEL4SdOAl2UZD9Y/yAZOIrz/r8FNSvI32j8NAOFAHXmfI3OU3+kpKk2NgNn3zzvMR+jTQxYZoiqkCAHhFCWUwkvU1lQMmeka0oA=;OFqoOcU8lgRkl2Ewq0Pz0w=="
+secured: "uTPSbhsBG0LoruhfhuX/MW8YYtOEYtv28HTwR5FYKn3fcvszItzn4iM9aJocxgGgJYtpPs7XcCHYU349H30sv6cw7kwRrhpyAddyBnQOmisNKkYeVrullqnSJjlTdEeQOCBvSrK/5ysXov8UbDtavMVv29MGsZTIVwlW5LQcOC/u/PTqGAKeUQ7FS73FvZRkHwiyzwY2ct2r8UDpLkES39MrevkhKwV2eSm1zWcvJMZEnz5v2FB4JJ55RHyXYS4pP5tZIFA6qe1IjTwK2CZz6oPW5Cau3+3cJjGh6YSqpCZv+/X2rdtPsA+PxAg+Wjvyri0H2FQW308odi1+1IjWdaemBhG2R6ZcIbhIGsu6AsE=;nI2cXXvvB+FRQOx9m/Bz6A=="
 ---
 

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Robots Can Take Up the Cybersecurity Fight"
-    excerpt: "“More importantly, as the latest developments in AI now start to reliably deploy systems that can start up and fully learn its environment in the way a skilled and experienced human does, AI can now deliver reliable and repeatable analytics with ..."
-    publishedDateTime: 2022-07-16T12:07:00Z
-    webUrl: "https://za.investing.com/news/how-robots-can-take-up-the-cybersecurity-fight-2585841"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 19
   - title: "Fortified Health Security Releases 2022 Mid-Year Horizon Report on the State of Cybersecurity in Healthcare"
     excerpt: "Findings highlight industry’s progress toward adopting a security-first mindset as cyberattacks evolve and grow more sophisticated; explores key role of emerging AI/ML detection and response technologies FRANKLIN,"
     publishedDateTime: 2022-07-18T13:02:00Z

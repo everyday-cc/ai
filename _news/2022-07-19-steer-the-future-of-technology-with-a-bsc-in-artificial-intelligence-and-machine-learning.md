@@ -21,29 +21,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
-    publishedDateTime: 2022-07-18T18:51:00Z
-    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 75
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "The virtuous cycle of AI research"
-    excerpt: "We recently caught up with Petar Veličković, a research scientist at DeepMind. Along with his co-authors, Petar is presenting his paper The CLRS Algorithmic Reasoning Benchmark at ICML 2022 in Baltimore, Maryland, USA."
-    publishedDateTime: 2022-07-19T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/the-virtuous-cycle-of-ai-research"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
   - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
     excerpt: "Students are looking to drive change in society by leveraging their skills in tech. They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India’s GDP"
     publishedDateTime: 2022-07-18T08:43:00Z
@@ -60,63 +37,28 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Time to act now on AI Bill of Rights"
-    excerpt: "To address the unprecedented threats artificial intelligence may pose to Americans’ civil rights and privacy, the Senate must urge the nominee to commit to releasing a Bill of Rights for an Automated Society."
-    publishedDateTime: 2022-07-19T22:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/"
-    ampWebUrl: "https://thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/amp/"
+  - title: "Driving smarter customer experiences with AI and machine learning"
+    excerpt: "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale."
+    publishedDateTime: 2022-07-20T17:57:00Z
+    webUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/06/9524461e8e5d4e6b9aeab4369b30a99a.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Deciphering The Future Of Robotics And Automation"
-    excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
-    publishedDateTime: 2022-07-19T14:25:00Z
-    webUrl: "https://www.canyon-news.com/deciphering-the-future-of-robotics-and-automation/160193"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "New survey reveals AI and VR are set to be technologies largely influencing your child’s future"
+    excerpt: "Inaugural UAE Future of Learning 2022 survey by Citizens School Dubai highlights parent views and opinions on education Artificial Intelligence (AI) and Virtual Reality (VR) identified as technologies that will have the biggest impact on a child’s future Resilience,"
+    publishedDateTime: 2022-07-19T09:46:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/new-survey-reveals-ai-and-vr-are-set-to-be-technologies-largely-influencing-your-childs-future-qxwo7ykx"
     type: article
     provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 56
+      name: Zawya
+      domain: zawya.com
+    quality: 25
     images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
-  - title: "Advance of AI creating a moral minefield"
-    excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
-    publishedDateTime: 2022-07-20T23:01:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/advance-of-ai-creating-a-moral-minefield/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/5NWRikvOGJN5pZJiS5BAI4g3IfU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QUJTEMNDURHW3PK56Z4XHYKBNE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Olive AI lays off 450"
-    excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
-    publishedDateTime: 2022-07-19T16:21:00Z
-    webUrl: "https://www.axios.com/pro/health-tech-deals/2022/07/19/olive-ai-lays-one-third-staff-450-people"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/B7f8Hgb9wjxvbBqWxTc6BA0mfAc=/0x0:1920x1080/1366x768/2022/07/19/1658247033039.jpg"
-        width: 1366
-        height: 768
+      - url: "https://static.zawya.com/version/c:ZGY0NDU3MzYtNmViZS00:ZjQzMzQ1/photo01-b-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "7OEVecGWnNTvfpi/pUErHq0QvdmDaSyDYU3PeXIIDeuO9u3R9WO0L152m80pVy4LcsUDj1RtZAtPw6ftiOJUfQwb6ewLv4938q3/WAVN5dxO4syVQioDlVDAjtprbcWV4BK5OxCM6q4JAh5wXeIVq3xAEx5J9XtYYtnFR5NH3jyeU3BPY2cz6cDMtpEDQIKQHgVjaiohDSQIPeCFxTUK/FXXR7+tKYGsPAXPDJtO9Zmfv0zJcwmg71oChCUT26ThIbb5DBxcCzH2JyCyimozqySw5p9N1WhR1gxISG4D+npqoOXa/Oy7cgCpAVLRLyrdTLCsBItElMmhsXxN803dBuGhJxC7xwRrYX0KREU4vgE=;8ZOLJk5JiptQeModbwzIkg=="

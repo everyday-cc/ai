@@ -74,15 +74,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Meta Showcases Its AI-Based Image Generation Tool"
-    excerpt: "Meta has showcased an image generation tool called Make-A-Scene that requires users to provide a text-based prompt as well as an initial sketch of what they want to create. \"Prior state-of-the-art AI systems that generated awe-inspiring images primarily used a text description as input,"
-    publishedDateTime: 2022-07-16T13:35:00Z
-    webUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-generation-tool"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "OpenAI to Expand Access to DALL-E 2, an AI That Draws Whatever You Want"
     excerpt: "Need an AI to draw a professional picture for you? Research lab OpenAI is preparing to expand access to DALL-E 2, a program that can generate images out of whatever you type. On Wednesday, OpenAI announced that DALL-E 2 has officially entered its beta testing phase,"
     publishedDateTime: 2022-07-20T18:15:00Z

@@ -71,6 +71,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Baidu halves production cost for latest self-driving vehicle"
+    excerpt: "Chinese search engine giant Baidu on Thursday released its new generation of autonomous vehicles with a production cost roughly half that of its previous Apollo Moon line. By continuing to browse this website,"
+    publishedDateTime: 2022-07-21T05:16:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Baidu-halves-production-cost-for-latest-self-driving-vehicle"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F8%252F4%252F6%252F41446481-5-eng-GB%252FCropped-1658378129.Baidu.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Aurora perfects the tech it takes to stop a self-driving truck"
     excerpt: "Driver shortages and increases in home delivery, commercial trucking and logistics could meawn lucrative applications for autonomous-vehicle technology if developers can prove that their self-driving technology is fail safe."
     publishedDateTime: 2022-07-20T16:50:00Z

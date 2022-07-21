@@ -9,8 +9,8 @@ ampWebUrl: "https://www.krem.com/amp/article/news/nation-world/as-ai-language-sk
 cdnAmpWebUrl: "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: KREM
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-18T18:06:00Z
-    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
-    ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "As AI language skills grow, so do scientists’ concerns about accuracy"
     excerpt: "Most of the tech companies that built them have been secretive about their inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation, racism and other harms."
     publishedDateTime: 2022-07-17T22:55:00Z
@@ -86,6 +70,17 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "As AI language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+    publishedDateTime: 2022-07-18T22:55:00Z
+    webUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
     excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
     publishedDateTime: 2022-07-18T03:18:00Z
@@ -108,6 +103,15 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 17
+  - title: "As AI language skills grow, so do scientists' concerns"
+    excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're"
+    publishedDateTime: 2022-07-21T04:27:00Z
+    webUrl: "https://www.butlereagle.com/20220721/as-ai-language-skills-grow-so-do-scientists-concerns/"
+    type: article
+    provider:
+      name: Butler Eagle
+      domain: butlereagle.com
     quality: 17
 
 secured: "/+j9OsRNYXZpcc26BYIad/x4PxoXU9UNBtuIQxKz/sZk0sa25fi8qo7qlhbhJWjNnomtmbOkgLZ7TRAIdJ4ps9D1J6N89n/hCrXpUUJ+I+y2u6inZNxCrfQzUTK5ydzXIsC0H4KCNESngxoTIzzcmbmzI/wyhDXzCnilro0r9fFwMW8SbAFHq70+4ehC7y2MWWgcI5IpM6wQZXmDCCy6718d70KC5pJ823yAw3n1lkg2qsm2r8ULZdhy+nolq9rEbQ1OLfsKYAhZ4v3yoguNK0Wxei0igl3sGa/7A6NsHC1H41h4Vha7jpWmsoI6ZO5rn1MUP3pDRAkEtJdLQWpUscRtz6nNOlRVNRAWu1TO5V8=;+HyABuBF7gFwJSKa6PMKlQ=="

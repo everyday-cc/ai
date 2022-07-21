@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
+      "originalUrl": "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TWDLDROC7VABDKAAOMFTLFUHNI.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?outputType=amp",
+      "publishedDateTime": "2022-07-21T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-the-future-of-ai-is-distributed-what-that-means.md",
+      "title": "The future of AI is distributed … what that means",
+      "excerpt": "Artificial intelligence and machine learning are disrupting every industry. Their impacts and integrations will only continue to grow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/distritubed-computing.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/amp/",
+      "publishedDateTime": "2022-07-20T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-unlocking-the-power-of-ai-with-decision-intelligencesynopsis.md",
       "title": "Unlocking the power of AI with Decision IntelligenceSynopsis",
       "excerpt": "With AI algorithms, organizations can remove a degree of human error from decision-making. Algorithms can bring new patterns, insights, and trends to ..",
@@ -10,7 +104,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -104,7 +198,7 @@
       "originalUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -148,49 +242,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-21-driving-smarter-customer-experiences-with-ai-and-machine-learning.md",
-      "title": "Driving smarter customer experiences with AI and machine learning",
-      "excerpt": "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
       "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
       "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
@@ -199,7 +250,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -345,7 +396,7 @@
       "originalUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -440,7 +491,7 @@
       "originalUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1161,50 +1212,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-good-finance-chooses-cyberlinks-facemer-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
-      "title": "Good Finance Chooses CyberLink's FaceMe(R) Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
-      "excerpt": "CyberLink's FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance's online banking customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912",
-      "originalUrl": "https://www.barrons.com/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912",
-      "publishedDateTime": "2022-07-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

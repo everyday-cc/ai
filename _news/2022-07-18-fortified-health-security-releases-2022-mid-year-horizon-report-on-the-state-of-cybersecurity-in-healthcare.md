@@ -34,15 +34,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "How Robots Can Take Up the Cybersecurity Fight"
-    excerpt: "“More importantly, as the latest developments in AI now start to reliably deploy systems that can start up and fully learn its environment in the way a skilled and experienced human does, AI can now deliver reliable and repeatable analytics with ..."
-    publishedDateTime: 2022-07-16T12:07:00Z
-    webUrl: "https://za.investing.com/news/how-robots-can-take-up-the-cybersecurity-fight-2585841"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 19
   - title: "Former Cybersecurity CEO Christian Espinosa Sheds Light on The Lack of Emotional Intelligence in The Tech Industry"
     excerpt: "With ‘The Smartest Person in The Room,’ Author Christian Espinosa aims to teach business leaders the importance of emotional intelligence and nurture it within their employees. Former Tech Founder & CEO Christian Espinosa has published his book titled ‘The Smartest Person in The Room."
     publishedDateTime: 2022-07-20T05:20:00Z

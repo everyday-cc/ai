@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T05:01:00Z
 originalUrl: "https://www.entrepreneur.com/article/431843"
 webUrl: "https://www.entrepreneur.com/article/431843"
 type: article
+quality: 5
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Startup Spotlight: AR Engineering Is Optimizing Digital Learning To Help Students Be More Job-Ready"
+    excerpt: "Through its subscription-based augmented reality learning app, AR Academy, the firm offers access to a catalog of three-dimensional engineering systems, it enables students to interact with and operate these systems from remote locations."
+    publishedDateTime: 2022-07-19T04:46:00Z
+    webUrl: "https://www.entrepreneur.com/article/431664"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 38
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1658205678-Untitleddesign-2022-07-19T083729167.png"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "SxlE9Lp0caMt/j3ryyP4GnAmAN+B6Lq0hJAHv7pbXDn9l5Cb3Bx9hEYe3VZ3Cfy5XiqjLvJL3nDh+lncGGwoJB2N+zYlBQvD/2A3Qb4uJT+gxQ3+BbY2NZ5hdgVVYyOhKs2EAD7mrtZDpqolA1CpakBs433s5lv8nnfSpLdaNwoC2vL/728px3EXDPXvvK5kdmmqdXckadyVaYqrE8VOU1At8RgkRwJnlgQiA0clGnHziNVUtZtdbQkKFF7sGJJcthYlH76Z+7az48G8FOZMb7STulc/dN5UXeT5JgE40EdR+A0ja//CEg23f3OTxuyKVYe16M1YT/zgyU7tPaX9UR30HjDFFUxNKRq6MFtJtY5CJDQoycsc8MKWCauBV42VfST2lGHJCRuWqSTEIxGF6xWfBEcPWdQtgAjOYHITHlaa8iUTvNbQj9AbjkOwBd8Y8GGUAYlOpdq14wDI7d3HompzENOL4/GBLeBF9WSL2V6BDjLFBEoAXn11ORAMC4Ye1CDhvEzjETowQAJ6Z1BhUg==;h7pAGFzEhrW3TTPOkpPoQg=="
 ---

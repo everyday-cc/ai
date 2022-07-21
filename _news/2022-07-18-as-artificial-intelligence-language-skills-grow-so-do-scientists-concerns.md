@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-18T18:06:00Z
-    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
-    ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "As AI language skills grow, scientists worry about accuracy"
     excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
     publishedDateTime: 2022-07-17T18:24:00Z
@@ -100,6 +84,17 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "As AI language skills grow, so do scientists’ concerns"
+    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+    publishedDateTime: 2022-07-18T22:55:00Z
+    webUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "As AI language skills grow, so do scientists' concerns"
     excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel"
     publishedDateTime: 2022-07-17T14:32:00Z
@@ -108,6 +103,15 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 17
+  - title: "As AI language skills grow, so do scientists' concerns"
+    excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're"
+    publishedDateTime: 2022-07-21T04:27:00Z
+    webUrl: "https://www.butlereagle.com/20220721/as-ai-language-skills-grow-so-do-scientists-concerns/"
+    type: article
+    provider:
+      name: Butler Eagle
+      domain: butlereagle.com
     quality: 17
 
 secured: "1cgJaxKj9ZcTL4/IoZ2F3jFLpidbKt3Zm8ah1HEy35VdZc1CiHA4vxLeY2yje+uMYt5vhakdA8u6rKh0mK+JEFj9mrlVher1ZPEgEWCOucv4LqdnvvtsdqCF0ZKDiR4pWDgOgTZ9prZymZ9XT+WHQXBzDawzu7ZpP6frih81nETXJHFbBajV5RQ3t2eNsnauhQPf8kxjBZnBhaI82ie6ZmSKo/dOQ22J/gg1ewE6gvH+h8sed2TXl5kwsOdbeFQFuzR4EHBzr/7ES9ut0G3TKW0xH96BWyOIqvEMs4Egkwu1ndjGERmCDQLQnSD16wnx/0OqYi/X9K0Aqyu1TVhLb4VIvV2TFgw2TEN2Jd6CaPw=;GVyJil8FfZRzJLAk49qfqQ=="

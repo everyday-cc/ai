@@ -130,6 +130,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Oracle partners with Microsoft to offer database service for Azure"
+    excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
+    publishedDateTime: 2022-07-21T06:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
     excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."
     publishedDateTime: 2022-07-19T15:00:00Z

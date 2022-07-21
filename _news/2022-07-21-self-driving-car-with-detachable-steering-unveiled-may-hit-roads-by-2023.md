@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
-    excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."
-    publishedDateTime: 2022-07-21T03:08:00Z
-    webUrl: "https://techwireasia.com/2022/07/baidu-unveils-autonomous-vehicle-without-steering-wheel-to-be-operational-in-2023/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 33
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6-Exterior117223-scaled.jpg"
-        width: 2560
-        height: 1710
-        isCached: true
-
 secured: "1o7VD244Lo0dxUXPmGALbo0CrcbQv6ik63iG2zxq0dSkReBY11td8/hCiN1KTt9BZYc/jHf48FefYTSg68R7BLRSXRzqv/9qEHK0LxOcrHww70rKHoYtVmkbExulx/vP2U8vx4FSjVrOJUA2zdsQFr+QHizgFVP3o0LyWVQqDfJZuHA+SJoCo5u/WbmV19uvGPFXsUef6T5KYOIwvaPZ+Dt+3IJ4tTORdJjQ8PEJBSvd+rKs9pwHQLxOS7AAWl99c+4W83yQWfU/eTgqCL8h+/Cl6nBBEpjj5m/QLicRIs/LrHT3GB1qprp2UighJHO71qKuLoeIeQ07+eTA1FjFLMRSvVTC9LZtGK+gg/rD4PM=;cR3wNSQmbI9634tf/zDlvg=="
 ---
 

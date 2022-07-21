@@ -82,15 +82,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Meta Showcases Its AI-Based Image Generation Tool"
-    excerpt: "Meta has showcased an image generation tool called Make-A-Scene that requires users to provide a text-based prompt as well as an initial sketch of what they want to create. \"Prior state-of-the-art AI systems that generated awe-inspiring images primarily used a text description as input,"
-    publishedDateTime: 2022-07-16T13:35:00Z
-    webUrl: "https://www.pcmag.com/news/meta-showcases-its-ai-based-image-generation-tool"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
     excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
     publishedDateTime: 2022-07-20T18:31:00Z

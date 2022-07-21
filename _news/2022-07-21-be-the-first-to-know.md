@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Be the first to know"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle. The company says the Apollo RT6 will be soon be part of its"
-publishedDateTime: 2022-07-21T03:51:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_a161d8fd-ca01-571e-b121-6b559677de74.html"
-webUrl: "https://omaha.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_a161d8fd-ca01-571e-b121-6b559677de74.html"
+excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... technology globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-21T07:04:00Z
+originalUrl: "https://www.stltoday.com/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html"
+webUrl: "https://www.stltoday.com/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "DfK62k/j5PrpMTzmwmqS6VJd7bvJDK/4EkRKeLTUuwR6XhbgYz3M8Ada5oplJN8llf0LXG0IPaW1+YsM4pzglNEMc/4Ye73XhnBzsB7paDCxUkjmx2xQ1Uj59cQxeZKkmwKBXhlSy+dKcJ46iqejU6ZrBVoHle0R+a6DUSwodao2Gqd8n4Zar6SF1qNeE828p8+w9cmW8Pc3/VrQWV2oAuQmLmKPAPQ81W1rMgrP/YLUZ7p9TzQj3jXK1lXEJApBXLyxWloKTxbwjp/63MGEsnmQp8BFCXBrpZdROOOaEDln0mKJf9V+HMKhcM6iVr2anLtrZB9Nio47F29GlyC8F2XTeX5agUTonIVp6Dnjvxh7gi4Gui2YDkwFTDN1TphXhmTiAt+QJQOLrsxCzvdtHim1P5CeS/HkYREorFnh9T+2nAA96TRK33Iw/v9CfsgC7juwszSMhqyzv66de921io3U+DJVikYnf1rOMT3AHOg0ME/l+MyhK2C3Pxm1MNPVH4fLDAOAoPUfZRw+ls07pQ==;VNeYTGn9kr+SjrD8Jqisjw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/27/b2700883-2471-525d-9575-4bcde9856099/62d8d2d8b5db0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "T7dx4S/l9gr+NMBJ2QfHXCPvXR7OzdBJGW293jqO7pHD942dH0tNhWgyRPmkUGAte0EZEZoGl/8j9V2LjAYJrG2GsVyotoWlZZmCyKYlWslk0n5FlDLpL4PSKXsxiO31dVvi9Cks3sWzAMqiPihFnvzq6bB2Ws7yzJvYdTtK2vPDE3IoShFr68LM505IHQ14Kgkwzo8PphGsgi1Gd5sVehAljErJZK0DOUU038Uu72fUXuvPSAm3JdrrJhvZP9Q7/hhV6q8bjrdhxDgP4hGaGU9LYMf3HYtdhVaD0VM3UsqCD6j0XoZ0F7YYFib8gnFuSnG8MoR8fOfnO09Emm67bwY5TeBvJkw1/Hdj1UQ9vzA=;+Mh6ILMmAOmqKx241yYvnw=="
 ---
 

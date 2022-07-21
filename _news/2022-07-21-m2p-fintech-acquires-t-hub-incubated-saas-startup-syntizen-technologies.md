@@ -49,6 +49,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "M2P Fintech Acquires Syntizen, Its Third Acquisition This Year"
+    excerpt: "Financial infrastructure provider M2P Fintech acquired Syntizen, an identity verification service provider. As part of the deal, Syntizen’s Co-Founder and CEO, Vamsi Kotte, will take up a senior product leadership role at M2P."
+    publishedDateTime: 2022-07-21T06:04:00Z
+    webUrl: "https://www.outlookindia.com/business/m2p-fintech-acquires-syntizen-its-third-acquisition-this-year--news-210852"
+    ampWebUrl: "https://www.outlookindia.com/business/m2p-fintech-acquires-syntizen-its-third-acquisition-this-year--news-210852/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/m2p-fintech-acquires-syntizen-its-third-acquisition-this-year--news-210852/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 24
   - title: "M2P Fintech Pushes Video KYC With Syntizen Acquisition"
     excerpt: "M2P Fintech has acquired Syntizen, known for its onboarding and identity verification solutions, to round out its technology portfolio"
     publishedDateTime: 2022-07-20T19:16:00Z

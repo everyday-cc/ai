@@ -55,6 +55,15 @@ related:
         width: 708
         height: 419
         isCached: true
+  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
+    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
+    publishedDateTime: 2022-07-21T03:04:00Z
+    webUrl: "https://www.newswit.com/en/Lin4"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 2
 
 secured: "Ra62ZbOJHPOoLj6Jpc/vhUqo05Ozg1IDdMH7OlgadZAweo4TF4qWTKBHyzYQMJwmPkUfexxhuCr82o0RwJTPyqerhmUWM5mowA0nfUgFikbzPYxXt96KQop4r30LLu2MeUmYjTcFEvkqjFyQ96OTEGZt7t2M51Ro32xQheCt/WxlP0sRakLRRnvKNamkAS6vnwLriA0iiJ8wjpgRa2GsVPYInWTU7/6dxL0BJ67xm3Fo5uyyV7TjQaDi3H0oFYnEbtj8uBXEsysbrD+chfTKQXzMjTZ5fAMmxFgbMsqCPP476oVD0wBKzR9SAN8zQsA4ApHuMU4YyDvHNvxdiwfTC3dDMzCO/hqBNqmDkE+s3l8=;CBpt7TITyXa+iubveAElzg=="
 ---
