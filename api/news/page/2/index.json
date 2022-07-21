@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-19-can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies.md",
+      "title": "Can Tom Siebel Fulfil His Vision To Make C3 AI One Of The World’s Next Great Software Companies?",
+      "excerpt": "Founded in 2009 long before the wide adoption of either the Cloud or AI by legendary Silicon Valley entrepreneur and billionaire Tom Siebel, C3 provides an open model-AI architecture that simplifies data science and application development to offer an end-to-end platform for deploying AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d6c84fe0962dd880f269bb/0x0.jpg?format=jpg&crop=500,282,x0,y11,safe&width=1200",
+          "width": 500,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
+      "publishedDateTime": "2022-07-19T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
+      "title": "Gmail is getting a machine learning boost for smarter searches",
+      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
       "title": "Localize content into multiple languages using AWS machine learning services",
       "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
@@ -1110,111 +1213,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-building-a-business-case-for-zero-trust-multicloud-security.md",
-      "title": "Building a business case for zero-trust, multicloud security",
-      "excerpt": "Building a business case for securing multicloud configurations needs to surpass the costs and benefits, while recognizing that public clouds lack advanced zero-trust features and unified reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/zero-trust.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
-      "publishedDateTime": "2022-07-18T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation.md",
-      "title": "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation",
-      "excerpt": "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "publishedDateTime": "2022-07-18T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

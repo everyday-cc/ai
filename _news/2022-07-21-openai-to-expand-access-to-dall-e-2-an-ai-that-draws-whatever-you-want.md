@@ -66,6 +66,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Now turn words into art! New AI tool DALL-E transforms descriptions into artworks"
+    excerpt: "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday. Artificial intelligence research firm OpenAI is conducting a wide-scale beta test of DALL-E,"
+    publishedDateTime: 2022-07-21T03:34:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-turn-words-into-art-new-ai-tool-dall-e-transforms-descriptions-into-artworks/articleshow/93018009.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-turn-words-into-art-new-ai-tool-dall-e-transforms-descriptions-into-artworks/amp_articleshow/93018009.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-turn-words-into-art-new-ai-tool-dall-e-transforms-descriptions-into-artworks/amp_articleshow/93018009.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-64810,msid-93018037/image-2022-07-21t085916-551.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Meta Showcases Its AI-Based Image Generation Tool"
     excerpt: "Meta has showcased an image generation tool called Make-A-Scene that requires users to provide a text-based prompt as well as an initial sketch of what they want to create. \"Prior state-of-the-art AI systems that generated awe-inspiring images primarily used a text description as input,"
     publishedDateTime: 2022-07-16T13:35:00Z

@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-14-google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation.md",
+      "title": "Google Open-Sources Its TensorFlow GNN Framework to Encourage Graph Neural Network Productization and Experimentation",
+      "excerpt": "Graph Neural Networks (GNNs) that operate on graph-based data bring multimodal capabilities to machine learning models and have practical applications in areas as diverse as the modelling of physics systems,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
+      "originalUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
+      "publishedDateTime": "2022-07-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire.md",
+      "title": "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)",
+      "excerpt": "Gestalt Diagnostics, Inc., a leading provider of digital pathology solutions, announces the availability of their Artificial Intelligence Requisition Engine (AIRE). AIRE drastically improves speed and accuracy over time-consuming,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-mike-shinoda-backs-a-startup-that-lets-you-do-video-calls-as-nft-avatars.md",
       "title": "Mike Shinoda backs a startup that lets you do video calls as NFT avatars",
       "excerpt": "As I speak to Tong Pow over Google Meet, he appears as a cartoon medieval-helmet-clad cat that talks and bobs its head, mirroring Pow’s movement behind the webcam. The visor may be hiding a Cheshire cat grin because Pow has raised $6.",
@@ -1088,100 +1175,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-a-case-study-on-how-to-succeed-as-a-deep-tech-start-up.md",
-      "title": "A Case Study On How To Succeed As A Deep Tech Start-Up",
-      "excerpt": "No problem is too complicated that software cannot solve, either now or in the future. So why not focus on solving the world's biggest problems? That's the promise of Deep Tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
-      "originalUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cf0d03b5d34c2eec4c2945/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
-      "publishedDateTime": "2022-07-13T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-xpeng-robotics-brings-in-100m-for-its-quadruped-robot.md",
-      "title": "XPENG Robotics brings in $100M for its quadruped robot",
-      "excerpt": "XPENG Robotics' first product will be a quadruped robot with autonomous navigation, and equipped with a robotic arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/",
-      "originalUrl": "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/07/featured-web-XPENG.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

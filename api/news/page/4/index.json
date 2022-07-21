@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-16-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
+      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
+      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "originalUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "publishedDateTime": "2022-07-15T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
+      "title": "How artificial intelligence (AI) affects business executives",
+      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "publishedDateTime": "2022-07-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
       "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
       "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers. © 2022 Fortune Media IP Limited. All Rights Reserved. Use ...",
@@ -1092,93 +1188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation.md",
-      "title": "Google Open-Sources Its TensorFlow GNN Framework to Encourage Graph Neural Network Productization and Experimentation",
-      "excerpt": "Graph Neural Networks (GNNs) that operate on graph-based data bring multimodal capabilities to machine learning models and have practical applications in areas as diverse as the modelling of physics systems,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
-      "originalUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
-      "publishedDateTime": "2022-07-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire.md",
-      "title": "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)",
-      "excerpt": "Gestalt Diagnostics, Inc., a leading provider of digital pathology solutions, announces the availability of their Artificial Intelligence Requisition Engine (AIRE). AIRE drastically improves speed and accuracy over time-consuming,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-21-baidu-reveals-the-next-gen-robotaxi-that-will-be-deployed-throughout-china.md",
+      "title": "Baidu reveals the next-gen robotaxi that will be deployed throughout China",
+      "excerpt": "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/",
+      "originalUrl": "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/",
+      "publishedDateTime": "2022-07-20T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-tesla-surpasses-35-million-miles-driven-on-full-self-driving-beta-pace-is-ramping-up.md",
       "title": "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, pace is ramping up",
       "excerpt": "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
@@ -952,49 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-07-baidu-teases-progress-of-its-ai-and-self-driving-tech.md",
-      "title": "Baidu teases progress of its AI and self-driving tech",
-      "excerpt": "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10",
-      "originalUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220707vl201_files/2_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-07-future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person.md",
       "title": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person",
       "excerpt": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person. Future AI, an artificial general intelligence (AGI) company developing \"Technologies that Think,",
@@ -1079,6 +1088,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-baidu-teases-progress-of-its-ai-and-self-driving-tech.md",
+      "title": "Baidu teases progress of its AI and self-driving tech",
+      "excerpt": "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's metaverse space Xirang.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10",
+      "originalUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html?chid=10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220707vl201_files/2_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1328,58 +1380,6 @@
         "name": "The Sun",
         "domain": "thesun.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-driverless-cruise-robotaxis-stop-working-simultaneously-blocking-san-francisco-street.md",
-      "title": "Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street",
-      "excerpt": "A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation. Cruise, which is backed by General Motors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
-      "originalUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/vSc5PYoYxxqOvEWljQwateFk-sY=/0x92:2202x1245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23665440/Screenshot_2022_07_01_at_11.47.43.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

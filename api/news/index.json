@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-21-unlocking-the-power-of-ai-with-decision-intelligencesynopsis.md",
+      "title": "Unlocking the power of AI with Decision IntelligenceSynopsis",
+      "excerpt": "With AI algorithms, organizations can remove a degree of human error from decision-making. Algorithms can bring new patterns, insights, and trends to ..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93017767,imgsize-374886,width-1200,height-628,overlay-etcio/unlocking-the-power-of-ai-with-decision-intelligence-synopsis.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
+      "publishedDateTime": "2022-07-20T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-baidu-reveals-the-next-gen-robotaxi-that-will-be-deployed-throughout-china.md",
+      "title": "Baidu reveals the next-gen robotaxi that will be deployed throughout China",
+      "excerpt": "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/",
+      "originalUrl": "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/",
+      "publishedDateTime": "2022-07-20T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-tesla-surpasses-35-million-miles-driven-on-full-self-driving-beta-pace-is-ramping-up.md",
       "title": "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, pace is ramping up",
       "excerpt": "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
@@ -105,7 +199,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1111,109 +1205,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies.md",
-      "title": "Can Tom Siebel Fulfil His Vision To Make C3 AI One Of The World’s Next Great Software Companies?",
-      "excerpt": "Founded in 2009 long before the wide adoption of either the Cloud or AI by legendary Silicon Valley entrepreneur and billionaire Tom Siebel, C3 provides an open model-AI architecture that simplifies data science and application development to offer an end-to-end platform for deploying AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d6c84fe0962dd880f269bb/0x0.jpg?format=jpg&crop=500,282,x0,y11,safe&width=1200",
-          "width": 500,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
-      "publishedDateTime": "2022-07-19T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
-      "title": "Gmail is getting a machine learning boost for smarter searches",
-      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
-      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

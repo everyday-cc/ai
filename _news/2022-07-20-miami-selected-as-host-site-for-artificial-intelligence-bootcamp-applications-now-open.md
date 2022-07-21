@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Miami Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+title: "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "Argo AI is one of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-publishedDateTime: 2022-07-19T22:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-miami-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/19/9641614.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-miami-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/19/9641614.htm"
+publishedDateTime: 2022-07-19T20:37:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-miami-artificial-intelligence-mark-cuban-64686b12a30f0bc5b8d31140f04de55b"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-miami-artificial-intelligence-mark-cuban-64686b12a30f0bc5b8d31140f04de55b"
 type: article
-quality: 8
-heat: -1
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamps – APPLICATIONS NOW OPEN!"
@@ -33,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "V5WNiEBw4F9dAUZ28oFuTCbQn1uBWjdoWqzZxJ5GJYrY07fKBrVsHM3/qQXptIKrurGcMGkpkdYCnQzl8uWZWo3BpTunMGwCA/tSN63pnkwpBQnzVCANrqBHkPJx6XW9Qa2EMkjF6jElXETrlt4nGKTYcaWsngLm1XpXa96qfU0yQzBlf54PVGdmRr757Hx3YtVUvofcdTJ2fEHVQtufPRYQofuUO2fxOIjJ8WA07QZU5Q1Vvu36RX71iNYGE5MFr8RaT2M7w2EL+z+0a/gBqbpHt2QgKFvsUS/proqAMFEoqizm7J78KgLZxqu2ZVN6FYd9NjygThSmcDm2o+lLZkEVwBmq8J6vWh8Sxvw0nio=;Zqrd55AucgcdPGjwmd6R6g=="
+secured: "fa7YkUpGTjNQUSj8BMmMh7i4yuxvvMr4EbjKE8A5bZliyOaBkuzouoiat6D8QeBDYQceXiKN+eJ9QPyHTHUKZUzQ2U0wQWvO6Umu1i1yjVUiOG4olgrnfY4ECFPJPtBkWysrWfooRGpIwzqd0FXKCBXFThOoMR3w9IWqXR/Uf8vRIjbNpKr3QA1KQg2SotPBuX4spO4TVXLbrpNDF0jAhtAQCMnq/Oa7bnfZuofyDG9PLOEYboidf2IW/M3ZuQpl5QAM7LJ98JMP/ORduj2i4IdiGs6cGFiCanUMqfzI5lOET7N/EvBv4JOvR0GE93J5NeYMeflvi9yVMGq454/dXvEiGW9qKSIBoLzJQqKK1ug=;k3XFaPhbsMjgpAUH6OsUpw=="
 ---
 

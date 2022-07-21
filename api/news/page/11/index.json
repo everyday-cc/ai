@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-08-artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report.md",
+      "title": "Artificial Intelligence(AI)Chips Market 2022, Risk Analysis & Macroeconomic Trends Market Research Report",
+      "excerpt": "The global Artificial Intelligence(AI)Chips market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). The robust analysis of the Artificial Intelligence(AI)Chips is structured using a combination of primary and secondary factors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-the-role-of-ai-ethics-in-network-monitoring.md",
+      "title": "The Role of AI Ethics in Network Monitoring",
+      "excerpt": "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "originalUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-liberty-lending-is-now-reach-financial.md",
       "title": "Liberty Lending Is Now Reach Financial",
       "excerpt": "Company also closes its 4th securitization, surpasses $1 billion of loans facilitated on its platform, and announces Daniel Tilipman as Chief",
@@ -369,49 +464,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-baidu-teases-progress-of-its-ai-and-self-driving-tech.md",
-      "title": "Baidu teases progress of its AI and self-driving tech",
-      "excerpt": "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10",
-      "originalUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220707vl201_files/2_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1115,57 +1167,6 @@
         "name": "Mid Day",
         "domain": "mid-day.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ibm-snaps-up-data-observability-specialist-databandai.md",
-      "title": "IBM snaps up data observability specialist Databand.ai",
-      "excerpt": "The acquisition will help IBM address the “full spectrum” of observability, as well as capitalise on predicted market growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

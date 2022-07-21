@@ -2,6 +2,177 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-05-31-how-artificial-intelligence-ai-can-help-detect-wildfires.md",
+      "title": "How Artificial Intelligence (AI) Can Help Detect Wildfires",
+      "excerpt": "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
+      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
+      "publishedDateTime": "2022-05-31T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-has-robotics-changed-manufacturing-technology.md",
+      "title": "How Has Robotics Changed Manufacturing Technology?",
+      "excerpt": "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm",
+      "originalUrl": "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2022-may/9384508427-robot-2791671_960_720.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-depressed-this-algorithm-can-tell-from-the-tone-of-your-voice.md",
+      "title": "Depressed? This algorithm can tell from the tone of your voice",
+      "excerpt": "Mental health issues have come into a clearer focus amid the pandemic. Depression became endemic, but it still too often goes undetected. Even when it does, health care providers struggle to meet demand.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
+      "originalUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1243567776.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
+      "publishedDateTime": "2022-05-31T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-amazon-to-develop-new-consumer-robotics-software-development-centre-in-india.md",
+      "title": "Amazon To Develop New Consumer Robotics Software Development Centre In India",
+      "excerpt": "The Indian centre will help support Amazon's international Robotics division, which launched its first robot Astro last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "originalUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/Astro.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "publishedDateTime": "2022-05-31T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
       "title": "A3: robot sales in North America continue record increase into 2022",
       "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
@@ -946,160 +1117,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary.md",
-      "title": "IQ-AI surges after US FDA submission by Imaging Biometrics subsidiary",
-      "excerpt": "Imaging Biometrics' patented artificial intelligence technology eliminates the need for gadolinium-based contrast agents in MRI exams",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
-      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIxLTAzLTA0LTA3LTM4LTA3LTBiMTFlNzhiYTY5OWY1ODU4MDAzZTNhMTFjOWYwOGFiXzYyOTVkMGYzNTAwNDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/983674",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/983674",
-      "publishedDateTime": "2022-05-31T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales.md",
-      "title": "Henson Group and Ingram Micro Cloud Align to Deliver $100M+ in Azure Sales",
-      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
-      "originalUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellensburg Daily Record",
-        "domain": "dailyrecordnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
-      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
-      "excerpt": "Inspur information, a leading IT infrastructure solutions provider, and MEGWARE, a high-performance computing (HPC) solutions provider in Europe, combined efforts to bolster the scientific research capabilities of the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) through its Erlangen National Center for High-Performance Computing (NHR@FAU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-industrial-robot-controllers-market-is-expected-to-exceed-us-16571-mn-by-the-end-of-2029.md",
-      "title": "Industrial Robot Controllers Market Is Expected To Exceed US$ 1657.1 Mn By The End Of 2029",
-      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
-      "originalUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

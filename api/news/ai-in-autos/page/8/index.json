@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-31-the-role-of-artificial-intelligence-in-todays-digital-advertising.md",
+      "title": "The role of artificial intelligence in today’s digital advertising",
+      "excerpt": "According to The Insight Partners’ analysis, the worldwide Artificial Intelligence in the marketing sector is estimated to reach US$ 107,535.57 million by 2028, growing at a 31.6% compound ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "originalUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Manu-Gupta-ET-Medialabs.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "publishedDateTime": "2022-05-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-humans-close-to-losing-autonomy-to-artificial-intelligence.md",
       "title": "Humans Close to Losing Autonomy To Artificial Intelligence?",
       "excerpt": "The biggest change of artificial intelligence will be the loss of autonomy of the human being and by extension of governments. What I mean to say is this: a self driving car is better because it ...",
@@ -1283,41 +1326,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search.md",
-      "title": "Westwin (formerly Microsoft Online) launches new English language SEM solution for Baidu paid search",
-      "excerpt": "Recently Westwin (formerly Microsoft Online) is proud to announce the launch of SEM.Wreach.net – enabling non Chinese speakers to run paid search campaigns on Baidu. Wreach SEM will form part of Wreach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

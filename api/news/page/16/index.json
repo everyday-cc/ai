@@ -2,6 +2,187 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
+      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
+      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
+      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought.md",
+      "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
+      "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
+      "sourceUrl": null,
+      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
+      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/f/8d/f8d59b3b-963b-5800-bbdc-0c1c29f65abe/62bc9a94703e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
+          "width": 610,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid City Journal",
+        "domain": "rapidcityjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-to-organisations-through-azure.md",
+      "title": "CWallet, Microsoft Qatar partner to bring latest fintech services to organisations through Azure",
+      "excerpt": "Under the new agreement, CWallet will leverage a number of Microsoft products and services including, but not limited to, Azure Machine Learning, Cosmos DB, Power BI, Kubernetes, Application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi",
+      "originalUrl": "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gulf-times.com/Content/Upload/Slider/720222201945358555002.jpg",
+          "width": 620,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-sound-and-word-recognition-for-android.md",
+      "title": "Sound and word recognition for Android",
+      "excerpt": "This tutorial shows you how to use TensorFlow Lite with pre-built machine learning models to recognize sounds and spoken words in an Android app. Audio classification models like the ones shown in this tutorial can be used to detect activity, identify ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/tutorials/audio_classification",
+      "originalUrl": "https://www.tensorflow.org/lite/android/tutorials/audio_classification",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-the-key-to-quantum-computing-ai-applications-flexible-programming-languages.md",
       "title": "The key to quantum computing AI applications: Flexible programming languages",
       "excerpt": "When enabled by flexible AI programming languages, quantum computing performs AI calculations much faster, and at a greater scale.",
@@ -948,159 +1129,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-an-artificial-intelligence-probe-to-help-see-tumor-malignancy.md",
-      "title": "An artificial intelligence probe to help see tumor malignancy",
-      "excerpt": "Tumor malignancy identification plays an essential role in clinical management of cancer. Currently, biopsy is the gold standard for malignancy identification in most tumor cases, it is, however ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/an-artificial-intellig.jpg",
-          "width": 1888,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
-      "publishedDateTime": "2022-07-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-five-ways-to-promote-brain-health-slow-cognitive-decline.md",
-      "title": "Five ways to promote brain health, slow cognitive decline",
-      "excerpt": "Age is the greatest risk factor for Alzheimer's disease. In fact, 1 in 3 seniors age 85 and older will have Alzheimer's disease. While some brain changes are inevitable as we age, there is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
-      "originalUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
-      "title": "Cognitive impairment predicts outcomes for ICU survivors",
-      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
-      "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

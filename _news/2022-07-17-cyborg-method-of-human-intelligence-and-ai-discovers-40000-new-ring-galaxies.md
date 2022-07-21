@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-a
 webUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-and-ai-discovers-40000-ring-galaxies"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 708
     height: 419
     isCached: true
+
+related:
+  - title: "Unlocking the power of AI with Decision IntelligenceSynopsis"
+    excerpt: "With AI algorithms, organizations can remove a degree of human error from decision-making. Algorithms can bring new patterns, insights, and trends to .."
+    publishedDateTime: 2022-07-21T03:13:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93017767,imgsize-374886,width-1200,height-628,overlay-etcio/unlocking-the-power-of-ai-with-decision-intelligence-synopsis.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Genesis launches AI intelligent quantitative products"
+    excerpt: "Recently, Genesis has launched AI intelligent quantitative products. GENESIS uses AI intelligent quantitative products to apply artificial intelligence technology in various fields, logic mathematics,"
+    publishedDateTime: 2022-07-20T16:47:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-5723460754de3c7ce61d152c61b4a1d3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Jbt30T00r/5oU5sh1t2EWXBkADhdIg1dbGuP66+kp8OwedLZ/aMRuRoJm+yo9duKpaNfbPH9vUL5l1iBu7yPG1Qum06ga/5YY6DJA+/NOdC6vFieb8SIP3D9g+fXgTBMrMbbnGcX3zxlbszei/OwBsapKIcGe7KB9WhWtNPmeh7LVUZGsvE4yZBHGalVkOyDCv1tmr9Tifi3r8eMrT/N6eB7wgyvb8isjfwjBxqdKPN6x4qz8D6dDSCGj4RyPjJFUO8lmxMCFo6FCTXH/X/fTYs4Wr3EWw7pkydr5meZeExNYJbfxygdb1nCphCtzeeuLJrUDVvaggbGRCKG9XZdrvX5Enx8zXCfcD5ULNGz8J4=;N769LV5MrhGe5m3aKucaLQ=="
 ---
