@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/07/aideal-hwa-J9LDdCPkxfI-unsplash-e1657915844880.jpg?w=1200&strip=all"
         width: 1200
         height: 539
+        isCached: true
+  - title: "6 AI innovations for those aging in place"
+    excerpt: "The New York Office for the Aging recently partnered with ElliQ by Intuition Robotics to bring empathetic care companions into the homes of hundreds of seniors aging in place across the state. The robots proactively engage in conversation first,"
+    publishedDateTime: 2022-07-20T20:10:00Z
+    webUrl: "https://www.reviewed.com/accessibility/features/6-ai-robot-products-aging-place-home-care"
+    type: article
+    provider:
+      name: Reviewed.com
+      domain: reviewed.com
+    quality: 37
+    images:
+      - url: "https://reviewed-com-res.cloudinary.com/image/fetch/s--P1ct9kcx--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1658333804962/ai_hero.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3uMJFeDw2zmi4oA/hBFVQOpi9+lr7M3f9Jl4P8tYNIHFw3C4y9d5RfIWeM72EybzYTY0WmZsIlalPpXYcrvd1EgKGKQv403DLGepdvOmYqsiUnd6jmg4JiDdRFNyQSXqz+YwdR24f2gLWV+UFSxyWib2ggiOV8Q8a6jQbmB9WBwQD/K/vJyAc84P7zdRTWS+EYNyZ5OdxHGL3vlik0H2CEFFBeV6BCLd34rhmmuJiLH2ZyO60SpRuaha+WgJXTI8ujOOAYlJNtgsxvE00IOJg3qB4uZ/6AYO5fkapQ219F8pD2TddKgRQOQRXlIjg6uot4BDKhxpyA/bAPCpTDQqtMwIQ4U3PMg5uIDOQvShGqLSc3AHXVUBxRNy7WmV4XZYXZPpyLTADaMI3OPcvOWWq8hu9t8PtmY3+Ux/8yzSAB+ZiBEalnZfsZzSL0yAiTMbB93FV4SGuPGU3tcKq/u+5/JeTvBB7e06hmRgur663No2/5/Nhb0nTGiK2K7x5O/CZW5PpAAZUndL1T9tJYrdMg==;TKTC/Gsf0CYfsNi3ykgH3w=="

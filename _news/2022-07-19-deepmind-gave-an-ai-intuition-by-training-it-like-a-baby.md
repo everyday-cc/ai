@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1"
 type: article
 quality: 74
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "Alums From Google DeepMind Want to Bring AI Energy Controls to Industrial Giants"
-    excerpt: "It's relying on the same fix as their former company, DeepMind, Google's research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data centers, ultimately shaving huge chunks off the company’s ..."
-    publishedDateTime: 2022-07-16T06:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alums-from-google-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants-71657886493958.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/07/15/1600x900/Spent-Nuclear-Fuel-0_1657889798932_1657889798932_1657889836122_1657889836122.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "i5A+KF6IlpCRFH7hRDyH8ayp76zMbCEgh2VA2vLdpc3p5hLvHxoKh1v+6V9vbtQo4NowD4cCQoQxU6WTtveYc07K8ifZBjGIrpaDPvtYoov1gTAdGwu6YZRr5jJmUTC9DFaBukDxkdmL85ET5feg6VeoyiITlu7e7vovONISq0ZgYOrs0rInIv3S3ZK+exqIxvkY9b+jcu/OYY+OtFc5HhnD6E/R+zaXrQARsgXWbkAnHindcbdVaYpZub23CtZSI15o85Cf9txYcOX6fCUVRdVYrAT4G2SFIJOCK2lprAqocnNrfsX5ovnkvVXh59kEBpIcO/8LaWxU8mNEkbLvaoPEyv7xJUj03l6SvTg0WySY7JM/1iWdJ6sJjiyqD0ZWjv2kyMeEoH2HNT7Ro7mOok+SpV9tH/NDJuemg4COuEq6G0NGsdBLU3nQXRYetYosdEYJgXPnOqA7KWCADbYNwlkLiszZB34YShgrB/kU2md44OJfAd8rJQSm9HZnW+bMCmTEn8+TfIqDIHgb6LR+ag==;gIklqXQ2F+ZeRO99CSStHg=="
 ---

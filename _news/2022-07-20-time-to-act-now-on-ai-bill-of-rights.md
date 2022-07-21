@@ -65,22 +65,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Artificial Intelligence may be the future but treat it with care"
-    excerpt: "Allocating investments to AI is a leap of faith. But this tech revolution will not be reversed, no matter how disturbing some may find its possible consequences."
-    publishedDateTime: 2022-07-16T07:02:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/investing/article-11018463/Artificial-Intelligence-future-treat-care.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-11018463/amp/Artificial-Intelligence-future-treat-care.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11018463/amp/Artificial-Intelligence-future-treat-care.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/07/15/23/60323993-0-image-a-37_1657923715986.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Deciphering The Future Of Robotics And Automation"
     excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
     publishedDateTime: 2022-07-19T14:25:00Z

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, and pace is ramping up"
+    excerpt: "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven, and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-07-20T21:15:00Z
+    webUrl: "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 80
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-FSD-Beta-miles-driven-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Over 100,000 Tesla drivers have access to the Full Self-Driving (FSD) Beta"
     excerpt: "Tesla has revealed that its Full Self-Driving Beta is in the hands of 100,000 users. Tesla vehicles are becoming increasingly popular as we get closer to an all-electric future. In addition to ditching gasoline,"
     publishedDateTime: 2022-07-20T21:17:00Z

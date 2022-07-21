@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication"
-publishedDateTime: 2022-07-20T10:41:00Z
-originalUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
-webUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
+excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
+publishedDateTime: 2022-07-20T10:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_966.jpg?h=7de12b8a&itok=V6tWttvy"
-    width: 600
-    height: 316
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "iP4hzY3/dGKnFxMLbe0FhTz0oEkiq1J9RMuyeBJ9Z7Pt2QhyQy1b+Xw6BvdhB3qbG+A7O9q0BV5GtJd+E54HZVX+nNzfRW2fxP2Bdy1c3VbkKwCp780TpbEJ3F60Mud6r/3fsZIXQKEifAlLNX3mLVbjqsRNso05+I2QjrYNr+kuuDQLIUw2xiWQwCVwknAe9eSWSKU6ghtOHsd7Hiwk5kcptNBHILG79/W891Wqq9svDSED0YmGgJrQRByi/P18E3n7DOgu/VsTxeGTgP14HRJtrbWdgjkWPbYFBijKdhqH31+fuZOiUTUkTPQECeYpENy/oKDac0pWTPHRE9nHfi6OPk7YnagWvtIaVAv/ozE=;Yiza9/JowEEPYnk+cTYjEg=="
+secured: "BXU8wau3/+WZrjWz8aWCXrXuP3uPxaEnjLldswUscQcmuQ6odRRTkOuJy4QW4sRFFyayKL9RXfPLjCV23Z1rqRuRuqKJ2RihWhtGz+fR+5TccsUykM7zQvMPQrDVe5EcZt4gbrd0YQL8vfPciGRIZ5Hp833b06mYvxAtyZP3ut142fQwMRyaxRi/RLRxIWt2r4TidEsJRmqwyxYdmgMUG+KwkxymAEhGCXGEMRTZE5zL7mbgk4gdO7scCQyJrv50Nv8RfQNP18hg+1TTRNtrL4UZ1c39q5p30Xwz/yQpOQaeu8fSWT2PL4rldYOrE9rfTEsdVu6aidVNx48GE7rdcAXFMjMe0nuHu1fJ9c6KPNQ=;1EUwKnYCG4vnaI3MkssXIA=="
 ---
 

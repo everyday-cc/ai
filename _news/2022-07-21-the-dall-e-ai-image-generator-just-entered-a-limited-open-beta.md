@@ -76,6 +76,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
+    excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
+    publishedDateTime: 2022-07-20T18:31:00Z
+    webUrl: "https://wfuv.org/content/surreal-or-too-real-breathtaking-ai-tool-dall-e-takes-its-images-bigger-stage"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
     excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
     publishedDateTime: 2022-07-20T16:45:00Z
@@ -84,13 +98,13 @@ related:
     provider:
       name: NPR
       domain: npr.org
-    quality: 31
+    quality: 33
     images:
       - url: "https://media.npr.org/assets/img/2022/07/19/dogwoods_wide-13967fd64ede7836bea897caf01c87ec2b7ab088.jpg?s=1400"
         width: 778
         height: 437
         isCached: true
 
-secured: "AfztG31RwptKXv5gXH+nmG63URF3ghCLRtG/9AXC4lONubiZDIB20s71rwkNX42K8rcWoWny1PJtZ+p6Eqnk8s8s0ErBHrey8bEeHVknz/XkCddW30Tbr6LE/CrUh+SjVPs4Cszl/6p4OGP7PG5k0QSrDHl6tlYyu/elo79Cqk3TRsRTRr+0blcrTRMqf9vRDAul4oQMdCBZJbkZ3WhWTQ0BkQvhb5atYI5lIMUR24Ny1nqakrXFStFSN0l+wSuYk8DZ0cxMADy7cM+V8BULpegWF1L6Lux61vwHcJQ2sJ80KYWNMgVGTFjZY4ep1bla36NFofinrdydojX9Ljb8+Khagx5fX9IZVjxw4TZK6Cs=;ghHlq3wKTvO8xPWWdfiwXw=="
+secured: "JopHL2tbpwpCY8KTgDrukz/uCTM3b270Q946i0x17shH5lZKmkwFwKCGZ0AjmzTg/18fgExmWv+g7yGTdgGzyuoRHAdVl47JH4ySR7Z43hFhSlvtnZb99v9uxpVZdSN6Xh3vyWzbx4Od9tPmOBdHJ8xauFk6GHgyqRN9aHhw1h/A4gxZOAeSesWScnVUiTQe5jAejFu2a/JtQ6CaLx8rIEG7e19UDVXDy/3Rz+fvuP93IUWWdZMzmecyOrII5HUSbJYfCOP/bSSYv9KE2gVt1bG/Qtazs+7hcKVgE9Q4B/mYcGxYWehmYM7O7+dAxXUHGDhRUYsUjCZl1NaCcve0YRBlR40oCdWFPBxCDyMNiQpJdNxkS/FaX8mB83tlYigVAa4zfxvqDeipKIZEAPeqP93PopkflPIv5xZAJvthWD6xXMg68WgTIddL6mOBFyzBIWOIKp9D++E5zF+twP7uWbezyHqIgTN2CtUOs94iJ0ud6+GjOr6fnNDyptD6prnkUXoOOywscKs/j14G+3NIrA==;ii8fiiX35+yhzs5AWti2hA=="
 ---
 

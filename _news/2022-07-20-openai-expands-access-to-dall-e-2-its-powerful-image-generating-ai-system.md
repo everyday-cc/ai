@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
+    excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
+    publishedDateTime: 2022-07-20T18:31:00Z
+    webUrl: "https://wfuv.org/content/surreal-or-too-real-breathtaking-ai-tool-dall-e-takes-its-images-bigger-stage"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
     excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
     publishedDateTime: 2022-07-20T16:45:00Z
@@ -84,7 +98,7 @@ related:
     provider:
       name: NPR
       domain: npr.org
-    quality: 31
+    quality: 33
     images:
       - url: "https://media.npr.org/assets/img/2022/07/19/dogwoods_wide-13967fd64ede7836bea897caf01c87ec2b7ab088.jpg?s=1400"
         width: 778

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
-publishedDateTime: 2022-07-18T21:11:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+publishedDateTime: 2022-07-18T21:05:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -71,6 +70,6 @@ related:
       domain: outsourcing-pharma.com
     quality: 4
 
-secured: "eLXhc2WoQy5Tl3lzNbWzYiAUDC1e5pXZxUCQqmwRkO0K6Z0COo3VvFgojLJPAoHnVqe/mqAidu7JS2JLA3BHgtxqYArw9OICtq0Pjj/JQAUexiNwW3tnIcQ9ME/yx613X215WziKIxotp1/Q/oxHiXH7Zg8zmRo1TfD5RJajdJABMHF7eCcYwzLGSfxaNdWQDaK7a/nAcTJCfhZms7mpL49PGbGJl/qaPc6VSPHevjiuDaD7XM1YqeyRgGUso7jFk2w8zOQ3iXAdhgLMcscQnhY+so0BOpcDpdPyF4XKz+F4f0y1bh8odokUqvYPtvCv2PsH3KkcCudjG8Jni6/IhQ5+CRCX1QPB/1IejjeTTzI=;qot/+P+RVmWtZM0q8S0o/A=="
+secured: "QNu99Lp4JSFxmw8gu/p6qMe8OQpmo/7MwafZ3QpvCVCXI2+q0i0XqDa/H8wkZBjUD1aWFQytH9ewd+51NitTgbyUrMqSLEN8a/LfFgpxxtLWuvEJ6mtWXFOAzLSaN64kIgrt7Twv7luOgrnzw0v9c6UcWlGq8/FUk5uqR5/Kln9E/r1dm3XmSXFvLg5jpY2ZCTbPNSo3brdsNIyC4tfYsSMWUurWvD3FrBgJvn7Eltz5MsRjjD9OMNcL+711K9SplyyXReTYpdeKKlPHwbkwd/jj29N3T4HLyGA77fx/P7+cjA8QVp0U3c+H5Vsoe24KzxvgusBFrQ3biOgIXvlC/ibwIqxVrGKbRHBBNjrvlYA=;W1qkp4E3ltJ5DVeaETL+DA=="
 ---
 

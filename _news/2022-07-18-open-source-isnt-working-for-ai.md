@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3667433/open-source-isnt-working-f
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI is Changing Marketing for Consumer Brands"
+    excerpt: "Let's look at how fast-growing consumer brands identify the opportunities that AI brings to identify hybrid shoppers and personalise customer experience across their decision journey. AI is changing the customer experience."
+    publishedDateTime: 2022-07-19T16:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-19-how-ai-is-changing-marketing-for-consumer-brands"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 36
 
 secured: "wYGY7nXe+PifnBLRS/MoXozhPp5A+V07dd0ja4m4aoH72YSTOzTPXNXHLDqZ5dyOwbKgew93poR4f6ZVgSCelNBmmlSolFGSF2WLu5s2Q1M3G+5huhLgSA+WAwUpmuYxo4dHO13oSVJZDqS9euRwihxhs7IE/KWpDA8+EszlUWI158341o5pBAM1xExP4Mn2z13E6V4rpjdzX2JRz+a7ED6pP0xPmUf5UHMpVVAEnhLHpyuT1CAunm9cCnCLufXiHYrJU6iOReuR6b/riH1POzsguPXbOHSb/+2H3X9Cc6W/CmJmcvbvIWoPgVLzPAdWMDgtsIGG2qgPtjasQFt7pwmB32nYXlZDvuK4GMb+qLQ2x7evuV0POmTEoZAM2c6OeeYaDO+ZEvd752n5zTmcarTcZH+jE+IvhZXHfdtsrPjj0k+ZlLukufnsHJOfRHBpsDsRqGbqfAp0vu6llXlosbSTMDTzmRNbHeqTJmqUvjOhNOWgAcv/SqAegKy06LJn9n8reXdkKxzylQYw1yubzg==;30RUzskoKAuvjaYbdpi2wg=="
 ---

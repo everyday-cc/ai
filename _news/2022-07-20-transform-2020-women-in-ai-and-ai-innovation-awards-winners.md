@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 539
         isCached: true
+  - title: "6 AI innovations for those aging in place"
+    excerpt: "The New York Office for the Aging recently partnered with ElliQ by Intuition Robotics to bring empathetic care companions into the homes of hundreds of seniors aging in place across the state. The robots proactively engage in conversation first,"
+    publishedDateTime: 2022-07-20T20:10:00Z
+    webUrl: "https://www.reviewed.com/accessibility/features/6-ai-robot-products-aging-place-home-care"
+    type: article
+    provider:
+      name: Reviewed.com
+      domain: reviewed.com
+    quality: 37
+    images:
+      - url: "https://reviewed-com-res.cloudinary.com/image/fetch/s--P1ct9kcx--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1658333804962/ai_hero.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oh7YDfl/Vb/6bgOYD0CMAxAHnRsmuofYqGlDIIACzuXN5phGEQ/OLeYWg25B5DIyczg5462ktpKwN9PZauwNgbiO2Wx7xPXnjCt9XnybIGeh/lowgDfp6qw9/+mN5yPAroOMl5mQX2+ZDh9sBhDuH3OTF0UwvLwTtlkO098E3qHqeaWdjIzNdpRsJWi5fMuSSUSHjSPuJdpte9nMQDCvuReAW+6BSMmFNBw/jYBfgDkUsMqqfpbqVXMos7L0Gx8LhoXCVsiNtxgubDdMpGOOlvipcT6aPCqtB3IAYWX7gC9MnTVuUZcerQ2ALhnbbu4CxRMRorg2ayzMamQ+X8TCLvP5HGweid/fRiOR5gOu2dG/bAzgqQ6WYBiSWtz/CiYziSSsuhTxntfm1xV4UjjbjLyQ+/35U70Bxx7naFN+SuOjBuN2UiP/XwOlCmST4XGFOudsMv2k1LcljorROI0RDy04aWbbfpTF6PQtVzPRna2zO5fm6EyjajUFW/a6hCS3ly+P/DQuuFfQH/IXs0CNIw==;Q2sXJXBUq7WYIOmsDK2Ksw=="
 ---

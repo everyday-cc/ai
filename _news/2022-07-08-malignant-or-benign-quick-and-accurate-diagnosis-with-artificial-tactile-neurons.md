@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Malignant or benign? Quick and accurate diagnosis with artificial tactile neurons"
-excerpt: "Teams led by Dr. Hyunjung Yi and Suyoun Lee have developed a simple but highly accurate disease diagnosis technology by combining tactile neuron devices with artificial neural network learning ..."
-publishedDateTime: 2022-07-08T00:00:00Z
-originalUrl: "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html"
-webUrl: "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp"
+excerpt: "had developed a simple but highly accurate disease diagnosis technology by combining tactile neuron devices with artificial neural network learning methods. Unlike the previously reported ..."
+publishedDateTime: 2022-07-08T04:08:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/958262"
+webUrl: "https://www.eurekalert.org/news-releases/958262"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "f7d4GvpzOV5S8ZI8Xk4qHWcac9Uy7ilE07Q3oXl+AA3CoIum8VZ2e5jDwLGBkA1SkWj6u/W8XTSaUvu+16q0lYj08g1DfMJP2cDlabRG+xhSm2O24UqmFlkUrfd+YmSssnwOAXxw2RiTlbudPBpd+xfbjARUQwAILs3HFWcRXCYtXQX4oLanwY+XWC98qO9jsHemYE6MVW58XkJS6LCgCD0go+xCc4GDZhWedxDuyH5leSpqP0g+Po62I6nw340AGX8P/2dWV4fpOKcnrNBGrBUNe/nC8aK7CV+1RFIUU0l6Ps87t19i/v4Ej8jeohtVECda179m0VDu5t8OpJwnefmOzgH4tV+XBRSAQkSHj/0=;5riSYwl5nWF6da21zgp7ZA=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9ca0c55b-021b-46ab-ad30-2ff94af29349/Rendition/low-res/Content/Public"
+    width: 532
+    height: 700
+    isCached: true
+
+secured: "zhWhzI+VELp+dU+hzbFxiCbm2k9VeAv0e7Nm1b2sBx7u/udBnOA0cBc/5KHmWgXwepNuSfuXB5zPRdFFsSmCJ+Z9F6Y2MoD0+1JuK5wIaAWWXIyzKnG9H5PQuRkILXsuBcUmqywKhtUpWTwKlc+sxEAnCo80rPOm7SYn/oG8e6/NeibMiPRYDKtihAL0QU+YKD/8R6VdvrmP8KEe/i7lQbLH0jgZfGJVkDFUSXx12zu4jQTKWlEL1zMAv/fya9JvZPj/BHHdlbf2i9gIDgiATmNXNm7wjXE4I8IliReSMsf1PcsrxJYrSvTWf6/9jNs02FBz82mRjZjRgla+tOTVtyiXj3aFB5ZrgSC9dRU7nj4=;PxKmRLvWCUhKnW9rZMtnPQ=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, and pace is ramping up"
+    excerpt: "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven, and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-07-20T21:15:00Z
+    webUrl: "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 80
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-FSD-Beta-miles-driven-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
     excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-07-18T18:17:00Z
@@ -85,6 +101,6 @@ related:
       domain: autoblog.com
     quality: 4
 
-secured: "Nb3oAhhOADcKTwb0XdYubMED39Z/2p/qHNYq8HrJNcHW0uQIMT5Hzw+IQXSCogoIBa1YV1kQEblsQYZW9SIP/vSkwzdPdjAOhFk5JBgLIQ3Cj87zbRXjYbjQgihfwKYCm35CiG7q7cNfjgUtdkQ1t/SHf4RgmypzbKbm9lUVy+58wx4hqNvxuGTTufSOlcyhmXZ3xKksTm7UHMC93vHP+AZvc43gkIcER08OEHrIip4m9UW5+hqZMSYGzjFwqHhr4NkL1o5ew6vVL3p2IRlklpyhB/8Lop7HV5BekDe6JeitcFrIK/YiysMHNb8hcABGEUQ3bX27k4OgzMwq1X34FYhhegLgK20Eqxq891BeomA=;IWLP7LrXYu3ydNkso1wy9w=="
+secured: "5Q5NuZvzLGmV+6Wgtlnns6PMJJizzkkY/uvRXz5ZgGvvZ0JPeEauKuxCQrIxycxyw3yOpzOymE40mZKVwo+SbPcp7WAQme7cjesixpo4RUuRmGatreS9QIJuWxM20e9B1uPYHA9iu6PR8AsKBZ5/cVL5dOQ7sKzCpvAA3q7HQVqQa8OE8GlpnIouLNKTDNx859g1V40hMZmFyIrTRhWqCQ0iTatjx9K5M8bELDCcUvQ/Fbodrug/RvVEQcMTMJznX0d6gszQiB4I8nO5q+vgGTVURlJtiuJnXp6+xJnaAFEmvZuVnUzRcu2gdBBF4r/4VFmZrpVdA6sYnAZY6UCQLOuaxhZ/FKK2lvkrlaGZ4bFwLM/uKABBHZvPr7v2r8OXFT7TqnCV+LDTItE9Xfa6qaT7g8GPcK7dfqWTaihiDslVGJFoMV/0INT10T6Zrr0HAatgWmlcoQD9k3N5u5Mp1gNfunfAnn4WCo0O2GEtLC75Z9i5a1NpC/ksnWMcXPOtlM18fEVbKoxDUFOvKCXrRA==;w//B+5Fa/y8rpla23cB/5A=="
 ---
 

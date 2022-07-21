@@ -55,7 +55,12 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 49
+    quality: 71
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
+        width: 635
+        height: 517
+        isCached: true
   - title: "White House Advocates Cloud Investment as a Path to Artificial Intelligence"
     excerpt: "A new report from the White House points to advanced cloud technologies to help bolster artificial intelligence R&D at the federal level."
     publishedDateTime: 2022-07-19T20:32:00Z

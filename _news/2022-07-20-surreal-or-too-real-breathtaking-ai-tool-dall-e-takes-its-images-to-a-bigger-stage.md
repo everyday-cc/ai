@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-20T16:45:00Z
 originalUrl: "https://www.npr.org/2022/07/20/1112331013/dall-e-ai-art-beta-test"
 webUrl: "https://www.npr.org/2022/07/20/1112331013/dall-e-ai-art-beta-test"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.npr.org/assets/img/2022/07/19/dogwoods_wide-13967fd64ede7836bea897caf01c87ec2b7ab088.jpg?s=1400"
@@ -86,6 +87,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
+    excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
+    publishedDateTime: 2022-07-20T18:31:00Z
+    webUrl: "https://wfuv.org/content/surreal-or-too-real-breathtaking-ai-tool-dall-e-takes-its-images-bigger-stage"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
 
 secured: "lXNo+acCXyYnL5upCfAh+EOHaWbI3C5Px8/UQJPAzrNq2UXp0TLWVQjYy3rviXUY3bl711iJndgrFAUKmi46OWks5zIFGnleNumMLYciHVg5NqaHxN4Tys/P5JDoeQ95iWxbuCKg7cj0IAJF2dii70iuqUUV8GaXUNyA4pq6c47T7AJktbczzPTCIQTqI0o7wEXpak1j0pfceK8zvzbv/Tj6qgLx6WIxJnnIhm2HqMqsJbsvTHYlC+NdQx/TwuRBXV3QZHH2peksOKeL4wqnowY0L2MFVTSRMCUXy9typsrRkh/6nUAzF3nIj8jv6Y5q2Aur0VDtWcQ600+sNF1XbmaY1RZcBiV7gogmudt1RIIM0jAXXoiW3lFCwQeaY7lhPQwDqNXrhxP082KsbSUSqtqjAFbvtdAkXMw9ozFTYiKRp06EfhFSnzn0JUtr2wOJjJvIAPpyJCdnjN1BZUWRo6KL+dipc7xxkCIqZzC/s0U3WN0qxURKCHjO091iy2+YIj9zCOaH6uAudU4zfJ6KvQ==;spq1IB5JKOG/JbtyjjmFeg=="
 ---

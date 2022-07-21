@@ -60,22 +60,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Artificial Intelligence may be the future but treat it with care"
-    excerpt: "Allocating investments to AI is a leap of faith. But this tech revolution will not be reversed, no matter how disturbing some may find its possible consequences."
-    publishedDateTime: 2022-07-16T07:02:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/investing/article-11018463/Artificial-Intelligence-future-treat-care.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-11018463/amp/Artificial-Intelligence-future-treat-care.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11018463/amp/Artificial-Intelligence-future-treat-care.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/07/15/23/60323993-0-image-a-37_1657923715986.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Time to act now on AI Bill of Rights"
     excerpt: "To address the unprecedented threats artificial intelligence may pose to Americans’ civil rights and privacy, the Senate must urge the nominee to commit to releasing a Bill of Rights for an Automated Society."
     publishedDateTime: 2022-07-19T22:00:00Z

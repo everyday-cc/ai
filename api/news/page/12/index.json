@@ -826,20 +826,20 @@
     },
     {
       "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
-      "title": "Meta’s AI machine translation research helps break language barriers",
-      "excerpt": "Meta announced on Wednesday that it has built and open-sourced ‘No Language Left Behind’ NLLB-200. This is a single AI model that is the first to translate across 200 differen",
+      "title": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
+      "excerpt": "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results.",
       "sourceUrl": null,
-      "webUrl": "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "originalUrl": "https://www.myjoyonline.com/metas-ai-machine-translation-research-helps-break-language-barriers/",
+      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
+      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i4.ytimg.com/vi/sZ-y4ANMK7A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg",
+          "width": 650,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -849,11 +849,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T16:44:00-07:00",
+      "publishedDateTime": "2022-07-06T16:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MyJoyOnline",
-        "domain": "myjoyonline.com",
+        "name": "nigeriacommunicationsweek",
+        "domain": "nigeriacommunicationsweek.com.ng",
         "images": null,
         "publishers": null,
         "authors": null
@@ -863,8 +863,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-19T17:40:00Z
 originalUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
 webUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
 type: article
-quality: 49
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
+    width: 635
+    height: 517
+    isCached: true
 
 related:
   - title: "How To Use AI To Eliminate Bias"
@@ -70,6 +77,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KAAcVsYMivsdlB2C4MnKWcbWnxDhJ5lcWuMJvRYvzJ57IF84sXDmPQKlP+MfF+XkQOuhRRvrys93D/6XVCYl+7rCQssbWnd9Th/Ar8qTBELQqb4PopeI2ynboyK7zI+EnqtB+gSwGroSjUBFmLpIgd5ojOtMDKDGaeVvbhV6b8dHfUDNy6KE/rjFPwAL0cUowT0Vs64+D6PdqPTrcssM2yxwBGcf1kRFBz6EqGCGeTgUYVybSLYDV5wVw9RamRdf8iImXyboz+l1M/wYycaPHtIjfO0IZ2L2myF+YF1gmeXg4TeH77Hci5exLOVNbBjFvYgnSmLy0Gl8hGJ55GLfwDoinG2XBFcsYu+d/jwu6X4fJacN8zTR2H1waNwbilVhZ3M3iapcmI2vrfyFkM2mAQcJ0MzXGOskyQuXeJWLL8XFMxryaW1opxk1jMH7EKpjJQ9NUiUqt9nVNE8FWmAW1yBAwZH1XWH5oxU4GPm8wpOvRXAxzpfli9YXLQQk8/q/DpZ9ix+rNAwZxEcRsD6oCw==;xTPBHuy/Jvk8FcouUKTdoQ=="
+secured: "UaVYkGF95Y0BcpKKRBoWWhbN+JyZm1s413axzsM1HIH6ndgFIzzPJV+fdY3Mk2YM90KYzvJcPgEjHKqTwiMSYuTPzSjouvrHyXyvFrGAb6AdS06X64NB+pifxuWDCWh0eZGd08B9vIFtj1deU4fUM9tINxQgaIKe/dxSk+7CDhrtenTwK5wNWAyQLvIKzN2B1lh2jZBH183IfA53rRlGES6W88ptdNCBMVTj/tjNvQT92kAYE7ceEgYOd5InX6WR9l5tEHWBVS/q/PWEwvYFpz/336Yk2oTeG3afxgxA2fGYRl1gWV8tO8ttbx/bO04sfR8kNcmMZsxd/TIpm0T5xBQX+s8JygLzuxQIKbsGcKE=;qS/RNaNskEu2LoQ3WzBn8g=="
 ---
 

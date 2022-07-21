@@ -3,10 +3,10 @@ category: news
 title: "Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamps – APPLICATIONS NOW OPEN!"
 excerpt: "Argo AI and The Readiness Institute at Penn State are two of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI and The Readiness Institute at Penn State Bootcamps will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
 publishedDateTime: 2022-07-19T20:52:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
 type: article
-quality: 27
+quality: 25
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3CZi+4laxLiU4NDV3ok48gSX+jkLDAGD8RVfS6pOQqob4ffT0R3E+KrU9eQbMYvTJJsD6prO4gpWFtDsDZSBX6D1xlDWzeNOj3LG0BHX30Sdx0On/RQd3JHswvyOtjILJSR2GWXgkIQ+L7Jyn90cR5NLHxyzB3quJB51zGs0ERRpjEGQLTJA7uvhugoV2NrxJvYpdfXeW5lP9YtY6ZwEOkXGVn2h2wV+camKN/x0wGhFkyhcIs3aAUaoxOeHyKDtKJB0421fvXYxRocLkGTqexq2QMaKLj6JHfquENce8/C3t/r+vZV+ppWSAjorPp/OoK934x7zFDHbI+KaahYjlp2YXxAEaraDlYZvUoIRe+Q=;1bYAzdlmR7I2v2L2utak7A=="
+secured: "qbO3zwOa3QDzp1f3Rc8VUek225zchh5Fkhr+eIPL+bILY+Q5cYItfftSV7bC/jbLjr2Vb2W7sqHrz1Cu5BOMHyUFf1g2Xp5JZA5RF/tCGzFgQfnC8LVysW3uXDIk1Pu7jwgJxmAWx3a9XaOPyFWKXi+JnYmtYvusy4InRQRZIhHMAozpHEtrvN/mcGiEzU0n4bQw4iB6yrH8R0ysicIViPQdQadU6srlILYRU+yE9HUhxlqvxvU6PSatkMINqymPnzduOyRbGjCu0iHW+Y2kk7xYdLdEcoB9gSg+qcgfFlOw+RZFiOl0mzilbv+hRIGWWEO5QyJCt0fFdf89Zhqm9fwaMwwWHYr1DTR7toV3YhA=;3uRCFsvIUoYyDshOYTrf9w=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/20/importance-of-ai-saf
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/20/importance-of-ai-safety-smartly-illuminated-amid-latest-trends-showcased-at-stanford-ai-safety-workshop-encompassing-autonomous-systems/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/20/importance-of-ai-safety-smartly-illuminated-amid-latest-trends-showcased-at-stanford-ai-safety-workshop-encompassing-autonomous-systems/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2298,1531,x133,y0,safe&width=1200"
