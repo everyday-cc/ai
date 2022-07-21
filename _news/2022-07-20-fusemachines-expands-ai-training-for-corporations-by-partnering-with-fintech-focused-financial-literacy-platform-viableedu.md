@@ -2,13 +2,10 @@
 category: news
 title: "Fusemachines Expands AI Training for Corporations by Partnering With Fintech-Focused Financial Literacy Platform ViableEdu"
 excerpt: "ViableEdu will leverage Fusemachines’ AI expertise to create a first-of-its-kind training offering for fintech professionals. The new partnership will empower the distinct audience group of financial services professionals to benefit from curated AI training opportunities."
-publishedDateTime: 2022-07-20T13:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-education-68da26edfdb1f30686b59a9d0a12f021"
-webUrl: "https://apnews.com/press-release/newswire/technology-education-68da26edfdb1f30686b59a9d0a12f021"
+publishedDateTime: 2022-07-20T13:11:00Z
+originalUrl: "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626"
+webUrl: "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
   name: Associated Press
@@ -18,12 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "OauMmMsjSENVz1i/XDnMwtCaqtVMF4yOorhVbVeTE4LVX90E9jgPT71S/Gnmov5AlU6UjHJIvQFR2fd263Foh/UcaH+EEC+Bm49Ii7qN8xhUlN7+NqGBQ6z38FfEZG369/2+3+BC/GrpdXWKeNDY9tSqDY0d69Jyx56/uQkcbRXR+146x9srmxaUi7HkHRt6F094OL51TKBOW0Ce4S4aWv/j0kJCTrsPLIbQJv2skJxC3db02bgKqE5tSGcXo8hqx6fzX86VO7NAT5mSP5/TDalR04iN4sBuxRTG1Gxa3EwukdthsaRB09PVKt5686SDNXbLMYsQCdaeutm+pbdg07iA8Gt9IVETbQ/Pk64Ma6w=;PRZOEohjWK+tgfUOujl2yQ=="
+secured: "G8lnJnf7NYjJwZ2gdLrirQYhRNxzkO6RN23k5qVXQLz/+pUpM/1GSjk3YUQzzObNxdcfqvgV/mFj4Iyv/mfwi9my300ue4pUED2PtoxsGbhE4ku5WtrnTsaRe+jqakODdD5YcYHFXx2bHvUJZ15BSXZUElus+KT3STIubOMlENTcL1hH5GMXKAJwIyi2gJ7J6zW1B9yMCxxY0TszvUowim0s7vKOQHda9oGuTTZm5BwAwq6Q9upg8xeq4eh8XyUnvoSFcfASr4sb/3b/SYIE0qRdrrxzwPtgSRsUdRHCn0cREWizD173t/2mC8bdvhDCYLs0eKt1bEEybEdQBHj9/8/0HxrqI0OFUIFZ9MXrhMc=;x8FAsh/QXc/GC5nLOr8sYw=="
 ---
 

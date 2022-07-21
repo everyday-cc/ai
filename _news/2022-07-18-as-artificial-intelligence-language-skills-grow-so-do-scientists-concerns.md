@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
