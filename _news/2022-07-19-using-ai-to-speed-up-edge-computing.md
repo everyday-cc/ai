@@ -26,40 +26,54 @@ images:
     isCached: true
 
 related:
-  - title: "Using artificial intelligence to train teams of robots to work together"
-    excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,"
-    publishedDateTime: 2022-07-20T16:00:00Z
-    webUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html"
-    ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
+  - title: "Robotics and AI are going from cage to stage"
+    excerpt: "Discussion of some of the most obvious technical considerations founders need to keep in mind when shifting from a research to a mass production process."
+    publishedDateTime: 2022-07-21T21:05:00Z
+    webUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/"
+    ampWebUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg"
-        width: 500
-        height: 310
+      - url: "https://i.ytimg.com/vi/PWfC5mhmynE/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "Applying fictitious AI to the real world"
-    excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
-    publishedDateTime: 2022-07-19T13:43:00Z
-    webUrl: "https://techxplore.com/news/2022-07-fictitious-ai-real-world.html"
+  - title: "Making AI Accessible To One And All"
+    excerpt: "The democratization of any effective technology happens automatically by virtue of its success, even if the complexity it presents initially overwhelms"
+    publishedDateTime: 2022-07-21T12:20:00Z
+    webUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
+    ampWebUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
-  - title: "These robots were trained on AI - They became racist and sexist"
-    excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
-    publishedDateTime: 2022-07-18T17:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/international/these-robots-were-trained-on-ai-they-became-racist-and-sexist-e281126b-f15c-4738-b973-c0be98f52be2"
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/lenovo-hpc-ai-logo.jpg"
+        width: 952
+        height: 525
+        isCached: true
+  - title: "Selfhood, Artificial Intelligence, and Robotic People"
+    excerpt: "To understand whether AI is achieving selfhood, it's useful to have a biophysical understanding of what selves really are. AI computers are durable, not fragile, and therefore don't struggle for their own existence."
+    publishedDateTime: 2022-07-20T20:16:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people?amp"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 17
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-07/pexels-cottonbro-4114908.jpg?itok=Gqux6zsA"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "hyZjtKLccZ/EgGTizED3BYVdTEYyhxEJglK1lebU1kbizRHmoyjkYKgMpMPXp/sIEe8hEZI26P/xuxu+KEbUdJeHEaSXdQ0wgyAURYHJ5MWEWQkvZK4U8p8fu8BNawJ52f4MFqDAJRSh9IVCTN/l7BR8TXxQRf2+5YcKB2rqSRca+4KcM9UUQ3mUgQlyxLznGcH3euCfqHOlhJ9f2dnhnXWUiCFhY0t9nMLGEqqrIlyX40o8dKC7afvkJMNjT9dkLFLy/Cf5f+IqBA1GS86dgVtdjKSqqvm2do7pmns7nwFazVTxKyOw8EDMQAIDLRoSUU5uH4qSxTN+HlrMa4K95AnWj7PiZoc1Qy1r1C7DE0KazCC6j+VyD1UW6NpkuVqEdh8kk26OnbrkpkU8kC1qYN0/2eknmb3N6KKGDd8yiXlUf5g3vUvpblty2m75LUPXPQ2v/RRyBy1+N9EAFCDk/UmPgWu1d9UaaFyOxUlh+QLUnof70kAHQrl6UCHpgp8tfAJac1JyPbNwgMZLwfny4A==;IXUwJrwO7sFDvC6V0bh6Og=="
 ---

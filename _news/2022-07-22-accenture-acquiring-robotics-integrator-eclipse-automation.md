@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T18:46:00Z
 originalUrl: "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/"
 webUrl: "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: The Robot Report

@@ -41,6 +41,15 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "CogniCor Teams Up With Charles Schwab to Deliver AI Solutions for RIAs"
+    excerpt: "AI-enabled digital assistant and educational platform provider CogniCor announces partnership with Sequoia Financial Group through Schwab's Managed Account Marketplace."
+    publishedDateTime: 2022-07-21T18:35:00Z
+    webUrl: "https://www.wealthmanagement.com/ria-news/cognicor-teams-charles-schwab-deliver-ai-solutions-rias"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 17
 
 secured: "iiHWMJKNNilupKMWEimgFFvTSTGCNdOP6dxZYmaCQUR6ALKsG2U+qyGonJVUMiqWq5BTQ6PHLCtnPLYhyvoHAHlb5UShmNN6JhJvpR7grWJXYJjdaiJ8eaKEUesN3peGlhd9zMI9+lmvICvhxv/Qylkkynlkm77GtEM28vyaP2bhIvPJxHVzlp4+Vry+lxOyb5u6zLQ8GK2Y2HBMvFCs0Ksh9X7mLXeG63YqhIfoKddIHUvCm62dUmaw3zJgxf/eXoFfXduC0b+XaCXyuVf1CBmwHvRZz3cDmmCgvgUrTjoKxuiqA1aDgFpeVMln8uipRxYoGTv3lhu+CVJmsb2A1CIkqLwS6EFjMNWuJKcgH8CGseRNUfn98UYCHdebQBB15Oa8+5nj+dDaG7D4q2rsB/a4560bwS3HVjTNHDMh+iu2KvfMZj2PaylNbRLlbFUtH76TG5FBQfjZxIRB/SGxqsSbYdlzcYcaTAFKkomoNA8WkVfOc9Mq78/DHO8YnXlQmbYElanKuM0Ybn7SoYgx1A==;v6480+P6/gTgaA2dvFa/Rw=="
 ---

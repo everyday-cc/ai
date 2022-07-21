@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-21T09:00:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/"
 webUrl: "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440"

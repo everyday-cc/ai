@@ -127,6 +127,15 @@ related:
       name: Billings Gazette
       domain: billingsgazette.com
     quality: 14
+  - title: "Elon Musk Hints “Full Self-Driving” Is Coming “This” Year"
+    excerpt: "Tesla first started testing its Full Self-Driving software in 2020, giving select owners an option to upgrade to the service, and now we’ve learned those vehicles have traveled over 35 million miles in under two years. Furthermore, this data has given ..."
+    publishedDateTime: 2022-07-21T19:02:00Z
+    webUrl: "https://www.reviewgeek.com/123725/elon-musk-hints-full-self-driving-is-coming-this-year/"
+    type: article
+    provider:
+      name: reviewgeek
+      domain: reviewgeek.com
+    quality: 4
 
 secured: "vl5zcDVL3Zmy4Mt2Yu8ymWgqWl+2JqdeAjl6NHEFmjmbLwwIQp4vQcfuXCNtaIOYIx61o+qLRnksTbr76ovovo/OAg6KLWcWADbNTmh27xV8aRJn/7xkRqi36+OMBihMowLlbX3eu+BqaHSdaVXpABQTIgJxFgtoSCyMcQcGSatR8Trmap9EUQAeFkiWwirRDYS9WZwCfot91JIcdNDtNVidL2LD6TvUge6zw3P7NmP4QZiTJkUmhiJqFMsbxVGiYvGi11K+MdrnGLkNeqR5dH4QvmYXD5f13vGKUVjoeliVFET65pmFSKoedDJ4pZyRHt5UsUy6u7//D6By+g9RfwvWfIEqjwsexhRcx4vibkGE3L6oPbWqYYOj34XOU0Ezl71Yc4Tjr0mzcBJO2IFshnbH+BMWHYPFt9znmHUpb6go6ritLdbZMQyWBg7waRqltQtNSImk7oSXeF6JYUMkcMCz0tgAwQxW2gJQn67yhNOgFeA0Q0ZQb7nYhfDcvzkLbqI5Yk/SFxNJpzY3gxvHIA==;isHNXliPeV5mU0QwhKNJ9Q=="
 ---

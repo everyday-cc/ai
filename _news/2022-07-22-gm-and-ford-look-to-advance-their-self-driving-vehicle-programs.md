@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T18:31:00Z
 originalUrl: "https://seekingalpha.com/news/3859285-gm-and-ford-look-to-advance-their-self-driving-vehicle-programs"
 webUrl: "https://seekingalpha.com/news/3859285-gm-and-ford-look-to-advance-their-self-driving-vehicle-programs"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Seeking Alpha

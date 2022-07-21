@@ -65,7 +65,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
         width: 635
@@ -86,6 +86,20 @@ related:
       - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/67bUqYlUu0dgRXbK0oEINUpJYxs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5ADGYSOLD5HT7NAC6Y2DOOCPVI.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "VDOT preparing to use artificial intelligence to predict traffic"
+    excerpt: "State transportation officials are gearing up to use an artificial intelligence system that will monitor emerging conditions to predict the impacts of traffic disruptions in Northern Virginia and the"
+    publishedDateTime: 2022-07-21T20:39:00Z
+    webUrl: "https://www.insidenova.com/headlines/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/article_e09c58a8-0934-11ed-9a14-87e90b2258cf.html"
+    type: article
+    provider:
+      name: INSIDENOVA.COM
+      domain: insidenova.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/1/ee/1ee947a6-0935-11ed-9c8e-c733832ed5d8/62d9b95777569.image.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
+        width: 1024
+        height: 538
         isCached: true
 
 secured: "WBm+5aWOlqTZnEt3SdBOR/8jOUnPKaidwy+Wwm85eZ2sisBvxsNTErB/jzerQFLY2yhHUwce33dDFZqLXeY0E2NO1iY6Qj18Lzv7h50KMsEYdOzyRhllPmE+AtZ6AbOJHE0kKzw9D6T9TruINbi5FAAjmLjw3pOSYoE0E2C+xiBj9deeNL+eZbCAf1cSkv5JGTEq0kVLQQQOWuxPkaD5eAmrzpTO2XmGWBvj6l0UWUu12557ymH7S5AWws/BhAfc/xG+slD+Jx1v3NklXl5skPb+iyzv6KtQkoYt81b2vwE5i+NseB7Kt5r4cO4B4wUEkscm5Sk7t1a9Igc5iL9U1Q0pflzcnKmEiuskWPp+g40gVNjQnKjnXqdflipz8t4vBmJNsREBhGRRm4eMzYH+ewAGX5kqFjkrQyqhifTgPuO+ucPf6kM6LEtfO5UYpLZCLCUEDVRTGgpyi9aCdghb94dGPhuoD2nM1wQXmnvZNH4Xt5gW8RxcijRfkGkxOsG9E3t6WWlPwoQv2PLZ8OUnXg==;Ld/ozK87hr2/BgzuJSgCdQ=="

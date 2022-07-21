@@ -55,17 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "How artificial intelligence is revolutionizing the food and beverage industry"
-    excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
-    publishedDateTime: 2022-07-18T05:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
 
 secured: "tIU4OqWKJRlw34Lp+jprS9U5mMIqdYkbtnTq+4tqBFbCSlQe5wkIGv1P9Xq3UPLKhMHrGhgyVIUOKJem51yrXTU+FIdUKZfyBGBDjLF7NbwuR/ax4AAv6hyzr8VrESH/jLyB+iHYZmuE8okEAqK2Tjel0ZTNBoSBSmtb2gkjquYmlfAbQu2FzH6qzw/WEx2FOswUG1zukSYfVKO6sEzCqZGi3KuANGULABe4Yn5Gb8PjVLOpRZDgm6E/nr3rUo3l1NO/97MROipPDp0eJE8tmJSOFosIWG/9voSJj4o0LyYXhpvliyLS+CCzQon8e4Y8q+UzPLQEd/fIRh2OFTp50gOgCfkX7sCrX+Svx1S0Rwv/t8GIojGv5xV8rgLe/5eWT8ElhEVduf1PRdv5jGr5WesshAy6U0m8Cuz8EGIJDUSBTk0g8/700awkhEy3jmtw6wpSjufnOofPvSdhaJLP1eeyvLgJWA32SdC+iDjYbzCkEMKxpwtS+ar6QBdOwI7zmyZp6zkicujifX2Mv2wOwQ==;fG0R2PiHjc8aFl22o9vLWg=="
 ---

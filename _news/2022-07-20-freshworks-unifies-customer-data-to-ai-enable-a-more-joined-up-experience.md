@@ -7,7 +7,7 @@ originalUrl: "https://diginomica.com/freshworks-unifies-customer-data-ai-joined-
 webUrl: "https://diginomica.com/freshworks-unifies-customer-data-ai-joined-up-experience"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -16,61 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "5 ways AI enabled call center solutions are enhancing customer experience"
-    excerpt: "The research firm’s 2022 study says leaders in call centers should use AI to offer insights or predictions, improve user experiences, and optimize business process automation. Indeed ..."
-    publishedDateTime: 2022-07-18T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92945587,imgsize-4528963,width-1200,height-628,overlay-etcio/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How Capital One is using data and AI to level up customer experiences"
-    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
-    publishedDateTime: 2022-07-20T18:32:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Univar Solutions Receives Top Recognition in USCX Awards for Exceptional Customer Experience"
-    excerpt: "Company wins four U.S. Customer Experience Awards across all its nomination categories for customer experience, strategy, and use of data-driven"
-    publishedDateTime: 2022-07-18T20:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/univar-solutions-receives-top-recognition-in-uscx-awards-for-exceptional-customer-experience-1031594996"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1861425/Univar_Solutions_Receives_Top_Recognition.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "renovai will launch their Visual Commerce Solutions on Seldens Designer Home Furnishings website, delivering AI powered shopping experiences"
-    excerpt: "\"Complete the Look\" on Seldens product pages and the Virtual Designer quiz in order to generate hyper-personalized recommendations for furniture and home décor shoppers. The short quiz will allow the machine-based virtual designer to build a style profile for each shopper,"
-    publishedDateTime: 2022-07-18T11:47:00Z
-    webUrl: "https://www.retaildive.com/press-release/20220718-renovai-will-launch-their-visual-commerce-solutions-on-seldens-designer-hom-2/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 2
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1658144227/press_release/assets/header_images/Seldens_iznjuo.png"
-        width: 1500
-        height: 700
-        isCached: true
 
 secured: "KULZy6gkoqJVke0++lFAmoU7OfL/p+FF7Q0BFYKIlfjnN+94AaJsnJd2XKfZ6Ub9YdbiZmrUHEtxBgVahWXboOL2nEZw8zvKG/zXSCE9iagsa/aKLpE9zpgkX5ZVYCkUJe41EH4eFNOzWsZ4Kh8TYf/gqbPqBMI38oKdd/sN8uxBat2gnY5QN2nWueahcXk2nCG1orKnhiAE0Pq+GlWvIsC3zWKlYdnRSNl0T0BmN4paTUskeoAIyJbawmWsLI1adbVsfqi0gZKY1DWDRojPCJ93FhJA8dnfUgeuOd/1Q1YaIpnQ1+3cygtJ9M6TA490llRpfIO5Y1dWJzv181Mc2MDez/jaMa72Ciw0cQEGlLS0ucDkU/4KL6qUCVqNZK7GA0y1EiHHdjCQLd8YMtltlShEuG5ltPvYjkzvrKQ5jaoirZGQbvSqVAtC93cSIn2/YrZdGijCwmLfh2+l14zjky0oPUB/DfNGmPRKlswu9/Ko52v6BbDJ4kGxHgTx2w0k4KHvg+ySLq/U41AcHxUusg==;tMkUg6sRzCXph55Xi2TjoA=="
 ---

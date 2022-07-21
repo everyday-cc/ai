@@ -5,10 +5,12 @@ excerpt: "Forrester predicts that companies will continue to leverage and accele
 publishedDateTime: 2022-07-18T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/"
 webUrl: "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/"
+ampWebUrl: "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/amp/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 106
+heat: 116
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - IBM AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/03/experience-e1637091540402.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Laivly Launches Attended AI Platform to Modernize Call Centers at Scale"
@@ -38,6 +47,6 @@ related:
         height: 207
         isCached: true
 
-secured: "9LGnGXRzOE1ZnVCvxpUyWCczyZNbi435cImufRCkzOSKJY8dyAqQllFI+yus02aC27orY4Vk7fSbyE4E6gYDsaf8WKZcmcin1EKfrDX8SCkWbS+oEHHig6NIsIaAmzb0iCiWy+dujedxzeVSDppJW7V2aM9bD09Sdl3ZxDya6fHTJJbfmFGc0SRdxNouurqDbGOv3s9jhTFv+V/HV1mhNOygvl6sc17070hs2SIDP1sWfy8o91QD73IvYJci/cd2vSZ9ryHgyWY/t3ALYU6k665IVXbo6C4lsqb+ITxtf2LtZChVi4VvFud0yk/wkQkHn60n1G3phdu+aKClxp+MZN+CuNcjUmDFMfQQb9Sj6sP0ZfikQfrmlHcrPztioWtxB0Z6eAKW1vW84x9+P6SVe2aw0aMGAIX1Ab5Z+eJWmhT50aYxgdC8yiIXpe/uTEKYFhC1ogsqz3So1Lyk3142XJ4OTNG5sQkQixTlOthFK7sNhub/BYYLjk3Z1S1c+A4naaO5bm7X6xqrtVYVPpAnTg==;1YENJsIcxdXBcR1oThaJFQ=="
+secured: "iOZ82zvCIqroQGkqMejKffzlbSr5flB+jaAF3iaxxb9kZI5QxP8IOcxJ/w+vHnnZB097LQ9KmgCauhT04+utZhmwN7OOCtuOhSnIzPqLL1P4Vv7KvfM61quTW97VCNIMH45oYi7sxRhut8C61lKM+vtkeVTx5gBXMBbl6irH8sAokBFBAOhD7czuS1YA2/bEXYHZ0jnF76H6nyUtbxeQYKaQRmeVCYzeqQFFFZeTnSPQ2hPgA0IyEWypgB050Y0cwwauwsTOky36yGXQPnNpfayf7akO1MRYv09t56RQGs7WSGf6Sxhb9Ojs1O7WIpUk19SjzJYZJjGpw8MDGlVZK8IcjhHcRyCrRvFkJMmggQo=;VTIre8VedQOiRoJrptw5ZQ=="
 ---
 

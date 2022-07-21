@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Prevent Problematic Gambling in the Mobile Betting World"
+    excerpt: "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/430334"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
     excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
     publishedDateTime: 2022-07-20T04:49:00Z
@@ -78,6 +92,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "AI speeds sepsis detection to prevent hundreds of deaths"
+    excerpt: "A new system identifies patients at risk for sepsis to aid in the prevention of the illness, which is often difficult to detect and is one of the world's leading causes of death"
+    publishedDateTime: 2022-07-21T15:01:00Z
+    webUrl: "https://hub.jhu.edu/2022/07/21/artificial-intelligence-sepsis-detection/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
 
 secured: "5Rmavzf3i/zIOXnzC8b3CMvTZBdm83V6RYdQRXBP4E5qcklZDh4cPLCotKeAyjdXl6sI4xIHiDa4fCAxadzQwSap5h+8d2B7q60GHSoXA2QlQilaav0Je6GK3EKsOlipnP4nI7pK03BdgjDbCmBaAaZUdzrQlNdCdeNeseNrP0FBrX9oYQZTKtsx6PcjPoOk2V1wOq3Ha07zWjgn/hW9vn8dP23QmcLT7JwzHLHpwudwk5HSw8m07lf5z3pNhA+5cO/Qkh/Mn2sfWQmWMX59IyDbvqFHBo0Ia+KEuydqbUKvhwVwjMYGq/dMfoMm4RbGVeIoZiYEQWo0DkGw09IEQtqIZrdxdHtF76JWQbL0F2O6zmRk8glwMN66DloMs1XkzZwvQ8/pNs3P3JxXG3816wy2EOD1WJRi1BsRoA3KRVejhYeLig1NVvjpr16pPC5Y7SKT4IdWWP5lnaeU68svkITQhzLL0vJ+WB3Rhoy+DogG0ccGbcutjoa88iCfkdj7PKV03CoMiXEpGCozuz0xDg==;GrkuCBMnXJrPSyxertMqbg=="
 ---

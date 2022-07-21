@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/GoMo22vC6Bwi9JYAUiaxxa-1200-80.jpeg"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T17:27:00Z
 originalUrl: "https://techcrunch.com/2022/07/21/are-universities-doing-enough-to-foster-robotics-startups/"
 webUrl: "https://techcrunch.com/2022/07/21/are-universities-doing-enough-to-foster-robotics-startups/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

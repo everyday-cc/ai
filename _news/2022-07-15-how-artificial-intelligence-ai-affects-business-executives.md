@@ -21,6 +21,7 @@ topics:
   - AI in Robotics
   - Natural Language Processing
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1"

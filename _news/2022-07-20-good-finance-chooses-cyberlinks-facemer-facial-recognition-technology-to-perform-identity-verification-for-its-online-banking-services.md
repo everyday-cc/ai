@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/good-finance-chooses-cyberlink-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912"
 type: article
 quality: 58
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
         width: 2396
         height: 1188
         isCached: true
+  - title: "India Launches Face-based Authentication App for National ID Program"
+    excerpt: "Unique Identification Authority of India is rolling out an app that will allow citizens to verify their identities with facial recognition"
+    publishedDateTime: 2022-07-21T18:25:00Z
+    webUrl: "https://mobileidworld.com/india-launches-face-based-authentication-app-for-national-id-program-072103/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 4
 
 secured: "3UderNEk4+otD4IXdBC3sgFLiABb5jq8V8FR9c+rX6XF0RxF4kwShrh7jO+vvof6wBLouZ47Tnvk8fQ1DmhWPhVk8ofAaITcdBdSQxH9uVQKw3Mr73wl6io4ti4eH+8e1sPLGaVuPUqoJJUA5TiXH7cV92taxSi0Endtw1vOGNq++k6DMYnUVnToaXD+TVaa5VjqjwZlmIqpa+g2WwFWat6DEDNhY85qpnosZkJmYCBoO+EX4aTmPt5/TWcHGQ8JR8W8Ku4REJSkGQQ4t89QzwooTNpYsxkjcp1UYJosGhjFV/Dnlo48oq8gqnwz5Ash4metZq7bvSZUv1fdhv6nGQiYhG2Q4B4jI1gFMca6bP4=;tWrUkCKzd1s8SK48wU3Y6g=="
 ---

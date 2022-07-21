@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56596938-fibo
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56596938-fibocom-wireless-inc-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power-008.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Unlocking the potential of AI to increase customer retention"
-    excerpt: "SugarCRM CPO Zac Sprackett discusses how unlocking the potential of AI could hold the key to increasing customer retention"
-    publishedDateTime: 2022-07-21T08:42:00Z
-    webUrl: "https://www.information-age.com/unlocking-potential-of-ai-to-increase-customer-retention-123499754/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/07/unlocking-potential-of-ai-to-increase-customer-retention.jpeg.optimal.jpeg"
-        width: 993
-        height: 675
-        isCached: true
 
 secured: "VsBksRjFqwypAzU5iSKUIkv+nVXeuduBDQK8lz/FZWcrFz9EcPe4/B0t9mOVtiGg8VUm1HOrs6rhqFJJOagCuDJ2G7PPlr4+LTITJX0/k3pZsnYeiBvwNMeo7xw0musv/OWCtDFfdp90PLHVvPUmna/dK2R4geb6fjFXDW7HV8bwf5l3ThgAkeSLnAKdpkxh3xetP5vTcqDw5OYiN7RXe+0XJySXwSKoaN5ELjhCbfr0/6NMXO4wVckdw6LYxTfaugaHhdGMClr6veDyLxDR5lMTjdx7DHUFkSZFq52pDZMuNIZs0U6pzBbvsRyTIBPcmYg3I8BDVUpIEhYBlQoz1O/OMKwOYK68aELNyS7/ymM=;JxR73hD6uGBAmEcwr4V56Q=="
 ---

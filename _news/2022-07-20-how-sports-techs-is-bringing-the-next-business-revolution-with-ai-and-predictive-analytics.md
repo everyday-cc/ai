@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How AI Can Prevent Problematic Gambling in the Mobile Betting World"
+    excerpt: "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/430334"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Zefr acquires Israeli AI firm Adverif.ai, bolstering technology-led approach to identifying and defunding misinformation"
     excerpt: "Acquisition provides additional machine learning, fact-checking and data science expertise to help brands avoid and measure misinformation across"
     publishedDateTime: 2022-07-20T10:53:00Z
@@ -74,6 +88,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "AI speeds sepsis detection to prevent hundreds of deaths"
+    excerpt: "A new system identifies patients at risk for sepsis to aid in the prevention of the illness, which is often difficult to detect and is one of the world's leading causes of death"
+    publishedDateTime: 2022-07-21T15:01:00Z
+    webUrl: "https://hub.jhu.edu/2022/07/21/artificial-intelligence-sepsis-detection/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
 
 secured: "nXHJbixCB86bfRMvb9ga2XF2fgDk9DI9leHNOmFaFQLFc0Vi613ib8voC93dma441x+zOD04GnpbnQtBEan7146qnUrUtdBWk1NltkKcNGYBXiHTrG6fFMQxWe3DR/qpkd4eZ+cO5B9/CEMfub8/WiE8odxHIPfgJU5mhr0tAfHAE5G/28PzMIJQuyYlRESzc1yp6Y/AOsnUG/InlOhpQoU6LjNHcPluS8husQ7IQwcS61pPPbb+8dZuAMWuaeK9InqfQaDP+VD98TNPqCdOoVNBfjVwIvIKmYmr6InxePo5fBDSGtXA9KNAiHg9LcsiENLfFxSfNypyP5/XcAGcdCY+m3qnGdv4tWj55/XV5mg=;XzoewlvsEPL0sFpSz3H01g=="
 ---

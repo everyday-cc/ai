@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How AI Can Prevent Problematic Gambling in the Mobile Betting World"
+    excerpt: "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/430334"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
     excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
     publishedDateTime: 2022-07-20T04:49:00Z
@@ -78,6 +92,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "AI speeds sepsis detection to prevent hundreds of deaths"
+    excerpt: "A new system identifies patients at risk for sepsis to aid in the prevention of the illness, which is often difficult to detect and is one of the world's leading causes of death"
+    publishedDateTime: 2022-07-21T15:01:00Z
+    webUrl: "https://hub.jhu.edu/2022/07/21/artificial-intelligence-sepsis-detection/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
 
 secured: "Tgksr2KokzLAFPop3wUdKg4ik0fPlj0HoXjTpUR/7sE8isJorb4L5r4RilNmiZfOST7MH5MWlm5+YAPLJtbbj+3/zV+MtRWnQ6agnAsn2J74rxqy0fb9IfpW8v/ZC94vnfZOb8LmjhLVWdAizyctlnXjwETwYnv6Yz8Oo7mBnga5MadJB8peMfqIoOW7DEXXrpPNHvc10OAhGjrs6DcL0nFwhNni0Gublg9jDwFGbZT13hjx2LITNR4xS46TqfY4GcUwQicaW59KMltlv7dNMkTy6KQGswMjKFRDKCY0l4HHsyfGkFZyX2oQz0k5Q3N8w8xfSZTfL+JcKfD1Q1bQJj2aiM0itkaSnKYQIX0+7vNp5A/1fdyzWSzt4CVC6Q6fa/6DZ4o6hpoP4TxarFy9a0IN1rkcRgmxR9WWxHCyhgiD7KKAmCOcNZ1b3rvwicUF5G2uWAhdUGse6gPW9mvK3GJZMCIzOfS1kbPDOg5Zufp23uTYv9Fi0AbBucqZaNCHipfVdE0l8fjmh9r/yoA72w==;9YAdQShemaaTveaeqtTYmg=="
 ---

@@ -128,6 +128,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 4
+  - title: "Elon Musk Hints “Full Self-Driving” Is Coming “This” Year"
+    excerpt: "Tesla first started testing its Full Self-Driving software in 2020, giving select owners an option to upgrade to the service, and now we’ve learned those vehicles have traveled over 35 million miles in under two years. Furthermore, this data has given ..."
+    publishedDateTime: 2022-07-21T19:02:00Z
+    webUrl: "https://www.reviewgeek.com/123725/elon-musk-hints-full-self-driving-is-coming-this-year/"
+    type: article
+    provider:
+      name: reviewgeek
+      domain: reviewgeek.com
+    quality: 4
 
 secured: "lIeP+7ophO7l3MN62qOW6EaIBUFu6qrR4BjjlnWI1CymSXRVIgZUN71uRT7ce9lKZfrcVJg7rs9StbHEPMimTQrQwp+pJ24PRdg8z+dIA/EbwTV1bt/AnXHOuSSMrL3ZC/HzyJ6M56GPZz6XACXOVfk9l5v7Fqi/4Tdi41GfZ/V5M8eYCUNarV+NQv1yimEQSNiG4S5Oy1gPUR7zP0rc/b/UIr+AAQWLaCQWSY7AuY9//iHCNKDvFGZGRjS7o5YZnY4l/jZqRgShRZQuBM0OJDG2d5r66jY0z+6/5MLve/CzAYx/b5IHbL4Jzug/lfYeQXnGj+odYPxiSJ71mMOs5gA8kdXBDRKrTi2k3BivmaIUyLn+6m4NDqNyvQgl+I4SPRpYPc4c1/YjIo1icdUeG2xKt0CRB+uiYKZi9n9FV/FpkDgWkvPaypszyetc8mf8JXtDTYzdda33ZuteF5fHNOu/7mO2z83ZLr+K24+7a47QGkbucJVhzsPdDpwhdkot7lx2yvj/gGUWMj4CFcoC2w==;p/qPabvcKJ1+gY5iQ+cp8w=="
 ---

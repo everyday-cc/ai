@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T01:07:00Z
 originalUrl: "https://venturebeat.com/2022/07/18/how-geospatial-ai-can-unlock-esg-initiatives/"
 webUrl: "https://venturebeat.com/2022/07/18/how-geospatial-ai-can-unlock-esg-initiatives/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

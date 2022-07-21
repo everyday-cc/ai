@@ -127,6 +127,15 @@ related:
         width: 2396
         height: 1188
         isCached: true
+  - title: "India Launches Face-based Authentication App for National ID Program"
+    excerpt: "Unique Identification Authority of India is rolling out an app that will allow citizens to verify their identities with facial recognition"
+    publishedDateTime: 2022-07-21T18:25:00Z
+    webUrl: "https://mobileidworld.com/india-launches-face-based-authentication-app-for-national-id-program-072103/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 4
 
 secured: "O+1LfHOZLt0U5UP2vtYZ+ry/50H5+m/TJ47ooMcETS5j+/x7kaGbIIYdvjc+6q5DqpI5ws6n3uD2906LIPJCluvDAx2fo0vtAnaTTBzLJaVq3T4oIA3mVIJJCYWRv2GDBeFQZNaAWprvRcKKOb4OWfCe9ip/Ib6ORPNRvD3RDroa7hHJzS3B9LZaQdpW9qjz6eZbPlDSBWuCR+xumbmkr2Cn5Ihhz5bt3yM23YUabkwtRITfZ5fl3+zzRry5fKC7z2wZhMuZHHb0Xl6oVRuE5EGdkqPWM9HLYrgxhaX4GsT2mjvXCyHj1JaZ5t7v8loGKZOOYspvduzwcqI8CRpZvoA90jhSKto1mz90SF5SK9ap6GS3pgqBrTbJlUtFZeLUYyShJjXdYR9bmBU3QDuahV8wQRuQclTW44kI1bJhNfYtCAp3cf1BvypPwtbg+/GyX9b48YDfAX0vERArhhIbG8quG0JhZptfBdKRIjnQF9Oboi4ejOrVwMb0UFFHLTGmZ1OkDaAprnAnLbpyKzqKQg==;EommU5Evse7DGIy9DPBUwQ=="
 ---

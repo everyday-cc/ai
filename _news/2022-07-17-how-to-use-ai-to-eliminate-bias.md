@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-el
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -55,7 +55,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
         width: 635
@@ -90,6 +90,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2022/07/19/071922cloudAING/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "VDOT preparing to use artificial intelligence to predict traffic"
+    excerpt: "State transportation officials are gearing up to use an artificial intelligence system that will monitor emerging conditions to predict the impacts of traffic disruptions in Northern Virginia and the"
+    publishedDateTime: 2022-07-21T20:39:00Z
+    webUrl: "https://www.insidenova.com/headlines/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/article_e09c58a8-0934-11ed-9a14-87e90b2258cf.html"
+    type: article
+    provider:
+      name: INSIDENOVA.COM
+      domain: insidenova.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/1/ee/1ee947a6-0935-11ed-9c8e-c733832ed5d8/62d9b95777569.image.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
+        width: 1024
+        height: 538
         isCached: true
 
 secured: "MKsukCWfc/Xm7zPl196jxm9YtE7GfABbwikQwDyXywHoxrXWoFQduMIfUQ4FOzgsNa0cPVmvER4IbZg0BmEDlps1rLPnO+7jMZNiq2tvfvFlzoiDTQXChu9PVmS9/1RW/YvfH+Az/tDEhn6TEdJWuXSkkYrrOAzxQTLvosr0q4/NaN4xBi1kwYIHTOFrxYBuYIMDk6NKGBO7mCCnrKaWOFzucbh9lxmHGcBo3CdeSt0DyhZNSh0dT/e3VlIIJGypAQc7FuKI7pnDtKwzsGF43fIKmxOSWFXWn0PBow5vB05YQy0gYCHova82IZXuVEl0wn/UEwPIL8fzemMKb1/JuFBmvMauSnSGb69m9iNLgBMjsX0KIBYth9E2zW5t8wVeGvzWiolEmV69UDr1HQfpxMWbhIZhREfkl2tlBogjOnmpA3z/xlv5cTrd6NmqzwGN+rBdTuFib3H3mJCJaK3wgHzLXz6lQ5y4zhUVM8nisfm6jGKHFof0XMGcgNyIrPI09cl/vSfqnhqkV3qcAl9/9w==;bopFJTQGk6Y5xnCHubvCEQ=="

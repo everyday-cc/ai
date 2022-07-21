@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/07/20/1056140/deep-learning-de
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/20/1056140/deep-learning-delivers-proactive-cyber-defense/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 929
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-18T08:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 10
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
 
 secured: "sQtjxqs+TVBj808H5i2c00pg/8QW+aVci0pVT6KgyuSy1/nRUxZSOxZmsvQcxQtxgeVJsY4SvE2gx2fpe7366HIxFoj6RCXCv2xqVAa90yyZwsfMIkjcNiGOX826yv5raV91aDFpSwdnBz5kYX86u5DXGaxtA31fnBTJ/vf9twV1mwjoGRpEVPhZXksXjZuwomNUj04IZZ4Nyci/rpMg0LUazdRcHsnyv8/qn6YsfaxTGNctc/zHJPnnFpADbW/kOfl/A8dG0TDN3nvxDQ4jo5FDwLR+naSQH+mZmKucwqzbLKYEWN2MF5asHo6u/t9IIEYvyYcRNXRlkdXA46vGviFSW/hFZWfjJKgzHzjdfzyVoaJpp084OI0cZ3F6qLJVWtRrrSPWss2QLeVaRI5mrVFGaKYZ9R42IIFbdjyvoHwQ8HvJnC+wyIP4VBVtgsU3m194pfw/BdeoNrFeJAtyHIjweEJfu4Mef/zJUdtxJpOvfSqAbo5VT6+FY9aL0PGV34GA2xoIdFCo9/BK+S8TKQ==;lXN5TyK8RsitbAzcdXr+PQ=="
 ---

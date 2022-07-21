@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How AI Can Prevent Problematic Gambling in the Mobile Betting World"
+    excerpt: "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/430334"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
     excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
     publishedDateTime: 2022-07-20T04:49:00Z
@@ -74,6 +88,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "AI speeds sepsis detection to prevent hundreds of deaths"
+    excerpt: "A new system identifies patients at risk for sepsis to aid in the prevention of the illness, which is often difficult to detect and is one of the world's leading causes of death"
+    publishedDateTime: 2022-07-21T15:01:00Z
+    webUrl: "https://hub.jhu.edu/2022/07/21/artificial-intelligence-sepsis-detection/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
 
 secured: "mjgWVQPeGdi/lAR0vPEgw0YR9wnS6rGInbUJWN11AZuJkaz/lYwu/ZEkHvviIrIYRizLbKFQtEwynuAjtTBxFJXDZog1CEhycnMWSYHStr3eOllCR++ELNi5zfmbyhn7JpHgQKWu/bcuN05I9Ty/oWRqUpw1oB0JoJUIgtq/SvkpVxkPTGID43dYlWVwz12EKZCDRGk+D80ZqDPdG15b90Lh3Xca+o6nLjjX54oXACf6F6RQvDnycu72QlesthJ6mu5hRVZ0uSiZgaMIHBpAarOCmLgPmiWV0iOdgQMj6+uLGRgQf5WIouRHn2UdD7utXvsYDik+iEYHKdUsI5TfLTiNpl1WmP01zsVtAvt/lpA=;byGPDfXs6qXhIIavjGDIKQ=="
 ---

@@ -34,19 +34,21 @@ related:
         width: 500
         height: 310
         isCached: true
-  - title: "Using AI To Speed Up Edge Computing"
-    excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."
-    publishedDateTime: 2022-07-19T07:04:00Z
-    webUrl: "https://semiengineering.com/using-ai-to-speed-up-edge-computing/"
+  - title: "Biologists train AI to generate medicines and vaccines"
+    excerpt: "Scientists have developed artificial intelligence software that can create proteins that may be useful as vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
+    publishedDateTime: 2022-07-21T20:04:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-biologists-ai-medicines-vaccines.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-biologists-ai-medicines-vaccines.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-biologists-ai-medicines-vaccines.amp"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
-        width: 2560
-        height: 1280
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/biologists-train-ai-to.jpg"
+        width: 640
+        height: 428
         isCached: true
   - title: "These robots were trained on AI - They became racist and sexist"
     excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."

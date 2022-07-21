@@ -7,7 +7,7 @@ originalUrl: "https://www.retaildive.com/press-release/20220718-renovai-will-lau
 webUrl: "https://www.retaildive.com/press-release/20220718-renovai-will-launch-their-visual-commerce-solutions-on-seldens-designer-hom-2/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -22,56 +22,6 @@ images:
     width: 1500
     height: 700
     isCached: true
-
-related:
-  - title: "5 ways AI enabled call center solutions are enhancing customer experience"
-    excerpt: "The research firm’s 2022 study says leaders in call centers should use AI to offer insights or predictions, improve user experiences, and optimize business process automation. Indeed ..."
-    publishedDateTime: 2022-07-18T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92945587,imgsize-4528963,width-1200,height-628,overlay-etcio/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How Capital One is using data and AI to level up customer experiences"
-    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
-    publishedDateTime: 2022-07-20T18:32:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Univar Solutions Receives Top Recognition in USCX Awards for Exceptional Customer Experience"
-    excerpt: "Company wins four U.S. Customer Experience Awards across all its nomination categories for customer experience, strategy, and use of data-driven"
-    publishedDateTime: 2022-07-18T20:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/univar-solutions-receives-top-recognition-in-uscx-awards-for-exceptional-customer-experience-1031594996"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1861425/Univar_Solutions_Receives_Top_Recognition.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Freshworks unifies customer data to AI-enable a more joined-up experience"
-    excerpt: "The new Freshworks summer release connects AI-enabled chat into a unified customer record, or CDP, across all its CRM applications."
-    publishedDateTime: 2022-07-20T13:47:00Z
-    webUrl: "https://diginomica.com/freshworks-unifies-customer-data-ai-joined-up-experience"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 16
 
 secured: "MgvlkyPL3Te7F4l4ROF6vkxtomIXVEGtUQuRfzwz+1gHobkqIrtslIO0NkPveDP5kbWL3mY1bgr0nx8bYx8uqKk/WZ6GK8pA5LeP1jzac+YGDwBY9l4x2rGWBJxnVp0pXIp8z7IhUoqUnxgUUtHpzkNlJev1OT5pHAkcEsp8SAgX5bIORObwXuJ3NvbpMrkstMr2KC/x58PC2QJLUCEqhKxldw/VEdc4GvYBb+moczUxxEaWt5Wp/KVQ5SXGrfdwR8JHETngDgfKu6FcWMhe5egpG185Z1avRlcmGiktlpOpx8zrGhDkoCqvSRj9LG2QE3a31ZQ59kHoZW5M+vQC3+mQBB7Fn34x4c+SUyW+saQ=;/0f7p6XFwqvMXmJMcoC8FQ=="
 ---

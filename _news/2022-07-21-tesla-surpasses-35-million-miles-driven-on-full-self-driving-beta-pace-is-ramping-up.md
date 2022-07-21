@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/"
 type: article
 quality: 82
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
     provider:
       name: Autoblog
       domain: autoblog.com
+    quality: 4
+  - title: "Elon Musk Hints “Full Self-Driving” Is Coming “This” Year"
+    excerpt: "Tesla first started testing its Full Self-Driving software in 2020, giving select owners an option to upgrade to the service, and now we’ve learned those vehicles have traveled over 35 million miles in under two years. Furthermore, this data has given ..."
+    publishedDateTime: 2022-07-21T19:02:00Z
+    webUrl: "https://www.reviewgeek.com/123725/elon-musk-hints-full-self-driving-is-coming-this-year/"
+    type: article
+    provider:
+      name: reviewgeek
+      domain: reviewgeek.com
     quality: 4
 
 secured: "tL9doS6SspMdlO4cUBvjfQVMCFOUjosyjS6RWvDlLz39h/u40sW0QsK+tNXkBhzOwIKwl2jS6bpQh+yt2HVXj7tpn1HaBKT0Q/1CC06PrLGLdlT8KnMgrtEmoTMs11pvojEyiP8wj9kzh//DICXmF2zBE2Z+0Z6/OJSA1gAyK5klkfOOX/sfoI3s4B/TaJjCBg4mRkWVS3g84926nv0zKtHPyMrIJKSinosuEojVyrsIFx1HyP+xmEcKdhj2bk8umni7g+1fPfOxXFbWjpJhqIiDyIpNKWVyUVN38WY1nYduaJf7YN0ruqScFn0HAwYd2rRehbpLXi8CPuiMqQSzmn4r0TPNhomV0I9/OIMzQ4Y=;i7sSPauUtu4q3Yp6sWhjsw=="

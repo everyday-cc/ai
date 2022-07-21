@@ -67,7 +67,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
         width: 635
@@ -86,6 +86,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2022/07/19/071922cloudAING/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "VDOT preparing to use artificial intelligence to predict traffic"
+    excerpt: "State transportation officials are gearing up to use an artificial intelligence system that will monitor emerging conditions to predict the impacts of traffic disruptions in Northern Virginia and the"
+    publishedDateTime: 2022-07-21T20:39:00Z
+    webUrl: "https://www.insidenova.com/headlines/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/article_e09c58a8-0934-11ed-9a14-87e90b2258cf.html"
+    type: article
+    provider:
+      name: INSIDENOVA.COM
+      domain: insidenova.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/1/ee/1ee947a6-0935-11ed-9c8e-c733832ed5d8/62d9b95777569.image.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
+        width: 1024
+        height: 538
         isCached: true
 
 secured: "yLoVtMsxk/SoU4sqmGkSLQsnJtV4q8/NLHdqc3T1KpHlrAyKwPpU6l1OGYFUq7LYbvjYl/9QGgUNdrCns5+2gURjFM7MvFRVESr+dVaQuDsKk3b76mpmvRZb6Q8nAj/8/rWK3Zxnxu7FYdc2teQ+7+N/sVGt8CttLH0yUC4pg1RP1UEv6cFnws6WoFb9IKILCe3rvcR2wT5tZZwwaGT9lESSpBCg10kVgfaqX6usQx0IzsSKW0gaivQrtwV5PH4Z/Omg8ir3We+Zv4md5GALQeGaUm8BPQTl6hzFDecve3feNYePjAAWJ5XRuOen9MBe+fPu41RO2GNCRV2SCYAUkIYu9nW27ArqaqBkjxyJvOZ0xR15GXJNJlrIhNHLSkzYir8fYk3XAIDMCMlbA+2p2U3SppHem53/CcJhk8QQBHdCKzECLSWvfFTdXckGTuJVX+P5zIdKHeIHUM0ac59Jn50AtpbVDuGLOjNAcD7yS3Q0TGRkiO7F1RBX5Fuaw7OiWPwIcgEvk759pvhU2HZjRQ==;2IgnYSFIUxnbl8zqRYH9kA=="

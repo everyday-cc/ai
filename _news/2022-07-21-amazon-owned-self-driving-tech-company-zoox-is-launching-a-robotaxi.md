@@ -81,15 +81,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
-    excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car"
-    publishedDateTime: 2022-07-21T02:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-1031602703"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "Baidu unveils new robotaxi it says could halve commuting costs"
     excerpt: "Baidu Inc unveiled a new version of its self-driving robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
     publishedDateTime: 2022-07-21T03:45:00Z
@@ -129,6 +120,15 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
+  - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
+    excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
+    publishedDateTime: 2022-07-21T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28145013/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "oOp0owC8KHyov5jYC31rYdmE8g+zeCyocluCFO/ANGEuWDO/tRw4/My+UUt9aRJdLOl81F8NEHNwr+lC5bFBZOE4rZzYLBcxqAWyFkq5xP41H2gq1t6ipzllm0Fa3y5/OuPeP8ZqBcNZEZk+Xp2A5Cu2VwXqZpi4YmfJtaldD5aFuaPqYud63plkftcDI3OKFO2dh0HV3wCXTvhJhH9eOX2dr0k87Lrm9MQAM6EvmhF4+kw/ZFyDSRA6bkYd21RlZol83XNI0awvUrPhac6NrO3jtUyhNvNpqaMwtStMvaeubLqtExni+ysSiKDAUZlN4qrwDdemC/UUcyeBGJYaMsSGovcuVyIodfdvLOZ/bKx/2P9QEm4Yiily7NGuhPyc8IVmAJUPTJuiuf/pLl1qVqbyElIyBCFC94PDj7jARDZ48gLdzb+uq5kQeignniSlkTc4a3TxvtLMEbhNueLbgF3aOe2pxCBtD799j2aRH3gmM5DpEIBmMijBYe/ZkuLzlDZ4YYbnvK+uBb92/0+sSQ==;U/h0/+mZicyRTzwKNyJ1ag=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Baidu unveils what it says is a $37,000 self-driving car with no wheel"
+    excerpt: "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year."
+    publishedDateTime: 2022-07-21T20:30:00Z
+    webUrl: "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
     excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
     publishedDateTime: 2022-07-21T02:51:00Z
@@ -92,6 +108,24 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 19
+  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
+    publishedDateTime: 2022-07-21T17:27:00Z
+    webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+  - title: "GM, Ford Ask to Deploy Self-Driving Vehicles Without Steering Wheels"
+    excerpt: "General Motors and Ford Motor Co. want to deploy a small number of self-driving cars without human controls like steering wheels or brake pedals and have petitioned U.S. auto safety regulators for exemptions."
+    publishedDateTime: 2022-07-21T18:03:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/07/gm-ford-ask-to-deploy-self-driving-vehicles-without-steering-wheels/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 4
 
 secured: "mZxpkH9JMcXK3BK7Pj6i5vH/NkERD7q2D8SKwGQqc1c7kfQf8xN5PqX3H/QBE9ZqyNCY/X37wdzkzdtX5qp1XWGdMvKAo/lzKczRcoQvssTXc9hrLocpN78T/uoIDl9q79tjFK67++sN27iKg2PVzddhdj0aUD+V+N5YKVhaWk8DovrpAMmq/qSZd3oyn1tK+ZSvzHWfG78fkBJYrkcaAIpJ1ZiJCimNBW9UiAcaVwY8TmT3KLxt+y7Ca8yWODdcMoBkD/IEDXbHkYP6rzWtMTf36+RL9KR+TthAx/dIhPpiMn1HdZ/UXQvrzNpW1BBShb16vIrnfrms3yeIJb4vgBudD93JNEr82Se3PxruTkw=;oWak2QVcP+y8jVUwTZihBQ=="
 ---

@@ -70,22 +70,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Making AI Accessible To One And All"
-    excerpt: "The democratization of any effective technology happens automatically by virtue of its success, even if the complexity it presents initially overwhelms"
-    publishedDateTime: 2022-07-21T12:20:00Z
-    webUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
-    ampWebUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/lenovo-hpc-ai-logo.jpg"
-        width: 952
-        height: 525
-        isCached: true
   - title: "OpenAI to Expand Access to DALL-E 2, an AI That Draws Whatever You Want"
     excerpt: "Need an AI to draw a professional picture for you? Research lab OpenAI is preparing to expand access to DALL-E 2, a program that can generate images out of whatever you type. On Wednesday, OpenAI announced that DALL-E 2 has officially entered its beta testing phase,"
     publishedDateTime: 2022-07-20T18:15:00Z
