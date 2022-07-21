@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-21T00:17:00Z
 originalUrl: "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/"
 webUrl: "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/07/Maui63-Hero-still.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "5As3hd9+Dvjaj/6sbtUrGuni9HH7qzavKwZVJIJGB6fOIgJ6/tLy08fQCX5xnLMzNAYlq6dsvE/mf9ZB5CSC09z3vKx32oEc5/UFiF9KXndLnuSyPTS/9SIbw5vrLIS2zAR7rPaPEc0hS2g14aoEhjPwFKqYxPNMayR6nvRpme3O9Xs1YMd+Okbek8MqYTT62S1XhF5FEyj553j8i5PalPKD+xtKpZhHi1xirCuUZQGwEN1RIQlEMFdVBSEc3Jj18fhvHJi4LG3IU/DZHuTbzPi+VGhGhGR48RMRggtiallxcQLw6rDjOwGiiGU44dJ53uNagiz+J0AoBO8fLCbRic4qfqvuh2WAzROHUf9j9Iw=;edlg+o7IJIcw0l+GRNkotw=="
+secured: "4OLkZF43uwn94yhLZI07ztuMa1pyeqLRKvlFABf4GhsBx9JhIe/8SWMOik0h/c/n3ouX41tqhjkfgG7vNKrTZghXrZrhUnzgiEFinBWMBJ6Qaztim4BbU9LPC0fpDISraBFwbYYNywvYsVctor0kfEVMkToCn3SA1JMMRNstDGf/+rY3wjTSpnGfcMSF88UcT2AHp5isaNIdpmKhvTNtVZneq0cLv1b3v6PDphb/xsqKf0j1ZhFJNGGq5I6EdT5kXXvBffdVhQl4u2HioQT74JYPG7rv/QlEM8uZnmIhZT0rW/HLL2y9j3NpcADN/7vlJ8VIriC3Q2mmCVwQLWKvZiOwLwjsxIyHqX/1Fq1uOPy7+98+lI2sVilzIbc8OsQj275LXb+vbQ8ls6ik/mHx2uCDM5dnSDeA0oDohURJY/EVXYSPtr6fPcRpuS6xVmhZU42jDtUFYR7z6+fudfYYj65J7NL8v34DfYSxcNSASOnB1CTh9q/ShniaEY+pYypq/Jn3MAq/dZyVgVxeCLUG2A==;Pwhz80qoWwRyTZVfBRkSmw=="
 ---
 

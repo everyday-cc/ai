@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication"
-    publishedDateTime: 2022-07-20T10:41:00Z
-    webUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 22
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_966.jpg?h=7de12b8a&itok=V6tWttvy"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Fibocom Wireless Inc.: Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
     excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication modules, announced"
     publishedDateTime: 2022-07-20T10:58:00Z

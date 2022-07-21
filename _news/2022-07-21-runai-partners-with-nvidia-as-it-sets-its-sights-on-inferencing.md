@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-set
 ampWebUrl: "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-816675200.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 686
     isCached: true
 
-secured: "jO30AH65Tup3ZVU8Rh2RKySVC8xbPYJ6s0PYW7QCP8Fi84FFD9VkcmcORZyhLGf8KcbgQQVSJTBEOipMyju3VYEe7QCaccNQqBm66Y6426ITwpx1KSv+iCRTk1aJACgiv9GcnoEysRAShV4CYLzPXLCZe8/ReUHfqGVjeq+rgxdtLOocFq1jbIxiMP9cKrCvUoNr4C2IRXiEwZAdIIB+MHx79vaUcBJhPtLO8zHPaB0z8Jn+lr5FdcqzRnH1Ej9R8VqyDtx1TPY5UL/YbXZ5cjWySLBAj4+dS3f808eX5MkdPpU/Nt8axDoiIQCtTHvY0ocudJiCm7JD9BxZTxU84sOXzU+sLN2T7G0WfqY8+v4=;00IfsXUqQdQTskTgmY+kfg=="
+secured: "QTLOluVSP46JORkVXICFzS4ggntAXfXRItu8VlsgK7ZlxZ7YRHry/gt9s7bcnQCLQtvloP7ZO4q3uPM52fGoUSvpQ5DYtsJmajtLZXuX4UwZeXycJrB41eT4TYPBOzJRyI1aJtBu8N7DAHinIECwrq3dA30XS2RCazUAEE0cHQnS7c8O/mJ2I2gKmLdyBx+FX3toSLTJo+dyStYqy717bNX2jvwO7GMYsY7wnnS0PIAvmn8XY7/Z75ZrIkrdf2uJyNROkUy9t7JIKCQ0DKWMgQIxzWnHerKMLgeb7ixoSMQScF8LbrwbMmFsaqlG3/mOWIBTXUE6gNo8WClfu7NX0UEKsKoO/T894uQxWtuC+/iPFNyDUQW12nshf5X+gKA1ZS6B9k6IBC0sd7GH1TTbRrc2Du53qItlnvjQdofku1g8xFTaUt9HMvuHoUsb25razrQwWIiR7NfZ5oDnU9EJSxymKOpr/+Bu7RQ1KWCFTH8HjlQfsx9ht3c1tVTDC4NByJXljq6HXohp2U8+coX5FA==;hIT4z94E2x7VtrNwLS4nmQ=="
 ---
 

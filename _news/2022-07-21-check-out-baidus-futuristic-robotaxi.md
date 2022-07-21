@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robot
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:

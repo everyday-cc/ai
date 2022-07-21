@@ -8,7 +8,7 @@ webUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intellig
 ampWebUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
 cdnAmpWebUrl: "https://www-nbc12-com.cdn.ampproject.org/c/s/www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/67bUqYlUu0dgRXbK0oEINUpJYxs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5ADGYSOLD5HT7NAC6Y2DOOCPVI.jpg"
@@ -87,6 +88,6 @@ related:
         height: 400
         isCached: true
 
-secured: "n9JAcOpoWoIP29WpGrhsOfL9AaCGVXOoakAJ9gKkoVvfk6O6b9w7MUfOuvUrd1ZIqAJoc4jSzPbJ44W8mT8T4quKiAoNrQ0cS0PR6tV4EPjL8W0yENPHyQceBBnElOrSmiAaM+qFkR6+rCtcn9BKQGpr8r2p0sxUcEAWGc7W4f6cosVSMGMV6BgHoXASWBZ22GXe/1lizNY6bpRGx5ZD1ZTmXdvkytRNeP/aqETSnAKjvcNJPnEy6neQ/1/5gXtZ4y4k+14PntNx3YjmNHXhgVYFTRJmdanp5c8a8mtBktzjaCb0CDy9GHXKgeHyRJuV3078C2Cf6e7FNS2uaVNt9LW2nBVH1IQibZR9lyPk+bA=;5LCid8tBC6XCHnVMTEB5fw=="
+secured: "yLoVtMsxk/SoU4sqmGkSLQsnJtV4q8/NLHdqc3T1KpHlrAyKwPpU6l1OGYFUq7LYbvjYl/9QGgUNdrCns5+2gURjFM7MvFRVESr+dVaQuDsKk3b76mpmvRZb6Q8nAj/8/rWK3Zxnxu7FYdc2teQ+7+N/sVGt8CttLH0yUC4pg1RP1UEv6cFnws6WoFb9IKILCe3rvcR2wT5tZZwwaGT9lESSpBCg10kVgfaqX6usQx0IzsSKW0gaivQrtwV5PH4Z/Omg8ir3We+Zv4md5GALQeGaUm8BPQTl6hzFDecve3feNYePjAAWJ5XRuOen9MBe+fPu41RO2GNCRV2SCYAUkIYu9nW27ArqaqBkjxyJvOZ0xR15GXJNJlrIhNHLSkzYir8fYk3XAIDMCMlbA+2p2U3SppHem53/CcJhk8QQBHdCKzECLSWvfFTdXckGTuJVX+P5zIdKHeIHUM0ac59Jn50AtpbVDuGLOjNAcD7yS3Q0TGRkiO7F1RBX5Fuaw7OiWPwIcgEvk759pvhU2HZjRQ==;2IgnYSFIUxnbl8zqRYH9kA=="
 ---
 

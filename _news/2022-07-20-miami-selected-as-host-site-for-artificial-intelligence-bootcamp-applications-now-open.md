@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami"
-publishedDateTime: 2022-07-19T20:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-ampWebUrl: "https://www.benzinga.com/amp/content/28124099"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099"
+excerpt: "Argo AI is one of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+publishedDateTime: 2022-07-19T20:37:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-miami-artificial-intelligence-mark-cuban-64686b12a30f0bc5b8d31140f04de55b"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-miami-artificial-intelligence-mark-cuban-64686b12a30f0bc5b8d31140f04de55b"
 type: article
-quality: 50
-heat: 60
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-    width: 900
-    height: 594
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VYV6+PIFSE7x5/zMyTvmJ5WPqFMTO75kAauQMttD005wkr9ZAKWhvSRupdl5KRwUc66n/hV84DS6/gO6ypeSSsWCIPhVDr/nNcKH6ZVxolbe1m98ZqyUn3RW/JCx5rjF1kZW5ihwlE/mIxunnP9v1T7p3OnPj5xfndmBecAhzzRR7RtZSzoDY2t+Q6rOJADGsBder+awCON5G4E4ZhvCAgbvsXKe7mG9XiV8LYcGfs6oy61KGNnxKLRT391hZwOGyFrNPK9qHp9A30xQLWTKV2QJZ5CG7HbpqIgn7I/hqPOjp3wE0mpEtHrdSyZ8gN+S8+cwbTnjiLck2OOng1lY/0bQ4Vdpz17l6NI9CkCBGaI=;ojbSg221WIOPM+tJbmn9eA=="
+secured: "p5Z17Uv2b8RYWhMghmGttfICTjyhFVVnRs3XgxVB50StufTO+Du05qLn8bB/YX+CoGOvK2/daBxmvVirPG/TCgswPpsW7SWFkxr8CfxRtU7dDzBM4ocJr0ynfyKQHb0XQmpeL6Z89JoELNz1Aiq87OPFtyzlXRUQOXcU2Awr/BgCI9Q1kcTH4/DqWxYyuHHZ0bJfBhRdVq+PATeNNMnE7nBheO1pFcVV0jjiqSyPOKPmdWh9x1sWXUOexfNUKj+ffpV6U3jcwINCVUUhZ4H/8vYwIba9e+VAjZEuyS32zzyLm1A/Sc6wp5apygoP9ymH45icA5LojRxBwZWiYBqr5eBeI7+17aLQS8MDYzjpdVo=;KVRq3sT3iIK9cVD4W8Qjww=="
 ---
 

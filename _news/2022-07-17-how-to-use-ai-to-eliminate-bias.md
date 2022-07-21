@@ -71,7 +71,7 @@ related:
     provider:
       name: WWBT
       domain: nbc12.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/67bUqYlUu0dgRXbK0oEINUpJYxs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5ADGYSOLD5HT7NAC6Y2DOOCPVI.jpg"
         width: 800

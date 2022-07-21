@@ -3,8 +3,8 @@ category: news
 title: "AI art is challenging the boundaries of curation"
 excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
 type: article
 quality: 67
 heat: -1
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-800x549.jpg"
-    width: 800
-    height: 549
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
+    width: 760
+    height: 380
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
       domain: outsourcing-pharma.com
     quality: 4
 
-secured: "3J5sOq2Q8XDggYaA5Hn/hn5yhyIINK3H1Ht8Q4ZXxNRbREX5sEeMDGORmoLfWWR8BMdX6ORGzlVyXBH97grHZ+D47WL6jE4AJtTN8w7cnp4At1d2p6U2xWVVpatvG/U6jf9Fq9tpynmxyFl9Rz+BiC/ysJwdWcjUqIb9Z3dUunC87+R7Tp+MR1CC/Fk2e1sGfjpcWNfh/p2DM6itakV6feiwf+//no2wxBATkrXcOnsRLPi3y1zfRqSPQSjXOLoCQEtBPkHEiv6EHS3JR+62hizgkVOisnPydSEcnB8jtIfIXcY5Crvw3YE+rnsZYLSdsTqSAzncubY3r3sJncoq4RjOWFM+X9eEHePZlDPEJ+w=;9WVKzCGemgPaAWY3XEmc+A=="
+secured: "82xDLD1SWZpuN0AzFmqdkq5d+k+YikIMvtrQsfAu6p9hJyMCbAjALTvJI3aI9lu7AH0Cs+yVK0FpwWwZnzzwD1w28SPaMV9VABjSkTBFXmUM0FYp0vVWCe8VA2FWstYHOQK0pOK6zNbSVfb3g4Fxfzm7+vScJrMpUuVo9JzcaF2Oa1a0nNwLo0i+g7FaRhVMgxzzL6OUm/Ae2l6hwhw/A5o09AeRHrO1wS8POebUB6Vm7WaJZFr01wR6/Y25VQUT19Xbs8JCezbNysprbjPOaonJjsSNYMM5qJ5Iv5t9/sD9pQNq5jhtaTEHwNI4cRqaMzrDJ1eBYN1x9Y9WN48rVff3tmiFqOvDlB6pQtAytVY=;hbX3MBrzzBnNrlCRe1bCLg=="
 ---
 

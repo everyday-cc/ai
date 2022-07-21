@@ -47,15 +47,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Driverless cars: Technology brings dream a step closer"
-    excerpt: "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ..."
-    publishedDateTime: 2022-07-17T00:00:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "gG3X4i0qYPJkssLK26gX9KJLU8NBQoM/O4kZ7IO9WSgr5YXxcf3i8m0TlzCM8HYTBAsj0EVG4mSScqMjugj3NOshLOL11RUs521v2uKJufqFwrTDoup20YXHpQjzknOXD3YOTXeecs4YXnydS67vGNcza9NeIWdLs50oDoKfAYxfRvz9F+SBGfHT6VMp0eZq6elfiWSH54bxiuIKNLBwgpfFmSLeD6NbcKsbVflReISfep6mDPtpvX0/GUmb/AYIn3IK/ALzsvNH6Z0t3wNPtlqL3eNsvbPcGkN512xo6/XwVUINKaQkdaoUFQ2N7u7XUYjILXqtMUmpZCcwKua+OlELni0Vc0QfRh6ndOLhQcI=;TSKlImvuTB8HbN07KehgEg=="
 ---

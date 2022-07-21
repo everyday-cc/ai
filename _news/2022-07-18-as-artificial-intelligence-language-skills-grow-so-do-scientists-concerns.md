@@ -103,6 +103,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Big Tech builds AI with bad data. So scientists sought better sets."
+    excerpt: "BigScience is a global effort to build a more transparent, accountable AI, with less of the bias that infects so many Big Tech initiatives."
+    publishedDateTime: 2022-07-21T09:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440"
+        width: 1440
+        height: 987
+        isCached: true
   - title: "As AI language skills grow, so do scientists' concerns"
     excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel"
     publishedDateTime: 2022-07-17T14:32:00Z

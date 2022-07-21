@@ -18,6 +18,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Global Advertising Company Acquires Israeli Fact-Checking Startup"
+    excerpt: "Zefr, a global company that determines the suitability of ads across the world’s most popular platforms, has acquired AdVerif.ai."
+    publishedDateTime: 2022-07-21T13:38:00Z
+    webUrl: "https://nocamels.com/2022/07/global-advertising-company-acquires-israeli-fact-checking-startup/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 22
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/07/keyboard.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "t2NT6kxLzT0G54OqRe4Q9U5avtxI51/adfBfoiu476Qir9Rf1P1xPLBy9tcL7/AqsBkJWubx9BDIo6nqdbBVy006TpdGd8NrNCBMo/603qmXDRDDtWDzRs0QUliDaQ5KWjvMkctopgq70U2ZCqMGdWdiMvPx/0ki1c0RNqQ8NjGn9OHwtJNrIEbyqI/l4p+TKHfVHGUqnMIEglQB4L6oExMz8Ao7vsFZtZGLp0WGFC28JCz1fn1Fm8PCFXjXurxzxB7OhauOa4k/AoexyNgTrQIsyXOzK+SFY+NK7+zns25+U4MGHUpQvE9M3GYMnrt6h5JNDTqqIlu3ZNXcNAmH6M6aPUrVd/xa6eS54h6hboc=;8JhvHGX5bN9zimo0sXyFIQ=="
 ---
 
