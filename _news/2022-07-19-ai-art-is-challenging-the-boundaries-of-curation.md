@@ -1,14 +1,11 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
+excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/?amp;amp;amp"
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
 type: article
-quality: 67
-heat: -1
-published: false
 
 provider:
   name: Ars Technica
@@ -21,55 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
-    width: 760
-    height: 380
-    isCached: true
-
-related:
-  - title: "AI Art Is Challenging the Boundaries of Curation"
-    excerpt: "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,"
-    publishedDateTime: 2022-07-17T11:00:00Z
-    webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/"
-    ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Artificial Intelligence is the New Basis of Civilization"
-    excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."
-    publishedDateTime: 2022-07-19T06:45:00Z
-    webUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/"
-    ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
-    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 61
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Collaboration sets sights on acceleration of cystic fibrosis research"
-    excerpt: "Epistemic AI, Cincinnati Children’s Hospital Medical Center, and Boomer Esiason Foundation are working together to advance research into the rare disease."
-    publishedDateTime: 2022-07-20T17:52:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2022/07/20/collaboration-sets-sights-on-acceleration-of-cystic-fibrosis-research"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 4
-
-secured: "82xDLD1SWZpuN0AzFmqdkq5d+k+YikIMvtrQsfAu6p9hJyMCbAjALTvJI3aI9lu7AH0Cs+yVK0FpwWwZnzzwD1w28SPaMV9VABjSkTBFXmUM0FYp0vVWCe8VA2FWstYHOQK0pOK6zNbSVfb3g4Fxfzm7+vScJrMpUuVo9JzcaF2Oa1a0nNwLo0i+g7FaRhVMgxzzL6OUm/Ae2l6hwhw/A5o09AeRHrO1wS8POebUB6Vm7WaJZFr01wR6/Y25VQUT19Xbs8JCezbNysprbjPOaonJjsSNYMM5qJ5Iv5t9/sD9pQNq5jhtaTEHwNI4cRqaMzrDJ1eBYN1x9Y9WN48rVff3tmiFqOvDlB6pQtAytVY=;hbX3MBrzzBnNrlCRe1bCLg=="
+secured: "J7rGF4jArGcMEC9TmmyGl6ULuwkO4Zlvlp0fGATG+J6irmhREf12qkfeP9XHVMbtElwbbU2JzN7/PKxbjFR0w70SCOyrE3MmAPAUs5cqIgKIAr+v4QxnlK05Tnd5wzo/lDJ17zQH2ysSBM0i8YIPEtXS1b+0xjUzmMGaaU4JP5tCUCFvZ5TjymM5aSHSjaVKX/7/aI+fwvqbG1M56RNBkqPm5gG1y95p3aY1A/rGtK+u+1IgtZOYR+GMOZdHMPvQ9Rth+h08I4Lxl8ruYruoWMFbyUDP5S27kUmKQ5lpOQKm5fn5hU9BmAgODcEyfiE++saHaHgsx90e/b2fwrKIAMUk32kNO5OSoy/CyiehLiJkkQKIIUPKD6YkhNkbj6bCvQF9RZKkpegRbv50ykqxepGI66MH7H2l0+sBg40xUN3hYAlVz+W+JaUgcw1ipeDSyBmo1GF73lzu7Jt7i6wsFJ5/DGRqnjH11mbHVp1y9oBGHjypEvvBCJq9McxijOb4aySpUBkU5VwVMvlVQcG5iA==;DFC3JqwGIK3Hw+1ktK7ASw=="
 ---
 

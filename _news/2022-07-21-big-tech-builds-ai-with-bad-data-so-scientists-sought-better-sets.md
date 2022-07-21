@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440"
@@ -135,6 +136,6 @@ related:
       domain: butlereagle.com
     quality: 17
 
-secured: "ODYKzL0Knbnb/Kwl9OBwgZSMs1P+MwuB531+9nBvdAu2HdgdyQDDpol3sogWm0i5yjq6SNDszdRJheIlF6ojED4kP6UbT6CvnGKSDblO7zuL/9YBoEJLysad7rPtxYw0SivRxqxR6AE+JhRfx1OPjpIC9ryDhclybk8ltcgAesz3dgR3SNxpHwzw8wIiuOpEf92Rsa5P7R/r8PUoC6g5IwdjtoosZ736P0AV5QAVrdBdUHvuFiTMDNUlpnexo/b8etGjxg2JRuUXC7KUjva+Xb+UiOUdaLPO9pnGS6t6Tsj7eGRW0ohJStl7qtUtSUE0urFtBVYY1n+mKBywEW3gz/X5IeYNIHoWMrmJ2rnChz4=;GcV9FlcWilSatmr60hbnPQ=="
+secured: "k49C/740RYuwUsBumq+d9gTh7zKZ+G1sTJxcxb0ZE/az7i+s8H6FRbKl2SfIBwh7eDOuJuns28fu1dSPNLqbZqs9t9lBOTTlN+F/swVO+wRTtOGvcMoQalCR0VTETEBcyd/krExlEfCPqGb3UA81KfQnkxAjvQfnWwcTUVH3CmWY0KmSlhikLnaJmTKS/SbHjb9zWJoa/SHBwINGw6jpQoPbRoDWkJkGTgfNmRtaQakO73Appx9YrR4iGh8pABfRHtE6gw4SOMJqeQwvEYIfMSfhWzoXU5cpz1ih1Fzf+pgnXzvfDt6+CzyliqhH/OTYiOITy2vL+BSXEvbOmoIAWo6Z13UyRPPcSLJqzXBybW/QXDYFm/PxjONaS4SDv8kWIRk2J9noer4FYw4gYDN1kkhmUCJ62MGNEhby+Ied3MjBpXRnX3JhGpTV5vNmP/LM97gzewB93kgC0dZNrgOMIv4rZL7U1vazA3xQrgreX1wzFjaQMB8CmTS6effTyKDNwnNmXnAcTEKceSZwlb7YAg==;+Xwf9WmfZyLu7M4fOkhB/g=="
 ---
 
