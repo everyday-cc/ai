@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
-    excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
-    publishedDateTime: 2022-07-16T15:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 32
   - title: "Bacteria-Based Microrobots Could One Day Battle Cancer"
     excerpt: "E. coli bacteria equipped with a magnetic steering system and loaded with chemotherapeutic drugs have been developed that could one day help to battle cancer."
     publishedDateTime: 2022-07-18T08:27:00Z

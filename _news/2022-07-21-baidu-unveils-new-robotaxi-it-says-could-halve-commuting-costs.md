@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Check out Baidu’s futuristic robotaxi"
+    excerpt: "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”"
+    publishedDateTime: 2022-07-21T09:30:00Z
+    webUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
     excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
     publishedDateTime: 2022-07-21T02:55:00Z
@@ -40,6 +56,36 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Baidu Races Ahead of Tesla With Launch of Robotaxi With Detachable Steering Wheel"
+    excerpt: "Baidu unveiled a new autonomous car with a detachable steering wheel that it wants to use for its robotaxi service in 2023—up to a year before Tesla plans to start mass producing a similar vehicle."
+    publishedDateTime: 2022-07-21T08:40:00Z
+    webUrl: "https://www.wsj.com/articles/baidu-races-ahead-of-tesla-with-launch-of-robotaxi-with-detachable-steering-wheel-11658396433"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 79
+    images:
+      - url: "https://images.wsj.net/im-587956/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Electric Taxi: Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
+    excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on July 19 it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
+    publishedDateTime: 2022-07-21T08:53:00Z
+    webUrl: "https://zeenews.india.com/video/news/electric-taxi-amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california-2488008.html"
+    ampWebUrl: "https://zeenews.india.com/video/news/electric-taxi-amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california-2488008.html/amp"
+    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/electric-taxi-amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california-2488008.html/amp"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 51
+    images:
+      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/07/21/00000003_37.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "r80PsmbHibBFkB0DuKYJ7LhhBQaaxN5nDFDCHfrzQ5XsPXqWn1MEvu1PwT/oDvV6Kr3yAEvVRDZdqgtbE7ue8LziKAlEXDMIbVDCOv/h5HYpHZ9MWfmCyL88Xvthzn30QShStiYKLlTjrQiB/8Qb+MtjHZKw5dQzqZcuzdlURLH1ThHCz+XmIeBFX5Dbosu2H/YgAWX9DZv5kAizE3XwQna+7UCicj+qSlOn/B9p9hc6KYaFPZda/wlLY72StVsCja4m6OoPXSSdFVlsbX5BW8UIrsgNm+5eBqHFW/auoOVuBqOGVN5t/wiqzdY/UjyYzwQeZ3CzLSn0hAPN0jPEKlDpCxO6AJr+ZqGywGue2yM=;c6FVEOn1g3VzUzC4j+IJBw=="

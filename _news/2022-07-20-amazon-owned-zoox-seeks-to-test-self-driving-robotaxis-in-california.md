@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM wants to test self-driving car with no steering wheel, pedals"
+    excerpt: "General Motors Co and Ford Motor Co are seeking exemptions from US authorities to relax some rules related to testing of autonomous vehicles, according to Steven Cliff, the head of the National Highway Traffic Safety Administration."
+    publishedDateTime: 2022-07-21T09:30:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/21/gm-wants-to-test-self-driving-car-with-no-steering-wheel-pedals"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/21/1667591.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
     excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
     publishedDateTime: 2022-07-17T12:00:00Z

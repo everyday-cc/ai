@@ -50,6 +50,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Moneyhub joins forces with Pennyworth to democratise financial planning"
+    excerpt: "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app,​​ to redesign digital ban"
+    publishedDateTime: 2022-07-21T09:46:00Z
+    webUrl: "https://ifamagazine.com/article/moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 24
+    images:
+      - url: "http://ifamagazine.com/wp-content/uploads/2019/04/agreement-3489902_960_720.jpg"
+        width: 960
+        height: 562
+        isCached: true
 
 secured: "/Ec6x1P24AE/YcLtkxEu6fxaJ837MoSXqeqiQpXBLFl/vr8YZpSNfIcsfh8ZuUnKF2h1rwWXwtK4tP2oMbeWy8telAbQdRnSeGc6NTdXODcBCx3ZAefhggK81s7V+jMYRQrEQxwfmX/XCk+Sh03p6Pl7qxPRTQsrJJbIa8DQyPj6mFSJ+HU14f54qzG8Xy6ffr3lSk+zEVDYOramiKi2HC017pGovTkk2eKOrsvmEGUiErpFY229Z8fthREqdycaGP0UgxbdZ5zoy3fIoeEsoAWYF3LaAi68gwWOqFBKgdJDl2Md+ATR5+tg79oH+xDyNQzCu0qR454DYHQR/qwEX05ZBuCWyaxKvhS8huOe6tRUt4qXPh93oXKbCSMYzgnbECFibX83Hpnf/cvsQXHB3D0y0EDskU0UHnCoIJCeR8AiENeTavhXBHVkjwx7sCyl02vjeUjeLK9UfidMkfR5N6Q4dTGGzhQFtdJToPYA4eTGz3op8Ib0mTDYHmEX/gnSvxFXPiUZ4Uv0Rk7JphotUg==;EIiD0bULFKHA9/lLgnOp2Q=="
 ---

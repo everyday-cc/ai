@@ -96,6 +96,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM wants to test self-driving car with no steering wheel, pedals"
+    excerpt: "General Motors Co and Ford Motor Co are seeking exemptions from US authorities to relax some rules related to testing of autonomous vehicles, according to Steven Cliff, the head of the National Highway Traffic Safety Administration."
+    publishedDateTime: 2022-07-21T09:30:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/21/gm-wants-to-test-self-driving-car-with-no-steering-wheel-pedals"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/21/1667591.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
     excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
     publishedDateTime: 2022-07-17T12:00:00Z
@@ -115,6 +129,6 @@ related:
       domain: autoblog.com
     quality: 4
 
-secured: "szG8ByNgMHNgdapoRL2MUrQuf5HxjlSeH4mF2Hx2/K94DGv7TtZyBbKRRp52XKtdoI/2ynEblWzwi7p9hvo2LEql6UhkECUKkNDY1dqVT7m5oWg7WAeWmMUvm9xHX1RXx7nh4pkDt7nXCHhPmGGQdAuLtsjPb7NRugmZDqxqT6cuU29YSD3bV/n33epqibwivdYM0PJXI+uBs6WIiiFBPNz8bCiwvjLCtsw4VpbWA4jFXnisofLbdaSyusH/OOKi7fcZn5P80WbCHYcQ4uS5N+RvNL1f+oapsYEgXXD1nM3YFDhFniR/4CfFPi/KIOx3mMWUuhU/QU8OUh0KCRvA0HhNf7U0h6qrajMbykSPihM=;3yeKPaVte28650SDgDMCQA=="
+secured: "9NWNU0N5tzUO4pYQDZdLsY7y4FOnqKysUorIuctkxXtPAwHGN5GzyahjPO2t3OUk3GtPF6aX/xqnGPDcdA+bA579OIYiPqacHpjbNsaCf4QelnrE/rGRMVkpNL3Xt3oR0lYAhO9npEZSZtrbRGUrsnoKssbJ8zQPiDiuSjnENwmJpklZiXflsEL8l/PyyEPnNx9g506PjYyC+EPPFVqwwmpm79X++raee0wedyCJWvXllhsx6qgzx3gLC1raFw7m2YokGo31T2kvj2dUEv/1Gl8l0ELiSR1NArJ6LjCdDF+eJzSgEPW4zP2VfWkDxGuUr3l6ZdEyxqALNE3i+ejQEL1meQD0kruaCvFveX9lkZCJi6DcGpL5DWc8gWLf+IumBKNpauuR9Hx/iwC8BuemUcCA41gXWhnS0jOtyOMF2QuWbU0zcAFbKJvT6cpIkuzD2GQFFsev2fE45CAAwoYZGiugf6teKNRzEuS0G2IMtAACJryG70tHTFSRLcrA7V8/qBCEFhXcQDZ3ixbbrOCN+A==;SuXnzW+0kZyI1+89bbP10w=="
 ---
 

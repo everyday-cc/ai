@@ -1249,13 +1249,22 @@
       "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
       "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/ja/campaigns/stm32cube-ai.html",
-      "originalUrl": "https://www.st.com/content/st_com/ja/campaigns/stm32cube-ai.html",
+      "webUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
+      "originalUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
+          "width": 750,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

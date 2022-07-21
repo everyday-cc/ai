@@ -25,22 +25,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "Biometrics providers face up to misconceptions, reputational harms and transparency barriers"
-    excerpt: "Biometrics’ growth and maturation comes with reassessments and growing pains, as seen in the top headlines of the week on Biometric Update."
-    publishedDateTime: 2022-07-16T16:35:00Z
-    webUrl: "https://www.biometricupdate.com/202207/biometrics-providers-face-up-to-misconceptions-reputational-harms-and-transparency-barriers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 13
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
-
 secured: "y7eLVbcYJ/tpzD1PEdkblY1+WDpevwGY55Hi42EjwyiBJv9P5TE7qV1vY1Bsblnkw3kWnwwwLUEtCzhgWSSmoTjQtYQsy4tLMlY42dyGNS5PY9Xfwv4WF+bajvMQ0+9JewuNKJPQJs1CaSCCWKRNpHsn713WqUwUsBeHkOEdiPn35TJ3kse/Q8WSOxL9s9p1LZbePfAg6HWFPOq2qiAvxY0PcDFj/tM7LDV9UoPT3sOPwEVal2LReGlkj5PvmEePwGHvrhatQYIADkO//CRwujEHP/y4XT6cmQBaL1Vsz0Js3JYVcCm7AghiovPoRRgQZ/NoSR3eBUBsJOGx1CIMZxBGqpUo9kjk8hO1Ma6cq/bSKPNiA+FYPr/ZOfM/vXc9s58fumRmFHfqjKAG1JjbmDn99IJOeXdrsqKviSLQYmgorjGosdfYLgFClLCVDdLIMCGg0yN7KX+oYdPEPAhSPQGBmHmOTqTYtVhJnHajKJVlbzj5XMF51nAMtMhqgAyUea6fjJqtVmC5XEINBQKDlQ==;/WPRbxxs0RsP/deC9PU2DA=="
 ---
 

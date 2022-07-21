@@ -53,6 +53,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 34
+  - title: "Moneyhub joins forces with Pennyworth to democratise financial planning"
+    excerpt: "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app,​​ to redesign digital ban"
+    publishedDateTime: 2022-07-21T09:46:00Z
+    webUrl: "https://ifamagazine.com/article/moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 24
+    images:
+      - url: "http://ifamagazine.com/wp-content/uploads/2019/04/agreement-3489902_960_720.jpg"
+        width: 960
+        height: 562
+        isCached: true
 
 secured: "qFX1RoB77pTkvGcxeviVNuomkTffUGR5Cz1K7Em79MXbLYHFZXf9PA5FDA7pEzc0fJW1OD+KI2Wto5JT67U0B2EYlSAZn9S8yNsIjYFKqVmDrqgYXwkz/DTtVsNzQTwiMCTQ2Hlfoq3U3Wx2Xes0zDvJI0QhldAN/iC0/0uqdhcamVhw01TbkrtZBcx+jLtOBDScXfqY23FrqLeObljU5pGEvhwj+QSxSoAyswiADQECsr8A1pyeXOyPKHHzNmYNQkoFEJncHGrP1KpCeRntgAS9Un0MadB0oenoCXeF4zRTkBItrNC/KdUlAUVgWpqPn/BuP2WixeukJxb1oNX+4NNcZ30ZJWHmTqFqQjlajW8=;IlHCbanVNYzzwmSWHS7MYg=="
 ---

@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-06-14-what-are-autonomous-car-levels-1-5-of-driverless-tech-explained.md",
+      "title": "What are autonomous car levels? 1-5 of driverless tech explained",
+      "excerpt": "The UK government is still grappling with how to update legislation and allow for driverless cars on our roads. One of the latest mandates looks set to allow the driver to watch TV while the car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/what-are-autonomous-car-levels/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/what-are-autonomous-car-levels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/14243/murray_scullion_2020.jpeg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/what-are-autonomous-car-levels/",
+      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/what-are-autonomous-car-levels/",
+      "publishedDateTime": "2022-06-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-google-suspends-engineer-who-rang-alarms-about-a-company-ai-achieving-sentience.md",
       "title": "Google Suspends Engineer Who Rang Alarms About a Company AI Achieving Sentience",
       "excerpt": "Google suspended an engineer last week for revealing confidential details of a chatbot powered by artificial intelligence, a move that marks the latest disruption of the company's",
@@ -1118,41 +1161,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)",
-      "excerpt": "In addition, it provides flexibility on a pay-as-you-use basis. Machine learning-as-a-service (MLaaS) is a range of services that provides machine-learning tools as part of Cloud Computing Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27676295/machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27676295/machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

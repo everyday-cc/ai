@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Be the first to know"
-excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... technology globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T07:04:00Z
-originalUrl: "https://www.stltoday.com/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html"
-webUrl: "https://www.stltoday.com/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle. The company says the Apollo RT6 will be soon be part of its"
+publishedDateTime: 2022-07-21T03:51:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_a161d8fd-ca01-571e-b121-6b559677de74.html"
+webUrl: "https://omaha.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_a161d8fd-ca01-571e-b121-6b559677de74.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/27/b2700883-2471-525d-9575-4bcde9856099/62d8d2d8b5db0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/50/850650c9-1900-540c-8528-0c82f739043a/62d8d2e741cb5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "T7dx4S/l9gr+NMBJ2QfHXCPvXR7OzdBJGW293jqO7pHD942dH0tNhWgyRPmkUGAte0EZEZoGl/8j9V2LjAYJrG2GsVyotoWlZZmCyKYlWslk0n5FlDLpL4PSKXsxiO31dVvi9Cks3sWzAMqiPihFnvzq6bB2Ws7yzJvYdTtK2vPDE3IoShFr68LM505IHQ14Kgkwzo8PphGsgi1Gd5sVehAljErJZK0DOUU038Uu72fUXuvPSAm3JdrrJhvZP9Q7/hhV6q8bjrdhxDgP4hGaGU9LYMf3HYtdhVaD0VM3UsqCD6j0XoZ0F7YYFib8gnFuSnG8MoR8fOfnO09Emm67bwY5TeBvJkw1/Hdj1UQ9vzA=;+Mh6ILMmAOmqKx241yYvnw=="
+secured: "+BF7EzYifIINunXH/bg7TAU9bIVY4QxXXf0qhFLm5yUfrKmjvzvNoA4keHCI1GtqzDg9wxhsPxm7dBB96gdP/i2ZWxymBD1TYd5M9Eu4cb0hgIjZ7kxCX43TpDlsoW0GPIVY3nFwx7ZSu554npBqX7/tQW8WPt3eaAx3u8IWJIB3qntzHba86NhaI+3Cdiuf7Ff1pmvNwJJJ+rkZTX8LQ1Ih3ZYqmOoOm0tC2GXtGpdqDnyl8Mo5MrjSTUr3ZVkUOPOCML0wrkFUJuNIO4HL+2iALRi+rpkBYJP7MGPB022flBThk7OnUfieT6z7AcwsmpOOgSTdcNfwIdnRwDD9L7IM/7bZTsaeWXwIDCaA8uw=;WvwbZdIUz5rXS5wGc1cljQ=="
 ---
 

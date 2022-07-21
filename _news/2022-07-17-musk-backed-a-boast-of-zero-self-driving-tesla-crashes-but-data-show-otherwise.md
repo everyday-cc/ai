@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM wants to test self-driving car with no steering wheel, pedals"
+    excerpt: "General Motors Co and Ford Motor Co are seeking exemptions from US authorities to relax some rules related to testing of autonomous vehicles, according to Steven Cliff, the head of the National Highway Traffic Safety Administration."
+    publishedDateTime: 2022-07-21T09:30:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/21/gm-wants-to-test-self-driving-car-with-no-steering-wheel-pedals"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/21/1667591.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Amazon-owned Zoox seeks to test self-driving robotaxis in California"
     excerpt: "Zoox is self-certifying that its vehicle with no pedals or steering wheel meets U.S. federal regulations and is applying for a permit in California to test-drive it."
     publishedDateTime: 2022-07-20T12:25:00Z

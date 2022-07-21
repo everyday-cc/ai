@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democ
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 34
+  - title: "Moneyhub joins forces with Pennyworth to democratise financial planning"
+    excerpt: "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app,​​ to redesign digital ban"
+    publishedDateTime: 2022-07-21T09:46:00Z
+    webUrl: "https://ifamagazine.com/article/moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 24
+    images:
+      - url: "http://ifamagazine.com/wp-content/uploads/2019/04/agreement-3489902_960_720.jpg"
+        width: 960
+        height: 562
+        isCached: true
 
 secured: "72W1NKbV9OAMbLcWYu+ygrTpCfRcOIRhGE4A+wieZ6Kf9NaRHHKBz2LRyZsXMCpLutgFpXvQOYZx0EUYsjY7IRCO5NCXwZ8b4wPpJiPoTfAX/yBOhqp+44kqsVrr3gvpWOYDyydEFK8I+E4LbzpZQza3eVMkenFDsxaYjGIQxUe06xdJytmwSIewZN7EjAqnwge7c7mbZk2oP9mvBh4ltHzGkRDWg+gU8TZXMQVmwEDXBNWbAv7ONYWhgPPdNDJE0vdrd4EDrGFxHyyvLWIsQg83i1Tw8AAunZ+Fm3P+6IphptxGdV4L2Zu8j/eUv5VFUuoapui7prtlNWf8O+T7HAbbEh40lE9QlbJ82k2tVLw=;uLU4uB9jeTikb7PWnTdKkA=="
 ---

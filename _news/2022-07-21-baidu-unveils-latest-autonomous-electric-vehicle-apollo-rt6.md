@@ -1,32 +1,48 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
-publishedDateTime: 2022-07-21T07:51:00Z
-originalUrl: "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-webUrl: "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-ampWebUrl: "https://www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?outputType=amp"
-cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/07/21/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?outputType=amp"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
+publishedDateTime: 2022-07-21T09:55:00Z
+originalUrl: "https://www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+webUrl: "https://www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+ampWebUrl: "https://www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: KIRO-TV
+  domain: kiro7.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TWDLDROC7VABDKAAOMFTLFUHNI.jpg?_a=ATAK9d60"
-    width: 700
-    height: 467
+  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
+  - title: "Baidu unveils autonomous vehicle without steering wheel"
+    excerpt: "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,"
+    publishedDateTime: 2022-07-21T05:23:00Z
+    webUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234"
+    ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 59
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/21/baidu.png?itok=OsQDVE1m"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
     excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
     publishedDateTime: 2022-07-21T02:51:00Z
@@ -55,7 +71,21 @@ related:
         width: 2560
         height: 1710
         isCached: true
+  - title: "GM, Ford seek US nod to deploy self-driving vehicles without steering wheels"
+    excerpt: "DETROIT: General Motors and Ford Motor have asked US auto safety regulators to grant exemptions to deploy a limited number of self-driving vehicles without human controls like steering wheels and brake pedals."
+    publishedDateTime: 2022-07-21T09:34:00Z
+    webUrl: "https://www.carsifu.my/news/gm-ford-seek-us-nod-to-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 21
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/07/cruise-origin-1024x550.jpg"
+        width: 1024
+        height: 550
+        isCached: true
 
-secured: "o430cxAi1zCVORqkm642YbbJXtKfv9fglyY0IfoRog6M4CE2TVBvTLCAyh1+3FXW2b1rls+bkvYqdVHdlXeDad6tLrnZQspeMr0UgtUKyLh/4wVarMFbhxQzwDWCmymalYqDxPVfg7QgU1D+lQhsuxF75A1mCmavBqRkCBD+Cagd77mxhGs8h0FBQL+CXT9Rr8YQekHT1Pbw4gnRRKGKZVvQhBT1OpvvV5zZpGF7cWD5rkR+qnuu+IqfT/tAgbXFXkjv9MKYITVBDGUcwiuMJnfLNz0F3VueJtW/pPnbOclKUklCc3tUsEiv4kGF60ZrKWKYO93y8b1teiyKuCzOFKUz2rl2p+v+i8YDOP6OODw=;ykAw+NbFtSFjDmhO5kJ9bA=="
+secured: "fAiMmhiA/m+p6yj/X55CyjW56XnUSPvWu7hQD1GHGN04Zf6HdHQBQUXRTdCck+6KPSWZaR3Qe3Hud9EdJRN6sU8WTNsUSy6TKapWXcgnIsFuRnMJG3A1p+0zn3C1eQEQ3VqDZlnjfoHY93iEqZpHio+rTaC/spJD2EMS1K3B4+U3PvQ4kHcgGwfeFPLNXk8ff3wgQZbR+TYsAjARhlRyHNmHvzH6poQlGzApuU79kxWilHAwn/FBw8hGBQbv72xtb2BNez3JO32N/NabXGX23YxpGORd2OQNOilY1d861rhfXaZqKqYC2hpxGPgpr2O/JaUkFcYcBYu8OkWJ35HRLy/9C/b7aCb+pLx2zXXjUQU=;4LGx8Shafz667nRKRLl5cg=="
 ---
 

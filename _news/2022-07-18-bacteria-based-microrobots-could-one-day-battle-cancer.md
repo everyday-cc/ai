@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/tn/news/bacteria-based-microrob
 webUrl: "https://www.technologynetworks.com/tn/news/bacteria-based-microrobots-could-one-day-battle-cancer-363764"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
-    excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
-    publishedDateTime: 2022-07-16T15:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 32
   - title: "Steerable Bacteria-Based Biohybrid Microrobots Developed to Deliver Anticancer Drugs"
     excerpt: "Researchers suggest bacteria-based biohybrid microrobots with medical functionalities could one day battle cancer more effectively."
     publishedDateTime: 2022-07-18T12:00:00Z

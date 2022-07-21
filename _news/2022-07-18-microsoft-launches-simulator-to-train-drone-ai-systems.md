@@ -3,24 +3,28 @@ category: news
 title: "Microsoft launches simulator to train drone AI systems"
 excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
 publishedDateTime: 2022-07-18T14:19:00Z
-originalUrl: "https://www.bbc.com/news/technology-62202118"
-webUrl: "https://www.bbc.com/news/technology-62202118"
+originalUrl: "https://www.bbc.co.uk/news/technology-62202118"
+webUrl: "https://www.bbc.co.uk/news/technology-62202118"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-62202118.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62202118.amp"
 type: article
-quality: 64
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Oracle partners with Microsoft to launch database service for Azure"
@@ -153,6 +157,6 @@ related:
       domain: crn.com
     quality: 19
 
-secured: "zDPnfrxDQTNOlaLw65EpV63h13avk5leoXE2B/F2jQWDxXJV2y3iyBIY1vxZlLes5QY66fIZW4aEaPEgqkRYxxRGCU5jhM56UiGqQbVe0UsHwdTo9mRkBVwUK3Li17eyF7Y8B4C+r9ESWwVH1efkELMcoVF14ooxX4ia0jmoGIKZFHdcfBYsmTs20nvR4Jq+0NHG9px3bVOrKY4QsmrZp9no9p59+ZYzViKQUOr8dNlU20Q5tn//YYfQbKDR94AZryVvrIcnUJc3sN2ISXPZ0955b7LYOxRSuj3NUYj2zBGFil9d9xgkp70UnAGpraXn/bIjFAHOlRZ0TXvBxk7tUgf7qcYz01KfVG/V7RSyB5uRTalR6mLxjOD3Fpz6TRMtX3Njnfgsy3ZRgmrt2b1EriQCA400W2JNY/ollosLvN4wBx+e0xdJpYdOUECXCJIjVWHbH/BvJYQSyIkjQxDV+EvqezTS7CWds9DoBQp0J2TXOQfMQtJZ953ELeDREjq6CxvIpo43f34OaL+MpvOk6w==;nv9hHZnNu/SNdESHk8Pn1Q=="
+secured: "It1XUBg6Q26ViUM+Ln5488ILEKjRu0+g3xMgO8UJ3EHVZ9Cd7M3eJOjoZ0RxUk6fnz3ANbsAARIOH4OeeHPo71M4gc9n7lDgNJqhl+OO2E8+bPpM8H9E5I7ysviRjdGY7bbQv/6wjei3OyQbA0dNLSoXpHZfpGh+YwSRbVySqY1nfO0wsL4HTM5aE7Hz/ZLHS0SZeXZji+GgUDhORiVgTJIHROhcx+JMf7j1lZ2gydZEz9H6rFkzORSIYzVm6mtFEKrLjbjNzqbXZxf6kg4elsOmaCSpN6KXlr6eJPdaHft2/V/v1mrqIwKeLcC/398fXOTCmGvq1C0mpmjMjbF8KE9T6lkO0fLOEsbMxAPCmWU=;YHtyZY1HYgQtTBoQNW2V3g=="
 ---
 
