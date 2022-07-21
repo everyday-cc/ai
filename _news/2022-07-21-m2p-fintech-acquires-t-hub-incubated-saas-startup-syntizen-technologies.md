@@ -60,6 +60,20 @@ related:
       name: Outlookindia
       domain: outlookindia.com
     quality: 24
+  - title: "Why are Fintech Merger & Acquisitions on the rise in 2022?"
+    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
+    publishedDateTime: 2022-07-21T10:27:00Z
+    webUrl: "https://fintechmagazine.com/venture-capital/why-are-fintech-merger-&-acquisitions-on-the-rise-in-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "M2P Fintech Pushes Video KYC With Syntizen Acquisition"
     excerpt: "M2P Fintech has acquired Syntizen, known for its onboarding and identity verification solutions, to round out its technology portfolio"
     publishedDateTime: 2022-07-20T19:16:00Z

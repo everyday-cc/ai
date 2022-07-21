@@ -26,6 +26,22 @@ images:
     height: 594
     isCached: true
 
+related:
+  - title: "Why are Fintech Merger & Acqusitions on the rise in 2022?"
+    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
+    publishedDateTime: 2022-07-21T10:27:00Z
+    webUrl: "https://fintechmagazine.com/venture-capital/managing-mergers-in-the-developing-fintech-space"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
+
 secured: "JkbW0sjJaqIpILUiQUeyz9Cp7ckg39y0jsb9W4uR8Un/ZuTlLIjEwtCROYLs9gREdVriddF35vpQ3CpHUmcTR45bw43cVaDzxg3IKPbts7wPJHZBjVhSqUAmY7OqtNrADbnL67ZDZa+fzHEgC0l4XA4gWq3yXTr7VXefU6+79MZCsM8zV1n2E/GeEdjfar/4F3E5zjE8TaN5kXEx5oxw4VDIIyGVJF60FJueT/TKnqgvErEa7JT/Hq1+Hh3cbPeWlx+C9laCgVkpe0zTi7+XXro8fmoPp1TThzCQwYB9XcYqRNIGkOyfelVIUsYxxJldlMMcdylB1ABmLl7H4Q7laE+A4J2MpG77FMVOgNny4XQ=;Gm4lj/sq3hwHf1L3P9NjdQ=="
 ---
 

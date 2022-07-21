@@ -51,6 +51,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Why are Fintech Merger & Acquisitions on the rise in 2022?"
+    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
+    publishedDateTime: 2022-07-21T10:27:00Z
+    webUrl: "https://fintechmagazine.com/venture-capital/why-are-fintech-merger-&-acquisitions-on-the-rise-in-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "M2P Fintech Acquires T-Hub Incubated SaaS Startup Syntizen Technologies"
     excerpt: "Digital identity Solution Provider, Syntizen Technologies Pvt. Limited has been acquired by M2P Fintech, a Telangana’s T-Hub Incubated SaaS Startup."
     publishedDateTime: 2022-07-20T18:02:00Z

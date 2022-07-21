@@ -3,8 +3,8 @@ category: news
 title: "Hyfe Joins Forces with Merck to Deploy Its Artificial Intelligence-Powered Cough Detection and Counting Technology"
 excerpt: "Hyfe, Inc., the global leader in AI-powered cough detection, tracking and classification, has entered into an agreement with Merck, known as MSD outside the United States and Canada, to integrate its artificial intelligence-powered (AI) cough tracker technology into Merck’s consumer disease educational efforts."
 publishedDateTime: 2022-07-19T14:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44"
-webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44"
 type: article
 quality: 17
 heat: 17
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "JoCn+afj/xKQCxHsz8oclbtqhPZ9y1pBk2Dzk5zTvG22QRyWGk82q1z3XRtdWwR5FtEGvzYkAm9x7OsgrP/UYqXFxHslkwfWZSi+9g33wdQwtT2DRee7lnum3moKfqw+PnreuA3cG6XvFXWgKa7+2HWtorI2LQwWCAuKYzTp/3KswbXcpyhB2lIv/aRJlZeCnaaeykEFYeM0M8CTMuDIldjnp8KWbdUDNn77muShsPcXrgRjRnlGt8/KH6FFAl8iQY5C8LQc0qaM4hOBzFDKmGYdkdVsXkJ8fVd3UGt2ojZEfyoaegPXKgSl5IUuW9/zarJyiuFbm7MiXOsinVl44uHOiJJ+g0gb2Lv/Innvgh8=;Rb4dPpUIrivCQcufjvMLvA=="
+secured: "AHSO9qOYJPYNaEA0paNQ8K4SyaIQ8G5VGeTANLAX/qXecr0fMh7BUxkhA0JiER5aHK1GTILwjKDy/RY7XoZmlCvH8qqJwKBrqJ064LMiMSbJS4HCcG5bP3zbhu2Gghg6/ppXNFJmEJUffFbgT2CPvwp9jDsWRro7QTC107l6SgZa5hEwbjViqw9P3aNwuU35+Mj7jkObZbOBFisSf0VocNOT5ZcjUibQrGYi7YTgABrsbRPoFeTR/kkspYXnJ2OjuXvusn+fehbJzrPu6aBPYLTISbe+Z9U1/uX4ACCQrsdjTQ5Ejky0foq1w8aQcr7SNWgqzXXwqnGo71g5TW390iqkW7Q1jaM59jvTVOT1qw0=;8jwJYiFzGFY8lmyd58Tx5g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-manag
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -35,34 +35,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cyborg Method Of Human Intelligence And AI Discovers 40,000 New Ring Galaxies"
-    excerpt: "A group of volunteers scoured data alongside an AI assistant in order to locate an unprecedented number of ring galaxies."
-    publishedDateTime: 2022-07-16T17:10:00Z
-    webUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-and-ai-discovers-40000-ring-galaxies"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59125/content/ring-galaxy.jpg"
-        width: 708
-        height: 419
-        isCached: true
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-    publishedDateTime: 2022-07-20T10:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

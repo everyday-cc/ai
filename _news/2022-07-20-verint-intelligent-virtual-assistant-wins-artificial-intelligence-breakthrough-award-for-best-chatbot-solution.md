@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Verint Intelligent Virtual Assistant Wins Artificial Intelligence Breakthrough Award for “Best Chatbot Solution”"
-excerpt: "The Customer Engagement Company ™, today announced that its Intelligent Virtual Assistant (IVA) was selected as “Best Chatbot Solution” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2022-07-20T12:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f387d558d88d44878a418246e6ec9e9e"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f387d558d88d44878a418246e6ec9e9e"
+excerpt: "Prestigious International Awards Program Honors Standout AI and Machine Learning Solutions Verint ® (Nasdaq: VRNT), The Customer Engagement Company ™, today announced that its Intelligent Virtual Assistant (IVA) was selected as “Best Chatbot Solution” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2022-07-20T12:30:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-verint-intelligent-virtual-assistant-wins-artificial-intelligence-breakthrough-award-for-best-chatbot-solution"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-verint-intelligent-virtual-assistant-wins-artificial-intelligence-breakthrough-award-for-best-chatbot-solution"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "mhth65gOW5z6Iu2H+5fj3zaGsx7Ql1yE/MyFqqxbOztkMgoOjB6Oxqn3qsO4tf/7/DqXlpQsdKQyKdO22QcByjMjy6rv6gEmwXJp4TKriaOBoG0usUqHzqJly70VsBGN4IxlWSJ8kFNcgrzlAyUkavcd7/EdUWk/LyaVjkwtI7dA1dxalJsVeG2/DIX9t0y11QZFXeEAt2TlWU/zxsY2CizeenfPQarea7RVmMoeGEpmS4MUYrbg5p41beqiSfryEukrJDAtsA0a2zKN/973LCfCfbIKfIMgTCermWnFE65GzLEEo8FXVrcF79KcUTC49Nspo3C6Zm6SjbohsYkcMx0rjnq0VyGu/fUBAGQ+qjM=;yD2Pu6w30/vncmcVAHRnQw=="
+secured: "3uRu+CSnhBemxGci10MCmTUi7XiyAblO0tiKzycwIv6hLBW7IDkJ5BCbYgxm07zHlhBN8uv6eOu8aym24Lld4AKIbQ9GUcp/uF8fMz0j9NpAHjuw6sHSRdNF3tevaJ3y2PbVxai/IVGsQOewl1o4wW83ztf7o6VH8qNtqwOa2B8p/rcp9YKFyYLN7S4vyth6TaYV06crIlUjgGFZp+Kqfwztmk9LKLxduiDbtFI1qwduZA64jhUFBf0dBzpuxPFDicHz1uPY2dQOmZwIbs55hUeukMDfMXTjdvrhr6zHyqn9nbQ/H7+UnhJPTAJkV61br6Qb1cUly14AbNSuPn5nBTGm3LcWFOFoCHYaBUiujbA=;w4z3UsTQoC9YEj1iaDVzMQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robot
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -91,7 +91,21 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Baidu unveils new robotaxi with detachable steering wheel"
+    excerpt: "The Apollo RT6 robotaxi costs nearly half as much to build as the previous model, opening the opportunity for cheaper travel."
+    publishedDateTime: 2022-07-21T09:44:00Z
+    webUrl: "https://europe.autonews.com/automakers/baidu-unveils-new-robotaxi-detachable-steering-wheel"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Baidu%20Apollo%20RT6%20BB.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "lsoy0P2gfbLOw7ZLLfNSNVtyb+awk/CazuG4ifdKKn/y10B7ORGR5vL7L1BxaDiJwS1Vz5cPuwwlwCNwnwgRH9nx6DKptGf4sau6qwNRgEK4mH7pplFx4beAGsP7FG+HPFVLCUjxw1ECRInwHYepRd0hcM2ADYMr+JWxIhmFS7Mx2i+/EjVSVPE7D1B8U1dhWGpMFyD9/0Rd0u+pL1GwJPPtPvqSg88jY7bverM7fJ2m4SaJxNaKcaYGAipn0Gz5alQhLgl34zvPgtXVoIPboNf5suWVVCQEmgx/x3zyiWWRldzWJrhB6fkNz5LeUxA++0cOHjCxQ20frKd+NhKJdafVyHifxcXLzzbzBSUFxK8=;5h7JhDhGotlxgitoiJc2CQ=="
+secured: "q19O6xJOygreH18nk6qp5fgUrShfriDvUvgjEH3DFr/i+KsXeiusX/X2G/hdCalhL4aJEUFK+cnSdNhmJhFpgqgh2y+AzU8jLG9r6H1gzLDYWVYq3RHZpO7CaFglgZxQy2MswSQQMFypex6trl/rbVsEun6Qg3Xhk1vofAkBdia8E6PqkAhxRjMctPrTwionPOcS+Ds+VxHKC9CllIR6tuSjsKbK2fA7ySv7caKNrAC4PTL0P5wxfWIDb/6ajByiTBDC2zAcut7bpLxmX9ZJJiGmtBcZl6K9/226AyI0Ol5hG7DpFUsdgziyLp4Fo/7JPr/dJUBDpgLKGdabwS2o29rQQwlZSqIWY6uXRH2iQbIs43n3tpw7E4Yw0U7LQA0RP02to3FaKwSJMubby3cxrs8MfJK5CKKGTQL6zyUG2IFTwcNdfsvY4TYGltchpmZrIRJzZU7+NSo95vkbnb3GQYZPP1kN380aFjlupY2H72UaXP8w7x21vCQ4BNQkVRowSR3PotTmmwxSZ29w6WeZcw==;EoO66yuaKhkXa9kyBrBcfQ=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 500
         height: 310
         isCached: true
-  - title: "These robots were trained on AI. They became racist and sexist."
-    excerpt: "Researchers trained robots on artificial intelligence exhibited racist and sexist behavior, bringing concerns for the future of automation."
-    publishedDateTime: 2022-07-16T18:10:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POCA72AEUEI63C7LFNHEQGYVAA.jpg&w=1440"
-        width: 1440
-        height: 829
-        isCached: true
   - title: "Applying fictitious AI to the real world"
     excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
     publishedDateTime: 2022-07-19T13:43:00Z

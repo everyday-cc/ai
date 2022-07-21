@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
-    publishedDateTime: 2022-07-21T09:55:00Z
-    webUrl: "https://www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-    ampWebUrl: "https://www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric autonomous driving vehicle on Thursday."
+    publishedDateTime: 2022-07-21T07:33:00Z
+    webUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
-        width: 1440
-        height: 810
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baidu-unveils-latest-a.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
     excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."

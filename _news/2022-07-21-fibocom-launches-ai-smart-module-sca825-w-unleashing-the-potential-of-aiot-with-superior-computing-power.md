@@ -49,34 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cyborg Method Of Human Intelligence And AI Discovers 40,000 New Ring Galaxies"
-    excerpt: "A group of volunteers scoured data alongside an AI assistant in order to locate an unprecedented number of ring galaxies."
-    publishedDateTime: 2022-07-16T17:10:00Z
-    webUrl: "https://hothardware.com/news/cyborg-method-of-human-intelligence-and-ai-discovers-40000-ring-galaxies"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59125/content/ring-galaxy.jpg"
-        width: 708
-        height: 419
-        isCached: true
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-    publishedDateTime: 2022-07-20T10:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "AL6YljWeamkTJkcaWDJXKyrchP4V46Ip895LD4rOGdyWB+/P7a8BuuabDVTwwWU8YMMcN60f0PlvuXlnLU+2c7LlQFTXlklNnTlaWI3mF8jQYDwjpw1JNdERbsjW49Q+V48ISiiZS+SYgcfMFE3CG5RXrymOQzvwMEQHhl/Rj6dlUjHT+WbMLeZJxErNEswOpwHlk/XGMK6shWrU6eFpf8x0wOdmB/2FjE3Inojc0kOAbh1/MZMT97vCXFqLfC8SqEqgUN3VrLrOrRX2B1MTE5KLJNO0xJfLeB5JVgY1UNiZz5f3qIjkFL8KJxsrPGOTOIsBgwwUpYFcnAKQXEG7f+iVKj8Cs1lMdPWKjM+lTWY=;YjV28DHk4MIpOoZmcAojPg=="
 ---

@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-20-oracle-partners-with-microsoft-to-launch-database-service-for-azure.md",
-      "title": "Oracle partners with Microsoft to launch database service for Azure",
-      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
-      "publishedDateTime": "2022-07-20T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
       "title": "Using AI and machine learning to kickstart climate change fightback",
       "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
@@ -212,21 +160,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-18-microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation.md",
-      "title": "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation",
-      "excerpt": "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview.",
+      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
+      "title": "Microsoft launches simulator to train drone AI systems",
+      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "webUrl": "https://www.bbc.com/news/technology-62202118",
+      "originalUrl": "https://www.bbc.com/news/technology-62202118",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 234,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 709,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -234,16 +182,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "publishedDateTime": "2022-07-18T07:24:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
+      "publishedDateTime": "2022-07-18T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -259,8 +207,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1080,15 +1028,15 @@
       "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
       "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
       "sourceUrl": null,
-      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
-      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
+      "webUrl": "https://heraldcourier.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6da2a504-29bb-5acd-869d-a67955c00d83.html",
+      "originalUrl": "https://heraldcourier.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6da2a504-29bb-5acd-869d-a67955c00d83.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/f/8d/f8d59b3b-963b-5800-bbdc-0c1c29f65abe/62bc9a94703e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/6/da/6da2a504-29bb-5acd-869d-a67955c00d83/62bc9a950bf2f.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
           "width": 610,
           "height": 320,
           "title": null,
@@ -1100,11 +1048,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:38:00-07:00",
+      "publishedDateTime": "2022-07-02T18:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Rapid City Journal",
-        "domain": "rapidcityjournal.com",
+        "name": "Bristol Herald Courier",
+        "domain": "heraldcourier.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1372,6 +1320,40 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-ptsd-may-accelerate-cognitive-decline-over-time.md",
+      "title": "PTSD May Accelerate Cognitive Decline Over Time",
+      "excerpt": "Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline over time, new research suggests. In an analysis of more than 12,000 middle-aged women who had experienced at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/976526",
+      "originalUrl": "https://www.medscape.com/viewarticle/976526",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
         "images": null,
         "publishers": null,
         "authors": null

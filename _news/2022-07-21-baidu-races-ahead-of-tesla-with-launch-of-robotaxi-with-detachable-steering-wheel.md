@@ -91,6 +91,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Baidu unveils new robotaxi with detachable steering wheel"
+    excerpt: "The Apollo RT6 robotaxi costs nearly half as much to build as the previous model, opening the opportunity for cheaper travel."
+    publishedDateTime: 2022-07-21T09:44:00Z
+    webUrl: "https://europe.autonews.com/automakers/baidu-unveils-new-robotaxi-detachable-steering-wheel"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Baidu%20Apollo%20RT6%20BB.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "w667/WBOM2OUNCvKO7+hPnQzsnMbPrd38pMG1VFZXqn+NkR6XPhOBXKWVoTrwMp5Kae5o9hwYx/QxcZy0iTMe9okggYd5FB6os5kvUJV83Lqqv+d6LSr/gMiiTYOZJOVM2IHPFt0iZVL8WwxX2u3XslYArSQ5hy9XaYU27Ix82k21Tg8ZlNNuACz1n5VB7/TNDENf1Hr6MsQzkQTUpDw3ZYAhlnlgid05dQXiLP30FDJPfXaFpsObiHNZznYfhqiDgnertayYyY4ukF3q5yYKOS65+d/EFs+hIaOAclZ+ycHo85LRkPaQP4WbbJ+dQjaz6fA9UWf1sMbUm81YpC2rMny5ldHgX1M95FBv/vzhSE=;bKQ1P/klCuBELqgpV3hxsw=="
 ---

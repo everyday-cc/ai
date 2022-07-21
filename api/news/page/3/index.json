@@ -97,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-18-microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation.md",
-      "title": "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation",
-      "excerpt": "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview.",
+      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
+      "title": "Microsoft launches simulator to train drone AI systems",
+      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
+      "webUrl": "https://www.bbc.com/news/technology-62202118",
+      "originalUrl": "https://www.bbc.com/news/technology-62202118",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 234,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 709,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,16 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/",
-      "publishedDateTime": "2022-07-18T07:24:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
+      "publishedDateTime": "2022-07-18T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -144,8 +144,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

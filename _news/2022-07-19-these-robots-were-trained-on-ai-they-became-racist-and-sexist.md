@@ -34,20 +34,6 @@ related:
         width: 500
         height: 310
         isCached: true
-  - title: "These robots were trained on AI. They became racist and sexist."
-    excerpt: "Researchers trained robots on artificial intelligence exhibited racist and sexist behavior, bringing concerns for the future of automation."
-    publishedDateTime: 2022-07-16T18:10:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POCA72AEUEI63C7LFNHEQGYVAA.jpg&w=1440"
-        width: 1440
-        height: 829
-        isCached: true
   - title: "Using AI To Speed Up Edge Computing"
     excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."
     publishedDateTime: 2022-07-19T07:04:00Z
