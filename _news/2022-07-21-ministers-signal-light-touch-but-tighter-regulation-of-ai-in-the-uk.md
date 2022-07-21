@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T12:27:00Z
 originalUrl: "https://www.personneltoday.com/hr/ministers-signal-light-touch-but-tighter-regulation-of-ai-in-the-uk/"
 webUrl: "https://www.personneltoday.com/hr/ministers-signal-light-touch-but-tighter-regulation-of-ai-in-the-uk/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Personnel Today

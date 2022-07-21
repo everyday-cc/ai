@@ -96,7 +96,7 @@ related:
     provider:
       name: Ibj.com
       domain: ibj.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
         width: 600

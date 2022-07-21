@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 700
         height: 369
         isCached: true
+  - title: "Nanomagnets Can Choose a Wine"
+    excerpt: "When wine aficionados taste a new wine, neural networks in their brains process an array of data from each sip. Synapses in their neurons fire, weighing the importance of each bit of data — acidity, fruitiness,"
+    publishedDateTime: 2022-07-19T21:15:00Z
+    webUrl: "https://www.manufacturing.net/software/news/22340336/nanomagnets-can-choose-a-wine"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 4
 
 secured: "ArGkmRsRpzjk3vdv730G7bKLpwB9S9nSHhmXccD6AhSyPJ1tIpxZPmZ+wx2YMmYzeJzTTKB2yd12npN1eoqhoipT4kMMuKDgSuFeellydPxMVTlf0wC1SNmqxtNDLy+tyYqwmmTfzkg8g9x7TPVcqL7IEViM1yKvwXsNAI4/PFrxz20aVXx1iT2ZyKGx/MbxWYGksTXaDp8O3c5WdVT9jLdh23x9ixUsnG6R8p/fFchbfTSW18WW6J53rTNdXoq5xVDbVcLIfhZ69jz8Fe0x+cnqDdjkI3FC1c9/sh2SGLMB4qXdsq2pi5DEPfQOLwwwZgOwpoFZv5xiK5q/YPPfW1fpM3ty8SHQRvwyo9yNv/rujMKwdj4kpN8ae6vbT+IxmHO8YxHJ9t0V/EI7Q5oFOVSVzJmR0WSyC/4WKKezpdyi+LPqFxvNHn+aK/x6IQbEmhuxoxDy3lEijbhKLCFgrY+F1nrxCcAqq3BfKtqkkYRmBiadlgl60pij/izMWP8QVTYEUG9ORTp+Eiz5SnXRag==;+VRBj5M37olid5HzIsMFCQ=="
 ---

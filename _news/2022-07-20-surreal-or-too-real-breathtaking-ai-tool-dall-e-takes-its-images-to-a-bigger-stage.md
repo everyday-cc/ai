@@ -69,6 +69,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Making AI Accessible To One And All"
+    excerpt: "The democratization of any effective technology happens automatically by virtue of its success, even if the complexity it presents initially overwhelms"
+    publishedDateTime: 2022-07-21T12:20:00Z
+    webUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
+    ampWebUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/lenovo-hpc-ai-logo.jpg"
+        width: 952
+        height: 525
+        isCached: true
   - title: "Now turn words into art! New AI tool DALL-E transforms descriptions into artworks"
     excerpt: "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday. Artificial intelligence research firm OpenAI is conducting a wide-scale beta test of DALL-E,"
     publishedDateTime: 2022-07-21T03:34:00Z

@@ -62,6 +62,22 @@ related:
         width: 558
         height: 372
         isCached: true
+  - title: "VDOT preparing to use artificial intelligence to predict traffic"
+    excerpt: "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area."
+    publishedDateTime: 2022-07-21T11:01:00Z
+    webUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/"
+    ampWebUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc12-com.cdn.ampproject.org/c/s/www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
+    type: article
+    provider:
+      name: WWBT
+      domain: nbc12.com
+    quality: 57
+    images:
+      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/67bUqYlUu0dgRXbK0oEINUpJYxs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5ADGYSOLD5HT7NAC6Y2DOOCPVI.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "White House Advocates Cloud Investment as a Path to Artificial Intelligence"
     excerpt: "A new report from the White House points to advanced cloud technologies to help bolster artificial intelligence R&D at the federal level."
     publishedDateTime: 2022-07-19T20:32:00Z
@@ -70,7 +86,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://cdn.nextgov.com/media/img/cd/2022/07/19/071922cloudAING/open-graph.jpg"
         width: 400

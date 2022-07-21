@@ -41,6 +41,15 @@ related:
         width: 480
         height: 268
         isCached: true
+  - title: "Self-driving Forklift Market 2022 Recent Developments, Industry Insights, Size, Latest Trends, Top Key Players, Industry Share and Forecast to 2025"
+    excerpt: "Global “Self-driving Forklift Market” 2022 research report provides sales growth rate comparison by type, segment"
+    publishedDateTime: 2022-07-20T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2022-recent-developments-industry-insights-size-latest-trends-top-key-players-industry-share-and-forecast-to-2025-2022-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "2vjE+H6oxeqyPLkFwL7cRYLWZQh99Qzt7AmV4IiUlRpfTrEUqzC24awy13hAUGmwTqMLHKd3GzXtyu+Pxy2grpCVU7AudmeOMyYTHWUEGBYe6ZfUzyv0urc1eYzhXQhyIOWeH+rgaYKHU671EHC9bZIe8JVMOYpntgjGEZ0unvqQEW+4k+dyPTMmbs18DArX3OFuG37g0F8v7/vhJN41ItqtqjmUfgeGiPfmNJ2OVOLTV6KegpHuS+z/hjet6Yfvir08hWwTGNkNgWQYfzNgP7Sv0S6AOm8uCAnKgnE7Tu/MolBITKyUm11Aweqi7/eLV6yWFAh1wVfkbCBn8mDU1BsU7h7VRHRaXEEzb2+AsKBR9Vz9etM1vRXDpbeBS5k021p+TKxhTRg5nVNdWcjrsJTWb9WqX7/n8ZriRad23UQQ3Jdhm2wBHDPNDG5nVkHozMV3R1IyXXOIPjSSO1znHcB4GJk20uA6S9kglvPhIqnU5PC4O2T5cVy4WTdSWXZY+c0Vfko597tM7gfKA7Kkpw==;YIWVRgKpxBeRA+239uaFCw=="
 ---

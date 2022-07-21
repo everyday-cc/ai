@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-18T03:18:00Z
 originalUrl: "https://www.ibj.com/articles/as-artificial-intelligence-language-skills-grow-so-do-scientists-concerns"
 webUrl: "https://www.ibj.com/articles/as-artificial-intelligence-language-skills-grow-so-do-scientists-concerns"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T12:22:00Z
 originalUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-value-for-australian-firms/"
 webUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-value-for-australian-firms/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: enterprisetalk

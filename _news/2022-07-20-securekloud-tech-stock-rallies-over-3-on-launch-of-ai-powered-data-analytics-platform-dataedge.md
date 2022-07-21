@@ -36,6 +36,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 6
+  - title: "SecureKloud Technologies Announces DataEdge, A First-of-its-kind AI-powered Data Analytics Platform"
+    excerpt: "SecureKloud Technologies today launched DataEdge that enables enterprises to power insight-driven decision-making capabilities."
+    publishedDateTime: 2022-07-21T12:22:00Z
+    webUrl: "https://enterprisetalk.com/news/securekloud-technologies-announces-dataedge-a-first-of-its-kind-ai-powered-data-analytics-platform/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 5
 
 secured: "0NtBgf0qe/tJGRaT+m3bpAGHYLdkpTt5Mk8xSgIDi+CeAzi3FzRfuFViC00UjEKv8CJ4Sgor09t5aaaIYaotNK1TWw+EOZ9M4jqrb3pg/1o0/EKum/0WChZBuFUl1ZbBEVMjQOcHg3TcA44SNhsuVnkuPQRuVEs+pHrBB5DRLfQDsN8yHb5J642bR9KrrFBXKN4CxF+2ROgig1OtMwSR2YBzYa9Um+tRGtEJsqBBB2qTz89OEurzqqmzI4HX0wC4OeVe1Ma/kjTMUtpBXaMrM6GDAeISRSPE7QrhdDPF7ClMrc1aC1YdcE58a39hF/pNzg7A/S459k5fp6x6+vBIFAm7IF9+i86fUrLPHR0BKfM=;xtBZtxRBDEcmm/5zQ+afBA=="
 ---

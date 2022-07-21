@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robot
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
 type: article
 quality: 89
-heat: 139
+heat: 169
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
+    excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car"
+    publishedDateTime: 2022-07-21T02:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-1031602703"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Baidu unveils new robotaxi it says could halve commuting costs"
     excerpt: "Baidu Inc unveiled a new version of its self-driving robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
     publishedDateTime: 2022-07-21T03:45:00Z
@@ -105,6 +114,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
+    excerpt: "The Apollo RT6, an (allegedly) self-driving taxi, will start ferrying riders with, or without, a steering wheel in 2023."
+    publishedDateTime: 2022-07-21T14:42:00Z
+    webUrl: "https://jalopnik.com/baidu-s-new-taxi-has-a-removable-steering-wheel-1849306769"
+    ampWebUrl: "https://jalopnik.com/baidu-s-new-taxi-has-a-removable-steering-wheel-1849306769/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/baidu-s-new-taxi-has-a-removable-steering-wheel-1849306769/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
+  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
+    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
+    publishedDateTime: 2022-07-21T12:50:00Z
+    webUrl: "https://www.whas11.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 19
 
 secured: "q19O6xJOygreH18nk6qp5fgUrShfriDvUvgjEH3DFr/i+KsXeiusX/X2G/hdCalhL4aJEUFK+cnSdNhmJhFpgqgh2y+AzU8jLG9r6H1gzLDYWVYq3RHZpO7CaFglgZxQy2MswSQQMFypex6trl/rbVsEun6Qg3Xhk1vofAkBdia8E6PqkAhxRjMctPrTwionPOcS+Ds+VxHKC9CllIR6tuSjsKbK2fA7ySv7caKNrAC4PTL0P5wxfWIDb/6ajByiTBDC2zAcut7bpLxmX9ZJJiGmtBcZl6K9/226AyI0Ol5hG7DpFUsdgziyLp4Fo/7JPr/dJUBDpgLKGdabwS2o29rQQwlZSqIWY6uXRH2iQbIs43n3tpw7E4Yw0U7LQA0RP02to3FaKwSJMubby3cxrs8MfJK5CKKGTQL6zyUG2IFTwcNdfsvY4TYGltchpmZrIRJzZU7+NSo95vkbnb3GQYZPP1kN380aFjlupY2H72UaXP8w7x21vCQ4BNQkVRowSR3PotTmmwxSZ29w6WeZcw==;EoO66yuaKhkXa9kyBrBcfQ=="
 ---

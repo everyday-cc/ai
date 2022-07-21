@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-
 webUrl: "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu World 2022 Sees Debut of World-leading AI Innovations to Transform Aerospace, Industries, Mobility and Beyond"
+    excerpt: "World's first large-scale AI model dedicated to aerospace, boosting scientific research efficiency in deep space.Digital human empowered with"
+    publishedDateTime: 2022-07-21T12:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2022-sees-debut-of-world-leading-ai-innovations-to-transform-aerospace-industries-mobility-and-beyond-1031604665"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "Kami Vision grows by 350 percent as demand for AI services in security & safety industry surges"
     excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced the company has grown 350 percent since its launch in August 2020."
     publishedDateTime: 2022-07-20T10:52:00Z

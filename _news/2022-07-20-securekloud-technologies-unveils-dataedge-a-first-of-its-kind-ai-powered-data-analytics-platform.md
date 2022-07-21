@@ -35,6 +35,15 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "SecureKloud Technologies Announces DataEdge, A First-of-its-kind AI-powered Data Analytics Platform"
+    excerpt: "SecureKloud Technologies today launched DataEdge that enables enterprises to power insight-driven decision-making capabilities."
+    publishedDateTime: 2022-07-21T12:22:00Z
+    webUrl: "https://enterprisetalk.com/news/securekloud-technologies-announces-dataedge-a-first-of-its-kind-ai-powered-data-analytics-platform/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 5
 
 secured: "UFs6Uo4EkvdqLIz0YE8itlC367TqCMw2CT5DoUnUBOyDKtaPhMbfsP2ttMP2ZWlCx+9E8cuMksCVMKoYz6GsTorMLV4VpO7KryskIhMYOuhsPhVy6xpxNHNn76vGpsb7ouB5yWhlMyk3XGJ9WOP0VMxmGkBHHL7rqqOaz1Fiqbu7ZPyDINXuXBMeP2S605gTUa6xzxms9jZ34NllfvpcTsbU+pASZ7nloENNm0VXjG27H0qz4LvJeEduVlGZ9kHODSUywM4WpJ7JJiB4hvjmpVLcePTHRXOMtz2oPnYoOXLze0vOkdzPscWJwjhpVtD8CwpbVG5ECcdV+qE/IwKXiMYJ1e/gNza1FbkhvB9g3wQ=;sQjrxszOMuY5J6VCZA6U1g=="
 ---

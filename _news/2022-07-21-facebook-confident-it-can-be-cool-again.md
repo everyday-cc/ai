@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Meta's Facebook revamping main feed to attract younger users"
+    excerpt: "Meta Platforms said on Thursday (July 21) it was revamping the main feed on its Facebook app to prioritise \"discovery\" of new content, instead of posts from accounts users follow, in a bid to style its apps after short-form video competitor TikTok."
+    publishedDateTime: 2022-07-21T14:13:00Z
+    webUrl: "https://www.todayonline.com/world/metas-facebook-revamping-main-feed-attract-younger-users-1950336"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--OdZRk2QU--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/07/21/20220721_reuters_meta_facebook.jpg?itok=6awnNe95"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Facebook confident it can be ‘cool’ again"
     excerpt: "Facebook is facing an uphill battle to be cool again, according to Meta’s vice president of Facebook Tom Alison, who is optimistic that a combination of new AI tools and more short-form video content – dubbed Reels – will help the tech giant ultimately win the battle for eyeballs against the likes of Chinese giant TikTok."
     publishedDateTime: 2022-07-20T02:09:00Z

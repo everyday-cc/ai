@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T13:11:00Z
 originalUrl: "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626"
 webUrl: "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

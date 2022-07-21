@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-20T00:00:00Z
 originalUrl: "https://globalnews.ca/video/9005770/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics/"
 webUrl: "https://globalnews.ca/video/9005770/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Global News

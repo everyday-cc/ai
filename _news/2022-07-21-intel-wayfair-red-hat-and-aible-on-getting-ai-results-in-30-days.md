@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T12:51:00Z
 originalUrl: "https://venturebeat.com/2022/07/21/intel-wayfair-red-hat-and-aible-on-getting-ai-results-in-30-days/"
 webUrl: "https://venturebeat.com/2022/07/21/intel-wayfair-red-hat-and-aible-on-getting-ai-results-in-30-days/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

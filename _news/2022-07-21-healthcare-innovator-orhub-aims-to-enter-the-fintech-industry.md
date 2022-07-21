@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T13:07:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-health-software-medical-devices-acec4580184a3f73053779f24a2fdb64"
 webUrl: "https://apnews.com/press-release/accesswire/technology-health-software-medical-devices-acec4580184a3f73053779f24a2fdb64"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Associated Press

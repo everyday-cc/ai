@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T12:26:00Z
 originalUrl: "https://realtybiznews.com/risk-analytics-platform-zesty-ai-raises-33m-in-series-b-round/98773377/"
 webUrl: "https://realtybiznews.com/risk-analytics-platform-zesty-ai-raises-33m-in-series-b-round/98773377/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Realty Biz News
@@ -14,6 +17,93 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Machine learning and marketing analytics"
+    excerpt: "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ..."
+    publishedDateTime: 2022-07-17T10:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/09/surabhi.2020.jpg"
+        width: 350
+        height: 445
+        isCached: true
+  - title: "Top 8 Uses Of Data Analytics In Accounting And Finance"
+    excerpt: "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations."
+    publishedDateTime: 2022-07-19T14:01:00Z
+    webUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/"
+    ampWebUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 61
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI Boxes help fuel proliferation of video analytics"
+    excerpt: "A look at how AI appliances are helping a larger number of end users take advantage of intelligent surveillance tech"
+    publishedDateTime: 2022-07-20T19:01:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21274802/ai-boxes-help-fuel-proliferation-of-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/bigstock_Iot_Machine_Learning_With_Huma_265744639.62d8500b35a09.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SYSU and UBTECH Propose Big Learning for Justifying, Analyzing, and Improving Foundation Models"
+    excerpt: "The recent development of large foundation models such as BERT, GPT-3 MAE, etc., has brought a paradigm shift to AI. Such models benefit from pretraining on big data at scale and have demonstrated game-changing performance and excellent transfer capability on various downstream tasks."
+    publishedDateTime: 2022-07-20T15:57:00Z
+    webUrl: "https://syncedreview.com/2022/07/20/sysu-and-ubtech-propose-big-learning-for-justifying-analyzing-and-improving-foundation-models/"
+    ampWebUrl: "https://syncedreview.com/2022/07/20/sysu-and-ubtech-propose-big-learning-for-justifying-analyzing-and-improving-foundation-models/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/20/sysu-and-ubtech-propose-big-learning-for-justifying-analyzing-and-improving-foundation-models/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 32
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
+  - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
+    excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
+    publishedDateTime: 2022-07-19T23:03:00Z
+    webUrl: "https://campustechnology.com/articles/2022/07/19/6-technologies-and-practices-impacting-the-future-of-data-and-analytics-in-higher-ed.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 17
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220719dataanalytics.jpg"
+        width: 644
+        height: 360
+        isCached: true
+  - title: "aiSensing Deploys Highly Successful End-Point AI Vibration Sensor Using SensiML Analytics Toolkit and QuickLogic EOS S3"
+    excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that its customer, aiSensing, has successfully completed and deployed an endpoint AI-based vibration sensor for a large multi-national manufacturer in Asia."
+    publishedDateTime: 2022-07-20T13:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aisensing-deploys-highly-successful-end-point-ai-vibration-/2022/07/20/9642025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rM4QBPZ8xF9EzYVL5oRlDEz6cgELJ0HM7BtGi7BzYDFnRZELwljV8soOhozbdLMz43ldisQEyuNaLXEK8Eh4BDLYkjZEhi5tC2A/Da+kQH5vxyIMEcTUZxGqfPuwOzPo4NctZgQCpR7vU8egiRH1PrMl/p9ijqFwHWOdfD+gGe/XJqKs2CqKtdIPQ3ajrkbnY7QKIZlO8cA7dv9HHaew6kqpz4n207wBxcIBpNpSNPTW2Y3lGLHh6RJSPnxUh0Mdt7IzObvXpFEKauhN0AMxHjCvSCGCPQZA4/K4IOU4iW/AgB9KlcwaG5ABBzQilKCY99WlzqFUzqB+36/5J0TzyJH04WxOkP5xG3Qs/9rg3YdNRFZN/5XZrbtTQ4X6eAVcfUFrDVH/4ejJjomLPhycLtvO0rcbEJxThr2ArCR8OU0jkeoN8ChoZeD/dKqxU1P55nvgMdYNXrXvonoKxAzB3Iw3jJwcx15kkws48AHfFpcrmjb9mFOuP+vNZ9Jpi7BDoXmNP+E/HeTuAxyVr1SY2Q==;iF+3RkMuV/h+yCpjjNfJ3Q=="
 ---

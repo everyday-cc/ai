@@ -5,6 +5,8 @@ excerpt: "AWS customers choose from a wide variety ... machine learning and arti
 publishedDateTime: 2022-07-12T15:11:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings"
+ampWebUrl: "https://www.benzinga.com/amp/content/28036141"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28036141"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "ROs7fhv/ZF/8s6r9i4e4lkV5vJhLp+/aviprIFKCmJy3GKB5vwh2RfKJOX3Gl45vJIohzoHRsyRwtGgPPtBn2XObvtIxuGf17WObO/p9V0WNO79egqvCoReyHmPi1y/Vs50OesZGp2EJda6EhqzoK8nrle9ZbuYi4nGUAOAf3pT/xEHMt7QHBaiOIHSXoUpi6mZxqkdk1/3sfso5y/30xETsfwHCOj04hv5Ayk7mUUy1lFUZqi3DC7qbw5JJBI8QFSwv0p4PBDetPMk74tUStaq2UpX00EozQgS/XwLXUhWIZDlQCVrrDPL+0E5VpWbjm7T1KhVWOJF3p5J+jbcObWmftjro45f9vZSLCD8u7uM=;SZ5Tese78HukrRi9ExIl3Q=="
+images:
+  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+    width: 900
+    height: 594
+    isCached: true
+
+secured: "o554XNsOeH2eQM8qgtweFxBCtKWF0Y9b8VTQeQBlf71NFAzbrNdDUVf5vN5jeRYm9fxdLonbYyqpITY/jek3zKj4XkIVlAqFWvV+4mqX4msr/lYLK8lZWAn0tHUPBWN9px2D/0OSvB01wer4WP3uyDEuuJnvJNBl+7BMnmz0TMYFelwV8q1ymmLqAeIpaqZOXinH8nWlCGOMMyfBNiDqFnZnddrBC8dyZKEpazYLRKTc7zIo/7Q1wgzhuDdHFoTKoKK+EiUWIFMAQzyyMAE+/UfA6K1aH745fMu8hsoNUgB50UpVKd9zrkQ6YPLvDI2itoh5wPnx87AObXyVj2kna14QQNR9gTMMMSaj5In2Oic=;4Q5SGiJc1T2T//O7NnGIUw=="
 ---
 

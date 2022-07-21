@@ -1,11 +1,14 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
 publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
 type: article
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -18,6 +21,55 @@ provider:
 topics:
   - AI
 
-secured: "pdlc7n+HkMUnt4Gus+N/12j8qEqWDqnG9HsfwGprVV5NB8vfdaTzn3y9K7W1mbl7AGw6Z38QSdAmHvnTY5s5oh8YUZzsYpFuJm1dTZR2qifKWCnEUd+3baPE/VsApb09SHmMz2eFKwkF37QcxxSjrJtviVpJywX2ScL5jUQoKQh+pealfK3eEQbAPsoMSFIb8ETcPoRTbdQpYZThzTB7zwD/EdGNljXM++l7L4ScBvoeGw68/Y1EYX4jhPEgE7sDc9oaMmYEmQEsXu5vTb0EdHK4DQrtyVEcta7gR/M5qCxo87TvRBEL5rqDx54h1zDlUVGaF6TXc2tK2jNL7bBBe9RjyJVolQfgiQ22msyg5aSfVqpC4zElir9eCa1boB3l3H1byXo21Ko8w5Qt6mTF/iOjtjKKPZAZgCdS4/U5faz9Ocgi/yLk1CSI4UcyzMxvIGUPWQ0bDzqc/mfaoi8zZ+XFCh+5WDl0Aj2pplsy1f9qhelC6wgeSxpHXHgnOl8fcyZzRHlOkTDx4AzvSddrug==;lvRXeHqaZdZ1LH06cJbkvA=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-800x549.jpg"
+    width: 800
+    height: 549
+    isCached: true
+
+related:
+  - title: "AI Art Is Challenging the Boundaries of Curation"
+    excerpt: "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,"
+    publishedDateTime: 2022-07-17T11:00:00Z
+    webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/"
+    ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "Artificial Intelligence is the New Basis of Civilization"
+    excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."
+    publishedDateTime: 2022-07-19T06:45:00Z
+    webUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 61
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/07/Artificial-Intelligence.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Collaboration sets sights on acceleration of cystic fibrosis research"
+    excerpt: "Epistemic AI, Cincinnati Children’s Hospital Medical Center, and Boomer Esiason Foundation are working together to advance research into the rare disease."
+    publishedDateTime: 2022-07-20T17:52:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2022/07/20/collaboration-sets-sights-on-acceleration-of-cystic-fibrosis-research"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 4
+
+secured: "3J5sOq2Q8XDggYaA5Hn/hn5yhyIINK3H1Ht8Q4ZXxNRbREX5sEeMDGORmoLfWWR8BMdX6ORGzlVyXBH97grHZ+D47WL6jE4AJtTN8w7cnp4At1d2p6U2xWVVpatvG/U6jf9Fq9tpynmxyFl9Rz+BiC/ysJwdWcjUqIb9Z3dUunC87+R7Tp+MR1CC/Fk2e1sGfjpcWNfh/p2DM6itakV6feiwf+//no2wxBATkrXcOnsRLPi3y1zfRqSPQSjXOLoCQEtBPkHEiv6EHS3JR+62hizgkVOisnPydSEcnB8jtIfIXcY5Crvw3YE+rnsZYLSdsTqSAzncubY3r3sJncoq4RjOWFM+X9eEHePZlDPEJ+w=;9WVKzCGemgPaAWY3XEmc+A=="
 ---
 

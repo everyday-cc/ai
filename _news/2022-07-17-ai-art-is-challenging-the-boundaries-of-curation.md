@@ -33,18 +33,18 @@ images:
 
 related:
   - title: "AI art is challenging the boundaries of curation"
-    excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
+    excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
     publishedDateTime: 2022-07-18T21:05:00Z
-    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
     quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-800x549.jpg"
+        width: 800
+        height: 549
         isCached: true
   - title: "Artificial Intelligence is the New Basis of Civilization"
     excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."

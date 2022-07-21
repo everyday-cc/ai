@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T05:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28145308/dmalink-secures-fintech-unicorn-smart-co-founder-and-ceo-andrew-evans-as-non-executive-advisor"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/n28145308/dmalink-secures-fintech-unicorn-smart-co-founder-and-ceo-andrew-evans-as-non-executive-advisor"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

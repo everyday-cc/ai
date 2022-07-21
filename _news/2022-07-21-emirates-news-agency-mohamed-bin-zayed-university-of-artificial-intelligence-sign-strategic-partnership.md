@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T12:45:00Z
 originalUrl: "https://gulfnews.com/uae/government/emirates-news-agency-mohamed-bin-zayed-university-of-artificial-intelligence-sign-strategic-partnership-1.89425942"
 webUrl: "https://gulfnews.com/uae/government/emirates-news-agency-mohamed-bin-zayed-university-of-artificial-intelligence-sign-strategic-partnership-1.89425942"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Gulf News

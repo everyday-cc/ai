@@ -1,0 +1,98 @@
+---
+category: news
+title: "Baidu unveils new autonomous vehicle Apollo RT6"
+excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
+publishedDateTime: 2022-07-21T15:32:00Z
+originalUrl: "https://www.globaltimes.cn/page/202207/1271140.shtml"
+webUrl: "https://www.globaltimes.cn/page/202207/1271140.shtml"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Global Times
+  domain: globaltimes.cn
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-21/ad60ef9a-9f25-4bf1-b948-25db9d09338d.jpeg"
+    width: 1200
+    height: 720
+    isCached: true
+
+related:
+  - title: "Baidu unveils autonomous vehicle without steering wheel"
+    excerpt: "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,"
+    publishedDateTime: 2022-07-21T05:23:00Z
+    webUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234"
+    ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 59
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/21/baidu.png?itok=OsQDVE1m"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Baidu unveils production-ready, self-driving RT6"
+    excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
+    publishedDateTime: 2022-07-21T02:51:00Z
+    webUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?chid=13"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220721vl200_files/3_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
+    excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."
+    publishedDateTime: 2022-07-21T03:08:00Z
+    webUrl: "https://techwireasia.com/2022/07/baidu-unveils-autonomous-vehicle-without-steering-wheel-to-be-operational-in-2023/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 33
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6-Exterior117223-scaled.jpg"
+        width: 2560
+        height: 1710
+        isCached: true
+  - title: "GM, Ford seek US nod to deploy self-driving vehicles without steering wheels"
+    excerpt: "DETROIT: General Motors and Ford Motor have asked US auto safety regulators to grant exemptions to deploy a limited number of self-driving vehicles without human controls like steering wheels and brake pedals."
+    publishedDateTime: 2022-07-21T09:34:00Z
+    webUrl: "https://www.carsifu.my/news/gm-ford-seek-us-nod-to-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 21
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/07/cruise-origin-1024x550.jpg"
+        width: 1024
+        height: 550
+        isCached: true
+  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
+    publishedDateTime: 2022-07-21T12:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 19
+
+secured: "mZxpkH9JMcXK3BK7Pj6i5vH/NkERD7q2D8SKwGQqc1c7kfQf8xN5PqX3H/QBE9ZqyNCY/X37wdzkzdtX5qp1XWGdMvKAo/lzKczRcoQvssTXc9hrLocpN78T/uoIDl9q79tjFK67++sN27iKg2PVzddhdj0aUD+V+N5YKVhaWk8DovrpAMmq/qSZd3oyn1tK+ZSvzHWfG78fkBJYrkcaAIpJ1ZiJCimNBW9UiAcaVwY8TmT3KLxt+y7Ca8yWODdcMoBkD/IEDXbHkYP6rzWtMTf36+RL9KR+TthAx/dIhPpiMn1HdZ/UXQvrzNpW1BBShb16vIrnfrms3yeIJb4vgBudD93JNEr82Se3PxruTkw=;oWak2QVcP+y8jVUwTZihBQ=="
+---
+

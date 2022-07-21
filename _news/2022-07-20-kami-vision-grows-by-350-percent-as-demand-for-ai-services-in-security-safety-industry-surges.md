@@ -34,6 +34,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Baidu World 2022 Sees Debut of World-leading AI Innovations to Transform Aerospace, Industries, Mobility and Beyond"
+    excerpt: "World's first large-scale AI model dedicated to aerospace, boosting scientific research efficiency in deep space.Digital human empowered with"
+    publishedDateTime: 2022-07-21T12:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2022-sees-debut-of-world-leading-ai-innovations-to-transform-aerospace-industries-mobility-and-beyond-1031604665"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "Global AI for Drug Target Discovery and Validation"
     excerpt: "The \"Growth Opportunities in AI for Drug Target Discovery and Validation\" report has been added to ResearchAndMarkets.com's offering. The score provided by the AI algorithms is responsible for the prioritization of the drug target."
     publishedDateTime: 2022-07-18T17:12:00Z

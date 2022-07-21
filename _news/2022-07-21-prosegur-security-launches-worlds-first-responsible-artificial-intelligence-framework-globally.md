@@ -1,21 +1,24 @@
 ---
 category: news
 title: "Prosegur Security Launches World's First Responsible Artificial Intelligence Framework Globally"
-excerpt: "Prosegur Security, a global security leader, has launched a new Responsible Artificial Intelligence (AI) Policy in an effort to proactively"
-publishedDateTime: 2022-07-21T13:00:00Z
-originalUrl: "https://www.newswire.ca/news-releases/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-843259441.html"
-webUrl: "https://www.newswire.ca/news-releases/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-843259441.html"
+excerpt: "Prosegur has developed an AI governance model that includes the implementation of a corporate or local board, depending on where the project is located. Prosegur will hire a Chief Ethics Officer, who will oversee compliance with the new policy and ensure ..."
+publishedDateTime: 2022-07-21T15:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/21/9643069.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/21/9643069.htm"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI Ethics
   - AI
   - AI in Security
-  - AI Ethics
 
-secured: "4FVFD7AtiFI8upGAGGlxiCeTQYQhPks3IQPt6gCAExKVaK6NxsO9P3GQrePFxBwUS24CTHPDUZVAVBsA22dt3tH9sQli2rkAISk4i80eLfcfcI0CP3tLTXs+bljr7f1l2vFudOWxXP+kNl+DQzr6nFKyAYGD38pg/DKN1Jzo4heyZUYZbDm4aFn/aBIb1Z/sQiUgRD6HoLaR/y1lgGVwlKI3prTS3IQIFRH32kCJnlbyuSjS/XHzBr1kIwdkMVf1iG+0DP07z7FU6GjWArrt97oAnRVZG9yycqaZzrqRa2IXZ75nPUffqIRrjRiTOW1aNCjLNYwjfegrUjQaNg3ocLsk/Asfiv6HMCWn21D8KdeiZD5FN+glHGAr2W/wdGA3pBAI9dwUGVa0Cv7iQLyUEBlNY8NPX915hdzWIPUnYPFSmzevy2qIKhuE3T2dhor+SyL9//B6kMBe2ycTFKinILLmL8phISyFkq8fTtvG3RyK2AAoHrlW9AJCnXNjvFWybuEHNS1GbDWl2ysOIGtiPg==;A5Lyzvp6JqNIl5xfY0U/EA=="
+secured: "Sy/uuI3+lU0V4mqTe1Oa7ylRNhxeD5Dfe3kBjxEgIYa23Wkz7qD5lFZxEgblz2kHthuPVxIZ7AhekSkKXkigOzUUrSk1QVp7OhIpiXFoWd3gox9mq3aWHPISiNz1ICRrOjcaORXxx+nstvoFQCH6Jw/Re0JnX+ozmtWa92/V1+qh4iFdRu9cr4bsil/1OXXsXSekBbyN0aZXuSnF19KQX2MHCrZqndhjkPVasN0R/3w1p+7/1Zv5XPO2RpUOqr7IcCpiYTrA54VZ7nLkNGQiBHtL2iEqO8txzl38T0IzHwxMNwYm1O39ERyLKYiEYzk8FCaKTataxHWeWaIi1al+oIGD04jwH0mbgmWmjA/XRd8=;4w5tTmy66Q/zJZHvxCNlUQ=="
 ---
 

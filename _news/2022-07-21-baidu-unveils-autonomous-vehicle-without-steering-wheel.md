@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-withou
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric autonomous driving vehicle on Thursday."
-    publishedDateTime: 2022-07-21T07:33:00Z
-    webUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
-    ampWebUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
+  - title: "Baidu unveils new autonomous vehicle Apollo RT6"
+    excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
+    publishedDateTime: 2022-07-21T15:32:00Z
+    webUrl: "https://www.globaltimes.cn/page/202207/1271140.shtml"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baidu-unveils-latest-a.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-21/ad60ef9a-9f25-4bf1-b948-25db9d09338d.jpeg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
     excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
@@ -85,6 +83,15 @@ related:
         width: 1024
         height: 550
         isCached: true
+  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
+    publishedDateTime: 2022-07-21T12:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 19
 
 secured: "yXioSjSAHLjGiVqNt4J30te7ruBrHhj6miiAfbwH4v8L2Se5ym6W1LMoSNprMjZzsvnN+enTEeLNng+6JagLX3OIQsmjybY4kuN9+eajwkaA74LaFZajGn7q4asX/RXXJff8+Qrdo+TUaHY7ldVgt5ghMe2g5xDHqR79/9sXXyE6/7rrUCywGTnhwpQ7Votl8nG3E8z/kr8XHBD7FhxznTt1gz6umZZkUHxcoxq7sPT4X6fexywHv+HP0M2u/M3G+izGZsLzVGgkcROQ3Qj0aqe9bdisB8acPHSAuaN1xbU8c5ig0Q156lBFJxcEEepnGMMpdgdTGCC4K7WH00CAkeKj7wqWPCCHp7HROYG/+GA=;sKkOLZqIwzW/Ye6zvC9LVg=="
 ---

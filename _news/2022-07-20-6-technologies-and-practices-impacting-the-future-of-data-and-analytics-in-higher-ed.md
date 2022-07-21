@@ -87,6 +87,15 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "Risk analytics platform Zesty.ai raises $33M in Series B round"
+    excerpt: "AI-powered property risk analytics platform provider Zesty.ai has raised $33 million in a Series B round of funding led by Centana Growth Partners, it said this week. The company said the funds will be used to scope expansion of its property and climate risk products,"
+    publishedDateTime: 2022-07-21T12:26:00Z
+    webUrl: "https://realtybiznews.com/risk-analytics-platform-zesty-ai-raises-33m-in-series-b-round/98773377/"
+    type: article
+    provider:
+      name: Realty Biz News
+      domain: realtybiznews.com
+    quality: 19
   - title: "aiSensing Deploys Highly Successful End-Point AI Vibration Sensor Using SensiML Analytics Toolkit and QuickLogic EOS S3"
     excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that its customer, aiSensing, has successfully completed and deployed an endpoint AI-based vibration sensor for a large multi-national manufacturer in Asia."
     publishedDateTime: 2022-07-20T13:56:00Z

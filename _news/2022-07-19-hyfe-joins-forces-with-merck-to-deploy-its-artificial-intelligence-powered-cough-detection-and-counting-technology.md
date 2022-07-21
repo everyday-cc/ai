@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-19T14:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44"
 webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press
