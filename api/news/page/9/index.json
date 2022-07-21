@@ -504,6 +504,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-09-ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databandai-acquisition.md",
+      "title": "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition",
+      "excerpt": "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1265011&cat=PRN",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1265011&cat=PRN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-09-ford-and-vw-backed-self-driving-company-shuts-down-dc-operations.md",
       "title": "Ford and VW-backed self-driving company shuts down DC operations",
       "excerpt": "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company.",
@@ -1098,58 +1132,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-data-scientist-industry-reaches-point-of-maturity-as-specializations-grow.md",
-      "title": "Data scientist: Industry reaches 'point of maturity' as specializations grow",
-      "excerpt": "Computer science specializations are becoming more common. Codecademy recently introduced new data science learning paths to meet employers' changing expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a7387db1a7576e9b16458e25dc5c6f4a2c224a01/2022/07/07/15867fb1-8658-42ad-956b-7d2e552772b8/michelle-mcsweeney.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "publishedDateTime": "2022-07-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

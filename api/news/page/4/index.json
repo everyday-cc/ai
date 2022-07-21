@@ -1151,19 +1151,19 @@
     {
       "path": "_news/2022-07-14-gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire.md",
       "title": "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)",
-      "excerpt": "AIRE is an Artificial Intelligence algorithm that automatically accessions cases and provides significant improvements in accuracy and efficiency",
+      "excerpt": "Gestalt Diagnostics, Inc., a leading provider of digital pathology solutions, announces the availability of their Artificial Intelligence Requisition Engine (AIRE). AIRE drastically improves speed and accuracy over time-consuming,",
       "sourceUrl": null,
-      "webUrl": "https://www.goskagit.com/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire/article_256e1983-b02e-5d6d-bbea-78574235b097.html",
-      "originalUrl": "https://www.goskagit.com/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire/article_256e1983-b02e-5d6d-bbea-78574235b097.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/2/50/25041b70-56f4-58f9-9fea-618b14199ab5/62d03f1cae66e.image.jpg?crop=1387%2C728%2C588%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1173,11 +1173,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:00:00-07:00",
+      "publishedDateTime": "2022-07-14T09:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Skagit Valley Herald",
-        "domain": "goskagit.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,160 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-06-03-collaborative-robot-leverages-motion-control-speed-and-agility.md",
+      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
+      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
+          "width": 7360,
+          "height": 5197,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-get-started-with-speech-recognition.md",
+      "title": "Get Started With Speech Recognition",
+      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
+      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
+      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
+          "width": 619,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-roomba-vacuum-deals-start-at-just-179-in-early-fathers-day-sale.md",
+      "title": "Roomba vacuum deals start at just $179 in early Father’s Day sale",
+      "excerpt": "Today’s deals start at just $179.99 for a best-selling ... The newest Roomba with AI and other cutting-edge features also has great discounts right now. The hot new Roomba j7 and Roomba j7 ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
+      "originalUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
       "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
       "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
@@ -929,196 +1083,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-biden-delivers-speech-on-gun-violence.md",
-      "title": "Biden delivers speech on gun violence",
-      "excerpt": "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
-      "originalUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_599/831bde8f-89f2-459f-a376-e73bcad44a7c.jpg",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
-      "publishedDateTime": "2022-06-02T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases.md",
-      "title": "State dropping artificial intelligence tool used in child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will",
-      "sourceUrl": null,
-      "webUrl": "https://www.bendbulletin.com/localstate/state/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html",
-      "originalUrl": "https://www.bendbulletin.com/localstate/state/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bulletin",
-        "domain": "bendbulletin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-10-ai-predictions-for-the-next-10-years.md",
-      "title": "10 AI Predictions For The Next 10 Years",
-      "excerpt": "The past several years have been an exciting period for artificial intelligence (AI). We used to think of it as science fiction, yet today, AI has become an everyday component of life. This is especially true with advances during the global pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
-      "publishedDateTime": "2022-06-02T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors.md",
-      "title": "PCIe AI accelerator cards powered by Hailo-8 AI processors",
-      "excerpt": "Lanner Electronics announced its first Hailo-8AI-powered PCIe accelerator card, the Falcon H8. Lanner Electronics collaborated with leading AI (Artificial Intelligence) chipmaker Hailo to design the Falcon H8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
-      "originalUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2022/06/LinkedIn_1.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

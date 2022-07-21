@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)"
-excerpt: "AIRE is an Artificial Intelligence algorithm that automatically accessions cases and provides significant improvements in accuracy and efficiency"
-publishedDateTime: 2022-07-14T16:00:00Z
-originalUrl: "https://www.goskagit.com/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire/article_256e1983-b02e-5d6d-bbea-78574235b097.html"
-webUrl: "https://www.goskagit.com/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire/article_256e1983-b02e-5d6d-bbea-78574235b097.html"
+excerpt: "Gestalt Diagnostics, Inc., a leading provider of digital pathology solutions, announces the availability of their Artificial Intelligence Requisition Engine (AIRE). AIRE drastically improves speed and accuracy over time-consuming,"
+publishedDateTime: 2022-07-14T16:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae"
 type: article
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/2/50/25041b70-56f4-58f9-9fea-618b14199ab5/62d03f1cae66e.image.jpg?crop=1387%2C728%2C588%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "DQsjIC37EOVdMEv+vM5GFHbgCOrbdfBE85IA1Y/tIbNytXaoFWF1thlrsMewENuKKmThXX1oUvnWEgrGL7/1m5vjhWnsIRynX0xStYKzyXn7HqMRpuNod7RWy7o3mBSEIpPGH0efTumEna5gjREYjnBLHFdBRir5x6lmHbBBR9oqNC5qg6SMwQC36Gtyyy88D/0+nqUN/+PjRJWSCWmF7ngaDvGIXTV0ez/lEi/VDa45r1HPL7VBvDm2hzaKjrkl2Z5Myj3t7rftdfQJneqyN6+Ondgm0NR1zNzMD64JFf6sxNkSxaQoZqjc76LpTvvgYx1nT7V0izpEzrxxpP8VBIPmqYf0fAtK42S5C2dIV8YR+PpTfbCvf1+5CpdJx6qXYp7hzlKyrfuFNfOhP3eixB0mW2u259Q2ZFTzQzC4v+SS8V1n7L3Ek15OeGIv8sw8U5oTh/FY71jYgl2z6YQreEcmq5rP6GV93AdYMcw2q9fYRkplTnUrSefnI3y5omeJQD4jcpw5Wvb4hoC0OJdagw==;FfRTMtCnrtxGL+4sgESTIw=="
+secured: "qu2ZQPLH8tXVQYgL33AW55yqpEouMfNZgij7l1EEfHhl2gvOgRVvM+CtMcVO3T++Hla6CxOegbqiEuSIJrrlN0hEaX5tpz8EOZdrylgnikzMJeSlK2aEttLEP60VFN3ER7A01XeNtZKJsp/uwF6Nqqq1RI7ojedW1fuHZypnqODSsLSAU+mEA/SmZiCl56iE/KIjmnQFuzWp888CWV9ahTkp5dViC4cohSxtPFa3ekwCYHfoaOfP1X2nrdWJacL71UEGfk5MQYth+aOFdYsNkm+EDNNBSmy2XdEgKPWpLWzarCy15SXK+ACF9hqcKuYSHHhvcmbHlkmBP2lYGNgvsdTf/7LESQ82iZWtUJXzO04=;vLOg7bYcLjHsAopCc1wXzQ=="
 ---
 

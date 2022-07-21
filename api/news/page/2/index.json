@@ -843,7 +843,7 @@
       "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -974,6 +974,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-as-ai-language-skills-grow-so-do-scientists-concerns.md",
+      "title": "As AI language skills grow, so do scientists’ concerns",
+      "excerpt": "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html",
+      "originalUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp",
+      "publishedDateTime": "2022-07-18T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Inquirer",
+        "domain": "inquirer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1172,58 +1215,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
-      "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
-      "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
-      "originalUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1_ctE__hKyugfxRaoXUQpqmQ.gif",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
-      "publishedDateTime": "2022-07-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

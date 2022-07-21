@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
+      "title": "AI’s hold over humans is getting stronger",
+      "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
+      "originalUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
+      "publishedDateTime": "2022-06-19T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-ais-hold-over-humans-is-starting-to-get-stronger.md",
       "title": "AI’s Hold Over Humans Is Starting to Get Stronger",
       "excerpt": "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern.",
@@ -1405,59 +1448,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-tension-inside-google-over-a-fired-ai-researchers-conduct.md",
-      "title": "Tension Inside Google Over a Fired AI Researcher’s Conduct",
-      "excerpt": "Google has said that TPUs have enabled breakthroughs in its AI research and services, and rents out the chips through its cloud unit. Yet Chatterjee’s criticisms of Morpheus continued even after Google’s hardware leaders decided they trusted it enough ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/",
-      "originalUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62915e44055b58ec351db05c/master/pass/Tension-Inside-Google-Splashed-Paint-Business-594800569.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-brain-ai-researcher-fired-tension/amp",
-      "publishedDateTime": "2022-05-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

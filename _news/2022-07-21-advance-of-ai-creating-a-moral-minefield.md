@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Olive AI lays off 450"
-excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
-publishedDateTime: 2022-07-19T16:21:00Z
-originalUrl: "https://www.axios.com/pro/health-tech-deals/2022/07/19/olive-ai-lays-one-third-staff-450-people"
-webUrl: "https://www.axios.com/pro/health-tech-deals/2022/07/19/olive-ai-lays-one-third-staff-450-people"
+title: "Advance of AI creating a moral minefield"
+excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
+publishedDateTime: 2022-07-20T23:01:00Z
+originalUrl: "https://www.irishtimes.com/special-reports/2022/07/21/advance-of-ai-creating-a-moral-minefield/"
+webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/advance-of-ai-creating-a-moral-minefield/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Axios
-  domain: axios.com
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://images.axios.com/B7f8Hgb9wjxvbBqWxTc6BA0mfAc=/0x0:1920x1080/1366x768/2022/07/19/1658247033039.jpg"
-    width: 1366
-    height: 768
+  - url: "https://www.irishtimes.com/resizer/5NWRikvOGJN5pZJiS5BAI4g3IfU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QUJTEMNDURHW3PK56Z4XHYKBNE.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -93,19 +94,19 @@ related:
         width: 1773
         height: 1182
         isCached: true
-  - title: "Advance of AI creating a moral minefield"
-    excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
-    publishedDateTime: 2022-07-20T23:01:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/advance-of-ai-creating-a-moral-minefield/"
+  - title: "Olive AI lays off 450"
+    excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
+    publishedDateTime: 2022-07-19T16:21:00Z
+    webUrl: "https://www.axios.com/pro/health-tech-deals/2022/07/19/olive-ai-lays-one-third-staff-450-people"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
+      name: Axios
+      domain: axios.com
+    quality: 37
     images:
-      - url: "https://www.irishtimes.com/resizer/5NWRikvOGJN5pZJiS5BAI4g3IfU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QUJTEMNDURHW3PK56Z4XHYKBNE.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.axios.com/B7f8Hgb9wjxvbBqWxTc6BA0mfAc=/0x0:1920x1080/1366x768/2022/07/19/1658247033039.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
     excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
@@ -117,6 +118,6 @@ related:
       domain: webindia123.com
     quality: 28
 
-secured: "W/ac8p00ojQdlAyL22k1KhClO08VNrG6P8agMGo/4Jt7ywOftDiqwJhqTYpfzBMOnXoDnoPqw0SF7S7ygKIcp3rHuTSsAcJ/j1YTOjW7MOQSsDfKaHYc56nKHgxMRpWjgziLXpi56Bi18tzkOqCFZ3FaaXtghHaCghMNjidCQSjXa6DQQuG4TYD7mEh8tE1TIpfvJUPOdJrX64s0dFfz37hLItk/SZYMPHMjFJjR3YbOa/yqG2cHAgCZ3p22ylrSLa3QOx4Q2oY2vdgH5ur04SH4Fxyxuc5kz0Q+eZKLtnQmqNCAvfBrrcmWQ9ykdxcHiqJlm4X+J2ocXsZP4E1WBoCV9wWGWFkdKZlL6E132OA=;wRr2ObiC/pzKKZGRYthIVQ=="
+secured: "2BTPu4FJ80wsH7gBbo5fHaFAs79TOToy7bHKNbWAVQ/AlhQQ2s9ASzN/lAdUSxJAhKu4mrjM4IvADRkRcvr5JK9uTgoprt/g60z+f0VGIGIX/jTwS7aWAfT3+fuLyTWU0l7/dqrp1HfCuo3e0IKXiz86PzSXSLipXwHf1xmhIhhWGLj+M6AGI52ah1HucFRZG35yBvwa/m6oVR58FSaCVwrttcXOmMTDu7gaYwI3owTwOFnYgE3R3DVpvW+BqGRcrTVhwPItkopAUoMCcKLs0v0ZyaI4qLmJQSlLgblBXL3fFI6fTZ96Q2rksit0iu5xwx63XjM1kV+5VndgyFEusff8XeBRgEPbNkSXe739z20=;xKmbgnl8yDt4JfbeKzIiSQ=="
 ---
 

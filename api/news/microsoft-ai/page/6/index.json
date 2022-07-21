@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-06-from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea.md",
+      "title": "From e-commerce to Omnichannel, Consumers Drive Retail’s Digital Transformation in MEA",
+      "excerpt": "By Ola Williams The pandemic left little room for error when it came to adapting to the new normal. For retail this meant e-commerce experienced a renaissance, “omnichannel” received a lot of",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/0b19560d-img-20220607-wa0004.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
       "title": "RStudio is now available on Azure ML",
       "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
@@ -1236,49 +1279,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-can-video-games-boost-kids-cognitive-development.md",
-      "title": "Can video games boost kids’ cognitive development?",
-      "excerpt": "Researchers have found that children between the ages of eight and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/05/30/1604464.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI art is challenging the boundaries of curation"
-excerpt: "It may reduce the need for the curation of outputs, as one can directly describe one’s vision. However, prompting is not a silver bullet that trivializes artistic creation. It is more akin to a new kind of creative skill."
-publishedDateTime: 2022-07-18T21:05:00Z
-originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
-webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/2/"
+excerpt: "Generative models are artificial neural networks that can be “trained” on large datasets containing millions of images and learn to encode their statistically salient features. After training ..."
+publishedDateTime: 2022-07-18T21:11:00Z
+originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
+webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -70,6 +71,6 @@ related:
       domain: outsourcing-pharma.com
     quality: 4
 
-secured: "QNu99Lp4JSFxmw8gu/p6qMe8OQpmo/7MwafZ3QpvCVCXI2+q0i0XqDa/H8wkZBjUD1aWFQytH9ewd+51NitTgbyUrMqSLEN8a/LfFgpxxtLWuvEJ6mtWXFOAzLSaN64kIgrt7Twv7luOgrnzw0v9c6UcWlGq8/FUk5uqR5/Kln9E/r1dm3XmSXFvLg5jpY2ZCTbPNSo3brdsNIyC4tfYsSMWUurWvD3FrBgJvn7Eltz5MsRjjD9OMNcL+711K9SplyyXReTYpdeKKlPHwbkwd/jj29N3T4HLyGA77fx/P7+cjA8QVp0U3c+H5Vsoe24KzxvgusBFrQ3biOgIXvlC/ibwIqxVrGKbRHBBNjrvlYA=;W1qkp4E3ltJ5DVeaETL+DA=="
+secured: "5A/TuudapRWKbnfLbf3TN/0JC0Dmk30VMb9R9NahCRQH03XgzdWOacEd6Bz6ZKfUR5vHzsEn7EMxXZWoSTXWUkELUuurAj4ws/jtAvz+ALpR1SmdmWSxgG6R2dXaIBHX43noMiLmPQaLRnx2A3X7VCLk5wgr/TYyd1iUOZQWWkRU1exxZiKyCQBZU/N/eB58GEgVJU8jFBuq+WGACU4x7FQBLFQJA175HKuRrsVYPd+UeXqyobyxu8LkUCdadGaz9NEXZwAznEL4SdOAl2UZD9Y/yAZOIrz/r8FNSvI32j8NAOFAHXmfI3OU3+kpKk2NgNn3zzvMR+jTQxYZoiqkCAHhFCWUwkvU1lQMmeka0oA=;OFqoOcU8lgRkl2Ewq0Pz0w=="
 ---
 
