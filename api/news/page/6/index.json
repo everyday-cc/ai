@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-14-sentinels-recognized-as-a-top-ai-innovator-in-financial-services-across-the-world.md",
+      "title": "Sentinels Recognized as a Top AI Innovator in Financial Services Across the World",
+      "excerpt": "Sentinels, a Fenergo company and Europe’s leading intelligent transaction monitoring platform, has been recognized as one of the world’s most innovative AI solution providers by being included in the AI FinTech 100 List for 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
+      "originalUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/sentinaels_0.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-this-ai-image-generator-lets-you-type-in-words-and-get-weird-pictures-back.md",
       "title": "This AI image generator lets you type in words and get weird pictures back",
       "excerpt": "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up.",
@@ -1117,59 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-from-physicist-to-machine-learning-engineer.md",
-      "title": "From Physicist To Machine Learning Engineer",
-      "excerpt": "Justin Chen received his PhD in Physics from Rice University before deciding to make the jump from academia to machine learning. He spent the last few years as a Machine Learning Engineer at Manifold before making the jump to Google.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cdeda31bf4eba4181cb76e/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/amp/",
-      "publishedDateTime": "2022-07-13T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Machine Learning"
       ]

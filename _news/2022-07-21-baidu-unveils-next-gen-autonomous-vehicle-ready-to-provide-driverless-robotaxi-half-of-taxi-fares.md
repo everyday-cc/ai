@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
-excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car"
-publishedDateTime: 2022-07-21T02:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-1031602703"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-1031602703"
+excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
+publishedDateTime: 2022-07-21T02:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28145013/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/n28145013/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares"
+ampWebUrl: "https://www.benzinga.com/amp/content/28145013"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28145013"
 type: article
-quality: 70
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
@@ -140,6 +138,6 @@ related:
       domain: whas11.com
     quality: 19
 
-secured: "5bQgWz8g0fmRPtF5icUA61K7crawxLioQlx50BxhczyWqu5wYBfE8a0rTKV9cvoF03OZLP+gkunRu2mkJIuhaMfuRHGRjIsW3NJPHkoV0MvnK+30GQhloI9EX0FJqEHZmmkj0Ps+ImaGEhE0AfX6d5kYII/qODpQyVMZeJQCCaCUVGVem10+NmK9FDyFKFF9bh+pGzlpvOww8HL55V9aZzOZbNYQRHZ+IvQlXL+z6pL7tPU36NuIF2oUdIn0UGVmd87AmTmQbnDySqr8CqtbyOga8+Zt1xUy1kGyJqJR/i/MC6YrY1ZkWxTiXkyOvPpZxYok7Lj1VSZBEIFpSYAAUPsI53qqZnFRg65b6yNuX7Q=;7dY4b3vln9OOFTWFzTMDug=="
+secured: "MzYmfPjRKo9QZMjOuH3V8nZYz4C/FAXFZTfmQyQSgsH3hqw14mKsRI31kvyaxb8giC4isB4BeZqTZ/GokRqj0OllhczCSdvH3Fb4xJkMX8apSBIS3XpdfWAlfJZ+6ecNMrGgFVeTCPYzRbEopQMHRqHksmDv/8JyhqAaZtcakPwJU7K1KwoJ9UrKTjb0FCbNQ7CkFWocDUUGeL08CFzL3g7w9N3GBPIKVzj9SCW9KqkCOWPJxUlNxK/FPgHAqA+jw/zUYRkXi+AFjSh9wBCYDA50dS7968ARxEblvfkgnBUxjPNAH6WPe+IZydYeA63nYdlgazHIG8yPCqN/TP8ikZZXrxcna8Z/0+AtMUMsZGw=;U6gPaAV8QHezRJel3/Y6zQ=="
 ---
 

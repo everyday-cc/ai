@@ -2,6 +2,57 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-05-13-us-civil-rights-enforcers-warn-employers-about-using-biased-ai.md",
+      "title": "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI",
+      "excerpt": "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016",
+      "originalUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/627d7ea51e00005cd41b490c.jpeg?ops=1778_1000",
+          "width": 1778,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp",
+      "publishedDateTime": "2022-05-12T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-run-automatic-model-tuning-with-amazon-sagemaker-jumpstart.md",
       "title": "Run automatic model tuning with Amazon SageMaker JumpStart",
       "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). In March 2022, we also announced the support for APIs in JumpStart. JumpStart provides one-click fine-tuning",
@@ -1115,58 +1166,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-how-ai-can-improve-services-revenue-and-customer-success.md",
-      "title": "How AI can improve services revenue and customer success",
-      "excerpt": "Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
-      "originalUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
-      "publishedDateTime": "2022-05-12T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

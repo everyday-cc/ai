@@ -2,6 +2,39 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-05-31-refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx.md",
+      "title": "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX",
+      "excerpt": "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery",
+      "sourceUrl": null,
+      "webUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
+      "originalUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TexomasHomepage.com",
+        "domain": "texomashomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-earnings-outlook-for-c3ai.md",
       "title": "Earnings Outlook For C3.ai",
       "excerpt": "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ...",
@@ -1059,40 +1092,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028.md",
-      "title": "Face Recognition Door Lock Market Size, Share And Major Industry Players Forecast (2021-2028)",
-      "excerpt": "The global “Face Recognition Door Lock Market Size ” research report encompasses a thorough study of the current situation of the global market along with several market dynamics. To formulate this report,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
-      "originalUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

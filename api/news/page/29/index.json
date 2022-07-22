@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-06-24-aws-sent-a-snowcone-to-space.md",
+      "title": "AWS sent a Snowcone to space",
+      "excerpt": "At its re:Mars conference, Amazon today announced that it quietly sent one of its AWS Snowcone edge computing and storage devices into space on the Axiom mission to the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/",
+      "originalUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image002.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/amp/",
+      "publishedDateTime": "2022-06-23T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco.md",
       "title": "GM Cruise takes first fares for paid driverless taxi in San Francisco",
       "excerpt": "GM’s autonomous driving division, Cruise, has begun its paid driverless taxi service in San Francisco and officially took its first fares last night. Cruise’s program is still quite limited ...",
@@ -1098,49 +1150,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ross-lets-worry-about-the-google-ais-ethics-and-discretion-not-its-soul.md",
-      "title": "Ross: Let’s worry about the Google AI’s ethics and discretion, not its soul",
-      "excerpt": "Google wants a truly conversational search engine, with immediate real-time access to the sum total of online information.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
-      "originalUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/06/GettyImages-1241233246.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
-      "publishedDateTime": "2022-06-23T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

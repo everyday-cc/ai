@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-in
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The Ethical Life podcast: How worried should we be about artificial intelligence?"
+    excerpt: "🎧 As technology advances, will we harness its power for good or for evil? Commentary: Artificial intelligence may be here but is humanity ready for the potential ramifications? Framed by historic turning points in public conversations, here's a look ..."
+    publishedDateTime: 2022-07-22T01:45:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/autos/the-ethical-life-podcast-how-worried-should-we-be-about-artificial-intelligence/html_8469eb86-a576-5cdb-b36f-e4d7b64e6152.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 49
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/46/8469eb86-a576-5cdb-b36f-e4d7b64e6152/62c447bc6d0db.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+        width: 1196
+        height: 628
+        isCached: true
 
 secured: "KrDxmmCG518BW5uxPc3/b+0noCwlPZ/FOTAEG+TQ+9EMSO0uSiAYsTE8DMroLwEQ4WwxsWRUpU113xmfv0Bcej73mQgegJGajXVBfa+VAJMkiSaW7jauvJ4xDA81WO+kcpZsRScmejcdeWxfptZrC3GKGUz+y8tIVsNoY5EivcZmZAdC5jqS4YBi2oBvXlbQY9F37bR6uPzhnaRb0PRobvWt1du4GJOds37YB+qldmkbd+r1O/gmY4oK9i87+6oC6aDeGxKBSXSBFd1QJhIn8hmk0Avm7fyG76vdPuTRvsu8PAUDDfjUifeYnbvBM9lCP6U+yYumHYgd6TuWaRu4htblS7rUWhSTh3qgIj4RLMI9m5YUTaTVlyBoAMEXZP1hEBw+n+MmHrm5qSzeQ990KQuk8jfEVJRQl1tnJJQlClWa2UV1UWBVnUMdTdhlVaisY43dLqH6Ki+eP9tXoEHiLYR6Ex7KrSspRK/YUSM5Uo0yJAg6R3Dfhi5uO9jugDk6ghytaphAzxJWf22UcPQ9lQ==;+yIjmF8+3fpq5vcc6pCzpw=="
 ---

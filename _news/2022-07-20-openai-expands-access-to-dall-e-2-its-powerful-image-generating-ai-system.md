@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/"
 type: article
 quality: 85
-heat: 146
+heat: 147
 published: true
 
 provider:

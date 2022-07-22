@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Short Interest in Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Declines By 32.6%"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) was the recipient of a large drop in short interest in June. As of June 30th, there was short interest totalling 15,500 shares,"
-    publishedDateTime: 2022-07-17T08:28:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/17/short-interest-in-global-x-artificial-intelligence-technology-etf-nasdaqaiq-declines-by-32-6.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 18
   - title: "Vyant Bio (NASDAQ: VYNT) Engages Skyline Corporate Communications Group, LLC To Continue Advancing Its Communications With The Financial Industry"
     excerpt: "Vyant Bio Inc. (NASDAQ: VYNT), a biotechnology company focused on identifying unique biological targets and novel and repurposed therapeutics, has retained the services of Skyline Corporate Communications Group,"
     publishedDateTime: 2022-07-20T12:31:00Z

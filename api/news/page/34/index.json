@@ -2,6 +2,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
+      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
+      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
+      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
       "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
       "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ...",
@@ -1115,57 +1159,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-softbank-backed-temp-work-platform-jobandtalent-makes-third-acquisition-of-2022-with-deal-for-uk-job-matching-ai-startup-jump.md",
-      "title": "SoftBank-backed temp work platform Jobandtalent makes third acquisition of 2022 with deal for UK job matching AI startup Jump",
-      "excerpt": "The startup offers gig and casual work opportunities to users in areas such as warehousing and logistics. Ocado and Decathlon use the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/softbank-backed-jobandtalent-acquires-uk-counterpart-jump-2022-6",
-      "originalUrl": "https://www.businessinsider.com/softbank-backed-jobandtalent-acquires-uk-counterpart-jump-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62b186674245600018ddae0c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

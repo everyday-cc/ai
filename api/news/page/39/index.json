@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-06-17-cybersecurity-ethics-artificial-intelligence-imperatives.md",
+      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
+      "excerpt": "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "originalUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HHS",
+        "domain": "govinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-funding-the-robot-revolution.md",
       "title": "Funding the robot revolution",
       "excerpt": "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ...",
@@ -1082,58 +1125,6 @@
         "IBM AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Size, Share to Expand At 15.1% CAGR Through 2028",
-      "excerpt": "Jun 16, 2022 (Market Insight Reports) -- The Edge Artificial Intelligence (AI) Chip market size study provides a detailed analysis to identify important growth drivers, challenges, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

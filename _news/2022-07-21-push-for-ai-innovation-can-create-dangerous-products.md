@@ -38,6 +38,20 @@ related:
         width: 1875
         height: 1019
         isCached: true
+  - title: "New AI software can create proteins that may be useful as vaccines, cancer treatments"
+    excerpt: "Scientists have developed artificial intelligence software that can create proteins that may be useful as vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
+    publishedDateTime: 2022-07-22T01:01:00Z
+    webUrl: "https://www.news-medical.net/news/20220721/New-AI-software-can-create-proteins-that-may-be-useful-as-vaccines-cancer-treatments.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 32
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "8wI3wG94Nya4PifU4GAQ33KYhsR1GVeEPpqxw0yL0OuGuJWOE6zhOKHuLLWmkHAFxMpZMLhZpOtaoTb0ztogq33uLwyHK59J7Jo2bLjmtGikMrMMbvoNit7K/iZ2n2ZCztE/We1iFk+hJDk5YEmfucxUi4zjW5D4ryENRqwojXm9Rs5m8KyN5XT/VGsqrF3W+YOV12FJHQ2fMyulnlBtH1Pne/86FHQv5UoEqYW8mx/Tlp3oYfywUsBrsx5aebKSQW635pbNZpfJIZaHXnfsDxDCvocdHh8PTHL40U+HlNeK7D9t6tBGTKisDUb8x53fwlPdGs+IGiN2NuK6XkKcYhjiFKBHafbJoSmJ5rc8lYNiknd4x2DkB7crlvl7HD7AeTr938UMMDAWTYZP9++YNG+ZFZK0RfECKo8STrFl1DGZ/zjTRnpOiLbH57DpPs5lz48b9ro92C/redjXb4J2feMmHcpQUgiGlWXSfpq0b2DzX4c2JklFcFDUR+r8iwShE/DJNuYj51iS5zBS4qy8rg==;jx0T/J7MGYxYq9kO+zSjew=="
 ---
