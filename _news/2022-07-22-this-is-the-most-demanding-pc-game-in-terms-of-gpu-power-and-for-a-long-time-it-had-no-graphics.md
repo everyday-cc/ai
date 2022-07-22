@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T12:44:00Z
 originalUrl: "https://www.pcgamer.com/this-is-the-most-demanding-pc-game-in-terms-of-gpu-power-and-for-a-long-time-it-had-no-graphics/"
 webUrl: "https://www.pcgamer.com/this-is-the-most-demanding-pc-game-in-terms-of-gpu-power-and-for-a-long-time-it-had-no-graphics/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: PC Gamer

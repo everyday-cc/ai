@@ -18,6 +18,31 @@ topics:
   - AI
 
 related:
+  - title: "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud"
+    excerpt: "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate."
+    publishedDateTime: 2022-07-22T11:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud"
+    ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
+  - title: "Robots Join the Fight for Cyber Security"
+    excerpt: "The massive number of threats, cyber criminals and skill shortages have left many organizations more vulnerable to malware attacks. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report and may yet exceed that amount."
+    publishedDateTime: 2022-07-22T08:00:00Z
+    webUrl: "https://i-hls.com/archives/115130"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 56
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2022/07/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Robots take up the cybersecurity fight, SLVA Cybersecurity"
     excerpt: "Even those with robust cybersecurity strategies in place are concerned by the sheer number of business attacks, which increase in number every year. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report,"
     publishedDateTime: 2022-07-18T05:57:00Z

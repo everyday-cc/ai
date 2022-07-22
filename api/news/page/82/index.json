@@ -2,6 +2,101 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-05-18-north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030.md",
+      "title": "North America Self-driving Car Market 2022 Inclinations & Development Status Highlighted During Forecast Period 2030",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer.md",
+      "title": "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer",
+      "excerpt": "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg",
+          "width": 400,
+          "height": 252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-everest-group-names-indico-data-major-contender-and-market-star-performer-for-intelligent-document-processing.md",
       "title": "Everest Group Names Indico Data Major Contender and Market Star Performer for Intelligent Document Processing",
       "excerpt": "Indico demonstrated the 'strongest year-over-year movement' of any provider evaluated in the 2022 PEAK Matrix® Assessment, highlighting significant progress and continued innovation in market impact,",
@@ -1046,108 +1141,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
-      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
-      "excerpt": "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-545425/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "publishedDateTime": "2022-05-17T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-zmoai-secures-8m-led-by-hillhouse-to-create-ai-generated-fashion-models.md",
-      "title": "ZMO.ai secures $8M led by Hillhouse to create AI generated fashion models",
-      "excerpt": "With breakthroughs in machine learning, it’s no longer uncommon to see algorithmically generated bodies that can move and talk authentically like real humans. The question is now down to whether startups offering such products can achieve a sustainable business model.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/",
-      "originalUrl": "https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/zmo.jpg?w=1024",
-          "width": 1024,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/amp/",
-      "publishedDateTime": "2022-05-17T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

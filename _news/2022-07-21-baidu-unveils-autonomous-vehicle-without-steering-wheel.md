@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-withou
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
 type: article
 quality: 59
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
       name: TheDetroitBureau
       domain: thedetroitbureau.com
     quality: 4
+  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
+    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
+    publishedDateTime: 2022-07-21T13:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 0
 
 secured: "yXioSjSAHLjGiVqNt4J30te7ruBrHhj6miiAfbwH4v8L2Se5ym6W1LMoSNprMjZzsvnN+enTEeLNng+6JagLX3OIQsmjybY4kuN9+eajwkaA74LaFZajGn7q4asX/RXXJff8+Qrdo+TUaHY7ldVgt5ghMe2g5xDHqR79/9sXXyE6/7rrUCywGTnhwpQ7Votl8nG3E8z/kr8XHBD7FhxznTt1gz6umZZkUHxcoxq7sPT4X6fexywHv+HP0M2u/M3G+izGZsLzVGgkcROQ3Qj0aqe9bdisB8acPHSAuaN1xbU8c5ig0Q156lBFJxcEEepnGMMpdgdTGCC4K7WH00CAkeKj7wqWPCCHp7HROYG/+GA=;sKkOLZqIwzW/Ye6zvC9LVg=="
 ---

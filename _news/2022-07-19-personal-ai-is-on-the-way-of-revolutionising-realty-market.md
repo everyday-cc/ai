@@ -34,7 +34,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70"
         width: 1200

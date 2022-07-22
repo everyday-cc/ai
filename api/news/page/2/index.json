@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-20-4-ways-computer-vision-will-reshape-urban-transportation.md",
+      "title": "4 Ways Computer Vision Will Reshape Urban Transportation",
+      "excerpt": "The involvement of computer vision in smart transportation optimizes several facets of smart cities and will continue to do so in the future. The public sector, in collaboration with private tech enterprises,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bb1bd6a217d2eec1ec8f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
+      "publishedDateTime": "2022-07-20T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive.md",
+      "title": "This Robotics Professor Performs Hip-Hop Robot Poetry And Writes Black STEM Romance Novels To Make STEM More Inclusive",
+      "excerpt": "Engineering and robotics professor Dr. Carlotta Berry uses innovative, out of the box strategies for making engineering and robotics concepts more interesting, engaging and inclusive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
+      "originalUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7195256c22d20c27896a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
+      "publishedDateTime": "2022-07-20T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students.md",
+      "title": "IIT Palakkad offers free 12-week online course on artificial intelligence (AI) for students",
+      "excerpt": "IIT Palakkad is offering a free 12-week online course on artificial intelligence (AI) for students on the NPTEL platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "originalUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/boy-1986107_1280-647x363.jpeg?5xvcK3yrJoB82_1jS0Y8wtsaZJuspTA.",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
+      "publishedDateTime": "2022-07-20T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
       "title": "Singapore healthcare mobile app taps AI to diagnose STD",
       "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
@@ -303,7 +450,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -438,58 +585,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
-      "title": "Should We Worry About Artificial Intelligence?",
-      "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-586525/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "publishedDateTime": "2022-07-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1116,101 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-thirdai-founder-works-to-make-artificial-intelligence-more-efficient.md",
-      "title": "ThirdAI Founder Works to Make Artificial Intelligence More Efficient",
-      "excerpt": "Instead of using huge amounts of computing power, Anshumali Shrivastava wants to rethink the fundamentals of AI itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "originalUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-585899/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "publishedDateTime": "2022-07-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-digi-yatra-using-facial-recognition-to-begin-in-august-at-bluru-varanasi-airports-scindia.md",
-      "title": "Digi Yatra using Facial Recognition to begin in August at B'luru, Varanasi airports: Scindia",
-      "excerpt": "Digi Yatra is proposed to be rolled out at two airports, Varanasi and Bengaluru, in August and at five airports, Pune, Vijayawada, Kolkata, Delhi and Hyderabad, by March next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "originalUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/717947/jyotiraditya-scindia.png?w=570&h=322",
-          "width": 570,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "publishedDateTime": "2022-07-19T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

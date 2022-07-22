@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-14-dementia-a-sign-in-the-eyes-that-could-predict-steeper-cognitive-decline-warns-study.md",
+      "title": "Dementia: A sign in the eyes that could predict ‘steeper’ cognitive decline warns study",
+      "excerpt": "According to recent findings, thinning of the eye’s macular retinal nerve fibre layer (RNFL) could be linked to \"steeper\" cognitive deterioration in older adults. The new study, published in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/cognitive-decline-1624726.jpg?r=1655122924587",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer/amp",
+      "publishedDateTime": "2022-06-13T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-posture-assessed-in-health-exam-detects-cognitive-decline.md",
       "title": "Posture assessed in health exam detects cognitive decline",
       "excerpt": "Males with SVA ≥ 100 mm at any age, SVA ≥ 90 mm at ≥ 70 years, and SVA ≥ 70 mm at ≥ 80 years were likely to have cognitive decline, while females with SVA ≥ 70 mm at any age were ...",
@@ -1228,58 +1271,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science.md",
-      "title": "Does cognitive computing offer the next wave of analytics beyond data science?",
-      "excerpt": "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-06-06T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

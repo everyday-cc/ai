@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Model Helps Predict Immunotherapy Response"
+    excerpt: "Network-based machine learning has been used to improve the accuracy of predicting patient response to immune checkpoint inhibitors."
+    publishedDateTime: 2022-07-22T14:25:00Z
+    webUrl: "https://www.emjreviews.com/oncology/news/machine-learning-model-helps-predict-immunotherapy-response/"
+    type: article
+    provider:
+      name: emjreviews.com
+      domain: emjreviews.com
+    quality: 39
+    images:
+      - url: "https://emj.emg-health.com/wp-content/uploads/sites/2/2022/07/Whats-New-Pic-2-DRAFT.jpg"
+        width: 821
+        height: 497
+        isCached: true
   - title: "Machine learning models help forecast immunotherapy response from gut microbiomes"
     excerpt: "A new research paper was published in Oncotarget on July 19, 2022, entitled, \"Predicting cancer immunotherapy response from gut microbiomes using machine learning models.\""
     publishedDateTime: 2022-07-20T06:27:00Z

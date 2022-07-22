@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-22-passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa.md",
+      "title": "Passenger Admitted to Hospital After Self Driving Taxi Crashes in USA",
+      "excerpt": "An accident involving Cruise — a driverless taxi operating in San Francisco — broke the internet, causing concerns about the viability of self-driving",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/",
+      "originalUrl": "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2022/07/Cruise-Taxi-e1658481085332.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/",
+      "publishedDateTime": "2022-07-22T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
       "title": "Check out Baidu’s futuristic robotaxi",
       "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -105,7 +148,7 @@
       "originalUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -1328,58 +1371,6 @@
         "name": "BGR",
         "domain": "www.bgr.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
-      "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
-      "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg",
-          "width": 690,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
-      "publishedDateTime": "2022-07-06T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

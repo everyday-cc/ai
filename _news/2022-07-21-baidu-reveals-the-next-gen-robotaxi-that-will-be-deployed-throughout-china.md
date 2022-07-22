@@ -47,6 +47,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Baidu's latest robotaxi has a removable steering wheel"
+    excerpt: "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,"
+    publishedDateTime: 2022-07-22T14:51:00Z
+    webUrl: "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f"
+        width: 1920
+        height: 1281
+        isCached: true
   - title: "Baidu Races Ahead of Tesla With Launch of Robotaxi With Detachable Steering Wheel"
     excerpt: "Baidu unveiled a new autonomous car with a detachable steering wheel that it wants to use for its robotaxi service in 2023—up to a year before Tesla plans to start mass producing a similar vehicle."
     publishedDateTime: 2022-07-21T08:40:00Z

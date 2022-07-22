@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-22T11:52:00Z
 originalUrl: "https://www.businessinsider.com/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7"
 webUrl: "https://www.businessinsider.com/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

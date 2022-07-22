@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI disruption is already here, even if we don’t notice it"
-    excerpt: "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28."
-    publishedDateTime: 2022-07-17T20:14:00Z
-    webUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/"
-    ampWebUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/aideal-hwa-J9LDdCPkxfI-unsplash-e1657915844880.jpg?w=1200&strip=all"
-        width: 1200
-        height: 539
         isCached: true
   - title: "6 AI innovations for those aging in place"
     excerpt: "The New York Office for the Aging recently partnered with ElliQ by Intuition Robotics to bring empathetic care companions into the homes of hundreds of seniors aging in place across the state. The robots proactively engage in conversation first,"

@@ -521,17 +521,17 @@
       "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
       "excerpt": "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -539,23 +539,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:16:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28036141",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28036141",
+      "publishedDateTime": "2022-07-12T08:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

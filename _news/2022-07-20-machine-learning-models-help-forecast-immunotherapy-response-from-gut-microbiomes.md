@@ -41,6 +41,20 @@ related:
         width: 1116
         height: 1222
         isCached: true
+  - title: "Machine Learning Model Helps Predict Immunotherapy Response"
+    excerpt: "Network-based machine learning has been used to improve the accuracy of predicting patient response to immune checkpoint inhibitors."
+    publishedDateTime: 2022-07-22T14:25:00Z
+    webUrl: "https://www.emjreviews.com/oncology/news/machine-learning-model-helps-predict-immunotherapy-response/"
+    type: article
+    provider:
+      name: emjreviews.com
+      domain: emjreviews.com
+    quality: 39
+    images:
+      - url: "https://emj.emg-health.com/wp-content/uploads/sites/2/2022/07/Whats-New-Pic-2-DRAFT.jpg"
+        width: 821
+        height: 497
+        isCached: true
 
 secured: "GasXRS4wADVT7RdLU9u5PGTOQR+zoe6MNck/jbV3Wz8uF4EemP/9iIJP+BhrB2/ssshLmC7r7YTgESDsuy96J8LvCgz5hAfigTCBTg0ax+1I8HB4KD8YcD3UsfQri/K5KZXqzKWqdJLKvi/6AYRMcvnCJenEtGUy+zkkA53WxSeXFhRSJoOc3QXQb9mBPoSmRzexwOvAiTDcOpdZJixow08/pKOiqtPy6cOrsLZVEGwhwJQSOFnJYL1ThzhXu8H261dWEUS4PXyCNUVTXhdQhlUVxPUbSFPdQpO3uHtajO4EsZGkBJPQOsEhB+6U4jew7SydhclUkXGkm789v1A0GVEBhfsAQqRaDUivzjKrGHhcvh2DgcnY/t31yK54dUold30GILSpjFp7QG6+makZ23YD0b5cRzRtBLI2ofJASZAFIfNe0m+13J5+hz99Ftbv4sr8dI5qS4rs/aDVVuWXvE0AC+F9qhG9zV/YZZv8+S1EoY+IVclqwzM7pwpZZOObxqvFABTPTUvqr02f9LHHJg==;gk/zK2aFE1t3qAjpXSUUmQ=="
 ---

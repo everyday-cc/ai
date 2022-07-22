@@ -155,6 +155,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
+    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
+    publishedDateTime: 2022-07-21T13:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 0
 
 secured: "Z2Xk8tgFvWLBn+lpnpUkadgiRani1KAK1oiO+HddH6MdE+KNuzZbqOun8SrWanVJHHRQoa7Rql6JMVrbiRv53LQR/zSeoOhReDwvkBG0ODrwtSUSJK9Zh9eJjwg2LngAuDtm+RzVJHXsjopanSENpI5BZZorgCApbvlwFYTVUvhgwLhfz4kpzjM4HsN/u4SQXiyTCkeHHmjc96Yw9gwKrF/K50e4sXgIY3JEITffptkJ3I6uerMKftlWY1Qg3FdLzzku+QZx79MnvVX6Z85iecS5H4UrytXpsaa3LZxvVrKYDoYfg7W4VFE89v1Qyag27XHVhCQa0nmShkA6kIIr+t+huW/ov2o7FP1/gLs3NQyD4IqFQpEByYtATprnZb7TT7uYb+n47YkEg7jqMQJ/WzrZTOiAlBamyJgtSWF6Fg/wuGQmszCfftvNh5TMH34vIpxNqkowkaOUcMP516OanaJI/v1ji5qXLKqyAbvZWFneluvhNyMcBj0vHG/I/MPeTO3TAvNyLwvLVtcogHGMTQ==;i0RpeH4d2rg9O6c4zMIqPw=="
 ---

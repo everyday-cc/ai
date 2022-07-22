@@ -35,6 +35,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Baidu's latest robotaxi has a removable steering wheel"
+    excerpt: "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,"
+    publishedDateTime: 2022-07-22T14:51:00Z
+    webUrl: "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f"
+        width: 1920
+        height: 1281
+        isCached: true
   - title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
     excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
     publishedDateTime: 2022-07-21T02:55:00Z

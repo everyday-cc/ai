@@ -73,6 +73,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "REPORT: Tesla Is Losing The Race To Perfect Self-Driving Cars To Baidu"
+    excerpt: "One of Tesla’s prime competitors in China, Baidu, unveiled its newest robotaxi design Thursday and plans to begin drastically expanding its driverless"
+    publishedDateTime: 2022-07-22T14:52:00Z
+    webUrl: "https://www.tampafp.com/report-tesla-is-losing-the-race-to-perfect-self-driving-cars-to-baidu/"
+    type: article
+    provider:
+      name: The Free Press
+      domain: tampafp.com
+    quality: 54
+    images:
+      - url: "https://www.tampafp.com/wp-content/uploads/2022/07/Baidu-Tesla.jpeg"
+        width: 600
+        height: 455
+        isCached: true
+  - title: "Tesla Is Losing The Race To Perfect Self-Driving Cars To China: REPORT"
+    excerpt: "This massive cost reduction will enable us to deploy tens of thousands of AVs across China. We are moving towards a future where taking a robotaxi will"
+    publishedDateTime: 2022-07-22T14:17:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2022/07/22/tesla-is-losing-the-race-to-perfect-self-driving-cars-to-china-report/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2022binary_LYNXMPEI6J10U-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
     excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-07-18T18:17:00Z

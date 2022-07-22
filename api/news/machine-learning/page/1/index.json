@@ -46,6 +46,41 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
+      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
+      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "publishedDateTime": "2022-07-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines.md",
       "title": "Organize your machine learning journey with Amazon SageMaker Experiments and Amazon SageMaker Pipelines",
       "excerpt": "The process of building a machine learning (ML) model is iterative until you find the candidate model that is performing well and is ready to be deployed. As data scientists iterate through that process, they need a reliable method to easily track experiments to understand how each model version was",
@@ -107,7 +142,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1388,59 +1423,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
-      "title": "AI goes multilingual with Hugging Face’s BLOOM",
-      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

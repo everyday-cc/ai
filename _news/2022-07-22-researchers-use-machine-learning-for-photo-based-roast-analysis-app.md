@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T12:00:00Z
 originalUrl: "https://dailycoffeenews.com/2022/07/22/researchers-use-machine-learning-for-photo-based-roast-analysis-app/"
 webUrl: "https://dailycoffeenews.com/2022/07/22/researchers-use-machine-learning-for-photo-based-roast-analysis-app/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Coffee News

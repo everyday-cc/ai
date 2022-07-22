@@ -2,6 +2,100 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-05-26-top-7-ways-to-cultivate-creative-excellence-with-ai.md",
+      "title": "Top 7 Ways to Cultivate Creative Excellence with AI",
+      "excerpt": "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426406",
+      "originalUrl": "https://www.entrepreneur.com/article/426406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
+      "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets.",
+      "excerpt": "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
+      "originalUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OsmwzgiZQI3JRU4IML5KOA--~B/aD01MjQ7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/0e6f928d9e0be878635e948bc13ce1f3",
+          "width": 840,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
       "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
       "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
@@ -974,109 +1068,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-could-machine-learning-and-operations-research-lift-each-other-up.md",
-      "title": "Could machine learning and operations research lift each other up?",
-      "excerpt": "Perhaps cross-fertilizing machine learning and operations research with techniques and lessons learned could help lift both of them up.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172-e1653501662265.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/amp/",
-      "publishedDateTime": "2022-05-25T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-dataai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend.md",
-      "title": "Data.ai: Mobile has huge lead on PC and console in consumer spend",
-      "excerpt": "A new report from Data.ai shows that mobile gaming's momentum has not slowed, and it's got an even bigger lead on PC and console.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Data.ai-Mobile-spend.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/amp/",
-      "publishedDateTime": "2022-05-25T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

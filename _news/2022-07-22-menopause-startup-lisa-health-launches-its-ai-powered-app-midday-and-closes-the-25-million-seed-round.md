@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T13:45:00Z
 originalUrl: "https://www.forbes.com/sites/marijabutkovic/2022/07/22/menopause-startup-lisa-health-launches-its-ai-powered-app-midday-and-closes-the-25-million-seed-round/"
 webUrl: "https://www.forbes.com/sites/marijabutkovic/2022/07/22/menopause-startup-lisa-health-launches-its-ai-powered-app-midday-and-closes-the-25-million-seed-round/"
 type: article
+quality: 31
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -17,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Mayo Clinic, Lisa Health Leverage AI to Create Personalized Menopause App"
+    excerpt: "Mayo Clinic and Lisa Health have partnered to launch an app that leverages AI, sensor technology, and digital therapeutics to support menopause management and healthy aging."
+    publishedDateTime: 2022-07-20T13:40:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-lisa-health-leverage-ai-to-create-personalized-menopause-app"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/mayo-clinic-lisa-health-leverage-ai-to-create-personalized-menopause-app"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/mayo-clinic-lisa-health-leverage-ai-to-create-personalized-menopause-app"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 58
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2019-09-30-GettyImages-974742772-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "a1gh7BV2PEZ7cZDepXaUj5SF6dUXx0I9BCF9R68D/lLdruf4utQc+YDO84+x8y7HJTv6kPuCLDUWruBymXvvoDF+HABA+9szINF1gErG+DZJDbMwjSZwpqb2UQaRWUD2WM9TgYRAb1r4ZHJNDYybE2cjHf5Jy0I5WyGa+8xJu1wjjo0yGvcA/EmOVpiQ6pT3u4azPLWwIs4kQTNSnVQx5bsWuNYz0QnLuduXoZqaUN4i2GwANBgNEitmQKWXALlOSwVFrq29hwgxFu7BSUVsAN5AZBv47JT5gCRKH2k6y6WonsetcrTvUP8wdBSORq0uVCHXAJmav277RAGZuDUII7OkelWUJuNAuvvK1r3E8RgJepimCf7BgDA7TzBK/DbZ401gr1MIbFYbJNYr9Yf1Tr0V3AUzxTgsJdBlBVZUml7ZF9X5KoLJ3RLC+bf6beUYL+zuFjuuTA8J8UJ/vfF1KcNEwtA1RHO6bEP/4wv6/B6Ei3oOd9CaUxjvq8Y6fQfUNifA8fcao0q1/LKI8z4a7w==;4gjzAyu0iW1BWMOH47zY+A=="
 ---

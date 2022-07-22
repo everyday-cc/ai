@@ -35,6 +35,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "AIMMO has updated its \"Smart Labeling\" function, making autonomous driving and smart city data labeling smarter with AI"
+    excerpt: "Extended coverage, including more sophisticated interactive segmentation and 3D object detection Project refining function launched that can"
+    publishedDateTime: 2022-07-22T13:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aimmo-has-updated-its-smart-labeling-function-making-autonomous-driving-and-smart-city-data-labeling-smarter-with-ai-1031607739"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
 
 secured: "uZY3d383EDg3CSf7FmMC1iYjyBsvIjckTvDj2wJjf/CgIJpJ+HzgHL4jgehY29IzHb8YlOHFyFpYNfA4F7+JOKlHrkIkeUN6NTFGTC3+rRXMwd2mV3jALSG4pBNMR2TEbcHLoSkZQujmNE7s962mbjP7KTUdxUh63TGI47V8+5P11lYEjIY60vBz255NulXic+Pq1qJr3GaPD/IVGopRLwtyl8Sh+s+RuqRM0wyeiv092T/y/yDlP9TliiaxeI8pNlb0xAevXIX4dfUxltsKnFLFmr1IdJvmea7zAfSiPO9PqXJKb9T8G0bzE3bb7OOw+F9mO/u6kBxr3ABkrXwEzX8nYm/r22I6HqXqkPq9+wU=;aLEFq3SrSuEwxuMkIAWZFg=="
 ---

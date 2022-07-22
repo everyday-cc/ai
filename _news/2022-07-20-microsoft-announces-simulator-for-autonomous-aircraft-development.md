@@ -195,6 +195,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 19
+  - title: "Microsoft Becomes the First in Big Tech To Retire This AI Technology. The Science Just Doesn't Hold Up"
+    excerpt: "So, to build truly 'intelligent' AI that adequately serves humanity, the ability to detect and understand human emotion ought to take center-stage, right? This was part of the reasoning behind Microsoft and Apple's vision when they dove into the topic of AI-powered emotion recognition."
+    publishedDateTime: 2022-07-22T13:58:00Z
+    webUrl: "https://www.inc.com/nick-hobson/microsoft-becomes-first-in-big-tech-to-retire-this-ai-technology-science-just-doesnt-hold-up.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 18
 
 secured: "tGqvtT72sRNYhgZCWdLNAD0nUyX7M4ZvXUgspGkEmy1EsJYDwuHfR/63LyGMvPbstyvXLfROyYac9LnteX5oV1I/yEyYCMiYOJ0HsafFXGN49vV6qCylF7W0RWfjJ0iVnWhEChqy5yQds8DrPfxxZBk9uHdH8cxKUMEHtR7rJO0x6ilU2HuoUWt4ntSwhnc+/Hmfo5bkIIybofqAsnUWZ0ysvJAfTSmAyRIXgvPrQf2CNgI8TzdoR8PAdeYLA8xyoiV8BKTSSARX+MMB7neoPpi1xXmfMX7dLPMAsNC312eIm+KPwuCiZ2RkrqRg+N4NYwSMzxZqNWZz4JERiZsAMxcP8xgO/vr93KuxSYP7JEPtNUp9X9jDIkabO8aDbcINL7opmSbKzrVIosq5/wnN2tcTjOrI3gHR0CSGxJ9QFv3sqZv883in1rSDlVRBfwVBqUUSLta5w+kld2pyOfYOCb7H2KNp3KnlPq0XS8Bo0qb4/0gcOVKsT3DX41tU54M5MzX+U/n8bHHsOTA1vbRMTQ==;k9RYU3DKoMDWdm0yKpfZXQ=="
 ---

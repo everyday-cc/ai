@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
+      "title": "AI Weekly: Microsoft’s new moves in responsible AI",
+      "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
+      "publishedDateTime": "2022-06-23T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
       "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
       "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
@@ -1375,58 +1428,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of.md",
-      "title": "AI Ethics And Legal AI Are Flustered By Deceptive Pretenses Known As AI Ethics-Washing Which Are False Claims Of...",
-      "excerpt": "There are those that tout AI Ethics that are actually flouting Ethical AI and need to be called out for doing so (they are AI Ethics-Washing), which is happening widely and includes those autonomous self-driving cars too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a1225d944c9fcb1eccd11c/0x0.jpg?format=jpg&crop=1761,990,x122,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/"
 type: article
 quality: 85
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
+    quality: 47
+  - title: "Commercial image-generating AI raises all sorts of thorny legal issues"
+    excerpt: "DALL-E 2, OpenAI's image-generating AI, is now a paid product. That brings all sorts of legal issues, including whether owners of images in the training data are entitled to compensation."
+    publishedDateTime: 2022-07-22T13:08:00Z
+    webUrl: "https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 47
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
     excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."

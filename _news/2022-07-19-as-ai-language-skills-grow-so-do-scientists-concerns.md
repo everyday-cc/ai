@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technol
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "As AI language skills grow, so do scientists’ concerns about accuracy"
-    excerpt: "Most of the tech companies that built them have been secretive about their inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation, racism and other harms."
-    publishedDateTime: 2022-07-17T22:55:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YISDQUOIC5AVHLEH3SNZPD5OSY.jpg"
-        width: 5655
-        height: 3770
-        isCached: true
   - title: "Big Tech builds AI with bad data. So scientists sought better sets."
     excerpt: "BigScience is a global effort to build a more transparent, accountable AI, with less of the bias that infects so many Big Tech initiatives."
     publishedDateTime: 2022-07-21T09:00:00Z

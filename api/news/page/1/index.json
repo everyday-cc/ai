@@ -46,6 +46,41 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
+      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
+      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "publishedDateTime": "2022-07-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-how-hr-can-approach-diversity-recruiting-with-ai.md",
       "title": "How HR Can Approach Diversity Recruiting With AI",
       "excerpt": "Today, with the labor market in flux, most companies have a unique opportunity to transform their workforce in ways that emphasize the company’s future needs.",
@@ -180,6 +215,93 @@
       ],
       "topics": [
         "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa.md",
+      "title": "Passenger Admitted to Hospital After Self Driving Taxi Crashes in USA",
+      "excerpt": "An accident involving Cruise — a driverless taxi operating in San Francisco — broke the internet, causing concerns about the viability of self-driving",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/",
+      "originalUrl": "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2022/07/Cruise-Taxi-e1658481085332.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/",
+      "publishedDateTime": "2022-07-22T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
+      "title": "Don’t get too emotional about emotion-reading AI",
+      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
+      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
+      "publishedDateTime": "2022-07-22T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
         "Microsoft AI"
       ]
@@ -539,7 +661,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -591,7 +713,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -676,7 +798,7 @@
       "originalUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -728,7 +850,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -771,7 +893,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -960,7 +1082,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1051,153 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-4-ways-computer-vision-will-reshape-urban-transportation.md",
-      "title": "4 Ways Computer Vision Will Reshape Urban Transportation",
-      "excerpt": "The involvement of computer vision in smart transportation optimizes several facets of smart cities and will continue to do so in the future. The public sector, in collaboration with private tech enterprises,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bb1bd6a217d2eec1ec8f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
-      "publishedDateTime": "2022-07-20T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive.md",
-      "title": "This Robotics Professor Performs Hip-Hop Robot Poetry And Writes Black STEM Romance Novels To Make STEM More Inclusive",
-      "excerpt": "Engineering and robotics professor Dr. Carlotta Berry uses innovative, out of the box strategies for making engineering and robotics concepts more interesting, engaging and inclusive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
-      "originalUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7195256c22d20c27896a2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
-      "publishedDateTime": "2022-07-20T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students.md",
-      "title": "IIT Palakkad offers free 12-week online course on artificial intelligence (AI) for students",
-      "excerpt": "IIT Palakkad is offering a free 12-week online course on artificial intelligence (AI) for students on the NPTEL platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/boy-1986107_1280-647x363.jpeg?5xvcK3yrJoB82_1jS0Y8wtsaZJuspTA.",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "publishedDateTime": "2022-07-20T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

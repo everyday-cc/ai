@@ -2,25 +2,25 @@
 category: news
 title: "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought"
 excerpt: "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ..."
-publishedDateTime: 2022-07-03T01:32:00Z
-originalUrl: "https://heraldcourier.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6da2a504-29bb-5acd-869d-a67955c00d83.html"
-webUrl: "https://heraldcourier.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6da2a504-29bb-5acd-869d-a67955c00d83.html"
+publishedDateTime: 2022-07-03T01:38:00Z
+originalUrl: "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html"
+webUrl: "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html"
 type: article
 
 provider:
-  name: Bristol Herald Courier
-  domain: heraldcourier.com
+  name: Rapid City Journal
+  domain: rapidcityjournal.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/6/da/6da2a504-29bb-5acd-869d-a67955c00d83/62bc9a950bf2f.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/f/8d/f8d59b3b-963b-5800-bbdc-0c1c29f65abe/62bc9a94703e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize"
     width: 610
     height: 320
     isCached: true
 
-secured: "lv6hxMpiT2ygjB5djpk9bus5sWvKYaENzG+fpi6Utj+xPSTT/wFjwTcN4DPkmMXrUEWOwS+R/uSm+U9idmI+5g+H0PISqK8AtXCMrUEYMR4/mLcbGM1CZg78JEc3iXDk/fqrNzo22SR7i6wG/C6T3MXkQVGQeHSgJJZ+0GMI3Bvt86pT2ftfuyrQ+LHDPtRq+r+e3k/uWLF1+8zp/yjk9vLDXJtcOz8e3x58f/J8xHwkr4XePUGXFXJnL4derhyx7TnoF/nGRuDRZmRCoAYH5QhBEqwHzjosuukjMj/fiL5HruXKdKe7Hg+yApQftA/NHq1OsroPcFPxU3f4AbN/El78xCwmqFsxo8skP/i7Z9c=;DyiaG9/JFaPdlUwigydkKw=="
+secured: "MfcWYLqmeJzVv4eZZIBCczV2Sq8860wdDZjbHPHgoN7iRU7tmSabTS43dYjtU+k7LyXId2WA3K2Ms270Y1+xtZdeb1wEqfvB2QSFKUAK84QyJLaYXNuv8XsnoRI5nDutpO8J8CWdFKT5Hl5kNPKw7o6GE7r22VWSYHGg4tH6cTouLcP3dfYiNGFpEchpaH22aj8Bq0jSKJIbLhCTg4QBbeKLY72Kyc0jjH+tA2DuA9NZZ22pYe+TWuWyfah39rphOh1OQPkby3vlcqQO+B0sjniiul+xQg/mXCHntVtt6cPBCYfAdQmCyQF7sExQ58nbxNG5ZvyL5jmkjYV+Q+Fw+99qpbKsTor68xrIGJ/A364=;TR8EItfW17gZzQrRD6iYZw=="
 ---
 

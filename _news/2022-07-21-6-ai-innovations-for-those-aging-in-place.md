@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI disruption is already here, even if we don’t notice it"
-    excerpt: "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28."
-    publishedDateTime: 2022-07-17T20:14:00Z
-    webUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/"
-    ampWebUrl: "https://venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/ai-disruption-is-already-here-even-if-we-dont-notice-it/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/aideal-hwa-J9LDdCPkxfI-unsplash-e1657915844880.jpg?w=1200&strip=all"
-        width: 1200
-        height: 539
-        isCached: true
   - title: "6 AI innovations for those aging in place"
     excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
     publishedDateTime: 2022-07-21T18:30:00Z

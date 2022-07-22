@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
+      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
+      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "publishedDateTime": "2022-07-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup.md",
       "title": "Morgan Stanley-Backed Fintech Teams With Schwab on Advisor AI Solutions: Tech Roundup",
       "excerpt": "Morgan Stanley-backed fintech firm CogniCor established a formal relationship with Charles Schwab to provide artificial intelligence-enabled solutions to affiliated RIAs through Schwab’s Managed Account Marketplace.",
@@ -1281,49 +1316,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-data-connectivity-services-play-a-vital-role-of-business-growth.md",
-      "title": "Data Connectivity Services Play a Vital Role of Business Growth",
-      "excerpt": "Data Connectivity Services Play a Vital Role of Business Growth. FinancialBuzz.com News Commentary. NEW YORK, June 22, 2022 /PRNewswire/ -- The 5G infrastructure is rapidly growin",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/22/9626501.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/22/9626501.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

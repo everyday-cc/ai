@@ -94,6 +94,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Commercial image-generating AI raises all sorts of thorny legal issues"
+    excerpt: "DALL-E 2, OpenAI's image-generating AI, is now a paid product. That brings all sorts of legal issues, including whether owners of images in the training data are entitled to compensation."
+    publishedDateTime: 2022-07-22T13:08:00Z
+    webUrl: "https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
     excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
     publishedDateTime: 2022-07-20T16:45:00Z

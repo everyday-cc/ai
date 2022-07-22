@@ -2,6 +2,109 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-06-07-gantry-launches-out-of-stealth-to-help-data-scientists-keep-ai-models-fresh.md",
+      "title": "Gantry launches out of stealth to help data scientists keep AI models fresh",
+      "excerpt": "The demand for AI in the enterprise is insatiable ... the co-founder of industrial robotics startup Covariant. “Our product helps machine learning engineers use the data that is flowing through ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/07/crunch/",
+      "originalUrl": "https://techcrunch.com/2022/06/07/crunch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/07/crunch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/07/crunch/amp/",
+      "publishedDateTime": "2022-06-07T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-waymo-and-uber-partner-to-deploy-self-driving-trucks-at-scale.md",
+      "title": "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale",
+      "excerpt": "Waymo and Uber are partnering to make it easier for shippers and carriers to use autonomous trucks. This is another step towards making self-driving semi trucks mainstream and widely available. It's easy to think of self-driving cars as the main battleground for autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/a9ec5b2725e71857fb4bc61733b794bcdc7ca812/2022/06/07/3f662fc3-12e2-4d72-9fe9-ace4456b9bc8/waymo-via-uber-freight-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/",
+      "publishedDateTime": "2022-06-07T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving.md",
       "title": "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars",
       "excerpt": "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars.",
@@ -1040,92 +1143,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ibm-bids-farewell-to-watson-health-assets.md",
-      "title": "IBM Bids Farewell to Watson Health Assets",
-      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

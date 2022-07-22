@@ -8,9 +8,9 @@ webUrl: "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-a
 ampWebUrl: "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Computerworld

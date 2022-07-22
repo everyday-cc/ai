@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2022/07/22/ceo-seedcred-financial-services-l
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/07/22/ceo-seedcred-financial-services-limited-talks-about-fintech-nano-lending-prospects-and-challenges-in-pakistan/amp/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Artificial intelligence in Pakistan"
-    excerpt: "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,"
-    publishedDateTime: 2022-07-17T20:05:00Z
-    webUrl: "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan"
-    ampWebUrl: "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 61
-    images:
-      - url: " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  "
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "XBtlit5jbRBOoxn7dc5/6Od7SQCzgR71rWVNtMEG+vyLZ/VBdHV6HGpCX+WB1Y4uf1QfuPjeXHXGl/Jnk/Fy5cFMJKyj1fiqU/KJIrbGvqCTcHcftju8e2uxoJoZVpfSuf7tqGVzy0xjn28MVRxPl5kyn6+3GUYNLlGzXpPCMLRRZgW8CaXtKGZueHLnL9J77zi8CGGp/s6kvSzqs347FafT3JE3qDa2rUzpjY5JNftrAUlZFxcJeWRJwIZqryvIMiiZQAK68ZZbh2epX3V3s1vXosUVTdUmpRoFzAwkCdK1KJNE6lbhOR2jo/L2IxWSigECMbQACepxQA9uv2nn0dDeTLvlf71tP9QLjA7DTJI=;otvnSqFNFV+1JBi3v3WwXQ=="
 ---

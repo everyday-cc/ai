@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Yamaha furthers investment in self-driving technology"
+    excerpt: "Yamaha has made its third investment to Tier IV, the lead developer of the Autoware open-source self-driving operating system."
+    publishedDateTime: 2022-07-22T15:10:00Z
+    webUrl: "https://www.visordown.com/news/industry/yamaha-furthers-investment-self-driving-technology"
+    type: article
+    provider:
+      name: Visordown
+      domain: visordown.com
+    quality: 24
+    images:
+      - url: "https://cdn.visordown.com/05_2017_TMS_MOTOBOT.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
 
 secured: "/dBk4TPB0xyeuNGkYSqvvOkyvu7qJWWgkxbdhAiiXXto76dcWxSsNNm7D1iZkOsScFIUd4ASxfJCc8LgxOKucgRGQQvdWdGhSGVdtDhH167ltSj3R0yC+dJZhYKaf+l1GjNKCv3Z6vNXdjhbyYsFhEBSZc3To8usDzj1QH/Rn83jE8AbZEr96UGGGO7JjHPjeZH8LcQva4pQm/YMV1mR2RKUbiz/mTKIY4+CxoFg9+Mte9OSiZO7js3r1AXtKQPIipLNUv3pGXshnqv/IpWRnudX0eA++xV6YRICUjP1IASi46SsBdpjw6IjMqQuBgKu1EwGMCsAuMQ+R5AHBYRhlcu/TXd2eYC01TMKD/n5P8VnS314meDqauOXxwZlyjpkCPb0qjdSd1FVKo1O0FxOJcHBixZK0IpOBpgoa7AbmT5/MHT6jxwJzhBg04YCw1jCYIGKSXPN2Qsy8zsniu6b97Uw7Wj8xYudjp+igCiFfYoAQJXex24uxAA9P0QnvwrFoh6o4+ub86Upp4e+Ix3oKA==;4IOAgxNLlIWz1btK2IseiA=="
 ---

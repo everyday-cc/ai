@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T13:00:00Z
 originalUrl: "https://www.womenshealthmag.com/health/a40618084/10-truly-easy-ways-to-slip-more-self-care-into-your-day/"
 webUrl: "https://www.womenshealthmag.com/health/a40618084/10-truly-easy-ways-to-slip-more-self-care-into-your-day/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Women's Health

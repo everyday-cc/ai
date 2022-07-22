@@ -9,8 +9,8 @@ ampWebUrl: "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-af
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ProPakistani
@@ -40,6 +40,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzzcruise.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Yamaha furthers investment in self-driving technology"
+    excerpt: "Yamaha has made its third investment to Tier IV, the lead developer of the Autoware open-source self-driving operating system."
+    publishedDateTime: 2022-07-22T15:10:00Z
+    webUrl: "https://www.visordown.com/news/industry/yamaha-furthers-investment-self-driving-technology"
+    type: article
+    provider:
+      name: Visordown
+      domain: visordown.com
+    quality: 24
+    images:
+      - url: "https://cdn.visordown.com/05_2017_TMS_MOTOBOT.jpg"
+        width: 2000
+        height: 1334
         isCached: true
 
 secured: "rqUZP5gN6i1Ptb7sXQxa7wCzNQncS+Ehm1OeylYBrLKuWcjYPuhZThFUtyMwZOZE7EUvym6OsXaWWhuvSrIJFyOPZJBs+r8XByraghuusJXI7sVTJXJA46Eum1irE2ijRfBCc9ZIQ24TbSep6vuskt5hyMmswV/htSVEoQiTEeM2AQL/bVEJgaZFgFU05YSgquhrRHwiPyxONeP5d2GJukZB1jKXb/mtHiY+VMdzdmY1pR6FiDHkF/IHa3kw11+RQP7pHqWwavERZpbpYrwhi4U6Xr7OMdb68JcciA1rlsw2WER5kC0iQjG2XVopnfIX8yoN+dvFbYGPle2QOsTTCl2eIV0J0emGHyp75H5dx8YluJ9aCkNmh/NPEAXA1M4rsyut94gMSF5L0YY77QhIAc3rgcSrFJwX8A6EoRZSKrhl02KSIhiBfeJolVkYjTZKYIGxtknO211ElvcHzXZpE+AnUVo/+bOCEPNNIMIJlkXYJFf59RARPDJEwYm/tt4d/R6Lp1+JxryiPnf5Hw7zwQ==;N2s2ddaIyH8ehsta4ETdJQ=="

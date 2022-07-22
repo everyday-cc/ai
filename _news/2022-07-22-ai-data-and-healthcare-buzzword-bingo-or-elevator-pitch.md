@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T11:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/22/ai-data-and-healthcare-buzzword-bingo-or-elevator-pitch/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/22/ai-data-and-healthcare-buzzword-bingo-or-elevator-pitch/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

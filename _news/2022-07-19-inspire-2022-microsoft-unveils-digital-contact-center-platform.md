@@ -194,6 +194,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Becomes the First in Big Tech To Retire This AI Technology. The Science Just Doesn't Hold Up"
+    excerpt: "So, to build truly 'intelligent' AI that adequately serves humanity, the ability to detect and understand human emotion ought to take center-stage, right? This was part of the reasoning behind Microsoft and Apple's vision when they dove into the topic of AI-powered emotion recognition."
+    publishedDateTime: 2022-07-22T13:58:00Z
+    webUrl: "https://www.inc.com/nick-hobson/microsoft-becomes-first-in-big-tech-to-retire-this-ai-technology-science-just-doesnt-hold-up.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 18
 
 secured: "BdWlu3IuaUhtUdEbtCOOhwe6IGvxM6Lo+0E+/6OZSfnXucjR8Oj8ZSjoQg312S5dYzB11zaYYstnlWP/bfUeGsjPDHOk9Kr0x9G0A9wcBbXtKv3jcv3lD9fQKmhJH+HDLez0NV+N45kj3i6YsfrFM1agz6qUkAkHh1boEHWNCotySg5jkdZ1uzhNNrnPGewX8eJB718KHVUHGFRP7oWi5tbm2g+33Vp0S2Bj6MIp1B27GEnR3aQv6AcexcMYi4IAaf89eJouN4sJZYoQcSI1fKpHi3KXzJRy/P+LQ6PZ6aFI503DzGaMv1Jt7qPHDtgtW70v3y1PuVkZEBPX+dIWD3IUwz2XL38QOg/tDfsYPCKPnIH6P9Ee3vnb/bRwgFYkLze9Wa1A3mxZ+DyzcRK4sU6IxLv2RvweFt1MXa4iwLM/uvWhzc0OyDtHw+fNYvXIRQmFC7nczt83qtrecQOmUbCXjjMlpXPJIjD4HffvaU1yvUKaxu5EH0B351h8Bnd4rFPPMbLamoO4Y7fZC9I8aA==;9D3331TlZ80Rmv3kZLFSyA=="
 ---

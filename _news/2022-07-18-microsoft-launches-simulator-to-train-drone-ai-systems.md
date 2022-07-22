@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -199,6 +199,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 19
+  - title: "Microsoft Becomes the First in Big Tech To Retire This AI Technology. The Science Just Doesn't Hold Up"
+    excerpt: "So, to build truly 'intelligent' AI that adequately serves humanity, the ability to detect and understand human emotion ought to take center-stage, right? This was part of the reasoning behind Microsoft and Apple's vision when they dove into the topic of AI-powered emotion recognition."
+    publishedDateTime: 2022-07-22T13:58:00Z
+    webUrl: "https://www.inc.com/nick-hobson/microsoft-becomes-first-in-big-tech-to-retire-this-ai-technology-science-just-doesnt-hold-up.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 18
 
 secured: "1eo8t72nVpxfzvlaqd6lOVWzZYKySrrtpI44YJ1TwkgAfOfkfnJkWgFsXtlSx7yQGbGh/Qw5OrL5tb8uL20XrBsHccZ/kevc9+Zu6pVpuZLi2ZIeziBGxEmPcuuCY4tuTmALEjCy8VNYH+/lIv9fZhBI+8srdtG4r8u4Vd88JL5Ah2nS1FGi4OY001dFQ73f0zmgSIlUBsonUOFkPFUg22UE+qiqGRFRrAatMKrvtyKakx8eYBomVQ3u2sAd6r85QoijgKd2GVEH+wyQZV8/IYgpYidmzJcR1KOS4vUX8A0eq/ebrz4YqusX/3QK40kb9lvSQKvSvOMNZX82HbHUN3b790RSZAa7s8uqdhhYt8TG1T8CJoMFkoOGYuyaHnRAfuvftVynbD2hh0iwk/Y0ChWQbRfvpA2qND7iZRQjQtCg8sHVwO/GxGDAjEkSodqK42MAsriA0V4iAWIrmzawtaNq9P7xAMCR5O9ATTzdLXYtzjYCmUElkP5wG3jSQDgLjNTzqb3+woQ9DKjJNid0IQ==;J53KHz4/pD6N4WGcilm+CA=="
 ---

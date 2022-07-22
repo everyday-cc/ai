@@ -42,22 +42,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "As AI language skills grow, so do scientists’ concerns about accuracy"
-    excerpt: "Most of the tech companies that built them have been secretive about their inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation, racism and other harms."
-    publishedDateTime: 2022-07-17T22:55:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YISDQUOIC5AVHLEH3SNZPD5OSY.jpg"
-        width: 5655
-        height: 3770
-        isCached: true
   - title: "As AI Language Skills Grow, So Do Concerns"
     excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
     publishedDateTime: 2022-07-18T14:03:00Z

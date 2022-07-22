@@ -156,6 +156,15 @@ related:
       name: TheDetroitBureau
       domain: thedetroitbureau.com
     quality: 4
+  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
+    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
+    publishedDateTime: 2022-07-21T13:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 0
 
 secured: "k2xBZG6XJDGO/hcjFDz9bpnLjohdyqil0TdymRx4cpcXUYfiUYBVp5owNxEq8trYHMm5m6Ti/Ra4Y2vq6m6ZiSzxSe6I/aJbTpnKJ2JOL83g0nwyMLDOOaZy+Aioquychm5cVy3G3bF3WPcTXJJE1B/fto32MNRT8oksaeeLj2u+f7lQo+TM6gJSzk05k05ySvNEykbes4keDxScmKG8GfHy63nhgUQHMdhQ+YCAG/NuCGL1GJW/+sm74NXFPdC4o9A1uT6/x454LnjCFOxl8OGMr/AqPsCURhI+CkwJ/zSezxN6RvhPtqthq25Jwfm8kOQa4JEGT4kqlRleZ0bir2iY9N7MAkCfYhMEoI5Prnk=;G1SQGzZneWRgch77vOGVog=="
 ---

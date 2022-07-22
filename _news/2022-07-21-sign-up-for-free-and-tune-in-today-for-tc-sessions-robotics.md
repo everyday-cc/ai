@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 535
         isCached: true
+  - title: "Here’s everything you missed at TC Sessions: Robotics 2022"
+    excerpt: "In case you missed it, robots took over TechCrunch on Thursday, July 21. On that day, we played host to the robotic industry’s leading startups, researchers, and academics at TC Sessions: Robotics. The event was a blockbuster success,"
+    publishedDateTime: 2022-07-22T13:31:00Z
+    webUrl: "https://techcrunch.com/2022/07/22/heres-everything-you-missed-at-tc-sessions-robotics-2022/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
 
 secured: "VgqXm0NYbAMaBdNcRRg510qayNoxu89kwEwMGeWkeFq8mHkypDYYdLX8ozI2gQVzoCYbl++U4BHhzJtmofGx6yMXt1+PaR7QWI/dTw/+07e9q2GUXdPAmLQLK3+WvemrDrh2+lgANsmM7uPYCuZLgZ4qNtsLyJTCo2MmpAy/v5N/RvKv9TrEp4UaM8IPjwhUz8d7Bt2fNGrUQZo1hRNK6LAkeZt4N6xbkcwa9W9wcIlgy+mFpuDSzql9VH3qt51V893gPVlixDsCwPi8xo4LudT90rsN6feU7hOdZJ2Y3jq95KacG0sWEzTphTqOQjpasSow9n1PUVnShQshC2HUs3CBOyRwjv4hpwiXKYkwejKnOt/F82GDy0rxxOwKHFkPHanUYQQQSqdfpKOdSDbK+Ywxf1urvqq/bDXQ3bSRPwOK2EqJBbqEd0iC/CcEI6wAeVyXBziI9THx3qpxSPLx9R2czi2D+JBpmP/C3Q0Zyc77DYIr+ZUx8NC4uJROlCsc0z876huDER5brS/ss28Eng==;WGVC+MBBhQYcL/m8YTfFfQ=="
 ---

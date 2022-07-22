@@ -2,6 +2,74 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-06-15-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
+      "title": "Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
+      "excerpt": "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
+      "publishedDateTime": "2022-06-15T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-speeds-up-molecular-fingerprint-analysis.md",
+      "title": "AI Speeds Up Molecular \"Fingerprint\" Analysis",
+      "excerpt": "With her team she has now investigated how the computing time can be shortened by using methods from artificial intelligence. The idea: a computer programme from the group of \"graphical neural networks\" or GNN receives small molecules as input with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/analysis/news/ai-speeds-up-molecular-fingerprint-analysis-362647",
+      "originalUrl": "https://www.technologynetworks.com/analysis/news/ai-speeds-up-molecular-fingerprint-analysis-362647",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
       "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
       "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
@@ -987,83 +1055,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-mit-has-made-a-lego-like-ai-chip-that-stacks-to-upgrade-your-device.md",
-      "title": "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device",
-      "excerpt": "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "originalUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/06/MIT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/",
-      "publishedDateTime": "2022-06-14T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating BOTZ opened at $20.90 on Wednesday. The company has a 50 day moving average of $23.96 and a 200 day moving average of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "publishedDateTime": "2022-06-14T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

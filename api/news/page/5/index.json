@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-15-indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules.md",
+      "title": "Indian tech startups raise $6 billion in April-June quarter, Fintech rules",
+      "excerpt": "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "publishedDateTime": "2022-07-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-top-10-data-lake-solution-vendors-in-2022.md",
+      "title": "Top 10 data lake solution vendors in 2022",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! What is a data lake solution?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1303008895_data_lake-e1657840685488.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/amp/",
+      "publishedDateTime": "2022-07-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-malicious-ai-isnt-a-distant-reality-anymore.md",
       "title": "Malicious AI Isn’t A Distant Reality Anymore",
       "excerpt": "If AI can be so powerful in the hands of cybersecurity personnel governed by several legal and regulatory frameworks, imagine how devastating it could be at the disposal of state-sponsored attackers and cybercriminals on the loose.",
@@ -1065,99 +1160,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-mike-shinoda-backs-a-startup-that-lets-you-do-video-calls-as-nft-avatars.md",
-      "title": "Mike Shinoda backs a startup that lets you do video calls as NFT avatars",
-      "excerpt": "As I speak to Tong Pow over Google Meet, he appears as a cartoon medieval-helmet-clad cat that talks and bobs its head, mirroring Pow’s movement behind the webcam. The visor may be hiding a Cheshire cat grin because Pow has raised $6.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/",
-      "originalUrl": "https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/hologram-founders.jpeg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/amp/",
-      "publishedDateTime": "2022-07-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-ai-startup-detect-technologies-raises-28-mn-in-series-b-round.md",
-      "title": "AI startup Detect Technologies raises $28 mn in Series B round",
-      "excerpt": "Artificial Intelligence-based software-as-a-service (Saas) firm Detect Technologies has raised $28 million in its Series B funding round. Led by Prosus Ventures, the round saw participation from existing investors Accel,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "originalUrl": "https://inshorts.com/en/news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/14_thu/img_1657806738405_149.jpg?",
-          "width": 1080,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-detect-technologies-raises-$28-mn-in-series-b-round-1657813215552",
-      "publishedDateTime": "2022-07-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
         "images": null,
         "publishers": null,
         "authors": null

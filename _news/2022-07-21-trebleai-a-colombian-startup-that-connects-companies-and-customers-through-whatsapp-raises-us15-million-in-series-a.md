@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-21T15:58:00Z
 originalUrl: "https://contxto.com/en/startups/treble-ai-a-colombian-startup-that-connects-companies-and-customers-through-whatsapp-raises-us15-million-in-series-a/"
 webUrl: "https://contxto.com/en/startups/treble-ai-a-colombian-startup-that-connects-companies-and-customers-through-whatsapp-raises-us15-million-in-series-a/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: contxto

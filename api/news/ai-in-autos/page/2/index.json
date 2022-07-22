@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
+      "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
+      "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
+      "originalUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg",
+          "width": 690,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
+      "publishedDateTime": "2022-07-06T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030.md",
       "title": "Artificial Intelligence in the Transportation Market 2022 In-depth Research with Emerging Growth Trends till 2030",
       "excerpt": "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ...",
@@ -1208,50 +1260,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show.md",
-      "title": "AI-AI-O: The first driverless robot tractor unveiled to farmers at show",
-      "excerpt": "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
