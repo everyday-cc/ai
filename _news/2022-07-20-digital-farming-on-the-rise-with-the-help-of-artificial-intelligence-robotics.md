@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Digital farming on the rise with the help of artificial intelligence, robotics"
-excerpt: "WestJet employees in Calgary, Vancouver could walk off the job if deal isn’t reached with airline"
-publishedDateTime: 2022-07-20T00:00:00Z
-originalUrl: "https://globalnews.ca/video/9005770/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics/"
-webUrl: "https://globalnews.ca/video/9005770/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics/"
+excerpt: "Watch Digital farming on the rise with the help of artificial intelligence, robotics Video Online, on GlobalNews.ca"
+publishedDateTime: 2022-07-20T04:00:00Z
+originalUrl: "https://globalnews.ca/video/9007069/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics-2/"
+webUrl: "https://globalnews.ca/video/9007069/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics-2/"
+ampWebUrl: "https://globalnews.ca/video/9007069/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics-2/amp/"
+cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/video/9007069/digital-farming-on-the-rise-with-the-help-of-artificial-intelligence-robotics-2/amp/"
 type: article
-quality: 45
-heat: 45
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "8P0+9ySSJvLCskPxSpHJhXbE97pqW5w1dsg1f5iK0PR18QA25ixdiE2kVAyejpuLe7/0MXROKcxKQ+YZU4GxzIeQ2bu1+AHYdErLyMnDAHjcpsdZHfoKcpBP12ciy4dTUeVoAIJnUGbxB2Ud/XJymJY8pM0v69Xyd16OG+wOsCK4+M86F56gFlce88Qi1QOs0ITX6k1nkby1q3Dp3EkEHf81DuuLzDsMnGBPwobfJbZ9UkLE23kmN9YbLMK86Ad64MJC9iK4ECTLe8eOcrDr80ECsNCCeBdpJSlSo30De8XY6Fz+Wv2SoBcySFNYEv4a4ON+3VsiSbEl1YkCE25GnBh7g2R0Pd9teLI14lQJlWU=;pp69df5ub9MwvjMJqLulQA=="
+secured: "X3sEeLtNXIIbaqpEq5I3fS3hp6/2t7t0C2FVbzZkTePY0Dq7LXVC4ZMosWgfef580nvXaWhcm3pJZCqA4l4ATxtrllYJMvRWm4F64axWdyctUzDcoogmW/woYdRL5cTeFqrUkhVt7COVW3MasZ9T6KMGmNSe/9L58LB026lx8Dqfrs0jUQWzBYr2SKZ4r1UBa0hDqOcqUFpz9thOSFlXaI5lqfg5kwSZ+sF1PRgGH/NSDtpru+kML+7SdNozvlulHEmC1nUqYn8i1FJUnF8Q1D0iaWJBYCr7WMl/uism9r8WD4SonZcOS5Sy9fZwyXYTHINFHTzPtPo2lJrJ1zcKIGyY+DBp0M6fstrMjxbhJKw=;gXaN493FGL+J3/fJsUqqAQ=="
 ---
 

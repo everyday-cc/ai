@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learn
 webUrl: "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

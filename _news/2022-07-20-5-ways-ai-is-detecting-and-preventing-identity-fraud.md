@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 147
 published: true
 
 provider:

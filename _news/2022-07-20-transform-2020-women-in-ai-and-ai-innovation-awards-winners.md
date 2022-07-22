@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "6 AI innovations for those aging in place"
+    excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
+    publishedDateTime: 2022-07-21T18:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/reviewed/2022/07/21/6-ai-robot-products-aging-place-home-care/10117116002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oh7YDfl/Vb/6bgOYD0CMAxAHnRsmuofYqGlDIIACzuXN5phGEQ/OLeYWg25B5DIyczg5462ktpKwN9PZauwNgbiO2Wx7xPXnjCt9XnybIGeh/lowgDfp6qw9/+mN5yPAroOMl5mQX2+ZDh9sBhDuH3OTF0UwvLwTtlkO098E3qHqeaWdjIzNdpRsJWi5fMuSSUSHjSPuJdpte9nMQDCvuReAW+6BSMmFNBw/jYBfgDkUsMqqfpbqVXMos7L0Gx8LhoXCVsiNtxgubDdMpGOOlvipcT6aPCqtB3IAYWX7gC9MnTVuUZcerQ2ALhnbbu4CxRMRorg2ayzMamQ+X8TCLvP5HGweid/fRiOR5gOu2dG/bAzgqQ6WYBiSWtz/CiYziSSsuhTxntfm1xV4UjjbjLyQ+/35U70Bxx7naFN+SuOjBuN2UiP/XwOlCmST4XGFOudsMv2k1LcljorROI0RDy04aWbbfpTF6PQtVzPRna2zO5fm6EyjajUFW/a6hCS3ly+P/DQuuFfQH/IXs0CNIw==;Q2sXJXBUq7WYIOmsDK2Ksw=="
 ---

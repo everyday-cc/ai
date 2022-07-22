@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

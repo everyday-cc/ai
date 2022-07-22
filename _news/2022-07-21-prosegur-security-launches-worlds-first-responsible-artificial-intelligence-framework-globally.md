@@ -1,30 +1,27 @@
 ---
 category: news
 title: "Prosegur Security Launches World's First Responsible Artificial Intelligence Framework Globally"
-excerpt: "Prosegur Security, a global security leader, has launched a new Responsible Artificial Intelligence (AI) Policy in an effort to proactively"
-publishedDateTime: 2022-07-21T13:00:00Z
-originalUrl: "https://www.newswire.ca/news-releases/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-843259441.html"
-webUrl: "https://www.newswire.ca/news-releases/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-843259441.html"
+excerpt: "An industry first, the Responsible AI Policy sets lawful, ethical and robust compliance for employees and partners utilizing Prosegur's AI"
+publishedDateTime: 2022-07-21T13:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890"
+webUrl: "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890"
 type: article
-quality: 44
-heat: 44
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
   - AI in Security
 
-images:
-  - url: "https://mma.prnewswire.com/media/1863293/Prosegur__Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "knq7MlsZwdrWbktZG5U8t9ctPlYRCBvQfXZn75nXJ0L2qU9Vtox7Cjzp1CA4aX7pBlAkRS3GEossvVl/GkJIAVptqK/FShdNBHlhrE35rD0f6KGu8QjwEG32uma2S98tfNsgWy0sydcNRwL6gs8C7U2+r0B1tRG3CR8YzSha4WnOECUPQ+OTU1UCSAmMJfBpijeQAjV4qIbMQCzyTIfGLNnuCPsNaayuv5zgO6sMLmlB6LABVMF2Cbic7fje4l3kqbv0ImbBp1EhiXe4RPF5sf/k0AQOkE/Ol/NoAI0bR50PAurzAAY9mFEbjlleGCIYOLitwLchpns8O4jwjwN4D2d4lQ4WRh+X+b3BcelDT7n4+DYsS+36TI0wiA/ajoGkMgokJHtmMqOv3jar32b2vHjmMIg+MCqqZ2Z+W1/+nvoY7E6xDLy75otpPurqzmh85rj72FP67dn9M1ntefstr8qcW9D8tanOHxfOmnxPPnpHQnBS507NU1nKc83uSw7QQNlvrPgn2aoUiQ0rUoFrJg==;+p9IjlopprQmh0uy4x3Fvg=="
+secured: "mPF+8laAzafPA6ilQ/9KcvqEGOpN3boo5zIvg2V356aVeA1YMP0Kj6JoITuk7sg3Zc1LG2EpBIX54kpd3idGgPgTPcZrTV7jNCx3VCtkbZvCzKV8I2co9wz6nGk3Y59+6KNCVOss/Ecp7n5EK5XZPpxv/VwQoK4cCM7u3ll1cBPEXPTekMbOIFvVPyxw7evt3X/t9MuoZNPupG7U2P0s3z6Q+j711XNuh4qDr/OlBGwPH43b88+5SD7uyvGQfpH9EAAiwklJSjspjxhOGNwucRKNljpVC72pla72VAB277WbEFKTNqXv2kTGVBtFkR46zmLg9/WlJSmDWJJ8nRsgBuJyEOTZR38EJ589sfDdGWA=;LlTUhfDhNYtao3jpYCP5bA=="
 ---
 

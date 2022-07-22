@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
+    excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car"
+    publishedDateTime: 2022-07-21T02:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-1031602703"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://mma.prnewswire.com/media/1863205/RT61337.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Baidu unveils new robotaxi it says could halve commuting costs"
     excerpt: "Baidu Inc unveiled a new version of its self-driving robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
     publishedDateTime: 2022-07-21T03:45:00Z
@@ -112,15 +126,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
-    excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
-    publishedDateTime: 2022-07-21T02:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28145013/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
   - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
     excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
     publishedDateTime: 2022-07-21T12:50:00Z

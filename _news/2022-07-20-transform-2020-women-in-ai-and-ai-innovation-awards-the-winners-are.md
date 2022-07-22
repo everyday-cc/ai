@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 37
     images:
       - url: "https://reviewed-com-res.cloudinary.com/image/fetch/s--P1ct9kcx--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1658333804962/ai_hero.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "6 AI innovations for those aging in place"
+    excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
+    publishedDateTime: 2022-07-21T18:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/reviewed/2022/07/21/6-ai-robot-products-aging-place-home-care/10117116002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

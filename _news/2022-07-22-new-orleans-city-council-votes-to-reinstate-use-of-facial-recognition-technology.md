@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "N.O. council votes to allow facial recognition software by police"
-    excerpt: "Mayor LaToya Cantrell and the NOPD leadership had been seeking the additional “tools in the toolbox” to help with identifying and tracking violent crime suspects."
-    publishedDateTime: 2022-07-21T19:45:00Z
-    webUrl: "https://www.wwltv.com/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
-    ampWebUrl: "https://www.wwltv.com/amp/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
-    cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
+  - title: "New Orleans reverses facial recognition ban amid surging crime"
+    excerpt: "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward."
+    publishedDateTime: 2022-07-21T22:45:00Z
+    webUrl: "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime"
+    ampWebUrl: "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp"
     type: article
     provider:
-      name: WWLTV
-      domain: wwltv.com
-    quality: 59
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
     images:
-      - url: "https://media.wwltv.com/assets/WWL/images/87385aa0-0014-48a9-89d4-63e269e9fa49/87385aa0-0014-48a9-89d4-63e269e9fa49_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae14444a-8801-419c-a5e8-91ea9a737fd1/e322ffb4-4448-495b-8740-72f544425087/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
     excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition technology while investigating violent crimes, effectively reversing a ban on that and other surveillance technology imposed last year amid concerns that ..."
@@ -60,6 +60,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ha0/g4TB2/jk9nLsu8J8Cqgpe1skabrOkckd8Ive9x1yBnyBGBFzYBhOIXhg5oL673RQHfw/7yBoCxUMLX47J3YeIW5NLN6xjFAfu8Y96GuBKsmpOrPkB9gKBexomYpmIW0xE680kWhJ0m2jFFopt541Pe0I/7jqq20gsYqW4hdi1m+Vg4jM0uSAXtlSd3gac6I/hG1EIQaumYlf2t69yT/2/oax9mfd1qnJ+NWow/5IVdQT2SssZC9cAm0cUSg8jjSkkWAW8nvOnl5hb3ppOvhI8jwMpyu4Slh2LBkFWFnWfirmIxYLvKNDX1S/1UgXVsWYhZu1qOWrPn0o6H7FzWvfN4c9UjuJAEwHVVWLDc4=;nsyzl6OlF1mLjBVKxHQbXA=="
+secured: "cmyIaLgMXl2F85gaDY7UGFNw+zj3GeL97x572/I130V+fR1WuBoywqUmTAV5WtnJmMcDMVJb5jy7IjrVwIIND+H3m3Z7N1w0H3G+qfCtbdpE3sdF9c/shJbTwVyDRdm+u7I9KVMUFvbJZR/n/fZIxAMrrk61dq5vBvmORBkw/9jrlG1CQ5ZhzGXdjmwEelGNou5c3B/Sa9XIgnLp/bh3S2baeg80D50RkUj+TgQkbFOrfzA+U7XsXBlzLwHIusSr/qMk38XmhRvxCBqwfg/IjQ9NS6asYX/ycQla22DsU71Kxh1f6xtCct4qfEW0622ToKVW1aKQK7QKQztPa2W8EaMySkLxIPqznka1ppSWlLJHOC6aMgPWEziS4nNwMkTtYR1LHV/JKFxrdG6KpYeEVVdXe7BFOR0nB8L/GxgF7rmMrV4jiNZAExT6AU+C63/ssjTK0/2jH1VNydMAykf5iKnO7imClH8tY9k7fB2VnkS4vMhU2kAQDtr/VLPTHGXXbgJbEnBXH5btSRf7ube3vg==;YZs3ZP8QwVXImXrPe3xMmw=="
 ---
 
