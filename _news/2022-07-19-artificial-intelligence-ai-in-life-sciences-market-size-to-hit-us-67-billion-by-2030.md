@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027"
