@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "NOLA Coalition Praises Council’s Vote Allowing Facial Recognition Tech"
+    excerpt: "The NOLA Coalition — a collection of local nonprofits, civic organizations and businesses that have joined forces to address crime and quality-of-life issues — has expressed support for the City Council’s July 21 vote that approved pay raises for New Orleans police officers and overturned a previous council ban on using existing facial recognition technology to"
+    publishedDateTime: 2022-07-22T17:06:00Z
+    webUrl: "https://www.bizneworleans.com/nola-coalition-praises-councils-vote-allowing-facial-recognition-tech/"
+    type: article
+    provider:
+      name: New
+      domain: bizneworleans.com
+    quality: 54
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2022/07/n/t/gettyimages-1315599813.jpg"
+        width: 800
+        height: 499
+        isCached: true
 
 secured: "HRapymIaHnmCgl0xYTpwqHOJeKd9BcEOc8jwwby2nQ/FYDXJLM1kF5UZIzEhCRSHJ5qUavDD0nlsJRs8pVfLeXzAdIrsrThLvzuJ53dju04wyJKWYcDizCt74rqEo9pozN3ZyGkJCHm7+2cqQkwvPHW3N86TpgJNqVqPPnOvLOqcahWzoZkZ7sNngr978TCcfJze7QEYVgXzVvy3hwaH7qB+20ivIY+tf0tMvDbgZ5eVc9zEju2944hbZuSlSk0AYDlN3wRx7ydTSZOUqVl9BW4E5n9LAbpdn/zHzVFn4JZTd4lBECDM6bLb8T1eXVa5fGk7ucsqN3VLWHxbpBJuv2ZC6BNAFATvcRtGnJ0YFntJURr6ajmLE3Os7BY/xUPeADlS+ZZxZhScfv99Vc8jeyesKIPZrx8xwcfQdk6i/uhHlZIqNDZsuAR3t2NbuB8Z3pJwb6Q+ruzqNwGXQu7N1ixj42qkqE8MwYAGEBbyvLzpsmr7h/wSPD4zesrX/tQXypwV+t7XfD2d8vvo1QISZw==;kFLXLbt3SNXnyHETj8aQsQ=="
 ---

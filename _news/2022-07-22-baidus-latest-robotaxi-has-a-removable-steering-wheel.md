@@ -139,6 +139,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
+    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
+    publishedDateTime: 2022-07-21T12:50:00Z
+    webUrl: "https://www.13wmaz.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
+    type: article
+    provider:
+      name: WMAZ
+      domain: 13wmaz.com
+    quality: 39
+    images:
+      - url: "https://media.13wmaz.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Baidu unveils new robotaxi it says could halve commuting costs"
     excerpt: "Baidu Inc unveiled a new version of its self-driving robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
     publishedDateTime: 2022-07-21T03:45:00Z
@@ -192,15 +206,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
-    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
-    publishedDateTime: 2022-07-21T12:50:00Z
-    webUrl: "https://www.whas11.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 19
   - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
     excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
     publishedDateTime: 2022-07-21T21:00:00Z
@@ -216,6 +221,6 @@ related:
         height: 534
         isCached: true
 
-secured: "EG5nLIDJkpJwD8dRy++jMF31+edaenyI4bcVCn3qWu43AAyxH15b2i0TrNGuN35pV2RAxkHIbjdb4YX1glb+dbC5oLX9rVFdqFwH/LMBvVxhwAQlqcYhJv9H8f3WiVxdl75HzTB2vumLYfqvFJDcII2G/GP8vtmVRHfpBMb9vHbeXhDT0IdSbPZAzVazINiyfKNHQPP6xw6I7J7kof7Vn1o56Cy5Tot0URufxO9/xx1SF/FKwlBl6wC5jleiIckpZSQFuQnIhAcDc0CiP+VDevx8bGDg6p3tCGpG9HJVsYF9r/OWYkOLG93ueFBHn2TjVYXqSC7YjRBPqJEpTGT471h+ESFs6jWmOOJ2UMxmk9s=;/v/EqSbIpiNRLc7VrwfhXw=="
+secured: "6F5k1fZ3nLAJvnHXqEcrbPsWPu+a6R1KvOAQrKh0b9Ke28Vy/YdkIcVmQJHWhROuM8e0HUAwN0VMjsDX2wyJpDqRNtZKUwkIki8xh7x3NxKVnKKaLnVGusJdFefY2E7kAt6IObGPgvxikorA6fqDx0lglsb+DvHCHyjNvsXfSXBq2QNEGFjd5ZhzfReAK6A5XlKuittkPZK2hTf8TcJXKCMv8457e7cZTwy4jT019/9RPrpDLqyeS4+LVmEZgkde0VGqI+Low7/QJDKQk+4v3kQ6LJyoRll1qVXyuGo7124QrZcH5l6XVFaXbLU7tlO1XHhJXjF/GMVAMF9nymd2n+nVU8bZ/ZtoOBU7W5U4pSQ/xghKYPCCaVNQrd/FK39QRxpF/06gAxChrg4JWhOUSdXgI0+g30dsBOjQgVyLcDzdfqXTmto/suIcBCsLSBtnbBiB8OTKOqHeFBkhRFNhj8oHahxVS0CqsQcizLFJlKXUEhcKGcg1qTU3jfCkOhJDheHWeawps4bqhSXqwCgJbg==;bNppXv6si/QMo1/vbrdsdw=="
 ---
 

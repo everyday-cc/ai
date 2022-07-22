@@ -3,20 +3,26 @@ category: news
 title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
 excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
 publishedDateTime: 2022-07-21T12:50:00Z
-originalUrl: "https://www.whas11.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
-webUrl: "https://www.whas11.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
+originalUrl: "https://www.13wmaz.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
+webUrl: "https://www.13wmaz.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WHAS11 News
-  domain: whas11.com
+  name: WMAZ
+  domain: 13wmaz.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.13wmaz.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
+    width: 1140
+    height: 641
+    isCached: true
 
 related:
   - title: "Check out Baidu’s futuristic robotaxi"
@@ -211,6 +217,6 @@ related:
         height: 534
         isCached: true
 
-secured: "oOp0owC8KHyov5jYC31rYdmE8g+zeCyocluCFO/ANGEuWDO/tRw4/My+UUt9aRJdLOl81F8NEHNwr+lC5bFBZOE4rZzYLBcxqAWyFkq5xP41H2gq1t6ipzllm0Fa3y5/OuPeP8ZqBcNZEZk+Xp2A5Cu2VwXqZpi4YmfJtaldD5aFuaPqYud63plkftcDI3OKFO2dh0HV3wCXTvhJhH9eOX2dr0k87Lrm9MQAM6EvmhF4+kw/ZFyDSRA6bkYd21RlZol83XNI0awvUrPhac6NrO3jtUyhNvNpqaMwtStMvaeubLqtExni+ysSiKDAUZlN4qrwDdemC/UUcyeBGJYaMsSGovcuVyIodfdvLOZ/bKx/2P9QEm4Yiily7NGuhPyc8IVmAJUPTJuiuf/pLl1qVqbyElIyBCFC94PDj7jARDZ48gLdzb+uq5kQeignniSlkTc4a3TxvtLMEbhNueLbgF3aOe2pxCBtD799j2aRH3gmM5DpEIBmMijBYe/ZkuLzlDZ4YYbnvK+uBb92/0+sSQ==;U/h0/+mZicyRTzwKNyJ1ag=="
+secured: "zwFmD+1e0XngiTVRfSA4ceGRJrl7+5B2gM4mExe2ZeqX060CIioK6mWArD+N0n+Ubx4VIfbMoeDvpxXtRuXqvuTWQQ/Jd+wlUcUaHqHVj1+nNa4V6KP/rgNeE5AubJGBw6kH85sWm37gKsbFS2KWC3h5wNUweiHH1kO1WHDLaB+NEgr+kpzlcDRdkvxF3IQquYbAKCAvMzJ7MZbdgbw2e54mc+LWDvxBo4txW5o0RqIXlmau5BEdM1pP3eSBiJbA47P1bUmZh4e9X+EJSFxbYcR/S+gVAwTwHvK62ozOXx/avz9403nRC0023VhCag7tMEVBhR5HPDTqYZi77TO9D/isUCY3le9Gy/a3vhRAijE=;Vgb1OWzlPLJFttayopkODw=="
 ---
 

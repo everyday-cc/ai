@@ -73,20 +73,6 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 27
-  - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
-    excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
-    publishedDateTime: 2022-07-18T00:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56571148-transparency-market-research-facial-recognition-market-size-to-reach-us-dollar-20-5-billion-by-2031-tmr-study-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-07-18T08:13:00Z

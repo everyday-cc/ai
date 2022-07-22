@@ -79,34 +79,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Activation of new facial recognition technology expected within the next year"
-    excerpt: "A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the government moves towards setting up a common identity verification service."
-    publishedDateTime: 2022-07-17T23:21:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018849817/activation-of-new-facial-recognition-technology-expected-within-the-next-year"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 36
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--UqAhW-6Z--/c_scale,f_auto,q_auto,w_1050/4M9Y744_image_crop_123200"
-        width: 1050
-        height: 630
-        isCached: true
-  - title: "Identity revealed: New facial recognition technology expected within the next year"
-    excerpt: "A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the Government moves towards setting up a common identity verification service."
-    publishedDateTime: 2022-07-18T00:49:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year/V5BQHLB42ECXWYJ2CMQJHGQWI4/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 33
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/7dH532lDMRb5J6pQk-znvvhNJCM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/66CCX5KYPJH2TPHDWRVIRWFSXA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Port of Baltimore starts using facial recognition technology for disembarking passengers"
     excerpt: "Facial recognition technology is now being used to verify disembarking passengers’ identity at the Port of Baltimore under a plan announced Monday by U.S. Customs and Border Protection in partnership with the Maryland Port Administration and Carnival Cruise Line."
     publishedDateTime: 2022-07-19T03:57:00Z
