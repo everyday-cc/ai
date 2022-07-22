@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-b
 webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Ars Technica
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Art Is Challenging the Boundaries of Curation"
-    excerpt: "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,"
-    publishedDateTime: 2022-07-17T11:00:00Z
-    webUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/"
-    ampWebUrl: "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Artificial Intelligence is the New Basis of Civilization"
     excerpt: "Artificial intelligence is the basis of human civilization in the 21st century, and must be carefully regulated unless we wish to see everything go up in smoke."
     publishedDateTime: 2022-07-19T06:45:00Z
@@ -61,15 +45,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Collaboration sets sights on acceleration of cystic fibrosis research"
-    excerpt: "Epistemic AI, Cincinnati Children’s Hospital Medical Center, and Boomer Esiason Foundation are working together to advance research into the rare disease."
-    publishedDateTime: 2022-07-20T17:52:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2022/07/20/collaboration-sets-sights-on-acceleration-of-cystic-fibrosis-research"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 4
 
 secured: "utIBuPGvpjzdeI9G9jNukAIZ9vqPEB24ukje9d99dq6NFtgVD6LUt9cKtaLK2C5/Kg3yBwlIL41ImXyDg+xB0VJ8d/qwZBwVKID4105gB1nWsyMSum/N08FD5vu43b0fxhD7OxSST/mMkP6v5wAqgewbL7kL3ENRXYLboVlLvalBes9dsxo936/vgb29gaox0DfF2LE48c3kMo2MOPcGpOybwci0u2M4qTxNCfuWJi8jCddaKKDqnub8dcqvtyKEdiDJ+Ut47DgRbhW+8+dj6inMdXbUFhGBVI3JDYO0xpAtRKvcKeQ0vXU/+q2vz6sWmCe4HWLyoLjvnX18AW4fVTe+1omFkB9EvocunnB9tDAjDT+t1GnK6+4RhDCc0qqpFo9QZeeeAZpEQtaNK0zdnA050278NbdJfBSn1b6tbg8sDxv0aNn+i/dkBBHfFpvCZvsqdy3oE/TbgIxuiFwN38onvDfilcC458+VpSJnmoBn2mzHyl5zrAN/ATHw8GC86UtUtSSz/rtHGcen6mGIPg==;NFRCap9901wKHfnoX0xC5g=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Riot Games taps AWS for new cloud-based esports content"
 excerpt: "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS."
 publishedDateTime: 2022-07-19T12:09:00Z
-originalUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/?blocktaxonomy=news"
-webUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/?blocktaxonomy=news"
+originalUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/"
+webUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/"
 type: article
 quality: 19
 heat: -1
@@ -50,6 +50,6 @@ related:
         height: 500
         isCached: true
 
-secured: "NcHIRxfQdDPorduueofkwaLmJXIIBYp39g/C7f2Owy3GmpI0n+GvIEUW3YAVuv17RZUVy9MXKRSG3HxgJozY4NVfeslahuT25e0AQ/LdsTPHPToEtl9tBbEPxIIFh+5+cdcxV0LxQDK5WUI1RSCHvKeHppy3tLACZbU2c89dpBGVWAls5eGbYWePotAqlCyDrfjiKp2Pk5vr6TeAzF4h7PjerJrfPidwjunxE+WiIY9O9efUe2UvI10gRxCMMMsXuAhzoN0OJFrLVrIEci+4xCCh0IpqcnVfd97KoZmU7evjYxeNqelNIzvpSpCkKEgffA9l7qkR66fT4l3chZyFR4t46CIyG4XFiIVzjiQ4i0qJHo4hSINXlwTEa8RADwXFDJKwS3/oP7vlkFb9r+OvmI0N2sx3h6zI74/CXwYcAkcQSC85p/UMQdvqWwY6awqvPCjCQ4rD3RRFfOzltWAjTv6JHSUl3wZtH/ugSil4oeAGAfSD5QUsobFn6EMrRjrhzgaXIgAL8TO0kz48bhiVjA==;x6tNj265jW4zth9r57BqvA=="
+secured: "sogt0zUjbc7WJo1yhcchgozy6dZuZks3ylZvUbE1Je27rclYf7g1MAKz+BSU9kipclGa4Ehu4mEmSpXltAnmeONXv1zZ/6YpKG73YEeG5Xh/f12w5t5xL9hSoDPK/bgGxViQEw92zWJT6ZefbV9G+SoE7eKd4QwZ3KmThefnBXtAT9Yqk7iT/avJfzSeV43Pr/iJeI/YrkUt7Xn/2xmcCsaYdlaiMLWvqh9DSLi5L8jrEYUYHFIHKCVxybc0k6DJvoE8ohPVD0L3Xb4MmRnt+bzAcfzivNC3um97VbpfnQYFaCyPoxQIhNzMl3pMFLOhgE+hcKmRGLcJMi8lWp0PCOC9BTEXsMtjLNMr6ysR78S05Zseg9Vfmoisldwryq/dEh/ENXdNmyZbK57hN4K6pMGnmf8mytDYPM2VGFdXwYgDmKeTE/RHU78p6fkeVAbqviYXWZaFLd0JXhKk4RbSVaGxVj+VUjPS+0BY4KHh5M0X4iQ3rcYUgEefx+kzhpHtJJaEOsXI128KYIe9P6lIyw==;RIbBpcms9SK9wi/MU62n6g=="
 ---
 

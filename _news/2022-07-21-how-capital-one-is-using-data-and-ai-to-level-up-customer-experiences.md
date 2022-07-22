@@ -22,31 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "Driving smarter customer experiences with AI and machine learning"
-    excerpt: "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale."
-    publishedDateTime: 2022-07-20T17:57:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/"
+  - title: "How to be an artificial intelligence & machine learning expert"
+    excerpt: "Thus, AI/ML has redefined the future of technology The Telegraph Online Edugraph brings you an insightful and enriching webinar called How To Be An Artificial Intelligence & Machine Learning Expert on July 23,"
+    publishedDateTime: 2022-07-19T04:01:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "5 ways AI enabled call center solutions are enhancing customer experience"
-    excerpt: "The research firm’s 2022 study says leaders in call centers should use AI to offer insights or predictions, improve user experiences, and optimize business process automation. Indeed ..."
-    publishedDateTime: 2022-07-18T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience/92945587"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92945587,imgsize-4528963,width-1200,height-628,overlay-etcio/5-ways-ai-enabled-call-center-solutions-are-enhancing-customer-experience.jpg"
-        width: 1200
-        height: 628
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Jul/1658205411_ad_edugraph_-how-to-be_180722_-558x372_lead-article.jpg"
+        width: 558
+        height: 372
         isCached: true
+  - title: "Emerging AI And Machine Learning Tool Vendors To Know In 2022"
+    excerpt: "The CRN Emerging Vendors 2022 list includes startups developing next-generation AI and machine learning technologies."
+    publishedDateTime: 2022-07-19T15:56:00Z
+    webUrl: "https://www.crn.com/news/applications-os/emerging-ai-and-machine-learning-tool-vendors-to-know-in-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0277-15a7a2cefcc2-490af3510757-1000/2022-crn-emerging-vendors.jpg"
+        width: 610
+        height: 343
+        isCached: true
+  - title: "Startup Aims to Secure AI, Machine Learning Development"
+    excerpt: "With security experts warning against attacks on machine learning models and data, startup HiddenLayer aims to protect the neural networks powering AI-augmented products."
+    publishedDateTime: 2022-07-19T19:11:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 34
 
 secured: "mLgFsFvvHOZnpAEOXgNxa0Opp1aKVm6RsnY2gxn+HRIbXqtaaTGehOzIOajWoVJPSXD+h0l77lGxDTq9Q7YoStaGxVXP+Yo+XUQ2Vl9uHJ3RZ0R4wkDQ/arJJIduZWXS5MlSPIf3LcmzA/mLBxOEIJUt0qpLCsJDlLlmfUMBU24ksCk/4gxpGsZ0Ie7oojzb3sUCUhIO0JQ5GsOoQ6pXCSd2Cd2tT+u5HEzN4yrngsX0BCzV0tG2mPAjXTQrNjT75Yy6a0sqWLAmAAVBwfpMn5lMFd23SN7en2iRrTShzGBZN/SzaFifUIVX8ZbHruJk49ppvR2HUaDuERTIwQy8eITFORrEXHprb67SK+J1EPISsPF26oa/+nT7m3BJLdt9jvPZnY8nfEx7/PPa1t/esdFYbwBjcmULjMUoZHrxmoluNQvUYeRQR8blk+UQ4vFmh/6Q6dpYecVghJsZd1x20QMH/B1eC4gAlUBgeYN3oIMy1xClCM19waaHNxLyO22ERSmmsvj2uTxzI2Fyzbs/Jw==;8dLU3udLq/Yopn90ZRE+kA=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Prosegur Security Launches World's First Responsible Artificial Intelligence Framework Globally"
-excerpt: "An industry first, the Responsible AI Policy sets lawful, ethical and robust compliance for employees and partners utilizing Prosegur's AI"
-publishedDateTime: 2022-07-21T13:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890"
-webUrl: "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890"
+title: "Prosegur Security Launches World’s First Responsible Artificial Intelligence Framework Globally"
+excerpt: "Prosegur Security, a global security leader, has launched a new Responsible Artificial Intelligence (AI) Policy in an effort to proactively decrease risks associated with AI use. The policy will serve as a guideline for the ethical,"
+publishedDateTime: 2022-07-21T15:38:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242"
 type: article
-quality: 52
-heat: 52
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "L/VrLZZ2thLaPR3l00b7+3Z3cVVk72mYNw7EuE87Kfp4UHGFDiYIKJTrJoMUldQr4QcP4kssogmXlnOGvCWYek1Bu6Z8OhMG4GW9juZXgKKQMYF90ajW7OJZMzOpJbslKVPFcL3SusNDWV1C4tEvkaxRlaOI7e9CTLk3l1Qdy9rjBpSWhYTQfNO2qEc0nMo5n5PPMZ9lFFmEpcKhQoPoh4WQNnuNe7mXCojOlgffMbHI9ilDxEKu2RtQuIyxEHxv86GjmjSbrddpj+zhmFnUAjVeAN8Zhn5sPXNe04TiwtTWFtmhZBpG6Ce6Y8T2X6x7pdKm5N+8IDzVH+Iiv0XzFnAhSynxeivFWutQLb8tuaE=;ppd7SZA4xUDEO1IChG6liA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "/whPTUhxcE9yT4MLuSvobgXJhPyZ7IvPspsNI+fhX0/NKTnrFOpCWW3uAG6TW35VjFuD5hdIcUVp6aS6p3QRd+Sz80zXj5/rMcKgkRFQ+Syd2nD2v15asurGfa5tnaNJZiED+ea/FFK9hTUFmKsNZ5eHyqppGqrJjEMV3AMOYqe8OXk2yTcy0x2L9vgKk7UsginIz8Mt//enmox/9EfjJ41UOwpqysFPyaGEShAfjvbeShqKNErzauUP27TNbVoT5O38TEVTJOPxEw+C4wzRa9F6CPmKNX1eYYuy/9krJpNSW0rklROKPx2PB0Ep0er9b3e5yw2t1hwu9c1sXQOmvBgOxwdUxuxQ51U1EFabVs0=;dgSzwAOCebVJ+OrZSI9ZuQ=="
 ---
 

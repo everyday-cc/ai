@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-19T10:00:00Z
 originalUrl: "https://www.forbes.com/sites/johnkang/2022/07/19/aging-unbanked-and-impatient-why-google-for-startups-apac-head-sees-huge-growth-potential-for-ai-startups-in-asia/"
 webUrl: "https://www.forbes.com/sites/johnkang/2022/07/19/aging-unbanked-and-impatient-why-google-for-startups-apac-head-sees-huge-growth-potential-for-ai-startups-in-asia/"
 type: article
-quality: 44
-heat: 44
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62d678d9e8615989e3f269b9/0x0.jpg?format=jpg&width=1200"

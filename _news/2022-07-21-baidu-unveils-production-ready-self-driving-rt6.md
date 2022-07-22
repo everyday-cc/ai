@@ -57,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Baidu to Release Latest Updates for Autonomous Driving, AI Cloud, Large AI Model"
+    excerpt: "Baidu a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21."
+    publishedDateTime: 2022-07-18T13:08:00Z
+    webUrl: "https://enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/"
+    ampWebUrl: "https://enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 54
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Baidu-to-Release-Latest-Updates-for-Autonomous-Driving_-AI-Cloud_-Large-AI-Model.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
     publishedDateTime: 2022-07-21T15:32:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-21/ad60ef9a-9f25-4bf1-b948-25db9d09338d.jpeg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
+    excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
+    publishedDateTime: 2022-07-22T02:10:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
     excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."

@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence, deep learning to assist diagnosing birth defects"
-    excerpt: "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects."
-    publishedDateTime: 2022-07-18T11:40:00Z
-    webUrl: "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html"
+  - title: "How to be an artificial intelligence & machine learning expert"
+    excerpt: "Thus, AI/ML has redefined the future of technology The Telegraph Online Edugraph brings you an insightful and enriching webinar called How To Be An Artificial Intelligence & Machine Learning Expert on July 23,"
+    publishedDateTime: 2022-07-19T04:01:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 73
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 74
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg"
-        width: 620
-        height: 464
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Jul/1658205411_ad_edugraph_-how-to-be_180722_-558x372_lead-article.jpg"
+        width: 558
+        height: 372
         isCached: true
-  - title: "AI, deep learning to now assist in diagnosing birth defects"
-    excerpt: "The goal of the study, published in the scientific journal Plos One, was to demonstrate the potential for deep-learning architecture to support early .."
-    publishedDateTime: 2022-07-18T12:00:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/ai-deep-learning-to-now-assist-in-diagnosing-birth-defects/92957072"
+  - title: "How Capital One is using data and AI to level up customer experiences"
+    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
+    publishedDateTime: 2022-07-20T18:32:00Z
+    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Startup Aims to Secure AI, Machine Learning Development"
     excerpt: "With security experts warning against attacks on machine learning models and data, startup HiddenLayer aims to protect the neural networks powering AI-augmented products."
     publishedDateTime: 2022-07-19T19:11:00Z
@@ -59,29 +59,6 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 34
-  - title: "Learning to fight infection"
-    excerpt: "Researchers at The University of Tokyo found that analyzing short amino acid segments from T-cells could improve machine learning algorithms that predict the infection history of the donor. Based on the performance comparison using multiple diseases and sample size,"
-    publishedDateTime: 2022-07-20T04:33:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/959174"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/df426ff9-78e2-4d5a-bf47-4b556ca3154c/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "AI Diagnoses Devastating Olive Tree Infection"
-    excerpt: "The researchers collected twig samples from 66 trees and used their algorithm to compare lipid profiles along with infection status, tree variety, and whether each tree had been treated with Dentamet,"
-    publishedDateTime: 2022-07-20T13:24:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-diagnoses-devastating-olive-tree-infection/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
 
 secured: "ShLHlEVvYgB1EaX8S93Qsxmy8paAAHFlp34OyWH/c3hk9dSlG0NAf7Q7iXCZmH/o2wfQCVGy2QRyIUCxHF53xcIo2BlO3NeKWmsnHauHDoNzVOugLzH+rOW0sgr7IgFau4lu3V6ln5phlC1mQQPK4/BsUJplTjG6mLtnH/Io0xlM/O4Co2qN6Jq+LcP7xHJLYw3awRdItRrvy5L01OgnXvk2T9ZXgh/avXPF+smOp3m3hRMPQLuIybK7+LG+fNqBkzqQhAtayBLjsyYDKWfHpDQFgG7xitaWjQfT+q12/4k6+HeXvGssoqVUJtKoH5w78tOatKFupI+jkdS70NYzdMZzo0WxT9s072BOAnSY2vpSqD1lEfgGaGhhzM554FVX5xoJNDfQhPdOFcai6r9koWETVZPwakQBrlNc2PImiDMRUMEgEDvep4yMwHExQAoXqxOA8bkq/LFXXASdgJASKG39fj3gZnm0Cmg0qlKEg0cNCfJBZoE+tAtrjPAWlgXga4r2UmD/yGbwsUlw5eHHdg==;WSsi7cw7p2UgAGwtz7iNxQ=="
 ---

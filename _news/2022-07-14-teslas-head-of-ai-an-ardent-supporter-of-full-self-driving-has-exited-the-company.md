@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
-excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
-publishedDateTime: 2022-07-14T15:24:00Z
-originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
-webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
+excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
+publishedDateTime: 2022-07-14T16:48:00Z
+originalUrl: "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "zLtD4RXMhOhEhkr0XUXD7dCDM2Z0CoxzOVRRGxVoL57L7giIJVdnjBDrciQzBfo6CZgONtNwMu7f9rLIWHWk/6RqNnGCsicDRI9z5zlnV8ThlcAsWetv2R9WmkL4g5PFOf7W/MfnMYm3p/EOq8cNkMPj/zKjnBh8XtrXUjtnYU644xS7Ezk3dXdp+yjD7CHcvjQbgoBRTATqIbXLlZjXrzwL5UXhD/K56pghsejEfDi2DBW4TQnXU5NGDsJTGZPVkA15BUACqPAzd2IsI6wg9BhDAdbku4+WA29xQXh1jt2nB3HQ4ElDL+sd8fPEktLxtCbCsvunLf7d5UNUKQ7458Ur8gJU3eqMIasfaoVt+xDrXo0wDb8zbyw3O4EMWPyqXsDJRHY4ZnrG7+Ml4zKyEvHKI11WSLYEJPdKZ2kh2QRVqdqkagvGruvfVGXvYgvRBxsy5LPfbSumUMMxWu8yXP43x8OIiPbW+YCNkQGByE1ZPiUYThILZA65UJrYwDv1bPFMfybFCsos2mqIDlhltQ==;W2bSV1EqH489fa4KsZPJ8Q=="
+images:
+  - url: "https://localnews8.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "P6hw9n0w4cFyPJluOUX4UfznUyaLR7Vx7TS50xqHdlbBFUIgNpNeqBtCjVegcf4lN5Em0AxjW/S7LoImGM879FRtg6RKRHg9l3rg69nfuPX8D6PcQoYVTjKDUbD5feNItjF18OcwEpsjw9SS0S/bz1GwXy5YuyB7NVdeOMkYzPrBfpavBwESK6at9WdFUTNtcKPfhpXxLENkZxcyssSwf6LtSqW3ZwEldaHEAFtk35Y6Ys8DUSSud/OVHikaSvZ2IdoVAv0DXuZ2NlYum/xjL+0jFdKKVJ6/blh7EZAWQBZSA/di/EB/bupFKQHj9bAWysHCo0VDRMijvVheddejoVDa69+T/aVPQa65UJ9Zzq4=;EJhRTSScis2+Z/D7NL+B/g=="
 ---
 

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they’re not so good — and sometimes dangerously bad — at handling other seemingly straightforward tasks."
-publishedDateTime: 2022-07-17T19:31:00Z
-originalUrl: "https://apnews.com/1a652de47c2d0e502c2896748d9d1d5f"
-webUrl: "https://apnews.com/1a652de47c2d0e502c2896748d9d1d5f"
+excerpt: "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+publishedDateTime: 2022-07-17T17:48:00Z
+originalUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
+webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/f8b8f9e15e70476aadf11f573219f722/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -133,6 +134,6 @@ related:
       domain: butlereagle.com
     quality: 17
 
-secured: "aP6huEwakTCPMHHG+AznU/kDCI7TMvwybg9SmVE33dPXKB4UKhMQRmYp+AjLS7j2zC6RMp5WoPhjq2GdWFxxRzmRbvMPWPxfpK2bhDLfd2a+2R97K49Zpc6lq+yl4MLkpHgXLeOEPtHgDgdPXntGRk0pgjWc8IBO0PJZXYGwKNCJ6tV/bJ1EfYx2MPmDmuI7gQsuUur6y5f5YRofIkYfy2FfPUULERHHG2ervW6PBoQWhjrmJHp776GIZi1JMVziOazoNvBEWU2D7hRY8xxwJlRW+py+Fs/N/S+5QfgnO2k0ly6/WIeXl1X3UfRly6cjW3POftFKZiBokBkcSV2d2YA09r0hC+D+90yVrpbwW1k=;9qtXbKWibRg4oIjGgnL5uA=="
+secured: "RT36jhZmcmXbhx90tI7xXPfaRVWCoz7ogdV1f4/F/ZYXJtQvoc3T4beq0El5EXspBHEwu1Xl7dsDzUMRxI1G6BBaQoNxt0l9oKUwf5VfwkJn6sOhKyLldNIFAsa/u1sNMAVQkGSdyfTpk9F0pT1Pae+SnkUaI3163xVoKacpVe9Mq5AuBwgmUOiuvi0sbYmgCiAVuKqj04TTxondLnnmEMmo96ksrbxuF2a3cSiMqBPzx9oAsSbuKNs86NdltwV7oOtjJxldYkKzYhxT0Tog71UMrah6QG+OBkMWnsU9gm06I/lz/rQzxDmw/B0ui9j03I9sZwisJJUtTWWfGi7xh9vpdq/fGH+oMNR5QdEkeoI=;48QtYTTbywdmkb2amhXgxQ=="
 ---
 

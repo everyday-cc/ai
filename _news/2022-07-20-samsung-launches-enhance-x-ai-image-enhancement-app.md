@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung's new photo editor brings plenty of AI-based tricks"
-    excerpt: "Samsung recently launched the Galaxy Enhance-X photo editor, bringing the ability to remove moire patterns, upscale images, and more."
-    publishedDateTime: 2022-07-18T06:09:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/05/Samsung-Galaxy-S22-Ultra-camera-housing-dynamic.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Samsung unveils Galaxy Enhance-X software, uses AI to enhance photographs"
     excerpt: "For those who are experienced photographers, Samsung has the Expert RAW software, however, because of the company's large customer base, not every Galaxy user is aware of what each dial does"
     publishedDateTime: 2022-07-18T17:42:00Z
@@ -67,6 +53,20 @@ related:
       - url: "https://m-cdn.phonearena.com/images/article/141398-wide-two_1200/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung releases Galaxy Enhance-X app: deblurs, brightens and upscales images with AI"
+    excerpt: "The app makes the image editing process simple - just a few taps, then you can compare a Before and After to see if you like the result."
+    publishedDateTime: 2022-07-18T16:24:00Z
+    webUrl: "https://www.gsmarena.com/samsung_releases_galaxy_enhancex_app_deblurs_brightens_and_upscales_images_with_ai-news-55094.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 30
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/07/samsung-galaxy-enhance-x-app/-952x498w6/gsmarena_000.jpg"
+        width: 952
+        height: 498
         isCached: true
 
 secured: "uQLPVl+XKTpIDs8YOH5MpWIDzH8N4EQxZng7SY5kdT4OqFamdGZd32XqnJvBMqA/tA+PFUIwAn07G34jXxE9hb5OjX6V1/w5ROy0sJBArUMW/L0VCGmKf/+HS0imXSV+v42ZeHD7In1KhESL1scS/R6MwvYB4qijyvRr24JiGEmP8mV6t81AphBoCmqcFhxX/16BCkEcdHolAPUX9IIQ1CpzqRehz939NCA0Ln0q92Y/n1akK6A7O/YJfkv7Xlj1Pr3wLLcT5DcVaVP3XvtUvxqbJwsLznmXbZxnhHEAV0RNTBfHWHoBDeIXEmCfJf9QZBW6drGyGiheSiBDuQRWyBvLcZj5Sx37qSjkyx8Dkhc=;s4z1E/NzTBZXSDl+NNk/Kg=="

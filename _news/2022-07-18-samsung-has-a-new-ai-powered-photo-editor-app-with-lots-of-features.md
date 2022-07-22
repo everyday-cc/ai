@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung's new photo editor brings plenty of AI-based tricks"
-    excerpt: "Samsung recently launched the Galaxy Enhance-X photo editor, bringing the ability to remove moire patterns, upscale images, and more."
-    publishedDateTime: 2022-07-18T06:09:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-enhance-x-3187388/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/05/Samsung-Galaxy-S22-Ultra-camera-housing-dynamic.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Samsung unveils Galaxy Enhance-X software, uses AI to enhance photographs"
     excerpt: "For those who are experienced photographers, Samsung has the Expert RAW software, however, because of the company's large customer base, not every Galaxy user is aware of what each dial does"
     publishedDateTime: 2022-07-18T17:42:00Z
@@ -67,6 +53,20 @@ related:
       - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/02/Samsung_Galaxy-S22-Ultra_Portrait2_1000.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Samsung releases Galaxy Enhance-X app: deblurs, brightens and upscales images with AI"
+    excerpt: "The app makes the image editing process simple - just a few taps, then you can compare a Before and After to see if you like the result."
+    publishedDateTime: 2022-07-18T16:24:00Z
+    webUrl: "https://www.gsmarena.com/samsung_releases_galaxy_enhancex_app_deblurs_brightens_and_upscales_images_with_ai-news-55094.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 30
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/07/samsung-galaxy-enhance-x-app/-952x498w6/gsmarena_000.jpg"
+        width: 952
+        height: 498
         isCached: true
 
 secured: "bAA6cul5W9ElnygktVFL4lCL8w79x+gv97dol0dctBJIl97ElxgEwvrcP/2X/ICR8NRGBCZX0jeqzFFJNV0RF1aNlYQRbIDt1B6yQbIWRBhwlLxV/6nOzF/i/gLvfSXdUsKj2t/ZvCtK4huLus8fXVCTNa+e62ARA+fvbVkG1WWjeeS5gE6+DEqDayfKmq5W1hoUhv1TQ8EMeOok2ae7R7XQ0KVLtYLMz7K6RsNR/ud65r8gj1jrB8UUK32DuUz+ePUG473p6HG8Isw7defRhy4QbCxHns38sFISdULBEln/8Y0NdxQK37rOOC1xt+gQMLR8LzEpIg7VR8yl1cyE9jZDmljWvf3grHdHIbUHdCA=;P+p7PhLVovx3E6uYeJJDSg=="
