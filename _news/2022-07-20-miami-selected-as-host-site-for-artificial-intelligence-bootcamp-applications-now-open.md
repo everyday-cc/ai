@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Argo AI is one of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-publishedDateTime: 2022-07-19T20:37:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-miami-artificial-intelligence-mark-cuban-64686b12a30f0bc5b8d31140f04de55b"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-miami-artificial-intelligence-mark-cuban-64686b12a30f0bc5b8d31140f04de55b"
+excerpt: "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami"
+publishedDateTime: 2022-07-19T20:36:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+ampWebUrl: "https://www.benzinga.com/amp/content/28124099"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099"
 type: article
-quality: 30
-heat: -1
-published: false
+quality: 50
+heat: 80
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+    width: 900
+    height: 594
     isCached: true
 
 related:
@@ -39,7 +41,35 @@ related:
         width: 650
         height: 350
         isCached: true
+  - title: "Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamps – APPLICATIONS NOW OPEN!"
+    excerpt: "Argo AI and The Readiness Institute at Penn State are two of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI and The Readiness Institute at Penn State Bootcamps will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-19T20:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-22T15:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "p5Z17Uv2b8RYWhMghmGttfICTjyhFVVnRs3XgxVB50StufTO+Du05qLn8bB/YX+CoGOvK2/daBxmvVirPG/TCgswPpsW7SWFkxr8CfxRtU7dDzBM4ocJr0ynfyKQHb0XQmpeL6Z89JoELNz1Aiq87OPFtyzlXRUQOXcU2Awr/BgCI9Q1kcTH4/DqWxYyuHHZ0bJfBhRdVq+PATeNNMnE7nBheO1pFcVV0jjiqSyPOKPmdWh9x1sWXUOexfNUKj+ffpV6U3jcwINCVUUhZ4H/8vYwIba9e+VAjZEuyS32zzyLm1A/Sc6wp5apygoP9ymH45icA5LojRxBwZWiYBqr5eBeI7+17aLQS8MDYzjpdVo=;KVRq3sT3iIK9cVD4W8Qjww=="
+secured: "lVmqUgRFKIzpm+jpzse88vq6CW7i/OAnbP7JoFZq3+1JwUYHlIlOp6Aj+v0/Au32csdcz9HnoWM3PAxRwi5fTKeXE0jv1owOLa0kni77BAl344GPxsPSVuDKYd+I0rOjpk+DgSpWB7Wo4QvCcmW3edKCLAXVfDW4BrTp26KIMPIIgdKnIc58rICyQbWLjsaC29q9EyFGD5fxpPEkjKRD6EMgrr1tagl336tFbxGT+/y/+WgeZY7aeO8w98gpu1bo7nXBATW5KDD1ZfHxvrAqb58VbMvATgFxZSIVQprKjUrhSiQvnZD1jETmXJY4HrcnoH2KqWs2VI8tG1b8vNZW293IstM/0b2mTja+gSu/rxc=;XPQui5igg5DuYLLU3jUJCw=="
 ---
 

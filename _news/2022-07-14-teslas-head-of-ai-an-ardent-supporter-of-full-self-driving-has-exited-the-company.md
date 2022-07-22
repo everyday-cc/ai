@@ -1,20 +1,32 @@
 ---
 category: news
-title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
-excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
-publishedDateTime: 2022-07-14T16:48:00Z
-originalUrl: "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
-webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
+excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+publishedDateTime: 2022-07-14T15:24:00Z
+originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "EKlS9v0Y89yvKLHPRYgrQ4+cDJ05pOdTOHzuWjcgJhDm4s6hdIiR9byrA7hBkD41ITgPPwTs7+P5CnPaDZZkSe+SBnukqZXDmQAYwqr43Mqt4qWGYZqHaFPZaXflR0l/OiSgH/Utd3lA6Jt572I8ash6nxHRo6r3jhWQXiyIOBf21TvyEfgtFIHwy/KSI2Wq7tNn4HeRvPNbQBiy1YPQWQs41BoMw8BI3iSDKrrIK+0T3i3TnB5sBCC/unVhRB7gE8FXm4UxlKYcl2BntZw9U5EyuFGOdmaNzHg67nAj0yGnPmKqBQ4NGG+H8w4Bvh2zFvIz92WnAaha3kxCNNAPbe7v4wBeiIX2KD2curBGXF4=;MoQlIGVVwxWK01fs/uJggQ=="
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+secured: "zY0vEi1EldmZPSltTKhqmHydtCLJtyFUC61TD2nJh2LdHkMqD5/CF/m4PTeaFjCwP8mIFyN7bSsihc31w0v/xAJvciQ5QDS1DkdsEZNC6UXQfPEY97v+RVNGLoaV5u26GjWvwTexInFEsSQLBg5bMv7PiBwfU7QcfnLhkBpxD4v5KFgfNlnW5kyB9tIo7kJUxMBwlHF/bEFMhp7N49BTOCGbuStvGvm6zBLibRSm9f3S/mzQ36mWas95SxRPhM5htPowLib67UOsT+AEWn2IgCS9uJtiHkeipON3cBS+XqZrkND++MCNaY01yJMFzzFXUpUCXj0oSGW+Als2kdUyuJP67UgyZor91FvXwwJdKSk=;diR1J9sbGDVvon466Yh0Qg=="
 ---
 

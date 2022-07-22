@@ -1,29 +1,27 @@
 ---
 category: news
-title: "New Orleans City Council votes to reinstate use of facial recognition technology"
-excerpt: "The council is expected to consider reinstating the use of facial recognition technology during its Thursday council meeting."
-publishedDateTime: 2022-07-21T18:32:00Z
-originalUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
-webUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
-ampWebUrl: "https://www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
-cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
+title: "US local and state leaders push for police use of facial recognition"
+excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
+publishedDateTime: 2022-07-22T21:14:00Z
+originalUrl: "https://www.biometricupdate.com/202207/us-local-and-state-leaders-push-for-police-use-of-facial-recognition"
+webUrl: "https://www.biometricupdate.com/202207/us-local-and-state-leaders-push-for-police-use-of-facial-recognition"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WDSU
-  domain: wdsu.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/vidthumb/d56fa358-ab4e-44df-bce4-ae4cb6dfbbf2/thumb_1920x1080_00002_1571261240_79527.jpg?crop=0.806xw:0.806xh;0.0538xw,0.0493xh&resize=1200:*"
-    width: 1200
-    height: 674
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae14444a-8801-419c-a5e8-91ea9a737fd1/e322ffb4-4448-495b-8740-72f544425087/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New Orleans City Council votes to reinstate use of facial recognition technology"
+    excerpt: "The council is expected to consider reinstating the use of facial recognition technology during its Thursday council meeting."
+    publishedDateTime: 2022-07-21T18:32:00Z
+    webUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
+    ampWebUrl: "https://www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
+    cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
+    type: article
+    provider:
+      name: WDSU
+      domain: wdsu.com
+    quality: 54
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/d56fa358-ab4e-44df-bce4-ae4cb6dfbbf2/thumb_1920x1080_00002_1571261240_79527.jpg?crop=0.806xw:0.806xh;0.0538xw,0.0493xh&resize=1200:*"
+        width: 1200
+        height: 674
         isCached: true
   - title: "NOLA Coalition Praises Council’s Vote Allowing Facial Recognition Tech"
     excerpt: "The NOLA Coalition — a collection of local nonprofits, civic organizations and businesses that have joined forces to address crime and quality-of-life issues — has expressed support for the City Council’s July 21 vote that approved pay raises for New Orleans police officers and overturned a previous council ban on using existing facial recognition technology to"
@@ -73,21 +87,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "US local and state leaders push for police use of facial recognition"
-    excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
-    publishedDateTime: 2022-07-22T21:14:00Z
-    webUrl: "https://www.biometricupdate.com/202207/us-local-and-state-leaders-push-for-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
-secured: "cmyIaLgMXl2F85gaDY7UGFNw+zj3GeL97x572/I130V+fR1WuBoywqUmTAV5WtnJmMcDMVJb5jy7IjrVwIIND+H3m3Z7N1w0H3G+qfCtbdpE3sdF9c/shJbTwVyDRdm+u7I9KVMUFvbJZR/n/fZIxAMrrk61dq5vBvmORBkw/9jrlG1CQ5ZhzGXdjmwEelGNou5c3B/Sa9XIgnLp/bh3S2baeg80D50RkUj+TgQkbFOrfzA+U7XsXBlzLwHIusSr/qMk38XmhRvxCBqwfg/IjQ9NS6asYX/ycQla22DsU71Kxh1f6xtCct4qfEW0622ToKVW1aKQK7QKQztPa2W8EaMySkLxIPqznka1ppSWlLJHOC6aMgPWEziS4nNwMkTtYR1LHV/JKFxrdG6KpYeEVVdXe7BFOR0nB8L/GxgF7rmMrV4jiNZAExT6AU+C63/ssjTK0/2jH1VNydMAykf5iKnO7imClH8tY9k7fB2VnkS4vMhU2kAQDtr/VLPTHGXXbgJbEnBXH5btSRf7ube3vg==;YZs3ZP8QwVXImXrPe3xMmw=="
+secured: "7PIGsqkJVgPiq7tunrReDOwD29TbGZ2eE7Mz/cMt+c01ewQM3o1cV/wMzXqJHIzONr6bRkXwo/2K8BafVUBQNvWQvqbjSonuqrbPQL6n3167OMLiH2vTqIQ+FkR2xG9ajLJfNkj3bYid9Tpd3fm90DfdicS52DIzhCdzYYhu1ps4GcjP1sncL9L8wVn1zVM68AWFWoGn6HmYvlU2kukRspoMs9fg2GMCfxGBUthTUiuDE/il+a0a4aQgDbZZWJ3+Zp0/inelhZnfjvQ2BlkhIPXRmvfWTplG/nkECnncUb+mlfdhBJiIc+GcxhQBdGTYpwL84IRBPKwqIgzcDGI5+RKN0NvE7LrSVY5e6QfzpAI=;V7PoHEOrJs01l1sAOGdHMQ=="
 ---
 

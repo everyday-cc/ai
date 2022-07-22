@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-07-08-accelerate-aiml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore.md",
+      "title": "Accelerate AI/ML with the new IPU-based cloud platform by G-Core Labs & Graphcore",
+      "excerpt": "By Seva Vayner, Director of Edge Cloud at G-Core Labs More and more businesses are looking to implement artificial intelligence and machine learning into their processes and solutions. Machine learning models can impact businesses across all verticals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
+      "originalUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1024х683.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies.md",
       "title": "Artificial Intelligence In Insurtech Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies",
       "excerpt": "The global \" Artificial Intelligence In Insurtech market \" is projected to register healthy growth during the forecast period 2022 to 2028. It offers an in-depth examination of the factors influencing market growth;",
@@ -1079,58 +1132,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029-exclusive-report-by-meticulous-researchr.md",
-      "title": "Artificial Intelligence in Medical Diagnostics Market Worth $9.38 Billion by 2029 - Exclusive Report by Meticulous Research(R)",
-      "excerpt": "AI in medical diagnostics consists of AI software and services that aid healthcare professionals in identifying the diagnosis of different diseases. AI-based software solutions can analyze the data from a diagnostic procedure and either help triage patients by flagging abnormal medical images or suggest the healthcare professional a suitable diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

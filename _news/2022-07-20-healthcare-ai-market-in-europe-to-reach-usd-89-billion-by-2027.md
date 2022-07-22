@@ -60,6 +60,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
+    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
+    publishedDateTime: 2022-07-19T14:23:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 29
   - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
     excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
     publishedDateTime: 2022-07-20T11:45:00Z
@@ -69,15 +78,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 28
-  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
-    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
-    publishedDateTime: 2022-07-19T14:23:00Z
-    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 27
   - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-07-18T08:13:00Z

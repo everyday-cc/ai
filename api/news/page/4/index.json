@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
+      "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
+      "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1_ctE__hKyugfxRaoXUQpqmQ.gif",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
+      "publishedDateTime": "2022-07-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content.md",
       "title": "Riot Games and AWS are teaming up to deliver fresh esports content",
       "excerpt": "Riot Games is teaming up with Amazon Web Services to bring all new data analytics and experiences to esports fans around the world.",
@@ -1160,58 +1212,6 @@
         "Natural Language Processing",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
-      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
-      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers. © 2022 Fortune Media IP Limited. All Rights Reserved. Use ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
-      "originalUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
-      "publishedDateTime": "2022-07-15T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

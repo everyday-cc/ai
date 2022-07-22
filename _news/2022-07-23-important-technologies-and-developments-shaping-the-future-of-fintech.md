@@ -1,32 +1,46 @@
 ---
 category: news
-title: "How cloud technology is shaping the future of fintech industry"
-excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
-publishedDateTime: 2022-07-22T11:32:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
+title: "Important Technologies And Developments Shaping The Future Of Fintech"
+excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
+publishedDateTime: 2022-07-22T20:39:00Z
+originalUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
+webUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Souparno-Bagchi-COO-Balancehero-India.jpg"
-    width: 800
-    height: 533
+  - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
+    width: 640
+    height: 407
     isCached: true
 
 related:
+  - title: "How cloud technology is shaping the future of fintech industry"
+    excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
+    publishedDateTime: 2022-07-22T11:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Souparno-Bagchi-COO-Balancehero-India.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "How Fintech Is Elevating the Real Estate Industry"
     excerpt: "There is hardly one industry unimpacted by the rise of smartphones and all the surrounding technology, and the world of real estate is no different. “Fintech,” a short form for financial technology, refers to technology like software or mobile applications that improve and automate traditional forms of finance for businesses and consumers."
     publishedDateTime: 2022-07-22T11:01:00Z
@@ -124,20 +138,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "Important Technologies And Developments Shaping The Future Of Fintech"
-    excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
-    publishedDateTime: 2022-07-22T20:39:00Z
-    webUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
-        width: 640
-        height: 407
-        isCached: true
   - title: "Level 4 smart self-driving car - future orientation for self-driving technology industry in Vietnam"
     excerpt: "Amid the 4th industrial revolution, Vietnamese scientists have quickly adapted and applied scientific and technical technology for socio-economic development. In particular, a member of Phenikaa Group (A&A Green Phoenix Group Joint Stock Company) researched and launched the first level 4 smart self-driving vehicle product in Vietnam with many outstanding features and advantages,"
     publishedDateTime: 2022-07-19T09:17:00Z
@@ -167,6 +167,6 @@ related:
         height: 683
         isCached: true
 
-secured: "1U/sJfK6H0LmVQzMXCOhD3oUXxFbd7o75fYbQZh5B1XLVFi0cih/GdvmP9uHeDPNOD+Yx5tmLnOBL1yQ74OG7v2fMl8kCXl1+51o8C5WrLGkkvK0GNzuMxKCZuW9FnfkaP/PAg/ZF5edJLhkhlDiGSBkgrIhGZOFRSVmbjFUmBeDBUWv99rOx45rJGpYhC6UFJz4+JS5Ok0F+DhNQb2NHfWsSiSkRBuC7vpJP7V++eXNL3eb4oaUdh2yxtwOZSVsQ6eec2ODRaHKrbGKGi/6RtibY/Kuq6WEwM/ejhbkZY0Ldf270iX4DQ7cgxarbaR7dJiHjj8DnbVGao6gVfBMUSQdqwd0PK2k5Jz34oHzsisZTsHMwrbxIrUwQQuUtuTXWa4IgPmiBAXjLZDBVImElmD6OwJQH357PtEStcKhSY3X+5pdlEpQkTBdg4KPIQgnK+0IivrQM+xHTAQ/XBLkencuXatxaFJmIUbWBilyw5wf8oFOO83+aivw1UnCVIoPDF0YFb0Fyj96l8nNZKR0EA==;bXrMLH9AGcAVLSxYEFSTQQ=="
+secured: "4xgV9aLGotDrT75okc4iCyl3+xAIgmc1zvtJ70ydMpXObYwjQEBKj45iV+MqRx6I4FjpNI7LLWooOGAhRPCuBfAm0/5HckFwDUlk3wx9mFxQ8Pi/ECeBuZ/pn+F8LOcHX2Nr+nUgKjkA4GxstPbtUsHPPgTXQg+xReQTwgrqC0gwOSy/fatldsguHlzfLPFJjXeEAo3U0clx0FMxD0TjBEm+mCIEhis0qEtfQdqe54MdHaCuXJWxa0Jp/JdVxhvG0/3UNEKg4kLZFrDH+IWpshKHx/jZjLXC7xzLCQ0DqFfc2Fipm0JnAqfHMgNQSK7EW7Z1xgFZxwEYQ10x/G2iupR89RO3TlHMnUDMvOBjpE8=;lfjDBpjtnJVCaAWhrPgTIw=="
 ---
 

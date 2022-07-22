@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-20-5-ways-ai-is-detecting-and-preventing-identity-fraud.md",
+      "title": "5 ways AI is detecting and preventing identity fraud",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The rise in identity fraud has set new records in 2022. This was put in motion by fraudulent SBA loan applications totaling nearly $80 billion being approved,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
+      "publishedDateTime": "2022-07-20T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-4-ways-computer-vision-will-reshape-urban-transportation.md",
       "title": "4 Ways Computer Vision Will Reshape Urban Transportation",
       "excerpt": "The involvement of computer vision in smart transportation optimizes several facets of smart cities and will continue to do so in the future. The public sector, in collaboration with private tech enterprises,",
@@ -589,21 +640,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
-      "title": "Should We Worry About Artificial Intelligence?",
-      "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
+      "path": "_news/2022-07-20-miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-586525/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -611,23 +662,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "publishedDateTime": "2022-07-19T14:52:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28124099",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099",
+      "publishedDateTime": "2022-07-19T13:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -636,7 +678,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1160,58 +1202,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-robots-arent-replacing-employees-theyre-enhancing-them.md",
-      "title": "Robots Aren’t Replacing Employees, They’re Enhancing Them",
-      "excerpt": "Tedious and repetitive tasks are one of the biggest issues contributing to burnout within finance and accounting teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62261169ca448e166b4fa271/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
-      "publishedDateTime": "2022-07-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

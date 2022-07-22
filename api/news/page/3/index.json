@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-19-robots-arent-replacing-employees-theyre-enhancing-them.md",
+      "title": "Robots Aren’t Replacing Employees, They’re Enhancing Them",
+      "excerpt": "Tedious and repetitive tasks are one of the biggest issues contributing to burnout within finance and accounting teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62261169ca448e166b4fa271/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
+      "publishedDateTime": "2022-07-19T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-this-ai-powered-prosthetic-hand-is-stylish-too.md",
       "title": "This AI-powered prosthetic hand is stylish, too",
       "excerpt": "The company makes an AI-powered prosthesis that is highly dexterous, remarkably light, and has an unmistakable elegance. It's part of a lineage of technology products that emphasize form to enhance underlying function -- a welcome departure from a medical device sector whose dominant design is best described as antiseptic.",
@@ -896,7 +948,7 @@
       "originalUrl": "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -981,7 +1033,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1221,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
-      "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
-      "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
-      "originalUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1_ctE__hKyugfxRaoXUQpqmQ.gif",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
-      "publishedDateTime": "2022-07-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

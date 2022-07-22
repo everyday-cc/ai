@@ -155,6 +155,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Baidu unveils latest autonomous electric vehicle"
+    excerpt: "Chinese search engine and artificial intelligence firm Baidu, unveiled its latest electric autonomous driving vehicle, the Apollo BT6."
+    publishedDateTime: 2022-07-22T18:00:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300643449/baidu-unveils-latest-autonomous-electric-vehicle"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 19
   - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
     excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
     publishedDateTime: 2022-07-21T13:14:00Z

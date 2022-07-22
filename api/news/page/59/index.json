@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
+      "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
+      "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/746c29f1daf507879ca69ec2c2afbb9217436925/2022/06/03/7459195f-c993-4e50-b290-c295f124b5ff/naver-package.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "publishedDateTime": "2022-06-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-how-ai-brings-accessibility-and-equity-to-healthcare.md",
       "title": "How AI brings accessibility and equity to healthcare",
       "excerpt": "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention.",
@@ -1048,50 +1100,6 @@
         "AI in Autos",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
-      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
-      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
-          "width": 701,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "publishedDateTime": "2022-06-03T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-withou
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
 type: article
 quality: 59
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -146,6 +146,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 19
+  - title: "Baidu unveils latest autonomous electric vehicle"
+    excerpt: "Chinese search engine and artificial intelligence firm Baidu, unveiled its latest electric autonomous driving vehicle, the Apollo BT6."
+    publishedDateTime: 2022-07-22T18:00:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300643449/baidu-unveils-latest-autonomous-electric-vehicle"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
     quality: 19
   - title: "GM, Ford Ask to Deploy Self-Driving Vehicles Without Steering Wheels"
     excerpt: "General Motors and Ford Motor Co. want to deploy a small number of self-driving cars without human controls like steering wheels or brake pedals and have petitioned U.S. auto safety regulators for exemptions."

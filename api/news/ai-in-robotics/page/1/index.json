@@ -98,6 +98,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-accenture-acquiring-robotics-integrator-eclipse-automation.md",
+      "title": "Accenture acquiring robotics integrator Eclipse Automation",
+      "excerpt": "Accenture is acquiring robotics integrator Eclipse Automation for an undisclosed amount to help build the factory of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
+      "originalUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-using-artificial-intelligence-to-train-teams-of-robots-to-work-together.md",
       "title": "Using artificial intelligence to train teams of robots to work together",
       "excerpt": "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,",
@@ -1377,49 +1411,6 @@
       "provider": {
         "name": "Daily News",
         "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g.md",
-      "title": "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G",
-      "excerpt": "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
-      "originalUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

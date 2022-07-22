@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technol
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/AI_Scientist_AP.62d567ab383c0.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C53%2C1024%2C576&w=1200"
         width: 1024
         height: 576
-        isCached: true
-  - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
-    publishedDateTime: 2022-07-18T03:18:00Z
-    webUrl: "https://www.ibj.com/articles/as-artificial-intelligence-language-skills-grow-so-do-scientists-concerns"
-    type: article
-    provider:
-      name: Ibj.com
-      domain: ibj.com
-    quality: 37
-    images:
-      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "As AI language skills grow, so do scientists' concerns"
     excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're"

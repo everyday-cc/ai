@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-19T14:23:00Z
 originalUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
 webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 

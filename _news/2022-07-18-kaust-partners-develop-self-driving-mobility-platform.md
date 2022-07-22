@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "KAUST and partners develop self-driving mobility platform"
-    excerpt: "REDD is the outcome of a strategic collaborative initiative between KAUST Smart, Intel and Brightskies to raise the bar of the autonomous mobility challenge by converting a conventional car into a sel"
-    publishedDateTime: 2022-07-18T03:21:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/kaust-and-partners-develop-self-driving-mobility-platform-pcze3g3s"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:OTFhZGIyZDctMTc4Ny00:ZTdlN2Y0/191027054907wyqb-jpg.jpg?f=3%3A2"
-        width: 694
-        height: 463
-        isCached: true
   - title: "Self-driving Forklift Market 2022 Recent Developments, Industry Insights, Size, Latest Trends, Top Key Players, Industry Share and Forecast to 2025"
     excerpt: "Global “Self-driving Forklift Market” 2022 research report provides sales growth rate comparison by type, segment"
     publishedDateTime: 2022-07-20T07:35:00Z

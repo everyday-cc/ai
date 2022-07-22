@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T17:59:00Z
 originalUrl: "https://www.biometricupdate.com/202207/shrinking-commands-ageing-voices-and-microphones-everywhere-pindrops-future-for-voice-biometrics"
 webUrl: "https://www.biometricupdate.com/202207/shrinking-commands-ageing-voices-and-microphones-everywhere-pindrops-future-for-voice-biometrics"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Biometric Companies

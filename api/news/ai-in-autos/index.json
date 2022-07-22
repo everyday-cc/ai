@@ -105,7 +105,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -231,6 +231,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28124099",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099",
+      "publishedDateTime": "2022-07-19T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1347,49 +1390,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here.md",
-      "title": "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here",
-      "excerpt": "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
-      "originalUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2022/07/Xiaomi-Car-.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
-      "publishedDateTime": "2022-07-07T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp"
 type: article
 quality: 89
-heat: 120
+heat: 131
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/6/b4/6b4adb9b-656b-53c4-aec1-1c7824220503/62d99d8766d8b.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "US local and state leaders push for police use of facial recognition"
+    excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
+    publishedDateTime: 2022-07-22T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202207/us-local-and-state-leaders-push-for-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "GVTzoYGd06q73gpLMOAXqemtvMRoIvL7O+tcM/cwJeozvKDvDG7GnDWls17/VVloenCe4nE3BpilMGGH3xTz/W1gNH/VRALbHhm0I87SQeHECv+eCIxU6u9Anrn/rDPqIPNLEA6nosXwfkBU+wxoB+jdzy3Wu3YxX+OCHp6mo1kAuTKye1h3FI9XZL5VLhamM+WezjkC2Y1/d2lvHl30eMc30NgP+7rB8oOhwwDMf9ZmCk3Z8V2X3b5WfCJMW6UumEiH7b0dQVls82sF9v+LpkDQxwcLOqOI9RByJ9yjVgzfzexGAGusSpMQiLs9sAflmLQuv7HK9dKu6VZZdVfd5bzUtzyDiPffS6P3mdr1H4A=;+72eRULTNMCiG2geDuIxCg=="

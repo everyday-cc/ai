@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-07-05-bumrungrad-international-hospital-southeast-asias-largest-hospital-to-deploy-lunits-ai-cancer-screening-system.md",
+      "title": "Bumrungrad International Hospital, Southeast Asia’s Largest Hospital to Deploy Lunit’s AI Cancer Screening System",
+      "excerpt": "Aim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region SEOUL, South Korea, July 5, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced that it has signed a contract with FujiFilm Thailand and Microsoft to supply AI cancer screening products to Bumrungrad International Hospital,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031.md",
       "title": "Artificial Intelligence in Robotics Market is Set to Experience a Significant Growth of 28% CAGR from 2022 To 2031",
       "excerpt": "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period (2022 – 2031). Artificial intelligence (AI) and robotics prove to be a powerful ...",
@@ -1068,39 +1111,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
-      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
-      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

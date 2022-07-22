@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "US local and state leaders push for police use of facial recognition"
+    excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
+    publishedDateTime: 2022-07-22T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202207/us-local-and-state-leaders-push-for-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "MzqbO3BQ10Gq+2z9cNMHkOMU/yhOC0E0mHVMIsg5flM9GEZfKDzj+SkrpGnGNG465kUZH15AauCLxCLbxUMC8L8JqrPSr4FPpd3xag3nRKdMJ8T3QkgexzMDLetBySujwKUy4uGFDIQzHNwUMW8A7/4o4tJxAZBUox9XYYsAkjVZ2ZxxTD1OdM7mr5tbTmAw08TNTDtrBfKXNG4gk6nhl+tQeuXKlQ4VxXNyzrjk6ZqtxYkcd2sc4dMHVzACgbJzV7SB3BFD3fQGFpS4qkoA6tEbecTqIDULWpN1oh9eLB73LG0+pok+9TPF6JtFFyOUhEFWcWwnYNK77ctGEEdG0MzxKcmfOrJTyGkBa7Y++eAptcMMwXq+0Dspbm+W/0j1fKB/mlPLQc1xIoeusHgUtlOVCl5XcfI+Nz9/KnltqOMWeBpXiK2H9rxJEYR/NuOP8Cwd4dKetThzh2+/iwTJeWadwr30CZpDemzm7uG2fKAs05WcEylwSyOi/I5Ci35T9m2h76wg6m1LTYw0xQFvkg==;tFpPE0OyHb/K+UC62zMc9Q=="
 ---

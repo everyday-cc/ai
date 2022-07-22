@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T19:23:00Z
 originalUrl: "https://newatlas.com/automotive/drift-green-hydrogen-hydrofoil-flotilla/"
 webUrl: "https://newatlas.com/automotive/drift-green-hydrogen-hydrofoil-flotilla/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: New Atlas

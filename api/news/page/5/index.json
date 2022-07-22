@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-15-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
+      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
+      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers. © 2022 Fortune Media IP Limited. All Rights Reserved. Use ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "originalUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "publishedDateTime": "2022-07-15T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics.md",
       "title": "Gain insight from HAX robotics founders at TC Sessions: Robotics",
       "excerpt": "We’re fired up and ready to connect with the global robotics and AI community at TC Sessions ... and if you’re interested in raising funds for your startup — and what early-stage startup ...",
@@ -1137,48 +1189,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire.md",
-      "title": "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)",
-      "excerpt": "Gestalt Diagnostics, Inc., a leading provider of digital pathology solutions, announces the availability of their Artificial Intelligence Requisition Engine (AIRE). AIRE drastically improves speed and accuracy over time-consuming,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cc5b5d95af2562f0bfab4c7254a38ae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

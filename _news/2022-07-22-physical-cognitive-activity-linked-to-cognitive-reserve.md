@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T15:41:00Z
 originalUrl: "https://journaltimes.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_2bfe2b73-bb13-5318-8def-06a8b2a1bb86.html"
 webUrl: "https://journaltimes.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_2bfe2b73-bb13-5318-8def-06a8b2a1bb86.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Journal Times

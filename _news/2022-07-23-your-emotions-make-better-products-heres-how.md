@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T18:22:00Z
 originalUrl: "https://www.forbes.com/sites/jenniferhicks/2022/07/22/your-emotions-make-better-products-heres-how/"
 webUrl: "https://www.forbes.com/sites/jenniferhicks/2022/07/22/your-emotions-make-better-products-heres-how/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

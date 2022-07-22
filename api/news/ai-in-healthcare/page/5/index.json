@@ -2,41 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
-      "title": "Computer Vision in Healthcare Global Market...",
-      "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
       "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
       "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
@@ -1295,6 +1260,40 @@
       "provider": {
         "name": "Medscape",
         "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-artificial-intelligence-ai-in-medical-insights-and-upcoming-business-opportunities-2022-2030nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence (AI) in Medical Insights, and Upcoming Business Opportunities 2022-2030|NVIDIA, Intel, IBM",
+      "excerpt": "Artificial Intelligence (AI) in Medical Market Prime Factors And Competitive Outlook 2022-2030. Market.biz has published another report named Artificial Intelligence (AI) in Medic",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
+      "originalUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
         "images": null,
         "publishers": null,
         "authors": null

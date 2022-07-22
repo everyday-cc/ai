@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T18:54:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/facial-recognition-privacy-concerns/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/facial-recognition-privacy-concerns/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IT Business Edge

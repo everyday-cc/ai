@@ -36,6 +36,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Theator raises $24M to advance surgical care with AI"
+    excerpt: "The funding was provided as an extension to a $15.5 million Series A round that Theator had announced in February. According to the startup, Insight Partners led both investments. Theator’s latest $15."
+    publishedDateTime: 2022-07-22T19:35:00Z
+    webUrl: "https://siliconangle.com/2022/07/22/theator-raises-24m-advance-surgical-care-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "M8OG7q2qY7dSibSp/aT0uZJCZ5h8DuR6v2O4/DLMf2dhLCgTVx2BLwMPzP9Nb9U1apmBa8btiNmzwLJ+ACuRfWeYXT0E5PMB0k0Q8W3J0nOgLbJr32cB2toJTtlBYRdduVfQFoXICDENrXFk1mRUHJaWa/AEcSqK0jd+F2DN+VvrMyVJiF+VZg2yQ2ptXbir3uHnSKFOUz2OsSmAD4ALioUf8FeoEmCowQ7mZiPwl3YjcAmfChU/5pOfPX0tkpiayW/SVbLEtBkXaHPfLmJ++2/7nqBhIvCEKD34GQVM9avHME1pewBNCVLOWanSWGprEbzHmQ/rnGBGZGVW4HXjiQq7AuA17/tPAdzmsoQWHzvam78qT5PkPwH0KAqhv9IXAGjnQ80Yi+y23a3QN9dR6qP5c2z9kQ744OLE0zfKt/A6VpFB1kcor5BUDxD9ZT6kur0ZwzvMmM6NGdgT6jm3f3i0q964H443MnfmC6KYl8qAu3tXnggyP13IfghRci232JSsTAm12pwIEVR0oQ5kgQ==;tP/Ly4smghbrbUKmJXo1QQ=="
 ---

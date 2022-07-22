@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T18:47:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-virginia-charlottesville-university-of-2dcb17959735a7d2f2a73a43b257bf0b"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-virginia-charlottesville-university-of-2dcb17959735a7d2f2a73a43b257bf0b"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Associated Press

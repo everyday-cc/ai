@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-16-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
+      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
+      "excerpt": "Portraits of the acts headlining this year’s Glastonbury Festival have been painted by an ultra-realistic humanoid robot artist ahead of the event. The paintings, each of which is a colourful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentonline.co.uk/news/national/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/A051U1L3QEUC7V2L8Y6K.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
+      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-soft-robotics-is-about-more-than-building-robots.md",
       "title": "Soft Robotics is About More than Building Robots",
       "excerpt": "Some see soft robots helping declining populations of pollinators do their jobs, or sifting through wreckage in the wake of a building collapse, or even performing simple, practical tasks in tight spaces;",
@@ -1189,58 +1232,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-scientists-craft-living-skin-for-robots-made-of-human-cells.md",
-      "title": "Scientists Craft 'Living Skin' for Robots, Made of Human Cells",
-      "excerpt": "Japanese researchers covered a robot finger with a self-healing pliable sheet made of human skin cells. Why it matters. Helping robots resemble humans could impr",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "originalUrl": "https://www.cnet.com/science/biology/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/34621c10a777da17fd84d8c062c15fbe6f671cda/2022/06/09/09235a85-1567-4b44-b5c7-c6f09ac9b768/robot-finger-cropped.png?auto=webp",
-          "width": 643,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "publishedDateTime": "2022-06-09T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
