@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NAVYA_Group"
   url: "https://twitter.com/NAVYA_Group"
-  followers: 10167
+  followers: 10166
 
 size: 201-500 employees
 yearFounded: 2014
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Af45fT7nrBA"
 
-secured: "smYRB3becHy7ZNIWhElOfa+t6QrBS+8yDJkXxgWH1rUorXXVO8y0TWrvJrIxw2rsvFzHG/cAoDSgnTZN/mfjiYnomAhDyXqM0ErfIYIQN7sQtF3MBVU/KQPV4doMu/YBr4sOKJ77WUmlyNLthbY4y78zYV+63cDWeYFOhqSds88HyZoAEsgGoHLi1+ptXGV6Nl8iRV+8tnH+xg0FvpAiMiMke5JR2UFrUsIHwQ5zJtDINTm6lYRLQ3tQ7dq4XpksqcT1LwOKupdvpSWvfbeMJGpZqJssfbi+luBS4ePXs02vJkOq1Aqe5MfmwgTCX02usJWOkpSDZcnwcDTEw2goUuatm+KugcEnYr7wLhHGfrT3NF7wGTa7y1sRIM8rIfdSfZBRuzYY8xlbOp2/n1AnYFoU58reTNCYAwQSZLIhzPk=;8McoUx9br6Svn36HNUciuQ=="
+secured: "dIAy4GQcezWC4g9BC/jR5hI+ogbqWmPHTBdqxxd2tgrNOG3zOg7OOAOhYt2PCgS1Twfei6y6oeFA6JJ/lUiD1+toCSum3THkbZN8RkpjM+LSrpyiPNUxb4N/DhB+JJdO49MIv+2bc1cxT0CwzZocV4au7KfybQQpYXhkUdQcS0N80lyesrqRH7Wku3N6Czepbkd/nRiwo9pInNe/mHns+CbNO8pHJR7GvzSd6clmfHHOLFtFyPBCosjiNzJSm5apnGSPcI5ez8HHbcDOgvto3g30UOpoaxbmhfRxAGhHAvMgA6i8riEybkyFb0JCF/d4qhr3UnGWoKyoQLmazdM/GUXCPEl++8wy82Ba1WW5UWD/8RpA8Rclo1lrr3gsv3F7prPUjChrNmGScM2mNWxgpqU1pE0gx2fKLP8HKH1HhpI=;0otOTG1tkXCO6BZzIaeWEw=="
 ---
 

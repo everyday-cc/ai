@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 65
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "Aoz3pNza9qKWCVbxGRbtJl/cY9J+1RO+um7frvYXIY6BCjS7heOiEgs4AtAGwjL4Iwttgh+4inv15hqssjJ4lgKYj/FINDFua1ZTC8C3NXNC2tSjKtQOfnYjr0n8pd4U5DV3ep3ALMmSB/GOcX1cX2Syf5NuoM/gUj7bMpZgT6EtO68RrXATmgKwjBOs7KumwVMVAe1nWQ2bwykWIR0nvs9mH56Vao52//tZcYfkTpK6CHWbpqVK43Q9KOUfOnLcOKgGCqo4qKlop8QTt46NC7iAo8QjcdoLaVpLtsmeT4gsYc+Yt+gv2nygyRzQpdKDJ9DD6SuhGwAgZA3cjAn2PGYUyu6sJnhJe3aSNp0FbihIn0xu85aPlGQfNkCMeTTK9N/SZYStQNrI6i92PbaLpHQhfl+Vu59e3hThFpQlxZM=;N4EBGFg/a3taupzK49vV+A=="
+secured: "mQm9ohlVunrOu3P4HxZPYziJ0HUnTA44CB8X6a5nBuo/ff93x9uYPfD8/Xp5m35dVX7GoeuvsS+MIDMoJ6WVunXhc12sQJy1TMJahP+zWSWORQj4K4kcPg3DK1EuMnBJhyn3/+95saIPEFlqgUMRfDyREyMy408U6HDBO9XqYt/YgcCgajb+KKuBndNfSbFxxI9q5DtaMqRfM9kF2VJb80dzigkW5Q0NY+YxP8LpgUZw3Ps7kFN1R7+fLaFwp9BejOmrT4qe/UGVaVUD4Jn/4sbumzTFA+e0I0rKSuuTBLVVIOKkrfvU5xqgppCA6fJWz2NZF5ga/axnCgmcCWf/iMhwvKnq4rTLv0YRCJ1LG+tDAu1ecrAP/Knxgz4T9rTUw9113yaXqu9R8pskrjejI+kHlBvE/b/AQrBSnx6utbY=;cZ3atbYj8RAG73VlBSOGhA=="
 ---
 
