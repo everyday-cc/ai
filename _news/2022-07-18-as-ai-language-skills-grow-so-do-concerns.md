@@ -41,22 +41,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "As AI language skills grow, scientists worry about accuracy"
-    excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
-    publishedDateTime: 2022-07-17T18:24:00Z
-    webUrl: "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    ampWebUrl: "https://www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    cdnAmpWebUrl: "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-    type: article
-    provider:
-      name: KREM
-      domain: krem.com
-    quality: 57
-    images:
-      - url: "https://media.krem.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "As AI language skills grow, so do scientists’ concerns about accuracy"
     excerpt: "Most of the tech companies that built them have been secretive about their inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation, racism and other harms."
     publishedDateTime: 2022-07-17T22:55:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440"
         width: 1440
         height: 987
-        isCached: true
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-17T17:48:00Z
-    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
     excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."

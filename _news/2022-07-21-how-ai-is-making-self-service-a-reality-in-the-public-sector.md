@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Advancing AI/ML in the public sector"
-    excerpt: "Government and industry leaders share practical applications of artificial intelligence and machine learning and strategies to move forward."
-    publishedDateTime: 2022-07-18T20:54:00Z
-    webUrl: "https://www.fedscoop.com/special/advancing-ai-ml-in-the-public-sector/"
+  - title: "How AI writing service Craftly AI is transforming the content industry"
+    excerpt: "As the world gets more and more digital, our daily habits are turning more digital too. We start our day with news and social media articles on our laptops rather than going through a newspaper. We look down at the notifications on our smartphones more than we look up to see a billboard."
+    publishedDateTime: 2022-07-22T10:46:00Z
+    webUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/"
+    ampWebUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 54
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
     images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/closex.png"
-        width: 264
-        height: 264
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/AI-writing-service-Craftly-AI.jpg"
+        width: 960
+        height: 533
         isCached: true
 
 secured: "NDQJSAPOWEHUt1GwXuKYzv6XsnVZvm6cUKR0JWveKFd9RFNTeqgsfiptQTcVELGJlk3NagfSbPk/O6zp9Kv/0RhjDQ9kDLNu6YJsTmxpvvzI1Pr38m1cicH7qbkKE12l850p7XgDy1S9k8tDxKJiHNze22TX0ugLY3PrROMJpe3QaU4M5jeNDaxQ7VSrZIViFvHrzHNsnAa6nzUm1V7C+PZzJAuROH/sTIJyMLypGea4KeWq3jgwOEcFgS6XZsydlmIH6Q5SKvHpqMzUwDeEHkjcxfrZFaLFmxYLCd/929NxJ2uifvtTbx/lTAfQDcUvgtu1MEozlMINVQrU5bwSCnFggMcTDZWjPffoXtGIOyobLp9lTgT4VbSGPkzkalRuALnkYfXkcX66nyV/Gag+VYFXjPIdC3ln5V0bn4TXxNhdCJoXSPdE3XLH5kswUVFX4b5WrsD0nPml0WR+J/XdKuWB18LBKvSGA9/OuSmOGnn/5BhSTdStr31DKeQq0d4em9KEp1kd3sg0GSnmkRtsyw==;Z5bO1YrnYNoN1JXXm1ILyg=="

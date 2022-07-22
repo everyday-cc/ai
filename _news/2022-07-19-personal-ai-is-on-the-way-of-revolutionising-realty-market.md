@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI tech revolutionizes medical device design"
-    excerpt: "With over 350 FDA–approved medical devices using AI, the technology is enabling portable MRI machines, foolproof ultrasounds, and more. Latest"
-    publishedDateTime: 2022-07-18T14:41:00Z
-    webUrl: "https://www.embedded.com/ai-tech-revolutionizes-medical-device-design/"
+  - title: "Don’t get too emotional about emotion-reading AI"
+    excerpt: "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you."
+    publishedDateTime: 2022-07-22T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/07/img20220718094045When-We-Put-AI-in-Medical-Device_3_w1551_h935.jpg"
-        width: 1551
-        height: 935
+      - url: "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "rNLfHkKdF/NESIS7mKqjX3FrnG0w5/LN5juv47ZsWJUHtA6rXKRvqVKxo4FlfjE/hf0DLWdiJ7yOt4/sETHK7oXgc4aCfFkCb+juMdOKuYA8p3MZ4LkF9upRX4j6vwc5yjPS93cPsH0kNWQNhybKKS6tFI7uK+M92rlwgkFHGqY2mMns3xbi5Z0xfQxxKHM5nCCPoqeqD5ZgYDTMg8B/V3/4ogU0PNcCUj39I8OgQKRGXAu49hz+5Bv05c0E3j4Z43j4vJ+kKF6Vl4NjcC2+FJM3ebKesQtXCahWeXcYO6+slUpUUESmGQtwlSbABGafFvhOZ6MOYf6M7xP96JU8lbnJIhnX3qiVOog17d2ZG3U=;BW/krODVla4G/L9Xu8WJVA=="

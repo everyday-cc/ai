@@ -34,6 +34,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Run:ai Announces Advanced Model Serving Functionality to Assist Organizations Simplify AI Deployment"
+    excerpt: "Run:ai announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get"
+    publishedDateTime: 2022-07-22T09:55:00Z
+    webUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/"
+    ampWebUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Run-ai-Announces-Advanced-Model-Serving-Functionality-to-Assist-Organizations-Simplify-AI-Deployment.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "JClRX2fvNZPYQfy/tRyshpS1OjMqPQu4fvMitteus8Hwyct0onMTU5ns5DGtLvJ805NbjCgDacFbKp7PE0/RCdi/rXLNwDre2r9meCNjar5MXCiVj2GTuI3j9MaAV5ksjAEuw3YukmxsCE3zEveAoOoMPg9XnjNfabTek+SSgKUy95L6pvdEwSZDxg6slm+4fq13TAsWQ+BJZKc6AakeYSeDnuvSNT1lpCr9T/0BlbHNuQVC9t+F67U4+jovrNE2PN5lBdg1VfAHHmdcyU96yJYHaY+ZpkyHaKPRW3p3T/henPt4x/LC4FFSRVu0AEB0Epi/ksIpQqEFKG5x0f+sUQSA8GCclsdLlsCm2ZI7aBdtEm3esxX6rQgvl5OJF7FcQsjAQ9u/dFvebIvkKMUj+hzp8ZmKN3KtyAu/jrSNyGGDoHZZTuGNdemHrbS5ZrVhuYuw9uVkQXoqttKbe0dEgXDuHi6Mk1SlgwHcfSHPskydGdLvUvLdrCyZZeN0vlTx5lwr6II98oVSjrSvdbmQzQ==;iE0Zwdq14+OvVt5Rmexp6w=="
 ---

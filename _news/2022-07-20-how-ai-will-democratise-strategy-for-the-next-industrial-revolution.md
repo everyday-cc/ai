@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democ
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "http://ifamagazine.com/wp-content/uploads/2019/04/agreement-3489902_960_720.jpg"
         width: 960
         height: 562
+        isCached: true
+  - title: "Moneyhub and Pennyworth partner to democratise financial planning"
+    excerpt: "Data and payments fintech Moneyhub is joining forces with financial planning and banking app Pennyworth to bring a new tool to “aspiring-affluent customers”. The new service aims to redesign digital banking in a way that will democratise financial planning."
+    publishedDateTime: 2022-07-22T10:18:00Z
+    webUrl: "https://www.altfi.com/article/9580_moneyhub-and-pennyworth-partner-to-democratise-financial-planning"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/moneyhub-and-pennyworth-partner-to-democratise-financial-planning.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "72W1NKbV9OAMbLcWYu+ygrTpCfRcOIRhGE4A+wieZ6Kf9NaRHHKBz2LRyZsXMCpLutgFpXvQOYZx0EUYsjY7IRCO5NCXwZ8b4wPpJiPoTfAX/yBOhqp+44kqsVrr3gvpWOYDyydEFK8I+E4LbzpZQza3eVMkenFDsxaYjGIQxUe06xdJytmwSIewZN7EjAqnwge7c7mbZk2oP9mvBh4ltHzGkRDWg+gU8TZXMQVmwEDXBNWbAv7ONYWhgPPdNDJE0vdrd4EDrGFxHyyvLWIsQg83i1Tw8AAunZ+Fm3P+6IphptxGdV4L2Zu8j/eUv5VFUuoapui7prtlNWf8O+T7HAbbEh40lE9QlbJ82k2tVLw=;uLU4uB9jeTikb7PWnTdKkA=="

@@ -50,6 +50,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Self-driving tractors rolling out in California could fuel the future of farming"
+    excerpt: "A California company is rolling out one of the world's first self-driving electric tractors, which could lead to faster, cheaper and safer farming methods."
+    publishedDateTime: 2022-07-22T10:12:00Z
+    webUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming"
+    ampWebUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 39
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e6efbc5d-12da-421b-9fd3-66c9def90322/46e7c716-6059-405b-aba9-728d2b3e2fd4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "unRGiBo2T+KQKpTTxvPDUzCdGUQJ8igkbhv8KZ73a7bbeEnD60lt7JGbgfClUy42d0DsTjbY1QST+My6WObiH7K5V0+ZELkjzrSgdIa1qqSSKOO2L57mbTnJUnaHW5vX7mMCqaJUNhPGsIwi/RkKzDFISDjX67hH84AMfDTYpPgkiBHxinZR+JM8k9vb5B8XhDA2g9yhTwVBQcT1omh/wzPSDfQK4uJ5VOv6Gj4Tgj5lWh8XpXsJYBtARd1iIFjMFDzAi3x1gXVloMcL5m9Auq7o4zswpvP+Baus2+FgemakXMbFTlOki95e9DhiGa8GHkYarbClindZHoZGvLdBlsFqYNOUq4b9wPHfJbQ8vV0=;nvZgflYIj1PjcET4KMpOEw=="
 ---

@@ -53,6 +53,22 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Self-driving tractors rolling out in California could fuel the future of farming"
+    excerpt: "A California company is rolling out one of the world's first self-driving electric tractors, which could lead to faster, cheaper and safer farming methods."
+    publishedDateTime: 2022-07-22T10:12:00Z
+    webUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming"
+    ampWebUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 39
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e6efbc5d-12da-421b-9fd3-66c9def90322/46e7c716-6059-405b-aba9-728d2b3e2fd4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1wwsyZOZw1hjFb/g4b4e53Kdy3w6J1rY11oaqlNmQ1H2f0Z7WQERbBqVQnTzNb9plv+ZL+K9Q8woos5rWuqOEM+o7JZeijRV1X2kXqgp2XfWxw8xBKIl4Vevq1InTEIJFLHJgSddX45l6q5OPpLoudLN0nvfJdpS5SXW0GStglcL7lN9zx6Dql7fzz8zMHg5cljt68NqRfFGyRUUgsDHwuZZx/MAr3D5XCVNx6jQFJw3MhtctaHMHspgbKvH7tNPx6IhDLWMqA4E89EyMEC3Cvxeu4/2A/nD8scP1AWE9NRIMizT+3NjlWBf+S75440a779pIwttV66+L1p2s9HipEIS/II02eMRJtkkoSpyGXjRXs0q+TAAczf1aiPuklNOJy6cn6WaIPJRexyiC9MslBqzVKA+ESUhYpKnK/QnT1UUWhAaanf7Iq2qbPxX67xKQuhWf4VCGMxan1AfYim7qBDuXolyPdnKYflwkslGh8OgnBw9g+feobmQadyJln7iv5EKt7Tk+A3SJ12Z1IRcVQ==;jw1bTuDoRbMGH6lZCn951A=="
 ---

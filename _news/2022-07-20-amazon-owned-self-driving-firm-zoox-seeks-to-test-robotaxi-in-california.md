@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/amazon-owned
 webUrl: "https://www.reuters.com/business/autos-transportation/amazon-owned-self-driving-firm-zoox-seeks-test-robotaxi-california-2022-07-19/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Self-driving tractors rolling out in California could fuel the future of farming"
+    excerpt: "A California company is rolling out one of the world's first self-driving electric tractors, which could lead to faster, cheaper and safer farming methods."
+    publishedDateTime: 2022-07-22T10:12:00Z
+    webUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming"
+    ampWebUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 39
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e6efbc5d-12da-421b-9fd3-66c9def90322/46e7c716-6059-405b-aba9-728d2b3e2fd4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bmjOualxMWtSVsMhioRMEZMG537mc3Pu9Vrz2QUN3DqZMOsZ7WhHYf2SPVz0qgxHhaAUV8Fzws/Qvq8iUuAw6JH8XOzbmxfeiKflWgr9+vUTBofIH3cVlBXjeKdRPm0Al+C/46M4mFl8QEpwYoLiCkhYDzZI+6IISM+4pzu764L7xJmZiu9HInSBk156JithEtTi6LgyeIjgUGEYwkVmBALcwWMtF6MUqox3Fur+HJOlwjkPE8JAmqMQeTNyjk4SrymCNuqWjScfvV1j4RIqASHMut5nPTR2SELU7h3D0ek183jzvxqbMk6v2G3R0lOHYYO4Rv9j2dglhG2D9LdVc0d1RAgDDxdQtxwiJRAwyR8tO5K9fsHzLUu+qR8fpa1s5tDjk56Dl+pt/UiIYps9jIRC5SIWwY0iuzVlNQKxy2buXa1/oCjFKkPySJ8/sGPuDrZ9RZ/G17zOUtnrAWPLHc+GnE2cYMfD5spcIs5JT/ntxKh0hJ901VEvLmdUosf5FGi0sSk09qO0skQKQuBJ4Q==;6xeSI+cjs9lfcrcJjV51VA=="
 ---

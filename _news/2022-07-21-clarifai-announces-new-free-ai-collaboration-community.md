@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Run:ai Announces Advanced Model Serving Functionality to Assist Organizations Simplify AI Deployment"
+    excerpt: "Run:ai announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get"
+    publishedDateTime: 2022-07-22T09:55:00Z
+    webUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/"
+    ampWebUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Run-ai-Announces-Advanced-Model-Serving-Functionality-to-Assist-Organizations-Simplify-AI-Deployment.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Clarifai’s new community service aims to promote AI sharing and collaboration"
     excerpt: "Clarifai Community, a free service aimed at promoting collaboration and sharing in AI. Clarifai is a well-funded startup that has hit upon the somewhat novel idea of helping companies use massive volumes of unstructured and unlabeled data to train AI models."
     publishedDateTime: 2022-07-21T04:01:00Z

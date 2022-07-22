@@ -55,6 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Moneyhub and Pennyworth partner to democratise financial planning"
+    excerpt: "Data and payments fintech Moneyhub is joining forces with financial planning and banking app Pennyworth to bring a new tool to “aspiring-affluent customers”. The new service aims to redesign digital banking in a way that will democratise financial planning."
+    publishedDateTime: 2022-07-22T10:18:00Z
+    webUrl: "https://www.altfi.com/article/9580_moneyhub-and-pennyworth-partner-to-democratise-financial-planning"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/moneyhub-and-pennyworth-partner-to-democratise-financial-planning.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "tIU4OqWKJRlw34Lp+jprS9U5mMIqdYkbtnTq+4tqBFbCSlQe5wkIGv1P9Xq3UPLKhMHrGhgyVIUOKJem51yrXTU+FIdUKZfyBGBDjLF7NbwuR/ax4AAv6hyzr8VrESH/jLyB+iHYZmuE8okEAqK2Tjel0ZTNBoSBSmtb2gkjquYmlfAbQu2FzH6qzw/WEx2FOswUG1zukSYfVKO6sEzCqZGi3KuANGULABe4Yn5Gb8PjVLOpRZDgm6E/nr3rUo3l1NO/97MROipPDp0eJE8tmJSOFosIWG/9voSJj4o0LyYXhpvliyLS+CCzQon8e4Y8q+UzPLQEd/fIRh2OFTp50gOgCfkX7sCrX+Svx1S0Rwv/t8GIojGv5xV8rgLe/5eWT8ElhEVduf1PRdv5jGr5WesshAy6U0m8Cuz8EGIJDUSBTk0g8/700awkhEy3jmtw6wpSjufnOofPvSdhaJLP1eeyvLgJWA32SdC+iDjYbzCkEMKxpwtS+ar6QBdOwI7zmyZp6zkicujifX2Mv2wOwQ==;fG0R2PiHjc8aFl22o9vLWg=="
 ---
