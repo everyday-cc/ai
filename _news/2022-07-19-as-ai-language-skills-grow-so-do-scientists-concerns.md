@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technol
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -115,15 +115,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "As AI language skills grow, so do scientists' concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel"
-    publishedDateTime: 2022-07-17T14:32:00Z
-    webUrl: "https://www.washingtonpost.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/2022/07/17/cb773f2c-05f8-11ed-80b6-43f2bfcc6662_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 17
   - title: "As AI language skills grow, so do scientists' concerns"
     excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're"
     publishedDateTime: 2022-07-21T04:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
 type: article
 quality: 119
-heat: 149
+heat: 150
 published: true
 
 provider:

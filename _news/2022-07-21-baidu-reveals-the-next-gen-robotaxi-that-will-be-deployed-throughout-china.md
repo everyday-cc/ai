@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu unveils self-driving taxi without steering wheel"
+    excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
+    publishedDateTime: 2022-07-22T06:38:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
     excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
     publishedDateTime: 2022-07-21T02:50:00Z
@@ -171,6 +185,20 @@ related:
       name: WHAS11 News
       domain: whas11.com
     quality: 19
+  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
+    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 14
+    images:
+      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "xv0IhMbpMW8TtZniYEiYygn3WdKhTqNjY1ara0fA5DfQVXb4GIjdRR0c598tG0eaHAkzQlQ0yTMa8tFabup7x8ArNoHvwbw8dsZa01ZstknvXe+WCEBE13TYsE21pxjRFxD0rgovQtiu9Y/i0SKPwG3pSuyqvnGNnI6Vj54Wxi/dkaeQjRlpcEsCfS/J6sKRTL40p1yA7QivhVFP7n5/j9NHKUX0BLwMqm5IW5Wo8TWi1GNr2/72LFXKQC2ZnpGv8JA64PrH/WmVL6xmo3ZN0L5g5ZUAsrs7Ik74jA5sgxAHRijcUHa+q/4z37AwJ5PFaCMDOhYXVS7WQifE5C12R+8RWUJiY+zGtVdDLSLAZPIHlWyDZVUGcvj41kcSuRRowilpDnPmBAVucfsziEckEg+AJahZSXSSOuGCLXmhwL1lItQYhdQJnMps8X9rsJNzDW0UZ9P/PmzOlPLq6k2aLSM5MFlzIGix+YuXIAxcRDbIv1lBQNErQtFQNfEXOnT8PuV7aR+nCbyb8ocWl4ngCw==;86oNjYweAT8RKeY6KUtZVQ=="
 ---

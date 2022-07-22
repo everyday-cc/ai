@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-19T13:53:00Z
 originalUrl: "https://financialit.net/news/artificial-intelligence/artificial-intelligence-continues-expand-capabilities-cross-border"
 webUrl: "https://financialit.net/news/artificial-intelligence/artificial-intelligence-continues-expand-capabilities-cross-border"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://financialit.net/sites/default/files/buckzy_1.png"
+    width: 1366
+    height: 768
+    isCached: true
 
 related:
   - title: "SubQuery Continues to Expand into Cosmos Ecosystem via Fetch-ai Network"
@@ -35,6 +41,6 @@ related:
         height: 847
         isCached: true
 
-secured: "VpWjhZDpRbx+K3ZupkSqwZZahuEQ2vJi1RBeBGGBM6r06MjnIwncKhxGWUsnst+ptPva1s68Ge5zdE4ShwULEsZ00VA9phVL+xCJQ/nyKxoqdwphLfaE0UvwuslU9oBDAG1mhRbmrQDFXna52fMG0f8OjXioF7HQxnwN7S84DdqAEHPiiIhGLU8YxQsq3SMSBGrL4zklZqcMRsBsYnZX9vb+hee9mr8EiFhonOC1XjfaxTms8uwcihsOyaf/uZIcVsDbM5PJOhrr4f5k8XI2BB2l4e2GrXFwj3wib/PM/y9UqiUUq+aj5FzS1GV5wQCQoBetwOU5juNhiDQiCHidTQnI4EwnEivf4mxgSFcKMps=;nlwoNV8YKOSedmt+T10Abg=="
+secured: "IjeSE0LfbcKWdTqUnHQnbrF4Q9XZBaJFnZ2FYAC5am2BXOhBxLHOQiulPCkWWOBls0VPtXDzQyycvM8irUFEcAAPjqHIGLZ/z45I8u60U5qg/fK7QyRrJK7D/XRzKObW1EwPdbALHgVSPwxxPWmA3vmWhyI4Hl/uOqSqaoYarjWvnoEKNLkCXQDKE8W55JecZ9075jz7MUq7jkA2w/VmeLrk2n3n9q8hJYn9sPcfa/dgFmFvTs5dZVB+BJPpalYeCWWOLGzh9a6QsU0ZHSAspl4um41X6JM5BqY2zgRnwOk9FOymcsZmRFl0AUNfbDwDuC/sTr5dsyyY4YtQn6O/NVh1w2pXBZCTDfzv7KmRR/g=;5EYWphaJw6nPfOEiCOM81Q=="
 ---
 

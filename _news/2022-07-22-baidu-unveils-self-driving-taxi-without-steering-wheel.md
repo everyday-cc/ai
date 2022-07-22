@@ -1,27 +1,31 @@
 ---
 category: news
-title: "New Baidu self-driving taxi is 50% cheaper"
-excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
-publishedDateTime: 2022-07-21T21:00:00Z
-originalUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
-webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+title: "Baidu unveils self-driving taxi without steering wheel"
+excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
+publishedDateTime: 2022-07-22T06:38:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
+webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Bangkok Post
-  domain: bangkokpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
-    width: 700
-    height: 467
+  - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -70,20 +74,6 @@ related:
       - url: "https://images.wsj.net/im-587956/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Baidu unveils self-driving taxi without steering wheel"
-    excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
-    publishedDateTime: 2022-07-22T06:38:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
     excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
@@ -172,6 +162,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
+  - title: "New Baidu self-driving taxi is 50% cheaper"
+    excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
     excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
     publishedDateTime: 2022-07-21T12:50:00Z
@@ -196,6 +200,6 @@ related:
         height: 534
         isCached: true
 
-secured: "HcYQinRZ/ZoBbwQlsocwiTGPt0hvXP6DHkimYpW76k88xA+9EMmfC4g92tEOeVE4v/FegLdLDYLvBag/B2aT/Tf+ql8h32LNUfumDqCr4+vJ+bkrk3ysPSDnbcVj+kSRgC2+ZIQ9V4tsRWGudwoNwShBrFqbl4c2OP9uILWI0k+Lps5bBRXQeDbA2QzfsMOhMirUO7qdJbPjsWN+4X3h979KlBo9HAPiSBVuuC/B77VAImzsaddDLYut56FPt3oEMY9qbip2CZDQ4KLZ+v08qMuFti+rfLn654Vk/RvE+BbMnroxXp8WE9fTxVR3I3F9yCTRAkswmfjFOKUhyvobD9cmY3prU3Q8BJpIEfH0I0eBffSJTQjp+7ve5Gy2Za5CD88ebDcPu6aU4bukgSACajhjMgsTF3+k6ALtATbyHbklyHwcCYmlJbbhShMBoUxi4lazm7fZ52va01ywDp6GDcMOpi+O9mCzP9Ce2apEmGr8Gx5d4Fd/T6fok+0HePyN2vQx4ul/LZpH4Pcw1JxajQ==;BO7YLfPqdHbBPZjvXBMA6Q=="
+secured: "0oj/BKIHNkR62gjDkZUlHmwk5EamB4k+KxmxPkFQ9ZeIQFJbW9HVull8wFqbtbT8Cn+wUBZPVHRM7AlURB3XjoSZEQHgcqNPbefw+ykLV9ApdYhj58pvpNmJcP3DlM2R9liRbgTFZRmTIRNFmA1fzCN+CUzsh/OcUlQyH72Xx16CoWnkodUpNl1OXPvdi8GnVdudZHxr6nPjX5NH/nN2lup9b3swH2UOxcs4XdVwToZ0eKQ2hTZd7cLV3Dlpj8BOpttfAO/Uw6WZPvzZPu8e07GwiOHN8rGm3UIVMp/sEJS4rIj8LKbPLyGYUsszmUTvdIPOXOpZR137HIQyaDYQ5EYt/Ghp2y4dvxh2bzPvU+Y=;slJow+kxxszYeBriyEWL2g=="
 ---
 

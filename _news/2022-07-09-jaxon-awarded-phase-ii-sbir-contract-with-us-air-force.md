@@ -2,9 +2,9 @@
 category: news
 title: "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force"
 excerpt: "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF)."
-publishedDateTime: 2022-07-08T18:08:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a"
-webUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-79f40fa4d22bde082c1fc75c292b6e6a"
+publishedDateTime: 2022-07-08T18:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de"
+webUrl: "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "o6JSwXBF+pYIMBr/nrhtDhSzjpEAr43+SGutUq4ZpBpPV3nBPlZyOTMINZ5gemy/Nhg0fiLkdDv0I4t8uU/PhluGTK5z7pdmc8syMvSjGiyf7S8wTKrNoShUoiwDRjrgQ1t7wCXwBZY9gY+0g8WwE+H7syyM7KmYOZxtHeP5V9D7wlZ5uKXJNFyiK1jVA93UUfYj8ZY0VYh+oOBTrGfTB6sSviZx9zw7SivNdzYjkQWaqgwPTfqapA2uYdauYQyQNIIlPsoeziDe6pqMMhpceNQM1AVG9qLvVZe0ATRPv0eWr0o2QkRJA99tc9y8VLN5A0b4/zEPfa3vBKyrZfIJpzV/GcO1eHOBHr9DbFR/JcQ=;nggTqlTDxFjlr+kiMfisbw=="
+secured: "T9JSpmWsW5n2Mc6P5gOmMRKBnE4w2mNyqHERwZ5zxLc2ki1bSj6v7mCHUSClBkrDzGDKQM2EXf0DudNL1b6pNIMqEvwlgsZhf9pca5er8tVJJSYob2b2SOA9u0piSwZYj/Ksfp+c+Xh3VARzFdxkG6Rxh8yeRZ5AfST93xwRXkkXlSdhAN+dAJcP03a9g+Aqh72OZVqJQlb7IgvQqi1/mfpKQC9qmb0Ep8npCOOchIYb7mMCtu7fvWsqfAMeYS6pKpSauzp3I8ZWIbNetDgCckY2+CWQYXLCM1+Kcvz6MKGHV3WMma3fW4vPSG/Xf7JCjLZPNUEnKqm8iwkYderLEM0cLSbWYkOS9dSn5CLQFXU=;TToLMx2kvaBlXXOUqvgwnw=="
 ---
 

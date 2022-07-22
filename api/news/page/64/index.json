@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-06-01-3-brilliant-minutes-artificial-intelligence-raises-questions.md",
+      "title": "3 BRILLIANT MINUTES: Artificial intelligence raises questions",
+      "excerpt": "In today’s edition of 3 Brilliant Minutes, Brad Spakowitz brings up a sticky situation related to artificial intelligence. If you could transfer ownership from the AI inventor to a person, is it the original software writer of the AI?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
+      "originalUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/FwdWle11_tBInLmtCmBnBtFLPhM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FJ4NAQ7UHVBZZOXQOUSOAXEPDI.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wbay-com.cdn.ampproject.org/c/s/www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
+      "publishedDateTime": "2022-05-31T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAY",
+        "domain": "wbay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements.md",
       "title": "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements",
       "excerpt": "Photon Commerce, the leader in artificial intelligence for fintech, today announced a strategic collaboration with Identifee, the connected platform for financial services, to enable banks to instantly digitize,",
@@ -1039,58 +1082,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-depressed-this-algorithm-can-tell-from-the-tone-of-your-voice.md",
-      "title": "Depressed? This algorithm can tell from the tone of your voice",
-      "excerpt": "Mental health issues have come into a clearer focus amid the pandemic. Depression became endemic, but it still too often goes undetected. Even when it does, health care providers struggle to meet demand.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
-      "originalUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1243567776.jpg?w=1024",
-          "width": 1024,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
-      "publishedDateTime": "2022-05-31T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

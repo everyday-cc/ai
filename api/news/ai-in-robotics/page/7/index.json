@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-03-elon-musks-humanoid-robot-might-debut-at-teslas-ai-day.md",
+      "title": "Elon Musk’s humanoid robot might debut at Tesla’s AI Day",
+      "excerpt": "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/",
+      "originalUrl": "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2021/08/tesla-bot-2-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you.md",
       "title": "Kick Back and Relax While Eufy's Discounted Robot Vacuum Cleans for You",
       "excerpt": "Save time and energy with a robot vacuum that will automatically handle daily cleanup and keep your floors looking flawless for just $130 right now.",
@@ -1278,40 +1322,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-portrait-of-the-queen-painted-by-ai-robot-artist-is-unveiled.md",
-      "title": "Portrait of the Queen painted by AI robot artist is unveiled",
-      "excerpt": "was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings, painting, and sculptures. To start, Ai-Da Robot uses cameras in its eyes and its computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
-      "originalUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

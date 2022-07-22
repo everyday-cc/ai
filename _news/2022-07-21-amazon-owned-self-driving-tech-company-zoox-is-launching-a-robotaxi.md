@@ -65,6 +65,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu unveils self-driving taxi without steering wheel"
+    excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
+    publishedDateTime: 2022-07-22T06:38:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
     excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
     publishedDateTime: 2022-07-21T02:50:00Z
@@ -165,6 +179,20 @@ related:
       - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
+    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 14
+    images:
+      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "oOp0owC8KHyov5jYC31rYdmE8g+zeCyocluCFO/ANGEuWDO/tRw4/My+UUt9aRJdLOl81F8NEHNwr+lC5bFBZOE4rZzYLBcxqAWyFkq5xP41H2gq1t6ipzllm0Fa3y5/OuPeP8ZqBcNZEZk+Xp2A5Cu2VwXqZpi4YmfJtaldD5aFuaPqYud63plkftcDI3OKFO2dh0HV3wCXTvhJhH9eOX2dr0k87Lrm9MQAM6EvmhF4+kw/ZFyDSRA6bkYd21RlZol83XNI0awvUrPhac6NrO3jtUyhNvNpqaMwtStMvaeubLqtExni+ysSiKDAUZlN4qrwDdemC/UUcyeBGJYaMsSGovcuVyIodfdvLOZ/bKx/2P9QEm4Yiily7NGuhPyc8IVmAJUPTJuiuf/pLl1qVqbyElIyBCFC94PDj7jARDZ48gLdzb+uq5kQeignniSlkTc4a3TxvtLMEbhNueLbgF3aOe2pxCBtD799j2aRH3gmM5DpEIBmMijBYe/ZkuLzlDZ4YYbnvK+uBb92/0+sSQ==;U/h0/+mZicyRTzwKNyJ1ag=="

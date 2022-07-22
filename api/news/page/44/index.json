@@ -2,6 +2,40 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-06-14-pny-and-smartcow-join-forces-to-offer-ai-edge-solutions-for-smart-cities.md",
+      "title": "PNY and SmartCow Join Forces to Offer AI Edge Solutions for Smart Cities",
+      "excerpt": "The strategic partnership strengthens PNY's position as a global provider of electronic solutions for high-growth markets with real-world AI solutions from SmartCow for industry-leading smart city development MÉRIGNAC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/14/9621450.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/14/9621450.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a.md",
       "title": "Charles River (CRL) to Create New Gene Therapy for Hemophilia A",
       "excerpt": "Charles River Laboratories International, Inc. CRL recently inked an agreement with ASC Therapeutics, a privately-held biopharmaceutical company, to manufacture a second-generation gene therapy for hemophilia A,",
@@ -1096,58 +1130,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
-      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
-      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=inline&pgtype=article",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=inline&pgtype=article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "publishedDateTime": "2022-06-14T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

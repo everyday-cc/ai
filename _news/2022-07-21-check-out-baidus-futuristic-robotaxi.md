@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robot
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
 type: article
 quality: 89
-heat: 190
+heat: 211
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.wsj.net/im-587956/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Baidu unveils self-driving taxi without steering wheel"
+    excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
+    publishedDateTime: 2022-07-22T06:38:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
     excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
@@ -171,6 +185,20 @@ related:
       name: WHAS11 News
       domain: whas11.com
     quality: 19
+  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
+    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 14
+    images:
+      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "q19O6xJOygreH18nk6qp5fgUrShfriDvUvgjEH3DFr/i+KsXeiusX/X2G/hdCalhL4aJEUFK+cnSdNhmJhFpgqgh2y+AzU8jLG9r6H1gzLDYWVYq3RHZpO7CaFglgZxQy2MswSQQMFypex6trl/rbVsEun6Qg3Xhk1vofAkBdia8E6PqkAhxRjMctPrTwionPOcS+Ds+VxHKC9CllIR6tuSjsKbK2fA7ySv7caKNrAC4PTL0P5wxfWIDb/6ajByiTBDC2zAcut7bpLxmX9ZJJiGmtBcZl6K9/226AyI0Ol5hG7DpFUsdgziyLp4Fo/7JPr/dJUBDpgLKGdabwS2o29rQQwlZSqIWY6uXRH2iQbIs43n3tpw7E4Yw0U7LQA0RP02to3FaKwSJMubby3cxrs8MfJK5CKKGTQL6zyUG2IFTwcNdfsvY4TYGltchpmZrIRJzZU7+NSo95vkbnb3GQYZPP1kN380aFjlupY2H72UaXP8w7x21vCQ4BNQkVRowSR3PotTmmwxSZ29w6WeZcw==;EoO66yuaKhkXa9kyBrBcfQ=="
 ---

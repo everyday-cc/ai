@@ -2,27 +2,29 @@
 category: news
 title: "AWS Announces General Availability of Three New Serverless Analytics Offerings"
 excerpt: "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2022-07-12T15:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings"
-ampWebUrl: "https://www.benzinga.com/amp/content/28036141"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28036141"
+publishedDateTime: 2022-07-12T15:16:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-three-new-serverless-analytics-offerings-2022-07-12?dist=bigcharts&tesla=y"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-    width: 900
-    height: 594
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "XZBMRmqlP2g+cAOqWk602uT9gygKHJ8ilG9k8xxpeXbU2GHQtHFU8WnTRVsAtummKyMNsQJzVlreBq8AQFp7xIYK7T3uKyQpO9GoMTs0qauEYuoZnc0gDr61OP+pRY57VJPHi4+cPE2NvEQg6GoycV73NmHwbdF+AtVyZvuVvAjsBeUXFN7z3/yLrsWzKntnlvpLHwjatMnATC15V7zLzXq6JYCe0bzvFgB/NClK9QAoZQ3AAgWqBAXc5S3ykn1Rzy8B8UAK8ddRXGQ/KDkb1EE/FIXVkmor6xZEqGeYWwMA2my1+NDRv0DTacCOZVmx3A8IhETRwWN7zWwJW08uAc4PXE1VsqvW3EdaRPHLZVE=;WLU1NcNosqiSU02Z6QQSKA=="
+secured: "Wncts1dwHK8IgYIsijI5PEyNvnmr4xdSjfHTvutO+7FBjnM9VR3r+vvSsm4040Mi2Sf9WQ4o+6e9jA7DzdZHUbwWlU1hNuBgEzn+rsL1wyykx7X/P0njGTeRp4W2cJcpgD/70r4ipYKJxpgzMj9smKSqa1621psWO5kaoGpejm/nK31kRNXJv/pvOWQodgVMPlMJhFsexwBo5GcK6U7CEwj3sVH0UE4ffY3o+DZaxH9OhvJSx05qJ850Ad7E8ZEyeHZqBaXNjLMBZ0jnATM7EHX495REzRQcRKgT2lIEA10l/l5GdDBiVGBElj+KZhBIXDtbAIlkqCY6czeKcgKHtoT2HocgHGXXaJMxu4iQtp8=;ilmcQVcon/tUCjeMkHl4HA=="
 ---
 

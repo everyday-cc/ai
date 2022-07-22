@@ -2,6 +2,50 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-06-23-are-babies-the-key-to-the-next-generation-of-artificial-intelligence.md",
+      "title": "Are babies the key to the next generation of artificial intelligence?",
+      "excerpt": "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
+      "publishedDateTime": "2022-06-23T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
       "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
       "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
@@ -1085,49 +1129,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
-      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
-      "excerpt": "Dubai Police in Collaboration with Continental Organises a Dialogue Session on Artificial Intelligence Driving Hub • Tyre manufacturer to collaborate on initiatives to improve drivers' skills ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
-      "originalUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/22/DPN_37bc1image_story.jpg",
-          "width": 580,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

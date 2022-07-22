@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-08-75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday.md",
+      "title": "75 indigenously made AI-based defence products to be unveiled on Monday",
+      "excerpt": "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/bnps89/article65617742.ece/alternates/LANDSCAPE_615/AJAY%20KUMAR.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
+      "publishedDateTime": "2022-07-08T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai.md",
       "title": "Nokia to open robotics lab at Indian Institute of Science for 5G and AI",
       "excerpt": "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI).",
@@ -1301,41 +1344,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-arable-matters-is-the-agbot-robot-tractor-a-game-changer.md",
-      "title": "Arable Matters: Is the AgBot robot tractor a game changer?",
-      "excerpt": "I guess like most visitors to the Highland last week one of the 'must see' items was the driverless robot tractor – the ... probably be their new sprayer technology – which uses artificial intelligence (you’re probably best not to go with the term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
-      "originalUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scottish Farmer",
-        "domain": "thescottishfarmer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

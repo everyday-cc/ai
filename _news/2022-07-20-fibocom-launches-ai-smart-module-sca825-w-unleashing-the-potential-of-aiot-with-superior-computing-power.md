@@ -1,70 +1,40 @@
 ---
 category: news
 title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-publishedDateTime: 2022-07-20T10:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
+excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication"
+publishedDateTime: 2022-07-20T10:41:00Z
+originalUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
+webUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_966.jpg?h=7de12b8a&itok=V6tWttvy"
+    width: 600
+    height: 316
     isCached: true
 
 related:
-  - title: "Unlocking the power of AI with Decision IntelligenceSynopsis"
-    excerpt: "With AI algorithms, organizations can remove a degree of human error from decision-making. Algorithms can bring new patterns, insights, and trends to .."
-    publishedDateTime: 2022-07-21T03:13:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
+  - title: "Fibocom Wireless Inc.: Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
+    excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication modules, announced"
+    publishedDateTime: 2022-07-20T10:58:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56596938-fibocom-wireless-inc-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power-008.htm"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93017767,imgsize-374886,width-1200,height-628,overlay-etcio/unlocking-the-power-of-ai-with-decision-intelligence-synopsis.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Genesis launches AI intelligent quantitative products"
-    excerpt: "Recently, Genesis has launched AI intelligent quantitative products. GENESIS uses AI intelligent quantitative products to apply artificial intelligence technology in various fields, logic mathematics,"
-    publishedDateTime: 2022-07-20T16:47:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-5723460754de3c7ce61d152c61b4a1d3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-    publishedDateTime: 2022-07-21T03:04:00Z
-    webUrl: "https://www.newswit.com/en/Lin4"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 2
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
-secured: "KsZH8T5/uGERkXC3VGZqxUs9y0Ven13jbkUcSl8NjWX5LbxzywVBwpiqmAUbw8+lijwac2ZgFn7pj0HDnn1pWQOo/CHmCGz329rg1zWHdVZ0Y5MRHvcyuG/XGTVXXh4MMUpKkPhI32LFAUO75VWTOOG1XeQxH4R3SJ195wyql9YfcxaFulHyCntHy2kLa3RfUoyccK6zdbd0crksmEeeBhqeL19Lo67oZuQ0Q3dB7P7eFqSV1VPc71+eL7mp1Nuka0qWGfTlXs1O7shS7Yf5/XSWzcYcdOAKuWlbfQntuixywQ4UOuzvVSUqhT/T8Q+mhy6rBEDT7miQpjAaFxKVq1ORxZ0os1YafM8vemtIIlY=;vSCKvmx8IY08zAwd819onA=="
+secured: "WrWzHibpaGorgE0Cm5HQjfpPlAA7rQAw3FOMrbzApyt9YqT66fj9eybsr2Yalr0ENmOCONC0X1+D4h+YCl+NyR12BhIaoSa4duZ9ZqZP5H01W4yVZVh2CwKmWHlHwY7JqfMc5cR0VFs3z0//3bqT05cDGirEeodvfA+ghh07qTblmW+Mw4RcVnL0jiXKBtoLJ0fJCM5S5/2RNroscHH1nbl4jbk2Qc6YkaKsQ3r7N/gYRpFHRTH8GLfOygU+co2tDQ50wSb8Om8+rrSebLFt2Ojf75Ar8+Duxb6OOW1BaXHNTcXMkrg7zQu+x9yinxu+521un/BjK0wWNc1bVa8s1PjXPVkWTnqSy8mlDhTGldI=;3kI4YOuVcVbHcyIPuHRB0A=="
 ---
 

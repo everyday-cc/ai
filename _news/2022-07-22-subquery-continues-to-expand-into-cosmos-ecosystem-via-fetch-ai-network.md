@@ -35,7 +35,12 @@ related:
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 10
+    quality: 30
+    images:
+      - url: "https://financialit.net/sites/default/files/buckzy_1.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "w682X8PrRD4cKmtqJQ95PTkt4mDd7NKU/N3o7wLSVKf1irwS92BgnMSgETXEPOjuw6sDI7XLHkEZtfjhuM+Aad5I2Uh1iuOogk19uHYgO3udrIyBnrru0hLfN5S7dXKFwCprUBd0Qzyr0bYY0n85N2soTs9+tDoEe4qdb+720Mfy3H/z8Ft6ryEkWtU7FzhAQB24mrapVVabY7yR1+cLhXsjyjouFr2Fet8XW9O8QMnHhpa/zxYvKKOPnmVI5/e6XsGviAd6A/Le9kbzT2k1sVb0Db0JcpdD2QbehuKUatxamxAMJ/uDjoiSgkZ0O7uXMk3eC7tmqIsPS3O2wBjmgqmRPoFi/r+kR5v0C0yCvrQ=;E2PqvUaH+8Q0hMFYKbd5Kg=="
 ---

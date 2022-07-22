@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -301,6 +301,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-artificial-intelligence-in-pakistan.md",
+      "title": "Artificial intelligence in Pakistan",
+      "excerpt": "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
+      "originalUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  ",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
+      "publishedDateTime": "2022-07-17T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022.md",
       "title": "Baidu to Reveal Latest Updates for Autonomous Driving, AI Cloud, Large AI Model at Baidu World 2022",
       "excerpt": "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21. Centered on the theme of “Deepening AI innovation for social growth”,",
@@ -475,20 +519,20 @@
     },
     {
       "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people.",
+      "title": "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company",
+      "excerpt": "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "webUrl": "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
+      "originalUrl": "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://localnews8.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -496,23 +540,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "publishedDateTime": "2022-07-14T08:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T09:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1338,49 +1373,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030.md",
-      "title": "Artificial Intelligence in the Transportation Market 2022 In-depth Research with Emerging Growth Trends till 2030",
-      "excerpt": "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030-2022-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030-2022-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

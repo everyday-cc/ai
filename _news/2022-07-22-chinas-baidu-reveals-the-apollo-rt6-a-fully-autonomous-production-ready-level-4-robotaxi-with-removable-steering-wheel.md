@@ -1,27 +1,27 @@
 ---
 category: news
-title: "New Baidu self-driving taxi is 50% cheaper"
-excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
+title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
+excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
 publishedDateTime: 2022-07-21T21:00:00Z
-originalUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
-webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+originalUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
+webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
 type: article
-quality: 39
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Bangkok Post
-  domain: bangkokpost.com
+  name: futurecar
+  domain: futurecar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
-    width: 700
-    height: 467
+  - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -172,6 +172,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
+  - title: "New Baidu self-driving taxi is 50% cheaper"
+    excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
     excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
     publishedDateTime: 2022-07-21T12:50:00Z
@@ -181,21 +195,7 @@ related:
       name: WHAS11 News
       domain: whas11.com
     quality: 19
-  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
-    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
-    publishedDateTime: 2022-07-21T21:00:00Z
-    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 14
-    images:
-      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
-        width: 800
-        height: 534
-        isCached: true
 
-secured: "HcYQinRZ/ZoBbwQlsocwiTGPt0hvXP6DHkimYpW76k88xA+9EMmfC4g92tEOeVE4v/FegLdLDYLvBag/B2aT/Tf+ql8h32LNUfumDqCr4+vJ+bkrk3ysPSDnbcVj+kSRgC2+ZIQ9V4tsRWGudwoNwShBrFqbl4c2OP9uILWI0k+Lps5bBRXQeDbA2QzfsMOhMirUO7qdJbPjsWN+4X3h979KlBo9HAPiSBVuuC/B77VAImzsaddDLYut56FPt3oEMY9qbip2CZDQ4KLZ+v08qMuFti+rfLn654Vk/RvE+BbMnroxXp8WE9fTxVR3I3F9yCTRAkswmfjFOKUhyvobD9cmY3prU3Q8BJpIEfH0I0eBffSJTQjp+7ve5Gy2Za5CD88ebDcPu6aU4bukgSACajhjMgsTF3+k6ALtATbyHbklyHwcCYmlJbbhShMBoUxi4lazm7fZ52va01ywDp6GDcMOpi+O9mCzP9Ce2apEmGr8Gx5d4Fd/T6fok+0HePyN2vQx4ul/LZpH4Pcw1JxajQ==;BO7YLfPqdHbBPZjvXBMA6Q=="
+secured: "WWrmKN47ng+ZJnpCggYmTdyBO7wor2LEYK9R83DT18Qgp1bEua7nUocl+tzHNLscY+zu9qUKheDp7L/6VmKuSTx7ynzdmYCQEmkwPqvs+Xi4pEij+QARhTOrhVXIcYwjeQF2naZveOf4vqosc2DrAJNZrBSQwNzASt8ZKGeUjrddU0Yy7tDafKMoGnNhToQN6vC0SO+PQbzUgdtzUFaoDJDGCYni0Q7cC8shptxMd0gj5/7bb2vI7025gkyCpjJJv3By/ZX8JANkOat0zrlQJ9DGED4p7s9meyQhnB3REqoVvCHO2nC1H7bJKmWDPIH7deC5HftTLh2OtdrXkjVW4QrY4NApBfYvyPq3+inIUHw=;glvk7yUeCcQ41Qybr56F0A=="
 ---
 
