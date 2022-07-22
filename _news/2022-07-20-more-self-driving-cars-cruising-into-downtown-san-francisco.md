@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/san-francisco/news/office/charging-station-
 webUrl: "https://www.bisnow.com/san-francisco/news/office/charging-station-garage-for-self-driving-cars-cruising-into-san-francisco-113853"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 817
     isCached: true
-
-related:
-  - title: "Cruise passenger was taken to hospital following self-driving crash"
-    excerpt: "The San Francisco Police Department disclosed new details Monday that shed light on the crash of a Cruise self-driving vehicle last month in San Francisco."
-    publishedDateTime: 2022-07-19T01:53:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-passenger-was-taken-hospital-following-self-driving-crash"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzzcruise.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BHq63TAbSh63lYjQ5J9mZry4b/baP14o1EBslSCJX3gsetQhBQhz+ZDF/Nu2yuVi/l2nqNP/NaUmgCcdxk2rDks8z+uGFqYaBnQl+LCLZbWYShkyinzbjJ4c6U57W9eUC+YC17zpEUH+W+dVTJAAEHi7MSEVKsuCKuT5H0VVPcipFH72zMwyfbMnnBGlaR1kanIG/RIcIwHpioD6Pja+KS4wb7tnWLmBV111KIQlW0IK5QORgntJkd+9ez98kNBHjPxGNlp7HMh/QeGBDkXZwl3vsQPvl9Ne3ERiLB9xcDAjJGCwP8yocepDNfUZgSqgOe7Bs1tIox6QYjJ5dY2YpGqYUGYmfUzY0095IuJrF10CVHctJNsegWG10yk8LlSFv6WLM+SuVaNJBzZ2qqE6hxYPZXGOn+1L5fD6DmAMi1YcOfuYh116ui0W3HVd22CBS1wx8f2fdlRyUh3L83KYxGWV48qTI21Bv8alxQYzx0RxDHIyRe+QIgPN58ljTogpqFQ1EZGTeZwZmT2eixA+ZA==;3rn055+HFieFFVF7rvBZ4A=="
 ---

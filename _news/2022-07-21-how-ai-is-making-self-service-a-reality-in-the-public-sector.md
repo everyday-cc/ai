@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The imperative need for machine learning in the public sector"
-    excerpt: "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes."
-    publishedDateTime: 2022-07-17T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/"
-    ampWebUrl: "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Advancing AI/ML in the public sector"
     excerpt: "Government and industry leaders share practical applications of artificial intelligence and machine learning and strategies to move forward."
     publishedDateTime: 2022-07-18T20:54:00Z

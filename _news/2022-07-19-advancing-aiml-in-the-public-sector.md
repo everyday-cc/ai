@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/special/advancing-ai-ml-in-the-public-sec
 webUrl: "https://www.fedscoop.com/special/advancing-ai-ml-in-the-public-sector/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The imperative need for machine learning in the public sector"
-    excerpt: "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes."
-    publishedDateTime: 2022-07-17T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/"
-    ampWebUrl: "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI is Making Self-Service a Reality in the Public Sector"
     excerpt: "AI in Government is excited to host Rushali Patil, Engagement Manager at Quantiphi and her presentation ‘How AI is Making Self-Service a Reality in the Public Sector’ on Tuesday, August… Read More"
     publishedDateTime: 2022-07-20T22:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
 type: article
 quality: 119
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-07/pexels-cottonbro-4114908.jpg?itok=Gqux6zsA"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
+    excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
+    publishedDateTime: 2022-07-22T09:52:00Z
+    webUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 50
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
+        width: 600
+        height: 365
         isCached: true
   - title: "Using AI To Speed Up Edge Computing"
     excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."

@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Making AI Accessible To One And All"
-excerpt: "The democratization of any effective technology happens automatically by virtue of its success, even if the complexity it presents initially overwhelms"
-publishedDateTime: 2022-07-21T12:20:00Z
-originalUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
-webUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
-ampWebUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
-cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
+title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
+excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
+publishedDateTime: 2022-07-22T09:52:00Z
+originalUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
+webUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
 type: article
-quality: 61
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: The Next Platform
-  domain: nextplatform.com
+  name: Bestgamingpro
+  domain: bestgamingpro.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/lenovo-hpc-ai-logo.jpg"
-    width: 952
-    height: 525
+  - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
+    width: 600
+    height: 365
     isCached: true
 
 related:
@@ -44,6 +41,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Making AI Accessible To One And All"
+    excerpt: "The democratization of any effective technology happens automatically by virtue of its success, even if the complexity it presents initially overwhelms"
+    publishedDateTime: 2022-07-21T12:20:00Z
+    webUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
+    ampWebUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/lenovo-hpc-ai-logo.jpg"
+        width: 952
+        height: 525
+        isCached: true
   - title: "Selfhood, Artificial Intelligence, and Robotic People"
     excerpt: "To understand whether AI is achieving selfhood, it's useful to have a biophysical understanding of what selves really are. AI computers are durable, not fragile, and therefore don't struggle for their own existence."
     publishedDateTime: 2022-07-20T20:16:00Z
@@ -60,20 +73,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
-    excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
-    publishedDateTime: 2022-07-22T09:52:00Z
-    webUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 50
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
-        width: 600
-        height: 365
-        isCached: true
   - title: "Using AI To Speed Up Edge Computing"
     excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."
     publishedDateTime: 2022-07-19T07:04:00Z
@@ -89,6 +88,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "j/J3uNBwwRKxKz7RW//uw5csErySZtNtPufEBAlFqW4Ofr29xbD9DTvZ5BGghca45h0DWkdCmTPoVMnXBCgQWV6yREwdfylTlP5snFArJ9pA0EzEsox5YtT/0z3BfnYoZVJzzgNYufOtSRLshIaB+lv3DCwtJKzmCZefArNSKhWnwgzeyRNF3bGIMpzJKXZyTECL8/aCsmnv+oaDdPxLrsnQPMzCPDm9pfZihgAod/5Myh13Xh2GCGqyKOR1iojwu8SGia5Qff7UTwBh2r8LKa1OEfXHV1yR+Yl/l1JT2jA1nRdGcDk8lKDHeqJxqeo3zvdKCFukMkft0dz+v7X3u4dv+LX0U6gBCxbRie7nzCL6s3/tUVejE1lC4LlfVCmXuE6HhzX410YSAtxG+vgVVi/jjF5NuyfFbeysFbN0mXVZNwXlOB7TzKewJIkAvKne50vnHBqS+sCURJukMeIt7HVsw1sLF/e9jxR12UgteTl3Mds9GvXjZBfwxO7lvJ03Hu0abYTvEqTSgDZesvgeAA==;jrukjd6r6ry3PdumfcUvwQ=="
+secured: "2TzRH5m1GldFCk2Czfabw02wutAwoX4e6abOhupQhumnUjkvX59OQauuz4FvF91oqPFxOZpTKRyPoyHNCcqeWulG2GDm4cqaunVN4ecyABVlbatnJDkxYxfaJF+ewfkk/+JokzPs0uJUHBffM+PWZWtVxGhBVCzqsRknKLHLMkPa2OdFiptsz5dCMW5YRX71wAmcAsoX2nlDX/6nLZ+Ys75KBGjoHlJatEXhvoIKVo2BhoIAMdbiyOGZJdK8zLQAyBfkG7tW3PhjDsnUNbTvzLzFcoDE5bf4XTtFzs+rHWQIZqdfVGzwz0GHcgy1r0dYFdzguu+N6DEWCXKovD9vSTfShFGbOKil/CCTYPUuL2U=;ncSJTQdqsMm246UqMQaYeA=="
 ---
 

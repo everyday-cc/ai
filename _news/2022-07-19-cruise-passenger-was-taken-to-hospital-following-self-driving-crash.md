@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/cruise-passenger-was-take
 webUrl: "https://www.autonews.com/mobility-report/cruise-passenger-was-taken-hospital-following-self-driving-crash"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "More Self-Driving Cars Cruising Into Downtown San Francisco"
-    excerpt: "There may be fewer human-piloted cars in downtown San Francisco these days, but one company is about to boost the number of self-driven cars found on the streets. Cruise LLC, an autonomous vehicle company based in San Francisco,"
-    publishedDateTime: 2022-07-19T20:00:00Z
-    webUrl: "https://www.bisnow.com/san-francisco/news/office/charging-station-garage-for-self-driving-cars-cruising-into-san-francisco-113853"
+  - title: "Passenger Admitted to Hospital After Self Driving Taxi Crashes in USA"
+    excerpt: "An accident involving Cruise — a driverless taxi operating in San Francisco — broke the internet, causing concerns about the viability of self-driving"
+    publishedDateTime: 2022-07-22T09:43:00Z
+    webUrl: "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/"
+    ampWebUrl: "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/"
     type: article
     provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 24
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
     images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2022%2F07%2F62d7024ec8e43-dcbel-nheiktjkj3k-unsplash.jpeg&width=1200&sign=E0T5y_21tlgMkv99qHWSS4Xn2nd8ulZnrKKegBLuaIo"
-        width: 1200
-        height: 817
+      - url: "https://propakistani.pk/wp-content/uploads/2022/07/Cruise-Taxi-e1658481085332.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "/dBk4TPB0xyeuNGkYSqvvOkyvu7qJWWgkxbdhAiiXXto76dcWxSsNNm7D1iZkOsScFIUd4ASxfJCc8LgxOKucgRGQQvdWdGhSGVdtDhH167ltSj3R0yC+dJZhYKaf+l1GjNKCv3Z6vNXdjhbyYsFhEBSZc3To8usDzj1QH/Rn83jE8AbZEr96UGGGO7JjHPjeZH8LcQva4pQm/YMV1mR2RKUbiz/mTKIY4+CxoFg9+Mte9OSiZO7js3r1AXtKQPIipLNUv3pGXshnqv/IpWRnudX0eA++xV6YRICUjP1IASi46SsBdpjw6IjMqQuBgKu1EwGMCsAuMQ+R5AHBYRhlcu/TXd2eYC01TMKD/n5P8VnS314meDqauOXxwZlyjpkCPb0qjdSd1FVKo1O0FxOJcHBixZK0IpOBpgoa7AbmT5/MHT6jxwJzhBg04YCw1jCYIGKSXPN2Qsy8zsniu6b97Uw7Wj8xYudjp+igCiFfYoAQJXex24uxAA9P0QnvwrFoh6o4+ub86Upp4e+Ix3oKA==;4IOAgxNLlIWz1btK2IseiA=="

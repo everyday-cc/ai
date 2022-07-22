@@ -5,6 +5,8 @@ excerpt: "On March 1, 2022, the National Institute of Information and Communicat
 publishedDateTime: 2022-07-14T20:20:00Z
 originalUrl: "https://www.benzinga.com/22/07/28073068/is-the-financial-industry-ready-for-machine-translation"
 webUrl: "https://www.benzinga.com/22/07/28073068/is-the-financial-industry-ready-for-machine-translation"
+ampWebUrl: "https://www.benzinga.com/amp/content/28073068"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28073068"
 type: article
 quality: 39
 heat: 39
@@ -35,6 +37,6 @@ related:
       domain: bbntimes.com
     quality: 0
 
-secured: "XMYNXfJ/lZra5HzDqI0k9G0ynzEZp6dOdFvr9ZugE29a3vQzUET2DVPQJQo9zGCGRcOq49Ot90vJYBhIGr9JXTyby5XpfP4hNXVH3M6pKYO+GGJj+C0yi/8Jg/TJSjnTHnxqpgP5u6gZEQuAN8E9ylm7KxZLWKXbUdFj1v3w/Z8DKRDBgehK7e9F/ByY6pjWhsxYGlUrRe/XbymKRKLqUBB8Pe0Cqhjl9lkOkadXfXTf4cSmQmPC/HZucJi35AQQ90/OfrrrLs9wOshpRMJQjR2PhQaebeDJQ5iHgqT66iA2QP01i6uPa2HHRho8n/Iro6MOJOwLkub6j+6GwoJmQ3hlXhQEMRFwNHgSiNtz3s0=;DzQQ0hDJDpZukSEbPJ5g6A=="
+secured: "rwW+WtpvxxIhQouCaiAbXgwXNK0LQwXfre48n8uFEwzR5WindK7fX7gkwZxVQgO3jgNl/Rk+p8+KJ+2JY6s2Lf/FVpiJc/Ks0KlHGnIoNXuB7EY3rOlxEYQEIwl/W+unae8fFPzcaJj4hnb+Z3UIluOsu5/1abLAg910P3Sgay4WwizSBTY5K5tM6clhqvtugvuP709vmg36tXCCD/UA/Q12oNXqMIpjcCB744u+vRQwF8QuPpfFSEFeitptlDXHXVZ1UPN7WK8Mu108x1T+mOrGYWAu+TSQaYV1RCQKYrtQ7vqMegb3LUGJVWaFu+v24fIGqSJrllHkjJBo2j9ISBspzTFPVORD4th0Gga6zn49F6ZY9XHNkXYmTnVtf/pZCBsEJifEJhRYq4o1RGh1l/Tn4G57UxdMDaOCXp+GvVAz4tzhq2hMDzzTkEXRH6chke22lYc+3GOANNai+TqfAM6h4nn8MLVhRT2Ju8bzl0BNlpPwDNkz0LjdzMCy5IW3fBhEJM66LwzC4vUXQRh3Iw==;ZChvksZdSjyjCrCa1XVekg=="
 ---
 
