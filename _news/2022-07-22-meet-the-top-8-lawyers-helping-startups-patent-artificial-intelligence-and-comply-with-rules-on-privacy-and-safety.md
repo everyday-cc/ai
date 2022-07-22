@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/62d6bd42f7ae650018341273?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "5oGTNu3KElhdJ0WNRxOO0xoyKLUaZXkYEU2V/3TY7RGqDEeTByrUX0VnUIU/klE8HGtlOhf5Un4oQ8TwtSkqG08FktOG/ZbmC35bQsR0/hqXNzAGSmPF34JFUJv2pncJyM7gHCLxyfjX8lBI8/iJLaJBWwXVpmMqxQaCoWzNU0D/VK6UyKw0Al9Ljm3KFNBxpf6121k5ty7KdhEPnrKBDlCI7WhKpkiygb5RXc/nSX4sRF3Yp5lwakeKvK1m4qlZgYze/jU896xPO7wetgUnzLE3X3FCGiKvG1kFb3sROmRIum2ZmZ+4geQE5afo31J1AGE/PzMKRrUSNt4uX1r2JXddzipKjjcX/iFYO8msEZs=;YEm0bZ57lX1OPFf7QdfxdQ=="
+secured: "Px30dWe8IBQxVKHLWYeBTss6FU26eM2gVX1zI3DsIaYI7kz76mzf62gS/KdGzBcnOtaHAYXKyVAL+zbMACdhqWXTr7/8nlIvDSMtNubtCw5qcIfn4hwWZUoYDYnkMmtMXw78TvDpVcbUJ9/9jZKm3UYA5niLYAHGdAYd2CKehwR7iyQ2wRcqfyitCQbnyxsF/lWNiNzoaosV8+kOA01GvkgLbgnkw4Mhb7Y4rmnscyfp2hbBICKFzS89YI5EaUuyp8ouUPTCe/xe8PR78cdqfHbIPFFNd3nlCtTMcLbhMtNHGQeK8Vyi7WWeiKwAH35hjYxA3Ri52avFFuRQxUnd1snfZWYwRRdKtAy2o43Q36CBDUHOzhC23v5Kof2iHOBROZZro3wuJ2SPZ05G4uTGfp2UPkokNGqi/leDljoUWUY9ITeiXktB/6F6EAwjbY7vntqhqBvJoxT5Xaqi1BZztNDBNTltEE9b3AS8Ng00ohr3SsrdxXBYLUGbe/AnDrU3ltxQAEtfaMbMsfGHWtxI8A==;m/k+mQgwZ2MFpgpoimR5ew=="
 ---
 

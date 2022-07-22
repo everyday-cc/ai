@@ -2,30 +2,19 @@
 category: news
 title: "Tomorrow's 'Top Gun' might have drone wingman, use AI"
 excerpt: "Movie fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
-publishedDateTime: 2022-07-22T11:56:00Z
-originalUrl: "https://www.local10.com/business/2022/07/22/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
-webUrl: "https://www.local10.com/business/2022/07/22/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
-ampWebUrl: "https://www.local10.com/business/2022/07/22/tomorrows-top-gun-might-have-drone-wingman-use-ai/?outputType=amp"
-cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/07/22/tomorrows-top-gun-might-have-drone-wingman-use-ai/?outputType=amp"
+publishedDateTime: 2022-07-22T12:56:00Z
+originalUrl: "https://www.ksat.com/business/2022/07/22/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
+webUrl: "https://www.ksat.com/business/2022/07/22/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SCY2KJGL3RBGBLPQZSFSPII74M.jpg?_a=ATAK9d60"
-    width: 700
-    height: 467
-    isCached: true
-
-secured: "5w+wWQ+PirjIiJCBxLuvSZmgCDkVUNk/Am3OnV9/7T/SxCYSNtn1/Bb/eRlYFC9wliC6hO7YT1WcY/Ck0kLoytm/waSk2nyoLRxQnye0YZXcdDxEF/RGIvDpUe6cNuqplmje2PARWuUBUHGxWoa7URpZlN2moIoMEzRLxQvDm0axv+qbvmSo57dMIg+gCegm6RYjbt0NX6fdn5lebReXtZtI8x5TrjdxjVVei+GNaPedTlLAaEWsKvpKpSpa8eMuDTf2+41UfjLI5z96xpbjbtwxYdK+pcKDjEUo8JuIqQR/lYaXY3hL6MH7RhIuQWO38HdSav1nXTlGpoFkdhcm97SkuexaTksNY/DEixVfZNk=;38XDvV2jZi+mBfVQBxv9qw=="
+secured: "aM5G/4NGdfxvcdieZXp74ifvDv8RV/zizQ6NTMl0jM6cZTW2EO/T4Pp4hOk03+uX1VH7fz7M5DpKBPpAxtaKoazaFmHOchQVpxt2ppoJ3bkf7DmSVu6dqVYf+Gkp9FLXW71gy72tbEB4QckfPLY0onJnEvEjdf3plJ17/NuOM+a1OhXU05DsVldsX2yx/vozetbLJMeZYyENESeDE0e0PV8sG/KReunxz4NM4+c1eFgHsh0pAINZT/U4i3ovgToYXJT9Z8/wLt0aI4M2A9UsU72qcH23s/s0N7MOvG2C8sLKCGhWkUDmSXqYZr3iKbdkJunrUFfI59J2ydxEapRQ/9ubrOIUfMexHBlo/Fiq4UO/vAzxBG/VIyMNvcHYOznR+htayUcMyOwUo3CU7q3P0J7c3lHN3KIPnfCBwwPS07EqpMAJxBE5QAjTVYtJFDwKKmkROxiziVjdtl83hOX3BaqumnoFb6YVDxq+zylmHuArjthHl1KPkzqpMcMX1lPMbm1eRhGzmhzIUnU6//k6vw==;siiuhgRSWj+1KbhEGuj6pQ=="
 ---
 

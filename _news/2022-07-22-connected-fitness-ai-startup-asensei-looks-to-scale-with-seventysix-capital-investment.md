@@ -3,12 +3,9 @@ category: news
 title: "Connected fitness AI startup Asensei looks to scale with SeventySix Capital investment"
 excerpt: "Asensei's movement tracking software provides real time feedback and personalisation for connected fitness platforms."
 publishedDateTime: 2022-07-22T10:42:00Z
-originalUrl: "https://www.sportspromedia.com/news/asensei-connected-fitness-seventysix-capital/"
-webUrl: "https://www.sportspromedia.com/news/asensei-connected-fitness-seventysix-capital/"
+originalUrl: "https://www.sportspromedia.com/news/asensei-connected-fitness-seventysix-capital/?blocktaxonomy=news"
+webUrl: "https://www.sportspromedia.com/news/asensei-connected-fitness-seventysix-capital/?blocktaxonomy=news"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
   name: SportsPro
@@ -17,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "TClgumtAPqT41iLaub/cittgZUp4KI49yvgInsA0+M8/uxQ8n34mQvAX1NfyFDSYfqUBvrInZr/YOVXkr5WRlysWBacsmItTpQj4qXnpZlqIkCGQRlZYOP1OSwVngReuiaM9XqoEH9XrAtR8fvZLDCuQfSBg3zFLMra2eTDoOE8Qkl5YBSZx0Oda+WgVZNZXpd3IDaKtrtSGgvBbHupXieTOmr1KqTKAn8HOhXk4p/PiKNrmlZhTZEmdeKdiBuudAQ5XP7vNSYDjjWohEepri0dRalTvmyylLAVA/2S1LTj1aGGk0LdcPTpK9wvU+6pfyePhuPj9kBUJEYYRRvo3kiAbK6wsN+an3t46qGnHqQ1nk64MF4HrSsUa3HAguP3hksRZV+5BydpW940j/QVxZlxTd731BIm5PSS2CcBjpSoqb+fZg/RzEWhYJevSdqyFtff9JxB37tGTbqoklpSwiyBO/XtOjT5aj9P3RRXRIVqlY8C/VHuQoku0fY0P5FTptpgI2TfXfJKWoYRlqK2OFw==;Xoy1e0rtMpi9NFWSY0/tGw=="
+secured: "Cpkzt6budgPspFf2IYgcSkToO61G43313EVm1Ex0WJs7fptl3AR55zzMoL8DLpiv7eroelYXBvZDdMyOCCjYTxJZ/a5XkVVg8HhUCVqFPAz721/cnX9UX79658Mu1CT+M4cERmpmNKgrpgGNeIk/OvuJN0ZzeV9nNKqozTlYNHnIP5GEJfSDKx2ygdQ81kda0BPfN6Etk/KjER4udOridMatr2diemMwjGc1OSIbd1fdiRobyQkQFm1KjvM41+BCOqzPsmR9Kz2F0T5zoIZ2WnPxboionxl50nRC6aNoGGfK1oWp+gJZYIF0hLs59Ajpgtv5gAPO0uuIVxC5vkvcp77z4dRjyig1yrYd6Q9DLyiFnyuv98wHqdgT/nkMJoPltBETeboMAolrHaZdMcbJqQ9Zbf2A2ZCyID774OcmX5YizQAtqbhAb+jlku7yZfFTi/RVtlYyc2kHFmcjlV6H/NdKL9JtRLlkvQR5ddh2wk4HfW4+R8C2kxtbN6+mr4nbcxSdSdnKdoSXwpUqEHr00w==;Dpq4NfdVPAl5Xudx5i95mA=="
 ---
 

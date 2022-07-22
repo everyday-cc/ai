@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70"
@@ -42,6 +43,6 @@ related:
         height: 482
         isCached: true
 
-secured: "5vvks6WQC7RW6l2WVB0ToKJSsAgbVKRY3fceCfk0I2/Ci7UPRIDKw8J7jYfrt0ZIZVDhixTnI8qF2/3JS5kjkJRnyb1oIZiWvkqwXozNL/il6j/pCj1373FrxAawUatVgiIb9wsMmPhBTG4zoHETVV9jEkp1eW9nrd+ZzPTY6+m6Iy1Sm89se8EKNGgJyA3aiqHKFg2tK2zfJxwzzTI3ifQ0LuAqFMBarr8CzTH+clNEovPPlcbCZQFJ8SDf3vL1uD889wBZqZMlPaHez21/Gnv/j6O0rpstBT46yfecskd/mD+AHztJd1UzFPKy7H6k8GGI2Hmkz3Kt7FtdRASLg5Pt1g1AvTmQfKA/LSWYGKg=;wca3OGG0S5SCfQYrJnTRrA=="
+secured: "4UR9rJ9VEdpmy8X6Q7sVr0Axoq56IfdzmRUwzHZQcH+6c5kkeS+2+W3ytXYDRcwWKEOpqiv6VIkRQb33qAcNpbd5VbpCN0bJp/F/4lHrWRCBc499wZj7M1yDiw+HrOiVq565Fdx5P80v1yZ5mL39eecukNzLZ4s2DqVClhug35eXaKiBJdVtJ14aXWUFpkBgmlCgTS90qL5AapkLWUyEoI1yEdbIyJfcyTt2iamnZ1FOAiktP//7+v+Q/IHakoTIZfz7lLKl8DfwfdLm9gIBvu7kR/i3nNZZF94YulJMYEKfGESU7oN5gQDQh7ZX7LDj0Wu7UC7pkMHT+7x7UmU0xh0kYbEbDb9Q3Tm7qlXnQdXgtNCVHxofZzHcO/Eew2tjJQdSCteMqPMYB1IGB+E1PUQrku43AnsyDMWTUEjhPcsNoNnNIZCBfoHpngUkGQuF23LESIZQVdKD00kH9RL8QFQ1pBjA5hiXuKzqmdIBIyZMhQxLYqIxRwDmdMm63Sqx4n4i412rrLo+dG/YO+2K7w==;gA5Q6LfMDuHZWhyTLODyVw=="
 ---
 
