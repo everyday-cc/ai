@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
-excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
-publishedDateTime: 2022-07-21T02:55:00Z
-originalUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
-webUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
-ampWebUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
+title: "New Baidu self-driving taxi is 50% cheaper"
+excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
+publishedDateTime: 2022-07-21T21:00:00Z
+originalUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024"
-    width: 1024
-    height: 682
+  - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
+    excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
+    publishedDateTime: 2022-07-21T02:55:00Z
+    webUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
+    ampWebUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Baidu Races Ahead of Tesla With Launch of Robotaxi With Detachable Steering Wheel"
     excerpt: "Baidu unveiled a new autonomous car with a detachable steering wheel that it wants to use for its robotaxi service in 2023—up to a year before Tesla plans to start mass producing a similar vehicle."
@@ -148,20 +158,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "New Baidu self-driving taxi is 50% cheaper"
-    excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
-    publishedDateTime: 2022-07-21T21:00:00Z
-    webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
     excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
     publishedDateTime: 2022-07-21T12:50:00Z
@@ -172,6 +168,6 @@ related:
       domain: whas11.com
     quality: 19
 
-secured: "xv0IhMbpMW8TtZniYEiYygn3WdKhTqNjY1ara0fA5DfQVXb4GIjdRR0c598tG0eaHAkzQlQ0yTMa8tFabup7x8ArNoHvwbw8dsZa01ZstknvXe+WCEBE13TYsE21pxjRFxD0rgovQtiu9Y/i0SKPwG3pSuyqvnGNnI6Vj54Wxi/dkaeQjRlpcEsCfS/J6sKRTL40p1yA7QivhVFP7n5/j9NHKUX0BLwMqm5IW5Wo8TWi1GNr2/72LFXKQC2ZnpGv8JA64PrH/WmVL6xmo3ZN0L5g5ZUAsrs7Ik74jA5sgxAHRijcUHa+q/4z37AwJ5PFaCMDOhYXVS7WQifE5C12R+8RWUJiY+zGtVdDLSLAZPIHlWyDZVUGcvj41kcSuRRowilpDnPmBAVucfsziEckEg+AJahZSXSSOuGCLXmhwL1lItQYhdQJnMps8X9rsJNzDW0UZ9P/PmzOlPLq6k2aLSM5MFlzIGix+YuXIAxcRDbIv1lBQNErQtFQNfEXOnT8PuV7aR+nCbyb8ocWl4ngCw==;86oNjYweAT8RKeY6KUtZVQ=="
+secured: "5YLKPWaFTFvFFHLatgnJhjo2MyuS+GZWIa2Kkw1xiiQmcIjgXzXYt/gZztEd77JW2ENu/i8WDIGkHsfXuSHYsfTqlRg5hB1sZLRniu4hTSdh6r63Q260LWw2jF3bYUJRK2Mj/dX00SAO59AKtfasW6Al/y022XbhoxFYJH9LiK2PfcMXML1NcnlnFVZ3KLx3H6JR/cooOTeHl2oBETmPPFH8OQB5j9dUqCWuv3Aw8tSi/E84l+NGFeHKLXMkFu6GQnAw8n7hl4xLp+1TF98SEcGkHlWs4K7Sa2c8BbzbMesR8T0ODjLRtcQnl4xTKGyPCsJQ1RVNf9voysfsI83DFQP2oSYqcWXTh4+vTkCn+5E=;PZ+YiYrDG2Y68A3FsJCX9g=="
 ---
 

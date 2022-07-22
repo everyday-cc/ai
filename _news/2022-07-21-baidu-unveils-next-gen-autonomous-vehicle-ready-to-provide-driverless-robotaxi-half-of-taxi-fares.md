@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu unveils self-driving robotaxi with removable steering wheel"
+    excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
+    publishedDateTime: 2022-07-22T05:22:00Z
+    webUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
+    ampWebUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Electric Taxi: Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on July 19 it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
     publishedDateTime: 2022-07-21T08:53:00Z
@@ -128,6 +144,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
+  - title: "New Baidu self-driving taxi is 50% cheaper"
+    excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
     excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
     publishedDateTime: 2022-07-21T12:50:00Z

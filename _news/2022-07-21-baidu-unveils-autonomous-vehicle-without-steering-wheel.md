@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-withou
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
 type: article
 quality: 59
-heat: 159
+heat: 160
 published: true
 
 provider:

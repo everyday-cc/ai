@@ -81,6 +81,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Baidu unveils self-driving robotaxi with removable steering wheel"
+    excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
+    publishedDateTime: 2022-07-22T05:22:00Z
+    webUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
+    ampWebUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Electric Taxi: Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on July 19 it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
     publishedDateTime: 2022-07-21T08:53:00Z
@@ -136,6 +152,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
+  - title: "New Baidu self-driving taxi is 50% cheaper"
+    excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2351336/new-baidu-self-driving-taxi-is-50-cheaper"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "oOp0owC8KHyov5jYC31rYdmE8g+zeCyocluCFO/ANGEuWDO/tRw4/My+UUt9aRJdLOl81F8NEHNwr+lC5bFBZOE4rZzYLBcxqAWyFkq5xP41H2gq1t6ipzllm0Fa3y5/OuPeP8ZqBcNZEZk+Xp2A5Cu2VwXqZpi4YmfJtaldD5aFuaPqYud63plkftcDI3OKFO2dh0HV3wCXTvhJhH9eOX2dr0k87Lrm9MQAM6EvmhF4+kw/ZFyDSRA6bkYd21RlZol83XNI0awvUrPhac6NrO3jtUyhNvNpqaMwtStMvaeubLqtExni+ysSiKDAUZlN4qrwDdemC/UUcyeBGJYaMsSGovcuVyIodfdvLOZ/bKx/2P9QEm4Yiily7NGuhPyc8IVmAJUPTJuiuf/pLl1qVqbyElIyBCFC94PDj7jARDZ48gLdzb+uq5kQeignniSlkTc4a3TxvtLMEbhNueLbgF3aOe2pxCBtD799j2aRH3gmM5DpEIBmMijBYe/ZkuLzlDZ4YYbnvK+uBb92/0+sSQ==;U/h0/+mZicyRTzwKNyJ1ag=="
 ---

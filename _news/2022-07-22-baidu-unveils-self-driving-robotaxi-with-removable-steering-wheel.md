@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
-excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
-publishedDateTime: 2022-07-21T02:55:00Z
-originalUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
-webUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
-ampWebUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
+title: "Baidu unveils self-driving robotaxi with removable steering wheel"
+excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
+publishedDateTime: 2022-07-22T05:22:00Z
+originalUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
+webUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
+ampWebUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
 type: article
-quality: 87
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024"
-    width: 1024
-    height: 682
+  - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
+    excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
+    publishedDateTime: 2022-07-21T02:55:00Z
+    webUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
+    ampWebUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Baidu Races Ahead of Tesla With Launch of Robotaxi With Detachable Steering Wheel"
     excerpt: "Baidu unveiled a new autonomous car with a detachable steering wheel that it wants to use for its robotaxi service in 2023—up to a year before Tesla plans to start mass producing a similar vehicle."
@@ -76,22 +88,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1863205/RT61337.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Baidu unveils self-driving robotaxi with removable steering wheel"
-    excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
-    publishedDateTime: 2022-07-22T05:22:00Z
-    webUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
-    ampWebUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Electric Taxi: Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on July 19 it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
@@ -172,6 +168,6 @@ related:
       domain: whas11.com
     quality: 19
 
-secured: "xv0IhMbpMW8TtZniYEiYygn3WdKhTqNjY1ara0fA5DfQVXb4GIjdRR0c598tG0eaHAkzQlQ0yTMa8tFabup7x8ArNoHvwbw8dsZa01ZstknvXe+WCEBE13TYsE21pxjRFxD0rgovQtiu9Y/i0SKPwG3pSuyqvnGNnI6Vj54Wxi/dkaeQjRlpcEsCfS/J6sKRTL40p1yA7QivhVFP7n5/j9NHKUX0BLwMqm5IW5Wo8TWi1GNr2/72LFXKQC2ZnpGv8JA64PrH/WmVL6xmo3ZN0L5g5ZUAsrs7Ik74jA5sgxAHRijcUHa+q/4z37AwJ5PFaCMDOhYXVS7WQifE5C12R+8RWUJiY+zGtVdDLSLAZPIHlWyDZVUGcvj41kcSuRRowilpDnPmBAVucfsziEckEg+AJahZSXSSOuGCLXmhwL1lItQYhdQJnMps8X9rsJNzDW0UZ9P/PmzOlPLq6k2aLSM5MFlzIGix+YuXIAxcRDbIv1lBQNErQtFQNfEXOnT8PuV7aR+nCbyb8ocWl4ngCw==;86oNjYweAT8RKeY6KUtZVQ=="
+secured: "Uxi2406G0MK2qJ1VX0KWe9bYghMtzoeBJK7/VrevoayhH3Uvhc+jsihzmqENkXinlNY/77fpDPmR86xk28HQyPnbBwIjYvxVmnow7wOTyMhgspNE32ELwLGq2D4PL9bfzzAMoAQMZNTkUlPhM9aDL56QzgZX+cjTtnEJA1g9mPL8wqElxw6ahlhzNJ88UGdsMeqCKqb8XTI6YKBnWBmmgt9KdMtMQH17R7+K7TbIV1+WHT1P3uMwyR3gx4iajxpY47H20jHXh+mnznnKLuloSXUErc1ece9lJPzLlKxmoaBFZkhfVPHEIlltltkvlUfdmbi9gjGAE2o8yQrdDXwWGsW2b/Pwd9go/bhJ9K4800s=;+3hCQs58XRSM8snZa6jtcw=="
 ---
 

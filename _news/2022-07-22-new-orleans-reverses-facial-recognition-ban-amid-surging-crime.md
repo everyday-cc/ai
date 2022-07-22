@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

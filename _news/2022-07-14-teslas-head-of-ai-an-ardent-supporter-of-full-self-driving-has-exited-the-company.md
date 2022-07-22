@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
-excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday ... including Alphabet’s Waymo and General Motors’ Cruise. “Is that person distracted and on their phone?"
-publishedDateTime: 2022-07-14T16:48:00Z
-originalUrl: "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
-webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
+excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+publishedDateTime: 2022-07-14T15:24:00Z
+originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "P6hw9n0w4cFyPJluOUX4UfznUyaLR7Vx7TS50xqHdlbBFUIgNpNeqBtCjVegcf4lN5Em0AxjW/S7LoImGM879FRtg6RKRHg9l3rg69nfuPX8D6PcQoYVTjKDUbD5feNItjF18OcwEpsjw9SS0S/bz1GwXy5YuyB7NVdeOMkYzPrBfpavBwESK6at9WdFUTNtcKPfhpXxLENkZxcyssSwf6LtSqW3ZwEldaHEAFtk35Y6Ys8DUSSud/OVHikaSvZ2IdoVAv0DXuZ2NlYum/xjL+0jFdKKVJ6/blh7EZAWQBZSA/di/EB/bupFKQHj9bAWysHCo0VDRMijvVheddejoVDa69+T/aVPQa65UJ9Zzq4=;EJhRTSScis2+Z/D7NL+B/g=="
+secured: "vX/XdNnsFZyBlG+om5X6tPiPPRr8ZPSLTwLppC7b9csFotdVSvwpHjT5K+fzVFP7VnIaUsX3u+xvNS5Mc1/Zn5uAa0GJrwkMHEFBBjaRE2R0BPGVYKkU5obJ84xH3MMYP3FXrO9iMOZkE/NerHywTUnijYSaWIn3SZOd81nieKcKFfpCENuf9mVrL2C7DBaVhgc1MDlE/IYvkAn75BCMKZoH2G1MHsYzaDr+XI8MPODBqEkypFmD5qqN+5tiFvkuPnMFlgMhI27mvd8oAg9LuK2KVhNgf6PVHPyzN0xB5ElAnCVKSf8NhT99KCVhfEQEttOmjYfu7ZkQwOei3o8o3WZORFpcrMpSnWh4JoIXY/I=;CMMlXILMimLoqv7c8d69Bg=="
 ---
 

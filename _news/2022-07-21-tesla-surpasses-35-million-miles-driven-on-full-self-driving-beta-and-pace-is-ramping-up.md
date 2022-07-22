@@ -114,15 +114,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise"
-    excerpt: "Elon Musk has long used his mighty Twitter megaphone to amplify the idea that Tesla's automated driving software isn't just safe — it's safer than anything a human driver can"
-    publishedDateTime: 2022-07-17T12:00:00Z
-    webUrl: "https://billingsgazette.com/business/musk-backed-a-boast-of-zero-self-driving-tesla-crashes-but-data-show-otherwise/article_90d214c6-048d-11ed-a0f5-779418748d88.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 14
   - title: "Amazon-owned Zoox seeks to test self-driving robotaxis in California"
     excerpt: "Zoox is self-certifying that its vehicle with no pedals or steering wheel meets U.S. federal regulations and is applying for a permit in California to test-drive it."
     publishedDateTime: 2022-07-20T12:25:00Z
