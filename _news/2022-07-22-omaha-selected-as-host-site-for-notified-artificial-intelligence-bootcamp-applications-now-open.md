@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
 excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-publishedDateTime: 2022-07-22T15:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
+publishedDateTime: 2022-07-22T16:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
 type: article
-quality: 27
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AI in Robotics
-  - AI in Autos
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
@@ -70,7 +62,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the US in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-22T15:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "xmOLt0SkAZEagVhoy4vzmafUvdIH3H1wqb75Ft7y9n5BzJG7zkuNpxAH2YCbC8O7S20mWNA84duAiP21WaHAI4lfQhg+YMEebhAtt+1gozgkPaPacfNmoF6gLdMuQBcx7R8dwrr8m1hVv2IOIi8VlNaignSvG1oFJRmsklAg/oE5MOc8ItwtxrKeaxWqLRU1GfX7wopyo+8tothQS2BKvsWkLIG+nlqu+2JGH7bCiaYl2N8YN4tFFwFUgHTM85J8gGzUq8ZkAjzQNjbVjmNNHmyLKGl6+r/i/p5O9bEJktKP18AtqRBn8YSbK1/mFJLCtzPoPn87fBlNnZmBAMR6veWjIyaahrbA7enBw5Mvt7E=;Jh4Z0GObQfrEEnICreZtvw=="
+secured: "iTP7jKSAsuhcUQGgGLhHltv2eLCJgOEMCjK7aW5MneW4CveDJCoDc/lw+p+tFhcSi9rHs3/EBvSUblA3mJR7hMFfcJGCMFeOB6aos3NiBJVaRvYDYnPwnstS95QML2+k/UKzUCdiyub+zHilFvY6RU02Z+fs8BY24Fuxyl/t6hVkVYcmS1nAiBSjoOLmWfDA/OmM0dgvwwDVkYfNgd7ztJ00PAJyQBFB+LVK1yjkK7iV74KCBFXJ9Guik6yRSglDikaiprxmVHz5GaxWqUONMMuOaFOj2u4B+fCxbwEB7Y6Y4E+vkhb9docUK6HrBxZIeOUuZDBoKIwdkOrRqNKWMrp6LgDzG1ENTCe/K5sG/bQ=;pJmWFBVoimhpwf2ksj5lxw=="
 ---
 

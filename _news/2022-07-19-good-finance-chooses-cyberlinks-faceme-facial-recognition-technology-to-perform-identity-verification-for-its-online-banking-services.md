@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "iDenfy Enhances its Identity Verification Platform with the New Face Authentication Feature"
-    excerpt: "The global digital identity verification and fraud prevention company, iDenfy, introduced a new feature to its automated ID verification toolkit, Face Authentication. The newly launched service will help authenticate existing customers by eliminating account takeover threats."
-    publishedDateTime: 2022-07-18T10:31:00Z
-    webUrl: "https://financialit.net/news/digital-identity/idenfy-enhances-its-identity-verification-platform-new-face-authentication"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/visual.png"
-        width: 2396
-        height: 1188
-        isCached: true
   - title: "India Launches Face-based Authentication App for National ID Program"
     excerpt: "Unique Identification Authority of India is rolling out an app that will allow citizens to verify their identities with facial recognition"
     publishedDateTime: 2022-07-21T18:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28124099"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -55,20 +55,29 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-    publishedDateTime: 2022-07-22T15:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
+  - title: "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the US in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-22T15:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 27
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-22T16:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "lVmqUgRFKIzpm+jpzse88vq6CW7i/OAnbP7JoFZq3+1JwUYHlIlOp6Aj+v0/Au32csdcz9HnoWM3PAxRwi5fTKeXE0jv1owOLa0kni77BAl344GPxsPSVuDKYd+I0rOjpk+DgSpWB7Wo4QvCcmW3edKCLAXVfDW4BrTp26KIMPIIgdKnIc58rICyQbWLjsaC29q9EyFGD5fxpPEkjKRD6EMgrr1tagl336tFbxGT+/y/+WgeZY7aeO8w98gpu1bo7nXBATW5KDD1ZfHxvrAqb58VbMvATgFxZSIVQprKjUrhSiQvnZD1jETmXJY4HrcnoH2KqWs2VI8tG1b8vNZW293IstM/0b2mTja+gSu/rxc=;XPQui5igg5DuYLLU3jUJCw=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Samsung has a new AI-powered photo editor app with lots of features"
-    excerpt: "Just a few months after releasing the Expert RAW camera app for Galaxy devices, Samsung is back at it again with yet another interesting photography app available in the Galaxy Store. Dubbed Galaxy Enhance-X,"
-    publishedDateTime: 2022-07-18T09:32:00Z
-    webUrl: "https://www.phonearena.com/news/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features_id141398"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 37
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/141398-wide-two_1200/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung releases Galaxy Enhance-X app: deblurs, brightens and upscales images with AI"
     excerpt: "The app makes the image editing process simple - just a few taps, then you can compare a Before and After to see if you like the result."
     publishedDateTime: 2022-07-18T16:24:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamps – APPLICATIONS NOW OPEN!"
-excerpt: "Argo AI and The Readiness Institute at Penn State are two of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI and The Readiness Institute at Penn State Bootcamps will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-publishedDateTime: 2022-07-19T20:52:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
+title: "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the US in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+publishedDateTime: 2022-07-22T15:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
 type: article
-quality: 27
+quality: 24
 heat: -1
 published: false
 
@@ -15,7 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -55,15 +55,15 @@ related:
         width: 650
         height: 350
         isCached: true
-  - title: "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the US in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-    publishedDateTime: 2022-07-22T15:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
+  - title: "Pittsburgh Selected as Host Site for Artificial Intelligence Bootcamps – APPLICATIONS NOW OPEN!"
+    excerpt: "Argo AI and The Readiness Institute at Penn State are two of 20+ host companies selected to host 30 camps across the US in Fall 2022. The Argo AI and The Readiness Institute at Penn State Bootcamps will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-19T20:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-35a4c6f1097f42003bab687ec6664e30"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
+    quality: 27
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -79,6 +79,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "qfEBp2acdhQoi36iHfcde7zLOq+Poc/K5B6Z0Fm1Kvd/jJq7vIv2+5fkQsVLGr7vPNjmg88yQGNYsqhcTd326+VokKJz/ParYxdceyPESzzd9bIodkg/KJicdZCZLAeb9JbcTerowGKUKbV8DXcQDpHl1AR7mB7kqZx9pQ+W0dJlv+mYxc5hjTvdxhsZbykRauqtjRau+kiZgjMmgZIlRtXNg8J4Yl+8nzIbttPl6X9LtHLORejXLIl4qi2vex8SH2uT4n/65RPQ9v9IldssE1t+XjuPuYwLF4Q3/BbAkN2tTDYV+y8K66rNCY3WV9jWbaEd/6ryR9olHNZec+RPYvzl0XCHmbcVfkXDtVnLz44=;thP7l/CGg6ogJxK+HHaufw=="
+secured: "BLH/27bTAQJEot5Yh4Oq1Alih7URu5j+6sT7FZVdaVBOr+FSZwGd1khIQDi00KIb7RhfPuzKe0ykUoGoiQcVMw5aX+HieXOR3cKneHwME41BvTLm1xVJ7JR7az9DMQYqDswBS98fj0G3VGZ/iJvnVCg4NR/EP1EhCO3KuYMBIsoZQIhoZQmCsMcgJ3vsJ5D3X/3AvAhrtuABVA5lhWXxYkWuhO2fQRoCriscNX8NtU07iwaT/SDsBgNJp8173dpNiB0l7purmlV9GlwFWpffhu1NExLCLYsSar16YsHgKUs/S5lqCt+IT+O0HNRmdsiNXagW7eMSCjK9TvusNBGY8tpYroUtNs1m+l6Be6zbAbs=;WYE6zM0IUwx/OAmfg/4wQw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/samsung-unv
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-unveils-galaxy-enhance-x-software-uses-ai-to-enhance-photographs-122071801504_1.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung has a new AI-powered photo editor app with lots of features"
-    excerpt: "Just a few months after releasing the Expert RAW camera app for Galaxy devices, Samsung is back at it again with yet another interesting photography app available in the Galaxy Store. Dubbed Galaxy Enhance-X,"
-    publishedDateTime: 2022-07-18T09:32:00Z
-    webUrl: "https://www.phonearena.com/news/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features_id141398"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 37
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/141398-wide-two_1200/Samsung-has-a-new-AI-powered-photo-editor-app-with-lots-of-features.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung launches Enhance-X AI image enhancement app"
     excerpt: "Samsung has launched an AI-powered image enhancement app, Galaxy Enhance-X, which allows you to improve images stored on Android smartphones."
     publishedDateTime: 2022-07-20T15:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/good-finance-chooses-cyberlink-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer//Gzy0BBCZRYorm9HZ3VwDcTGHPK0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2TOXSJURLRBZAA2LLRB5XSMNOE.aspx"
         width: 1200
         height: 630
-        isCached: true
-  - title: "iDenfy Enhances its Identity Verification Platform with the New Face Authentication Feature"
-    excerpt: "The global digital identity verification and fraud prevention company, iDenfy, introduced a new feature to its automated ID verification toolkit, Face Authentication. The newly launched service will help authenticate existing customers by eliminating account takeover threats."
-    publishedDateTime: 2022-07-18T10:31:00Z
-    webUrl: "https://financialit.net/news/digital-identity/idenfy-enhances-its-identity-verification-platform-new-face-authentication"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 14
-    images:
-      - url: "https://financialit.net/sites/default/files/visual.png"
-        width: 2396
-        height: 1188
         isCached: true
   - title: "India Launches Face-based Authentication App for National ID Program"
     excerpt: "Unique Identification Authority of India is rolling out an app that will allow citizens to verify their identities with facial recognition"

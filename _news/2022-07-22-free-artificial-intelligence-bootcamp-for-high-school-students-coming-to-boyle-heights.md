@@ -55,20 +55,29 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-    publishedDateTime: 2022-07-22T15:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
+  - title: "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the US in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-22T15:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 27
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
+    publishedDateTime: 2022-07-22T16:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "LvM376Wj/yTGaKHrovdGO6a976Lm2W8KaXHsDJ2dLm7YrsMaMDyCElk57py56LFEdIvI1zQz27I5SyxQOEE+cW4bC9me97OKrFnSgFH945RqIV23E/IdP4MXE13WoI5Qn+KuH7+sy3gn7+gxcfQ/QYrXQLQzbLkqfFCEWtiDp/n9knfhJ0SGLgjrHPc3bBps1c+roi3M1GDcSk6I9X9bGYbATQK8tpOuBKsgH8BWkbeLqVMWgZ//ZYatu2tZgbBWDqW3y02pVspV2i2Tln0uHZEI6Lf8gwwem2ZXHnubuTB+Dx+i5qEw9cWP/3wbE3/rTaSko8HPCkTT5ObxK80208agpV/1QlGG9CtS3WCLf1e63ViVFtlOTHaJ2fPtIRgqquocVnPP935hO+b0Kah6YOYTZPF18gAAsKkLRQnBlrVlXCFEQ0U71scN7g+5VUFLJ2gwkr4mKdJ1PtyIg1a3viHwZPQcIEc/miUzu/FuNOBuZ6Q83npAbhb/sw6YKMRHtdJ8wExgxYgBWJNs1mmbAw==;qH/9VGab7wEPIt2CNDBVsQ=="
 ---

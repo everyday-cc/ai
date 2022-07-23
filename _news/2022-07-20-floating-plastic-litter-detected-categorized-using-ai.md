@@ -79,6 +79,15 @@ related:
         width: 400
         height: 285
         isCached: true
+  - title: "How AI is Changing Marketing for Consumer Brands"
+    excerpt: "Let's look at how fast-growing consumer brands identify the opportunities that AI brings to identify hybrid shoppers and personalise customer experience across their decision journey. AI is changing the customer experience."
+    publishedDateTime: 2022-07-19T16:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-7-19-how-ai-is-changing-marketing-for-consumer-brands"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 36
   - title: "There’s no AI in Identity — Yet"
     excerpt: "In this special guest feature, Jackson Shaw, CSO, Clear Skye, discusses why it’s still early days for artificially intelligent identity management. The article explores what needs to happen in order for businesses to start realizing the value of AI and what is possible for the future of identity management when backed by real deep learning technology."
     publishedDateTime: 2022-07-20T13:00:00Z

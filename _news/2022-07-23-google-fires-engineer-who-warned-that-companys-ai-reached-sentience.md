@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-engineer-who-warne
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
+    excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
+    publishedDateTime: 2022-07-23T03:38:00Z
+    webUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7"
+    ampWebUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/62b98fe79f5e550019aab870?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Concerning Belief About AI That Has Engineers Worried"
     excerpt: "AI is becoming an increasingly common part of everyday life, and it powers many things, including digital friends some users form relationships with."
     publishedDateTime: 2022-07-18T19:51:00Z
@@ -61,6 +77,6 @@ related:
         height: 901
         isCached: true
 
-secured: "V9qwmKQZEivWcxyRA9cS9X5sJv7ZfMCgYJrwNdF+Ic7XzHiMKzUvNnW6r4qWyrty1lK7REbR3OlVJ0JHs9w1iQkY2UbjitSmE+6jvBYSMrgPx46kxdec7lePLXz+GygtW5H2jBcN9FjYtSar2zvjIE2ByRTSuaooh+CY7A9Tba6XDmC9tpr0zXq061R1sYNbzi6oUxwk6T4AsbR5iyT3DNecQTpz8SWoN5NEOrL8UqF0TiHseJNtpEm2IST2RPmlMR9LRfFX4yWM3pc/NVEUbJi4vpTDIN4WUl/zP5z0LFRID1EPWrulA56E0esb+9JGcJWmqVzEEZ9mEl0beWNNC+6SiUhCgbXnNCJfYDkw4D4=;69nMb3ocbDIYaZEVriM8/Q=="
+secured: "qj/blBeka4cxh0A5EYWJNCLmyTQmlAmUQ0OosFyoCNU0JX6ofEUBtOEimjpEN2gRRlojZV5HUZG+q8IIKgzDwVwm/1RpRCc5PcMqPBIq8BBzDdSEFDPWw4NkhDRnkoPS/tAsyd6IcllFt96/gyjiqWZP7MSQuAnGk+jDHqByYjrLLE5RIByLCcPWfEAWyoUhWuuzWbESh2/1J8assTX0bEFEuj/fUKAL8hZmyzz+YIj2b1o6a8+JRItR1js0QRuYT1XUtDsR9/WC6EULiDoKX8sKaanS4Xy54S7AwseRe8gfjKDvZ3XCkCo8Ojo1mng2DIH1IMLxDhvZeOkkecliNBGPMBvxuoDafT+2aAovwBiLteIfCtsCpTSJP6tddG09SZYPG9o/SLyupvw65waBZxtyUPdjUHJx5KBQYMaaZ/IOAPON//GdBoRJyLNf2g03LxCH3MmZNKDYcjUxI7YuoMXW/A3LgneoA0/3ujZwNxlk5PV8iKQeZ+8UJXs9N6o8/vGNbG+f/QGsKKDc2j9CPA==;x6FiDLR9ESokqlH3/TgmXA=="
 ---
 

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "The Concerning Belief About AI That Has Engineers Worried"
-excerpt: "AI is becoming an increasingly common part of everyday life, and it powers many things, including digital friends some users form relationships with."
-publishedDateTime: 2022-07-18T19:51:00Z
-originalUrl: "https://www.slashgear.com/931642/the-concerning-belief-about-ai-that-has-engineers-worried/"
-webUrl: "https://www.slashgear.com/931642/the-concerning-belief-about-ai-that-has-engineers-worried/"
+title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
+excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
+publishedDateTime: 2022-07-23T03:38:00Z
+originalUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7"
+webUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7"
+ampWebUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
 type: article
-quality: 67
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: SlashGear
-  domain: slashgear.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.slashgear.com/img/gallery/the-concerning-belief-about-ai-that-has-engineers-worried/l-intro-1658169643.jpg"
-    width: 1600
-    height: 901
+  - url: "https://i.insider.com/62b98fe79f5e550019aab870?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -60,23 +62,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
-    excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
-    publishedDateTime: 2022-07-23T03:38:00Z
-    webUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7"
-    ampWebUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
+  - title: "The Concerning Belief About AI That Has Engineers Worried"
+    excerpt: "AI is becoming an increasingly common part of everyday life, and it powers many things, including digital friends some users form relationships with."
+    publishedDateTime: 2022-07-18T19:51:00Z
+    webUrl: "https://www.slashgear.com/931642/the-concerning-belief-about-ai-that-has-engineers-worried/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/62b98fe79f5e550019aab870?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.slashgear.com/img/gallery/the-concerning-belief-about-ai-that-has-engineers-worried/l-intro-1658169643.jpg"
+        width: 1600
+        height: 901
         isCached: true
 
-secured: "mXaYxbzCqnPtm2tmqhel8At6IhB58Dbf7Hbma/8RrrW8ZkGdQFy2SFp3PdMWtrXP5DCcfXk6xX/5w7/jHCtGqkS8kjhWwDG2PfNi0H86zC0hQKeWfUqP2I5+OCZNJt+c4xe4jnsvnf7CMHS5lrrS00qLn8LP/ONXSSEewDqfjHhaE+/uldj4XNnw7vsSfAcQIWtA7NqW2NWDfbACaliObXUgAkVVBmkVLawPI6oBhCBlQw67wDRIxmIRwgvGh/EP6NNfVpU24gzQgRutZ9oe9SBgBnOkT6/kC6cRXhL9g84rCEYzUKC9oak5WSN0RMLOnYU6F2xvUCiMjG5tyAypEow6x0KDKqVvjF4gSZa3AsCoUUWop+MaEULCFIzbxLl/b/gGUb2x/v2LL7fn0fFvy1ShqkLnYc0dDkJLAWbbtN+jffONjETuwmxuyjOOZH3d83c82mal2BmWanRbxauOPSr+L1RTJLA4icxDMhWxi+lBqUlvuoHYsUcufnqnHOwb2Syu7oDlpWWKCdFnPj904g==;yQU6v/jdvwV7ZiIjwrWgiQ=="
+secured: "YJitcQwcI5XGHFfcBLf9ahhWLuTD8qEQWKJLWKUMP3RwnV6EqriBqwiSfyjQbqdp7uPIv9qk3yXMZMQNmck5O3u/MRAM13UaliT0l4k3XSGSufHvZZOaNThI0+dc9o+pebioYb2NG82MghGiJCKdi+Is+66WigSAj5EMnWHgJb3untNT0X5YxesR4RHudjbCHss0Gu38UgAs4LlNviNE3V23xht+O05+rb56QCmvRsCx7VJXaVskSVdR0hl4fo96O2PumXsTVdMFpDjQI4BNC0x4NqXkujMrvKWoP7E3n/n3ZTOiIfE2UsH6ZWjDRm3pGuZ0KiIgEqu5zUaZzRxvFsVvrVkBfLtavZq1LK/O7tM=;yJBYwJnfFSGR9nSJmBaKrw=="
 ---
 

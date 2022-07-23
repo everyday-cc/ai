@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
+    excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
+    publishedDateTime: 2022-07-23T03:38:00Z
+    webUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7"
+    ampWebUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/62b98fe79f5e550019aab870?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Concerning Belief About AI That Has Engineers Worried"
     excerpt: "AI is becoming an increasingly common part of everyday life, and it powers many things, including digital friends some users form relationships with."
     publishedDateTime: 2022-07-18T19:51:00Z
@@ -61,6 +77,6 @@ related:
         height: 901
         isCached: true
 
-secured: "LQ4NQItUut9XpBMm9dYSYdSctzV8k3u0oDpjBuqKX8qGDrxhIfj9If7rsb77bT2rA02hSDtSSCas6TXzTQ/EEKzDBkmofD9lcATZpfaM4jDbG3GTbaitZg5sWYD/WaovLyOysbGNiWFYhD2CQ88sffGG9jrvQqDXjKjfBLYEzYsXb+xcPOfmVSjlX7lZbFkGpC5mthyFfaCEW/WtA8hn2aX01t1Lk/BtqpEwakLkYf4v7wr7rqa3k4s7nRbo5PR5talyCaI8j4JQA1lu8z3RsPSSNm6gKAs/MbG3HLbKZxwFEiU07cWbkeR2ANiH4pZTwi+YlNKV0uBmnhGATQFSTOPWDK+//TeZWq59eSA29o4=;fNiga24ngBM7NvuG5fs/WQ=="
+secured: "G0YB7HJ/A4Z9gchhEkF0NEdDqsQ3WMKFuFpCd6r15hsgHjxe2iTmM3HzoMZk7tmlsiDbZPG3rWndCKPyLRipKpb+j+kCKscr7MJlZKV9aWaDx+kkAmTuwN+Dsl8jBDsCW3CDq2dnNQ1biKervIj0rW2cPiNi57v/SMWSxAF2MMiCrWILm9QqVi+mMGmcvKr97bSCtjs+WBTNhaLOZovyR5wHcKnZmz+uak2BsjZX4ko4nIjJKDUUOK3ArFcedskvHqP0KPwgat5aOY0ZMNAzL+cMwsRckiD8t3uAvuW6o8dU+pMqNaWy5zF4NfaMA9yLzByFU9oT8/WjDcCB5SPqGeqMHpOgv5ECJ709I6hZQSwtYgvKs5vxkYfroVktGwdCYJKBJ9LbXv/246x0dUmQs1yIw8CpGwv13YsUH9RqXx8AeaRrKhRSsaRgBzUXjnQFzagxZ5xyXwP+H7EXu/DvWH0hSCzPEbzuL5kYESL4CVAoMCZsVJR8/W98OWguFBPidbwxkTnflUokFGedxGmWXw==;8nqPJRHz4eZ3HuJKzb0e8w=="
 ---
 

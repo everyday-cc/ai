@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Swarm Intelligence Market Size in 2022 | No of Pages 100 | Business Prospects by Discovering New Trends and Driving Forces and Forecast up to 2028"
-    excerpt: "Jul (The Expresswire) -- \"\"Swarm Intelligence Market\"\" Insights 2022 : Swarm intelligence (SI) is the collective behavior of"
-    publishedDateTime: 2022-07-20T03:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-size-in-2022-no-of-pages-100-business-prospects-by-discovering-new-trends-and-driving-forces-and-forecast-up-to-2028-2022-07-19"
+  - title: "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com"
+    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market."
+    publishedDateTime: 2022-07-22T11:58:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "DHRpF/CjyKkJSGGLNaAoroH7CF8H6YxTkDiZUiTUhYFGEekVi5+oBwSEpg4pe1Xs3w8MhaL3Be8t00K3MO2+JUJ+jssrwh4UAitwb/95yCjYRcwpmLLa7lJtt+co+ICtEkUc0i/bcxqrrcK4oP9TVfkxivUpc7oKALF9bAHRDVrUs+00u0jxCjS/y/LSlWrWdvGLjbvKUe6OVExmwpt4q4odPPBfhPKfbaEI/OLFV6zw6H+8+NIbIxrrJlqI9tfyxXAVm1Nc/JI0YOm7luWQGehSl6mctN7Bzuc8Y3TfUdJFFGu1HOx3XMZZP+zmrM99Zjdku44kXE4t+MK+6juKaTFPf+fYoHOJAxC0j2qHMWI=;H2Rh9EkHOPXn4jS+bhSR8Q=="
