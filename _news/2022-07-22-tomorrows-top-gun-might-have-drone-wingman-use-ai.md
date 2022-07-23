@@ -1,30 +1,19 @@
 ---
 category: news
-title: "Tomorrow's 'Top Gun' might have drone wingman, use AI"
-excerpt: "Movie fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights"
-publishedDateTime: 2022-07-22T08:21:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
-webUrl: "https://abcnews.go.com/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
+title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
+excerpt: "Maverick’s next wingman could be a drone. In the movies, fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
+publishedDateTime: 2022-07-22T11:54:00Z
+originalUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
+webUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/International/WireAP_912dcee1a8e647c29a84fa6932d0f583_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "Rbq1e5Vgqf0cH8IwqFihKNC3QBZcPUayRuqhZ0MXUUG0Pf+zm987V32HYkBksKsCwaKxRTrcdqtG+EX4YluRlKthxm8eeuSjOFnWtEn6LaYuGHt0A56dejVLFhA3p042zzgv6/NRnQ3CkyItB2HKHpUeg8D1rAtnyZgtMBzGBbtds2q39LxFwfFuZMP2Aab8A7HrYV/3R6pVYBCIt9TPJ8L/VkKdM/kqUSRgFgqdi9EC9D2ti2igwIvS92QO1e6ifOdvBPDq8g80IaW41VyQaOkWNQ/AkDQzYHEPvYZ1J1GaaaDgAUDAfimPSN+y7qhi6x1d0kunqsWVRMkY7BSPvhsaXPgN5E+Xp+W5B6Lv2Lo=;9Y7vdkwcJnO0e/1/+JsXwg=="
+secured: "MqS0YqrzC/ueji+A5QIwbjiELkX12a7BEPNQF4vh/ObPk0oscqe4uV2j92KicJrIjXiTT53yUX9dJG3i2zcxzPIR6GaQ9kB1IDI2lJL76Fmv6IQlorCVToLTe41yBaOPRerJhpGJgpSLN9l+eT711bhhbTX3mm9jjTL6lCfPZMxLBbnyWVImVb7DX4q+rq+tJ0ZBXOKSXPZtjsZHCMSTap/q1XdtuMuNF5SRhbnjvQNKQXIHf4xan2mVPOzxJEPMttYNCSpI5jfMPR/xtEmjhbXt2rb4SgWbHW/KJYpwog44foyhMNhBIZQzCVwqIhuCfi2U1utownr3K3ZI0DefO5RRYgQgqXcP4WSKT5ViQ0pkhmBPm6b1rz87kjqFwu/LW5AOIqCTUcytumnUZTukwoEcYJ0GX+Tad9xthoTzQrsbwKS1ImmMFSfXmSfx1VUj1Qv+xDwfstEFCphW2zMxelHTO2IdpidEUKLWk+xEYjjvTJcIV8rnS0Z5sewW3COUMyqB+F+cU03mfu4huvSijA==;PJFR5QMGoZitZAN1YQsNhw=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/07/Machine-Vision-1-696x452.jpg"
@@ -24,6 +25,6 @@ images:
     height: 452
     isCached: true
 
-secured: "tkFG3kwPGdEjBs8QVitXWQAn32GMOmOsH9XVuoyDuiGPrHEANG7MTT5fvxAIhWMMd0M0diTED06CpVNyIMvIaRV9k1nOVr9IAUQfJbDxExsNqT80rfidZpJYDVUdBoUfQw6mKWStVi5QdQSTYOpZaHaRqAOn9N00fCzjH+WExQWvi4neUXPizueFOkJcy3F7nro0oEYY25MNZIM/sSAU9BpubTTDIRLqqhjqo8HcFWiTyGfh1lxUoxommFA49GZTPzxToJJ0ovyMLPZ043dUAiEAusDNl6ugZQ7G10Ib042jljNwnVpMQ9OfRdJirNCKZSND2uDFdpFc9ZUp9eObtdZEzT/oSQbUAQ+LTzq9wyE=;lb0m+apsTuz8vOYCF533eA=="
+secured: "dAsKRVWVs0VFEoJtT1VkSTmOLaEA8cVdkWA/I6C/6Rsj+h/D0hQAqoHmG2cChsA3aLcIi98wn2w1qOul3i6w7F4MhcdFAod1vvs0pzrJ6LCDtuiIECyaa119O/YseCghhWKNLWvgLT96BCaXQR3fsGUYm0WEDQEJXkxo4h0HWrgkHuWVZTQQQu63cEYYUpcePvGRV6ZMYeEfgcW4FGGWLfNZDFSS0dTCm1MBSwyE//04VjoJm0T2A7o55idGzFZSvi1IEVIEtu7SekMyJVLsV+GdaOT6SxNkysVbySmkC3DNnAK0vTPLD6lCZ++WxygtsIceq6eN1lqIV5byp+gZQZo2bxPbCj/DWAzPhB7oKZJvsI51ytZ40ZwSSCdvmgletsRspzYiz12cwbr+RhVtDxsUZWDkJvoPbn6gerF/l2DnxJXTpRp6l1+J24vXAPKMjTt926HWLkKCvQkF4XOeeiJlomopv+ZAWFOz9TDTRQwC7BRO921C2/pPfaJfcwCuV6Z7ZwguY8OvqJgpNQm9nA==;HM2YVz/A5TyMgOayFNqRWg=="
 ---
 

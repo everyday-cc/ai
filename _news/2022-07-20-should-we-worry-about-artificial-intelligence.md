@@ -3,14 +3,9 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
 type: article
-quality: 89
-heat: 99
-published: true
 
 provider:
   name: Wall Street Journal
@@ -24,28 +19,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-586525/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-related:
-  - title: "The Ethical Life podcast: How worried should we be about artificial intelligence?"
-    excerpt: "🎧 As technology advances, will we harness its power for good or for evil? Commentary: Artificial intelligence may be here but is humanity ready for the potential ramifications? Framed by historic turning points in public conversations, here's a look ..."
-    publishedDateTime: 2022-07-22T01:45:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/autos/the-ethical-life-podcast-how-worried-should-we-be-about-artificial-intelligence/html_8469eb86-a576-5cdb-b36f-e4d7b64e6152.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 49
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/46/8469eb86-a576-5cdb-b36f-e4d7b64e6152/62c447bc6d0db.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-        width: 1196
-        height: 628
-        isCached: true
-
-secured: "4KWQi+krw0LzdVBz6QXMYvDhYXyONS3Tgq5t9u2i6FcnERr4A789HQeCYAnDl6enh0MekiMrKme09+i5DqNm4QRIrMNg6CkJMIgf5m5c9bAz+4NjoLXquAyvkKEkLQYa0ZGWBDPCOHKbHjqzOu5hB5qVFRm++2TP3G602Bshz4MWZwCC8YWmgj1WYF9FR95fcnPifQQQfTb7+m+iNZbVm1ydKQlSZEj4MKXQVL20QShylsBatvq1y6IvoF6MkH9KkBmQMJB8zVtd/P8SDPwOqdXvoITtb4LrDKyTzkTD1P1ec5V+0hMDxFHGJXtSE08cridBzf51WWPqK7SY2q3li67FbvUjZG1dxCCrgYzH76E=;S4I8WLjwrMNfsmjyBhGhXg=="
+secured: "s64xdVYI74SuaaOutklksAMQtUXov7+iOL/CoxqJYvomRS1ZfCVUVK5jTF/BjDe40syAfpDV2xYmQZzzDFNEQjdqryCbRV1OExWThKlhSPZ8xH60A+OfjNZeoDgxsHt2n6e8O8AyN4wuC6pA9lmIVGFjSQGHYPPck/MI/OoMTpdFs24EBJcDDJhqNNzPBL+qrAslvrOyaSpZ1dw5lZqJHTa0Fv1VwK7ihK4NT9A3l3qCWMLhLNMj3QbvZN5sfFsEEOysVYa0lGxZ//lTQfZxYa/Rt/9GFtqp7nX+Ea+Rv90tpxMphVTsmGA7Zsemeq4Cvu5OWbW05GIIR7YE1Uy+U6tAMmrkVHEl8kCqzgK8jP+4hc/7jHY2XpFHL/T7dh81zn1a9bGQfLsMoNXHiEhrlTtwh6mt6wmtg32giksaxipKj+688D1utR3KjMTEnB4ULDWfwEoICx1lHb3Eg9U3nK/EOgc6Yv5LV4+LmFVbSTwn6itJFkHwBtoUKs3bm3lhCwHDqvRHIwZwUi8h1UZ4ag==;kd0gYijM/dtkRYI8VyYueg=="
 ---
 
