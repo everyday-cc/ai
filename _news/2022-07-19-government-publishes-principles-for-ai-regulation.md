@@ -7,7 +7,7 @@ originalUrl: "https://www.ukauthority.com/articles/government-publishes-principl
 webUrl: "https://www.ukauthority.com/articles/government-publishes-principles-for-ai-regulation/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence rules to require human liability"
-    excerpt: "Artificial intelligence systems will have to identify a legal person to be held responsible for any problems under proposals for regulating AI unveiled by the government today. The proposed 'pro innovation' regime will be operated by existing regulators rather than a dedicated central body along the lines of that being created by the EU,"
-    publishedDateTime: 2022-07-18T11:29:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/artificial-intelligence-rules-to-require-human-liability/5113150.article"
+  - title: "Four principles for deploying AI responsibly"
+    excerpt: "AI comes with substantial economic and social risks such as the proliferation of unethical biases, the dilution of accountability, and data privacy violations."
+    publishedDateTime: 2022-07-20T16:26:00Z
+    webUrl: "https://telecoms.com/opinion/four-principles-for-deploying-ai-responsibly/"
     type: article
     provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
     images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/3/2/1/105321_istock1277975917_184490_crop.jpg"
-        width: 1024
-        height: 536
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
+        width: 1200
+        height: 809
         isCached: true
   - title: "UK government positions itself away from EU on AI regulation while testing how light touch it can go"
     excerpt: "The department responsible is clear on the UK approach differing from that of the EU as regulation will be spread across six bodies rather than one."

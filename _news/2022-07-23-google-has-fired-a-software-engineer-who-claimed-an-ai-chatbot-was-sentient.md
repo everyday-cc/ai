@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
-excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
-publishedDateTime: 2022-07-23T00:40:00Z
-originalUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+title: "Google has fired a software engineer who claimed an AI chatbot was sentient"
+excerpt: "Blake Lemoine was placed on leave last month. Google and many leading scientists were quick to dismiss Lemoine’s views as misguided."
+publishedDateTime: 2022-07-23T05:01:00Z
+originalUrl: "https://www.nbcnews.com/news/us-news/google-fired-software-engineer-claimed-ai-chatbot-was-sentient-rcna39679"
+webUrl: "https://www.nbcnews.com/news/us-news/google-fired-software-engineer-claimed-ai-chatbot-was-sentient-rcna39679"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39679"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39679"
 type: article
-quality: 87
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-576950/social"
-    width: 1280
-    height: 640
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220723-google-cc-0100a-a0662f.jpg"
+    width: 5400
+    height: 3600
     isCached: true
 
 related:
@@ -46,21 +42,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google has fired a software engineer who claimed an AI chatbot was sentient"
-    excerpt: "Blake Lemoine was placed on leave last month. Google and many leading scientists were quick to dismiss Lemoine’s views as misguided."
-    publishedDateTime: 2022-07-23T05:01:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/google-fired-software-engineer-claimed-ai-chatbot-was-sentient-rcna39679"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39679"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39679"
+  - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
+    excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
+    publishedDateTime: 2022-07-23T00:40:00Z
+    webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220723-google-cc-0100a-a0662f.jpg"
-        width: 5400
-        height: 3600
+      - url: "https://images.wsj.net/im-576950/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
     excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
@@ -93,6 +89,6 @@ related:
         height: 901
         isCached: true
 
-secured: "G0YB7HJ/A4Z9gchhEkF0NEdDqsQ3WMKFuFpCd6r15hsgHjxe2iTmM3HzoMZk7tmlsiDbZPG3rWndCKPyLRipKpb+j+kCKscr7MJlZKV9aWaDx+kkAmTuwN+Dsl8jBDsCW3CDq2dnNQ1biKervIj0rW2cPiNi57v/SMWSxAF2MMiCrWILm9QqVi+mMGmcvKr97bSCtjs+WBTNhaLOZovyR5wHcKnZmz+uak2BsjZX4ko4nIjJKDUUOK3ArFcedskvHqP0KPwgat5aOY0ZMNAzL+cMwsRckiD8t3uAvuW6o8dU+pMqNaWy5zF4NfaMA9yLzByFU9oT8/WjDcCB5SPqGeqMHpOgv5ECJ709I6hZQSwtYgvKs5vxkYfroVktGwdCYJKBJ9LbXv/246x0dUmQs1yIw8CpGwv13YsUH9RqXx8AeaRrKhRSsaRgBzUXjnQFzagxZ5xyXwP+H7EXu/DvWH0hSCzPEbzuL5kYESL4CVAoMCZsVJR8/W98OWguFBPidbwxkTnflUokFGedxGmWXw==;8nqPJRHz4eZ3HuJKzb0e8w=="
+secured: "9RcU0sIkCYM8sGkKwjPdXCyGKKzbegl6IppkH1myCuGeTlu7PT3K3VmsLhrWmVZAKFrQ3/zIxkKJEG4RglljKJ4xCK+LhGNCQYRNqrsIHUs3FMuaKfUx0jklSDnAEiEko+R6bcbIO3RvguufMkiwrPcKPF3F8ByKhNdkQClAdjWk3Vmq6FBP8pm6rZrusfkbF50as4tjSlKBoq9+AABkFaltsb685BRWIWuNC0qQW6dH1WuqngWlu+BpKeOcVjruljpW2O617kWQPMqnru7TNPb6oWGa2QVLlJrJ3+1++3JK46Q5is5I4b26Z55ftopElM/oFuQeRaC3VPOdpv/1jHe/3QFp54q3HOKplPYZ0wQ=;A4U0sqrDDyA3WrqSMIN0Rw=="
 ---
 

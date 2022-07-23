@@ -1,22 +1,18 @@
 ---
 category: news
-title: "New Orleans OKs Some Police Use of Facial Recognition"
-excerpt: "The New Orleans City Council has approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes."
-publishedDateTime: 2022-07-22T20:42:00Z
-originalUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
-webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
+title: "New Orleans OKs some police use of facial recognition"
+excerpt: "The New Orleans City Council has reversed itself and approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes. The ordinance, approved by the council on a 4-to-2 vote Thursday,"
+publishedDateTime: 2022-07-22T19:45:00Z
+originalUrl: "https://www.chron.com/news/article/New-Orleans-OKs-some-police-use-of-facial-17323307.php"
+webUrl: "https://www.chron.com/news/article/New-Orleans-OKs-some-police-use-of-facial-17323307.php"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
@@ -100,6 +96,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "6FQjfaQCxwTVFyUHFqaTYRQUCm/cjiMvm+iDkoovjEmg5fTGQz4/CmnMbFEmPBsxv6T9oWyHcxIECNI4FGh7nsirYAFN5fYmhI7ay3Xkfk6OK1nOQAvXnf5KfeGMy3iQwEeTZULYMbFLtcWKhSWYu23xo/7E0dliZkg0APAFTC4i8hMm5SKndl6daP4jQKXdUDj3UEUBusgB4+2OMLsvHvY8U+TZCLNMwzB0DwG2Y8ei/SMtZ/bfYONZQD8S8ysxMRn2ol2XkpojfB+5zRmLvGbP/60c7/YpwOY0Me8h08vARJMpcz2DOYBldHL87tbfNyj3QWZGnOv1skxlA3fDRqDDNxcyVKkHp8yL+tOAly8=;f22fU04FP6zLKBcmLXxpnA=="
+secured: "sdoysnSIUaXJgBV33xOWyjTQ6gzd5ty/6BVp8ROB4KiFj6I7NoDN4BHuYlkOhflnFB4sdHoxxckMMIcD1OhWm+klLLwGroEWJGEWolJj42IjFKQJ7uYIBJOFzDKrA8lYD7oQFWFwurFNttllipontqRTLAQr2LN22syIxVxd3pf/zogSkiuOLOzGy473pOU4LHtFj6RFAPmx2GLVmzCjtfZwg8tKJCKi24i2a2bEI1Ub1P6u7pOAGVHA9sO2C4Gck/4p7N7/TTjLjog6B7vtBtdIp+4R2vu/g7+0CJDwYThLLp5+v21wxwXcRVWipBF7hT8BWWk+GUw6yaNT7l6Fl4OAy0Wc907SutiUG87rgBI=;uB0pOtHmMqdSsIyuAGvdbQ=="
 ---
 

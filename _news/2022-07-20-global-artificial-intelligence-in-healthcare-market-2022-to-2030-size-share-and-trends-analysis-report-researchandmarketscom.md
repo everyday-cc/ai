@@ -49,6 +49,22 @@ related:
         width: 900
         height: 594
         isCached: true
+  - title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
+    excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
+    publishedDateTime: 2022-07-22T09:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+        width: 900
+        height: 594
+        isCached: true
   - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
     publishedDateTime: 2022-07-18T14:58:00Z

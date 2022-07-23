@@ -82,15 +82,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "OpenAI to Expand Access to DALL-E 2, an AI That Draws Whatever You Want"
-    excerpt: "Need an AI to draw a professional picture for you? Research lab OpenAI is preparing to expand access to DALL-E 2, a program that can generate images out of whatever you type. On Wednesday, OpenAI announced that DALL-E 2 has officially entered its beta testing phase,"
-    publishedDateTime: 2022-07-20T18:15:00Z
-    webUrl: "https://www.pcmag.com/news/openai-to-expand-access-to-dall-e-2-an-ai-that-draws-whatever-you-want"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
     excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
     publishedDateTime: 2022-07-20T18:31:00Z

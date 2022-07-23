@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-manag
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
+    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
+    publishedDateTime: 2022-07-20T10:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

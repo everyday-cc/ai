@@ -7,7 +7,7 @@ originalUrl: "https://www.winsightgrocerybusiness.com/walmart/walmart-improves-o
 webUrl: "https://www.winsightgrocerybusiness.com/walmart/walmart-improves-online-spanish-search-function"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Walmart Expands Spanish Search on Walmart.com"
-    excerpt: "We serve all of America, so it’s only natural we should prioritize improving Spanish search functionality. Why now? Prior to 2020, most of our Spanish-speaking customers shopped in stores. The COVID-19 pandemic caused significant behavioral shifts in virtually every customer segment,"
-    publishedDateTime: 2022-07-18T12:55:00Z
-    webUrl: "https://internationalsupermarketnews.com/walmart-expands-spanish-search-on-walmart-com/"
-    type: article
-    provider:
-      name: International Supermarket News
-      domain: internationalsupermarketnews.com
-    quality: 4
 
 secured: "Yowe0Yl/1o/9/pIdXrwWu/pGiLRC9/906zalk/FJHvWDXU3FtD8bxuehraW06yzkpqJOSBfrXVYHOwY56rtt2cC3dryu6nILsasURBB35Mjj7J4SVB1qGo0t2Z+QgEIc+PpqEcB85HXYEQxzBvW0nez4rm/TsiDFDYPFVXjtSymsduDICj24rVFXRwj9CmG6+WaTMlQQp/YDrogoyc3IZP2Lr4C+HkrCrMijDsMBR8J/u0Up73A/J6ihIYxl3CFQGSk0Syp2xh0pjcm0o9rjnzKmIxAYOj9p7hAeBSujKYxUWOEiY2G6Okqfe3xGJnCzx/r1IBvor7ppMd52PhEsDuEWGor9LdqKH1mqznEiz77H2Rq5KCkWuons4hVljYYiMEqbe718e/YMhHmeV4QrPCulPuT1V7fzDzSwPBLyNxjVseHq0t4PFaJdK43jZbcubQGZZQ5vLhOMn6JMbx91R5MH40Ea7mZ+rFnTQZ5Up8auEacJM75DKNlLCGd6umvly5UWYnBtdZQ0vrgUfA7eWw==;scTji3XcKMiQLJZLpzSjEw=="
 ---

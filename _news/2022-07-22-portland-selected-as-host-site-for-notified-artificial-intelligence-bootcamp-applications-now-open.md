@@ -69,15 +69,20 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+  - title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
     excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-    publishedDateTime: 2022-07-22T16:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
+    publishedDateTime: 2022-07-22T15:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "BLH/27bTAQJEot5Yh4Oq1Alih7URu5j+6sT7FZVdaVBOr+FSZwGd1khIQDi00KIb7RhfPuzKe0ykUoGoiQcVMw5aX+HieXOR3cKneHwME41BvTLm1xVJ7JR7az9DMQYqDswBS98fj0G3VGZ/iJvnVCg4NR/EP1EhCO3KuYMBIsoZQIhoZQmCsMcgJ3vsJ5D3X/3AvAhrtuABVA5lhWXxYkWuhO2fQRoCriscNX8NtU07iwaT/SDsBgNJp8173dpNiB0l7purmlV9GlwFWpffhu1NExLCLYsSar16YsHgKUs/S5lqCt+IT+O0HNRmdsiNXagW7eMSCjK9TvusNBGY8tpYroUtNs1m+l6Be6zbAbs=;WYE6zM0IUwx/OAmfg/4wQw=="
 ---

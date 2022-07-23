@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
-excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-publishedDateTime: 2022-07-20T11:45:00Z
-originalUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
-webUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
+title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
+excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
+publishedDateTime: 2022-07-22T09:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
+ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
 type: article
-quality: 28
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Future Market Insights
-  domain: fmiblog.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+    width: 900
+    height: 594
+    isCached: true
 
 related:
   - title: "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027"
@@ -49,22 +56,6 @@ related:
         width: 900
         height: 594
         isCached: true
-  - title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
-    excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
-    publishedDateTime: 2022-07-22T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
   - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
     publishedDateTime: 2022-07-18T14:58:00Z
@@ -88,6 +79,15 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 29
+  - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
+    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
+    publishedDateTime: 2022-07-20T11:45:00Z
+    webUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 28
   - title: "AI Infrastructure Market worth $96.6 billion by 2027 - Exclusive Report by MarketsandMarkets"
     excerpt: "AI Infrastructure Market is projected to grow from USD 28.7 billion in 2022 to USD 96.6 billion by 2027, at a CAGR of 27.5% during the forecast period"
     publishedDateTime: 2022-07-19T13:37:00Z
@@ -107,6 +107,6 @@ related:
       domain: dailyherald.com
     quality: 3
 
-secured: "K+fkv1CKf0E0hRslNjaTvoffwZFsvBAtcJd5R6j4gTT9e2QDxMxqPLeSLqBAgYcsp42eeLL3EiJzkRYMmSANe5iA5047CkiUkan/BVI3Czt37YBewFmUb/tOAO+Z5G3GGXpJUA9iiBTAzh8X7BMu1+ObjkELQn3jR3oMXZ4eAaac228cFu/HYzybjFOHZXYKkPBy9heaHgWUX5ARaZpz3u/nak1GJKzRXn640lHl4b6beGodg4Yh72AW1umBQ3CHX3cWewT9x8TyPlM95ZdfIeypg6VtOu54ZyA8hDpczJhOL1WAJ/ATHVl1ADZbqh73j/cRjsYUuXqZKpN+PO0PzmjsQqVWqLuOHpir/2faw0o=;iAp6Kpg7gQX+4jiM/syXcw=="
+secured: "Xl1jmrU04akY9vyPb40Z5IKudf6h026XI4hCaxDBDQ7nHRwKQnhW0UC3+7Q9Dy6O2MECRWSxey+x/6re8Wf6IEHENPT3VQqJAaL0vUjnIjk+L3776Gj0lUe58G14Dp5PeXcdwo4sj1yk55rj50OBdQ+goqPDXtK3TvK0EBlcNkQ9vLzSF80pXcpiLBZwGmv0iCPHTJQ3YWYaaBWK045azyDe4JtO+VkkYioL6ptcvuJRWheqdwGJ0SCd8F2gsozsQ82C4QFlULSS0VELZArUbCDxoFYcFtFhMSKKIDsRn2mC7VWB9ZK4KhvD0cgMYx3uUlbAYE3a339gP2JupMTf9vtj7VUP8KugsPgVhYsHB7A=;bH85fIgPS8+3fB++7mIHFw=="
 ---
 

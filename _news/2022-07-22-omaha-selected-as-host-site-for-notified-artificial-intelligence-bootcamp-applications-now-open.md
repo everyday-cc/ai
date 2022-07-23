@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+title: "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-publishedDateTime: 2022-07-22T16:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm"
+publishedDateTime: 2022-07-22T15:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
 type: article
-quality: 3
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
@@ -77,6 +84,6 @@ related:
         height: 450
         isCached: true
 
-secured: "iTP7jKSAsuhcUQGgGLhHltv2eLCJgOEMCjK7aW5MneW4CveDJCoDc/lw+p+tFhcSi9rHs3/EBvSUblA3mJR7hMFfcJGCMFeOB6aos3NiBJVaRvYDYnPwnstS95QML2+k/UKzUCdiyub+zHilFvY6RU02Z+fs8BY24Fuxyl/t6hVkVYcmS1nAiBSjoOLmWfDA/OmM0dgvwwDVkYfNgd7ztJ00PAJyQBFB+LVK1yjkK7iV74KCBFXJ9Guik6yRSglDikaiprxmVHz5GaxWqUONMMuOaFOj2u4B+fCxbwEB7Y6Y4E+vkhb9docUK6HrBxZIeOUuZDBoKIwdkOrRqNKWMrp6LgDzG1ENTCe/K5sG/bQ=;pJmWFBVoimhpwf2ksj5lxw=="
+secured: "8PknsWR+ciRFyrQuRDT/XdiFBlAvz220VWbqPE+zHDEEBVtJ+/hYnQxXpOe7uDzgnAGpGlep4T6nLm2y65sWU+vANas1BaCZyASh6mDyaGyGTJUMVIT+7Dx9uNyPrr9EKRkBjRRjj1BRf/XfEluNQ198waSBLLSI4ZfiyxnhoaaWsPenx1MTtFwT+QpFyJDusISInioB6S4V+k0wpyxHyyytU1HRolsD6IJu9WBxwBr4lFgYmyCIGGXUdf1nEdI7Omq1fFviIcb+1wCJQDDnSLGmdV6j99lO/3+t2v50LbP+Vi42D3LLA1QwshuWW2qiEhGk9uRTmV6gzrhz/dSiQu69MD4hrn/e0fu/kyf4IIY=;WO93uOZNLD4R8LMTgPRwUA=="
 ---
 

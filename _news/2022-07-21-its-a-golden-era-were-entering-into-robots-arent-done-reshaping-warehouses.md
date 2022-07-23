@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robots aren’t done reshaping warehouses"
-    excerpt: "The pace of automation has accelerated in the pandemic, as big players invest billions in their efforts to streamline how goods are sorted and shipped."
-    publishedDateTime: 2022-07-18T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/robots-arent-done-reshaping-warehouses/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "c6TEhe4F+u91Xfi7MlWMQPxkhP2LE+nIvGp7220m32vlOWRC3Equd0evT+pdcEKaGv+V10fct9jxMybHMTo5Hk9D4cMnIiy/vQtW3aQ0pd0NimYt02BtrodYlsaYXLvhl/rJ0YV7vuB8mkfkGukepb0F8gfLHUfDD6fHARe9YmzWOlvBSPBEcawk9sxxaX0u9ZFH+uGW1z6DPMblbjnEe+IVch7ekaSEWij+9VUKY5sFJPeFv5XwFDtLiXvjbAg9I4hFySIt3ovrN1smrU/q9q6Pwt1qYzlSMhLXfx8t5HoyBq+5MIhgrzSI9OyJqvIEjgr3ezNLLc0NQsiWTIBZ2LMvuO+i+0C/TYdnCtzbFAmedavzTL5aU6JIr6KJRgykj3URKaEAH7yv/ohq/2/XcDk0/yK8GulSMTd78Aqmxm13q6J7wGjxA3iT0JWArzQlTK83UHTH9WtvfaaC4JL5dGPRj3n2Y+OgufBK/AAUtdBRB4Bo/LvdEdGqFX3xeQQ5jyYQOSpobbavwoYShPfxJA==;ShFp/27StFDYFfk6cmUBkQ=="
 ---

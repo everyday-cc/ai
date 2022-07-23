@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposa
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Government proposals for UK AI regulation"
-    excerpt: "The Government's preferred approach to AI regulation in the UK has been set out today. Read a summary and techUK's comment below."
-    publishedDateTime: 2022-07-18T11:23:00Z
-    webUrl: "https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 39
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
-        width: 400
-        height: 276
-        isCached: true
   - title: "DCMS Sets Out Proposal For New AI Rulebook"
     excerpt: "The UK government has set out proposals for a new AI rulebook to unleash innovation and boost public trust in the technology, according to a policy paper published today by the Department for Digital,"
     publishedDateTime: 2022-07-18T19:10:00Z

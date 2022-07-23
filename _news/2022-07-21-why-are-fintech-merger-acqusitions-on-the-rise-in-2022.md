@@ -152,20 +152,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Unchain Fintech Festival took place in Oradea between the 13th and 14th of July, setting the regional trends of the most effervescent industry"
-    excerpt: "Events - Unchain Fintech Festival, which shaped the fintech landscape in Central and Eastern Europe (CEE) and set the industry trends, took place in Oradea last"
-    publishedDateTime: 2022-07-18T11:52:00Z
-    webUrl: "https://business-review.eu/bucharest-going-out/events/unchain-fintech-festival-took-place-in-oradea-between-the-13th-and-14th-of-july-setting-the-regional-trends-of-the-most-effervescent-industry-233250"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 3
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2022/07/FilmChain-Unchain-Fintech-Festival-1024x683.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "L2uqLAS2nUBqbizEJFr4ki99z85lf1SmlqamxWeDH7V7tp17KGFIg1nQTxvsyhkY+3QLmnkjharHNQq/H+nPeSKPWlqTb0AcU5I43nJ2FpxFVesINPsvK0OpHY50rVZ9p6GXnachDkHFIGJG5pCxq3m19JAxBCEV8oN+I2ihcl+Ysox5j3fQfl47PhnQMWUOEMPkyeUCYaO/ttmL2MVPROtwLaj1AkcC51FnjlD83nCl82aGQrYhLS58cHJ7gTcGW8hV9CzDaNwkQEE5DsdA7crPhRVN736TQoahXZnX68UM6Dz9ix03+3hlfPhevyQusHCeisvJURGac4C6RPrVewXd+6WriqYWRWA4AuvsunoDqC99+Zvwc8An+JbLL5BydL3nFJGNOR/x7GDLBKiAGDHwblkajkhsczr+p5/wRZDmxNlyU7FWT0dQiMJi6ksfsgeWTJcaoMmFxPNf52bcpRsyIo3x7QN8bTJdb5j/7J77s7bDJRsDT6aEyrFk+GEOLptR6Ogo0VattcmmD0/xLw==;hr0PhQLtbOX3KUfFCoyHvg=="
 ---

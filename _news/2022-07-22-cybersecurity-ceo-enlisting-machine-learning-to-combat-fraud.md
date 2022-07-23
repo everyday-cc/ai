@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Fortified Health Security Releases 2022 Mid-Year Horizon Report on the State of Cybersecurity in Healthcare"
-    excerpt: "Findings highlight industry’s progress toward adopting a security-first mindset as cyberattacks evolve and grow more sophisticated; explores key role of emerging AI/ML detection and response technologies FRANKLIN,"
-    publishedDateTime: 2022-07-18T13:02:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-health-a5ddc8e971e8598a2bd79fbd871223e0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
   - title: "Former Cybersecurity CEO Christian Espinosa Sheds Light on The Lack of Emotional Intelligence in The Tech Industry"
     excerpt: "With ‘The Smartest Person in The Room,’ Author Christian Espinosa aims to teach business leaders the importance of emotional intelligence and nurture it within their employees. Former Tech Founder & CEO Christian Espinosa has published his book titled ‘The Smartest Person in The Room."
     publishedDateTime: 2022-07-20T05:20:00Z

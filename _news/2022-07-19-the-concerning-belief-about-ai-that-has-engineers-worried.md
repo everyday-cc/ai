@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google has fired a software engineer who claimed an AI chatbot was sentient"
+    excerpt: "Blake Lemoine was placed on leave last month. Google and many leading scientists were quick to dismiss Lemoine’s views as misguided."
+    publishedDateTime: 2022-07-23T05:01:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/google-fired-software-engineer-claimed-ai-chatbot-was-sentient-rcna39679"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39679"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39679"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 85
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220723-google-cc-0100a-a0662f.jpg"
+        width: 5400
+        height: 3600
+        isCached: true
   - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
     excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
     publishedDateTime: 2022-07-23T03:38:00Z

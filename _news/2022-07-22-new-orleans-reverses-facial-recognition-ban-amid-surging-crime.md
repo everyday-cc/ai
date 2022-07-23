@@ -77,15 +77,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "New Orleans OKs Some Police Use of Facial Recognition"
-    excerpt: "The New Orleans City Council has approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes."
-    publishedDateTime: 2022-07-22T20:42:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "US local and state leaders push for police use of facial recognition"
     excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
     publishedDateTime: 2022-07-22T21:14:00Z
@@ -100,6 +91,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "New Orleans OKs some police use of facial recognition"
+    excerpt: "The New Orleans City Council has reversed itself and approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes. The ordinance, approved by the council on a 4-to-2 vote Thursday,"
+    publishedDateTime: 2022-07-22T19:45:00Z
+    webUrl: "https://www.chron.com/news/article/New-Orleans-OKs-some-police-use-of-facial-17323307.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "GVTzoYGd06q73gpLMOAXqemtvMRoIvL7O+tcM/cwJeozvKDvDG7GnDWls17/VVloenCe4nE3BpilMGGH3xTz/W1gNH/VRALbHhm0I87SQeHECv+eCIxU6u9Anrn/rDPqIPNLEA6nosXwfkBU+wxoB+jdzy3Wu3YxX+OCHp6mo1kAuTKye1h3FI9XZL5VLhamM+WezjkC2Y1/d2lvHl30eMc30NgP+7rB8oOhwwDMf9ZmCk3Z8V2X3b5WfCJMW6UumEiH7b0dQVls82sF9v+LpkDQxwcLOqOI9RByJ9yjVgzfzexGAGusSpMQiLs9sAflmLQuv7HK9dKu6VZZdVfd5bzUtzyDiPffS6P3mdr1H4A=;+72eRULTNMCiG2geDuIxCg=="
 ---
