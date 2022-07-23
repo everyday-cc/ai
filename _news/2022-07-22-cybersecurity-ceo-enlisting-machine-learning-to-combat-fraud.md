@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       - url: "https://i-hls.com/wp-content/uploads/2022/07/robot-2301646_1280.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Robots take up the cybersecurity fight, SLVA Cybersecurity"
-    excerpt: "Even those with robust cybersecurity strategies in place are concerned by the sheer number of business attacks, which increase in number every year. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report,"
-    publishedDateTime: 2022-07-18T05:57:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/robots-take-up-the-cybersecurity-fight-slva-cybersecurity/"
-    type: article
-    provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 39
-    images:
-      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
-        width: 336
-        height: 280
         isCached: true
   - title: "Fortified Health Security Releases 2022 Mid-Year Horizon Report on the State of Cybersecurity in Healthcare"
     excerpt: "Findings highlight industry’s progress toward adopting a security-first mindset as cyberattacks evolve and grow more sophisticated; explores key role of emerging AI/ML detection and response technologies FRANKLIN,"

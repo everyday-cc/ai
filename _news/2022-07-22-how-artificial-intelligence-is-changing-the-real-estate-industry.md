@@ -58,17 +58,22 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How artificial intelligence is revolutionizing the food and beverage industry"
-    excerpt: "Artificial intelligence (AI) is making significant waves in the food and beverage (F&B) industry, as it is in many other industries. AI in the food and beverage business is predicted to increase at a"
-    publishedDateTime: 2022-07-18T05:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-revolutionizing-the-food-and-beverage-industry/"
+  - title: "AI Is Key To Keeping Your Digital Services Running"
+    excerpt: "The right AI approach can make the difference between up and running and down and out. You don’t need us to tell you that times are weird. The perfect storm of Covid variant waves, war in Ukraine, unrelenting climate events,"
+    publishedDateTime: 2022-07-22T23:12:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/"
+    ampWebUrl: "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62db2cbccce38e50ba39dc40/0x0.jpg?format=jpg&width=1200"
+        width: 567
+        height: 305
+        isCached: true
   - title: "An AI-assisted analysis of three-dimensional galaxy distribution in our universe"
     excerpt: "By applying a machine-learning technique, a neural network method, to gigantic amounts of simulation data about the formation of cosmic structures in the universe, a team of researchers has developed a very fast and highly efficient software program that can make theoretical predictions about structure formation."
     publishedDateTime: 2022-07-21T18:27:00Z

@@ -57,20 +57,6 @@ related:
         width: 1196
         height: 628
         isCached: true
-  - title: "New facial recognition technology expected for online"
-    excerpt: "By Phil Pennington of RNZ A raft of legal opinions has cleared the way for greater use of facial recognition technology to prove who you are online, as the"
-    publishedDateTime: 2022-07-19T00:54:00Z
-    webUrl: "https://www.newstalkzb.co.nz/lifestyle/technology/identity-revealed-new-facial-recognition-technology-expected-within-the-next-year/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/eh3h5jhx/facial-recognition-technology-123rf.jpg?rmode=crop&rnd=133027080602900000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "Port of Baltimore starts using facial recognition technology for disembarking passengers"
     excerpt: "Facial recognition technology is now being used to verify disembarking passengers’ identity at the Port of Baltimore under a plan announced Monday by U.S. Customs and Border Protection in partnership with the Maryland Port Administration and Carnival Cruise Line."
     publishedDateTime: 2022-07-19T03:57:00Z

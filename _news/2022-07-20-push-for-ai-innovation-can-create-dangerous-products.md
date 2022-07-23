@@ -52,6 +52,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Commentary: Push for innovation in artificial intelligence can create dangerous products"
+    excerpt: "There is a perverse incentive for firms to design AI that is artificially innocent. A better approach would involve more extensive harm reduction, says a professor of management."
+    publishedDateTime: 2022-07-22T22:00:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/ai-legal-liability-boeing-tesla-uber-car-crash-2828911"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 32
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--lVU5laua--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/tesla-autopilot_investigation_69897.jpg?itok=fSXKh80r"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "C/flm1SagZzkXjiInnP0lsRbPmwzmYyZxNDmxLox5Huz2ZgcNLDnLGEMV555gNdRlB7Q2pKXCOWchMQ3MkHpuPt/laK/Vu67q68fEifn4kcLMKTLtBE6HotqV7nElJbkjLWqKe7XiDhZyTPKSo4/FvS8DsfGCQLStXCBpS0hpw5f46CHBe8FHMr6HPRs8IFZrnzW5SLZuqbZyFuCzHfXK6hhe/QJiBnBQVw199ZhZQjCo7eVSKH9RBRW0ozUCjRs010GNPN5sEsLfpPWd7pKdeyyXpiinnDqC5CNzBV3Vo3KV9f3WLuf3miDVKPU1pTG8VtfQPJD/qlk7Prlr7eoEWIsXIvRL5XIOsd89sxfpEk=;C6vIROzVAYMEYAYPIFtQzQ=="
 ---

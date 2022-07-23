@@ -1,30 +1,26 @@
 ---
 category: news
-title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
-excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition technology while investigating violent crimes, effectively reversing a ban on that and other surveillance technology imposed last year amid concerns that ..."
-publishedDateTime: 2022-07-21T20:03:00Z
-originalUrl: "https://www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.html"
-webUrl: "https://www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.html"
-ampWebUrl: "https://www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.amp.html"
-cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.amp.html"
+title: "New Orleans OKs Some Police Use of Facial Recognition"
+excerpt: "The New Orleans City Council has approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes."
+publishedDateTime: 2022-07-22T20:42:00Z
+originalUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
+webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
 type: article
-quality: 50
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: NOLA.com
-  domain: nola.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/6/b4/6b4adb9b-656b-53c4-aec1-1c7824220503/62d99d8766d8b.image.jpg?resize=1024%2C683"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "New Orleans reverses facial recognition ban amid surging crime"
@@ -73,15 +69,22 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "New Orleans OKs Some Police Use of Facial Recognition"
-    excerpt: "The New Orleans City Council has approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes."
-    publishedDateTime: 2022-07-22T20:42:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
+  - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
+    excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition technology while investigating violent crimes, effectively reversing a ban on that and other surveillance technology imposed last year amid concerns that ..."
+    publishedDateTime: 2022-07-21T20:03:00Z
+    webUrl: "https://www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.html"
+    ampWebUrl: "https://www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_d31cb51a-090c-11ed-8929-7bc8922a7d0d.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: NOLA.com
+      domain: nola.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/6/b4/6b4adb9b-656b-53c4-aec1-1c7824220503/62d99d8766d8b.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "US local and state leaders push for police use of facial recognition"
     excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
     publishedDateTime: 2022-07-22T21:14:00Z
@@ -97,6 +100,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "HRapymIaHnmCgl0xYTpwqHOJeKd9BcEOc8jwwby2nQ/FYDXJLM1kF5UZIzEhCRSHJ5qUavDD0nlsJRs8pVfLeXzAdIrsrThLvzuJ53dju04wyJKWYcDizCt74rqEo9pozN3ZyGkJCHm7+2cqQkwvPHW3N86TpgJNqVqPPnOvLOqcahWzoZkZ7sNngr978TCcfJze7QEYVgXzVvy3hwaH7qB+20ivIY+tf0tMvDbgZ5eVc9zEju2944hbZuSlSk0AYDlN3wRx7ydTSZOUqVl9BW4E5n9LAbpdn/zHzVFn4JZTd4lBECDM6bLb8T1eXVa5fGk7ucsqN3VLWHxbpBJuv2ZC6BNAFATvcRtGnJ0YFntJURr6ajmLE3Os7BY/xUPeADlS+ZZxZhScfv99Vc8jeyesKIPZrx8xwcfQdk6i/uhHlZIqNDZsuAR3t2NbuB8Z3pJwb6Q+ruzqNwGXQu7N1ixj42qkqE8MwYAGEBbyvLzpsmr7h/wSPD4zesrX/tQXypwV+t7XfD2d8vvo1QISZw==;kFLXLbt3SNXnyHETj8aQsQ=="
+secured: "6FQjfaQCxwTVFyUHFqaTYRQUCm/cjiMvm+iDkoovjEmg5fTGQz4/CmnMbFEmPBsxv6T9oWyHcxIECNI4FGh7nsirYAFN5fYmhI7ay3Xkfk6OK1nOQAvXnf5KfeGMy3iQwEeTZULYMbFLtcWKhSWYu23xo/7E0dliZkg0APAFTC4i8hMm5SKndl6daP4jQKXdUDj3UEUBusgB4+2OMLsvHvY8U+TZCLNMwzB0DwG2Y8ei/SMtZ/bfYONZQD8S8ysxMRn2ol2XkpojfB+5zRmLvGbP/60c7/YpwOY0Me8h08vARJMpcz2DOYBldHL87tbfNyj3QWZGnOv1skxlA3fDRqDDNxcyVKkHp8yL+tOAly8=;f22fU04FP6zLKBcmLXxpnA=="
 ---
 

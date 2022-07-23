@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "KAUST, Partners Develop Self-driving Mobility Platform"
-    excerpt: "Intel and Brightskies have collaborated to develop self-driving mobility platform with launching REDD, a strategic initiative that puts research innovations in artificial intelligence to the"
-    publishedDateTime: 2022-07-18T06:02:00Z
-    webUrl: "https://english.aawsat.com/home/article/3764146/kaust-partners-develop-self-driving-mobility-platform"
-    ampWebUrl: "https://english.aawsat.com/home/article/3764146/kaust-partners-develop-self-driving-mobility-platform?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3764146/kaust-partners-develop-self-driving-mobility-platform?amp"
+  - title: "Swarm Intelligence Market Size in 2022 | No of Pages 100 | Business Prospects by Discovering New Trends and Driving Forces and Forecast up to 2028"
+    excerpt: "Jul (The Expresswire) -- \"\"Swarm Intelligence Market\"\" Insights 2022 : Swarm intelligence (SI) is the collective behavior of"
+    publishedDateTime: 2022-07-20T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-size-in-2022-no-of-pages-100-business-prospects-by-discovering-new-trends-and-driving-forces-and-forecast-up-to-2028-2022-07-19"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
     images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/07/18/car.jpg?itok=2V5a30MD"
-        width: 480
-        height: 268
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DHRpF/CjyKkJSGGLNaAoroH7CF8H6YxTkDiZUiTUhYFGEekVi5+oBwSEpg4pe1Xs3w8MhaL3Be8t00K3MO2+JUJ+jssrwh4UAitwb/95yCjYRcwpmLLa7lJtt+co+ICtEkUc0i/bcxqrrcK4oP9TVfkxivUpc7oKALF9bAHRDVrUs+00u0jxCjS/y/LSlWrWdvGLjbvKUe6OVExmwpt4q4odPPBfhPKfbaEI/OLFV6zw6H+8+NIbIxrrJlqI9tfyxXAVm1Nc/JI0YOm7luWQGehSl6mctN7Bzuc8Y3TfUdJFFGu1HOx3XMZZP+zmrM99Zjdku44kXE4t+MK+6juKaTFPf+fYoHOJAxC0j2qHMWI=;H2Rh9EkHOPXn4jS+bhSR8Q=="

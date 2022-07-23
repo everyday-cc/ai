@@ -7,7 +7,7 @@ originalUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-me
 webUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Te Hiku Media Launch ‘Rongo’ To Support The Correct Pronunciation Of Te Reo Māori"
-    excerpt: "Te Hiku Media. Available for download now on the Apple App Store, Rongo is an app designed to get more people speaking te reo Mori with correct pronunciation. Pe"
-    publishedDateTime: 2022-07-18T06:32:00Z
-    webUrl: "https://business.scoop.co.nz/2022/07/18/te-hiku-media-launch-rongo-to-support-the-correct-pronunciation-of-te-reo-maori/"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 19
-    images:
-      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "qeyJzvzsDgUTW12ZH8KlZ69YvFmP633T7/bC1bfkZid0FyD62vGOT9oHcbtJxeCC7GsNf5hUYjXGiDNFVzYIS8SPr/DxuA9eWZ3wVlaWcWesw+xPtup1ISXybwR8nUqEmPeYGN7ZM33HHSvGo4fS4DxjQFT3MjGpD6hUvj/bsMbedMDn0+TaITh8O6VquEbkg7qjvoDpOnPXDj5eVbbRiB22gkDxdHFeNYEjL8OWJLpRRNkVdTlPQ+8PJRqcU5EQ58hO/b9iypLuyBQPKLKuBhLHy3A0RHgjS0loma4hdb1FpDkCHqfo3dQ+IbxXKru7rsq8tQ0XwBz+rZMVw1tlU9Ap8cOfc6Sf03YTQYA3kdKxMSqPRQYYIhRsjogKbg4Hdk6dQ0NjcMHi/bgSRjzmF0fBeKVqLsA1LjM4nH/JPfhcrLd93zo7SwCmUGr2tIqAND4vVQe8+xlBkjvPIP+xRitwydjjylEJQN/i+2W3r/pWFq3KGk2Nv00yQd4IjtVnfQd8zyEthif7z0IkA9aZlg==;DWytau60dTtAm278r6pRbw=="
 ---
