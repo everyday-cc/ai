@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
-    publishedDateTime: 2022-07-18T18:51:00Z
-    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
+  - title: "History of Artificial Intelligence"
+    excerpt: "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life."
+    publishedDateTime: 2022-07-19T17:40:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
     type: article
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 75
+    quality: 73
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
-        width: 800
-        height: 800
+      - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
+        width: 635
+        height: 517
         isCached: true
   - title: "The virtuous cycle of AI research"
     excerpt: "We recently caught up with Petar Veličković, a research scientist at DeepMind. Along with his co-authors, Petar is presenting his paper The CLRS Algorithmic Reasoning Benchmark at ICML 2022 in Baltimore, Maryland, USA."
@@ -47,17 +47,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "Snorkel AI Hosts Second Annual The Future of Data-Centric AI Conference, August 3–4"
-    excerpt: "Press Release Snorkel AI, the data-centric AI platform company, today announced that it is hosting the second annual The Future of Data-Centric AI conference for leaders of data science and analytics teams,"
-    publishedDateTime: 2022-07-21T20:25:00Z
-    webUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/"
-    ampWebUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
   - title: "Time to act now on AI Bill of Rights"
     excerpt: "To address the unprecedented threats artificial intelligence may pose to Americans’ civil rights and privacy, the Senate must urge the nominee to commit to releasing a Bill of Rights for an Automated Society."
     publishedDateTime: 2022-07-19T22:00:00Z
@@ -73,20 +62,6 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2022/06/9524461e8e5d4e6b9aeab4369b30a99a.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Deciphering The Future Of Robotics And Automation"
-    excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
-    publishedDateTime: 2022-07-19T14:25:00Z
-    webUrl: "https://www.canyon-news.com/deciphering-the-future-of-robotics-and-automation/160193"
-    type: article
-    provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 56
-    images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
-        width: 1773
-        height: 1182
         isCached: true
   - title: "Advance of AI creating a moral minefield"
     excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
@@ -130,15 +105,6 @@ related:
         width: 993
         height: 675
         isCached: true
-  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
-    excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
-    publishedDateTime: 2022-07-18T20:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
 
 secured: "W/ac8p00ojQdlAyL22k1KhClO08VNrG6P8agMGo/4Jt7ywOftDiqwJhqTYpfzBMOnXoDnoPqw0SF7S7ygKIcp3rHuTSsAcJ/j1YTOjW7MOQSsDfKaHYc56nKHgxMRpWjgziLXpi56Bi18tzkOqCFZ3FaaXtghHaCghMNjidCQSjXa6DQQuG4TYD7mEh8tE1TIpfvJUPOdJrX64s0dFfz37hLItk/SZYMPHMjFJjR3YbOa/yqG2cHAgCZ3p22ylrSLa3QOx4Q2oY2vdgH5ur04SH4Fxyxuc5kz0Q+eZKLtnQmqNCAvfBrrcmWQ9ykdxcHiqJlm4X+J2ocXsZP4E1WBoCV9wWGWFkdKZlL6E132OA=;wRr2ObiC/pzKKZGRYthIVQ=="
 ---

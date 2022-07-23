@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets."
-    publishedDateTime: 2022-07-18T18:51:00Z
-    webUrl: "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/"
+  - title: "History of Artificial Intelligence"
+    excerpt: "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life."
+    publishedDateTime: 2022-07-19T17:40:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
     type: article
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 75
+    quality: 73
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg"
-        width: 800
-        height: 800
+      - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
+        width: 635
+        height: 517
         isCached: true
   - title: "The virtuous cycle of AI research"
     excerpt: "We recently caught up with Petar Veličković, a research scientist at DeepMind. Along with his co-authors, Petar is presenting his paper The CLRS Algorithmic Reasoning Benchmark at ICML 2022 in Baltimore, Maryland, USA."
@@ -49,31 +49,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
-  - title: "Snorkel AI Hosts Second Annual The Future of Data-Centric AI Conference, August 3–4"
-    excerpt: "Press Release Snorkel AI, the data-centric AI platform company, today announced that it is hosting the second annual The Future of Data-Centric AI conference for leaders of data science and analytics teams,"
-    publishedDateTime: 2022-07-21T20:25:00Z
-    webUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/"
-    ampWebUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-  - title: "Deciphering The Future Of Robotics And Automation"
-    excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
-    publishedDateTime: 2022-07-19T14:25:00Z
-    webUrl: "https://www.canyon-news.com/deciphering-the-future-of-robotics-and-automation/160193"
-    type: article
-    provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 56
-    images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
   - title: "Advance of AI creating a moral minefield"
     excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
     publishedDateTime: 2022-07-20T23:01:00Z
@@ -130,15 +105,6 @@ related:
         width: 993
         height: 675
         isCached: true
-  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
-    excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
-    publishedDateTime: 2022-07-18T20:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
 
 secured: "zpi+onCDhBrrxrHxo/TAi6tmSlp228s7H2YHpNYB/LhSvNv+TqrzsYSOGi0Tiu3lNPOo7LIF055WEE91bxahI1eSlDq+JcXyxD+7zmGazJ4NsDLiaE2D8g1HfWBDYtvhLdB9Z1fQAQ2R73yKnF/9z3xUyxEaaZ1NeIOanTIZAiovUy1ATSm6sRfKCJj6gBSdm5TcrOdb9iGHBQ4tKmA3dAXUsPOFcrWc01YnGHG/9m7EnSzQjKcMIZa+8vbFQudjuAMx79uyHAmXNJgs6Y5bCI5bwSvXxAFpYd7XfE07RiC51829P7Cj2cmbj4tsAaAj7LKuT1tzmvn9KZcVnvG39+ehvVhOFcl7SGWTSA99OQXYkOUeEJaCrTzJTFRDCYaD3RsaGhEYo7LDg7x9VVyDjUcR73Mh7sKzJPFm4ZhAokf6FdTOLxvtSV+iBsSnPsY5QnZ+UDKK4n/QC1USVSKpsWfZw6fi8cmyLPWOJzv4JFresqCux3tWbBdg0HW0H/N9PuzNcgFvok4WUqCFnwXBFA==;ReN/BVoFRMSVhEiblIEBYA=="
 ---

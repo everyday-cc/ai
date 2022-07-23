@@ -2,6 +2,249 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-05-11-google-translate-learns-24-new-languages.md",
+      "title": "Google Translate learns 24 new languages",
+      "excerpt": "For years, Google Translate has helped break down language barriers and connect communities all over the world. And we want to make this possible for even more people — especially those whose languages aren’t represented in most technology. So today we’ve added 24 languages to Translate, now supporting",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/translate/24-new-languages/",
+      "originalUrl": "https://blog.google/products/translate/24-new-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_heroes_translate-11.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/translate/24-new-languages/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/",
+      "publishedDateTime": "2022-05-11T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
+      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
+      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
+          "width": 1601,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "publishedDateTime": "2022-05-11T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
+      "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
+      "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
+      "originalUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
+      "publishedDateTime": "2022-05-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco.md",
+      "title": "Rise Of The Machine Learning Engineer: Elizabeth Hutton, Cisco",
+      "excerpt": "Elizabeth Hutton is the lead machine learning engineer at the Cisco Webex Contact Center AI team, where she leads building in-house AI solutions from research and development to production. In this wide-ranging interview,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627ad6b441bf5cd8d22d9aca/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
+      "publishedDateTime": "2022-05-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-intel-upgrades-for-ai-wars-with-habana-designed-server-chip.md",
+      "title": "Intel Upgrades for AI Wars with Habana-Designed Server Chip",
+      "excerpt": "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Habana_Gaudi2_Card.627aa84f05a13.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
       "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
       "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
@@ -903,214 +1146,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-unveils-new-ai-5g-technologies-at-texas-conference.md",
-      "title": "Intel unveils new AI, 5G technologies at Texas conference",
-      "excerpt": "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "originalUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "publishedDateTime": "2022-05-10T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGW8",
-        "domain": "kgw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
-      "title": "Robots and the Future of Remote Healthcare",
-      "excerpt": "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
-      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-community-dwelling-older-adults-the-mediating-role-of-depression.md",
-      "title": "Reciprocal associations of posttraumatic stress symptoms and cognitive decline in community-dwelling older adults: The mediating role of depression",
-      "excerpt": "Email: ellasch@bgu.ac.il People with posttraumatic stress disorder (PTSD) may have cognitive decline, a risk which can be particularly threatening at old age. However, it is yet unclear whether initial cognitive decline renders one more susceptible to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-communitydwelling-older-adults-the-mediating-role-of-depression/B3E19D38DFDF91ACF6C7000F496A9487",
-      "originalUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-communitydwelling-older-adults-the-mediating-role-of-depression/B3E19D38DFDF91ACF6C7000F496A9487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-settlement-clearview-ai-to-limit-sales-of-biometric-database.md",
-      "title": "Settlement: Clearview AI to Limit Sales of Biometric Database",
-      "excerpt": "After two years of legal proceedings, Clearview AI agreed this week to limit the sale of its facial recognition software to government agencies as part of a settlement reached with the American Civil Liberties Union.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
-      "originalUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true",
-      "publishedDateTime": "2022-05-10T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

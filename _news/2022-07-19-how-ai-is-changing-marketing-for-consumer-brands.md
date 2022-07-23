@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?"
+    excerpt: "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI"
+    publishedDateTime: 2022-07-23T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How AI Can Prevent Problematic Gambling in the Mobile Betting World"
     excerpt: "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how."
     publishedDateTime: 2022-07-21T21:00:00Z

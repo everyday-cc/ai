@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?"
+    excerpt: "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI"
+    publishedDateTime: 2022-07-23T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
     excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
     publishedDateTime: 2022-07-20T04:49:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Find what moves you"
-excerpt: "This EV has plenty of get-up-and-go, but the GV60 always seems happiest when it's playing the role of a small luxury car. Toyota's oldest nameplate returns to the States as a perplexing hybrid ..."
-publishedDateTime: 2022-07-11T01:16:00Z
-originalUrl: "https://www.cnet.com/roadshow/1165/"
-webUrl: "https://www.cnet.com/roadshow/1165/"
+excerpt: "First Drive: 2022 Lucid Air Grand Touring Performance Delivers Exactly That The Lucid Air's top-level Grand Touring Performance trim stays true to its name with refined luxury, impressive range ..."
+publishedDateTime: 2022-07-11T01:22:00Z
+originalUrl: "https://www.cnet.com/roadshow/1167/"
+webUrl: "https://www.cnet.com/roadshow/1167/"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "/O0u3dL3Hp28B/f3wW0OU8N4hH+CV7akGXrr+ZA9mxgbdzaTCsjbcoEBZbvlaos+EbiOehLYp05Eb5/ZUMD/vfwc7Rj2kzxbSWChYDpwkfqomQbjSYC4oikq4Ny/XB4zvRN7HVZFceFsHWG+gDtR5iQ0OFfLK1f4/tISqz4RDEVTWWVCv8kCFHHxoovWItoa4P6BKKt1nC1FtEU4pYPXt9tdT5UsjqQsSac6cp3PJGiCXEybp7V0lrDAoY/xiH1ssrWhmM7Z0NChTzOrZVGgOLY3xEwKDrj27YF+dFvvb+KPDLT8ZCJSvveA7zGS6VcogsftOVChvTbzc7E51oNo/0xcrzB7+wienazRsTKAV2g=;D+K3+hZBwZN03rWn2wVCMw=="
+secured: "tC1zZeijoq2OmKA9SYQ4FXwhcFVTUb5MIoVdyAYGU0fFDTAWL62QViZbXkeBgrDnGKXCtZIJjQBHPaLYgXHKriEWicRasPjQhFc6GLG/whIS7OBQMBJHZB5dln5b2v3dX39hrpM3RcCvgWY2OiwQIeCIRWgEQ0gH+b6qH2JOdZWBXUafJ3ZMtPWPACXqgnAKWX0BtrQwiGd2GJGm2LwORp3W5KMI+mNS0ump8kwAmhxVAptzZsMT27uOZlTEYo/JNS0pZx8dOpyPjD03zryHb8br2L8u/CgZwMTgL18GFwdFLIio2Yr+KVfSVGrPdhQi2MSR0jvxGxUsNItMivJZ9HpXjOGnjuQ52L0p5CzPz1c=;BxiqXYWJxUvkat9iPlCa7g=="
 ---
 

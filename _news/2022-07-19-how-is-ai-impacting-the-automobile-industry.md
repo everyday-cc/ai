@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Impacts
@@ -26,40 +26,56 @@ images:
     isCached: true
 
 related:
-  - title: "How Cornerstone AI is making data ‘right’ for healthcare industry"
-    excerpt: "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry."
-    publishedDateTime: 2022-07-18T18:30:00Z
-    webUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/"
+  - title: "How AI writing service Craftly AI is transforming the content industry"
+    excerpt: "As the world gets more and more digital, our daily habits are turning more digital too. We start our day with news and social media articles on our laptops rather than going through a newspaper. We look down at the notifications on our smartphones more than we look up to see a billboard."
+    publishedDateTime: 2022-07-22T10:46:00Z
+    webUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/"
+    ampWebUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "Cornerstone AI Raises $5 Million Seed to Solve Healthcare's Data Problem"
-    excerpt: "Cornerstone's Enterprise platform launches to unlock the power of clinical data in a fraction of the time of traditional methods SAN FRANCISCO (PRWEB) Today, Cornerstone AI, a new company solving"
-    publishedDateTime: 2022-07-18T19:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/p28105868/cornerstone-ai-raises-5-million-seed-to-solve-healthcares-data-problem"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28105868"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28105868"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-  - title: "Cornerstone AI Raises $5M in Seed Funding"
-    excerpt: "Cornerstone AI, a San Francisco, CA-based company solving healthcare’s data challenges to improve research and care, raised $5 million in seed funding"
-    publishedDateTime: 2022-07-18T23:34:00Z
-    webUrl: "https://www.finsmes.com/2022/07/cornerstone-ai-raises-5m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/carta-440x293.png"
-        width: 440
-        height: 293
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/AI-writing-service-Craftly-AI.jpg"
+        width: 960
+        height: 533
         isCached: true
+  - title: "How Fintech Is Elevating the Real Estate Industry"
+    excerpt: "There is hardly one industry unimpacted by the rise of smartphones and all the surrounding technology, and the world of real estate is no different. “Fintech,” a short form for financial technology, refers to technology like software or mobile applications that improve and automate traditional forms of finance for businesses and consumers."
+    publishedDateTime: 2022-07-22T11:01:00Z
+    webUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/"
+    ampWebUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/How-Fintech-Is-Elevating-the-Real-Estate-Industry.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Low adoption of AI is hurting Australia in the global field"
+    excerpt: "Australia is at risk of becoming a low-skilled economy without a serious commitment to investing in new technologies like artificial intelligence."
+    publishedDateTime: 2022-07-19T19:00:00Z
+    webUrl: "https://www.afr.com/technology/low-adoption-of-ai-is-hurting-australia-in-the-global-field-20220715-p5b1t7"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
+  - title: "The Development Of The Games Industry. Meta Universes And Artificial Intelligence"
+    excerpt: "The future is approaching at a high speed. Technology is improving every day with new innovations and revolutionary ideas. Obviously, technological"
+    publishedDateTime: 2022-07-22T18:58:00Z
+    webUrl: "https://nerdbot.com/2022/07/22/the-development-of-the-games-industry-meta-universes-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Nerdbot
+      domain: nerdbot.com
+    quality: 14
 
 secured: "GSrsyxgVaRZUQvIHC9N4iaXEcRPbuKEVCyAUoDL2LkBEoVK657R+BzhLDljl+nWmLvsh3FaNFxEih2B2MqLtOhmBXP1BnGhrfnF2yyS1ZAamiTGwsALqGPp6ZFnHT80WLMl2NOPvjMcjKd6wX5qrXs3mMSx9GnTHGqU/6thuxH5tuRoccJdJ1F82b0BXr0aHGAzGUKXlp5s+8F0GW8peJijwkJ1JbuCbhZWx6627bdnaFQZCIKDEmVo8cpKK0uMOZGQwt5yYVxEaO7jDyfDBqzaWvXhLcByIJDXjUWbTX98o5MZSJW0RBKj4XRv3s7MG/+MDvRvZvzRFpm37fXots3jJPamVrDsmLi6c+kqj9P6pgWKhnFnIvWKi9QJV5e9Wfx7YjkwkLQzfbb0O/efUSHVAbUOq1yXzyI2sbsQswEB/OUR380bjhKqyuCkqDeusRKx8HZuLDbFuvktGKy7PE04Vm9cZrgBVoTd9+2L/VtjLOQnsxfmYqw2C7ACn8EKR9+lCIg2ZUhi5iOrfRNItIQ==;7Y59YpPFS/MOcxJFwzbf9A=="
 ---

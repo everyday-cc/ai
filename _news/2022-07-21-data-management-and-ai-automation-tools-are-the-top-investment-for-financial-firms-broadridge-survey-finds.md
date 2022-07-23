@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Data Management, AI Automation Tools Are Top Investment for Financial Firms, Broadridge Survey Reveals"
+    excerpt: "In addition to data management, firms are also “investing in AI and automation (23%), more human capital ... As covered, Broadridge Financial Solutions is a global Fintech “with $5 billion in revenues, provides the critical infrastructure that powers ..."
+    publishedDateTime: 2022-07-23T11:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai-automation-tools-are-top-investment-for-financial-firms-broadridge-survey-reveals/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 23
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Tools-Work-Fix-Wrenches.jpg"
+        width: 1280
+        height: 906
+        isCached: true
   - title: "Data management and AI automation tools top investments for financial firms - survey"
     excerpt: "Investing in technology to better optimize data and modernize data management are the top priorities for financial services firms according to new research by global Fintech leader, Broadridge Financial Solutions,"
     publishedDateTime: 2022-07-21T13:09:00Z

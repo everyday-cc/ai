@@ -115,15 +115,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
-    excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-07-18T18:17:00Z
-    webUrl: "https://electrek.co/2022/07/18/tesla-full-self-driving-beta-10-13-release-notes-left-turn-animal-detection-speed-limits-more/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 33
   - title: "GM wants to test self-driving car with no steering wheel, pedals"
     excerpt: "General Motors Co and Ford Motor Co are seeking exemptions from US authorities to relax some rules related to testing of autonomous vehicles, according to Steven Cliff, the head of the National Highway Traffic Safety Administration."
     publishedDateTime: 2022-07-21T09:30:00Z

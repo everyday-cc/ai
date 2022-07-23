@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28105868"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28105868"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -19,47 +19,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "How Cornerstone AI is making data ‘right’ for healthcare industry"
-    excerpt: "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry."
-    publishedDateTime: 2022-07-18T18:30:00Z
-    webUrl: "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "How is AI impacting the Automobile Industry?"
-    excerpt: "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of."
-    publishedDateTime: 2022-07-19T09:11:00Z
-    webUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/"
-    ampWebUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/Automobile-Industry.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Cornerstone AI Raises $5M in Seed Funding"
-    excerpt: "Cornerstone AI, a San Francisco, CA-based company solving healthcare’s data challenges to improve research and care, raised $5 million in seed funding"
-    publishedDateTime: 2022-07-18T23:34:00Z
-    webUrl: "https://www.finsmes.com/2022/07/cornerstone-ai-raises-5m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/carta-440x293.png"
-        width: 440
-        height: 293
-        isCached: true
 
 secured: "VTzrji6qDmMza8znqvVezJxknaVNN/8Bu9S7rx7SJXLBLT73kteK6KbupOy9p3fOrxno7I4RPKTsIdaeyYXd/j5my8VmmBXXZtjNBUgo7BLIudACwJa5MUKBETLqpNxRbsqqVrFfH+U0hQC5cMzvMuVVZqMCuBGZtGSMqmB5Slj/hHNPlSrtYHnaeZLnNAW7ARV6G4qKKFdb29p7QkOItyZCy1w7zSzH3k0hL9or0HKza9ypSKoSEmLJD/GEVQfGjGscVEZlPbDn89RQquQksLcL0fbShyIz76jGFKvW/fZ1zEEMYQXoDgD5JiPoW1Pjz1Sb6oqM7JI6CmFqcrvinzblZpbta8fmWAmy9bj/df4=;tEW+aAk6Jxuvl/MROfkiDQ=="
 ---

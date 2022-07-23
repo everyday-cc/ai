@@ -2,6 +2,255 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-07-06-xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors.md",
+      "title": "Xiaomi 12S Ultra and 12 Pro come with Elliptic Labs’ AI-powered proximity sensors",
+      "excerpt": "Elliptic Labs, a provider of artificial intelligence (AI) software and virtual smart sensors, debuted “INNER BEAUTY,” AI-powered proximity sensors, on Xiaomi‘s most recent flagship products, the Xiaomi 12S Ultra and Xiaomi 12 Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
+      "originalUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Elliptic-Labs-Xiaomi.jpeg",
+          "width": 439,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1",
+      "publishedDateTime": "2022-07-05T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-chipmaker-rebellions-gets-228m-series-a-extension-from-korean-telco-company-kt.md",
+      "title": "AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT",
+      "excerpt": "South Korean AI chip developer Rebellions has raised a $22.8 million ($30 million) extension to its Series A financing from a strategic investor KT, one of the largest telecom companies in South Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "originalUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "publishedDateTime": "2022-07-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-robo-doctor-speeds-up-sight-saving-technology.md",
+      "title": "AI Robo-Doctor Speeds Up Sight-Saving Technology",
+      "excerpt": "A humanoid robot has quickened sight-restoring research by finding the best conditions to grow replacement retina layers from human stem cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "originalUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2072140/ai-robo-doctor.jpg",
+          "width": 2000,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "publishedDateTime": "2022-07-05T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-the-new-asus-rog-phone-6-series-everything-you-need-to-know-and-more.md",
+      "title": "The new ASUS ROG Phone 6 series: Everything you need to know, and more",
+      "excerpt": "To elaborate on some of these specs, the latest flagship Snapdragon 8+ Gen 1 is equipped with a full suite of Snapdragon Elite Gaming features plus an improved Qualcomm Adreno GPU. The camera housing ... an ESS Quad DAC and an AI noise-cancelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "originalUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn01.vulcanpost.com/wp-uploads/2022/07/asus-rog-phone-6-series-001.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "publishedDateTime": "2022-07-05T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulcan Post",
+        "domain": "vulcanpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-is-calling-the-shots-at-the-2022-fifa-world-cup.md",
+      "title": "AI Is Calling The Shots At The 2022 FIFA World Cup",
+      "excerpt": "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
+      "originalUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/l-intro-1657047046.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
       "title": "Expanding artistic frontiers in artificial intelligence",
       "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
@@ -895,239 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-the-global-edge-analytics-market-size-is-expected-to-reach-283-billion-by-2028-rising-at-a-market-growth-of-248-cagr-during-the-forecast.md",
-      "title": "The Global Edge Analytics Market size is expected to reach $28.3 billion by 2028, rising at a market growth of 24.8% CAGR during the forecast period",
-      "excerpt": "Reportlinker.com announces the release of the report \"Global Edge Analytics Market Size, Share & Industry Trends Analysis Report By Component, By Type, By",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27944178",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27944178",
-      "publishedDateTime": "2022-07-04T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-how-this-entrepreneur-has-revolutionised-everyday-trading-leveraging-ai-and-data-analytics.md",
-      "title": "How This Entrepreneur Has Revolutionised Everyday Trading, Leveraging AI And Data Analytics",
-      "excerpt": "Muhammad Haider, a serial entrepreneur with his AI enabled trading toolkit platform Tradytics, has strategically disrupted the market of amateur trading with the help of the innovative use of artifici",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/430735",
-      "originalUrl": "https://www.entrepreneur.com/article/430735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1656927318-Haider1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip.md",
-      "title": "HTC A101 tablet launched with 10-inch display, Unisoc T618 chip",
-      "excerpt": "HTC A101 tablet has gone official in South Africa and Russia. It is a mid-range tablet that offers key features such as a 10-inch display, a Unisoc chipset, dual rear cameras, and a big battery. Here is all the information on the specifications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/HTC-A101-Tablet.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/?amp=1",
-      "publishedDateTime": "2022-07-04T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025.md",
-      "title": "Deep Learning Chip Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2025",
-      "excerpt": "Jul 04, 2022 (Market Insight Reports) -- The study on the ‘Deep Learning Chip market’, now available with Market Study Report introduces systematic details in terms of market valuation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-national-alzheimers-and-memory-services-helpline-records-over-5000-interactions.md",
-      "title": "National Alzheimer’s and Memory Services helpline records over 5,000 interactions",
-      "excerpt": "Doha: The National Alzheimer’s and Memory Services helpline ... for families caring for someone who has memory loss or cognitive decline as a result of a major illness or Alzheimer’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://thepeninsulaqatar.com/article/04/07/2022/national-alzheimers-and-memory-services-helpline-records-over-5000-interactions",
-      "originalUrl": "https://thepeninsulaqatar.com/article/04/07/2022/national-alzheimers-and-memory-services-helpline-records-over-5000-interactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Peninsula",
-        "domain": "thepeninsulaqatar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

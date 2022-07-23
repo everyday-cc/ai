@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Baidu's new robotaxi can drive without a steering wheel and is 50% cheaper"
+    excerpt: "The Apollo RT6 is set to start operating on China's roads in the second half of next year under Baidu's self-driving robotaxi business. The company's robotaxi business, called Apollo Go ..."
+    publishedDateTime: 2022-07-21T04:26:00Z
+    webUrl: "https://www.cnbc.com/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107091855-1658367613460-Image_from_iOS_63.jpg?v=1658367811"
+        width: 830
+        height: 518
+        isCached: true
   - title: "Baidu Races Ahead of Tesla With Launch of Robotaxi With Detachable Steering Wheel"
     excerpt: "Baidu unveiled a new autonomous car with a detachable steering wheel that it wants to use for its robotaxi service in 2023—up to a year before Tesla plans to start mass producing a similar vehicle."
     publishedDateTime: 2022-07-21T08:40:00Z
@@ -118,6 +134,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1863205/RT61337.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
+    excerpt: "CNBC reports: “The Apollo RT6 is set to start operating on China’s roads in the second half of next year under Baidu’s self-driving robotaxi business. “The company’s robotaxi business ..."
+    publishedDateTime: 2022-07-22T01:16:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/22/7f856bd1c80f474acbaa3fa5987da9e7.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Electric Taxi: Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on July 19 it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."

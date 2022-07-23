@@ -92,6 +92,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
+    excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-07-23T08:36:00Z
+    webUrl: "https://www.reuters.com/article/google-ai-chatbots/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-idUSKBN2OY012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/i84Ji0Rk-qI2Do9-_bgKbPryP6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GXQAE7Q6ZBKZXOIXJJWDFYBFZE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
+    excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
+    publishedDateTime: 2022-07-23T09:19:00Z
+    webUrl: "https://www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/"
+    ampWebUrl: "https://www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 58
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2019/08/Google-Logo.jpg"
+        width: 805
+        height: 486
+        isCached: true
   - title: "Google fires software engineer who claims AI chatbot is sentient"
     excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
     publishedDateTime: 2022-07-23T07:19:00Z

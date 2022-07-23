@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/identify-rooftop-sol
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels/"
 type: article
 quality: 96
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1533
     height: 766
     isCached: true
-
-related:
-  - title: "Accelerate your identity verification projects using AWS Amplify and Amazon Rekognition sample implementations"
-    excerpt: "Amazon Rekognition allows you to mitigate fraudulent attacks and minimize onboarding friction for legitimate customers through a streamlined identity verification process. This can result in an increase in customer trust and safety. Key capabilities of this solution include: Register a new user using"
-    publishedDateTime: 2022-07-18T18:11:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-identity-verification-projects-using-aws-amplify-and-amazon-rekognition-sample-implementations/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
 
 secured: "knemqr4v8izen6YVzxzulgdQaZ74I735eZFBRA8Yd6A0eEJSw5EMRjKB5M1EZKV3nIa14rT2IogqKuvHmzMQJz0c6Gbog8KI6GYJMHPNFgQirPR6/SNJyIIumguXJt6A7HkuKUW7OotcCq4SZtCaCyPCmj/lDpRafjUbGw+jZk0W8fP41VHwTfg8XQJnpkYWld7Ehx77qdBKjXIUHk9RV1V/32vNGBM8XVLf/SguEHqERr5NQc1ZROdK05lBnMtkiiwXB203Gd22VqbliNFdSPMv3TTJSbCdt7SznxYVhAJuJZV7uS7Ns405JqpLM6AWtMzGf/JQEXf5iL0m/2xmCqW45wcm+5C9b+e3lthbCJQ=;M7bUAkcYbMM6xi1fHf+XeA=="
 ---

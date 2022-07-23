@@ -2,38 +2,25 @@
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
 excerpt: "With AWS Cloud WAN, enterprises can access the ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ..."
-publishedDateTime: 2022-07-12T14:55:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
+publishedDateTime: 2022-07-12T16:04:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-cloud-wan/article_eded7945-30e9-5b39-ba67-0df0ef659790.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-cloud-wan/article_eded7945-30e9-5b39-ba67-0df0ef659790.html"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "AWS launches its bid for cloud WAN supremacy"
-    excerpt: "Amazon Web Services (AWS) has launched a cloud-based wide-area networking (WAN) service that leverages its vast scale to help maintain enterprise networks."
-    publishedDateTime: 2022-07-14T10:49:00Z
-    webUrl: "https://telecoms.com/516463/aws-launches-its-bid-for-cloud-wan-supremacy/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/04/iStock-1334455931.jpg"
-        width: 1253
-        height: 836
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "/dN+FG+muaKls0lyKYZUl3Y6y/QChxuRSByYhmFaThRWnZVDMy0b+5amur7ANvwBGGUlj35zR8cRMFQ9I7unyIqRD90oOKBJP0SbaxI3xlNpybmh4LtMNVMXaKKZaOBAQ9ap4A91djkzN+8hLGMTPyiaJt3oJe8i04DeHguGWbu3FrR+tZ56IFqAt5BCPCeM4k1yYaXEUDP4VeKRJnaXVuDhLbp885jZ+5uFiZ90wsKziNROMKnfx5ayigVnpco36x1qTxUql9MoRKFFv83sDAvdHI1WZcSLDn+qmaz1Jk598g8vAuDetG2aFHuoamY+xbr1Eg2BU4J+oikRDsU4Rt/UGvIIkV2Fka+rwihY4Ag=;XX6TFT+k5YgLDsejGxKuDA=="
+secured: "+OLDUBchbZxch6ASsckLWo3TkrMWT7QwKwu17w8rfja8Dr+Ij82IvrImZ9wzk7N3+T1rva753VkkMOKuzTYrm/vCTcsGmYV86E0DLbav9CP1Ohgufbmf1UdeDtVvkLB8uYXyUmPCBvw88jDDIPVo+9BLI+bO10Fc2vOs+9x03LDl+yaFuc1cQLg2bX2o59OZSL+L5aTSj88nTbD2VZZl+znSaIoIcG8leWfEmMYjEDVtzfAdXvABVtRIhHGZMHzfmYrVW8gvRcHZ2iKomgeUYOoSPjf5UcmHW8CB6ooEiixu72CInlxYZzX/McJ6uneOdNSEJZzJ38yZiReeu9rTp21RLO+JTy52w3oScTsdnaU=;XYqExGkmVumKswAiGR33lQ=="
 ---
 

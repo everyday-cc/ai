@@ -105,15 +105,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Tesla’s new Full Self-Driving Beta (10.13) is about left turn, animal detection, speed limits, and more"
-    excerpt: "Tesla’s new Full Self-Driving Beta update (10.13) is all about left turns, animal detection, speed limits, and much more. Here are the release notes. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-07-18T18:17:00Z
-    webUrl: "https://electrek.co/2022/07/18/tesla-full-self-driving-beta-10-13-release-notes-left-turn-animal-detection-speed-limits-more/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 33
   - title: "Aurora perfects the tech it takes to stop a self-driving truck"
     excerpt: "Driver shortages and increases in home delivery, commercial trucking and logistics could meawn lucrative applications for autonomous-vehicle technology if developers can prove that their self-driving technology is fail safe."
     publishedDateTime: 2022-07-20T16:50:00Z

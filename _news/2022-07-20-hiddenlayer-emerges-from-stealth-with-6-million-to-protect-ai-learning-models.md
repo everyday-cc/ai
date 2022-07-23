@@ -49,20 +49,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "In order to safeguard AI models from harm, HiddenLayer emerges from the shadows"
-    excerpt: "AI cyberattacks in 2022 will include these approaches, as well as data poisoning, which is the practise of inserting erroneous data into the dataset used to train AI models to attack AI systems. It’s a never-ending battle to counter security risks."
-    publishedDateTime: 2022-07-18T18:00:00Z
-    webUrl: "https://bestgamingpro.com/in-order-to-safeguard-ai-models-from-harm-hiddenlayer-emerges-from-the-shadows/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 33
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/HiddenLayer-emerges-from-stealth-to-protect-AI-models-from-attacks.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "gh8/Oq3ZYCnmgfWwVhQlj0dYTZ3hl1fMIY41jPVcMBKbgaj9wr0TjL2C+fJ0osZKkcwe+pY2/JolfkP+orkiJlQZ+q2YY5fkitwugOdhzFA+ghXaN9+XOmNSCtwWYoVJw52pV0vfBKG5ZNgv4nzjDA4sKxook81GvpwRuDkyjkl8PiNePK0pLWF4d74Ocn84QH3mlonIuASe3eKQRSQ6uNSyAdfvvqsx8evClVKcKos6hlrJMdhoVbk07gkR+zq7MMDcjeAgiN1CRU3xYv7Njtly7rFKCyKoQaiLW8JFMNDqoAc2dHjHvFL5ynTvzotVnJnFEpnZLIBkZSBV6PGGyA19RffGN2AgubLztz7VXp0=;P+qP3/40ONgHx1pVH5nZxw=="
 ---

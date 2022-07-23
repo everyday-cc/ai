@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-18T18:06:00Z
-    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
-    ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Big Tech builds AI with bad data. So scientists sought better sets."
     excerpt: "BigScience is a global effort to build a more transparent, accountable AI, with less of the bias that infects so many Big Tech initiatives."
     publishedDateTime: 2022-07-21T09:00:00Z

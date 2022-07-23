@@ -61,7 +61,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -451,6 +451,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
+      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
+      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "publishedDateTime": "2022-07-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q13 FOX News",
+        "domain": "q13fox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
       "title": "New Orleans reverses facial recognition ban amid surging crime",
       "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
@@ -615,7 +658,7 @@
       "originalUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -637,6 +680,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-samsungs-2nd-generation-smartssd-can-process-data-right-on-the-drive.md",
+      "title": "Samsung’s 2nd-generation SmartSSD can process data right on the drive",
+      "excerpt": "The hard drive is designed to relieve the CPU and GPU during heavy scan processes, such as when using AI or developing high-end graphics. Normally, the CPU would need to scan the hard drive for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/",
+      "originalUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Image-2-Samsung-2nd-Gen-SmartSSD1396-1.jpg?p=1",
+          "width": 2000,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/?amp",
+      "publishedDateTime": "2022-07-21T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -849,7 +944,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -944,7 +1039,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -986,7 +1081,7 @@
       "originalUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1038,7 +1133,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1069,99 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
-      "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
-      "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
-      "publishedDateTime": "2022-07-20T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-artificial-intelligence-ai-and-the-risk-of-bias-in-recruitment-decisions.md",
-      "title": "Artificial Intelligence (AI) and the Risk of Bias in Recruitment Decisions",
-      "excerpt": "As part of the UK data protection authority’s new three-year strategy (ICO25), launched on 14 July, UK Information Commissioner John Edwards announced an investigation into the use of AI systems",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
-      "publishedDateTime": "2022-07-20T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

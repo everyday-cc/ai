@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "How Labor Department harnesses AI to improve services"
-    excerpt: "Labor Department CTO Sanjay Koyani and HPE AI evangelist Steve Heibein compare lessons for advancing AI/ML use in government."
-    publishedDateTime: 2022-07-18T18:42:00Z
-    webUrl: "https://www.fedscoop.com/video/labor-department-harness-ai-improve-services/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
-
 secured: "0vtMp9c17V+rg7z1DH9tkf07XkN9PZnJsqsWxug0PSccF8jWDnJCOY2rUJp7cdeQcj+EOWU810WOuWR3Af0dP4XAhElQvX7VG1Di1VSV70aVsG1gkqHaDn0i5jIVbzE4cfthfelYM1VMykQcJfaKo3RBqt3EMWFKmNeQtbfFMSR1tmHUnhSdprKB+IUzum/knIPiWEJj4KuwmVUEz3mJ8vod/z9A8bFMEDYwMGUSriYtgKrO8z7dQ2S/iN0qN4Em8DgboZLmhISGQL0nzBdE9XS4Cjn5raLSz+Vc4VdDoZmv7nGci0AJC5Th6kWPY/OQxbvHQ2e8XDeAroRph+Ox6h5bq69kVujX0ahFyNHmBQh9KlPT6H0+qOG0UIBoQ3YcC4SRn2IekE7qVXTzIS5Gcyh5/2rzjUHSSRGSV/pUUVhDzvGhU9s7s/+9puikRH7ZtwrJvc1hwnDGicPySo1Y3rKmvfdJ03LoUVIUnLrTsCBIEYqihRhDrzYc8t65Lzlwuu19vZdPlf5vlzKjmtcyhQ==;Ut5MEuVJ24CRp/UjgsdN/Q=="
 ---
 

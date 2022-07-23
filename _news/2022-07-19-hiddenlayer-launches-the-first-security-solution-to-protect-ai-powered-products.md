@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-austin-tex
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-austin-texas-artificial-intelligence-f4a3a1405f8ea33a8cd893dc997e97b1"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "In order to safeguard AI models from harm, HiddenLayer emerges from the shadows"
-    excerpt: "AI cyberattacks in 2022 will include these approaches, as well as data poisoning, which is the practise of inserting erroneous data into the dataset used to train AI models to attack AI systems. It’s a never-ending battle to counter security risks."
-    publishedDateTime: 2022-07-18T18:00:00Z
-    webUrl: "https://bestgamingpro.com/in-order-to-safeguard-ai-models-from-harm-hiddenlayer-emerges-from-the-shadows/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 33
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/HiddenLayer-emerges-from-stealth-to-protect-AI-models-from-attacks.png"
-        width: 600
-        height: 365
         isCached: true
 
 secured: "BjBs3U9inFrAYD0vpr/K3+uTSo+SpbnegOr09DhaF3G2bBCdt8+M4gVE1BAWpJJR5hJrZmoO9SVL+VprlPH0PMZo8I42TIzRjhuLdmWdxgePyxlsjzFg44t6Tt0Zag1SWi2xkWMvGN8/mOPggPH80dz8Hz00/cRm+tJxq9SMNXEx5ZKm/Dv94NrBAlzf4mVfVPT/dhG9OI/Ca54kVtYzbOk74Lz+3D7yXr0crFIc/hhgcPVqAmtpuzHnISzIV6xBfqcSLUIYioecyrGkqB9iN6lkx/NzosJST0oGNAXts6AUf2QDfjhPOLi5skW4ewEyujcXhR9gs8YGY54lLY+KouDu26FVIRDLcg2i6MIGOn4=;SMBo+x5EVf/tkRRyGHWNoQ=="

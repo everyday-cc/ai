@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 628
         isCached: true
 
-secured: "O6UBRLsHER4wPu0kRQTWvpUu9V42l4tCaVLo3xpofURP+FOrv/y/Y94I0kwOGpVL0hWN259sn+eBymOdT8Opp6bt4hgw8gZYPrnSCZZshOm/cX1WB2evlVPax0virYBeNiug/En7Ha1E2Sd/7ry0K94aIc59Q39B7yRQsgyPsyIQWMJM5jh2rk99q6zZpRoTZO0a3go40U7S9NBxVDlVtJhAxcKufPAN7ZC/tbEsNP48JzSY1io48IL/JBUVDKE218G61tFVE7/3RW4fc1qRUkezXBfUuAZz4LAkAcHWZYIUWdHXB571mL5OYtADu9CV68SSYuxciUXyRzPiYzhfNJW0y6pfBOMvOyYEBod+h3I=;mlhP+9Z0VIsSf7mvPXm9+w=="
+secured: "4KWQi+krw0LzdVBz6QXMYvDhYXyONS3Tgq5t9u2i6FcnERr4A789HQeCYAnDl6enh0MekiMrKme09+i5DqNm4QRIrMNg6CkJMIgf5m5c9bAz+4NjoLXquAyvkKEkLQYa0ZGWBDPCOHKbHjqzOu5hB5qVFRm++2TP3G602Bshz4MWZwCC8YWmgj1WYF9FR95fcnPifQQQfTb7+m+iNZbVm1ydKQlSZEj4MKXQVL20QShylsBatvq1y6IvoF6MkH9KkBmQMJB8zVtd/P8SDPwOqdXvoITtb4LrDKyTzkTD1P1ec5V+0hMDxFHGJXtSE08cridBzf51WWPqK7SY2q3li67FbvUjZG1dxCCrgYzH76E=;S4I8WLjwrMNfsmjyBhGhXg=="
 ---
 

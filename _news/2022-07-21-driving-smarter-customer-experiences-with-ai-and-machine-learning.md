@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experi
 webUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
+    excerpt: "They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India's GDP by 2030."
+    publishedDateTime: 2022-07-18T20:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220718/3963908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
   - title: "AIMMO has updated its \"Smart Labeling\" function, making autonomous driving and smart city data labeling smarter with AI"
     excerpt: "Extended coverage, including more sophisticated interactive segmentation and 3D object detection Project refining function launched that can"
     publishedDateTime: 2022-07-22T13:07:00Z
