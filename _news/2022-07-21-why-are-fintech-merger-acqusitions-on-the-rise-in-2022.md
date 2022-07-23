@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
-    excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
-    publishedDateTime: 2022-07-18T19:22:00Z
-    webUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/07/FInTech-Incubator-Challenge-WinnerFINAL-600x450.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Important Technologies And Developments Shaping The Future Of Fintech"
     excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
     publishedDateTime: 2022-07-22T20:39:00Z

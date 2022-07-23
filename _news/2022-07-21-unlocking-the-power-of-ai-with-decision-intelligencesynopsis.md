@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Signal AI Enables Enterprise Adoption of the External Intelligence Graph"
+    excerpt: "Signal AI has unveiled its new External Intelligence Graph, a data structure that continuously monitors the significant and incidental"
+    publishedDateTime: 2022-07-19T14:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/signal-ai-enables-enterprise-adoption-of-the-external-intelligence-graph/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/signal-ai-enables-enterprise-adoption-of-the-external-intelligence-graph/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/signal-ai-enables-enterprise-adoption-of-the-external-intelligence-graph/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 56
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Signal-AI-Enables-Enterprise-Adoption-of-the-External-Intelligence-Graph.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Genesis launches AI intelligent quantitative products"
     excerpt: "Recently, Genesis has launched AI intelligent quantitative products. GENESIS uses AI intelligent quantitative products to apply artificial intelligence technology in various fields, logic mathematics,"
     publishedDateTime: 2022-07-20T16:47:00Z
@@ -35,20 +51,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-    publishedDateTime: 2022-07-20T10:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

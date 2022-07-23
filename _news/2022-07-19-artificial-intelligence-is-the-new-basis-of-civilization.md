@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/artificial-intelligence-is-t
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/artificial-intelligence-is-the-new-basis-of-civilization/amp/"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "AI art is challenging the boundaries of curation"
-    excerpt: "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections."
-    publishedDateTime: 2022-07-18T21:05:00Z
-    webUrl: "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-800x549.jpg"
-        width: 800
-        height: 549
-        isCached: true
 
 secured: "O4ahKNWgM7nEolD3IoOH5b9ne7htfSewFA7S892uYrDgxXRFc2HcenqLJw07CheAJQZU3YgGLbL4licInkTCWPXFfP3PEaOTPpG/S16g1G+hCVuk7Ii4C2QUyITmp8AxjdlT2rrdQOySFLdWG6LTDhW+xymyh5FWUnRXunF6GRxP84vFdQ58y3iWSAJaqT+rH/OOVPJLFcOVE8ndVQgi+Qn/znLfr06ODtczdlVzUYQ0d2gztLNI1Jv1AtO0yhnkzyUUaHVjr0n90rgO14yXUiL2+0wcV9Vb5A54WHOZXJ84xrBRZnaaL1fR48X0tw1/rbSnql/k/i70qxrD1QWM/Bcva/LSz15uoPHAp7HSEjtvOTvuTFwGwxHMMq3M2PNQgRfLkiNkjlTuDd0au5myPcrzSmMDUApkZTPX6911LmZGoh2MVBQihZC2W9MQn5LKxA8WtRIylW4TrzHr5mA3+EW8me+INdd2zxSDYHaWrhScV3s2rUZkEWd167o4ubAne0B3Gw8ap2A0ZFKYam5EOg==;ValoBy/g5UVWF/mh87S66w=="
 ---

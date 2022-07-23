@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-23T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/23/ai-ethics-and-autonomous-systems-lessons-gleaned-from-that-recent-alaska-airlines-flight-where-the-pilot-and-co-pilot-disagreed-prior-to-taking-off-and-abruptly-opted-to-taxi-back-to-the-terminal-and-go-their-separate-ways/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/23/ai-ethics-and-autonomous-systems-lessons-gleaned-from-that-recent-alaska-airlines-flight-where-the-pilot-and-co-pilot-disagreed-prior-to-taking-off-and-abruptly-opted-to-taxi-back-to-the-terminal-and-go-their-separate-ways/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Forbes

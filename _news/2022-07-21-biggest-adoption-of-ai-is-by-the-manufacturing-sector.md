@@ -64,20 +64,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Advance of AI creating a moral minefield"
-    excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
-    publishedDateTime: 2022-07-20T23:01:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/advance-of-ai-creating-a-moral-minefield/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/5NWRikvOGJN5pZJiS5BAI4g3IfU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QUJTEMNDURHW3PK56Z4XHYKBNE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Olive AI lays off 450"
     excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
     publishedDateTime: 2022-07-19T16:21:00Z

@@ -1,83 +1,26 @@
 ---
 category: news
 title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
+excerpt: "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42."
 publishedDateTime: 2022-07-15T08:36:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
+originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
+webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
 type: article
-quality: 38
-heat: -1
-published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
-    publishedDateTime: 2022-07-18T14:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
-    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
-    publishedDateTime: 2022-07-19T14:23:00Z
-    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 27
-  - title: "Global Artificial Intelligence (AI) and IoT-driven Building Energy Management Vendor Analysis Report 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) and IoT-driven Building Energy Management, 2022” report has been added to ResearchAndMarkets.com’s offering. The report presents competitive profiles on each of the companies in the report based on their strengths,"
-    publishedDateTime: 2022-07-15T13:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-3c1e4f12b26a43a7afd53517fa768462"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Transparency Market Research: Facial Recognition Market Size to reach US$ 20.5 billion by 2031: TMR Study"
-    excerpt: "Adoption of facial recognition biometrics in multiple industries rising on back of use of technology for enhancing customer experiences; widespread adoption of facial recognition on smartphones"
-    publishedDateTime: 2022-07-18T00:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56571148-transparency-market-research-facial-recognition-market-size-to-reach-us-dollar-20-5-billion-by-2031-tmr-study-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "eDxa4WxOzuhkHURdGvQJavAOywHBWoRmArY4hkPNpO1fuwpR4GgKoBRTEBIhjar1Nmyu5m0ZWtRqqGALVtRbDDo72u5+xbiwaWmfnoofGmM+9MQkvLTdia2hikVhjpDWQ7Nb9wIX6Fq08TWY8RNrnWMVTKP8eaZ369sHTNR2mbNuZInaUvQrREnrJypDvcLkE8YN88d1umfcWsv+MUoiKjrbZE55QYEV6Chto3r9lpls4tdtdM9Fa4yHW2votEcuYPfAlGdIv1qwRxrmhlL5091vBILRQTfqo7yv356uzoHD1S5Hli/DAKky8mx6vMYYLUdwAg3ym01vYaXAA00VEM38LdG0xChn3/ShEvnoZ+DyZT0ufsabPXWKxw7rLX2kQ8i1/ffmlZFoET3PEOrPa39nb4ludEQkXlXOdE1SILvjcOWM3CKXGvfnV+PQItZ0JIi5hSmw8X0qkRAvOxq3tvimCGYeRrQZaeQ3QF1KCmMQ0wBbRCt++uiVfHSr6nCYizmJObVRPrnzhyojYO575A==;4XUmwo9JNyVi1Z5BjwiChg=="
+secured: "tUlvBOr2bsMEF+Z5+0hx4VNlKaiBzUbQQ7oSymmChg4lgbIm8iZlgzlJpcQhXw3p0pLlmQDD5j67uOk2Gek+e/5+kjnPu/Q+pr8JslYSjGoOwBeFBMaXWm5hPW6qFPrM4zyNkpMzSCQmzjvKgDeSMqauotRazlBCmjmriRYPa5OTpN6CSx1PFlhFb+CRCUAK2qM0gk3qv996UBlBiDHT89IJK7bCKon7CSeyN7+IQSvqeQMvYDYz91ekI1ozV/7BKKEV9wIo8co7Bz+RB3KzDTtiuX/AU0+cZBcJpbxlqZt97/9uDbRDJM/gbLOP2HuVDQvIl68qBT+wvukF8bPjHjK9zrtyzae2V33Y9yQ1Ihw=;NPG61EO98n1F1NBAJAw8ow=="
 ---
 

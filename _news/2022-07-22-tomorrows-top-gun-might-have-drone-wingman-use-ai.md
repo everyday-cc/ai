@@ -1,19 +1,30 @@
 ---
 category: news
-title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
-excerpt: "Maverick’s next wingman could be a drone. In the movies, fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
-publishedDateTime: 2022-07-22T11:54:00Z
-originalUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
-webUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
+title: "Tomorrow's 'Top Gun' might have drone wingman, use AI"
+excerpt: "Movie fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights"
+publishedDateTime: 2022-07-22T08:21:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
+webUrl: "https://abcnews.go.com/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
-secured: "MqS0YqrzC/ueji+A5QIwbjiELkX12a7BEPNQF4vh/ObPk0oscqe4uV2j92KicJrIjXiTT53yUX9dJG3i2zcxzPIR6GaQ9kB1IDI2lJL76Fmv6IQlorCVToLTe41yBaOPRerJhpGJgpSLN9l+eT711bhhbTX3mm9jjTL6lCfPZMxLBbnyWVImVb7DX4q+rq+tJ0ZBXOKSXPZtjsZHCMSTap/q1XdtuMuNF5SRhbnjvQNKQXIHf4xan2mVPOzxJEPMttYNCSpI5jfMPR/xtEmjhbXt2rb4SgWbHW/KJYpwog44foyhMNhBIZQzCVwqIhuCfi2U1utownr3K3ZI0DefO5RRYgQgqXcP4WSKT5ViQ0pkhmBPm6b1rz87kjqFwu/LW5AOIqCTUcytumnUZTukwoEcYJ0GX+Tad9xthoTzQrsbwKS1ImmMFSfXmSfx1VUj1Qv+xDwfstEFCphW2zMxelHTO2IdpidEUKLWk+xEYjjvTJcIV8rnS0Z5sewW3COUMyqB+F+cU03mfu4huvSijA==;PJFR5QMGoZitZAN1YQsNhw=="
+images:
+  - url: "https://s.abcnews.com/images/International/WireAP_912dcee1a8e647c29a84fa6932d0f583_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "ll+HyZAnSs9UnPX/DqNr07Kjt6OM92v561lrr71ij4ypwxOE2uMYkfpXHPYekGKAYntgyNvjj5MClQD6Uki44fPjKmthSRuM1j1jbzmtXshyet5q8AWrbOcenwdV9xQ9F7rFcTzihmVJnwaYvwbumA2nOwr30HL+klnUgeN1Dw679Vj2b5t5IbvPcYJVQEDNQGZy4w+FeJteCisY7EjWlKMfmJZzBDZYgNICQHS0k/lkz31dGibU28HLUtv1mdK/WU2pASA/cOoAYJUNjpbnSjrIQSAa+PPrtcW6yDZw78fJOPfdGr6wRthEBuLNZmrKdGdiSB40vW49hGOjveN5qRT6GMkvUaxuFwM6motJeCo=;kCek3V5nP99Az86aDy96jQ=="
 ---
 

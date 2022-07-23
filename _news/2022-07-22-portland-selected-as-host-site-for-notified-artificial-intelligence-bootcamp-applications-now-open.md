@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-22T15:07:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

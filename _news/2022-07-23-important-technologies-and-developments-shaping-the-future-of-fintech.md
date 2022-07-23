@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Sound Credit Union and UWT Announce FinTech Incubator Winner"
-    excerpt: "Sound Credit Union (Sound) in partnership with the Milgard Center for Business Analytics at the University of Washington Tacoma (UWT), announced Gaganjeet"
-    publishedDateTime: 2022-07-18T19:22:00Z
-    webUrl: "https://www.cuinsight.com/press-release/sound-credit-union-and-uwt-announce-fintech-incubator-winner/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/07/FInTech-Incubator-Challenge-WinnerFINAL-600x450.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Why are Fintech Merger & Acqusitions on the rise in 2022?"
     excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
     publishedDateTime: 2022-07-21T10:27:00Z

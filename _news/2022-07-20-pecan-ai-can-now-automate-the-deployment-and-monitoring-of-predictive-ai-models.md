@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/07/20/pecan-ai-can-now-automate-depl
 webUrl: "https://siliconangle.com/2022/07/20/pecan-ai-can-now-automate-deployment-monitoring-predictive-ai-models/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1024
     height: 572
     isCached: true
-
-related:
-  - title: "How AI and Predictive Intelligence Can Improve Site Search Performance"
-    excerpt: "In this episode of Retail Right Now, Total Retail's Joe Keenan and Kristina Stidham discuss key takeaways from Total Retail and Lily AI’s latest research report, \"Searching for Higher On-Site Conversion Rates?"
-    publishedDateTime: 2022-07-21T21:21:00Z
-    webUrl: "https://www.mytotalretail.com/video/single/how-ai-and-predictive-intelligence-can-improve-site-search-performance/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2022/07/video_poster_75109.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "zQKuJQkbeIyhFulmUbgA5CFwVm9mwWtPFd34o6EUUaXO7MjlCHKQOsZimKLuqLxjehHN9qU3S1VrdJzhT3NRvodfYs7qjbNJOL37AyMI+Y2wFsJWEvRcoAVKv3Pp2V2naSZHq+hRq0k18rfeBQEQGXC2QoV0hAQCqS+9cnhPyrgHPEqPPCuufg74XdbQ4myW/pRXkg5FrcQSzzIn7aq5y9A8ORhu+HdG9OZV+LStNZcg6ub/gF7seRjWcOWHfeRm281lyLUDBGuK0jl5udKpX+cx5QaThUiLIp0e4V2YJ7Cb3oj3SSqrvZikUnGKFnc5s9qCXIFohaQO09d2B/Xcpu8gP1MkS3BZcgjM5yKObTp/ZXT2oguXqZsoB37m3oVUMdQOnJBBkEU8xoQBdFmFNNScI5xpSgDoDB7S0vBDcVrnK67KcMU79MTGmJBYN1aOf7nkVkrTARsiTVjo8YNiT7gaQRQM5DiQfejAF4fFx7ksvt2IX/NlCgPPgh8Net65QIErSXPHUPJ45M7jZHyc7Q==;9sUeO0nTcTFUKrlL5PijOA=="
 ---

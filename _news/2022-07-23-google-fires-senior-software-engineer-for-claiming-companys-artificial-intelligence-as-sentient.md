@@ -90,33 +90,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
-    excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-07-23T08:36:00Z
-    webUrl: "https://www.reuters.com/article/google-ai-chatbots/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-idUSKBN2OY012"
+  - title: "Google fires researcher who claimed LaMDA AI was sentient"
+    excerpt: "After public claims that Googe's LaMDA had attained sentience and even possessed a soul, researcher Blake Lemoine has been let go.."
+    publishedDateTime: 2022-07-23T00:59:00Z
+    webUrl: "https://www.engadget.com/blake-lemoide-fired-google-lamda-sentient-001746197.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/i84Ji0Rk-qI2Do9-_bgKbPryP6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GXQAE7Q6ZBKZXOIXJJWDFYBFZE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "The Concerning Belief About AI That Has Engineers Worried"
-    excerpt: "AI is becoming an increasingly common part of everyday life, and it powers many things, including digital friends some users form relationships with."
-    publishedDateTime: 2022-07-18T19:51:00Z
-    webUrl: "https://www.slashgear.com/931642/the-concerning-belief-about-ai-that-has-engineers-worried/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: Engadget
+      domain: engadget.com
     quality: 67
     images:
-      - url: "https://www.slashgear.com/img/gallery/the-concerning-belief-about-ai-that-has-engineers-worried/l-intro-1658169643.jpg"
-        width: 1600
-        height: 901
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/4d715d50-eb32-11ec-bffb-ca31c9bdd8c8"
+        width: 4480
+        height: 2987
         isCached: true
   - title: "Google fires software engineer who claims AI chatbot is sentient"
     excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
@@ -134,6 +120,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
+    excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-07-23T08:36:00Z
+    webUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
 
 secured: "a21PanmaZgBOAZ/LBTpKE6jX+gaz2Lt49I/qaDOPZn79kRKTBRNIhvZGXwXaEbI3Y0bF8/+2s0YVgP98y67FE+ccFZdBXVBwe/XrOKoz5aQiEmBZmTdF/HxSDJCA6lRggo/RC71JY/oqk2Y7QojaC1lKKWm0KLGpK4UiUrLz3km/lZZVH4vQ4UEJWeKD8oSwT67XDL4lPNls6WIiX63bVT8S1489DJ1buo/gODiAlHxPYbIIK9ER8eRJIxSVlPTQMIrlllYoGQpvy9Kjd57wzX7wSrJxCJ80Eht0f8aT/ywpS5wp/po5RinntfPe3VmoOcGL+YzKNKIW+O8m9myB/e3pvlQJZeVdxU+QEPxmjxwHV0+lpR+SZvlwNMJAaKtsK9+Fw8UrI32QOxc4/sUv2PZk7qCyoeu0OV/Yz2Y24JxEJmo0wVx6oAzMrVmbwyfXRcss0iUfsGK7YoxgFuxbnP/3KFXoLC3UkBh+lvCA7NoO8ijZ+8oEqDFBY3lzRRZDzZZETxtHVBifN29zZzaA4Q==;Hz6wwcDC2dNUU5zAuC/e9Q=="
 ---

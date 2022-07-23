@@ -1199,6 +1199,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-04-transitioning-from-smart-to-intelligent-cities-makes-good-business-sense.md",
+      "title": "Transitioning from smart to intelligent cities makes good business sense",
+      "excerpt": "So, smart is no longer clever enough – this new phase of development is what we call the intelligent or cognitive city. Every city is a unique network of integrated activities and services that may grow and develop organically over time as new use cases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabianbusiness.com/industries/technology/transitioning-from-smart-to-intelligent-cities-makes-good-business-sense",
+      "originalUrl": "https://www.arabianbusiness.com/industries/technology/transitioning-from-smart-to-intelligent-cities-makes-good-business-sense",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arabian Business",
+        "domain": "arabianbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-national-alzheimers-and-memory-services-helpline-records-over-5000-interactions.md",
       "title": "National Alzheimer’s and Memory Services helpline records over 5,000 interactions",
       "excerpt": "Doha: The National Alzheimer’s and Memory Services helpline ... for families caring for someone who has memory loss or cognitive decline as a result of a major illness or Alzheimer’s ...",
@@ -1246,15 +1280,15 @@
       "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
       "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
       "sourceUrl": null,
-      "webUrl": "https://heraldcourier.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6da2a504-29bb-5acd-869d-a67955c00d83.html",
-      "originalUrl": "https://heraldcourier.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_6da2a504-29bb-5acd-869d-a67955c00d83.html",
+      "webUrl": "https://journalstar.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_bc5bee93-b0f6-5628-8eaa-e68f992662c9.html",
+      "originalUrl": "https://journalstar.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_bc5bee93-b0f6-5628-8eaa-e68f992662c9.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/6/da/6da2a504-29bb-5acd-869d-a67955c00d83/62bc9a950bf2f.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/c5/bc5bee93-b0f6-5628-8eaa-e68f992662c9/62bc9af6c98f0.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
           "width": 610,
           "height": 320,
           "title": null,
@@ -1266,11 +1300,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:32:00-07:00",
+      "publishedDateTime": "2022-07-02T18:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bristol Herald Courier",
-        "domain": "heraldcourier.com",
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1348,40 +1382,6 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
-      "title": "Cognitive impairment predicts outcomes for ICU survivors",
-      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

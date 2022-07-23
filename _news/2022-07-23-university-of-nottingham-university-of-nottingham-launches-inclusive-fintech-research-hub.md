@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-23T07:27:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-nottingham-university-of-nottingham-launches-inclusive-fintech-research-hub/"
 webUrl: "https://indiaeducationdiary.in/university-of-nottingham-university-of-nottingham-launches-inclusive-fintech-research-hub/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: India Education Diary

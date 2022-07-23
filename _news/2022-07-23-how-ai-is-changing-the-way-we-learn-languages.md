@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-23T13:40:00Z
 originalUrl: "https://venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/"
 webUrl: "https://venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

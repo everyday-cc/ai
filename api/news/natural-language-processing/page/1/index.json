@@ -248,6 +248,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
+      "title": "Far North iwi media hub launches app to support te reo language learners",
+      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/oO4cSV-r7NIyOQydkB467IXwaD4=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6CCG3FDFCS6KMYN5SUQRE6NJ54.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-17-how-to-use-ai-to-eliminate-bias.md",
       "title": "How To Use AI To Eliminate Bias",
       "excerpt": "Since AI was first deployed in hiring, loan approvals, insurance premium modeling, facial recognition, law enforcement, and a constellation of other applications, critics have—with considerable justification—pointed out the technology’s propensity for bias.",
@@ -398,6 +441,49 @@
         "Natural Language Processing",
         "AI in Healthcare",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-speech-and-voice-recognition-market-by-deployment-mode-technology-vertical-and-geography-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1311,103 +1397,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers-in-africa.md",
-      "title": "Meta’s AI machine translation research helps break language barriers in Africa",
-      "excerpt": "In an effort to develop high-quality machine translation capabilities for most of the world’s low-resource languages, this single AI model was designed with a focus on African languages. They are challenging from a machine translation perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://africabusinesscommunities.com/tech/tech-news/metas-ai-machine-translation-research-helps-break-language-barriers-in-africa/",
-      "originalUrl": "https://africabusinesscommunities.com/tech/tech-news/metas-ai-machine-translation-research-helps-break-language-barriers-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "africabusinesscommunities.com",
-        "domain": "africabusinesscommunities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-no-language-left-behind-metas-new-ai-model-can-translate-200-languages.md",
-      "title": "No Language Left Behind: Meta's new AI model can translate 200 languages",
-      "excerpt": "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
-      "originalUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2022/07/1657179489_287605911_512850337132384_8138110729340998362_n_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

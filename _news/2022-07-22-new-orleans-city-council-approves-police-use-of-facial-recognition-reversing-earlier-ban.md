@@ -73,6 +73,15 @@ related:
         width: 800
         height: 499
         isCached: true
+  - title: "New Orleans OKs Some Police Use of Facial Recognition"
+    excerpt: "The New Orleans City Council has approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes."
+    publishedDateTime: 2022-07-22T20:42:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "US local and state leaders push for police use of facial recognition"
     excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
     publishedDateTime: 2022-07-22T21:14:00Z
@@ -87,15 +96,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "New Orleans OKs some police use of facial recognition"
-    excerpt: "The New Orleans City Council has reversed itself and approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes. The ordinance, approved by the council on a 4-to-2 vote Thursday,"
-    publishedDateTime: 2022-07-22T19:45:00Z
-    webUrl: "https://www.chron.com/news/article/New-Orleans-OKs-some-police-use-of-facial-17323307.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "HRapymIaHnmCgl0xYTpwqHOJeKd9BcEOc8jwwby2nQ/FYDXJLM1kF5UZIzEhCRSHJ5qUavDD0nlsJRs8pVfLeXzAdIrsrThLvzuJ53dju04wyJKWYcDizCt74rqEo9pozN3ZyGkJCHm7+2cqQkwvPHW3N86TpgJNqVqPPnOvLOqcahWzoZkZ7sNngr978TCcfJze7QEYVgXzVvy3hwaH7qB+20ivIY+tf0tMvDbgZ5eVc9zEju2944hbZuSlSk0AYDlN3wRx7ydTSZOUqVl9BW4E5n9LAbpdn/zHzVFn4JZTd4lBECDM6bLb8T1eXVa5fGk7ucsqN3VLWHxbpBJuv2ZC6BNAFATvcRtGnJ0YFntJURr6ajmLE3Os7BY/xUPeADlS+ZZxZhScfv99Vc8jeyesKIPZrx8xwcfQdk6i/uhHlZIqNDZsuAR3t2NbuB8Z3pJwb6Q+ruzqNwGXQu7N1ixj42qkqE8MwYAGEBbyvLzpsmr7h/wSPD4zesrX/tQXypwV+t7XfD2d8vvo1QISZw==;kFLXLbt3SNXnyHETj8aQsQ=="
 ---

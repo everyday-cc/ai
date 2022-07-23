@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-23T12:34:00Z
 originalUrl: "https://www.ndtv.com/business/indias-startup-firms-increase-to-72-993-in-2022-from-471-in-2016-3186816"
 webUrl: "https://www.ndtv.com/business/indias-startup-firms-increase-to-72-993-in-2022-from-471-in-2016-3186816"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: NDTV

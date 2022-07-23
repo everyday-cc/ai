@@ -2,6 +2,282 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
+      "title": "Why synthetic data makes real AI better",
+      "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
+      "originalUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1200224477_design_engineering_science.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
+      "publishedDateTime": "2022-06-27T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-mps-launch-investigation-into-self-driving-vehicles.md",
+      "title": "MPs launch investigation into self-driving vehicles",
+      "excerpt": "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
+      "originalUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
+      "title": "Govt. unveils W1tr spending package for AI chip dominance",
+      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "publishedDateTime": "2022-06-27T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
+      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
+      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-artificial-intelligence-market-overview-high-growth-opportunities-segmentation-trends-by-2020-2030.md",
+      "title": "Artificial Intelligence Market Overview, High Growth Opportunities, Segmentation, Trends By 2020-2030",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-overview-high-growth-opportunities-segmentation-trends-by-2020-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-overview-high-growth-opportunities-segmentation-trends-by-2020-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/f4afc96392ec0b343620dafd81129cb3bc652810-e1657907126925-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-were-at-risk-of-creating-a-generation-of-racist-and-sexist-robots-study-shows-artificial-intelligence-quickly-becomes-bigoted-after-learning.md",
+      "title": "'We're at risk of creating a generation of racist and sexist robots': Study shows artificial intelligence quickly becomes bigoted after learning 'toxic stereotypes' on the internet",
+      "excerpt": "Fears have been raised about the future of artificial intelligence after a robot was found to have learned 'toxic stereotypes' from the internet. The machine showed significant gender and racial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/06/27/13/59577011-0-image-a-34_1656333163498.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
+      "publishedDateTime": "2022-06-27T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-artificial-intelligence-in-healthcare-global-market-to-grow-at-rate-of-48-through-2026.md",
       "title": "Artificial Intelligence In Healthcare Global Market To Grow At Rate Of 48% Through 2026",
       "excerpt": "Artificial Intelligence In Healthcare Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Artificial Intelligence In Healthcare Global Market ...",
@@ -896,246 +1172,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-big-firms-to-invest-20m-for-ai-research.md",
-      "title": "Big firms to invest $20M for AI research",
-      "excerpt": "BIG companies in the country will invest $20 million (around P1 billion) to establish a shared hub for artificial intelligence (AI) research in the Philippines. Trade Secretary Ramon Lopez said in a recent interview that conglomerates are funding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
-      "originalUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2022/06/26/83648.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp",
-      "publishedDateTime": "2022-06-26T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Manila Times",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy.md",
-      "title": "North American debut of ground breaking film on Sunday celebrates revolutionary mental health therapy",
-      "excerpt": "CNW/ - When Claudia Gerini was growing up in Italy, she probably didn't think she would be helping lead a mental healthcare revolution on the other side",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy-899814360.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy-899814360.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1847459/italian01en01.jpg?p=facebook",
-          "width": 1146,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-best-speech-recognition-software-for-windows-10.md",
-      "title": "Best Speech Recognition software for Windows 10",
-      "excerpt": "Speech Recognition software is clearly a glimpse into the future. They are programs that use your voice to understand what you want, turn into the readable material and search a device for it when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
-      "originalUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures.md",
-      "title": "Dogs Mentally Understand How Much We Love Them, Canine Cognition Expert Assures",
-      "excerpt": "He has recently teamed up with Purina Pro Plan Bright Mind, a dog food dedicated to improving your pet’s cognitive function, to help owners figure out what’s really going on in their dog’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/",
-      "originalUrl": "https://people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2016%2F10%2Fman-kissing-dog.jpg",
-          "width": 2000,
-          "height": 997,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/?amp=true",
-      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/?amp=true",
-      "publishedDateTime": "2022-06-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.md",
-      "title": "If we’re ever going to accepting driverless cars, a trusted brand matters",
-      "excerpt": "But the idea of a fully automated driving mode, where artificial intelligence takes control ... in the United States do not feel safe in a driverless car. Even though consumers are skeptical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "originalUrl": "https://www.thespec.com/ts/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-is-artificial-intelligence-supported-caries-detection-cost-effective.md",
-      "title": "Is Artificial Intelligence-supported Caries Detection Cost-effective?",
-      "excerpt": "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "originalUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/teeth-1.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
-      "publishedDateTime": "2022-06-25T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-23T13:50:00Z
 originalUrl: "https://www.embedded.com/rediscovering-analog-computing-for-achieving-effective-edge-ai-performance/"
 webUrl: "https://www.embedded.com/rediscovering-analog-computing-for-achieving-effective-edge-ai-performance/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Embedded
@@ -14,7 +17,30 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
-secured: "oSRcT20WxG6T49b9I/42tJlHde3j2iBLeFtnt8j4qhRxDQgURNLWpInVJW5A9OesjheQHp6E7z66q3NNmu7TXkhBFiRNU3qqTfKe4YO/ixmnECw33AxjGMGaoMrUV9m9KQx3NyMUvPTJev7NDa/bBmvM+ibnQtn/oOuBBmNjSTu2WfaDVSevBgaVz2IY21lKL3UXTHZH3M0cb0G72ydwDeEqu3Cw4NsTZX8s/5FMAtKhAtPrJavF3l74HNWacJSBqGALtOErLBeyq8x3u/omZQ5HMQbAJwfOrsYM3xQlZXKMcgb9u64yBPrXDnR/IprdcaEu6lkEttTsoqvnFrXrYfFzSv8f+eV9JpdjLo4fMz+vaVGHNvbplcsv5Cd29eqzUQXC087OgWxhIPWV4etTdwV7XgWa0vMH9H7PXZdcy/86H9rk/RLd1rjD36TRZvpRZRi3B3s9PKKC1ggZkkFybn3U1FSJKNLlmR3lahU2x9RnbYxm25q5Kzqq0voQfmpLWChvwxHoaPfHa2o9pLtleg==;qq0YsThMpMeTaBAelIwl2Q=="
+images:
+  - url: "https://www.embedded.com/wp-content/uploads/2022/07/Edge-AI-.jpg"
+    width: 1000
+    height: 562
+    isCached: true
+
+related:
+  - title: "How AI and Predictive Intelligence Can Improve Site Search Performance"
+    excerpt: "In this episode of Retail Right Now, Total Retail's Joe Keenan and Kristina Stidham discuss key takeaways from Total Retail and Lily AI’s latest research report, \"Searching for Higher On-Site Conversion Rates?"
+    publishedDateTime: 2022-07-21T21:21:00Z
+    webUrl: "https://www.mytotalretail.com/video/single/how-ai-and-predictive-intelligence-can-improve-site-search-performance/"
+    type: article
+    provider:
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
+    images:
+      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2022/07/video_poster_75109.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "6nagS9hh2zrA18ODxhyi4LOIQeSytycr9FFKaV0dbYSZ8ick9EPij+PSW9LY2lYJejAGDCGfaqi4DPwoQHaVT738YZ47GDtr0eHmgmAl6+XZ7UNxo47rO+IbBAfhwdvvJgpILx9RJAOyPXu3NsI1wHv0WdbE6tixBmjQOrAjoOsIAhjJCwaNOQ1h+QiU22HSKG//RMJepAhFa6zhvNARUQnVLchWPy/LrgAXlEAa9UikKMotYzK/NQ3itmHCztWpv82MJNFVrDxOGKEr7f+zBZhjDnXnQU4ymdPTNezEWfQUN/Ps7p++DktKPNQaczQz/jTfP3H9nIcK5+qoOddKTDLTvOeDmuvMqicdzEdPwTo=;hlz36oGGO7vuTyy40Y5lmw=="
 ---
 

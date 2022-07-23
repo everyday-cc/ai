@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-23T08:08:00Z
 originalUrl: "https://www.itnewsafrica.com/2022/07/future-tech-what-is-machine-vision/"
 webUrl: "https://www.itnewsafrica.com/2022/07/future-tech-what-is-machine-vision/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:

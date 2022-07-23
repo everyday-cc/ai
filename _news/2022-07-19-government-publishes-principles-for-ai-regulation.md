@@ -52,15 +52,6 @@ related:
         width: 2048
         height: 1280
         isCached: true
-  - title: "DCMS Sets Out Proposal For New AI Rulebook"
-    excerpt: "The UK government has set out proposals for a new AI rulebook to unleash innovation and boost public trust in the technology, according to a policy paper published today by the Department for Digital,"
-    publishedDateTime: 2022-07-18T19:10:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/dcms-ai-rulebook/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "Zm77laYEm9o00Uxw8hToZ/8ReWIs4eN2uVWcl0pr94wWYEXZ3C/1eCGculPAnPKQ0g49a6Za32iHdGbnxQDwIru66CrK7AukIep2IK5DAzRtNR2oxEQ7eydvrj1V7BAtaQRNPD9sn0xAjQdP+Xtrnwel2LxVWW8qnYKvCdHnGpjYwn/JlcMYm6SzpcnaqTykiIfM59qeHFiMamqwNDTwfK6xPT16bro60tbO/Nty7qzROREleo/dcl+Xo0ZRRkJ7Ffg/33QTPE0UGpvDmK1F/XBDqUFpDa/bnAAVmR6qV+ZRoWh5c3l9WRDcjEWAQAZiI40MUevrIqBSeyU9NwGFiq0WMY+P2ukFlR4znL9Bxuo=;aLX5G52DgwjyqJt7F7ejLg=="
 ---
