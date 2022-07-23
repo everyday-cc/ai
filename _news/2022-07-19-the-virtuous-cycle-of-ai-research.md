@@ -37,22 +37,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Steer the future of technology with a B.Sc. in Artificial Intelligence and Machine Learning"
-    excerpt: "Students are looking to drive change in society by leveraging their skills in tech. They can now transform into a subject-matter expert in Artificial Intelligence (AI) and Machine Learning (ML) be a leader in an industry that is predicted to bring a 26 per cent boost in India’s GDP"
-    publishedDateTime: 2022-07-18T08:43:00Z
-    webUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/steer-the-future-of-technology-with-a-b-sc-in-artificial-intelligence-and-machine-learning/1043887/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 68
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/07/ATLAS_SkillTech_University2022071807542920220718081910.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Snorkel AI Hosts Second Annual The Future of Data-Centric AI Conference, August 3–4"
     excerpt: "Press Release Snorkel AI, the data-centric AI platform company, today announced that it is hosting the second annual The Future of Data-Centric AI conference for leaders of data science and analytics teams,"
     publishedDateTime: 2022-07-21T20:25:00Z

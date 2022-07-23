@@ -7,7 +7,7 @@ originalUrl: "https://telecoms.com/opinion/four-principles-for-deploying-ai-resp
 webUrl: "https://telecoms.com/opinion/four-principles-for-deploying-ai-responsibly/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 809
     isCached: true
-
-related:
-  - title: "The time is nigh for responsible AI and data ethics"
-    excerpt: "Many jurisdictions are following the EU’s proposed regulation of artificial intelligence. Firms that have not begun to develop their AI systems to comply with the new regulation are being advised to do so now."
-    publishedDateTime: 2022-07-18T08:13:00Z
-    webUrl: "https://www.thebanker.com/Transactions-Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics"
-    type: article
-    provider:
-      name: The Banker
-      domain: thebanker.com
-    quality: 54
-    images:
-      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-regulation2/12062182-1-eng-GB/AI-regulation_reference.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "iwTTrSB/KBg5WF5BFaMBjZMIFXIswZID7pETtcetYQuUOIlIQkYp7IRAQIH0feaLkAEvj9GS+KN2SrdZNlJFbf+eN1hSrpI7kPKMjpR7SOem05lo3a41YRvEcNIqxH2L4NdYuE3C6NwNH305Fcc69LRR1VR33s9gqx1rDiEWgGOiwQO+/eCPhhKk7fg0XcdD4cldEe0Oh0605agV4uAdXz83WOVl4ShMN67IP+2BxPYUyP9s0iKbcSiQyrBtNXMiTL5SoKVaNbm1gZpT5A4bpy+AQRtaeGzjt/oVldb2wyves7FKKhBp/d90wCnQnH0MHFF7YW1huKu1eLDwhQJkUo2C3aFF6LSqfn/bjVHCUOuFEQ3402iZ8KZ1Y/r2L6/X/MjXtGxe9TSRDNe4HDuN54qqDvvBINnb6fXnAGhjDyoHjE/oGk+o7IdtIRuGIAmdtdjwKiyCL99wHpkgUZcrQXH1I2Nd23n3f8PijWMlfa0ty4dobyb6OSmBWXGiKA36MilkrTbHnVjrMewWvECARA==;R+FyAboKOtkcpXiT0VV68w=="
 ---

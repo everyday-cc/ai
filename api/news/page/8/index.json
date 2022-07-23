@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
+      "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
+      "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "originalUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/019ff2d0-028c-11ed-bfbd-7e14de53802c",
+          "width": 1600,
+          "height": 1038,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "publishedDateTime": "2022-07-13T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
+      "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
+      "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
+      "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
+      "publishedDateTime": "2022-07-13T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-ai-startup-speeds-healthcare-innovations-to-save-lives.md",
       "title": "AI Startup Speeds Healthcare Innovations To Save Lives",
       "excerpt": "Faster synthesis and analysis of healthcare data get medical innovations to market faster. By harnessing AI, big data, machine learning, and predictive analytics, this startup is doing just that for medical device and pharmaceutical companies.",
@@ -1020,84 +1114,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit.md",
-      "title": "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit",
-      "excerpt": "(UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK. RDK is one of the leading broadband and pay-tv platforms for the cable industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
-      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
-      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

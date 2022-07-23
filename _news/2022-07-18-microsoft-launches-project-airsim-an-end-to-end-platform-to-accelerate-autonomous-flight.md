@@ -86,15 +86,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 66
-  - title: "Microsoft’s Project AirSim is pushing drone simulation software to new heights"
-    excerpt: "With Project AirSim, Microsoft offers a way to put a drone's control software through its paces millions of times before the first takeoff."
-    publishedDateTime: 2022-07-18T08:44:00Z
-    webUrl: "https://www.geekwire.com/2022/microsofts-project-airsim-is-pushing-drone-simulation-software-to-new-heights/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
   - title: "Microsoft launches Azure Space Partner Community program"
     excerpt: "Microsoft has launched a partner program focusing on partners with space-focused products and services, providing access to a range of support and benefits."
     publishedDateTime: 2022-07-19T15:03:00Z
@@ -179,7 +170,7 @@ related:
   - title: "Microsoft revamps its Project AirSim for easier autonomous aircraft simulation training"
     excerpt: "Microsoft is dusting the mothballs off its open-source drone project from years back and relaunching it as Project AirSim today to help build, test, and train"
     publishedDateTime: 2022-07-19T13:26:00Z
-    webUrl: "https://onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
+    webUrl: "https://www.onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
     type: article
     provider:
       name: On MSFT

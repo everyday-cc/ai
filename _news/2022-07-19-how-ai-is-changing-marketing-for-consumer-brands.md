@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta goes open source to complete its 200-language AI translation tool"
-    excerpt: "To get its AI translation tool capable of accurately working with 200 languages, Meta is calling on the open source research community."
-    publishedDateTime: 2022-07-18T07:15:00Z
-    webUrl: "https://www.gadgetguy.com.au/meta-goes-open-source-to-complete-its-200-language-ai-translation-tool/"
-    ampWebUrl: "https://www.gadgetguy.com.au/meta-goes-open-source-to-complete-its-200-language-ai-translation-tool/amp/"
-    cdnAmpWebUrl: "https://www-gadgetguy-com-au.cdn.ampproject.org/c/s/www.gadgetguy.com.au/meta-goes-open-source-to-complete-its-200-language-ai-translation-tool/amp/"
-    type: article
-    provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 61
-    images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2022/07/15170716/Meta-AI-translation-model.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "WD9+kSZjfv/qLNTZ0WQ3HtGUgHm0Tr3UQUiG1+evzzOpUBTxGaNXGKngv66AhMjY2f2zhA7T34wjTsrDD5N/6iNdzAj+ytf/vyG5L1SWMgoBPQfbY6AnWWxUtSilFr2HTW5SfYWP4xxP4RAl4/dNXaIoeI+tjO0NmFpyrz7JjLveC5K5vK/D08u1mHopyGsDGLo7MtwJ/jk+r+8IQAd+RGLpYQmskHnESEUg33H+Ta4xU/GpeaGIvF3QU+VyY43KcEYukbedWjm4e8TzqGac+AXg+BSYoOPZX4+oHKMZPESMjHYqr7X0mhlqw3efeP4tgWC1dyFgmvNReaJ8WCop0Lno0GbsLk2Oq0MSDXDArNQ=;PemNd1NKyFqn5dkWhXs5gw=="
 ---

@@ -53,7 +53,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -295,7 +295,7 @@
       "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1064,6 +1064,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-11-autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law.md",
+      "title": "Autonomous Vehicles Emerging as Avenue of Specialization in Big Law",
+      "excerpt": "Though driverless technology remains nascent ... And amid rapid advancements in artificial intelligence, sensors, chips and data storage, the autonomous vehicles sector is set to “be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/nationallawjournal/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/",
+      "originalUrl": "https://www.law.com/nationallawjournal/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/403/2022/07/autonomous-car-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-09-ford-and-vw-backed-self-driving-company-shuts-down-dc-operations.md",
       "title": "Ford and VW-backed self-driving company shuts down DC operations",
       "excerpt": "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company.",
@@ -1337,59 +1380,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031.md",
-      "title": "Healthcare Artificial Intelligence Ai Market Size, Share, Growth and Trends, Forecast to 2031",
-      "excerpt": "In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Healthcare Artificial Intelligence (AI) Market Report The Healthcare Artificial Intelligence Market is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

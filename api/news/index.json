@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-23-google-fires-engineer-who-warned-that-companys-ai-reached-sentience.md",
+      "title": "Google Fires Engineer Who Warned That Company's AI Reached Sentience",
+      "excerpt": "The engineer worried that Google's LaMDA AI had become self-aware. Google disagrees. On Friday, Google fired Blake Lemoine, a software engineer who went public with his concerns that a conversational technology the company was developing had achieved sentience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/",
+      "originalUrl": "https://www.cnet.com/tech/computing/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3c6e824649059cee1eb77cd18b219a490ccb82df/2020/09/08/73b42cab-8609-4015-9954-db77b44f2ea0/gettyimages-1207206237.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/",
+      "publishedDateTime": "2022-07-22T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
       "title": "AWS ML engineering manager evaluates the social impact of AI",
       "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
@@ -695,7 +746,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -1095,58 +1146,6 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-look-whats-happening-tomorrow-at-tc-sessions-robotics.md",
-      "title": "Look what’s happening tomorrow at TC Sessions: Robotics",
-      "excerpt": "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-11-why-regulating-ai-is-a-mistake.md",
+      "title": "Why Regulating AI Is A Mistake",
+      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too.md",
+      "title": "Research: Artificial intelligence can fuel racial bias in health care, but can mitigate it, too",
+      "excerpt": "While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",
+      "sourceUrl": null,
+      "webUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "originalUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journalistsresource.org/wp-content/uploads/2022/06/artificial-intelligence-g55ddc4275_1920.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalist's Resource",
+        "domain": "journalistsresource.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
       "title": "The 35+ Best Amazon Prime Day 2022 Deals",
       "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
@@ -513,6 +608,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-11-autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law.md",
+      "title": "Autonomous Vehicles Emerging as Avenue of Specialization in Big Law",
+      "excerpt": "Though driverless technology remains nascent ... And amid rapid advancements in artificial intelligence, sensors, chips and data storage, the autonomous vehicles sector is set to “be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/nationallawjournal/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/",
+      "originalUrl": "https://www.law.com/nationallawjournal/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/403/2022/07/autonomous-car-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-that-everyday-ai-in-your-pocket.md",
       "title": "That everyday AI in your pocket",
       "excerpt": "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos.",
@@ -1009,117 +1147,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary.md",
-      "title": "Cognizant (CTSH) Inks Deal With Zurich Insurance Subsidiary",
-      "excerpt": "Cognizant will aid Zurich to extend its AI, data, software engineering and ... sustainability via its data fabric solutions and IBM Watson. Accenture is improving its market share in the industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary",
-      "originalUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary?amp",
-      "publishedDateTime": "2022-07-08T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-synthetic-datas-potential-impact-on-the-future-of-artificial-intelligence-modeling.md",
-      "title": "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling",
-      "excerpt": "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
-      "originalUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday.md",
-      "title": "75 indigenously made AI-based defence products to be unveiled on Monday",
-      "excerpt": "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/bnps89/article65617742.ece/alternates/LANDSCAPE_615/AJAY%20KUMAR.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
-      "publishedDateTime": "2022-07-08T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

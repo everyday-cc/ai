@@ -81,20 +81,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 28
-  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-18T08:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 10
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
   - title: "Global Artificial Intelligence in Healthcare Market (2022 to 2030) - Size, Share and Trends Analysis Report - ResearchAndMarkets.com"
     excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. Nuance Communications,"
     publishedDateTime: 2022-07-20T11:47:00Z

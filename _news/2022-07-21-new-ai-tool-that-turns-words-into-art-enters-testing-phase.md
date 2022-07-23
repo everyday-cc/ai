@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Concerning Belief About AI That Has Engineers Worried"
-    excerpt: "AI is becoming an increasingly common part of everyday life, and it powers many things, including digital friends some users form relationships with."
-    publishedDateTime: 2022-07-18T19:51:00Z
-    webUrl: "https://www.slashgear.com/931642/the-concerning-belief-about-ai-that-has-engineers-worried/"
+  - title: "New AI creates images from text in testing phase"
+    excerpt: "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to"
+    publishedDateTime: 2022-07-21T06:18:00Z
+    webUrl: "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news"
+    ampWebUrl: "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
     images:
-      - url: "https://www.slashgear.com/img/gallery/the-concerning-belief-about-ai-that-has-engineers-worried/l-intro-1658169643.jpg"
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg"
         width: 1600
-        height: 901
+        height: 1062
         isCached: true
 
 secured: "6fL8Cy99j+TGRNzAR+6elMl/JTYk6/0NL9iaC8+gP6L4wf1xgA6XyVLRbd+AkJviGoGl346F+Ro5qTza+o7D43gsFLDqfRVT8yk1VKgk8RLOnjRgV+5TrmVmEwHm67tdPf6IiV4BBZc88glQ9gtAwBmX98Q06iqRVcmyLqhmckgplCNj1mLnnSyKXcwcbclM6U9nyaWDm4SJSdQkEtWtQvnC4oij1HJUZaD6M7hbRaSpiqmg2NobQ7K4qcGYSkuh3hhMHgKk4R1aZK1UpJdUNWeXlPd8nEpW/eafB1Bg8c65Vbl4LBDX3C9I5/+B5fJsWJfPjFcju1n/q9ONF6VMeIn5aUpTFMU8KvFfqJlNGjWNukuo41Ba0OiW91dt3sIHrj0IjmfODBqr07cpRdagNaKuzJzWKZsLKwnidLBoZgBmJFR11QHwSkEb/hEMCDigmNuaOKvMZSXBwWSLya8NCLKyUQfeSaGfhEZKlfsZwrj9IC9ISHqGfBrGC2bxQI2yqE4+jgk+5pESHGS3ejIfOg==;DiqGAex5F+JCOlZvxOW1hA=="

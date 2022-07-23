@@ -61,7 +61,7 @@ related:
     provider:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--lVU5laua--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/tesla-autopilot_investigation_69897.jpg?itok=fSXKh80r"
         width: 1200

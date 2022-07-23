@@ -72,20 +72,6 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 29
-  - title: "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-07-18T08:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/artificial-intelligence-in_18.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 10
-    images:
-      - url: "https://static.shareasale.com/image/89260/02_Try_Now_1_300x250.png"
-        width: 301
-        height: 251
-        isCached: true
   - title: "AI Infrastructure Market worth $96.6 billion by 2027 - Exclusive Report by MarketsandMarkets"
     excerpt: "AI Infrastructure Market is projected to grow from USD 28.7 billion in 2022 to USD 96.6 billion by 2027, at a CAGR of 27.5% during the forecast period"
     publishedDateTime: 2022-07-19T13:37:00Z

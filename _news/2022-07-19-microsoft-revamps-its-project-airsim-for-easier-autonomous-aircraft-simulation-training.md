@@ -3,8 +3,8 @@ category: news
 title: "Microsoft revamps its Project AirSim for easier autonomous aircraft simulation training"
 excerpt: "Microsoft is dusting the mothballs off its open-source drone project from years back and relaunching it as Project AirSim today to help build, test, and train"
 publishedDateTime: 2022-07-19T13:26:00Z
-originalUrl: "https://onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
-webUrl: "https://onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
+originalUrl: "https://www.onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
+webUrl: "https://www.onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
 type: article
 quality: 46
 heat: -1
@@ -82,15 +82,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 66
-  - title: "Microsoft’s Project AirSim is pushing drone simulation software to new heights"
-    excerpt: "With Project AirSim, Microsoft offers a way to put a drone's control software through its paces millions of times before the first takeoff."
-    publishedDateTime: 2022-07-18T08:44:00Z
-    webUrl: "https://www.geekwire.com/2022/microsofts-project-airsim-is-pushing-drone-simulation-software-to-new-heights/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
   - title: "Microsoft launches Azure Space Partner Community program"
     excerpt: "Microsoft has launched a partner program focusing on partners with space-focused products and services, providing access to a range of support and benefits."
     publishedDateTime: 2022-07-19T15:03:00Z
@@ -205,6 +196,6 @@ related:
       domain: inc.com
     quality: 18
 
-secured: "P2cnk6IIL1d3JE3Be6qUslErS0ru1E3h+dY3U2WFDqfaSG/b0LmyJGCuuFS9kWmMcuCGdvjPLJt+X2XQHyy1+cuRx+o6SjbLMfZkM4XXPwN6m+d3D2YnreOFlr7+4LIuvCdS+LK2CkQ9WGxQuCljd7Y615lxHM7o0dJowXUna8djYQw6OfDqN3i5dYf3g0K0u12lt6hdYzmwTpFp2kOPh92uIa6K2zQCoGfvxicfvA94fUW8w68n8ie1FLNHr6tkt4IziCL9vPg+O9YD52MsLY0LccmltUuAooin+f0N6CrELZ7qTu0GPXGFGWNN/aWh4ssKgiUsl3JjSnKm+nmoIWqZJsKH8yuVMUQSDq6W/VQ=;a/Y7rfQwc2/Tl9OPvxSpkQ=="
+secured: "EmbV/g6PALSvLU9vlsDCi+DYOe7lOCYHpy7Oh3E/Mdaw07d3YLgU+0sWRXO9gufB0xz6E0uYCMkBJMDOXAZGOZsE7/q08Fjq7A1PUy/KU3uMTLvIF1P9pZaPsfBkz9+ECSLdvvWM/MJGrxoIKpuKEfM7MEORSjPOGhFu9Ged+QdLWkZ7efhW2LZOlLdF16qb3hxIC45pjt/a+yDkm+hSuNBbXU3zFAo2aWKCHZknKRCCzPagZlG+2L69KzB1lEggC/h7vhX6oQ5lMkNHjxiXrh/U8ZcdndijqVmlcNk6w2Za1YpQ0LOxnGpORPIXiga3+AmsUDDNG1tRtQoY7Yz5ty2rwNf8U24/KJLwGILC2ts=;tchybR9zc5cBcOb6bgbbGQ=="
 ---
 

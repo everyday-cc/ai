@@ -2,6 +2,187 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-06-04-driver-in-fatal-uber-crash-rejects-plea-deal-death-in-tempe-was-1st-in-nation-for-self-driving-vehicle.md",
+      "title": "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle",
+      "excerpt": "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/",
+      "originalUrl": "https://www.palmbeachpost.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-ai-ethical-decision-making-is-society-ready.md",
+      "title": "AI ethical decision making: Is society ready?",
+      "excerpt": "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220603124906.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220603124906.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-ai-is-new-but-not-immune-from-old-rules-bank-regulators-say.md",
+      "title": "AI Is New but Not Immune From Old Rules, Bank Regulators Say",
+      "excerpt": "Financial institutions’ use of artificial intelligence should have risk controls in place to address possible drawbacks, senior bank regulators said, warning that old rules could be applied to the novel technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
+      "originalUrl": "https://www.wsj.com/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-557633/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
+      "publishedDateTime": "2022-06-03T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-agtech-robotics-firm-farmwise-just-raised-another-45-million.md",
+      "title": "Agtech robotics firm FarmWise just raised another $45 million",
+      "excerpt": "FarmWise, makers of autonomous weeding robotics, announced a $45 million raise, led by Fall Line Capital and Middleland Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/FarmWise-Robot.png?w=1024",
+          "width": 1024,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "publishedDateTime": "2022-06-03T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
       "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
       "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
@@ -935,171 +1116,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you.md",
-      "title": "Kick Back and Relax While Eufy's Discounted Robot Vacuum Cleans for You",
-      "excerpt": "Save time and energy with a robot vacuum that will automatically handle daily cleanup and keep your floors looking flawless for just $130 right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/kitchen-and-household/kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you/",
-      "originalUrl": "https://www.cnet.com/home/kitchen-and-household/kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
-      "title": "Computer Vision in Healthcare Global Market...",
-      "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028.md",
-      "title": "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028",
-      "excerpt": "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-artificial-intelligence-market-providing-ai-enhanced-security.md",
-      "title": "Artificial Intelligence Market Providing AI-Enhanced Security",
-      "excerpt": "Companies in the artificial intelligence market are providing ... Computer vision, a subset of AI, is being used in self-driving automobiles. A recent and popular example of this is Elon Musk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-providing-ai-enhanced-security",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-providing-ai-enhanced-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

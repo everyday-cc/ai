@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Autonomous Vehicles Emerging as Avenue of Specialization in Big Law"
-excerpt: "One litigator likened the opportunities in the sector to the internet boom and the industrial revolution combined."
-publishedDateTime: 2022-07-10T22:45:00Z
-originalUrl: "https://www.law.com/legaltechnews/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
-webUrl: "https://www.law.com/legaltechnews/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
+excerpt: "Though driverless technology remains nascent ... And amid rapid advancements in artificial intelligence, sensors, chips and data storage, the autonomous vehicles sector is set to “be ..."
+publishedDateTime: 2022-07-10T22:54:00Z
+originalUrl: "https://www.law.com/nationallawjournal/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
+webUrl: "https://www.law.com/nationallawjournal/2022/07/08/autonomous-vehicles-emerging-as-avenue-of-specialization-in-big-law/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Law
@@ -24,6 +21,6 @@ images:
     height: 633
     isCached: true
 
-secured: "5vKVnbMcWYYfYJ3B8lchM/WBlw4cyl2rTS5NeqntCmL6J2CTbyxzWku/ZNxS8uPL7j8lS/VNb9ghUXIdrHJoyY8AWSWYvVrFSRHusLJEpw7UnakdQ7xgGtxNC6F1V3oSzo0BoFu34e0SYziL7cOHsmj0IgAnQqjSk6kv1i8HSS37ODTrdDF/7GpC8nYgxjRzQbsOZtq1WwK/jjJXrB+TuC0gJZ6M+OJob3nuRhRhlW35OSqzce8zNkrrVyPCJyHbXQVRfC3mFz8dfHXym43Lp7M5WOXvNlRYQKLTyYUpuL0Sd6N4Ph9UsuG+2Dq+Ftb1VN8QLPLSvzbFP9dCXFAhCWChAdCN6pWDPGlOvQ1LnYdjV1ySU5eGxlbAor6+cWy3xJ+HKj89fABKLLnRO2CZwCKYWkL3lEDy9fJQozuCl7W10eBQ9/pE2vOw92pW65Hz57eTzxuyBVgH0LbTnRLvtpfLmnI8oaKQJRnkB0aDtENO3tDT62RZfOpM22CoasWKuBOMC9ZS03k2BtpoA3gqwQ==;UHHEfICRez2A1D1moHmQpQ=="
+secured: "f12LXxqJ2yB2MbjGum5pWQe+uoNQlITv6Vu7+QNfq1VsGJiDcVnA5iiWqU6sFOtTox+AeP2rU51ldG2dDgEtqBhT4Lm6ZT6KQw8e1OhSb0FuuugZLM9NHbWSN8u88zEtTZ3IjjeCw2TIZ++PBKAWxjyVcv/c3qQ7nBU/clRtebSi7ffRbfxK6pkX2QshPfRllVtvMdiIxUe6V4JyMwDlVNOhxBWqKbNBcev4WmdRPtnH8/WDu+m9Sl0zK+z4Y+DWuDEcBTW0vm8b7c64uWYf6jLqPMusNZib+8QRx6L/SQ2dmv7sLiihHlHnzt1xUk0IMNogMpDep7eWfkCRIxzr0dVV3FspCpuxD+pUCxRhZhQ=;8Eun/OtpFTyPS+m2MMSaYw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220718122229.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220718122229.htm"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Science Daily
@@ -24,22 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "This robot dog just taught itself to walk"
-    excerpt: "The robot dog is waving its legs in the air like an exasperated beetle. After 10 minutes of struggling, it manages to roll over to its front. Half an hour in, the robot is taking its first clumsy steps,"
-    publishedDateTime: 2022-07-18T08:35:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/"
-    ampWebUrl: "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Better Than A New Born Baby? This Robot Dog Learned To Walk On Its Own In Just One Hour"
     excerpt: "Once more, the robot overlords are attempting to outpace humanity by learning how to walk quickly. A robotic dog developed by scientists at the Max Planck Institute for Intelligent Systems (MPI-IS) in Germany can learn to move about on all fours in about an hour."
     publishedDateTime: 2022-07-19T13:34:00Z
