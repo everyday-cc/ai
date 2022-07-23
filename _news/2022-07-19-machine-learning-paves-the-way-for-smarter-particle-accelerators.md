@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-07-machine-paves-smarter-particle.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-machine-paves-smarter-particle.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2000
     height: 1294
     isCached: true
-
-related:
-  - title: "Machine learning paves way for smarter particle accelerators"
-    excerpt: "Scientists have developed a new machine-learning platform that makes the algorithms that control particle beams and lasers smarter than ever before. Their work could help lead to the development of new and improved particle accelerators that will help scientists unlock the secrets of the subatomic world."
-    publishedDateTime: 2022-07-19T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/959041"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/4876fd14-1161-438b-a5af-ded0ade5806e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 453
-        isCached: true
 
 secured: "fFsffF7igzVYIpg4spdfPB29roB9UeeVoLfnJUz4cmIlrx468702Qa2O7zw+qq6XzqzqDXXzanWaxBP3MsGsN+FKrfpRFr1tFYss+I/Zfol2X4bmZ/xqlaXcVDi393PuprsVg0Qh8D9mE4HDkr4hPWF4hC5t4RWvh36/45/3TgPBJGqFzS5hH5gGgNIMmsKQHLPSilzp1c2xcgnHdb31QhN3QzW9SI8Mnh+rVwAVzRB1fBggvCQP3ijRBst9eu/YWtlhTmp2bT9WD44y4MGSF2TlhMrviQuws9xAE/Qr30ke36LLrFJrzVrMVMlbOdrhb0rmRX8EfGvDkPqGoc+BSmPO1C+L75ZLxKPpz7H9iffJnkuco3N0YkXgWgWA7Z/d5wLa7WxNThgyw+9RJ8DNeiH5kMwSPLaL37dF1wHNudJCxVCxA5m2wZWy1DFyDrX+73xjsROSFvD7Rqm8gjMJFAKGfahbGEIZXvMWtx1wYQjVSeSOjfqwLPo0l48U0ND9viIhCE/XuUwk7OaXky1V+A==;xrbleBq5zMsu8HcdKe+w6w=="
 ---

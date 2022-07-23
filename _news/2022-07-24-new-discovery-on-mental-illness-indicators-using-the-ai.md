@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Biggest adoption of AI is by the manufacturing sector"
-excerpt: "More than a quarter of a million people are employed in the sector, with Ireland recognised as a centre of excellence"
-publishedDateTime: 2022-07-21T05:00:00Z
-originalUrl: "https://www.irishtimes.com/special-reports/2022/07/21/biggest-adoption-of-ai-is-by-the-manufacturing-sector/"
-webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/biggest-adoption-of-ai-is-by-the-manufacturing-sector/"
+title: "New Discovery on Mental Illness Indicators Using the AI"
+excerpt: "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness."
+publishedDateTime: 2022-07-23T17:45:00Z
+originalUrl: "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
+webUrl: "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.irishtimes.com/resizer/PiMms-xajYxU4YuPn2xdG_fY2zs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ULNKNSWKHZC5JH54U5DQZ7Z2RQ.jpg"
+  - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg"
     width: 1200
-    height: 630
+    height: 1000
     isCached: true
 
 related:
@@ -55,21 +56,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "New Discovery on Mental Illness Indicators Using the AI"
-    excerpt: "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness."
-    publishedDateTime: 2022-07-23T17:45:00Z
-    webUrl: "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
+  - title: "Biggest adoption of AI is by the manufacturing sector"
+    excerpt: "More than a quarter of a million people are employed in the sector, with Ireland recognised as a centre of excellence"
+    publishedDateTime: 2022-07-21T05:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/biggest-adoption-of-ai-is-by-the-manufacturing-sector/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg"
+      - url: "https://www.irishtimes.com/resizer/PiMms-xajYxU4YuPn2xdG_fY2zs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ULNKNSWKHZC5JH54U5DQZ7Z2RQ.jpg"
         width: 1200
-        height: 1000
+        height: 630
         isCached: true
   - title: "Olive AI lays off 450"
     excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
@@ -100,6 +99,6 @@ related:
         height: 675
         isCached: true
 
-secured: "UtNjJO/NXpZ9F2pEyXPCkPWubQ7qRXYeO+auIYbHOhOVnVqXQBdW+X0GHTlHYtin2+kc5YIq3vIhSEmIlE6o2paU3Zddeiux8j74ftDHOlGheP8NhR8TC9UqXMNbdNJ2wLdA+55b6CyuOUIvdtBUi7cjG/PotyuLQhcDy2TwKg70QMWVtQfvJSoKfXY3q/sFOesEPOMLITvECTaRh54H0VZMBOSzHVVeDSF12PPzkfvpMDPfgxJFoxr371z0NrORQxotZPHhiNP1dc4HRGutg3RYK2nJKCeoWutpuxqrAApVviwnQCwEKPoQOsugBdD6dhzpYT3eWcVzBUxHoAWnCUmIwNmvs0YXTmn0Y36tSBO+dTIClGAUBCtd/5IQp8vvBphq4fhngLtIjjxfZ6ziNnfM7imFts/jXUpGtC02E9QzCoi/eKI8MNuU015xD31FeIY1JqTsfLpAFgqFK4s7aYjjwg9vZaTlc0kxuCh8mxcmgnH/0t4KuhcOLK7A0TIfFyIUK18gjp3QepMO5/s6Sw==;uOpN3Z5uW53UFF11GxlKJQ=="
+secured: "WqClnj0+kDgWCnFyJmP6+DB1eUHvYviSOgMHy9RMjaNMnfmReqD16sUPNy5n6+SJwH7kfk7vhd0IMCU3YZ1lGcWlANP4GH0ghV7ioEl3Pgsutqwt4uX4gik2X4jkb6MdT7wxNMeRG7ph3gQV7Jt97mIEnbTyGf5Nvv6xJWFHoC//nkFEAiWlR1YiSVRjgMcmKQYeNxYINYr01y9XDuS41c3vnYya3Qk+ih1AMRTuNc2tJDBH2+j2XileMkEa0mGXW6ttGQ+jCL5OnRLKUbgo7jEGAYXZZh7oz7W4HTZqVXdeJFaYxDBywmV0/mcwLjEJnTGAFsuBiH7zjrg3PPqVixxPcDFrl/80BOSN+Qbjp5I=;chnRPG3s+tsHYAvMhLCTmA=="
 ---
 

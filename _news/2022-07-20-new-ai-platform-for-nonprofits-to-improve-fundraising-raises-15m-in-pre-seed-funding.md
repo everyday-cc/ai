@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-fo
 webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-for-nonprofits-to-improve-fundraising-raises-1-5m-in-pre-seed-funding-1031600479"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 400
     height: 227
     isCached: true
-
-related:
-  - title: "Cornerstone AI Raises $5M in Seed Funding"
-    excerpt: "Cornerstone AI, a San Francisco, CA-based company solving healthcare’s data challenges to improve research and care, raised $5 million in seed funding"
-    publishedDateTime: 2022-07-18T23:34:00Z
-    webUrl: "https://www.finsmes.com/2022/07/cornerstone-ai-raises-5m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/carta-440x293.png"
-        width: 440
-        height: 293
-        isCached: true
 
 secured: "g4OMSy4XXxWgqE9xfG8IW7pR1ToUeQv+BNVsJ1+9o/Wx1NMbtEJIf85W+k8Ke/dcJyLkrIt46IupOcTobyPhYolOKF2G89dLxCGED/nAn+4PvI6CCL1XDtx8FhYJqvXTGq/FXiRwt9ptC+4DjnSCBpiubFvW1xH4d10dEkH7l0tG27Za3Sqn1GFpYEG3NSrBVqk+4yyHPQzX2uSRa7iBJHVFu/eSIigLSxY+GixBFH0WWzoSYINESKma789LZc+rNkFhcqICjaGSbM+VwF4TfoAYMNfMbHjoP/zUFZ0jtrLj1J/W1DbF6tWgDmSriclg6i2q++dVGUS6h7BKKAO2cCUj/77OOsfCH/JpI5ax9KKIS3Ybn1/v9kyZVQgfOkkGKalRnD4TxVMlHaKDZOYEkwnW7FcYfTG6T2020TzjK4t906+MhLotuAbZvBpn8hNck3TKh+YoAU0oRy6b7W9ZCSh79ixqudxaj9pDtbJLF9JhaQqhtpmBkHHEgktA+Ese7zC5X0fb9a/9NSe3+A7MEw==;ujheu6mZNfV9RTU0wRVV4w=="
 ---

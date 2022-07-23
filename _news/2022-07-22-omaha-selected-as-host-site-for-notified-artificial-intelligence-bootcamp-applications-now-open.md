@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-22T15:02:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-omaha-artificial-intelligence-mark-cuban-8b30dc49cdc45a8c5c4637caa5c38634"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

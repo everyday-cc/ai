@@ -40,15 +40,22 @@ related:
         width: 635
         height: 517
         isCached: true
-  - title: "The virtuous cycle of AI research"
-    excerpt: "We recently caught up with Petar Veličković, a research scientist at DeepMind. Along with his co-authors, Petar is presenting his paper The CLRS Algorithmic Reasoning Benchmark at ICML 2022 in Baltimore, Maryland, USA."
-    publishedDateTime: 2022-07-19T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/the-virtuous-cycle-of-ai-research"
+  - title: "New Discovery on Mental Illness Indicators Using the AI"
+    excerpt: "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness."
+    publishedDateTime: 2022-07-23T17:45:00Z
+    webUrl: "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Biggest adoption of AI is by the manufacturing sector"
     excerpt: "More than a quarter of a million people are employed in the sector, with Ireland recognised as a centre of excellence"
     publishedDateTime: 2022-07-21T05:00:00Z

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
+    excerpt: "Alphabet's Google said it has dismissed a senior software engineer who claimed the company's artificial intelligence chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-07-23T03:32:00Z
+    webUrl: "https://www.cnbc.com/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107093103-1658554313967-gettyimages-1241233010-7t4i4jhioei6zjbccg53shntbm.jpeg?v=1658554360"
+        width: 4480
+        height: 2987
+        isCached: true
   - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
     excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
     publishedDateTime: 2022-07-23T00:40:00Z
@@ -120,15 +136,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
-    excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-07-23T08:36:00Z
-    webUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
 
 secured: "FJ4kw5dMFJAYnuUi9ibJ8GSrTLXzSgMyxlgACKXacvX9AajNNjL9+qGzmVTzpfsNZZwGjH01dBDBhPtseRLbZHBcUYiQcrickN+5KYzSCtrncIGBKsr4UV09Zrp1pCyUhrdSxla9y/mz9Y+M6VYA26j96VT8EBnWXEN2uzlCEZfxSs4OkaVs3/5DalbUpUqJdnnRnK2prnY/l1HQCqd5w4hQFprosloN7pxCw3tuGoIW50ibxstITGfCzl21UBDnUZoek50f/sJRPTz3liI02GOGdP7r7hZqsSJqrJtu/dx++MTNsOtTmbll2vyVT3QTqVNorDG7cNhw6feQ6WqPzYfhH0qhYr2Jwqmq0zzRwtTQNkZtc872bzp1gBXVk6Fh9BbOpgbHmk9MV24VqWVKh5VBTsr2OSds70cPOr6Z0/dPd6OlI0yCG4oEF5iINd1S6z7PDj5V7yW8YQuRWgr8CN14MSmPGb0x0Lxw9vvbCorcfHigobyaCd0sy6Yzg+ZTGcZm20+M13VK60455EFJxg==;LRMD9NlEfDW9YYgTWGLbKg=="
 ---

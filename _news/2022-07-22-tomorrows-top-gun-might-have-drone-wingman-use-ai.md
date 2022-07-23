@@ -3,10 +3,10 @@ category: news
 title: "Tomorrow's 'Top Gun' might have drone wingman, use AI"
 excerpt: "Movie fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights"
 publishedDateTime: 2022-07-22T08:21:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
-webUrl: "https://abcnews.go.com/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tomorrows-top-gun-drone-wingman-ai-87232882"
+originalUrl: "https://abcnews.go.com/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
+webUrl: "https://abcnews.go.com/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tomorrows-top-gun-drone-wingman-ai-87232883"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 558
     isCached: true
 
-secured: "ll+HyZAnSs9UnPX/DqNr07Kjt6OM92v561lrr71ij4ypwxOE2uMYkfpXHPYekGKAYntgyNvjj5MClQD6Uki44fPjKmthSRuM1j1jbzmtXshyet5q8AWrbOcenwdV9xQ9F7rFcTzihmVJnwaYvwbumA2nOwr30HL+klnUgeN1Dw679Vj2b5t5IbvPcYJVQEDNQGZy4w+FeJteCisY7EjWlKMfmJZzBDZYgNICQHS0k/lkz31dGibU28HLUtv1mdK/WU2pASA/cOoAYJUNjpbnSjrIQSAa+PPrtcW6yDZw78fJOPfdGr6wRthEBuLNZmrKdGdiSB40vW49hGOjveN5qRT6GMkvUaxuFwM6motJeCo=;kCek3V5nP99Az86aDy96jQ=="
+secured: "/xWbD8iWoP/3HUvcZVEl4X+tywNEsChnIgoSv6pXQ6lYDmUmSbFb7xc0PVLp/YkZQjdlJtnfgwu64FU3ijCEUHBi0rvTTH43Zfm6xH3Yb6e8BRyCOtoSDu56jLm+juYrP9bJUdNMMF2jigR6zDhStAD+93SIvTmfr3rYLljEqXuxrcsSOcEczZNJ4tGsCCFAS85qXMc3BKxRYKozvype26dVJd7lN+hkj3XSsfjr5skZcfpjeVzhpM6K6XkjPl/iaYxAS9axWuwL/2I+A0irhmHG3F8jOhLwWEVeGPDl3D5Y5kgBVy7qVWn111WJ6/vc1CWxyo+htibNCaLQraI0+WHFTrrPP/YOXCEGFE6dso0=;4tBKCqE6nqQachpVIihELQ=="
 ---
 

@@ -1,26 +1,33 @@
 ---
 category: news
 title: "Google fires software engineer who claimed its AI chatbot is sentient"
-excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-publishedDateTime: 2022-07-23T08:36:00Z
-originalUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
-webUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
+excerpt: "Alphabet's Google said it has dismissed a senior software engineer who claimed the company's artificial intelligence chatbot LaMDA was a self-aware person."
+publishedDateTime: 2022-07-23T03:32:00Z
+originalUrl: "https://www.cnbc.com/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+webUrl: "https://www.cnbc.com/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+ampWebUrl: "https://www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
 type: article
-quality: 49
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107093103-1658554313967-gettyimages-1241233010-7t4i4jhioei6zjbccg53shntbm.jpeg?v=1658554360"
+    width: 4480
+    height: 2987
+    isCached: true
 
 related:
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
@@ -134,6 +141,6 @@ related:
         height: 372
         isCached: true
 
-secured: "3s9dNVTWXVXfPQVUv15eZ8ay1FqAudKF2almMMO7oIjvpJ/DJHZC4n+KbCkuy1LUi7yAoTHsUMIFkQNTDkKTG8PzT3OK5cPrTLUpIBvHeyaIQNSsvE9Ei7OHVkhq0zbF8uAgElYwIrUSYu1gdkHdEc4ezDsPgs+1Cika8u/QdG1d/dx2PNVvffc4ATqJTJcNRNZxsSeqE76WKr8cU2E5tWL2HD1aMv7utuTIXJY+5TKDhMDdyq7ItXy2IjJl43uIzFarrHeVB9kuvhCEYX3aB4+n1o5o52ucZRXnDQ2325X+AETifO0Ot4FdIp0VYifqTxYUBDI2Ld7/LdjhMQ5NExmooGsnbOJengUSn6WYhQYPQPBYWheX5xm7yzOJl17FQf2PRinqk6ej/Qxjnivzslm6V7NwJzzuvkkhWXxNfXJvH3YmErxr8Vd1ElWkO14uXpXHSwLk0LKUgUxHD0QwDYoxp1ctTrQyq+/3odqLvUXcuoBK9zikTaxDvrOwfX+UfQhFL9CHkv3klWXtUn6CSQ==;5QxB8UPXu/FmLb15Qb1Xxg=="
+secured: "MEc6ArV7eAYEPtar9sjnzztvaJotvErucDQ5Yg9vgRzA/yhSul5QCg6GMsryi+kNKHb/0fvWIanGjdvE4GtP+4fPkg1dWSK7Eo+S2zvVqLhtvOcW+x24Nbco4fHtr7CaTZcG5qLbjzNDegpTNUTx1YS2BA+4JJqD7kDhzhHmlKHK5ke4Gk2FQ1k7yTPeeFOOdUZDps5Bg9G8EuNTCDfVZjs7Cb97vDbz6L2JWBcvm4PZ4s2ADBX5bdPy7bDZvd7zhAkHwh3JyZoRdBVlUT+5S65GTcsBwPVEgjfZqTjUWVvO3gav7ieq6h0zgcsNXKrJUiwBQMXMMW/dzdmTp5iivkGAjT5NmlgOXuX3O+AB2u8=;bDTFLPvD/Kixs6NU01A9SA=="
 ---
 

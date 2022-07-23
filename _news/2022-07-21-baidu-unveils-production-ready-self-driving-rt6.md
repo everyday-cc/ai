@@ -150,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "u5pXyQ4FAt7q3Ej4V9Kv/9TIVmj51oLrCv4htyo6BGtZhVTFyQa8mC9/5u/9+IjJtuTV1HgPN4XaPQFicn80gSmZHxGEv3RTcB8Fpnvlvlk7SnBZVcUQZ/jXl+NsUu/Loz9qH6nyIKAzMuYAnkhgcD8ti3f336U6PfwhhC/btHe4fJgmTgYmU9o04b4FgB01p0g9d7CxIecbW3b3hCHa2OlRL3jhE7FyDjZl2ew/zd9NAq4aQg/8MuolNrtc8pxhA9DtFVWat1nnN1NU5P+f8csEi7XJXfh8ESkS35r4rOvbpCYgw2QGcg4icONi8f7RpmDeeGLMVfLT16QvMaa/YG6jcVIItwAtxgAow9cuOOk=;Vi626vycqLW7Cbxlm50HLQ=="
+secured: "RHAuJNm7C/eKy/eAzJ5CbdNDSrUW1btfcPLxrv99s6UkTiO3yS2XmVXuS9C1NkZnGHLXuiFZa9CY6bhBmvcjWI3x0Gnga5as6V4qOWCQvNmr1uLMxasD4bi27nCt22h3oKU1lE3/zx4w8CzklNu+HXpqZFkvD9+nHyjUOBCuxjEuQauPTk5RW/4NB29ZzPrNkh79eA+Eii3ccaH6l7bCJGKt7U6vMpg8AByuuSnnH6qSU+rqku0uV4TeS6YK7791QL/rmowivvBp0/5LVrhEuSN/2FyAdLI3axRZfdV8qkxie7J/W/r9IOYOvbHB+/ZyLSlo90M/391GYiAW22KgMgYKsw7WZIgIgXhfX0/AiZw=;FSfoLZLezVoH/GLffOk0xg=="
 ---
 
