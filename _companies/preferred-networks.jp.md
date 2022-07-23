@@ -2,7 +2,7 @@
 name: "Preferred Networks"
 overview: "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds."
 type: "profile"
-heat: 41
+heat: 42
 
 website: https://www.preferred-networks.jp/en/
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cldaGudHP3I"
 
-secured: "kVZe7UyEG999DFL5a8SWjxHzZDo6CLPcVGcfK+1epUt8/4e8PCa5X9kNDfW/fwAP9MjHFw1Nkaw+b10ibpEYtzgXlkeOzgtuTguBgteoewXfBZoCm/nr8M6ofdTH6baY+HsdAJU1W+KOedtmvjhCIVSMqSU0utKxM5VfXJ6G4KuO68O5At6sMXJBNuSnbTWa9m40RSzDfzgSJtJlpSu0WmR5Q8POCvxE/n58Vt8h7MLGr8cgv2FA2YAisLLuT6hAOHGwWI92hEO90y0N4LFZeTRFuDo+G0o9sHM8ZVXUz1icnxiM9f/n93vMVRSBXuAxtAb1ves2qM9VxPaRysqz85ucF4JO56ND/hMapDxTFtqlz9WHmbwj/aIP4wgYaCTF+prKpuyl7CozCnnT957sJXHfVnatBwf/yk650/yVh/I=;2jlu9PN7VyDI4FRfNZs5eQ=="
+secured: "1m03ZhDocPyPCSFkBoaP5UCXOUEX+hELgCtcw5Wc7aObhpibzp91X95u6sbsNz7YCw5Ikl4/ztBAOSq0LhXxVB5/y6eaEXjUC+w9TwC6zPuQzKildxzkp7rXRqeDwy6apS8QWLQp4KJIKPX7gv52R3NzzSLTG13q8SUredaRr3t+XcEWJE0WiEB1PBqGtMKiPuYHILLLx9w90LF1xHu6gk33VDuzInZHGAqJwG6RRtwrNO9yR3MsR37NigiHehQf6faiD1ONJ3BCbbRKpnCY5JbJMH8KWKsdG+fIBhGk3wU5GgtqGiWphaqXJyuiZIXjbmAtCweKVbvLnUPftT5ov5Pdeb3/5oaygnp5kiwwkmpp1ctSVZ8ZnqbmaPkknjUtLoguwfz4LCDSzhR99D+j5YPP3FlnMXfcXAI0G2l9gOA=;hliXDc0gcR9bHDvTY5vnVQ=="
 ---
 

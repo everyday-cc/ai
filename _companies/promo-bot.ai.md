@@ -2,7 +2,7 @@
 name: "Promobot"
 overview: "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio"
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://promo-bot.ai/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "promobot"
   url: "https://twitter.com/promobot"
-  followers: 3072
+  followers: 3073
 
 yearFounded: 2015
 locations:
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
 
-secured: "RjZIlYEtztvfIR7AhiWZCXOrunA2K+pszF1+LVu7uy4Yy49a7GB1GCuhgVhnWMOVr1jTZU4GngxLgYxTF8j9zWgJIz+7Q2qkzcSCZSr0d+sBNMM6S4tKarnTPSVF6+wiVTK+qPZLTdgPheh7iw2Ko5Zg/Ol/18di7RD95/2V0Pe2emKZTB+9CzbyZI7WnZ+M66h8pzm8OcMD+MBZPB9MY61zfvmCS5T3tzJ8Hzr5mWgp6Cgzk/4oDMcVlo2IxLgv/hcsGK/32QRTQJfY+eAcPVRHQ79zhaPKN2A7tLN4zm0y7JdVzO/hXlt1wuONS/XUBKXf2IRKvPW1fy12R9+7HUcAZXt2Xb5n5MTDTn9dRFQ3J6r/Htqe1dJ9NezCYQW4F8xNIW1IknfQqQLKcWJy2pJoPMHNZGOYvzk6V33Dhig=;c/9QsQcTTf0D2KFRQIW04Q=="
+secured: "5VDYUEMw5sDVZgV86EMxzwH6tSBn0awKrmDomvVvJH6x9zA/Tg8b0LD4lmEoI25597BUz/mhcJUs474LWIMr1xMCoUK/FB4fOO1kQr3zXlhgrQoV4SVTttgKGlIWM7HwOOxmsZupPTRPt3JM8PrNsOYduGNInsIC/D0VaNUzdvwTq3JIZmxOUJ8Co1mACQuoa5/pM/NnuEcQWP1G+493/cWvCdAOe357QhyNbUA5+3wjqM3ujkgxpuCkXxVzGu5CEvfBWqPPG+W/qCmRynCuI65/d7Klrs/YzYcqI997pTIDwD09HD9IH+1l7o8B423D/tFuetr8YNPvKtyJP2mmFwCmmyBrimDCtDFb/XwpicDwaCgyn6g/dKxXED7iAfxOYSa/0gyZwH2dOiX8hB/0bWlgyv83/mV7STUfxX72AF0=;7uyv0ZzfLx56PUtbAqfvGw=="
 ---
 

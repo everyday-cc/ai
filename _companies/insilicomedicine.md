@@ -2,7 +2,7 @@
 name: "Insilico Medicine"
 overview: "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research."
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://insilicomedicine.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=EUr-rkXsBUs"
 
-secured: "sRh73f3Low+D+wdV9E9VcveHAVXpyHBAnKk104HNIB4COUDskGNNVFPGwPuSf0bTdf380erWM03naizlASyi+4o/kD/IBGu55bhjQUtMdNlKELaIOWIbDyyxjG5OWDccxYt+1cPrI7L27fBTVHlQmKfk2TuigqIPTWiQMoFgtA/avuGrQ4au7vIqkuzkHeaL59bolQOWPlskVFjufbHCFPwP4viuV/0nI01T2W5eGE7VKNpXS2AYI4vbYBQyw3koUxk4hVnG5ICUUBvttx7035b60WrigT6weM6UmNaa1PK4Gd356EODOvlyIn5g18VFAjgPakQKYJcZvDMHoBgQwTNrbXOA/eGF2Zf8VSErlparzsxd8MNxlsh+CEDR2Svx4vq+2+mCXq5HselvCoBZZ26ST/fkTu6I+yrcJKE1g6E=;nPK/m+EzMUHiSRehJ8xGxA=="
+secured: "cC6sf/Lv+TTynZXz+qHI6Z9BLQ0h2zJcsWokM3DtAsLV1X81awQedBSxntPNpf7LSs4GRPmqg2idKRmytq0jd4bqE23Mt2e2s1QBn7j3BznTWC9WI8A/QJw0VkwkevFTaLQ2Lb0cfvayaF3SzKccPu7HKULdlMgGRWCDLoqXJ6vFgk3+w1fCciq5NFEIMbHwXLnEhMVjpQohytPJqVcXO91vzaD12pHcu/ysgLq1Qugj+wUsYQJxJXiNeqVvRgjbThiFJ+ssXc6yeFmDMw/2UZBkIlvnLyQ27tn0qGsyKklvs3+2uP8tO3Y0/0asgFPXlukLDlc63qj6+kj/mZnY+oxvIzCfY04KGDUMbA9T/4K9sJByKkTa62iLrgOz1b8CG8di8kES2i4TG6asfCOX20vQZiH8Ga4ecc6ospJWYLU=;csWmT+zEcckKdLa8g6Vn3Q=="
 ---
 
