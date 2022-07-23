@@ -31,6 +31,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "How Capital One is using data and AI to level up customer experiences"
+    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
+    publishedDateTime: 2022-07-20T18:32:00Z
+    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "qUIvdFU1t0EdKU36is831xkAWZevJrcQ0RXgzFE7qzJySZFZroqVNp1QH74fXcbqla3tCa1cRatg4ucQbAuU9cCSnPxToSEzqnmvFvLXZfwOmMK/VDi67RVDOjcVp4D2k7gKH7B63EvRRFUf1/EyGosiosUecXGWY/Qnpr92hnCyTcqVge4UtMIf3L0P2ozX8j/KeTUp6ydrf+gioJKmL+LoDyK+opu0Au6qJIrJgGBrhpsnzUfUy8w8CFLFRpuf4jvhIOfHJ7wNDxLsrW4hKkleEZCGesxeduyfyt5qTFVO1dqsYbPHwhvAlyS+RbbQ019XikbRlGokuUuAZaHK2K0pV+6z64YPxDNEDEI408evQ0clIlm2nXgBNPgPRCWNiIgoXlN744oIGrcly/XIFJ9mvUYsVB9Wg+PxvhgcqofPXGq5V2yioUzFRhKGUqJWrNA9K8TmO1czymxHdtSxx2CcurZc71s2dUO5LIH6y5Vac85bHWU1lJ/gw50WFpgZh+vpHjMTpd/tgsHo4bTRKA==;/vXkOOJ1dGXqKCNq4yHDgw=="
 ---

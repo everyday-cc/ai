@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-engineer-who-warne
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
 type: article
 quality: 87
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
-    excerpt: "Alphabet's Google said it has dismissed a senior software engineer who claimed the company's artificial intelligence chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-07-23T03:32:00Z
-    webUrl: "https://www.cnbc.com/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107093103-1658554313967-gettyimages-1241233010-7t4i4jhioei6zjbccg53shntbm.jpeg?v=1658554360"
-        width: 4480
-        height: 2987
-        isCached: true
   - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
     excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
     publishedDateTime: 2022-07-23T00:40:00Z
@@ -140,6 +124,33 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
+    excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-07-23T08:36:00Z
+    webUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-23T18:49:00Z
+    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 49
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-23T14:49:00Z
+    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
 secured: "qj/blBeka4cxh0A5EYWJNCLmyTQmlAmUQ0OosFyoCNU0JX6ofEUBtOEimjpEN2gRRlojZV5HUZG+q8IIKgzDwVwm/1RpRCc5PcMqPBIq8BBzDdSEFDPWw4NkhDRnkoPS/tAsyd6IcllFt96/gyjiqWZP7MSQuAnGk+jDHqByYjrLLE5RIByLCcPWfEAWyoUhWuuzWbESh2/1J8assTX0bEFEuj/fUKAL8hZmyzz+YIj2b1o6a8+JRItR1js0QRuYT1XUtDsR9/WC6EULiDoKX8sKaanS4Xy54S7AwseRe8gfjKDvZ3XCkCo8Ojo1mng2DIH1IMLxDhvZeOkkecliNBGPMBvxuoDafT+2aAovwBiLteIfCtsCpTSJP6tddG09SZYPG9o/SLyupvw65waBZxtyUPdjUHJx5KBQYMaaZ/IOAPON//GdBoRJyLNf2g03LxCH3MmZNKDYcjUxI7YuoMXW/A3LgneoA0/3ujZwNxlk5PV8iKQeZ+8UJXs9N6o8/vGNbG+f/QGsKKDc2j9CPA==;x6FiDLR9ESokqlH3/TgmXA=="
 ---

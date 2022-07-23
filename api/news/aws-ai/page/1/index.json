@@ -517,35 +517,60 @@
       ]
     },
     {
-      "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
-      "title": "AWS Announces General Availability of AWS Cloud WAN",
-      "excerpt": "With AWS Cloud WAN, enterprises can access the ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
+      "path": "_news/2022-07-13-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-cloud-wan/article_eded7945-30e9-5b39-ba67-0df0ef659790.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-cloud-wan/article_eded7945-30e9-5b39-ba67-0df0ef659790.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T09:04:00-07:00",
+      "publishedDateTime": "2022-07-12T10:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
+      "title": "AWS Announces General Availability of AWS Cloud WAN",
+      "excerpt": "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -562,19 +587,19 @@
     {
       "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
       "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
+      "excerpt": "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -582,13 +607,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:04:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28036141",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28036141",
+      "publishedDateTime": "2022-07-12T08:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1358,58 +1383,6 @@
         "AI",
         "Microsoft AI",
         "AI in Finance",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-diagnose-model-performance-before-deployment-for-amazon-fraud-detector.md",
-      "title": "Diagnose model performance before deployment for Amazon Fraud Detector",
-      "excerpt": "With the growth in adoption of online applications and the rising number of internet users, digital fraud is on the rise year over year. Amazon Fraud Detector provides a fully managed service to help you better identify potentially fraudulent online activities using advanced machine learning (ML) techniques,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/diagnose-model-performance-before-deployment-for-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/diagnose-model-performance-before-deployment-for-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/29/Featured-images-for-ML-8887.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T09:13:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI"
       ]
     }

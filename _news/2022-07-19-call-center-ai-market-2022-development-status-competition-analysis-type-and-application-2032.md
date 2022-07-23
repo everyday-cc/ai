@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global LegalTech Artificial Intelligence Market New Innovations and Future Expansion 2022-2028"
-    excerpt: "The report involves six major parameters namely market analysis, market definition, market segmentation, key developments in the global LegalTech Artificial Intelligence market, competitive analysis,"
-    publishedDateTime: 2022-07-19T02:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18"
+  - title: "WHA Group Sponsors World RoboCup 2022 Competition to Support Robotics and Artificial Intelligence Skill Development for Next Gen Talent"
+    excerpt: "Chairman and Group CEO of WHA Corporation PCL (WHA Group) recently welcomed Mr. Chaiwut Thanakamanusorn (center), Minister of Digital Economy and Society, Assoc. Prof. Dr. Jackrit Suthakorn (2nd right),"
+    publishedDateTime: 2022-07-19T07:29:00Z
+    webUrl: "https://www.newswit.com/en/LibI"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: academy
+      domain: newswit.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.newswit.com/img/f/20220719/27c7f6828827ed781c5e00a3702df0e3-0.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2022 - Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
-    excerpt: "The studies then highlights over the key problems limiting marketplace increase and the international Mobile Speech Recognition Software market's capability increase possibilities. This study explains expansion techniques and procedures,"
-    publishedDateTime: 2022-07-19T03:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022---regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-07-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "QUs6oo4/GEB9p3/dkWVoTcnrHUFQ9WtZBPf2FriqLxVjmBSIiZdpg0WCBeNth/aamrUfLhh7C0OIeTV+OHQFNQA+XbAHoxzVk9L6IoXRgg9NTlGOreAU8D2gkbtxgU5lfVbbZJk6iA+Y+QJe+/58LJJQcibDSkjGYvPeXrjuFhHOHkKsYHB/aMrk0FlpQo7SC692yF8b6iQ3VUASxLL0T1xyz3PhBY2ujXYtPeX/Eqa28jTNVlIlQx4h3mKefij37NitsWLsYvtnPeEKGnX2Dg6BFFUGsO/1HEwFYroYlB/b3HOLbHnhqoiAPStwcXVimoFDjGyQTiLeKVLgvv5VCnLXX6ZqmNqq5ne8fsrqlysAkCH6PyMPmJv5j3Rv7yttnpKTya1eJNehhLpT6TbvQsA2EXSs0DB7u3QVlFc7WQFQdUgO2YClwCKlbt37DlRKpPkNehgRZEnpTLvhC9vsgto0GIahJPIYaaud+Bt1d2Rv6wQqR8B5I2rzqxqTNVjMjZDOXwYuKd3X3zPkLkzniQ==;Als0rxSEKirRWxutnC9J+w=="

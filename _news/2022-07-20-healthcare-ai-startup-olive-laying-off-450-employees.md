@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-ai-startup-olive-laying-off-450-employees.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2640
     height: 1080
     isCached: true
+
+related:
+  - title: "Startup Aims to Secure AI, Machine Learning Development"
+    excerpt: "With security experts warning against attacks on machine learning models and data, startup HiddenLayer aims to protect the neural networks powering AI-augmented products."
+    publishedDateTime: 2022-07-19T19:11:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 34
 
 secured: "bTo4bu0K4XF2fx/KERWoa2VKMg9EfiQIXpusVIws6dD5WrwE/l+L5paHFEZKYLd5T0Lzhbmmj1hqjPSUMIvtjfkcLGnWDIAbSRm2cg58hL7xC2fCoxre+KZSzIwjol1uQA/YS2SJTkAMDh2o8VTW6BNVPUivptYmBBUbTfuaELjJHz7Q3W9LVc5W45myCL0e9Q3Xvreq77sMIcmcZjQoOyPPl1Z47AqXT9j788T+NFmOqf4Kr9R7zsVIJA0r9/Xnlx2daUarYzvcapB+lX4VFW9bZLo4lT0GLlhIBGbn7XS4M45lmBLITbHBmsk2VrbeGVCi/UqJTqHFKzlVyGU4TOhtyJvqQj72p/wUAkM8iJk=;f7r68wwEnsWXMmCk2m8agg=="
 ---

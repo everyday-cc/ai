@@ -24,33 +24,6 @@ images:
     height: 3712
     isCached: true
 
-related:
-  - title: "Researchers propose AI model to better understand human expectations"
-    excerpt: "A research team has proposed an AI system in which robots not only serve as listeners but also speakers, providing an opportunity for AI to better understand human expectations."
-    publishedDateTime: 2022-07-19T02:01:00Z
-    webUrl: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 37
-    images:
-      - url: "https://news.cgtn.com/news/2022-07-19/Researchers-propose-AI-model-to-better-understand-human-expectations-1bMRNR0odCU/img/7915a102fde14e688c03c23547deea4c/7915a102fde14e688c03c23547deea4c-750.jpeg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "University of Glasgow: Research Project Lends Helping Human Hand To AI Decisionmakers"
-    excerpt: "A new research project is setting out to help artificial intelligence systems make fairer choices by lending them a helping human hand.Researchers from the University of Glasgow and Fujitsu Ltd. have teamed up for the year-long collaboration,"
-    publishedDateTime: 2022-07-19T05:01:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-glasgow-research-project-lends-helping-human-hand-to-ai-decisionmakers/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-glasgow-research-project-lends-helping-human-hand-to-ai-decisionmakers/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-glasgow-research-project-lends-helping-human-hand-to-ai-decisionmakers/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 32
-
 secured: "QwxvUjsqCDdmCnmR+Y71hlJFjr9sqw1XpNj3ixkwAD0HS0otJHlKrmfFHSFSlNfUzKNfeM1H+rdchJk1zHgOGc4UrlPkuerbOf1fKpckvqrp0JBa0k7LbUaAuR9Tqrieda/aRBle/5BvNlcV327iRfSsQiQVIG9HAoIeDD0/1YDAmHdKYwGCWIlJOROMLl33JV2YgB/bIr6a6x2+gof3jIJLV5423k/7G6NQtnntYnH+OHdZ45LGUTECMTiiRyNPb9idY1a+Vy3W38hDkKzljHy+6LzdowZ6Ki3JJ6Qq+A+eOheAdPYMJseuP+g6AFrCPDaF0xad1lBamGEFnnwTmg+CiHbIFfoxtLEr5mFxBwI=;KBG8+0+903P2SSHpkn3nMg=="
 ---
 

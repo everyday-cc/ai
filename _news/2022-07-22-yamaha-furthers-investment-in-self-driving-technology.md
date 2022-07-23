@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Cruise passenger was taken to hospital following self-driving crash"
-    excerpt: "The San Francisco Police Department disclosed new details Monday that shed light on the crash of a Cruise self-driving vehicle last month in San Francisco."
-    publishedDateTime: 2022-07-19T01:53:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-passenger-was-taken-hospital-following-self-driving-crash"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzzcruise.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uJ+hjecHuQ41x9hDgnI0Kuiiss/O/IA9nTc0M9UjnNY1Sa+HVgHWmNsVeYsvtf3jdyjdmTJd58JyfvCUABOCZASJEhRijnbzF1f3EK7pLdHmELKg0kFGXUbqiLnOKKtgEQg81hT05rQzzzIznUq3S/S4cNOEf7N6gpna7r9gWtWIahTX4KFmt7B3JcQd3DE5GJfhkZxF39wCjOafSR5IOAK0LuBQ/+I08sqe5110rPc4QBfPVj0Puot+gfFQ4KyILnxQ0Tb/gKxBlZC/xN4uCoJVcIyMShH13S53jpbOAFhpCknNBEIvBQ/UaGqpg2QYuUSPsCBLzql978EB7sixSiGzpjHMpBvN0vIIiBf1R5E=;PaiUHkT61BZNEzpuOSubTQ=="
 ---

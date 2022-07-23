@@ -65,20 +65,6 @@ related:
         width: 1196
         height: 628
         isCached: true
-  - title: "Port of Baltimore starts using facial recognition technology for disembarking passengers"
-    excerpt: "Facial recognition technology is now being used to verify disembarking passengers’ identity at the Port of Baltimore under a plan announced Monday by U.S. Customs and Border Protection in partnership with the Maryland Port Administration and Carnival Cruise Line."
-    publishedDateTime: 2022-07-19T03:57:00Z
-    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/cng-co-face-biometrics-port-of-baltimore-20220719-oi4w74m6rbfcbbn5kyx7yhde6e-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 30
-    images:
-      - url: "https://www.baltimoresun.com/resizer//Gzy0BBCZRYorm9HZ3VwDcTGHPK0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2TOXSJURLRBZAA2LLRB5XSMNOE.aspx"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "h2YuSX8YwZpF8FrJHQPC5XcThJBUEyPFvq2hsCrwznEaJPZZSy5Qv3Pkqxsjz9vTK6Afs4iN2raSfm2irOMjPUqNCNt/erEe/Quf77HZ6udQqnt37q5E++B7wA9BJh9q9A7lO4uFgBkKW0EyUr4Oiu2YpxL9HIIePtv8SUC+2j5QdGD/7l9BXKaEwfM87LP4aQ9krd9rZ5FV5oYcCcl06fR8unNCTWWCwz1uX3Eyl+klmfhq1bbuI4u9BjRqG8pMCWfrPm91pAZTOOW9z6VUOiFnGHZLP33yUaKcNs5LHQQFc5zG+0sE/MZSIH7iZ1nvo54AegnEW63bdCVZscmGABJGjxmMpXxS2PxCcsOLj0zLXtgdH8u/rbTdTDybe3qeZhJwMoyT6R8TFwPOUtKnyIBlIaryVCeXw2oiuXW3KNQ9GazraIjFCvM2TICWFoVwq/8kGXyIBgz9WuEbXswifoNmRQ4z4dg06H8MUYdlI0R6WpJkqLDDVBVZMUT88cQ59KrlQc5JmjZoM1UU44kfLg==;6YWyQzmRTcnpxdZcOIhr9g=="
 ---

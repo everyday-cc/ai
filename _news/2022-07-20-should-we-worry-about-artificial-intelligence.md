@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://images.wsj.net/im-586525/social"
@@ -46,6 +46,6 @@ related:
         height: 628
         isCached: true
 
-secured: "aG3l85d4SyAIuu5vziA9JwkRqEjH1Lwo9TFErHSWXmTGh2WSuwbicEmRVt/sprToxC4C50jpdpQX3iwTJgXAzpdFQM8PLiFIaZi/U3rxDsbiEwXrgrsRBpFthNY9vqkHOshmPZ7Sf4AiUG/9eXG03d4bL9bLRj0GPbLfyxCje4KIxODjKjly1uTNT6aHrtIQZ45pzqwms17HuRvlg7j18DVNzCoa+8+WNP0ZUP4PQD9JGIBkm4zaX7qY0fQAdJw7/exZQHbYc0m+kbnIqgXpGyzQ5FaXyFRc+GpxCP+SLPUbG2ACFqoODdG7PAM5lgD34Hfo2b8FlVGVo7nAW4hHSPoGlaEuFjGPdqZclz2NoUFAUJgxc61/aXjS+f/JEaE8Tz/2DmN2LIn14BVwI4RpOFKUieLFgSWXswomx92mIJ4N9CJ23WlSZLxIrE8N0fVbYt5zJfYivZvK5f6yqSrXcMiCbqWcOK93spWxsbhU5NMUUKG9sDigLBR6EoB6THNVYp3wBcnCa6RqTKd7oP4nuw==;DAlsHRtavkHkCXsPNNzrVw=="
+secured: "zx+RJQ2JALkgeHPF0O/p/O+BHguUWh3+nbmx2OHgGKiPGTCZ/OtcLiN3Igr72ohHfiiUBLH/ttvY3MJZILDX5iyHH6CGgpbFo1uXQ3Rgz64k0GBr5s2octW9IDzrbEvqkC5/Pjhv6Tf5joBogLNMvRibNSEkI1huB6xxl23XgXZOBzyhXnaY8NR0p4dKOU1psASHkL2jKpyIEWBJRAxS9xTGjD0lLAU2OlWiCOJtPi5AJuEJml5cUo6Q5Aujhk5zFxzbA/auY3eypINewZvUv9UB8CMq5ol2fE2dYMLSxnJhxtoHow0kF2mCexXdP6rKgc3ZrUXpCttNosC9ImGoZOnfdmpRP/smzd76UTCAHXo=;e4h1nevcYTt/x86FletcrQ=="
 ---
 

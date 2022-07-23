@@ -9,8 +9,8 @@ ampWebUrl: "https://propakistani.pk/2022/07/22/passenger-admitted-to-hospital-af
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/07/22/passenger-admitted-to-hospital-after-self-driving-taxi-crashes-in-usa/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ProPakistani
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise passenger was taken to hospital following self-driving crash"
-    excerpt: "The San Francisco Police Department disclosed new details Monday that shed light on the crash of a Cruise self-driving vehicle last month in San Francisco."
-    publishedDateTime: 2022-07-19T01:53:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-passenger-was-taken-hospital-following-self-driving-crash"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzzcruise.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Yamaha furthers investment in self-driving technology"
     excerpt: "Yamaha has made its third investment to Tier IV, the lead developer of the Autoware open-source self-driving operating system."
     publishedDateTime: 2022-07-22T15:10:00Z

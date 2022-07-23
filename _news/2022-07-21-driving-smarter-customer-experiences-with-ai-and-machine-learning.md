@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experi
 webUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "How Capital One is using data and AI to level up customer experiences"
+    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
+    publishedDateTime: 2022-07-20T18:32:00Z
+    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AIMMO has updated its \"Smart Labeling\" function, making autonomous driving and smart city data labeling smarter with AI"
     excerpt: "Extended coverage, including more sophisticated interactive segmentation and 3D object detection Project refining function launched that can"
     publishedDateTime: 2022-07-22T13:07:00Z

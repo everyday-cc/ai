@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-22T12:38:00Z
 originalUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
 webUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

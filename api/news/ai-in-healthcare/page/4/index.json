@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-14-charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a.md",
+      "title": "Charles River (CRL) to Create New Gene Therapy for Hemophilia A",
+      "excerpt": "Charles River Laboratories International, Inc. CRL recently inked an agreement with ASC Therapeutics, a privately-held biopharmaceutical company, to manufacture a second-generation gene therapy for hemophilia A,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a",
+      "originalUrl": "https://www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a?amp",
+      "publishedDateTime": "2022-06-14T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc.md",
       "title": "Artificial Intelligence in Precision Medicine Market Likely to Boost Future Growth by 2030 | Intel AI, IBM, GE Healthcare, etc.",
       "excerpt": "The key vendors in the Global Artificial Intelligence in Precision Medicine Market include Intel AI, IBM, GE Healthcare, Thermo Fisher Scientific, Qiagen, Berg Health, Medasense Biometrics,",
@@ -1272,40 +1306,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-03T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension.md",
-      "title": "Leading Healthcare Artificial Intelligence Company Raises $20m Series A Extension",
-      "excerpt": "Inspire's proprietary Inspire therapy is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27541804",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27541804",
-      "publishedDateTime": "2022-06-03T06:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

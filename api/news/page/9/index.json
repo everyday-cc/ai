@@ -2,6 +2,117 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "AWS customers choose from a wide variety ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28036141",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28036141",
+      "publishedDateTime": "2022-07-12T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai.md",
+      "title": "Kyndi Credited for Helping Companies Capitalize on the Potential of AI",
+      "excerpt": "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
+      "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
+      "excerpt": "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html",
+      "originalUrl": "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rome News-Tribune",
+        "domain": "northwestgeorgianews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
       "title": "The Brains: How to Leverage AI in Influencer Marketing",
       "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
@@ -957,153 +1068,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-deepmind-ai-learns-simple-physics-like-a-baby.md",
-      "title": "DeepMind AI learns simple physics like a baby",
-      "excerpt": "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01921-7?error=cookies_not_supported&code=13c9a25c-2b92-455e-8743-af94093c0476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr.md",
-      "title": "Machine Learning Artificial intelligence Market SWOT Analysis By 2028 | Size, Scope, Top Companies, Growth Drivers By VMR",
-      "excerpt": "The study focuses on global companies that operate in the Global Machine Learning Artificial intelligence Market and includes information such as company profiles, product samples and descriptions, capacity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-meta-ai-tool-sphere-could-help-curb-fake-news.md",
-      "title": "Meta AI Tool 'Sphere' Could Help Curb Fake News",
-      "excerpt": "Facebook parent company Meta on Monday launched Sphere, an AI information verifier that validates the strength of claims in web entries, as reported earlier by TechCrunch. The tec",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f764397dea71d90194b41539de5a8fe49771aacb/2022/04/15/43325f3b-1eb4-4b1d-b5c2-2c6518bd6ea8/meta-logo-2022-202.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "publishedDateTime": "2022-07-11T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

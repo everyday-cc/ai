@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-13-from-physicist-to-machine-learning-engineer.md",
+      "title": "From Physicist To Machine Learning Engineer",
+      "excerpt": "Justin Chen received his PhD in Physics from Rice University before deciding to make the jump from academia to machine learning. He spent the last few years as a Machine Learning Engineer at Manifold before making the jump to Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cdeda31bf4eba4181cb76e/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/13/from-physicist-to-machine-learning-engineer/amp/",
+      "publishedDateTime": "2022-07-13T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
       "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
       "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
@@ -1266,49 +1319,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
-      "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
-      "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/sunshine-vitamin-liver.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "publishedDateTime": "2022-07-01T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
