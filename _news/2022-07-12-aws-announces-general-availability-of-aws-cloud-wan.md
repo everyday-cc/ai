@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
-excerpt: "With AWS Cloud WAN, enterprises can access the ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ..."
-publishedDateTime: 2022-07-12T16:04:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-cloud-wan/article_eded7945-30e9-5b39-ba67-0df0ef659790.html"
-webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-cloud-wan/article_eded7945-30e9-5b39-ba67-0df0ef659790.html"
+excerpt: "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,"
+publishedDateTime: 2022-07-12T16:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "+OLDUBchbZxch6ASsckLWo3TkrMWT7QwKwu17w8rfja8Dr+Ij82IvrImZ9wzk7N3+T1rva753VkkMOKuzTYrm/vCTcsGmYV86E0DLbav9CP1Ohgufbmf1UdeDtVvkLB8uYXyUmPCBvw88jDDIPVo+9BLI+bO10Fc2vOs+9x03LDl+yaFuc1cQLg2bX2o59OZSL+L5aTSj88nTbD2VZZl+znSaIoIcG8leWfEmMYjEDVtzfAdXvABVtRIhHGZMHzfmYrVW8gvRcHZ2iKomgeUYOoSPjf5UcmHW8CB6ooEiixu72CInlxYZzX/McJ6uneOdNSEJZzJ38yZiReeu9rTp21RLO+JTy52w3oScTsdnaU=;XYqExGkmVumKswAiGR33lQ=="
+secured: "SDvmQ5413P1Yic+JWEgkp8hN0cz3HLXiC6/M8irvcgIhCvRyu3fH7VpkQhnb2FMnpH0HIPlyzsS4/YKSHp7uAkIBXd0gVNzwAOWCLQScZLfQRRgOdlmZqwe/osh0YTIPCoG/FRAOzrKmh/jV6FZ1b4rWHBQByF2gpwVUjhMfZkPzjVvcVN5GBTboMvL9OEcTOvl+9jJ3zj2WAbNJPaPF+DrveA6Ttmrb6XxkBZ7H8I51eF9kH35Lwpq/h3M6Rh5pjazWnTiZwPk3rd/XAzSoZXz5GTCblvdqRd8qxXuVD8Wr0rMuD57oh5wVV4RQlqGWbcwDqxb+C4C61WEDlO972pn7wtQ04BSEuJzjamt65aQ=;1gFPzE4L5uAn7eHrbVklPQ=="
 ---
 
