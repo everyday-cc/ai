@@ -3,7 +3,7 @@ name: "Alex Smola"
 bio: "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond."
 location: Palo Alto, CA
 type: "profile"
-heat: 77
+heat: 89
 
 affiliation:
   name: AWS
@@ -18,7 +18,7 @@ website: http://alex.smola.org/
 twitter:
   username: smolix
   url: https://twitter.com/smolix
-  followers: 19411
+  followers: 19414
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Alex Smola"
 
-secured: "Nr6Dq2Eyg+by8ApX+TSNbaxaxlGdPpOzufTWyPr6SceShLl7fl9RhMNsVFS4BY0fwU2PR74NY0c85SJjlzzPPxgqJRM0//YO0MSUZjSe272slstENISKKvFElKyWiwt7LJycERzs/jwxQE40sXPrE/aBeCMDINye6rBFkVeSq5l5IagNR+p92kck2VMEvrh+T755vGEUbCZ9LVJOrJp/2Rj9RwtcdHm5ZIN4lYQygCPra7nM+a6pQWiiqUXtedtqVfPCZKGXhvcdxSqwl0khTkTRIyJSdxqVdGFk9Hf7Nbnd/2QJu+HEvuthnMHyhjCSRD7+tBoLJE3VrN0yC0DWxo/GxuKK72bddiuGzhxuW7Cy1Jd4YG2Ji2IeAoeLR2n1oMqn49hvOXe1anr8Ro5DWxxoUbzlHVttVKQ006wdjpM=;t7hP4oxYpD2MjRyO3X0qSw=="
+secured: "jWwg4d+M02qFnrxxOTVtqiq4VAxHMnqXjferXp0+UNrLy97XUmoQ6XmlY0j7HoS7ur+lkRpnuhBJv1Vr0Fi1Nt9LibiVD97/SHcSDHpffZhedNEi9keghwSheoTDJ0z0qt+yCTYr2Km7VgBMgkKu9tCNhZi2i/3y1WrR0JGtxsc/lMwBzYnwniRg3OJGrhNeax8GHCscGHlQfC+cJQjB5v7q8gPg9OJ8wZ7TtPh/wGWQYXDxoCAUjxAvfRQ4e317easD6926skhhJ/yTjVCk86LHwta/cd12wtSkBIi4YMS3YoPQKBrqvpBdr/VN+MtM791IMA9jB49o//SyiM4WqYDo2qnpcwGu2T86k0SM5rXjHKnouGShRN/jLnsby8Ixkppmd8Gq6hIFcWI/Ax5Icudy2598SgvCZa/6MfSztvg=;kj5frLLTojIK0mtzZRy3yw=="
 ---
 
