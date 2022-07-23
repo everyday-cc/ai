@@ -56,20 +56,6 @@ related:
         width: 900
         height: 594
         isCached: true
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
-    publishedDateTime: 2022-07-18T14:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
     excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
     publishedDateTime: 2022-07-19T14:23:00Z

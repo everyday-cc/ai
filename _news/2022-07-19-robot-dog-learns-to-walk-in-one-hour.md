@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220718122229.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220718122229.htm"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 41
-  - title: "A four-legged robot can learn to walk in an hour like a newborn foal"
-    excerpt: "A quadruped robot can learn how to walk by adjusting its gait after every stumble, mimicking the way animals learn how to move"
-    publishedDateTime: 2022-07-18T15:00:00Z
-    webUrl: "https://www.newscientist.com/article/2329136-a-four-legged-robot-can-learn-to-walk-in-an-hour-like-a-newborn-foal/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/18151635/SEI_115247778.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Robot dog learns to walk in one hour"
     excerpt: "Like a newborn animal, a four-legged robot stumbles around during its first walking attempts. But while a foal or a giraffe needs much longer to master walking, the robot learns to move forward fluently in just one hour."
     publishedDateTime: 2022-07-18T15:21:00Z

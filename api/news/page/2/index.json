@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-oracle-partners-with-microsoft-to-launch-database-service-for-azure.md",
+      "title": "Oracle partners with Microsoft to launch database service for Azure",
+      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
+      "publishedDateTime": "2022-07-20T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-5-ways-ai-is-detecting-and-preventing-identity-fraud.md",
       "title": "5 ways AI is detecting and preventing identity fraud",
       "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The rise in identity fraud has set new records in 2022. This was put in motion by fraudulent SBA loan applications totaling nearly $80 billion being approved,",
@@ -398,7 +450,7 @@
       "originalUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -491,7 +543,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -739,8 +791,8 @@
       "title": "Should We Worry About Artificial Intelligence?",
       "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines",
+      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
+      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -782,8 +834,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1177,50 +1229,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
-      "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
-      "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
-      "originalUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
-      "publishedDateTime": "2022-07-19T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-06-09-new-observability-features-for-aws-step-functions.md",
+      "title": "New Observability Features for AWS Step Functions",
+      "excerpt": "Recently, AWS announced a new opt-in capability on the state-machine page for Step Functions. Developers can quickly analyze, debug, and optimize Standard Workflows by enabling the new execution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/06/aws-step-functions-observability/",
+      "originalUrl": "https://www.infoq.com/news/2022/06/aws-step-functions-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/06/aws-step-functions-observability/en/headerimage/generatedHeaderImage-1654535632137.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
+      "title": "Self-Driving Cars Are Not (Yet) Safe",
+      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him.md",
       "title": "Shakira Says Her Father Is Home Following Hospital Stay, Practices 'Cognitive Stimulation' with Him",
       "excerpt": "The three-time Grammy Award winner showed the pair practicing some \"cognitive stimulation\" at home as she stood opposite him with large note cards with words in Spanish for him to read aloud.",
@@ -1039,83 +1125,6 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-in-fintech-market-to-be-worth-4116-billion-by-2030-grand-view-research-inc.md",
-      "title": "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
-          "width": 1400,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-better-therapeutics-announces-issuance-of-us-patent-covering-key-features-of-their-prescription-digital-therapeutics-platform.md",
-      "title": "Better Therapeutics Announces Issuance of U.S. Patent Covering Key Features of Their Prescription Digital Therapeutics Platform",
-      "excerpt": "Better Therapeutics, Inc. (NASDAQ: BTTX), a prescription digital therapeutics (PDT) company developing nutritional cognitive behavioral therapy (nCBT) to address the root causes of cardiometabolic diseases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/better-therapeutics-announces-issuance-of-u-s-patent-covering-key-features-of-their-prescription-digital/article_1b1a3b59-7cf6-53d5-b989-9b8f4b5f977c.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/better-therapeutics-announces-issuance-of-u-s-patent-covering-key-features-of-their-prescription-digital/article_1b1a3b59-7cf6-53d5-b989-9b8f4b5f977c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Riot Games and AWS are teaming up to deliver fresh esports content"
-    excerpt: "Riot Games is teaming up with Amazon Web Services to bring all new data analytics and experiences to esports fans around the world."
-    publishedDateTime: 2022-07-18T14:05:00Z
-    webUrl: "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/"
-    ampWebUrl: "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/"
+  - title: "Riot Games, AWS partner on cloud-first remote broadcast centres"
+    excerpt: "Riot is also creating a 50,000 square-foot facility in Dublin and a second facility in the greater Seattle area for remote production"
+    publishedDateTime: 2022-07-19T08:06:00Z
+    webUrl: "https://www.tvbeurope.com/live-production/riot-games-aws-partner-on-cloud-first-remote-broadcast-centres"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Riot_AWS-1.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/07/Riot-x-AWS.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Riot Games taps AWS for new cloud-based esports content"
     excerpt: "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS."

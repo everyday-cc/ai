@@ -67,20 +67,6 @@ related:
         width: 900
         height: 594
         isCached: true
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Reach $25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global AI in Healthcare Market was valued at USD8,231.36 million, which is further expected to grow with an impressive CAGR of 21.56% during the forecast period, to achieve a market value of USD25,"
-    publishedDateTime: 2022-07-18T14:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-software-78d1efabbdc54a1dac95c96842804ace"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
     excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
     publishedDateTime: 2022-07-20T11:45:00Z

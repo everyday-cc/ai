@@ -90,6 +90,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-oracle-partners-with-microsoft-to-launch-database-service-for-azure.md",
+      "title": "Oracle partners with Microsoft to launch database service for Azure",
+      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
+      "publishedDateTime": "2022-07-20T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
       "title": "Using AI and machine learning to kickstart climate change fightback",
       "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
@@ -192,6 +244,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
+      "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
+      "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "originalUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1296,93 +1383,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-applying-infosecurity-principles-and-practices-to-cognitive-security.md",
-      "title": "Applying Infosecurity Principles and Practices to Cognitive Security",
-      "excerpt": "Information security has the following three layers: cybersecurity, physical security and cognitive security. Cybersecurity, broadly speaking, involves machines and the networks between them. Physical security consists in protecting physical access to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
-      "originalUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure.md",
-      "title": "Resecurity(R) Brings Cyber Threat Intelligence to Microsoft Azure",
-      "excerpt": "Brings Cyber Threat Intelligence to Microsoft Azure Jun 30, 2022 (PRNewswire via COMTEX) -- PR Newswire LOS ANGELES, June 30,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure-2022-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure-2022-06-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

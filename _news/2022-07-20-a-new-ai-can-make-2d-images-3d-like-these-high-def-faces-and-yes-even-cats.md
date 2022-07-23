@@ -38,15 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Put people first for AI success, technology expert advises"
-    excerpt: "Artificial intelligence (AI) is a hot topic and big buzzword in business today.Infoholic Research predicts that AI in the logistics and supply chain markets will grow at a compound annual growth rate of 42."
-    publishedDateTime: 2022-07-18T13:35:00Z
-    webUrl: "https://engineeringnews.co.za/article/put-people-first-for-ai-success-technology-expert-advises-2022-07-18"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 19
 
 secured: "tq4VxVKJx6juXeoYndvizVoS4ngxWrcTkJeEYfhmgQyAcVsGZ36E2SjujzYBY+pFLI6XchcvLpGkZZXMzMzAQxK4W9TjCQpQtxxXfkxBIYWKDFB5qHKtEGCofsmyEt+bABccZGUGJXeeZrLGM/TqMTXRddVqai0e4k3+P04UwvNobmD66DYEQ0iismq2eLz1nIZ1ARMltB7ZrXGsFVKd4kVu8ZV9EGy3okoekGItnZ9OKLnUcVsw/OFmwkzW/lXilBtVyCtmUE34geCKtwzD0Xy8COhpbCADbGIS2Eg+QnEoWkVS4sx8Ox5LvMy3W+Em0sBwse/G6QRoCmRiRCpYY4MJyYXz4x0wNp3eTRcNxxs=;L1PXTo3nWOerhVrJNNdY9w=="
 ---

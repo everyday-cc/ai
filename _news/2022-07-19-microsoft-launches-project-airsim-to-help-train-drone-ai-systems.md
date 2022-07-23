@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft launches simulator to train drone AI systems"
-    excerpt: "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them."
-    publishedDateTime: 2022-07-18T14:19:00Z
-    webUrl: "https://www.bbc.com/news/technology-62202118"
-    ampWebUrl: "https://www.bbc.com/news/technology-62202118.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Oracle partners with Microsoft to launch database service for Azure"
     excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
     publishedDateTime: 2022-07-20T14:44:00Z
@@ -53,31 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft unveils Project AirSim for testing drones and other autonomous aircraft through simulation"
-    excerpt: "Microsoft is launching a new rendition of its autonomous aircraft simulation technology, 'Project AirSim,' starting with a limited preview."
-    publishedDateTime: 2022-07-18T14:24:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-project-airsim-for-testing-drones-and-other-autonomous-aircraft-through-simulation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4b7aebf1e3716242eb98663fed89e7756744fbcc/2022/07/18/2dd82d1e-1d5a-44f7-88c7-bfd7aadad007/microsoftprojectairsim.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 709
-        isCached: true
-  - title: "Microsoft’s Project AirSim tests and trains AI-powered aircrafts"
-    excerpt: "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts."
-    publishedDateTime: 2022-07-18T18:49:00Z
-    webUrl: "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 66
   - title: "Microsoft launches Azure Space Partner Community program"
     excerpt: "Microsoft has launched a partner program focusing on partners with space-focused products and services, providing access to a range of support and benefits."
     publishedDateTime: 2022-07-19T15:03:00Z
@@ -147,20 +106,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg"
         width: 473
         height: 315
-        isCached: true
-  - title: "Microsoft revamps its Project AirSim for easier autonomous aircraft simulation training"
-    excerpt: "Microsoft is dusting the mothballs off its open-source drone project from years back and relaunching it as Project AirSim today to help build, test, and train"
-    publishedDateTime: 2022-07-19T13:26:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-revamps-its-project-airsim-for-autonomous-aircraft-simulation-training"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 46
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/07/Project-AirSim.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft launches Project AirSim, an end-to-end platform to accelerate autonomous flight"
     excerpt: "His North Dakota-based company has been using these hyper-realistic simulations to train autonomous aerial vehicles that are now inspecting wind farms, surveying wildlife and detecting leaks in oil tanks across the Midwest."

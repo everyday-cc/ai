@@ -48,20 +48,6 @@ related:
         width: 1440
         height: 987
         isCached: true
-  - title: "As AI Language Skills Grow, So Do Concerns"
-    excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
-    publishedDateTime: 2022-07-18T14:03:00Z
-    webUrl: "https://www.manufacturing.net/technology/news/22340144/as-ai-language-skills-grow-so-do-concerns"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/AI_Scientist_AP.62d567ab383c0.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C53%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "XHE9Nxv/vpFl+N6U22ai/C9SnhvgxDmnJRZCL/yE+QpHHEGo6VtYw+PQq2ydU9BwOFdocOGwoiqpOXv+Z6R9pFQkBX6uYpxKSSWi9NxL9CtWA80WRyhIYKJ7e2wbJjNF6PN1X/H2jT1UnjlqcG0qcF8WYyGC5CvBCS48tTS5tKUHksBaXGVWD3BX1xxQyOSEYmp3RRj3nWDBsEmw/rVa5sZ1pOiKdwLagUcdQtWQ0lmOitq9PZUvyg6f8tfQFpRUjJuhT3zLaQC2x1KQyDgrPjcOnbaZIHoXxqFq8oDrmz7akOTfdSfCqtYQRyTwkqaCO/1nIeKpVX6O5nVc6FV7ReizaoLlwpjz9yAJ7Je5LgxkW3/ny8AXif8iiXD2MvW5uenF1wdZDG5wyjdEpkQekfMBYoJeerJ69OlxTEu2POkD50jS79cChXACfnPdOUNYS24PPs/DyHrpknfMsk7j3vVkyyYkedxvDGeSMK21RfXjRrgXejOLnzBFqqOhT3eZpHa786T6P2Nn30dt34P9Jg==;kQwfMwGHCkQnHSjLwfCa4A=="
 ---

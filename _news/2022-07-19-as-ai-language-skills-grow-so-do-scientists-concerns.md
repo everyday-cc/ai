@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technol
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440"
         width: 1440
         height: 987
-        isCached: true
-  - title: "As AI Language Skills Grow, So Do Concerns"
-    excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
-    publishedDateTime: 2022-07-18T14:03:00Z
-    webUrl: "https://www.manufacturing.net/technology/news/22340144/as-ai-language-skills-grow-so-do-concerns"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/AI_Scientist_AP.62d567ab383c0.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C53%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
         isCached: true
   - title: "As AI language skills grow, so do scientists' concerns"
     excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're"

@@ -43,20 +43,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 41
-  - title: "A four-legged robot can learn to walk in an hour like a newborn foal"
-    excerpt: "A quadruped robot can learn how to walk by adjusting its gait after every stumble, mimicking the way animals learn how to move"
-    publishedDateTime: 2022-07-18T15:00:00Z
-    webUrl: "https://www.newscientist.com/article/2329136-a-four-legged-robot-can-learn-to-walk-in-an-hour-like-a-newborn-foal/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/18151635/SEI_115247778.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "LATKIRrE8sffgIQ4XPqZuHVSGRrDhevAc6vAGTbYuH+rJ3aYuXpELl5xdZ6vNb1PQaO8uyByf4KWWgBBpznXJJrmxEa3CvJ3CJpbi04/4GqIXcZYoIGyAtIOSyk3dBqjiVT3anCNZQvZ1D98HscEVbbt8mgvqmsZDXFYkJmP7YXMGJ5CeFCayPrQZLREwjpOfBgza9GALVTfhyFo6xjDBv1ILNOtj9uF1OTeXkWIDquqvcGI8tgkImTUATTFO35vQa9E3i3UWkHsFN7Hs9/P3cbWf/wYbIW9/xrzw1G6lj9r3LmusuvrA2GMHs1/p8mRolFCtCq68qc3CLtpdEuq18WOOtGD912LeDGdhFQq8z0=;e77Bt/qhDM+Na5GxcV1NgQ=="
 ---

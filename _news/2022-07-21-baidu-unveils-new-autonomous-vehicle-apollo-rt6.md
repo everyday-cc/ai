@@ -57,22 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Baidu to Release Latest Updates for Autonomous Driving, AI Cloud, Large AI Model"
-    excerpt: "Baidu a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21."
-    publishedDateTime: 2022-07-18T13:08:00Z
-    webUrl: "https://enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/"
-    ampWebUrl: "https://enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 54
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Baidu-to-Release-Latest-Updates-for-Autonomous-Driving_-AI-Cloud_-Large-AI-Model.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
     excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
     publishedDateTime: 2022-07-21T02:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-withou
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp"
 type: article
 quality: 59
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Baidu to Release Latest Updates for Autonomous Driving, AI Cloud, Large AI Model"
-    excerpt: "Baidu a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21."
-    publishedDateTime: 2022-07-18T13:08:00Z
-    webUrl: "https://enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/"
-    ampWebUrl: "https://enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/baidu-to-release-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 54
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Baidu-to-Release-Latest-Updates-for-Autonomous-Driving_-AI-Cloud_-Large-AI-Model.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"

@@ -41,20 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Chrysalix Venture Capital Announces New Investment in Luffy AI, the Next Generation in Adaptive Intelligence for Robotics and Industrial Control"
-    excerpt: "Chrysalix Venture Capital, a global technology venture capital firm that specializes in transformational industrial innovation, announces a new investment in Luffy AI, the next generation in Adaptive Intelligence (AI) for the control and optimized performance of robotics,"
-    publishedDateTime: 2022-07-18T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-vancouver-robotics-4b09c5ef3da2900ae023dffb09c08f01"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Moneyhub joins forces with Pennyworth to democratise financial planning"
     excerpt: "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app,​​ to redesign digital ban"
     publishedDateTime: 2022-07-21T09:46:00Z
