@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Here's what it looks like to ride a Chinese robotaxi with no steering wheel"
+    excerpt: "London (CNN Business)Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese ..."
+    publishedDateTime: 2022-07-21T11:30:00Z
+    webUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 72
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220721062706-02-baidu-robotaxi-no-steering-wheel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Amazon-owned self driving firm Zoox seeks to test robotaxi in California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com Inc , said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U."
     publishedDateTime: 2022-07-20T04:30:00Z
@@ -36,6 +52,22 @@ related:
       - url: "https://www.reuters.com/resizer/fm7Wb01nAtof4V8ow9w5roPdA5I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E745S6G5CRNHNEAUI5YKDWHCOM.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Baidu unveils what it says is a $37,000 self-driving car with no wheel"
+    excerpt: "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year."
+    publishedDateTime: 2022-07-21T20:30:00Z
+    webUrl: "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Amazon-Owned Self Driving Firm Zoox Plans To Test Robotaxi In California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
@@ -53,21 +85,19 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Self-driving tractors rolling out in California could fuel the future of farming"
-    excerpt: "A California company is rolling out one of the world's first self-driving electric tractors, which could lead to faster, cheaper and safer farming methods."
-    publishedDateTime: 2022-07-22T10:12:00Z
-    webUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming"
-    ampWebUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+  - title: "Chinese firm Baidu reinvents the steering wheel to rival Google model"
+    excerpt: "The Chinese search engine and artificial intelligence company Baidu has unveiled its new driverless car, and plans to make its robotaxi service available in China from next year. The Apollo RT6 is ..."
+    publishedDateTime: 2022-07-21T12:22:00Z
+    webUrl: "https://www.thetimes.co.uk/article/chinese-firm-baidu-reinvents-the-steering-wheel-to-rival-google-model-f9kgz72vt"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: The Times
+      domain: thetimes.co.uk
     quality: 39
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e6efbc5d-12da-421b-9fd3-66c9def90322/46e7c716-6059-405b-aba9-728d2b3e2fd4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F999d97c2-08ea-11ed-a986-fc91b4ad48f0.jpg?crop=5361%2C3016%2C0%2C279&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1wwsyZOZw1hjFb/g4b4e53Kdy3w6J1rY11oaqlNmQ1H2f0Z7WQERbBqVQnTzNb9plv+ZL+K9Q8woos5rWuqOEM+o7JZeijRV1X2kXqgp2XfWxw8xBKIl4Vevq1InTEIJFLHJgSddX45l6q5OPpLoudLN0nvfJdpS5SXW0GStglcL7lN9zx6Dql7fzz8zMHg5cljt68NqRfFGyRUUgsDHwuZZx/MAr3D5XCVNx6jQFJw3MhtctaHMHspgbKvH7tNPx6IhDLWMqA4E89EyMEC3Cvxeu4/2A/nD8scP1AWE9NRIMizT+3NjlWBf+S75440a779pIwttV66+L1p2s9HipEIS/II02eMRJtkkoSpyGXjRXs0q+TAAczf1aiPuklNOJy6cn6WaIPJRexyiC9MslBqzVKA+ESUhYpKnK/QnT1UUWhAaanf7Iq2qbPxX67xKQuhWf4VCGMxan1AfYim7qBDuXolyPdnKYflwkslGh8OgnBw9g+feobmQadyJln7iv5EKt7Tk+A3SJ12Z1IRcVQ==;jw1bTuDoRbMGH6lZCn951A=="

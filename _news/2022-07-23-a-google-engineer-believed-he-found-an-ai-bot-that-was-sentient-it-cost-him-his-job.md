@@ -92,7 +92,23 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Google fires software engineer who claims AI chatbot is sentient"
+    excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
+    publishedDateTime: 2022-07-23T07:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d64e6b186ae95981b4113031a326d60f993ed7d/0_117_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=8f151e9f3091d822f476eae700a005df"
+        width: 620
+        height: 372
+        isCached: true
 
-secured: "YJitcQwcI5XGHFfcBLf9ahhWLuTD8qEQWKJLWKUMP3RwnV6EqriBqwiSfyjQbqdp7uPIv9qk3yXMZMQNmck5O3u/MRAM13UaliT0l4k3XSGSufHvZZOaNThI0+dc9o+pebioYb2NG82MghGiJCKdi+Is+66WigSAj5EMnWHgJb3untNT0X5YxesR4RHudjbCHss0Gu38UgAs4LlNviNE3V23xht+O05+rb56QCmvRsCx7VJXaVskSVdR0hl4fo96O2PumXsTVdMFpDjQI4BNC0x4NqXkujMrvKWoP7E3n/n3ZTOiIfE2UsH6ZWjDRm3pGuZ0KiIgEqu5zUaZzRxvFsVvrVkBfLtavZq1LK/O7tM=;yJBYwJnfFSGR9nSJmBaKrw=="
+secured: "uUQ4f3B+2I+qklN9DspgVqHUAHoOtgII3wSXstaUuzMN5WtPlqJhbNxfeOYKNfnHjc1hC2BC/bJNngHCthL0JQTeKHDMV9MrYXSy0iJeREMF4CtbyqU0J9v9Enh18ZdSLVKK5obUkyRQqFl27GANiQcy1cdWz1gk9We2ZU61zS9x5g1wRLNkE4J3dG0JM1mimSG6mOopTYcKxJaGxz8862iK8X658KH9u5Je1xkicg9Z2UYB3Xm29cWcDbqvCTI/d1IcaUbimhxvw5pGQ7cuS4iZuO4p5uzbhujt6mhkomrmbC9pHljPgTUNiR/Xc9J7hnGQ9+rv/JyX8rFTxuJ3nfocdjZhp/zUe3y6oTiNuBFe+ptsYcjF/m/OIPKnpauV6uKS8IjDGfrRkfioOs5na492/r36wXedW/PRibSv7UocHi2Mfsokec8xefeP1thr/w5vsZ8RSfvLVYrew6mKR3cEH029HJ9P37CFMEfVnZEVxHaC99Hm9F2m1VCiDuF/WrwjWDce9D11ddI5CuiR4w==;Lknk/3hXlHBsJecuRFLGGw=="
 ---
 

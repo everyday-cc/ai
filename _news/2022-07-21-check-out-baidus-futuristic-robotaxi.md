@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robot
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp"
 type: article
 quality: 89
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -219,6 +219,22 @@ related:
       - url: "https://static.bangkokpost.com/media/content/dcx/2022/07/22/4376981_700.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "Is this the robotaxi of the future? Chinese tech giant Baidu unveils £31,000 all-electric self-driving cab that can be hailed with an app"
+    excerpt: "Chinese tech giant Baidu yesterday unveiled its new all-electric, self-driving cab, that costs just $37,000 (£31,000) to manufacture. The Apollo RT6 has a detachable steering wheel to allow ..."
+    publishedDateTime: 2022-07-21T14:34:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11035227/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11035227/amp/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11035227/amp/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/21/11/60528771-0-image-a-35_1658398132574.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
     excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"

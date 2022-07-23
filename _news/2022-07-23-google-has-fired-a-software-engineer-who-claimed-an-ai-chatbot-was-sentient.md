@@ -88,6 +88,22 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Google fires software engineer who claims AI chatbot is sentient"
+    excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
+    publishedDateTime: 2022-07-23T07:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d64e6b186ae95981b4113031a326d60f993ed7d/0_117_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=8f151e9f3091d822f476eae700a005df"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "FJ4kw5dMFJAYnuUi9ibJ8GSrTLXzSgMyxlgACKXacvX9AajNNjL9+qGzmVTzpfsNZZwGjH01dBDBhPtseRLbZHBcUYiQcrickN+5KYzSCtrncIGBKsr4UV09Zrp1pCyUhrdSxla9y/mz9Y+M6VYA26j96VT8EBnWXEN2uzlCEZfxSs4OkaVs3/5DalbUpUqJdnnRnK2prnY/l1HQCqd5w4hQFprosloN7pxCw3tuGoIW50ibxstITGfCzl21UBDnUZoek50f/sJRPTz3liI02GOGdP7r7hZqsSJqrJtu/dx++MTNsOtTmbll2vyVT3QTqVNorDG7cNhw6feQ6WqPzYfhH0qhYr2Jwqmq0zzRwtTQNkZtc872bzp1gBXVk6Fh9BbOpgbHmk9MV24VqWVKh5VBTsr2OSds70cPOr6Z0/dPd6OlI0yCG4oEF5iINd1S6z7PDj5V7yW8YQuRWgr8CN14MSmPGb0x0Lxw9vvbCorcfHigobyaCd0sy6Yzg+ZTGcZm20+M13VK60455EFJxg==;LRMD9NlEfDW9YYgTWGLbKg=="
 ---

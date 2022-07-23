@@ -50,15 +50,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "These robots were trained on AI - They became racist and sexist"
-    excerpt: "As part of a recent experiment, scientists asked specially programmed robots to scan blocks with peoples' faces on them, then put the criminal in a box. The robots repeatedly chose a block with a Black man's face."
-    publishedDateTime: 2022-07-18T17:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/international/these-robots-were-trained-on-ai-they-became-racist-and-sexist-e281126b-f15c-4738-b973-c0be98f52be2"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 17
 
 secured: "Te494gn+cFJxhnifEmMCZew/4AnWFbZotFdUmDkFJ5020/VT+eZx6eseI7/1ncrarLylSF3mRFHD4Z74KTdCzaGW4yLrqnuKUm7uzCLWcshyRoTscVvIyUpQuZ5DBS/ys36NqINdHXm/r+G1J/Ps2zvTr6em2ILF8mEZ3B1g8h2WUXrL8Wc/q+Jn52FTD6q7nnormpyF8RXCITkAhoWC2BYJLMRZZvL/vPROCekpBAlaYliBwY5+A+G+BPKJ1D4uhIflan2yRebyTzT5CglDGCWRcY9zsVaRAbtg9XERiHOOfal62jBfjeRHvmbWqlumTTikvtEU7x6fgX4gQ7DuQfExZzO6wlQd27MjJ6opEKxE48GkOc684ttIt2/13IFvkX5qcoVpnpzz9wHlCtqKjNhIs1ELQoQJV0tUhuGOnY4/tMbhmVq3ipdI8MVKNwapYPEeHonHT3lJGhZun4lLdjApPvTWAGBOq06kEftPglWQTUj1jkKrwvBKBVWs/aAxCX3dsn2+UDXHkH+tS9PDQw==;8/1EOMxDvOWWn4GZFh1SyA=="
 ---

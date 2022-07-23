@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/amazon-owned
 webUrl: "https://www.reuters.com/business/autos-transportation/amazon-owned-self-driving-firm-zoox-seeks-test-robotaxi-california-2022-07-19/"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Here's what it looks like to ride a Chinese robotaxi with no steering wheel"
+    excerpt: "London (CNN Business)Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese ..."
+    publishedDateTime: 2022-07-21T11:30:00Z
+    webUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 72
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220721062706-02-baidu-robotaxi-no-steering-wheel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Baidu unveils what it says is a $37,000 self-driving car with no wheel"
+    excerpt: "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year."
+    publishedDateTime: 2022-07-21T20:30:00Z
+    webUrl: "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Amazon-Owned Self Driving Firm Zoox Plans To Test Robotaxi In California"
     excerpt: "Zoox, a self-driving technology firm owned by Amazon.com, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U.S."
     publishedDateTime: 2022-07-20T04:59:00Z
@@ -54,21 +86,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
-  - title: "Self-driving tractors rolling out in California could fuel the future of farming"
-    excerpt: "A California company is rolling out one of the world's first self-driving electric tractors, which could lead to faster, cheaper and safer farming methods."
-    publishedDateTime: 2022-07-22T10:12:00Z
-    webUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming"
-    ampWebUrl: "https://www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/self-driving-tractors-rolling-california-could-fuel-future-farming.amp"
+  - title: "Chinese firm Baidu reinvents the steering wheel to rival Google model"
+    excerpt: "The Chinese search engine and artificial intelligence company Baidu has unveiled its new driverless car, and plans to make its robotaxi service available in China from next year. The Apollo RT6 is ..."
+    publishedDateTime: 2022-07-21T12:22:00Z
+    webUrl: "https://www.thetimes.co.uk/article/chinese-firm-baidu-reinvents-the-steering-wheel-to-rival-google-model-f9kgz72vt"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: The Times
+      domain: thetimes.co.uk
     quality: 39
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e6efbc5d-12da-421b-9fd3-66c9def90322/46e7c716-6059-405b-aba9-728d2b3e2fd4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F999d97c2-08ea-11ed-a986-fc91b4ad48f0.jpg?crop=5361%2C3016%2C0%2C279&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "bmjOualxMWtSVsMhioRMEZMG537mc3Pu9Vrz2QUN3DqZMOsZ7WhHYf2SPVz0qgxHhaAUV8Fzws/Qvq8iUuAw6JH8XOzbmxfeiKflWgr9+vUTBofIH3cVlBXjeKdRPm0Al+C/46M4mFl8QEpwYoLiCkhYDzZI+6IISM+4pzu764L7xJmZiu9HInSBk156JithEtTi6LgyeIjgUGEYwkVmBALcwWMtF6MUqox3Fur+HJOlwjkPE8JAmqMQeTNyjk4SrymCNuqWjScfvV1j4RIqASHMut5nPTR2SELU7h3D0ek183jzvxqbMk6v2G3R0lOHYYO4Rv9j2dglhG2D9LdVc0d1RAgDDxdQtxwiJRAwyR8tO5K9fsHzLUu+qR8fpa1s5tDjk56Dl+pt/UiIYps9jIRC5SIWwY0iuzVlNQKxy2buXa1/oCjFKkPySJ8/sGPuDrZ9RZ/G17zOUtnrAWPLHc+GnE2cYMfD5spcIs5JT/ntxKh0hJ901VEvLmdUosf5FGi0sSk09qO0skQKQuBJ4Q==;6xeSI+cjs9lfcrcJjV51VA=="

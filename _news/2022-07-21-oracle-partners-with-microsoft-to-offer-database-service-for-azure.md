@@ -108,20 +108,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Microsoft launches Project AirSim, an end-to-end platform to accelerate autonomous flight"
-    excerpt: "His North Dakota-based company has been using these hyper-realistic simulations to train autonomous aerial vehicles that are now inspecting wind farms, surveying wildlife and detecting leaks in oil tanks across the Midwest."
-    publishedDateTime: 2022-07-18T15:04:00Z
-    webUrl: "https://news.microsoft.com/innovation-stories/microsoft-launches-project-airsim-an-end-to-end-platform-to-accelerate-autonomous-flight/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 45
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/549/2022/07/AirSim-hero-still.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
     excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."
     publishedDateTime: 2022-07-19T15:00:00Z

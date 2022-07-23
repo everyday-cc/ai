@@ -116,20 +116,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Microsoft launches Project AirSim, an end-to-end platform to accelerate autonomous flight"
-    excerpt: "His North Dakota-based company has been using these hyper-realistic simulations to train autonomous aerial vehicles that are now inspecting wind farms, surveying wildlife and detecting leaks in oil tanks across the Midwest."
-    publishedDateTime: 2022-07-18T15:04:00Z
-    webUrl: "https://news.microsoft.com/innovation-stories/microsoft-launches-project-airsim-an-end-to-end-platform-to-accelerate-autonomous-flight/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 45
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/549/2022/07/AirSim-hero-still.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Becomes the First in Big Tech To Retire This AI Technology. The Science Just Doesn't Hold Up"
     excerpt: "So, to build truly 'intelligent' AI that adequately serves humanity, the ability to detect and understand human emotion ought to take center-stage, right? This was part of the reasoning behind Microsoft and Apple's vision when they dove into the topic of AI-powered emotion recognition."
     publishedDateTime: 2022-07-22T13:58:00Z

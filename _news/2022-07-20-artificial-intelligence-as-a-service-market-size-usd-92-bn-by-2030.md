@@ -57,6 +57,34 @@ related:
         width: 900
         height: 594
         isCached: true
+  - title: "Facial Recognition Market Is Anticipated To Reach $16.74 Billion By 2030 Report By AMR"
+    excerpt: "Facial Recognition Market Rise in applications of drones is expected to offer lucrative opportunities in the industry. PORTLAND, P"
+    publishedDateTime: 2022-07-23T08:47:00Z
+    webUrl: "https://menafn.com/1104578715/Facial-Recognition-Market-Is-Anticipated-To-Reach-1674-Billion-By-2030-Report-By-AMR"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/23/EP_732dfimage_story.jpeg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "AI in Computer Vision Market Size, Scope, Present Scenario, Key Vendors, Industry Share and Growth Forecast up to 2027"
+    excerpt: "AI in Computer Vision Market Is Expected To Reach USD 71.8 Billion By 2027 At A CAGR Of 24.6 Percent. Stellar Market Research has published a report on the AI in Computer Vision Market that ..."
+    publishedDateTime: 2022-07-20T08:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-scope-present-scenario-key-vendors-industry-share-and-growth-forecast-up-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/74be5a38a1376a02fd904d216c0d330658bc66b3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
     excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
     publishedDateTime: 2022-07-19T14:23:00Z

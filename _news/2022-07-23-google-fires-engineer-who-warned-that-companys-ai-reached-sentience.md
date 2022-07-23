@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-engineer-who-warne
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://www.slashgear.com/img/gallery/the-concerning-belief-about-ai-that-has-engineers-worried/l-intro-1658169643.jpg"
         width: 1600
         height: 901
+        isCached: true
+  - title: "Google fires software engineer who claims AI chatbot is sentient"
+    excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
+    publishedDateTime: 2022-07-23T07:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d64e6b186ae95981b4113031a326d60f993ed7d/0_117_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=8f151e9f3091d822f476eae700a005df"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "qj/blBeka4cxh0A5EYWJNCLmyTQmlAmUQ0OosFyoCNU0JX6ofEUBtOEimjpEN2gRRlojZV5HUZG+q8IIKgzDwVwm/1RpRCc5PcMqPBIq8BBzDdSEFDPWw4NkhDRnkoPS/tAsyd6IcllFt96/gyjiqWZP7MSQuAnGk+jDHqByYjrLLE5RIByLCcPWfEAWyoUhWuuzWbESh2/1J8assTX0bEFEuj/fUKAL8hZmyzz+YIj2b1o6a8+JRItR1js0QRuYT1XUtDsR9/WC6EULiDoKX8sKaanS4Xy54S7AwseRe8gfjKDvZ3XCkCo8Ojo1mng2DIH1IMLxDhvZeOkkecliNBGPMBvxuoDafT+2aAovwBiLteIfCtsCpTSJP6tddG09SZYPG9o/SLyupvw65waBZxtyUPdjUHJx5KBQYMaaZ/IOAPON//GdBoRJyLNf2g03LxCH3MmZNKDYcjUxI7YuoMXW/A3LgneoA0/3ujZwNxlk5PV8iKQeZ+8UJXs9N6o8/vGNbG+f/QGsKKDc2j9CPA==;x6FiDLR9ESokqlH3/TgmXA=="

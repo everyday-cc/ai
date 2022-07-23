@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-micro
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg"
         width: 473
         height: 315
-        isCached: true
-  - title: "Microsoft launches Project AirSim, an end-to-end platform to accelerate autonomous flight"
-    excerpt: "His North Dakota-based company has been using these hyper-realistic simulations to train autonomous aerial vehicles that are now inspecting wind farms, surveying wildlife and detecting leaks in oil tanks across the Midwest."
-    publishedDateTime: 2022-07-18T15:04:00Z
-    webUrl: "https://news.microsoft.com/innovation-stories/microsoft-launches-project-airsim-an-end-to-end-platform-to-accelerate-autonomous-flight/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 45
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/549/2022/07/AirSim-hero-still.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
     excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."

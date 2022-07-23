@@ -73,6 +73,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "New Orleans OKs Some Police Use of Facial Recognition"
+    excerpt: "The New Orleans City Council has approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes."
+    publishedDateTime: 2022-07-22T20:42:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-22/new-orleans-oks-some-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "US local and state leaders push for police use of facial recognition"
     excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
     publishedDateTime: 2022-07-22T21:14:00Z
@@ -87,15 +96,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "New Orleans OKs some police use of facial recognition"
-    excerpt: "The New Orleans City Council has reversed itself and approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes. The ordinance, approved by the council on a 4-to-2 vote Thursday,"
-    publishedDateTime: 2022-07-22T19:45:00Z
-    webUrl: "https://www.chron.com/news/article/New-Orleans-OKs-some-police-use-of-facial-17323307.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "MzqbO3BQ10Gq+2z9cNMHkOMU/yhOC0E0mHVMIsg5flM9GEZfKDzj+SkrpGnGNG465kUZH15AauCLxCLbxUMC8L8JqrPSr4FPpd3xag3nRKdMJ8T3QkgexzMDLetBySujwKUy4uGFDIQzHNwUMW8A7/4o4tJxAZBUox9XYYsAkjVZ2ZxxTD1OdM7mr5tbTmAw08TNTDtrBfKXNG4gk6nhl+tQeuXKlQ4VxXNyzrjk6ZqtxYkcd2sc4dMHVzACgbJzV7SB3BFD3fQGFpS4qkoA6tEbecTqIDULWpN1oh9eLB73LG0+pok+9TPF6JtFFyOUhEFWcWwnYNK77ctGEEdG0MzxKcmfOrJTyGkBa7Y++eAptcMMwXq+0Dspbm+W/0j1fKB/mlPLQc1xIoeusHgUtlOVCl5XcfI+Nz9/KnltqOMWeBpXiK2H9rxJEYR/NuOP8Cwd4dKetThzh2+/iwTJeWadwr30CZpDemzm7uG2fKAs05WcEylwSyOi/I5Ci35T9m2h76wg6m1LTYw0xQFvkg==;tFpPE0OyHb/K+UC62zMc9Q=="
 ---

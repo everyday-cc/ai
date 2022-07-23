@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://images.wsj.net/im-586525/social"
@@ -46,6 +46,6 @@ related:
         height: 628
         isCached: true
 
-secured: "wO7xqjrSj/EUbcVRvp5VSUnlsax61yDCxm2KcrVyZFuNMGL7ksYvUf2+YlfndEDuHLuTr9Rb2D62iVt2uHiwC8wB3aYLG/bCgTSAAqsC65n8gb7RNZY8RpcQ5MVZFbF/bdFlLwmqxTDnENJzZK3TLb0Mds6SEZKbPVT70w74t2RiyzqBoxpb8n5qwhsvhAdVKVaALOse6b58zA2A4urjGZJELI9/ls/TxLnDCb4PcfzkXw5gXmehYyFKDadO5RDoN9TBOWuuSe9YAWaWpFD/QgrPn0AuDLEWXmUoZTXbM7KiU+YFKVCJj1V+00Xc394YiqmOHstHjx5JKOxNPOvbDrjvRKGcgj2UFGAn+OYq/2c=;/w0oiPY1prVyqToWwRUJXQ=="
+secured: "O6UBRLsHER4wPu0kRQTWvpUu9V42l4tCaVLo3xpofURP+FOrv/y/Y94I0kwOGpVL0hWN259sn+eBymOdT8Opp6bt4hgw8gZYPrnSCZZshOm/cX1WB2evlVPax0virYBeNiug/En7Ha1E2Sd/7ry0K94aIc59Q39B7yRQsgyPsyIQWMJM5jh2rk99q6zZpRoTZO0a3go40U7S9NBxVDlVtJhAxcKufPAN7ZC/tbEsNP48JzSY1io48IL/JBUVDKE218G61tFVE7/3RW4fc1qRUkezXBfUuAZz4LAkAcHWZYIUWdHXB571mL5OYtADu9CV68SSYuxciUXyRzPiYzhfNJW0y6pfBOMvOyYEBod+h3I=;mlhP+9Z0VIsSf7mvPXm9+w=="
 ---
 

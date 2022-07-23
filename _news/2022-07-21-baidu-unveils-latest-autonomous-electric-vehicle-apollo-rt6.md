@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
-publishedDateTime: 2022-07-21T12:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+publishedDateTime: 2022-07-21T04:07:00Z
+originalUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WOKV
+  domain: wokv.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
+    width: 1440
+    height: 810
+    isCached: true
 
 related:
   - title: "Baidu unveils autonomous vehicle without steering wheel"
@@ -35,22 +43,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Baidu unveils what it says is a $37,000 self-driving car with no wheel"
-    excerpt: "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year."
-    publishedDateTime: 2022-07-21T20:30:00Z
-    webUrl: "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
     publishedDateTime: 2022-07-21T15:32:00Z
@@ -66,9 +58,9 @@ related:
         height: 720
         isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
-    excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
-    publishedDateTime: 2022-07-21T02:51:00Z
-    webUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?chid=13"
+    excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. Save my User ID and Password Some subscribers prefer to save their log-in ..."
+    publishedDateTime: 2022-07-21T03:01:00Z
+    webUrl: "https://www.digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html&chid=10"
     type: article
     provider:
       name: Digi Times
@@ -158,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "cP/bDBE6e4mf/UVAzK6KADzE3IkhrkEaw1rFIydsNje4Vpz30swvauVu/sLk/4RliYG5op32bhs2AWcbd6S/wQlfOzFVKlDevMOq5sYcPU/v7rvzy4Xb1wuKeWycup37ZAS5HCwMqSSnY+dUVFvaM9136BUit/pHdsfENJ3dZjQZSX35cJtkGc3E+hhFeztuV7LuajTwU1fM8FccWZiq2G/l8YS/690mPwT0/sh4FVaN6upDWI48SgjBtJdmsrqASz8Xf0vqPzlRj1ImoOujHN3oSlGz83jGhqtutwlMcddowA//x2aMEYW+ITDvsjCFLMzPmyo11cEhuHFtc0x5wsApWFgpWPPYNzaOcLCI+mhH99pEFKTY4svxa6Xz1HP1F8+6j+tYY0AdjDsokX2H67aAP5AcfhYGezWA1Tbeu5H4uy+QZbvDvCSF7mgsoix/r22KOJjBPbHZeaSKLyvmo9ZqtYag0yXl7Bnzs81YUCrQm8Q6ZfFkCQQy8shDW+wNuRC5Z9uw8pBoRvSuVKO/pA==;MdHJXmdEeD3Wn2rzz7a2oA=="
+secured: "dFGqmU8/Sh0rNAXhBpFdV+6C8UrnMuq/MYL4Eistyf+T9/o96tDOOxhTT7hB3gGk7n1dmSw0Y6BFeZ6EXIEQfkqxWjbv3aZcwoQWMDZAoL4CXw6Caw4lzgHVTh6JV6oJSTWKequBEixjR7cbdymv0CUxoPefDFWY4zpmh7E9M27b8POEYKXnubXo8+u3i9tjgH76H4k89SW614/7WB1gkO3omhg7vsdG2rkiHhRt2fh1+fSfzKJccNN53NfvoW3Lxe9Iwt8CrDgwyWYRPPWSWOfKXPKu8rIl7XnmaCZhFozEo4m2v+vDnkYmRrh3QzcWnyrbNxFsvatLrJmTOvcNerqwxd/e+vP9fkIw1dJD0io=;o+2Y2mHhQq2NS94sQpC4EQ=="
 ---
 

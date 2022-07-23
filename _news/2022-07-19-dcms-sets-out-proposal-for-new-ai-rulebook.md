@@ -18,40 +18,48 @@ topics:
   - AI
 
 related:
-  - title: "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook"
-    excerpt: "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial"
-    publishedDateTime: 2022-07-18T16:07:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
+  - title: "Government publishes principles for AI regulation"
+    excerpt: "The UK government has produced a set of principles for the future regulation of artificial intelligence. The Department for Digital, Culture, Media and Sport (DCMS), the Department for Business, Energy and Industrial Strategy (BEIS) and the Office for Artificial Intelligence have published a policy paper outlining the plans."
+    publishedDateTime: 2022-07-19T01:42:00Z
+    webUrl: "https://www.ukauthority.com/articles/government-publishes-principles-for-ai-regulation/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
+      - url: "https://www.ukauthority.com/media/10495/ai-head-istock-1181533674-monstij.jpg"
+        width: 600
+        height: 405
         isCached: true
-  - title: "UK proposes new AI rulebook"
-    excerpt: "The UK government has published its plans to regulate the use of artificial intelligence (AI) which would see it depart from the EU's strategy to establish a centralised body to oversee the use of technology."
-    publishedDateTime: 2022-07-20T10:51:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40678/uk-proposes-new-ai-rulebook"
+  - title: "Four principles for deploying AI responsibly"
+    excerpt: "AI comes with substantial economic and social risks such as the proliferation of unethical biases, the dilution of accountability, and data privacy violations."
+    publishedDateTime: 2022-07-20T16:26:00Z
+    webUrl: "https://telecoms.com/opinion/four-principles-for-deploying-ai-responsibly/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "UK Announces New Proposals for AI Regulation"
-    excerpt: "The United Kingdom (UK) has set forth new proposals for regulating the use of artificial intelligence (AI) technologies while promoting innovation, boosting public trust, and protecting data.  The new set of plans comes as the Data Protection and Digital Information Bill is introduced to Parliament."
-    publishedDateTime: 2022-07-20T19:00:00Z
-    webUrl: "https://www.unite.ai/uk-announces-new-proposals-for-ai-regulation/"
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
+        width: 1200
+        height: 809
+        isCached: true
+  - title: "UK government positions itself away from EU on AI regulation while testing how light touch it can go"
+    excerpt: "The department responsible is clear on the UK approach differing from that of the EU as regulation will be spread across six bodies rather than one."
+    publishedDateTime: 2022-07-20T20:51:00Z
+    webUrl: "https://www.biometricupdate.com/202207/uk-government-positions-itself-away-from-eu-on-ai-regulation-while-testing-how-light-touch-it-can-go"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
 
 secured: "UOwe2Nfx0pucghQ/BKD3xTnEANEZC47Ap4xMqqZ9NLR4zHInWmjL5+EfEBkUCEAmcd31pBPm/VTMLmz1RMJP15TjyZoNYhbQ9N+4te0pLvw5LoUZU0c0pN71wymBnBUDsQaWhQXLTvqQ6O8lTP/8eFGD5WSRKM5wYtj9jC/ZZX0gSUb/dpQfPFYUeGFuiMG9HELHE5BJHTBvL3zH2HG75aQdbWtPUvaTgVmlXSehqiQ2HR1XMeWdX7IlWDLFUdDeU+fr6fMU9qn/PzoFJV87AndBXkMGa+VMSLDYFN5/2Aux5IuoI5ck3SJd1/dRBMQBMk1ZIe1DqJVsoze83Pw1gx9+bJzwKmBS25RTCmScE2lhStKNis5VbINPas/2PfR3zvSGWtLWci54Za2BNsNFQMFvr9kcoCiYUKKPd/ZVgRHhDtlF5FJpcqQUYU6mqhRDvJ/jWVQzTnONNQrRUfZ1LKOBSSjnREsKg2mVlGbhvESw+ARrw/fSvEZLgXnWCZS7MkPXZlzBFAIW0EA27ADsqQ==;/pnQGdrYzV9ujDtAF98sTg=="
 ---

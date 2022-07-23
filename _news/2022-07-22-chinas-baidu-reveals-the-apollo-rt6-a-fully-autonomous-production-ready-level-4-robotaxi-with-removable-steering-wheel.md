@@ -230,6 +230,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Is this the robotaxi of the future? Chinese tech giant Baidu unveils £31,000 all-electric self-driving cab that can be hailed with an app"
+    excerpt: "Chinese tech giant Baidu yesterday unveiled its new all-electric, self-driving cab, that costs just $37,000 (£31,000) to manufacture. The Apollo RT6 has a detachable steering wheel to allow ..."
+    publishedDateTime: 2022-07-21T14:34:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11035227/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11035227/amp/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11035227/amp/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/21/11/60528771-0-image-a-35_1658398132574.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "LhdQg7GLMYo3eA7Jx8NeN06dYt+YkdV7sS9CyJUooeoUodUWJVrqyDetKiC5TS2q+CbjMJyTVRfTuNLOFA/MEgKxkU9G/xBwJdZLsqbEGB5Vu2ucBGDHtBrl1GO5n49qNATWhfW6EavmikR/VsiVLjvYx+Uusfr5Cp2C2NRRlVS0guiHopdasoDtWXFg+ApyXF83kgIb0FGWhGY8PBMNvnf5eJN6F/CZFrFihSkFwci0SFaFWwSRFX/tqCsqhGUgklMD/W1GzT5k20ekCiNksQ9Lo0WKhxig9rVD5U1VFAgGeqPqFGUufQPhs7+xg4Nz1ZI/KYuR9IdvuxXqYyQLwk+FB1Hh+turjQpx+/NyXYl2ED/IBTb88QNupGo+XBjwuUkgPNqg7E+2YXaoKDDhLCzIA4TxRTazxMHQMcTLybuGqlFdh9T0YVsr3hFy9XyNvowydHdGx4+9z3CadCBqMVgj359YH2b6Ns0jFRnSy5AyagCLau4j7Mme4zKCd7Rp6EBBHOvIeB1WYLJoKdm13w==;YoZxGEYYgLUsgpAO3fy4cA=="
 ---

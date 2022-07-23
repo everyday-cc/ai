@@ -28,20 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Robot dog learns to walk in one hour"
-    excerpt: "Like a newborn animal, a four-legged robot stumbles around during its first walking attempts. But while a foal or a giraffe needs much longer to master walking, the robot learns to move forward fluently in just one hour."
-    publishedDateTime: 2022-07-18T15:21:00Z
-    webUrl: "https://idw-online.de/de/news798505"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
 
 secured: "x9e3qYdJ5ud0itnDzpoBJRXZ/0evol5+OOtMrpcZ2xi+0MQCy6nBtPloFZTWG1x2lFVK9NYFuMzHdjsmxD4UDeScOVl+QucZQHp/xKi6IuDKU+oETfHl4AgC43WOJJ0ZxQVayqrS9eLl64h6fLNrmwgoqKtJu2iFuqrskJUjuB4/r11b3x9oN5ikHO3kjLeDqRkJ5nPJRVlSo7jpEKpg6fX7YCGvXdEFE1t6458+LRQpv6WvqFUO5PZqxmbNy9q5qBNA5BE2nkwdoA9WJwroJ/crgETBqoY2iAc1uUdm0MT6xNgqQYIEgohUF/cf42A1b3LuHTWA+tPGJ7l9AZxyzQiM+eaIAKkHYVc9KMfIcrNu7MxUSEiELQq3mjiM43m0TgbK1wxB56Qh5g3iTxFZ0nO/DOhTqVJLT1D1NnVXb9Htg16+Hel4eGG/LvWZp6GtXt+HXf8LDgqBJk8k6zSunvtceQk6yQpBOm+U2UKcjUUtR6VfQGWPwykDqRNjc0CVr9IWrfp5N2XVt13Y1r7OjA==;YTpyR2i256x5DliESSk+zg=="
 ---

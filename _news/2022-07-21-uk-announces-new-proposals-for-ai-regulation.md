@@ -18,40 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook"
-    excerpt: "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial"
-    publishedDateTime: 2022-07-18T16:07:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/"
+  - title: "UK AI guide released as data bill enters parliament"
+    excerpt: "The UK government has published a guide to artificial intelligence (AI) regulation and introduced data protection and digital rights legislation into parliament as part of post-Brexit data reforms."
+    publishedDateTime: 2022-07-19T11:16:00Z
+    webUrl: "https://www.research-live.com/article/news/uk-ai-guide-released-as-data-bill-enters-parliament/id/5101262"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5101262&name=uk-ai-guide-released-as-data-bill-enters-parliament"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5101262&name=uk-ai-guide-released-as-data-bill-enters-parliament"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
+      name: research
+      domain: research-live.com
+    quality: 57
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
-  - title: "DCMS Sets Out Proposal For New AI Rulebook"
-    excerpt: "The UK government has set out proposals for a new AI rulebook to unleash innovation and boost public trust in the technology, according to a policy paper published today by the Department for Digital,"
-    publishedDateTime: 2022-07-18T19:10:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/dcms-ai-rulebook/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
-  - title: "UK proposes new AI rulebook"
-    excerpt: "The UK government has published its plans to regulate the use of artificial intelligence (AI) which would see it depart from the EU's strategy to establish a centralised body to oversee the use of technology."
-    publishedDateTime: 2022-07-20T10:51:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40678/uk-proposes-new-ai-rulebook"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "9Iw1imM7kAJGU4NXZRMedJJF5ZUTO3hCWyFGqqnuLDoVtl0//TA4sdvmOvb0mVDF/iqC7/WpbNV3NKxB98N/uBQJIVZzub8sspsyOqx4USA2p6Kc4CPPC7Ng5vWvk6ER1rHke8n7soIbTZ+hPPiLHxdQpgAsnpJWGTlvjeglsd2t4IE4UKxKi35z5nBv2yeH2cOIlRJVSUHxsfGcvL3tPGOvWlisgBk4BBg1Kn/ePrPqw1CY58qZODKO1vP0N2UV/FHtosjRi++dUXw4X9jwgIAoZSetAvPa2Q/xTOIogh//3dna1xF/v/QkIyy6pqDTREzrc1x3zGy5WdImz9sVjzbH3+hfXze3FKNnUa/cjsEnyrYZn9JX9rUje4s8G9fO9U1wYAqpqbby20gQwRQFadM4B4qTQt0Mz0YmgllOJc29o5KWRZ0pV0yp+6S2igdip20e32o7QRNo17M3lxwSe8bmtMW5P2K5qRr0oMKloSzsdDaiwZj4yUpJgVERfUyeuwg/RPStZ63msnYzb7vY4Q==;DrAhO+4svYL1C04MUshyxg=="
 ---
