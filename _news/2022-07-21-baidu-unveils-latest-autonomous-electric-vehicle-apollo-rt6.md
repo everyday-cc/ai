@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-publishedDateTime: 2022-07-21T04:07:00Z
-originalUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
-cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-21T05:03:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WOKV
-  domain: wokv.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
-    width: 1440
-    height: 810
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -99,17 +99,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
-    publishedDateTime: 2022-07-22T15:39:00Z
-    webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-    ampWebUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
     excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."
     publishedDateTime: 2022-07-21T03:08:00Z
@@ -138,6 +127,15 @@ related:
         width: 1024
         height: 550
         isCached: true
+  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+    publishedDateTime: 2022-07-22T05:55:00Z
+    webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
   - title: "Baidu unveils latest autonomous electric vehicle"
     excerpt: "Chinese search engine and artificial intelligence firm Baidu, unveiled its latest electric autonomous driving vehicle, the Apollo BT6."
     publishedDateTime: 2022-07-22T18:00:00Z
@@ -166,6 +164,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "go/0PwHHeXY50ZH4NbRJoyruCrkSvXk/2uS7ZzmY+bZh3Gnnnp/bQJ4Oic9vDf3vdnq57RgYnk4vlgkr/eSMAujNvjRARJdIKP2z83nUOFzDdwCyDyBuH3+pzbkJKl2oSI2/E0IOg2txQ8PtyRpqAb4C5BJ9RGO3yNuAvw5Om7FZJ31uXefkcCWrLYWzyUq6urB5EyCJ09ld3i8v40hSm1fMpLbBXAKrKLPm48AhtGA0L2cV3yP9c+YqaVJFPfbUo2n9yC2hx5iI0abN46t84D6iqudjYenRWF2uGcNJx7ud6EX4J6fzQjXjEs616dY382+5EnhNX9Ypwx2DrFJdJ8102nVy1a2iXd8Theyok1Q=;Ft+6VxsY3zd+3WO8lNLSMg=="
+secured: "nya89k79dGna3dZqJ2qSi2ySunhGZM4FkuUHiEefKbeJaU2OdRDk1xZc/vgMkI/UnIiMCy8UBMZQtVt+6hDVTr29yWFn9TvRdfuecGXOrCQ/XjATELNkiOL9fNAoLyIgdNvhYiIdyQIND9kTaBF9n7+gfIOyDS/dnzE9UK3HwytWGF+fMPm9396r2Up2rklXSr0TOLnb//v6Gef04ooYHRagw7lxplnD8Qkls2/1zzbpQvq8eAIRgijgDZnBdNYeU4Dy4fO76qPMJw3fpsOCou1IRPZPCG0TuITFXGLqQTS3ClUzRWHOfgL/uBi+uAHYzWJr2RUPKTFT6j8M6eo4zhcgXKdl3GUjNbX6a4QkXvI=;RkJHDZUygh6DmWDCCRio3w=="
 ---
 

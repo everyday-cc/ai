@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/iit-palakka
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: India Today
@@ -25,24 +25,6 @@ images:
     width: 647
     height: 363
     isCached: true
-
-related:
-  - title: "IIT Palakkad Offers Free, Online 12-Week Artificial Intelligence Course for Students"
-    excerpt: "Palakkad is offering a free, 12-week course called applied accelerated artificial intelligence on the NPTEL platform. IIT Palakkad is organising a free, 12-week online course about artificial intelligence (AI) on its NPTEL (National Programme on Technology Enhanced Learning) platform."
-    publishedDateTime: 2022-07-19T14:13:00Z
-    webUrl: "https://www.thebetterindia.com/291211/iit-palakkad-offers-free-course-on-artificial-intelligence-ai-how-to-apply/"
-    ampWebUrl: "https://www.thebetterindia.com/291211/iit-palakkad-offers-free-course-on-artificial-intelligence-ai-how-to-apply/amp/"
-    cdnAmpWebUrl: "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/291211/iit-palakkad-offers-free-course-on-artificial-intelligence-ai-how-to-apply/amp/"
-    type: article
-    provider:
-      name: TheBetterIndia
-      domain: thebetterindia.com
-    quality: 52
-    images:
-      - url: "https://en-media.thebetterindia.com/uploads/2022/07/iitp-1658238409.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "OSHcR12lk0RyCN+6SCbk1sUJNHIVXzblF3ynUzXli5BWGbBI6ksvgGzQlKCegtMkf/H5h9dR2OVtk214qu6e/uwMIi/Hr2vS7SAAMixAcA0bjjVkzgihj25nXXX3hCioEXR6GeIldOJdXT/F5xES86GgQ3LH06VT8HEZRAqeb8rzSI37QxawYjkIWBM0qCC9oNtBPbvY+o36CZMM+Pxb/1fMVWWGl9qDJcXKnbLT+kqNMdvoMh4PGa7bDo3zL1IuGq+QNABPIG0ijBv4JWlhEps9M4C1hQHyWANQYqDNyTwBPmLaeKpb4T76hM9MT0hpPM2COzr/3d+9P1o/GyL8u6oC0SgWTweZb82zOO+7Lz0JqXiwapD37JjHpk5iM/SqYfBSshuAQ+7Yrh54nJlDhRejgb2PxQssLttCI+Zta7WHUuynPIejw2b6pYYJM+OELerSsD5mnNOwaZNvFmMX0XdZa42C143bSfHJ0Tz/2C3ZP1ft/EocZlC3IqZ1VFOb/6CPIRbI37Dz6ri4YWATzA==;HFSfnoKcDe5UvQ5bYkChUA=="
 ---

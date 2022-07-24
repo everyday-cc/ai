@@ -2,111 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-07-14-flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business.md",
-      "title": "Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business",
-      "excerpt": "AssemblyAI, which is developing API-based services for AI-powered audio and video analysis services, has closed a $30M funding round led by Insight Partners.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
-      "originalUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/assembly-ai-ceo-dylan-fox.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
-      "publishedDateTime": "2022-07-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-rocky-linux-9-brings-security-enhancements-and-better-performance-for-enterprise-users.md",
-      "title": "Rocky Linux 9 brings security enhancements and better performance for enterprise users",
-      "excerpt": "Rocky Linux 9 shares many of the capabilities of Red Hat's Linux 9, including updated cryptographic libraries and security enhancements.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
-      "originalUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1355611023_update.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
-      "publishedDateTime": "2022-07-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-07-14-what-to-look-for-in-machine-learning-for-cybersecurity-solutions.md",
       "title": "What To Look For In Machine Learning For Cybersecurity Solutions",
       "excerpt": "In the cyberworld, the “game” pits your computing environment—protected by your skilled but overworked security team—against a range of miscreants and nation-state-sponsored actors seeking illicit access to your crown jewels.",
@@ -510,19 +405,19 @@
     {
       "path": "_news/2022-07-14-speech-and-voice-recognition-market-by-deployment-mode-technology-vertical-and-geography-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc",
+      "excerpt": "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -535,8 +430,8 @@
       "publishedDateTime": "2022-07-14T01:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily News",
+        "domain": "galvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1156,6 +1051,108 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge.md",
+      "title": "Red Hat’s new CEO to focus on Linux growth in the hybrid cloud, AI and the edge",
+      "excerpt": "Red Hat announced that long-time engineering leader at the company, Matt Hicks, will now be the company's president and CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
+      "originalUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/red_hat_mainlobby-e1657725975271.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
+      "publishedDateTime": "2022-07-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity.md",
+      "title": "Salesforce's AI Economist research wants to explore the equilibrium between equality and productivity",
+      "excerpt": "Economic theory is known to be constrained by a number of inefficiencies in its modeling. Salesforce researchers claim AI can help address that, leading to more robust economic policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "originalUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/25ec13c6fd6b909c20e9f957229fc13c548877fe/2021/09/21/14983cc7-2431-4227-a32c-4886b5005490/salesforce.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "publishedDateTime": "2022-07-13T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

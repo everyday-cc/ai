@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-07-artificial-intelligence-teams-ro
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Applying fictitious AI to the real world"
-    excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
-    publishedDateTime: 2022-07-19T13:43:00Z
-    webUrl: "https://techxplore.com/news/2022-07-fictitious-ai-real-world.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "fFOQR4bbFevUKGb5oytfkqsZD7377SqENGDxouE4PxGvLvscXLK+NiAVnLvRbuDKnqYcLAjLU4lPwN1M2d9yph0yoCn1P/x0AJcf6JqsUiojieWYSZNlmngcCFALhVXaygZ6p7eEacbzO1VS2IhrXzkegYNdMGO3AaMhs/HiSRuBDgKYpDuUJqQc/LmPT+l59K09+o9B/0glbXrRxe5hnv3lu+Zs5lxZtQ+RB8ycLbhPGqEMIZmD+3t0m6sG91cZbQSI29Cl9y326Ubln1imLc4Kb21HPaD30w018Yb7mC5hdAyY056Vnf3WEtTSXKsVRlsG/wH2uEomJqLJS8ON9Qvw/Nz0DfWIXaPdyJZEKg+wtl3X/Z/+zRIEWeGpIaVves15cO3BIiM6mauHqYuuOnPWyTTaKilm6EmhWuDAcBk0Q674gR+KPxLACZO4bahEuKDOVzi/STsBTwvsrzQv9JiKUjBQNrC4yg4ZsRS+XqCnb+YTrS47HYiv2DAYwd7HgfsPmezY0V34y/vLLhQAlg==;+5sLGhl6tbJo94rp//fxvg=="
 ---

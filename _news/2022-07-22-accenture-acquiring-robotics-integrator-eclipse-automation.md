@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/accenture-acquiring-robotics-integr
 webUrl: "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Deciphering The Future Of Robotics And Automation"
-    excerpt: "Newsroom is open 24 hours, please reach us by email at info@canyon-news.com or by phone Monday through Friday 9-5. You can place DBA (Fictitious Business Name Statement) orders online by clicking on t"
-    publishedDateTime: 2022-07-19T14:25:00Z
-    webUrl: "https://www.canyon-news.com/deciphering-the-future-of-robotics-and-automation/160193"
-    type: article
-    provider:
-      name: Canyon News
-      domain: canyon-news.com
-    quality: 56
-    images:
-      - url: "https://www.canyon-news.com/wp-content/uploads/2022/07/jelleke-vanooteghem-6NUlOHM40w8-unsplash.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
   - title: "Accenture Buying Eclipse Automation To ‘Reinvent Manufacturing’ With Robots"
     excerpt: "Eclipse Automation creates automated manufacturing systems to produce products for life sciences, industrial equipment, automotive, energy and consumer goods companies."
     publishedDateTime: 2022-07-22T18:08:00Z

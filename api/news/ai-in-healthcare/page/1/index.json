@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-20-iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students.md",
-      "title": "IIT Palakkad offers free 12-week online course on artificial intelligence (AI) for students",
-      "excerpt": "IIT Palakkad is offering a free 12-week online course on artificial intelligence (AI) for students on the NPTEL platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/boy-1986107_1280-647x363.jpeg?5xvcK3yrJoB82_1jS0Y8wtsaZJuspTA.",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-palakkad-offers-free-12-week-online-course-on-artificial-intelligence-ai-for-students-1977837-2022-07-20",
-      "publishedDateTime": "2022-07-20T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
       "title": "Singapore healthcare mobile app taps AI to diagnose STD",
       "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
@@ -194,7 +151,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1350,6 +1307,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
+      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
+      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "publishedDateTime": "2022-07-07T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

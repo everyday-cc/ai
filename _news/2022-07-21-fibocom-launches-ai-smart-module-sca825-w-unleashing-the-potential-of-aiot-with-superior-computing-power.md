@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Signal AI Enables Enterprise Adoption of the External Intelligence Graph"
-    excerpt: "Signal AI has unveiled its new External Intelligence Graph, a data structure that continuously monitors the significant and incidental"
-    publishedDateTime: 2022-07-19T14:56:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/signal-ai-enables-enterprise-adoption-of-the-external-intelligence-graph/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/signal-ai-enables-enterprise-adoption-of-the-external-intelligence-graph/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/signal-ai-enables-enterprise-adoption-of-the-external-intelligence-graph/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 56
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Signal-AI-Enables-Enterprise-Adoption-of-the-External-Intelligence-Graph.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Genesis launches AI intelligent quantitative products"
     excerpt: "Recently, Genesis has launched AI intelligent quantitative products. GENESIS uses AI intelligent quantitative products to apply artificial intelligence technology in various fields, logic mathematics,"
     publishedDateTime: 2022-07-20T16:47:00Z

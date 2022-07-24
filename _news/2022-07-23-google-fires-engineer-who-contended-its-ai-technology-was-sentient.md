@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -228,21 +228,7 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "New Technology Gives AI Human-Like Eyes"
-    excerpt: "The technology might result in highly developed artificial intelligence that can instantaneously understand what it sees and has uses in robotics and self-driving cars. Researchers at the University o"
-    publishedDateTime: 2022-07-19T14:13:00Z
-    webUrl: "https://scitechdaily.com/new-technology-gives-ai-human-like-eyes/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Eye-Scan-Illustration.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
-secured: "uHIAtzFcFrbut3z7sOrDQrLYbmNyKZHsmLOjUZb/LOFiUoM351Pol2XrrYXh1e5TGvX2bz7NCNMXVJqGJuUyPBYc2mpbymLLObJsJgTsiyb80fnmGUh3BrVMwKml5Ldh6i5b2bMhi2hDB32MUnh8gKYgMSuQmDu3etFbXsDJ1jvYzlVLVN0mU6rp+nm/WCLMS3aOhZDMwz0iHXiA6yaq3MftJl0bYlYLh/9gpwR2rOPFSbRRDB6a5+X7v0NizVQtp4JzrIHG+CydY6bVxe940Iwla8FebuCXTK+2hpnjOI6FW4nC4k8aUMqusQKQQtxN2Q8KGdKiRJrJv3BGUcwFnVWBL8RJ9nihZ/HX74HZNEQ=;I9Mmc6MRuBZRKqZcCr0KCw=="
+secured: "1X5IVYIWyfaVn6CvGPMd+lUvO7cEUIY1iEuBYrB5ffsMS+PqERmwrcaKp4F5nyQ0RXzObRgIzytnwZQDhtj8l3jrodz/id+MQsitdnR00kQYjDdJA2vY9cxuv8QtAyrlveZTkVTf1Qp7PJ7cd2Wg6S/fB/XKOjkcYQpOAjnK5zebZ1oVtpwYW9z8MH4Hi/TZnozQTtPo38kOLELlANdXorLpAd7YO3D0PNthDdsFH6LYyyf+6DewbhXpPRd06HwtyjuPYfEcXnAZhfrNpHJaDAxuiSZKBLZSEs62HhgJ7wLHx9ybl5C8fhge9E0HIa2Ls30XR6O5OMo+eIObxcKj6WNG3ptCdzfXKbyu7h5BObHcZaINyMn8zWnrrNgIiyo5V0caw9tp840rR9EQimLFTi7lc/b29Aub2iCx+A2OQCWssiw5zXxf7IeUpQugSE1AflqDd0Hhw2QcoztrseTmHu3BbOKym+FzCm6EECeJ9Qw7egjZeWfV0omUGe8B1N6jCKjc9zmEqYn3LdZfYoZCeA==;kgZQyuEuopSR4TapwZhl7A=="
 ---
 

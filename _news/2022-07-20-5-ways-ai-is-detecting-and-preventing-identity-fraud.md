@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 400
         height: 285
         isCached: true
-  - title: "This AI-powered prosthetic hand is bringing design and style to a life-changing product"
-    excerpt: "Esper Bionics is elevating both the science and the design of prosthetics, while turning it into a lifestyle category."
-    publishedDateTime: 2022-07-19T13:18:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-bringing-design-and-style-to-a-life-changing-product/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 39
   - title: "How AI is Changing Marketing for Consumer Brands"
     excerpt: "Let's look at how fast-growing consumer brands identify the opportunities that AI brings to identify hybrid shoppers and personalise customer experience across their decision journey. AI is changing the customer experience."
     publishedDateTime: 2022-07-19T16:00:00Z

@@ -93,15 +93,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence (AI) in Life Sciences Market Size to Hit US$ 6.7 Billion by 2030"
-    excerpt: "According to Precedence Research, the global Artificial Intelligence (AI) in Life Sciences market size was valued at US$ 1.3 billion in 2021 and it is expected to reach around US$ 6.7 billion by 2030 with a registered CAGR of 20% from 2022 to 2030."
-    publishedDateTime: 2022-07-19T14:23:00Z
-    webUrl: "https://www.bio-itworld.com/news/2022/07/19/artificial-intelligence-(ai)-in-life-sciences-market-size-to-hit-us$-6-7-billion-by-2030"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 29
   - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
     excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
     publishedDateTime: 2022-07-20T11:45:00Z
@@ -111,15 +102,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 28
-  - title: "AI Infrastructure Market worth $96.6 billion by 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "AI Infrastructure Market is projected to grow from USD 28.7 billion in 2022 to USD 96.6 billion by 2027, at a CAGR of 27.5% during the forecast period"
-    publishedDateTime: 2022-07-19T13:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56588168-ai-infrastructure-market-worth-dollar-96-6-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 8
 
 secured: "/j+gh7pKVoa+DcqdaSdu+MGhDj+D0qnJusooBTVYuV2kicwFMj5L3W+bwd8r6y4Uj7c1fHypeuJn2jC6hTVwh7IBDZ5pEhCwQBUMZ7F05zadcRpDCYnWbIX0UUYbUsbluvhqSer5pR2UfojTdoYwntj2Wi7y65cOS/j56gOfPEfxqiSTcUVETaXwG/aj6MRE88X0Gf0zHlSeYCY9FP5nmcR8qwIIBgDjl7Ge4WcE3CNB5uT5CbKZCbPnaGaG6j9HlhEqVaeNOm4Pk2IJlYzEItrQW1BFnuUiP0Ay111U6cB9uAl5zCbsvdY7eVZ0gO7p8EpORDSD3z8qUd1Qz8yNXxN4SKPSLrKbuNML/qL1cG4=;eUbQ9onxm7dhipJo6OYJkw=="
 ---

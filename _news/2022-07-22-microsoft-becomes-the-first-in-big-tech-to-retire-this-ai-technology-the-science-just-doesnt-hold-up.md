@@ -49,20 +49,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Microsoft reveals Azure Space Partner Community"
-    excerpt: "Microsoft is expanding its relationships with space companies through the Azure Space Partner Community, an initiative unveiled July 19 at the Microsoft Inspire 2022 conference."
-    publishedDateTime: 2022-07-19T15:00:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-space-partner-community/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 54
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2022/07/rsz_screen_shot_2022-07-18_at_74017_pm.png"
-        width: 879
-        height: 421
-        isCached: true
   - title: "Microsoft Unveils AI Powered Contact Center Powered by Its Nuance Tech"
     excerpt: "During the opening day of its Inspire 2022 virtual partner conference on Tuesday, Microsoft revealed its latest intelligent contact center platform"
     publishedDateTime: 2022-07-19T15:02:00Z
@@ -105,15 +91,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Inspire 2022: Microsoft Unveils Digital Contact Center Platform"
-    excerpt: "Microsoft executives say partners will play a critical role in the newly introduced Microsoft Digital Contact Center Platform offering, which combines technology from Teams, Azure and other portfolio products with newly acquired voice-to-text company Nuance."
-    publishedDateTime: 2022-07-19T15:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/inspire-2022-microsoft-unveils-digital-contact-center-platform"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
 
 secured: "efb0T5ixsSULLg2WW7TjPZKCFi0B4VTV6vkjygkAsM7agaVbaP4bnn/w4k+z9LOlb9hBb+UlXNqk3XeDRw7ab7pjT/QovT5iJFTNdcDFhhVxWC0UZj7lW6vJBSObI/uhrOIcksfID7Qz+nOThdZzS+KB0oo1pHIJC1tDehVTIo45socEgSkqHyBZZ5G4h1Fa/0y5dti0/58TnjZdUwf6NAYFxv8t47kXfXM9Mp6IqdJZuB39Tq9kW44B2bQTAd/S+WYEclNPpp9x7NILi0QypprDjQO4CYYkpkQIFoRwa3Bvit7e3u59zVd2C1AgXLtrhwBv7Rkyr5drfU0DyXgARscEx8fC++5rUE7PyGywao0XRKncyhB2r1AliTdNKUz4YO1zmwpIBOHoLj5OCh50ZQLTZQahKwYb90yPIui/86mY2gKo7fLzSrELA7F0NaPqOYKagc9m+J7Av8zea7WrAI0EuK/jxz80lJGnr0g99z2mXFrySF72AnU9kjHcQ5a4pRSnYww5mhLHnHsqRYwd4A==;jwLgNa+W+vR7wTxIo9LXew=="
 ---

@@ -2,84 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
-      "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
-      "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
-      "originalUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
-      "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
-      "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-07-18-generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator.md",
       "title": "Generate synchronized closed captions and audio using the Amazon Polly subtitle generator",
       "excerpt": "Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions, helping to improve productivity and reduce costs. As our customers continue to use Amazon Polly for its rich set of features and ease of use, we have observed a demand for the ability",
@@ -1178,6 +1100,111 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-the-imperative-need-for-machine-learning-in-the-public-sector.md",
+      "title": "The imperative need for machine learning in the public sector",
+      "excerpt": "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "publishedDateTime": "2022-07-17T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-ai-art-is-challenging-the-boundaries-of-curation.md",
+      "title": "AI Art Is Challenging the Boundaries of Curation",
+      "excerpt": "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "publishedDateTime": "2022-07-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
       ]
     }
   ],

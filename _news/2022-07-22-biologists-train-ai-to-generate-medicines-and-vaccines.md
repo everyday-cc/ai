@@ -43,15 +43,6 @@ related:
         width: 500
         height: 310
         isCached: true
-  - title: "Applying fictitious AI to the real world"
-    excerpt: "Seeing a world increasing its reliance on artificial intelligence, or AI, LSU Ph.D. candidate Zita Hüsing decided to take a closer look at AI through fiction. Using the fictional androids seen in the movie \"Blade Runner,"
-    publishedDateTime: 2022-07-19T13:43:00Z
-    webUrl: "https://techxplore.com/news/2022-07-fictitious-ai-real-world.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "0j7W+PdfQW3KCgtyOh25NKslPx6oVwl1bCpj/2McTU82JwW73rt7vFuNxP6HLlaE1biuaMjYzVffFzq2A5UufoqLwiUOEljriDQKPfzfefzeEmSQgW5ToGywfBNDzvdMhx3E8VzUE/W8wsCIuOY2icZ9IEN0mMHSzoc/fOlcoIVKSTmAC4FyEL1CltFKTc4avSd5+WpkBg68ycqS6TlT32drmPiYQ1gJi5WLYk+R/fxwNKerzIiSZZs4pxH9HDTIhqSFxHqUvSGmnbYhn6tEStY53VRZKY3jlY7VkBThkkWARiW+EhXI3e5CZkRTT5mG/mLdb8SAIfEo8xfEgqGsctxM3GrKfJh8rdJJ3HGyPnzwBdRM0dywGYa9LwNgXlaPspK8su40S1IkEHltuqqeCNYTmXMdtJyUfUh2/Hozv1gImY/oM1P9qQZItI1G4kqlQw52xp8PdVV2e1V2XQH5aHxNdamQ5OPRycKeAGUOJXvNRBKtUqOSlRF2GV0DT5VIHQGSF0xPsMWVdg48+B7vvw==;vjH/OoA8CZQcAaNPM0d2FA=="
 ---

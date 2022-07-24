@@ -224,20 +224,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "New Technology Gives AI Human-Like Eyes"
-    excerpt: "The technology might result in highly developed artificial intelligence that can instantaneously understand what it sees and has uses in robotics and self-driving cars. Researchers at the University o"
-    publishedDateTime: 2022-07-19T14:13:00Z
-    webUrl: "https://scitechdaily.com/new-technology-gives-ai-human-like-eyes/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Eye-Scan-Illustration.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "S7kRIO0jFJUE2uynSMNr5S02jItNZWUSd3xU+7V6rmX1bhmjK/sq8d7UCLNIjvocnIxzZ5fWsPVSZ9B0uuFPOEYpPkaFEV4Lu/VJMPnw7QodGssH9/n+6YFD4iBPNgG+EulhRzR3HaUHiB22O2UYjrEcp8zL+c/rjauivTv2EdcVyWY4kMOnBpJFqNo93Wc3Q7SeJM4nF/IRcOAa1DC7abi4eE4dukiSICvZXnG2Gu8emdeWRxeoeH8+Hfogu7pJuvKAKfZIVxyf4OKbpn2R/N9DzzGosSu7LjyFHsXDEYaCK4U1wzXACSdFWJ4NjIo1t8oOyiAzKkQzGPsrqFNid7tuJW3y0KADoFS0FPZ5oIaons7yJqvh75JJwtua1AK8fFzsSDuZELu4AOpcYhGbXwuOHDcNZFKOLobhNBNCnK8JxicRj+HHUlH/hY/DL0myWrbacpZWlJ33sFuddte7wYMopTGnOSYA1CQXrqn1+wfPXUamyIaSa4RaK/IbpW/121SwAeJqmaVo1jP38oQymg==;dYmv+JnAcjVDyE61uiZKpg=="
 ---

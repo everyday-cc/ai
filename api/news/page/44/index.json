@@ -2,92 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2022-06-15-artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030.md",
-      "title": "Artificial Intelligence in Healthcare Market Research Predicted to Show Substantial Growth in Future by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 215.53 Billion by 2030 and register a substantially high CAGR over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.md",
-      "title": "KAIST develops robot skin that can sense tactility and recover from injury",
-      "excerpt": "The Korea Advanced Institute of Science and Technology (KAIST) said its research team has developed a robot skin that can sense various external tactile stimuli and recover from injury when it is cut or damaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
-      "originalUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0622/kaist.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
-      "publishedDateTime": "2022-06-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-15-research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment.md",
       "title": "Research claims military cannot rely on Artificial Intelligence for strategy or judgment",
       "excerpt": "The use of artificial intelligence (AI ... and Goldfarb highlight is the Rio Tinto mining company, which uses self-driving trucks to transport materials, reducing costs and risks to human drivers.",
@@ -1013,6 +927,94 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
+      "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
+      "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
+          "width": 1280,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "publishedDateTime": "2022-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
+      "title": "AWS with Intel launches DeepRacer Student League",
+      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "publishedDateTime": "2022-06-14T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

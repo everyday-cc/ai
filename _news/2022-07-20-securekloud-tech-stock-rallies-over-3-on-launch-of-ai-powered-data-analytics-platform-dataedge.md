@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/securekloud
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/securekloud-tech-stock-rallies-over-3-on-launch-of-ai-powered-data-analytics-platform-dataedge-122072000446_1.html"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 8 Uses Of Data Analytics In Accounting And Finance"
-    excerpt: "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations."
-    publishedDateTime: 2022-07-19T14:01:00Z
-    webUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/"
-    ampWebUrl: "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 61
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI Boxes help fuel proliferation of video analytics"
     excerpt: "A look at how AI appliances are helping a larger number of end users take advantage of intelligent surveillance tech"
     publishedDateTime: 2022-07-20T19:01:00Z

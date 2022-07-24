@@ -227,20 +227,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "New Technology Gives AI Human-Like Eyes"
-    excerpt: "The technology might result in highly developed artificial intelligence that can instantaneously understand what it sees and has uses in robotics and self-driving cars. Researchers at the University o"
-    publishedDateTime: 2022-07-19T14:13:00Z
-    webUrl: "https://scitechdaily.com/new-technology-gives-ai-human-like-eyes/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Eye-Scan-Illustration.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "H2LNlZvbnKY0Ln3PvpLtLmUCeu5GLQMwnuHXcAa4Uz+r0RSCl97Hyw9AO8rgt6PK9U1xSY3g7inmPC6nwjmiF4qR9Yr4rCbzxTn20hafLWyKfV5QHOZ4BeohaELX0iw1N1nVktDF/mgqebWGCe7KRKxMcB/tevyqfHh2Ig1ekivRwcmZ4ArKsNhrAUn/z9aP4blvhZrb/ZCMh4tlbOZ/c0ls+6QS53COtNvc9o0jVESbceBtWC+BUlx+q4xBBdU3H2O/9GBvTK7BXx46SoUTSaIUa7IJh2aIC6YD7a9kcJI57sV6rYvD0yXgu2fNEAqmcPi8UDBd7geqU/f9+X0DTWGUUaKj/6zY/d9jXItDXeG2rV0V8wxKqvNZK6hgE1nx62Qx4G2G3wLwFOBV/ysAiHe+DSuZkgGB4ZpJXaR7mR+zIErpNCyJwYO6GYt+5U6grbxR23KbTPhHFEopjARdIVJqnhpPgL1SaOkEbG+agfaE++4jP4GLxLAiaerA8qKYwUCxF/UoCQx7gnQzhN/h6Q==;uTcZqA9fSCN7k74chMHdSw=="
 ---
