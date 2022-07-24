@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Olive AI lays off 450"
-    excerpt: "Olive AI this morning announced it would lay off 450 employees amid a shift in business strategy, according to a staff-wide letter sent by CEO Sean Lane seen by Axios and multiple sources at the company."
-    publishedDateTime: 2022-07-19T16:21:00Z
-    webUrl: "https://www.axios.com/pro/health-tech-deals/2022/07/19/olive-ai-lays-one-third-staff-450-people"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/B7f8Hgb9wjxvbBqWxTc6BA0mfAc=/0x0:1920x1080/1366x768/2022/07/19/1658247033039.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Unlocking the potential of AI to increase customer retention"
     excerpt: "SugarCRM CPO Zac Sprackett discusses how unlocking the potential of AI could hold the key to increasing customer retention"
     publishedDateTime: 2022-07-21T08:42:00Z

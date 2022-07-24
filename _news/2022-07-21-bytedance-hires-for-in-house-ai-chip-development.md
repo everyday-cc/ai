@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/bytedance-hires-for-in-
 webUrl: "https://www.datacenterdynamics.com/en/news/bytedance-hires-for-in-house-ai-chip-development/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ByteDance Forays into AI chips"
-    excerpt: "China Visual. BEIJING, July 19 (TMTPOST) – Tiktok’s owner ByteDance has joined other tech giants in China to design c"
-    publishedDateTime: 2022-07-19T16:37:00Z
-    webUrl: "https://www.sohu.com/a/569356439_116132"
-    type: article
-    provider:
-      name: 搜狐
-      domain: sohu.com
-    quality: 54
-    images:
-      - url: "https://p4.itc.cn/q_70/images03/20220720/ef43458916a7416ea55704913b440e40.jpeg"
-        width: 2500
-        height: 1668
-        isCached: true
   - title: "ByteDance Forays into AI chips"
     excerpt: "The chips will be customized to tackle workloads related to ByteDance’s multiple business areas, including video platforms, information and entertainment apps, ByteDance’s spokesperson said. ByteDance won’t be manufacturing chips for sale to other companies."
     publishedDateTime: 2022-07-19T18:02:00Z

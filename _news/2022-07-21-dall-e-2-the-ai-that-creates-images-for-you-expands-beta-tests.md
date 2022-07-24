@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
-excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
-publishedDateTime: 2022-07-20T16:45:00Z
-originalUrl: "https://www.npr.org/2022/07/20/1112331013/dall-e-ai-art-beta-test"
-webUrl: "https://www.npr.org/2022/07/20/1112331013/dall-e-ai-art-beta-test"
+title: "DALL-E 2, the AI that creates images for you, expands beta tests"
+excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
+publishedDateTime: 2022-07-21T15:15:00Z
+originalUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
+webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
 type: article
-quality: 33
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: KnowTechie
+  domain: knowtechie.com
 
 topics:
-  - AI
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2022/07/19/dogwoods_wide-13967fd64ede7836bea897caf01c87ec2b7ab088.jpg?s=1400"
-    width: 778
-    height: 437
+  - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -94,20 +94,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "DALL-E 2, the AI that creates images for you, expands beta tests"
-    excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
-    publishedDateTime: 2022-07-21T15:15:00Z
-    webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
     excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
     publishedDateTime: 2022-07-20T18:31:00Z
@@ -122,7 +108,21 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
+    excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
+    publishedDateTime: 2022-07-20T16:45:00Z
+    webUrl: "https://www.npr.org/2022/07/20/1112331013/dall-e-ai-art-beta-test"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2022/07/19/dogwoods_wide-13967fd64ede7836bea897caf01c87ec2b7ab088.jpg?s=1400"
+        width: 778
+        height: 437
+        isCached: true
 
-secured: "lXNo+acCXyYnL5upCfAh+EOHaWbI3C5Px8/UQJPAzrNq2UXp0TLWVQjYy3rviXUY3bl711iJndgrFAUKmi46OWks5zIFGnleNumMLYciHVg5NqaHxN4Tys/P5JDoeQ95iWxbuCKg7cj0IAJF2dii70iuqUUV8GaXUNyA4pq6c47T7AJktbczzPTCIQTqI0o7wEXpak1j0pfceK8zvzbv/Tj6qgLx6WIxJnnIhm2HqMqsJbsvTHYlC+NdQx/TwuRBXV3QZHH2peksOKeL4wqnowY0L2MFVTSRMCUXy9typsrRkh/6nUAzF3nIj8jv6Y5q2Aur0VDtWcQ600+sNF1XbmaY1RZcBiV7gogmudt1RIIM0jAXXoiW3lFCwQeaY7lhPQwDqNXrhxP082KsbSUSqtqjAFbvtdAkXMw9ozFTYiKRp06EfhFSnzn0JUtr2wOJjJvIAPpyJCdnjN1BZUWRo6KL+dipc7xxkCIqZzC/s0U3WN0qxURKCHjO091iy2+YIj9zCOaH6uAudU4zfJ6KvQ==;spq1IB5JKOG/JbtyjjmFeg=="
+secured: "tpiHN7dRoRcTmSvtcmEoafEkB+xgKWeduHUD/ZtNWnO6qqRik/Y4ocAkoPChZ2UPp5p52ETDySXulcHkzzyZLn21E508UZoTCNKE8UNXW/bJov6sVXYO5jJxV2CQJG866+pxb7LwvHd1sg8n9TpqtsPpHPLsbzrvMZs6qjYg2gVJdPtfIOFG0vndFFesqztdcBiZicBb3RZXVNJ1eJkaoTLvtp5aUMTIA+JukNbSm+DTbOuC0nXt5cSap+PQtjsbyuGZxMOIs4tsJfJ77qtDcUEL/oKJSS/jKNpWImzHNNH2huPhU1XmxRPcd2RglIiPXyl6GZkcrQ8dvYcPYyT+sBR/pioVFuAxKpbfXzE8lEs=;+1nZsi8kEadbajRcudnKog=="
 ---
 

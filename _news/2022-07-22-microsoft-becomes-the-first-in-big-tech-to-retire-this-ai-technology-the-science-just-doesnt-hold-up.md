@@ -35,34 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft launches Azure Space Partner Community program"
-    excerpt: "Microsoft has launched a partner program focusing on partners with space-focused products and services, providing access to a range of support and benefits."
-    publishedDateTime: 2022-07-19T15:03:00Z
-    webUrl: "https://www.arnnet.com.au/article/699978/microsoft-launches-azure-space-partner-community-program/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vincentiu-solomon-ln5drpv_imi-unsplash.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Microsoft Unveils AI Powered Contact Center Powered by Its Nuance Tech"
-    excerpt: "During the opening day of its Inspire 2022 virtual partner conference on Tuesday, Microsoft revealed its latest intelligent contact center platform"
-    publishedDateTime: 2022-07-19T15:02:00Z
-    webUrl: "https://redmondmag.com/articles/2022/07/19/microsoft-unveils-ai-powered-contact-center-powered-by-its-nuance-tech.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/vsm_4appuitips2.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft announces simulator for autonomous aircraft development"
     excerpt: "Microsoft has unveiled a simulator for training autonomous drones, powered by Microsoft Azure to allow for millions of complex flight simulations per second. Project AirSim is the successor to Microsoft’s earlier AirSim,"
     publishedDateTime: 2022-07-20T13:11:00Z

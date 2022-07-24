@@ -79,6 +79,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "DALL-E 2, the AI that creates images for you, expands beta tests"
+    excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
+    publishedDateTime: 2022-07-21T15:15:00Z
+    webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
     excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
     publishedDateTime: 2022-07-20T18:31:00Z

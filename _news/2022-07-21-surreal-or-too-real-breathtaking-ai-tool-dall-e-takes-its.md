@@ -94,6 +94,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "DALL-E 2, the AI that creates images for you, expands beta tests"
+    excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
+    publishedDateTime: 2022-07-21T15:15:00Z
+    webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its images to a bigger stage"
     excerpt: "The lab behind the artificial intelligence art tool is giving access to up to a million people on its waiting list, just as worries grow about possible abuse."
     publishedDateTime: 2022-07-20T16:45:00Z
@@ -109,6 +123,6 @@ related:
         height: 437
         isCached: true
 
-secured: "zUoaRk7Hh+1OSJLeiOoALvgYDiFNSn/EfyQi5lDady+EtSXpE8NyAsgwmp5xoezXPhWVDnOusECK3+rrxsNhLhtTblfo5LhUYtbI9IgQFHb19voOlcg+a+AzJOeWLVeZU7tBoelZNfDg30uMTHLxXdo/SB6Q2KTTKJd0FAQMo3oxDlSveQbzL1BukGHgVshX6FUyaAHVWw6ApAaabAqNXQVpXo+CFX6h8gzee4KJDec+ATduvpG1449DmjGF3Ea86OuQR7XyAxejJrUPzJdfwSmHRG9anNOaa+tjwkAHvYi0GlTF8ArP1n1bYloveRcQyoU/eseI5YkOF5khl8qbwWhmWbpwo/NLSRCh1Gfn4og=;WbAx0wr7iPP5Vlo3fban+g=="
+secured: "SFrqMh3EX1DwL6G5NkxOqTCOKCmyLHIdm5aMzXIJel3uI4wgugPciQi+Q9wr2jWv03gRn55HDTgiAiC+z2SvIu9KtKWbCC5MrI8OYXwBayCdhu3cH3MiYhTcR0FvVZykgJNvM+QyLEfjyMO5yVstgS05An53ekLjqEJMALVR9ulIPJKY3aRRHu3ibk4nHJrLnTZbAlHMqrrmsDYsd/gmW00LoMrj5fLxfkqwfzNfr4tl39qFBMjVH/D0Mk0zKr3wb/XNugdQL6FoeNYNEqyWqg47mapDlvY3gXHahnFK7+fmFFS+8j4VS2HAhI7WEVwkyNHYW2pX6x7EfEliwsxKEtH4AUy3ACS8zp5gRqk7eieyzbC1UirgrGX9nhc2QrgRQ7KNdyx8D0hm1ICwheKmhrPGW+A+FTesqjjPksRt1OwKkWEgH5LSb7EfBJmXnP5XxShzAVfGOG3T4IQEd6qqnmV8u1cMve4GGC3BOAzTxlUtnXxC0OfTNCRnJU+9R6aDL13Se3N+8Uq1chDCSLq5QQ==;IdsOMgku5rMt1WDnLS1uSA=="
 ---
 

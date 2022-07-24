@@ -2,128 +2,27 @@
 category: news
 title: "As AI language skills grow, scientists worry about accuracy"
 excerpt: "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation."
-publishedDateTime: 2022-07-17T18:24:00Z
-originalUrl: "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-webUrl: "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-ampWebUrl: "https://www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
-cdnAmpWebUrl: "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+publishedDateTime: 2022-07-17T23:24:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+webUrl: "https://www.whas11.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
-  name: KREM
-  domain: krem.com
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://media.krem.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
+  - url: "https://media.whas11.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
 
-related:
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-18T18:06:00Z
-    webUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html"
-    ampWebUrl: "https://www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/ai-artificial-intelligence-technology-20220718.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: "https://www.inquirer.com/resizer/HGDdgqpzomUh_wmgbHKB3E_2Zo4=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/7JSTSJZPJPCYLOSKGSUINSXLNM.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "As AI language skills grow, so do scientists’ concerns about accuracy"
-    excerpt: "Most of the tech companies that built them have been secretive about their inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation, racism and other harms."
-    publishedDateTime: 2022-07-17T22:55:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/07/as-ai-language-skills-grow-so-do-scientists-concerns-about-accuracy.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YISDQUOIC5AVHLEH3SNZPD5OSY.jpg"
-        width: 5655
-        height: 3770
-        isCached: true
-  - title: "Big Tech builds AI with bad data. So scientists sought better sets."
-    excerpt: "BigScience is a global effort to build a more transparent, accountable AI, with less of the bias that infects so many Big Tech initiatives."
-    publishedDateTime: 2022-07-21T09:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 41
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440"
-        width: 1440
-        height: 987
-        isCached: true
-  - title: "As AI Language Skills Grow, So Do Concerns"
-    excerpt: "It’s considered one of the most advanced of a new generation of AI algorithms that can converse, generate readable text on demand and even produce novel images and video. Among other things, GPT-3 can write up most any text you ask for — a cover letter for a zookeeping job,"
-    publishedDateTime: 2022-07-18T14:03:00Z
-    webUrl: "https://www.manufacturing.net/technology/news/22340144/as-ai-language-skills-grow-so-do-concerns"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/AI_Scientist_AP.62d567ab383c0.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C53%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "As AI language skills grow, so do scientists’ concerns"
-    excerpt: "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-    publishedDateTime: 2022-07-17T17:48:00Z
-    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "As artificial intelligence language skills grow, so do scientists’ concerns"
-    excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty impressive at some things. But they’re not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
-    publishedDateTime: 2022-07-18T03:18:00Z
-    webUrl: "https://www.ibj.com/articles/as-artificial-intelligence-language-skills-grow-so-do-scientists-concerns"
-    type: article
-    provider:
-      name: Ibj.com
-      domain: ibj.com
-    quality: 37
-    images:
-      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "As AI language skills grow, so do scientists' concerns"
-    excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're"
-    publishedDateTime: 2022-07-21T04:27:00Z
-    webUrl: "https://www.butlereagle.com/20220721/as-ai-language-skills-grow-so-do-scientists-concerns/"
-    type: article
-    provider:
-      name: Butler Eagle
-      domain: butlereagle.com
-    quality: 17
-
-secured: "/+j9OsRNYXZpcc26BYIad/x4PxoXU9UNBtuIQxKz/sZk0sa25fi8qo7qlhbhJWjNnomtmbOkgLZ7TRAIdJ4ps9D1J6N89n/hCrXpUUJ+I+y2u6inZNxCrfQzUTK5ydzXIsC0H4KCNESngxoTIzzcmbmzI/wyhDXzCnilro0r9fFwMW8SbAFHq70+4ehC7y2MWWgcI5IpM6wQZXmDCCy6718d70KC5pJ823yAw3n1lkg2qsm2r8ULZdhy+nolq9rEbQ1OLfsKYAhZ4v3yoguNK0Wxei0igl3sGa/7A6NsHC1H41h4Vha7jpWmsoI6ZO5rn1MUP3pDRAkEtJdLQWpUscRtz6nNOlRVNRAWu1TO5V8=;+HyABuBF7gFwJSKa6PMKlQ=="
+secured: "rIgSUOOLR/pkeq3Gs0/Nllk5gKTKGl8TGW22tgZmlZo9LdCJ4/hirzgfv9zVwB6lKzS2yCgEGOtOe+Ue4qjeZSjVAGTfP3q9aNsxBy4o2zOOv7PGju6+5uBovpr4SFPEHtgyOBIYkw6eG0WDt22PeZUpgVEMd+22w3qNLBhmN9PQ/3cw0g45h6FiJcGwIh4ff/9qCsXDKylQmndPyhaq/z/Xvwd+5PSVoWp9hVASCmhrXrrC9AtaqG6t+6kotSNOFdfLL2sulJdY/iC5lFAKoX8nB3PQvIpuhlts7TGSt8vX4MDJyfochFmG58oVFn8f6HHor59dbsxHk+G8YrdmA3ebl7FXlE/CP+8SYdIeIuA=;avh67DkipTp5e3YRVGMWVw=="
 ---
 

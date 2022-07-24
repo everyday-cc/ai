@@ -20,20 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "ByteDance Forays into AI chips"
-    excerpt: "China Visual. BEIJING, July 19 (TMTPOST) – Tiktok’s owner ByteDance has joined other tech giants in China to design c"
-    publishedDateTime: 2022-07-19T16:37:00Z
-    webUrl: "https://www.sohu.com/a/569356439_116132"
-    type: article
-    provider:
-      name: 搜狐
-      domain: sohu.com
-    quality: 54
-    images:
-      - url: "https://p4.itc.cn/q_70/images03/20220720/ef43458916a7416ea55704913b440e40.jpeg"
-        width: 2500
-        height: 1668
-        isCached: true
   - title: "ByteDance hires for in-house AI chip development"
     excerpt: "ByteDance is developing its own artificial intelligence semiconductors to support its Douyin and TikTok service. The projects were revealed in job listings spotted by TMTPost, after which the company confirmed the chips will be customized to tackle workloads across its video platform,"
     publishedDateTime: 2022-07-21T15:36:00Z

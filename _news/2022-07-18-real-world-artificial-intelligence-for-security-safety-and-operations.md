@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Security
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg"

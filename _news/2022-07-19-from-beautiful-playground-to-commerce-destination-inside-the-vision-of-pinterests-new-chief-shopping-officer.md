@@ -1,14 +1,11 @@
 ---
 category: news
 title: "From ‘Beautiful Playground’ to ‘Commerce Destination’: Inside the Vision of Pinterest’s New Chief Shopping Officer"
-excerpt: "Pinterest’s role in the world of social media is blurry — consumers use the platform very differently than they do Instagram or TikTok, for example. But following a series of major strategic moves, the role Pinterest hopes to play in the burgeoning realm of social commerce is crystal clear."
+excerpt: "RTP talks with Julie Bornstein, new Chief Shopping Officer at Pinterest, about the role the platform hopes to play in social commerce."
 publishedDateTime: 2022-07-19T13:00:00Z
-originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
-webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
+originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions"
+webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Retail TouchPoints
@@ -18,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "ryu/kQTNxreqcQ7Nt9yjE7G7AWuFNleFnoEhDze7k5yyrM1Mz9BUU/WoNk6JvvP8vrh506AN7nhm9D+OhT9saFP+03jS1QPtoScgGSzFjjTr8Kvb1okQ8XJGPQ1dKxDZqxcMZpWFQBCBKiD4g4fanaQRZsRAkSCntl/CCmUxfdyIRpI4bhikzFeUbJ7o6DCie0JJY7HLnwXlpDPF3dIMSn0a7r1tbET4WJnGxQVzt4+Ikav0G+yPEn5Q6t4PYrh40Aoxd9ZPJfC7o6GixJwCOE0jse1dC6GVeaH/1pSO1WMqXH1YMVX7PqFzLrQAE0kSYGNbfdx/hTRwheHEge9p28AwTRaE1LZK9SkCni4W1AsrVhUw0b3RleCkpawwAy6pzJfW5vSLAWbYrrmnORl2SzbAQISjEcai6wttwY2kmDKrvlb+PKrYyi1HUn3mePajR7GEgL0LtzJiTgPLVftTI3EwykrvccMehmCEPl7ZavJHbWNbupEceipR01xqDAuDjEcWQu46irOPBvr2ZL60wg==;zVmZEKdCe3uLcfX5/uWBjQ=="
+images:
+  - url: "https://www.retailtouchpoints.com/wp-content/uploads/2022/07/1587616751003-300x300.jpg"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "UdQ7xLfAUZYw+gJ71K7Troocab3HNtglEAYTep5LVEcoZRf5+ymt9k8nQrCs2a1RbP6QCeJue/TxOfkuB3mW9k4Obocs7NVtr5bbzhNOs95pjgALIleqWeEvhSHmhxbXESat0CBeVa2iKe0QHyUWIrh0yRB53tdXZGPfYFQmlvU8DBNKg9F2jhtGxLup+01bpSq+5sxcOl2NCPKaZRUysBl2pYJk6dbvEb0eKpXavT+mXp2QfAb0JJgkSdtCClazLzJGSBYi9mPSKD3MtBZL2kEv6LHa0AdT4lZWCGj+wmNT0POXc49ciZCWS4vs+RTxTLhYipQ3RjZTTeMdxdm2QUUI6jAi2vuC8W/K/NYqpRo=;Ym716xCH3jfN7236wfg4bQ=="
 ---
 
