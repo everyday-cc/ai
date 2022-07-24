@@ -27,15 +27,6 @@ images:
 related:
   - title: "Facebook confident it can be ‘cool’ again"
     excerpt: "Facebook is facing an uphill battle to be cool again, according to Meta’s vice president of Facebook Tom Alison, who is optimistic that a combination of new AI tools and more short-form video content – dubbed Reels – will help the tech giant ultimately win the battle for eyeballs against the likes of Chinese giant TikTok."
-    publishedDateTime: 2022-07-20T02:09:00Z
-    webUrl: "https://www.thechronicle.com.au/business/facebook-confident-it-can-be-cool-again/news-story/ce59f03f8aa0660ef30500b7744d2538"
-    type: article
-    provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
-    quality: 19
-  - title: "Facebook confident it can be ‘cool’ again"
-    excerpt: "Facebook is facing an uphill battle to be cool again, according to Meta’s vice president of Facebook Tom Alison, who is optimistic that a combination of new AI tools and more short-form video content – dubbed Reels – will help the tech giant ultimately win the battle for eyeballs against the likes of Chinese giant TikTok."
     publishedDateTime: 2022-07-21T06:26:00Z
     webUrl: "https://www.theaustralian.com.au/the-oz/internet/facebook-confident-it-can-be-cool-again/news-story/b64c9fa37884817de49053889f33d96c"
     type: article

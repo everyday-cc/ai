@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australia remains an AI laggard, new report warns"
+    excerpt: "Australian companies are less sophisticated than their overseas counterparts when it comes to adopting artificial intelligence, McDonald’s bids for workers with $1000 sign-on bonuses; follow updates here."
+    publishedDateTime: 2022-07-24T20:23:00Z
+    webUrl: "https://www.afr.com/politics/australia-remains-an-ai-laggard-new-report-warns-20220725-p5b475"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1244%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/94c14cb850cffd990beaeee1b631238fbca1b380"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "v/600rh0z0vpYOCVSQPpgkfWvQJ3R6kpDh7XbqryEdV7NV54RS/AT5M8+i6AqLchP1uAWxVK5RZWPD0Dx8sq0InHbgz3xkwzbJl7iPpSiVGt88EiwCFvv/GqNFSSmdTL0yyZ4pjoBWNpuy9vg/tiECr+J1JZgpV+l8IZn5g/eN6s3QJk9tHI6FrP6acxWaPO7p+rU4ZzWjyURqFsBkvD7I4ntgzaPawG82lbfYHsrBUgE1z3A2fWAdmJ+0t2z5T4NQkKqoA1DzgNv14RjulxVc1Kii8xbjGnUvPlCdiqBNkpbiWqlgi6/yigz0svU9AuUxLGEjvsYtUOIr1qKYQ/5+t0iw/gE4AYzdelTOzEpguHM0DOtle4qiCt2EvNjg8/ZyhH31Xd6v00CzEZ0x1DKVHiApbh3gyYk360HP/8ieE6dsI7zAw+bsodaQgmBvZBvm9gHM7Fi1pTQobWIe2WFEiKcrASuuoPcfwljG+x5lHfICfCzDJ29abYzETIZQGy7kTDbO4ibfstwFz0SMV0CQ==;qKGP8+aF30FpfvNueMI+JQ=="
 ---

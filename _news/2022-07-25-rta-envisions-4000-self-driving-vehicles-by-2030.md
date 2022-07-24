@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-24T19:49:00Z
 originalUrl: "https://www.gulftoday.ae/news/2022/07/24/rta-envisions-4000-self-driving-vehicles-by-2030"
 webUrl: "https://www.gulftoday.ae/news/2022/07/24/rta-envisions-4000-self-driving-vehicles-by-2030"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Gulf Today

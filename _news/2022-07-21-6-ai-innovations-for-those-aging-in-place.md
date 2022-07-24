@@ -24,37 +24,69 @@ images:
     isCached: true
 
 related:
-  - title: "Transform 2020: Women in AI and AI Innovation Awards – the winners are"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! SAN FRANCISCO – VentureBeat is proud to announces the winners of the 4 th Women in AI Awards and its 4th AI Innovation Awards."
-    publishedDateTime: 2022-07-20T03:02:00Z
-    webUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/"
+  - title: "Why distributed AI is key to pushing the AI innovation envelope"
+    excerpt: "Learn why it's essential for companies to get distributed AI right, as model complexity continues to leap in magnitudes."
+    publishedDateTime: 2022-07-21T20:52:00Z
+    webUrl: "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/"
+    ampWebUrl: "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-21-at-4.46.37-PM.png?w=1200&strip=all"
+        width: 1198
+        height: 647
         isCached: true
-  - title: "Transform 2020: Women in AI and AI Innovation Awards winners"
-    excerpt: "VentureBeat’s 4th AI Innovation Awards recognizes and awards noteworthy, compelling, innovative and successful AI initiatives in five categories: Conversational AI, Applied AI,"
-    publishedDateTime: 2022-07-20T03:24:00Z
-    webUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are/"
-    ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are/amp/"
+  - title: "The future of AI is distributed … what that means"
+    excerpt: "Artificial intelligence and machine learning are disrupting every industry. Their impacts and integrations will only continue to grow."
+    publishedDateTime: 2022-07-21T05:20:00Z
+    webUrl: "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/"
+    ampWebUrl: "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/distritubed-computing.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI Is Key To Keeping Your Digital Services Running"
+    excerpt: "The right AI approach can make the difference between up and running and down and out. You don’t need us to tell you that times are weird. The perfect storm of Covid variant waves, war in Ukraine, unrelenting climate events,"
+    publishedDateTime: 2022-07-22T23:12:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/"
+    ampWebUrl: "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62db2cbccce38e50ba39dc40/0x0.jpg?format=jpg&width=1200"
+        width: 567
+        height: 305
+        isCached: true
+  - title: "How Artificial Intelligence is Changing the Real Estate Industry"
+    excerpt: "Artificial intelligence is changing the world as we know it, and the real estate industry is no exception. AI has already begun to impact how agents find properties for their clients, how buyers search for homes,"
+    publishedDateTime: 2022-07-21T20:58:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-changing-the-real-estate-industry/"
+    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-is-changing-the-real-estate-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-is-changing-the-real-estate-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/Screenshot-2022-07-22-015742.jpg"
+        width: 800
+        height: 447
         isCached: true
   - title: "6 AI innovations for those aging in place"
     excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
@@ -70,6 +102,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An AI-assisted analysis of three-dimensional galaxy distribution in our universe"
+    excerpt: "By applying a machine-learning technique, a neural network method, to gigantic amounts of simulation data about the formation of cosmic structures in the universe, a team of researchers has developed a very fast and highly efficient software program that can make theoretical predictions about structure formation."
+    publishedDateTime: 2022-07-21T18:27:00Z
+    webUrl: "https://phys.org/news/2022-07-ai-assisted-analysis-three-dimensional-galaxy-universe.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 12
 
 secured: "7brbLV1pxl39nRFU4UvIHHoMRRa0psQcUBhQHA+Kx92/aVA4541gzAyKtqd541x8ALAHcMfwPzdkvlecjnAPbaYWuJu3LFEsDygofQD4quqLe8lRdKEojP6Lj8KA0dQO8KvQy4cr8VxFpF4nv6AzmVe2JaAJBgDQBLx2r6hsfyFJsEAtEcAScj0ZhHrjPA80hp85x0a+iWv2PdoRM5HFdjCfJ+G4mp7gjTvpkvsCBl/nV9Ldh52EVcoaLKqEFMcpBHzM5tqPG/6OTeA2KRE/Uq2KPkBpH1BXDg2uOIQTAcF5Je+bwXJcedhtByunkMfflnewQfPnXvfED7efgx4ECpYg39GTUIEUHbXhv8FKpOI=;iuQWt8lsoKh2Gweiy1sGPg=="
 ---

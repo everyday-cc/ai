@@ -82,6 +82,34 @@ related:
         width: 800
         height: 447
         isCached: true
+  - title: "6 AI innovations for those aging in place"
+    excerpt: "The New York Office for the Aging recently partnered with ElliQ by Intuition Robotics to bring empathetic care companions into the homes of hundreds of seniors aging in place across the state. The robots proactively engage in conversation first,"
+    publishedDateTime: 2022-07-20T20:10:00Z
+    webUrl: "https://www.reviewed.com/accessibility/features/6-ai-robot-products-aging-place-home-care"
+    type: article
+    provider:
+      name: Reviewed.com
+      domain: reviewed.com
+    quality: 37
+    images:
+      - url: "https://reviewed-com-res.cloudinary.com/image/fetch/s--P1ct9kcx--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1658333804962/ai_hero.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "6 AI innovations for those aging in place"
+    excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
+    publishedDateTime: 2022-07-21T18:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/reviewed/2022/07/21/6-ai-robot-products-aging-place-home-care/10117116002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "phB0kZ0Bjt3ye3zMsxImSvLiBZ0Jugh99R4sp8nrYmmEyJnFQy5yyoJEWdetU69nseCV2xg5Gbgy078F6mO6rDgKozwyfhvInnSWEKf+UtNgddvgpGnv6h2FJaBmtc8kRepDWifKepRr9xAYwQC+wpMbW+FN7Gtg2BxdLIlfv3GYdmhx2CCuxFmWAkXHyG/Ksguby2pWs+u+zK8VD/EJZAZVMFYraQ9gT/8fZLdyA6DrPhn35KqiAqGoImhNU37anIav59HWMp20hUi3HZNxu0I1pTOKf99EPIYQhKTe5YfB1YOSOFuBIfwVD3B2FWpjMwMQ8YcwXOvix5z9EGvwRTpMtA85YW2kR+TVbJ3c4SOKFyHvf+k+NKh63eKoopNJ8k2fXbhXUXBq830cguZctBxmmtCizr0R4Dc3BWY8/Zb5Tjqq2g4YH6OzDicYmnELKxstfu8XCvzTrXGvUN8Sz2ILbogdJjzbEsHbURkW76Qc+M4NUZI1AJ8ZWYBvUOOY2qeUeorIIwDNSpys8yckWA==;ZeNHzV6pPfvFrXGd9JJQ8w=="
 ---

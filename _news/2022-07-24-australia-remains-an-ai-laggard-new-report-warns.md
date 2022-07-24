@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australia remains an AI laggard, new report warns"
+    excerpt: "Australian companies are less sophisticated than their overseas counterparts when it comes to adopting artificial intelligence, McDonald’s bids for workers with $1000 sign-on bonuses; follow updates here."
+    publishedDateTime: 2022-07-24T20:23:00Z
+    webUrl: "https://www.afr.com/politics/australia-remains-an-ai-laggard-new-report-warns-20220725-p5b475"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1244%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/94c14cb850cffd990beaeee1b631238fbca1b380"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google Partnerships Boost Cloud Value for Australian Firms"
     excerpt: "Australian enterprises adopting Google Cloud Platform (GCP) are turning to an increasingly sophisticated ecosystem of service providers to"
     publishedDateTime: 2022-07-21T12:22:00Z

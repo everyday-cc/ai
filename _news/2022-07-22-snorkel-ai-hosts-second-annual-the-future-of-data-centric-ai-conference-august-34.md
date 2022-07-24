@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Snorkel AI Hosts Second Annual The Future of Data-Centric AI Conference, August 3–4"
-excerpt: "Press Release Snorkel AI, the data-centric AI platform company, today announced that it is hosting the second annual The Future of Data-Centric AI conference for leaders of data science and analytics teams,"
-publishedDateTime: 2022-07-21T20:25:00Z
-originalUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/"
-webUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/"
-ampWebUrl: "https://venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-3-4/amp/"
+excerpt: "Snorkel AI, the data-centric AI platform company, today announced that it is hosting the second annual The Future of Data-Centric AI conference for leaders of data science and analytics teams, AI/ML practitioners,"
+publishedDateTime: 2022-07-21T21:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-21-snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-34"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-21-snorkel-ai-hosts-second-annual-the-future-of-data-centric-ai-conference-august-34"
 type: article
-quality: 61
-heat: 61
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-secured: "ZUP3vpHJ8K6KmRYgDuaHlcAvqO4ZhCY9fJ+/GvkgGIy/JUVP6I6tWDCSZt6eNMSxA4z9g7UkJ9XKsZyJEzi0BRhF/lEx/tDdJc61woCrR2/Rb7YcNTZvoECcvbdjRcgLq86A+12HrG0nyAPn0LS6q22QWeRQduah2DVhNa56FC+hDPMw+7bh8XdZHk67X2F2GMUczApIeQHUokJwKiCaK74Cdf5/oMiX3sqxHrHfiDbJbbB+Ibc/RC9bVwieWPhGGFKP3iKy9rmADveCaLsFq+gSbWkU5K6myzHufQoZIGPCcZ/ofpWFl//SrA/5dg9QyvpPEKcdK4PoLmmK4xlyZYlUjAQVNRJxBgGWJ1yRXYs=;X9aAZ/xkC64YY1Xz2cDRSg=="
+secured: "weOJDCKITp3bo454RhFxrfdcuJc7yJsrnibGCftxoryQL8uh/AfQ0iz6WjFbVkC2c7w35GvZ2tjR8uHzjuPzCGBPN0Vs0kF8AFB7W+yAHir+BdmBUkbslQ4TxdvsZUlVfGNLOwzjFd7jbTgIs9uMx617VDq/hTjaelVaah1Y1OtwdiOIK5a4zlpExACkSqUJmYJDl2aAge6689I2wOBs0x2KB2nMlZhVPctYAL8LXnxrEx9sAAwW6tM1myDJMrs8d2uWotAmCFhfvcnexGUzsBqElWxY7W2PBNeTUemtj+yRL1jQRkAqYfCfAWVRuyjYWvE6k2nJxu2xVlEhdix8bUb5S05VPX6bU0tpenjBfdI=;kFm81rEHLkmnn7dGSjtzHQ=="
 ---
 

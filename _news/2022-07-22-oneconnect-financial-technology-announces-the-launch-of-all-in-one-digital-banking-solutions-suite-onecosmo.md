@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/oneconnect-financial-technology-a
 webUrl: "https://www.asiaone.com/business/oneconnect-financial-technology-announces-launch-all-one-digital-banking-solutions-suite"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "OneConnect Financial Technology Announces Launch of Virtual Banking Solutions Suite"
+    excerpt: "OneConnect Financial Technology, the technology-as-a-service provider and an associate of Ping An Group, announced the launch of OneCosmo."
+    publishedDateTime: 2022-07-24T21:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/194010-oneconnect-financial-technology-announces-launch-of-virtual-banking-solutions-suite/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Brazil-Money-Reais-Brasil.png"
+        width: 658
+        height: 609
+        isCached: true
 
 secured: "I89HEzstWnO/Ny9ExfQFeBuroZx6u7a+KvaMrzRlfg9jbZ1Ll0KqNAXTBvsvIocLzetZp2AWcKFMavHndrbEdFxsSjrXOhIMEkXN1/1aprvfEBNeDv+kI6U1GkbSsNqzNoHg7NZ9HboTszwTXgC10CXFL3rJpPh2Sig5dUT37NdLcWerYwGVu7gpYJVD0HbeH0z9h5lWJZB3v4syqNyGncPLdiHJJlXtYAXxakgZcEgYHaBjD514oKFautr5BgDbvNmr9UyU0y15RORJ36ecqQKe8UC2+bDAxxDoMToKERXIJz9uV6Q1PYztT7sEeMM35azB+XYXfhXGaNVivnnCaely5JAgsWLLa5bwSc/jVsGBX8Uaa4g5ftxO8qaiVFWVoaQOr6ZgyD3BBO55QtzXKgoft1hMAhrpfzWizMqd0h5hJyAmLgwOcKtGC6kdQMB1ZCDZxS4emdFLhi6Q4f0/ce+/Ko+E6//pyqWNNmca1tmrD6FkRgqiwZkUPYerOTHd9fuJ6QGjdOHW3BO6YG6pXw==;T0DZsr+7nSTWpgu3TdyXEA=="
 ---

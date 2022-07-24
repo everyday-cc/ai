@@ -1,28 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
-excerpt: "New managed service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises environments Avalara, Foundation Medicine,"
-publishedDateTime: 2022-07-12T14:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
-ampWebUrl: "https://www.benzinga.com/amp/content/28035557"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28035557"
+excerpt: "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,"
+publishedDateTime: 2022-07-12T16:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-    width: 900
-    height: 594
-    isCached: true
-
-secured: "GRB97dO3KgSVvsvsZUZE1tNmR6sUZaodYjkp3WotZoTP5mQqAUEGBkYP1yNX9BETnYX9lTaxODGai8TCsgn9e/rZjOw8N3/q3S79lqlNI6y8osElUCGyhnqoozucEDJfHxBnwNe4jaE+tseHO+3KDiDI/wErFLQ1jYta0SsYpJvt+CENwgkTd6xNXXaTBjL8OsuhNC30xFs1rLkOVW9dPth01V1zCmNW8QcHx2HTN/eQiK8gbgjaK810DGV6we5XLiWPIblkcWyh4aGH78gx1iDnvjt7X47A8kH5vMeyIhctpqvjX2u3AlWlTF9Ra3qn4SZDEkiEDKPxpgCfNVpx2CJtBGnUA3VkYsxfFyVsD40=;qgX3S4xSYZQdN0wO6VzQ5A=="
+secured: "dsFjCbHZoP8pYreSJ7UDGbEnuRPuwWcLjeOp+n5TEcCbw7w57lMkNBF8LUcJ7pplqqlOQPbu7vlybbaPxQMAzPgbsqfxbol/2aLPfoYRTonVROQiuQezieMK9o8OXH7GTHkjzSJr8YkrorjJ9DYJ+kYaMe0cXRVqchYX14wT4z2KeJ3fO3yyY2XOkeHyJ8Xbyf4WhNDc5qdK3PJdMCA3ToQsQPK6WcUPj6bpD4vghkw2xp+c6D7XAxRSl5BStVl60HFRqRgjtl/7bkrqcHe/1P+hMDA0RmNWguyTMu3fXmCzpxDB7CNmDHH36anhMwJCtDoWj5ADrnNkJ8qyHMemAKIAUVwiW/iSFrY8ldm5wEA=;traufdsBrtLroSnNpjwHLg=="
 ---
 

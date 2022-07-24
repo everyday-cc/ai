@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "How Sports Techs is bringing the next business revolution with AI and Predictive Analytics"
-    excerpt: "Artificial intelligence (AI) has risen to the forefront as a result of the quick development of digital technologies and is now driving the current generation of online enterprises. AI is assisting many firms in making knowledgeable decisions to improve company continuity and efficiency by using predictive analytics to generate business insights."
-    publishedDateTime: 2022-07-20T04:49:00Z
-    webUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/"
-    ampWebUrl: "https://techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-sports-techs-is-bringing-the-next-business-revolution-with-ai-and-predictive-analytics/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 47
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-23-at-12.38.43-PM.jpeg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Zefr acquires Israeli AI firm Adverif.ai, bolstering technology-led approach to identifying and defunding misinformation"
     excerpt: "Acquisition provides additional machine learning, fact-checking and data science expertise to help brands avoid and measure misinformation across"

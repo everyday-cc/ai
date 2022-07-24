@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-siz
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-scope-present-scenario-key-vendors-industry-share-and-growth-forecast-up-to-2027"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,84 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027"
-    excerpt: "Europe healthcare AI market is reported to show promising growth during the forecast period of 2021-2027 with the rise in the demand and use of AI-enabled technologies in this industry. AI uses a combination of technology and human intelligence to enable different machines to carry out activities like automation,"
-    publishedDateTime: 2022-07-20T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20"
+  - title: "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com"
+    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market."
+    publishedDateTime: 2022-07-22T11:58:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Self-driving Forklift Market 2022 Recent Developments, Industry Insights, Size, Latest Trends, Top Key Players, Industry Share and Forecast to 2025"
+    excerpt: "Global “Self-driving Forklift Market” 2022 research report provides sales growth rate comparison by type, segment"
+    publishedDateTime: 2022-07-20T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-2022-recent-developments-industry-insights-size-latest-trends-top-key-players-industry-share-and-forecast-to-2025-2022-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market Size USD 92 Bn by 2030"
-    excerpt: "The global artificial intelligence as a service market size was accounted at USD 4.7 billion in 2021. The use of artificial intelligence in the form of service is expected to"
-    publishedDateTime: 2022-07-20T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28133745/artificial-intelligence-as-a-service-market-size-usd-92-bn-by-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28133745"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28133745"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
-  - title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
-    excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
-    publishedDateTime: 2022-07-22T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
-  - title: "Facial Recognition Market Is Anticipated To Reach $16.74 Billion By 2030 Report By AMR"
-    excerpt: "Facial Recognition Market Rise in applications of drones is expected to offer lucrative opportunities in the industry. PORTLAND, P"
-    publishedDateTime: 2022-07-23T08:47:00Z
-    webUrl: "https://menafn.com/1104578715/Facial-Recognition-Market-Is-Anticipated-To-Reach-1674-Billion-By-2030-Report-By-AMR"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/23/EP_732dfimage_story.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Medical Rehabilitation Robotics Market is expected to reach US$ 1.4 Billion by 2031"
-    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-    publishedDateTime: 2022-07-20T11:45:00Z
-    webUrl: "https://www.fmiblog.com/2022/07/20/medical-rehabilitation-robotics-market-is-expected-to-reach-us-1-4-billion-by-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 28
-  - title: "Global Artificial Intelligence in Healthcare Market (2022 to 2030) - Size, Share and Trends Analysis Report - ResearchAndMarkets.com"
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. Nuance Communications,"
-    publishedDateTime: 2022-07-20T11:47:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-global-artificial-intelligence-in-healthcare-market-2022-to-2030-size-share-and-trends-analysis-report-researchandmarketscom"
+    quality: 0
+  - title: "AI in Military Market Share and Future Growth Report by 2028 : Increased Government Spending in AI-Weaponry to Improve Defense Capabilities"
+    excerpt: "AI in Military Market Size is Projected To Reach US$ 13.7 Bn at CAGR 13.9% Over Forecast Period 2022-2028 \\| IBM, NVIDIA, Leidos. London, UK -- -- 07/21/2022 -- The study examines"
+    publishedDateTime: 2022-07-21T16:57:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-7-21-ai-in-military-market-share-and-future-growth-report-by-2028-increased-government-spending-in-ai-weaponry-to-improve-defense-capabilities"
     type: article
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 3
+    quality: 0
 
 secured: "Tsm/6V7N8A7KZAfULWqdpkDXhGsWa9SN2vygS/Cg7xp17rGFvuUPilisk+wt8l6fzzP+y9s1EBsOOitUPFJF6cqOmZaED/TuULcQOp5t/La0DKwCt3JPviD2954oi6Pjmo15Cz8d2vhLt2GxqmfHpH447fj9izHuq4cv1AGT+iCwak5Ll3eRQw94pu0OBGpvMYSbcOwpgCGIIWGym2LZjrZfrgpeFQJLL8rnfqt374Qu6tG7uqobXkyyUxxT1zcOW4thQ5gCGFBmxxwjGsOz1GFPfdcedpEXxYtThFrggMs++khocjlhph3P02LCP+wcTJ4LddICVj23WjiMIFuWRL0Psz/aWWh2u+vDfMOVuGc=;dhSc6zREQPD54hVAZ4qLYg=="
 ---

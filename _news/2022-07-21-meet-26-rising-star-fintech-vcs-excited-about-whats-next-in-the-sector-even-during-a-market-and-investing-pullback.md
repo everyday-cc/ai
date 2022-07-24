@@ -100,6 +100,48 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 36
+  - title: "Supporting financial inclusion in the fintech space"
+    excerpt: "What percentage of venture capital (VC) funding goes to Black, Latinx and female entrepreneurs? If you guessed somewhere near each group’s share of the"
+    publishedDateTime: 2022-07-20T07:45:00Z
+    webUrl: "https://www.cuinsight.com/supporting-financial-inclusion-in-the-fintech-space/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/10/bigstock-Mid-adult-man-relaxing-on-sofa-429391631.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Fintechs join forces to create digital financial planning tool"
+    excerpt: "UK-based data and payment platform Moneyhub and financial app Pennyworth have partnered to roll out a financial planning service. The tool has been developed by Pennyworth – who has applied for a UK banking licence – which will leverage Moneyhub’s APIs."
+    publishedDateTime: 2022-07-21T14:05:00Z
+    webUrl: "https://international-adviser.com/fintechs-join-forces-to-create-digital-financial-planning-tool/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 24
+    images:
+      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/digital-online-tool-elearning-tablet-search-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Why are Fintech Merger & Acquisitions on the rise in 2022?"
+    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
+    publishedDateTime: 2022-07-21T10:27:00Z
+    webUrl: "https://fintechmagazine.com/venture-capital/why-are-fintech-merger-&-acquisitions-on-the-rise-in-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "Why are Fintech Merger & Acqusitions on the rise in 2022?"
     excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
     publishedDateTime: 2022-07-21T10:27:00Z
@@ -128,6 +170,15 @@ related:
         width: 640
         height: 407
         isCached: true
+  - title: "M2P Fintech Acquires T-Hub Incubated SaaS Startup Syntizen Technologies"
+    excerpt: "Digital identity Solution Provider, Syntizen Technologies Pvt. Limited has been acquired by M2P Fintech, a Telangana’s T-Hub Incubated SaaS Startup."
+    publishedDateTime: 2022-07-20T18:02:00Z
+    webUrl: "https://www.indianweb2.com/2022/07/m2p-fintech-acquires-t-hub-incubated.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 4
 
 secured: "mh95xP6xWN3YP8RW/176Xws59usdyxesK+fRn4cHYDIW1pW4dntyw+eFeAT+47Atj6xwpAKhTeBclW79XI9uEgTP2ppqz/d5/NEWOsRxtlRQJy7MK9K86NiFhTutauxJmSAQCJs/g9m/RLuCCGNWAnWAFIifL+vqQNiwNwy5M5KW/gLREfhRaw7DAxh6s90ry+W96izkKAhuMQxiXeTzB2S0HXd1Sm/MJarpte5o579LAs/7Je2gCxQUrZfPpgBK7kXWXVg+HlEzAsSee8y5h012KAH2J2ugf8pEUWYKtCYYu1uYbTWlvoJCT2kISTk0U/wKqRQDJ2/yGo9o/EaJhoz3Jhkd0j6SpepT4fYMS0OK99hwExhw4LLpHjwcgbCDUYTTxpLEfQA77CLdND796PC77aBYJkqxhg8b8SGOGWdJJex4bxSdW35tqIYmE5CZmhp07zIu2evyNj9+l5fJVuthlV8FznOIJYKPGnY6f5hLR42etVd/oEvY1/3NsSzlOk6HlaHpRgyFKsaUJ5N11A==;NM6LvJIlIxV6M/AceFBwaw=="
 ---

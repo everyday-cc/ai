@@ -27,8 +27,8 @@ images:
 related:
   - title: "The ultimate retail experience starts with facial recognition"
     excerpt: "This eBook will explore biometric technology and how retailers can leverage it to enhance the customer journey without compromising trust and security."
-    publishedDateTime: 2022-07-22T22:36:00Z
-    webUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition"
+    publishedDateTime: 2022-07-22T22:34:00Z
+    webUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition-2"
     type: article
     provider:
       name: Biometric Companies
