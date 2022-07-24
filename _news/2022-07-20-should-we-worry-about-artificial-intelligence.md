@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intellige
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.wsj.net/im-586525/social"
@@ -45,6 +46,6 @@ related:
         height: 628
         isCached: true
 
-secured: "sSCOKKylEZw5snf5O6u8mDU1cg7kUYi8I6naAupXwQcGCkss4KKRqlJsagfEyOR8Dyn+a+H4bjep8hUCXs0HEl1dE7w297KIsIj22/OEkkzKBiIAWRe7vl5fxhNpGtSqQuRF+fLcQzrilvyGvoWBm76Ig8O5BH3oDMpwDEgBJ350S4Vr8itr/TgxY3vgJAhdPnYzDsDEr4K4vjo+qku3770JN7R0VEyQVIKdNWNdnsxuC7k+vLCKJY78PKrn5aMOlOu+nwKOZTkeojSzw5Mlwl9b+fwCuNdRLg73e/fC3q2nXvBagJZsHpUWRAzGrshNrHNooRjUfWkiO66KfRPWoDoQmWVlFw9plYrNsT3GKao=;OGbVLfH0K9zsQjl0VpwNGA=="
+secured: "3/vrgN8a97TV1vg2yFyBjJbaLRohXooJ4E43jVguGEOqrHhMqtmM3REXD5H4RjrDzmWd+uqm1uZBrgt9d5qlKHqIJ8U1tHrouq2A4Nfg7L6P5TXed2ATujbTNDCzz+HjOigPR4HiUr9r8jzagoGTmT2zyT/QeR662IWXnWfmXpavDj1A4XRYU0B0NrxqE9gZ7Kz3e7jg4z6aQhwI/00ETwDCDFYWnnt7peCpApvZge01lY5NLjG6vFqBfupgUoX/EwYX81wPg1u6wUbzIeZUuNaK1pGISKBBqlNTqqRzCiX2qWeslt/8mWI61ZoOVVYttXmwspKm7SKnCNtaYbx6D3MHs62qVP7PbBr8SLHnjCatlUOIMqa1lJ4AP37K7qTg5C9PcOknIZr4qfptcuZETWYapJkfjlUEb2+lKvU73dj/NSWagZZ7Fyp0GCJll31eruCnRaqr2kxuEVb6s9JWdt+i5R0QLFZ2IcHJOCeEOPPNvvfM186zFzFhaG6fKdKjMjH4sCnGrFjmiw9SObzMoA==;kUny+qzYMEj1KyzmXMNGbg=="
 ---
 

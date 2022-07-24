@@ -50,6 +50,15 @@ related:
         width: 1212
         height: 831
         isCached: true
+  - title: "UK Announces New Proposals for AI Regulation"
+    excerpt: "The United Kingdom (UK) has set forth new proposals for regulating the use of artificial intelligence (AI) technologies while promoting innovation, boosting public trust, and protecting data.  The new set of plans comes as the Data Protection and Digital Information Bill is introduced to Parliament."
+    publishedDateTime: 2022-07-20T19:00:00Z
+    webUrl: "https://www.unite.ai/uk-announces-new-proposals-for-ai-regulation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "+q7QBj0Aj0tVL5wF8EFEWXupOVbB2HcSObOHbtrjE3wNvfLUWIRNgs+JmwDrF1GjeNcn+gxjMOwuZo9H8mU2FR8rHze6uZyBdNGzGfDRh63bWJV1dEtkgC+MczUVZX3YqtVaMREhngKXkmy74JSktl8NI+ZWLzqAssZQ4l4W/iKiNlLwGCy7PCVxHKj+ZzZZFHgFvi5PdMkwREwyggIpsaMxo/wdc6YbDoJWaKvCHH3B6/KSy4l3kwdsHu9ssgGZEDc1U9AMFqHOcYhc5v7RN9BrDXfZLG+fPFQpfDUmFBRgHXSXzioh9yjtLsF/RH27x4dRKilFmS5mClv+oxLUcK18eoHzJD2+kwcxgQL8T0/Xn3LwzPVCbwSs/h9xZ9ZSzK9Zb6I9/SxT5OSeSFlXstAWTJLyojmmzHBocXIA+60RBDD7QwKhQolImGZw4x4C7CuvQiACJWsRTP8trVpnHz76kXkibpeXEESgE6+mLmAluzE9J3/Vr6vroLkpMwMcWGgti6vJ7ntSLwlfXO6ing==;JVc73sSaQj7nMewEdsMrsw=="
 ---

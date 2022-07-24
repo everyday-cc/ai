@@ -5,10 +5,12 @@ excerpt: "Google has fired an engineer who claimed an unreleased AI system had b
 publishedDateTime: 2022-07-23T14:49:00Z
 originalUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 89
+heat: 229
+published: true
 
 provider:
   name: CNN
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
 
 related:
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
@@ -219,7 +228,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "New Technology Gives AI Human-Like Eyes"
+    excerpt: "The technology might result in highly developed artificial intelligence that can instantaneously understand what it sees and has uses in robotics and self-driving cars. Researchers at the University o"
+    publishedDateTime: 2022-07-19T14:13:00Z
+    webUrl: "https://scitechdaily.com/new-technology-gives-ai-human-like-eyes/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Eye-Scan-Illustration.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
-secured: "Qzvy8bRLZEa1nmpWIRMz/mEbRLt9aNW2LmcgwmO3I/qr0YzFc4BRwchv71zOAfoJ5KoeQtpqegILhaGZydRiSCr3KVayz9SDzHGTiRVxbsZiv/0YzWVW027L4mqKzY3adrUnnnfRMGvATAkPFB/tkxmnKk6PLqT/VLfv/YIbCKpiYgQ5SO5mUIg8v1rFldgyk/nNeqDUE4MEIzmbSLtQelQ9DGrYwF9WqC96QGO8bQfC70+DDcXBbXIrwrzhap2WV4awppyjKrThwShpGVIhGnMcCqpywT37n8kSZNqRM7o9325TC3Qt+JRmMRYCSXHDpKU9UjGC9rFjLWkuBxfNSK26rN7p5TlyB1ult+1nn/JUvD85t1rKcsb32n2qXR5TBMMach0r5Pw701vAvBoM4mApMuhd17F12auzcfONnDFt1zkVWpeg/8+JZlsyhNwyUdBlq/Zwp+DnXaQe8jK/3TYZ1MPFgEvS+Xd723X5XrnQndUyxv67C0jM1cHoMIcRfSrPDg+mllj7g8XMMxMhuQ==;imqLQ4AsGhaQ2RY1HT+TPQ=="
+secured: "uHIAtzFcFrbut3z7sOrDQrLYbmNyKZHsmLOjUZb/LOFiUoM351Pol2XrrYXh1e5TGvX2bz7NCNMXVJqGJuUyPBYc2mpbymLLObJsJgTsiyb80fnmGUh3BrVMwKml5Ldh6i5b2bMhi2hDB32MUnh8gKYgMSuQmDu3etFbXsDJ1jvYzlVLVN0mU6rp+nm/WCLMS3aOhZDMwz0iHXiA6yaq3MftJl0bYlYLh/9gpwR2rOPFSbRRDB6a5+X7v0NizVQtp4JzrIHG+CydY6bVxe940Iwla8FebuCXTK+2hpnjOI6FW4nC4k8aUMqusQKQQtxN2Q8KGdKiRJrJv3BGUcwFnVWBL8RJ9nihZ/HX74HZNEQ=;I9Mmc6MRuBZRKqZcCr0KCw=="
 ---
 

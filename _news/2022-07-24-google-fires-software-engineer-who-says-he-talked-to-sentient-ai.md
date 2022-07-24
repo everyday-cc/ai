@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-23T14:49:00Z
+    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
     excerpt: "The engineer worried that Google's LaMDA AI had become self-aware. Google disagrees. On Friday, Google fired Blake Lemoine, a software engineer who went public with his concerns that a conversational technology the company was developing had achieved sentience."
     publishedDateTime: 2022-07-23T00:24:00Z
@@ -211,15 +227,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-    publishedDateTime: 2022-07-23T14:49:00Z
-    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+  - title: "New Technology Gives AI Human-Like Eyes"
+    excerpt: "The technology might result in highly developed artificial intelligence that can instantaneously understand what it sees and has uses in robotics and self-driving cars. Researchers at the University o"
+    publishedDateTime: 2022-07-19T14:13:00Z
+    webUrl: "https://scitechdaily.com/new-technology-gives-ai-human-like-eyes/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Eye-Scan-Illustration.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "EXBq2cbwJmM3rj/MyXKjXFjLhl4gvGnqcdat6NwNel2vdYniUv1z1LEbOrMpq+P/7CaUqD8Bt0bFWzvMi72+DdFCtpRhNOiTrV0GHwMbLNY/jZFMCgRodHBe1S+uXOD3+lNHBR9BsWBOSTy1X4hNQKdqEUC6Ba3sP1Khvthz6aKk/gJ2amsZ02V80iCEVJsab8qC+Hk5NG/dZEjM9823OBQA9O8xVzJzk4O/E7x+e7WIs53qGGxFHJlAjo/36vkVkOPeCk1W5btfOcSPw3aojCEvb4pQoQnamIGNzEr7E7aO/jtyO4CyG57Sy7RPC/LinFI632Gy1gQf5RemDpfJz8mQDnxTd+6n4TNPaDZWk+uDbeMxlREqoS6wi3VcxoUqSOfEMaEM0iaqOR9KL1vMBsuEuwg377IOF5E/k9zm24zJjQ+zzPvzQmY8aFaOAXjFHumEyj4KUHHxbOZAfS4Cdivix8w3Ay38Kq6KeB7mrTKPJ0GYnKYvpN+eB4uoIDP1/PCQvb1d5qfZwzgtp+wnFA==;P41QZcuy53z2VZOhXxCnxg=="
 ---

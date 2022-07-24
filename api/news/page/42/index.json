@@ -2,6 +2,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
+      "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
+      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-tesla-autopilot-and-other-driver-assist-systems-linked-to-hundreds-of-crashes.md",
+      "title": "Tesla Autopilot and Other Driver-Assist Systems Linked to Hundreds of Crashes",
+      "excerpt": "Teslas operating with Autopilot, the more ambitious Full Self Driving mode or any of their associated component features were in 273 crashes. Five of those Tesla crashes were fatal. The data was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/15/business/15auto-safety/15auto-safety-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html",
+      "publishedDateTime": "2022-06-16T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers.md",
       "title": "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers",
       "excerpt": "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En",
@@ -1034,111 +1120,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-demystifying-machine-learning-at-the-edge-through-real-use-cases.md",
-      "title": "Demystifying machine learning at the edge through real use cases",
-      "excerpt": "Edge is a term that refers to a location, far from the cloud or a big data center, where you have a computer device (edge device) capable of running (edge) applications. Edge computing is the act of running workloads on these edge devices. Machine learning at the edge (ML@Edge) is a concept that brings",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/demystifying-edge.jpg",
-          "width": 1241,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T13:37:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-procter-gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing.md",
-      "title": "Procter & Gamble Partners With Microsoft To Transform And Accelerate Digital Manufacturing",
-      "excerpt": "Cielica continued, “P&G and Microsoft both share a passion for data and AI and are working together to find innovative ways to apply those capabilities to transform the work we do together. This new collaboration uses Microsoft Azure data and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62aa368a0331ac091509c8a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
-      "publishedDateTime": "2022-06-15T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

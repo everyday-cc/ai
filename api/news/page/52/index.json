@@ -2,6 +2,93 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-06-10-nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola.md",
+      "title": "Nala Robotics launches fully autonomous pizzeria robot Pizzaiola",
+      "excerpt": "Nala Robotics' Pizzaiola uses artificial intelligence and machine learning to precisely replicate pizzeria-style foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
+      "originalUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-nala-robtoics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
+      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
+      "excerpt": "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-scientists-craft-living-skin-for-robots-made-of-human-cells.md",
       "title": "Scientists Craft 'Living Skin' for Robots, Made of Human Cells",
       "excerpt": "Japanese researchers covered a robot finger with a self-healing pliable sheet made of human skin cells. Why it matters. Helping robots resemble humans could impr",
@@ -1085,101 +1172,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-stmicroelectronics-and-sensory-collaborate-to-enable-mass-market-adoption-of-embedded-voice-control-through-stm32cube-software-ecosystem.md",
-      "title": "STMicroelectronics and Sensory collaborate to enable mass-market adoption of embedded voice control through STM32Cube software ecosystem",
-      "excerpt": "STM32 MCUs pair with Sensory’s VoiceHub technology to streamline development of voice-baseduser interfaces on wearables, IoT, and smart-home applications Geneva, Switzerland; Santa Clara, California – June 9,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-software-b76f59e513fafea1ccc8718393919956",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-software-b76f59e513fafea1ccc8718393919956",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-is-embedded-everywhere-at-walmart.md",
-      "title": "AI is embedded everywhere at Walmart",
-      "excerpt": "At Walmart, artificial intelligence and machine learning are embedded throughout the organization – from supply chain management and shopping to search.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/walmart-truckclose-up-side-view_129821854433586541.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
-      "publishedDateTime": "2022-06-09T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

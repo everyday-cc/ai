@@ -55,17 +55,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Microsoft launches project AirSim to help train drone AI systems"
-    excerpt: "Microsoft has unveiled AirSim, a flight simulator that companies can use to train and control drones. The simulator allows developers to imagine “what-if” scenarios that would be unsafe to test in real life – such as what happens when a drone’s view is obscured."
-    publishedDateTime: 2022-07-19T12:46:00Z
-    webUrl: "https://www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems"
-    ampWebUrl: "https://www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
   - title: "Microsoft Unveils AI Powered Contact Center Powered by Its Nuance Tech"
     excerpt: "During the opening day of its Inspire 2022 virtual partner conference on Tuesday, Microsoft revealed its latest intelligent contact center platform"
     publishedDateTime: 2022-07-19T15:02:00Z

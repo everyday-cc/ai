@@ -18,21 +18,44 @@ topics:
   - AI
 
 related:
-  - title: "UK AI guide released as data bill enters parliament"
-    excerpt: "The UK government has published a guide to artificial intelligence (AI) regulation and introduced data protection and digital rights legislation into parliament as part of post-Brexit data reforms."
-    publishedDateTime: 2022-07-19T11:16:00Z
-    webUrl: "https://www.research-live.com/article/news/uk-ai-guide-released-as-data-bill-enters-parliament/id/5101262"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5101262&name=uk-ai-guide-released-as-data-bill-enters-parliament"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5101262&name=uk-ai-guide-released-as-data-bill-enters-parliament"
+  - title: "Clarifai Announces New Free AI Collaboration Community"
+    excerpt: "AI Leader Extends AI Platform to Empower EveryoneNEW YORK, July 21, 2022 /PRNewswire/ -- Clarifai, the leading Artificial Intelligence platform"
+    publishedDateTime: 2022-07-21T14:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clarifai-announces-new-free-ai-collaboration-community-1031605063"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Run:ai Announces Advanced Model Serving Functionality to Assist Organizations Simplify AI Deployment"
+    excerpt: "Run:ai announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get"
+    publishedDateTime: 2022-07-22T09:55:00Z
+    webUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/"
+    ampWebUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Run-ai-Announces-Advanced-Model-Serving-Functionality-to-Assist-Organizations-Simplify-AI-Deployment.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Clarifai’s new community service aims to promote AI sharing and collaboration"
+    excerpt: "Clarifai Community, a free service aimed at promoting collaboration and sharing in AI. Clarifai is a well-funded startup that has hit upon the somewhat novel idea of helping companies use massive volumes of unstructured and unlabeled data to train AI models."
+    publishedDateTime: 2022-07-21T04:01:00Z
+    webUrl: "https://siliconangle.com/2022/07/21/clarifais-new-community-service-aims-promote-ai-sharing-collaboration/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/clARIFAI-COMMUNITY.png"
+        width: 1212
+        height: 831
         isCached: true
 
 secured: "9Iw1imM7kAJGU4NXZRMedJJF5ZUTO3hCWyFGqqnuLDoVtl0//TA4sdvmOvb0mVDF/iqC7/WpbNV3NKxB98N/uBQJIVZzub8sspsyOqx4USA2p6Kc4CPPC7Ng5vWvk6ER1rHke8n7soIbTZ+hPPiLHxdQpgAsnpJWGTlvjeglsd2t4IE4UKxKi35z5nBv2yeH2cOIlRJVSUHxsfGcvL3tPGOvWlisgBk4BBg1Kn/ePrPqw1CY58qZODKO1vP0N2UV/FHtosjRi++dUXw4X9jwgIAoZSetAvPa2Q/xTOIogh//3dna1xF/v/QkIyy6pqDTREzrc1x3zGy5WdImz9sVjzbH3+hfXze3FKNnUa/cjsEnyrYZn9JX9rUje4s8G9fO9U1wYAqpqbby20gQwRQFadM4B4qTQt0Mz0YmgllOJc29o5KWRZ0pV0yp+6S2igdip20e32o7QRNo17M3lxwSe8bmtMW5P2K5qRr0oMKloSzsdDaiwZj4yUpJgVERfUyeuwg/RPStZ63msnYzb7vY4Q==;DrAhO+4svYL1C04MUshyxg=="

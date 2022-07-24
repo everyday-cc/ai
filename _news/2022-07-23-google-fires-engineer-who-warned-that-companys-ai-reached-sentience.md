@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-engineer-who-warne
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
 type: article
 quality: 87
-heat: 217
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-23T14:49:00Z
+    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
     excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
     publishedDateTime: 2022-07-23T00:40:00Z
@@ -211,15 +227,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-    publishedDateTime: 2022-07-23T14:49:00Z
-    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+  - title: "New Technology Gives AI Human-Like Eyes"
+    excerpt: "The technology might result in highly developed artificial intelligence that can instantaneously understand what it sees and has uses in robotics and self-driving cars. Researchers at the University o"
+    publishedDateTime: 2022-07-19T14:13:00Z
+    webUrl: "https://scitechdaily.com/new-technology-gives-ai-human-like-eyes/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Eye-Scan-Illustration.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "qj/blBeka4cxh0A5EYWJNCLmyTQmlAmUQ0OosFyoCNU0JX6ofEUBtOEimjpEN2gRRlojZV5HUZG+q8IIKgzDwVwm/1RpRCc5PcMqPBIq8BBzDdSEFDPWw4NkhDRnkoPS/tAsyd6IcllFt96/gyjiqWZP7MSQuAnGk+jDHqByYjrLLE5RIByLCcPWfEAWyoUhWuuzWbESh2/1J8assTX0bEFEuj/fUKAL8hZmyzz+YIj2b1o6a8+JRItR1js0QRuYT1XUtDsR9/WC6EULiDoKX8sKaanS4Xy54S7AwseRe8gfjKDvZ3XCkCo8Ojo1mng2DIH1IMLxDhvZeOkkecliNBGPMBvxuoDafT+2aAovwBiLteIfCtsCpTSJP6tddG09SZYPG9o/SLyupvw65waBZxtyUPdjUHJx5KBQYMaaZ/IOAPON//GdBoRJyLNf2g03LxCH3MmZNKDYcjUxI7YuoMXW/A3LgneoA0/3ujZwNxlk5PV8iKQeZ+8UJXs9N6o8/vGNbG+f/QGsKKDc2j9CPA==;x6FiDLR9ESokqlH3/TgmXA=="
 ---

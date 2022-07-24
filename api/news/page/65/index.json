@@ -2,6 +2,101 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-06-01-vi-launches-aiml-driven-adtech-platform-vi-ads.md",
+      "title": "Vi launches AI/ML-driven adtech platform 'Vi Ads'",
+      "excerpt": "Vi Ads will enable marketers to engage with the operator’s over 243 million subscribers through digital media as well as traditional channels",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "originalUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/120585-main32.jpg",
+          "width": 730,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "publishedDateTime": "2022-06-01T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity.md",
+      "title": "AI in Fintech Market 2022-2030 Scope and overview, Growth Opportunity",
+      "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the AI in Fintech market. In order to comprehend a market holistically, a variety of factors must be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom.md",
       "title": "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com",
       "excerpt": "The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts,",
@@ -987,93 +1082,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-mariadb-and-mindsdb-raise-the-iq-for-cloud-databases.md",
-      "title": "MariaDB and MindsDB Raise the IQ for Cloud Databases",
-      "excerpt": "MariaDB Corporation  and MindsDB, the leader in in-database machine learning, today together announced a technology collaboration that makes machine learning predictions easy and accessible to cloud database users.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tensorflow-now-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow now defaults to Intel oneDNN AI optimizations",
-      "excerpt": "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-05-31T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

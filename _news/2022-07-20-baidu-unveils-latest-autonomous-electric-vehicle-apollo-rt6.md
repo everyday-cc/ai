@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
-excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
-publishedDateTime: 2022-07-22T02:10:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
-webUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+excerpt: "HONG KONG--Baidu, a Chinese search engine and artificial intelligence firm ... the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+publishedDateTime: 2022-07-20T00:00:00Z
+originalUrl: "https://www.asahi.com/ajw/articles/14675706"
+webUrl: "https://www.asahi.com/ajw/articles/14675706"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: 中国日报网
-  domain: chinadaily.com.cn
+  name: 朝日新聞社
+  domain: asahi.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
-    width: 720
-    height: 480
+  - url: "https://p.potaufeu.asahi.com/cc04-p/picture/26975022/f75a7b78d0e2586f8688213b70f6df3c.jpg"
+    width: 660
+    height: 440
     isCached: true
 
 related:
@@ -57,20 +57,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "HONG KONG--Baidu, a Chinese search engine and artificial intelligence firm ... the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-    publishedDateTime: 2022-07-20T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14675706"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/cc04-p/picture/26975022/f75a7b78d0e2586f8688213b70f6df3c.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
     publishedDateTime: 2022-07-21T15:32:00Z
@@ -98,6 +84,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220721vl200_files/3_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
+    excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
+    publishedDateTime: 2022-07-22T02:10:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
@@ -166,6 +166,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "eg03wfnd1AAh1PHW9k07Qxe0oyBs4dJ8VIQFy83hUGF2+Sjg9ECOmh/2qXWH2pnT3S7LC6U4WgvE1Wx37+mvnm69m+mlFMVmZMFhePBz5yFEns2qkstVkF1uOcOhDx8iaNw/+BE5WXul8LKZzR2IjRkYMuU1seVLRZMG4XDfuCzRmSht/1kcMBbTGfMdUx4SXCQt9Heyaa37XwZ31KArQrBbfp2xMAZIZyy7XXP3X5//e+BNsE8+s0Aagjd9BlrEhu4QB4eYGYrzhDKsZemNzrdkbmQev/xkVJzpDC61GbSdhzHPOB2EGxWe37QHjtjCTBivBbUqGT7U2L9Dhql2Ib+KYc9waeB3v4t/eFgtO92/RpP6xpGBBNiaBi9zWirnShCRXNFuIgIGFxXdcguO8U4S9N1feeVtlMoWj8ZM3vZ9dpuEvCWAj4fr3axVdsVBhoP5KncuvOC/jbL5rBG+/i3jZe0QqBdxGQ3S/XdHVLpF61xuoOmBMDzmrVjg1wlX9kyeZuh55XoR3d+Z8Y0ujA==;SsxmAeX5+mY6EZQrZfA57A=="
+secured: "W+DWzidE9s/v+UyaXpS5Rsuq83jSvynQhQFQ7iQenJBQC5SJ5cUWuKy37fcCjswNWWfl1QaQ76ryBBI5U/60mnN9XbEW+LNap6REF3/GA52WudQqjW80dKIHa1bUfBjaPPWvjIAHLpeGw4Bc6QPZ8pziH3DCAX2Eq8zZy5dfms+vPoJ5j+Gh42UpZ7byILswkG6NIm4YkEgmhKVjRDGtXi3XeEW0JsYVi3rDkuRXmYBAv9InmGGrY6Ww1KNv9NCK4B8LssQ2MjpUDQaSaeyCUr7Vi4ta0FGHbb2DaohrD9fzT1VEVfSKZQFukB1hWNB2TS9dnJmKFn0mnYbOwOd4XdPYlWitEmXlPp551nrX0LI=;xhczKZFhlqVst/2iyqNwGw=="
 ---
 

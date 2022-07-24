@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-micro
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Microsoft launches project AirSim to help train drone AI systems"
-    excerpt: "Microsoft has unveiled AirSim, a flight simulator that companies can use to train and control drones. The simulator allows developers to imagine “what-if” scenarios that would be unsafe to test in real life – such as what happens when a drone’s view is obscured."
-    publishedDateTime: 2022-07-19T12:46:00Z
-    webUrl: "https://www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems"
-    ampWebUrl: "https://www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/microsoft-launches-project-airsim-to-help-train-drone-ai-systems?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
   - title: "Microsoft reveals Azure Space Partner Community"
     excerpt: "Microsoft is expanding its relationships with space companies through the Azure Space Partner Community, an initiative unveiled July 19 at the Microsoft Inspire 2022 conference."
     publishedDateTime: 2022-07-19T15:00:00Z
