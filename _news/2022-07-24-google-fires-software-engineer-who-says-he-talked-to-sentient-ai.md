@@ -1,25 +1,31 @@
 ---
 category: news
-title: "Google fires engineer who contended its AI technology was sentient"
-excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-publishedDateTime: 2022-07-23T14:49:00Z
-originalUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
+excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
+publishedDateTime: 2022-07-23T23:04:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
+webUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
 type: article
-quality: 47
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkLdr1RvviY/v1/1200x800.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
@@ -100,20 +106,6 @@ related:
         width: 4480
         height: 2987
         isCached: true
-  - title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
-    excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
-    publishedDateTime: 2022-07-23T23:04:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkLdr1RvviY/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google fires employee who suspects AI sentience"
     excerpt: "Alphabet Inc’s Google said on Friday it has fired a senior software engineer who claimed the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware"
     publishedDateTime: 2022-07-23T22:28:00Z
@@ -180,7 +172,16 @@ related:
       name: CNN
       domain: cnn.com
     quality: 49
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-23T14:49:00Z
+    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
-secured: "Qzvy8bRLZEa1nmpWIRMz/mEbRLt9aNW2LmcgwmO3I/qr0YzFc4BRwchv71zOAfoJ5KoeQtpqegILhaGZydRiSCr3KVayz9SDzHGTiRVxbsZiv/0YzWVW027L4mqKzY3adrUnnnfRMGvATAkPFB/tkxmnKk6PLqT/VLfv/YIbCKpiYgQ5SO5mUIg8v1rFldgyk/nNeqDUE4MEIzmbSLtQelQ9DGrYwF9WqC96QGO8bQfC70+DDcXBbXIrwrzhap2WV4awppyjKrThwShpGVIhGnMcCqpywT37n8kSZNqRM7o9325TC3Qt+JRmMRYCSXHDpKU9UjGC9rFjLWkuBxfNSK26rN7p5TlyB1ult+1nn/JUvD85t1rKcsb32n2qXR5TBMMach0r5Pw701vAvBoM4mApMuhd17F12auzcfONnDFt1zkVWpeg/8+JZlsyhNwyUdBlq/Zwp+DnXaQe8jK/3TYZ1MPFgEvS+Xd723X5XrnQndUyxv67C0jM1cHoMIcRfSrPDg+mllj7g8XMMxMhuQ==;imqLQ4AsGhaQ2RY1HT+TPQ=="
+secured: "jDAc5gXODxcq+NOq4OzcWS6RzofiKOKf2lWtH/5aXby2U+hY7nWtRrlg1vvdfh6BiE5J258PszNvZZmVqzdcN7vF9HA9SbgX+pao/4DuI2+whXhD2Z5c3jCJEWMqoExEmu/t/5GdP4Reqyx49/Yokml96/kCrVv40dnH98qB3A4ZAIJWPgD4boCTiTBJmOyViBPNEdYwP0D+2P8Pq9WofWpH1wtvKQE6Ef6VM8vXUS5A+CP8FLnHcYCuzk61zLvBnk5H2zXMFd6cq+VfX8bHvpq4A7uXXsA3gix+zQkI9+Uqb1Xdyl15N21C+ZfUTYOYSUXSAnhpGajc52SVgqnnGwez9grA2379ZTtrlTQZ3ig=;yFm6CNmLCaf+kf7sKlqrSw=="
 ---
 

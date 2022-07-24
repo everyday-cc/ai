@@ -10,7 +10,7 @@
       "originalUrl": "https://www.itweb.co.za/content/KzQenMjy86a7Zd2r",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -41,50 +41,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
-      "title": "Don’t get too emotional about emotion-reading AI",
-      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "publishedDateTime": "2022-07-22T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "Microsoft AI"
       ]
@@ -1382,6 +1338,40 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
+      "title": "Cognitive impairment predicts outcomes for ICU survivors",
+      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

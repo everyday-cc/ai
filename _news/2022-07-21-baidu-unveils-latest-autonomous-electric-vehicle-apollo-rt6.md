@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
-publishedDateTime: 2022-07-21T12:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+publishedDateTime: 2022-07-21T04:07:00Z
+originalUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WOKV
+  domain: wokv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
@@ -150,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "sYPAN8hFXOByagnKoZhrxfdZOYvvDSaVQeggw+sqnX0MayPo6a8U8+KDd3BkWHN4xOd5i9jSs+im9A63Tf/KoUxHGAvV+S8pAgbU02rrH0On6v/AC7PTwq6tqouUYgOonkEOQ7b+ZLcYRyuinDR7rY+ZVo2DwWGFiiy4VpZUnNVu19PposFJYUiiYdYumfQY3mTe8VXz+6cZotqOvmqcWq98ajmZTYwBQTJmk1Mjp3mxKYbExu0ix/uWDmJ295jyuNDayNUuAbz+6xECXvKxLl0BAmMTSRShqy7Lk7iC4KAdg/lGjwTuqSgTYpmG6JArCP9ehxJvqK8Ils7Wsu/OTjuZGRISXVoCOvSZTrmDuM0=;S/DX1hfNdisrAV0JfJdp5g=="
+secured: "Op+x2Aj55mCiQqG4b71fIbFgOoTYPeyXwvnhFzSNR77qB4UzLD6kn3cXFtgB5q9WzAFW4aZ5+NfN8Jr3xB59hPj8Td7WxyUg7Jhz2KcfAiPT2uHrCJ0CSICJ/9SdmsWV1o8kpuvm/As9qu03nA5YtuH/Rq+Ha2aUlOL05dNSk6IrJOaa7FETLkSaKtj3YvtIJ6fuGqOfcil6OJY1jQ8l2Zz1nELT8PekCtsdDXyAmFteWB/78BEXBpOuJIZjp9o5w040gVtiht8FC+APbA8LlKNVMKPQfz/wqrd0f80Dj5AXhWtdIFvDAAyvAtbkqh8xD5KfaGbwrZOkdB6ix7oPSoWf8/nok0Skv8O93RH2xyU=;ctt+XQ7r8/LzuXstt7cvmg=="
 ---
 

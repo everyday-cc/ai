@@ -2,6 +2,101 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
+      "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
+      "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
+      "originalUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Df0KQS_Dox8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
+      "publishedDateTime": "2022-05-12T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-texas-illinois-facial-recognition-laws-lead-to-instagram-filter-ban.md",
+      "title": "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban",
+      "excerpt": "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on",
+      "sourceUrl": null,
+      "webUrl": "https://bossip.com/2132998/meta-filter-ban/",
+      "originalUrl": "https://bossip.com/2132998/meta-filter-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80",
+          "width": 560,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bossip.com/2132998/meta-filter-ban/amp/",
+      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/",
+      "publishedDateTime": "2022-05-12T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bossip",
+        "domain": "bossip.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-family-size-may-influence-cognitive-functioning-in-later-life.md",
       "title": "Family size may influence cognitive functioning in later life",
       "excerpt": "A new study at Columbia University Mailman School of Public Health, and the Robert Butler Columbia Aging Center and Université Paris-Dauphine – PSL, found that having three or more versus two children has a negative effect on late-life cognition.",
@@ -1068,92 +1163,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030.md",
-      "title": "Artificial Neural Network Market | New Business Opportunities and Investment Research Report 2030",
-      "excerpt": "Furthermore, increasing use of artificial neural network in IoT and data analytics is expected to provide lucrative opportunities to the growth of the artificial neural network market. Major ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google offers a more modest vision of the future",
-      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
-      "publishedDateTime": "2022-05-11T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bdnews24",
-        "domain": "bdnews24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

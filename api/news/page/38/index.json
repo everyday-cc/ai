@@ -2,6 +2,83 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-06-20-robotics-ai-innovation-is-the-way-forward.md",
+      "title": "Robotics & AI – Innovation is the way forward",
+      "excerpt": "The latest edition of ET UNWIRED in association with NTT DATA included Thomas Normark, Global Head of AI & Robotics, NTT DATA Business Solutions, Denmark, Vikas Desai, Chief Technology Off - Mediawire",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/msid-92332662,width-640,height-480,resizemode-7/unwired-ntt-28th-april-800-x-600.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
+      "publishedDateTime": "2022-06-20T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-serial-entrepreneur-anoop-ambika-is-new-ceo-of-kerala-startup-mission.md",
+      "title": "Serial entrepreneur Anoop Ambika is new CEO of Kerala Startup Mission",
+      "excerpt": "Artificial Intelligence, and Machine Learning, Life Sciences, ideation, and entrepreneurship. The Government issued the notification appointing Anoop in the position for a period of three years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/",
+      "originalUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/amp/",
+      "publishedDateTime": "2022-06-19T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence.md",
       "title": "The Chinese Tech Firms Pushing Boundaries Of Artificial Intelligence",
       "excerpt": "It is Baidu’s driverless car projects that could ... According to the Boston Consulting Group, the global market for vehicles with self-driving functions could reach as much as $77 billion ...",
@@ -1064,100 +1141,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-this-simple-cognitive-bias-can-have-serious-consequences.md",
-      "title": "This Simple Cognitive Bias Can Have Serious Consequences",
-      "excerpt": "Recently, I became acutely aware and impacted by left-digit bias. At first, it seemed benign—a few letters and a freebie from the AARP—but then the discriminatory communications began to roll ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/shutterstock_76962058.jpg?itok=H-th-Vwo",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp",
-      "publishedDateTime": "2022-06-17T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-intuit-ceo-ai-is-fueling-innovation-for-our-customers.md",
-      "title": "Intuit CEO: \"AI is fueling innovation for our customers\"",
-      "excerpt": "Sasan Goodarzi says AI will \"revolutionize experiences\" for Intuit customers.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Intuit-CEO-AI-is-fueling-innovation-for-our-customers/ff597607-9f3b-4566-9d26-86cf3681c30e",
-      "originalUrl": "https://fortune.com/videos/watch/Intuit-CEO-AI-is-fueling-innovation-for-our-customers/ff597607-9f3b-4566-9d26-86cf3681c30e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/ff597607-9f3b-4566-9d26-86cf3681c30e/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/intuit-ceo%3A-%22ai-is-fueling-innovation-for-our-customers%22/ff597607-9f3b-4566-9d26-86cf3681c30e/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/intuit-ceo%3A-%22ai-is-fueling-innovation-for-our-customers%22/ff597607-9f3b-4566-9d26-86cf3681c30e/amp",
-      "publishedDateTime": "2022-06-17T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

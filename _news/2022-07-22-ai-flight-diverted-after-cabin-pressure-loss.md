@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/nation/ai-flight-diverted-after-ca
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/ai-flight-diverted-after-cabin-pressure-loss-414553"
 type: article
 quality: 57
-heat: 81
+heat: 77
 published: true
 
 provider:

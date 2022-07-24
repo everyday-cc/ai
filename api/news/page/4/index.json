@@ -2,41 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
-      "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
-      "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
-      "originalUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
       "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
       "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
@@ -949,8 +914,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?291191",
-          "width": 445,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?488870",
+          "width": 333,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1178,6 +1143,58 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-the-imperative-need-for-machine-learning-in-the-public-sector.md",
+      "title": "The imperative need for machine learning in the public sector",
+      "excerpt": "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "publishedDateTime": "2022-07-17T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -42,20 +42,20 @@ related:
         height: 314
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
-    publishedDateTime: 2022-07-21T12:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+    excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+    publishedDateTime: 2022-07-21T04:07:00Z
+    webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+    ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: WOKV
+      domain: wokv.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
@@ -150,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "/NIqYaEG01y2mTQkCJesmTfZcFtPdi1o1zC7m8t4O0y5D7cfdj8WY7OYkZcE/l+xvuZelralrVh8M/POowSLLnRuwO0CX5zA3jCbpTJ+s8ujtCj+gXdhfGuuhJSzm0xLGisbacCSVAiT/A270WSUTrqc+755thKWuBkKcRXviKbGqz7O1m/7FvxFt5xDuKCftgj6N/0WjNbxyjr6+AX2ctQz5mugge23/SbR/9+33qQU4ztU2rz+UPmJtRuzI7fqQVE5omP7SgxLGYo6++6PsHyK+PsG9jIju6RIXUjYR0CdrTpUp+XZc7BGWSeBtQ2r3eEMnwJeWny0WlJs3BCn2U6otgIqD9Q4jCXf5K5HpVs=;bYkORNX1Uwjtg1MdgRAIWQ=="
+secured: "SRveu5QK9d+W37Q5PQ5l5wGZCQuOFVd1wpV/aMfQoASITU7bxRDpjOc1tzf0H5fOwM8LeQTjFngDeuyhpryyUlLH2QIinj2sY53RJOzx6sSi1Qcb3PG1dnHfdBBVqiRHu3GXcKz3PYUQeLqjes5TSLW81yExCTsPGRvSj5kQqpyUwvCfcEKLSiLXQXJ3vtIPPhqz0+ZK1UhR0MxWElxAs2FGExo766SZVUMP29z1OSE5OQ6Ej77MfSXWacl0FYTXVh0KV8R8JzC2gMPsXSxw+2taZzsGnrRtYJZLvuAEDPDCL+V8TcNQllaI5qXNsKf+1udkNPiEEewPRW+nxiMK9egWPByOS23eXeiqk5mQaHE=;VBQzl5ZT8ub0MiRARIbBvA=="
 ---
 

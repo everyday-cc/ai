@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
-      "title": "Gmail is getting a machine learning boost for smarter searches",
-      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
-      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
       "title": "Localize content into multiple languages using AWS machine learning services",
       "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
@@ -1215,6 +1163,41 @@
         "AI in Autos",
         "AI in Robotics",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
+      "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
+      "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "originalUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

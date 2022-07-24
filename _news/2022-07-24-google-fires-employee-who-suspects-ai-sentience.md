@@ -1,25 +1,30 @@
 ---
 category: news
-title: "Google fires engineer who contended its AI technology was sentient"
-excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-publishedDateTime: 2022-07-23T14:49:00Z
-originalUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+title: "Google fires employee who suspects AI sentience"
+excerpt: "Alphabet Inc’s Google said on Friday it has fired a senior software engineer who claimed the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware"
+publishedDateTime: 2022-07-23T22:28:00Z
+originalUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/"
+webUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/"
+ampWebUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
+cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
 type: article
-quality: 47
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NewsNation
+  domain: newsnationnow.com
 
 topics:
+  - Facebook AI
   - AI
+
+images:
+  - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
+    width: 509
+    height: 339
+    isCached: true
 
 related:
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
@@ -114,22 +119,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google fires employee who suspects AI sentience"
-    excerpt: "Alphabet Inc’s Google said on Friday it has fired a senior software engineer who claimed the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware"
-    publishedDateTime: 2022-07-23T22:28:00Z
-    webUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/"
-    ampWebUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
-    type: article
-    provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
-    images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
-        width: 509
-        height: 339
-        isCached: true
   - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
     excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
     publishedDateTime: 2022-07-23T09:19:00Z
@@ -180,7 +169,16 @@ related:
       name: CNN
       domain: cnn.com
     quality: 49
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-23T14:49:00Z
+    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
-secured: "Qzvy8bRLZEa1nmpWIRMz/mEbRLt9aNW2LmcgwmO3I/qr0YzFc4BRwchv71zOAfoJ5KoeQtpqegILhaGZydRiSCr3KVayz9SDzHGTiRVxbsZiv/0YzWVW027L4mqKzY3adrUnnnfRMGvATAkPFB/tkxmnKk6PLqT/VLfv/YIbCKpiYgQ5SO5mUIg8v1rFldgyk/nNeqDUE4MEIzmbSLtQelQ9DGrYwF9WqC96QGO8bQfC70+DDcXBbXIrwrzhap2WV4awppyjKrThwShpGVIhGnMcCqpywT37n8kSZNqRM7o9325TC3Qt+JRmMRYCSXHDpKU9UjGC9rFjLWkuBxfNSK26rN7p5TlyB1ult+1nn/JUvD85t1rKcsb32n2qXR5TBMMach0r5Pw701vAvBoM4mApMuhd17F12auzcfONnDFt1zkVWpeg/8+JZlsyhNwyUdBlq/Zwp+DnXaQe8jK/3TYZ1MPFgEvS+Xd723X5XrnQndUyxv67C0jM1cHoMIcRfSrPDg+mllj7g8XMMxMhuQ==;imqLQ4AsGhaQ2RY1HT+TPQ=="
+secured: "cH0Ux8lr2jjC6Fzju4Y6w0T9Lkj/sSeQNJ+HqA+yStTwTElEZIPvkCksGZA3bvNFkNjvjsT3Zr9qHWq1mwWocJXwf2v2IJeRblWHXdQX7BJ0i2DzvCn1apA0Jcd/ODJSyiYZG+2rqhg10ow4mVxxMXA57XyKzxDbCcefUz/wX5yfWeSEiclQz7oBvXph4T0aKfmrKp6vBy5HLRct7gv2Osn+ewrI+h2MrQWpwFCju1XPY/EXGks0IqFSBSow+iyaQfexLcYnCiO685wHafiF/aZSym/JUYJN8Ps8pHQrpaeDW6FJ2/fvaQGQiRJNOW4NfHPZY2S59lg/TLp2nSkBwtYC+NtER8UOL9dQ4xkp/jA=;EMBZm3ua7z1hKl3yKxg1Ag=="
 ---
 

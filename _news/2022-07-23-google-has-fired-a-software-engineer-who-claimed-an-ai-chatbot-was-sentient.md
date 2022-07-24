@@ -88,6 +88,36 @@ related:
         width: 4480
         height: 2987
         isCached: true
+  - title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
+    excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
+    publishedDateTime: 2022-07-23T23:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkLdr1RvviY/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google fires employee who suspects AI sentience"
+    excerpt: "Alphabet Inc’s Google said on Friday it has fired a senior software engineer who claimed the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware"
+    publishedDateTime: 2022-07-23T22:28:00Z
+    webUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/"
+    ampWebUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
+        width: 509
+        height: 339
+        isCached: true
   - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
     excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
     publishedDateTime: 2022-07-23T09:19:00Z

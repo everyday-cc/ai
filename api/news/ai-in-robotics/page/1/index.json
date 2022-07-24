@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-24-how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities.md",
+      "title": "How drone autonomy unlocks a new era of AI opportunities",
+      "excerpt": "Autonomous drone technology lets us digitize and analyze the physical world, observing and improving our world’s critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1319586125-Anton-Petrus.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "publishedDateTime": "2022-07-23T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market.md",
       "title": "Rising Demand for AI Powered Robots in Industrial Automation Drives Artificial Intelligence (AI) Robots Market",
       "excerpt": "The rising use of artificial intelligence in robotics sector is propelling the growth of the artificial intelligence (AI) robots market. The manufatcurers and product designers from the robotics manufacturing sectors are focusing on the investing in high-end hardware solutions that are enabled by AI technologies.",
@@ -54,7 +106,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1362,58 +1414,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
-      "title": "The 35+ Best Amazon Prime Day 2022 Deals",
-      "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2022/07/early-prime-day-2048px-3x2-v6.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "publishedDateTime": "2022-07-11T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

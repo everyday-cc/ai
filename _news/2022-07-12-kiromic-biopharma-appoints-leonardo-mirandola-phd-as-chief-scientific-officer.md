@@ -3,12 +3,9 @@ category: news
 title: "Kiromic BioPharma Appoints Leonardo Mirandola, Ph.D. as Chief Scientific Officer"
 excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,"
 publishedDateTime: 2022-07-12T12:19:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-dcc2bb25c1394d2db9c0c22ef3952241"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-dcc2bb25c1394d2db9c0c22ef3952241"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Associated Press
@@ -24,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "9QAzUX6KgTGe94LrpIUxAfiH3Ii2uprKJYnZ/C4syIyJW6eJWEylHRNUIN1h2FAAFX8JxmnrjYgcyufaWTtsTL+ayPvhjzqJZoTV2ZG2AP/TKbBX8po2ypC3iAjTiO7+PHdBv2YCqDy9IWvAssyId+AQR5w+lq6uSRl/F3hIDIRQdTAUeqvOVka6phzdNCFmlfBrme7N9zgPyaram+38zrPaPasUuUBHSkz/AM6TCvGNy+niqcRBwOv31fhoTKjWg7TtWgiyjNvwcl97i3urZXOUb85BpFPaA6dP2QXXF/dnpr9i+1Ba/PnBj679Ol71C/fHADMbLKBwl5r+b1YhFdJPxVi8OZGSFtZ4LNIkP88=;B9uDSpmu6XbNxGGkf9lvAA=="
+secured: "M23O5bFPYd68Kb9kW2fSFfrhQQ16Q5IiDLsKbcTsI7H23CgcypS9lirkJLZd8/1HTT0uDUa0kxn8OgPTBdY3DjTyYaBjmBk/2ZFz7J/web51mxoYPKaNFgWA64BL0UL9NfuLlK/RyMOlXX5fpxL2DPJTSwTSvPyTSoy0dAV9yPkzrMtPEUh1uN54OtzGDbKKj7rRCxsbk5KIOWtrakJGgyAniye1O8UK0jVsPEHGsYTkKFG3qwM4lXjusvXxk1WxpN4AW4A5pV9TvNmiBPqd/630GTpbKL6EjY7aFaBoz6WUkvqP2IUgU4hl6SP+WynQC0IbYqGbSMnMCXzUM/17hgZYeELFbIljaG9V390c8yI=;cLsFeFr5Z/YcM55G4unHiQ=="
 ---
 

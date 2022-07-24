@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evalua
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
 type: article
 quality: 101
-heat: 102
+heat: 101
 published: true
 
 provider:

@@ -243,8 +243,8 @@
       "title": "Should We Worry About Artificial Intelligence?",
       "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines",
+      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
+      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -596,6 +596,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-16-bacteria-based-biohybrid-microrobots-on-a-mission-to-one-day-battle-cancer.md",
+      "title": "Bacteria-based biohybrid microrobots on a mission to one day battle cancer",
+      "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html",
+      "originalUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/bacteria-based-biohybr.jpg",
+          "width": 2880,
+          "height": 1383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp",
+      "publishedDateTime": "2022-07-15T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
       "title": "How artificial intelligence (AI) affects business executives",
       "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
@@ -796,6 +839,92 @@
         "AI",
         "Google AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition.md",
+      "title": "Medtronic announces co-promotion agreement with CathWorks, with path toward acquisition",
+      "excerpt": "In contrast to traditional FFR, the FFRangio System combines artificial intelligence (AI) and advanced computational ... Fractional Flow Reserve–Guided PCI versus Medical Therapy in stable coronary disease. The New England Journal of Medicine 2012 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "originalUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/custom/image/8f842262-b887-11e9-b93f-572c463bdda4.png",
+          "width": 660,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho State Journal",
+        "domain": "idahostatejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-kiromic-biopharma-appoints-leonardo-mirandola-phd-as-chief-scientific-officer.md",
+      "title": "Kiromic BioPharma Appoints Leonardo Mirandola, Ph.D. as Chief Scientific Officer",
+      "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1221,164 +1350,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
-      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
-      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "publishedDateTime": "2022-07-07T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029-exclusive-report-by-meticulous-researchr.md",
-      "title": "Artificial Intelligence in Medical Diagnostics Market Worth $9.38 Billion by 2029 - Exclusive Report by Meticulous Research(R)",
-      "excerpt": "AI in medical diagnostics consists of AI software and services that aid healthcare professionals in identifying the diagnosis of different diseases. AI-based software solutions can analyze the data from a diagnostic procedure and either help triage patients by flagging abnormal medical images or suggest the healthcare professional a suitable diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031.md",
-      "title": "Healthcare Artificial Intelligence Ai Market Size, Share, Growth and Trends, Forecast to 2031",
-      "excerpt": "In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Healthcare Artificial Intelligence (AI) Market Report The Healthcare Artificial Intelligence Market is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

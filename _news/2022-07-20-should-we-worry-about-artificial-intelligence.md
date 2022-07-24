@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 628
         isCached: true
 
-secured: "zx+RJQ2JALkgeHPF0O/p/O+BHguUWh3+nbmx2OHgGKiPGTCZ/OtcLiN3Igr72ohHfiiUBLH/ttvY3MJZILDX5iyHH6CGgpbFo1uXQ3Rgz64k0GBr5s2octW9IDzrbEvqkC5/Pjhv6Tf5joBogLNMvRibNSEkI1huB6xxl23XgXZOBzyhXnaY8NR0p4dKOU1psASHkL2jKpyIEWBJRAxS9xTGjD0lLAU2OlWiCOJtPi5AJuEJml5cUo6Q5Aujhk5zFxzbA/auY3eypINewZvUv9UB8CMq5ol2fE2dYMLSxnJhxtoHow0kF2mCexXdP6rKgc3ZrUXpCttNosC9ImGoZOnfdmpRP/smzd76UTCAHXo=;e4h1nevcYTt/x86FletcrQ=="
+secured: "wHPmxz82qsCaqd3tX/gYiKiq8IGhlH0jPUHBvBX3jlvX4Tiao1xjiyqEk7tqQzGQMhxV4Rt9GP/33BGKteFOidJde5+0zWTpnbXWk1QSS4mKGw1wipR5TxaOIe3UhPdaifSjEg8iwGlbvD8WJ2S8XOrsjJi5OXj4/jOsnDiubaA5yCYWVmCajY5AQbVZv/8wkPfQcodehjKomEXN1S9Gz8xAlupOl2eD9VjklRWNYZr8Dyzz2PilkcZRrgHXx7VKQlYebANAO8x9IB2ONLcUU441fMLSPBkcn8eaxIKnUdwJY4vTVHMicelbos+UkIOhnJ24dIz+uRGlkAbgkMp1p/UhzOGwdkPaDpBhxoxkDXw=;vVdOxfHlMGnA7Cn5Q22HBw=="
 ---
 

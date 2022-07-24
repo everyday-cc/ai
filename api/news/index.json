@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -163,7 +164,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -214,7 +215,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -388,7 +389,7 @@
       "originalUrl": "https://www.itweb.co.za/content/KzQenMjy86a7Zd2r",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -424,50 +425,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
-      "title": "Don’t get too emotional about emotion-reading AI",
-      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "publishedDateTime": "2022-07-22T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-22-ai-flight-diverted-after-cabin-pressure-loss.md",
       "title": "AI flight diverted after cabin pressure loss",
       "excerpt": "New Delhi: Air India's Dubai-Kochi flight was diverted to Mumbai on Thursday after the pilot reported a loss in cabin pressure. The DGCA said it had grounded the Boeing Dreamliner aircraft. TNS AAP vows free power in Guj, if voted to power Surat: AAP ...",
@@ -476,7 +433,7 @@
       "originalUrl": "https://www.tribuneindia.com/news/nation/ai-flight-diverted-after-cabin-pressure-loss-414553",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -561,7 +518,7 @@
       "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -613,7 +570,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1003,7 +960,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -1055,7 +1012,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1180,6 +1137,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-driving-smarter-customer-experiences-with-ai-and-machine-learning.md",
+      "title": "Driving smarter customer experiences with AI and machine learning",
+      "excerpt": "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

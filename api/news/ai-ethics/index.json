@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
-      "title": "Don’t get too emotional about emotion-reading AI",
-      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "publishedDateTime": "2022-07-22T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are.md",
       "title": "Transform 2020: Women in AI and AI Innovation Awards – the winners are",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! SAN FRANCISCO – VentureBeat is proud to announces the winners of the 4 th Women in AI Awards and its 4th AI Innovation Awards.",
@@ -1436,6 +1392,59 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
+      "title": "AI Weekly: Microsoft’s new moves in responsible AI",
+      "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
+      "publishedDateTime": "2022-06-23T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],
