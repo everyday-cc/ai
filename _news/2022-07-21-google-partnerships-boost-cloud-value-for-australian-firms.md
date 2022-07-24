@@ -7,7 +7,7 @@ originalUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-va
 webUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-value-for-australian-firms/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Low adoption of AI is hurting Australia in the global field"
+    excerpt: "Australia is at risk of becoming a low-skilled economy without a serious commitment to investing in new technologies like artificial intelligence."
+    publishedDateTime: 2022-07-19T19:00:00Z
+    webUrl: "https://www.afr.com/technology/low-adoption-of-ai-is-hurting-australia-in-the-global-field-20220715-p5b1t7"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "v/600rh0z0vpYOCVSQPpgkfWvQJ3R6kpDh7XbqryEdV7NV54RS/AT5M8+i6AqLchP1uAWxVK5RZWPD0Dx8sq0InHbgz3xkwzbJl7iPpSiVGt88EiwCFvv/GqNFSSmdTL0yyZ4pjoBWNpuy9vg/tiECr+J1JZgpV+l8IZn5g/eN6s3QJk9tHI6FrP6acxWaPO7p+rU4ZzWjyURqFsBkvD7I4ntgzaPawG82lbfYHsrBUgE1z3A2fWAdmJ+0t2z5T4NQkKqoA1DzgNv14RjulxVc1Kii8xbjGnUvPlCdiqBNkpbiWqlgi6/yigz0svU9AuUxLGEjvsYtUOIr1qKYQ/5+t0iw/gE4AYzdelTOzEpguHM0DOtle4qiCt2EvNjg8/ZyhH31Xd6v00CzEZ0x1DKVHiApbh3gyYk360HP/8ieE6dsI7zAw+bsodaQgmBvZBvm9gHM7Fi1pTQobWIe2WFEiKcrASuuoPcfwljG+x5lHfICfCzDJ29abYzETIZQGy7kTDbO4ibfstwFz0SMV0CQ==;qKGP8+aF30FpfvNueMI+JQ=="
 ---

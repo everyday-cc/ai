@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     quality: 39
     images:
       - url: "https://www.irishtimes.com/resizer/5NWRikvOGJN5pZJiS5BAI4g3IfU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QUJTEMNDURHW3PK56Z4XHYKBNE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CARIBBEAT: Educator’s lecture targets the future shock of AI"
+    excerpt: "The music, family fun, arts and crafts, and food are returning when the Grace Jamaican Jerk Festival New York comes back to Roy Wilkins Park in Queens, on July 31."
+    publishedDateTime: 2022-07-24T01:00:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-caribbeat-renee-cummings-ai-lecture-20220724-ro3xxl22g5hltolh5lrppnchs4-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 37
+    images:
+      - url: "https://www.nydailynews.com/resizer/GCzYi5_jEOhBj37Vinl0xRk1Yl8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/L5A5CQ5QSRH2TFXR2P7V24XNFE.jpg"
         width: 1200
         height: 630
         isCached: true

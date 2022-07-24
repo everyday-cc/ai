@@ -98,6 +98,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Zesty.ai raises $33M for its AI-powered climate risk platform"
+    excerpt: "Zesty.ai Inc., a startup with a climate risk platform that provides data about wildfires, storms and other severe weather events, has raised $33 million in new financing. The company announced the investment this morning."
+    publishedDateTime: 2022-07-19T21:02:00Z
+    webUrl: "https://siliconangle.com/2022/07/19/zesty-ai-raises-33m-ai-powered-climate-risk-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-5.png"
+        width: 850
+        height: 477
+        isCached: true
 
 secured: "NAe6Xg0bHt/+GWdUSFQA6JZbI/wLOhOBA9XXFu0DVXSOinfGQiFwl4fqXQJ+Uh7WFAZOvBX5Gi2rbEzsFRsBgFyVofU5yc62Y881NMPSAj0f7573c0fak4BT4HrqpFxiaXELJGCHwFZ7wJ510XU3LgaALPf3n+tkahSQBEFmLDsPiZfNo8XmfoOkSofD790M/Xdkqz5hURGNVLjzNTk5eEXWhEXdyZRRui0mJvtsEptWtZm3yFOWa5uicMrLVPzGHeCokmdkA2hhgeel6PK/Lt8OLrB6FwyJoZvnzJfuhgVXJfGEp+tZr0OndSQkw+3/B09b8J1JveTAPZBtSZb9UT0OpUcB8Zx8dEFrq+7Z/cg=;TATm06ERrE29lZ3c7+wA8w=="
 ---

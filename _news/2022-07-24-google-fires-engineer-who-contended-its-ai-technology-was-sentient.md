@@ -2,11 +2,13 @@
 category: news
 title: "Google fires engineer who contended its AI technology was sentient"
 excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-publishedDateTime: 2022-07-23T18:49:00Z
-originalUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+publishedDateTime: 2022-07-23T19:37:00Z
+originalUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
-quality: 49
+quality: 87
 heat: -1
 published: false
 
@@ -19,8 +21,13 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
 
 related:
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
@@ -147,6 +154,22 @@ related:
         width: 805
         height: 486
         isCached: true
+  - title: "Google fires software engineer who claimed AI bot was ‘sentient’"
+    excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, was placed on administrative leave last month after he said the AI chatbot known as LaMDA claims to have a soul."
+    publishedDateTime: 2022-07-23T11:01:00Z
+    webUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/"
+    ampWebUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23171904-1658554567135.jpg?quality=75&strip=all&1658540595&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Google fires software engineer who claims AI chatbot is sentient"
     excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
     publishedDateTime: 2022-07-23T07:19:00Z
@@ -162,6 +185,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6d64e6b186ae95981b4113031a326d60f993ed7d/0_117_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=8f151e9f3091d822f476eae700a005df"
         width: 620
         height: 372
+        isCached: true
+  - title: "Google fires engineer who called AI model 'sentient'"
+    excerpt: "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ..."
+    publishedDateTime: 2022-07-23T23:12:00Z
+    webUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/"
+    ampWebUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 57
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/LaMDA-hero.jpg"
+        width: 720
+        height: 405
         isCached: true
   - title: "Google fires software engineer who claimed its AI chatbot is sentient"
     excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
@@ -182,6 +221,6 @@ related:
       domain: cnn.com
     quality: 47
 
-secured: "wq5bJrV3Jk4/liR4YDXjxCH0evU+RbmetiYLiqHH9l81e/6WQkUCxBXdQH4RzTDgP8jKAgfL5yc2ML1A+8Ckb41IuL3ksNVLg37K+8RorUzNj6nxY7/x2W6wLbarkLfUUEMcCjk2pNYdCNoGZ+s6TQxMYrir9E5Z74rIu0iSEhJIdsVFZRoCx4ZUqItvH+cjpw9C94sh0iDEAtWCJbDzk54Pso2Y9tSGw1zzarb7WJvkVggtVanwkjJvCcz2dHRkrN4g63ZVDwllPQ8eXAxvzFVuBF8Zcdlvx7DirHCCYA7p3RwM17eM6+zir29+dHXHidIscZdMth8AqXUoiVpHRIHOuOTImiUhLBEoUGmX4zScG6panQb4zC69aPlbq2AJQ3pZhpMG6i8JqMbKnEc72g7xKc7sCg/GJqSDI+oSb3xCiMOhp/3OZpvsm3OAXrHXP+KHcZK3xxFS6jdYXdH5SQDf+RXjknvz7ogvVL1BQyhLfCn4av7mn9IIakKWm7TNuatn2INitVOETNV8OywQxA==;xuSlFnrZEhigevJzTpyRiQ=="
+secured: "E2I0tuZYf+ACUHmGYigwAR/QLOfjSSYic/yowO0ehnY47O/oN69BrK/YDYW+hbuNmRt2rMFDkvIqvMiXZAcOrlJoYW8A4pYz4FuI9Oh9dE4B7I3k5VdfBCJja9KKZ8yWeA9Un/58GT0uTY2VVxR1uPdbH6RRkjAGiUnzot3EMbrmPx1stxwGcw6RtKkTRpQvQ0s2D62WR4Iteh5KY4Ex2yaSjWHync7qRvG3OtEI2esvUmC9eH8DUAyV7nRzyF6spupkN4w4idDQHH4e3ac9ooclgChLFAOEn/vdg/6PM1mDlTG8YThZ5UJCMam+QwneXFQyLZs3Bttp3PaojCTUm3eWuc4CUlCtg5rWNvzhuJM=;QeuSdtRho0brdJ6jsyPMOw=="
 ---
 

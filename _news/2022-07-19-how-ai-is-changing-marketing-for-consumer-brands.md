@@ -96,6 +96,15 @@ related:
         width: 400
         height: 285
         isCached: true
+  - title: "This AI-powered prosthetic hand is bringing design and style to a life-changing product"
+    excerpt: "Esper Bionics is elevating both the science and the design of prosthetics, while turning it into a lifestyle category."
+    publishedDateTime: 2022-07-19T13:18:00Z
+    webUrl: "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-bringing-design-and-style-to-a-life-changing-product/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 39
   - title: "Floating Plastic Litter Detected, Categorized Using AI"
     excerpt: "A new AI technique pioneered by scientists at PML uses images from a vessel-mounted camera to identify different types of"
     publishedDateTime: 2022-07-20T12:52:00Z

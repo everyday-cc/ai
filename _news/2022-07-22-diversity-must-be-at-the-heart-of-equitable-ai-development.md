@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "The Development Of The Games Industry. Meta Universes And Artificial Intelligence"
+    excerpt: "The future is approaching at a high speed. Technology is improving every day with new innovations and revolutionary ideas. Obviously, technological"
+    publishedDateTime: 2022-07-22T18:58:00Z
+    webUrl: "https://nerdbot.com/2022/07/22/the-development-of-the-games-industry-meta-universes-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Nerdbot
+      domain: nerdbot.com
+    quality: 14
+
 secured: "06dPvWF21YP6cONq43LIvhLrK6I73s2o/eeqdqYb1koWi9cwJXH8F23qPxw9aVi0J5NNBjzvEZXfpJR4F7paFbM3pD1SzwkDIHPPct9HmpV03tXWcvR2Spn4UoHRq9e2oGtn/M/Tq3HVQJzyIvZ+Ys3zCBfQAP5rwloS+qAlbXpLVYVmjp2NQ3T006UxerjJIYoMxUktqwhqfLkwVKOJ3uXd54tzcHX3YYQvihuOOnlsk5DZm20qYuTMLPggPngEZpVUa1Hiakq0NX+pDPYQXyj8EhRLsulBqA3TosyO7rGUbuZTiRxRrCUCq+fKN5b/aplOTuGqS3vQTlyKzvUqKdqgU6YLA6rZJipLuHR6Hvg=;68jBgVhXIixk2K1Dlehyww=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-06-28-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Acquired by Creative Financial Designs Inc. ADV",
+      "excerpt": "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ:BOTZ opened at $21.47 on Tuesday. The firm’s 50 day moving average price is $22.95 and its 200 day moving average ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
+          "width": 650,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/amp/",
+      "publishedDateTime": "2022-06-28T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
       "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
       "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
@@ -1104,49 +1147,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-discovering-links-between-cognitive-ability-and-grit.md",
-      "title": "Discovering Links Between Cognitive Ability and Grit",
-      "excerpt": "Individuals who are determined or express more grit may be more able to self-regulate and show cautious control but don't necessarily have better cognitive ability, suggests a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "originalUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/brain3.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "publishedDateTime": "2022-06-27T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

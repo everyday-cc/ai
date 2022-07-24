@@ -28,14 +28,14 @@ related:
   - title: "Should We Worry About Artificial Intelligence?"
     excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
     publishedDateTime: 2022-07-19T21:52:00Z
-    webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+    webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
     ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://images.wsj.net/im-586525/social"
         width: 1280

@@ -23,6 +23,19 @@ images:
     height: 2000
     isCached: true
 
+related:
+  - title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
+    excerpt: "Movie fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
+    publishedDateTime: 2022-07-23T17:00:00Z
+    webUrl: "https://www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+
 secured: "YrsBho43wmT92eKlY7FLPXFIOqDvg6Ka8VdHrxCEdYp8LatgtzgpR3OzDj2MIU5pBwXx07dErvm8dRP0BUeN84ZzAcAySm2twRfbSyeUMOWlMaq4MFYrE7RRUrZqa0bjIOwkoQsUe6bApTQ3rJUH8Jsx3qKalHy1U8Haga4W5Upudp31Btgy17unEohX/Q7ARLrcEQBURbS94vEwhBrbfo0LKceOlzGVTwNRgg9mzopgkSEzueGACZ75K7EsdflPPVbPGkexcSnGtEOMwmPABwgAlwVbVQCelVMqtIvIbO+w+ap5633dcbFtbWQMf7kTejkbpXOhONKaVDACsDlIxyg1xm5nclgeMDjurQlBztQ=;T0vJYd2KGwobr5VJjy8Fhw=="
 ---
 

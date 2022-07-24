@@ -27,56 +27,103 @@ images:
     isCached: true
 
 related:
-  - title: "How is AI impacting the Automobile Industry?"
-    excerpt: "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of."
-    publishedDateTime: 2022-07-19T09:11:00Z
-    webUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/"
-    ampWebUrl: "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/"
+  - title: "How cloud technology is shaping the future of fintech industry"
+    excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
+    publishedDateTime: 2022-07-22T11:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/Automobile-Industry.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "How AI writing service Craftly AI is transforming the content industry"
-    excerpt: "As the world gets more and more digital, our daily habits are turning more digital too. We start our day with news and social media articles on our laptops rather than going through a newspaper. We look down at the notifications on our smartphones more than we look up to see a billboard."
-    publishedDateTime: 2022-07-22T10:46:00Z
-    webUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/"
-    ampWebUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/AI-writing-service-Craftly-AI.jpg"
-        width: 960
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Souparno-Bagchi-COO-Balancehero-India.jpg"
+        width: 800
         height: 533
         isCached: true
-  - title: "Low adoption of AI is hurting Australia in the global field"
-    excerpt: "Australia is at risk of becoming a low-skilled economy without a serious commitment to investing in new technologies like artificial intelligence."
-    publishedDateTime: 2022-07-19T19:00:00Z
-    webUrl: "https://www.afr.com/technology/low-adoption-of-ai-is-hurting-australia-in-the-global-field-20220715-p5b1t7"
+  - title: "ZorroSign Lauded as One of Most Innovative FinTech Solution Providers in 2022"
+    excerpt: "ZorroSign, Inc., a global leader in blockchain-based digital signature solutions, today announced an Insights Success cover story lauding the company as one of the \"Ten Most Innovative FinTech Solutio"
+    publishedDateTime: 2022-07-21T09:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/p28146281/zorrosign-lauded-as-one-of-most-innovative-fintech-solution-providers-in-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28146281"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28146281"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
-  - title: "The Development Of The Games Industry. Meta Universes And Artificial Intelligence"
-    excerpt: "The future is approaching at a high speed. Technology is improving every day with new innovations and revolutionary ideas. Obviously, technological"
-    publishedDateTime: 2022-07-22T18:58:00Z
-    webUrl: "https://nerdbot.com/2022/07/22/the-development-of-the-games-industry-meta-universes-and-artificial-intelligence/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+        width: 900
+        height: 594
+        isCached: true
+  - title: "Six Things Traditional Banks Can Learn from Neo Banks and FinTech Companies"
+    excerpt: "About Finny Jose K Finny Jose K is the Chief Executive Officer and Founder of Neofam and Ex-Fingpay, Byjus, Dow Dupont, Limetray."
+    publishedDateTime: 2022-07-20T08:48:00Z
+    webUrl: "https://financialit.net/blog/neobank-banking-fintech/six-things-traditional-banks-can-learn-neo-banks-and-fintech-companies"
     type: article
     provider:
-      name: Nerdbot
-      domain: nerdbot.com
-    quality: 14
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/pxl_20220605_120226396.portrait_1_1.jpg"
+        width: 3072
+        height: 4080
+        isCached: true
+  - title: "Healthcare Innovator “ORHub” Aims to Enter the Fintech Industry"
+    excerpt: "(OTC PINK:ORHB) takes form as a medical fintech company, announcing the launch of “FutureOR”, its SRM platform, focused on enabling digital connectivity, faster vendor payments, and surgical implant accountability."
+    publishedDateTime: 2022-07-21T13:07:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-health-software-medical-devices-acec4580184a3f73053779f24a2fdb64"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+  - title: "Meet 26 rising-star fintech VCs excited about what's next in the sector — even during a market and investing pullback"
+    excerpt: "Fintech startups have been hit hard by the market downturn, but several VCs remain bullish on the sector, believing it's integral to people's lives."
+    publishedDateTime: 2022-07-21T09:00:00Z
+    webUrl: "https://www.businessinsider.com/rising-fintech-vc-still-excited-about-startups-2022-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://i.insider.com/62d6c8d4bc4c770018b76346?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why are Fintech Merger & Acqusitions on the rise in 2022?"
+    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
+    publishedDateTime: 2022-07-21T10:27:00Z
+    webUrl: "https://fintechmagazine.com/venture-capital/managing-mergers-in-the-developing-fintech-space"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
+  - title: "Important Technologies And Developments Shaping The Future Of Fintech"
+    excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
+    publishedDateTime: 2022-07-22T20:39:00Z
+    webUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
+        width: 640
+        height: 407
+        isCached: true
 
 secured: "+SE+OX/1i7qVywCS9GRB65b2puYWHwjdegBXYENqVqAu9uGF+otim2naC0ZFLBCvkwt0YQeY3vMbq3sx0mdFDKjVPagKVllpUZoOzvIvNownNkAL4RAVaY/aONExAv4TUSc3/c8SFZtp2NkiibCJ9+OVW0KHQTYiB7gnIp6zdC/zVvMV+RS3t14UsTs59GUG4jZZWWqw8uZ6r0WscPOBThvpU7ijlyU0NP6oW17u7AczppOq8OHrI1ZVzs1f0i5YYFCmSgdXDrVbu0A8TaL2q5UfNcdj6OWqtBj1gGcIQl44ZoQnKjoFnRaszEEQDhTPlWZ3KVtpvqwcYWCnavCS6r1gmR5t5fk8JTgtUIv6DpwDHr23MubHFiZhrR+DAwea7ld268dzX2El2AD9irnGRonrzXEG7i2YP7qY3QiiinySUX53/zKqtcCWRda2KEWBvANlEnjaqW1FYYQNIXS3Wrfj+bDGXiwXpUF2jdangHywNpMg1sjNA9U95nCz8l+ZS1ZDtxhIiWhVUpor35IVPw==;ok2PqXbtSt9/M878PBHZ5g=="
 ---

@@ -2,6 +2,59 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
+      "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
+      "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d262911-3051-4d40-81af-4cb803967068/6b65f27f-d026-4d2f-91f7-2215ce60715e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
+      "publishedDateTime": "2022-06-21T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-this-ukrainian-deep-tech-startup-has-trained-an-ai-to-paint-war-art.md",
       "title": "This Ukrainian deep tech startup has trained an AI to paint war art",
       "excerpt": "A Ukrainian deep tech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth",
@@ -1136,49 +1189,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-opinion-artificial-intelligence-takes-on-a-new-challenge-chemistry.md",
-      "title": "Opinion: Artificial intelligence takes on a new challenge — chemistry",
-      "excerpt": "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
-      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg",
-          "width": 1800,
-          "height": 1203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

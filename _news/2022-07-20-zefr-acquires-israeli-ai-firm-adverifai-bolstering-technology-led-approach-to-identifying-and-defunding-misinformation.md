@@ -90,6 +90,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "This AI-powered prosthetic hand is bringing design and style to a life-changing product"
+    excerpt: "Esper Bionics is elevating both the science and the design of prosthetics, while turning it into a lifestyle category."
+    publishedDateTime: 2022-07-19T13:18:00Z
+    webUrl: "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-bringing-design-and-style-to-a-life-changing-product/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 39
   - title: "How AI is Changing Marketing for Consumer Brands"
     excerpt: "Let's look at how fast-growing consumer brands identify the opportunities that AI brings to identify hybrid shoppers and personalise customer experience across their decision journey. AI is changing the customer experience."
     publishedDateTime: 2022-07-19T16:00:00Z

@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
-excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
-publishedDateTime: 2022-07-23T00:40:00Z
-originalUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+title: "Google fires engineer who called AI model 'sentient'"
+excerpt: "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ..."
+publishedDateTime: 2022-07-23T23:12:00Z
+originalUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/"
+webUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/"
+ampWebUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
+cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Android Police
+  domain: androidpolice.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-576950/social"
-    width: 1280
-    height: 640
+  - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/LaMDA-hero.jpg"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -45,6 +41,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/3c6e824649059cee1eb77cd18b219a490ccb82df/2020/09/08/73b42cab-8609-4015-9954-db77b44f2ea0/gettyimages-1207206237.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
+    excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
+    publishedDateTime: 2022-07-23T00:40:00Z
+    webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-576950/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
@@ -186,22 +198,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google fires engineer who called AI model 'sentient'"
-    excerpt: "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ..."
-    publishedDateTime: 2022-07-23T23:12:00Z
-    webUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/"
-    ampWebUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 57
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/LaMDA-hero.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Google fires software engineer who claimed its AI chatbot is sentient"
     excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
     publishedDateTime: 2022-07-23T08:36:00Z
@@ -221,6 +217,6 @@ related:
       domain: cnn.com
     quality: 47
 
-secured: "G0YB7HJ/A4Z9gchhEkF0NEdDqsQ3WMKFuFpCd6r15hsgHjxe2iTmM3HzoMZk7tmlsiDbZPG3rWndCKPyLRipKpb+j+kCKscr7MJlZKV9aWaDx+kkAmTuwN+Dsl8jBDsCW3CDq2dnNQ1biKervIj0rW2cPiNi57v/SMWSxAF2MMiCrWILm9QqVi+mMGmcvKr97bSCtjs+WBTNhaLOZovyR5wHcKnZmz+uak2BsjZX4ko4nIjJKDUUOK3ArFcedskvHqP0KPwgat5aOY0ZMNAzL+cMwsRckiD8t3uAvuW6o8dU+pMqNaWy5zF4NfaMA9yLzByFU9oT8/WjDcCB5SPqGeqMHpOgv5ECJ709I6hZQSwtYgvKs5vxkYfroVktGwdCYJKBJ9LbXv/246x0dUmQs1yIw8CpGwv13YsUH9RqXx8AeaRrKhRSsaRgBzUXjnQFzagxZ5xyXwP+H7EXu/DvWH0hSCzPEbzuL5kYESL4CVAoMCZsVJR8/W98OWguFBPidbwxkTnflUokFGedxGmWXw==;8nqPJRHz4eZ3HuJKzb0e8w=="
+secured: "O6gnMphZjsn8tMVCF5/1PXCkEz8iag5BfHrHzUxD4xdvUc86+GjhR60uQIBigsMq40KlXKhfsLbhgUPdZEsDF0Lb73aKme7fWkjCmhzonnUHdFVvIDvjYw0/6yOX8IDRuT4Q/DTOoh6lvvyDdsnCwIhvAMKHXrc1qRJf+f2e/YbBHz15B+EbEljZZ/FmITk8GG2elW51c2KBRGw7otikJTxpoPgGAF88R3QLAcCXMc8+jcD7yCeDcLznFybKXvEj5d69lR0bVWzL4mSAT1w5tmGFrd/uCqmMx8BXQUbVzBc+pZ6nc7PqOQW948okH5wR7aqK1dj4Q4EcJErx3ORV+SPqCQgHfU6GurqrzOWbpgI=;dorSJTT0Ci7KrQZzsIq1VQ=="
 ---
 

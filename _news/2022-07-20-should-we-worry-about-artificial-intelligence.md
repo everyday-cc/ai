@@ -3,13 +3,13 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
-quality: 89
-heat: 99
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -46,6 +45,6 @@ related:
         height: 628
         isCached: true
 
-secured: "O4Ob9Wh2ya3RwerGCqdzctwbaCq+u1rU+isZpkf603ki/m9Ane3H/fiYNzjG7lz4ZiTBAx8joVXpag5NgPvwmtOO8U2CHNu81z5EKyL1xR/EnOaDyHidLrl32hISqDw3oD5ABsKBzmqYka3thR818dv0w6BWgHAsQQog/cdP2H2VqGm5cVjubiPQGScNjP9t09D6EuQKFL76iVcDgBaI76NSosTPj/sOoRywxIWYLSmYwdm3t8P4T+mzc1uD/84YNGoPu5tWzuUtzDJ0zUxYZgCgYnoHgl77goPpkbMhy6mllg9qwOM9zIlqQ9EjHrhenaoIK98X8NmUGATuLfqcf+SurUcYx5iZXmjUzyql/i8=;EqWB5Pq0XqLfIqX3A5NXAA=="
+secured: "sSCOKKylEZw5snf5O6u8mDU1cg7kUYi8I6naAupXwQcGCkss4KKRqlJsagfEyOR8Dyn+a+H4bjep8hUCXs0HEl1dE7w297KIsIj22/OEkkzKBiIAWRe7vl5fxhNpGtSqQuRF+fLcQzrilvyGvoWBm76Ig8O5BH3oDMpwDEgBJ350S4Vr8itr/TgxY3vgJAhdPnYzDsDEr4K4vjo+qku3770JN7R0VEyQVIKdNWNdnsxuC7k+vLCKJY78PKrn5aMOlOu+nwKOZTkeojSzw5Mlwl9b+fwCuNdRLg73e/fC3q2nXvBagJZsHpUWRAzGrshNrHNooRjUfWkiO66KfRPWoDoQmWVlFw9plYrNsT3GKao=;OGbVLfH0K9zsQjl0VpwNGA=="
 ---
 

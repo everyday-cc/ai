@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
-excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
-publishedDateTime: 2022-07-23T00:40:00Z
-originalUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+title: "Google fires software engineer who claimed AI bot was ‘sentient’"
+excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, was placed on administrative leave last month after he said the AI chatbot known as LaMDA claims to have a soul."
+publishedDateTime: 2022-07-23T11:01:00Z
+originalUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/"
+webUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/"
+ampWebUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-576950/social"
-    width: 1280
-    height: 640
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23171904-1658554567135.jpg?quality=75&strip=all&1658540595&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -45,6 +41,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/3c6e824649059cee1eb77cd18b219a490ccb82df/2020/09/08/73b42cab-8609-4015-9954-db77b44f2ea0/gettyimages-1207206237.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
+    excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
+    publishedDateTime: 2022-07-23T00:40:00Z
+    webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-576950/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
@@ -154,22 +166,6 @@ related:
         width: 805
         height: 486
         isCached: true
-  - title: "Google fires software engineer who claimed AI bot was ‘sentient’"
-    excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, was placed on administrative leave last month after he said the AI chatbot known as LaMDA claims to have a soul."
-    publishedDateTime: 2022-07-23T11:01:00Z
-    webUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/"
-    ampWebUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23171904-1658554567135.jpg?quality=75&strip=all&1658540595&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Google fires software engineer who claims AI chatbot is sentient"
     excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
     publishedDateTime: 2022-07-23T07:19:00Z
@@ -221,6 +217,6 @@ related:
       domain: cnn.com
     quality: 47
 
-secured: "G0YB7HJ/A4Z9gchhEkF0NEdDqsQ3WMKFuFpCd6r15hsgHjxe2iTmM3HzoMZk7tmlsiDbZPG3rWndCKPyLRipKpb+j+kCKscr7MJlZKV9aWaDx+kkAmTuwN+Dsl8jBDsCW3CDq2dnNQ1biKervIj0rW2cPiNi57v/SMWSxAF2MMiCrWILm9QqVi+mMGmcvKr97bSCtjs+WBTNhaLOZovyR5wHcKnZmz+uak2BsjZX4ko4nIjJKDUUOK3ArFcedskvHqP0KPwgat5aOY0ZMNAzL+cMwsRckiD8t3uAvuW6o8dU+pMqNaWy5zF4NfaMA9yLzByFU9oT8/WjDcCB5SPqGeqMHpOgv5ECJ709I6hZQSwtYgvKs5vxkYfroVktGwdCYJKBJ9LbXv/246x0dUmQs1yIw8CpGwv13YsUH9RqXx8AeaRrKhRSsaRgBzUXjnQFzagxZ5xyXwP+H7EXu/DvWH0hSCzPEbzuL5kYESL4CVAoMCZsVJR8/W98OWguFBPidbwxkTnflUokFGedxGmWXw==;8nqPJRHz4eZ3HuJKzb0e8w=="
+secured: "GR8wYMhK8u8i6Gw7znepWcaRP/qPMyN+4uU8QoNn2y5qHstfXgetFikwpSjBWPxvnJVNrU9jktpt15DWbFYPCmJKUDuHd9X2YKt2e4z16gOq62AIeD2m5d0EewTgdV23ERu9bPCHkCT+bBWyf8ol3aa6PNcZc2LeOmrrhCP/mArXo4L2pueRqZPdY+9z6pZVHql36v1uHV384Pyi6T3YrWvfWxlENULyjWQdZfsB01zKzCHXfq2gl/tBwGEMRifR8zlKGgR6rUbcI3lvusVMfOo5O0saPeho74mL1pguXn6A8ddWdnBMrtRFAtFTdWf6cUcrs/lxqPTqYQAsEurns6qPT05azQf66lVxR0sz4qY=;DTLieW0TeZqupOGiJ6O4FA=="
 ---
 

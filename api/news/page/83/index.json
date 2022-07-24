@@ -2,6 +2,40 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-05-18-temenos-puts-digital-banking-on-aws.md",
+      "title": "Temenos puts digital banking on AWS",
+      "excerpt": "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
+      "originalUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027.md",
       "title": "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027",
       "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
@@ -1098,49 +1132,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-temenos-delivers-digital-banking-solutions-on-aws.md",
-      "title": "Temenos Delivers Digital Banking Solutions on AWS",
-      "excerpt": "Temenos and AWS started working together in 2019 to integrate Temenos ... Amazon Connect capabilities include skills-based contact routing, voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

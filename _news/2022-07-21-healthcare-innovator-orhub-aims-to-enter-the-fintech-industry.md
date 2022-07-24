@@ -36,6 +36,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "How Fintech Is Elevating the Real Estate Industry"
+    excerpt: "There is hardly one industry unimpacted by the rise of smartphones and all the surrounding technology, and the world of real estate is no different. “Fintech,” a short form for financial technology, refers to technology like software or mobile applications that improve and automate traditional forms of finance for businesses and consumers."
+    publishedDateTime: 2022-07-22T11:01:00Z
+    webUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/"
+    ampWebUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/How-Fintech-Is-Elevating-the-Real-Estate-Industry.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ZorroSign Lauded as One of Most Innovative FinTech Solution Providers in 2022"
     excerpt: "ZorroSign, Inc., a global leader in blockchain-based digital signature solutions, today announced an Insights Success cover story lauding the company as one of the \"Ten Most Innovative FinTech Solutio"
     publishedDateTime: 2022-07-21T09:00:00Z
@@ -107,20 +123,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
         width: 640
         height: 407
-        isCached: true
-  - title: "Level 4 smart self-driving car - future orientation for self-driving technology industry in Vietnam"
-    excerpt: "Amid the 4th industrial revolution, Vietnamese scientists have quickly adapted and applied scientific and technical technology for socio-economic development. In particular, a member of Phenikaa Group (A&A Green Phoenix Group Joint Stock Company) researched and launched the first level 4 smart self-driving vehicle product in Vietnam with many outstanding features and advantages,"
-    publishedDateTime: 2022-07-19T09:17:00Z
-    webUrl: "https://vovworld.vn/en-US/make-in-vietnam/level-4-smart-selfdriving-car-future-orientation-for-selfdriving-technology-industry-in-vietnam-1118959.vov"
-    type: article
-    provider:
-      name: vovworld.vn
-      domain: vovworld.vn
-    quality: 10
-    images:
-      - url: "https://photo-cms-vovworld.zadn.vn/w500/Uploaded/vovworld/pwvopivp/2022_07_19/xetuhanh-anh1_MUJO.jpg"
-        width: 500
-        height: 281
         isCached: true
 
 secured: "GG9NUEW9xIqabmJc7/SUGQRhXzGGvv9hc+dRA+6zK61tWUgHvwioSi5te4O5jihbbZTKDKWfd4LJxgxxNA0Ai4q95ZnZM+ZqVaj0vbB2O39biRC/6VyrZrEeXtP+rbjNGhnP8048iMiOweCwreTi5dsEwvdYFfOc1YpYkVpbMbxOhaQekBefkaNgTASiqhobtTLX6XGjDAG2VtXPHHRgbc+3JjtBzvGpliGQESfsAm48BGL8fUpickUbzvY/D/D1vbtXk/yFDmP08v6A4ZW1tsThAVFlJ4PZu/IKw5OX4wDE/JWztA3XRm5fytsvMB7LvSMhCW68oasnBMcj0QWbtSl843KfTZldm+rGz4aLyCk=;QdRGy3dH5KegfHdDSrau2g=="
