@@ -74,20 +74,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "Using AI To Speed Up Edge Computing"
-    excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."
-    publishedDateTime: 2022-07-19T07:04:00Z
-    webUrl: "https://semiengineering.com/using-ai-to-speed-up-edge-computing/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
-        width: 2560
-        height: 1280
-        isCached: true
 
 secured: "j/J3uNBwwRKxKz7RW//uw5csErySZtNtPufEBAlFqW4Ofr29xbD9DTvZ5BGghca45h0DWkdCmTPoVMnXBCgQWV6yREwdfylTlP5snFArJ9pA0EzEsox5YtT/0z3BfnYoZVJzzgNYufOtSRLshIaB+lv3DCwtJKzmCZefArNSKhWnwgzeyRNF3bGIMpzJKXZyTECL8/aCsmnv+oaDdPxLrsnQPMzCPDm9pfZihgAod/5Myh13Xh2GCGqyKOR1iojwu8SGia5Qff7UTwBh2r8LKa1OEfXHV1yR+Yl/l1JT2jA1nRdGcDk8lKDHeqJxqeo3zvdKCFukMkft0dz+v7X3u4dv+LX0U6gBCxbRie7nzCL6s3/tUVejE1lC4LlfVCmXuE6HhzX410YSAtxG+vgVVi/jjF5NuyfFbeysFbN0mXVZNwXlOB7TzKewJIkAvKne50vnHBqS+sCURJukMeIt7HVsw1sLF/e9jxR12UgteTl3Mds9GvXjZBfwxO7lvJ03Hu0abYTvEqTSgDZesvgeAA==;jrukjd6r6ry3PdumfcUvwQ=="
 ---

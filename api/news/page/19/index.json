@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-07-02-o-ability-your-power-of-perception-is-mostly-innate.md",
+      "title": "'O' Ability: Your Power of Perception Is Mostly Innate",
+      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general, is o just another name for general intelligence? We don’t think so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
       "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
       "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
@@ -1082,49 +1116,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
-      "title": "AdvisorNet Financial Inc Buys 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
-      "excerpt": "AdvisorNet Financial Inc increased its stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the first quarter, according to the company in its most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/",
-      "originalUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
-          "width": 650,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/",
-      "publishedDateTime": "2022-07-01T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

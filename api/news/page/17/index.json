@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-07-05-artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031.md",
+      "title": "Artificial Intelligence in Robotics Market is Set to Experience a Significant Growth of 28% CAGR from 2022 To 2031",
+      "excerpt": "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period (2022 – 2031). Artificial intelligence (AI) and robotics prove to be a powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-natural-language-processing-market-development-and-opportunities-with-forecast-2024.md",
       "title": "Natural language processing market Development and Opportunities with Forecast 2024",
       "excerpt": "Various industrial sectors today including healthcare, manufacturing, BFSI, automotive, and advertising are growing adoption of different advanced technologies in order to offer superior quality ...",
@@ -1059,39 +1102,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
-      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
-      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

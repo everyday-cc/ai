@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 628
         isCached: true
 
-secured: "wHPmxz82qsCaqd3tX/gYiKiq8IGhlH0jPUHBvBX3jlvX4Tiao1xjiyqEk7tqQzGQMhxV4Rt9GP/33BGKteFOidJde5+0zWTpnbXWk1QSS4mKGw1wipR5TxaOIe3UhPdaifSjEg8iwGlbvD8WJ2S8XOrsjJi5OXj4/jOsnDiubaA5yCYWVmCajY5AQbVZv/8wkPfQcodehjKomEXN1S9Gz8xAlupOl2eD9VjklRWNYZr8Dyzz2PilkcZRrgHXx7VKQlYebANAO8x9IB2ONLcUU441fMLSPBkcn8eaxIKnUdwJY4vTVHMicelbos+UkIOhnJ24dIz+uRGlkAbgkMp1p/UhzOGwdkPaDpBhxoxkDXw=;vVdOxfHlMGnA7Cn5Q22HBw=="
+secured: "O4Ob9Wh2ya3RwerGCqdzctwbaCq+u1rU+isZpkf603ki/m9Ane3H/fiYNzjG7lz4ZiTBAx8joVXpag5NgPvwmtOO8U2CHNu81z5EKyL1xR/EnOaDyHidLrl32hISqDw3oD5ABsKBzmqYka3thR818dv0w6BWgHAsQQog/cdP2H2VqGm5cVjubiPQGScNjP9t09D6EuQKFL76iVcDgBaI76NSosTPj/sOoRywxIWYLSmYwdm3t8P4T+mzc1uD/84YNGoPu5tWzuUtzDJ0zUxYZgCgYnoHgl77goPpkbMhy6mllg9qwOM9zIlqQ9EjHrhenaoIK98X8NmUGATuLfqcf+SurUcYx5iZXmjUzyql/i8=;EqWB5Pq0XqLfIqX3A5NXAA=="
 ---
 

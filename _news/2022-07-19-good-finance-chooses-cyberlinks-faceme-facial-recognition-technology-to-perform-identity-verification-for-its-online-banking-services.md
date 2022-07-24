@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "M2P Fintech acquires identity verification services provider Syntizen"
-    excerpt: "According to M2P, the acquisition will help the company provide better Aadhar verification and know-your-customer processes including identity and onboarding services to financial institutions, as it looks to add more capabilities to its integrated technology stack."
-    publishedDateTime: 2022-07-19T07:17:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/m2p-fintech-acquires-identity-verification-services-provider-syntizen/articleshow/92974885.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/m2p-fintech-acquires-identity-verification-services-provider-syntizen/amp_articleshow/92974885.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/m2p-fintech-acquires-identity-verification-services-provider-syntizen/amp_articleshow/92974885.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-217184,msid-92974817/m2p.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "India Launches Face-based Authentication App for National ID Program"
     excerpt: "Unique Identification Authority of India is rolling out an app that will allow citizens to verify their identities with facial recognition"
     publishedDateTime: 2022-07-21T18:25:00Z

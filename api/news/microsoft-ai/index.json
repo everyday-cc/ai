@@ -641,6 +641,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-12-intel-releases-open-source-ai-reference-kits.md",
+      "title": "Intel Releases Open Source AI Reference Kits",
+      "excerpt": "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries. What's New: Intel has released the first set of open source AI reference kits s",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28037885",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28037885",
+      "publishedDateTime": "2022-07-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-merck-accelerator-welcomes-biotech-start-ups-specializing-in-ai-and-machine-learning.md",
       "title": "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning",
       "excerpt": "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development.",
@@ -1338,40 +1381,6 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
-      "title": "Cognitive impairment predicts outcomes for ICU survivors",
-      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

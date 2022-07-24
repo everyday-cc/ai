@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-20T17:09:00Z
 originalUrl: "https://www.econotimes.com/Push-for-AI-innovation-can-create-dangerous-products-1637689"
 webUrl: "https://www.econotimes.com/Push-for-AI-innovation-can-create-dangerous-products-1637689"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://s1.econotimes.com/assets/uploads/202207203e99f137149f39838_th_1024x0.jpg"

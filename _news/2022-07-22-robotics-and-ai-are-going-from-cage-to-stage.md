@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
 type: article
 quality: 119
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
         width: 600
         height: 365
-        isCached: true
-  - title: "Using AI To Speed Up Edge Computing"
-    excerpt: "AI is being designed into a growing number of chips and systems at the edge, where it is being used to speed up the processing of massive amounts of data, and to reduce power by partitioning and prioritization."
-    publishedDateTime: 2022-07-19T07:04:00Z
-    webUrl: "https://semiengineering.com/using-ai-to-speed-up-edge-computing/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
-        width: 2560
-        height: 1280
         isCached: true
 
 secured: "taEzdAZHRv98gLzw08Y1nrFBXQSZCKR9kgOH+8F34PoLj5O8t+OhwL+W21mOp9hPT9dVF271aY0UyvAhJKq0zqEQVBX4pntGGoiKW9KUhI2A8sfbPMqGgROeti8QqKL3bJbu7iJZI5Kun+jO6moLoG8loywaZYBL3Mdtu/H6JQw3he4o6AAcUNKXoDE40loxpGO0HUz0X5Pop3enud6H69J7SgwCjITMlRF0Soo70lMyaGzpZwhthJwZnEtZFu4FUZIK+85u+9Uuo+r1WvRmfnprKQhvIKVCAwLkzPZM3sIqu3kn3pHRKx1xaJuSdo2joMMRVJ+xyaeqZgTHjXfohPgShQPyLtm5VojF6YNoOGFOJpm9WUzlZWbJivZb8cQmTeCsNmbumd9R7CBjS7wvb6wx9U12IYTvM8tO5hbWVwkxqfB7/TUefIDTF8X3nXp2zJVctlTD45BaxHGg9/YXOW4JHI5YUI2WSBhXHzj69PIZHfG0Lsd1JlYXi97p2VMeOSgK7/i/w5IIY3/rFeNHXw==;atOVBRAsaVUxT5qdA5ju8w=="

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Riot Games, AWS partner on cloud-first remote broadcast centres"
-    excerpt: "Riot is also creating a 50,000 square-foot facility in Dublin and a second facility in the greater Seattle area for remote production"
-    publishedDateTime: 2022-07-19T08:06:00Z
-    webUrl: "https://www.tvbeurope.com/live-production/riot-games-aws-partner-on-cloud-first-remote-broadcast-centres"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 39
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/07/Riot-x-AWS.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Riot Games taps AWS"
     excerpt: "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s esports content is created and distributed in the cloud. Riot is the first com"
     publishedDateTime: 2022-07-19T11:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://advanced-television.com/2022/07/19/riot-games-taps-aws/"
 webUrl: "https://advanced-television.com/2022/07/19/riot-games-taps-aws/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Riot Games, AWS partner on cloud-first remote broadcast centres"
-    excerpt: "Riot is also creating a 50,000 square-foot facility in Dublin and a second facility in the greater Seattle area for remote production"
-    publishedDateTime: 2022-07-19T08:06:00Z
-    webUrl: "https://www.tvbeurope.com/live-production/riot-games-aws-partner-on-cloud-first-remote-broadcast-centres"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 39
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/07/Riot-x-AWS.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Riot Games taps AWS for new cloud-based esports content"
     excerpt: "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS."
     publishedDateTime: 2022-07-19T12:09:00Z

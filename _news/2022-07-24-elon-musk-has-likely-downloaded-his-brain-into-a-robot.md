@@ -5,8 +5,10 @@ excerpt: "\"20 to 30 years from first human landing if launch rate growth is exp
 publishedDateTime: 2022-07-23T19:00:00Z
 originalUrl: "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot"
 webUrl: "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot"
+ampWebUrl: "https://www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg3NjE5NzYxNjg0MjI3OTgz/las-vegas-strip_2.jpg"
+    width: 620
+    height: 400
+    isCached: true
 
 related:
   - title: "Elon Musk Probably Downloaded His Brain into a Robot"
@@ -36,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "eA6k3B8EogIJkzx2OVr8AQ291SrHaD0VtVGEUTv7d0OjfuI049IYXfem14AJ0voYSpVKzfWKFpozju8cf60oNJiRw/ViDMhfVbRSdkOqe2JN30aLEsEW3Q8ZYLEkzCxvjCZtlPdhmtvpLLFVWigdoLob4Z03AoIyeIuSd2+L8nSS/De5wiT0NepHPIXiymefHS50pMWHCt+KwD5kwZSZfFo86/08ZOrNdXXJywo6+PoQbG6s9UWCQQWxI5YN6EQ5t+01v2fIRpev9S9xePPSFICnfzrUhuN7uMzKD0OS/ROmI7Aadbsf5JWWoXZ1PNtBBd2ybsqgiBwpQ+rPsyMpWgLWWl7erDerb8jk5r2d9hY=;aPhStaVc3N6W+UBXzbOYMQ=="
+secured: "TvRquyBE5zZViwGhcZf+lE02ardfYPzz19BAoVlPhNftaF/a2B2Wf2hJbJtm5hA0jDpzcJv3TtTXyKExOxbQ20PBbli1NlIZxwkU1F59jQtaB/fVwVV5ldseR7eYAQ4MsbPOAsQfkeTAodDMZyVvtXwhrg6U2kJ7iuSf5aHBcQiKAp2PHI8u5wSjdlLP8uq6AkBOipoMtdsFOz2YU/KO0GfYQzgj/t//4XQsCUDFn7e9/+S7jRdL3bl3/KdxsXs+lsn1IxG5KfStS1HLVOkR1G43j3ZWXMTCPv7iCbDduBn71uRNFqModmqa2PGl+Wgrv2GQO2sf1dBoqYcZViFct3qhqd2Sdbv5R4FfSTzkR1Y=;t43hwu82O6zTMizOiFOn2w=="
 ---
 

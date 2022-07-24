@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/good-finance-chooses-cyberlink-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/good-finance-chooses-cyberlink-s-faceme-r-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services-01658235912"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "M2P Fintech acquires identity verification services provider Syntizen"
-    excerpt: "According to M2P, the acquisition will help the company provide better Aadhar verification and know-your-customer processes including identity and onboarding services to financial institutions, as it looks to add more capabilities to its integrated technology stack."
-    publishedDateTime: 2022-07-19T07:17:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/m2p-fintech-acquires-identity-verification-services-provider-syntizen/articleshow/92974885.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/m2p-fintech-acquires-identity-verification-services-provider-syntizen/amp_articleshow/92974885.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/m2p-fintech-acquires-identity-verification-services-provider-syntizen/amp_articleshow/92974885.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-217184,msid-92974817/m2p.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services"
     excerpt: "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account."
     publishedDateTime: 2022-07-19T13:03:00Z

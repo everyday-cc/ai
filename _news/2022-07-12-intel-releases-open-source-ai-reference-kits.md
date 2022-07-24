@@ -1,66 +1,28 @@
 ---
 category: news
 title: "Intel Releases Open Source AI Reference Kits"
-excerpt: "Intel has released the first set of open source AI reference kits specifically designed to make AI more accessible to organizations in on-prem, cloud and edge environments. First introduced at Intel Vision,"
+excerpt: "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries. What's New: Intel has released the first set of open source AI reference kits s"
 publishedDateTime: 2022-07-12T16:30:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-intel-releases-open-source-ai-reference-kits"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-12-intel-releases-open-source-ai-reference-kits"
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits"
+ampWebUrl: "https://www.benzinga.com/amp/content/28037885"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28037885"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Intel rolls out Open Source AI Reference Kits for enterprises"
-    excerpt: "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,"
-    publishedDateTime: 2022-07-13T09:01:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 67
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Intel Releases Open Source AI Reference Kits"
-    excerpt: "AI workloads continue to grow and diversify with use cases in ... 1 Predictive Utility Analytics Reference Kit, measured on June 29, 2022. HW Configuration: Microsoft Azure Standard D4_v5, OS: Ubuntu 20.04.4 LTS (Focal Fossa), 8 X Intel Xeon Platinum ..."
-    publishedDateTime: 2022-07-13T16:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/intel-releases-open-source-ai-reference-kits/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-  - title: "Intel, Accenture put bow on open-source AI kits to push adoption"
-    excerpt: "Intel and IT consultancy Accenture are hoping to help businesses adopt AI applications quicker with bundles of open-source software designed to speed performance and lower development costs. The open source AI reference kits,"
-    publishedDateTime: 2022-07-12T17:57:00Z
-    webUrl: "https://www.theregister.com/2022/07/12/intel_accenture_seek_to_help/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 17
-  - title: "Intel Open Source AI reference kits now available for free"
-    excerpt: "Intel has this week announced the release of its first set of open source artificial intelligence reference kits specifically designed to make AI more"
-    publishedDateTime: 2022-07-13T11:46:00Z
-    webUrl: "https://www.geeky-gadgets.com/intel-open-source-ai-reference-kits-made-available/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 17
+images:
+  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+    width: 900
+    height: 594
+    isCached: true
 
-secured: "yxRzL7PExH7hQWVF2fm/V/CbD2v/rKDA6pNWjJ6Xgvcd4/vX7qy3KKqjAcHW6oFA3pkGo1RMxjOP0TUIBkcr5l5mL1SIv+bkdLO3AkVGF+4+YXDFgFQ3FHhhtBLTuQuc6M2wsl29BDjOSroG40+7xvtbOmXpuFD2J1jarzomMa+ZvsIDSguw0yVs1jGjXNUcNMEcZBmpzVmQFjPwBTbLo2HlVE5qhBOjrTXJNZB+te9qU2fRbBSHZ8kxC5HwBCfwDTkWc3uVwKQiEkdNpSec/gecvH8i3DFApuKxYHfST5St/Y0ZbvvScsTwn0RhVSvwRyXfRqEm1mr0bdAOHQJ39oMB+Lnp0NecdavGnESYYfI=;oUBboaiIhm6A9TQtC5Jtcw=="
+secured: "92KbMq3IBKEqQaRMcOS/0duMHVpMXicjA7KPyeuYwsHhm4cZHWCVKs/nYItAII8W1AmAckPhWS/CmUr4zxbD9XQQeD1x7+1kpBeuqLFfNW0l1qhiac4LC7K+s6EN6HxJVd/8IREslnocJGxu8T3RbgRbKNMUNqQUOYbYYStTkCMyZfBLvgvCLQYhdLLVIY72z6E3DNycpG8r2RqvhhPP9RzDKxeYcvVc2jIQv7UPSFhE+2UTEElnKN2eZAtrGN2tuXnAhhOT2StfO4hWTvlYfr8nvBKyqo+6Q/NBxFtvT2Y20KD2rtfoehvKConWH3hPEqNj+MzXyIlP8WOr/CWL8lkt5jiCuv9nGloa0FLxMs8=;sJn9BgSlUu952lgMfVwOLw=="
 ---
 

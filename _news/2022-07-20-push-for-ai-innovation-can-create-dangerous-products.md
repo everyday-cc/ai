@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104557332/Push-For-AI-Innovation-Can-Create-Da
 webUrl: "https://menafn.com/1104557332/Push-For-AI-Innovation-Can-Create-Dangerous-Products"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: EconoTimes
       domain: econotimes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s1.econotimes.com/assets/uploads/202207203e99f137149f39838_th_1024x0.jpg"
         width: 736

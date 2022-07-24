@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-06-29-cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year.md",
+      "title": "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year",
+      "excerpt": "SEOUL, South Korea, June 28, 2022 /PRNewswire/ -- Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1849080/image_1.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-qa-the-investment-case-for-robotics.md",
       "title": "Q&A: The Investment Case for Robotics",
       "excerpt": "As robotics and artificial intelligence advance together, more complex tasks can be automated. There are two key areas where we see the next generation of robotics driving change: logistics and ...",
@@ -1067,51 +1110,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
-      "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
-      "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
-      "originalUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/binary_neural_network_artificial_intelligence_machine_learning_thinkstock_636754212_tinted-100747913-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html",
-      "publishedDateTime": "2022-06-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],
