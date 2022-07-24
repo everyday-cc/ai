@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -228,6 +228,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Google Fires Software Engineer Who Claimed AI Chatbot Was ‘Sentient’"
+    excerpt: "Alphabet Inc’s Google put a senior software engineer, Blake Lemoine on “paid administrative leave” after he published a paper claiming that"
+    publishedDateTime: 2022-07-24T12:53:00Z
+    webUrl: "https://www.techworm.net/2022/07/google-fires-engineer-ai-chatbot-sentient.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 17
 
 secured: "1X5IVYIWyfaVn6CvGPMd+lUvO7cEUIY1iEuBYrB5ffsMS+PqERmwrcaKp4F5nyQ0RXzObRgIzytnwZQDhtj8l3jrodz/id+MQsitdnR00kQYjDdJA2vY9cxuv8QtAyrlveZTkVTf1Qp7PJ7cd2Wg6S/fB/XKOjkcYQpOAjnK5zebZ1oVtpwYW9z8MH4Hi/TZnozQTtPo38kOLELlANdXorLpAd7YO3D0PNthDdsFH6LYyyf+6DewbhXpPRd06HwtyjuPYfEcXnAZhfrNpHJaDAxuiSZKBLZSEs62HhgJ7wLHx9ybl5C8fhge9E0HIa2Ls30XR6O5OMo+eIObxcKj6WNG3ptCdzfXKbyu7h5BObHcZaINyMn8zWnrrNgIiyo5V0caw9tp840rR9EQimLFTi7lc/b29Aub2iCx+A2OQCWssiw5zXxf7IeUpQugSE1AflqDd0Hhw2QcoztrseTmHu3BbOKym+FzCm6EECeJ9Qw7egjZeWfV0omUGe8B1N6jCKjc9zmEqYn3LdZfYoZCeA==;kgZQyuEuopSR4TapwZhl7A=="
 ---

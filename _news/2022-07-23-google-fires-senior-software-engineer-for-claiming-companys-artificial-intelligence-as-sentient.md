@@ -223,6 +223,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Google Fires Software Engineer Who Claimed AI Chatbot Was ‘Sentient’"
+    excerpt: "Alphabet Inc’s Google put a senior software engineer, Blake Lemoine on “paid administrative leave” after he published a paper claiming that"
+    publishedDateTime: 2022-07-24T12:53:00Z
+    webUrl: "https://www.techworm.net/2022/07/google-fires-engineer-ai-chatbot-sentient.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 17
 
 secured: "a21PanmaZgBOAZ/LBTpKE6jX+gaz2Lt49I/qaDOPZn79kRKTBRNIhvZGXwXaEbI3Y0bF8/+2s0YVgP98y67FE+ccFZdBXVBwe/XrOKoz5aQiEmBZmTdF/HxSDJCA6lRggo/RC71JY/oqk2Y7QojaC1lKKWm0KLGpK4UiUrLz3km/lZZVH4vQ4UEJWeKD8oSwT67XDL4lPNls6WIiX63bVT8S1489DJ1buo/gODiAlHxPYbIIK9ER8eRJIxSVlPTQMIrlllYoGQpvy9Kjd57wzX7wSrJxCJ80Eht0f8aT/ywpS5wp/po5RinntfPe3VmoOcGL+YzKNKIW+O8m9myB/e3pvlQJZeVdxU+QEPxmjxwHV0+lpR+SZvlwNMJAaKtsK9+Fw8UrI32QOxc4/sUv2PZk7qCyoeu0OV/Yz2Y24JxEJmo0wVx6oAzMrVmbwyfXRcss0iUfsGK7YoxgFuxbnP/3KFXoLC3UkBh+lvCA7NoO8ijZ+8oEqDFBY3lzRRZDzZZETxtHVBifN29zZzaA4Q==;Hz6wwcDC2dNUU5zAuC/e9Q=="
 ---

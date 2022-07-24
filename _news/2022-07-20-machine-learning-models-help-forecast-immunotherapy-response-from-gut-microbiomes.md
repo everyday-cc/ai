@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting cancer immunotherapy response from gut microbiomes using machine learning models"
-    excerpt: "A new research paper was published in Oncotarget on July 19, 2022, titled \"Predicting cancer immunotherapy response from gut microbiomes using machine learning models.\" Cancer immunotherapy has ..."
-    publishedDateTime: 2022-07-19T20:38:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-cancer-immunotherapy-response-gut-microbiomes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-cancer-immunotherapy-response-gut-microbiomes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-cancer-immunotherapy-response-gut-microbiomes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/oncotarget--predicting.jpg"
-        width: 1116
-        height: 1222
-        isCached: true
   - title: "Machine Learning Model Helps Predict Immunotherapy Response"
     excerpt: "Network-based machine learning has been used to improve the accuracy of predicting patient response to immune checkpoint inhibitors."
     publishedDateTime: 2022-07-22T14:25:00Z

@@ -42,18 +42,20 @@ related:
         height: 314
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-21T04:24:00Z
-    webUrl: "https://mtstandard.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_7c939fc3-fa4b-5520-8f2e-0c89b000c5f1.html"
+    excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+    publishedDateTime: 2022-07-21T04:07:00Z
+    webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
+    ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
     type: article
     provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 39
+      name: WOKV
+      domain: wokv.com
+    quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/7/ac/7acc6d11-8ad6-53e6-a56d-113c375be25d/62d8d2d0a8993.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
@@ -126,13 +128,13 @@ related:
         height: 550
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-22T05:55:00Z
-    webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
+    publishedDateTime: 2022-07-22T15:39:00Z
+    webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 19
   - title: "Baidu unveils latest autonomous electric vehicle"
     excerpt: "Chinese search engine and artificial intelligence firm Baidu, unveiled its latest electric autonomous driving vehicle, the Apollo BT6."

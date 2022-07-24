@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-24T06:42:00Z
 originalUrl: "https://indiaeducationdiary.in/aalto-university-machine-learning-gives-material-science-researchers-a-peek-at-the-answer-key/"
 webUrl: "https://indiaeducationdiary.in/aalto-university-machine-learning-gives-material-science-researchers-a-peek-at-the-answer-key/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: India Education Diary

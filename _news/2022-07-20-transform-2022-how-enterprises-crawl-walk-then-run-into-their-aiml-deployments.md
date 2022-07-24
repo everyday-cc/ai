@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-cr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transform 2022: How Intuit accelerates AI at scale for personalized customer experiences"
-    excerpt: "The capability to provide personalized experiences at scale is complicated. Doing this using unique models for each customer is even more so. However, using artificial intelligence  (AI) and machine l"
-    publishedDateTime: 2022-07-19T22:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/19/ai-at-scale/"
-    ampWebUrl: "https://venturebeat.com/2022/07/19/ai-at-scale/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/ai-at-scale/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/01/Intuit.GettyImages-597456540-1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine"
     excerpt: "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI."
     publishedDateTime: 2022-07-20T17:37:00Z

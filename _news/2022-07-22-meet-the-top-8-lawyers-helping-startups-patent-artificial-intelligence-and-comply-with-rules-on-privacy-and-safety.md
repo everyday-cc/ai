@@ -3,11 +3,11 @@ category: news
 title: "Meet the top 8 lawyers helping startups patent artificial intelligence and comply with rules on privacy and safety"
 excerpt: "Attorneys are leveraging their own tech backgrounds to help tech startups address AI in the medical-device, electric-vehicle, and other industries."
 publishedDateTime: 2022-07-22T11:52:00Z
-originalUrl: "https://www.businessinsider.com/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7"
-webUrl: "https://www.businessinsider.com/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7"
+originalUrl: "https://markets.businessinsider.com/news/stocks/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7"
+webUrl: "https://markets.businessinsider.com/news/stocks/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7"
 type: article
-quality: 49
-heat: 49
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,9 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/62d6bd42f7ae650018341273?width=1200&format=jpeg"
@@ -29,6 +27,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Px30dWe8IBQxVKHLWYeBTss6FU26eM2gVX1zI3DsIaYI7kz76mzf62gS/KdGzBcnOtaHAYXKyVAL+zbMACdhqWXTr7/8nlIvDSMtNubtCw5qcIfn4hwWZUoYDYnkMmtMXw78TvDpVcbUJ9/9jZKm3UYA5niLYAHGdAYd2CKehwR7iyQ2wRcqfyitCQbnyxsF/lWNiNzoaosV8+kOA01GvkgLbgnkw4Mhb7Y4rmnscyfp2hbBICKFzS89YI5EaUuyp8ouUPTCe/xe8PR78cdqfHbIPFFNd3nlCtTMcLbhMtNHGQeK8Vyi7WWeiKwAH35hjYxA3Ri52avFFuRQxUnd1snfZWYwRRdKtAy2o43Q36CBDUHOzhC23v5Kof2iHOBROZZro3wuJ2SPZ05G4uTGfp2UPkokNGqi/leDljoUWUY9ITeiXktB/6F6EAwjbY7vntqhqBvJoxT5Xaqi1BZztNDBNTltEE9b3AS8Ng00ohr3SsrdxXBYLUGbe/AnDrU3ltxQAEtfaMbMsfGHWtxI8A==;m/k+mQgwZ2MFpgpoimR5ew=="
+secured: "/x64mSzSB1aJt7RZji1XkY3yxanf2b2TV35ILctCB36GIOLByuo6sCQqUkcwgBr6tEqJbjsHjiUIHPVcrle6hPkFvw3Od2sIdBPPpwfn6ME6428NQocscCfH4TSl4vfGc0bkYVJUYV9IfJRbd5fd62CYeg0AdN3rAeMkvgBjyLLtreMWI+J7xRdVwqJQY3oFebCPsU7+XjiksDv/a9PGRQgXi/9/fRv1ZwxdPJc6XK7pJyafnBWOTdIDCe3fxeXDAjTIw/O4qhUK9uXM8kaFGjNyOF4npef0J4iBrVOsls6kVpAYvtKdljunLhmrVvuBgGWp/ahsDOZbpKnfWKau57dmZRLqgYQvJmEt9w1lRJ0=;z7n7xlm454rt/y+By55jEQ=="
 ---
 

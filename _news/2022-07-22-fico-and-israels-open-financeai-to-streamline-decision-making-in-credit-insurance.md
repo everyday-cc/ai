@@ -35,7 +35,7 @@ related:
     provider:
       name: The Intercept
       domain: theintercept.com
-    quality: 39
+    quality: 43
     images:
       - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/07/project-nimbus-google.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
         width: 1200

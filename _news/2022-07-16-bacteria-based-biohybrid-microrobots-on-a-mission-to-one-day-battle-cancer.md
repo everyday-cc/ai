@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
-excerpt: "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots."
-publishedDateTime: 2022-07-15T18:00:00Z
-originalUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
-webUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
+excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
+publishedDateTime: 2022-07-16T15:45:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "GIA7SXibrTzhWX5GAuEY+LVgrXs3u1VTmCeOIaa37QL3oLhBkF7OtD4EIm1TCApyV31vOLjvpDPYKrTrmqTBEwiT99K/qGkwJLlMgGdZe91Gx4dcI8mt4D+MWRP5C7+XRo7LxErjk8nTwSK03Vw08yftV66O6s6HlS/LZYQNhu9JN9S4chOzB7WkN14QGsr9mSUe1eRI1HmJr3RuGnTghotusrg0LQS+kxcqdMXc3RRSa2dhQ1+xCwnD9n7XfrUE57D2kX1yyTiN1iZhEPTycZtWMsmkK9Z+QaYGV8qnIafVk+nmyaZwFBkaQdYuFDFh/iAYEQJGPXbJmZFZKDueMfnmHlJqMO2qTqcRuRL6G56j6kVpeiV1GRJz2TwXtbWmc+ybKSoD2kZNpzShcT+50K2PuUcwQG7TsNOr98DFF3bcV8XqXijP6Jc+b2SM+5oNO7ZB+xCLV55/Qadl4KS7KY60QBkWn9hYSW9Bqb703eVDndcPmJpKquoyGlEhuwuSi+kOiaj+zID0dDGlBE6p3Q==;OFupdpJXpKM/hWlxFVvFTg=="
+secured: "SBAe1XOFHUqR8nKe09XL5OxBZ3OjEA0u0PgpdIXNLFy8pezVlhG6/yoRC+frbSvLlPsKSH9YGEDV0lswScRkpFZ/9PqkZEl/Cu3yvuqg44Z3wUeOTSzqGhyDogYv9nJ8Kf266DE4PfrCiBNCnHuH7NspJZfaVFW23UglWfIgJOcECE1fP8kHeOZ4vzHfJBLjuhroAtFwpzrwyCE+NEicAukBszFgx8tg1Ic3Bjk+W93wBRyyyjw+7tYMUJJzzbAjdsBfW4LXOHZ4oxtn2oZ1hE2utOqMCyEbcJH+t9sq8jQPnLUtT8g+CzCoBjgTDQrdFATdZBBT7Rqw/gj2Pycqcgs4Bil+IcB80a0byUgoxQ4=;9nM9UXyt4FAIaARmLlSGqA=="
 ---
 

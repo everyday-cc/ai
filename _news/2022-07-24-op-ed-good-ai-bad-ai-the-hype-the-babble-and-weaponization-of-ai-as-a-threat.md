@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-23T22:55:00Z
 originalUrl: "https://www.digitaljournal.com/world/op-ed-good-ai-bad-ai-the-hype-the-babble-and-weaponization-of-ai-as-a-threat/article"
 webUrl: "https://www.digitaljournal.com/world/op-ed-good-ai-bad-ai-the-hype-the-babble-and-weaponization-of-ai-as-a-threat/article"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:

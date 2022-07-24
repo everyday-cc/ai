@@ -3,8 +3,8 @@ category: news
 title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
 excerpt: "Maverick’s next wingman could be a drone. In the movies, fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
 publishedDateTime: 2022-07-22T12:38:00Z
-originalUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
-webUrl: "https://apnews.com/article/drone-wingman-british-airshow-64ccd15f9cc32d9ce865af07ed8923a7"
+originalUrl: "https://apnews.com/64ccd15f9cc32d9ce865af07ed8923a7"
+webUrl: "https://apnews.com/64ccd15f9cc32d9ce865af07ed8923a7"
 type: article
 quality: 37
 heat: 37
@@ -36,6 +36,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "SfSwrqfMZTLr66dEpTUlu57QzIwS5VlM8HU7J5fMhHJvLZXy3kKWP0UC4eWabvOJ133kR7OcDGqOZSsqmFm0uyuaNR28jImXJcfxl+yXgzl+OWMdB7slDK0f3QLGZOv2HUlxXWj2hMnTsv+B/uRlEUrO4VF/SVS1spL2jdWy2K8x8PfDHis8k3bH0fggYtRdawAIowwWeWq6pUWXY80VVA1eCcEbSdiaQvBF6nXlLXAeNbSF9MpIGXpoXBuOfWtk+NvODg/n6IOjoN5tHlHiY3dwNsk04IY7+4dm4Ho4HqhvDPX5IJPZGowzqfR7qA7iAfSJNWWZa3OmrkM0xbQapFyv2VKHHMPJgilHPvibgoIwf7o/SmYY+H+u01KZZbpk+rQRlcvx1etP1JxEqy+KAgK6goccmZjX1cdR7GXKbY8V57Y5ETys4VZkje4XjJQN3WIwMo7ScxeX3lSooNrXzC22s6JoFvNZDMduf48ZaFhQHpaEtMec7FT5Y3KTtIwoau6OyCoAYyNEEtAm1VZxVg==;4LAC+AXdxNwXhTSjpHJfLw=="
+secured: "dRNhPE0r1hE3bGe2I/6V8fMJESPnhHLjmOVu6krUkypi6jHdaKDZ0N89uL+1k9w4K2C6zDTW4lK5ySszLiQiVhCf5InVzd0SiMUXFmdxgI9hX/hsGRT0kAMoWiVsNZRRmsdaacZBthCCJvBbnUzuJ+rBSfEb7rB3xlzLPeiH7YGA7Dd2IwojiBoCBI0u2UGkz03iw0o4Q8GxSDpr4GgX/4HcxSK3gBkjZ5Z5bxV2VD7hgIInDUMXNokVxB66qJEVD8gp5+BXb1mURBa1xM4XjOS2t7lOzt0++4ditgN9lxgjS7yPA/nV0uYo6yO7xuFs1SgZnz72LcxKz4gGtlDj2WdQGENg1v41tH9bDi19kUQ=;w3+nOPSycsusR+NsUkvx2A=="
 ---
 

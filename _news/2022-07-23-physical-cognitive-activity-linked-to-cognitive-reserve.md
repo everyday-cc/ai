@@ -30,17 +30,12 @@ related:
   - title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
     excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
     publishedDateTime: 2022-07-22T15:41:00Z
-    webUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_a493d896-3fe9-512b-b9c9-b4491f9fe6d9.html"
+    webUrl: "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html"
     type: article
     provider:
-      name: The Bismarck Tribune
-      domain: bismarcktribune.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/7/de/7def8282-38fb-5b2c-98d5-6ef70d23501d/62dad544d07f9.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
+      name: WiscNews
+      domain: wiscnews.com
+    quality: 4
 
 secured: "G538JoU5ZdHJgAQ5PJ/8pP4OiEFt/7dJMh5KR6e0341Y6Ulp7xE17ur++dtry4WzE/XSi5lkGlIwD1+8d9t1iVZmC/hTTCb+WnXfwy1a9hKZmTVesrPoQbx6NCDQ4MtE4nzqPAlDfxHCmBanZDXsWF/4WwpSMYDcGu79z+hTvOD6+H6WI+Ds90HoFu1I/+CZXFcJnd4AiQkm0P3s1XsEKYDPqwqrN4vjmr/UeNTNJ5dS9R4P9CsYW7lfwj6vnPzUrXilPDJV4CC/+Y4SQ5QM8Pg7GRtYX/Ru2ufG2MoLdREy6cjtu90JfknIbaWECLIqg8WgyN+RUTKQXO1hLsoOttGJfzV0TkmiL+E49U6IyXM=;l4IleQPrrRTN4uBzWvPSGA=="
 ---

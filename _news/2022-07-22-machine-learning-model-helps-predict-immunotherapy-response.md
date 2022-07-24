@@ -7,7 +7,7 @@ originalUrl: "https://www.emjreviews.com/oncology/news/machine-learning-model-he
 webUrl: "https://www.emjreviews.com/oncology/news/machine-learning-model-helps-predict-immunotherapy-response/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting cancer immunotherapy response from gut microbiomes using machine learning models"
-    excerpt: "A new research paper was published in Oncotarget on July 19, 2022, titled \"Predicting cancer immunotherapy response from gut microbiomes using machine learning models.\" Cancer immunotherapy has ..."
-    publishedDateTime: 2022-07-19T20:38:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-cancer-immunotherapy-response-gut-microbiomes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-cancer-immunotherapy-response-gut-microbiomes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-cancer-immunotherapy-response-gut-microbiomes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/oncotarget--predicting.jpg"
-        width: 1116
-        height: 1222
-        isCached: true
   - title: "Machine learning models help forecast immunotherapy response from gut microbiomes"
     excerpt: "A new research paper was published in Oncotarget on July 19, 2022, entitled, \"Predicting cancer immunotherapy response from gut microbiomes using machine learning models.\""
     publishedDateTime: 2022-07-20T06:27:00Z

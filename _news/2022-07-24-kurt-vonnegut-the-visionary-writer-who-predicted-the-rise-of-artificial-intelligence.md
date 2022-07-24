@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-24T12:29:00Z
 originalUrl: "https://www.express.co.uk/entertainment/books/1645140/Kurt-Vonnegut-artificial-intelligence-AI-Slaughterhouse-Five"
 webUrl: "https://www.express.co.uk/entertainment/books/1645140/Kurt-Vonnegut-artificial-intelligence-AI-Slaughterhouse-Five"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Daily Express

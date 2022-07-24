@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-24T10:00:00Z
 originalUrl: "https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/"
 webUrl: "https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/07/project-nimbus-google.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
