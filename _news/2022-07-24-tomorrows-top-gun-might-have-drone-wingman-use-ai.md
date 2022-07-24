@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
-excerpt: "Movie fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
-publishedDateTime: 2022-07-23T17:00:00Z
-originalUrl: "https://www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
-webUrl: "https://www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/"
-ampWebUrl: "https://www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tomorrows-top-gun-might-have-drone-wingman-use-ai/?amp=1"
+title: "Tomorrow's 'Top Gun' Might Have Drone Wingman, Use AI"
+excerpt: "New technologies, though, are set to redefine what it means to be a \"Top Gun,\" as algorithms, data and machines take on a bigger role in the cockpit — changes hinted at in \"Top Gun: Maverick\""
+publishedDateTime: 2022-07-24T06:59:00Z
+originalUrl: "https://www.voanews.com/a/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html"
+webUrl: "https://www.voanews.com/a/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html"
+ampWebUrl: "https://www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html"
+cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://gdb.voanews.com/09680000-0a00-0242-088e-08da6bd7e0c6_w1080_h608_s.jpg"
+    width: 1080
+    height: 608
+    isCached: true
 
 related:
   - title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
@@ -35,6 +41,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "94nMppeVg+YQoIL6ZEnAioIjjwUtvewOQO7A9Sv0zJmQzoZDJAfpCWfn5dfGdpN207mmAOKu8kuLLABTyOmKN6pH/yAZ0CM5HGtTA+j5YWUCsS0XrUTUUXbo0a61err8S1KqgmRyvP8VGUTAdFj1EMlije2RStf6Gqvleod0hNxAKt5IXxKeasKixzSi/ADOcsnQfSnqGyY3g4CQPiRTjUC/gq3iwd7G0sPaw0+0zEGw7CKnSfBp/G6el97NthG7EpmCBPCtVIyKEPVLTSa6pVq7+UNXgz103ojIgQoEOawu3wCj3KfCxGm7bOH100g4bk91zR6mTF4MGzt+z2ovfssH4BQVFI2t3X1cmLIaR5h9jSxVThW4HSHCq7rJ0dQTZ3WHu17/efLgXipOcM/Orepj5fIWG2x8boMxs+DAEW3HBzc7bY6WiPAp3VUdxCgV0kJvU1fDAMd7uBkzmPYLPaOH1xW8GF+rvxBBYP6CSs8i/toIUfAqG5CV79fxK5XHhoOQzrG0IHRrv9QBgkCeKA==;rB5mpDJyTakPBFrc+c0QPg=="
+secured: "JCT7/m/8gfs6Rr7snZnDiETQL8gpweBhPwf/5WupVXVPeu0oT3K3uZ12HXbZyLhL/vg93TIHpyAtdloJoqtn/6W3SglZKv2bhy1L7/HpStsGoTz9/yr0Chd9o/zxelmiJ2VcE07zlV5kolBufiQEh7Z1H4gYS/uBcuI7gf14ockZygoVpc/i6NOfgOBfASiNBYeWm292m2QMzp2q1RAeO7jAr9eXco6SY6Qfa8ZBhBglcrxQIc1vxrAIh0ZsuSttKyUlZA8PWCequ27BMfW224HlUO09LQ5aS0fJ2vQ1t4SHbZJ8LS6gHRveLB6TShsvjAsNHwZ0wIXZNvP6hg2pWTeR8U0iSc5PQ83P5+EffJQ=;/b3HpgWnhKOxvVL5y9i5gQ=="
 ---
 

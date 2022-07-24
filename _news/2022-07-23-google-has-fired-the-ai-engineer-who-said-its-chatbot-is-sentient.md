@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
-excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
-publishedDateTime: 2022-07-23T23:04:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
-webUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
+title: "Google has fired the AI engineer who said its chatbot is sentient"
+excerpt: "Lemoine, also an ordained Christian mystic priest, made headlines worldwide last month after claiming LaMDA was sentient. The conversations he published included the bot's views on"
+publishedDateTime: 2022-07-23T14:51:00Z
+originalUrl: "https://www.techspot.com/news/95403-google-has-fired-ai-engineer-who-chatbot-sentient.html"
+webUrl: "https://www.techspot.com/news/95403-google-has-fired-ai-engineer-who-chatbot-sentient.html"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: TechSpot
+  domain: techspot.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkLdr1RvviY/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-15-image-29.jpg"
+    width: 2500
+    height: 1899
     isCached: true
 
 related:
@@ -154,19 +154,19 @@ related:
         width: 4480
         height: 2987
         isCached: true
-  - title: "Google has fired the AI engineer who said its chatbot is sentient"
-    excerpt: "Lemoine, also an ordained Christian mystic priest, made headlines worldwide last month after claiming LaMDA was sentient. The conversations he published included the bot's views on"
-    publishedDateTime: 2022-07-23T14:51:00Z
-    webUrl: "https://www.techspot.com/news/95403-google-has-fired-ai-engineer-who-chatbot-sentient.html"
+  - title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
+    excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
+    publishedDateTime: 2022-07-23T23:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 67
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-15-image-29.jpg"
-        width: 2500
-        height: 1899
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkLdr1RvviY/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Google fires employee who suspects AI sentience"
     excerpt: "Alphabet Inc’s Google said on Friday it has fired a senior software engineer who claimed the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware"
@@ -258,6 +258,6 @@ related:
       domain: techworm.net
     quality: 17
 
-secured: "EXBq2cbwJmM3rj/MyXKjXFjLhl4gvGnqcdat6NwNel2vdYniUv1z1LEbOrMpq+P/7CaUqD8Bt0bFWzvMi72+DdFCtpRhNOiTrV0GHwMbLNY/jZFMCgRodHBe1S+uXOD3+lNHBR9BsWBOSTy1X4hNQKdqEUC6Ba3sP1Khvthz6aKk/gJ2amsZ02V80iCEVJsab8qC+Hk5NG/dZEjM9823OBQA9O8xVzJzk4O/E7x+e7WIs53qGGxFHJlAjo/36vkVkOPeCk1W5btfOcSPw3aojCEvb4pQoQnamIGNzEr7E7aO/jtyO4CyG57Sy7RPC/LinFI632Gy1gQf5RemDpfJz8mQDnxTd+6n4TNPaDZWk+uDbeMxlREqoS6wi3VcxoUqSOfEMaEM0iaqOR9KL1vMBsuEuwg377IOF5E/k9zm24zJjQ+zzPvzQmY8aFaOAXjFHumEyj4KUHHxbOZAfS4Cdivix8w3Ay38Kq6KeB7mrTKPJ0GYnKYvpN+eB4uoIDP1/PCQvb1d5qfZwzgtp+wnFA==;P41QZcuy53z2VZOhXxCnxg=="
+secured: "t6JnwFDH/cuQxAt4iAppvYF9PBB4+LqwZ00bpx8hda3jlQb8MJSWYqbRBqohJzzPBAnmlU0XmNQecMXTWPJklalXClspG5rB/Tw/qNxxYKZurbRm8SPK1lFUMGSXEl4cx6kZbAsBrJB2y6XtRx7s18ZwgmalZ/wE8WTos57UHhRnDc6X6HR+NQ9aFETZJ5GD9w7hl69LnA+2nLGTVkhOXsLcxvcMzOjK5G4i+rwBGu11XLAwafR7Wlz52Gn4/P4WAmxCbO6MgWIVfRHps0PrBy8p6va4VwTne2Xe7svFcCL9n3GkJzEjMtnOY2Fdr0gdyf81evITERByKIIqPt52bpHnGX9jHDHd6yE4qz65lF8=;/etgyKBPek1zlXFikCIOOg=="
 ---
 

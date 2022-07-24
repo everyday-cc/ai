@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/technology/elon-musk-has-likely-downl
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: TheStreet.com
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 400
     isCached: true
-
-related:
-  - title: "Elon Musk Probably Downloaded His Brain into a Robot"
-    excerpt: "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,"
-    publishedDateTime: 2022-07-19T23:54:00Z
-    webUrl: "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine"
-    ampWebUrl: "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg"
-        width: 620
-        height: 400
-        isCached: true
 
 secured: "WrmyFEyeI1LGehZDkq0X8QtaVk3cZV+yzCv2WyAhyaVVqK+EhbvwdwvCvBiDYIjlqzO3cM7OMvw+TyJQ8Pw/v+y6FygJd6zeOStlTgT9CHZLHDzit9JysyGs+XLHo4h54yHBefVksMig90qiWZHOvea5cVIp7StzuO/TPO6SHilUOdQVn4PdOWTeIAXfMnMURoneg+bdVvaehou/IJKBt9Ii0sIrfFuFJ3idwqQAseH096wkJibAwnznNr7WupLlundgl45yy15l/McRf33pwKclPB7K6EK3wXgF3XpJtMa+fYjxUbdw/btbN7jOkcTcyp7SkEHms85F/1mYvWBWCuDXftgWC6Iautp0Vg/1Csa7LVStQFiWYg/p4We/GFcV5RG6/ZN96kmOpgslh1Nt9e0s8NydHAcxyPAhW+/ViEUIr+w2pcOgTyj6oTOtdCYrnjm22E2OtwHLu6aQQP6XXVB7KKQzbsskjuMLqKYGZX0c5gnJMW6e1uQRTx/jwtTs7N5Zr8F28QqzA6uLaltbXQ==;j2MhhpXEMTLQ3TTvlThTwA=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "New Orleans City Council votes to reinstate use of facial recognition technology"
-excerpt: "The council is expected to consider reinstating the use of facial recognition technology during its Thursday council meeting."
-publishedDateTime: 2022-07-21T18:32:00Z
-originalUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
-webUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
-ampWebUrl: "https://www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
-cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
+title: "Retailers vow to avoid facial recognition"
+excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+publishedDateTime: 2022-07-24T17:30:00Z
+originalUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
+webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WDSU
-  domain: wdsu.com
+  name: Crikey
+  domain: crikey.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/vidthumb/d56fa358-ab4e-44df-bce4-ae4cb6dfbbf2/thumb_1920x1080_00002_1571261240_79527.jpg?crop=0.806xw:0.806xh;0.0538xw,0.0493xh&resize=1200:*"
-    width: 1200
-    height: 674
+  - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -43,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Orleans City Council votes to reinstate use of facial recognition technology"
+    excerpt: "The council is expected to consider reinstating the use of facial recognition technology during its Thursday council meeting."
+    publishedDateTime: 2022-07-21T18:32:00Z
+    webUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
+    ampWebUrl: "https://www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
+    cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
+    type: article
+    provider:
+      name: WDSU
+      domain: wdsu.com
+    quality: 54
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/d56fa358-ab4e-44df-bce4-ae4cb6dfbbf2/thumb_1920x1080_00002_1571261240_79527.jpg?crop=0.806xw:0.806xh;0.0538xw,0.0493xh&resize=1200:*"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "NOLA Coalition Praises Council’s Vote Allowing Facial Recognition Tech"
     excerpt: "The NOLA Coalition — a collection of local nonprofits, civic organizations and businesses that have joined forces to address crime and quality-of-life issues — has expressed support for the City Council’s July 21 vote that approved pay raises for New Orleans police officers and overturned a previous council ban on using existing facial recognition technology to"
     publishedDateTime: 2022-07-22T17:06:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2022/07/n/t/gettyimages-1315599813.jpg"
         width: 800
         height: 499
-        isCached: true
-  - title: "Retailers vow to avoid facial recognition"
-    excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
-    publishedDateTime: 2022-07-24T17:30:00Z
-    webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 54
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
     excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition technology while investigating violent crimes, effectively reversing a ban on that and other surveillance technology imposed last year amid concerns that ..."
@@ -111,6 +111,6 @@ related:
       domain: chron.com
     quality: 19
 
-secured: "cmyIaLgMXl2F85gaDY7UGFNw+zj3GeL97x572/I130V+fR1WuBoywqUmTAV5WtnJmMcDMVJb5jy7IjrVwIIND+H3m3Z7N1w0H3G+qfCtbdpE3sdF9c/shJbTwVyDRdm+u7I9KVMUFvbJZR/n/fZIxAMrrk61dq5vBvmORBkw/9jrlG1CQ5ZhzGXdjmwEelGNou5c3B/Sa9XIgnLp/bh3S2baeg80D50RkUj+TgQkbFOrfzA+U7XsXBlzLwHIusSr/qMk38XmhRvxCBqwfg/IjQ9NS6asYX/ycQla22DsU71Kxh1f6xtCct4qfEW0622ToKVW1aKQK7QKQztPa2W8EaMySkLxIPqznka1ppSWlLJHOC6aMgPWEziS4nNwMkTtYR1LHV/JKFxrdG6KpYeEVVdXe7BFOR0nB8L/GxgF7rmMrV4jiNZAExT6AU+C63/ssjTK0/2jH1VNydMAykf5iKnO7imClH8tY9k7fB2VnkS4vMhU2kAQDtr/VLPTHGXXbgJbEnBXH5btSRf7ube3vg==;YZs3ZP8QwVXImXrPe3xMmw=="
+secured: "7gO04290kfk81CzUeMxa6+QJNBBAqW6zhH88WM76y5b1q4Txitq14GTzCuBiCWZ/d6AZVQ3PuiVaUq+pAV3u56MumulT+72FTNV2Pb0fNBZX0RNhupfn7y6Ys/M2B8qAwr81empzfPQAvicw6fDkJ1NvwKUUBX/em+/2qZsO+wYtHDrh2qTdCbLsxOYXe4Eb9xJfYrNWPhFN0F9y0FnNbKCdg18F4q9tX+O/WDVwx3qzMn7Jj6ccDaYQW2moIb3vuv3+Up1P72lNP/TpfsAXco0RW3AwaVZUCH/6o6gxq5n7QibxY4KfIjJncTYKARAFox4cCJAaCB5a58PQ98jRArvalmdgPZimVdxsNEp2Dn4=;LN5D9GDKsN9GWxKgbTBQaw=="
 ---
 

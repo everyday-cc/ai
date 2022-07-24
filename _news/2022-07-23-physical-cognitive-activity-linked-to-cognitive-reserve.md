@@ -2,28 +2,26 @@
 category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "FRIDAY, July 22, 2022 (HealthDay News) -- Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by ..."
-publishedDateTime: 2022-07-22T17:11:00Z
-originalUrl: "https://tucson.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b3e8a9ef-b723-537c-afcb-06a86c49f1d9.html"
-webUrl: "https://tucson.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b3e8a9ef-b723-537c-afcb-06a86c49f1d9.html"
-ampWebUrl: "https://tucson.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b3e8a9ef-b723-537c-afcb-06a86c49f1d9.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b3e8a9ef-b723-537c-afcb-06a86c49f1d9.amp.html"
+publishedDateTime: 2022-07-22T17:07:00Z
+originalUrl: "https://journalnow.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_5741797d-8307-58af-aec4-5e3d71337ae3.html"
+webUrl: "https://journalnow.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_5741797d-8307-58af-aec4-5e3d71337ae3.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Winston-Salem Journal
+  domain: journalnow.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/2/de/2dec2c9c-16e1-5764-b0a3-97e340dd4ba2/62dad7cc99871.image.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/c6/9c6d582d-91b5-5bf4-ab7e-e87800fbbd65/62dad7e677dc5.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
     width: 600
-    height: 466
+    height: 315
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: wiscnews.com
     quality: 4
 
-secured: "G538JoU5ZdHJgAQ5PJ/8pP4OiEFt/7dJMh5KR6e0341Y6Ulp7xE17ur++dtry4WzE/XSi5lkGlIwD1+8d9t1iVZmC/hTTCb+WnXfwy1a9hKZmTVesrPoQbx6NCDQ4MtE4nzqPAlDfxHCmBanZDXsWF/4WwpSMYDcGu79z+hTvOD6+H6WI+Ds90HoFu1I/+CZXFcJnd4AiQkm0P3s1XsEKYDPqwqrN4vjmr/UeNTNJ5dS9R4P9CsYW7lfwj6vnPzUrXilPDJV4CC/+Y4SQ5QM8Pg7GRtYX/Ru2ufG2MoLdREy6cjtu90JfknIbaWECLIqg8WgyN+RUTKQXO1hLsoOttGJfzV0TkmiL+E49U6IyXM=;l4IleQPrrRTN4uBzWvPSGA=="
+secured: "UvUvzilMxokz1MCyVpL8sX7z1GhHtiotpIKWPROkm6Z379Zbr6d7Xv5xA9U142hlOddkEoYM17Elfa2pVi+AZ0cvcSGVn8MUTU/7TpeYfIZhA2CcbIaAP2OmQjbe8+ayDJQuq4RnAw6xsMHBdIJxmO18uFeenSrdITsTAUqaCMovAY/CBv4uBEwTVL9uBp4cx523MEWgmHd1xHy7IK4X8eota3NW/Dk2NUp6OPmZ45uMoAYFtVBirFBJVFg/rE6ApkyzjqzNYc4FYSLpldXk+g0rLNm6g/KDA304tBwibrp1zMWNlMmjoH8Ic8VdrTqu9RFTOG/r4J07n8xWa/iFHYfLAlLOi8a/iKfWkSQJjUY=;RkRPmlm7Gfv3I48H7v8X1w=="
 ---
 

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "6 Technologies and Practices Impacting the Future of Data and Analytics in Higher Ed"
-    excerpt: "The time is ripe for higher education leaders to plan for data and analytics technology solutions and practices that will position their institutions for success, according to a new report from Educause."
-    publishedDateTime: 2022-07-19T23:03:00Z
-    webUrl: "https://campustechnology.com/articles/2022/07/19/6-technologies-and-practices-impacting-the-future-of-data-and-analytics-in-higher-ed.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 17
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/07/20220719dataanalytics.jpg"
-        width: 644
-        height: 360
-        isCached: true
   - title: "SecureKloud Technologies Announces DataEdge, A First-of-its-kind AI-powered Data Analytics Platform"
     excerpt: "SecureKloud Technologies today launched DataEdge that enables enterprises to power insight-driven decision-making capabilities."
     publishedDateTime: 2022-07-21T12:22:00Z

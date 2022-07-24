@@ -39,20 +39,6 @@ related:
         width: 736
         height: 400
         isCached: true
-  - title: "Push For AI Innovation Can Create Dangerous Products"
-    excerpt: "This past June, the U.S. National Highway Traffic Safety Administration announced a probe into Tesla's autopilot software. Data gathered from 16"
-    publishedDateTime: 2022-07-19T23:15:00Z
-    webUrl: "https://menafn.com/1104557332/Push-For-AI-Innovation-Can-Create-Dangerous-Products"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/19/TC_32a7dimage_story.jpg"
-        width: 1875
-        height: 1019
-        isCached: true
   - title: "Commentary: Push for innovation in artificial intelligence can create dangerous products"
     excerpt: "There is a perverse incentive for firms to design AI that is artificially innocent. A better approach would involve more extensive harm reduction, says a professor of management."
     publishedDateTime: 2022-07-22T22:00:00Z

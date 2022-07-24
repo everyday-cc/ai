@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-publishedDateTime: 2022-07-21T04:07:00Z
-originalUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
-cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
+publishedDateTime: 2022-07-21T12:59:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WOKV
-  domain: wokv.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
-    width: 1440
-    height: 810
+  - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/21/baidu.png?itok=OsQDVE1m"
         width: 600
         height: 314
-        isCached: true
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "HONG KONG--Baidu, a Chinese search engine and artificial intelligence firm ... the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-    publishedDateTime: 2022-07-20T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14675706"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/cc04-p/picture/26975022/f75a7b78d0e2586f8688213b70f6df3c.jpg"
-        width: 660
-        height: 440
         isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
@@ -164,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "XkPnHqT8W70dEWO8+n6oYzDnGRAXX0ztXuYr12Ipya5IPj+Be4QffO7TShNl8ac+J7/L2wIrc8aq9PY+GFh5AZcfrJkcv23vMdXRsdKuYo7/xCnvxFOmnykZQDsQ5/Gkv1POm66OB3XUXRQ45dpMgiHa0rDule2La7N3ccqjmmQFDLl5qbvBDSbwbDL3DQUyzNVUyeGdCU2o1mixO6Iya+EA/9i53RhZ5qqQcIHn1tt/roX0A7l0nB7q3uVAx9Ppv3XN6Kcyozt7sEInq8SPKxt32Os8iZ4xjeZ246raDtXQhewWqGMDVbr1JM68iY+8rwhWcZYzGNRtykCi3n7oFM6jZu2jzQprCldaYYqwzAs=;eEoDe6x6BVTrxQdkB7oGIQ=="
+secured: "cKsmhy1tVR2ZAdMFHUxa1ZdizBRrencrd1BHefnafziy86QJwSOpegJmoPCMn11SV8dCWQn4oGKqNZvSZAU1p7nWGbA1Dee58HewLgFAEja74z51RrPWVlHGj16Sjvm9aZLpnPbM2mWif7GVyKKh71GXKzw4Rs8uBkxzr2f2dwuNLT0kdFBihK8TlF3h6XTpyiGNZ0za0g59QoJZd30K+O6xBXBflYFMSAitDYvSBttW39PBXfs8Sve9OpFRMgtO0KqjqOOosct2LpMrD2DCROiJ3rjMdo5O1BtruwmZL2VaI9v2jaMtMNDXM1mE8PeC//v42hqvl+U2OVQ+QybGJTb2w9LnFM8u3VBG8Dlpztc=;wcrPBQ045I1tHS92JFe2Qg=="
 ---
 

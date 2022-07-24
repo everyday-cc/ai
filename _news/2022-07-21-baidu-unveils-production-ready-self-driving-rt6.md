@@ -42,34 +42,20 @@ related:
         height: 314
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-    publishedDateTime: 2022-07-21T04:07:00Z
-    webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-    ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle"
+    publishedDateTime: 2022-07-21T12:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
     type: article
     provider:
-      name: WOKV
-      domain: wokv.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "HONG KONG--Baidu, a Chinese search engine and artificial intelligence firm ... the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-    publishedDateTime: 2022-07-20T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14675706"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/cc04-p/picture/26975022/f75a7b78d0e2586f8688213b70f6df3c.jpg"
-        width: 660
-        height: 440
+      - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
@@ -164,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "iOcri6IDBvANId93OK/gu8a7+/+xOCoP2c3wRTXpCkrKlGTPcGWq7rw2yVcQ8Kwve44R+ztbbkxCTqKanskM7vjSiAokxuTeVoU1t2fBxHfcZKTyDyfdjRV//cFjMWaUt71e7ZNhd/l9Dn9Qlgwho7IrVY6x5MrFPAQ7F4ZKdTNzBQ20lVYj2LnyTFGlVbHfoJBsmM5LWtIzJHELThXbWjFxfWcdF1VF3JT3XL4LEDbIiXmrbkBxhBm4x0zvT7aFDQ58GofC/O/P6SN9QUG7uaYMH2WGVGPGN+s89PTXDuMNoiCCFefEk88ZAodJpwAc95VfxBwXrbJ6X+FT56/2GPuozH9f+egsuHv/X1CEih4=;X648jpoDN8uZx+6TLVJY7Q=="
+secured: "wv0GDfi360jNL9k6wey/JPts1BKYM1M8irYKV1knveZ6aEUfa8h2PZSK2gBqVlxD7SHDttNaQ6V/EDrSIZfP5ZVc9H/X8KfH0d2o2TAzWkgG3zG4lk8wldFtFWp1QjYJK9Xb+MNf3szKkONEDS7sEDfT2Zx09x8YTLzIc+CiEvWexd3+KhsluXNDHiRKcA3xCuwUlj6+gerflgFUQUwIuLE51nTvy2Vdzzyvdutqyg6eKeMTu2m5nKYKyyOSqpiXPLXKPZrYC8Th7pVRqlX39j4mE1JnY/XhVgnWYZApLK4IlYLRMYAguzStUyYlC9G27XY6HyE8VBNfwfXL6NsCrACtP1vz0EfOCDKaUrZUL3U=;C+Wg7aeUqZVDbhmgUp0XmQ=="
 ---
 

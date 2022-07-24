@@ -2,6 +2,83 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-06-14-comet-expands-alliances-across-the-complete-machine-learning-lifecycle.md",
+      "title": "Comet Expands Alliances Across the Complete Machine Learning Lifecycle",
+      "excerpt": "Comet, provider of the leading development platform for machine learning (ML) teams from startup to enterprise, today announced several integrations – including Ray, Kubeflow, and Google Vertex AI – that will eliminate complexity,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-646d7111abae4cfdaa469e8645c618e6",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-646d7111abae4cfdaa469e8645c618e6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india.md",
+      "title": "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India",
+      "excerpt": "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
       "title": "Consumers drive retail’s digital transformation, says Microsoft",
       "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
@@ -1061,82 +1138,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-why-you-need-an-ai-ethics-committee.md",
-      "title": "Why You Need an AI Ethics Committee",
-      "excerpt": "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee",
-      "originalUrl": "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-spotify-to-acquire-ai-voice-startup-sonantic.md",
-      "title": "Spotify to Acquire AI Voice Startup Sonantic",
-      "excerpt": "Sonantic has also worked with Val Kilmer, who was diagnosed with throat cancer and underwent a tracheotomy in 2014, to develop an AI voice model based on past audio recordings of Kilmer’s voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!",
-      "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-1013933284-H-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "publishedDateTime": "2022-06-13T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

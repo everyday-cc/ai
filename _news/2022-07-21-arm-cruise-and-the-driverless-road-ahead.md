@@ -33,20 +33,6 @@ related:
         width: 720
         height: 479
         isCached: true
-  - title: "Driverless tractors are here, and that’s just the beginning for the future of farming"
-    excerpt: "In 2022, that’s a common sight during harvest in South Dakota. But what makes this scenario unique is the fact that there is nobody driving the tractor. The combine operator pressed a button on his tablet in the cab,"
-    publishedDateTime: 2022-07-20T00:07:00Z
-    webUrl: "https://www.agweek.com/business/driverless-tractors-are-here-and-thats-just-the-beginning-for-the-future-of-farming"
-    type: article
-    provider:
-      name: AGWeek
-      domain: agweek.com
-    quality: 32
-    images:
-      - url: "https://cdn.forumcomm.com/dims4/default/bf3e2b8/2147483647/strip/true/crop/6000x2917+0+542/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2Fc8%2Fcc%2F3b1982c34885ac6903622899f30a%2F072022.N.DR.AUTOFARMING5.JPG"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "gG3X4i0qYPJkssLK26gX9KJLU8NBQoM/O4kZ7IO9WSgr5YXxcf3i8m0TlzCM8HYTBAsj0EVG4mSScqMjugj3NOshLOL11RUs521v2uKJufqFwrTDoup20YXHpQjzknOXD3YOTXeecs4YXnydS67vGNcza9NeIWdLs50oDoKfAYxfRvz9F+SBGfHT6VMp0eZq6elfiWSH54bxiuIKNLBwgpfFmSLeD6NbcKsbVflReISfep6mDPtpvX0/GUmb/AYIn3IK/ALzsvNH6Z0t3wNPtlqL3eNsvbPcGkN512xo6/XwVUINKaQkdaoUFQ2N7u7XUYjILXqtMUmpZCcwKua+OlELni0Vc0QfRh6ndOLhQcI=;TSKlImvuTB8HbN07KehgEg=="
 ---

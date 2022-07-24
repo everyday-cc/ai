@@ -1,26 +1,33 @@
 ---
 category: news
 title: "Google fires software engineer who claimed its AI chatbot is sentient"
-excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-publishedDateTime: 2022-07-23T08:36:00Z
-originalUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
-webUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
+excerpt: "Alphabet's Google said it has dismissed a senior software engineer who claimed the company's artificial intelligence chatbot LaMDA was a self-aware person."
+publishedDateTime: 2022-07-23T03:32:00Z
+originalUrl: "https://www.cnbc.com/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+webUrl: "https://www.cnbc.com/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+ampWebUrl: "https://www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/23/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient.html"
 type: article
-quality: 49
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107093103-1658554313967-gettyimages-1241233010-7t4i4jhioei6zjbccg53shntbm.jpeg?v=1658554360"
+    width: 4480
+    height: 2987
+    isCached: true
 
 related:
   - title: "Google fires engineer who contended its AI technology was sentient"
@@ -74,7 +81,7 @@ related:
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
     publishedDateTime: 2022-07-23T19:37:00Z
-    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
     type: article
@@ -132,6 +139,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/4d715d50-eb32-11ec-bffb-ca31c9bdd8c8"
         width: 4480
         height: 2987
+        isCached: true
+  - title: "Google has fired the AI engineer who said its chatbot is sentient"
+    excerpt: "Lemoine, also an ordained Christian mystic priest, made headlines worldwide last month after claiming LaMDA was sentient. The conversations he published included the bot's views on"
+    publishedDateTime: 2022-07-23T14:51:00Z
+    webUrl: "https://www.techspot.com/news/95403-google-has-fired-ai-engineer-who-chatbot-sentient.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-15-image-29.jpg"
+        width: 2500
+        height: 1899
         isCached: true
   - title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
     excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
@@ -237,6 +258,6 @@ related:
       domain: techworm.net
     quality: 17
 
-secured: "H2LNlZvbnKY0Ln3PvpLtLmUCeu5GLQMwnuHXcAa4Uz+r0RSCl97Hyw9AO8rgt6PK9U1xSY3g7inmPC6nwjmiF4qR9Yr4rCbzxTn20hafLWyKfV5QHOZ4BeohaELX0iw1N1nVktDF/mgqebWGCe7KRKxMcB/tevyqfHh2Ig1ekivRwcmZ4ArKsNhrAUn/z9aP4blvhZrb/ZCMh4tlbOZ/c0ls+6QS53COtNvc9o0jVESbceBtWC+BUlx+q4xBBdU3H2O/9GBvTK7BXx46SoUTSaIUa7IJh2aIC6YD7a9kcJI57sV6rYvD0yXgu2fNEAqmcPi8UDBd7geqU/f9+X0DTWGUUaKj/6zY/d9jXItDXeG2rV0V8wxKqvNZK6hgE1nx62Qx4G2G3wLwFOBV/ysAiHe+DSuZkgGB4ZpJXaR7mR+zIErpNCyJwYO6GYt+5U6grbxR23KbTPhHFEopjARdIVJqnhpPgL1SaOkEbG+agfaE++4jP4GLxLAiaerA8qKYwUCxF/UoCQx7gnQzhN/h6Q==;uTcZqA9fSCN7k74chMHdSw=="
+secured: "fouxldXB1WwbyioD2WosqJYbF9+X5TtEgod33ic0LcwnlkEEFKCeMfe5toUoRh35t0aDZz1Yoi5z1GFfmUJLmx0duJf1EBN517rXYuUN3shPrX5fP9pPq97qEdnxbyTBDE0/Y3Q9Ys9Gqfr1W/hJQ2Cfh3TlycUG4c3+HemVJ7dEMBhiptUxPtJ/QoJJ6NUerGvPAkPlUowG/Xc/LE9dawTYGEUBOKdiT+HPoRSDNebZBzqhAJ7ya5kWZTA4+rCk4KhjuWEZXvDDU99x6VBhzatx3gpAwHY9ZeGE3DD8WrrOCkvQy3cyEm2TyK3DNydvtICPBGTfripMxDAzN8vhV2EV4oonBEQMEfJpvZeX3Gk=;6SxuBv4CyQVBGibi+AuI2A=="
 ---
 

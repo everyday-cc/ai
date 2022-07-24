@@ -41,20 +41,6 @@ related:
         width: 736
         height: 400
         isCached: true
-  - title: "Push For AI Innovation Can Create Dangerous Products"
-    excerpt: "This past June, the U.S. National Highway Traffic Safety Administration announced a probe into Tesla's autopilot software. Data gathered from 16"
-    publishedDateTime: 2022-07-19T23:15:00Z
-    webUrl: "https://menafn.com/1104557332/Push-For-AI-Innovation-Can-Create-Dangerous-Products"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/19/TC_32a7dimage_story.jpg"
-        width: 1875
-        height: 1019
-        isCached: true
   - title: "New AI software can create proteins that may be useful as vaccines, cancer treatments"
     excerpt: "Scientists have developed artificial intelligence software that can create proteins that may be useful as vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
     publishedDateTime: 2022-07-22T01:01:00Z
