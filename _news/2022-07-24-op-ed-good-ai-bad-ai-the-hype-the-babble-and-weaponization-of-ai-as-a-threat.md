@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Watsona.jpg"
@@ -23,6 +24,6 @@ images:
     height: 480
     isCached: true
 
-secured: "MZCw1IFhpJfYmUfj458eiGeXXuhRVpafpP0UoGMW/ntGD7oZNtEsjx1ykD8ib7JeCriOquxe/CopOmVZLfi+9l+C8qTxpGB0KEhjL836mAaW45YxwivhC5USx1wXb/T98wD1TqpmNNL2iBaBZbkfID8dTq2UeYiE/NvNBwdGk6Q48yxIPqjo6pAOHRx4H0xTlibE/o6FTwxQGy6sPkd9L9zccY1Eh6pGvxczkcVQBJ+aFL4BQQ77aC3QDr3WtNBxm3qSAP5pT9DPA8S6jJMLIOIWa8HABmlj2vrFwi/QI0Ba6abtfiiPVYwJoNKvXpjszxgyoCuTqMntXeww97NaEnRUpAhgw0+HDKr96VsVGPE=;8WBi5WtA4y60+h/C1xXB/A=="
+secured: "2vnXMdzfdwuR9m4LweLVkbQhb123hDr6Rt8AwCZZpjh97pFlHrduEt1sLM5aqO/fn5JmZCaJ+Q0px5HqTPMdeMQVg/L/Lhs/fbuW4NsyWfoC+5r3e29Xtu17HCv/RHKdf2fPJj9zIehsdOaMXjGM8uPiqDRV3p30PZfX1IlPWmKfvNlI1MgDRjo0iUcH67mAAsI/my4eyO/81AsEXNIksVl2NUds9CXyyuWOQXMsRYY2js13xGbeFuRkanxn/Jplkq+IHmotvKkfsU7ng/mGLeW7E9CIg+QRzjcUM9PWR09g8exRfZBJoQyavUL90u5zDZziMUIymeSRWP+PMz5RqkeFBjA7wVfjm4JCBwJQ/EN8jg5ZGP84zN/CGjAgTQgDmgQ8cCM68ly3o9yagxCY1OJAi3DVKBdbIDE7ktHCun+PnzuYBLr2PGZ0FXrz2HBDuK7U0S0C8VChR+ahhJ4uvyDuFHVDkenXS1meJDgyU46Yj+VxnTwpdDy14RzwPZfvPZdprwY+Ij2VPReb7sg8bA==;feaXzGApls/X+SiHQO2AhQ=="
 ---
 

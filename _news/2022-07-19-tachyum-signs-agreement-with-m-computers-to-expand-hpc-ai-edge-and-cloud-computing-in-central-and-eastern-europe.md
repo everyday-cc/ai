@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Tachyum Signs Agreement with M Computers to Expand HPC, AI, Edge and Cloud Computing in Central and Eastern Europe"
-excerpt: "M Computers is a leader in HPC, supercomputing and AI in the CEE region, and specializes in the design and delivery of computing clusters, high-capacity storage, servers, and data storage. M Computers’ specialists design optimal server configurations,"
-publishedDateTime: 2022-07-19T12:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-czech-republic-eastern-europe-artificial-intelligence-53c0fcd63e6e4d9a9a75c5d87d181bef"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-czech-republic-eastern-europe-artificial-intelligence-53c0fcd63e6e4d9a9a75c5d87d181bef"
+excerpt: "Tachyum™ today announced it has entered into an agreement with M Computers, an IT services provider based in the Czech Republic, to bring Tachyum's Prodigy technology to commercial, industrial, and scientific research institutions in Central and Eastern Europe (CEE)."
+publishedDateTime: 2022-07-19T13:48:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/19/9640964.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/19/9640964.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "prYhY44ngOaCr50Sv4j04+xHZo+EYKpzJ+flp6al7mz2369u8qdkCkFcYH9evNtzD2eD2fxBj9EBEabi0renEU5vUP+tQA3jNOJ1kCnxtSuRaXqYEFnl9rXJaX2ZWeNNlFW9gkkkhMm0G5mSFyDdAZnWO9uFdt8ekMrZ4d0SZLlIKQZI6lRfm/xDlayeTdEhkv90nHvqVw/pfNHsSZpeeTWnjGO9+KLG/d5UJ9zuBNWrDL9AbFxxGAY6uENPOFcPBBJvuDfkesowZmLetFgEIWwodNWRCCfq+IhUunvNm+Zy1oFZaV1ggGkJsCole+ATT/JqYMLHdWsxi02xeNmPt+CUhA6XMY60zzcqjJShpbI=;OZqM7Gc752Qy0v8/UOI2cA=="
+secured: "i0C7vbfHVAYf6YMfOJdhu/pNT2psmfJtLtcg/NfCzF0MySnBuAOBE08WhbpUCMf6SaFWJ/cBLv8yLFuzPBygBXroYYpvP6d3wOHu6hyEnytEYoogzRqPppjfV8OIUY0i8WJk27ixUMgkeJ800bk61kD8bmpTGDgr4gojyWjrBQ7SZHxm1PqD/Q8axPo/kiRTSCtIiFq1vO05Bbui6qPRT42TxJi8aSr33VfPWSVhX0O2OoBkDdSZjXL6KUBSow4UhaufEzUKrFmzdUt+z88zNx/PZg3huvP2FyEo1tc9xCJab+eLK9zygSUvFlh8oia6fbHQRssSqFoPYF1y0VcCCJ4balEAp+ug7Lwg/2faY2w=;Zu/hR2YH5tXsgyM5q6Dyzw=="
 ---
 

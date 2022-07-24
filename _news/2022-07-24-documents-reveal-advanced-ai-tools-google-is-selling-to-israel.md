@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/07/project-nimbus-google.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
@@ -42,6 +43,6 @@ related:
         height: 885
         isCached: true
 
-secured: "N4IOLeVSUyzlGFYPooCQIR4fuXGk03/IbqwBv4mbRZ8jMGimsiECBlMKfqwX/1A6+6rH86lRNyEHTznB3stsem8EcvBBG370L9lM6+NP5K6U0fRB+uRMCzezn8X3f/ccasFOY0u/hy1lPxTStWAwZ6WH0/0ieYSYiyiXZ2Te5UzPL56Snz8td/Kqtf0fRcnoKqICRBqQNaqUZ8kKcFRmzOOzKEoJKdzJyV1Y/Af0BwkORSxBmyZWl5f7J56SLwvKnXiFjL/B0v9O8Avdzd8AmNbO7H+xKp+gkOCzvy4SIo0+mIs9fH/q7Ip056//7V69UFpjN2Ijy+BqgXCKjAaLIcefPgsEx7oDJPXJZ0BQB3Q=;KXCGip7H2UqB1x9bwsrqcQ=="
+secured: "UKaLU2om+C8pF/op1t74Jugzt7cFZXj7TQRsNG7/tdkqD279QaDwkqHnkZLen74yyE4Sgs/asXT6goOdLOuKOzRqTfIHJ71Cp6BYzwi/FmnAty56S5eCN3X+STzCILZN104xw87BZnNbecVIb6TggcevEWRJbdRDYqYGamUR8/w/ReNwyyeQKyQfFMB/qwxVTrEnlF2XaHXazo54MAepm3OBOd9bHdYfm1TlMTnt6Hj+vbaNz+vHNyliV5xXHBZKaIzVKD2pjY9SHDMNvTBwus1jPVq4baM4B3HwSjc6i91ecI/hE+jq3xdslsWkS+Syruq6pDSJKcePAX6lLom/XMCI1chnKD4Cr2T9sGmZoztZAjFqnAptwRbnvSDmixYiOkkholI7s59ueCL3h4M4L7Otz7crMS3ZNnErJblhZvU5Ddguc3mCSBC+0UezfdS19qI1FGEu5ZUGxvBoym5qjL9JnuT3SqU5ltHDFjL3MP3CxgP+kAJ5PTjsonY0A1awAcFjEOiHiHCP1PryLv2eXw==;T5ZfXzEyvabnayaTgU7OTA=="
 ---
 
