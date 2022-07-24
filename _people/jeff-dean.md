@@ -2,7 +2,7 @@
 name: "Jeff Dean"
 bio: "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, .."
 type: "profile"
-heat: 252
+heat: 233
 
 affiliation:
   name: Google
@@ -20,7 +20,7 @@ website: https://t.co/ajoSG5g4Rn
 twitter:
   username: jeffdean
   url: https://twitter.com/jeffdean
-  followers: 217706
+  followers: 217714
 
 googleScholar:
   url: https://scholar.google.com/citations?user=NMS69lQAAAAJ
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Jeff Dean"
 
-secured: "7sClieeixHTL1Dzfwj3hYrkbJZtGRgdfBxkhpp4FAUExx5505/KItGg6dW+8Gm2vM+LVAYyVlLZG5C+DE0NLAw93cJJY8iMa/q5MALDKhPDARcAMrH/nuUvxDoW3a/CTeoBqC08EWS11oKmZCZsOU/bMKaxk6snwNqhTpRxuvw/P4M/cMWKUuJkgTooymdFqH1mUPtfBBb+2At3HAlPUjKPq20cxUAyZkiwETW2b+CdwPp2h68QWjF5p2wM8pncoyoPLJnWt0jl10MohApV/C/xEI7PiPRk5Wk0Zr76cnR8g0jfP8t6PUQXVHGbkA3JId9JSePsTRrEjQYosdw1bCT7d/PrXOhNXFHPdv+ysqP7jZqgmYcyFZeJHBCxG4yEYSCXkpVCWjMPRTPbjvfASUBf/LwsxF0KVBRzrow7sQaw=;I3VQqsPVzKjG9F/Jt95skQ=="
+secured: "fV8yQ4Inj7ziWedF94QzvnkO0IYrJI9ptV7g0CmIN5mBV1wcDYuxxhUtl4TQUX02wk4oAqd2tic6lp7VfbbXII/NWIrugvsSCfNKVLJmVK4w4HQxAPYaltBkFX9ZcSvzfxIxuu2bwPXEEWs5pOxLHlugdZJRoN/4tPHvAdErczIynZUAUnULvukGiUtlpejlyO0jo87Kvgu3IbLXWd7D+o2kCPbPVE+gv5+Cj1MNQdoh5B8KiF9Y54dxxLolSRVm4EDDO4DRhy+ze70C4IIf933rEtY0SP0LntMP2d7y/UZJUu4Q4AYbH/B9sjuCuFpYk1vvrZrj7ae2gSRcdg56f+SI6uEC59Vd8EWkV7KaKIWDiHfP7dqytyMLdsrvirp18v7WkofBguFxoxHdcR81s0aZ4KNfQJrolrOjbdb5SO0=;bKzB+x0KZp9P8dxoBkLHLg=="
 ---
 

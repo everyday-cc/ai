@@ -3,7 +3,7 @@ name: "Jean Liu"
 bio: "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014."
 location: Beijing, China
 type: "profile"
-heat: 58
+heat: 50
 
 twitter:
   username: jeanliuqing
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Jean Liu"
 
-secured: "AmD0/EBfV8FUVV88KKdTo1SVYXFoYkssN53z5Y3xXmk4NjEu23AdGLsTwpT4RF0LqqKwL06ZQ8t9+6KgT2M54ZtfBNGYoBTEvku8cd4U9W4cLGpVp82xnd2vdUjty3L/H4Iyhsxz3EmeRC8zWdv57/AJNtoy+j0am22s+RLV4u+IAo9Q7FqR+9NLnh4awQ0tlvB6xFiht72sv683+UIBiNyPnHvYLEwDcOvGifYdBZ6AnTxDnGBXW2Qlex1QRDCjXH+d2QHXiX2m8S24Tjr5rZ4gHsX5lbtv1uNUNrvc+2/Y99TINCmrg8gXPD49o9rPpFOFFldKH2x53jQpSYqgE1rzDKAy7WJZb0C7sQy3Ph112N8ls7Vy5nw7D8PdEkBLWTPhXkIXAB6ieDFMXzzlFiOf1Lbr0Dsk9Dr+bGqwGh4=;/7EshOOkWVKa0UvKxfKlDg=="
+secured: "IjPUhRWMABI5MONegDbAAhEuqQPny3vzSNtfGBvnROohA6QshGRI04DUXGIdJqgovUyx/3N7iygjyEM1PetiQjVFAz63vs00odi4XvTew23SWJM/iv0JgTPq6o7c9K8aZ5qmJUp75lyuJ+w13o0xnVBx3aJE+v6tr4i1VlE7u3jmSEEnu0oxSK2i3kW4NApkZDJ//zu8GzGjqwk84lUlTB6EkigRqApb4XDYlqfW5dhVJYft97JNKqBVVwYCz8Ctt0+Rjq+iBNduHodwaIaXe4OyKlVYcCfxiCVM2BdRdoERvwE30zM3utTW3eruo2fUhXZgRjxnzv0LPIlCglTLYPTcJzt2v1609YfwBsbQtWOIebqLu1eO1ydcjJ/eqHWop43SPKghIJH2IDfvcqyxkWCEw7AhEbCeWtCJh9a+3f4=;Agh2QcEdmTzNSWTabK4wCg=="
 ---
 
