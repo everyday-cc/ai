@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-21-driving-smarter-customer-experiences-with-ai-and-machine-learning.md",
+      "title": "Driving smarter customer experiences with AI and machine learning",
+      "excerpt": "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
       "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
       "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
@@ -1182,59 +1225,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
-      "title": "Localize content into multiple languages using AWS machine learning services",
-      "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/localize-content.jpg",
-          "width": 1530,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T08:29:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

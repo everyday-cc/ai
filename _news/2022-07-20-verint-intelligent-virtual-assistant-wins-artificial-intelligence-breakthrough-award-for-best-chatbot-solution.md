@@ -3,8 +3,8 @@ category: news
 title: "Verint Intelligent Virtual Assistant Wins Artificial Intelligence Breakthrough Award for “Best Chatbot Solution”"
 excerpt: "The Customer Engagement Company ™, today announced that its Intelligent Virtual Assistant (IVA) was selected as “Best Chatbot Solution” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
 publishedDateTime: 2022-07-20T12:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f387d558d88d44878a418246e6ec9e9e"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f387d558d88d44878a418246e6ec9e9e"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-f387d558d88d44878a418246e6ec9e9e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-f387d558d88d44878a418246e6ec9e9e"
 type: article
 quality: 18
 heat: 18
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "CIeHi6UhTh6bPZWeDLJNUZ0VrasUUC1i99KN+nJXbCm31WOQ4V5iiiW4rTWMVPgUBS4QskmN+VZ3daKsYr9U/w8UjJJnYl/u2BjnKHQAc5D/KoX5jkvQew9xldQMB7xK00YQ3bNyOgL5w2+E7646+v2b8LmLBCqDnr4uirkbEWU4P71l1qBNzSvHc8s+nsZDSYlfcatCxxmudV0dVbj/lo01TAmPaumXXw1rkxSinx7utZyb6zV0xQBgfn/GHZXcwV4nP0q7yQHM6XliYBUK4TIqMy7ik7n5Mb96soUuBKVsFNwc56W9Optq9YgoXCOnOk+h4M5lbNl9GJVbL0nYROIMm2SNAHnX2DsmKPENeQA=;4L59EyeJAJTy3pzx5e2tcw=="
+secured: "vKdyP/K2KYVtvdpcgUwVS90K1IsZt2UTi/VdgBxKYrz8gdtW4KhrptrywGqmHnO1TSV4mK8i637y4VF35sbzvIYCjx8Cz31hnFGhTZ0O1rCaQPiMDVc9Y7fMUgftFOQpfC2qbi25sZQ0p3UwGgMeC/g5PVAg6SUK9lay1sXOl6ie7SsKkgBIDYRd/+3lMek9OSfilccx8aSOasLqjFR59xeonaNaprdw3HnBQcenCQTXj2WU+Jx6pbgTcOmUnBt+leNSL0fhrexwX4QK5yWryG+EXB1IL//G72H+lsC8iNOImsjwCyLVgZZwVCfw9z7b1iXWTZWRwYXj3v4+BzlyLXtLUQlWjq7XZR+Je5abHuM=;u1o3UchDHqOd0wo7ER65Lg=="
 ---
 

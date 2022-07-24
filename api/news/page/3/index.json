@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
+      "title": "Localize content into multiple languages using AWS machine learning services",
+      "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/localize-content-into-multiple-languages-using-aws-machine-learning-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/localize-content.jpg",
+          "width": 1530,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:29:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-identify-rooftop-solar-panels-from-satellite-imagery-using-amazon-rekognition-custom-labels.md",
       "title": "Identify rooftop solar panels from satellite imagery using Amazon Rekognition Custom Labels",
       "excerpt": "Renewable resources like sunlight provide a sustainable and carbon neutral mechanism to generate power. Governments in many countries are providing incentives and subsidies to households to install solar panels as part of small-scale renewable energy schemes. This has created a huge demand for solar",
@@ -1141,61 +1194,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/bytedance-hires-for-in-
 webUrl: "https://www.datacenterdynamics.com/en/news/bytedance-hires-for-in-house-ai-chip-development/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "ByteDance Forays into AI chips"
-    excerpt: "The chips will be customized to tackle workloads related to ByteDance’s multiple business areas, including video platforms, information and entertainment apps, ByteDance’s spokesperson said. ByteDance won’t be manufacturing chips for sale to other companies."
-    publishedDateTime: 2022-07-19T18:02:00Z
-    webUrl: "https://new.qq.com/omn/20220720/20220720A008Z600.html"
-    type: article
-    provider:
-      name: 腾讯网
-      domain: qq.com
-    quality: 36
 
 secured: "dMU+HgYGEwYWkOb+cnhqIA24fwTaH3PC6I+aJuqGv6zpABFBre9tdo8niFIb0oRkVLx2W8HiCO8Nb63RkA/L6XTsGlQYwPWZkmg+cd4yem76dVI3deWK6SwV7EwgQFFPBDaaRx55RKoLu+sfU4R2V0GC6j7qp7yr45s1xl8r50aijQQbosVTvoYd5np/WylSZvHU3ko1ruAOCj0bfJ+WW9iu4XnRgImMMidzREPMZuOMJ21VJIZdzd1FFlXyyh3h8rWwqU7XwQB4mN526ZaUs5DGFKHz4xBnkMWsnWrWPCsCKiQ4gkwBgDZhoJmPf5908ecjSVoBThiWP0VjFETLAXfeA8s1xkkSzWK4XV8qPafZURaRKQtyS/v8tBdeNsBSLBcbfzX7cfia0r51ncxoNTypTd4hbmRaE6KBgFzQdlkvdcDiintD82sXksfQZhBCOxynEgCSxLA2Kezc33Mu2kjEV9KYedQNN55MYfXlIK7CIMw3qLCnfuKvqduyT4UCagqLFxlud/kHz3YSMdiBMw==;mw3lZYls+UqDJeT3X1upRA=="
 ---

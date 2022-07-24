@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/technology/3566180-time-to-act-now-on-ai
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3566180-time-to-act-now-on-ai-bill-of-rights/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,77 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "History of Artificial Intelligence"
-    excerpt: "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life."
-    publishedDateTime: 2022-07-19T17:40:00Z
-    webUrl: "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/"
+  - title: "Why AI Tokens Are the Best Buy in Crypto Right Now"
+    excerpt: "Nick Black breaks down why AI cryptos represent maybe one of the best opportunities in crypto right now for serious gains."
+    publishedDateTime: 2022-07-20T16:03:00Z
+    webUrl: "https://moneymorning.com/2022/07/20/why-ai-tokens-are-the-best-buy-in-crypto-right-now/"
+    ampWebUrl: "https://moneymorning.com/2022/07/20/why-ai-tokens-are-the-best-buy-in-crypto-right-now/amp/"
+    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/07/20/why-ai-tokens-are-the-best-buy-in-crypto-right-now/amp/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 73
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"
-        width: 635
-        height: 517
-        isCached: true
-  - title: "New Discovery on Mental Illness Indicators Using the AI"
-    excerpt: "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness."
-    publishedDateTime: 2022-07-23T17:45:00Z
-    webUrl: "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
+      name: Money Morning
+      domain: moneymorning.com
     quality: 57
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg"
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2022/02/crypto-1200.jpg"
         width: 1200
-        height: 1000
-        isCached: true
-  - title: "Biggest adoption of AI is by the manufacturing sector"
-    excerpt: "More than a quarter of a million people are employed in the sector, with Ireland recognised as a centre of excellence"
-    publishedDateTime: 2022-07-21T05:00:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/biggest-adoption-of-ai-is-by-the-manufacturing-sector/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/PiMms-xajYxU4YuPn2xdG_fY2zs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ULNKNSWKHZC5JH54U5DQZ7Z2RQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Zesty.ai raises $33M for its AI-powered climate risk platform"
-    excerpt: "Zesty.ai Inc., a startup with a climate risk platform that provides data about wildfires, storms and other severe weather events, has raised $33 million in new financing. The company announced the investment this morning."
-    publishedDateTime: 2022-07-19T21:02:00Z
-    webUrl: "https://siliconangle.com/2022/07/19/zesty-ai-raises-33m-ai-powered-climate-risk-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-5.png"
-        width: 850
-        height: 477
-        isCached: true
-  - title: "Unlocking the potential of AI to increase customer retention"
-    excerpt: "SugarCRM CPO Zac Sprackett discusses how unlocking the potential of AI could hold the key to increasing customer retention"
-    publishedDateTime: 2022-07-21T08:42:00Z
-    webUrl: "https://www.information-age.com/unlocking-potential-of-ai-to-increase-customer-retention-123499754/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/07/unlocking-potential-of-ai-to-increase-customer-retention.jpeg.optimal.jpeg"
-        width: 993
-        height: 675
+        height: 800
         isCached: true
 
 secured: "zpi+onCDhBrrxrHxo/TAi6tmSlp228s7H2YHpNYB/LhSvNv+TqrzsYSOGi0Tiu3lNPOo7LIF055WEE91bxahI1eSlDq+JcXyxD+7zmGazJ4NsDLiaE2D8g1HfWBDYtvhLdB9Z1fQAQ2R73yKnF/9z3xUyxEaaZ1NeIOanTIZAiovUy1ATSm6sRfKCJj6gBSdm5TcrOdb9iGHBQ4tKmA3dAXUsPOFcrWc01YnGHG/9m7EnSzQjKcMIZa+8vbFQudjuAMx79uyHAmXNJgs6Y5bCI5bwSvXxAFpYd7XfE07RiC51829P7Cj2cmbj4tsAaAj7LKuT1tzmvn9KZcVnvG39+ehvVhOFcl7SGWTSA99OQXYkOUeEJaCrTzJTFRDCYaD3RsaGhEYo7LDg7x9VVyDjUcR73Mh7sKzJPFm4ZhAokf6FdTOLxvtSV+iBsSnPsY5QnZ+UDKK4n/QC1USVSKpsWfZw6fi8cmyLPWOJzv4JFresqCux3tWbBdg0HW0H/N9PuzNcgFvok4WUqCFnwXBFA==;ReN/BVoFRMSVhEiblIEBYA=="

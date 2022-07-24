@@ -2,6 +2,50 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-06-03-clearview-ai-draws-another-fine-uk-ico-assesses-75-million-for-scraping-of-facial-recognition-data.md",
+      "title": "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data",
+      "excerpt": "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
+      "originalUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
+      "publishedDateTime": "2022-06-02T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-pinterest-acquires-ai-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec.md",
       "title": "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec",
       "excerpt": "As Pinterest sets its eyes on improving the online shopping experience on its platform, the company announced this afternoon it’s acquiring the AI-powered shopping service for fashion known as The Yes,",
@@ -1058,51 +1102,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
-      "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
-      "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
-      "originalUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/green-500.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
-      "publishedDateTime": "2022-06-02T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

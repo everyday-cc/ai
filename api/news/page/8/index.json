@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-14-25-things-elon-musk-promised-and-didnt-deliver.md",
+      "title": "25 Things Elon Musk Promised and Didn't Deliver",
+      "excerpt": "infusing the human brain with artificial intelligence, and creating driverless cars that are run with software. His latest claim: that he would take over Twitter and more than quadruple its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
+      "originalUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-jcc-joins-intel-artificial-intelligence-program.md",
       "title": "JCC joins Intel artificial intelligence program",
       "excerpt": "WATERTOWN — Jefferson Community College has been selected as one of four community colleges in the state to join the Artificial Intelligence Incubator Network, an initiative launched in January by",
@@ -1153,49 +1187,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
-      "title": "Top 10 causes of stalled AI/ML projects",
-      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
-      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
-          "width": 797,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
-      "publishedDateTime": "2022-07-12T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

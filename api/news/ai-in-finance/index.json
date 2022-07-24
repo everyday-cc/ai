@@ -37,6 +37,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
+      "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
+      "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-1024x885.jpg",
+          "width": 1024,
+          "height": 885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
+      "publishedDateTime": "2022-07-21T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup.md",
       "title": "Morgan Stanley-Backed Fintech Teams With Schwab on Advisor AI Solutions: Tech Roundup",
       "excerpt": "Morgan Stanley-backed fintech firm CogniCor established a formal relationship with Charles Schwab to provide artificial intelligence-enabled solutions to affiliated RIAs through Schwab’s Managed Account Marketplace.",
@@ -1281,41 +1324,6 @@
         "AI in Finance",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "MLCommons invited Panasas to attend the foundational meetings, after which Curtis Anderson, software architect at Panasas, was named co-chair. \"The end goal of the MLPerf Storage",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626840.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626840.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

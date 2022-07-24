@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
       "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
       "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
@@ -950,8 +1005,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?886884",
-          "width": 374,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?149046",
+          "width": 400,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1125,50 +1180,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-artificial-intelligence-in-pakistan.md",
-      "title": "Artificial intelligence in Pakistan",
-      "excerpt": "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "originalUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  ",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "publishedDateTime": "2022-07-17T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

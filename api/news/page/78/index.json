@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-05-24-uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images.md",
+      "title": "UK regulator fines facial recognition company $9M for illegally storing images",
+      "excerpt": "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images",
+      "originalUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg",
+          "width": 530,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true",
+      "publishedDateTime": "2022-05-23T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-metas-myosuite-ai-platform-could-help-doctors-develop-better-prosthetics.md",
       "title": "Meta’s ‘MyoSuite’ AI platform could help doctors develop better prosthetics",
       "excerpt": "One of Meta's ML teams has created a tool that builds realistic musculoskeletal simulations that run up to 4,000 times faster than state-of-the-art prosthetics.",
@@ -1062,49 +1105,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-self-driving-vehicle-start-up-minus-zero-raises-17mn-in-seed-fund.md",
-      "title": "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund",
-      "excerpt": "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "publishedDateTime": "2022-05-23T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
