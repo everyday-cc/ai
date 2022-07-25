@@ -1,0 +1,20 @@
+---
+category: news
+title: "Irony machine: Why are AI researchers teaching computers to recognize irony?"
+excerpt: "Since the turn of the century, that model has been replaced by data-driven machine learning and neural networks. Here, enormous caches of examples of a given phenomena are translated into numerical values, on which computers can perform complex ..."
+publishedDateTime: 2022-07-25T13:31:00Z
+originalUrl: "https://techxplore.com/news/2022-07-irony-machine-ai.html"
+webUrl: "https://techxplore.com/news/2022-07-irony-machine-ai.html"
+type: article
+
+provider:
+  name: techxplore
+  domain: techxplore.com
+
+topics:
+  - Machine Learning
+  - AI
+
+secured: "HtzS3ru5PkmPtM9TH0i5wxq3V6ntackiQHZ6lpPP/nGNN4qLtc2cM6QO/fSMWP6gXjqBN1nrEwSeqO1jyHs4/K9VKmiP+CwF6sAem0jot5vKBCo/nqFFyrHwZKa14gOgUXKc4ipC2KiJ/ghSGn6HDb6UH894flKAh0AxRaHa6/jtFOmiyYKOA6FpxYidH7i045y8b/obLgP/CTDjokQGeeBnV/Vw8xaVl9aJ9TwBz9NfORy4jUa09VD2tA7vEjBaPfHwrZHuaDuH72vzA3NT6WoHhSJ/2L10akJf4AnMazU1IC0AUIySLCuCXJtc2nFNV17qvTXNA6OA4xd7bWBzDh9i7Ws74TMKNRzoz8Nd150IB6DfJz7xwdV42+CW4thfjvyayVYLKubZS3bs1DLOZoUlgCQtS0dCsYnvEnTfJYBFKz56hSfVDcYHBrBJaC9N+BCAYFkU1Dmnla1whcZ7aXjTBajmFkYxJdQtGd8x7J7LD2YLEA8VJagLa9xaUHMiNSUCOnnJZGVn4rtUff2U1Q==;c8U7liMClNDA3H+gINKWbA=="
+---
+
