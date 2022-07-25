@@ -2,7 +2,7 @@
 name: "Aurora"
 overview: "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move."
 type: "profile"
-heat: 104
+heat: 57
 
 website: https://aurora.tech/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aurora_inno"
   url: "https://twitter.com/aurora_inno"
-  followers: 13802
+  followers: 13804
 
 size: 201-500 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=4J742uB60NY"
 
-secured: "2VJJ3Y1Um2K/wtL71mK016bekV19NIuje4UqpJzyTcPgORcFT5Sg5e6D80fvQmM9JShOkjkfbzNjerPNVGCKKKMIZIGb2dD63xehwbZK99SJS8DUEGa8/6W3sazxBvpGVE6NhI2HszlOuwUvstzVbDmzi5OnmdW+TBo5AxNq81EWjwFgDkRpodCLeswjTdrlpOyhqWCCNGR7HIPHnnhn1QbsBXXPrVwzXARAW/9103l5BxJzWxS1c9EpedRh4LQuzS5uKouHvn/vtQrfTQDanVDl5D5yx179YingEEQTy8QExJNwULI8YoBRNUyeH25rA/BK+l27QNQiOdecmNXg8yAnfBd32Slut5/ANkKs/q9aXUdLxLTuEKoeCNynNKtUvdvJnG65JEUCad2k4o8GsT/uIWSXa4GdF4N4t4z9EOw=;iZL5dzRnqejP6J4PHOO3Hw=="
+secured: "61cSU8pnIMnDIh93tmfQxSENJAXQlw5vTfSGg9JLMQlf6QcKV2nnzrErB8wPcYV1hRlGLH3PaIVazfsNPkag13DnZtn6BWF4d0VjvlnQdkFuIxuIr++g+u1+FBAUbweiuphbwDFbnZS2wyyoXfoFKE+LZ19ALEyaFR2C0V/eOK15u4mdK2txU6BXjh0iaKcEeWSKD1vlhKJUqSB5C7UfpVdpKGhd1Bs+hgmpRCh7Yi2YJTh4HAseWYuwm9D+v1QsX0r7IiWcwD/PORvap3Ty7g0N8/BrNn9cQp7CXDIwLzy4N0qIXYn31ThhVYArmlPZKSMrBeie9eO1NVpDp82e5SCs0lvtoLqnjsJ9jBq71TbgsEvcOJYCWWqnQrcGkzSEYMpr+jx2BbmVLmFbVv6hgJk7KynPfCpkoPTvngg7zaQ=;9w7ZiO9pzCQ76NXcRh1Waw=="
 ---
 

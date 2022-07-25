@@ -2,7 +2,7 @@
 name: "Reply.ai"
 overview: "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.reply.ai/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=m4FgFkrL0wI"
 
-secured: "3a45IHwmf0eIguGEm2XJx5FT88ubpGd3zRfF1rbiisZF36Cc8HQbndEnhIiFhLmpRjFWambeo25hvo/J4y0bGdxoroNhRR3+N1/eofh0DQ+TIgsW9Fr2TumXrDNGwlhFNWGmte74WvaMQuOP9DDaFTExMnlZaGSHiLiOTbyNKlyLU38iFuyVwG7AXeW8bWruTwFMLI6ASBpXvqbheSvMv+TxLHtmJ9dxScdI0GMAL0JXdb8c6aZ8wJ2kEeYXhhUjQaOmJLYNsWK6mY9z4QijHMqJXhB41hn2STZGqvNts5lJNNWvaE9CqwI0l226iTj+ib+3h/QmdVpSFbq0giZmF/1sXheCvP/QdP2gRIM3/xVYWyTPrBqcFqe+QIk3h5AMXxZzYG4LaRoSD/cQGAKZLKZ3u9m1nHmywHnDejMk+XI=;D1+U1KERJcF4LSf/V/kPLA=="
+secured: "xPpCqELoGH+LOw1k37CAMY4bGFRY+HGuxQPNrbHOTc15slgAREU66h/HN6itQmcNse0MsInh7ZIeUC7+XCp1NV/iYy0owFqBea2UgX2FpQXYZmlgapAKIsDJp7JImPcKnlkedwjBOtLsEcJQebAHub3ca6ytjWSph1Kbk2wk9y05PzYaCFd09VFBG7K24PtapVTmMA/yfpJq50905f1H7OvUNhIJp8hBzHutHg96ihpC0Y388+PptBL6SPxsCzGKj2k3fehRrO9E0b148J90qYUBwSTDb+RZCQVDCozH/Tm3pgiBLYeo5pThp3kJc47tCHxBO1Ybdn0JDju3w8c5LJzCY5c71CHIUoKm0WEz0h7W4hiQX0fb4zSEu/TQaekzTtJ2K1xf+31XrZ4CGWkVLAUTmN2Nh3R3eIN3Ngz2TIE=;c4vCUPHkqj90FOUkKo3qdA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Cruise"
 overview: "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ."
 type: "profile"
-heat: 138
+heat: 153
 
 website: http://www.getcruise.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cruise"
   url: "https://twitter.com/cruise"
-  followers: 33271
+  followers: 33274
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -49,6 +49,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=4lYNckVMys4"
 
-secured: "z+xD5SZGIl0peG8UXoE4gLhNCf3H/NaLjfe+Hylp84z4p1TRtzgi2xvSxACkO9UZlKSQawnc9A3aXYCwG0iprVL2M9MAvZL2aHyNc3qlyByxZwm2MUGnuBSNYAveuZ82gcwaqLUkvTiB6lj+BpQRUVqaRvPXVatrfFOa0ObRZC9Zw72lAybKdGG+n4DOg1snhoYJbxIZokxdi2GEqZ6/FKxJFY5u4lcOLQiXXF7CESfIiEuQR5nFZYUnAf0+8dpIviyuH4fPwj5B2GkKcb4SRrC6rTI2oTz1l75aDtQkbv3Pn/OrHLfkTfssc4QSqcVWuEuWAFKPibKbu+kTuxFKi80momt8XnEtaLdC1g5SbvRdbXdRe3r8Dn6ix1oB2ei0gDpnkkvbthHsR2xK6ChMHHmD6VRwC3SmufmuLhgJqc4=;c2Vfdj7z3e9KSIp6rF8VQg=="
+secured: "ccmUEJw2vLlrUVWNQYognm1ekql2Hxls+wFSSQ73xXmNqUi8AH4tVQu5KvrGQSADpXvHq6qjDv/5/SL7UWE0q7aWYIcZO6V5UkcXVBPRH/nvdyHo7AmTMybypyUk6Pp7VvaAKZmnqTeCyug3FVqGk+/oAvJpWi7dn1fTsgqzZiEvWNc2EUouDZTTMpAd/UZA4ASYiPEWKrufeScY4DisAHl0QmOcao4E/BDWcHxob0zzrurnex038oBW3fb3KRQk8Br2l9ztbXEYgieDvvVA4EmK41guK9GoOXMN1r+UArVJHVsUP9MHOf3t3760vuJfEfA8k1eff3RvPqOQ2GaHcsJ18gun2gRfYQtEF19o5y6zl6Y4XDsZ4KT5LykaBLlvnqIadD40EhtxUBp8MjYog6E9EtkKhQlWznun9k04K3c=;3OtnT+Be8ZCJSRY9UJv/zg=="
 ---
 

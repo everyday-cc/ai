@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "vsdppHlrAsFkS7yqY3kxGMiZcnYYtQvbtVH8nm/ch7Zx6NnYeUm+ccwJZqpFTIvFu3/2ADH5XgeEsx72KDbtqjARJivlbzk4OO8BtcjoUpGNtnfYSb06jJa3cJq52vaUUgzsXuRuYr/uzVPxojfHrfHgAPKDry1ovy6iRd5wsFdbXg7IjS25QjKcm1qfyld7E8VO13qy4cYb0T3INLHc8wQPt4RLTbK9cl5FC9dEjmkzLGh7CGGgHk2iu0h9Qhz4hC+8AzM/am0h5vwrudI/6KkLrorvJCPxK+p3XtTDHIqu5REOHDPlzpG5Q5TXcM3XciEmmgOX2uu+mW6aFeb2rn1T1GTx4M9Qg28kc/OvJwyLLLDEMkGbAM6IDEy1Ij+Y0bqcPswKbJ2zTzKOTOCts3sn1b1Ea3DaGn0v5auyRPI=;t9hd9xP2EtAskBoU3L5kpw=="
+secured: "wZntXYibolLW3ONv3E74zpKLzmidzyf9ldfTYOonwCaFdhw2xQGOa/D2MS4YQC/VQ4MoO1f+/3ybPQ4/T+g9pbP5eXTavYm6DbIwviXeszwk+JLTUK/r9B3it3ySv+ue2NNm+psNG8fKSrfrjtt7yGzSw60RYWyQxktYFWLf85NM2dktu6qAXIUMTXqbR8MbRCWPYnqMCaS1n2yPh2Ze2KyaIEJn2jbqL0no1snxVRflAQNwYz15tmGZoP/Hvauul28jz8jbY2BHt4EGzyu7L8hnuHIZqOfBcJJMnl4dEWgIw4Xr4Y7ezqJkXAQrDO1qSxctYmf1yzg1DwNFBc3JABY4KCqGCh7HJ8OCcNuE4n59MswjkWmm2i7udwQPYjL3h0dVmD6Sx6F5fcVAlSs+nS4AhQn4yrEazRtbZlmisks=;FrBG9j4+rDDEBLUhmCOHcg=="
 ---
 
