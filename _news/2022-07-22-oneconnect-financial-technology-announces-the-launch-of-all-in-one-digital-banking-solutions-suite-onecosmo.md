@@ -39,6 +39,15 @@ related:
         width: 658
         height: 609
         isCached: true
+  - title: "OneConnect launches digital banking suite powered by Brazillian fintech Pismo"
+    excerpt: "The cloud services sector was forecasted to grow 18.4 percent in 2021 to reach a total valuation of $304.9 billion, up from $257.5 billion in 2020, according to research conducted by Gartner."
+    publishedDateTime: 2022-07-25T07:08:00Z
+    webUrl: "https://financefeeds.com/oneconnect-launches-digital-banking-suite-powered-by-brazillian-fintech-pismo/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 16
 
 secured: "I89HEzstWnO/Ny9ExfQFeBuroZx6u7a+KvaMrzRlfg9jbZ1Ll0KqNAXTBvsvIocLzetZp2AWcKFMavHndrbEdFxsSjrXOhIMEkXN1/1aprvfEBNeDv+kI6U1GkbSsNqzNoHg7NZ9HboTszwTXgC10CXFL3rJpPh2Sig5dUT37NdLcWerYwGVu7gpYJVD0HbeH0z9h5lWJZB3v4syqNyGncPLdiHJJlXtYAXxakgZcEgYHaBjD514oKFautr5BgDbvNmr9UyU0y15RORJ36ecqQKe8UC2+bDAxxDoMToKERXIJz9uV6Q1PYztT7sEeMM35azB+XYXfhXGaNVivnnCaely5JAgsWLLa5bwSc/jVsGBX8Uaa4g5ftxO8qaiVFWVoaQOr6ZgyD3BBO55QtzXKgoft1hMAhrpfzWizMqd0h5hJyAmLgwOcKtGC6kdQMB1ZCDZxS4emdFLhi6Q4f0/ce+/Ko+E6//pyqWNNmca1tmrD6FkRgqiwZkUPYerOTHd9fuJ6QGjdOHW3BO6YG6pXw==;T0DZsr+7nSTWpgu3TdyXEA=="
 ---

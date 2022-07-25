@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Data Management, AI, Automation are Investment Priorities"
+    excerpt: "With as many as 98% of respondents’ companies investing in their front-to-back-office workflow management, more than one-quarter (27%) of respondents cite data management tools as their firm’s priority investment."
+    publishedDateTime: 2022-07-25T06:00:00Z
+    webUrl: "https://www.tradersmagazine.com/am/data-management-ai-automation-are-investment-priorities/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/04/Vijay-Mayadas.jpeg"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Data Management, AI Automation Tools Are Top Investment for Financial Firms, Broadridge Survey Reveals"
     excerpt: "In addition to data management, firms are also “investing in AI and automation (23%), more human capital ... As covered, Broadridge Financial Solutions is a global Fintech “with $5 billion in revenues, provides the critical infrastructure that powers ..."
     publishedDateTime: 2022-07-23T11:13:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/marijabutkovic/2022/07/22/menopause-s
 webUrl: "https://www.forbes.com/sites/marijabutkovic/2022/07/22/menopause-startup-lisa-health-launches-its-ai-powered-app-midday-and-closes-the-25-million-seed-round/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,22 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Mayo Clinic, Lisa Health Leverage AI to Create Personalized Menopause App"
-    excerpt: "Mayo Clinic and Lisa Health have partnered to launch an app that leverages AI, sensor technology, and digital therapeutics to support menopause management and healthy aging."
-    publishedDateTime: 2022-07-20T13:40:00Z
-    webUrl: "https://healthitanalytics.com/news/mayo-clinic-lisa-health-leverage-ai-to-create-personalized-menopause-app"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/mayo-clinic-lisa-health-leverage-ai-to-create-personalized-menopause-app"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/mayo-clinic-lisa-health-leverage-ai-to-create-personalized-menopause-app"
+  - title: "Treble.ai, a Colombian Startup That Connects Companies and Customers Through Whatsapp, Raises US$15 Million in Series A"
+    excerpt: "The funding round was led by Tiger Global. Treble was launched in 2019, the same year it went through Y Combinator. Today, its clients include Rappi, Olist, and Wom."
+    publishedDateTime: 2022-07-21T15:58:00Z
+    webUrl: "https://contxto.com/en/startups/treble-ai-a-colombian-startup-that-connects-companies-and-customers-through-whatsapp-raises-us15-million-in-series-a/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 58
-    images:
-      - url: "https://healthitanalytics.com/images/sized/2019-09-30-GettyImages-974742772-e4b00c1efb9503a805928b101c78b499.png"
-        width: 480
-        height: 278
-        isCached: true
+      name: contxto
+      domain: contxto.com
+    quality: 0
 
 secured: "a1gh7BV2PEZ7cZDepXaUj5SF6dUXx0I9BCF9R68D/lLdruf4utQc+YDO84+x8y7HJTv6kPuCLDUWruBymXvvoDF+HABA+9szINF1gErG+DZJDbMwjSZwpqb2UQaRWUD2WM9TgYRAb1r4ZHJNDYybE2cjHf5Jy0I5WyGa+8xJu1wjjo0yGvcA/EmOVpiQ6pT3u4azPLWwIs4kQTNSnVQx5bsWuNYz0QnLuduXoZqaUN4i2GwANBgNEitmQKWXALlOSwVFrq29hwgxFu7BSUVsAN5AZBv47JT5gCRKH2k6y6WonsetcrTvUP8wdBSORq0uVCHXAJmav277RAGZuDUII7OkelWUJuNAuvvK1r3E8RgJepimCf7BgDA7TzBK/DbZ401gr1MIbFYbJNYr9Yf1Tr0V3AUzxTgsJdBlBVZUml7ZF9X5KoLJ3RLC+bf6beUYL+zuFjuuTA8J8UJ/vfF1KcNEwtA1RHO6bEP/4wv6/B6Ei3oOd9CaUxjvq8Y6fQfUNifA8fcao0q1/LKI8z4a7w==;4gjzAyu0iW1BWMOH47zY+A=="
 ---

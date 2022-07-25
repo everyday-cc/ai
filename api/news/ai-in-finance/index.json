@@ -210,6 +210,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
+      "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
+      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-4-key-opportunities-to-leverage-in-fintech-and-beyond.md",
       "title": "4 Key Opportunities to Leverage in Fintech and Beyond",
       "excerpt": "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?",
@@ -396,31 +440,22 @@
       "title": "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence",
       "excerpt": "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity.",
       "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:27:00-07:00",
+      "publishedDateTime": "2022-07-11T13:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1289,50 +1324,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-powering-fintech-growth-with-mobile-app-marketing.md",
-      "title": "Powering fintech growth with mobile app marketing",
-      "excerpt": "A dive deep into how fintech brands are leveraging mobile app marketing to connect and create a seamless experience for their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92403870,imgsize-55626,width-1200,height-628,overlay-etbrandequity/powering-fintech-growth-with-mobile-app-marketing.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "publishedDateTime": "2022-06-22T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

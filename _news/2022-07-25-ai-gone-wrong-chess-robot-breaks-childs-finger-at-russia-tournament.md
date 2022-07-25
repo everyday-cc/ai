@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chess robot breaks boy's finger in Moscow: 10 times AI went rogue"
+    excerpt: "In the latest in AI horror from the real world, a chess-playing robot broke a 7-year-old boy's finger in Russia. The incident was captured in a CCTV camera mounted behind the boy's head."
+    publishedDateTime: 2022-07-25T07:14:00Z
+    webUrl: "https://www.dailyo.in/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
+    ampWebUrl: "https://www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
+    cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
+    type: article
+    provider:
+      name: DailyO
+      domain: dailyo.in
+    quality: 74
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202207/chess-1200250722120029.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chess-playing robot grabs and breaks finger of 7-year-old opponent"
     excerpt: "A chess-playing robot grabbed and broke the finger of its 7-year-old opponent at a Moscow chess tournament. The incident occurred on July 19 after the young player moved too quickly in violation of safety regulations,"
     publishedDateTime: 2022-07-24T23:25:00Z

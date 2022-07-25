@@ -85,6 +85,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu introduces its autonomous vehicle with removable steering wheel"
+    excerpt: "Baidu, Inc., a Chinese tech firm specializing in Internet-related services and products, and artificial intelligence, has unveiled its fully autonomous vehicle called Apollo RT6. The next-generation AV is an"
+    publishedDateTime: 2022-07-25T07:22:00Z
+    webUrl: "https://www.econotimes.com/Baidu-introduces-its-autonomous-vehicle-with-removable-steering-wheel-1638005"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202207255a539c65dcddbb243_th_1024x0.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
     excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."
     publishedDateTime: 2022-07-21T03:08:00Z
@@ -150,6 +164,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "LdnvmMcDBaKEB+aKWngJ+PUvJHnVBFbsuzDIDYY84x52iE5BytNSncKoacyX5vhcmAwNTsCC7R6lOX67xwEbjUBH05nEtro7bFUymKD41YTuZd8VbR6z0c5VHjnQCrcAbKzhfGwGVVvesYw/52HtZRz7Wijqgkp4hBSXDjEbU6EbW4smhFlledEhZw4aB2ZA2iYA0LxEcajWpf4J08Rqj4s4PII8HtBpgEpClRxav+mhFnwYhXGJFMsNeOPFgwZqSF10y96pRdRavqyNr5fr3J6ObQo+zkBrp3bGckYpwnZyjcY2pCXvWKHKjI0oOXRN/AYQ7XK6ITHF1TMWlqFb4mxW6rji5qR2twCs9qbrHC0=;uBbjopvlxL6088CmRVDGJQ=="
+secured: "iRZAOWzeeDL3zYKYutxCAhIDlRm7LwjBglKPBd6bPOAH18UyRADxRH2U/FwuC1C+N3meb9E69ZkBrdjhwNyZRqaGiB7XMdRcpgs9Tt3wjupF6sY6ysgR1dxzehG9DpbaekGxpJIuUo4hm0q/1/LpxDfKcFdyHHe8EghR67iNW3JCo6uwOA+B58Ay71SRc3LS+ks82DBkK2wh0CVSDV0NSNpD1EwIA9a4qBwSczMwtxy3ZtjMxZh9qrphoglxAoyGP+92SJy4wBLLq2abEp1IEdZGYe0U5JDsKuqVtMz1h1YlfRUCBNJBSXdedpEeXHFkjuWSgMnx21Tp7vwSedetEaqJPXeI9i/xZUxiyIuXFLg=;CvvtftD5cnmB06k7a6Rj0Q=="
 ---
 

@@ -19,36 +19,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Oracle partners with Microsoft to launch database service for Azure"
-    excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
-    publishedDateTime: 2022-07-20T14:44:00Z
-    webUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft announces simulator for autonomous aircraft development"
-    excerpt: "Microsoft has unveiled a simulator for training autonomous drones, powered by Microsoft Azure to allow for millions of complex flight simulations per second. Project AirSim is the successor to Microsoft’s earlier AirSim,"
-    publishedDateTime: 2022-07-20T13:11:00Z
-    webUrl: "https://www.techcentral.ie/microsoft-announces-simulator-for-autonomous-aircraft-development/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/07/Microsoft-Project-AirSim-Promo1.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Oracle partners with Microsoft to offer database service for Azure"
     excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
     publishedDateTime: 2022-07-21T06:35:00Z

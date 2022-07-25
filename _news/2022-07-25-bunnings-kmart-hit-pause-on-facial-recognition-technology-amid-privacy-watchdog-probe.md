@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-r
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448.amp"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Bunnings, Kmart hit pause on in-store facial recognition"
     excerpt: "Bunnings and Kmart Australia have paused the use of facial recognition while the privacy watchdog investigates their personal information handling practices. The Wesfarmers-owned retailers took the decision over the weekend,"
     publishedDateTime: 2022-07-25T04:03:00Z

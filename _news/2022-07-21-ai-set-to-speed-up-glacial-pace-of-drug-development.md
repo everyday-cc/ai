@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "AI speeds sepsis detection to prevent hundreds of deaths"
+    excerpt: "A new system identifies patients at risk for sepsis to aid in the prevention of the illness, which is often difficult to detect and is one of the world's leading causes of death"
+    publishedDateTime: 2022-07-21T15:01:00Z
+    webUrl: "https://hub.jhu.edu/2022/07/21/artificial-intelligence-sepsis-detection/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 17
+
 secured: "hoPBALM9eOMlko6Kpk+0QcT7XjD4JMw2vUQwiGJ+b5++G6j1E8bZn4+q9XcDIQ/Y11/824u7IOqw8zbK/w1skYYQClWEzdM+WujIqKvMxrhiFZrFMGKZZ1uK7zIeleF9apCc/3FuobjznTsEGO9UeJHvTiuqR2R8PA4hZgM1IGwM569zTEzflHJhinX9az9AKHT68JM1KSiQQg+tPBZsGtO/+pJfBxESp+0+8T2eh4g2xTH2Md3hFgE5pXpwgfxS+GiUpoVHxJmkgHvE+yN8AUz4OdLcGS62nwPToehDdQVURLWxTCMxBipJTj5izM8I1gos1jcQSKLq/jegXxzhlm8eyx8khc9f4Z93DH9aLFx1aqACNstFSB9DEWfV8UNMvYu7YHwxk9Ej8HRn2Zhqkv7Au7zkCMUN+yVK6p3UQDhW2SezxwIZwokhtnKoRr1DN8KdYIf29xZhIMUEvCoPkUPy6Q5yCIZMtHdUaKc3Oz+M0hMtS0Vt7X+xvFDLr1iyhoZJpjDkeUd8H2Tj4cS0kA==;+xd6iw26eaAWlET7/fiJyQ=="
 ---
 

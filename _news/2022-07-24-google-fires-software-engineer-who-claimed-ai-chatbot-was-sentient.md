@@ -34,6 +34,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+    publishedDateTime: 2022-07-25T02:53:00Z
+    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
     excerpt: "The engineer worried that Google's LaMDA AI had become self-aware. Google disagrees. On Friday, Google fired Blake Lemoine, a software engineer who went public with his concerns that a conversational technology the company was developing had achieved sentience."
     publishedDateTime: 2022-07-23T00:24:00Z
@@ -186,22 +202,6 @@ related:
         width: 509
         height: 339
         isCached: true
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and"
-    publishedDateTime: 2022-07-25T03:31:00Z
-    webUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
-    ampWebUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/10/Untitled-2021-10-28T061744.295.jpg?quality=60&strip=color&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
     excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
     publishedDateTime: 2022-07-23T09:19:00Z
@@ -294,6 +294,15 @@ related:
         width: 1170
         height: 724
         isCached: true
+  - title: "Google fires 7-year engineer who claimed this AI had become sentient"
+    excerpt: "Google has fired an engineer that worked at Google for seven years over his claims that the company's AI had become sentient."
+    publishedDateTime: 2022-07-25T07:06:00Z
+    webUrl: "https://www.tweaktown.com/news/87554/google-fires-7-year-engineer-who-claimed-this-ai-had-become-sentient/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "w9vwe7Sl0+Ps+zTmsakXoikcQp0puHJVC5jQCA8++1YslBQWzMwytez1zi/yrUimU/+7kNiswbXp4Cy9dxT+FPlvWHJW+p+lA6S+Pxk6AHj7aAsUgfsK8X1n/RBO/adxKAqPoCv7q0UT9jj/OFmcUf+vEYZUsgEd1uaFbTvEAUsG2k291/7nty5cPXjJHAJ29yWbzyQ6b+CDG/sKqxTpQXP8i30M3HzJRY/ANubn/PGu1E/fvpUNrxO+8pCMbq5mpNU5/7l/4PKsc6gjchoG/yagpwZfUnWS/BP0sRcekSz4xgl9bMm/8GdG4o9r+xX+wYcMudABK+Z5/lUgYApKjbrzZyp1uE8Ev7XKsMON1qZTMAwXNidbTLIpTRDeOpvMqpeIF/A557kTvylJyO9/dq9Hs0Ix/GuEBAiRbL9U8Y2pLYs6gjwJVgxBSkXeuhJenn6/hSh3pj/JTWnQCBcC239MBKoQN4hbA07+2Mhwr6dt8vvpmWRaP2bpwA5w2fwkdFPFMU7FsG3BdGn3Q3ui9g==;/5Yu581XQgCLpg3uEc5Bow=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Chess robot breaks boy's finger in Moscow: 10 times AI went rogue"
+    excerpt: "In the latest in AI horror from the real world, a chess-playing robot broke a 7-year-old boy's finger in Russia. The incident was captured in a CCTV camera mounted behind the boy's head."
+    publishedDateTime: 2022-07-25T07:14:00Z
+    webUrl: "https://www.dailyo.in/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
+    ampWebUrl: "https://www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
+    cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
+    type: article
+    provider:
+      name: DailyO
+      domain: dailyo.in
+    quality: 74
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202207/chess-1200250722120029.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "vRz4ZtABINYEGzTWs1igDLUkdYbJN6kpkYFuEHi6A5ttiv0ivFs8cZk0ZvFjcGli2IoJM60H5lIn3WPTVGhvGG1xk5nev0AEQ7BcHkc3YCRodqsJmMQ8tWiSP4SE4JOXXjp4REHEhhVW91b9wOHhaGKnyCwjH1UdmOW0iY9ar65afoIiOyIH1BCZBlykDp1o5uMhGWtBQGa0oVAh/3443UzFzbjP/wcKu1L1jU5jl5gniMYFL5oGoHKS+AdO1UXlTjmh/i2SqWdWZFS2N0/Fsqr9HupdaCncYltrTqSYLEvjyNvJ7iZN8nsquqXby3rg8a8a2m7x9JfDfbu6W2hE4uWGI77EjVy9SFD0GlRW/QPOL692On9S8S6+lKnK90NyBUkF2duxpmxfjsJU4behlQAgNmXPdbjWw+2RL92L1/gSypegdB9+rnLXL3zst+M2EZrqJ7UidWh7yCyE0kPMu8H6FhGMyOe1ucgQF6VpvLNzBj190w6Y6dEPxrYkqHO9Hojsbr33CdeVMDZC0GbK6g==;jpei1QvnTaMwjXAm+BO34Q=="
 ---

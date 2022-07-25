@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Google fires engineer who contended its AI technology was sentient"
-excerpt: "Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and"
-publishedDateTime: 2022-07-25T03:31:00Z
-originalUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
-webUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
-ampWebUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
-cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+publishedDateTime: 2022-07-25T02:53:00Z
+originalUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: WHDH
-  domain: whdh.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://whdh.com/wp-content/uploads/sites/3/2021/10/Untitled-2021-10-28T061744.295.jpg?quality=60&strip=color&w=1024"
-    width: 1024
-    height: 576
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -287,6 +291,15 @@ related:
         width: 1170
         height: 724
         isCached: true
+  - title: "Google fires 7-year engineer who claimed this AI had become sentient"
+    excerpt: "Google has fired an engineer that worked at Google for seven years over his claims that the company's AI had become sentient."
+    publishedDateTime: 2022-07-25T07:06:00Z
+    webUrl: "https://www.tweaktown.com/news/87554/google-fires-7-year-engineer-who-claimed-this-ai-had-become-sentient/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
   - title: "Google Fires Software Engineer Who Claimed AI Chatbot Was ‘Sentient’"
     excerpt: "Alphabet Inc’s Google put a senior software engineer, Blake Lemoine on “paid administrative leave” after he published a paper claiming that"
     publishedDateTime: 2022-07-24T12:53:00Z
@@ -297,6 +310,6 @@ related:
       domain: techworm.net
     quality: 17
 
-secured: "L0cKzJTN+7doly/9yeYwPDEfD6xFbvxYMiJIvMjGdp101eTUtVAIGJ4GnKkmwIeK8iI08v980Xyz2eeLY5H9t3699CRLMwpQihYsB977wLYKx+bxJux0VHkmLeOB4VchEaYKmxl8qXtL919jqUlDxjfmwJkyJL1N/v57X+/VOJjM55Nyd6mowWgngj66BLZwZboQ+QfeVKDt31B+p8BuohiWdy4mdweMQ6wkStSX5xcPE6eqOlaUMQxDNAFZ3q8ymjhtwPZJ4nqVTYD1z4tsukkarasAyvSXz4CQWORLrClcCg8bLzLSUbwaqrIIZ8nxUfzYG5aaEwIZeUJddhkZA113o0zuqba5PUnQ4uXdetc=;YJf/1ibLLC2Z7hI8Po3Uvw=="
+secured: "nebbudBgG+YyBdze2qROCA5THxDoRslk44tie1vEQlri0z5LeUTc2vbG1rGApBhZySbGJdW7QGq9fBjkqOwY8Lx/A781pqhOd5dJqBEHWO6Htdz3Ljrjnx3HzGOZXpeKlgIW+qV38rfzFWf3nvckDlINc2DGU0I9dv2bE4X1rO6g33pComzo2KHaX6wj1Oo1KsSwZoy4HhQFWcu0t/Kb3viAEujcSDK9PM3kmkKTWctKXSenqpBPByJKW1HbN6ycmVsgKYWhn/eMQaZxxe8EfRQZtjz/WlVA33fsMHdKkbDJ20BaF+bHH/XHNW7ZrXLgISRd8MD1OWCggI8qL5x3/vyvysJNKSVxNzs/4jxFA+w=;mow6hsklQcvfVZNWHTjZfw=="
 ---
 

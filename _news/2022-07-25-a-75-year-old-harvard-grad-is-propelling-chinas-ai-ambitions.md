@@ -1,30 +1,28 @@
 ---
 category: news
 title: "A 75-year-old Harvard grad is propelling China’s AI ambitions"
-excerpt: "Andrew Chi-Chih Yao is one of the most influential figures in the field of artificial intelligence and his education and professional life have straddled the world’s two biggest economies."
-publishedDateTime: 2022-07-25T05:31:00Z
-originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/"
-webUrl: "https://indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/"
-ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/lite/"
+excerpt: "At a time when the US and China are divided on everything from economics to human rights, artificial intelligence is still a point of particular friction. With the potential to revolutionise everything from food production and health care to financial markets and surveillance,"
+publishedDateTime: 2022-07-25T07:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/25/a-75-year-old-harvard-grad-is-propellingchinas-ai-ambitions"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/25/a-75-year-old-harvard-grad-is-propellingchinas-ai-ambitions"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2022/07/Andrew-Chi-Chih-Yao.jpg"
-    width: 1200
-    height: 667
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671735.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
-secured: "MUlh/Kv6fSHGGJ9Z9iWVEDX7MKFue5lWXBrbbkVG7SlOIh7m2c+Wl7cG/aKcojDz6oIEc87mefG7oM/r4Nb9bc5Tq52PHy/demydaGWHYdlvcLWaPbhkS45ti3UB3MUNepwVXzdt/PB7JaBRHfb+m6TOtCcDH/GrfEVsApT4I7ncMSjXaUSu/QI/tglKI+B6sFXUDEHN3qAjr4oNbpDm7np+pzZlnHZAIXLBdlRC2n4hZqJD3rH9AwV8CKRTSVTwI8LZJ0Ru7Mid6qOJkSfzU72iaDJsQBk/mVRIa+pR5K6ixf4EJ03QGxNRsoVdk09b1oJwsu0NFAwbmqavyEerLcnCaEJGrLTtIxI4c6tJQk0=;cWQhA+f9iaHIA5oMFfQP+w=="
+secured: "ZMqp1NYwKl6MLUFSIrw/nnI2qgqcefTtLcapvafHsNQeYta0mX3u3vhHyQoKBoxxvP9hM2AWdP10tjeWdJ4ts0654Ma8HvHnxqs4c1zgjlgdKFKT981+ee9q67kdgXHWup7ltvS6OrMXoQV70LXM7uNSko1ywx7ukrE+TXTAcZHE+H1wBf4nnBzl9P6nOdXUfEGFVbIm+TBJq11JusfoCOESRqbpL0sPMrqjJo6Sy8O7CGa60Lb6foFR/ZnQD2lY0hnNgc3HP5w0A7CLJmdn6pLfDZ/946CPFOj5lro0OLrV9knVWGEH0Eo3fvkx+/+Qne9n4aPiUtFtSlfLci7r3wY/K3D1FS9UqN5UggApqgI=;J233BQAGYlmwYIjLWhldnw=="
 ---
 
