@@ -91,6 +91,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
+    excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
+    publishedDateTime: 2022-07-25T17:22:00Z
+    webUrl: "https://www.cnbc.com/2022/07/25/chess-robot-breaks-young-boys-finger-during-match-in-moscow.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
   - title: "Rogue AI? Chess-playing robot in Russia turns violent mid-match and breaks a 7-year-old boy’s finger"
     excerpt: "The controversy of ‘rogue’ artificial intelligence (AI) has stormed headlines again recently. This, and other events like the Google employee who was fired after claiming Google’s LaMDA AI was sentient, have alarmed many. In the words of the European ..."
     publishedDateTime: 2022-07-25T14:46:00Z
@@ -105,6 +114,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chess-Playing Robot Breaks 7-Year-Old Opponent's Finger at Moscow Tournament"
+    excerpt: "Russian media have reported that a chess-playing robot broke the finger of a seven-year-old boy during the Moscow Chess Open tournament. A video shared on social media showed the robot grabbing the child’s finger as he attempted to make a move during last week’s tournament."
+    publishedDateTime: 2022-07-25T18:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/chess-playing-robot-breaks-7-year-old-opponents-finger-at-moscow-tournament/3793458/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 16
 
 secured: "0I7q1I6wL9b5pC6dYYv18qzSxPr3h8sV72AauVtpwMDihaOXI+x3jiSFj9c3WZRIb31S548aTRXCtLlWLRoZ00ZRn1TXzdIzkoiCO3cxR7aKgmvfk3BGj2q6wPf3DOgvC8xoufu/+G829G2uMtTLr5nQ+wUNHq5M4rPu/SujWPqhej8DGtNKkmV0ZuF7B7SK65w4nZ8RnCSKoh4zchcvu0XNenjIjm+gSWzzO3kDf/wGymPjQP+C3J7voqHjc9A7PjVycsAJi8IRZYrDsVxFa/KToj4DW/wk0z500V77Voi7yPpbyPYJNlK5NYZlqZRpp3W0IY/tcJKWDIQtF4Q38JZ3gafDFBZwOvrRfzKJ6ZdOc7ceY/FbxzuEGBH+7Bk7oGjGXjR0dYHHmrxTsp0GwSIr306mRcjzZnNs2RYASPsqYzcIAokIN3BDgf3Ood9rQv6GCwp6z/wx3j10myTaH1FBzUSfIxmEPj1XBhSRhb+so16gr/dbyHcO3aZuYp3LgOcnmbQjMIEpqu5jPFduGA==;A55GVwjllRX4dIVIr2m95w=="
 ---

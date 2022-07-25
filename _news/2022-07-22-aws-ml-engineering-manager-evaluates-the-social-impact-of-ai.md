@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evalua
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+
+related:
+  - title: "Challenges facing AI in science and engineering"
+    excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
+    publishedDateTime: 2022-07-25T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "JesB9YTXUBuXUCf0/B7nV5LR5T9OT8pU9sIduPjdIpU2OprTBlBfhZukoot/woYfjfe9Sxu7ZtWTxCx7ErUBliwexI4TU+ZuWqD5LXfWbvxp+PUHCzCEezHPjTX5oioaPtvSWVdr/640MM9W1WEmAfoxb8Apt1hRnhPa2ZvhXn/i/oRwo+mnrQs9Ou2ovRYSuB/as+GgGlpupLLdvjIweZq8Sr3xTYuYfbJlGgMR7P12JjXjDGjo+DcdxZkG6nEFsnCcFnOKl4OviHK5lhx3uuLf1nkievWY0kxPcmu90nvJY++fVSj0TchmGYfgGaTI6tq3mE00vn449g/10MBF8wBW1NwdtTJFmYYeNTlEgx059lIQ+/+PDNXYOyE7PbM48i1J8tRcuBhYf+QiujfPiYxZgJ2BxWEOF9ucXCMSo/YdWPNTXI8+veu20WmMg2Ep+brNdmDqGn7oUU/cJTqWtu0jzH0w8T2XU2lGQv5d6XenvTJSqfRT422YE4CY/7QNZRdcac6vYpm8xovX3lkNYQ==;CvJRVNf195JsbjMHAPoy3Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft
 webUrl: "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
     provider:
       name: Daily Herald
       domain: dailyherald.com
+    quality: 18
+  - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
+    excerpt: "Insight stands at the forefront of modern manufacturing through the integration of manufacturing tools in Microsoft Azure - from smart devices to the cloud - that improve coordination, productivity and product quality."
+    publishedDateTime: 2022-07-25T17:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644377.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 18
 
 secured: "pJZ8YnoJPAs0OR7NxaCOnyFBG7xAZCZwVbm+leEi474pMy9cTPr2Aom+pPGuH6CIZa1M0cD3GI4WsIiVfI40j7cJZ5vYvR1TDPJnfFdklIFz1jHzZJCNJ6CsVNUKO27syUK5jDuKbvzMCUlQZGtLmtklhSxKNa2L4Dx33Kiyyiv4NHaQdjI6IP9T5lK6m4+fp4MZ993y5vyIV+AfkCUT3spUYGYotJaJry1AEAMaRqQ5F5+YmEC0ozluz4j1BNYDciBXHhHW0OC6ZkI2ipLZQljzJAYKEUjMGmk2EqXjCh/tfqthZty0Hul5gHeLq4WxzQXJRnzDRTYZb8rtRRBTGo6czZZTVR3Pq5QjwAelnaS5OQbrWC0fnBkllnKwmvZv+yncVkAFs48lVaPy9loYgX9/EmvcT0ID92R+ftpv+xBP6PnUK/rtaVuwnAowgPf0UNnTMigB9/ayczt6IZFYQPnHqw26ItEcHlSyPIPFQCI6MpH/veSq6XIpxKpJ4bWXJSGzohf6RrGi7DAVS/iFyQ==;yXHLhZR33OP7+Fkq5ydvvQ=="

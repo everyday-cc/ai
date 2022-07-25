@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T18:56:26Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/developing-advanced-machine-learning-systems-at-trumid-with-the-deep-graph-library-for-knowledge-embedding/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/developing-advanced-machine-learning-systems-at-trumid-with-the-deep-graph-library-for-knowledge-embedding/"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: AWS

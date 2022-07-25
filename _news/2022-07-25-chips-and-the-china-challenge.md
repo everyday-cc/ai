@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-24T18:01:00Z
 originalUrl: "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510"
 webUrl: "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wall Street Journal

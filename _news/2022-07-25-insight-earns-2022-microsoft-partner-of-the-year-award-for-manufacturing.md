@@ -42,6 +42,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 18
+  - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
+    excerpt: "Insight stands at the forefront of modern manufacturing through the integration of manufacturing tools in Microsoft Azure - from smart devices to the cloud - that improve coordination, productivity and product quality."
+    publishedDateTime: 2022-07-25T17:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644377.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "IGorfjdeAisX+kbp0e02xA/FS8BhgPxQlq1Xf1PGTYe79lW14R3h4OkULW0WLOPZyLsB+pVvCjEJhDl1bgOwpjMO1FvCQCujeNUjaujBIrv/0FLucQCaQ50L5j3naECP1QWgf56pvP0D8kdOUQc2br0V+t7F2R93EZtMGPXfp3e10L5eed2/3pso30S4+NRKn3fwnvJxfvTkNH4bjT5d+iEXuMjJZq9jobfiZMwgmRp7Eue9iK0uAiMUPvsPr+PlcAA3KQUVP0D6byEyTpMCK612P/jUCCBiZLCof9apzx8O70tYFwnzNyImWptXpgxdnhT1pXoeExkk9v5KMH8ZMqrSuHZweXIfCoYxwMcpyn4=;NZuOj3A0BcyJkg0z+4L6zw=="
 ---

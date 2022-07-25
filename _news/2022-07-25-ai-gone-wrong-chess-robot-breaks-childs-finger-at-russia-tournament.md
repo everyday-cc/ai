@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
 type: article
 quality: 74
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
+    excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
+    publishedDateTime: 2022-07-25T17:22:00Z
+    webUrl: "https://www.cnbc.com/2022/07/25/chess-robot-breaks-young-boys-finger-during-match-in-moscow.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
   - title: "Rogue AI? Chess-playing robot in Russia turns violent mid-match and breaks a 7-year-old boy’s finger"
     excerpt: "The controversy of ‘rogue’ artificial intelligence (AI) has stormed headlines again recently. This, and other events like the Google employee who was fired after claiming Google’s LaMDA AI was sentient, have alarmed many. In the words of the European ..."
     publishedDateTime: 2022-07-25T14:46:00Z
@@ -105,6 +114,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chess-Playing Robot Breaks 7-Year-Old Opponent's Finger at Moscow Tournament"
+    excerpt: "Russian media have reported that a chess-playing robot broke the finger of a seven-year-old boy during the Moscow Chess Open tournament. A video shared on social media showed the robot grabbing the child’s finger as he attempted to make a move during last week’s tournament."
+    publishedDateTime: 2022-07-25T18:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/chess-playing-robot-breaks-7-year-old-opponents-finger-at-moscow-tournament/3793458/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 16
 
 secured: "5HLdR5R2fPmaclz8+WRd4LBBbTxa8bXN2XhMNgYvFImfAeYueH5zHyQH+7H7rJwI7nqg0cC4hHENeot1SujeBZk2ISOcnCUBIn7D2S3lBiPokacpf84rdWCLRstIhamZkJO4SAiw8UAX9aOlT29hiq+BQ3Jbwzhk3S1YNO8GLXpxx/bx/cBmdUVF7UAxIaUSbOnnGNmSwQd4vXaE9Hbl+oj3JM+p5FyrUtZyZU3BDV/i0xu19Q/49B+umbaLuZE/npIetuaz076NlwQigfgp4Ej2EkYPclNr4hHEJEot/ZXD5/uMQH1uRONITs+K1I6+OY45ibXvqj2/eYWJhrlTICLtBim7nHZSEOTS3tTlSAM=;1VSMQId8E2JVeWnHH7pOQA=="
 ---

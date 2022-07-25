@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3667997/nz-fry-up-internal-aff
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:

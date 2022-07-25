@@ -38,22 +38,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Rogers to invest in AI after network outage"
-    excerpt: "Rogers Communications plots CAD10 billion network investment over three years, as it seeks to rebound from massive outage."
-    publishedDateTime: 2022-07-25T16:46:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/07/Tony-Staffieri-e1657624125282.jpg"
-        width: 650
-        height: 399
-        isCached: true
   - title: "Rogers Communication to invest C$10 billion in AI, oversight following outage"
     excerpt: "Canadian telco giant has promised internal transformation after a network-wide blackout caused major disruption in Canada earlier this month"
     publishedDateTime: 2022-07-25T13:44:00Z

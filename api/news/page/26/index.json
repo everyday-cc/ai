@@ -2,6 +2,143 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-06-29-cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past.md",
+      "title": "‘Cognitive immobility’ – when you’re mentally trapped in a place from your past",
+      "excerpt": "This describes what I have dubbed “cognitive immobility”, outlined in my new research article, published in Culture & Psychology. The study used autoethnography, a research method in which the ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
+      "originalUrl": "https://theconversation.com/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/471584/original/file-20220629-26-d4f8yo.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
+      "publishedDateTime": "2022-06-29T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
+      "title": "7 key Microsoft Azure analytics services (plus one extra)",
+      "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
+      "originalUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/cso_budgets_data_analytics_charts_money_finance_thinkstock_475775688_2400x1600-100808344-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
+      "publishedDateTime": "2022-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters.md",
+      "title": "AI Startup Rolls Out Effort to Autonomously Detect Mass Shooters",
+      "excerpt": "Kogniz Inc., a startup that says its artificial intelligence ... based company has focused its AI on offering clients the ability to use their on-premises cameras to detect things like defective ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-573411/social",
+          "width": 1225,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system.md",
       "title": "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?",
       "excerpt": "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem.",
@@ -924,127 +1061,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-artificial-intelligence-in-big-data-analysis-market-may-see-a-big-move-apple-cisco-systems-google-ibm.md",
-      "title": "Artificial Intelligence in Big Data Analysis Market May See a Big Move | Apple, Cisco Systems, Google, IBM",
-      "excerpt": "Specifications and Classification of Artificial Intelligence in Big Data market, Applications [Smart Household, Self Driving, Cyber Security & Others], Market Segment by Types , Image Recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-big-data-analysis-market-may-see-a-big-move-apple-cisco-systems-google-ibm",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-big-data-analysis-market-may-see-a-big-move-apple-cisco-systems-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
-      "title": "Tesla Stock Split Seen Drawing AI Investors",
-      "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
-      "publishedDateTime": "2022-06-28T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
-      "title": "4 AI research trends everyone is (or will be) talking about",
-      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "publishedDateTime": "2022-06-28T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

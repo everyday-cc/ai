@@ -57,38 +57,6 @@ related:
         width: 1920
         height: 1281
         isCached: true
-  - title: "Baidu reveals the next-gen robotaxi that will be deployed throughout China"
-    excerpt: "Baidu, the Chinese search engine giant that has plowed money into AI and autonomous vehicle technology, unveiled Wednesday a new all-electric robotaxi that it plans to deploy at scale across China. Baidu will add the Apollo RT6 EV – a cross between an SUV and a minivan that comes with a detachable"
-    publishedDateTime: 2022-07-21T02:55:00Z
-    webUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/"
-    ampWebUrl: "https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/RT61543.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Baidu's new robotaxi can drive without a steering wheel and is 50% cheaper"
-    excerpt: "The Apollo RT6 is set to start operating on China's roads in the second half of next year under Baidu's self-driving robotaxi business. The company's robotaxi business, called Apollo Go ..."
-    publishedDateTime: 2022-07-21T04:26:00Z
-    webUrl: "https://www.cnbc.com/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/21/baidus-robotaxi-can-drive-without-a-steering-wheel-car-price-slashed.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107091855-1658367613460-Image_from_iOS_63.jpg?v=1658367811"
-        width: 830
-        height: 518
-        isCached: true
   - title: "Baidu Races Ahead of Tesla With Launch of Robotaxi With Detachable Steering Wheel"
     excerpt: "Baidu unveiled a new autonomous car with a detachable steering wheel that it wants to use for its robotaxi service in 2023—up to a year before Tesla plans to start mass producing a similar vehicle."
     publishedDateTime: 2022-07-21T08:40:00Z
@@ -116,22 +84,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Baidu Unveils Next-Gen Autonomous Vehicle, Ready to Provide Driverless Robotaxi Half of Taxi Fares"
-    excerpt: "Apollo RT6 is purposefully designed for fully autonomous driving, with a detachable steering wheel unlocking space for a more versatile in-car experience.With a dramatically lowered production cost of 250,"
-    publishedDateTime: 2022-07-21T02:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28145013/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28145013"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28145013"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
-    images:
-      - url: "https://mma.prnewswire.com/media/1863205/RT61337.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Baidu unveils self-driving robotaxi with removable steering wheel"
     excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
@@ -194,20 +146,6 @@ related:
       - url: "https://media.13wmaz.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Baidu unveils new robotaxi it says could halve commuting costs"
-    excerpt: "Baidu Inc unveiled a new version of its self-driving robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
-    publishedDateTime: 2022-07-21T03:45:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/21/baidu-unveils-new-robotaxi-it-says-could-halve-commuting-costs"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/21/1667005.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
     excerpt: "The Apollo RT6, an (allegedly) self-driving taxi, will start ferrying riders with, or without, a steering wheel in 2023."

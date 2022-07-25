@@ -105,6 +105,24 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
+    excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
+    publishedDateTime: 2022-07-25T17:22:00Z
+    webUrl: "https://www.cnbc.com/2022/07/25/chess-robot-breaks-young-boys-finger-during-match-in-moscow.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
+  - title: "Chess-Playing Robot Breaks 7-Year-Old Opponent's Finger at Moscow Tournament"
+    excerpt: "Russian media have reported that a chess-playing robot broke the finger of a seven-year-old boy during the Moscow Chess Open tournament. A video shared on social media showed the robot grabbing the child’s finger as he attempted to make a move during last week’s tournament."
+    publishedDateTime: 2022-07-25T18:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/chess-playing-robot-breaks-7-year-old-opponents-finger-at-moscow-tournament/3793458/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 16
 
 secured: "chBnx0xNbBI1/OsLwZVq/puxTawwLI918d0tt4OsebCMLvJuikShLd2NkU1l5kB75Lnssr8jvSz6Cz3Xlfv3DvnVVqid8KvmHkT2x+AHDO37z/be5ryVKiqk+7+WnpeFo+vMwOq+hfmmyMpWsTQx/QqRKYlpk6QfLilv0E2ADKcHqS+ny5CiDBk8cyHYcYlI4gD0CiaB6vCJzZ7HMrDKaHFZhZuNzQcEtVtWe1XpONYW8CTgeHv5jo+OplGd7RQEeMOMfGvW5La7U+N+hhAViSw11yYCbxeD6sTJ5JMdj6zHVofXCAa5Ly7PAJvxZjyrXL6LUYRBEKcWow1cF7/4AdVR5Ea1ulaKY9GRGlvuwhU=;IwQvo0XKW0nLqTEm4S4m2g=="
 ---

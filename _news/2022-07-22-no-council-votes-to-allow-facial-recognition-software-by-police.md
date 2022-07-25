@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wwltv.com/amp/article/news/crime/new-orleans-city-counci
 cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Facial recognition: The tool of despair and hope"
+    excerpt: "There is increasing use of biometric solutions like facial recognition to reduce fraud, protect data, and safeguard operations."
+    publishedDateTime: 2022-07-25T20:37:00Z
+    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-the-tool-of-despair-and-hope"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
 
 secured: "zoDqnUzQXdIC7HAUR21kLxz3yZSKWfh3c+vdiWX2++XdanplL10sfvbw+UFAo9Olp5zbFb5somTGPngHtuXcXOMDOZ2rs2wfroJaoucwMYOWln70OQP/V4oztzqBqSIp0/1Jzit6ETWgOl2rkpnXxA1iIGA7+X2O4OPE1r5WkPmSbyOeCuskbVanFmbG98l1pJRsIhjht0N5DI48XzYRgtiWdjfKTAD5akDU+jJ/NqMeHZdkuZ8wkSCgfJxUXCHnmpRVGbjWG2U7A4FYTdaH4MIvBN1FkvGH+fB4NyR3hWZdugsDhRb8vqTSsH2EyV1DM7OIqOGVDPKU+JOjoGkl8DYbJ6GoHtmRNuVa4sMI5H4bvmo/yJ8zzk9AQcqLD0zvxlXU8QBD41MNtmaInhnZAN0p9PL+pTh4I8TY7IuIp0Cp6UxUs74ki83BNss3O0xopzzGunsMs3lRFH+mXeiafsORmK54BShStuWKmbfEC47wxULwznXmOKqMoWiF7nPF5UCjrCGpKium6Mm1h1BtKg==;wSaAr/j/xlg5W/ViO4Gykw=="
 ---

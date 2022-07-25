@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA: GA of AI Enterprise 2.1"
+    excerpt: "NVIDIA today announced the general availability of NVIDIA AI Enterprise 2.1., an updated version of its AI and data analytics software suite designed to help enterprises deploy and scale AI applications across bare metal,"
+    publishedDateTime: 2022-07-25T18:38:00Z
+    webUrl: "https://insidehpc.com/2022/07/nvidia-ga-of-ai-enterprise-2-1/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 41
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "1gpgDYG5UyljsP0GiGqhKdoYHFxeyA37GeTKDg5vS3i1eCagvy691mIoNO+/v8Z7Jfe3OhqD4kRVeuoiOi4cEEMeQmQHx2u3VzF7x1b3pL2el2goz36VQ8UbCJdXQi7hFME1sca4OND+EqIJ6pMbNm5BjU7qgviSBMwU4jguBtjrFDvZ1iexiYmrVGeOb798Z1skZEMvH66Na6V5KysEbtvFiNXGRIVqZAo0d6f/aooTd8peqRsVDyvmck1aK82SBmUkqlN0P104d2YY6EZg9gSuNMskxfiNmLWkS+JNQvedVKdOeyI8wb+A5fhcGFrZ0nGmzn++ejsJsuI7VSZhyUGnWQQ35T7CIDcxsPBE/g71eCWRTlhYRFs7auAiKCOJYd/A2fiMYLrCxgFHOElaiwdW6WCzhI37TeF/C4C6LcKfpipeHryFkaX2LiW/W/ybB+V6xzvGuhrr0BYX+U6Hh/2smmVa+wFdrxfrLeEX89Dr+lHWU1FKyo9dumSaxf8Mxv7k9kJ0GzmqifuUCykQXA==;Igxusag5cxSaatkKCESoiQ=="
 ---

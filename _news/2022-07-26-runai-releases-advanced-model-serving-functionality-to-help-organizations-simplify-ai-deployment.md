@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T19:20:00Z
 originalUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
 webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: insidebigdata.com

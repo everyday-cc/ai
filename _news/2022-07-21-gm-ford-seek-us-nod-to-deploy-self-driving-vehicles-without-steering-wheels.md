@@ -41,22 +41,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-21T04:30:00Z
-    webUrl: "https://www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-    ampWebUrl: "https://www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
-    cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
-    type: article
-    provider:
-      name: WCBD
-      domain: counton2.com
-    quality: 59
-    images:
-      - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Baidu halves production cost for latest self-driving vehicle"
     excerpt: "Chinese search engine giant Baidu on Thursday released its new generation of autonomous vehicles with a production cost roughly half that of its previous Apollo Moon line. By continuing to browse this website,"
     publishedDateTime: 2022-07-21T05:16:00Z
@@ -71,6 +55,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+    excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+    publishedDateTime: 2022-07-21T05:57:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
     publishedDateTime: 2022-07-21T15:32:00Z
@@ -84,20 +82,6 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-21/ad60ef9a-9f25-4bf1-b948-25db9d09338d.jpeg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "Baidu unveils production-ready, self-driving RT6"
-    excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
-    publishedDateTime: 2022-07-21T02:51:00Z
-    webUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?chid=13"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220721vl200_files/3_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
     excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
@@ -126,20 +110,6 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/202207255a539c65dcddbb243_th_1024x0.jpeg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Baidu unveils autonomous vehicle without steering wheel, to be operational in 2023"
-    excerpt: "Baidu next-generation fully autonomous vehicle, the Apollo RT6 is an all-electric, production-ready model with a detachable steering wheel."
-    publishedDateTime: 2022-07-21T03:08:00Z
-    webUrl: "https://techwireasia.com/2022/07/baidu-unveils-autonomous-vehicle-without-steering-wheel-to-be-operational-in-2023/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 33
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6-Exterior117223-scaled.jpg"
-        width: 2560
-        height: 1710
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."

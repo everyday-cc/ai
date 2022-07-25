@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
+      "title": "How AI Can Boost Rural Connectivity & Healthcare",
+      "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
+      "sourceUrl": null,
+      "webUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "originalUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png",
+          "width": 748,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pragativadi",
+        "domain": "pragativadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-kiromic-biopharma-achieves-milestone-with-timely-completion-of-expanded-cgmp-manufacturing-facility-to-support-cell-therapy-oncology-pipeline.md",
       "title": "Kiromic BioPharma Achieves Milestone with Timely Completion of Expanded cGMP Manufacturing Facility to Support Cell Therapy Oncology Pipeline",
       "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (\"Kiromic\" or the \"Company\"), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
@@ -1284,49 +1328,6 @@
         "AI",
         "AI in Healthcare",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-344-cagr-emergen-research.md",
-      "title": "Artificial Intelligence in Cancer Diagnosis and Therapy Market Size Worth USD 5,299 Million,Globally, by 2030 at 34.4% CAGR: Emergen Research",
-      "excerpt": "Increased approval of AI-based devices for cancer therapy by FDA is a key factor driving AI in cancer diagnosis & therapy market revenue growth The global Artificial Intelligence (AI) in cancer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-34-4-cagr-emergen-research",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-34-4-cagr-emergen-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1656422196.png",
-          "width": 1243,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
