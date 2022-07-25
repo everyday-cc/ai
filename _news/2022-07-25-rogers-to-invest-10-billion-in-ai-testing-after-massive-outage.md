@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rogers to invest in AI after network outage"
+    excerpt: "Rogers Communications plots CAD10 billion network investment over three years, as it seeks to rebound from massive outage."
+    publishedDateTime: 2022-07-25T16:46:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/07/Tony-Staffieri-e1657624125282.jpg"
+        width: 650
+        height: 399
+        isCached: true
   - title: "Rogers to invest C$10 billion in AI, testing after massive outage"
     excerpt: "Rogers Communications Inc said on Sunday it will invest C$10 billion ($7.74 billion) over the next three years in Artificial Intelligence (AI), and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
     publishedDateTime: 2022-07-25T04:40:00Z

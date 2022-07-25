@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
+      "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
+      "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
+      "publishedDateTime": "2022-07-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
       "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
       "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
@@ -63,7 +116,7 @@
       "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -1366,58 +1419,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dall-e-mini-is-the-internets-favorite-ai-meme-machine.md",
-      "title": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
-      "excerpt": "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "originalUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg",
-          "width": 1680,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dalle-ai-meme-machine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp",
-      "publishedDateTime": "2022-06-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

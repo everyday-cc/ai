@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/world/op-ed-good-ai-bad-ai-the-hype
 webUrl: "https://www.digitaljournal.com/world/op-ed-good-ai-bad-ai-the-hype-the-babble-and-weaponization-of-ai-as-a-threat/article"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation..."
+    excerpt: "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern."
+    publishedDateTime: 2022-07-25T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Ethics And Autonomous Systems Lessons Gleaned From That Recent Alaska Airlines Flight Where The Pilot And..."
+    excerpt: "AI ethics lessons about autonomous systems is gleaned from a recent Alaskan Airlines flight that had the pilot and copilot vigorously disagree and opt to taxi back to the terminal. Resolving disagreements between AI and human-in-the-loop operators will be an arising challenge."
+    publishedDateTime: 2022-07-23T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/23/ai-ethics-and-autonomous-systems-lessons-gleaned-from-that-recent-alaska-airlines-flight-where-the-pilot-and-co-pilot-disagreed-prior-to-taking-off-and-abruptly-opted-to-taxi-back-to-the-terminal-and-go-their-separate-ways/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "Op-Ed: Good AI, Bad AI – The hype, the babble, and weaponization of AI as a threat"
     excerpt: "AI is high-value. This endless solve-nothing drivel isn’t. Fix that. Enough with the Monsters Under The Bed garbage. Fix that while you’re at it."
     publishedDateTime: 2022-07-25T09:33:00Z

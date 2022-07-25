@@ -42,22 +42,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-    publishedDateTime: 2022-07-25T02:53:00Z
-    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
     excerpt: "The engineer worried that Google's LaMDA AI had become self-aware. Google disagrees. On Friday, Google fired Blake Lemoine, a software engineer who went public with his concerns that a conversational technology the company was developing had achieved sentience."
     publishedDateTime: 2022-07-23T00:24:00Z
@@ -274,6 +258,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
+    publishedDateTime: 2022-07-25T16:10:00Z
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Google sacks senior engineer who said its AI program was sentient"
     excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"
     publishedDateTime: 2022-07-24T23:01:00Z
@@ -287,6 +285,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2e45d396-0b7d-11ed-a4af-79eb4b98fc31.jpg?crop=400%2C225%2C0%2C21&resize=1200"
         width: 400
         height: 225
+        isCached: true
+  - title: "Google Fires Engineer Who Contends Its AI Chatbot Is Sentient And Has A Soul"
+    excerpt: "The engineer who claimed a Google AI chat bot had become sentient has been fired due to violating company policies"
+    publishedDateTime: 2022-07-25T16:46:00Z
+    webUrl: "https://hothardware.com/news/google-fires-engineer-who-contends-ai-chatbot-is-sentient"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 36
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59199/content/ai-human.jpg"
+        width: 708
+        height: 419
         isCached: true
   - title: "Google engineer who claimed Google’s AI chatbot LaMDA was self-aware has been fired"
     excerpt: "Artificial intelligence (AI) has long been worked on; one Google software engineer has been fired for claiming Google's LaMDA AI was self-aware."

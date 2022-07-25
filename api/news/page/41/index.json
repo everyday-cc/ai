@@ -2,6 +2,91 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-06-17-drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster.md",
+      "title": "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster",
+      "excerpt": "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp",
+      "publishedDateTime": "2022-06-17T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-amy-raises-6m-to-help-enterprises-sell-better-with-ai.md",
+      "title": "Amy raises $6M to help enterprises sell better with AI",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Israeli startup Amy, which provides an AI-driven solution to help enterprise reps build better ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1097999080-Thomas-Barwick.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/amp/",
+      "publishedDateTime": "2022-06-17T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-engadget-podcast-googles-ai-isnt-sentient-but-we-must-examine-the-ethics.md",
       "title": "Engadget Podcast: Google's AI isn't sentient but we must examine the ethics",
       "excerpt": "Devindra and Cherlynn dig into Google engineer Blake Lemoine’s interview with the Washington Post and his belief that the company’s LaMDA language model is alive..",
@@ -1028,100 +1113,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-ai-could-mitigate-bias-in-advertising-tech.md",
-      "title": "AI could mitigate bias in advertising tech",
-      "excerpt": "A fairness solution applied to advertising could help reduce bias and potentially help brands get a better return on their media spending.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/",
-      "originalUrl": "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/amp/",
-      "publishedDateTime": "2022-06-16T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
-      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
-      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "originalUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1",
-          "width": 1240,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "publishedDateTime": "2022-06-16T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-13-lime-has-built-its-own-camera-based-sidewalk-detection-technology.md",
+      "title": "Lime has built its own camera-based sidewalk detection technology",
+      "excerpt": "At a Lime event in Paris, the startup shared plans to pilot an in-house built computer vision platform that will leverage cameras to detect when users are riding on the sidewalk. While it will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?w=1024",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
+      "publishedDateTime": "2022-07-13T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
+      "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
+      "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "originalUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/019ff2d0-028c-11ed-bfbd-7e14de53802c",
+          "width": 1600,
+          "height": 1038,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "publishedDateTime": "2022-07-13T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
       "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
       "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
@@ -992,82 +1095,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023.md",
-      "title": "AI, data analytics firm Ganit raises funds; to double headcount by 2023",
-      "excerpt": "Ganit was founded in 2017 by three veterans of the data science industry Shivaprasad KT, Ashok Harwani and Hariharan R.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/12/full/1657621253-3286.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
-      "publishedDateTime": "2022-07-12T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-a-very-human-thing-why-the-translation-business-continues-to-be-resilient.md",
-      "title": "A Very Human Thing: Why the Translation Business Continues to Be Resilient",
-      "excerpt": "Translated CEO, Marco Trombetti, on why demand for language services has remained strong and the implications of advances in machine translation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
-      "originalUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

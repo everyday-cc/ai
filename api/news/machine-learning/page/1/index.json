@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-26-machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail industry rose in June 2022",
+      "excerpt": "We've analysed hiring patterns using data from GlobalData The proportion of retail companies hiring for machine learning related positions rose in June 2022 compared with the equivalent month last year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/07/RkCvA-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience.md",
       "title": "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?",
       "excerpt": "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI",
@@ -10,7 +53,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1201,19 +1244,19 @@
     {
       "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
       "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
+      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
-      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1226,8 +1269,8 @@
       "publishedDateTime": "2022-07-15T01:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily News",
+        "domain": "galvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1362,58 +1405,6 @@
         "name": "The Hill",
         "domain": "thehill.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-what-to-look-for-in-machine-learning-for-cybersecurity-solutions.md",
-      "title": "What To Look For In Machine Learning For Cybersecurity Solutions",
-      "excerpt": "In the cyberworld, the “game” pits your computing environment—protected by your skilled but overworked security team—against a range of miscreants and nation-state-sponsored actors seeking illicit access to your crown jewels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f1b24deb13c5b56bae01eff/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/14/what-to-look-for-in-machine-learning-for-cybersecurity-solutions/amp/",
-      "publishedDateTime": "2022-07-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

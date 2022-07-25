@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-21T07:17:00Z
-    webUrl: "https://www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-    ampWebUrl: "https://www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
-    cdnAmpWebUrl: "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    publishedDateTime: 2022-07-21T04:30:00Z
+    webUrl: "https://www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    ampWebUrl: "https://www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
     type: article
     provider:
-      name: WJHL-TV
-      domain: wjhl.com
+      name: WCBD
+      domain: counton2.com
     quality: 59
     images:
-      - url: "https://www.wjhl.com/wp-content/uploads/sites/98/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
+      - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true

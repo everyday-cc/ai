@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Google fires engineer who contended its AI technology was sentient"
-excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-publishedDateTime: 2022-07-25T02:53:00Z
-originalUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
-webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
+publishedDateTime: 2022-07-25T16:10:00Z
+originalUrl: "https://kesq.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kesq.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -293,6 +287,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Google Fires Engineer Who Contends Its AI Chatbot Is Sentient And Has A Soul"
+    excerpt: "The engineer who claimed a Google AI chat bot had become sentient has been fired due to violating company policies"
+    publishedDateTime: 2022-07-25T16:46:00Z
+    webUrl: "https://hothardware.com/news/google-fires-engineer-who-contends-ai-chatbot-is-sentient"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 36
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59199/content/ai-human.jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "Google engineer who claimed Google’s AI chatbot LaMDA was self-aware has been fired"
     excerpt: "Artificial intelligence (AI) has long been worked on; one Google software engineer has been fired for claiming Google's LaMDA AI was self-aware."
     publishedDateTime: 2022-07-24T20:47:00Z
@@ -335,6 +343,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "KBiVwbiQC9+N7lW/ARC2eXQC7ouUcVLuZHcN+FXGUdytxcF/aEugCmRbZRKmYqzSlPOeDlAh/xhsUn5SOFXxdLJaqCr167ZH574t9wO6H5v2cd8BWd5YpJcEsLEgdjVfSlxJqgkj2N5EM/gSPaom5gJT4SmcuRrXhtJJbk2BPgn0+MdjDDmaA+gjUk5Q4xy//O3mkp4FUhJ/osuGCsF4GeLL+Mxu5bVbbM5I+1sB26jVUM3zRj23jNFsHON338m6X4uAqXhlU67QV/BLCBMx3vF8m8NuAMM2KdTzVWxNCq7XnqBShRAttbMykqsFnOysosVM73iqwOdhGXZoG4HhKR5F2gZDjB3Ul8cSjXbvi9q9Zi/+ixtcnkOtPY7xAg7z5Y4n6a7+9n2zf7q9EKWHlrq/jKoFsF+/fUN4tjt/RvTFCXhXdMmR4xw5Pq3iXi4pkZXL0xnHN7lqdQl5uwKgAlug9yXnfYeaZ6hvjunyunLeQtSZB1eaBOSzQp7I7GtD+V38rAO9y5T0mo3pENof3Q==;Qach0FT4sDNK5C+aG4/sdw=="
+secured: "hU88LCvPwaYh1y6JiLymJ5lHb3904x66kd5tWoW+Ta7TlyEd6cYpcSXrQYSxiWLilu/DQrOClqDscisLA0ERt5VSIE9/qo8ArrOmVFeY+ZHLiBKimH5xnbi3ejx5B9SjOTRuYQyUC8BeSQB3cJeSKKScsyshWI36A/ZZ+eKNM/umXnu+W2pfjX4DobbzJoylBRxsnhliADdjZACz/nb/ExpNWpvTN/QGA9kLzGTxDXERAqe9AeWnmmUN7Aw4WhUtwlSs3FpuMkfx+neTKx5FZs0pHyWmfbuUPA+6vAK4hwtwMlP4ecn5PmhsXxxY2QD7I3/ZlezCf8ZvxNF7Q71+BSKtdyM1MW3godULbI2huhI=;yW6R4STbFGxOSuZ0iCDjLg=="
 ---
 

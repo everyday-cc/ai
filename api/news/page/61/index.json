@@ -2,6 +2,104 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
+      "title": "To evolve, AI must face its limitations",
+      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
+      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-04T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-officer-involved-shootings-in-cognitive-context.md",
+      "title": "Officer-Involved Shootings in Cognitive Context",
+      "excerpt": "This is a critical question. Cognition is basic to any given socially mediated response; and as it turns out, the cognitive importance of language, in any given OIS case, may become paramount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/fvsquarepic.jpg?itok=XgYUEu96",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
+      "publishedDateTime": "2022-06-04T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-05-technical-training-for-school-students-to-promote-robotics-ai.md",
       "title": "Technical Training For School Students To Promote Robotics, AI",
       "excerpt": "Learning curves have drastically shifted for school students in the past 2.5 years, owing to the Covid-19 induced challenges.",
@@ -1050,92 +1148,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-firm-proposes-taser-armed-drones-to-stop-school-shootings.md",
-      "title": "Firm proposes Taser-armed drones to stop school shootings",
-      "excerpt": "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well ...",
-      "sourceUrl": null,
-      "webUrl": "https://dothaneagle.com/lifestyles/technology/article_0d3bcadc-7c60-5540-a660-45449b23fd96.html",
-      "originalUrl": "https://dothaneagle.com/lifestyles/technology/article_0d3bcadc-7c60-5540-a660-45449b23fd96.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/dothaneagle.com/content/tncms/assets/v3/editorial/2/d9/2d9fd710-7dac-5cef-9db1-2a06500b749a/629bab2dcaa32.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dothan Eagle",
-        "domain": "dothaneagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
-      "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
-      "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
-      "originalUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/scythe-mower-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
 type: article
 quality: 74
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45126,msid-93106595/robot.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Chess Robot Breaks A Kid's Finger During A Match, Has Skynet's Uprising Begun?"
+    excerpt: "A Russian robot trained to play chess fractured a seven-year-old opponent's finger during the Moscow Chess Open tournament."
+    publishedDateTime: 2022-07-25T16:04:00Z
+    webUrl: "https://hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
+    ampWebUrl: "https://amp.hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 55
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59198/content/Chess_robot_hero.jpg"
+        width: 708
+        height: 400
         isCached: true
   - title: "Rogue AI? Chess-playing robot in Russia turns violent mid-match and breaks a 7-year-old boy’s finger"
     excerpt: "The controversy of ‘rogue’ artificial intelligence (AI) has stormed headlines again recently. This, and other events like the Google employee who was fired after claiming Google’s LaMDA AI was sentient, have alarmed many. In the words of the European ..."

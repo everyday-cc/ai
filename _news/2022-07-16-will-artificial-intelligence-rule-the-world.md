@@ -5,6 +5,8 @@ excerpt: "Artificial Intelligence is dominating science, military, financial and
 publishedDateTime: 2022-07-15T19:02:00Z
 originalUrl: "https://www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/"
 webUrl: "https://www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/"
+ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2022/07/15/will-artificial-intelligence-rule-the-world/amp/"
 type: article
 quality: 47
 heat: 47
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/62d1b7bf14205ac98d9139f3/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Can AI clean up one of the dirtiest corners of the corporate world?"
@@ -37,6 +46,6 @@ related:
         height: 826
         isCached: true
 
-secured: "XH2/OWCI2ReEuhaCiBxMjXoG+TpuVt2USp46xB/ZJBWl30/jSnyoM+8cyJhZoSOuxEfSMZ3WbbxTn4YKWGDSv/UjQ19MQ/4/JRRH+DqGSrWGgBGMbIgxFVMjOM7R5G4O1NtRBDitK2BUSlVHyxxan1Ckb8Ow5077o2GAzniwNlGnW8xTaZL7FVcsBhxAk0Uq3U4U0OlvS2kovyCMgH8KSuyRc97pLFaKpZnv2rxw1nFocvvUcQz5H2PmYFsBAYtFH+Id8yrrhrQ1xMX3CYqOaYZmEaKGrN0CdGSmWp8t/A48ZGVIkE0l9xP38Z0BFt2GQUj4oGWmkTfz63ab4afQXoOzaho+vw5veU3V4IvrcTlHMVFjOL/NDLYPW4dz79eBMN3tiV6ony/DMjCOU2fAC7xCsVZiiBMYBhrbi3ABRX+Eo/wyG4EK7+/if6yZu6Q5ph9NXjF3xaQA7bDktos6fO9NuBlbcFsAdJqzNd5tWZ0LwftldnXIk4/nB+o/RMk8lzPSHKwjF0TKgUN0YsPtIw==;L7GjtSOToA5gq61IjFsBZw=="
+secured: "TYmgI58LWrNniKwrjw0nw1F9PKJ8ErZyKs+/zJbR6G8mid1dOx2GBExBHxfQArUF9LKd0dOuSwih4XnoqOpDhWGeVusjh3GlRsGV2/JYZKk7IGXbtNRYkycbtm2znCjSuW8EsZJF+5e1lYWhyiaXhC4/Y0W6dAzN9rMQ6ryhGyQ2ZmtxVeoMc3nxTu66jY0Gvm02lwjR8D76ODurIbtCMho5kINUsXeEzJAIeqYgX3b6qxul8/mQFdtAKQDXTpHnQ713neJRGxUElSZrPCEhPqxUr1Z7fo7atJdSlZbOAa2MkqoPthmnry+ouXPZ2n25+T4LbBZiF6Dq9zNZagwxlCFhxb29xjbDjA7T+Sr1P2g=;bW9yYcYtJVpkNG365RYvdw=="
 ---
 

@@ -264,19 +264,19 @@
     {
       "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
       "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
+      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
-      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -289,8 +289,8 @@
       "publishedDateTime": "2022-07-15T01:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily News",
+        "domain": "galvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -492,22 +492,31 @@
       "title": "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence",
       "excerpt": "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
+      "webUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:28:00-07:00",
+      "publishedDateTime": "2022-07-11T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
         "images": null,
         "publishers": null,
         "authors": null

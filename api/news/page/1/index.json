@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-26-machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail industry rose in June 2022",
+      "excerpt": "We've analysed hiring patterns using data from GlobalData The proportion of retail companies hiring for machine learning related positions rose in June 2022 compared with the equivalent month last year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/07/RkCvA-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-as-vc-funding-dries-up-one-fintech-shares-its-unique-path-to-raising-a-seed-round-through-customers.md",
       "title": "As VC funding dries up, one fintech shares its unique path to raising a seed round through customers",
       "excerpt": "Early-stage startups will need to be creative with where they find capital. Karan Kashyap of Posh shares his journey to a seed round without the help of VC.",
@@ -208,6 +251,59 @@
       ]
     },
     {
+      "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
+      "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
+      "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
+      "publishedDateTime": "2022-07-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
       "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
       "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
@@ -269,7 +365,7 @@
       "originalUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -367,7 +463,7 @@
       "originalUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -683,7 +779,7 @@
       "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -735,7 +831,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1077,101 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
-      "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
-      "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-1024x885.jpg",
-          "width": 1024,
-          "height": 885,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
-      "publishedDateTime": "2022-07-21T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
-      "title": "New Orleans reverses facial recognition ban amid surging crime",
-      "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
-      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae14444a-8801-419c-a5e8-91ea9a737fd1/e322ffb4-4448-495b-8740-72f544425087/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
-      "publishedDateTime": "2022-07-21T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

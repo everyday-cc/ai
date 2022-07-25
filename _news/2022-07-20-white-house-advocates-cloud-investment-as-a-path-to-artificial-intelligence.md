@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.nextgov.com/media/img/cd/2022/07/19/071922cloudAING/open-graph.jpg"

@@ -2,6 +2,102 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-06-16-yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes.md",
+      "title": "Yseop’s AI Natural Language Platform Scaled by Sanofi to Accelerate Medical Writing and Reporting Processes",
+      "excerpt": "NEW YORK, June 16, 2022 (GLOBE NEWSWIRE) -- Yseop, the world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that Sanofi, the global healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
+      "originalUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png",
+          "width": 598,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-microsoft-viva-sales-aims-to-take-the-busy-work-out-of-crm.md",
+      "title": "Microsoft Viva Sales aims to take the busy work out of CRM",
+      "excerpt": "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence.md",
       "title": "Aidoc raises $110M to Address the Increasing Challenges Facing Health Systems by Using Artificial Intelligence",
       "excerpt": "Healthcare leaders face an increasingly tough economic environment and it's going to require that we use technology like artificial intelligence to re-think ways to do business\" says David Shulkin ...",
@@ -1023,91 +1119,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-you-need-an-ai-ethics-committee.md",
-      "title": "Why You Need an AI Ethics Committee",
-      "excerpt": "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee",
-      "originalUrl": "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator.md",
-      "title": "Everything to Know About Dall-E Mini, the Bizarre AI Art Creator",
-      "excerpt": "The latest source is Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "publishedDateTime": "2022-06-15T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

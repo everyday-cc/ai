@@ -2,6 +2,108 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-07-12-artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025",
+      "excerpt": "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-how-ai-is-helping-drug-hunters-succeed.md",
+      "title": "How AI is helping 'drug hunters' succeed",
+      "excerpt": "Dr. Iya Khalil is using AI and big data to transform medicine and healthcare. For more Life Itself talks and related articles visit CNN's collection here.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "originalUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220602170223-iya-khalil-life-itself-wellness-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "publishedDateTime": "2022-07-11T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-argo-ai-lays-off-150-closes-washington-dc-operation.md",
       "title": "Argo AI lays off 150, closes Washington D.C. operation",
       "excerpt": "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success.",
@@ -1040,100 +1142,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-10-brain-stimulation-can-rewire-and-heal-damaged-neural-connections-but-it-isnt-clear-how.md",
-      "title": "Brain Stimulation Can Rewire and Heal Damaged Neural Connections, But it Isn't Clear How",
-      "excerpt": "We recorded our data with a large-scale neural interface – a device that ... We then analyzed our data with an artificial intelligence algorithm designed to predict how preexisting brain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/368997/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/368997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2022/07/06/GettyImages_1340129187/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-10-this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.md",
-      "title": "This AI powered text-to-speech tool makes voiceovers sound true to life",
-      "excerpt": "The problem is that they often make videos sound robotic and lifeless, which is never good. Wish there was a better option? Then check out Speechnow, an AI-powered tool that makes video voiceovers sound true to life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html",
-      "originalUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/07/sale_314201_article_image-1.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html/amp",
-      "publishedDateTime": "2022-07-10T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

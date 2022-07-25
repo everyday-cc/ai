@@ -2,6 +2,82 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-12-ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023.md",
+      "title": "AI, data analytics firm Ganit raises funds; to double headcount by 2023",
+      "excerpt": "Ganit was founded in 2017 by three veterans of the data science industry Shivaprasad KT, Ashok Harwani and Hariharan R.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/12/full/1657621253-3286.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-data-analytics-firm-ganit-raises-funds-to-double-headcount-by-2023-122071200702_1.html",
+      "publishedDateTime": "2022-07-12T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-a-very-human-thing-why-the-translation-business-continues-to-be-resilient.md",
+      "title": "A Very Human Thing: Why the Translation Business Continues to Be Resilient",
+      "excerpt": "Translated CEO, Marco Trombetti, on why demand for language services has remained strong and the implications of advances in machine translation technology.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
+      "originalUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
       "title": "Soon AI-based mandarin translation devices for troops on LAC",
       "excerpt": "... products and applications unveiled by Defence Minister Rajnath Singh at the ‘AI in Defence’ symposium on Monday. “It is an offline handheld language translation system which works based on AI. It has been tested in the forward areas and Army has ...",
@@ -937,22 +1013,31 @@
       "title": "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence",
       "excerpt": "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/11/9636384.htm",
+      "webUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:28:00-07:00",
+      "publishedDateTime": "2022-07-11T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1016,108 +1101,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025",
-      "excerpt": "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-how-ai-is-helping-drug-hunters-succeed.md",
-      "title": "How AI is helping 'drug hunters' succeed",
-      "excerpt": "Dr. Iya Khalil is using AI and big data to transform medicine and healthcare. For more Life Itself talks and related articles visit CNN's collection here.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "originalUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220602170223-iya-khalil-life-itself-wellness-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "publishedDateTime": "2022-07-11T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

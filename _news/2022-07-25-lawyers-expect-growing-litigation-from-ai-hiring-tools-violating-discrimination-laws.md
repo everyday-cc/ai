@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cross-Pollination Among Neuroscience, Psychology And AI Research Yields A Foundational Understanding Of Thinking"
+    excerpt: "Progress in artificial intelligence has enabled the creation of AIs that perform tasks previously thought only possible for humans, such as trans"
+    publishedDateTime: 2022-07-25T17:29:00Z
+    webUrl: "https://menafn.com/1104587631/Cross-Pollination-Among-Neuroscience-Psychology-And-AI-Research-Yields-A-Foundational-Understanding-Of-Thinking"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/25/TC_4708bimage_story.jpg"
+        width: 1250
+        height: 1017
+        isCached: true
 
 secured: "JcuGb4np1V+7KOwMLEmPTJDHzgbce5bJwlbkPJK5RsdpKIU0I02qMUbx2tNd9v2TF+cXUul50irpZinPvroGYibMcsCKqdoIKxkDdyXyuyehvasMkSei5+Th1bCz4tgVWKUuYQGH9YkptJkf8OsI9qblGwqrpdB25hdnPoimt7XPSIdyNWMp5+9rI9EmpKNX8rc/o3quc572QPKcJ1tobUJoLbsinacRTo3O9UACuLcUL9WaDff4pi0BIQ3NMQPttM31zpbRJajP10zlr/cpc/s1uC0h9CBKlxXPXxt/JSTxwweIbd99zjPXtxy8+UvzoDXNy7DjQS0f4g2lSivgoIMYKm/ZXWheZMJBAQu33C0=;n1YP9JcwhnfyLniuvgF4lw=="
 ---
