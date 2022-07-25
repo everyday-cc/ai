@@ -1,0 +1,49 @@
+---
+category: news
+title: "AI gone wrong? Chess robot breaks child's finger at Russia tournament"
+excerpt: "The boy, Christopher, is one of the top 30 young chess players in Moscow, Russia. During a tournament in Moscow, a chess-playing robot fractured a 7-year-old boy's finger when the youngster attempted a quick move without giving the device enough time to finish its task."
+publishedDateTime: 2022-07-25T02:39:00Z
+originalUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html"
+webUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html"
+ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://images.livemint.com/img/2022/07/24/600x338/Chess_Robit-Screenshot_2022-07-24_203239_1658674977220_1658674983567_1658674983567.jpg"
+    width: 600
+    height: 338
+    isCached: true
+
+related:
+  - title: "Chess-playing robot grabs and breaks finger of 7-year-old opponent"
+    excerpt: "A chess-playing robot grabbed and broke the finger of its 7-year-old opponent at a Moscow chess tournament. The incident occurred on July 19 after the young player moved too quickly in violation of safety regulations,"
+    publishedDateTime: 2022-07-24T23:25:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/chess-robot-breaks-finger-7-year-old-opponent"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/chess-robot-breaks-finger-7-year-old-opponent?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chess-robot-breaks-finger-7-year-old-opponent?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 59
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/07f4f50/2147483647/strip/true/crop/1908x1080+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2F41%2Fb6361b5647e8934b3a072100a987%2Fputin-thumb.jpg"
+        width: 530
+        height: 300
+        isCached: true
+
+secured: "5HLdR5R2fPmaclz8+WRd4LBBbTxa8bXN2XhMNgYvFImfAeYueH5zHyQH+7H7rJwI7nqg0cC4hHENeot1SujeBZk2ISOcnCUBIn7D2S3lBiPokacpf84rdWCLRstIhamZkJO4SAiw8UAX9aOlT29hiq+BQ3Jbwzhk3S1YNO8GLXpxx/bx/cBmdUVF7UAxIaUSbOnnGNmSwQd4vXaE9Hbl+oj3JM+p5FyrUtZyZU3BDV/i0xu19Q/49B+umbaLuZE/npIetuaz076NlwQigfgp4Ej2EkYPclNr4hHEJEot/ZXD5/uMQH1uRONITs+K1I6+OY45ibXvqj2/eYWJhrlTICLtBim7nHZSEOTS3tTlSAM=;1VSMQId8E2JVeWnHH7pOQA=="
+---
+

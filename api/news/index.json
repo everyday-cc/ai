@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-25-bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe.md",
+      "title": "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe",
+      "excerpt": "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731",
+      "originalUrl": "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-7634731/73f3ebaf7e1d6d4f036f76dff4b536489396861c-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731.amp",
+      "publishedDateTime": "2022-07-24T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-ai-gone-wrong-chess-robot-breaks-childs-finger-at-russia-tournament.md",
+      "title": "AI gone wrong? Chess robot breaks child's finger at Russia tournament",
+      "excerpt": "The boy, Christopher, is one of the top 30 young chess players in Moscow, Russia. During a tournament in Moscow, a chess-playing robot fractured a 7-year-old boy's finger when the youngster attempted a quick move without giving the device enough time to finish its task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html",
+      "originalUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/24/600x338/Chess_Robit-Screenshot_2022-07-24_203239_1658674977220_1658674983567_1658674983567.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html",
+      "publishedDateTime": "2022-07-24T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-on-artificial-general-intelligence-ai-sentience-and-large-language-models.md",
       "title": "On Artificial General Intelligence, AI Sentience, And Large Language Models",
       "excerpt": "In case you haven’t noticed, artificial intelligence systems have been behaving in increasingly astonishing ways lately. Meanwhile, DeepMind recently announced a new model called Gato that can single-handedly perform hundreds of different tasks,",
@@ -10,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -50,7 +136,9 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "Facebook AI"
       ]
     },
     {
@@ -62,7 +150,7 @@
       "originalUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -135,6 +223,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
+      "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
+      "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "publishedDateTime": "2022-07-23T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -293,7 +424,7 @@
       "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1015,163 +1146,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines.md",
-      "title": "Organize your machine learning journey with Amazon SageMaker Experiments and Amazon SageMaker Pipelines",
-      "excerpt": "The process of building a machine learning (ML) model is iterative until you find the candidate model that is performing well and is ready to be deployed. As data scientists iterate through that process, they need a reliable method to easily track experiments to understand how each model version was",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/21/organize-your-machine-learning.jpg",
-          "width": 1535,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T10:05:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
-      "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
-      "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-816675200.jpg?w=1024",
-          "width": 1024,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
-      "publishedDateTime": "2022-07-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
-      "title": "Here's what it looks like to ride a Chinese robotaxi with no steering wheel",
-      "excerpt": "London (CNN Business)Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220721062706-02-baidu-robotaxi-no-steering-wheel-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
-      "publishedDateTime": "2022-07-21T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

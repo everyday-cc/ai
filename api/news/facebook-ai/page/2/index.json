@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
+      "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
+      "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
+      "originalUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/InAzvn-WcHBy1UXFlR62QNMNS6g=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21989893/dseifert_201025_4263_0007.0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-instagram-tests-using-ai-other-tools-for-age-verification.md",
       "title": "Instagram tests using AI, other tools for age verification",
       "excerpt": "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID.",
@@ -1383,50 +1435,6 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
-      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
-      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
-          "width": 701,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "publishedDateTime": "2022-06-03T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
         "Facebook AI"
       ]
     }

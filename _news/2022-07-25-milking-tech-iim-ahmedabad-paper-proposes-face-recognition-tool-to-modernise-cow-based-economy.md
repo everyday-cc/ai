@@ -1,0 +1,65 @@
+---
+category: news
+title: "Milking tech: IIM Ahmedabad paper proposes face recognition tool to modernise cow-based economy"
+excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour OSTPID Times Internet 1 Year HTTPS used to sync accross portals fpid Times Internet 1 Year HTTPS Browser Fingerprinting to uniquely identify client browsers Cows are considered the backbone of rural economy,"
+publishedDateTime: 2022-07-25T02:19:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: India Times
+  domain: indiatimes.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-93099136,imgsize-46720,width-1200,height-628,overlay-etcio/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy"
+    excerpt: "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development."
+    publishedDateTime: 2022-07-24T04:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Milking Tech: IIM Ahmedabad Paper Proposes Face Recognition Tool To Modernise Cow-based Economy"
+    excerpt: "An IIMA study has come out with a model using facial recognition technology for stray cows to link them with donors to achieve cow-based development."
+    publishedDateTime: 2022-07-24T03:56:00Z
+    webUrl: "https://www.republicworld.com/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 47
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ve1rp3lagm4jqoil_1658634953.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+
+secured: "1Z8xwtxHdGtUjCGE9AUJZQwX9ddtZSQ3QQqfUL8PwC63S3MOLuPENbhHgiw6N62KNN/KeaG6VwJ9qioBcrcCcqImlZLxZnkVX7lMtHO+w2nispj7ZPgaF4nbeZkgba5XhTNRWryYpzinrGrCf/xae9r7OD/zb7mSPHzdeMKk4rbirVaYeGGXNqEvXDCekWYYSEeSR+7tJ87LdWBBnR+6AhFUkVadyBrV+38ICEvoUJC6RbVjhXEV75VF5AU0Dy95VWb3N077MlB2nD7oWuKQN9DIDxaMny8E2M1ZopEMP1VGyhhzAmY95E6qs+nK0hG+DseKIh9TSGmqTxxVFrcLCT/m70WMxHtOI1iO35fu7AI=;ZfmRVt0Ccc84IVHc9xttfg=="
+---
+

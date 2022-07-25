@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
+      "title": "Using AI and machine learning to kickstart climate change fightback",
+      "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656410510/itpro/landsat-satellite-image-climate-change-GettyImages-1354422915.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-darktrace-launches-new-family-of-security-ai-tools.md",
+      "title": "Darktrace launches new family of security AI tools",
+      "excerpt": "Darktrace announces the launch of a new family of security AI tools that use AI that can \"think like an attacker.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/darktrace-security-ai/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/darktrace-security-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334692234.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/darktrace-security-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/darktrace-security-ai/amp/",
+      "publishedDateTime": "2022-07-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-how-to-be-an-artificial-intelligence-machine-learning-expert.md",
+      "title": "How to be an artificial intelligence & machine learning expert",
+      "excerpt": "Thus, AI/ML has redefined the future of technology The Telegraph Online Edugraph brings you an insightful and enriching webinar called How To Be An Artificial Intelligence & Machine Learning Expert on July 23,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Jul/1658205411_ad_edugraph_-how-to-be_180722_-558x372_lead-article.jpg",
+          "width": 558,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-be-an-artificial-intelligence-machine-learning-expert/cid/1875403",
+      "publishedDateTime": "2022-07-18T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-ai-accelerator-market-is-projected-to-grow-with-magnificent-cagr-exclusive-report-spread-across-99-pages.md",
       "title": "AI Accelerator market is projected to grow with magnificent CAGR| Exclusive Report Spread Across 99 Pages",
       "excerpt": "Report Pages] \"AI Accelerator Market\" Insights 2022 By Types (Graphics Processing Unit (GPU), Vision Processing",
@@ -666,10 +814,10 @@
     {
       "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
       "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
+      "excerpt": "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,",
       "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "webUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1048,154 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-laivly-adds-ai-ml-and-automation-to-improve-cx.md",
-      "title": "Laivly adds AI, ML and automation to improve CX",
-      "excerpt": "Forrester predicts that companies will continue to leverage and accelerate AI programs, particularly when it comes to agent-facing use cases. As they do so, they must also address agent burnout, advocate for agent career development,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/experience-e1637091540402.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/amp/",
-      "publishedDateTime": "2022-07-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects.md",
-      "title": "Artificial intelligence, deep learning to assist diagnosing birth defects",
-      "excerpt": "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
-      "publishedDateTime": "2022-07-18T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026.md",
-      "title": "Data Science and Machine-Learning Platforms Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2026",
-      "excerpt": "Global “ Data Science and Machine-Learning Platforms Market “ report is the single authoritative source of intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026-2022-07-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026-2022-07-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

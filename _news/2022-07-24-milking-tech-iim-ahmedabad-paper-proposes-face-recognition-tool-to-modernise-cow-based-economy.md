@@ -43,6 +43,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Milking tech: IIM Ahmedabad paper proposes face recognition tool to modernise cow-based economy"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour OSTPID Times Internet 1 Year HTTPS used to sync accross portals fpid Times Internet 1 Year HTTPS Browser Fingerprinting to uniquely identify client browsers Cows are considered the backbone of rural economy,"
+    publishedDateTime: 2022-07-25T02:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 47
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93099136,imgsize-46720,width-1200,height-628,overlay-etcio/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "asgeU9Xp0uE7TIfJ2qgR0JVtfZUOl5QaALhJ+/aZloAGuDwZMrJkILNC0nPjHn7MJe2O0+KW7lBL+kUiPMD3L3Nj184c2PIDqhSfU31ctVWcPf258ibwXo2BDbnqUsHyZ/nu8V37g7XmprPY2ZHQWIOPE9vxwNizqOHljbZFB0sbp+X2zlRnLvChoFflJgp3mnZO8EoV9CqpZnW5A6GbKXkoofIi7PgTjyOh/pLxMLJ+zgyYQpEJNVlb7rYtkDAEV/02jLkzBVP/FIuOhwHS3IpH/rhyX+jVS02AJx7GKC3MWwPiXjYr23kYLVDwC1qFfTxQBn5GU6TE7xQQ/VjOUJI6pKgk2aC2be36LDCn46c=;tEDZLtMqPgcyGuzntXvwSg=="
 ---

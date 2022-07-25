@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-written-all-over-your-face-an-improved-ai-model-for-recognizing-facial-expression.md",
+      "title": "Written all over your face: An improved AI model for recognizing facial expression",
+      "excerpt": "When it comes to our state of mind and emotions, our faces can be quite telling. Facial expression is an essential aspect of nonverbal communication in humans. Even if we cannot explain how we do it,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-written-ai-facial.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-written-ai-facial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/written-all-over-your.jpg",
+          "width": 920,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-written-ai-facial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-written-ai-facial.amp",
+      "publishedDateTime": "2022-07-06T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements.md",
+      "title": "Snap Says Facial Recognition Technology Abuse Suit Fails to Meet Jurisdictional Requirements",
+      "excerpt": "A motion filed by Snap Inc., operator of the popular application Snapchat, said that the federal court has no authority to decide the Illinois Biometric",
+      "sourceUrl": null,
+      "webUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
+      "originalUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/04/iStock-1139217536-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
+      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
+      "publishedDateTime": "2022-07-06T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law Street Media",
+        "domain": "lawstreetmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-want-strong-physical-security-dont-forget-about-cybersecurity.md",
       "title": "Want Strong Physical Security? Don’t Forget About Cybersecurity",
       "excerpt": "Neither physical security nor cybersecurity are new concepts, but as technology has evolved, the two regularly find themselves working hand in hand.",
@@ -1307,84 +1393,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-nvidias-ai-powered-3d-moma-tool-turns-2d-photos-into-3d-mesh-models.md",
-      "title": "NVIDIA's AI-Powered 3D MoMa Tool Turns 2D Photos Into 3D Mesh Models",
-      "excerpt": "Turning still 2D photos into 3D rendered mesh models is not a quick or particularly easy task, but perhaps not for long.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "originalUrl": "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58911/content/NVIDIA_3D_MoMa_Hero.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "publishedDateTime": "2022-06-22T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-human-like-eye-movements-improve-object-recognition-in-machine-vision-video.md",
-      "title": "Human-like eye movements improve object recognition in machine vision (VIDEO)",
-      "excerpt": "A self-driving car uses human-like saccadic eye movements and correctly identifies a stop sign in time to stop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/multimedia/939334",
-      "originalUrl": "https://www.eurekalert.org/multimedia/939334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

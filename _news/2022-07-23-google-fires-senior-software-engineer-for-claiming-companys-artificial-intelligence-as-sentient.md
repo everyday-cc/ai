@@ -194,6 +194,22 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and"
+    publishedDateTime: 2022-07-25T03:31:00Z
+    webUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
+    ampWebUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 59
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/10/Untitled-2021-10-28T061744.295.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google fires software engineer who claimed AI bot was ‘sentient’"
     excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, was placed on administrative leave last month after he said the AI chatbot known as LaMDA claims to have a soul."
     publishedDateTime: 2022-07-23T11:01:00Z

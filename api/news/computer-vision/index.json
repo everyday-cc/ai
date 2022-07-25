@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-25-bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe.md",
+      "title": "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe",
+      "excerpt": "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731",
+      "originalUrl": "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-7634731/73f3ebaf7e1d6d4f036f76dff4b536489396861c-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731.amp",
+      "publishedDateTime": "2022-07-24T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
+      "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
+      "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "publishedDateTime": "2022-07-23T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
       "title": "New Orleans reverses facial recognition ban amid surging crime",
       "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
@@ -1314,92 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-written-all-over-your-face-an-improved-ai-model-for-recognizing-facial-expression.md",
-      "title": "Written all over your face: An improved AI model for recognizing facial expression",
-      "excerpt": "When it comes to our state of mind and emotions, our faces can be quite telling. Facial expression is an essential aspect of nonverbal communication in humans. Even if we cannot explain how we do it,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-written-ai-facial.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-written-ai-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/written-all-over-your.jpg",
-          "width": 920,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-written-ai-facial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-written-ai-facial.amp",
-      "publishedDateTime": "2022-07-06T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements.md",
-      "title": "Snap Says Facial Recognition Technology Abuse Suit Fails to Meet Jurisdictional Requirements",
-      "excerpt": "A motion filed by Snap Inc., operator of the popular application Snapchat, said that the federal court has no authority to decide the Illinois Biometric",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
-      "originalUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/04/iStock-1139217536-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
-      "publishedDateTime": "2022-07-06T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

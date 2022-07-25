@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -182,6 +182,22 @@ related:
       - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
         width: 509
         height: 339
+        isCached: true
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and"
+    publishedDateTime: 2022-07-25T03:31:00Z
+    webUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
+    ampWebUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 59
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/10/Untitled-2021-10-28T061744.295.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
     excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."

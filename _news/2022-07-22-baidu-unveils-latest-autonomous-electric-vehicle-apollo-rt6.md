@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
-publishedDateTime: 2022-07-22T15:39:00Z
-originalUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-ampWebUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-22T05:55:00Z
+originalUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - AI in Autos
@@ -151,6 +149,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "01RwjasMtkGkhTaNMwt4GujGRQcNfGuzh2MEIiInAMh1sOs9+C+w1NZTT7iL0Rvur+SDGzNosYBc2H+fJqWX6ANvKZIFFSB9poRxWRySVORttN9iPYVq3Q1QTLip6dr6SudHwAL28mVAU/A6RAZQIdEd7L8W3Mqgo3TQCTpM4Dxjz2cNYZE46V5fuisCFCtq5aXdQdktLdc+gTPO4kUiguYFC/n/l4Du4C9n0BshKhDn/OB8k2hE2boBndMK4N/Uok4ZJZ9J1h8KpV+KcVDedYcFR1jjyFOcNyFgN2nlLoHUtPZVigyGYp5WK31vfELfLwpALsV784dtzORMumuW+6RyZXvIQ7wO7nWAB3vO4a+lzSZ0f/zJR/fBrSqeRGGXV76tSJdtSwwCFLq3lLnHfYIipUXnVbJj6OVJgQMzSl2YsbKPy7xx9XljoWmb+BxILQ+03J8A1Ym8gbjhF7Zt/D6mll95vaijBH4qDNuZ4Ze6IwLdzsc6+EW5kO8OBdd48cZTN0stwDwqYZZPnb34iw==;FuaufplJhhq/cNRSu/8bdg=="
+secured: "u3kJ5PTqU99rOUJ1AyD/+kogpRduV+v8Sp5xkfu2IA51LcAJ7kMLOidbYF72Q+avUo3tAZYZ453PPsEHw+y9WDTbesICnVvXtPcQSFjEQqqVs/bQGLzMbOUXuTsozPT9vRgO9tGMrTJgIVfBuWwFNhd6udPFktpgr8Pzi0Iuz/1q4iF7ShPQftxqKp/MB/5x1HgOsKK5ikHuTV5YLdmnNzfGIn0aYABAq2W6pgvJmVVy/zj9lH0Nmu2Lcao2ybVX0halhpxufkkf2lNpCLnynhyGH3zEkK4oMzSa0wy6PpHAFFYj3Zj6C4e7sXacOczyHTrXjw/OrwRka8KP795UUplbwpl/ctACiCXeMPwmCuU=;UpuFmTsrYjSXuGEeT2gUhA=="
 ---
 

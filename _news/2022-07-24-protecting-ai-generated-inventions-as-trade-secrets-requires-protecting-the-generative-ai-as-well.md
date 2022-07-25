@@ -71,20 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Zefr acquires Israeli AI firm Adverif.ai, bolstering technology-led approach to identifying and defunding misinformation"
-    excerpt: "Acquisition provides additional machine learning, fact-checking and data science expertise to help brands avoid and measure misinformation across"
-    publishedDateTime: 2022-07-20T10:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/zefr-acquires-israeli-ai-firm-adverif-ai-bolstering-technology-led-approach-to-identifying-and-defunding-misinformation-1031600436"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://mma.prnewswire.com/media/557108/ZEFR_Logos_Charcoal_Logo.jpg"
-        width: 400
-        height: 285
-        isCached: true
   - title: "Floating Plastic Litter Detected, Categorized Using AI"
     excerpt: "A new AI technique pioneered by scientists at PML uses images from a vessel-mounted camera to identify different types of"
     publishedDateTime: 2022-07-20T12:52:00Z

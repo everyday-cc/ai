@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnews.com.au/bunnings-kmart-pull-the-plug-tempor
 webUrl: "https://www.channelnews.com.au/bunnings-kmart-pull-the-plug-temporarily-on-instore-facial-recognition/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1503
     height: 999
     isCached: true
+
+related:
+  - title: "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe"
+    excerpt: "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+    publishedDateTime: 2022-07-25T03:05:00Z
+    webUrl: "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731"
+    ampWebUrl: "https://www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/consumer-protection/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634731.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 51
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-7634731/73f3ebaf7e1d6d4f036f76dff4b536489396861c-16x9-x1y0w2446h1376.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Woolworths, Coles, Aldi: No plans to use facial recognition technology"
+    excerpt: "CHOICE reveals the retailers who are not using controversial facial recognition technology, as Bunnings and Kmart refuse to stop."
+    publishedDateTime: 2022-07-24T23:12:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-scorecard"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 39
+    images:
+      - url: "https://img.choice.com.au/-/media/6f93dc59a02740a7a3f8f506c01666aa.ashx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BtoOJnzlOjqZ6eu190n8OaD0y4cKHIe1mQPY1xGHTWjVz+AvdIEU+DaRR+i0hoivs4qTN9f9eGC77QiW9LEuqEok4iXPb+/G4COgYP4dxsq4a7jDP6EGriwi4oswCGbaXRTZa9qKw1ZbH9tzU/HuSnZ7NcJ2o+YLKLs4msMlAbm+mSmm/MbRec7jRg8GAsauvcsbEefT9gihZMLv5SHoaGtOZSdya9FPtbpG0qBoS2POrOM9hptPm4l6BvWrJmUjVP6/ueiUGP9XPUxmVzdTvG6h277ClXJc+UYfjVeRH75w5DZrrc+rQLugIt2vJKVyvAbR3hMG5W0sgIuLn1ER+haEXUSiCmHdWPuisTIGiw8=;TusIR9koaXyoy53dgG7jMw=="
 ---

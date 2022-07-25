@@ -2,6 +2,207 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
+      "title": "The Power and Pitfalls of AI for US Intelligence",
+      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "publishedDateTime": "2022-06-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship.md",
+      "title": "Accelerate your career with ML skills through the AWS Machine Learning Engineer Scholarship",
+      "excerpt": "Amazon Web Services and Udacity are partnering to offer free services to educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Engineer Scholarship program. The program offers free enrollment to the AWS Machine Learning Foundations course and 325 scholarships",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/21/accelerate-your-career.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T13:11:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-researchers-release-open-source-photorealistic-simulator-for-autonomous-driving.md",
+      "title": "Researchers release open-source photorealistic simulator for autonomous driving",
+      "excerpt": "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-release-op.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "publishedDateTime": "2022-06-21T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Worldwide Opportunities, Driving Forces, Future Potential 2028",
+      "excerpt": "Jun 21, 2022 (Market Insight Reports) -- Latest Report Artificial Intelligence (AI) Chipset Market by Type (Deep Learning, Neural networks, Natural language processing, Others), By Application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028-2022-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028-2022-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
       "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
       "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
@@ -972,169 +1173,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-sea-machines-debuts-ai-ris-computer-vision-for-commercial-vessels.md",
-      "title": "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels",
-      "excerpt": "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
-      "originalUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-slimai-introduces-beta-software-supply-chain-container-security-as-a-service.md",
-      "title": "Slim.AI introduces beta software supply chain container security as a service",
-      "excerpt": "Want to make sure your code is safe? Slim.AI helps you secure your containerized programs with its \"Four S Approach\" -- Software Bill of Materials (SBOM), signing, slimming, and sharing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/slim-ai-introduces-beta-software-supply-chain-container-security-as-a-service/",
-      "originalUrl": "https://www.zdnet.com/article/slim-ai-introduces-beta-software-supply-chain-container-security-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-what-if-an-artificial-intelligence-program-actually-becomes-sentient.md",
-      "title": "What if an Artificial Intelligence program actually becomes sentient?",
-      "excerpt": "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.capeandislands.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient",
-      "originalUrl": "https://www.capeandislands.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cape and Islands NPR",
-        "domain": "capeandislands.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-clinical-research-and-drug-development-accelerated-via-analytics.md",
-      "title": "Clinical research and drug development accelerated via analytics",
-      "excerpt": "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting. CARY, N.C., June 21, 2022 /PRNewswire/ -- Bringing life-changin",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/covid-technology-politics-health-f3115cb53184c3dd95011f94b23c5c27",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/covid-technology-politics-health-f3115cb53184c3dd95011f94b23c5c27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

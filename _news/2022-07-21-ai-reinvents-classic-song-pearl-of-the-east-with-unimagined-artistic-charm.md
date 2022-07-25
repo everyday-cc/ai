@@ -23,22 +23,6 @@ images:
     height: 652
     isCached: true
 
-related:
-  - title: "Feature: AI reinvents classic song \"Pearl of the East\" with unimagined artistic charm"
-    excerpt: "Featuring lyrics \"the meandering stream flows southward, running to Hong Kong to have a look,\" the song \"Pearl of the East\" has been chanted across generations for over three decades, bringing a sense of belonging to many Hong Kongers."
-    publishedDateTime: 2022-07-20T09:47:00Z
-    webUrl: "https://english.news.cn/20220720/d93a0e68b4624360a8452abc339dfab6/c.html"
-    type: article
-    provider:
-      name: Xinhua
-      domain: news.cn
-    quality: 30
-    images:
-      - url: "https://english.news.cn/20220720/d93a0e68b4624360a8452abc339dfab6/zxcode_20220720d93a0e68b4624360a8452abc339dfab6.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
 secured: "mutTtE0bj32qGklFe0XAo5I7DMMX0H/N2jGyxHeirs05XNrcBn1tD4TzuhLUOa+u82tLmDDgcKc9C67RRXfT8Y/mR8V1t/tjlq8wjxtqqFrKJeNzu/DyqvbYykYGBBRVyWJlbd0cUkkx4CYB1PRF9zBZjpjfxKOQNQYpIQppVDnm0yI4h8v2W149eKtT+B7+3JPzobgRRlttKNm+cU1JM8EzNfr2YRXne4jlZydaGzwVrMitllo15PQcoFJ02Ys67QLgwO75F9+VymZzz8sljL+fXoL45zCSwSbB/ARty+I8acohDZxEhvrJlJHitFnMKnhA4eOLX7UhN+juPK77SSb+bQsAm5z5fmscsxSrrlU=;PgADoKMbm8OFe8gpwOjHMg=="
 ---
 

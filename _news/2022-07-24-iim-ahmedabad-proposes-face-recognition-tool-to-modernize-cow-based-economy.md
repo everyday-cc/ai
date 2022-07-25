@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-fac
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Line
@@ -42,6 +42,22 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ve1rp3lagm4jqoil_1658634953.jpeg"
         width: 768
         height: 439
+        isCached: true
+  - title: "Milking tech: IIM Ahmedabad paper proposes face recognition tool to modernise cow-based economy"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour OSTPID Times Internet 1 Year HTTPS used to sync accross portals fpid Times Internet 1 Year HTTPS Browser Fingerprinting to uniquely identify client browsers Cows are considered the backbone of rural economy,"
+    publishedDateTime: 2022-07-25T02:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy/93099136"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 47
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93099136,imgsize-46720,width-1200,height-628,overlay-etcio/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "5D/K2+JGs1hDi+kT4RMY9VSbbbwDTHeqSh4MJkfTNm/UNhmRtXRNm6b/Iwrb1fR1eyYhsgkapTVAXo7H/z+4X/DkBbu8KPFU+VdE+1cFik1SCwC7nH/5LhZXZm0ybzEBxFRJHdtR33XZxIg/ZL1vfp2Lg+n/xS5XicB3pqj94d8Lauc1PaYKfw4sU78CDtZC/pkafdH2YsRolGFlIFPISRRjL8U0bYYIqq8yjOAqCrYfS3DPPpMWcO1peKWJK+pv53b9Xd2VAPmFAftpxrVNDViktKFF7k47VdJ/EIlrC5IIw997E4P0+zSdRlLy14vvw0UsU8mZvUC61cQFmdrIfKttAwMjXb4mVD1tV1qKz5Y=;paRxq2KV/AMG44tOKMdPDA=="

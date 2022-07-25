@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-13-how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry.md",
+      "title": "How Artificial Intelligence Can Empower The Future Of The Gaming Industry",
+      "excerpt": "The gaming industry has experienced amazing advances in the past few years, and AI can offer many more benefits and innovative solutions that could continue driving the industry to new heights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cd8de3fe04dc8a1f4c2949/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/13/how-artificial-intelligence-can-empower-the-future-of-the-gaming-industry/amp/",
+      "publishedDateTime": "2022-07-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
+      "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
+      "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "publishedDateTime": "2022-07-13T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-amazon-gave-ring-videos-to-police-without-owners-permission.md",
+      "title": "Amazon gave Ring videos to police without owners’ permission",
+      "excerpt": "Amazon handed Ring video doorbell footage to ... after its facial recognition service Rekognition falsely associated 28 members of Congress with criminal mugshots in 2018 and how its Echo Dot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "originalUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.com/dims4/default/b27232b/2147483647/strip/true/crop/6570x4380+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff0%2F16%2F599c9aa445b5a954e0e341e460f5%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1170779505",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "publishedDateTime": "2022-07-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-online-math-tutoring-service-uses-ai-to-help-boost-students-skills-and-confidence.md",
       "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
       "excerpt": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.\n",
@@ -876,19 +1014,19 @@
     {
       "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
       "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
-      "excerpt": "New serverless options for Amazon EMR, Amazon MSK, and Amazon Redshift help customers analyze vast amounts of data without having to configure, scale, or manage the underlying infrastructure Informatica,",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28036141/aws-announces-general-availability-of-three-new-serverless-analytics-offerings",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_4d5e7e3d-7a65-5ff9-89c5-e9a85ba3d1f0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -896,13 +1034,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28036141",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28036141",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-12T08:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -953,19 +1091,19 @@
     {
       "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
       "title": "AWS Announces General Availability of AWS Cloud WAN",
-      "excerpt": "New managed service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises environments Avalara, Foundation Medicine,",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Cloud WAN, a new managed wide area network (WAN) service that connects on-premises data centers, colocation facilities, branch offices,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-cloud-wan/article_2c3520d5-7087-58c5-8d7c-51a1ff574293.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-cloud-wan/article_2c3520d5-7087-58c5-8d7c-51a1ff574293.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -973,13 +1111,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28035557",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28035557",
-      "publishedDateTime": "2022-07-12T07:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T07:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -990,127 +1128,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
-      "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
-      "excerpt": "Award-winning actor Brad Pitt believes he suffers from a rare condition that interferes with his ability to recognize people's faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html",
-      "originalUrl": "https://www.northwestgeorgianews.com/lifestyles/health/brad-pitt-believes-he-has-rare-face-blindness-disorder----what-is-it/article_94923e26-1d76-5527-a8c9-140000b0b125.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rome News-Tribune",
-        "domain": "northwestgeorgianews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "The Brains: How to Leverage AI in Influencer Marketing",
-      "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-b66375beed93ff80a53ec2ac890c6761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition.md",
-      "title": "Medtronic announces co-promotion agreement with CathWorks, with path toward acquisition",
-      "excerpt": "In contrast to traditional FFR, the FFRangio System combines artificial intelligence (AI) and advanced computational ... Fractional Flow Reserve–Guided PCI versus Medical Therapy in stable coronary disease. The New England Journal of Medicine 2012 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
-      "originalUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/custom/image/8f842262-b887-11e9-b93f-572c463bdda4.png",
-          "width": 660,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Idaho State Journal",
-        "domain": "idahostatejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

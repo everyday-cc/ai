@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-21-organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines.md",
+      "title": "Organize your machine learning journey with Amazon SageMaker Experiments and Amazon SageMaker Pipelines",
+      "excerpt": "The process of building a machine learning (ML) model is iterative until you find the candidate model that is performing well and is ready to be deployed. As data scientists iterate through that process, they need a reliable method to easily track experiments to understand how each model version was",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/21/organize-your-machine-learning.jpg",
+          "width": 1535,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T10:05:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
+      "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
+      "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
+      "originalUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-816675200.jpg?w=1024",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
+      "publishedDateTime": "2022-07-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
+      "title": "Here's what it looks like to ride a Chinese robotaxi with no steering wheel",
+      "excerpt": "London (CNN Business)Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220721062706-02-baidu-robotaxi-no-steering-wheel-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html",
+      "publishedDateTime": "2022-07-21T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
       "title": "VDOT preparing to use artificial intelligence to predict traffic",
       "excerpt": "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area.",
@@ -147,7 +304,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -681,7 +838,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1056,163 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027.md",
-      "title": "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027",
-      "excerpt": "Europe healthcare AI market is reported to show promising growth during the forecast period of 2021-2027 with the rise in the demand and use of AI-enabled technologies in this industry. AI uses a combination of technology and human intelligence to enable different machines to carry out activities like automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are.md",
-      "title": "Transform 2020: Women in AI and AI Innovation Awards – the winners are",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! SAN FRANCISCO – VentureBeat is proud to announces the winners of the 4 th Women in AI Awards and its 4th AI Innovation Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-07-19T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
-      "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
-      "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1394403496-BlackSalmon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "publishedDateTime": "2022-07-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

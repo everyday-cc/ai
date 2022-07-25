@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 17
-  - title: "Over half of global business leaders believe investing in AI will give them a competitive advantage"
-    excerpt: "Eighty percent believe AI will improve employee or customer experiences, but fewer than one in five are taking an enterprise-wide approach to deployment. SambaNova Systems, the co"
-    publishedDateTime: 2022-07-20T11:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-over-half-of-global-business-leaders-believe-investing-in-ai-will-give-them-a-competitive-advantage"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 3
 
 secured: "GId+KAdI3KzwsCjzixighrpqq45dulSLJoeL6GU1TZe4wvBJjWdYDMFcgd2E4mT1bKLqn4FrrBpSgZK7G5/npA3zea3z2aoy0St/WLopREXdI1OfMgdFHmNWJvhGm1OqKwPaNfb966CTTLSaoPJB8QxgOHucja56MLj9Plc++e7TixDS4lEkuX9eh43vIT/bSdg6bZ/kHpXmf4ECSrcZ8mBQPYz+aBkYa6LU+zKokSxKKmXNqKmb0o+WmrxT8y3rBao+FhGERWMssslOI/HgN3qpyby9f3tXVIF65n+9koT5IO+mGSs1UhG8dretWddDne9K5aYK6QmkfH5bSeqZ6JiwHv2z0U4pcmxZMLU41ec=;1yryq6F0zWjLE5PfNXy4/Q=="
 ---

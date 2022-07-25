@@ -192,6 +192,22 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and"
+    publishedDateTime: 2022-07-25T03:31:00Z
+    webUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
+    ampWebUrl: "https://whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/google-fires-engineer-who-contended-its-ai-technology-was-sentient/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 59
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2021/10/Untitled-2021-10-28T061744.295.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
     excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
     publishedDateTime: 2022-07-23T09:19:00Z
@@ -280,6 +296,6 @@ related:
       domain: techworm.net
     quality: 17
 
-secured: "4I6JZsCA2r7m9yvHI2Vq93c1SHHhMPhTdL6l7P5XrTMRW0GDZlTvlen25LfnuUuNEgQ7maZqRujRLgxlF65CEEdzXiByDvoYpxzBj6qGjIghqVE1qgAZF2KlHs9+R7lKGyoEK/HBoT3ersdsKazcP2xVc2ypQTUPI7rk6glykhagIUkTJplujwz0dGkbcRPg9mtO9FqWwf0J6j6xpHG5hksQLfDTWbESHDK45DVNJ91W4FS9FzF8BPLYBqJwKk1ZV/H1DM7hDj5f+/Jc6jTWqIfAfEvA5UPXq9H/PFFcxm7jdagDOC7Lxgs4i2+UIUG2WbaMeV/8esdSEVLIetMDQ01GmlGiJwXSl+N6Joi67lI=;uW1X+Xu9BlEEjsneMMcq6g=="
+secured: "vM7XBKSpsK6WymrNQMcDvsXKxXs6EHicQQlEvVtComOtazKq+hT92qiWs1WFuNxj7mT4YfpC9GBUO6wfhYLJSjVaUoXclLYCUocQV0LNL1p3X5zmiqOK1oZcXdsCVadLC1iS+NfnO6u7MADGN5UYI6nR8izT6xBWezzmlvcOzd9vtesBmbtG57k6u2eMYZy7eBeQxSsQd/NRsKuLO7AAWnW08Yh4rcdO9I904tGDUsPN8CyESWpHNJWF7TnFjfUWaW8aTxezQI5NxGt84RA8gSVNjfzjmeuARxvqzLuA+qb+E9ajqXcfROZnPapilRIg4HUPEefuIEP37nCRxdy2BAUXh8XTEpnHBt+wclLo7Fuy70VF7ORhqKsJD+Gg/rNwcKsumLQgXXyo1SXDIQMGbcGj1XdyLXButarzdYNWLN0is/3U35YL8sPzkQQhIcIrtkBVBO/5Vq9jDugWw+KUUrLU2OVXAPc66yXOaiBcNlnawSeqigFRwVOgCEDCfqVQ5nXEThwQJiBrPpCFU1Ml9Q==;rffbFuRyzcFXWPP49vjmdA=="
 ---
 

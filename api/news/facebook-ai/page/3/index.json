@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
+      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
+      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
+      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
+          "width": 701,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
+      "publishedDateTime": "2022-06-03T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-clearview-ai-draws-another-fine-uk-ico-assesses-75-million-for-scraping-of-facial-recognition-data.md",
       "title": "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data",
       "excerpt": "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected.",

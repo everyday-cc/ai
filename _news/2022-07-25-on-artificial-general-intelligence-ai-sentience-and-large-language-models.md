@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62db485e94b10276a09391bd/0x0.jpg?format=jpg&crop=768,432,x0,y0,safe&width=1200"
@@ -46,6 +48,6 @@ related:
         height: 720
         isCached: true
 
-secured: "RH8dPCbp9hpARnGTJsLgPOb4DLXZWo7Bw0GnpbOYwtiG+drUv7nPjq51g5eJbYGuyHbJN83fRsJAuFGpm4tjaBglXXTrqDseKQpxlNukFy7+A8nQvQncbuHD9i4Wo17z3Ck6HCNv1zRq1UhU6CoPJ0UAmffK4xspo9HIh3o62pWpCuiHpev/cS0ZA0TJQKxvw7v5gIxg+l64AkEAtfIVK7rSzHs9KLcmYSPjDMpHLy5IWvbxzJq/Uzlvrxy225Nb3/ilZxjvTX21nOJ1/CxQp8w5D0d1T4O4099bXeA55oEXDRYV/eVFEfxlRCgfSF7Nhzu9Ox9XSzV6a7FlvplbhjWnBApVwtH4rG5Yb2D7Ofw=;YKmVf+LM08DCNhFB3j4lIA=="
+secured: "jNTiUE7zMT+q0uRAnvzKsNTCUvV86tRv10R6VrFwoNxctrkXrd6v1fQWZ7rb/x2rp6080PCn7RIFr6tp+bO7maEmJWMQR+VIQC1cNOOWP+Y/2UIDbPrciG3mHp5JN05edhvImNbtSPMJLQ0mJ0505sEubam89+XGlaoEgPvm3nEGWi/GdX2xrzCQ/jvx+0r+mm6TQtS0S7DPFqyZ7b8LypL7jcWQRwrdLWC3eclUeR9NQra71ixqX31AUNsMSXqItPcAx6sAe/iS83X1z8Z39yAdOjaS58L+COs3vz+MBBAo7AbQTkl/vij0vNeEO8EdqplEZ0smd9CWgwVdiAAUp3LEl6svhlHawBNUHsgA+3FXitF9EfBvKQYYRQqzZSISfj2758zg+lz+hdyQAEpN/ji+bcaaTL008f1+DqXIjNz8IwV8tWNFZyIPAuQbkqlaFvz1F0nJkoAppv0tGsltAkMIQLBW1IblCOpa4SV4gUddSS83LNK1mINnhS1F52p8FuMzhTn02oR1Q3gsrXjF+g==;F4R9lORQU4fA/jxsgY8n/w=="
 ---
 

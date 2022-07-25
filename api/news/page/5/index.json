@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-18-laivly-adds-ai-ml-and-automation-to-improve-cx.md",
+      "title": "Laivly adds AI, ML and automation to improve CX",
+      "excerpt": "Forrester predicts that companies will continue to leverage and accelerate AI programs, particularly when it comes to agent-facing use cases. As they do so, they must also address agent burnout, advocate for agent career development,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/experience-e1637091540402.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/laivly-adds-ai-ml-and-automation-to-improve-cx/amp/",
+      "publishedDateTime": "2022-07-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects.md",
+      "title": "Artificial intelligence, deep learning to assist diagnosing birth defects",
+      "excerpt": "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "publishedDateTime": "2022-07-18T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026.md",
+      "title": "Data Science and Machine-Learning Platforms Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2026",
+      "excerpt": "Global “ Data Science and Machine-Learning Platforms Market “ report is the single authoritative source of intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026-2022-07-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026-2022-07-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-open-source-isnt-working-for-ai.md",
       "title": "Open source isn’t working for AI",
       "excerpt": "What’s the point of open sourcing code that runs at a scale no one can replicate? AI needs collaboration, but let’s think about it differently.",
@@ -768,49 +916,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-16-bacteria-based-biohybrid-microrobots-on-a-mission-to-one-day-battle-cancer.md",
-      "title": "Bacteria-based biohybrid microrobots on a mission to one day battle cancer",
-      "excerpt": "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/07/220715142115.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220715142115.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-16T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
       "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
       "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
@@ -1087,101 +1192,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
-      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
-      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
-      "originalUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
-      "publishedDateTime": "2022-07-15T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions.md",
-      "title": "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions",
-      "excerpt": "The $25M Series A will help Phaidra accelerate its mission of increasing Fortune 100 profitability while reducing emissions with artificial intelligence and deep reinforcement learning. Company announced the appointment of industry veteran Robert Locke as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28083622/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28083622/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28083622",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28083622",
-      "publishedDateTime": "2022-07-15T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
