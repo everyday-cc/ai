@@ -57,22 +57,6 @@ related:
         width: 952
         height: 525
         isCached: true
-  - title: "Selfhood, Artificial Intelligence, and Robotic People"
-    excerpt: "To understand whether AI is achieving selfhood, it's useful to have a biophysical understanding of what selves really are. AI computers are durable, not fragile, and therefore don't struggle for their own existence."
-    publishedDateTime: 2022-07-20T20:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-07/pexels-cottonbro-4114908.jpg?itok=Gqux6zsA"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "AI asked to show an image from inside a black hole"
     excerpt: "A new artificial intelligence system has been asked to produce an image from inside of a black hole, and the results are stunning."
     publishedDateTime: 2022-07-25T08:45:00Z

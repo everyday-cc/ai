@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T12:31:00Z
 originalUrl: "https://www.news-medical.net/news/20220725/Altered-cognitive-ability-of-face-recognition-among-infants-born-during-the-SARS-CoV-2-pandemic.aspx"
 webUrl: "https://www.news-medical.net/news/20220725/Altered-cognitive-ability-of-face-recognition-among-infants-born-during-the-SARS-CoV-2-pandemic.aspx"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: News Medical

@@ -50,22 +50,6 @@ related:
         width: 952
         height: 525
         isCached: true
-  - title: "Selfhood, Artificial Intelligence, and Robotic People"
-    excerpt: "To understand whether AI is achieving selfhood, it's useful to have a biophysical understanding of what selves really are. AI computers are durable, not fragile, and therefore don't struggle for their own existence."
-    publishedDateTime: 2022-07-20T20:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ambigamy/202207/selfhood-artificial-intelligence-and-robotic-people?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-07/pexels-cottonbro-4114908.jpg?itok=Gqux6zsA"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
     excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
     publishedDateTime: 2022-07-22T09:52:00Z

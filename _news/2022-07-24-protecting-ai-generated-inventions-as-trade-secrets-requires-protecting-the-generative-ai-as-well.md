@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Dall-E AI image generator just entered a limited open beta"
-    excerpt: "OpenAI's Dall-E image generator is both powerful and weird. So far, the developers have only allowed a handful of AI researchers to use the tool. However,"
-    publishedDateTime: 2022-07-20T20:55:00Z
-    webUrl: "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html"
+  - title: "Here’s why AI generated images are suddenly popular"
+    excerpt: "Don’t be surprised if your friends are talking about websites that generate images using artificial intelligence. It’s all because of a tool named DALL-E, which comes from a startup"
+    publishedDateTime: 2022-07-21T11:46:00Z
+    webUrl: "https://ktla.com/morning-news/technology/heres-why-ai-generated-images-are-suddenly-popular/"
+    ampWebUrl: "https://ktla.com/morning-news/technology/heres-why-ai-generated-images-are-suddenly-popular/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/heres-why-ai-generated-images-are-suddenly-popular/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
+      name: KTLA
+      domain: ktla.com
+    quality: 57
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-20-image-20.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "DALL-E 2, the AI that creates images for you, expands beta tests"
-    excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
-    publishedDateTime: 2022-07-21T15:15:00Z
-    webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/07/ai-generated-images-dall-e.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "jxq1c0lARVY7nXbmXlVpGdgPSlNYnjJzLt3B3VBtXChcQ5NYvHV/4eR1fdjCDW8NtW279VJ7/XuQKdcJJ9h8pCfHfQ27z+EfPZYh3WSBQndO2QxItpHtBnZpbGDsMZgvYYpL3yE1BVXcHOv6dvkljR9pnNryL+xlQygjCaZoBWMKwrK2L888un2jOMkhQUA3crxpp5lzR/AsZeWehAxUxiL/pTzPJwNdTLEfLR91+oEk1MAQVWpatlNnXIcWaJtNZ5Ee7Lra2/Fmz72eAi++Vuhmuq6mO111MRoHC03hvxiVECHmvuZmqk8hPJm7p6jj+GySaQE0p6EeNoXC5e5ch+TcWU4WSYn7jmqFSF5kyA0pmXggx7D8jhPh/zoRxMTmzghRvaZL7X6mLwq9s9dPt3XpF9Z4sTIzOfF5Ge3WGUcTbtOj8RTsjDTAO8/xIWC3JKKt3n4bGmHmrsmAajOwmTck4MtimpsOwOLXy1VghhC8nnb8iM2I/cyK3ZOKnzo2tOoxPM67b47Rd48zx98/QA==;9kiybMcrM6toBQ0FBGtZwA=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T13:44:00Z
 originalUrl: "https://www.itpro.co.uk/business-strategy/business-transformation/368635/rogers-communication-to-invest-ten-billion-ai-oversight--outage"
 webUrl: "https://www.itpro.co.uk/business-strategy/business-transformation/368635/rogers-communication-to-invest-ten-billion-ai-oversight--outage"
 type: article
+quality: 44
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -17,6 +20,58 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Rogers to invest $10 billion in AI, testing after massive outage"
+    excerpt: "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
+    publishedDateTime: 2022-07-24T19:37:00Z
+    webUrl: "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369"
+    ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Rogers to invest C$10 billion in AI, testing after massive outage"
+    excerpt: "Rogers Communications Inc said on Sunday it will invest C$10 billion ($7.74 billion) over the next three years in Artificial Intelligence (AI), and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
+    publishedDateTime: 2022-07-25T04:40:00Z
+    webUrl: "https://www.reuters.com/business/media-telecom/rogers-invest-c10-billion-ai-testing-after-massive-outage-2022-07-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Rogers to invest $7.7 billion in AI, testing after massive outage"
+    excerpt: "Rogers is physically separating wireless and internet services to create an 'always on' network – to help make sure the customers don't experience an outage with both cellular and internet services ag"
+    publishedDateTime: 2022-07-25T01:26:00Z
+    webUrl: "https://www.rappler.com/technology/rogers-invest-artificial-intelligence-testing-after-massive-outage/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 37
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/07/smart-customer-advisory-sri-lanka.png?resize=257%2C257&crop_strategy=attention"
+        width: 257
+        height: 257
+        isCached: true
+  - title: "Rogers to invest C$7.7 billion in Artificial Intelligence over next three years"
+    excerpt: "Canadian telecommunications provider Rogers Communications is investing $7.74 billion in artificial intelligence over the next three years. The announcement came weeks after the company suffered a failure that left millions of customers stranded."
+    publishedDateTime: 2022-07-25T11:47:00Z
+    webUrl: "https://www.itworldcanada.com/post/rogers-to-invest-c7-7-billion-in-artificial-intelligence-over-next-three-years"
+    ampWebUrl: "https://www.itworldcanada.com/post/rogers-to-invest-c7-7-billion-in-artificial-intelligence-over-next-three-years?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/rogers-to-invest-c7-7-billion-in-artificial-intelligence-over-next-three-years?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 33
 
 secured: "QuGNzjkSc7F0vtWxR8H4z4z8zA6TCfd5CQ8NkTXw/umXQDXyC50fCPEkg1GSxua3lMKLPiUjTFdJnokOxBPPKOY5gsdE3iLMbkgilaDt2T9vSdk9G9tWk071ZQpen0e5eKYfs8ytKqOPXtNxRfBC9FxAKGmHOlFegMor6+aVIF2avi8YZWCQw+8+RRwTZSxlPQQp2ia5itC4JG1xBlKOjgMkskZ4c+UUfKCMHYrtwnnFCxDXIAExpEJRGAwP6CQD0N93sXPwhUgz8xXLMHvtYsRM3d5K103SC1PHUX5n029krwz3MEPwyR9KmeWwhOMPEvQn1doid/jiHiH8W8srqUHYQbOMAwIAq/0uLCu9vDdrZKeCB4v3PnFX4BfI5O8hX11td4CuclikLBWHEMKyrBklUJnM6If9ctv/+8FDy29/kWn/l6gkNwJQPY2xyyhJxitSglqcGmPcJshyk5ZWgGVT1z1/5aC3A25JIUBySMOqxUVKCK3E2CSJHlzNEmzFcJL56pbRu/eb5tkgW5Md+g==;NSWZ8efFMCIsw+ju0ZTb1g=="
 ---

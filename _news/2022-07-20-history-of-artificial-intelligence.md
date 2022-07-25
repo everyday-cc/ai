@@ -23,6 +23,7 @@ topics:
   - AI
   - Facebook AI
   - IBM AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg"

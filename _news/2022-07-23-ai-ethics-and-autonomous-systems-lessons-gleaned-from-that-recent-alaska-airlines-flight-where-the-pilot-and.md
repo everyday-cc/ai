@@ -22,6 +22,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation..."
+    excerpt: "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern."
+    publishedDateTime: 2022-07-25T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
+
 secured: "w2M7BnV1M/X8rk3rvYeg9MnVwFCMOrdoA2e14urVTYz93PtnSod//catKjys2Tk330AGIiupS3s3q2CnGiy+Rl01pCrxvtTDaUy6lwQoRDFkxEbVnnvlxtvGqLow6Qp9kNZIMOn/JNV5Dt7rGHjCdcYhhV4s5+J5ilmo/nBMHgb31gHvBkhZJYahZgY1V7FOfB4SpU+JI3snz4yQGLt70w3wBceu1XI4m5TreM0wntDfg/ZwNmB9YNFg+5E35onEmKVg+WlpC5UNhBVXeXPlhvHnhEGF7NUe+hhb07sLJwI54stwbbmIg8stUy0eoW3RlK/qAwIBuwQy7XKlswmQhjlRrT/STaXw7U9+wr0jZRKpVopc7O7sPJdRr0Ua3wGfLS4fZfaaGVVTvlXxfAtg1b7+7SaMiWg2isgoS/Uaptrd7FeTviRlRPTeT+7KV40ii4Liuqxkv89qLgdOJBLGv5D+pTvOvbHlw4WcWe9KY5wOaFDAyj6ABlUPFZ03acxdQ3jdklBrPiuB/Gjcs7o41g==;54QNvVTcBiByqMXdfGz++w=="
 ---
 

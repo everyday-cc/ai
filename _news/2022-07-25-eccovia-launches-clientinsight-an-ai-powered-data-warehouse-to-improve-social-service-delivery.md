@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T13:39:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-eccovia-launches-clientinsight-an-ai-powered-data-warehouse-/2022/07/25/9644099.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-eccovia-launches-clientinsight-an-ai-powered-data-warehouse-/2022/07/25/9644099.htm"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: TMCnet

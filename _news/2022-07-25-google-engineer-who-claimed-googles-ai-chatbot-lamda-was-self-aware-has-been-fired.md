@@ -320,6 +320,15 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 17
+  - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
+    excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
+    publishedDateTime: 2022-07-25T11:49:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-ai-sentient-self-aware-blake-lemoine-b2130634.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 12
 
 secured: "vM7XBKSpsK6WymrNQMcDvsXKxXs6EHicQQlEvVtComOtazKq+hT92qiWs1WFuNxj7mT4YfpC9GBUO6wfhYLJSjVaUoXclLYCUocQV0LNL1p3X5zmiqOK1oZcXdsCVadLC1iS+NfnO6u7MADGN5UYI6nR8izT6xBWezzmlvcOzd9vtesBmbtG57k6u2eMYZy7eBeQxSsQd/NRsKuLO7AAWnW08Yh4rcdO9I904tGDUsPN8CyESWpHNJWF7TnFjfUWaW8aTxezQI5NxGt84RA8gSVNjfzjmeuARxvqzLuA+qb+E9ajqXcfROZnPapilRIg4HUPEefuIEP37nCRxdy2BAUXh8XTEpnHBt+wclLo7Fuy70VF7ORhqKsJD+Gg/rNwcKsumLQgXXyo1SXDIQMGbcGj1XdyLXButarzdYNWLN0is/3U35YL8sPzkQQhIcIrtkBVBO/5Vq9jDugWw+KUUrLU2OVXAPc66yXOaiBcNlnawSeqigFRwVOgCEDCfqVQ5nXEThwQJiBrPpCFU1Ml9Q==;rffbFuRyzcFXWPP49vjmdA=="
 ---

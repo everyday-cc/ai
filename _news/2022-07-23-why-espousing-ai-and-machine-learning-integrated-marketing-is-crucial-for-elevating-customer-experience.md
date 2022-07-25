@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-an
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,34 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2022/07/Edge-AI-.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "How AI Is Transforming the OTT Experience"
+    excerpt: "From content discovery to video indexing, AI can enable customization and hyper-personalization of the OTT viewer experience and help OTT programmers and marketers learn more about their audience."
+    publishedDateTime: 2022-07-25T13:00:00Z
+    webUrl: "https://www.streamingmedia.com/Articles/Post/Blog/How-AI-Is-Transforming-the-OTT-Experience-154060.aspx"
+    type: article
+    provider:
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/132805-OTT-Remote-2-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lawyers Expect Growing Litigation from AI Hiring Tools Violating Discrimination Laws"
+    excerpt: "As more state, federal and international regulations are shining a light on how AI hiring tools can discriminate, lawyers say employers need to be prepared, as it's only a matter of time before we start seeing lawsuits."
+    publishedDateTime: 2022-07-25T15:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/07/25/lawyers-expect-growing-litigation-from-ai-hiring-tools-violating-discrimination-laws/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/07/Artificial-Intelligence-Hiring-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "7nZwydH8sEUIrUyd+ZjwJWtQzUJRhKR6MVsQPcke09s9S5GkZYeEoFSuAKlaNNUs8uKOwVWbwbFflddcDL6g7mKj7o1G4zaoSCeqZb9r5mEgcw0zPUXJbRFlTSxSuXumDFn9twZWNEGxVmTONXV5aC2GrQZjxTMH4DvNNW2dgdiGZLReJBP5et57YiGxNmykerAsDHgkYHf5KR5DMIRBHZs7jNc4ljOCKsGq7y2bpyIZvLKiZFl0ddKN2Z5ji9zyGyguP/ML+YEFmY+uC5q8ThzGHxwEmowITPQ/CKrRNvcV5Nw640ynk2AJrgi1DUiH4AadEmdWUx/SqscxhjgVCMHcvXiOYNnqQBaGinTBHgA=;tl04IPAWaZ+11wBYUPUodw=="

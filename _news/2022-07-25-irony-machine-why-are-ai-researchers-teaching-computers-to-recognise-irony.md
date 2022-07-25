@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/irony-machine-why-are-ai-researchers
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 320
     height: 213
     isCached: true
+
+related:
+  - title: "Irony machine: Why are AI researchers teaching computers to recognize irony?"
+    excerpt: "Since the turn of the century, that model has been replaced by data-driven machine learning and neural networks. Here, enormous caches of examples of a given phenomena are translated into numerical values, on which computers can perform complex ..."
+    publishedDateTime: 2022-07-25T13:31:00Z
+    webUrl: "https://techxplore.com/news/2022-07-irony-machine-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 16
 
 secured: "jioTI/XdSKKCz4UZFFegGMf6jK1hzlXwj3QQ3TIhF7I5EMa30M4Zv12eUm3RBxSOKp1QGfUB6fXXlplvec8wfFfKEPZQBjpxNZxqf4g0pq8dTrfxLw/1O6b57KPcd8a/tItegOnjWHpC8KSxk0O/848J5uoia//F9cwQ0Yjy8Eagcji3/GNG+G5qSdDpkY8oOdiaCbqefQxan4YqlBfb0csaJKxb2PYvvyrDjxZsY1vaICXtYYgMWuHbLnJjVILBUidX3WiBjnplkgOOG6Wjfp0YSYaMCU+6zRfRBH/ecpkYEN+oeCWliQz2Qk4YO4czi6BgOvEwGn2V6B2d8pEFQlOg07fQlPp6sQrrjOXGeplpWrNvDj6IgqQ+2AXQs8jvd2YkvtGDkUrOsI8W/VCprFOCz5FYfNl22U7t9+YdnL+QgnxOC6Y4gRgI6ic/1M9o+rR+ehHOWuXYQ87sNGykFBE2TbuIf3Q4tmUJGVrhZuqWoqTNduWF9hRkAPg3pZ4AHemUroARO/OsaINPTlfqJg==;YzYybMXmhvSkxtigg43fcQ=="
 ---

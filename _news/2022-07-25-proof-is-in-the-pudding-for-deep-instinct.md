@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/tonybradley/2022/07/25/proof-is-in-the-pudding-for-deep-instinct/"
 webUrl: "https://www.forbes.com/sites/tonybradley/2022/07/25/proof-is-in-the-pudding-for-deep-instinct/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

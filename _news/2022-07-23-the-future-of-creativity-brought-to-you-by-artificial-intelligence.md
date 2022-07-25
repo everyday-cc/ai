@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advance of AI creating a moral minefield"
-    excerpt: "Artificial intelligence is now capable of making decisions without any human intervention, so how do we navigate the ethical issues raised?"
-    publishedDateTime: 2022-07-20T23:01:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2022/07/21/advance-of-ai-creating-a-moral-minefield/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/5NWRikvOGJN5pZJiS5BAI4g3IfU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QUJTEMNDURHW3PK56Z4XHYKBNE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "CARIBBEAT: Educator’s lecture targets the future shock of AI"
     excerpt: "The music, family fun, arts and crafts, and food are returning when the Grace Jamaican Jerk Festival New York comes back to Roy Wilkins Park in Queens, on July 31."
     publishedDateTime: 2022-07-24T01:00:00Z

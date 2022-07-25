@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T13:10:00Z
 originalUrl: "https://en.globes.co.il/en/article-Diagnostic-Robotics-raises-45m-1001419191"
 webUrl: "https://en.globes.co.il/en/article-Diagnostic-Robotics-raises-45m-1001419191"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: globes.co.il

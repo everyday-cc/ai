@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-25-bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe.md",
-      "title": "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe",
-      "excerpt": "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog.",
+      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
+      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
+      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
       "sourceUrl": null,
-      "webUrl": "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448",
-      "originalUrl": "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448",
+      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://images.thewest.com.au/publication/C-7634448/1c9c82ed648bd2ce096743a69ae292db2cdc701c-16x9-x112y0w4012h2257.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
+          "width": 4912,
+          "height": 3264,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448.amp",
-      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448.amp",
-      "publishedDateTime": "2022-07-24T19:54:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "publishedDateTime": "2022-07-25T07:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The West Australian",
-        "domain": "thewest.com.au",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -282,24 +291,15 @@
     {
       "path": "_news/2022-07-19-from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer.md",
       "title": "From ‘Beautiful Playground’ to ‘Commerce Destination’: Inside the Vision of Pinterest’s New Chief Shopping Officer",
-      "excerpt": "RTP talks with Julie Bornstein, new Chief Shopping Officer at Pinterest, about the role the platform hopes to play in social commerce.",
+      "excerpt": "Pinterest’s role in the world of social media is blurry — consumers use the platform very differently than they do Instagram or TikTok, for example. But following a series of major strategic moves, the role Pinterest hopes to play in the burgeoning realm of social commerce is crystal clear.",
       "sourceUrl": null,
-      "webUrl": "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions",
-      "originalUrl": "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions",
+      "webUrl": "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer",
+      "originalUrl": "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailtouchpoints.com/wp-content/uploads/2022/07/1587616751003-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -873,6 +873,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-facial-recognition-software-considered-by-government-agencies.md",
+      "title": "Facial recognition software considered by government agencies",
+      "excerpt": "Government agencies have a facial recognition system set up to share drivers’ licence photos with the Covid-19 vaccine passport scheme. Documents show the Ministry of Social Development (MSD) in talks to get people’s photos through the system to check the identity of beneficiaries – though it denies ever doing this – and talk about using it in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fbcnews.com.fj/world/new-zealand/facial-recognition-software-considered-by-government-agencies/",
+      "originalUrl": "https://www.fbcnews.com.fj/world/new-zealand/facial-recognition-software-considered-by-government-agencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fbcnews",
+        "domain": "fbcnews.com.fj",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
       "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
       "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
@@ -1094,31 +1128,22 @@
       "title": "Arteris IP’s Next Generation of Vision Processing for Edge Devices Selected by Inuitive for Its Next Generation of Computer Vision Platforms",
       "excerpt": "RA’ANANA, Israel and CAMPBELL, Calif., July 11, 2022 (GLOBE NEWSWIRE) -- Arteris ® Inc (Nasdaq: AIP) - a leading provider of system IP consisting of network-on-chip (NoC) interconnect and IP ...",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
+      "webUrl": "https://fox40.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
+      "originalUrl": "https://fox40.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T06:39:00-07:00",
+      "publishedDateTime": "2022-07-11T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
+        "name": "FOX40",
+        "domain": "fox40.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1358,58 +1383,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-like-brad-pitt-do-you-have-trouble-recognizing-people-it-may-be-prosopagnosia-or-face-blindness.md",
-      "title": "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'",
-      "excerpt": "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
-      "originalUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/253c7156-c626-439a-aec0-49160966ee42/0ba5dff5-9160-466c-94b3-967d1ba42b12/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
-      "publishedDateTime": "2022-07-06T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

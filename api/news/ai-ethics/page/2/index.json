@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-27-one-day-ai-will-seem-as-human-as-anyone-what-then.md",
+      "title": "One Day, AI Will Seem as Human as Anyone. What Then?",
+      "excerpt": "From here on out, the safe use of artificial intelligence requires demystifying the human condition. If we can’t recognize and understand how AI works—if even expert engineers can fool themselves into detecting agency in a “stochastic parrot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
+      "originalUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b632dd403df153e6760345/master/pass/ideas-ai-intelligence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
+      "publishedDateTime": "2022-06-26T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-debate-over-ai-sentience-marks-a-watershed-moment.md",
       "title": "Debate over AI sentience marks a watershed moment",
       "excerpt": "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going.",
@@ -1384,50 +1436,6 @@
         "IBM AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-questioning-the-ethics-of-computer-chips-that-use-lab-grown-human-neurons.md",
-      "title": "Questioning the ethics of computer chips that use lab-grown human neurons",
-      "excerpt": "Melbourne-based Cortical Labs grew groups of neurons (brain cells) that were incorporated into a computer chip. We are in the early stages of neural computing and have time to think through its ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/ethics-computer-chips-human-neurons",
-      "originalUrl": "https://interestingengineering.com/ethics-computer-chips-human-neurons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpreXa6W/sizes/istock-1040557296_resize_md.jpg",
-          "width": 744,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/ethics-computer-chips-human-neurons",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ethics-computer-chips-human-neurons",
-      "publishedDateTime": "2022-06-11T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

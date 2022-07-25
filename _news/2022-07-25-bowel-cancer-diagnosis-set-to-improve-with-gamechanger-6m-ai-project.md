@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T12:06:00Z
 originalUrl: "https://eandt.theiet.org/content/articles/2022/07/bowel-cancer-diagnosis-set-to-improve-with-gamechanger-6m-ai-project/"
 webUrl: "https://eandt.theiet.org/content/articles/2022/07/bowel-cancer-diagnosis-set-to-improve-with-gamechanger-6m-ai-project/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IET

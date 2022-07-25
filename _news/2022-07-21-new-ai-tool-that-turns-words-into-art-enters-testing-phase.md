@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 1062
         isCached: true
+  - title: "DALL-E 2, the AI that creates images for you, expands beta tests"
+    excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
+    publishedDateTime: 2022-07-21T15:15:00Z
+    webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "6fL8Cy99j+TGRNzAR+6elMl/JTYk6/0NL9iaC8+gP6L4wf1xgA6XyVLRbd+AkJviGoGl346F+Ro5qTza+o7D43gsFLDqfRVT8yk1VKgk8RLOnjRgV+5TrmVmEwHm67tdPf6IiV4BBZc88glQ9gtAwBmX98Q06iqRVcmyLqhmckgplCNj1mLnnSyKXcwcbclM6U9nyaWDm4SJSdQkEtWtQvnC4oij1HJUZaD6M7hbRaSpiqmg2NobQ7K4qcGYSkuh3hhMHgKk4R1aZK1UpJdUNWeXlPd8nEpW/eafB1Bg8c65Vbl4LBDX3C9I5/+B5fJsWJfPjFcju1n/q9ONF6VMeIn5aUpTFMU8KvFfqJlNGjWNukuo41Ba0OiW91dt3sIHrj0IjmfODBqr07cpRdagNaKuzJzWKZsLKwnidLBoZgBmJFR11QHwSkEb/hEMCDigmNuaOKvMZSXBwWSLya8NCLKyUQfeSaGfhEZKlfsZwrj9IC9ISHqGfBrGC2bxQI2yqE4+jgk+5pESHGS3ejIfOg==;DiqGAex5F+JCOlZvxOW1hA=="
 ---

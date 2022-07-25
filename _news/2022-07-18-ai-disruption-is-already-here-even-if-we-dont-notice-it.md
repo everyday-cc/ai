@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/07/aideal-hwa-J9LDdCPkxfI-unsplash-e1657915844880.jpg?w=1200&strip=all"

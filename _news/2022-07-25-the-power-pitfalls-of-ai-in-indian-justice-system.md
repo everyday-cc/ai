@@ -28,13 +28,13 @@ images:
 related:
   - title: "Indian Navy’s quest to become an AI-enabled force"
     excerpt: "AI can vastly improve every aspect of naval warfare, such as combat, communications, logistics, maintenance, cybersecurity as well as physical security."
-    publishedDateTime: 2022-07-25T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force%EF%BF%BC/"
+    publishedDateTime: 2022-07-25T11:56:00Z
+    webUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Navy-AI.png"
         width: 950

@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/how-ai-writing-service-craftly-ai-is-transfo
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-writing-service-craftly-ai-is-transforming-the-content-industry/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 960
     height: 533
     isCached: true
-
-related:
-  - title: "How AI is Making Self-Service a Reality in the Public Sector"
-    excerpt: "AI in Government is excited to host Rushali Patil, Engagement Manager at Quantiphi and her presentation ‘How AI is Making Self-Service a Reality in the Public Sector’ on Tuesday, August… Read More"
-    publishedDateTime: 2022-07-20T22:48:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-making-self-service-a-reality-in-the-public-sector/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 47
 
 secured: "vXZw9GUjCk9Do/RBLu1zthBf4pkBTYBx0M2bxTrXoaPebVr7itGNgKge5zVV2a9/MxJsdhPxm1AaTHJUCZhapuQV5rjH7kEjhk0bde9/waixCydhDlZD3mJaqeWDRjeE8wVzv3uLvfNA8EBB5wIJ46+ycrqBdhHEBhes5swOMJI5NET1xzDAOySnDAS0kixA975qvdwZ1UwHSlevhposekzkRuU/+HM07ez6biLDZqkW9rbAiHkGdoLuNrlIguP8qfxSJ2afvLNHsSl+QV89sWEPU52cU3TiQTci1F1KoVGlHdWQ3eXVE5/EjilY07yQeEaOBrzrIsRW2ICe7WeoZGuFdh0BUrJLWrKVpF4O9N29ZtDKH4ESkXEO5vet0L7vs5yPnF9Uz4sFkWc482LamboSY+WiK8cKH+vkTv3PgfcbChz/tEB1nFukgkMOQLRRYy5yxDXo8z8YwX3XFQTGTnHJGVp0tkLmczGbY9tSoI+fU+D6PtRnc6XkNo5nrWihSfpf7CQYbIzDvdfRO6Dxag==;otnWo5KviRkzWAGXoWzQLg=="
 ---

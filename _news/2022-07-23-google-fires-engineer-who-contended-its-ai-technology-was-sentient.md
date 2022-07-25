@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -325,6 +325,15 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 17
+  - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
+    excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
+    publishedDateTime: 2022-07-25T11:49:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-ai-sentient-self-aware-blake-lemoine-b2130634.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 12
 
 secured: "1X5IVYIWyfaVn6CvGPMd+lUvO7cEUIY1iEuBYrB5ffsMS+PqERmwrcaKp4F5nyQ0RXzObRgIzytnwZQDhtj8l3jrodz/id+MQsitdnR00kQYjDdJA2vY9cxuv8QtAyrlveZTkVTf1Qp7PJ7cd2Wg6S/fB/XKOjkcYQpOAjnK5zebZ1oVtpwYW9z8MH4Hi/TZnozQTtPo38kOLELlANdXorLpAd7YO3D0PNthDdsFH6LYyyf+6DewbhXpPRd06HwtyjuPYfEcXnAZhfrNpHJaDAxuiSZKBLZSEs62HhgJ7wLHx9ybl5C8fhge9E0HIa2Ls30XR6O5OMo+eIObxcKj6WNG3ptCdzfXKbyu7h5BObHcZaINyMn8zWnrrNgIiyo5V0caw9tp840rR9EQimLFTi7lc/b29Aub2iCx+A2OQCWssiw5zXxf7IeUpQugSE1AflqDd0Hhw2QcoztrseTmHu3BbOKym+FzCm6EECeJ9Qw7egjZeWfV0omUGe8B1N6jCKjc9zmEqYn3LdZfYoZCeA==;kgZQyuEuopSR4TapwZhl7A=="
 ---

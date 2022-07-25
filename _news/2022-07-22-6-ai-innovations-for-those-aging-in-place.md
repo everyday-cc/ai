@@ -88,20 +88,6 @@ related:
         width: 800
         height: 447
         isCached: true
-  - title: "6 AI innovations for those aging in place"
-    excerpt: "The New York Office for the Aging recently partnered with ElliQ by Intuition Robotics to bring empathetic care companions into the homes of hundreds of seniors aging in place across the state. The robots proactively engage in conversation first,"
-    publishedDateTime: 2022-07-20T20:10:00Z
-    webUrl: "https://www.reviewed.com/accessibility/features/6-ai-robot-products-aging-place-home-care"
-    type: article
-    provider:
-      name: Reviewed.com
-      domain: reviewed.com
-    quality: 37
-    images:
-      - url: "https://reviewed-com-res.cloudinary.com/image/fetch/s--P1ct9kcx--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1658333804962/ai_hero.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Understanding The Role Of Artificial Intelligence In Combating Deforestation"
     excerpt: "The rampant deforestation around the world adversely affects your business in direct and indirect ways. While many may see it just as a technology for businesses to boost their revenues, governments and environmentalists can use artificial intelligence (AI) for sustainability-related functions,"
     publishedDateTime: 2022-07-25T10:13:00Z

@@ -43,19 +43,33 @@ related:
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-21T04:30:00Z
-    webUrl: "https://www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-    ampWebUrl: "https://www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
-    cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    publishedDateTime: 2022-07-21T07:17:00Z
+    webUrl: "https://www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    ampWebUrl: "https://www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    cdnAmpWebUrl: "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
     type: article
     provider:
-      name: WCBD
-      domain: counton2.com
+      name: WJHL-TV
+      domain: wjhl.com
     quality: 59
     images:
-      - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
+      - url: "https://www.wjhl.com/wp-content/uploads/sites/98/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Baidu halves production cost for latest self-driving vehicle"
+    excerpt: "Chinese search engine giant Baidu on Thursday released its new generation of autonomous vehicles with a production cost roughly half that of its previous Apollo Moon line. By continuing to browse this website,"
+    publishedDateTime: 2022-07-21T05:16:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Baidu-halves-production-cost-for-latest-self-driving-vehicle"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F8%252F4%252F6%252F41446481-5-eng-GB%252FCropped-1658378129.Baidu.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Baidu unveils production-ready, self-driving RT6"
     excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."

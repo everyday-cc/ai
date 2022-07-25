@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T12:16:00Z
 originalUrl: "https://www.news-medical.net/news/20220725/Fujifilm-integrates-AI-software-to-help-identify-bone-trauma-at-POC-(Point-of-Care).aspx"
 webUrl: "https://www.news-medical.net/news/20220725/Fujifilm-integrates-AI-software-to-help-identify-bone-trauma-at-POC-(Point-of-Care).aspx"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: News Medical

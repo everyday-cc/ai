@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T12:06:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-israel-artificial-intelligence-fa1f888f36e9f9a5907ce507917850b1"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-israel-artificial-intelligence-fa1f888f36e9f9a5907ce507917850b1"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Associated Press

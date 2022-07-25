@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "As VC funding dries up, one fintech shares its unique path to raising a seed round through customers"
+    excerpt: "Early-stage startups will need to be creative with where they find capital. Karan Kashyap of Posh shares his journey to a seed round without the help of VC."
+    publishedDateTime: 2022-07-25T15:05:00Z
+    webUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/626ab91786fa90001905a244?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How cloud technology is shaping the future of fintech industry"
     excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
     publishedDateTime: 2022-07-22T11:32:00Z
@@ -57,31 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ZorroSign Lauded as One of Most Innovative FinTech Solution Providers in 2022"
-    excerpt: "ZorroSign, Inc., a global leader in blockchain-based digital signature solutions, today announced an Insights Success cover story lauding the company as one of the \"Ten Most Innovative FinTech Solutio"
-    publishedDateTime: 2022-07-21T09:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/p28146281/zorrosign-lauded-as-one-of-most-innovative-fintech-solution-providers-in-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28146281"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28146281"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
-  - title: "Healthcare Innovator “ORHub” Aims to Enter the Fintech Industry"
-    excerpt: "(OTC PINK:ORHB) takes form as a medical fintech company, announcing the launch of “FutureOR”, its SRM platform, focused on enabling digital connectivity, faster vendor payments, and surgical implant accountability."
-    publishedDateTime: 2022-07-21T13:07:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-health-software-medical-devices-acec4580184a3f73053779f24a2fdb64"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
   - title: "Meet 26 rising-star fintech VCs excited about what's next in the sector — even during a market and investing pullback"
     excerpt: "Fintech startups have been hit hard by the market downturn, but several VCs remain bullish on the sector, believing it's integral to people's lives."
     publishedDateTime: 2022-07-21T09:00:00Z
@@ -95,48 +84,6 @@ related:
       - url: "https://i.insider.com/62d6c8d4bc4c770018b76346?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Fintechs join forces to create digital financial planning tool"
-    excerpt: "UK-based data and payment platform Moneyhub and financial app Pennyworth have partnered to roll out a financial planning service. The tool has been developed by Pennyworth – who has applied for a UK banking licence – which will leverage Moneyhub’s APIs."
-    publishedDateTime: 2022-07-21T14:05:00Z
-    webUrl: "https://international-adviser.com/fintechs-join-forces-to-create-digital-financial-planning-tool/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 24
-    images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/digital-online-tool-elearning-tablet-search-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Why are Fintech Merger & Acquisitions on the rise in 2022?"
-    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
-    publishedDateTime: 2022-07-21T10:27:00Z
-    webUrl: "https://fintechmagazine.com/venture-capital/why-are-fintech-merger-&-acquisitions-on-the-rise-in-2022"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
-  - title: "Why are Fintech Merger & Acqusitions on the rise in 2022?"
-    excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
-    publishedDateTime: 2022-07-21T10:27:00Z
-    webUrl: "https://fintechmagazine.com/venture-capital/managing-mergers-in-the-developing-fintech-space"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
-        width: 1799
-        height: 1010
         isCached: true
 
 secured: "lS0sokXeXkcyVwA7QaTx47RWrOcSH9ej5TANkWHPfM8vqkEPIPhTeX1B0KxHpUux68WKhB0i4d5nHYD3tulHth19RG56M0oZbPnqvSQ6b2AP74eCkLm+rODAJrTr6MFzG/Z9k5Gdh9BplufxTBD9Gz097MmPosNztyLCuWn5lnEOnl4nt8e7Ygeao+NrGA7upGZNe36QzLuaUdm5346+kYNJ5I56ob3fqKyjN3Dw9a7n7UQc9mHT2fxPEmZOnZEBT7TwnRq9rAhc9g0Twa+TSNPquBk1o+PW1PN+QoE3qyjSzNIFjQDuhxKZ0q4F+oW5q73nzyF2MAKaBQXda61tFo4Xqs2TYb3a9hab8CxOoZHBkNcr1SmxiEXYkV+ldEtOW/bgJbjOqiv6CyCaQXC0bRTlFZEmC1zU0E/8mLkZPtQddgAlj79ZfTCZzBv3cJABKAqOa//TCTT4HXJqVOQW7VOeZ5iiAzpgHZB/gHW/4r/BU/0MX692RZycT9VFBiavixo4RJ0vt/92nuqdkdQpmw==;b2DU/VIys6W3E7RUrRbVKw=="

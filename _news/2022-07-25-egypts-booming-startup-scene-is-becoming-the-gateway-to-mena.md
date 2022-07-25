@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T12:20:00Z
 originalUrl: "https://thenextweb.com/news/egypts-booming-startup-scene-gateway-to-mena"
 webUrl: "https://thenextweb.com/news/egypts-booming-startup-scene-gateway-to-mena"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: The Next Web

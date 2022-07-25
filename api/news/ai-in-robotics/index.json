@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -256,7 +256,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -627,7 +627,8 @@
         "AI in Robotics",
         "AI",
         "Facebook AI",
-        "IBM AI"
+        "IBM AI",
+        "AI in Healthcare"
       ]
     },
     {

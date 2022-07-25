@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How cloud technology is shaping the future of fintech industry"
-    excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
-    publishedDateTime: 2022-07-22T11:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Souparno-Bagchi-COO-Balancehero-India.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "How Fintech Is Elevating the Real Estate Industry"
-    excerpt: "There is hardly one industry unimpacted by the rise of smartphones and all the surrounding technology, and the world of real estate is no different. “Fintech,” a short form for financial technology, refers to technology like software or mobile applications that improve and automate traditional forms of finance for businesses and consumers."
-    publishedDateTime: 2022-07-22T11:01:00Z
-    webUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/"
-    ampWebUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/How-Fintech-Is-Elevating-the-Real-Estate-Industry.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "ZorroSign Lauded as One of Most Innovative FinTech Solution Providers in 2022"
     excerpt: "ZorroSign, Inc., a global leader in blockchain-based digital signature solutions, today announced an Insights Success cover story lauding the company as one of the \"Ten Most Innovative FinTech Solutio"
     publishedDateTime: 2022-07-21T09:00:00Z
@@ -73,43 +41,6 @@ related:
         width: 900
         height: 594
         isCached: true
-  - title: "Healthcare Innovator “ORHub” Aims to Enter the Fintech Industry"
-    excerpt: "(OTC PINK:ORHB) takes form as a medical fintech company, announcing the launch of “FutureOR”, its SRM platform, focused on enabling digital connectivity, faster vendor payments, and surgical implant accountability."
-    publishedDateTime: 2022-07-21T13:07:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-health-software-medical-devices-acec4580184a3f73053779f24a2fdb64"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-  - title: "Meet 26 rising-star fintech VCs excited about what's next in the sector — even during a market and investing pullback"
-    excerpt: "Fintech startups have been hit hard by the market downturn, but several VCs remain bullish on the sector, believing it's integral to people's lives."
-    publishedDateTime: 2022-07-21T09:00:00Z
-    webUrl: "https://www.businessinsider.com/rising-fintech-vc-still-excited-about-startups-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-    images:
-      - url: "https://i.insider.com/62d6c8d4bc4c770018b76346?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fintechs join forces to create digital financial planning tool"
-    excerpt: "UK-based data and payment platform Moneyhub and financial app Pennyworth have partnered to roll out a financial planning service. The tool has been developed by Pennyworth – who has applied for a UK banking licence – which will leverage Moneyhub’s APIs."
-    publishedDateTime: 2022-07-21T14:05:00Z
-    webUrl: "https://international-adviser.com/fintechs-join-forces-to-create-digital-financial-planning-tool/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 24
-    images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/digital-online-tool-elearning-tablet-search-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why are Fintech Merger & Acqusitions on the rise in 2022?"
     excerpt: "As M&As for fintechs increase in number, we speak to industry experts about the pros and cons of merging a company within the digital ecosystem"
     publishedDateTime: 2022-07-21T10:27:00Z
@@ -123,20 +54,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/476efeb9afb914f63c307d1103d39ca6:d59ee89f8f40fa08baa78aab1fbf1c4b/gettyimages-1315600064.jpg.jpg"
         width: 1799
         height: 1010
-        isCached: true
-  - title: "Important Technologies And Developments Shaping The Future Of Fintech"
-    excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
-    publishedDateTime: 2022-07-22T20:39:00Z
-    webUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
-        width: 640
-        height: 407
         isCached: true
 
 secured: "wsI1Gg3VtcXNxSgBdwiY6+Yycsq9Wqu5qah1Lzcj5NBKCs6adO1gqeC49qEfeKbNoURU3QpYtH/HX7F4UqFyJPt90sdfA2+azhQlen6tyFpQ5gCsN0Lq+/spCzxfbFJ8lSWd2k8iNqoOEuBmJPrBsU7pZX6FqkMzeFUqwPmRC9MWxHKNrAidDYByRE5Xl/thqazywBIlGj0xo4ia75IyiyGKl/gpdiLWuSOKhUl7k/7EwYK8bzoRllwUG7uSLjtWbE2nloUqlXFxcIFM4JfN/ylsQJCEPUvqjVGQJAGPuo2pck2L9+3uRUVbfQvBquQ+ee7SQSa0eI7EEQoE43RHxhyZSHVydM0NVaTu26VVOSOAEKRP0tIpPMWb4wBCadRuX8+O7pFteFlKpXZ2ZTPzXQx0/vzT6twWVEC+jmCqcYOUh95s/GXdvk0R2yahr0qp15+E66UGzqI7eOggUjds36NU5M85p/lW8thmhGp6G7Rxg676TmZhuloUquE2VfYuSdl5au3aLt6BNUzwbR7HEw==;deGxoTjJxZoNpUhP/JXR+A=="

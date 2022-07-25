@@ -319,6 +319,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
+    excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
+    publishedDateTime: 2022-07-25T11:49:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-ai-sentient-self-aware-blake-lemoine-b2130634.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 12
 
 secured: "w9vwe7Sl0+Ps+zTmsakXoikcQp0puHJVC5jQCA8++1YslBQWzMwytez1zi/yrUimU/+7kNiswbXp4Cy9dxT+FPlvWHJW+p+lA6S+Pxk6AHj7aAsUgfsK8X1n/RBO/adxKAqPoCv7q0UT9jj/OFmcUf+vEYZUsgEd1uaFbTvEAUsG2k291/7nty5cPXjJHAJ29yWbzyQ6b+CDG/sKqxTpQXP8i30M3HzJRY/ANubn/PGu1E/fvpUNrxO+8pCMbq5mpNU5/7l/4PKsc6gjchoG/yagpwZfUnWS/BP0sRcekSz4xgl9bMm/8GdG4o9r+xX+wYcMudABK+Z5/lUgYApKjbrzZyp1uE8Ev7XKsMON1qZTMAwXNidbTLIpTRDeOpvMqpeIF/A557kTvylJyO9/dq9Hs0Ix/GuEBAiRbL9U8Y2pLYs6gjwJVgxBSkXeuhJenn6/hSh3pj/JTWnQCBcC239MBKoQN4hbA07+2Mhwr6dt8vvpmWRaP2bpwA5w2fwkdFPFMU7FsG3BdGn3Q3ui9g==;/5Yu581XQgCLpg3uEc5Bow=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Indian Navy’s quest to become an AI-enabled force"
 excerpt: "AI can vastly improve every aspect of naval warfare, such as combat, communications, logistics, maintenance, cybersecurity as well as physical security."
-publishedDateTime: 2022-07-25T11:30:00Z
-originalUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force%EF%BF%BC/"
-webUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force%EF%BF%BC/"
+publishedDateTime: 2022-07-25T11:56:00Z
+originalUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force/"
+webUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: analyticsindiamag.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Fk+TfIcpSZPt2RrldJio0ybCVK6gB0O7ylcj0UQOPlJjmVuuAVd8+t/9W9L39duk/lPW0eEPa913VxNgrdQK4rprGN7woaUirL187gSOXGf94D7W90jNkKF5t2roowvoifo7P3fbFYoUxJPnJfYbQBOH0+L2JSF7OYRHpahj6/mdqmmXRao38lC+qJdaV0xMmLil0GoEq3C34BTV6K8VPZ2wEJvpXkOKjNbYGGrzN/mZFWUCSx6H3RJ9aiVrXzwsbq5Kcva4paXEYaLOM/lSbD0RE+GTFdRDYt8hewRZ2xkVrYsbS8kuzwaneztcxvdpCcETQ5DfiFSvoU6wuaPhfUmq2RvWmjX4nf1XRPXLm9w=;OH7leAgdkfKD071UQ/Cpsg=="
+secured: "xHqTCbcRc39SMhIs1qKI64RQWNzxj12r5ObieBwivajlAgC7UpEbaNapOOt6VVMq9cJhO4GaSfgs5Ygeq+R2mZtXQiHcX18M4ea1l1NrF1B2aMwPSqlXd5tWy2OKKq86/IXBxhAWc4DAfPJX4D9AGyAWzU7tzNvO2OoSaQmGpT/dBFDmY1pt+8bx1VuzsXZXB04veWJksb1pZGV8mqPYvCtXEhUgN095kDYBcCTbeeHyCKStiayUBjHYCbFgkhVAyfziwAlT1CS8BOzL1QIFaQJh3xdpRYEp31jRTaR/TLB/JMez+GBcQFSRbELqTvW/LPNlzYZOrbRe29mlhtNi+matoyHaVZoFYNki6D8DzDU=;04a+sOi15IUo6Vyr/udAyQ=="
 ---
 

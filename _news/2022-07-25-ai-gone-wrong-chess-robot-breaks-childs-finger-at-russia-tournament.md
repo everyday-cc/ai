@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
 type: article
 quality: 74
-heat: 104
+heat: 116
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45126,msid-93106595/robot.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Rogue AI? Chess-playing robot in Russia turns violent mid-match and breaks a 7-year-old boy’s finger"
+    excerpt: "The controversy of ‘rogue’ artificial intelligence (AI) has stormed headlines again recently. This, and other events like the Google employee who was fired after claiming Google’s LaMDA AI was sentient, have alarmed many. In the words of the European ..."
+    publishedDateTime: 2022-07-25T14:46:00Z
+    webUrl: "https://www.scotsman.com/news/world/rogue-ai-chess-playing-robot-in-russia-turns-violent-mid-match-and-breaks-a-7-year-old-boys-finger-3781162"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 39
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOmE0NWZlMjBiLTEyZDEtNDg2My1iZjQxLWUzMWZiM2NkMzI4Mzo3NWUzNGY4MS1jMmViLTQzNzMtODE2MS00NjdhNWU2YjliOWY=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "5HLdR5R2fPmaclz8+WRd4LBBbTxa8bXN2XhMNgYvFImfAeYueH5zHyQH+7H7rJwI7nqg0cC4hHENeot1SujeBZk2ISOcnCUBIn7D2S3lBiPokacpf84rdWCLRstIhamZkJO4SAiw8UAX9aOlT29hiq+BQ3Jbwzhk3S1YNO8GLXpxx/bx/cBmdUVF7UAxIaUSbOnnGNmSwQd4vXaE9Hbl+oj3JM+p5FyrUtZyZU3BDV/i0xu19Q/49B+umbaLuZE/npIetuaz076NlwQigfgp4Ej2EkYPclNr4hHEJEot/ZXD5/uMQH1uRONITs+K1I6+OY45ibXvqj2/eYWJhrlTICLtBim7nHZSEOTS3tTlSAM=;1VSMQId8E2JVeWnHH7pOQA=="

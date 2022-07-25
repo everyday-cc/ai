@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/news/your-nvidia-gpu-could-one-day-make-
 webUrl: "https://www.techradar.com/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -29,15 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "AMD could be cooking up its own Nvidia RTX Voice GPU tech"
-    excerpt: "AMD Noise Suppression is supposedly in the works, as a now removed video outlines the company's answer to Nvidia's RTX Voice graphics card feature"
-    publishedDateTime: 2022-07-22T11:54:00Z
-    webUrl: "https://www.pcgamesn.com/amd/noise-suppression-nvidia-RTX-voice-gpu-tech"
+  - title: "Nvidia AI Enterprise 2.1 bolsters support for open source"
+    excerpt: "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases."
+    publishedDateTime: 2022-07-25T15:00:00Z
+    webUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/"
+    ampWebUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
+        width: 1200
+        height: 748
+        isCached: true
+  - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
+    excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
+    publishedDateTime: 2022-07-25T13:20:00Z
+    webUrl: "https://venturebeat.com/2022/07/25/how-nvidia-is-helping-telcos-take-advantage-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "s95RJBxVXsaJoHvfyZ2M5fcZvEpuHyUBctQ5iN2b4KuClX8a+Wjjkwmh73VMM2FCz0hXCzGh8SxB+VWOoO66spyln1F8IOdc3XQDYs3EUouKb/Pmee0pubdAD9vRvvIm7EV0X7Z016FY+yY8F68FyL16MI8psGKv7BWdMT3QmBz7SjErjS/0CUzamsBkoRpFcVUT0QULgE/TdRMRQKCFmd4o+/1d764tcI9kindr72bHVPVn+vn4iZ2gvooIeFNXAdJ+5bvr03rYldr+j8fCPuigpHTBB3/sd2N/tOkYgfX/dtSMyeeXoQnAX+yaHAJA+EW6KD2/LUdOuFgEHtpnH7MjiXrVm2HCybHnEtr5Te0=;37HvlETQ0dpFqOhpkpEMCA=="
 ---

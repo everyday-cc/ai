@@ -75,6 +75,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Rogue AI? Chess-playing robot in Russia turns violent mid-match and breaks a 7-year-old boy’s finger"
+    excerpt: "The controversy of ‘rogue’ artificial intelligence (AI) has stormed headlines again recently. This, and other events like the Google employee who was fired after claiming Google’s LaMDA AI was sentient, have alarmed many. In the words of the European ..."
+    publishedDateTime: 2022-07-25T14:46:00Z
+    webUrl: "https://www.scotsman.com/news/world/rogue-ai-chess-playing-robot-in-russia-turns-violent-mid-match-and-breaks-a-7-year-old-boys-finger-3781162"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 39
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOmE0NWZlMjBiLTEyZDEtNDg2My1iZjQxLWUzMWZiM2NkMzI4Mzo3NWUzNGY4MS1jMmViLTQzNzMtODE2MS00NjdhNWU2YjliOWY=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "vRz4ZtABINYEGzTWs1igDLUkdYbJN6kpkYFuEHi6A5ttiv0ivFs8cZk0ZvFjcGli2IoJM60H5lIn3WPTVGhvGG1xk5nev0AEQ7BcHkc3YCRodqsJmMQ8tWiSP4SE4JOXXjp4REHEhhVW91b9wOHhaGKnyCwjH1UdmOW0iY9ar65afoIiOyIH1BCZBlykDp1o5uMhGWtBQGa0oVAh/3443UzFzbjP/wcKu1L1jU5jl5gniMYFL5oGoHKS+AdO1UXlTjmh/i2SqWdWZFS2N0/Fsqr9HupdaCncYltrTqSYLEvjyNvJ7iZN8nsquqXby3rg8a8a2m7x9JfDfbu6W2hE4uWGI77EjVy9SFD0GlRW/QPOL692On9S8S6+lKnK90NyBUkF2duxpmxfjsJU4behlQAgNmXPdbjWw+2RL92L1/gSypegdB9+rnLXL3zst+M2EZrqJ7UidWh7yCyE0kPMu8H6FhGMyOe1ucgQF6VpvLNzBj190w6Y6dEPxrYkqHO9Hojsbr33CdeVMDZC0GbK6g==;jpei1QvnTaMwjXAm+BO34Q=="
 ---
