@@ -2,9 +2,9 @@
 category: news
 title: "The ultimate retail experience starts with facial recognition"
 excerpt: "This eBook will explore biometric technology and how retailers can leverage it to enhance the customer journey without compromising trust and security."
-publishedDateTime: 2022-07-22T22:36:00Z
-originalUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition"
-webUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition"
+publishedDateTime: 2022-07-22T22:34:00Z
+originalUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition-2"
+webUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition-2"
 type: article
 quality: 54
 heat: 64
@@ -40,6 +40,6 @@ related:
         height: 734
         isCached: true
 
-secured: "Zbj9n00ufvNav58IQrVdU/m0eC+Dg3cV/WRUspXy8W/lUFgftXawXNPKHOLa17ab5vUwb5NwS4ZIPrqKIJEMN3yZsU7JitcV15lBU5Z15aFMaOZ7FbHnnJhcXvNL1RyeDPQNPE9eCfb7iJb5YxgRhfUTH4hHa/1RtyEsNCUHNfUmF4fst4aI7nCXlOpxfHBxlJyiL1ryt2cQ7DZVN5acoj5Heh4Z0v4mQ39CQzCv/uPkohHvHSBKvsN5aZWN/I+tKlg8reakbm4fESOsLqU/GhE/EwqkxzBhYiOnytHZ21YITRnhAXOa8LjixBFO4TXXDJKY+u7oIRUN6fp7KvRiU9uM34QZ3arFCtS3I4MdsMa/TQOTlwNfhdueFQoNAUOCdbDfEgcOU5PELnOzYfJy4OReY4+Nz9J4Lzarw8vP58eLk1DAA+QUfT2uDusXju4LdwIkFcf14zqU3MuL+q/3MAgXQ8iiQlHUWvVf/xW3CA5YpHT8pgyvOoNuh5RxyQbiipfjVQeZqEgvNPRZlBeUgw==;sG1KXARW9ENB2HE0QrbLqA=="
+secured: "Q5bk/AXJ35QhBYo4+O7X10mB/SnkAR0Xo+QI3QWR0ja2eEKpLXavVsL3qoiXlEvkXazaU+ShRlGuOygC/OfB2mTMKonqsEPVa1p72qWdqxJjmVhXDVjbx6cMtLVpR24AopDgEXIrm9/pXTcxyYPuWS1tfL5CxeEC+x+tToA3IFd61UbYSKhKHxf+O8vvf1V8JTA3Y7d87YDOa3g2NyW2OQ6RBexBXzfEDkBjrO6yl+Hj3I0/c5SzwukqqfaPqfsoZodkrZdtZQzD6X6VPSvfvXVeP4jLXlfbjeWoEzG30wa8ryrXBJgqAqXlp/p5B5osondkE+Zw7uqqI+SV+xCQnhop7b6rKKN0qMlN61oAPUc=;mUzFQOH33okr9UHoIegOsg=="
 ---
 

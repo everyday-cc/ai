@@ -1,22 +1,30 @@
 ---
 category: news
-title: "A 75-year-old Harvard grad is propelling China's AI ambitions"
-excerpt: "AT a time when the US and China are divided on everything from economics to human rights, artificial intelligence (AI) is still a point of particular friction. With the potential to revolutionize everything from food production and health care to financial markets and surveillance,"
-publishedDateTime: 2022-07-25T00:38:00Z
-originalUrl: "https://www.businesstimes.com.sg/garage/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions"
-webUrl: "https://www.businesstimes.com.sg/garage/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions"
+title: "A 75-year-old Harvard grad is propelling China’s AI ambitions"
+excerpt: "Andrew Chi-Chih Yao is one of the most influential figures in the field of artificial intelligence and his education and professional life have straddled the world’s two biggest economies."
+publishedDateTime: 2022-07-25T05:31:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions-8049798/lite/"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Business Times
-  domain: businesstimes.com.sg
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI
 
-secured: "QFxCLKTTFSK5Yu418tblXcqz+RyZcj0lPXQtNhzNrVxx8Rzw9+OLZZMfVai3LKFoxmfmS586k8njI+Jcjn+jYuA5zBM2dQBRCq6C+EHfI4GdSQHnavKtlaQ4mPUQbDziUoKsZ/6LBBFtPDYIoi24LzWuBCsFCX3ryK++ph12m3xoGb+iF56msp7xsIB8Ta2MAVYE7g5KWzGy0OeoLA1nYshkuwMBBWu5v4dGO+evqhvbFjlUSNj5WRsaTvlsuBhvfnwoqJzot9IAroN1jI+At1Ir5uO5ngiygq9Ivempz+r2XsgioaUbpyiGfqGanWxliAS/wSP4C3BxZIOm1OD5BM9GcCcxaqXdokb7+RVkHSBqtgkmBj7GbIStORJYB/NrBnZDi0f0FmifGnSFWDjlFgRnk5ylQQKWWWbaYWhCQx5rbmAi4MbvL9rdL6aeCMRwl/3EAi8T0SzvquC8CQES7Zy1kQLpEWpVSY7GaxQrwbvaEN0ufR34tVmZEgvdxI6d0fS3eSqN86H7RDOcsCUHzQ==;PKBSJb0lckIiq0Om5jjiqw=="
+images:
+  - url: "https://images.indianexpress.com/2022/07/Andrew-Chi-Chih-Yao.jpg"
+    width: 1200
+    height: 667
+    isCached: true
+
+secured: "MUlh/Kv6fSHGGJ9Z9iWVEDX7MKFue5lWXBrbbkVG7SlOIh7m2c+Wl7cG/aKcojDz6oIEc87mefG7oM/r4Nb9bc5Tq52PHy/demydaGWHYdlvcLWaPbhkS45ti3UB3MUNepwVXzdt/PB7JaBRHfb+m6TOtCcDH/GrfEVsApT4I7ncMSjXaUSu/QI/tglKI+B6sFXUDEHN3qAjr4oNbpDm7np+pzZlnHZAIXLBdlRC2n4hZqJD3rH9AwV8CKRTSVTwI8LZJ0Ru7Mid6qOJkSfzU72iaDJsQBk/mVRIa+pR5K6ixf4EJ03QGxNRsoVdk09b1oJwsu0NFAwbmqavyEerLcnCaEJGrLTtIxI4c6tJQk0=;cWQhA+f9iaHIA5oMFfQP+w=="
 ---
 

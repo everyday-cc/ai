@@ -26,6 +26,22 @@ images:
     height: 594
     isCached: true
 
+related:
+  - title: "Computer Vision Market Is Expected To Grow High CAGR Of 16.0% By 2030 | Top Impacting Factors"
+    excerpt: "Computer Vision Market The global computer vision market share was dominated by industrial market segment and is expected to maintain its"
+    publishedDateTime: 2022-07-25T04:23:00Z
+    webUrl: "https://menafn.com/1104583417/Computer-Vision-Market-Is-Expected-To-Grow-High-CAGR-Of-160-By-2030-Top-Impacting-Factors"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/24/EP_7bae1image_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
+
 secured: "k/a2VRCIrhGltVFcIEXIQKQL8C6hj3ZmDfxPpTfUN5iV+6fFq9QqFwbRbV3G4rD1Jp3CinGKGAr5vol3spXjCg2Qq8GPnQE3RIV49UZQI6+aXczaqNwbrjWFxQjqJ5SVUUI8Bw8mRAa9XfGIgAMpqAQuYhR9ZEJ/ycFqx+fHISBLwSIkF5PZ60iK150VuqRKbrQRUgIIhWmeIsccBGQfrXVtZqo6Vn7t43IWjzsLOorRp/hMW3MCreMjcJtZiIBlTFEjy2fq07OLeah3tvNqJ4RA9h47ZzCmlYcPkAclfMDnO0sFlQrjYqL+v+6aN7NP9Bh6C3qoMkTdqy+NUMcdFHjpWdaKpGyAiZ7NBViFj2Q=;yhvH9+sMW102VU7VcT7Lgw=="
 ---
 

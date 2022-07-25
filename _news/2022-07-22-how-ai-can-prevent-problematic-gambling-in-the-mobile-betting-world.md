@@ -74,24 +74,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Floating Plastic Litter Detected, Categorized Using AI"
-    excerpt: "A new AI technique pioneered by scientists at PML uses images from a vessel-mounted camera to identify different types of"
-    publishedDateTime: 2022-07-20T12:52:00Z
-    webUrl: "https://www.marinetechnologynews.com/news/floating-plastic-litter-detected-621239"
-    type: article
-    provider:
-      name: marinetechnologynews.com
-      domain: marinetechnologynews.com
-    quality: 19
-  - title: "There’s no AI in Identity — Yet"
-    excerpt: "In this special guest feature, Jackson Shaw, CSO, Clear Skye, discusses why it’s still early days for artificially intelligent identity management. The article explores what needs to happen in order for businesses to start realizing the value of AI and what is possible for the future of identity management when backed by real deep learning technology."
-    publishedDateTime: 2022-07-20T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/07/20/theres-no-ai-in-identity-yet/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
   - title: "AI speeds sepsis detection to prevent hundreds of deaths"
     excerpt: "A new system identifies patients at risk for sepsis to aid in the prevention of the illness, which is often difficult to detect and is one of the world's leading causes of death"
     publishedDateTime: 2022-07-21T15:01:00Z

@@ -1,70 +1,26 @@
 ---
 category: news
 title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-publishedDateTime: 2022-07-20T10:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
+excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication"
+publishedDateTime: 2022-07-20T10:41:00Z
+originalUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
+webUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
 type: article
-quality: 22
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_966.jpg?h=7de12b8a&itok=V6tWttvy"
+    width: 600
+    height: 316
     isCached: true
 
-related:
-  - title: "Unlocking the power of AI with Decision IntelligenceSynopsis"
-    excerpt: "With AI algorithms, organizations can remove a degree of human error from decision-making. Algorithms can bring new patterns, insights, and trends to .."
-    publishedDateTime: 2022-07-21T03:13:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/unlocking-the-power-of-ai-with-decision-intelligencesynopsis/93017767"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93017767,imgsize-374886,width-1200,height-628,overlay-etcio/unlocking-the-power-of-ai-with-decision-intelligence-synopsis.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Genesis launches AI intelligent quantitative products"
-    excerpt: "Recently, Genesis has launched AI intelligent quantitative products. GENESIS uses AI intelligent quantitative products to apply artificial intelligence technology in various fields, logic mathematics,"
-    publishedDateTime: 2022-07-20T16:47:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-5723460754de3c7ce61d152c61b4a1d3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-    excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-    publishedDateTime: 2022-07-21T03:04:00Z
-    webUrl: "https://www.newswit.com/en/Lin4"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 2
-
-secured: "9/KEWdRB2SiGd/BGeUzHQ2pRN+FTtaChPeEUDU7kxtki5MOjvtZaGH49GPj2iAeNpuKFqA3MearmUudepFZ0TyKnaejuZnXvdbEVa1nHQoQ7GtCrxHkJtc5m9rnVXxArC/eBbGsMLJNxw1bY+CQ1vSmrrYSq3sYopfWRRFUNlIIfA/cLAthE+/P7eBp9uvuFY1u3O3km/6gZtIgRaHpnCVqmn0d3HgTsF4+axoj2L/uV6MEsLgSLeCUsP6zScxGUILIVaK2byWlEjpX55NbwBMSgXobHMxTNGC3jxEE8/fecNqP4J1cPRUs61aGR21bxndzXtp1D4/FItkRCXfK/iEyfgg1oQt5lGYyNhE5+F8M=;REqRa9xwOveK+IabBNHzqg=="
+secured: "WQYk5A1Tei0I2v6F2Jg5P6ampe+/55EYhHKAg2fC8ICjQ6nVTVkJn04z4dbBB99YQm66VLHxxDGz4D/ran8icX4AJ5j3CBIpung0T9Om7oRnpoJC9xOMrri+6E+aGylfLcW9PRpIzMMbovrbyhWjX988vmT62+ISx+Geh4SFhOqzO6ZmFvMLR9h5tLooEjsnbiH/+3sksbGiVqSDvYRufASnfdVAYagbO15kcz3VpnpBFMgKLA2DOs9ytMRmdPd0zcjTk0YydNSguEQX2KhOrvC2l45Ajt6Ql3PcYs0vIbu18S/qDFHW3jhxDDZKTFFl9R72BKNBJeLEuB8UNgeqEbULxIayRUeqClU1kueA/tY=;HFf0T76NiScGtc2NVlNmKQ=="
 ---
 

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Bacteria-based biohybrid microrobots on a mission to one day battle cancer"
-excerpt: "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots."
-publishedDateTime: 2022-07-15T18:00:00Z
-originalUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
-webUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html"
-ampWebUrl: "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp"
+excerpt: "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells."
+publishedDateTime: 2022-07-16T15:45:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/07/220715142115.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/bacteria-based-biohybr.jpg"
-    width: 2880
-    height: 1383
-    isCached: true
-
-secured: "pwzk8ZwPEh3Qy+atNpqxTa5Xx+KKrC2nVKZE+GZMJDM503wxUGOr9CtUhH/3UxsAjAro4y3M499ZALxqzlZNlvrnWbQ2YhIszMjCr9HM56Aa0m2Ru3E0rtGoACJgKiBbCcmRQ1nWGgvtncBtWF2lpJjZgqgMMm2IU3vk4g5K6RXFHYcSydXc0mhpAPCg9eSVA2I3PxxIDDt0nC1PuVKsIScc/4Qzf8NKf4AwcykjJ2AB+JnW23Ab7Qc0cstWylsSj7I37o/mfVSQvhswW75X/5lb+VR3T2ta4FvEU/fIoANT6flzd7bXPWUmqyci2LOfxTb71OBaGyTM8SInwEdk7z5PiVnLKFihIi1+HTGNK4o=;0zQpCcopyv7wfDgDDsL0/Q=="
+secured: "HgBqVNkzTz0BZoOPiLvKCHBi8EwzrKmAP8v1iksrObacHhWS8/4ZLZqtYQYm+D6+gy8sqW+m0bpyP50HSUnTHF2IBHqHKYUPPmevN30AJnxMPZT9WlT1N87sxK/DjYPYCFNgwdmWfYmFvUKbYCP/NpTCokDsHqAiq8FOytEJub3Rgd6aAYfSHd/PRG38a3bbW90dKTwf06rSR+eFpHaUzygmtuBzvQolb/T97PgpxqJw11rlz2L92EHt5VeRnhO00scqR4ua0UPpYflQ5V6zsOcqWEqIuDWTETCAcg8mW4wY3Qr1D8Hyadi8VwWgHLJm3SRHT71GSoDQ7ewxUgiCJ1UT8p9SOsIFYXTZk1nLg5A=;ef6gCmWFBzB9TofQf9AH0w=="
 ---
 

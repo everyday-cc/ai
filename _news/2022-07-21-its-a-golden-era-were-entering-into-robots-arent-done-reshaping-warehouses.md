@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Making Smart Warehouse Robots Smarter"
-    excerpt: "RIT is developing an intelligent materials handling system for warehouses that integrates smart technologies including LiDAR sensors and artificial intelligence."
-    publishedDateTime: 2022-07-20T12:09:00Z
-    webUrl: "https://www.mhlnews.com/warehousing/article/21246794/making-smart-warehouse-robots-smarter"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 19
-
 secured: "c6TEhe4F+u91Xfi7MlWMQPxkhP2LE+nIvGp7220m32vlOWRC3Equd0evT+pdcEKaGv+V10fct9jxMybHMTo5Hk9D4cMnIiy/vQtW3aQ0pd0NimYt02BtrodYlsaYXLvhl/rJ0YV7vuB8mkfkGukepb0F8gfLHUfDD6fHARe9YmzWOlvBSPBEcawk9sxxaX0u9ZFH+uGW1z6DPMblbjnEe+IVch7ekaSEWij+9VUKY5sFJPeFv5XwFDtLiXvjbAg9I4hFySIt3ovrN1smrU/q9q6Pwt1qYzlSMhLXfx8t5HoyBq+5MIhgrzSI9OyJqvIEjgr3ezNLLc0NQsiWTIBZ2LMvuO+i+0C/TYdnCtzbFAmedavzTL5aU6JIr6KJRgykj3URKaEAH7yv/ohq/2/XcDk0/yK8GulSMTd78Aqmxm13q6J7wGjxA3iT0JWArzQlTK83UHTH9WtvfaaC4JL5dGPRj3n2Y+OgufBK/AAUtdBRB4Bo/LvdEdGqFX3xeQQ5jyYQOSpobbavwoYShPfxJA==;ShFp/27StFDYFfk6cmUBkQ=="
 ---
 

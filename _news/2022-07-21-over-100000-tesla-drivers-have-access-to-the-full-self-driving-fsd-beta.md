@@ -129,15 +129,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Amazon-owned Zoox seeks to test self-driving robotaxis in California"
-    excerpt: "Zoox is self-certifying that its vehicle with no pedals or steering wheel meets U.S. federal regulations and is applying for a permit in California to test-drive it."
-    publishedDateTime: 2022-07-20T12:25:00Z
-    webUrl: "https://www.autoblog.com/2022/07/20/zoox-amazon-autonomous-robotaxi-california/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
   - title: "Elon Musk Hints “Full Self-Driving” Is Coming “This” Year"
     excerpt: "Tesla first started testing its Full Self-Driving software in 2020, giving select owners an option to upgrade to the service, and now we’ve learned those vehicles have traveled over 35 million miles in under two years. Furthermore, this data has given ..."
     publishedDateTime: 2022-07-21T19:02:00Z

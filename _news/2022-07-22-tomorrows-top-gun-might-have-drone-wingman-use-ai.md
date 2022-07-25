@@ -40,6 +40,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
+    excerpt: "In the sequel, an ageing Maverick, now a test pilot, learns the top secret hypersonic plane he’s working on is being cancelled so the funding can be used for a pilotless drone programme. It’s a debate that’s been playing out for years in the real world."
+    publishedDateTime: 2022-07-25T05:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/25/tomorrows-top-gun-might-have-drone-wingman-use-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671568.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "htM3PqBuJ8t+bUwSND9yeU3fohTYKKVwfp42dvOfpJ0iqTuh/5zWmdXd8udQy9IAeKVPq6boSJ3GG72cJSohQw/LhcQLX8MWS+Ee8TiY8Jpqtonl9oLVnUXf6J+QPB3tE4VAubP4f89LVJtO1WKxOi3l0OUybjTrCrN6vANdkuT/WCVa1W5pPstRDFOjJU02yXP+URztC0ZgQdsQuJFtCdZxo6bZZdeJfg8oqC/VvR2Hvmd6cCZIzyOV01z1Gr6whQvZzO5T6Vl48SbWC5e8Z5j/7MT3WH83KD/7KUEFX6DCV0pD83miOyBeHFZ2yFC2WnZBTUJM0ONAi19Hfi4W47vr7y5ZbEedbapPx1M4Lzw2KMQTtCo7DEWYZlDShbNcxkj7HUlWVm2pX1myNRvnP1vfIEfT2CAjWDpsEu85nE/6ZO+7Fs4PgCNVxQGscZ1ilxxgnjhABdqrC04Ztusdc/88PD/LyHSKAMpWN/ptSjdcrpJk/7l7iQMtUjVhIS7yms5b2NKqsIGLYkeQjfhHAg==;iL1u0QogQWWANyZMGmcKkg=="
 ---

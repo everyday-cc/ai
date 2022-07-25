@@ -28,16 +28,16 @@ related:
   - title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
     excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
     publishedDateTime: 2022-07-22T15:41:00Z
-    webUrl: "https://heraldcourier.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_5cbd262b-48a9-58f3-80ae-632a89397096.html"
+    webUrl: "https://magicvalley.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_be2f69b9-60a0-52ad-a59f-902e9de0cb3a.html"
     type: article
     provider:
-      name: Bristol Herald Courier
-      domain: heraldcourier.com
+      name: Times-News
+      domain: magicvalley.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/b/e2/be2dfb4c-1024-5682-b5f2-6ce1f9897545/62dad7e1e6a53.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
+      - url: "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "UvUvzilMxokz1MCyVpL8sX7z1GhHtiotpIKWPROkm6Z379Zbr6d7Xv5xA9U142hlOddkEoYM17Elfa2pVi+AZ0cvcSGVn8MUTU/7TpeYfIZhA2CcbIaAP2OmQjbe8+ayDJQuq4RnAw6xsMHBdIJxmO18uFeenSrdITsTAUqaCMovAY/CBv4uBEwTVL9uBp4cx523MEWgmHd1xHy7IK4X8eota3NW/Dk2NUp6OPmZ45uMoAYFtVBirFBJVFg/rE6ApkyzjqzNYc4FYSLpldXk+g0rLNm6g/KDA304tBwibrp1zMWNlMmjoH8Ic8VdrTqu9RFTOG/r4J07n8xWa/iFHYfLAlLOi8a/iKfWkSQJjUY=;RkRPmlm7Gfv3I48H7v8X1w=="

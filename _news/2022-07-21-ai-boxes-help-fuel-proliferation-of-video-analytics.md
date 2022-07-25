@@ -33,15 +33,6 @@ related:
       name: Realty Biz News
       domain: realtybiznews.com
     quality: 19
-  - title: "SecureKloud Technologies unveils DataEdge, a first-of-its-kind AI-powered data analytics platform"
-    excerpt: "SecureKloud Technologies today launched DataEdge, a cloud-based data analytics and AI engineering platform that enables enterprises to power insight-driven decision-making capabilities. Coming from an undisputed leader in the cloud transformation solutions space,"
-    publishedDateTime: 2022-07-20T12:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d1c586dfb2427d236191c2b10c57ba0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
   - title: "SecureKloud Technologies Announces DataEdge, A First-of-its-kind AI-powered Data Analytics Platform"
     excerpt: "SecureKloud Technologies today launched DataEdge that enables enterprises to power insight-driven decision-making capabilities."
     publishedDateTime: 2022-07-21T12:22:00Z
