@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
-excerpt: "Fibocom (Stock Code: 300638), a global leading provider of IoT (Internet of Things) wireless solutions and wireless communication"
-publishedDateTime: 2022-07-20T10:41:00Z
-originalUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
-webUrl: "https://www.asiaone.com/business/fibocom-launches-ai-smart-module-sca825-w-unleashing-potential-aiot-superior-computing"
+excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
+publishedDateTime: 2022-07-20T10:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_966.jpg?h=7de12b8a&itok=V6tWttvy"
-    width: 600
-    height: 316
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "WQYk5A1Tei0I2v6F2Jg5P6ampe+/55EYhHKAg2fC8ICjQ6nVTVkJn04z4dbBB99YQm66VLHxxDGz4D/ran8icX4AJ5j3CBIpung0T9Om7oRnpoJC9xOMrri+6E+aGylfLcW9PRpIzMMbovrbyhWjX988vmT62+ISx+Geh4SFhOqzO6ZmFvMLR9h5tLooEjsnbiH/+3sksbGiVqSDvYRufASnfdVAYagbO15kcz3VpnpBFMgKLA2DOs9ytMRmdPd0zcjTk0YydNSguEQX2KhOrvC2l45Ajt6Ql3PcYs0vIbu18S/qDFHW3jhxDDZKTFFl9R72BKNBJeLEuB8UNgeqEbULxIayRUeqClU1kueA/tY=;HFf0T76NiScGtc2NVlNmKQ=="
+secured: "LugtcGRFJASc4h046ZdgbTwaFUyVT3mPDFujq9P6JGzSdCeSlILR1Iwa8xKUpnAqJsXR8kptqmT9X4MWFFj6A21l2kRGSDzAnrJN27gYJlS+lh/45stXjEaRohEWvd6SgboS9vmua/to9IH9fDcuWapjON4Cka+pTVjT74yy6r6g348mmop1sX28gmyjKdJFE1Xw7On7xVIWVtuVYc2K+hm7FNDf+BdZboyC1bMJIqqwHIr62jMVrQNuE54ssVsYYKU07BiNfgmmbkrKgJ5eXkb+9bEmWTPwoOIwVpIhwgR6n4oX+vbk79xswDVmq+c9SRKEyUlLJ58kPXF35naT8RfT1mNiKT1kVcpzc9PfVTk=;W6/Mes9C2UvxIQczoio3xQ=="
 ---
 

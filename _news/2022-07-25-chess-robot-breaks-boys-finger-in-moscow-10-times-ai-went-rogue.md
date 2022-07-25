@@ -59,6 +59,22 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "Chess robot breaks child player's finger: Video goes viral"
+    excerpt: "In a video that is going viral on social media, the robot arm can be seen reaching across and grabbing the child prodigy by his fingers after he tried to make his move too quickly after the machine had captured one of his pieces."
+    publishedDateTime: 2022-07-25T08:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/articleshow/93106566.cms"
+    ampWebUrl: "https://m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45126,msid-93106595/robot.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "i9VPX3aJTXXxF/fp+PcNEUvuQwxSWGlhakl1GlrapxYk50yI2MRuOvRa3D8uW5/ueJsew+MPjpkdwEKfeKrk4fVV2xPd9VFL0iFEimvFtOyT1tJQaZEgF9HzpNNK4LMJI0ReGtsavnPzf1mhrbYueLP39SN/rHVwMPx3BzcSahyJN5CNqRzCGGw7C822o62ivD8OlPmnQmFEoUThrn9ElI8ESOF2SfJrhBwgyBN5u4yRtuY3ytNTYVGFSM+zIYIU7SHLgpzeFyeJhN2aEYfQCg1DBR5aCasyicE3mp9CmNe8rU9KX//fdbNVQlMz+DErrWCqqWST32WBydwOflTbSApVY5VbewrnxavVqjSnX5o=;+rW26323/CPFwvrF7RgIQQ=="
 ---

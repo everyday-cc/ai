@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/07f4f50/2147483647/strip/true/crop/1908x1080+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2F41%2Fb6361b5647e8934b3a072100a987%2Fputin-thumb.jpg"
         width: 530
         height: 300
+        isCached: true
+  - title: "Chess robot breaks child player's finger: Video goes viral"
+    excerpt: "In a video that is going viral on social media, the robot arm can be seen reaching across and grabbing the child prodigy by his fingers after he tried to make his move too quickly after the machine had captured one of his pieces."
+    publishedDateTime: 2022-07-25T08:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/articleshow/93106566.cms"
+    ampWebUrl: "https://m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45126,msid-93106595/robot.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "5HLdR5R2fPmaclz8+WRd4LBBbTxa8bXN2XhMNgYvFImfAeYueH5zHyQH+7H7rJwI7nqg0cC4hHENeot1SujeBZk2ISOcnCUBIn7D2S3lBiPokacpf84rdWCLRstIhamZkJO4SAiw8UAX9aOlT29hiq+BQ3Jbwzhk3S1YNO8GLXpxx/bx/cBmdUVF7UAxIaUSbOnnGNmSwQd4vXaE9Hbl+oj3JM+p5FyrUtZyZU3BDV/i0xu19Q/49B+umbaLuZE/npIetuaz076NlwQigfgp4Ej2EkYPclNr4hHEJEot/ZXD5/uMQH1uRONITs+K1I6+OY45ibXvqj2/eYWJhrlTICLtBim7nHZSEOTS3tTlSAM=;1VSMQId8E2JVeWnHH7pOQA=="

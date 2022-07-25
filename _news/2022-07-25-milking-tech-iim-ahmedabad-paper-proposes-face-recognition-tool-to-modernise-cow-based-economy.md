@@ -43,6 +43,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "GAU Vision App: IIM Ahmedabad Paper Proposes New Facial Recognition Tool for Stray Cows"
+    excerpt: "Cows are considered the backbone of rural economy, but face neglect on becoming unproductive, and now a top business school has proposed a facial recognition technology-based development model integrating stray bovines."
+    publishedDateTime: 2022-07-25T09:44:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 51
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93109079,imgsize-100,width-1280,height-720,resizemode-75/93109079.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Milking Tech: IIM Ahmedabad Paper Proposes Face Recognition Tool To Modernise Cow-based Economy"
     excerpt: "An IIMA study has come out with a model using facial recognition technology for stray cows to link them with donors to achieve cow-based development."
     publishedDateTime: 2022-07-24T03:56:00Z

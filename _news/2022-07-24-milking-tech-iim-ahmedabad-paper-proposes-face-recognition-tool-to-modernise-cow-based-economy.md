@@ -43,6 +43,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "GAU Vision App: IIM Ahmedabad Paper Proposes New Facial Recognition Tool for Stray Cows"
+    excerpt: "Cows are considered the backbone of rural economy, but face neglect on becoming unproductive, and now a top business school has proposed a facial recognition technology-based development model integrating stray bovines."
+    publishedDateTime: 2022-07-25T09:44:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 51
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93109079,imgsize-100,width-1280,height-720,resizemode-75/93109079.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Milking tech: IIM Ahmedabad paper proposes face recognition tool to modernise cow-based economy"
     excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour OSTPID Times Internet 1 Year HTTPS used to sync accross portals fpid Times Internet 1 Year HTTPS Browser Fingerprinting to uniquely identify client browsers Cows are considered the backbone of rural economy,"
     publishedDateTime: 2022-07-25T02:19:00Z

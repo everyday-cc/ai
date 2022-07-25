@@ -89,7 +89,16 @@ related:
         width: 1503
         height: 999
         isCached: true
+  - title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
+    excerpt: "The investigations followed a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording ..."
+    publishedDateTime: 2022-07-25T09:20:00Z
+    webUrl: "https://www.cairnspost.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues/news-story/02b1f7b37e92c3df4630a48053623679"
+    type: article
+    provider:
+      name: The Cairns Post
+      domain: cairnspost.com.au
+    quality: 11
 
-secured: "E5F5oNYlqZCOcqwweuL3rrTuONgHkhsqv84Ho2utNLq9KDUHicNrv/VJjQ0kH66vSmAhxxd2l2IL8ia8C4Hg3PswKrI10DB9ZvmnSkG1C7ldmlEagZ0DibCw0vfCD4kOEjrpuFLbgYoDWVXwcZ5RIGlKxzG81JET0kVkln7Th7zAO/gBIFpxKOdse0z1rfJJpUQjN7K14YLKSZ2ijcOJha1BjiCGyODtPWgfyOpg9TVJtTVxThP2tRZsJUhBxZp7iqWRrzODa4uud4EolTLlcGxqJ/TMiVBhLDCOQxmnQ8XQnI92jHdOKmSF6zCWycn4+spqOpK4z8ThLt86fx+oflzQ8OyxY+XDJ9+ue4HAYCc=;QPcdQvxpYvED4izRDMyUSA=="
+secured: "aPYrtKsZfsyJK26mX5tgqbpDYhl8IvYPdUng362FaBi6qCI8Vi9IEu91tEZ0lScUs4gXxIyr0XODMiiqIL7NVdpsNuxgisKIlmwpmpcRa0o3Pas8I6fTu2JNUb2Dt8Wj+LwDBsQGrtqUpW6ywOu9QGE3vkyCfjbtlgrm5Uj1hmkDYgDrIThft4FIXk+eSqzfGFaWdgQ+s2wWnyhFQ6OewHwbHJJD107mjw+8dFN6B9lq3xcCyy4C2sPNin3VhN91f2kVjAexxamLSCjxUuryiLGM96BCp6JHu8hXhEuSc7fYDb+L77ut0HgB13Pan8X/eF9fK3qe+dF0+QsRfjNYvq51lIy0fsul8Bw7Jz87e/Bp3CD/3gtJdg05SYlLTFl8FPqoPXLksx8jkzgMxm2hHHiz8RQ8Iqk85uTb2VVnYuKjkn7B+/dQYa+uzYYXnP1AzEJL+7lSnrRilVZav+5BQ8efANwWupxh7QDYuMqCaz5IDTNYCzP86qBPJdPzxB9wdK+7ozAd/AzHy0/ecrS6VQ==;bFV4i1T05fUgkMS/LOcorw=="
 ---
 

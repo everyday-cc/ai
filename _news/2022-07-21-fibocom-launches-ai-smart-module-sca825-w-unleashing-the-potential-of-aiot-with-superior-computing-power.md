@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Genesis launches AI intelligent quantitative products"
-    excerpt: "Recently, Genesis has launched AI intelligent quantitative products. GENESIS uses AI intelligent quantitative products to apply artificial intelligence technology in various fields, logic mathematics,"
-    publishedDateTime: 2022-07-20T16:47:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-5723460754de3c7ce61d152c61b4a1d3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "QOlCEZJUpFItjLLcLGo5OgGe2SwkGQk02yMHPfjKvQnOPl844Hik28kPT4KwyUIKyotXITZmm34Vv47yHnpQIoEOC0gZ+Z+VmDzB6O4cl1GmnCxx+V8T9LqrTPZHiwvOYlq2CjJmsmrk5CmJI5FkMBTDaOS1XAzAclkVc4KPJ7wd7DeRZl0EfDl9v/jxGOdjIV+A6FZLoZQiCbwJcvUrhkny9DcoCbojFWeDxyKV+2p+DiW6j0h0qKV/NpCXA1Ugmuw9v0513tjNJyXI8Pf3+AawYnEJ2q//pUxukizHl0fn/JUBpq/PAeBU+SF7f50l3F8e1EK4UKT0XSMQ2foRv+Dt7/kZxqCM17+SDYQ8vgs=;7ZShU1zYtWVTjNtXxZDsig=="
 ---

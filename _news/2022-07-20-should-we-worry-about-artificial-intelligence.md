@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=trending_now_opn_6"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=trending_now_opn_6"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-586525/social"
-    width: 1280
-    height: 640
+  - url: "https://images.wsj.net/im-586525?width=860&height=573"
+    width: 860
+    height: 573
     isCached: true
 
-secured: "G1XHtCdE4or84sv375USAkj7O/8hGVI7790wyqXrOExWnMnBBNEc6AMWg0Ej7odrc/nsiat1+VGYStj77txBx1B/04SGKDxCJzh8oS1whKNM+LwLO9HnW9zwVX4eH2f0IrnCmB4bQAyVT2rfF4Y+3GhlqTnI3kaEuYjaWqk0m7L8W+6T10ZD0zTIMLa4i7ih49g/KfBPRQQLFMZ4KQOL/vvaDWjW8FekzishdllWLERstaDZfU/nvL+1o0y/v5cm9Jinx78VipgBrHpDcN+FfbrMJT7F23GoiqiD0A5W2OICmUgmksOCzTuIC6ZD0naJYs+xvvfMkT7nLatTrhCk/vZui4FrdWevD8x0/Lh6ftM=;DNqVTXnT6lbmD1tO/6m4jg=="
+secured: "X1oQ+Y3cI32nbxk5Ty2I5NWoRJ7NWaNmia9AQ+jzwl9n2C8lcAmEZdqx4NOGL74BSxB3K6G3Dgej9Z8GDF5xp4m8avQG6UlJQIIFAue44RAdCg48ximqWvK2PEsgh6fAChxdQO8jS0VnNyUuYk0ijVhuj11Bi00KWrA8gEMG19Y91KMgdAfPEzT6wq9W0QNh8JJ7Ujk9rcKEVFXx5kTXRmwsQluK2m0dWEhxtFP/eGg5SfoY7pf1gxUyO0atypow1P/SmoYUqAAtFVGVz080JVM2OfIPKHrwaYOj2Go96WzzWTFrUjei23jQNhL8k0NjpQ9NfMFNizkFjidS0OaBZ3/7RgIJCi85n2wCjlt0Lys=;TPNd57LO4aLQ5bOD9asxWQ=="
 ---
 

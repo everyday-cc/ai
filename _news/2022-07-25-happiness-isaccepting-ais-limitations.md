@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-25T07:28:00Z
 originalUrl: "https://www.artificiallawyer.com/2022/07/25/happiness-is-accepting-ais-limitations/"
 webUrl: "https://www.artificiallawyer.com/2022/07/25/happiness-is-accepting-ais-limitations/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/07/sunset-ge7c9adf4e_1920.jpg"

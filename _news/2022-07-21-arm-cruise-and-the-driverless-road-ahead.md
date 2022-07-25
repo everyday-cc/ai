@@ -33,6 +33,20 @@ related:
         width: 720
         height: 479
         isCached: true
+  - title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
+    excerpt: "Dubai is just months away from launching its first driverless taxi and e-hail services. By 2023, Dubai will be the first city in the world to commercially operate Cruise self-driving vehicles outside the US."
+    publishedDateTime: 2022-07-25T08:18:00Z
+    webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 36
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gG3X4i0qYPJkssLK26gX9KJLU8NBQoM/O4kZ7IO9WSgr5YXxcf3i8m0TlzCM8HYTBAsj0EVG4mSScqMjugj3NOshLOL11RUs521v2uKJufqFwrTDoup20YXHpQjzknOXD3YOTXeecs4YXnydS67vGNcza9NeIWdLs50oDoKfAYxfRvz9F+SBGfHT6VMp0eZq6elfiWSH54bxiuIKNLBwgpfFmSLeD6NbcKsbVflReISfep6mDPtpvX0/GUmb/AYIn3IK/ALzsvNH6Z0t3wNPtlqL3eNsvbPcGkN512xo6/XwVUINKaQkdaoUFQ2N7u7XUYjILXqtMUmpZCcwKua+OlELni0Vc0QfRh6ndOLhQcI=;TSKlImvuTB8HbN07KehgEg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Look what’s happening tomorrow at TC Sessions: Robotics"
-    excerpt: "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications."
-    publishedDateTime: 2022-07-20T15:30:00Z
-    webUrl: "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/"
-    ampWebUrl: "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024"
-        width: 1024
-        height: 535
-        isCached: true
   - title: "Here’s everything you missed at TC Sessions: Robotics 2022"
     excerpt: "In case you missed it, robots took over TechCrunch on Thursday, July 21. On that day, we played host to the robotic industry’s leading startups, researchers, and academics at TC Sessions: Robotics. The event was a blockbuster success,"
     publishedDateTime: 2022-07-22T13:31:00Z

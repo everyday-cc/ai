@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-r
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448.amp"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1503
         height: 999
         isCached: true
+  - title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
+    excerpt: "The investigations followed a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording ..."
+    publishedDateTime: 2022-07-25T09:20:00Z
+    webUrl: "https://www.cairnspost.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues/news-story/02b1f7b37e92c3df4630a48053623679"
+    type: article
+    provider:
+      name: The Cairns Post
+      domain: cairnspost.com.au
+    quality: 11
 
 secured: "zjgQJL2D7owuagAEbtfDTo93a7WBHfKTbYCaHyRMMLDQJ0YCm9rk4rocsNsflte/G2mAXN5zCo6Qg3y3EOf4flw+9dpBj22irIgFqiJ9xLboNexRtqr38idTKuIspYoq8NbniFP2g4IMJgjR1MWl1ArCeDCjVC2viU/dX4foBv6RyZrHzrc8X18Zer7WgnyOGqcwwtnDFqIm/m81yXKNkmOHZc2VdcFsih3/hm+rV/mlbHqlvcgTwWQcUYK45KpJvDBto5vCcPQZcvj7/vfOLHwSIa2+mRnI/5Mo9N2M3fdQOb5gI64O72oqXMPh42Ep38tdFEEGs+22LAR0ARtVSnxNed9P8nxqnIccfZMmQ7s=;nQeX1U1oPmCEaFj3l46LeA=="
 ---

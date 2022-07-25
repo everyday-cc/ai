@@ -24,31 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) and the Risk of Bias in Recruitment Decisions"
-    excerpt: "As part of the UK data protection authority’s new three-year strategy (ICO25), launched on 14 July, UK Information Commissioner John Edwards announced an investigation into the use of AI systems"
-    publishedDateTime: 2022-07-20T16:50:00Z
-    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions"
-    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp"
+  - title: "How AI Can Prevent Problematic Gambling in the Mobile Betting World"
+    excerpt: "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how."
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/430334"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 70
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Pecan AI Announces One-Click Model Deployment and Integration with Common CRMs"
-    excerpt: "Pecan AI, a leader in AI-based predictive analytics for BI analysts and business teams, today announced the addition of one-click model deployment and integration with common CRMs, marketing automation,"
-    publishedDateTime: 2022-07-20T18:13:00Z
-    webUrl: "https://www.datanami.com/this-just-in/pecan-ai-announces-one-click-model-deployment-and-integration-with-common-crms/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
 
 secured: "Rm3hdzx+d5dKYteM9e4UtD2qqb7eNsV1Glb+8GPj0HNIykATu0Uw8yv8XSwUNAe/kNOZ55H602gNUjjqOifhKeHRHebe2UgYg1OuijoOfRe3y76AUJrD5hX65c1Oqej4hSWdpI6UpFaFd1YZphkCzt8FNW1q3+hdsoP+R+gROf2v0VYQhajOmSA2RmoxPUbuZc96I2+YOnjXGleXwG5wIsvVbbctNaheMRKuUfW866uzflBBbovPdQhFa3phvW+XJtS8UK0jgnBYX2Oh270joBYOaxXO6tLQmm12jDCvX4t8eLzGNjCmm4ALveFRB36uZHT99XZOTFQFaK2eTx/agg8p7DCjN3EDwoQVvxMwI3k=;N0zTBg0NKLSWuwKV3MTKrA=="
 ---

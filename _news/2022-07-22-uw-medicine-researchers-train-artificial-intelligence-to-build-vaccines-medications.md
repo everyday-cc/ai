@@ -9,7 +9,7 @@ ampWebUrl: "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial
 cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biologists train AI to generate medicines and vaccines"
+    excerpt: "Scientists have developed artificial intelligence software that can create proteins that may be useful as vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
+    publishedDateTime: 2022-07-21T20:04:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-biologists-ai-medicines-vaccines.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-biologists-ai-medicines-vaccines.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-biologists-ai-medicines-vaccines.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/biologists-train-ai-to.jpg"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Scientists Train AI To Generate Medicines and Vaccines"
     excerpt: "Scientists have developed artificial intelligence software that can create proteins that may contribute to the development of vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
     publishedDateTime: 2022-07-22T08:50:00Z

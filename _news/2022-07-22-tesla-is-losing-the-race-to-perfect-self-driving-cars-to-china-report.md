@@ -101,20 +101,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Aurora perfects the tech it takes to stop a self-driving truck"
-    excerpt: "Driver shortages and increases in home delivery, commercial trucking and logistics could meawn lucrative applications for autonomous-vehicle technology if developers can prove that their self-driving technology is fail safe."
-    publishedDateTime: 2022-07-20T16:50:00Z
-    webUrl: "https://www.autonews.com/mobility-report/aurora-perfects-tech-it-takes-stop-self-driving-truck"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/AAurora---Peterbilt-4_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GM wants to test self-driving car with no steering wheel, pedals"
     excerpt: "General Motors Co and Ford Motor Co are seeking exemptions from US authorities to relax some rules related to testing of autonomous vehicles, according to Steven Cliff, the head of the National Highway Traffic Safety Administration."
     publishedDateTime: 2022-07-21T09:30:00Z

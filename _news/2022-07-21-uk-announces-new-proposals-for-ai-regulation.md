@@ -57,6 +57,15 @@ related:
         width: 1212
         height: 831
         isCached: true
+  - title: "Pecan AI Announces One-Click Model Deployment and Integration with Common CRMs"
+    excerpt: "Pecan AI, a leader in AI-based predictive analytics for BI analysts and business teams, today announced the addition of one-click model deployment and integration with common CRMs, marketing automation,"
+    publishedDateTime: 2022-07-20T18:13:00Z
+    webUrl: "https://www.datanami.com/this-just-in/pecan-ai-announces-one-click-model-deployment-and-integration-with-common-crms/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 13
 
 secured: "9Iw1imM7kAJGU4NXZRMedJJF5ZUTO3hCWyFGqqnuLDoVtl0//TA4sdvmOvb0mVDF/iqC7/WpbNV3NKxB98N/uBQJIVZzub8sspsyOqx4USA2p6Kc4CPPC7Ng5vWvk6ER1rHke8n7soIbTZ+hPPiLHxdQpgAsnpJWGTlvjeglsd2t4IE4UKxKi35z5nBv2yeH2cOIlRJVSUHxsfGcvL3tPGOvWlisgBk4BBg1Kn/ePrPqw1CY58qZODKO1vP0N2UV/FHtosjRi++dUXw4X9jwgIAoZSetAvPa2Q/xTOIogh//3dna1xF/v/QkIyy6pqDTREzrc1x3zGy5WdImz9sVjzbH3+hfXze3FKNnUa/cjsEnyrYZn9JX9rUje4s8G9fO9U1wYAqpqbby20gQwRQFadM4B4qTQt0Mz0YmgllOJc29o5KWRZ0pV0yp+6S2igdip20e32o7QRNo17M3lxwSe8bmtMW5P2K5qRr0oMKloSzsdDaiwZj4yUpJgVERfUyeuwg/RPStZ63msnYzb7vY4Q==;DrAhO+4svYL1C04MUshyxg=="
 ---

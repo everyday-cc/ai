@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experie
 webUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 1365
     isCached: true
 
-related:
-  - title: "Who’s watching the US DOJ’s use of facial recognition? Hint, the ACLU plays a part"
-    excerpt: "Law enforcement agencies in several U.S. jurisdictions have engaged with the ACLU to formulate their policies for facial recognition use."
-    publishedDateTime: 2022-07-20T16:11:00Z
-    webUrl: "https://www.biometricupdate.com/202207/whos-watching-the-us-dojs-use-of-facial-recognition-hint-the-aclu-plays-a-part"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-
-secured: "6p4TeQHddfqOiVT6ziVMGRk8OBchvoUz910fyU5iF7R/CPjwzZQu803oy21xZjo3uDpYMHE6fSC5NKqOYxxbo+9CsEC6Ea1KBcXy6NUI7N/MDHXnxVPypduLYiGeuG1YCXs4BJcUGpEJBpsrFB3gnfL0aBBD+kklw70kh5dbnQSSErpjvNPyqQlBuFrhO+Wiw+vDknkPX77u7DM9WuyTHzn/Y/rw3fg7NVj4kSvwRByhMCeskr0FTwnxhcNEbu5PFfdEg8UHhj05Xa97YGy9v3MfDxOICiNTFMHTDC82KyfnF6xRyFP3BJUQ0qRGwYUJj9BiJjQESWtskMDV+qbpBoFJM6H5XSCRCbvc0Oaqp/k=;aYg4t6H2OhbeSx+E2IIb0A=="
+secured: "hNJCOQsN/+nE5L6GmXq9ijjCKhWdMRCybnUicP9bvFiCnx3XlL0/XZqy7CqwrrMvO2dN4kDyMfP1EJXx2lcE99VYvs4x5kYY6NgOyumqBx0g5/iHsR7oQ8Au/EL6oWoNHCJypxAUOsug2rcWHxfez3Xl3zI5n9K/p+erUcQ6fZsVsnK1Bs4HAiBMNEgYWjW/it3QraLg4+a58IodUrLKOIRb/t/MktCXfrcJafa0uD4nxUp8g3orGZZFnclA3+us1R2Md3CuC6qjxegNiy8iZAW/atTTcDxTmQVHS4a5E5BtEDqNFlrZ+YJejMeRsoWmNcxr0MJh+pIPdcyRdk7RUy4/dQxKE2wlfCtlWU4JAisO7OSsPqZYp7sb6z/QSYY6gaquQW/HzERqjuEhd7Vxc6iLrGNzLGzebJxW6glGMPurPyRnKPg9qWBf7SlEivGs6wdw6PfdyIR51/ALCWYDxNpeY0tLTVYkBvAs/yeGhtrP06ubYFZ7rdA3tTfJdWc0lDeTEMdzjYe7q2SrIYL+Rg==;9Xa+FiZuEXDRBxmxEehPQQ=="
 ---
 

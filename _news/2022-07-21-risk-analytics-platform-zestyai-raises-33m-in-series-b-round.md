@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Atturos: Better diagnostics through machine learning analytics"
+    excerpt: "UCD biotech spin-out Atturos is combining algorithms and the study of proteins to better detect disease biomarkers in blood samples."
+    publishedDateTime: 2022-07-25T08:52:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/atturos-ucd-diagnostics-proteomics-life-sciences-psoriatic-arthritis"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/Atturos_RP_SP_Lab_2.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AI Boxes help fuel proliferation of video analytics"
     excerpt: "A look at how AI appliances are helping a larger number of end users take advantage of intelligent surveillance tech"
     publishedDateTime: 2022-07-20T19:01:00Z
@@ -33,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SecureKloud Technologies Announces DataEdge, A First-of-its-kind AI-powered Data Analytics Platform"
-    excerpt: "SecureKloud Technologies today launched DataEdge that enables enterprises to power insight-driven decision-making capabilities."
-    publishedDateTime: 2022-07-21T12:22:00Z
-    webUrl: "https://enterprisetalk.com/news/securekloud-technologies-announces-dataedge-a-first-of-its-kind-ai-powered-data-analytics-platform/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 5
 
 secured: "rM4QBPZ8xF9EzYVL5oRlDEz6cgELJ0HM7BtGi7BzYDFnRZELwljV8soOhozbdLMz43ldisQEyuNaLXEK8Eh4BDLYkjZEhi5tC2A/Da+kQH5vxyIMEcTUZxGqfPuwOzPo4NctZgQCpR7vU8egiRH1PrMl/p9ijqFwHWOdfD+gGe/XJqKs2CqKtdIPQ3ajrkbnY7QKIZlO8cA7dv9HHaew6kqpz4n207wBxcIBpNpSNPTW2Y3lGLHh6RJSPnxUh0Mdt7IzObvXpFEKauhN0AMxHjCvSCGCPQZA4/K4IOU4iW/AgB9KlcwaG5ABBzQilKCY99WlzqFUzqB+36/5J0TzyJH04WxOkP5xG3Qs/9rg3YdNRFZN/5XZrbtTQ4X6eAVcfUFrDVH/4ejJjomLPhycLtvO0rcbEJxThr2ArCR8OU0jkeoN8ChoZeD/dKqxU1P55nvgMdYNXrXvonoKxAzB3Iw3jJwcx15kkws48AHfFpcrmjb9mFOuP+vNZ9Jpi7BDoXmNP+E/HeTuAxyVr1SY2Q==;iF+3RkMuV/h+yCpjjNfJ3Q=="
 ---
