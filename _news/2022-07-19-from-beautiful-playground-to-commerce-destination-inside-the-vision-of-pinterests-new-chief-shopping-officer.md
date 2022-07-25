@@ -1,10 +1,10 @@
 ---
 category: news
 title: "From ‘Beautiful Playground’ to ‘Commerce Destination’: Inside the Vision of Pinterest’s New Chief Shopping Officer"
-excerpt: "Pinterest’s role in the world of social media is blurry — consumers use the platform very differently than they do Instagram or TikTok, for example. But following a series of major strategic moves, the role Pinterest hopes to play in the burgeoning realm of social commerce is crystal clear."
+excerpt: "RTP talks with Julie Bornstein, new Chief Shopping Officer at Pinterest, about the role the platform hopes to play in social commerce."
 publishedDateTime: 2022-07-19T13:00:00Z
-originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
-webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
+originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions"
+webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "sgdoh1ZG4XMeQPAXC0MlGaIwgsBQL6L06WKNP0QToMmtamrQXgM2Nkanat0NFokbsC2WxLWfBPWjpSMleTKE8Zgl5em6PBoM2hp37q0+VF/NI5mBIdSmwXXwZ8C1ccpXoj6iV0SgzoLeskIIe0Htaa2Qfb2riDZcnYSFaZb3JwYALPdzqIc5vkfYNkeABajW/cpLJSsffN8mSiNUsTh9wIthr7Q5og05BXTu+0yDbPU7Y5oZFroL8iKyyWwGzq8IBPUtHWJiyNFyjgMVyWPaDyEoz4hzOpPPU1MX4BuLsEvTUOq9FUixSPdXYBChzHbJnFoqO/qco8C8PLnLiuY8+tmFwjM+8c+9DfETJciaxD+2RcfV/VIrTKSGpKSryFxboBnHcwPFuyxmBJIhmozFr+r2+WHZbsVwbT8cTVMxGIyRUSFv/8IVCLwenFDK73orDx3hBBhLr0Rcp81MUAmH1psjqO0IIHFPI1iJU7n7mGVmaHWoT8McOWHJBv3+VlRrMmoqOFmRVGxyCKzEXqaIhA==;3Exsu1WY4TYw3T43jHFpfA=="
+secured: "BqaM+WJo2Wk8sUZhegxrSaAJHa5I+Jb/2mswX5JVAcQbX/qWroiFIIpAPYF7fpKRYbDjukiocXVdDUOqUdbzgsrrhyFmcvXoeXmsrvWEO+n9lGhFb3JLbgk0oUJ27dwldppNrNChqB3Tcxs2SfbEBJC9exiIbHuYmEH1e/zDGE6e9CHOESk0qXUBySPMcf9+WdRbjO+oZG5uQnn1wNlT08hannSIwgAVZIQ2cp8/2IvkAKh0XlI5mCaIrDlDp7ZE2D4WTBut0odUBSRnplRD9TVSR6YGjcjhP3bMvcj8DZSvYIjKybs17WGB42oja3SdsCd97eMx+IFw8XEMpv0jvIs9Amz6X4N2D+oB6aJRMPoPK7LQDSMIOd3X5aWYXmBZdiv8E4Yg7alkU+gtoUrTrwYc333Nc/x2hK7ryaJcot6N/HdGKN/Ul1kRzpdMwDw1aAi4cUN2iL6KZYswxz9f9R5AmcRLAlII5hmn0lBUhV5SlxeAVHZInJ2qcBFx8kJSPHJlQoq5LuOF6L5VqoK2gw==;omHV5FeMoFtPss3sBAQcXQ=="
 ---
 
