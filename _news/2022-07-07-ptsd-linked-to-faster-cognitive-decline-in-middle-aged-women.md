@@ -2,13 +2,10 @@
 category: news
 title: "PTSD Linked to Faster Cognitive Decline in Middle-Aged Women"
 excerpt: "WEDNESDAY, July 6, 2022 (HealthDay News) -- Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline among middle-aged women, according to a study published online ..."
-publishedDateTime: 2022-07-06T20:22:00Z
-originalUrl: "https://columbustelegram.com/lifestyles/health-med-fit/article_61288ad7-24ef-5877-9974-b8db341816a4.html"
-webUrl: "https://columbustelegram.com/lifestyles/health-med-fit/article_61288ad7-24ef-5877-9974-b8db341816a4.html"
+publishedDateTime: 2022-07-06T18:54:00Z
+originalUrl: "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html"
+webUrl: "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Columbus Telegram
@@ -24,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "xkLaRmIcymuO1su9RnVB3SyUEbZg89eovrghh1SlLUVdFAwXFW6UVNkoDgPnHZ5EBg5nX0uNtL7YFrWmNYaC9DAwqgHU5QNtXSjHU+BkNF4nIdKs+rQxBR1fouPS3Z5E6WFBWHAcC5n75Cz6p0q1zECJ3U+4aDllbDMoENYzlFV0egi/pgzStmp7nWfZEJFhNrlKZpfuK7JB2KdvVmHAolDFsZsZsxeOjBwslwHvKkFmCeKRVa18eIOd4WPvIYce0/RAKJttCsJuRbFGmkzDkxdiqDDpfQu/IQRHbu2Hs+8akT3nnBkHBSliRgziO2tPlqYeaX9sAyVm95BRJn+1cqGgSQ6dUxKjwNTTXcYV7+Y=;i/4jx/MMO28XRGdwh74r/g=="
+secured: "jRGuv8gfBeyT3RdXk9Av8Mk6dd4dNsIxqqDUsbksvfkKiXARJri5d57RKYzNs80mN3303jvzxYCEUYqf5rpR+yhpJ0DwsrBXa11UzrFWM2N0n5z9tWhDrMCwQyMFk2X9P3lvIstqNhYkOI9m5khq7CZOVrf8wxOoMdVTH09doPzeKgX6825JHkH1IbD/xPfD+u0z+s5Dro17pgchWI14k7wBtITWtNKgcT1ElKgTy46Amon3FMK2vm0O0bp+pE0n0AVVExdMn4P7/7a7BX/S3HLzdE+UJsfEGI4jIdekeeN0GWNWY0XzTg73GFaEbU0ium136PYLyaNTtIPR69FJx2O7AYNCGZc1uKIcICgJk4w=;1Yz4U/uveqvbpH8uAF5Jmg=="
 ---
 

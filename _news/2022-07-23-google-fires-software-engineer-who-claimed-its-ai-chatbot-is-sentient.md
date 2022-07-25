@@ -247,6 +247,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Google sacks senior engineer who said its AI program was sentient"
+    excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"
+    publishedDateTime: 2022-07-24T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-sacks-senior-engineer-who-said-its-ai-program-was-sentient-qr7gf68gc"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2e45d396-0b7d-11ed-a4af-79eb4b98fc31.jpg?crop=400%2C225%2C0%2C21&resize=1200"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Google engineer who claimed Google’s AI chatbot LaMDA was self-aware has been fired"
     excerpt: "Artificial intelligence (AI) has long been worked on; one Google software engineer has been fired for claiming Google's LaMDA AI was self-aware."
     publishedDateTime: 2022-07-24T20:47:00Z
@@ -271,6 +285,6 @@ related:
       domain: techworm.net
     quality: 17
 
-secured: "dOjD44N6Oc5iTLLGFqTYaF65+Jr3wOg34UAO1Jqfn/yfNhiuhMLTQipg4H4uqWcSWu8Ye9Mp0VaZWceDPq2ExA5Gwr/fQejByZpcapZESY4HIv9JmpEHbCOEBNnDmMRsbRVVXv2l6p26Jq8PTYdBTgRw8XQcKyIIc6VrGSgL4qYCXXP3873FzbwTbkEpSAFFGMXmh9l9FQa4ZOAc5kMAE3c0704V6XcmQOxXEVjxh6jjrUMFhU2SFDfgJHgQNeWmHgIEoQjxXnRkDy+RKSbiG67b/hZeLaKH05i/ZiUMhNJ8RGz9W11ZRrujc8tCpYBsOaxJpsPyGTzdDv5e8IXHZRXTf00cG7GgynmMH1AQ4F8=;NXuzHVHYAnSKEBn5vB3kpQ=="
+secured: "xKyUuXk5lD76Phy9pme4cFrZFiYd1O6ecZOxIYZMwvslRscZ+611A7TATukcpegPPtVh1k2ul+2J3S1KLaqZkN3JPoGgjhoaM8g9PNztkXMhIzeKuTaVSfkAtfCI3yXLOU16OJNNkCw46cdKAJQILj15wYHpBCENur4jfUF8cnQZ0AE772Yr5tTcY2lv354jTkKvwNe0oZ1hchYOmDqbnNf97XotdSHzsLpsjvNsCmRDi7rQiZMhuyJvY6fj0/ACyg/VBdhyvjh5S6qQghaeBgIGY1efgK7z/o/MsaRCX+uicBseokJuxFeeeJUTrEx+FJFtr3gXgxMzTg8W1Phs0dR0F4E8Loivxss/9XE1zLTqBUt4u8tlkiSQcvFNslB3t4/QmT+0+/jGKAayhv9Dtb/sF7FUzEPuH4MsBBLsLraRlDlC6NhMX/ze4pXKpe4ztjylUaHe1y6wLdPQxJXtHRSekCJAV+TnPKRyPZnO0IzMzfDcAkHfYgnqcZnPcWZL2RsbPNbOdImGDwc5PIjscA==;aBlKBRSaj4eIQh+CZHSyKw=="
 ---
 

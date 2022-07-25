@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Tachyum Signs Agreement with M Computers to Expand HPC, AI, Edge and Cloud Computing in Central and Eastern Europe"
-excerpt: "Tachyum™ today announced it has entered into an agreement with M Computers, an IT services provider based in the Czech Republic, to bring Tachyum's Prodigy technology to commercial, industrial, and scientific research institutions in Central and Eastern Europe (CEE)."
-publishedDateTime: 2022-07-19T13:48:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/19/9640964.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/19/9640964.htm"
+excerpt: "M Computers is a leader in HPC, supercomputing and AI in the CEE region, and specializes in the design and delivery of computing clusters, high-capacity storage, servers, and data storage. M Computers’ specialists design optimal server configurations,"
+publishedDateTime: 2022-07-19T12:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-czech-republic-eastern-europe-artificial-intelligence-53c0fcd63e6e4d9a9a75c5d87d181bef"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-czech-republic-eastern-europe-artificial-intelligence-53c0fcd63e6e4d9a9a75c5d87d181bef"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "i0C7vbfHVAYf6YMfOJdhu/pNT2psmfJtLtcg/NfCzF0MySnBuAOBE08WhbpUCMf6SaFWJ/cBLv8yLFuzPBygBXroYYpvP6d3wOHu6hyEnytEYoogzRqPppjfV8OIUY0i8WJk27ixUMgkeJ800bk61kD8bmpTGDgr4gojyWjrBQ7SZHxm1PqD/Q8axPo/kiRTSCtIiFq1vO05Bbui6qPRT42TxJi8aSr33VfPWSVhX0O2OoBkDdSZjXL6KUBSow4UhaufEzUKrFmzdUt+z88zNx/PZg3huvP2FyEo1tc9xCJab+eLK9zygSUvFlh8oia6fbHQRssSqFoPYF1y0VcCCJ4balEAp+ug7Lwg/2faY2w=;Zu/hR2YH5tXsgyM5q6Dyzw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Vk2m5dZnS8kBFptH/oviMUYluemhF/Dfl8PwlD0vvUB+nhTf87m70uUghLrkny79B4pu07oIkCGACzG5onBVXP+5ukkiUJ/qBWxWbN1KvgrGFNo4eMHnmw7sKBDdMH2++Xr0vkDJUgqNr0rIYYpGOQIbnbrrjEhnos/rscPkCc97ZtIx+dcjJcOtQPGX6HHyUZaFplX7li09PH2RwR6hYyfl9PTEdx5ALBvM9NXrwTTcTr/VG0HtI7sTVeHmvcPukQO42leRr7ZSaNXBtrdKMO3q/6VhK9SzilEkoBTgJfrA2oZc64X0lcLkORt2VmyrttwUrwmKdvp+DClhhJUFsn2Lal5PHSQwIPEmiXjb1Ps=;XOcDg6Vl8/tUDIN+HNhnzw=="
 ---
 

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will democratise strategy for the next industrial revolution"
-    excerpt: "During the transition between the fourth and fifth industrial revolution, strategising must go through a sea change. Intelligent platforms aided by AI/ML will transform the traditional strategy develo"
-    publishedDateTime: 2022-07-20T05:48:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1"
+  - title: "Moneyhub Partners with Pennyworth to Democratize Financial Planning"
+    excerpt: "Moneyhub, which claims to be one of the market-leading Open Data and payments platform, is teaming up with Pennyworth."
+    publishedDateTime: 2022-07-24T17:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/194022-moneyhub-partners-with-pennyworth-to-democratize-financial-planning/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/07/194022-moneyhub-partners-with-pennyworth-to-democratize-financial-planning/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/194022-moneyhub-partners-with-pennyworth-to-democratize-financial-planning/amp/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 57
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://www.forbesindia.com/media/images/2022/Jul/img_190095_technology.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/05/United-States-Map-Money-.png"
+        width: 902
+        height: 644
         isCached: true
   - title: "Moneyhub and Pennyworth partner to democratise financial planning"
     excerpt: "Data and payments fintech Moneyhub is joining forces with financial planning and banking app Pennyworth to bring a new tool to “aspiring-affluent customers”. The new service aims to redesign digital banking in a way that will democratise financial planning."

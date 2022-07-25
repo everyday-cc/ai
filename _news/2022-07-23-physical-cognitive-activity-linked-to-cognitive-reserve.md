@@ -7,7 +7,7 @@ originalUrl: "https://journalnow.com/lifestyles/health-med-fit/physical-cognitiv
 webUrl: "https://journalnow.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_5741797d-8307-58af-aec4-5e3d71337ae3.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -28,12 +28,17 @@ related:
   - title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
     excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
     publishedDateTime: 2022-07-22T15:41:00Z
-    webUrl: "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html"
+    webUrl: "https://www.wyomingnews.com/lifestyles/health/physical-cognitive-activity-linked-to-cognitive-reserve/article_43165078-5e02-5da1-bebc-52338814445c.html"
     type: article
     provider:
-      name: WiscNews
-      domain: wiscnews.com
-    quality: 4
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/1/eb/1eb1977f-ce42-5aca-b8c4-96311802b368/62dad44c2a56e.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "UvUvzilMxokz1MCyVpL8sX7z1GhHtiotpIKWPROkm6Z379Zbr6d7Xv5xA9U142hlOddkEoYM17Elfa2pVi+AZ0cvcSGVn8MUTU/7TpeYfIZhA2CcbIaAP2OmQjbe8+ayDJQuq4RnAw6xsMHBdIJxmO18uFeenSrdITsTAUqaCMovAY/CBv4uBEwTVL9uBp4cx523MEWgmHd1xHy7IK4X8eota3NW/Dk2NUp6OPmZ45uMoAYFtVBirFBJVFg/rE6ApkyzjqzNYc4FYSLpldXk+g0rLNm6g/KDA304tBwibrp1zMWNlMmjoH8Ic8VdrTqu9RFTOG/r4J07n8xWa/iFHYfLAlLOi8a/iKfWkSQJjUY=;RkRPmlm7Gfv3I48H7v8X1w=="
 ---

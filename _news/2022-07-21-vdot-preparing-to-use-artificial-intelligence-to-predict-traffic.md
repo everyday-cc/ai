@@ -1,26 +1,28 @@
 ---
 category: news
 title: "VDOT preparing to use artificial intelligence to predict traffic"
-excerpt: "State transportation officials are gearing up to use artificial intelligence to monitor emerging traffic conditions in NoVa and Fredericksburg"
-publishedDateTime: 2022-07-21T11:15:00Z
-originalUrl: "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/"
-webUrl: "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/"
+excerpt: "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area."
+publishedDateTime: 2022-07-21T11:01:00Z
+originalUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/"
+webUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/"
+ampWebUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
+cdnAmpWebUrl: "https://www-nbc12-com.cdn.ampproject.org/c/s/www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Virginia Mercury
-  domain: virginiamercury.com
+  name: WWBT
+  domain: nbc12.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.virginiamercury.com/wp-content/uploads/2022/06/American-Legion-Bridge-June-14-2022-scaled-1024x683-1.jpg"
-    width: 1024
-    height: 683
+  - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/yPMtFBzaD7Ep7KLjVSdSDxwlTXg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/VULR5AU5CJN4NMJZ7KJ7RXWMXY.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "JX4puSB90zuG7DCty1/k/ejvANxaGOvlgn+edfa7TLUfmEjFUr4iikegSEEnZk0LtriSeCmJGiwDCw/0/1+1OF60wrDj6PoopijUpATaQqtRVxdgWqlluMi2DA36infmkxRiUsLSeKhKzIYeZAdkXAnr4dPZ+L/BDgI1M3fUUjwB1wISU9P8mSslsH9zQBoKKoqCyz1TBHbL00T2MefoMx5dXixVrVna4/R0UKmY8I9nJwwU/FUwIGx0eHDdzeSSPhgXq2hC+S/VZZ79QScvzhR4CeXPyrSPs9l0g/hH8IZQmvT7eGB9hSqBcHGOwOjbpxE/gRcTTXa1qdpPOThbHbB7rI5zlTD0uc6sJQAD0wfX3RgL35mVF7s37mPjIW7R8391L8Fl1W0adXSxU2VtTTE1WRVXcwBhNS+8RnYI33tiaj2oOpWx7d2Hlgv5DI8JoGIDuq81/IKRKRTTTgPnnDmwxxmsoHgV1bseHxAfLYOObUrCUvJ/KQZCdSl82wQC1sfsaYfJXIIxYzNfFBBMjw==;Gt9sqf0ZsJech4zRXzcsoA=="
+secured: "f+x9jYTZ/fWQMS3O/yjaJd2Q5dw/GJFgYL4GwjgtL3Skugvt1K2Y8p8b5735bTzKS4N/J4zktqd2nBr1UXwThtdVfUqid6rqaT9yaI7qzel+NPH7Z62LI6XyvKoEUk3hJOPRxftJVxcaLrSwk7AaNTJEAgP9wT9nkQj0IVEIs+eMtN8ukrSEU6mZFesPD4XfWfcd48hqLwrp27WXxz8mvvRgYTQ64ibv4MUNbLyc038FdX6K6nlz9J7qvUFNQSZ/75wAGGpZXCIv3r8L3wo9XxQ2vSnd7qR2zmM73DZgwygwfuqGYN4SbNhqm//JlWoPVQIYyFyVwfsdqtkc8LKnRdWdzRYrlMD2fZB8E9rzXLg=;WTBMY2sG7i/kf7VHAF35kg=="
 ---
 

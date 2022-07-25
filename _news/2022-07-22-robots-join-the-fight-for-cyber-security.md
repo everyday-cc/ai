@@ -37,15 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "Former Cybersecurity CEO Christian Espinosa Sheds Light on The Lack of Emotional Intelligence in The Tech Industry"
-    excerpt: "With ‘The Smartest Person in The Room,’ Author Christian Espinosa aims to teach business leaders the importance of emotional intelligence and nurture it within their employees. Former Tech Founder & CEO Christian Espinosa has published his book titled ‘The Smartest Person in The Room."
-    publishedDateTime: 2022-07-20T05:20:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-20-former-cybersecurity-ceo-christian-espinosa-sheds-light-on-the-lack-of-emotional-intelligence-in-the-tech-industry"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "d6Xx5SdEJb13VFFmMGNeYdnC3UGfNScAkc3zcXYSyZXwjZ1h/w7hUzKt31Hh5ObaeZhytZs815TdtvgrEl7jOlwMjwRwIsq2v5QcFlp8qhIQQAgvMVplXiTOnyO1JJPQrl466j27bHkq6EGCuYs7T2Vr5dbLs2pe4RBJc9VXdOro/XucBcM3GF6yjyIC7Nbh651b4+sol1oVFZmmwm8Ye36SunotyfG+H9Igew3jKKJbnu94WeWpWMhflb5JMLwQIgQsMfA0I0zcUHyhRfq78U0OXTcyJ713nHqgejLDNAvZEtR1mQrGC2iVsC9aCqVrFYNmo72iJPX6bupF4v78un+hVZw+EGyFKu7/UO+CqTlWVxT7jOGusxc1JcAqdSdgluafdcOp96xxKjJhgbBKCUAtWKGeIbesGa1ZkfHxRF4iDoNcFkNkMLcJlcqrUY9WzVvCsifBfJ61pR5ExPeI7n6B+WKv4J0Ecb+Hnh9yuNF7IIXcqH/c7UNJ9C0HRJtOPjK1t+tgOPdtLmJoO7LIGA==;0H1fHsIconpedf1V5fIcOw=="
 ---

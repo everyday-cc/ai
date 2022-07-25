@@ -2,9 +2,9 @@
 category: news
 title: "Here's what it looks like to ride a Chinese robotaxi with no steering wheel"
 excerpt: "London (CNN Business)Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese ..."
-publishedDateTime: 2022-07-21T11:30:00Z
-originalUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk"
-webUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk"
+publishedDateTime: 2022-07-21T13:13:00Z
+originalUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+webUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
 type: article
@@ -71,6 +71,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zHGmuApI20is9Apalt6eN0cq+4vrQxsJhXWp8r2D8orhHoDGAjeIv4Ia2MliPw39/Rc+yHFOvBgltxg7yeLUnMzV4r3iVwtdM2JsoBAhsRaEN9d143SuG6gQ8Dk2jT6/JIJZEm4VSjH0OZTRyS/F1cD3t1gn2uZFjjWNvsrvPoqonF5UqVEjFJwMIvceqt4+SbCNss/sc3iY0fOs+gmyGvnX6T0HzYVjvBI9TGZqDNkdNE6mkuFkJH+0eja5J0sPJmC8k34ulsedYYFGLifditYlUInb7HuoUmXUw9xUPth3c6cjH42+ptzkXSFdEFU9LLugUTDgbOR8aeq/bBUwjPuYNQJLK1QYtqiG4/UgK70=;HnEJiV7XfyiQX0Xzw9SqZQ=="
+secured: "oWrQVSL0qFfk7L4Ae82RTyYoIG8mkjBrjE7/QK0+1UQtGdU1oKyCLjz+GMRBrYDN83mcVF0jxgB4q334f8v8PrsGkuq1/zkgFBn8HRukArcEpljEVb/LoPDC2eeEnkZJEuFda3M7OKj1OHDoCvR9PaLq6zCsRTy5hKSC9Ry4gd9GO9Z6c2wgUPenDhkeG4Zcy57D1/46i9O0DD5bQzcic9NiVNArGbnZ0zebQtl/XhlwrlpboEZ+UZ6yDcMQuIVErD0Ux48vSZo9jt5IDunkYIvG5mUvfEgYztgqJwKwRM/pGwvhoAAWUoNbH74FjfNcfKIT48paZK6oztLgPtzjOQR9IDTI3tlaoIQDVf6j2xc=;IH5vEotCXAS2IV8pQM/Dww=="
 ---
 

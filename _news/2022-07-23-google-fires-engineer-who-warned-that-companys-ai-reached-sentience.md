@@ -246,6 +246,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Google sacks senior engineer who said its AI program was sentient"
+    excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"
+    publishedDateTime: 2022-07-24T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-sacks-senior-engineer-who-said-its-ai-program-was-sentient-qr7gf68gc"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2e45d396-0b7d-11ed-a4af-79eb4b98fc31.jpg?crop=400%2C225%2C0%2C21&resize=1200"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Google engineer who claimed Google’s AI chatbot LaMDA was self-aware has been fired"
     excerpt: "Artificial intelligence (AI) has long been worked on; one Google software engineer has been fired for claiming Google's LaMDA AI was self-aware."
     publishedDateTime: 2022-07-24T20:47:00Z

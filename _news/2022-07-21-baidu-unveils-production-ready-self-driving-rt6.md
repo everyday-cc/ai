@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils production-ready, self-driving RT6"
-excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. Save my User ID and Password Some subscribers prefer to save their log-in ..."
-publishedDateTime: 2022-07-21T03:01:00Z
-originalUrl: "https://www.digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html&chid=10"
-webUrl: "https://www.digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html&chid=10"
+excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022."
+publishedDateTime: 2022-07-21T02:51:00Z
+originalUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?chid=13"
+webUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?chid=13"
 type: article
 quality: 39
 heat: -1
@@ -42,20 +42,20 @@ related:
         height: 314
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-    publishedDateTime: 2022-07-21T04:07:00Z
-    webUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/"
-    ampWebUrl: "https://www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/baidu-unveils-latest/L75KIZD43RVSITKNCPGD7HGWCY/?outputType=amp"
+    excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+    publishedDateTime: 2022-07-21T04:32:00Z
+    webUrl: "https://wgntv.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    ampWebUrl: "https://wgntv.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
     type: article
     provider:
-      name: WOKV
-      domain: wokv.com
+      name: WGN-TV
+      domain: wgntv.com
     quality: 59
     images:
-      - url: "https://www.wokv.com/resizer/Ur9q8FYn9J7vmqnvKDO6nn2Iv5g=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FRFPB7OXJFDCMMGLYMO5CHKMDI.jpg"
-        width: 1440
-        height: 810
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Baidu unveils new autonomous vehicle Apollo RT6"
     excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
@@ -114,13 +114,13 @@ related:
         height: 550
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
-    publishedDateTime: 2022-07-22T15:39:00Z
-    webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+    publishedDateTime: 2022-07-22T05:55:00Z
+    webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Japan Today
+      domain: japantoday.com
     quality: 19
   - title: "Baidu unveils latest autonomous electric vehicle"
     excerpt: "Chinese search engine and artificial intelligence firm Baidu, unveiled its latest electric autonomous driving vehicle, the Apollo BT6."
@@ -150,6 +150,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "7q6Wj4KhoC5kqPaK7sRdUuukS4vP2DFQej/dsuqpQHb8nKBMRdQ8+sMXhke/enyW+8mzZNOE34PsawnIr0PM2zQZv2rtq9+SV9nsVN5Hm7qyJKaQCoH7zqhHDPKIeMkIQfdVfMnbTlCkida3aRD1RhDeZ5VSM3pglp+SJ3W4/6UjKcVwMUGk9xYmBdgyiYqmMinI3778HegMeGg5GMyVdljxdp99LS/ugu1d0AUZL6uQyOZCP656V528nFhUO3FX5JMtSf7I7TL99cTQNDRxx8AAPlQh16W5QbYejtEsUtGdK+KUOfZCn0T5vwDPCaWFonfaxTSeqALt6HxHJVLdf0MMcfq3orDiEq7DbVo9hWs=;vnMrfq1BIGax1X5KBg95yg=="
+secured: "rk423tR3Ycip/VlML0+OW3FTsEMbIpTForEDDwE1Tinz3Bg1shAImmMkozrXHBxJezrTnq34bOQ7W+I2bTqbdNKbyi8se5yWaqRpFmHB3q2wrBpci68/YPCQ/7eNOUZ6NggcBdfSBjpssWatUB5ORrtIOvOE4ixwX5AGoP4iaCHXRzbUIobtrVg8IFXfb4gMXWMIsej+kzVU1/mewR0CuBwxgZsFZDWk174ofYRLJZgOBo/FRrU+b9eYu/qry4JDf4TSqTWRNleFzZdfMQUUqZNEXdBzY2CFN95UnCw3oUFmN9vunqwmQfILVYywMl0+khyXxE1ud3ZL2tCfApzXusFIequPG9r8U7Iykvls+JE=;ikpyWn7xoc5Rilti3nJRFw=="
 ---
 

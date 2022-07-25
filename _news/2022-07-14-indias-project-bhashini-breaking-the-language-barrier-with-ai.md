@@ -1,10 +1,10 @@
 ---
 category: news
 title: "India’s Project Bhashini: Breaking the language barrier with AI"
-excerpt: "Earlier this month, the Indian Prime Minister launched Project Bhashini, which aims to provide all Indians with easy access to the internet and digital services in their native languages. Further, through the project,"
-publishedDateTime: 2022-07-14T09:56:00Z
-originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
-webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai/"
+excerpt: "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,"
+publishedDateTime: 2022-07-14T08:30:00Z
+originalUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/"
+webUrl: "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 900
     isCached: true
 
-secured: "UlC6efbkB9FiltN/3v7rtfABjl5LqmSP55NOKQKs1etMH5lhUSKCd2O876xzrCNDYUZaRNZarBWZZlzw9r+RzxCuX320Wbjb+mO50MyzbIVdEQ4sqhjZDLzv72NPKJ78HrNJLHlfD3fdtlj2WxpV2VuFF4obFQkt0CbsG0g7/07QKEH4814d8y7OUg9RsZq3cBwkpM+3GwIorCHv9iPY1XqDgQxkMFgNhjzctvIL0pGu5GaXGp0QwZWqt8JtH3/2UM2NdJMK0UZ2pdDha2WIuYbM7lk2XcW4/QDFeTxroJj8+FPpZgw0tIEb+2fWSR6l+1/wq7jWbwIMrUDb84agUw2sHlSXacosieOb1fhXh2U=;9T8TmzrUM3xCAZCzNhyxmg=="
+secured: "AQ1HzUD9b+ve4zvVxIBg/uOB9jHJd3ByPf/JUafdr7sdxx4R03JGQhND2Vi6SqMR+kayCWW0dGI6m5B2qIQa14zdaIdd2tubXAGIO/Wy/vQTsLM7181jIuRpU+8krJAQwkF/QTf3s3M5CPbRsIVcAbW8/tSV6+/15R8tGyS/uhrutkx/aJYZGtk8RuR5xB3Y8SkyGesVAf9ChdBsqAbw1ukbT0niTNfzBr6Mkk9Ty11PAv6/OlHscIpSo8QhQ/EteHtf7O9lZR54ko01e4LGXgR5LeYhniFAcL6if/AiYwpcR+SaSikoVhULC7jqdB1WwvKvxOcfnOamxsEB4gv6Ei+2VjPb3ZryzS9LsOrlUAg=;EwBw+aTPuWmlQBRnD8gpvA=="
 ---
 
