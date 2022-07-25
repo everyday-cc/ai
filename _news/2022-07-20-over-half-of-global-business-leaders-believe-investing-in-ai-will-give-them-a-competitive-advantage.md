@@ -34,6 +34,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Rogers to invest $7.7 billion in AI, testing after massive outage"
+    excerpt: "Rogers is physically separating wireless and internet services to create an 'always on' network – to help make sure the customers don't experience an outage with both cellular and internet services ag"
+    publishedDateTime: 2022-07-25T01:26:00Z
+    webUrl: "https://www.rappler.com/technology/rogers-invest-artificial-intelligence-testing-after-massive-outage/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 37
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/07/smart-customer-advisory-sri-lanka.png?resize=257%2C257&crop_strategy=attention"
+        width: 257
+        height: 257
+        isCached: true
   - title: "Rogers to invest C$10 billion in AI, testing after massive outage"
     excerpt: "Rogers Communications Inc said on Sunday it will invest C$10 billion ($7.74 billion) over the next three years in Artificial Intelligence (AI), and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
     publishedDateTime: 2022-07-24T19:47:00Z

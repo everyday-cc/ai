@@ -1,20 +1,28 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
-excerpt: "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,"
-publishedDateTime: 2022-07-12T16:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
+excerpt: "New managed service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises environments Avalara, Foundation Medicine,"
+publishedDateTime: 2022-07-12T14:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
+ampWebUrl: "https://www.benzinga.com/amp/content/28035557"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28035557"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "dsFjCbHZoP8pYreSJ7UDGbEnuRPuwWcLjeOp+n5TEcCbw7w57lMkNBF8LUcJ7pplqqlOQPbu7vlybbaPxQMAzPgbsqfxbol/2aLPfoYRTonVROQiuQezieMK9o8OXH7GTHkjzSJr8YkrorjJ9DYJ+kYaMe0cXRVqchYX14wT4z2KeJ3fO3yyY2XOkeHyJ8Xbyf4WhNDc5qdK3PJdMCA3ToQsQPK6WcUPj6bpD4vghkw2xp+c6D7XAxRSl5BStVl60HFRqRgjtl/7bkrqcHe/1P+hMDA0RmNWguyTMu3fXmCzpxDB7CNmDHH36anhMwJCtDoWj5ADrnNkJ8qyHMemAKIAUVwiW/iSFrY8ldm5wEA=;traufdsBrtLroSnNpjwHLg=="
+images:
+  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+    width: 900
+    height: 594
+    isCached: true
+
+secured: "+YbaB5I1Mwp/i4crN5saYVzSUk75+mcaVM9/p3bYYaBM8P9uRFRck6I0f19nukL9TmZcuUCpKFIrBBKG9qhbjYy97yr4IoDK3ri8ObOgmGmVHTLyqND6LFfPkoQMICBNKW7Fudec3D3KpXyXmQi5XBAJBS/ISWytDNcQ6UKOFbm2v4WkKxomp4/r64MhEGu5Z1Il++d+mcuML0RhlMe57RLbxXWlsSYd7zoC8/o5sYrGZ0KxbGnadXvTnD/zRf6x50YcTZE5tl1h0LykNMTQrXfpe/dRsRoo5cJ2pxkEekdzERRJmMDj2QPkc8ZDCw04abDcq/t64ipan8+ioTtTb9qbPOgRp5nWnWDPI2Xfxt4=;FM6eGpuD3onQa8VwvxSMgA=="
 ---
 

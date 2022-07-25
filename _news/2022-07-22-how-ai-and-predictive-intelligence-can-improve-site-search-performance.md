@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Rediscovering analog computing for achieving effective edge AI performance"
-    excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
-    publishedDateTime: 2022-07-23T13:50:00Z
-    webUrl: "https://www.embedded.com/rediscovering-analog-computing-for-achieving-effective-edge-ai-performance/"
+  - title: "On Artificial General Intelligence, AI Sentience, And Large Language Models"
+    excerpt: "In case you haven’t noticed, artificial intelligence systems have been behaving in increasingly astonishing ways lately. Meanwhile, DeepMind recently announced a new model called Gato that can single-handedly perform hundreds of different tasks,"
+    publishedDateTime: 2022-07-25T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/07/Edge-AI-.jpg"
-        width: 1000
-        height: 562
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62db485e94b10276a09391bd/0x0.jpg?format=jpg&crop=768,432,x0,y0,safe&width=1200"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "v2zOeaLblEQbVat+TZyLQ/x+xXKBJ3GuLWqQGQPcjqW2CIkaXG1bRLmK/VWp9kUNXah/2rOFz5mvobrDlfxP5J1jXGGlD8ilVy95w1DfCtIUHh9HbpSdC/kpRWvOVjNKDi19O28hOBaVKFafaX7LytTf3T9KcItr9XsQOfZm8WnJ6mTiMNxo9jmz4hl7RU/Bx4FpPb/rFJ/xex6p9R7+bXQrHFQV8XI2FS7QQ1gSwdcUglJDb0bltaR6hQThOCOAWqqj6n3PGvBRyTzdr5AdJxo+mzFFrHhnj/XXY5et/z8pqBmXPZwVDOlo1uJKX9+XvNFKL3uNXHTQnPIuDzldUpBAghv9Vt0YWSix5XSSs6/B7M7BWWDKWXD6CLjIAn0UFNlo2QWaMhk6tQz7n2cLc/JqYnnDXZEwvHv2yfPBVLhR1GK0vv3CUhcGwBRtJzn+UwTPjZA9whFibNiSM4rZE4a19QLWIepbXnpCJNdcT+r6k7Bo7nWf08F7KG/jpZ+mVJ1/DM/rZWU20hUP/ve2ZA==;f6bXPFpR5gJExEf+w1V1zw=="

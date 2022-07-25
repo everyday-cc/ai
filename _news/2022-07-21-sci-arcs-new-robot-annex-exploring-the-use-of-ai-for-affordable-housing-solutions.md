@@ -24,17 +24,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "UAE gearing up for AI adoption in the next year"
-    excerpt: "Augmented Analytics tops in the list of AI Applications in Demand across the region for the next year with 48 percent.. UAE gearing up for AI adoption in the next year. Artificial Intelligence, GBM, IDC,"
-    publishedDateTime: 2022-07-20T07:34:00Z
-    webUrl: "https://www.itp.net/uncategorized/uae-gearing-up-for-ai-adoption-in-the-next-year"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
-
 secured: "vrpiw+Xj38ned2uhV1oD0/DbD0h30E7nT5UdjO4ujH+LS5hH0LyhjINuzTOHrUrTZExiujiZ8mHlB1UzMALwlmKeHMABg/5OCdYCmebrCWnb4cpzlDmTi9v6ja9SFQvdI84paEVjycWMwqRrwzmgxd0kLTmGVWK+8YZ90J02mHUZe2/ChNkNNT1xZ0GtCPtmLvQN+E5gOEh/vw2vRkgrQrCNy+PoiBzICVpPDYwW9gqpaQN2jqutoieQZomxAUJX8UdaWd0qibVMJf6P2NoOAQ2HCYsFsN+uVMKTS3ixTMNk5MmGNQp0JDMLVRNMeeDSPRGbfS7hnWPPaygHmHpQ4fHuLfZVISr/GHxFXXeOv3/dc41DUdQH6moz9gKORo5rPYks7BnpikeGU3IZLDeVJLEjJiEUKnj3/DQygvJ+F6gJy/cv/Xw1rbQwJ78/w+v0lQ9gzmXzHiTiFjw+i48eX/vW1rxplvvb7I1b45Ie0t208WKpNojGGNyl0bixiG0PGshF1EvaYPf/wqhoKkRwTA==;M026fcr+AR5Jva2vtPnBqA=="
 ---
 

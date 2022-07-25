@@ -34,6 +34,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Rogers to invest $7.7 billion in AI, testing after massive outage"
+    excerpt: "Rogers is physically separating wireless and internet services to create an 'always on' network – to help make sure the customers don't experience an outage with both cellular and internet services ag"
+    publishedDateTime: 2022-07-25T01:26:00Z
+    webUrl: "https://www.rappler.com/technology/rogers-invest-artificial-intelligence-testing-after-massive-outage/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 37
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/07/smart-customer-advisory-sri-lanka.png?resize=257%2C257&crop_strategy=attention"
+        width: 257
+        height: 257
+        isCached: true
   - title: "Over half of global business leaders believe investing in AI will give them a competitive advantage"
     excerpt: "Eighty percent believe AI will improve employee or customer experiences, but fewer than one in five are taking an enterprise-wide approach to deployment. SambaNova Systems, the co"
     publishedDateTime: 2022-07-20T11:00:00Z

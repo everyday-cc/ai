@@ -28,14 +28,14 @@ related:
   - title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
     excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
     publishedDateTime: 2022-07-22T15:41:00Z
-    webUrl: "https://www.wyomingnews.com/lifestyles/health/physical-cognitive-activity-linked-to-cognitive-reserve/article_43165078-5e02-5da1-bebc-52338814445c.html"
+    webUrl: "https://scnow.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_3b793d0c-cf56-53b8-8325-21d48c344e99.html"
     type: article
     provider:
-      name: Wyoming News
-      domain: wyomingnews.com
+      name: SCNow
+      domain: scnow.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/1/eb/1eb1977f-ce42-5aca-b8c4-96311802b368/62dad44c2a56e.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/8/45/845a8366-1ea5-563b-b78a-e445814d9d05/62dad7bc831c2.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

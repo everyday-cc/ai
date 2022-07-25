@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "Machine vision will transform our lives"
-    excerpt: "The ability to capture and process large quantities of documents, images and video quickly and efficiently can change the way we live and work, writes ERIC TYREE, SVP of AI and Innovation at Blue Pris"
-    publishedDateTime: 2022-07-20T07:22:00Z
-    webUrl: "https://gadget.co.za/machine-vision-will-transform-our-lives/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 28
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/07/pexels-photo-2599244.jpeg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "SWG0+C9xNX9UpNTuSO60wO8aKFviFRrptOO++h868KUfnDoSBlNma0pB7crbGpOY+dLPxad7AgxstER2dfQOXvahzwf5M79EeZIRAR61RxWPYvSVBlIq3YFXPEcPZ5p2kjJzx88mLxatds/R98QuQ7PybdOXgJr/htO0bqIhjGzIfOpfI9eb4kmaH6vAlgPo6e9OKZR+zwqV+0A/DBxldlVoGDT0QlEml1cjzbSzih2qmGdKcbDGzvOuc4HdCzIYoHCT61Qn9BBEsyJXvBxkBJ8qzcb4kUSrddRu3jhacxLitkPmeS/i/vWwxDlfIu0NNyKNP3uX+iv4gnF2mpTj1fw3u35k4IODys1lPPsxph0POHDwqrQDGiXjriK0eWPh2tqPfhJYY0wm+3LoAqjMhZWZikYqrecPCFIZ3wqtNt5Z4C84upasTmiITPmhGFZMaR/sg7k7jaGF2SgvTLj9TnJyeieqwrHR8Po1chCPtKxgj6nG1rW5XppRtuU7YqbJG4n+AVP4vwc2suEcQJNNjw==;YpLzOyYgasSaeWzPqVNAzg=="
 ---

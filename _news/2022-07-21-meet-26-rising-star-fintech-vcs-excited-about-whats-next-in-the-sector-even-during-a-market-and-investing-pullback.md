@@ -77,20 +77,6 @@ related:
         width: 900
         height: 594
         isCached: true
-  - title: "Six Things Traditional Banks Can Learn from Neo Banks and FinTech Companies"
-    excerpt: "About Finny Jose K Finny Jose K is the Chief Executive Officer and Founder of Neofam and Ex-Fingpay, Byjus, Dow Dupont, Limetray."
-    publishedDateTime: 2022-07-20T08:48:00Z
-    webUrl: "https://financialit.net/blog/neobank-banking-fintech/six-things-traditional-banks-can-learn-neo-banks-and-fintech-companies"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
-    images:
-      - url: "https://financialit.net/sites/default/files/pxl_20220605_120226396.portrait_1_1.jpg"
-        width: 3072
-        height: 4080
-        isCached: true
   - title: "Healthcare Innovator “ORHub” Aims to Enter the Fintech Industry"
     excerpt: "(OTC PINK:ORHB) takes form as a medical fintech company, announcing the launch of “FutureOR”, its SRM platform, focused on enabling digital connectivity, faster vendor payments, and surgical implant accountability."
     publishedDateTime: 2022-07-21T13:07:00Z
@@ -100,20 +86,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 36
-  - title: "Supporting financial inclusion in the fintech space"
-    excerpt: "What percentage of venture capital (VC) funding goes to Black, Latinx and female entrepreneurs? If you guessed somewhere near each group’s share of the"
-    publishedDateTime: 2022-07-20T07:45:00Z
-    webUrl: "https://www.cuinsight.com/supporting-financial-inclusion-in-the-fintech-space/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/10/bigstock-Mid-adult-man-relaxing-on-sofa-429391631.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Fintechs join forces to create digital financial planning tool"
     excerpt: "UK-based data and payment platform Moneyhub and financial app Pennyworth have partnered to roll out a financial planning service. The tool has been developed by Pennyworth – who has applied for a UK banking licence – which will leverage Moneyhub’s APIs."
     publishedDateTime: 2022-07-21T14:05:00Z

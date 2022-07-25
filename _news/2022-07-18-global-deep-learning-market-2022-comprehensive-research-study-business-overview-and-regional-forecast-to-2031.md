@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "+RcKvl9RaHjjlGKtG/ewWdprl7Vi/Txi8k6/TFJaAm+FFwL9OjLm1gBC2GzbhIdlnT09liJlpnpgRneCmOh74jjJTRE6zcAeU9CTp063ReeNzW3bAIPSHhQtJMSbZ9exOgBs7qGX+jIfoCQTcHC8ceyQAd6C/7t3ucTrvPQBgqHUcQ7h7owdXvOq0er4ZT/0omSVeN4K8cJzg6Wvwk729Ti0zyRBT7Gor2VSxIUQp6DtlgIjEUm95FCsblYBR3EU6eTlyayUjqrMneA4AHK1JPQJGH6Q5GnbuamGLhM/QFWBG/xnd/NX/mWnr4ZPk9CCK/yzmtJYC/bGd7H9WX405qnK9y0frOpmB8R0WlAt/7k=;wjMJVrG+aUk0yxMWeTEq3g=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?799185"
+    width: 333
+    height: 250
+    isCached: true
+
+secured: "IuuEZKy7wsHoo+sV3IdpIIQfYkpO+Uw/hTmuiDf3vY71nKPdC8I3Cn7bGc93zIQzvt6TQbS+lyYc7nanCi7HvSs3Z5p/eDC+sInr1tfkJAK/d4wb7mlRLTT2EvQzCjzziHm6X5O6MiNyh/GnVXiV6Zcyy3Sq7XXh0PqqqMBm36U0vUwJsFHs7Nfz/R+dRBoy1JDi38JZBw1zOs+KAHjX00chXL2OXwSaVAFMd7UMNCX4pyUPYZKQ1B2xzwOw6vZ5OMHJdbb1C/KD8YOCNVGnA071qeHMzfSFeOfaoZVR9kLKDG/LwRonAYNoI0fngONeqTu7UhUSAdtPYFeLklNoPgl29maWTs2EPeahGtn2hUU=;/VonMEuQcvkMesEK7QAE5A=="
 ---
 

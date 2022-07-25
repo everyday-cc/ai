@@ -1,30 +1,22 @@
 ---
 category: news
-title: "A 75-Year-Old Harvard Grad Is Propelling China's AI Ambitions"
-excerpt: "Andrew Yao has influenced some of the biggest Chinese startups, informed government policy and molded a generation of academics."
-publishedDateTime: 2022-07-24T22:04:00Z
-originalUrl: "https://www.bnnbloomberg.ca/a-75-year-old-harvard-grad-is-propelling-china-s-ai-ambitions-1.1796308"
-webUrl: "https://www.bnnbloomberg.ca/a-75-year-old-harvard-grad-is-propelling-china-s-ai-ambitions-1.1796308"
-ampWebUrl: "https://www.bnnbloomberg.ca/a-75-year-old-harvard-grad-is-propelling-china-s-ai-ambitions-1.1796308.amp.html"
-cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/a-75-year-old-harvard-grad-is-propelling-china-s-ai-ambitions-1.1796308.amp.html"
+title: "A 75-year-old Harvard grad is propelling China's AI ambitions"
+excerpt: "AT a time when the US and China are divided on everything from economics to human rights, artificial intelligence (AI) is still a point of particular friction. With the potential to revolutionize everything from food production and health care to financial markets and surveillance,"
+publishedDateTime: 2022-07-25T00:38:00Z
+originalUrl: "https://www.businesstimes.com.sg/garage/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions"
+webUrl: "https://www.businesstimes.com.sg/garage/a-75-year-old-harvard-grad-is-propelling-chinas-ai-ambitions"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: bnnbloomberg
-  domain: bnnbloomberg.ca
+  name: Business Times
+  domain: businesstimes.com.sg
 
 topics:
   - AI
 
-images:
-  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1796309!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-pony-ai-autonomous-vehicle-photographer-qilai-shen-bloomberg.png"
-    width: 620
-    height: 349
-    isCached: true
-
-secured: "u0Dgo3WkuxQon39U62jL0LV1HFmr41jyDbkgm5K/aPgxO3Lq85tDsfE8jiWEHzO2i3WAK1d32jraLoWBefTpMdkXQ+Yr/EreSZeZXZV/ANyDLsqfFoVJHihTviVEBg31hmSB669rSYFrycRWkNmt+PrteogsVZTgOs1/8DtKJxhsfns/dlmCxO4613FOhe72alfQei7SvF0gd67i2b5T3OU5+Zz5ExCg2U2EGJOKWMD//23V0eVzj5jz+jLZnA6SbIgQx8saa32IL48jpkmqcKQ8EazeV1UFGk+Vgq5BuwVhfgtfhIh9M5yavKfFGywHZXTUrnbjHrOdIrTBPbEi0R+5tY7Srne8/WY+rdTl5MU=;42pvU2/+a86p/gGM3XdBFg=="
+secured: "QFxCLKTTFSK5Yu418tblXcqz+RyZcj0lPXQtNhzNrVxx8Rzw9+OLZZMfVai3LKFoxmfmS586k8njI+Jcjn+jYuA5zBM2dQBRCq6C+EHfI4GdSQHnavKtlaQ4mPUQbDziUoKsZ/6LBBFtPDYIoi24LzWuBCsFCX3ryK++ph12m3xoGb+iF56msp7xsIB8Ta2MAVYE7g5KWzGy0OeoLA1nYshkuwMBBWu5v4dGO+evqhvbFjlUSNj5WRsaTvlsuBhvfnwoqJzot9IAroN1jI+At1Ir5uO5ngiygq9Ivempz+r2XsgioaUbpyiGfqGanWxliAS/wSP4C3BxZIOm1OD5BM9GcCcxaqXdokb7+RVkHSBqtgkmBj7GbIStORJYB/NrBnZDi0f0FmifGnSFWDjlFgRnk5ylQQKWWWbaYWhCQx5rbmAi4MbvL9rdL6aeCMRwl/3EAi8T0SzvquC8CQES7Zy1kQLpEWpVSY7GaxQrwbvaEN0ufR34tVmZEgvdxI6d0fS3eSqN86H7RDOcsCUHzQ==;PKBSJb0lckIiq0Om5jjiqw=="
 ---
 

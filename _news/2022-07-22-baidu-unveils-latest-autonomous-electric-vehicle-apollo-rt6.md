@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-22T05:55:00Z
-originalUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
-webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle."
+publishedDateTime: 2022-07-22T15:39:00Z
+originalUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+webUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+ampWebUrl: "https://www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/?amp=1"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Japan Today
-  domain: japantoday.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
@@ -37,17 +39,17 @@ related:
         isCached: true
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-21T04:32:00Z
-    webUrl: "https://wgntv.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-    ampWebUrl: "https://wgntv.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    publishedDateTime: 2022-07-21T07:17:00Z
+    webUrl: "https://www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+    ampWebUrl: "https://www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+    cdnAmpWebUrl: "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/business/ap-business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
+      name: WJHL-TV
+      domain: wjhl.com
     quality: 59
     images:
-      - url: "https://wgntv.com/wp-content/uploads/sites/5/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
+      - url: "https://www.wjhl.com/wp-content/uploads/sites/98/2022/07/d1e44293509e4cb6832bb50c7941be6e.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true
@@ -149,6 +151,6 @@ related:
       domain: autonews.com
     quality: 0
 
-secured: "uEagGSIn/jsGFrK5oH03DsAzqpqIGnBXEisMEIDF+zmJkfk0FpMPBB/1uDnHUZ3Vblb9kqm2tL7lsyl/HayuJhTiySbg60bocvJWV5mQJ3Qc4ieSWs5DQscmfP1tWBDA4jXUHCjg90c/A9CXjY/4gjXClEvzT3kkV7maoerrNN/DxaQM2HLXm28bcD02gQCa1tFUPj90MqYX1VCEE/fC/SUgLwBtAJnOSns6x6O+WJQNxJbfQiEYn2LwbYU6bPL/6TPgpJ3sbOzBZGHsHAEGTyLnhmFbUBXDeAx1vpSavcZWFHkYUGIc+YDOhU9EeW2tBs0CFhrg83SXXN7W2btc5EXH4MijI2vP6K4TmTgkTRE=;QvvNSlwwhnAFGOpOqJYbxw=="
+secured: "01RwjasMtkGkhTaNMwt4GujGRQcNfGuzh2MEIiInAMh1sOs9+C+w1NZTT7iL0Rvur+SDGzNosYBc2H+fJqWX6ANvKZIFFSB9poRxWRySVORttN9iPYVq3Q1QTLip6dr6SudHwAL28mVAU/A6RAZQIdEd7L8W3Mqgo3TQCTpM4Dxjz2cNYZE46V5fuisCFCtq5aXdQdktLdc+gTPO4kUiguYFC/n/l4Du4C9n0BshKhDn/OB8k2hE2boBndMK4N/Uok4ZJZ9J1h8KpV+KcVDedYcFR1jjyFOcNyFgN2nlLoHUtPZVigyGYp5WK31vfELfLwpALsV784dtzORMumuW+6RyZXvIQ7wO7nWAB3vO4a+lzSZ0f/zJR/fBrSqeRGGXV76tSJdtSwwCFLq3lLnHfYIipUXnVbJj6OVJgQMzSl2YsbKPy7xx9XljoWmb+BxILQ+03J8A1Ym8gbjhF7Zt/D6mll95vaijBH4qDNuZ4Ze6IwLdzsc6+EW5kO8OBdd48cZTN0stwDwqYZZPnb34iw==;FuaufplJhhq/cNRSu/8bdg=="
 ---
 

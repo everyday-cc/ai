@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-ai-and-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Five alternatives to using AI in the recruitment process"
+    excerpt: "AI can highlight recruitment keywords, but it can’t read between the lines or recognise talented people who may not have on-target resumes."
+    publishedDateTime: 2022-07-25T00:37:00Z
+    webUrl: "https://www.smartcompany.com.au/plus/ai-artificial-intelligence-recruitment-alternatives/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/07/recruitment-ai.jpg"
+        width: 733
+        height: 358
+        isCached: true
   - title: "Pecan AI Announces One-Click Model Deployment and Integration with Common CRMs"
     excerpt: "Pecan AI, a leader in AI-based predictive analytics for BI analysts and business teams, today announced the addition of one-click model deployment and integration with common CRMs, marketing automation,"
     publishedDateTime: 2022-07-20T18:13:00Z
