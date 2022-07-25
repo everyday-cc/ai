@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Boxes help fuel proliferation of video analytics"
-    excerpt: "A look at how AI appliances are helping a larger number of end users take advantage of intelligent surveillance tech"
-    publishedDateTime: 2022-07-20T19:01:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21274802/ai-boxes-help-fuel-proliferation-of-video-analytics"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/bigstock_Iot_Machine_Learning_With_Huma_265744639.62d8500b35a09.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Risk analytics platform Zesty.ai raises $33M in Series B round"
     excerpt: "AI-powered property risk analytics platform provider Zesty.ai has raised $33 million in a Series B round of funding led by Centana Growth Partners, it said this week. The company said the funds will be used to scope expansion of its property and climate risk products,"
     publishedDateTime: 2022-07-21T12:26:00Z
@@ -49,6 +35,6 @@ related:
       domain: realtybiznews.com
     quality: 19
 
-secured: "gfvppnYsZyc50VzU87cGt7oDlR7m5+fuETydy3A2mojNxMHv20iOQCjnQrNPgzwJKYA2IsdelCVToYzeYbzASQnZwJSm6lNJowTJesAcXhSMk/zJMrMNMc8eLI98W4FWFedGlNihFlQU/G8zcBLGVx61sjoIGtNgF/Up6EBKDIDMc3FcSksKy7Q90+D0/4G2XQiptOZPkIuhzuTTmkS/wCi+Bpd1FTHGsXnNP+xbD7/E13ulOzIn/I1ZxCr8/RUJusYQOO7FSHMR8fh9O0f/bVIihv162FyskYZs03A72z0ZauEmlZbxPVKxkaNKMs/8ezfr0Vsyhx3StYqlGRm/VgsJ5tzCNiYT6VWXNO98GtI=;su3zUjbXPHe2V1qCeUGnfA=="
+secured: "kjoy254OMCBwOTwBUEIb/S1mZddotGtC7MJKB+A1e+ScGqFGn1wXItunsyMfJMQtKS5R7yrTTe2LKK3ZdHSDJZWhrLKrb19FuA6SuDcRU7lGBqmeAVpUso03qj6Mfb9T5dITo+mok8XU4WMxlUWDPG41Su1mDxCrve1zVkla3jy5SQTAC0MNND4nkz+R2ET1e+W2Ukzy3LCOmnAFV7d0VOZ6q/rUkaSp9q0YiQEXThoXPG08a1GXyC11hJyoDC9uIc4xsWYfJGigtdyFWhJqc5AAMKuSeqO2fhs4zX+3hMJ62Ixc9emEXaCyN6CUGZ26VIFI4Ih+4+oL/PwU9HY74S9faPDvBfj1qRxETGGfqKtKsJg/9kkEqU9N/m/YnsKFoCqSLQU1vXL+uZ5BzqSlrhWggOcGPNuqzmMpdYMCwj5rMz46iJP4Cl1CyZUDXYj6l+gZ4pedBK3xKbSq7BnIjHNmJDUAbSmTo0yS0KbQG4nbv0Sob22cW0P+7Ej/d4ZdaiKY80eFSrPSkd9jDF5AzQ==;v/qgdeHEEFOdGgi+vTaPKg=="
 ---
 

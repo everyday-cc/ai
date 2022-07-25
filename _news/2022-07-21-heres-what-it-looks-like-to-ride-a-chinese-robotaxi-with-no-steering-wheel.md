@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Amazon-Owned Self Driving Firm Zoox Seeks to Test Robotaxi in California"
-    excerpt: "Zoox, a self-driving technology firm owned by Amazon.com Inc, said on Tuesday it was gearing up to launch its robotaxi business, self-certifying that its vehicle with no pedals or steering wheel meets U."
-    publishedDateTime: 2022-07-20T17:47:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-07-19/amazon-owned-self-driving-firm-zoox-seeks-to-test-robotaxi-in-california"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
   - title: "Chinese firm Baidu reinvents the steering wheel to rival Google model"
     excerpt: "The Chinese search engine and artificial intelligence company Baidu has unveiled its new driverless car, and plans to make its robotaxi service available in China from next year. The Apollo RT6 is ..."
     publishedDateTime: 2022-07-21T12:22:00Z

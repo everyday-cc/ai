@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
-excerpt: "The investigations followed a report from consumer advocacy group Choice about the retailers’ use of the facial recognition technology. Choice analysed the privacy policies of 25 major retailers and found The Good Guys, Kmart and Bunnings were recording ..."
-publishedDateTime: 2022-07-25T09:20:00Z
-originalUrl: "https://www.cairnspost.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues/news-story/02b1f7b37e92c3df4630a48053623679"
-webUrl: "https://www.cairnspost.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues/news-story/02b1f7b37e92c3df4630a48053623679"
+excerpt: "Hardware giant Bunnings has switched off use of facial recognition technology in its stores amid an investigation by the nation’s privacy watchdog into how the retailer is using it. The Office of the Australian Information Commissioner (OAIC) confirmed earlier this month it had opened a probe into how retailers Bunnings and Kmart were handling customers’ personal information."
+publishedDateTime: 2022-07-25T09:26:00Z
+originalUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490"
+webUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490"
+ampWebUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
+cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
 type: article
-quality: 11
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Cairns Post
-  domain: cairnspost.com.au
+  name: Perth Now
+  domain: perthnow.com.au
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://images.perthnow.com.au/publication/C-7639490/ecaf881619aabefe9bd6b8d2da6024e398e47746.jpg"
+    width: 1200
+    height: 900
+    isCached: true
 
 related:
   - title: "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe"
@@ -94,6 +102,6 @@ related:
         height: 999
         isCached: true
 
-secured: "Pa+FNhYQLoYS9eGTZAU9Rl89QM7nMKrv2tFVj3UHVHhLVUk6hG7JNjaPuwcl5mcVV7VvSklA5fFL4BL/Mg+nXr0PsCaYWBUq2vVVf5qAXD4eoil33N5oKQipEyKXnMcGGzfE7Dkks7qrHo3NPUp5lKtRECNxoZ9DjZWidv4IKcug90e2xhWgijZ80f/Ipr53XpbZx0H36YJ7LvTpwhY5eeYEXLooOJulQRe78AmJFR+JGOx0Ft7p23wTfdku2pIALmfXsmayz9b8y+WCfhUJFz7HgBpObdbHcVano/A24xhG+AoJT5akcq46JdX/qVCXuDtLxR/suUJYeXxNj4cjN3EUm4Yu/eVLt+E8n3vTMTHTuUQAv8XrVuIKYY6yISpG4+tfmBCtIl8/zqA4ooTf8VWF6hgqIzXKZNaPcTSKyFvaWAdT9JFCGXBH2dS2oO5DVAoW1/2b/B+CWKl3PpfScunDmRpiu/GIYVznvYHf8qzOmdBVbX4s3RwC/HS4g8uigd1MU8zSn4daNO6iNjwxXA==;E20UKrlmSiyIPouL5wt+5g=="
+secured: "bqMk4D/MaHy8B2pduQh+rnhVSt/PL4KbQvOMKZx+QpN28udqLGTxdAFWYe0yUj3E7MHRRy9Yb8G292ir4UE5zxIaENW9Xd+KJx7y3yRKQFECaxDdp1yiAkRhcP06FRVYJ7muK1Pd9j7/PoWM7v+rgMSRsdDaUwTtNoJlhDdwlpgrDTsiwklxozkdf5b1ihVqNKz3fUfuMAlrpkMXJRNkDr+VR7ecKTB0IhsUAfCO83VP9cwbnnpqd6behHSB98w7ZcoredmjHkyTVOjME0fohRzl5+ABLCQVRrsbV0rOhbmRRpmE+jVvlCCwIPFfW7PWKlhGiquzHczbVxzUxEteE6dHCcVFEJ3Va/Arq21zUww=;TmJIDhu7vXL2qohXaj4rHw=="
 ---
 

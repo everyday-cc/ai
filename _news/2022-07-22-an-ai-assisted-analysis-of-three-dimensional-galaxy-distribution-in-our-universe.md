@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Understanding The Role Of Artificial Intelligence In Combating Deforestation"
+    excerpt: "The rampant deforestation around the world adversely affects your business in direct and indirect ways. While many may see it just as a technology for businesses to boost their revenues, governments and environmentalists can use artificial intelligence (AI) for sustainability-related functions,"
+    publishedDateTime: 2022-07-25T10:13:00Z
+    webUrl: "https://www.bbntimes.com/environment/understanding-the-role-of-artificial-intelligence-in-combating-deforestation"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 34
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Deforestation_AI.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "phB0kZ0Bjt3ye3zMsxImSvLiBZ0Jugh99R4sp8nrYmmEyJnFQy5yyoJEWdetU69nseCV2xg5Gbgy078F6mO6rDgKozwyfhvInnSWEKf+UtNgddvgpGnv6h2FJaBmtc8kRepDWifKepRr9xAYwQC+wpMbW+FN7Gtg2BxdLIlfv3GYdmhx2CCuxFmWAkXHyG/Ksguby2pWs+u+zK8VD/EJZAZVMFYraQ9gT/8fZLdyA6DrPhn35KqiAqGoImhNU37anIav59HWMp20hUi3HZNxu0I1pTOKf99EPIYQhKTe5YfB1YOSOFuBIfwVD3B2FWpjMwMQ8YcwXOvix5z9EGvwRTpMtA85YW2kR+TVbJ3c4SOKFyHvf+k+NKh63eKoopNJ8k2fXbhXUXBq830cguZctBxmmtCizr0R4Dc3BWY8/Zb5Tjqq2g4YH6OzDicYmnELKxstfu8XCvzTrXGvUN8Sz2ILbogdJjzbEsHbURkW76Qc+M4NUZI1AJ8ZWYBvUOOY2qeUeorIIwDNSpys8yckWA==;ZeNHzV6pPfvFrXGd9JJQ8w=="
 ---

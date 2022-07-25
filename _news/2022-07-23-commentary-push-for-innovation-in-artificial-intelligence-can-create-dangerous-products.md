@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/commentary/ai-legal-liability-boei
 webUrl: "https://www.channelnewsasia.com/commentary/ai-legal-liability-boeing-tesla-uber-car-crash-2828911"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Push for AI innovation can create dangerous products"
-    excerpt: "This past June, the U.S. National Highway Traffic Safety Administration announced a probe into Teslas autopilot software. Data gathered from 16 crashes raised concerns over the possibility that Teslas AI may be"
-    publishedDateTime: 2022-07-20T17:09:00Z
-    webUrl: "https://www.econotimes.com/Push-for-AI-innovation-can-create-dangerous-products-1637689"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202207203e99f137149f39838_th_1024x0.jpg"
-        width: 736
-        height: 400
-        isCached: true
-  - title: "New AI software can create proteins that may be useful as vaccines, cancer treatments"
-    excerpt: "Scientists have developed artificial intelligence software that can create proteins that may be useful as vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
-    publishedDateTime: 2022-07-22T01:01:00Z
-    webUrl: "https://www.news-medical.net/news/20220721/New-AI-software-can-create-proteins-that-may-be-useful-as-vaccines-cancer-treatments.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 32
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "eogGvgbhFtPV8jc1rWiHXAGbLNceqdnnyxstUy+TETx2R2czJTbAyYPzkLbEfdGJ9q+s46h+1VnHhAjkzOjHgdD3/EDV0PpEMVsdXUJDp+21ol32K02YUlF6zx4ZoWqtkhmVvLNmRKAANVEESjLaO6aYOyYwOEfxUyI+MolYr3kkUZ7ef1pfNwwxuAR5b9veGmfKihvpNUacG1V3epYcw2f8FhcVaB/8y9PxrWFaN9fRrGYl90tmlUDPjx8wqd2lw5BMWDB6P2bpAKeaqquSc11WV+C+7hz+vqquW+PmggGq7WJZvUt45FsWUjwV/bQ0HuhmLEgDGbkODkEAxzqp8FtUW7V9s9phSZlD/Hb6fAXozv/9bd+FL6AWBcv7HoQ+yE5sVq6MUTeVk+aLwLPYE3gt6fe5oAn3ldDv3+DTn/ikCQQDoxvA0Q7g9UKV89D6Ki3BznyZbfZntsGBYZI0jLMdZvOMKu2OzQiX4S5mYEUYui6gG91M69WLnt+opQU0Rfk/Qn+tXPa1L57NJzKRbg==;HhAo9IW986gAw3232Z3j1A=="
 ---

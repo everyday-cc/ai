@@ -142,15 +142,6 @@ related:
         width: 640
         height: 407
         isCached: true
-  - title: "M2P Fintech Acquires T-Hub Incubated SaaS Startup Syntizen Technologies"
-    excerpt: "Digital identity Solution Provider, Syntizen Technologies Pvt. Limited has been acquired by M2P Fintech, a Telangana’s T-Hub Incubated SaaS Startup."
-    publishedDateTime: 2022-07-20T18:02:00Z
-    webUrl: "https://www.indianweb2.com/2022/07/m2p-fintech-acquires-t-hub-incubated.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 4
 
 secured: "mh95xP6xWN3YP8RW/176Xws59usdyxesK+fRn4cHYDIW1pW4dntyw+eFeAT+47Atj6xwpAKhTeBclW79XI9uEgTP2ppqz/d5/NEWOsRxtlRQJy7MK9K86NiFhTutauxJmSAQCJs/g9m/RLuCCGNWAnWAFIifL+vqQNiwNwy5M5KW/gLREfhRaw7DAxh6s90ry+W96izkKAhuMQxiXeTzB2S0HXd1Sm/MJarpte5o579LAs/7Je2gCxQUrZfPpgBK7kXWXVg+HlEzAsSee8y5h012KAH2J2ugf8pEUWYKtCYYu1uYbTWlvoJCT2kISTk0U/wKqRQDJ2/yGo9o/EaJhoz3Jhkd0j6SpepT4fYMS0OK99hwExhw4LLpHjwcgbCDUYTTxpLEfQA77CLdND796PC77aBYJkqxhg8b8SGOGWdJJex4bxSdW35tqIYmE5CZmhp07zIu2evyNj9+l5fJVuthlV8FznOIJYKPGnY6f5hLR42etVd/oEvY1/3NsSzlOk6HlaHpRgyFKsaUJ5N11A==;NM6LvJIlIxV6M/AceFBwaw=="
 ---

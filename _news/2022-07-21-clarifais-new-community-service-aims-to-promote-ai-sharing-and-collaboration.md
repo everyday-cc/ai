@@ -50,24 +50,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "UK Announces New Proposals for AI Regulation"
-    excerpt: "The United Kingdom (UK) has set forth new proposals for regulating the use of artificial intelligence (AI) technologies while promoting innovation, boosting public trust, and protecting data.  The new set of plans comes as the Data Protection and Digital Information Bill is introduced to Parliament."
-    publishedDateTime: 2022-07-20T19:00:00Z
-    webUrl: "https://www.unite.ai/uk-announces-new-proposals-for-ai-regulation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
-  - title: "Pecan AI Announces One-Click Model Deployment and Integration with Common CRMs"
-    excerpt: "Pecan AI, a leader in AI-based predictive analytics for BI analysts and business teams, today announced the addition of one-click model deployment and integration with common CRMs, marketing automation,"
-    publishedDateTime: 2022-07-20T18:13:00Z
-    webUrl: "https://www.datanami.com/this-just-in/pecan-ai-announces-one-click-model-deployment-and-integration-with-common-crms/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
 
 secured: "JClRX2fvNZPYQfy/tRyshpS1OjMqPQu4fvMitteus8Hwyct0onMTU5ns5DGtLvJ805NbjCgDacFbKp7PE0/RCdi/rXLNwDre2r9meCNjar5MXCiVj2GTuI3j9MaAV5ksjAEuw3YukmxsCE3zEveAoOoMPg9XnjNfabTek+SSgKUy95L6pvdEwSZDxg6slm+4fq13TAsWQ+BJZKc6AakeYSeDnuvSNT1lpCr9T/0BlbHNuQVC9t+F67U4+jovrNE2PN5lBdg1VfAHHmdcyU96yJYHaY+ZpkyHaKPRW3p3T/henPt4x/LC4FFSRVu0AEB0Epi/ksIpQqEFKG5x0f+sUQSA8GCclsdLlsCm2ZI7aBdtEm3esxX6rQgvl5OJF7FcQsjAQ9u/dFvebIvkKMUj+hzp8ZmKN3KtyAu/jrSNyGGDoHZZTuGNdemHrbS5ZrVhuYuw9uVkQXoqttKbe0dEgXDuHi6Mk1SlgwHcfSHPskydGdLvUvLdrCyZZeN0vlTx5lwr6II98oVSjrSvdbmQzQ==;iE0Zwdq14+OvVt5Rmexp6w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220723-google-cc-0100a-a0662f.jpg"
         width: 5400
         height: 3600
+        isCached: true
+  - title: "Google fires software engineer that claimed that its AI chatbot is self aware"
+    excerpt: "Google announced that it has just fired a senior software engineer after he began claiming that the company’s AI (artificial intelligence) chatbot was a sentient being (became self aware). According to a Reuters report,"
+    publishedDateTime: 2022-07-25T09:51:00Z
+    webUrl: "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/"
+    ampWebUrl: "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/20220321101605.jpg"
+        width: 670
+        height: 446
         isCached: true
   - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
     excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."

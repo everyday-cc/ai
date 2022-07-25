@@ -2,6 +2,160 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-13-red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge.md",
+      "title": "Red Hat’s new CEO to focus on Linux growth in the hybrid cloud, AI and the edge",
+      "excerpt": "Red Hat announced that long-time engineering leader at the company, Matt Hicks, will now be the company's president and CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
+      "originalUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/red_hat_mainlobby-e1657725975271.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
+      "publishedDateTime": "2022-07-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity.md",
+      "title": "Salesforce's AI Economist research wants to explore the equilibrium between equality and productivity",
+      "excerpt": "Economic theory is known to be constrained by a number of inefficiencies in its modeling. Salesforce researchers claim AI can help address that, leading to more robust economic policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "originalUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/25ec13c6fd6b909c20e9f957229fc13c548877fe/2021/09/21/14983cc7-2431-4227-a32c-4886b5005490/salesforce.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
+      "publishedDateTime": "2022-07-13T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages.md",
+      "title": "AI In Computer Vision Market Worth USD 43620 Mn by 2028 at CAGR of 26.5% – Report Spread across 100 Pages",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 13, 2022 (The Expresswire) -- [100 Pages] \"AI In Computer Vision Market\" Insights 2022 By Types ( Hardware Software), Applications ( Healthcare Automotive Agriculture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-selfie-scraping-clearview-ai-hit-with-another-20m-ban-order-in-europe.md",
       "title": "Selfie scraping Clearview AI hit with another €20M ban order in Europe",
       "excerpt": "Clearview AI has been hit with another sanction for breaching European privacy rules. The Athens-based Hellenic data protection authority has fined the controversial facial recognition firm €20 million and banned it from collecting and processing the personal data of people living in Greece.",
@@ -1025,136 +1179,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
-      "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
-      "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "publishedDateTime": "2022-07-12T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-voxprotect-a-witnesss-voice-is-not-protected.md",
-      "title": "VOXPROTECT - A Witness’s voice is not protected",
-      "excerpt": "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
-      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
-      "excerpt": "The company targets the NA market with its first generation chip “WARBOY”, set to begin volume production in Q1 2023. FuriosaAI is already sampling WARBOY with customers in South Korea. Bill Leszinske,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-software-south-korea-north-america-abed018084c6a57fe9e5eba4877cec50",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-software-south-korea-north-america-abed018084c6a57fe9e5eba4877cec50",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

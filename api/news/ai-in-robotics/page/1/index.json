@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
+      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
+      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
+      "publishedDateTime": "2022-07-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-ai-gone-wrong-chess-robot-breaks-childs-finger-at-russia-tournament.md",
       "title": "AI gone wrong? Chess robot breaks child's finger at Russia tournament",
       "excerpt": "The boy, Christopher, is one of the top 30 young chess players in Moscow, Russia. During a tournament in Moscow, a chess-playing robot fractured a 7-year-old boy's finger when the youngster attempted a quick move without giving the device enough time to finish its task.",
@@ -203,7 +256,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -255,7 +308,7 @@
       "originalUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1389,49 +1442,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
-      "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
-      "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
-      "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
-      "publishedDateTime": "2022-07-13T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

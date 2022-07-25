@@ -58,24 +58,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Driving smarter customer experiences with AI and machine learning"
-    excerpt: "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale."
-    publishedDateTime: 2022-07-20T17:57:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "How Capital One is using data and AI to level up customer experiences"
-    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
-    publishedDateTime: 2022-07-20T18:32:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "jDSNfes3zAH+KhOtUTk2iasX9sSoAXDXOG5SIEFKuci3iNjdnbv85ocKyuEHoXCY60MZYLrLbaxYGw6wmzxC17/SX9fj9BSQ4MDkYI7+XEjydyRcKuyNHnrebBQ9YlwqAytJR/byQiUIIimJvN1v4skOY3kpfSQYoOWhW+KlnWMrvFOvsSsY2aNixgstIXQVqDRQFEKkUZ6kBjZqrW2fDwDi7W/ZNFXSmcYuquEpnH2q/GLQsLGCKNxp4barmfkjHDNhnWECw4Uabqml2yT2VBsBQfoVqVy0fIlLOAOJ/EIiPHqoin7gsBXnKBaBcGB7TD3nZzdIaq2Kyerdem1nYsStBL4DQIPkjvWJAdFnpcp6Fv9cFlM5w8FbMJeiubQvLwbUTuUaZXWezhbZVqaK/SdyDUdQERN0XQa3wKit7MD8tr094551W9oh3gP0TbkGi+KhkVwdi2JhUxF007muqmCXWHV7/isKvsV0lRHqcyalaQGiQA+VIHNBTwxQ8POktWT3UxGVQ21/WcTS+dlLBg==;VDAfACvnjtXSnmPIuXg21Q=="
 ---

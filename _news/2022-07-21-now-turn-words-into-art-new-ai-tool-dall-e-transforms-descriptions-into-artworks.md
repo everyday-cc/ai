@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/now-turn-words-into-ar
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-turn-words-into-art-new-ai-tool-dall-e-transforms-descriptions-into-artworks/amp_articleshow/93018009.cms"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Surreal or too real? Breathtaking AI tool DALL-E takes its..."
-    excerpt: "The tool is seen as one of the most advanced artificial intelligence systems for creating images in the world. Type a description, and DALL-E instantly produces professional-looking art or hyperrealistic photographs."
-    publishedDateTime: 2022-07-20T18:31:00Z
-    webUrl: "https://wfuv.org/content/surreal-or-too-real-breathtaking-ai-tool-dall-e-takes-its-images-bigger-stage"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 39
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
 
 secured: "O/p3madL3bTHixMo9stebJYhsdELfe6wfiaMyHGfRu7GZOx2g9hc4f7gqFZzRJ1pdtLYztlTBN0TAOOqw0XlkLl8dE7m55zDHb2YYCfayYl9gpuW8Bg9COV+M0lGvsdQZ9jV2fMXCVh/dDkB3p6/NgKVefWHoMGW038u65cKIyMPUmuU0lZBUy1YZXoi4v68YAc5YkWEGVqF99IcfOlMsWZPv9jqxoh46exRqklwYd04Dh/nbGH6KaLtz0cpny0fxUKH5HHVf5n3j9YLv3ogaFQmA+r1oXNAygN42nOIdrytFiG9ITQqnJeZGxVvWPegRlUF6VIeH0/diNUyQBXa44qtcaUIfzG56Jpeu2+4rvc=;Pn2lVIU+t9pPWyGLh47HzQ=="
 ---

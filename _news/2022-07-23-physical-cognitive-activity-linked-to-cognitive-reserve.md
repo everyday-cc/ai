@@ -28,14 +28,14 @@ related:
   - title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
     excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
     publishedDateTime: 2022-07-22T15:41:00Z
-    webUrl: "https://fredericksburg.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_50f14ee6-c866-59af-8a19-b6ba96a411a2.html"
+    webUrl: "https://martinsvillebulletin.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_5338bac2-cd67-5368-aaeb-1a624264f726.html"
     type: article
     provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
+      name: Martinsville Bulletin
+      domain: martinsvillebulletin.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/9/48/9481e2ca-2c9c-525d-ba41-ec3c369a85c5/62dad824e6805.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/martinsvillebulletin.com/content/tncms/assets/v3/editorial/8/68/8689b997-73a3-5e70-838c-00ae34311e8a/62dad7e2d8239.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

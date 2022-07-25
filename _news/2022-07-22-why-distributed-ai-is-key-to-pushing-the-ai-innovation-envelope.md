@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-push
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Understanding The Role Of Artificial Intelligence In Combating Deforestation"
+    excerpt: "The rampant deforestation around the world adversely affects your business in direct and indirect ways. While many may see it just as a technology for businesses to boost their revenues, governments and environmentalists can use artificial intelligence (AI) for sustainability-related functions,"
+    publishedDateTime: 2022-07-25T10:13:00Z
+    webUrl: "https://www.bbntimes.com/environment/understanding-the-role-of-artificial-intelligence-in-combating-deforestation"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 34
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Deforestation_AI.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "An AI-assisted analysis of three-dimensional galaxy distribution in our universe"
     excerpt: "By applying a machine-learning technique, a neural network method, to gigantic amounts of simulation data about the formation of cosmic structures in the universe, a team of researchers has developed a very fast and highly efficient software program that can make theoretical predictions about structure formation."

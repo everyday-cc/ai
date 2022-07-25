@@ -74,6 +74,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "AI asked to show an image from inside a black hole"
+    excerpt: "A new artificial intelligence system has been asked to produce an image from inside of a black hole, and the results are stunning."
+    publishedDateTime: 2022-07-25T08:45:00Z
+    webUrl: "https://www.tweaktown.com/news/87562/ai-asked-to-show-an-image-from-inside-black-hole/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "j/J3uNBwwRKxKz7RW//uw5csErySZtNtPufEBAlFqW4Ofr29xbD9DTvZ5BGghca45h0DWkdCmTPoVMnXBCgQWV6yREwdfylTlP5snFArJ9pA0EzEsox5YtT/0z3BfnYoZVJzzgNYufOtSRLshIaB+lv3DCwtJKzmCZefArNSKhWnwgzeyRNF3bGIMpzJKXZyTECL8/aCsmnv+oaDdPxLrsnQPMzCPDm9pfZihgAod/5Myh13Xh2GCGqyKOR1iojwu8SGia5Qff7UTwBh2r8LKa1OEfXHV1yR+Yl/l1JT2jA1nRdGcDk8lKDHeqJxqeo3zvdKCFukMkft0dz+v7X3u4dv+LX0U6gBCxbRie7nzCL6s3/tUVejE1lC4LlfVCmXuE6HhzX410YSAtxG+vgVVi/jjF5NuyfFbeysFbN0mXVZNwXlOB7TzKewJIkAvKne50vnHBqS+sCURJukMeIt7HVsw1sLF/e9jxR12UgteTl3Mds9GvXjZBfwxO7lvJ03Hu0abYTvEqTSgDZesvgeAA==;jrukjd6r6ry3PdumfcUvwQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-an
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -44,24 +44,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Driving smarter customer experiences with AI and machine learning"
-    excerpt: "When AI is integrated into an organization's core product or service and business processes, it’s at its most beneficial. Despite AI's increasing popularity, many businesses still find it difficult to use AI and ML on a larger scale."
-    publishedDateTime: 2022-07-20T17:57:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/driving-smarter-customer-experiences-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "How Capital One is using data and AI to level up customer experiences"
-    excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, and deep business insight to create great customer experiences."
-    publishedDateTime: 2022-07-20T18:32:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Rediscovering analog computing for achieving effective edge AI performance"
     excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
     publishedDateTime: 2022-07-23T13:50:00Z

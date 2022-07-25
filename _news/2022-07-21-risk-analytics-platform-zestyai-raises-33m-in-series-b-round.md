@@ -33,20 +33,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Boxes help fuel proliferation of video analytics"
-    excerpt: "A look at how AI appliances are helping a larger number of end users take advantage of intelligent surveillance tech"
-    publishedDateTime: 2022-07-20T19:01:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21274802/ai-boxes-help-fuel-proliferation-of-video-analytics"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/bigstock_Iot_Machine_Learning_With_Huma_265744639.62d8500b35a09.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "rM4QBPZ8xF9EzYVL5oRlDEz6cgELJ0HM7BtGi7BzYDFnRZELwljV8soOhozbdLMz43ldisQEyuNaLXEK8Eh4BDLYkjZEhi5tC2A/Da+kQH5vxyIMEcTUZxGqfPuwOzPo4NctZgQCpR7vU8egiRH1PrMl/p9ijqFwHWOdfD+gGe/XJqKs2CqKtdIPQ3ajrkbnY7QKIZlO8cA7dv9HHaew6kqpz4n207wBxcIBpNpSNPTW2Y3lGLHh6RJSPnxUh0Mdt7IzObvXpFEKauhN0AMxHjCvSCGCPQZA4/K4IOU4iW/AgB9KlcwaG5ABBzQilKCY99WlzqFUzqB+36/5J0TzyJH04WxOkP5xG3Qs/9rg3YdNRFZN/5XZrbtTQ4X6eAVcfUFrDVH/4ejJjomLPhycLtvO0rcbEJxThr2ArCR8OU0jkeoN8ChoZeD/dKqxU1P55nvgMdYNXrXvonoKxAzB3Iw3jJwcx15kkws48AHfFpcrmjb9mFOuP+vNZ9Jpi7BDoXmNP+E/HeTuAxyVr1SY2Q==;iF+3RkMuV/h+yCpjjNfJ3Q=="
 ---
