@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T18:26:00Z
 originalUrl: "https://menafn.com/1104595246/Startup-Uware-Robotics-Develops-First-Complete-System-To-Map-And-Monitor-Coastal-Ecosystems"
 webUrl: "https://menafn.com/1104595246/Startup-Uware-Robotics-Develops-First-Complete-System-To-Map-And-Monitor-Coastal-Ecosystems"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

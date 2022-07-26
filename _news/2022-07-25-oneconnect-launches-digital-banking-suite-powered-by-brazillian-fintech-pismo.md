@@ -35,20 +35,6 @@ related:
         isCached: true
   - title: "OneConnect Financial Technology Announces the Launch of All-In-One Digital Banking Solutions Suite, OneCosmo"
     excerpt: "OneCosmo is the result of the joint product offerings of a partnership between OneConnect and Pismo Next-generation technology implemented in OneCosmo allows financial institutions to build a wide range"
-    publishedDateTime: 2022-07-22T03:50:00Z
-    webUrl: "https://www.asiaone.com/business/oneconnect-financial-technology-announces-launch-all-one-digital-banking-solutions-suite"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2022/1_78.jpg?itok=5JdmWpKN"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "OneConnect Financial Technology Announces the Launch of All-In-One Digital Banking Solutions Suite, OneCosmo"
-    excerpt: "OneCosmo is the result of the joint product offerings of a partnership between OneConnect and Pismo Next-generation technology implemented in OneCosmo allows financial institutions to build a wide range"
     publishedDateTime: 2022-07-26T06:46:00Z
     webUrl: "https://www.asiaone.com/business/oneconnect-financial-technology-announces-launch-all-one-digital-banking-solutions-suite-0"
     type: article

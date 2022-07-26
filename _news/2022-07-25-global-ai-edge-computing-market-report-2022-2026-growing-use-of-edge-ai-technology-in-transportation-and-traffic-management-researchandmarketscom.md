@@ -66,6 +66,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Artificial Intelligence Computing Software Market Report 2022: A $37.6 Billion Market in 2026"
+    excerpt: "The \"Artificial Intelligence Computing Software: Market Analysis\" report has been added to ResearchAndMarkets.com's offering. Market is predicted to grow from $ 6.9B in 2021 to $ 37.6B in 2026 and may become a new sector of the economy."
+    publishedDateTime: 2022-07-26T20:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-computing-software-market-report-2022-/2022/07/26/9645452.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "Global Data Intelligence & Governance Market Report 2022-2026: Exponential Growth in Data Volume Fueling Expansion - ResearchAndMarkets.com"
     excerpt: "The global data intelligence & governance market in 2021 was valued at US$20.55 billion, and is likely to reach US$36.27 billion by 2026. The data intelligence & governance market is projected to grow at a CAGR of 13."
     publishedDateTime: 2022-07-26T10:33:00Z

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Seeing the light: Researchers develop new AI system using light to learn associatively"
+    excerpt: "Researchers at Oxford University's Department of Materials, working in collaboration with colleagues from Exeter and Munster, have developed an on-chip optical processor capable of detecting similarities in datasets up to 1,"
+    publishedDateTime: 2022-07-26T18:14:00Z
+    webUrl: "https://techxplore.com/news/2022-07-ai-associatively.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 11
   - title: "MegaPortraits: Samsung AI Center researchers develop animated megapixel neural head avatars"
     excerpt: "Have you ever seen a painting come to life, like the portraits in Harry Potter? Researchers from the Samsung AI Center have developed a new neural technology to animate static images with impressive realism and resolution."
     publishedDateTime: 2022-07-26T13:34:00Z

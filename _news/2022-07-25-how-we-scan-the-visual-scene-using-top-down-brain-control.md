@@ -2,10 +2,15 @@
 category: news
 title: "How We Scan the Visual Scene Using Top-Down Brain Control"
 excerpt: "We see details in only a small portion of the world in front of us, one point at a time, guided by and processed in regions of the brain detected in new research described by Christian Kiefer and his colleagues in Frontiers in Neuroscience in February 2022."
-publishedDateTime: 2022-07-25T15:24:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
-webUrl: "https://www.psychologytoday.com/us/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
+publishedDateTime: 2022-07-25T16:33:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
+webUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control?amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -15,6 +20,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "57IhZIGXP+RMlICjqVZ8wzQdXUFy2MA+0tGWCEdmC78x7Nclm7ZWClTheJL+/MaysIkI0wFCY62aQnBE89FXrT1IMsKqBPUquJtzuPsJtOAP54ozZ676JqboFPJLY+SA3zcf38iSIOZKavYbwrcDrOmoQpvU6Op+Jg9Qyg/Mk8LMioC+K68LwX9TDsTuFUNoPe2mN6wkhJfdLHQ7jH9Lueast+8tuWxyZisYsonsFhpYsWcKK2f9eNAsoVzeRjDhyX0UiqjQMsLmn7RQCwdQP8X2QiaHu2qa3GvAWyh00/tAO39FQ3gspYcr+K65iEk240Y80BrMB+znRzibo2MP+7BK8Pz8ccD5Pd297eCLtruqVz4+RasUY62+MaiwL4YOA6X5DCLLvvBpXUSbFb0DP+SLRv1zT1OH29uWY1b+G6pWg7DNsMKDVhdlXGBNvvDqI28xcFVeaHpi69qqJB0MgcD10YU3pyNxqOA9gkcVRMa0F6441IamGmlNjcxpCu6VW2ObDk7F+3/0E4dDddJTkQ==;rxsJSm3N2oMb59VEEEjl/Q=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-07/temporoparietal_junction_on_mri.jpg?itok=YDGnNzve"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "Ko/c6OQEUoMJF93jbFr5DhGVsrwmW0ZiOz9QTRM3gyrj8Hb8Cv+OCVciF0mTBt9aTQ2+VdzjnHrytDn/+SyGSQ4cnEuQ08RYTyrJhViCssXgJn3iZsE5KsKIxS88OQhAAq6du+HZnfi+Zv9hXi0x9qohsK/uH6c/e0mg3VIdRaDn4O5NgAWE5Gd6aaGVkPT2efyn1zP/Tz0H9xSlXSf40q/UV078ok6XiVCbDOi9gov8B7DUfbzwQCpblu0XTascvRQ4yg43NQSFERIXVRZVOzDwvEzd2g3DCArKktEBrkjC1DvWUmOSN3eqEU9XB6xHxuobGT1MPN/TM2Q/3eZ/B6GR2GAFMtSKaBJkTAvFqso=;FE/yrF6DXR90J8RM1zGbQg=="
 ---
 

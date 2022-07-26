@@ -57,6 +57,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Artificial Intelligence Computing Software Market Report 2022: A $37.6 Billion Market in 2026"
+    excerpt: "The \"Artificial Intelligence Computing Software: Market Analysis\" report has been added to ResearchAndMarkets.com's offering. Market is predicted to grow from $ 6.9B in 2021 to $ 37.6B in 2026 and may become a new sector of the economy."
+    publishedDateTime: 2022-07-26T20:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-computing-software-market-report-2022-/2022/07/26/9645452.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "Global AI Edge Computing Market Report 2022-2026: Growing Use of Edge AI Technology in Transportation and Traffic Management - ResearchAndMarkets.com"
     excerpt: "The “Global AI Edge Computing Market 2022-2026” report has been added to ResearchAndMarkets.com’s offering. The AI edge computing market is forecast to grow by $14.28 billion during 2022-2026, accelerating at a CAGR of 20.27% during the forecast period."
     publishedDateTime: 2022-07-25T09:17:00Z

@@ -1,0 +1,197 @@
+---
+category: news
+title: "Facial recognition still gets mixed reception on retail floors"
+excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
+publishedDateTime: 2022-07-26T21:44:00Z
+originalUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
+webUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+    width: 1454
+    height: 800
+    isCached: true
+
+related:
+  - title: "Kmart halts use of in-store facial recognition amid Australian privacy investigation"
+    excerpt: "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,"
+    publishedDateTime: 2022-07-25T14:01:00Z
+    webUrl: "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html"
+    ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 82
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8"
+        width: 4912
+        height: 3264
+        isCached: true
+  - title: "Retailers vow to avoid facial recognition"
+    excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+    publishedDateTime: 2022-07-24T17:30:00Z
+    webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 54
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe"
+    excerpt: "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+    publishedDateTime: 2022-07-25T02:54:00Z
+    webUrl: "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448"
+    ampWebUrl: "https://thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/bunnings-kmart-hit-pause-on-facial-recognition-technology-amid-privacy-watchdog-probe-c-7634448.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 51
+    images:
+      - url: "https://images.thewest.com.au/publication/C-7634448/1c9c82ed648bd2ce096743a69ae292db2cdc701c-16x9-x112y0w4012h2257.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
+    excerpt: "Hardware giant Bunnings has switched off use of facial recognition technology in its stores amid an investigation by the nation’s privacy watchdog into how the retailer is using it. The Office of the Australian Information Commissioner (OAIC) confirmed earlier this month it had opened a probe into how retailers Bunnings and Kmart were handling customers’ personal information."
+    publishedDateTime: 2022-07-25T09:26:00Z
+    webUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490"
+    ampWebUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 51
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-7639490/ecaf881619aabefe9bd6b8d2da6024e398e47746.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Bunnings, Kmart Suspend Use Of Facial Recognition System Amidst OAIC Investigation"
+    excerpt: "Following a report from consumer advocacy group Choice that revealed both Kmart and Bunnings were taking biometric information regarding their customers and an investigation from the OAIC, both companies have now announced they will be temporarily shutting down the facial recognition systems."
+    publishedDateTime: 2022-07-25T23:53:00Z
+    webUrl: "https://www.bandt.com.au/bunnings-kmart-suspend-use-of-facial-recognition-system-amidst-oaic-investigation/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 48
+    images:
+      - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
+        width: 401
+        height: 300
+        isCached: true
+  - title: "Australia remains an AI laggard, new report warns"
+    excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
+    publishedDateTime: 2022-07-24T15:08:00Z
+    webUrl: "https://www.afr.com/technology/australia-remains-an-ai-laggard-new-report-warns-20220722-p5b3vw"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e3d24459f20c4756fe323e68faae716c988777dd"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Bunnings, Kmart hit pause on in-store facial recognition"
+    excerpt: "Bunnings and Kmart Australia have paused the use of facial recognition while the privacy watchdog investigates their personal information handling practices. The Wesfarmers-owned retailers took the decision over the weekend,"
+    publishedDateTime: 2022-07-25T04:03:00Z
+    webUrl: "https://www.itnews.com.au/news/bunnings-kmart-hit-pause-on-in-store-facial-recognition-583134"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/bunnings---02.jpg"
+        width: 1773
+        height: 1182
+        isCached: true
+  - title: "Bunnings & Kmart Pull The Plug Temporarily On Instore Facial Recognition"
+    excerpt: "Bunnings and Kmart the Wesfarmers owned retail stores have followed the lead of the Good Guys and pulled the plug on using facial recognition technology in their stores while an investigation by the AIC takes place."
+    publishedDateTime: 2022-07-25T01:40:00Z
+    webUrl: "https://www.channelnews.com.au/bunnings-kmart-pull-the-plug-temporarily-on-instore-facial-recognition/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 38
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/06/Security-Camera-Retail.png"
+        width: 1503
+        height: 999
+        isCached: true
+  - title: "Australia remains an AI laggard, new report warns"
+    excerpt: "Australian companies are less sophisticated than their overseas counterparts when it comes to adopting artificial intelligence, McDonald’s bids for workers with $1000 sign-on bonuses; follow updates here."
+    publishedDateTime: 2022-07-24T20:23:00Z
+    webUrl: "https://www.afr.com/politics/australia-remains-an-ai-laggard-new-report-warns-20220725-p5b475"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1244%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/94c14cb850cffd990beaeee1b631238fbca1b380"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Hashtag Trending July 26 – Australian companies stop use of facial recognition tech; U.S. social media laws; Intel and MediaTek agreement"
+    excerpt: "Australian retailers stop the use of facial recognition technology, more American states are working on laws to control social media, and Intel announces that it will produce chips for Taiwan’s MediaTek."
+    publishedDateTime: 2022-07-26T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 26
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
+  - title: "The Toll Facial Recognition Systems Might Take on Our Privacy and Humanity"
+    excerpt: "Learn about the facial recognition privacy concerns that have been raised by experts and consumers in recent years."
+    publishedDateTime: 2022-07-22T18:54:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/facial-recognition-privacy-concerns/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 19
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 3
+
+secured: "d7HoSIg5o9KnKdozBF3qApNXNagy+X9zs8nrQo1sYzUbKIGut8rY5Bn+QC2vRwML/8eY5UvulvloFarEexpFwEG7ecvyeXuDwBlnriqQKc9WgPLg0uTHFU/0eSnB//cdGI4qpJ3Fe2ROdNYTS9MwQCJcNb6xJr3adYfslgL96KYm208xu4YkiCoVbO9MgCiNbODTakTgPgMovYi/P25GtOP5cutWIgD8ioZwrO5dfsehjBcRFeKBpr760apX2kqEd8QCutggeqfn+SNg9HrYhBV202t/2/veB7lpYghuT8nvmFAYpveGnz8Vg05VamrO3mKU48m1Hr302zOlwmPNx8g11n8IFb5QXQCJYCI+iXg=;bVRZy/5SV19psDwbrJHTHw=="
+---
+

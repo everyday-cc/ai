@@ -57,22 +57,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
-    excerpt: "CNBC reports: “The Apollo RT6 is set to start operating on China’s roads in the second half of next year under Baidu’s self-driving robotaxi business. “The company’s robotaxi business ..."
-    publishedDateTime: 2022-07-22T01:16:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/22/7f856bd1c80f474acbaa3fa5987da9e7.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Baidu: Beating Tesla In Potential $200 Billion Robotaxi Opportunity"
     excerpt: "Baidu's Apollo Go is quickly emerging as a leader in the Chinese robotaxi industry, with operations spanning 10 cities. Read why it's beating Tesla."
     publishedDateTime: 2022-07-26T17:06:00Z

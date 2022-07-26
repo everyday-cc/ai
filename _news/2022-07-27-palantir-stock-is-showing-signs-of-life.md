@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T19:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/palantir-stock-is-showing-signs-of-life-1031616741"
 webUrl: "https://markets.businessinsider.com/news/stocks/palantir-stock-is-showing-signs-of-life-1031616741"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

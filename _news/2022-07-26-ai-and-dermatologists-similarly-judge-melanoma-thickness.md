@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T15:26:00Z
 originalUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/ai-and-dermatologists-similarly-judge-melanoma-thickness/article_5cf695b5-c48d-54f3-b753-05af2d3d3091.html"
 webUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/ai-and-dermatologists-similarly-judge-melanoma-thickness/article_5cf695b5-c48d-54f3-b753-05af2d3d3091.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Bismarck Tribune

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T19:01:00Z
 originalUrl: "https://www.pcworld.com/article/820518/midjourneys-ai-art-goes-live-for-everyone.html"
 webUrl: "https://www.pcworld.com/article/820518/midjourneys-ai-art-goes-live-for-everyone.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC World

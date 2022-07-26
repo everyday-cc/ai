@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Cambridge Handbook of Working Memory and Language"
-excerpt: "Cognitive load theory is an instructional theory based on our knowledge of evolutionary psychology and human cognitive architecture. It can be used to provide instructional guidelines for the acquisition of all aspects of a second language by adults and ..."
-publishedDateTime: 2022-07-10T19:43:00Z
-originalUrl: "https://www.cambridge.org/core/books/cambridge-handbook-of-working-memory-and-language/cognitive-load-theory-and-instructional-design-for-language-learning/C1A61C6FC46C173594554509664B2757"
-webUrl: "https://www.cambridge.org/core/books/cambridge-handbook-of-working-memory-and-language/cognitive-load-theory-and-instructional-design-for-language-learning/C1A61C6FC46C173594554509664B2757"
+excerpt: "Measuring Individual Differences in Working Memory Capacity and Attention Control and Their Contribution to Language Comprehension Working memory and language are tightly intertwined cognitive systems. Working memory enables language acquisition and ..."
+publishedDateTime: 2022-07-10T19:41:00Z
+originalUrl: "https://www.cambridge.org/core/books/cambridge-handbook-of-working-memory-and-language/cognitive-neuroscience-of-working-memory-and-language/DE0E2810BC4ECAECDB2EDF2CD7B4D9D3"
+webUrl: "https://www.cambridge.org/core/books/cambridge-handbook-of-working-memory-and-language/cognitive-neuroscience-of-working-memory-and-language/DE0E2810BC4ECAECDB2EDF2CD7B4D9D3"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 600
     isCached: true
 
-secured: "d7ZJZfBw0CT7znsfmsR5+LahdRgcaTTofujH0PScVbl6fAADh/RY3A0TAhcuR7Wb8DavMyU2cdPirFppjula/do+uXW8URmRxTrrQ3lE0Pvm+Ghic9kSgK1gTBEahHAxeZyqYNTMv5si6OoRchRBrN2TV6OXX6WsssGbn6CxuATyct1kZInBHFg29I1d1mXNnLIcMKV/xnRrQiyMqxm4TPUBhGBpLTZK8VKYLDhCRASE3/mJPohhJxWogDIQc3Rj1s0HilqVEOkXtGk1Go1mNK8tJY1fGMSkPZEODqEk4q2z4//56Zvyus0IcmHbZTB0SaDuGajVM1EKlY1Bc4OFKj3PkJ3mX5f5pPWs7S7oiw4=;iTabnvLHkh0UqLeBNyohYA=="
+secured: "YsOYzw7uwRpSvK2PNoN+nxotq8xRjHTGPBiOyW7dZbqQlDlSSpLdrjq4aPksVqOyXyuJRQnlpnMIif4xHtzO+CGuis/7nYFqCgyyc0tFlwqbOoVRQQcz22b8hrbft30DneL2dFrXB91KgUla1SBNpcIaGG1DbRFXATX974ndTWfuqhrCvPX4fuQ0E/fMr/hqgZNZhB+4q2U5eVXtORFR6ffPu6/s/OyacQNNd7lu9RGLfYiqHFLX2brwcAbMNgVCxi0kQQ2wS46czm7X7oBl4qDxWxWwQ/vaVKL8iEckSRZZhJzHALssrWo1UitSVp9XPXiT8HrPEw3Ca73a7+8Q0ocJUKfmBvYN73kPiGzJhDg=;GiT5h/4BmoBbpv7p+2+faQ=="
 ---
 

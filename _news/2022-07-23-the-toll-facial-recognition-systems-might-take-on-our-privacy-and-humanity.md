@@ -50,6 +50,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facial recognition still gets mixed reception on retail floors"
+    excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
+    publishedDateTime: 2022-07-26T21:44:00Z
+    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
   - title: "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe"
     excerpt: "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
     publishedDateTime: 2022-07-25T02:54:00Z

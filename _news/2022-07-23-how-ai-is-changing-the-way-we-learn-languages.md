@@ -26,11 +26,18 @@ related:
     excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
     publishedDateTime: 2022-07-25T14:51:00Z
     webUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+    ampWebUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
     type: article
     provider:
       name: FOX31 Denver
       domain: kdvr.com
-    quality: 6
+    quality: 46
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+        width: 1040
+        height: 585
+        isCached: true
 
 secured: "4JF5KlcZJJzkvzxIq1mNY+P42e513tvh8QgPsuGwit7Z7WzasbmI7CLRJn+bdWRFoUjuSuP6BLuDynu3+9ig/MdMTQfRqrN3Tk/dXSCAcC6QKp42bPQjSSWeKXUsovCWdsZ3KOb7dBLzrlmiW9RkfU8lholA8JWKMU8HfyJa068c4nIxma3/c673y2bOSmQwCoeFuCyUehrK7L6EWOfK+XAq3VHgFIN/zI29xfPT0CKZCQw6hDL0ilYP4qHdXgaOmDbkquT6W6sQi67vFG5ffuTHT+D9UmhDCM8E9z1ysg/zou5j1QpLLEVtA2fCVX5fG8S9nRQVU+RmDg7Zbuj2j503s8FZ22uDjMIQ8uInIAAFCua8fn5x0dgfEx4xIJIpFMdTYy1i4RPO/zK5qpPOO9EkOOGWxC+zvCOCM6PHPraaWu+inYf162mzJVbfDuh2DC2UaZqWprmpHA08AUYq8QsRA0Fhl9US2a1jvGBDIm/LvWFpcEiUK1G3i7mQgBCPYzRA+QppjD6DSHfVHzOymw==;hkwHRhwho8e9FMLeJDRJsg=="
 ---

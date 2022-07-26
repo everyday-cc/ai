@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wwltv.com/amp/article/news/local/orleans/new-orleans-nop
 cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WWLTV
@@ -40,6 +40,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Lawmakers seek limits on facial recognition"
+    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
+    publishedDateTime: 2022-07-26T21:00:00Z
+    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
         isCached: true
 
 secured: "ME+hpOjiEN9Uk3VnT/ld+/Z1tmBzUyNmJSfbBOjdZcGoXpsR7Ucf37mJerfDuuhIF95Zi3mandagg4fFJomT5j8KljM2qn/eL53Wz5L4deEoUgIp8ehHvNJtQZuIWO7tBZ0ym7TLb1POqCN8L9gmUcnntoyCXieTC2+zOKVAm43unurhJ3STJVGKFe9HLo3WXuGtXWsALitoQ62M2fz2mWB1ne00pyuId5kVVvqnw7/NWSgOg3UC5nPaQ5TOjiYco4OznGMcE6paxJUSMPIvn4UQCnzkHb7tD3qbnTc9zRlvseah0JQ/a1uY7Jb0qxhnhD8IzxOOUExY19D/IaHvvjKbV3csOrVsjxd3z3Xjemoy1uIWd4BHdlyQbZ54oDoPyckyEk36+Z4SdIUxCQmJlxag+doGYI7BQN7LInyFMWUwPNknlliYDWpah3/qgwLBL7BGhYuzAYQk3gSOn17uIe5gqcyp9RgPw0mSc1XoeDVIHx+4GtU4s96HLpi2aiDKOVPX5qtDGbU+sky2elgUVg==;5dziwt+bw/KLCZt0rgYamw=="

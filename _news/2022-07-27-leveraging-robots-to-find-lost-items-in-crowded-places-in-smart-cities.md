@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T19:28:00Z
 originalUrl: "https://www.bbntimes.com/science/leveraging-robots-to-find-lost-items-in-crowded-places-in-smart-cities"
 webUrl: "https://www.bbntimes.com/science/leveraging-robots-to-find-lost-items-in-crowded-places-in-smart-cities"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: bbntimes

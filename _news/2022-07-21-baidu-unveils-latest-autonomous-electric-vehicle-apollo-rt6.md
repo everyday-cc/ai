@@ -2,19 +2,25 @@
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
 excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T04:16:00Z
-originalUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
-webUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
+publishedDateTime: 2022-07-21T04:18:00Z
+originalUrl: "https://napavalleyregister.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_d67f5775-856f-51ad-855f-b9ee5ffccb2a.html"
+webUrl: "https://napavalleyregister.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_d67f5775-856f-51ad-855f-b9ee5ffccb2a.html"
 type: article
 
 provider:
-  name: WDRB
-  domain: wdrb.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "J3CJrujmXiN08Z29wsodRbxYWuCEgpBuXuWj8CFiyQKf7jJ47AWc68lNhAzI7gq0Q9gxPzOYSZt3zxE+48fsNkoHCapa7CybLKy6RohSdRKcN3NlCb2O4lvnhlW/CPAmBaNlylByrWgKY3y9YjJDATOVQyTYC7XQ+9HwNDd1Vt+4cKi4FGW6NQsSrG/mJu7PoikIFTSY2G9gU3/X79BfK0NEOilQT9G+HYR5kVpSTe24b4h37IQEyG8UjmHGihl2yFUSThQJ9W65iF8Fgh9GnJfguXm93cqbgvGu3rWgZqyNZ3a+hAfaTf376boiCtvCKpAKNAMtqskdUYOhvD/MyVEj6X4jNQF7qYTikqoQ2TE=;V0pAHnwKYaYs0JWlrVpUIA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/0/cd/0cda6f0a-2540-5858-a59d-b8f9a07e9764/62d8d2eb2a0c8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "1XL2LblNYhyVH3Hy1omC7W0IFCMqsl/t2njNBLGB/Lr9ygyaE4HaulX8qlecgYI3T8aQlO2p9TI02uvIDmALBWDEKAfh/U96t3GssoeGEI567pmAy3U5VLC4aS7qj9421dWwZs2JqZW8fj3Pfr5zs1HgTQ35zQPAMmTsalvpJ/zvJ91WB7v5QLGfNjkGSNP/kpmXbfHhlcXInzoR4Q6wpzGdQQXa4rO2x7gguLEoadj6SrX9XP+N2FDM2DNiA4pgW8PYh2FbLuz+7TBp2FSX8/DbF9D58RL+QOoNmVUyW66LgCoCLNDI9WbrU+Cf556t0W/Whl9v+EeoABG8lXgH9Le8e7/oyyzL6fTY61Eseto=;Woyzns3V7qsutIlAX6NKZw=="
 ---
 
