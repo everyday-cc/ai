@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors.md",
+      "title": "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors",
+      "excerpt": "His pioneering experience applying artificial intelligence and machine learning software ... Mr. Kancherla led the Level5 software team responsible for building the self-driving car. Mr. Kancherla previously worked on Windows at Microsoft focusing on ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors",
+      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png",
+          "width": 596,
+          "height": 252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
       "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
       "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
@@ -1321,40 +1364,6 @@
       "provider": {
         "name": "Electronic Design",
         "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-china-automotive-voice-industry-report-2022-from-ivi-software-to-adas-voice-enabled-functions-continue-to-evolve-with-iflytek-and-cerence-leading.md",
-      "title": "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading",
-      "excerpt": "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

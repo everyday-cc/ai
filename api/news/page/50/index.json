@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-06-13-ai-maturity-only-12-of-companies-are-ai-achievers.md",
+      "title": "AI maturity: Only 12% of companies are 'AI Achievers'",
+      "excerpt": "Accenture research​ suggests that only 12% of companies have advanced their AI maturity enough to achieve superior growth and business transformation. These companies are 'AI Achievers' and, on average,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-is-ai-maturity-and-why-does-it-matter/",
+      "originalUrl": "https://www.zdnet.com/article/what-is-ai-maturity-and-why-does-it-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c39078d904e22f9665e3b4bc14e298bc2abcf6b7/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-is-ai-maturity-and-why-does-it-matter/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-is-ai-maturity-and-why-does-it-matter/",
+      "publishedDateTime": "2022-06-13T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-posture-assessed-in-health-exam-detects-cognitive-decline.md",
       "title": "Posture assessed in health exam detects cognitive decline",
       "excerpt": "Males with SVA ≥ 100 mm at any age, SVA ≥ 90 mm at ≥ 70 years, and SVA ≥ 70 mm at ≥ 80 years were likely to have cognitive decline, while females with SVA ≥ 70 mm at any age were ...",
@@ -1044,49 +1096,6 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-a-worrying-phone-call-adds-to-concerns-about-sen-dianne-feinsteins-cognitive-health.md",
-      "title": "A worrying phone call adds to concerns about Sen. Dianne Feinstein's cognitive health",
-      "excerpt": "And while Traister's feature piece does center on Feinstein's long and storied career, it also evokes questions about the senator's cognitive health. NPR's All Things Considered spoke with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
-      "originalUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2022/06/13/gettyimages-1240601779_wide-3616d7a7c5252ab0382618dd132f940c65b86c60.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
         "images": null,
         "publishers": null,
         "authors": null

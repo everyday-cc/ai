@@ -65,6 +65,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
+    excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
+    publishedDateTime: 2022-07-26T02:33:00Z
+    webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "SDNlmJf0n8v3i4UBWgfOTLfrQNoMoBZZMkLrNn6J1pV8HSvpt8pP6va+bUvKmoRL2uTeSbv9lyeW9fOY6oZ6RsxO92uqCIOdjRWeZe6HT4QQCQH02Nyvtl+qTPOpI7DSpRKCaecRZisKew3vu98yksbc+BCJVTTFnGxGmy2o4/Ox1ZWl8cXk+g0RHgsD3GMtcBhhEA0fmRrZUQQOaUo+kICD0H04Yv39InkFvPF2N/6+Bvo83gUZFRkXcplVQXt9KyTI2QPxklJPTTeF9ILL/SknugGYCfAw4Mid4hDkfTMsd4ZVFTHoEogNl+tOVA5KeMg0BPYYSCXT66YXeCg++fN0CIMzSVg86O9fW8nXiOhyxYeo0rIg7Hh+XqFvkirawm7VW/1xhJbzy3I4p/R47Rge4cMME0unNEBsgRKIjc0QgktdQxXbuJYYB1iK99G5CYIPHZydhEx54JCB8OF/ssk1gCG6L9A7M48cUs4IlPkifg3lZEAugdnGzH85zITI7p/Hy23RacaAaYWldNCkeA==;TCsGVYSeCDqu9YpGj4AnZQ=="
 ---

@@ -68,6 +68,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
+    excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
+    publishedDateTime: 2022-07-26T02:33:00Z
+    webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "s95RJBxVXsaJoHvfyZ2M5fcZvEpuHyUBctQ5iN2b4KuClX8a+Wjjkwmh73VMM2FCz0hXCzGh8SxB+VWOoO66spyln1F8IOdc3XQDYs3EUouKb/Pmee0pubdAD9vRvvIm7EV0X7Z016FY+yY8F68FyL16MI8psGKv7BWdMT3QmBz7SjErjS/0CUzamsBkoRpFcVUT0QULgE/TdRMRQKCFmd4o+/1d764tcI9kindr72bHVPVn+vn4iZ2gvooIeFNXAdJ+5bvr03rYldr+j8fCPuigpHTBB3/sd2N/tOkYgfX/dtSMyeeXoQnAX+yaHAJA+EW6KD2/LUdOuFgEHtpnH7MjiXrVm2HCybHnEtr5Te0=;37HvlETQ0dpFqOhpkpEMCA=="
 ---

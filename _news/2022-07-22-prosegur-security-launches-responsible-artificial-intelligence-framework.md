@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/prosegur-security-launches-res
 webUrl: "https://www.sourcesecurity.com/news/prosegur-security-launches-responsible-artificial-intelligence-co-13981-ga.1658486800.html?ref=nav"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -28,7 +28,12 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 22
+    quality: 44
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "sK6kmkRWuee9ZDgaZ8+p88Jqh1eLOyzzXSt/+VRQMy+rty3P7Mw3AdFFM5nFT9DblrCQRzAPKunUpE6domzOB7WPa/LLRP7b9sRQK6ZjhFnXTS4fjF6TsHbhX/Xvq8BsbMGIE+1HIspbxhbaETJ707NHWKO5kUAWZ1GXOb7GAHGMZ4ezknaQqJxA4lbNOZZZk6XidWuFlkqBxJ49OsEs1nsCA2rw64N9D28lNOFqEifF/blvuAkrgk6jVoj5aqul7S/Omt5bKL45d5Nz7wBfv7N2Yjr8i3XlEhdTLckxs7AhMpf0Ghz5uKIHvng6bqVQT7A5/moOC6GwVam0+0AIJuieOiNDgKIy5wTMpN3iI2g=;3EomtVhn2uNyLhsO0lwfPQ=="
 ---

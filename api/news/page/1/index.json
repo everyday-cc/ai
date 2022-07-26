@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -183,6 +183,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-25-chess-playing-robot-breaks-young-boys-finger-during-match-in-moscow.md",
+      "title": "Chess-playing robot breaks young boy's finger during match in Moscow",
+      "excerpt": "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
+      "originalUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg",
+          "width": 2500,
+          "height": 1691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna39784",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784",
+      "publishedDateTime": "2022-07-25T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-as-vc-funding-dries-up-one-fintech-shares-its-unique-path-to-raising-a-seed-round-through-customers.md",
       "title": "As VC funding dries up, one fintech shares its unique path to raising a seed round through customers",
       "excerpt": "Early-stage startups will need to be creative with where they find capital. Karan Kashyap of Posh shares his journey to a seed round without the help of VC.",
@@ -243,7 +286,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -492,49 +535,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-ai-gone-wrong-chess-robot-breaks-childs-finger-at-russia-tournament.md",
-      "title": "AI gone wrong? Chess robot breaks child's finger at Russia tournament",
-      "excerpt": "The boy, Christopher, is one of the top 30 young chess players in Moscow, Russia. During a tournament in Moscow, a chess-playing robot fractured a 7-year-old boy's finger when the youngster attempted a quick move without giving the device enough time to finish its task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html",
-      "originalUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/07/24/600x338/Chess_Robit-Screenshot_2022-07-24_203239_1658674977220_1658674983567_1658674983567.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html",
-      "publishedDateTime": "2022-07-24T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1056,6 +1056,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-baidus-latest-robotaxi-has-a-removable-steering-wheel.md",
+      "title": "Baidu's latest robotaxi has a removable steering wheel",
+      "excerpt": "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "originalUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "publishedDateTime": "2022-07-22T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
       "title": "AWS ML engineering manager evaluates the social impact of AI",
       "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
@@ -1132,57 +1184,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-how-hr-can-approach-diversity-recruiting-with-ai.md",
-      "title": "How HR Can Approach Diversity Recruiting With AI",
-      "excerpt": "Today, with the labor market in flux, most companies have a unique opportunity to transform their workforce in ways that emphasize the company’s future needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/07/22/how-hr-can-approach-diversity-recruiting-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/07/22/how-hr-can-approach-diversity-recruiting-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb5317182369497842a6ea4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/07/22/how-hr-can-approach-diversity-recruiting-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/07/22/how-hr-can-approach-diversity-recruiting-with-ai/amp/",
-      "publishedDateTime": "2022-07-22T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

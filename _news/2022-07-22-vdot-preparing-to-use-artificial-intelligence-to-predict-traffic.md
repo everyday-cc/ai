@@ -7,7 +7,7 @@ originalUrl: "https://www.insidenova.com/headlines/vdot-preparing-to-use-artific
 webUrl: "https://www.insidenova.com/headlines/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/article_e09c58a8-0934-11ed-9a14-87e90b2258cf.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "VDOT preparing to use artificial intelligence to predict traffic"
-    excerpt: "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area."
-    publishedDateTime: 2022-07-21T11:01:00Z
-    webUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/"
-    ampWebUrl: "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
-    cdnAmpWebUrl: "https://www-nbc12-com.cdn.ampproject.org/c/s/www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 57
-    images:
-      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/yPMtFBzaD7Ep7KLjVSdSDxwlTXg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/VULR5AU5CJN4NMJZ7KJ7RXWMXY.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Virginia Department of Transportation Preparing to Use Artificial Intelligence to Predict Traffic"
     excerpt: "Officials from the Virginia Department of Transportation (VDOT) are getting ready to use artificial intelligence systems that will monitor emerging traffic conditions to predict the impacts of disruptions in Northern Virginia and the Fredericksburg metropolitan area."
     publishedDateTime: 2022-07-21T15:35:00Z

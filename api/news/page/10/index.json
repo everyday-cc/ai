@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-13-selfie-scraping-clearview-ai-hit-with-another-20m-ban-order-in-europe.md",
+      "title": "Selfie scraping Clearview AI hit with another €20M ban order in Europe",
+      "excerpt": "Clearview AI has been hit with another sanction for breaching European privacy rules. The Athens-based Hellenic data protection authority has fined the controversial facial recognition firm €20 million and banned it from collecting and processing the personal data of people living in Greece.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/clearview-greek-ban-order/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/clearview-greek-ban-order/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1167845553.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/clearview-greek-ban-order/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/clearview-greek-ban-order/amp/",
+      "publishedDateTime": "2022-07-13T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-deutsche-telekom-will-trial-google-clouds-data-analytics-artificial-intelligence-ai-and-machine-learning-ml-solutions.md",
       "title": "Deutsche Telekom will trial Google Cloud’s data analytics, artificial intelligence (AI) and machine learning (ML) solutions",
       "excerpt": "Deutsche Telekom and Google Cloud will pilot several network services such as 5G SA in Austria, as well as remote packet gateway functions.",
@@ -282,19 +333,19 @@
     {
       "path": "_news/2022-07-13-anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence.md",
       "title": "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence",
-      "excerpt": "Anumana, Inc., an AI-driven health technology company and portfolio company of nference, has launched a multi-year strategic collaboration with Novartis Pharmaceuticals Corporation (“Novartis”) to deploy a series of artificial intelligence (AI)-powered software solutions that will detect hidden cardiovascular conditions.",
+      "excerpt": "The collaboration will support Anumana’s efforts to implement AI-enabled diagnostic software that can detect signals from ECGs that humans cannot interpret. The collaboration will initially focus on cardiovascular diseases.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-software-heart-disease-8655d6d76122477285fc87247bdc2a0a",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-software-heart-disease-8655d6d76122477285fc87247bdc2a0a",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -307,8 +358,8 @@
       "publishedDateTime": "2022-07-13T05:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1096,49 +1147,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-voxprotect-a-witnesss-voice-is-not-protected.md",
-      "title": "VOXPROTECT - A Witness’s voice is not protected",
-      "excerpt": "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

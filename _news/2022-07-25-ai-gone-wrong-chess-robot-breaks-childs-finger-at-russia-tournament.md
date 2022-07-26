@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
 type: article
 quality: 74
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
+    excerpt: "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
+    publishedDateTime: 2022-07-25T15:55:00Z
+    webUrl: "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39784"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg"
+        width: 2500
+        height: 1691
+        isCached: true
   - title: "Chess robot breaks boy's finger in Moscow: 10 times AI went rogue"
     excerpt: "In the latest in AI horror from the real world, a chess-playing robot broke a 7-year-old boy's finger in Russia. The incident was captured in a CCTV camera mounted behind the boy's head."
     publishedDateTime: 2022-07-25T07:14:00Z

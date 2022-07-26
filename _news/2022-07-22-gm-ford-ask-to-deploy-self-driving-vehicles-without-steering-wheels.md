@@ -19,66 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "GM wants to test self-driving car with no steering wheel, pedals"
-    excerpt: "General Motors Co and Ford Motor Co are seeking exemptions from US authorities to relax some rules related to testing of autonomous vehicles, according to Steven Cliff, the head of the National Highway Traffic Safety Administration."
-    publishedDateTime: 2022-07-21T09:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/07/21/gm-wants-to-test-self-driving-car-with-no-steering-wheel-pedals"
+  - title: "RTA envisions 4,000 self driving vehicles by 2030"
+    excerpt: "Cruise, the self-driving car service, will start this month the operation of two Chevrolet Bolt electric vehicles (EVs) to prepare digital maps for Cruise’s self-driving vehicles."
+    publishedDateTime: 2022-07-24T19:49:00Z
+    webUrl: "https://www.gulftoday.ae/news/2022/07/24/rta-envisions-4000-self-driving-vehicles-by-2030"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/07/21/1667591.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Self-Driving Cars – Now With 20 Years of Experience Included"
-    excerpt: "The effort to develop self-driving technologies has been active and present in our lives and around the world, with many companies dabbling in the idea, including Chinese companies. Over the last several years China has enacted many regulations regarding ..."
-    publishedDateTime: 2022-07-25T08:00:00Z
-    webUrl: "https://i-hls.com/archives/115175"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 24
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2022/07/japan-2014617_1280.jpg"
-        width: 1280
-        height: 847
-        isCached: true
-  - title: "GM, Ford seek US nod to deploy self-driving vehicles without steering wheels"
-    excerpt: "DETROIT: General Motors and Ford Motor have asked US auto safety regulators to grant exemptions to deploy a limited number of self-driving vehicles without human controls like steering wheels and brake pedals."
-    publishedDateTime: 2022-07-21T09:34:00Z
-    webUrl: "https://www.carsifu.my/news/gm-ford-seek-us-nod-to-deploy-self-driving-vehicles-without-steering-wheels"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 21
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/07/cruise-origin-1024x550.jpg"
-        width: 1024
-        height: 550
-        isCached: true
-  - title: "GM and Ford look to advance their self-driving vehicle programs"
-    excerpt: "The NHTSA published the separate petitions made by General Motors (GM) and Ford Motor (F) asked the safety regulator to grant exemptions. Read more."
-    publishedDateTime: 2022-07-21T18:31:00Z
-    webUrl: "https://seekingalpha.com/news/3859285-gm-and-ford-look-to-advance-their-self-driving-vehicle-programs"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
-  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
-    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
-    publishedDateTime: 2022-07-21T13:14:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 0
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "Z2Xk8tgFvWLBn+lpnpUkadgiRani1KAK1oiO+HddH6MdE+KNuzZbqOun8SrWanVJHHRQoa7Rql6JMVrbiRv53LQR/zSeoOhReDwvkBG0ODrwtSUSJK9Zh9eJjwg2LngAuDtm+RzVJHXsjopanSENpI5BZZorgCApbvlwFYTVUvhgwLhfz4kpzjM4HsN/u4SQXiyTCkeHHmjc96Yw9gwKrF/K50e4sXgIY3JEITffptkJ3I6uerMKftlWY1Qg3FdLzzku+QZx79MnvVX6Z85iecS5H4UrytXpsaa3LZxvVrKYDoYfg7W4VFE89v1Qyag27XHVhCQa0nmShkA6kIIr+t+huW/ov2o7FP1/gLs3NQyD4IqFQpEByYtATprnZb7TT7uYb+n47YkEg7jqMQJ/WzrZTOiAlBamyJgtSWF6Fg/wuGQmszCfftvNh5TMH34vIpxNqkowkaOUcMP516OanaJI/v1ji5qXLKqyAbvZWFneluvhNyMcBj0vHG/I/MPeTO3TAvNyLwvLVtcogHGMTQ==;i0RpeH4d2rg9O6c4zMIqPw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
+    excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
+    publishedDateTime: 2022-07-26T02:33:00Z
+    webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "r93m+GNn1usumB26dCAC9P2/MzLYlO23LWRBZobqzCpCyT/XOI3QURb1AW7LKQGoO6SgSnnZcmUUQxMMFSD0jgUgLegHiQ/NjBbPXWkiEB11SK1ujMCw/er1qr5eUU2euGn6Pwkzte3CO9o/k3Uwo2EnT4Ktho/2D+cYmjlQCBwj8AMy2vHR1+0iiJfa/LdI6WUIC86c7KMG6VhvaDrv1P7u9D9vF80O78DECiP32R44i3VIPQ8/M9P6//RVNDyvx/E7hNybDJ/5q8/szJrfOOhY7/G4StUDWZBKrC5rG/Ukaoee91HxtIG7LU5+wxjORXkJKVcUa4bsh5r9EYImIzkjN25cSfztPEedgWOipYIsUz33w3wa/6A2AbU/2Y1QfY3oFgycR7cY4tuRACip/WKoj/xfZb9R8CaqcO8RtBdIWmto1EHL4TkAp7IrBoSroS4Ye/rXmzZXn3vxtI0ZefLF8AMu+ApycVdmkOQtlEJC3HMtwwgC4/TE+Bnzt1du/ZJrDfsNYASYHC/X/5Q5KQ==;VvoaaAFRp57KMtzGs1rBVg=="
 ---

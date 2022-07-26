@@ -25,68 +25,181 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like ..."
-    publishedDateTime: 2022-07-21T13:00:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+  - title: "Baidu's latest robotaxi has a removable steering wheel"
+    excerpt: "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,"
+    publishedDateTime: 2022-07-22T14:51:00Z
+    webUrl: "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f"
+        width: 1920
+        height: 1281
+        isCached: true
+  - title: "Here's what it looks like to ride a Chinese robotaxi with no steering wheel"
+    excerpt: "London (CNN Business)Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese ..."
+    publishedDateTime: 2022-07-21T13:13:00Z
+    webUrl: "https://www.cnn.com/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/21/tech/baidu-self-driving-car-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 72
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220721062706-02-baidu-robotaxi-no-steering-wheel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Baidu unveils self-driving taxi without steering wheel"
+    excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
+    publishedDateTime: 2022-07-22T06:38:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Baidu unveils self-driving robotaxi with removable steering wheel"
+    excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
+    publishedDateTime: 2022-07-22T05:22:00Z
+    webUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
+    ampWebUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Baidu unveils new autonomous vehicle Apollo RT6"
-    excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
-    publishedDateTime: 2022-07-21T15:32:00Z
-    webUrl: "https://www.globaltimes.cn/page/202207/1271140.shtml"
+  - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
+    excerpt: "CNBC reports: “The Apollo RT6 is set to start operating on China’s roads in the second half of next year under Baidu’s self-driving robotaxi business. “The company’s robotaxi business ..."
+    publishedDateTime: 2022-07-22T01:16:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/baidus-new-taxi-has-a-removable-steering-wheel/amp/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-21/ad60ef9a-9f25-4bf1-b948-25db9d09338d.jpeg"
-        width: 1200
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/22/7f856bd1c80f474acbaa3fa5987da9e7.jpg?quality=80&resize=1280,720"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
-    excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
-    publishedDateTime: 2022-07-22T02:10:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
+    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
+    publishedDateTime: 2022-07-21T12:50:00Z
+    webUrl: "https://www.13wmaz.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: WMAZ
+      domain: 13wmaz.com
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
-        width: 720
-        height: 480
+      - url: "https://media.13wmaz.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-    excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-22T05:55:00Z
-    webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+  - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
+    excerpt: "The Apollo RT6, an (allegedly) self-driving taxi, will start ferrying riders with, or without, a steering wheel in 2023."
+    publishedDateTime: 2022-07-21T14:42:00Z
+    webUrl: "https://jalopnik.com/baidu-s-new-taxi-has-a-removable-steering-wheel-1849306769"
+    ampWebUrl: "https://jalopnik.com/baidu-s-new-taxi-has-a-removable-steering-wheel-1849306769/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/baidu-s-new-taxi-has-a-removable-steering-wheel-1849306769/amp"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "Baidu unveils latest autonomous electric vehicle"
-    excerpt: "Chinese search engine and artificial intelligence firm Baidu, unveiled its latest electric autonomous driving vehicle, the Apollo BT6."
-    publishedDateTime: 2022-07-22T18:00:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300643449/baidu-unveils-latest-autonomous-electric-vehicle"
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
+  - title: "Chinese firm Baidu reinvents the steering wheel to rival Google model"
+    excerpt: "The Chinese search engine and artificial intelligence company Baidu has unveiled its new driverless car, and plans to make its robotaxi service available in China from next year. The Apollo RT6 is ..."
+    publishedDateTime: 2022-07-21T12:22:00Z
+    webUrl: "https://www.thetimes.co.uk/article/chinese-firm-baidu-reinvents-the-steering-wheel-to-rival-google-model-f9kgz72vt"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 19
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F999d97c2-08ea-11ed-a986-fc91b4ad48f0.jpg?crop=5361%2C3016%2C0%2C279&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
+    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
+    publishedDateTime: 2022-07-21T17:50:00Z
+    webUrl: "https://www.whas11.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 39
+    images:
+      - url: "https://media.whas11.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Chinese search engine Baidu to have Apollo RT6 robotaxi fleet"
+    excerpt: "Chinese search engine and artificial engine company, Baidu reveals an autonomous driving vehicle. It is the Apollo RT6."
+    publishedDateTime: 2022-07-26T02:15:00Z
+    webUrl: "https://techstory.in/chinese-search-engine-baidu-to-have-apollo-rt6-robotaxi-fleet/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is this the robotaxi of the future? Chinese tech giant Baidu unveils £31,000 all-electric self-driving cab that can be hailed with an app"
+    excerpt: "Chinese tech giant Baidu yesterday unveiled its new all-electric, self-driving cab, that costs just $37,000 (£31,000) to manufacture. The Apollo RT6 has a detachable steering wheel to allow ..."
+    publishedDateTime: 2022-07-21T14:34:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11035227/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11035227/amp/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11035227/amp/Chinese-tech-giant-Baidu-unveils-37-000-electric-self-driving-cab-hailed-app.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/07/21/11/60528771-0-image-a-35_1658398132574.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
+    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
+    publishedDateTime: 2022-07-21T21:00:00Z
+    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 14
+    images:
+      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "xIu7DhpRwzG29Byw6vvFmvh+eE1hScJkOflYDF+U2C/gxSAugF1TlVJlUktwXqI9caQRU0de7RjlaOL88rCITIjmop2+IWWi9D1l++zyTQTXkZr0OJ6Zj4p0agbzVe8hvmp8gxsfH/zsMHQ4TukvZPWDVLtglsV2oPOqZw6Xhva/VcGBAX+eMrtFBTfqNnncoIn3RGu5UNsaibhbEQAZ1PvfEUwLSke3wHOf3oCIK1GI/LrH51bks9bsOpgsNDMt9Sl9YJH6T8oUSPKbib5HT9UZpToOGSbqsqIDcUZUpnBXHil/xAuJGQ6ZjXlm30NgGI+AyZINIvi4lk9juD9JT0cYQ/fwZ+r402Q8apvdpAk=;g7LK8+/UwEwKeXp4naYw2A=="
 ---

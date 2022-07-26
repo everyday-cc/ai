@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-21T15:38:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242"
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242"
 type: article
-quality: 22
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI Ethics
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Prosegur Security launches responsible Artificial Intelligence framework"

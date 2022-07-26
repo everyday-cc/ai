@@ -3,8 +3,8 @@ category: news
 title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
 excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
 publishedDateTime: 2022-07-25T04:38:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 type: article
@@ -168,6 +168,6 @@ related:
       domain: enterprisetalk.com
     quality: 4
 
-secured: "aPYrtKsZfsyJK26mX5tgqbpDYhl8IvYPdUng362FaBi6qCI8Vi9IEu91tEZ0lScUs4gXxIyr0XODMiiqIL7NVdpsNuxgisKIlmwpmpcRa0o3Pas8I6fTu2JNUb2Dt8Wj+LwDBsQGrtqUpW6ywOu9QGE3vkyCfjbtlgrm5Uj1hmkDYgDrIThft4FIXk+eSqzfGFaWdgQ+s2wWnyhFQ6OewHwbHJJD107mjw+8dFN6B9lq3xcCyy4C2sPNin3VhN91f2kVjAexxamLSCjxUuryiLGM96BCp6JHu8hXhEuSc7fYDb+L77ut0HgB13Pan8X/eF9fK3qe+dF0+QsRfjNYvq51lIy0fsul8Bw7Jz87e/Bp3CD/3gtJdg05SYlLTFl8FPqoPXLksx8jkzgMxm2hHHiz8RQ8Iqk85uTb2VVnYuKjkn7B+/dQYa+uzYYXnP1AzEJL+7lSnrRilVZav+5BQ8efANwWupxh7QDYuMqCaz5IDTNYCzP86qBPJdPzxB9wdK+7ozAd/AzHy0/ecrS6VQ==;bFV4i1T05fUgkMS/LOcorw=="
+secured: "b3lRLYEyOV0rDUDg3FLPpX2Jq1YhsXJgV7WVsis2Wc4IP9rHEL+G3GvPsdOCdZzq7EO+OyJibqG1gJnNI3icpfBz+jWBkECkNrWqGS+6sgFbfj8Q4UOEeEeJQonD7wgsizqD01gzwDiSKPeRHGHDjJYUV9K0tCiEPjgH4khXjE8FRUwAv30EWEFrDIYXF3/Ty8UJOFcnL+2FyXNjfw1xJvQ/IZfAT5CenlDeyKySLboA7xUQlOQWWoqvB/gTHB7WcEKID/zvzZ/jZXhCty/TgtKihsnNPhpIbYtPF4sdrLw1P2Dch6HCQKAMPfMhYlED7s9L+4P7eagDWDWAPDjZE8A3wDbdHu27PDKiKvQw6og=;cuOxFQ070RCCxBqy/jRgWA=="
 ---
 

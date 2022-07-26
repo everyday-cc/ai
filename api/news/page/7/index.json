@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-07-16-bacteria-based-biohybrid-microrobots-on-a-mission-to-one-day-battle-cancer.md",
-      "title": "Bacteria-based biohybrid microrobots on a mission to one day battle cancer",
-      "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
+      "path": "_news/2022-07-16-u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules.md",
+      "title": "U of G receives $1M donation to launch ethical AI training modules",
+      "excerpt": "TD Bank Group has announced a C$1 million donation to the University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence or CARE-AI. The funds, which will be paid out over a five-year period,",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html",
-      "originalUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html",
+      "webUrl": "https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742",
+      "originalUrl": "https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/bacteria-based-biohybr.jpg",
-          "width": 2880,
-          "height": 1383,
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/07/UofG-AI1.png",
+          "width": 624,
+          "height": 234,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,47 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp",
-      "publishedDateTime": "2022-07-15T11:00:00-07:00",
+      "ampWebUrl": "https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742?amp=1",
+      "publishedDateTime": "2022-07-15T13:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-center-to-support-cell-and-gene-therapy-manufacturing-launches-in-newark.md",
+      "title": "Center to Support Cell and Gene Therapy Manufacturing Launches in Newark",
+      "excerpt": "McKinsey & Company launched a new high-tech learning and innovation facility in the Garden State to support the advancement of cell and gene",
+      "sourceUrl": null,
+      "webUrl": "https://njbmagazine.com/njb-news-now/mckinsey-launches-newark-innovation-center/",
+      "originalUrl": "https://njbmagazine.com/njb-news-now/mckinsey-launches-newark-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Jersey Business",
+        "domain": "njbmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1103,49 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-tempe-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Tempe Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "DriveTime will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Tempe will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-985da84addeb06f744611758c370ede5",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-985da84addeb06f744611758c370ede5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

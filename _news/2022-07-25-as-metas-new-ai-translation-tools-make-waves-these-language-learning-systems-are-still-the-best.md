@@ -3,25 +3,25 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-ampWebUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+originalUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: WGN-TV
+  domain: wgntv.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+  - url: "https://wgntv.com/wp-content/uploads/sites/5/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "4iFMLkaIRQmv6a1taYozIRwDfNTiDZg6dBg/F34IBewt78hY0xzoI2z0nN1Ebfyq+8VVx75fzn8v8hjhm0LrG5u6cjDFoL9WXQi47N1gFDuv2F5ULleuuI8SUBwz1rEVTViVR0qCHy6Uc8Z522NpXH8WqkisGCze/Ow/02J2Z7LF+KB4w1tK1eZIjl8N5WhoG/S/JvIy464AeCJojsKq8Je6HZAFgjc/yRp11PDKAWJCsyYcIWn3rn1TNjRsg4w5owbbHIRi1NaQ4WvDQojA022SAC48dpx2JXvX0StUiBthLZTbEGMr/w2WOwn0J6nzavlVH/a8gITvZ0jhBs/cmBW4QCfFGCsPDbaoTux9DIQ=;JPyQYQ4KXv2X7FfvfB1VKg=="
+secured: "RHPTD+OfKLUEWNAm2NlV5YD6XdjpLH/ij8I9fcMX9zMD60Cm0u502uy0RqSsH59y2NPbDu/eLeqM0WydzCIokAmGlYwb047qScAsrnJuplt8R4No/+X9ZITGOA3huf+9amT3N9eR9drj+lRc08lCpAKhNa2DutzgBCt3yLm5v12mozWnOz9GqFW8IWHCYqevIzoYQWqgDI7da96raByiOHN4PjGMzWGHV2HwXvp/3XvnP+oCkpyHFuxVtQcf3gwea7HK9w1VaWWfwI2OoK3III0+B0DA89PLvgpvXSbx67zu9OXDSWjdTeCnb4D0g2LHsh9ILIXHK7IpxBKmwYRKXPCzujuu2UEw7eU54VL/bZ0=;vXuFl1b55Hfvt3CsoZuPrg=="
 ---
 

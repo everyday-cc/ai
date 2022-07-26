@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
+    excerpt: "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
+    publishedDateTime: 2022-07-25T15:55:00Z
+    webUrl: "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39784"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg"
+        width: 2500
+        height: 1691
+        isCached: true
   - title: "AI gone wrong? Chess robot breaks child's finger at Russia tournament"
     excerpt: "The boy, Christopher, is one of the top 30 young chess players in Moscow, Russia. During a tournament in Moscow, a chess-playing robot fractured a 7-year-old boy's finger when the youngster attempted a quick move without giving the device enough time to finish its task."
     publishedDateTime: 2022-07-25T02:39:00Z
