@@ -39,15 +39,6 @@ related:
         width: 350
         height: 350
         isCached: true
-  - title: "Data management and AI automation tools top investments for financial firms - survey"
-    excerpt: "Investing in technology to better optimize data and modernize data management are the top priorities for financial services firms according to new research by global Fintech leader, Broadridge Financial Solutions,"
-    publishedDateTime: 2022-07-21T13:09:00Z
-    webUrl: "https://www.finextra.com/pressarticle/93483/data-management-and-ai-automation-tools-top-investments-for-financial-firms---survey"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 12
 
 secured: "UXwPv4mVtor2X5eZt2QEZZz/8QZ+xBLQ37U/uCY/KD/eHlP9fycWSXUmvW889ssaKarwUEaeeeeaNkQeTvwYL2kTQEZMWHlMovq7BRCjtP/n3zZ2Ll05h7QKKhAzVGKP/gEW4NF06tuuRNfb5r87OpBoGr4kzPakAYwILWLXfCsyO7SVyQX5xSYzTBBlAPKy8kSqkYH0jzbKj+hy1zd/BwTLFhmAb/PZVeLlg82cBV+ovXEtjKZflSeTJXe1lJHbvm08WuV5dBhm0yaR8CkuEFydDobr5Gew6EMRqutt8DBMqZC8PiYSYDuAdRu7sw91RYJ48dZ+aXbsbMxiKL4g2C7CV2z8Y7wZT1wIP7iMLto=;J4DL2dKLkct90BaoqD5NYg=="
 ---

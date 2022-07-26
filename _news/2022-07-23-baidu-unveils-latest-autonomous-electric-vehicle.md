@@ -86,15 +86,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
-  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
-    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
-    publishedDateTime: 2022-07-21T13:14:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 0
 
 secured: "BaCfybUTtyPi9QStPUBSd8wrlW9wFoqONrDN9uVEWWh4ODxvCXBO3XlRTupLymOD+qvieW+A9R75PoIrJFwuprhE44L8sJH0ahm5QciY7T9S36Dx7RD3Fl//8l8qvfrGdVQZHSxzNkim6YHia5Zuw1XELx6pnu4WHrs4JDTLVT2+A+sUcrHIH8KBmRJFCf49xevo5uR51R5iI7X5GkHVo+usoQ/LXZGkJXx+HPh1zQ8bDhSqsV3vwnxtuWuBT0E69jUtFeU5gmRdyAJGrCq5GeOa89adbg4v+tndT2Krpxk2+NuvmPG/2heqSloweZyFsIloM4iNDxmWNnQrM+cjEw/mRGG9w+pMuVzXmbHuotD5rqAtMOfDTDXMrERD0p+7Fn7XFZF8zqRO0jYamkVqAMd5OQUd7YOzHz0ZEqFSDA27ibfSqqhcYtrEzaGdLklhLJLOygdGDhLtitv77sjf9FhzAzcLDyGa6VI0jaR9nl8bRkquMMeAS8y0Loe3OJSwf5GrRs/tHZV+BnOuOtt/5g==;6H50bTWgaGaiFcBvV05RvQ=="
 ---

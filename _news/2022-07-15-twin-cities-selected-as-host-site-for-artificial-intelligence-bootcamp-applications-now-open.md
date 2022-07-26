@@ -3,8 +3,8 @@ category: news
 title: "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!"
 excerpt: "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application."
 publishedDateTime: 2022-07-14T21:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Lt0OPmsFKoGYyWarJn4dhXu/6lYIzLMCgNSPwBEQs34D+INOPh1IClEwn+1oqZQH4zXj+uyISqF2MRi49zPh8sbiTlk9vKpKmGSUIC9SXWynEHdKs2Iw88juBo6bxXCUDNa7+wk5/rukZaEX2DeX5w10X/Rl6Hc4MpJZ1s5dZl3rNvl8K31xfkS29/qpe1/Oz4xWPuPPatQoGSBSb92Nz2B0CyFiRB+ZfhzgfXpnsqSTLL7Qt1P6VLJFW8N4QuI/nnCxyjzdn3O46t4XZJ8iBB3xDBheOrhWW6yFhOTXKcNg9vt1cS2I3rpqsUZDsF30EA4MHNUmmrDZTgXu+4WbVf3qbnhhCYW6fi1MXjlg5Xc=;ZnsNBsuumodMxe4gImw7Tg=="
+secured: "J9G7wGjnw+2elLbTrsoxru8E5sB0/H1oAZLYPS4gDoXThRPaDCSpPCWx9/7ZmPuSiDMZabEloHe9ydIzlnX8fH8EQkvA1lD3H7RL3STbUR4D/t42g/gvqG7Ra0W9Z6dfUOUP7BvTrLAtQT3mqXCW2X+VX2MgWR69KeR2t3jHnaC3IUbOvCUadeRBGTMsD+1nz8NJi7pdakf5OEvWll8z9qIbL2YtxOkpaw9A/w3dgxT6Z1NPutvlViVCUEkfKjsgqhxWoNQKfkcQt9PzrP5QAZBa/2d7cnUhzmZ3xxBn3yNLEFVZWujYWPQCmQtPSGduML+F9SyA1ZEVqtUgOhuQk/Ac36KvqOETT2PYMjqUWOk=;cjvYII+lVGyqA4o5nbYYjw=="
 ---
 

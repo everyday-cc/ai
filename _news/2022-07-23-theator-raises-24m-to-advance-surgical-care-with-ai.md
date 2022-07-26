@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Theator Raises USD 24M to Advance Surgical Care with AI"
+    excerpt: "Theator Inc., a start-up using artificial intelligence to advance surgical care, has announced that it has secured USD 24 million in new"
+    publishedDateTime: 2022-07-25T15:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/theator-raises-usd-24m-to-advance-surgical-care-with-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/theator-raises-usd-24m-to-advance-surgical-care-with-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/theator-raises-usd-24m-to-advance-surgical-care-with-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Theator-Raises-USD-24M-to-Advance-Surgical-Care-with-AI.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Surgical intelligence platform developer Theator raises $39.5M"
     excerpt: "Theator announced today that it raised $24 million in an extension of its Series A, bringing the round to $39.5 million raised in total."
     publishedDateTime: 2022-07-22T14:46:00Z

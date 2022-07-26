@@ -3,23 +3,22 @@ category: news
 title: "Google fires engineer who contended its AI technology was sentient"
 excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
 publishedDateTime: 2022-07-25T16:10:00Z
-originalUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
-webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+originalUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+webUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: ABC 17 News
+  domain: abc17news.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+  - url: "https://abc17news.b-cdn.net/abc17news.com/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
     width: 2560
     height: 1440
     isCached: true
@@ -377,6 +376,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "F7WI7eCxsrfRVXAhRYEObPoRoauezFwTCx67WQGc2M+hP1wNRsq5kKLjPHUeB/dqzwDimiiCCnJqk0gK1dNjKL9PvtauRS7omgkMaxoVboPd34J7qN1KdYjZ8tvEqHvL2uxemTIInW4yWiI5ITDR1n9qIfhx7THL+ax5tGSL+FkTsjKOlWWdDKGGsnmk5bSJ8h1qhIbcGHAjpNFlL+8SSsJ7xiHsHESZVZm2emqp8IM2KJQldwl9nuOf60RvQhwsNZzi6Gxy62hjWLz9L3wgh2yOP0hx1E2+z8rJIZjPYe9pTP8yaHH74aMHXErv85naKJgjQQJJoU7975ZUoQgwZzJOFbpi7zJsSt36nM8rm+Q=;f6D5/XzAggybvXhdOnvqoQ=="
+secured: "L38KWKCvm5oUJWbJfHWcIJvsM2zN/rEsguo2CNoUhJ4tXbdIyt+ylEyQm7Ykcj2hgIdJfa0ONp+X7nPtQeNlZ1Wsyx49bvwWyouCQvIEI28Jdv8cozHrkInzMA+WEPXghviA80xtQ9QMED/rEGyoe5HMGo+OemCbAWbFFjnukNoCBv0IZXqo5YxjBQSLxOqAO2J9R4XBkSLWXtLwMmJVt3JOJhuX/36acNi1fxh5GbqhbnUMVcF1a9hSWNPSQQnfgu8oQkadWtgGT75AiNlPVLQBejGUS76jHta80k5fUSqHtIL7efdQzpEI6ZWzoPuKq/KzIDQvSkE0LdXKRagSggjeKhfzBq9xvPwy9KBNXVA=;vSQIEfxSZbEyAimAEfLEyg=="
 ---
 

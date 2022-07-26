@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
+  - title: "Rogers Communications to invest 7.7 billion USD in AI"
+    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
+    publishedDateTime: 2022-07-26T06:46:00Z
+    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "GId+KAdI3KzwsCjzixighrpqq45dulSLJoeL6GU1TZe4wvBJjWdYDMFcgd2E4mT1bKLqn4FrrBpSgZK7G5/npA3zea3z2aoy0St/WLopREXdI1OfMgdFHmNWJvhGm1OqKwPaNfb966CTTLSaoPJB8QxgOHucja56MLj9Plc++e7TixDS4lEkuX9eh43vIT/bSdg6bZ/kHpXmf4ECSrcZ8mBQPYz+aBkYa6LU+zKokSxKKmXNqKmb0o+WmrxT8y3rBao+FhGERWMssslOI/HgN3qpyby9f3tXVIF65n+9koT5IO+mGSs1UhG8dretWddDne9K5aYK6QmkfH5bSeqZ6JiwHv2z0U4pcmxZMLU41ec=;1yryq6F0zWjLE5PfNXy4/Q=="
 ---

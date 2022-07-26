@@ -87,15 +87,6 @@ related:
       name: Stuff.co.nz
       domain: stuff.co.nz
     quality: 19
-  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
-    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
-    publishedDateTime: 2022-07-21T13:14:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 0
 
 secured: "HcYQinRZ/ZoBbwQlsocwiTGPt0hvXP6DHkimYpW76k88xA+9EMmfC4g92tEOeVE4v/FegLdLDYLvBag/B2aT/Tf+ql8h32LNUfumDqCr4+vJ+bkrk3ysPSDnbcVj+kSRgC2+ZIQ9V4tsRWGudwoNwShBrFqbl4c2OP9uILWI0k+Lps5bBRXQeDbA2QzfsMOhMirUO7qdJbPjsWN+4X3h979KlBo9HAPiSBVuuC/B77VAImzsaddDLYut56FPt3oEMY9qbip2CZDQ4KLZ+v08qMuFti+rfLn654Vk/RvE+BbMnroxXp8WE9fTxVR3I3F9yCTRAkswmfjFOKUhyvobD9cmY3prU3Q8BJpIEfH0I0eBffSJTQjp+7ve5Gy2Za5CD88ebDcPu6aU4bukgSACajhjMgsTF3+k6ALtATbyHbklyHwcCYmlJbbhShMBoUxi4lazm7fZ52va01ywDp6GDcMOpi+O9mCzP9Ce2apEmGr8Gx5d4Fd/T6fok+0HePyN2vQx4ul/LZpH4Pcw1JxajQ==;BO7YLfPqdHbBPZjvXBMA6Q=="
 ---

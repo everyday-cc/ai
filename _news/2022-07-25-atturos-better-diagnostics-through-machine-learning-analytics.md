@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GFT among Europe's leaders for data analytics and machine learning in the Google Cloud"
+    excerpt: "GFT has been identified as a leader in ISG's Provider Lens™ evaluation for Europe – Google Cloud Partner ecosystem data analytics and machine learning 2022 \"Strong visual inspection capabilities make GFT a leader on data analytics and machine learning ..."
+    publishedDateTime: 2022-07-26T07:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/gft-among-europe-s-leaders-for-data-analytics-and-machine-learning-in-the-google-cloud-859486181.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1865796/GFT_Lens_Report.jpg?p=facebook"
+        width: 2384
+        height: 1248
+        isCached: true
   - title: "SAP Acquires Startup Focused on Search-driven Analytics 'Askdata'"
     excerpt: "SAP SE announced that it has acquired Askdata, a startup focused on search-driven analytics. With the acquisition of Askdata, SAP strengthens its ability to help organizations take better-informed decisions by leveraging AI-driven natural language searches."
     publishedDateTime: 2022-07-26T01:13:00Z

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintechs join forces to create digital financial planning tool"
-    excerpt: "UK-based data and payment platform Moneyhub and financial app Pennyworth have partnered to roll out a financial planning service. The tool has been developed by Pennyworth – who has applied for a UK banking licence – which will leverage Moneyhub’s APIs."
-    publishedDateTime: 2022-07-21T14:05:00Z
-    webUrl: "https://international-adviser.com/fintechs-join-forces-to-create-digital-financial-planning-tool/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 24
-    images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2020/01/digital-online-tool-elearning-tablet-search-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Moneyhub and Pennyworth partner to democratise financial planning"
     excerpt: "Data and payments fintech Moneyhub is joining forces with financial planning and banking app Pennyworth to bring a new tool to “aspiring-affluent customers”. The new service aims to redesign digital banking in a way that will democratise financial planning."
     publishedDateTime: 2022-07-22T10:18:00Z

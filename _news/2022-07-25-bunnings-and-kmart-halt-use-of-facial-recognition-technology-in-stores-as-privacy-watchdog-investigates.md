@@ -3,8 +3,8 @@ category: news
 title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
 excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
 publishedDateTime: 2022-07-25T04:38:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 type: article
@@ -159,6 +159,6 @@ related:
       domain: itbusinessedge.com
     quality: 19
 
-secured: "OyINo9nB9DveujIN8Lajz850JMulEbnbbmbh5bg5AREJFtpzLVVb26wNneknSLu8HRZSWQPNsUej+GCKQe0SBQG5Jy4LUU0+dLglQCl9y9d8OVb/pYhwNyAorFh0XwF9u8KSTJEtYBOZpNGzR+VsxQB5BE6gbwYYokVecaQqtF45ZZxvSTAhV8ez+yUFxFNWH09+PJL+9072ZmID/vDFSXa0PXHd3l6eWOdmuw7UHK0za6T+Vh/fGLbJDXu6BPkjjE4HKclnz1SDrchlGYJY3lgNOSYtRf2ZfDqF6aykgSXaq6h47xwqp0RjSelAI3P4H6lCkpm/u+3PSIJv43ALZELLftxDfHN1+Q/boIOGoeg=;aAUtyVyscmKuBOQ0dW+yTw=="
+secured: "t//kb0HR8EUVX+PD3TLqJ01hDUQhFiMwIi/YVIa3XJOzQiHamtpOUVvd4TnH857hAsMazGwFVSmRghgeyrwjLpIBIMtY0CsyTSt5uQGyvADK410vVS2p15WKNP1LeqQDArdFKNuVhv2EQX9tPB4SE9De6/YEs5jJbgsI9s0D1LvQTAXKjoNZklGlkItbVbla8La96ASKNdEvyjYWkvy5fBS/zVSHA9DReUDGZ6s4K+Zrs+qd4oeXOu9ycwnlttVJ7CmF79v/5dmOnywoEYP2ppH1Kd0ijBLpiKlUVkb4N+ZYjzzs999NQQjrHqA92Z7HVpMUNOd1m3fSt48S9vOuAnDHmLczo0i//7ENbezBR48=;O3GYbLQpmuwirz9C4CF79Q=="
 ---
 

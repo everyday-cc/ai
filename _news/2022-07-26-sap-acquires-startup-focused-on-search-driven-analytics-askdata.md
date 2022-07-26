@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "GFT among Europe's leaders for data analytics and machine learning in the Google Cloud"
+    excerpt: "GFT has been identified as a leader in ISG's Provider Lens™ evaluation for Europe – Google Cloud Partner ecosystem data analytics and machine learning 2022 \"Strong visual inspection capabilities make GFT a leader on data analytics and machine learning ..."
+    publishedDateTime: 2022-07-26T07:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/gft-among-europe-s-leaders-for-data-analytics-and-machine-learning-in-the-google-cloud-859486181.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1865796/GFT_Lens_Report.jpg?p=facebook"
+        width: 2384
+        height: 1248
+        isCached: true
 
 secured: "uxmaNmDFJvdOqdOjTMhumf+aFM7+xWeslNp4CRllI/CLbOEFYsha1Bx7k8NF34v9GjOzY8vhfbG27krhpi7kTHHSLV0C7JEzOWiPSJ0Qp0+CMnZ+PmiVb1yjTOoFntWZ93PUgC90tZsV29KuxHPem/T51M5ZZKVarwDy/+hhcp+BsP5HnaAkTKzT01Shf0MQ1HmILK4DZImeVG7qz/eoDRh/Z/PtJM35DyheW53gBiiRQEbG0gsIN4Q2N7t6QnVbv0XWVjPdysQ9b3/YtdwNoMnYTGgtIweD/JmtzX//kOUPuIUCo37P1qhLWBM0RT6lqSkt7VQ01SnxUDJQW4H2WqEpo0pY4R6LBPmYQPtDCrKs0Xmevwn8lTAes98qj8q1SDG4UIGQoPpDke1c8wz4iIRSq/7ZBkdxpowS9EvFQ0gSH10V80vo9lBvHgw4w//u6dlpZskYRI87mQzTXtAxFMWxTJrT3DgorlTWnMzr/ZAldb9AToE0lNOOJY3p7FPnOPv49VVT1sF5eJICKktsyA==;y+1/qEc03/CI4YMn89gPIg=="
 ---

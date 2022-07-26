@@ -72,6 +72,15 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
+  - title: "Rogers Communications to invest 7.7 billion USD in AI"
+    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
+    publishedDateTime: 2022-07-26T06:46:00Z
+    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "QuGNzjkSc7F0vtWxR8H4z4z8zA6TCfd5CQ8NkTXw/umXQDXyC50fCPEkg1GSxua3lMKLPiUjTFdJnokOxBPPKOY5gsdE3iLMbkgilaDt2T9vSdk9G9tWk071ZQpen0e5eKYfs8ytKqOPXtNxRfBC9FxAKGmHOlFegMor6+aVIF2avi8YZWCQw+8+RRwTZSxlPQQp2ia5itC4JG1xBlKOjgMkskZ4c+UUfKCMHYrtwnnFCxDXIAExpEJRGAwP6CQD0N93sXPwhUgz8xXLMHvtYsRM3d5K103SC1PHUX5n029krwz3MEPwyR9KmeWwhOMPEvQn1doid/jiHiH8W8srqUHYQbOMAwIAq/0uLCu9vDdrZKeCB4v3PnFX4BfI5O8hX11td4CuclikLBWHEMKyrBklUJnM6If9ctv/+8FDy29/kWn/l6gkNwJQPY2xyyhJxitSglqcGmPcJshyk5ZWgGVT1z1/5aC3A25JIUBySMOqxUVKCK3E2CSJHlzNEmzFcJL56pbRu/eb5tkgW5Md+g==;NSWZ8efFMCIsw+ju0ZTb1g=="
 ---
