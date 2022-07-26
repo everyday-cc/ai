@@ -309,7 +309,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -531,6 +531,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot.md",
+      "title": "ASX Tech Stocks: Archer’s chip compatible with semi fabs and a super fast plasma boring robot",
+      "excerpt": "Archer's 12CQ quantum chip is compatible with industrial semiconductor fabrication processes and a plasma robot digger with lightsaber arms.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "originalUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2022/07/GettyImages-168623087.jpg",
+          "width": 1933,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "publishedDateTime": "2022-07-20T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1391,58 +1435,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots-humans.md",
-      "title": "Are We Getting The Best Out Of Our Bots? Co-Intelligence Between Robots & Humans",
-      "excerpt": "When inflation is soaring, utility bills are hitting record heights and job vacancies far outstrip the number of people seeking work, it’s tempting to see technology as the solution. But after over two years of reduced human contact are we starting to see a thirst for human contact?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
-      "originalUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d034647543ed2119e20af3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
-      "publishedDateTime": "2022-07-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

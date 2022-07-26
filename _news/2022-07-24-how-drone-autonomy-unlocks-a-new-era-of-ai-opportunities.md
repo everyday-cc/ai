@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/"
 type: article
 quality: 89
-heat: 92
+heat: 89
 published: true
 
 provider:

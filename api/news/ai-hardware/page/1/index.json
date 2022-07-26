@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -153,6 +153,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot.md",
+      "title": "ASX Tech Stocks: Archer’s chip compatible with semi fabs and a super fast plasma boring robot",
+      "excerpt": "Archer's 12CQ quantum chip is compatible with industrial semiconductor fabrication processes and a plasma robot digger with lightsaber arms.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "originalUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2022/07/GettyImages-168623087.jpg",
+          "width": 1933,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "publishedDateTime": "2022-07-20T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI",
         "AI Hardware"
       ]
@@ -1360,49 +1404,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-risc-v-development-laptop-introduced-by-deepcomputing-and-xcalibyte.md",
-      "title": "RISC-V development laptop introduced by DeepComputing and Xcalibyte",
-      "excerpt": "“A Web3-friendly platform with NFT creation and publication plus integrated MetaMask-style wallet, ROMA will create an even more integrated experience with future AR glasses and AI speakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/07/RISC-V-laptop.jpg",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

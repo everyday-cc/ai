@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oracle partners with Microsoft to offer database service for Azure"
-    excerpt: "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure."
-    publishedDateTime: 2022-07-21T06:35:00Z
-    webUrl: "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
-  - title: "Microsoft Becomes the First in Big Tech To Retire This AI Technology. The Science Just Doesn't Hold Up"
-    excerpt: "So, to build truly 'intelligent' AI that adequately serves humanity, the ability to detect and understand human emotion ought to take center-stage, right? This was part of the reasoning behind Microsoft and Apple's vision when they dove into the topic of AI-powered emotion recognition."
-    publishedDateTime: 2022-07-22T13:58:00Z
-    webUrl: "https://www.inc.com/nick-hobson/microsoft-becomes-first-in-big-tech-to-retire-this-ai-technology-science-just-doesnt-hold-up.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 18
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight stands at the forefront of modern manufacturing through the integration of manufacturing tools in Microsoft Azure - from smart devices to the cloud - that improve coordination, productivity and product quality."
     publishedDateTime: 2022-07-25T17:37:00Z

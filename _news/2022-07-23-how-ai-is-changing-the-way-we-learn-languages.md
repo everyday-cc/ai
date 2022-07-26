@@ -25,16 +25,16 @@ related:
   - title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
     excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
     publishedDateTime: 2022-07-25T14:51:00Z
-    webUrl: "https://kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-    ampWebUrl: "https://kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-    cdnAmpWebUrl: "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    webUrl: "https://wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+    ampWebUrl: "https://wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
     type: article
     provider:
-      name: Oklahoma's News
-      domain: kfor.com
+      name: WREG
+      domain: wreg.com
     quality: 44
     images:
-      - url: "https://kfor.com/wp-content/uploads/sites/3/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+      - url: "https://wreg.com/wp-content/uploads/sites/18/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
         width: 1040
         height: 585
         isCached: true

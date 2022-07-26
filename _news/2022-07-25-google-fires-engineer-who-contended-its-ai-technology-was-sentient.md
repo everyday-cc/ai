@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Google fires engineer who contended its AI technology was sentient"
-excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
-publishedDateTime: 2022-07-25T16:10:00Z
-originalUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
-webUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
+publishedDateTime: 2022-07-25T02:53:00Z
+originalUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: ABC 17 News
-  domain: abc17news.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://abc17news.b-cdn.net/abc17news.com/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
-    width: 2560
-    height: 1440
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -283,7 +288,7 @@ related:
     provider:
       name: ABC 7 Chicago
       domain: abc7chicago.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
@@ -377,6 +382,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "Igd8c+vPlZ1utnrMYLOAl8Ee6mYJ9eJ7ynHo+zBdxogpYMXRqfuiqYaBicyE0dtjKYEp1Fc9wRJSueybue6buILcejNReNzOL2+C9U267U2/TESSYPaITB01HeFhYeFiuzvezaeHZqUEWNW84WNBtUqizcfqcP3AELdBIiZPZ6svKTPcXOuxdsM835w4rJXC5yBQrLvXychCWvWpc0kP2LiI+Dd9inSUDQk3clm7L9U8+whfCAOyO+HKb2pvPN2grFI0r7XKrfqKmKjHmpDLFNa0S6HnGxv82U1qkMFih6z01xU2W6HiWGIUg3fIkfL4Z4rHatO92u+K7CGix1uVElYg0xkrUPFhRSdABit6LyI=;aO1liv4a/TVf/O9NHUXa7A=="
+secured: "WwfVXksTxd6IvOo7cVAAAnZlr50O2rpLwCiOfGNJA2mH/bFwDP7+f1L2k3jMOXnA5cmuHkVYGQc+a9Pb7xvD+dmwXnRjW8dFC55yG5+2QKVLW6j6Zr8Br4oh1JfkqA+w1aD4KsAoL4pYYFQc94+I9rdM/fbZ1LRj6Vlhgae+cLWj+iryKdyf8FzgyzmcwVVRngcnU0e4ofAuuiARiLwD+r/E9Ybjci9H/dqMLshAkBSTJia3cOmlBQc+zFPCmOjl6giGjQ3cGxRdrbGUqjd44Bb+fRgzYqUffvteM9GfwdSfIV1R21RJWBpPga9O3pxA6o9E2Qod02o13Y1MWLPrjy7escDyHcY51GZZEpx183Y=;NXM78IIU8tm8o5IAXDRBDw=="
 ---
 

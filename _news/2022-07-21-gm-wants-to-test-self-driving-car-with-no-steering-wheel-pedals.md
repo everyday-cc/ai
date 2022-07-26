@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 847
         isCached: true
+  - title: "GM, Ford seek US nod to deploy self-driving vehicles without steering wheels"
+    excerpt: "DETROIT: General Motors and Ford Motor have asked US auto safety regulators to grant exemptions to deploy a limited number of self-driving vehicles without human controls like steering wheels and brake pedals."
+    publishedDateTime: 2022-07-21T09:34:00Z
+    webUrl: "https://www.carsifu.my/news/gm-ford-seek-us-nod-to-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 21
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/07/cruise-origin-1024x550.jpg"
+        width: 1024
+        height: 550
+        isCached: true
   - title: "GM and Ford look to advance their self-driving vehicle programs"
     excerpt: "The NHTSA published the separate petitions made by General Motors (GM) and Ford Motor (F) asked the safety regulator to grant exemptions. Read more."
     publishedDateTime: 2022-07-21T18:31:00Z
@@ -48,6 +62,24 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "GM, Ford Ask to Deploy Self-Driving Vehicles Without Steering Wheels"
+    excerpt: "General Motors and Ford Motor Co. want to deploy a small number of self-driving cars without human controls like steering wheels or brake pedals and have petitioned U.S. auto safety regulators for exemptions."
+    publishedDateTime: 2022-07-21T18:03:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/07/gm-ford-ask-to-deploy-self-driving-vehicles-without-steering-wheels/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 4
+  - title: "Ford and GM seek U.S. OK to deploy self-driving vehicles without steering wheels"
+    excerpt: "Both automakers want to deploy up to 2,500 vehicles a year, the maximum allowed under the law, for ride sharing and delivery services."
+    publishedDateTime: 2022-07-21T13:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-and-gm-seek-us-ok-deploy-self-driving-vehicles-without-steering-wheels"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 0
 
 secured: "7Hs1f6oiYIxpXd/CGhOf7bl/BfOa/b9kK82Klu0aDw5ieQTw+NBp7GNxdCzYjjb4+d8FKa+lGUiOo7OotczK7dwE5ypwY0LC/xq84whqhSgewpdC9+i8DjR9LlQwGYTF0WymLahxzr5C6lM6xx1AhF01nj13VJdQA0R58gnLS8tA4GazLxyJdN+G6cS1JAESXByXEtwQB6YvwbGDUq/IrybwIUzdkBd6vaL+AH88+1MwLB7q+YHxZU4gXTIJh5TLDT8c9I4VfgTDDLDYTVcNpA1KveP44BxD5a5gP+Kk3OWJWGIP5FOv9zyTpd9uXPGxnZL/fdCnFVDZ9K51I3b0FotMyQ0MaeQIVH7y9pm0oCEJjSK65BJ0Aohio69K/V1S6ULcLlid+eIQRpacUY4emF584gQNz5TiLhsK+3vWzqpZDWIhW6JEhUavEkdgOsbdybKHzYf/JL/wh3RGH2n7wiZDaXpfkHpafrMdnRlSU+VyEzsGorOrSpj3PEA01OaBbzYyRSpPd/aWfPKZhIiq4w==;+pC8L507DPyl5wYBrWpRhg=="
 ---

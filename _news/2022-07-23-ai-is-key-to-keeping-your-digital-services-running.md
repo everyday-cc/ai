@@ -46,22 +46,6 @@ related:
         width: 1198
         height: 647
         isCached: true
-  - title: "The future of AI is distributed … what that means"
-    excerpt: "Artificial intelligence and machine learning are disrupting every industry. Their impacts and integrations will only continue to grow."
-    publishedDateTime: 2022-07-21T05:20:00Z
-    webUrl: "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/"
-    ampWebUrl: "https://venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/the-future-of-ai-is-distributed-what-that-means/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/distritubed-computing.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How Artificial Intelligence is Changing the Real Estate Industry"
     excerpt: "Artificial intelligence is changing the world as we know it, and the real estate industry is no exception. AI has already begun to impact how agents find properties for their clients, how buyers search for homes,"
     publishedDateTime: 2022-07-21T20:58:00Z

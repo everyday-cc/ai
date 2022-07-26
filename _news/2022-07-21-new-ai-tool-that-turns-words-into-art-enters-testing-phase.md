@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-tool-words-art-phase.amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "New AI creates images from text in testing phase"
-    excerpt: "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to"
-    publishedDateTime: 2022-07-21T06:18:00Z
-    webUrl: "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news"
-    ampWebUrl: "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp"
+  - title: "Rogers to invest $10 billion in AI, testing after massive outage"
+    excerpt: "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
+    publishedDateTime: 2022-07-24T19:37:00Z
+    webUrl: "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369"
+    ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
     type: article
     provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
     images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg"
-        width: 1600
-        height: 1062
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg"
+        width: 1020
+        height: 574
         isCached: true
-  - title: "DALL-E 2, the AI that creates images for you, expands beta tests"
-    excerpt: "And users get to keep commercial rights for any images the program creates. DALL-E 2, the AI program from research lab OpenAI that generates images from typed prompts, is looking to expand its user base."
-    publishedDateTime: 2022-07-21T15:15:00Z
-    webUrl: "https://knowtechie.com/openai-dall-e-2-expands-beta-access/"
+  - title: "Rogers to invest $7.7 billion in AI, testing after massive outage"
+    excerpt: "Rogers is physically separating wireless and internet services to create an 'always on' network – to help make sure the customers don't experience an outage with both cellular and internet services ag"
+    publishedDateTime: 2022-07-25T01:26:00Z
+    webUrl: "https://www.rappler.com/technology/rogers-invest-artificial-intelligence-testing-after-massive-outage/"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
+      name: Rappler
+      domain: rappler.com
+    quality: 37
     images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/07/openai-dalle-e-2-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.rappler.com/tachyon/2022/07/smart-customer-advisory-sri-lanka.png?resize=257%2C257&crop_strategy=attention"
+        width: 257
+        height: 257
         isCached: true
 
 secured: "6fL8Cy99j+TGRNzAR+6elMl/JTYk6/0NL9iaC8+gP6L4wf1xgA6XyVLRbd+AkJviGoGl346F+Ro5qTza+o7D43gsFLDqfRVT8yk1VKgk8RLOnjRgV+5TrmVmEwHm67tdPf6IiV4BBZc88glQ9gtAwBmX98Q06iqRVcmyLqhmckgplCNj1mLnnSyKXcwcbclM6U9nyaWDm4SJSdQkEtWtQvnC4oij1HJUZaD6M7hbRaSpiqmg2NobQ7K4qcGYSkuh3hhMHgKk4R1aZK1UpJdUNWeXlPd8nEpW/eafB1Bg8c65Vbl4LBDX3C9I5/+B5fJsWJfPjFcju1n/q9ONF6VMeIn5aUpTFMU8KvFfqJlNGjWNukuo41Ba0OiW91dt3sIHrj0IjmfODBqr07cpRdagNaKuzJzWKZsLKwnidLBoZgBmJFR11QHwSkEb/hEMCDigmNuaOKvMZSXBwWSLya8NCLKyUQfeSaGfhEZKlfsZwrj9IC9ISHqGfBrGC2bxQI2yqE4+jgk+5pESHGS3ejIfOg==;DiqGAex5F+JCOlZvxOW1hA=="

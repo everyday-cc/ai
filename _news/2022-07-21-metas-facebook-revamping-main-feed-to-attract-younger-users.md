@@ -24,17 +24,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Facebook confident it can be ‘cool’ again"
-    excerpt: "Facebook is facing an uphill battle to be cool again, according to Meta’s vice president of Facebook Tom Alison, who is optimistic that a combination of new AI tools and more short-form video content – dubbed Reels – will help the tech giant ultimately win the battle for eyeballs against the likes of Chinese giant TikTok."
-    publishedDateTime: 2022-07-21T06:26:00Z
-    webUrl: "https://www.theaustralian.com.au/the-oz/internet/facebook-confident-it-can-be-cool-again/news-story/b64c9fa37884817de49053889f33d96c"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
-
 secured: "cktNw7gvhL7Cwok4go1KPEbecr3uPddXmOrqTd+MkbBbEfLaqabWpc/WUhDuDTV10HRDAAyF4Uf355HSDzdBi1ma6zAofk6HS46pYNFv+1FPOkE+BvKYUh5AYTSC2w7kCUK0Zcj1hT5omdXhKWnZY01Id4Q7ovp1IBQPllZVsze9Bq51iEDr9pg0tSZbFFUwuuhbNl2G06FpaEQeRQP5ffgej9pj1RrhLaRc6q1Myegb/RytrDxj6b0vo5FOqGQ9NLpRzIRFRpX6VbXVV2v6rcCwO2bDogoeudDinR7KiEtyGie8QQNHr+9LF7+kA/nRX55yBlQSpEK3g0LSlwxd1d1UDfQJkwmYr6gKxrOFcz8=;1EltGi5bPwGIVXMrle2tZQ=="
 ---
 

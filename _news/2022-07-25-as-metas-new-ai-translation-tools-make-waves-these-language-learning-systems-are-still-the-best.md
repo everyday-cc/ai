@@ -3,24 +3,24 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-ampWebUrl: "https://kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-cdnAmpWebUrl: "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+originalUrl: "https://wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Oklahoma's News
-  domain: kfor.com
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI
 
 images:
-  - url: "https://kfor.com/wp-content/uploads/sites/3/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+  - url: "https://wreg.com/wp-content/uploads/sites/18/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
@@ -36,6 +36,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "f8y9pbgjA4yuvUCeZyGkp42I+C80wPpcsPibMOscFkAtOdbvT1J5XPIIMYmZXpAM67pBCPM+7Z7QWlQpM8849/syBnQb31CwoT9wwu6FjHbSLgh/XpT8osZp8UX9f+gjjjbIqwovybzaSGME+U51WXmuCtEm4bvRMbJY9DnJNHef7KOH8I5UFS64QaRyCnvKnFGiG9tnD9YlP+14BVu5kdkw16ZsQuJMf9g3PuyLYhcXgqPM9Bdq/78Zi2yQBpiTT1nM6vFi/mrwMaAhdsuSiTM/NJ5H37JCTtXitqBigYurDMMGH9kvxUyu70CIvqsyf0TZAj9tzCiPhONC4EeGb7G+F6pGKsyjCiqKexwrqcc=;6BPniN0vNPEkqX8BRMpbxw=="
+secured: "MWk3Mk7YrF7riDkhrG7dm50GRXVgbI/xmF/QSIaJu5DWGUTEkl5vRX0LNrauboom8lEfDyWctz0jKzBMJMvei2vRbAi+xjoUojpp0s/JZ6CxXChZgCy5ybuAZdftkmq79RVgN/giFYtEOBr+cQFepFbeIkvXLCk4fmdDgEMRIA/XSFcXmrc3Mr9Yylf/ynDlptgBGAeX2pRe4gXtkdObYy9lUbanJQHmaWMWcNxNxiyZb7rhQsrxjPq4U+qgawjuy9MefJI601YVT/JheNkxcbOdQK7DqsLkURO9FEnE19YN+TTijUY4al/dVUlAm578guaZF4VIeIJ4OW03yNp1vlkonv4+qBKKyrxTgC/VtTM=;JpKZYxFwx92d2YrOdYvtcA=="
 ---
 
