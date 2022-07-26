@@ -76,7 +76,7 @@ related:
   - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
     excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
     publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
     type: article
@@ -154,15 +154,6 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 19
-  - title: "Google Partnerships Boost Cloud Value for Australian Firms"
-    excerpt: "Australian enterprises adopting Google Cloud Platform (GCP) are turning to an increasingly sophisticated ecosystem of service providers to"
-    publishedDateTime: 2022-07-21T12:22:00Z
-    webUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-value-for-australian-firms/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 4
 
 secured: "bqMk4D/MaHy8B2pduQh+rnhVSt/PL4KbQvOMKZx+QpN28udqLGTxdAFWYe0yUj3E7MHRRy9Yb8G292ir4UE5zxIaENW9Xd+KJx7y3yRKQFECaxDdp1yiAkRhcP06FRVYJ7muK1Pd9j7/PoWM7v+rgMSRsdDaUwTtNoJlhDdwlpgrDTsiwklxozkdf5b1ihVqNKz3fUfuMAlrpkMXJRNkDr+VR7ecKTB0IhsUAfCO83VP9cwbnnpqd6behHSB98w7ZcoredmjHkyTVOjME0fohRzl5+ABLCQVRrsbV0rOhbmRRpmE+jVvlCCwIPFfW7PWKlhGiquzHczbVxzUxEteE6dHCcVFEJ3Va/Arq21zUww=;TmJIDhu7vXL2qohXaj4rHw=="
 ---

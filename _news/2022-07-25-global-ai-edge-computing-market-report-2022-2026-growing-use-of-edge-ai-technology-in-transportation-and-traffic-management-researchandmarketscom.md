@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Immersion Cooling Market To Touch $1,855.1 Million Revenue by 2030, Says P&S Intelligence"
-    excerpt: "According to the market research report published by P&S Intelligence, the global immersion cooling market generated $258.6 million revenue in 2021, which is expected to hit $1,855.1 million by 2030,"
-    publishedDateTime: 2022-07-21T12:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/21/9642754.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "B+HiQkOYCeIAj/Ju7+6z/HKC8o8A/hDOaXaIA4gFJdQ6IqhZaHFs7DYBvQ65m9Owc93y6pOqQwiMbHQGFgDXqfVFNVGcPavN5YtuVeVGkIbDaTYoVvO16JLsii/73NHFXlbrvRQcHqotqP/qw/2AedUCV2Hn6cFau030ONVsTVZCnaBbnMgre5hKWXKsu/YVdGr8SphJ09Fjnu/IDdsi+IhIwtiu7wzJzHizX+Xicl8fjFTc4S49UNMwKn0HaxrdfTZIxqoorDvAIQ5HdChNwro0xAx/vlZ/L1qaZRAYaYhBg8UpCu0s8Q6g8fpLY7SjG3AabA4t4zUnxH7OLTsEoZRsXQDn++rdUnteXY6LSOs=;kIorShnnX4SE+8rasXzkxg=="
 ---

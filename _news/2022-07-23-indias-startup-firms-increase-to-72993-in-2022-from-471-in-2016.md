@@ -7,7 +7,7 @@ originalUrl: "https://www.ndtv.com/business/indias-startup-firms-increase-to-72-
 webUrl: "https://www.ndtv.com/business/indias-startup-firms-increase-to-72-993-in-2022-from-471-in-2016-3186816"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "471 to nearly 73,000: India's start-ups have increased 15,400% in last 6 years"
+    excerpt: "In India, the number of established start-ups has risen by 15,400% during the past six years. The number of new age start-ups increased from 471 in 2016 to 72,993 in 2022."
+    publishedDateTime: 2022-07-26T05:48:00Z
+    webUrl: "https://www.ibef.org/news/471-to-nearly-73-000-india-s-start-ups-have-increased-15-400-in-last-6-years"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 20
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
 
 secured: "9bL0Sa8rsqCnZp/GRywqpDgB1VetcYosaCy0rTylotACJKx2Pkgbo8CcsxXqmrGFcRKu9jRs6SmHCGGcU39XgdVWezIEJ+uBCjHJRXCZL1Qgr5fDhYO9ihgvKdI88GLmqz/MHBQJEk9luGN5Yhplyl8Uyaydnhe/xGWqAqchejx5EeOdknbDgYKqNYQm0CMTUv8ge6FA7lnflTgOentxJ6FFerf5Q9+MpmFAYUPzt8HFBSVSSyCipvshtBsd4tO66SdsuwydvfsQjzkvCHq1XUufgwl9cnu7mjN55CYNh+42lw7Hxq1/Lr6ZxUFvZyrfx1DQoV72qdFJ8/kLLu3kQHU//IpBMAJyJZtsw1JzP/f3NLGg0ZKFazhqR5JC8Tar4MEcvVvuXPe2rbMuvpvaCyAALzmnsCZJsRhXcAn9Kmrx5e8RMTBxRTBAbQCPnjD96XWYEg05cHOA31HLeT5u7Vkj8UC1bMu/FlqKw/3VnbImC39j3tH1e8G4eHnaxf/dAgvxzOYOoFVF58gQZt+5Cw==;W1T5FIh8TcbvSXJc/xI9Xg=="
 ---

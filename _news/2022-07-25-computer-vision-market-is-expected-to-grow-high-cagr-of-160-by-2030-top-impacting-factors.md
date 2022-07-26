@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Immersion Cooling Market To Touch $1,855.1 Million Revenue by 2030, Says P&S Intelligence"
-    excerpt: "According to the market research report published by P&S Intelligence, the global immersion cooling market generated $258.6 million revenue in 2021, which is expected to hit $1,855.1 million by 2030,"
-    publishedDateTime: 2022-07-21T12:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/21/9642754.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Global AI Edge Computing Market Report 2022-2026: Growing Use of Edge AI Technology in Transportation and Traffic Management - ResearchAndMarkets.com"
     excerpt: "The “Global AI Edge Computing Market 2022-2026” report has been added to ResearchAndMarkets.com’s offering. The AI edge computing market is forecast to grow by $14.28 billion during 2022-2026, accelerating at a CAGR of 20.27% during the forecast period."
     publishedDateTime: 2022-07-25T09:17:00Z

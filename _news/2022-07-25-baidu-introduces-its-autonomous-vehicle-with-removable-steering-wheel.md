@@ -103,20 +103,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
-    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
-    publishedDateTime: 2022-07-21T12:50:00Z
-    webUrl: "https://www.13wmaz.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
-    type: article
-    provider:
-      name: WMAZ
-      domain: 13wmaz.com
-    quality: 39
-    images:
-      - url: "https://media.13wmaz.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Baidu’s New Taxi Has a Removable Steering Wheel"
     excerpt: "The Apollo RT6, an (allegedly) self-driving taxi, will start ferrying riders with, or without, a steering wheel in 2023."
     publishedDateTime: 2022-07-21T14:42:00Z
@@ -128,20 +114,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 39
-  - title: "Chinese firm Baidu reinvents the steering wheel to rival Google model"
-    excerpt: "The Chinese search engine and artificial intelligence company Baidu has unveiled its new driverless car, and plans to make its robotaxi service available in China from next year. The Apollo RT6 is ..."
-    publishedDateTime: 2022-07-21T12:22:00Z
-    webUrl: "https://www.thetimes.co.uk/article/chinese-firm-baidu-reinvents-the-steering-wheel-to-rival-google-model-f9kgz72vt"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F999d97c2-08ea-11ed-a986-fc91b4ad48f0.jpg?crop=5361%2C3016%2C0%2C279&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
     excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
     publishedDateTime: 2022-07-21T17:50:00Z

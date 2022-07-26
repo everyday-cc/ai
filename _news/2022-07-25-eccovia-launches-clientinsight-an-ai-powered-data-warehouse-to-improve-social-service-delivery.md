@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-eccovia-launches-clientinsight-an-
 webUrl: "https://www.tmcnet.com/usubmit/-eccovia-launches-clientinsight-an-ai-powered-data-warehouse-/2022/07/25/9644099.htm"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Beeline Loans launches AI-powered investor loan application"
+    excerpt: "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,"
+    publishedDateTime: 2022-07-26T05:08:00Z
+    webUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/"
+    ampWebUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
+    cdnAmpWebUrl: "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
+    type: article
+    provider:
+      name: Providence Business News
+      domain: pbn.com
+    quality: 57
+    images:
+      - url: "https://assets-pbn-com.s3.amazonaws.com/2022/04/HealthiestEmployers2022revised.jpg"
+        width: 1308
+        height: 750
+        isCached: true
+  - title: "Run:ai Releases Advanced Model Serving Functionality to Help Organizations Simplify AI Deployment"
+    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get machine learning models into production."
+    publishedDateTime: 2022-07-25T19:20:00Z
+    webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 6
 
 secured: "xv36QsIvFPMu1DXJ43eKHi/P/2brScpiOGAfKNh7T24A9BuQAUz+KX134nKNSVN0GMOrvg8dsF8bka9pPAVIuUqFgmlac9Q/OofqTsJcAPNSeznABh0rum07Eag3Gm0xca1XbHTC3rbEIaDAElZs2VaIzygfOhxGLkoAT12W0ga1ODAw/Dqd6KuJY21B63V6FiouJue2LeLFHxpLTfaULtEowt2cBArduYz779dpiRwk8wsMmwry5Ffl5ErPkjtbONAmgVJdNoDdmk4lbk01sYKlg/P8Vf9I1vQwc3CcwlyXnoSKp5yg0wUvvtmLJ098iWJvytowL+QfLpKCwGku5JYWRmfB1F1binWCpzpzOBE=;e8/wXX0kX5LIN5UjtpOifg=="
 ---

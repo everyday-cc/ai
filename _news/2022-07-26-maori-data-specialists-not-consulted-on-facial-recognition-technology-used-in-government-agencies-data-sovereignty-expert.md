@@ -27,6 +27,22 @@ images:
     height: 438
     isCached: true
 
-secured: "7EvucljoE5K3OODwaH811cm35ndsc4Cy9eIBN7AyGLCkmaXEWLKoT+aKkTDjNOSY5ZXsK/WNhN9adistciuR8cvbTkeiuWlW+JRqAf7qulYiI+pu1etNcsd3ivzG/3K7VWHmyLz6mexFhX8K60HQ+lVF3DzSsF5FLLqovSYuhv5P10tabQRRsoykvpZPJr95nkgYaQ/wTUhiZw/xwo59TiPf+4HcVvQz6qPu1RIb0c3DGdcIIzc4sGoWEV7BDkStZ5ANsrQP7LU+zy9rxvVEb+KpgpDwrBvz58dKwgU85t1b8LussQeVCtSSiViJIN4LJLxaZ80kP2MS1RwVHo6Wri/DiBY3AXKnWJTU+5Bgab0=;tpI6CyCMeIZyYkOmQolYqg=="
+related:
+  - title: "Māori data specialists 'not consulted' on facial recognition technology, sovereignty expert says"
+    excerpt: "Māori data specialists are accusing the Government of ignoring them while going ahead and expanding the reach of facial recognition technology."
+    publishedDateTime: 2022-07-26T05:07:00Z
+    webUrl: "https://www.stuff.co.nz/national/300646905/mori-data-specialists-not-consulted-on-facial-recognition-technology-sovereignty-expert-says"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 28
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yzwmx.png/1658812417864.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+
+secured: "T5vrNu3I4Am0QBAU7ebUHnub60u1y4ZyF3IWHz2z1bhdOHqs1XxP5UlRGwNpQoP2CbqC/PLI6usKIF8SbXLEDk5i8KAw51AZTNQegbKIaRhJmBfqMLXqPRO7dSu4e1zg5KA6Xsw7ZLFLUUVjUbCPih1L4XQrRC0Uv2DJTPQRxvCffUb661adAH8/9M9PzmypkVUbkHJmR+RF2h4Eur/SehNZF4pkcPsaEHo2yAr75IVxwkiefLRet5m6yqNEIK05CQIgSa30p1NQmQfQfUKHHJkFvMtb61F3+jf4MDafR7ASROeSfLZZaB9R6b6AIc1jeBNxWTZeF5jtAnuRdFQ+eMf7tK8C6CqXg2TJDb+Cajwxe8aoXtBjAVKzWs3QeKXO0RwECVEfJgTfqbpPHgs141x6frZq91l93Kfh0JqHiDNlENfXNWpIs7Nm6lct4qRabNQx2h/JPmWzxNCZCGK0jBqDYZlhaX6TzfmoSliaubzyQx7oankO/aOTo21/+Mk92xPtFnX8uaWfk4r6ZR7Uxg==;MbXGbV/Hcc06oVKu6QO1Hw=="
 ---
 

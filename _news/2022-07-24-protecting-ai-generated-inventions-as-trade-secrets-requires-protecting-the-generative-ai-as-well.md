@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s why AI generated images are suddenly popular"
-    excerpt: "Don’t be surprised if your friends are talking about websites that generate images using artificial intelligence. It’s all because of a tool named DALL-E, which comes from a startup"
-    publishedDateTime: 2022-07-21T11:46:00Z
-    webUrl: "https://ktla.com/morning-news/technology/heres-why-ai-generated-images-are-suddenly-popular/"
-    ampWebUrl: "https://ktla.com/morning-news/technology/heres-why-ai-generated-images-are-suddenly-popular/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/heres-why-ai-generated-images-are-suddenly-popular/amp/"
+  - title: "Commercial image-generating AI raises all sorts of thorny legal issues"
+    excerpt: "DALL-E 2, OpenAI's image-generating AI, is now a paid product. That brings all sorts of legal issues, including whether owners of images in the training data are entitled to compensation."
+    publishedDateTime: 2022-07-22T13:08:00Z
+    webUrl: "https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 57
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/07/ai-generated-images-dall-e.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "jxq1c0lARVY7nXbmXlVpGdgPSlNYnjJzLt3B3VBtXChcQ5NYvHV/4eR1fdjCDW8NtW279VJ7/XuQKdcJJ9h8pCfHfQ27z+EfPZYh3WSBQndO2QxItpHtBnZpbGDsMZgvYYpL3yE1BVXcHOv6dvkljR9pnNryL+xlQygjCaZoBWMKwrK2L888un2jOMkhQUA3crxpp5lzR/AsZeWehAxUxiL/pTzPJwNdTLEfLR91+oEk1MAQVWpatlNnXIcWaJtNZ5Ee7Lra2/Fmz72eAi++Vuhmuq6mO111MRoHC03hvxiVECHmvuZmqk8hPJm7p6jj+GySaQE0p6EeNoXC5e5ch+TcWU4WSYn7jmqFSF5kyA0pmXggx7D8jhPh/zoRxMTmzghRvaZL7X6mLwq9s9dPt3XpF9Z4sTIzOfF5Ge3WGUcTbtOj8RTsjDTAO8/xIWC3JKKt3n4bGmHmrsmAajOwmTck4MtimpsOwOLXy1VghhC8nnb8iM2I/cyK3ZOKnzo2tOoxPM67b47Rd48zx98/QA==;9kiybMcrM6toBQ0FBGtZwA=="
 ---

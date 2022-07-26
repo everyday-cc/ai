@@ -90,7 +90,7 @@ related:
   - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
     excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
     publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
     type: article
@@ -154,15 +154,6 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 19
-  - title: "Google Partnerships Boost Cloud Value for Australian Firms"
-    excerpt: "Australian enterprises adopting Google Cloud Platform (GCP) are turning to an increasingly sophisticated ecosystem of service providers to"
-    publishedDateTime: 2022-07-21T12:22:00Z
-    webUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-value-for-australian-firms/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 4
 
 secured: "a/RGO/2bVpueth+QbBEAutQDw/wzU8GuAl6dxCmd/o3ezby1BUGyNb7Ilk8f8Asq+025xhBcnpY3dXG+bhjkTIEkpMNYwShgRcT4dgnwroEDUd4+fEDqQbbj82eZelme0SefxzpCgDqktTMYAH/45g/QWvO4sc31FUFCJmBEaEg2QV9wLdrkgeCJ7QNes54fCBADK0otidoit8ZCltqHZS6f1pHnOy5zJnt+n0s2X7sArQdlynag/UAGjsBi+Kcqhr/iSeVfsT3hFCcohjEo1UN7cl9FZlLD9z/zXoDSeFzINpKIUVHIxbuDu0cVKAHHAwzRnctzxV0N+XqpVnSxt8/f6mKEQgTB0qunaQ/SqLspoDLCd7dpNNwRGCIxJ4gGrGV8cXRmMAfE3KJ/efsb+RqAHqiGE5juXBnXHx/o4Mmr42go0GchISvsS88dicqkmYLjWH+9eEqkkT8wifSKxGTGsgxfKfJJeFU98LxFhVt9sPzBV7nusR7rlMM4wxv5DAu/Xtc16n2+9NQRwQhvhg==;IFqO7YBbumG5o9l+dH+f3A=="
 ---

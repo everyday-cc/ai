@@ -41,22 +41,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Making AI Accessible To One And All"
-    excerpt: "The democratization of any effective technology happens automatically by virtue of its success, even if the complexity it presents initially overwhelms"
-    publishedDateTime: 2022-07-21T12:20:00Z
-    webUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/"
-    ampWebUrl: "https://www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/21/making-ai-accessible-to-one-and-all/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/lenovo-hpc-ai-logo.jpg"
-        width: 952
-        height: 525
-        isCached: true
   - title: "AI asked to show an image from inside a black hole"
     excerpt: "A new artificial intelligence system has been asked to produce an image from inside of a black hole, and the results are stunning."
     publishedDateTime: 2022-07-25T08:45:00Z

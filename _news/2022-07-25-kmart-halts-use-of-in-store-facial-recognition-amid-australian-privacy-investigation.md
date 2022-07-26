@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
 type: article
 quality: 82
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -80,7 +80,7 @@ related:
   - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
     excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
     publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
     type: article
@@ -158,15 +158,6 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 19
-  - title: "Google Partnerships Boost Cloud Value for Australian Firms"
-    excerpt: "Australian enterprises adopting Google Cloud Platform (GCP) are turning to an increasingly sophisticated ecosystem of service providers to"
-    publishedDateTime: 2022-07-21T12:22:00Z
-    webUrl: "https://enterprisetalk.com/news/google-partnerships-boost-cloud-value-for-australian-firms/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 4
 
 secured: "Vky4srrM5MgnkKZtfg4UiLDZJ5LvOsae+BRULzo9mOjxoiywKmHvu5DEEaCByo9191YTMMhC1n8brpL32SckNBUUZqBbmIL6OksOjQqw6njvC5FH8pyEY5fpx8aUFUQHjH7i4zVR4rdSffew0KdP2ZswLQermF24d3EmsS7zMAwF4VIpnNOj2io+WFLqrr/XhZZ1wap65oT8VXWfnS9c9o+uOVmZEAZCBTqFL9+us5VyU+nEeoydq594g5i4yueEP1IvdFXrZAfntMt/LUt3S40hn08Y9yPivbDPri1/inv3wy7PtvH6FU4tZhrvJ+xARRyM/ka4/fYEXqQxnA74GxLi7uiQpuu6hjWqby/yI4tInDBsucH3OxVHRvtey2BzQYjS7VYbgfOeg5F6UHP0CXcwT8nSPAwQdwNI8ubjBa8NMwX7oavuZOp2MCwF6Hqdr4GgBgErmeNYhjsyJm7BU66SIQFeWQIcWkdeqFOBnhMxZ3zA8+OBMkiWdzm5MDEjhGEfl1FCnrBBR0iktXcc5g==;1moOREtRoRxpMQLxYpBnsA=="
 ---

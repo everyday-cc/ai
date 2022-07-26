@@ -39,15 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Risk analytics platform Zesty.ai raises $33M in Series B round"
-    excerpt: "AI-powered property risk analytics platform provider Zesty.ai has raised $33 million in a Series B round of funding led by Centana Growth Partners, it said this week. The company said the funds will be used to scope expansion of its property and climate risk products,"
-    publishedDateTime: 2022-07-21T12:26:00Z
-    webUrl: "https://realtybiznews.com/risk-analytics-platform-zesty-ai-raises-33m-in-series-b-round/98773377/"
-    type: article
-    provider:
-      name: Realty Biz News
-      domain: realtybiznews.com
-    quality: 19
 
 secured: "uxmaNmDFJvdOqdOjTMhumf+aFM7+xWeslNp4CRllI/CLbOEFYsha1Bx7k8NF34v9GjOzY8vhfbG27krhpi7kTHHSLV0C7JEzOWiPSJ0Qp0+CMnZ+PmiVb1yjTOoFntWZ93PUgC90tZsV29KuxHPem/T51M5ZZKVarwDy/+hhcp+BsP5HnaAkTKzT01Shf0MQ1HmILK4DZImeVG7qz/eoDRh/Z/PtJM35DyheW53gBiiRQEbG0gsIN4Q2N7t6QnVbv0XWVjPdysQ9b3/YtdwNoMnYTGgtIweD/JmtzX//kOUPuIUCo37P1qhLWBM0RT6lqSkt7VQ01SnxUDJQW4H2WqEpo0pY4R6LBPmYQPtDCrKs0Xmevwn8lTAes98qj8q1SDG4UIGQoPpDke1c8wz4iIRSq/7ZBkdxpowS9EvFQ0gSH10V80vo9lBvHgw4w//u6dlpZskYRI87mQzTXtAxFMWxTJrT3DgorlTWnMzr/ZAldb9AToE0lNOOJY3p7FPnOPv49VVT1sF5eJICKktsyA==;y+1/qEc03/CI4YMn89gPIg=="
 ---

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament"
+    excerpt: "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,"
+    publishedDateTime: 2022-07-26T04:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 65
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Chess-playing robot grabs and breaks finger of 7-year-old opponent"
     excerpt: "A chess-playing robot grabbed and broke the finger of its 7-year-old opponent at a Moscow chess tournament. The incident occurred on July 19 after the young player moved too quickly in violation of safety regulations,"
     publishedDateTime: 2022-07-24T23:25:00Z
