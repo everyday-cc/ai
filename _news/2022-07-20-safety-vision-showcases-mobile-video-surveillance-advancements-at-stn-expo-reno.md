@@ -2,22 +2,25 @@
 category: news
 title: "Safety Vision Showcases Mobile Video Surveillance Advancements at STN EXPO Reno"
 excerpt: "EXPO in Reno, NV this week displaying several innovative technologies for K12 Pupil Transportation Directors representing hundreds of the nation’s largest school districts. Technologies included our Electronic Mirror System that includes a 12."
-publishedDateTime: 2022-07-20T12:02:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno"
+publishedDateTime: 2022-07-20T12:03:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno/article_ed53c365-21df-52fc-a3f0-a7208394fa92.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno/article_ed53c365-21df-52fc-a3f0-a7208394fa92.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "x856ZQZK3+DHuwNLerD4Mp4C64v5WPT9BAqNk3zz0zp8dE/lsEwQaVuJSOiW3U1CrCUG5h5bIlltZW2XN3zyQcIzghJ1g+V/Gau7AkVj2sMX6/B8syy8CvYud8Ta/BNUOpz4TKCWrXCbrNYRg7oVNdWcBH1wIV5Hhat3YkCyXu53uXN73wN0X9N9qapneNEGdQTKgkzzq4oBmpOK0hwJCjq01ilQtPvxBIJ3RmnDKqVw3Sdgfg0EwpRUWaMczwbvls3O0+0bHQ/pGvczB/sHKKHfry53aDZ9ZkA/bWGbuD4raXbnD9ZF53/VGrszbuIi/UwMkL4AXBMMWnht5D9/lg+dJJSx2BcxHyJTDRlCadxoeiVCUm5BCByD4HzYtO14K6COQeMatL1jqkw3ap3n/e5PU40ORsnlU0p+RlCNroWwTtYER7CGMbUdMIguwng+cyB115wzpZI3LQhDMx2bgNHbxnklSq1TK6IOTuGs0YHA4GUxWma7lakoITS9rCwdb1mUawWewWtitOqbIx3gjA==;HZxPOuxp2XqeEvdandey2A=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/40/d40f17de-7b08-53d4-97ea-f675c50d25b6/62d7f2dfc3a23.image.jpg?crop=756%2C397%2C0%2C305&resize=756%2C397&order=crop%2Cresize"
+    width: 756
+    height: 397
+    isCached: true
+
+secured: "fNGyrTki72W0Oe2jmGzqi+QmfymgxQaZ8/7G20WbQDx1Jxqvf1rtKIcCqd50hzQLYRoV9psxQD5vVlWwISkAPTCmPgBM/vl2pvm4108UuYoVhhZq8u/SEt4H8S1EF10ttIBUPJ4yjtKWIObuWmWL2DE/BAGqtcZRW8uVJqxucy14e3tqKQdCAlCaH19S1Tdy+DIC7LUh/gJf2pX/bMhz6EoTk4ksJVsSdovKNNhQeXQlG5beR29GfRWLtz9b4FyfhALRzqWlemdTY5JJVLiymfy+T4YSgYQNrG+xFU9GBkZhN1pV55NsIR5GxifmLeGjCt2sEIuKeXcX+TIVddIoG4n7HfceFlSqjLZMPegq8AE=;brY3vi/ew13TPdSqMArMZw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintec
 webUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
         width: 640
         height: 407
+        isCached: true
+  - title: "The future of fintech and how to get involved"
+    excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
+    publishedDateTime: 2022-07-26T11:39:00Z
+    webUrl: "https://www.eastmidlandsbusinesslink.co.uk/mag/news/the-future-of-fintech-and-how-to-get-involved/"
+    type: article
+    provider:
+      name: eastmidlandsbusinesslink
+      domain: eastmidlandsbusinesslink.co.uk
+    quality: 24
+    images:
+      - url: "https://www.eastmidlandsbusinesslink.co.uk/mag/wp-content/uploads/2020/01/shutterstock_1063376933.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Global Fintech Funding is On The Decline with Largest Quarterly Fall in a Decade"
     excerpt: "After a blockbuster year 2021, the venture capital (VC) market for startup investment is now pulling back amid uncertain macroeconomic conditions and market turmoil."

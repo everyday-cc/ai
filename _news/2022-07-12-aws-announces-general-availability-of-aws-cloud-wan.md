@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
-excerpt: "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,"
-publishedDateTime: 2022-07-12T16:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
+excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Cloud WAN, a new managed wide area network (WAN) service that connects on-premises data centers, colocation facilities, branch offices,"
+publishedDateTime: 2022-07-12T14:46:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-cloud-wan/article_2c3520d5-7087-58c5-8d7c-51a1ff574293.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-cloud-wan/article_2c3520d5-7087-58c5-8d7c-51a1ff574293.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "lsGJ6KIZNZAnrzK2H6TMxkCI0hfPPNj6VGWj3qc6wpCJ7gk1ShFMgrIMiFa61DtabPedC0q5vvBeFBF3c/myJS8dLIhWnnP4R5GZ8fnZRL3LUfMUoMcUx7xvOAJg9/HOTusljrSwFPEjxwkT7H5L2n4egGBJxc+YYYtnye5KVfIWXpKXO66uufG+Xqw8sPy2UvfaWpN4asbZOkD5XzphDJnlGXqXBYx+JIVPbmpqBL93JFSmqqZKTd56ki0LoJGqX8asr7Tv4eGy40ehvuvkq2poF5187ZIif6ru+jvGnxRDwNezt9WdSan4XxnWPFo3eUgWpb1V0ZKa/5fYuZldKHOPbR2VnZy+ljNluQR8oBw=;xHb/IJv7p0Rwvd6WG0v+Rw=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "3qAoX7xZAVCZdMZQfx5FnZ0IJX6O4H0syaUO5xaL+KR5UWHImIcrLNvtnmpxXqHslrhyeP/rsw1fE3iPfDCPHaWsigoylDM/Ayw1qc96fopuvuTi/N5yZj1d74v+Bx0srnqpK8kNUAsIwNM1yd1uvJl+MhYDepL875f5lv3AmrtOjsh/s3FtKl2MoIoTTMlA1oTu/+8BmSYB2s5SOfmxov2Q7WAeEhCWSKtKHf31nX6Zsx20xPz0o8SjMw2r298XwIlPl9n0eH9u30Ejk0vePebCJyBfiUWkAvHCibZzxpc2Nd6V38cr/7QOxXBs6rv0PlT4knL3QLHMuJ8FMeG80wE7BF4Qjf0mMtfLibvPWfQ=;nFVXv/HGOOpTWq8pPfZgmA=="
 ---
 

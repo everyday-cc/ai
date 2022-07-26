@@ -2,6 +2,290 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-20-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power.md",
+      "title": "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power",
+      "excerpt": "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
+      "title": "Singapore healthcare mobile app taps AI to diagnose STD",
+      "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "publishedDateTime": "2022-07-20T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-banks-turn-to-ai-to-help-dodge-enforcement-spotlight.md",
+      "title": "Banks Turn to AI to Help Dodge Enforcement Spotlight",
+      "excerpt": "Regulators increasingly expect banks and other entities to use smarter systems to help thwart potential criminal activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "originalUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-586683/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "publishedDateTime": "2022-07-20T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-how-ai-will-democratise-strategy-for-the-next-industrial-revolution.md",
+      "title": "How AI will democratise strategy for the next industrial revolution",
+      "excerpt": "During the transition between the fourth and fifth industrial revolution, strategising must go through a sea change. Intelligent platforms aided by AI/ML will transform the traditional strategy develo",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "originalUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Jul/img_190095_technology.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
+      "publishedDateTime": "2022-07-19T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-switchback-and-amd-bring-ai-to-battlebots.md",
+      "title": "Switchback And AMD Bring AI To BattleBots",
+      "excerpt": "To accomplish the move towards autonomous driving, the Switchback team is leveraging the AMD-Xilinx KV260 Vision AI Starter Kit and Kria SOM (System-on-Module) with the AMD-Xilinx Vitis AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d78d4434f0533661f269bb/0x0.jpg?format=jpg&width=1200",
+          "width": 643,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/amp/",
+      "publishedDateTime": "2022-07-19T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027.md",
+      "title": "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027",
+      "excerpt": "Europe healthcare AI market is reported to show promising growth during the forecast period of 2021-2027 with the rise in the demand and use of AI-enabled technologies in this industry. AI uses a combination of technology and human intelligence to enable different machines to carry out activities like automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are.md",
       "title": "Transform 2020: Women in AI and AI Innovation Awards – the winners are",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! SAN FRANCISCO – VentureBeat is proud to announces the winners of the 4 th Women in AI Awards and its 4th AI Innovation Awards.",
@@ -867,290 +1151,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-hiddenlayer-launches-the-first-security-solution-to-protect-ai-powered-products.md",
-      "title": "HiddenLayer Launches the First Security Solution to Protect AI-Powered Products",
-      "excerpt": "HiddenLayer, the developer of a unique security platform that safeguards the machine learning models enterprise organizations use behind their most important products, today emerged from stealth mode to launch its flagship product,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-austin-texas-artificial-intelligence-f4a3a1405f8ea33a8cd893dc997e97b1",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-austin-texas-artificial-intelligence-f4a3a1405f8ea33a8cd893dc997e97b1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-tachyum-signs-agreement-with-m-computers-to-expand-hpc-ai-edge-and-cloud-computing-in-central-and-eastern-europe.md",
-      "title": "Tachyum Signs Agreement with M Computers to Expand HPC, AI, Edge and Cloud Computing in Central and Eastern Europe",
-      "excerpt": "M Computers is a leader in HPC, supercomputing and AI in the CEE region, and specializes in the design and delivery of computing clusters, high-capacity storage, servers, and data storage. M Computers’ specialists design optimal server configurations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-czech-republic-eastern-europe-artificial-intelligence-53c0fcd63e6e4d9a9a75c5d87d181bef",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-czech-republic-eastern-europe-artificial-intelligence-53c0fcd63e6e4d9a9a75c5d87d181bef",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.md",
-      "title": "‘Care is increasingly moving outside the hospital, retail healthcare will make it a new reality’",
-      "excerpt": "In healthcare, the health-tech industry is gaining traction and has emerged as the leader in terms of growth. The health-tech market has been driven p..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92981804,imgsize-22320,width-1200,height-628,overlay-ethealthworld/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "publishedDateTime": "2022-07-19T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-robots-arent-replacing-employees-theyre-enhancing-them.md",
-      "title": "Robots Aren’t Replacing Employees, They’re Enhancing Them",
-      "excerpt": "Tedious and repetitive tasks are one of the biggest issues contributing to burnout within finance and accounting teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62261169ca448e166b4fa271/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
-      "publishedDateTime": "2022-07-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-this-ai-powered-prosthetic-hand-is-stylish-too.md",
-      "title": "This AI-powered prosthetic hand is stylish, too",
-      "excerpt": "The company makes an AI-powered prosthesis that is highly dexterous, remarkably light, and has an unmistakable elegance. It's part of a lineage of technology products that emphasize form to enhance underlying function -- a welcome departure from a medical device sector whose dominant design is best described as antiseptic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/809b860885706c3c26dd01fa3741797c633fb785/2022/07/18/78c134fe-4cdc-4d0a-8a83-346a4b86ede0/esper-hand-grapes.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "publishedDateTime": "2022-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-thirdai-founder-works-to-make-artificial-intelligence-more-efficient.md",
-      "title": "ThirdAI Founder Works to Make Artificial Intelligence More Efficient",
-      "excerpt": "Instead of using huge amounts of computing power, Anshumali Shrivastava wants to rethink the fundamentals of AI itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "originalUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-585899/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "publishedDateTime": "2022-07-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

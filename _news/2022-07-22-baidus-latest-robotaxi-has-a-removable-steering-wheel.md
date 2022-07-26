@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-ste
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/22/7f856bd1c80f474acbaa3fa5987da9e7.jpg?quality=80&resize=1280,720"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Amazon-owned Self Driving Tech Company Zoox Is Launching a Robotaxi"
-    excerpt: "Self-driving technology firm Zoox is gearing up to launch its robotaxi. The Amazon-owned company is applying for a permit in California to test drive the robotaxi and says that its vehicle meets US federal regulations despite not having a steering wheel or pedals."
-    publishedDateTime: 2022-07-21T17:50:00Z
-    webUrl: "https://www.whas11.com/video/entertainment/buzz60/amazon-owned-self-driving-tech-company-zoox-is-launching-a-robotaxi/600-2a03e1a5-a237-4651-9c5d-d8cef02d081d"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 39
-    images:
-      - url: "https://media.whas11.com/assets/BUZZ60/images/929f917c-595d-4aa1-a7c2-801244e17c8f/929f917c-595d-4aa1-a7c2-801244e17c8f_1140x641.jpeg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Baidu introduces its autonomous vehicle with removable steering wheel"
     excerpt: "Baidu, Inc., a Chinese tech firm specializing in Internet-related services and products, and artificial intelligence, has unveiled its fully autonomous vehicle called Apollo RT6. The next-generation AV is an"

@@ -2,6 +2,303 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-18-emotion-ai-a-possible-path-to-thought-policing.md",
+      "title": "Emotion AI: A possible path to thought policing",
+      "excerpt": "Community We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1273872391-Devrimb.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/",
+      "publishedDateTime": "2022-07-17T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-the-imperative-need-for-machine-learning-in-the-public-sector.md",
+      "title": "The imperative need for machine learning in the public sector",
+      "excerpt": "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "publishedDateTime": "2022-07-17T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-ai-art-is-challenging-the-boundaries-of-curation.md",
+      "title": "AI Art Is Challenging the Boundaries of Curation",
+      "excerpt": "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "publishedDateTime": "2022-07-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-machine-learning-and-marketing-analytics.md",
+      "title": "Machine learning and marketing analytics",
+      "excerpt": "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/09/surabhi.2020.jpg",
+          "width": 350,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/marketing-swan/machine-learning-and-marketing-analytics/",
+      "publishedDateTime": "2022-07-17T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-how-to-use-ai-to-eliminate-bias.md",
+      "title": "How To Use AI To Eliminate Bias",
+      "excerpt": "Since AI was first deployed in hiring, loan approvals, insurance premium modeling, facial recognition, law enforcement, and a constellation of other applications, critics have—with considerable justification—pointed out the technology’s propensity for bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ced27e350a50c7316829cd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/07/17/how-to-use-ai-to-eliminate-bias/amp/",
+      "publishedDateTime": "2022-07-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-bacteria-based-biohybrid-microrobots-on-a-mission-to-one-day-battle-cancer.md",
+      "title": "Bacteria-based biohybrid microrobots on a mission to one day battle cancer",
+      "excerpt": "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/07/220715142115.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220715142115.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-16T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
       "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
       "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
@@ -910,265 +1207,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text.md",
-      "title": "Meta's Make-A-Scene uses AI to create digital imagery from text",
-      "excerpt": "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/92899003.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
-      "publishedDateTime": "2022-07-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
-      "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-retailers-would-be-breaking-new-laws-governing-facial-recognition.md",
-      "title": "Retailers would be breaking new laws governing facial recognition",
-      "excerpt": "Human Rights Commissioners past and present are troubled by Wesfarmers use of AI to weed out problem customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
-      "originalUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_1.5521%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2%2C$y_439/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fdec91aa3302f32ec1857e6f912d765efd1026ae",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii.md",
-      "title": "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii",
-      "excerpt": "Applications are now open for high school students interested in learning about artificial intelligence. Bootcamps will be held across the country, including in Honolulu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
-      "originalUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2022/03/GettyImages-1295900106.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
-      "publishedDateTime": "2022-07-14T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful.md",
-      "title": "Artificial Intelligence: Not A Panacea For Supply Chain Issues, But Extremely Helpful",
-      "excerpt": "At this point, only one in five companies have seen technology deliver positive results in their supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d08ec883b3814e6af35bc8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/07/14/artificial-intelligence-not-a-panacea-for-supply-chain-issues-but-extremely-helpful/amp/",
-      "publishedDateTime": "2022-07-14T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-twin-cities-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!",
-      "excerpt": "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

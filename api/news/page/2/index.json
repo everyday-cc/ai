@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-23-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "publishedDateTime": "2022-07-23T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience.md",
+      "title": "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?",
+      "excerpt": "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "publishedDateTime": "2022-07-23T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-how-to-build-ai-that-actually-works-for-your-business.md",
       "title": "How to Build AI That Actually Works for Your Business",
       "excerpt": "The biggest, fanciest, most ‘intelligent’-seeming artificial intelligence gets all the attention, but tried-and-true algorithms, applied to narrowly defined problems, are far more useful today.",
@@ -104,7 +200,7 @@
       "originalUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -145,6 +241,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025.md",
+      "title": "Artificial Intelligence (AI) in Education Market Size Future Scope, Demands and Projected Industry Growths to 2025",
+      "excerpt": "The global Artificial Intelligence (AI) in Education market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of % in the forecast period of 2020 to 2025 and will expected to reach USD million by 2025,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -460,7 +608,7 @@
       "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -512,7 +660,7 @@
       "originalUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -615,7 +763,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -945,6 +1093,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-21-exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services.md",
+      "title": "EXL recognized as a Major Player in IDC MarketScape for Intelligent Automation Services",
+      "excerpt": "EXL (NASDAQ:EXLS), a leading data analytics and digital operations and solutions company, today announced that it has been named a Major Player in the IDC MarketScape:",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28153084",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28153084",
+      "publishedDateTime": "2022-07-21T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
       "title": "VDOT preparing to use artificial intelligence to predict traffic",
       "excerpt": "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area.",
@@ -983,186 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
-      "title": "Check out Baidu’s futuristic robotaxi",
-      "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
-      "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
-      "publishedDateTime": "2022-07-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-new-ai-tool-that-turns-words-into-art-enters-testing-phase.md",
-      "title": "New AI tool that turns words into art enters testing phase",
-      "excerpt": "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-photo-illustration-s.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
-      "publishedDateTime": "2022-07-21T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-oracle-partners-with-microsoft-to-offer-database-service-for-azure.md",
-      "title": "Oracle partners with Microsoft to offer database service for Azure",
-      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
-      "originalUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-new-ai-creates-images-from-text-in-testing-phase.md",
-      "title": "New AI creates images from text in testing phase",
-      "excerpt": "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
-      "originalUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
-      "publishedDateTime": "2022-07-20T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

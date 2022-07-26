@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
         width: 600
         height: 365
+        isCached: true
+  - title: "Data management and AI are the top wealth tech investments"
+    excerpt: "Financial service firms are investing in their technology capabilities to improve overall efficiencies Financial services firms are investing in tech to help with data management, as a top priority towards driving efficiency."
+    publishedDateTime: 2022-07-26T10:46:00Z
+    webUrl: "https://www.wealthprofessional.ca/news/industry-news/data-management-and-ai-are-the-top-wealth-tech-investments/368522"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0405_637944291857362873.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "AI asked to show an image from inside a black hole"
     excerpt: "A new artificial intelligence system has been asked to produce an image from inside of a black hole, and the results are stunning."

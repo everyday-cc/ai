@@ -85,7 +85,21 @@ related:
         width: 640
         height: 407
         isCached: true
+  - title: "The future of fintech and how to get involved"
+    excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
+    publishedDateTime: 2022-07-26T11:39:00Z
+    webUrl: "https://www.eastmidlandsbusinesslink.co.uk/mag/news/the-future-of-fintech-and-how-to-get-involved/"
+    type: article
+    provider:
+      name: eastmidlandsbusinesslink
+      domain: eastmidlandsbusinesslink.co.uk
+    quality: 24
+    images:
+      - url: "https://www.eastmidlandsbusinesslink.co.uk/mag/wp-content/uploads/2020/01/shutterstock_1063376933.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "D//t/W216FuroYjeDKBmpm8hgXLtjs5Cl43Et0VGnhH2pfzV35W+7dEUwQGasWAZ5t+ebGpOGMga2KjgXa7qnidI7WVwfOClUe2EzMX9etIOpG7aqd7WbR62exFfDWh8//6akodX0XC2nWgjbIR5VyWvEkw8vaBFnsPamDxAgD8plbtjZ74VYa9YXec+k8XAlxq7fNQaHwlfxKrPN/wxhlCnF1Lwiohg8UbX1JXyPjfxfS3TWkoRKT0cRVDTiMX4VYtw3DTOgUVuh55T6FZsJCSNYqUdT8WiiT82yjYudfK+fS4zd6z2k/vpN6McxW0buv4KrGNILvRYVaaWwcwyg7JW37ub3OCLTP92GuN+Q6Q=;oMNy9Cisv8WDbgM8vbLz5w=="
+secured: "vsyTFzyTm/s5DkcxxDAcizekIXkFXLEhl7jafQLWJRwXbjGD4A4gH5JLb2aJHvUETII/f+zWoG9MI+h0A9i51UnX4J/ryHOvteHelI5/Dgn6dSQQiQ0Xe90xfVjF8p8tcTgacmJS5ajMVob+gbwu3WpUYEj8lvngvWyEoxEv/MtqD3cyr0hEkeSePxRGpPukT4reuehs4/0tIfkURG4vVzKyugVJJHO+KOPYiBi7c79CvMOxZpLt/szBh68z2OZwrtcWxwKPUzVkqJghnm75FJY98G0PWoj5nhyjwHSBWTsOCLth5ABy6qWWCcuT47aoR0hDGm9TCYQx00BZ2Eplz/Nqd5AFHdnZv0QMtohwwwoj6HXC03Zvh6Ne/qUQH5N6FJDH7DBCYEySyotANJfzX4xxcKJ/7B5WiylEysa3C5AGZdHxvVbt5eNjWoHukfVy+5hrU451rVRDZrCX+vfApxFRLyLWqYFm7JIRHYdgnAXvdUZ2Os7gJnzRfgMuE4Lx9Fm9VTc+gSZ4hHsoHdxtWw==;WkBSBa0O3cEOKvJavvUjzg=="
 ---
 

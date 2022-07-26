@@ -58,20 +58,6 @@ related:
         width: 567
         height: 305
         isCached: true
-  - title: "6 AI innovations for those aging in place"
-    excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
-    publishedDateTime: 2022-07-21T18:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/reviewed/2022/07/21/6-ai-robot-products-aging-place-home-care/10117116002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Understanding The Role Of Artificial Intelligence In Combating Deforestation"
     excerpt: "The rampant deforestation around the world adversely affects your business in direct and indirect ways. While many may see it just as a technology for businesses to boost their revenues, governments and environmentalists can use artificial intelligence (AI) for sustainability-related functions,"
     publishedDateTime: 2022-07-25T10:13:00Z
@@ -86,15 +72,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "An AI-assisted analysis of three-dimensional galaxy distribution in our universe"
-    excerpt: "By applying a machine-learning technique, a neural network method, to gigantic amounts of simulation data about the formation of cosmic structures in the universe, a team of researchers has developed a very fast and highly efficient software program that can make theoretical predictions about structure formation."
-    publishedDateTime: 2022-07-21T18:27:00Z
-    webUrl: "https://phys.org/news/2022-07-ai-assisted-analysis-three-dimensional-galaxy-universe.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
 
 secured: "1FStYhW5eOYYGhB6jxjelCwiheCvM2mQT+NVKlvvLqCz/F66VmZbT6Y7vzi3o4xmGdn/9VOAcuwi0lE7PY32KAQdI1tEdh6CaJwOY4pSiQlf3d9VSC3/XnFTsHGrL3hU9Xixn1WimBDZeXfqBxIshfb/e1ygrcPxRnu+6lNYhTF0BbftcnolI85ykAREpn4GU9d/+4S1W3oeh3tLfT8CDJ0GrkZylALXTQiaGg2wuAzZFb7YMBKzvhRIXodHnJQwZq0hhTS+4vP1Ty1SLwQmBscGie4mDz5ul+ZvVT24siApnNR3laTP02FzCRJDSj2QXtaHK0B4M+fAmjX3DN8KzOeQwA3PfEBqw6loRnxK1/6ARWrq59lCPZ2Rc79gTgdHVGURuUjSmXf9NsRnC+9TadL6Xp6mBNJqTtcA08xetqkeJfgIkn4ssJfZjpkycll7dD4bxpyn8DeAk5sfMEpRdPaM/HKfzEbPI/MLZ+s9Bh/E+esGOfV8hfCGNTdgifo9SP2uOKuS72U9oRkQ2mzCbg==;2m9/vZ6Vo0ANh8gzpIrlPg=="
 ---

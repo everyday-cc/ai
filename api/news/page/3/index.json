@@ -2,6 +2,229 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-21-moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning.md",
+      "title": "Moneyhub Joins Forces with Pennyworth to Democratise Financial Planning",
+      "excerpt": "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app, to redesign digital banking for the aspiring-affluent consumer. Pennyworth,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
+      "originalUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_53.png",
+          "width": 900,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
+      "title": "Check out Baidu’s futuristic robotaxi",
+      "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "publishedDateTime": "2022-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-new-ai-tool-that-turns-words-into-art-enters-testing-phase.md",
+      "title": "New AI tool that turns words into art enters testing phase",
+      "excerpt": "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-photo-illustration-s.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
+      "publishedDateTime": "2022-07-21T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-oracle-partners-with-microsoft-to-offer-database-service-for-azure.md",
+      "title": "Oracle partners with Microsoft to offer database service for Azure",
+      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
+      "originalUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-new-ai-creates-images-from-text-in-testing-phase.md",
+      "title": "New AI creates images from text in testing phase",
+      "excerpt": "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
+      "originalUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
+      "publishedDateTime": "2022-07-20T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-baidu-unveils-autonomous-vehicle-without-steering-wheel.md",
       "title": "Baidu unveils autonomous vehicle without steering wheel",
       "excerpt": "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,",
@@ -49,17 +272,17 @@
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
       "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_d67f5775-856f-51ad-855f-b9ee5ffccb2a.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_d67f5775-856f-51ad-855f-b9ee5ffccb2a.html",
+      "webUrl": "https://www.mysanantonio.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
+      "originalUrl": "https://www.mysanantonio.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/0/cd/0cda6f0a-2540-5858-a59d-b8f9a07e9764/62d8d2eb2a0c8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,11 +292,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T21:18:00-07:00",
+      "publishedDateTime": "2022-07-20T20:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -802,6 +1025,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno.md",
+      "title": "Safety Vision Showcases Mobile Video Surveillance Advancements at STN EXPO Reno",
+      "excerpt": "EXPO in Reno, NV this week displaying several innovative technologies for K12 Pupil Transportation Directors representing hundreds of the nation’s largest school districts. Technologies included our Electronic Mirror System that includes a 12.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno/article_ed53c365-21df-52fc-a3f0-a7208394fa92.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno/article_ed53c365-21df-52fc-a3f0-a7208394fa92.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/40/d40f17de-7b08-53d4-97ea-f675c50d25b6/62d7f2dfc3a23.image.jpg?crop=756%2C397%2C0%2C305&resize=756%2C397&order=crop%2Cresize",
+          "width": 756,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-4-ways-computer-vision-will-reshape-urban-transportation.md",
       "title": "4 Ways Computer Vision Will Reshape Urban Transportation",
       "excerpt": "The involvement of computer vision in smart transportation optimizes several facets of smart cities and will continue to do so in the future. The public sector, in collaboration with private tech enterprises,",
@@ -903,290 +1169,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power.md",
-      "title": "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power",
-      "excerpt": "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
-      "title": "Singapore healthcare mobile app taps AI to diagnose STD",
-      "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "publishedDateTime": "2022-07-20T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-banks-turn-to-ai-to-help-dodge-enforcement-spotlight.md",
-      "title": "Banks Turn to AI to Help Dodge Enforcement Spotlight",
-      "excerpt": "Regulators increasingly expect banks and other entities to use smarter systems to help thwart potential criminal activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "originalUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-586683/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "publishedDateTime": "2022-07-20T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-how-ai-will-democratise-strategy-for-the-next-industrial-revolution.md",
-      "title": "How AI will democratise strategy for the next industrial revolution",
-      "excerpt": "During the transition between the fourth and fifth industrial revolution, strategising must go through a sea change. Intelligent platforms aided by AI/ML will transform the traditional strategy develo",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
-      "originalUrl": "https://www.forbesindia.com/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Jul/img_190095_technology.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/how-ai-will-democratise-strategy-for-the-next-industrial-revolution/78249/1",
-      "publishedDateTime": "2022-07-19T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-switchback-and-amd-bring-ai-to-battlebots.md",
-      "title": "Switchback And AMD Bring AI To BattleBots",
-      "excerpt": "To accomplish the move towards autonomous driving, the Switchback team is leveraging the AMD-Xilinx KV260 Vision AI Starter Kit and Kria SOM (System-on-Module) with the AMD-Xilinx Vitis AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d78d4434f0533661f269bb/0x0.jpg?format=jpg&width=1200",
-          "width": 643,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/switchback-and-amd-bring-ai-to-battlebots/amp/",
-      "publishedDateTime": "2022-07-19T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027.md",
-      "title": "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027",
-      "excerpt": "Europe healthcare AI market is reported to show promising growth during the forecast period of 2021-2027 with the rise in the demand and use of AI-enabled technologies in this industry. AI uses a combination of technology and human intelligence to enable different machines to carry out activities like automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

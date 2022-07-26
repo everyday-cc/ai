@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -118,6 +118,92 @@
       "provider": {
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services.md",
+      "title": "EXL recognized as a Major Player in IDC MarketScape for Intelligent Automation Services",
+      "excerpt": "EXL (NASDAQ:EXLS), a leading data analytics and digital operations and solutions company, today announced that it has been named a Major Player in the IDC MarketScape:",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28153084",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28153084",
+      "publishedDateTime": "2022-07-21T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning.md",
+      "title": "Moneyhub Joins Forces with Pennyworth to Democratise Financial Planning",
+      "excerpt": "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app, to redesign digital banking for the aspiring-affluent consumer. Pennyworth,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
+      "originalUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_53.png",
+          "width": 900,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,92 +1332,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools.md",
-      "title": "Grand Rapids State Bank provides financial literacy learning resources to local schools",
-      "excerpt": "Local students are getting a free education in how to manage their money. Thanks to Grand Rapids State Bank’s sponsorship, over 1,740 students and teachers at 11 schools in Itasca",
-      "sourceUrl": null,
-      "webUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
-      "originalUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/3/9d/39dc0ea4-f3f5-11ec-989f-37ca0def542b/62b612d1e6628.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Grand Rapids Herald-Review",
-        "domain": "grandrapidsmn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-next-big-thing-in-the-future-of-finance-fintech-revolution.md",
-      "title": "Next big thing in the future of finance: Fintech revolution",
-      "excerpt": "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png",
-          "width": 487,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "publishedDateTime": "2022-06-23T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -72,29 +72,6 @@ related:
         width: 800
         height: 447
         isCached: true
-  - title: "6 AI innovations for those aging in place"
-    excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
-    publishedDateTime: 2022-07-21T18:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/reviewed/2022/07/21/6-ai-robot-products-aging-place-home-care/10117116002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "An AI-assisted analysis of three-dimensional galaxy distribution in our universe"
-    excerpt: "By applying a machine-learning technique, a neural network method, to gigantic amounts of simulation data about the formation of cosmic structures in the universe, a team of researchers has developed a very fast and highly efficient software program that can make theoretical predictions about structure formation."
-    publishedDateTime: 2022-07-21T18:27:00Z
-    webUrl: "https://phys.org/news/2022-07-ai-assisted-analysis-three-dimensional-galaxy-universe.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
 
 secured: "y80odu73EfaJhaWYEsrZkqGv3boDaYNVrRilDZBiW3OS3C7MD4vbaC0O0CX5AwkJmuRcXXZUpH/37byZTpKZzAoF7afRAhmioHAWcMzK+0hPo0vBStRR3bkK9SXzZQyviaasLpylNoYfN4M1+CmebVHOkzC8IRxzC4M406jZ7pxrQPxeNIAp1LYXetcmzG2YdWHCJdJ3WWg58QEd9N2ogHt92unwlAne1SWeE6egPfkR8LwbYp1hvVmTy9wQyFkGjeoi/CoLOgYr6uEu9zQo6ma2AURWgyR1GuYSlRYnmfOT43A6XF/0ZNUSH1fVU8sOzJqJXzHyZ5rJXTJSDK/L4sdUisu+hhf8mR7cV+E+Y0Y=;ccXNCVyBYuFEGaPoAytsPg=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "New Orleans City Council votes to reinstate use of facial recognition technology"
-    excerpt: "The council is expected to consider reinstating the use of facial recognition technology during its Thursday council meeting."
-    publishedDateTime: 2022-07-21T18:32:00Z
-    webUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
-    ampWebUrl: "https://www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
-    cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
-    type: article
-    provider:
-      name: WDSU
-      domain: wdsu.com
-    quality: 54
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/d56fa358-ab4e-44df-bce4-ae4cb6dfbbf2/thumb_1920x1080_00002_1571261240_79527.jpg?crop=0.806xw:0.806xh;0.0538xw,0.0493xh&resize=1200:*"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Retailers vow to avoid facial recognition"
     excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
     publishedDateTime: 2022-07-24T17:30:00Z

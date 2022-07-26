@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-24-openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net.md",
+      "title": "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net",
+      "excerpt": "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "originalUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/22ffcef4fd570a8f18bf6c65c1751640f3e70e1c/2022/06/24/75630c96-c275-4a5e-8a1c-b1d7b3528f63/crafting-diamond-pickaxe.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "publishedDateTime": "2022-06-24T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-zscaler-zs-adds-aiml-capabilities-to-zero-trust-exchange.md",
       "title": "Zscaler (ZS) Adds AI/ML Capabilities to Zero Trust Exchange",
       "excerpt": "Zscaler ZS recently announced the addition of new artificial intelligence (AI) and machine learning (ML) capabilities to its zero-trust security solution — Zscaler Zero Trust Exchange (“ZTE”). With this update,",
@@ -1275,49 +1328,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-artificial-intelligence-shines-a-light-on-how-autistic-brains-work.md",
-      "title": "Artificial Intelligence Shines a Light on How Autistic Brains Work",
-      "excerpt": "Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13048_1655737439634346.jpg",
-          "width": 2000,
-          "height": 1054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13048",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13048",
-      "publishedDateTime": "2022-06-20T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

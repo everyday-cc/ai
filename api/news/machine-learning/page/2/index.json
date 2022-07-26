@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-14-google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation.md",
+      "title": "Google Open-Sources Its TensorFlow GNN Framework to Encourage Graph Neural Network Productization and Experimentation",
+      "excerpt": "Graph Neural Networks (GNNs) that operate on graph-based data bring multimodal capabilities to machine learning models and have practical applications in areas as diverse as the modelling of physics systems,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
+      "originalUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
+      "publishedDateTime": "2022-07-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
       "title": "How machine learning can identify gun buyers at risk of suicide",
       "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
@@ -1301,49 +1346,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-20-year-indian-students-machine-learning-software-to-be-sent-to-space.md",
-      "title": "20 Year Indian Student’s Machine Learning Software To Be Sent To Space",
-      "excerpt": "A student from India studying in the Nanyang Technological University (NTU) in Singapore, has developed a machine learning software along with his team consisting of 4 other students from the same institution.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space",
-      "originalUrl": "https://in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-07-05t112539169_qtd6.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1",
-      "publishedDateTime": "2022-07-04T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

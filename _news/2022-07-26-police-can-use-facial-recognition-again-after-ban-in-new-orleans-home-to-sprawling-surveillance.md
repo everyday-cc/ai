@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Orleans City Council votes to reinstate use of facial recognition technology"
-    excerpt: "The council is expected to consider reinstating the use of facial recognition technology during its Thursday council meeting."
-    publishedDateTime: 2022-07-21T18:32:00Z
-    webUrl: "https://www.wdsu.com/article/new-orleans-facial-recognition-technology/40678217"
-    ampWebUrl: "https://www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
-    cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/new-orleans-facial-recognition-technology/40678217"
-    type: article
-    provider:
-      name: WDSU
-      domain: wdsu.com
-    quality: 54
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/d56fa358-ab4e-44df-bce4-ae4cb6dfbbf2/thumb_1920x1080_00002_1571261240_79527.jpg?crop=0.806xw:0.806xh;0.0538xw,0.0493xh&resize=1200:*"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "NOLA Coalition Praises Council’s Vote Allowing Facial Recognition Tech"
     excerpt: "The NOLA Coalition — a collection of local nonprofits, civic organizations and businesses that have joined forces to address crime and quality-of-life issues — has expressed support for the City Council’s July 21 vote that approved pay raises for New Orleans police officers and overturned a previous council ban on using existing facial recognition technology to"
     publishedDateTime: 2022-07-22T17:06:00Z
@@ -127,6 +111,6 @@ related:
       domain: chron.com
     quality: 19
 
-secured: "y8yjqgvv5a+bwgsU1PRwC4nB7Hfd64vXl+X+BUZTfYbFt6VpFquDuLWkwf8IUGY4pJCNacPnA7n1GgOtpm0zTXm9hVxknonONJcqqkA9vNpsTcFtUcbbOFJi6G8gV8pnDrk0vTmwL/LZbLM0lUab5Z06YG262UbzHPBDgJr7rFFgdtmDPLYPnh20vDtW8nE/FeEYyrOJchsmZCRoeOYsR6US6Sl3GPkiVUEOwWO12MPlh+LI0/YEkk9bmzp6bM7EWwKsXIF+KZG0i4oNI4IpGRixit4qafd7dh66B82joH5bXhEHgMENlbi0/jm427OfkBhKc9c1ruFdEtAE/Jf/EaFg3xLALNxcCswcK2aMLlw=;+i5blupwcySMvitzTmdkWg=="
+secured: "X3kXlVvwI0Bq4J8ffIBtszdhXsAia7XOgXPTCge1w2Yle2gEe8gWgf9uwO8W1q7/aWXFADA4zFcwFscN8/ohlXNJtzQcoWglukHzIVfRdRYAsSOO1B7A6LFwMr/k2+wq5JQ5O3nWTcP6iwv5abTaJUpNuK5lkAeYFyZlpMtsJPcaGmNExuA7/SXiJxf8iMl3B/wJ7dGdWeid+tz1lZElH2dsd4figmI/urx3KKIPYoPG9x66ztORMNysxYTOOnzOI6xHn1XENR81QR1YQgnnjv4IJYUnaOP9QyQpG/3PCX/V5il/7yCDdT4yvIshE+m3cXx8z7+r9QwdNDTy9JlIujZ2hANlnBA5SY6IwIF/POG8ubgor2KkeutKAhI3x3ivLRTesfkWxY4N6pO3avB8PxeT14UfT+SYvSYkFXQcS5CoHzemTC4CsBlFK4wRWEs71QecO55eQN5RaV95vSpp2AljxjO8UTJtkxmOkhoyRWwulJx14NjDFveYW/YYN8XSsnEo8jC531pGr2J6CtuWrA==;v8hCQPojYzL4rUsbplcR/A=="
 ---
 

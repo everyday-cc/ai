@@ -28,77 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?"
-    excerpt: "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI"
-    publishedDateTime: 2022-07-23T10:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
+  - title: "Artificial Intelligence (AI) in Education Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "The global Artificial Intelligence (AI) in Education market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of % in the forecast period of 2020 to 2025 and will expected to reach USD million by 2025,"
+    publishedDateTime: 2022-07-22T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Rediscovering analog computing for achieving effective edge AI performance"
-    excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
-    publishedDateTime: 2022-07-23T13:50:00Z
-    webUrl: "https://www.embedded.com/rediscovering-analog-computing-for-achieving-effective-edge-ai-performance/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/07/Edge-AI-.jpg"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "How AI Is Transforming the OTT Experience"
-    excerpt: "From content discovery to video indexing, AI can enable customization and hyper-personalization of the OTT viewer experience and help OTT programmers and marketers learn more about their audience."
-    publishedDateTime: 2022-07-25T13:00:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/Post/Blog/How-AI-Is-Transforming-the-OTT-Experience-154060.aspx"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/132805-OTT-Remote-2-ORG.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Lawyers Expect Growing Litigation from AI Hiring Tools Violating Discrimination Laws"
-    excerpt: "As more state, federal and international regulations are shining a light on how AI hiring tools can discriminate, lawyers say employers need to be prepared, as it's only a matter of time before we start seeing lawsuits."
-    publishedDateTime: 2022-07-25T15:42:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/07/25/lawyers-expect-growing-litigation-from-ai-hiring-tools-violating-discrimination-laws/"
+  - title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
+    excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
+    publishedDateTime: 2022-07-22T09:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+        width: 900
+        height: 594
+        isCached: true
+  - title: "Chatbot Market Size to Grow to USD 3,411 Million by 2030 Propelled By the Growing Use of Bots for Marketing and Promotion Activities"
+    excerpt: "The Global Chatbot Market size accounted for USD 521 Million in 2021 and is expected to reach USD 3,411 Million by 2030 growing at a CAGR of 23.7% during the forecast period"
+    publishedDateTime: 2022-07-25T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28197058/chatbot-market-size-to-grow-to-usd-3-411-million-by-2030-propelled-by-the-growing-use-of-bots-for-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28197058"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28197058"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 30
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/07/Artificial-Intelligence-Hiring-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+        width: 900
+        height: 594
         isCached: true
-  - title: "Cross-Pollination Among Neuroscience, Psychology And AI Research Yields A Foundational Understanding Of Thinking"
-    excerpt: "Progress in artificial intelligence has enabled the creation of AIs that perform tasks previously thought only possible for humans, such as trans"
-    publishedDateTime: 2022-07-25T17:29:00Z
-    webUrl: "https://menafn.com/1104587631/Cross-Pollination-Among-Neuroscience-Psychology-And-AI-Research-Yields-A-Foundational-Understanding-Of-Thinking"
+  - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."
+    publishedDateTime: 2022-07-26T08:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-africa-d369649341184ee987ee99d032095502"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://menafn.com/updates/pr/2022-07/25/TC_4708bimage_story.jpg"
-        width: 1250
-        height: 1017
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "PwXfmx+bkiimHATb1BLowkgjjkiuCUCPH6jCXMdvEWx3kMmL+hJ61CU+ncWQUjzFEOE5sIGBCNniu5N0uOZRtuFqozvfX+YEnD8Cpcmp6gJl8pMBjH1IH9kYbkpVLVsweA3qlbCVy3KcapEKtwTA2co/NSaUJ4AB/9AM0BsrmzTEpmAvPItbFrDBLbpw5sJVKj1/8fJgl5xbUUQFdW5b6qF8AnI5f8Q160XJX+O6ZLM8rRxKlkougyBXbPqhYBt1y4Qu1dK9vrJqqCXhtP7FiSoJTZxMISn0kFT7sJJKeAlYgeHPu+4lxEtyXpCLhcU3EP4+LUP72yw3yhew34AiBxyj4FrWbFgRVSbgNCNA2cE=;JAapM+jhL5KxM2chDm1kFg=="

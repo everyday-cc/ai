@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-20-artificial-intelligence-shines-a-light-on-how-autistic-brains-work.md",
+      "title": "Artificial Intelligence Shines a Light on How Autistic Brains Work",
+      "excerpt": "Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13048_1655737439634346.jpg",
+          "width": 2000,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13048",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13048",
+      "publishedDateTime": "2022-06-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do.md",
       "title": "Why businesses take a month or more to deploy ML models and what you can do",
       "excerpt": "Choosing the right machine learning model can make a difference not only in the output quality, but also the development time and cost.",
@@ -1311,41 +1354,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)",
-      "excerpt": "In addition, it provides flexibility on a pay-as-you-use basis. Machine learning-as-a-service (MLaaS) is a range of services that provides machine-learning tools as part of Cloud Computing Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27676295/machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27676295/machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

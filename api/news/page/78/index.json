@@ -2,6 +2,324 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-05-25-mit-researchers-help-robots-navigate-uncertain-environments.md",
+      "title": "MIT researchers help robots navigate uncertain environments",
+      "excerpt": "MIT's research team hopes that its findings could help autonomous robots explore remote exoplanets with unknown conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
+      "originalUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-MIT-trajectories.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine.md",
+      "title": "Google's Text-to-Image AI Can Make Any Wacky Image You Can Imagine",
+      "excerpt": "A plumber riding a dinosaur? Google says its AI system Imagen can create a photorealistic images from input text.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
+      "originalUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e2f8bf45ccafbdf0e8baa635db6dd15e058ceeed/2022/05/24/9879e313-8e97-4858-abe0-ff3583b11495/imagen-text-to-image-ai-composites-2022-promo.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
+      "publishedDateTime": "2022-05-24T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies.md",
+      "title": "Activists protest Amazon’s cloud conference over company’s work with police, immigration agencies",
+      "excerpt": "AWS’s Rekognition software has been criticized, including by Amazon’s own employees, as being less accurate in identifying people of color. At least three Black men have been incorrectly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/activists-protest-amazon-cloud-conference-200732718.html",
+      "originalUrl": "https://www.aol.com/news/activists-protest-amazon-cloud-conference-200732718.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UXA1PyOfE9PrZzac3w.Hhw--~B/aD01MDM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_hill_articles_341/bea61812685c2d7ca521be51eb7d8746",
+          "width": 900,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-github-copilot-ai-coding-assistant-due-this-summer.md",
+      "title": "GitHub Copilot AI coding assistant due this summer",
+      "excerpt": "GitHub Copilot, the controversial AI-driven coding assistant that suggests lines of code ... which has questioned the legality and ethics of its use of freely licensed source code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html",
+      "originalUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html",
+      "publishedDateTime": "2022-05-24T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
+      "title": "AI reveals unsuspected math underlying search for exoplanets",
+      "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
+      "originalUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-exoplanet.jpg",
+          "width": 850,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
+      "publishedDateTime": "2022-05-24T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-specialization-is-key-in-an-exploding-ai-chatbot-market.md",
+      "title": "Specialization is key in an exploding AI chatbot market",
+      "excerpt": "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
+      "originalUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
+      "publishedDateTime": "2022-05-24T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-informaticas-new-data-management-clouds-target-health-finance-services.md",
+      "title": "Informatica’s new data management clouds target health, finance services",
+      "excerpt": "Just after launching a focused data management platform for retail customers in March, enterprise data management vendor Informatica has now released two more industry-specific versions of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/350352/informaticas-new-data-management-clouds-target-health-finance-services.html",
+      "originalUrl": "https://www.cio.com/article/350352/informaticas-new-data-management-clouds-target-health-finance-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast.md",
       "title": "Facial Recognition Market Report 2022-2027: Top Companies, New Technology, Size and Forecast",
       "excerpt": "According to IMARC Group latest report titled “Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027”, offers a comprehensive analysis of the industry,",
@@ -826,307 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
-      "title": "Artificial Intelligence (AI), a potential without limits",
-      "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
-      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/05/pexels-tara-winstead-8386369.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
-      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
-      "publishedDateTime": "2022-05-24T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telefonica",
-        "domain": "telefonica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression.md",
-      "title": "DeepMind’s Meta-Learning Sparse Compression Networks Set New SOTA on Diverse Modality Data Compression",
-      "excerpt": "Data representation is a core aspect of deep learning. While researchers have typically represented images or 3D shapes as multi-dimensional arrays, the use of implicit neural representations (INRs) has emerged as an attractive alternative.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
-      "originalUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
-      "publishedDateTime": "2022-05-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028.md",
-      "title": "Cognitive Analytics Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Value,Opportunity Forecast to 2028",
-      "excerpt": "May 24, 2022 (The Expresswire) -- Global Cognitive Analytics Market Research Report is an In-Depth Analysis of the Latest Developments, Market Size, Status, upcoming technologies, industry drivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
-      "title": "Why Mastercard's new face recognition payment system raises concerns",
-      "excerpt": "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
-      "publishedDateTime": "2022-05-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology.md",
-      "title": "IT ministry holds brainstorming session with startups on AI, language technology",
-      "excerpt": "The meeting was chaired by Minister of State for Information Technology Rajeev Chandrasekhar. The new initiative, named Digital India BHASHINI or BHASHa INterface for India- is a part of the National Language Translation Mission.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-79986,msid-91770378/eds-handout-photo-made-available-from-pib-on-thursday-feb-24-2022-new-d-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
-      "publishedDateTime": "2022-05-24T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
-      "title": "Remarkable science: Exploring our AI and robot-supported future",
-      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "originalUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-neuromorphic-chips-up-to-16-times-more-energy-efficient-for-deep-learning.md",
-      "title": "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning",
-      "excerpt": "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2016/08/02/brain_neuron.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
-      "publishedDateTime": "2022-05-24T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.finextra.com/about/finextra-logo.png"

@@ -2,6 +2,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-14-these-5-robotic-startups-are-impacting-healthcare-sector-with-their-innovation.md",
+      "title": "These 5 robotic startups are impacting healthcare sector with their innovation",
+      "excerpt": "The Indian healthcare sector has made significant advancements in the way healthcare is delivered in the country. Growing technological requirements in the healthcare sector have given birth to ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/05/healthcare-robotic-startups-aether-biomedical-sakar-jetbrain-invento/amp",
+      "originalUrl": "https://yourstory.com/2022/05/healthcare-robotic-startups-aether-biomedical-sakar-jetbrain-invento/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-artificial-intelligence-can-offset-human-frailties-leading-to-better-decisions.md",
       "title": "Artificial intelligence can offset human frailties, leading to better decisions",
       "excerpt": "Modern life can be full of baffling encounters with artificial intelligence—think misunderstandings with customer service chatbots or algorithmically misplaced hair metal in your Spotify playlist. These AI systems can't effectively work with people because they have no idea that humans can behave in seemingly irrational ways,",

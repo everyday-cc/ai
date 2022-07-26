@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-push
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 800
         height: 447
         isCached: true
-  - title: "6 AI innovations for those aging in place"
-    excerpt: "AI robots, smart pill dispensers, and health tracking bracelets are changing the future of aging in place home care."
-    publishedDateTime: 2022-07-21T18:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/reviewed/2022/07/21/6-ai-robot-products-aging-place-home-care/10117116002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/07/21/USAT/224fe994-c63d-41c1-af21-539447798038-ai_hero.png?auto=webp&crop=2987,1680,x6,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Understanding The Role Of Artificial Intelligence In Combating Deforestation"
     excerpt: "The rampant deforestation around the world adversely affects your business in direct and indirect ways. While many may see it just as a technology for businesses to boost their revenues, governments and environmentalists can use artificial intelligence (AI) for sustainability-related functions,"
     publishedDateTime: 2022-07-25T10:13:00Z
@@ -91,15 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "An AI-assisted analysis of three-dimensional galaxy distribution in our universe"
-    excerpt: "By applying a machine-learning technique, a neural network method, to gigantic amounts of simulation data about the formation of cosmic structures in the universe, a team of researchers has developed a very fast and highly efficient software program that can make theoretical predictions about structure formation."
-    publishedDateTime: 2022-07-21T18:27:00Z
-    webUrl: "https://phys.org/news/2022-07-ai-assisted-analysis-three-dimensional-galaxy-universe.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
 
 secured: "Givbjs7gkVT6diNev4YL4xBIJaFJt9WsSfRW6f2cuOqoWzGwAt1IqMgiqoyEalxyHNLcJGZSFIFdsMw/Ly09Z5t5I/up6akz6mAtiwQCXuoGoa1HSaZLW4pIhjoXl6nvQwcnR9uRncYfh5dPpU4+I4nThVLEis5UJ0dmSw1QoZdy09grKfMtoq/Qgd3KzXtGEdKvRUGeQrFJgLWVDKGN7e0qgtqByA8MrsGBYRnd1CKcKMLU+oMkHv+YNWKXA0nhwFvfRiigNCuIRX+oNdlqyekljb4PQiuyKeFATnjW7hmrKWGu/Zyn+hjhwLiYk+lDRyUDmYTT/upp+/tQi5UKlZuEj37aIrSLk1NOmckJtWAZgt2h+5yPJNCHY2uDEAVeGTGcmyIUkyKGIopvcJzuwvAw6VArmxXp9GqVtALs4+XUy41YHoR4QXGfj0j60hEdyhPNE/y3kHbRuNplmux0jIuvdOrYIDv7PdRvk45mwWyfgR2nQIhVC/5Uibhf6ChH1kjDub1ctdCPU4GEM9VnKA==;dQlUo546aPDZkh47u4WDcA=="
 ---

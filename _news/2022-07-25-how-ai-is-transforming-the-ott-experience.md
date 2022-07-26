@@ -40,22 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rising Demand for AI Powered Robots in Industrial Automation Drives Artificial Intelligence (AI) Robots Market"
-    excerpt: "The rising use of artificial intelligence in robotics sector is propelling the growth of the artificial intelligence (AI) robots market. The manufatcurers and product designers from the robotics manufacturing sectors are focusing on the investing in high-end hardware solutions that are enabled by AI technologies."
-    publishedDateTime: 2022-07-22T11:05:00Z
-    webUrl: "https://techbullion.com/rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market/"
-    ampWebUrl: "https://techbullion.com/rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Rediscovering analog computing for achieving effective edge AI performance"
     excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
     publishedDateTime: 2022-07-23T13:50:00Z
