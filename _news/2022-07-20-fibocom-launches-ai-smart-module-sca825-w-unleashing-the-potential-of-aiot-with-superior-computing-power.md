@@ -2,25 +2,19 @@
 category: news
 title: "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power"
 excerpt: "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,"
-publishedDateTime: 2022-07-20T10:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40"
+publishedDateTime: 2022-07-20T11:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fibocom-launches-ai-smart-module-sca825-w-unleashing-/2022/07/20/9641765.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fibocom-launches-ai-smart-module-sca825-w-unleashing-/2022/07/20/9641765.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "LugtcGRFJASc4h046ZdgbTwaFUyVT3mPDFujq9P6JGzSdCeSlILR1Iwa8xKUpnAqJsXR8kptqmT9X4MWFFj6A21l2kRGSDzAnrJN27gYJlS+lh/45stXjEaRohEWvd6SgboS9vmua/to9IH9fDcuWapjON4Cka+pTVjT74yy6r6g348mmop1sX28gmyjKdJFE1Xw7On7xVIWVtuVYc2K+hm7FNDf+BdZboyC1bMJIqqwHIr62jMVrQNuE54ssVsYYKU07BiNfgmmbkrKgJ5eXkb+9bEmWTPwoOIwVpIhwgR6n4oX+vbk79xswDVmq+c9SRKEyUlLJ58kPXF35naT8RfT1mNiKT1kVcpzc9PfVTk=;W6/Mes9C2UvxIQczoio3xQ=="
+secured: "rWf3AkU1s/tVoAO4xw021ZwcyhTUkW8Ksi1UKN2Jbr4M5z2IOV2g2VV0c9cRgHNLhEDm/gOAjkaVSRfnDmTlyU2JmMa4q/qRotOhTtZjEkTXOvH4ZRFBw/ukobOVgyayFvleIBWBFZs1ZJ3sZPfDsZJf42hv2wa0L4NjbNcGc6f4cKSF5V6J+abgW8FH9GC/SrRgXvSWWwB4PDHu/L4vOAIo2dXNV8IQN9VWFFW6gLe74Uk8OQ9PsTfj94CbjZ23v8UxU9RHUZVIUahtbaOBDHz44ubeSa9Tx68tuwmXtT04eOUGpSY2ZBNdFjL3n2cHKObvnJZT2dFT7tB1LYz5pxCg/S3sGV4iiyKo3wZJ4pc=;eBh7goCcg19CuzMhGB5FUQ=="
 ---
 

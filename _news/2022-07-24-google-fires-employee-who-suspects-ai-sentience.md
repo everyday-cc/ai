@@ -91,6 +91,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "AI technology helps give giant pandas individual identities"
+    excerpt: "Now researchers at the Chengdu Research Base of Giant Panda Breeding have pioneered new technology that uses artificial intelligence to identify the creatures."
+    publishedDateTime: 2022-07-26T15:22:00Z
+    webUrl: "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38844"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38844"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_07/1658839016868_tdy_news_8a_jmf_pandas_220726_1920x1080-93xu34.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Google has fired a software engineer who claimed an AI chatbot was sentient"
     excerpt: "Blake Lemoine was placed on leave last month. Google and many leading scientists were quick to dismiss Lemoine’s views as misguided."
     publishedDateTime: 2022-07-23T05:01:00Z
@@ -262,29 +278,29 @@ related:
   - title: "Google fires employee who claimed AI system had become sentient"
     excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
     publishedDateTime: 2022-07-26T15:40:00Z
-    webUrl: "https://www.1011now.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-    ampWebUrl: "https://www.1011now.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
-    cdnAmpWebUrl: "https://www-1011now-com.cdn.ampproject.org/c/s/www.1011now.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+    webUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+    ampWebUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wkyt-com.cdn.ampproject.org/c/s/www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
     type: article
     provider:
-      name: 1011 Now
-      domain: 1011now.com
+      name: WKYT
+      domain: wkyt.com
     quality: 57
     images:
-      - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Zwjgensj-wfyNd_dY4CSqoeo_KE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MP3U6TEZEND5ZGSGPZLKA4JUOE.jpeg"
+      - url: "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/689FO99Do4LRnuas80nvQFP0_oE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QC72IULIUBEZVHGIQHEKZJP7Y4.jpg"
         width: 800
         height: 450
         isCached: true
   - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
     excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
     publishedDateTime: 2022-07-25T18:17:00Z
-    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    webUrl: "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"

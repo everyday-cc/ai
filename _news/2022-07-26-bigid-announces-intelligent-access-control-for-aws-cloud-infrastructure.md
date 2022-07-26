@@ -33,6 +33,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "BigID Announces Industry-Leading AWS Auto Detection for Granular Insight & Automation at AWS re:Inforce"
+    excerpt: "Automatically discover discrete accounts across AWS, detect dark data, & monitor changes on the fly NEW YORK, July 26, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-07-26T16:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bigid-announces-industry-leading-aws-auto-detection-for-granular-insight-automation-at-aws-re-inforce-1031616214"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "VEM69sVLviAXWtmkRsBcoGKQ29/hQLMn+/6pd7RjNA3qUeQqYWRof81Xv6pDIdZElpx6zCOAg09bpYgHWETDQ+balYe+pDJJXnTXvrnIh+xNSPrPvLs4ndb/ehPHhY1al++qxZ7r84l2JCGOXrli+FORXshpEN7C2Np4dNzIU9Sm/IpUJLcWyFPj8XniqAMI7lN/ffNqdCHIu/HC/JQKLKdZcJCH0Uh8/NagXBqDUMLLX+riLloo8Xah59S1QHWltvqHDHCYuODDREqC1ApNLy/i5JyWhe/wj+UZ0tPJkuTrqof45UcanSIT3ituUJegx0aLMplNdxHwfDP5UFvk8vFWCs2NQAwF64fhOdolLNk=;ekxuIln9UijS4gIlEC2XZQ=="
 ---

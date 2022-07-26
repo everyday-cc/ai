@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-26T15:00:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/google-vertex-ai/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/google-vertex-ai/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/AI-and-Business-Intelligence.jpeg"

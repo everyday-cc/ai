@@ -35,6 +35,20 @@ related:
         width: 1308
         height: 750
         isCached: true
+  - title: "SmartCow Launches Ultron, an Edge AI Platform to Provide Sensor Fusion for Smart Cities"
+    excerpt: "SmartCow, an AI engineering company specializing in video analytics, AIoT devices and smart city solutions, today announced that they released Ultron, an NVIDIA Jetson-based edge AI platform with sensor fusion capability on the edge for industrial applications requiring logic-based decisions and actions."
+    publishedDateTime: 2022-07-26T16:21:00Z
+    webUrl: "https://www.automation.com/en-us/products/july-2022/smartcow-ultron-edge-ai-platform-sensor-fusion"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 29
+    images:
+      - url: "https://www.automation.com/getmedia/96f112bb-03b3-4d1c-aa23-d5b488a366c6/Smartcow-prod-July-26-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Run:ai Releases Advanced Model Serving Functionality to Help Organizations Simplify AI Deployment"
     excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get machine learning models into production."
     publishedDateTime: 2022-07-25T19:20:00Z

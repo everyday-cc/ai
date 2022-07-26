@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-amazon-goes-health
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-amazon-goes-healthcare-shopping-one-medical-and-pr-pitches-get-ai-debate?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 411
     height: 292
     isCached: true
+
+related:
+  - title: "Scientists Train AI To Generate Medicines and Vaccines"
+    excerpt: "Scientists have developed artificial intelligence software that can create proteins that may contribute to the development of vaccines, cancer treatments, or even tools for pulling carbon pollution out of the air."
+    publishedDateTime: 2022-07-22T08:50:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/scientists-train-ai-to-generate-medicines-and-vaccines-363979"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363979/scientists-train-ai-to-generate-medicines-and-vaccines-363979-640x360.jpg?cb=20220722"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "idHwZcQl4Lzezlq7VNf6a4Sc77U7W1iR/xOH53BbfNQIYub1JK23LluS102LyIzbUoGukmtvklNWEOtODmID+9L/n8AT7gYxYsMCTWp5IjXlg88I750gT3Sewr+DLb3VSDuRAlbpK6LzCD4QcOmGfIK9jW9foC8rNx9H3Cfu/y5aCVCmeaweq9HaY0WvAk97r8LHzBtVWQ+c0v/qQbSH+8l6SKKH11qGlhK/sbKBLhOg20gSVMkI7HEj5QYWisIwioWvSQA6PBr7clnTjpuqcUD85ZzeNFRL1Rv36zIlmoYmyIfPFCG+qqcAkab1svXJoh7DHq1idA2O4/WTF1ZL5ej5GvAphuBl1FB7LuCJfdc=;2LRL/9YnCTdceUsj3GQFDQ=="
 ---

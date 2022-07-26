@@ -41,6 +41,20 @@ related:
         width: 1308
         height: 750
         isCached: true
+  - title: "SmartCow Launches Ultron, an Edge AI Platform to Provide Sensor Fusion for Smart Cities"
+    excerpt: "SmartCow, an AI engineering company specializing in video analytics, AIoT devices and smart city solutions, today announced that they released Ultron, an NVIDIA Jetson-based edge AI platform with sensor fusion capability on the edge for industrial applications requiring logic-based decisions and actions."
+    publishedDateTime: 2022-07-26T16:21:00Z
+    webUrl: "https://www.automation.com/en-us/products/july-2022/smartcow-ultron-edge-ai-platform-sensor-fusion"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 29
+    images:
+      - url: "https://www.automation.com/getmedia/96f112bb-03b3-4d1c-aa23-d5b488a366c6/Smartcow-prod-July-26-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Eccovia Launches ClientInsight, an AI-Powered Data Warehouse to Improve Social Service Delivery"
     excerpt: "Eccovia, a leading provider of cloud-based SaaS solutions for the health and human services sector, announces the release of an unprecedented data warehouse and community-analytics platform, ClientInsight."
     publishedDateTime: 2022-07-25T13:39:00Z
@@ -51,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "MQ9TWO+e5umQQmPDOnb5ZbBeNmVAJ98RMmUAt/gEWZYHSOmJEQ88Rb8lOyqIOLBRJoWPNyO1yOAiO/nmx8Fz2UvDg9JGnwK4rYBAYWWhh2Mir8sCRjSL9Dd5UjEds2hXy3LKxtLVYooDed5MbfavQdfIeRA+RLvDPnfYQLkd9SmJ6+hCyrg/CELlJICBCO8t6XyCrkxSRidoyfm5C+Grn/3v1QXNFQeynlvJwsEurmvXIpoidh2Ge6EhLF25ZpYHD239EZSdSOEYhszLbeIshN41XrpjONPESsPWPzChF3xZQ/MPVc69JL55dMZTNG7uh9e5js6JT6vwGDroZiCPcclZ/gUCOFo21xNk11hr9Jo=;7p/AgLue/pIz3DPhgQ0/Rw=="
+secured: "mRhfyQLNkycmGN8kX6r3MPmgPXypa6rRrwJF18jPpQEEgp6QCXv6UM4VSLyj3cWhA2q+Jv00GWI6ixZjDFz1NVasyVWXxNE1TiJqA5CGa8RS9HTOfasLDFnZWRE3hJhA1HGb5ja60WqIVXrCLNVqssWq5x6WmIUd+ZMw28YPY8oppwN6UbhXc7dEj9JtHCXhHkG01eD1Pu3r0beL9MmLn+ACiTgzUSfVF7IJdj7gEJlDnO3B9A0fHx+f41uiicmp8reRQbPFCPjUuyX681S0UoHkGn38yki7NTcntI3OefiPF8ZW7Dm7VSMEDxd23PCMPYJjw63Nd7CabHJDubPqJg8x/21P8Qeq8/+PhrZO5wZaaMrQcDGf6UjKRMZ9alNnYn5O8YZxkRtBK+ooMLQjCTjG/7aIvRxnKSZEVX7xfB2bp8Mifps+Hg9MtSPmL2M6mYsVIzo6GmLBFZ+f3cHT3O+NM3QAnm1JWoUC0wzMPbKEbi9U25P/j/Ua+2ESqjc/NVKJ4s9xmNpVJ5j4cdxhGg==;YgTIIeG4DLTedTPxqOwe8g=="
 ---
 

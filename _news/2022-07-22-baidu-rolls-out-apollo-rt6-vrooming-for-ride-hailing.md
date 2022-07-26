@@ -27,8 +27,8 @@ images:
 related:
   - title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
     excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-    publishedDateTime: 2022-07-22T05:55:00Z
-    webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+    publishedDateTime: 2022-07-22T04:00:00Z
+    webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular"
     type: article
     provider:
       name: Japan Today
