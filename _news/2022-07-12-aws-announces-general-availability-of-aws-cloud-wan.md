@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
-excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Cloud WAN, a new managed wide area network (WAN) service that connects on-premises data centers, colocation facilities, branch offices,"
-publishedDateTime: 2022-07-12T14:46:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-cloud-wan/article_2c3520d5-7087-58c5-8d7c-51a1ff574293.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-cloud-wan/article_2c3520d5-7087-58c5-8d7c-51a1ff574293.html"
+excerpt: "New managed service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises environments Avalara, Foundation Medicine,"
+publishedDateTime: 2022-07-12T14:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "3qAoX7xZAVCZdMZQfx5FnZ0IJX6O4H0syaUO5xaL+KR5UWHImIcrLNvtnmpxXqHslrhyeP/rsw1fE3iPfDCPHaWsigoylDM/Ayw1qc96fopuvuTi/N5yZj1d74v+Bx0srnqpK8kNUAsIwNM1yd1uvJl+MhYDepL875f5lv3AmrtOjsh/s3FtKl2MoIoTTMlA1oTu/+8BmSYB2s5SOfmxov2Q7WAeEhCWSKtKHf31nX6Zsx20xPz0o8SjMw2r298XwIlPl9n0eH9u30Ejk0vePebCJyBfiUWkAvHCibZzxpc2Nd6V38cr/7QOxXBs6rv0PlT4knL3QLHMuJ8FMeG80wE7BF4Qjf0mMtfLibvPWfQ=;nFVXv/HGOOpTWq8pPfZgmA=="
+secured: "o5RyKOcjA+NYQdVfU03Z3SDWNZeivI3oL7q2+liM8bzAmlntA5RndIxuO73rsMi/CoWh3vGszn2UUGDPYPhfBru4w5S2a4NTknuiUammDl1Tjoftzdb03DtCYpy3n6r/0x1rEKz4ua9Pzb/O5NemZf+zjDkA640NNDP8Ty6YjwgIAGkrzfWx9X4Ex8098QlWjSkCClZtlsOHngIdsmIAUghwf1uS2waW0/YGLbZKwWJFDk0dX1xzmlIm0LybpI8sMlsK3PteIms1H6MugODc4c8K7ozGU/HrQICFF2Jc/kytfuNFT7XS23vWktOBpkLae05sY06yL1Vlf7RyOdDz1QgJ6uOPH6xbQfRamK2EcSg=;W6caykr5fC4s/10Yf7G5ew=="
 ---
 
