@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-ste
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
-    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
-    publishedDateTime: 2022-07-21T21:00:00Z
-    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 14
-    images:
-      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
-        width: 800
-        height: 534
         isCached: true
 
 secured: "6F5k1fZ3nLAJvnHXqEcrbPsWPu+a6R1KvOAQrKh0b9Ke28Vy/YdkIcVmQJHWhROuM8e0HUAwN0VMjsDX2wyJpDqRNtZKUwkIki8xh7x3NxKVnKKaLnVGusJdFefY2E7kAt6IObGPgvxikorA6fqDx0lglsb+DvHCHyjNvsXfSXBq2QNEGFjd5ZhzfReAK6A5XlKuittkPZK2hTf8TcJXKCMv8457e7cZTwy4jT019/9RPrpDLqyeS4+LVmEZgkde0VGqI+Low7/QJDKQk+4v3kQ6LJyoRll1qVXyuGo7124QrZcH5l6XVFaXbLU7tlO1XHhJXjF/GMVAMF9nymd2n+nVU8bZ/ZtoOBU7W5U4pSQ/xghKYPCCaVNQrd/FK39QRxpF/06gAxChrg4JWhOUSdXgI0+g30dsBOjQgVyLcDzdfqXTmto/suIcBCsLSBtnbBiB8OTKOqHeFBkhRFNhj8oHahxVS0CqsQcizLFJlKXUEhcKGcg1qTU3jfCkOhJDheHWeawps4bqhSXqwCgJbg==;bNppXv6si/QMo1/vbrdsdw=="

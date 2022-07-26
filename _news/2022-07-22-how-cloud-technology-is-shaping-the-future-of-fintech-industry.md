@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Accounts payable fintech, Finexio, raises $14 million in Series B"
+    excerpt: "US accounts payable payments as a service company, Finexio scored $14 million in the initial close of the Series B funding round."
+    publishedDateTime: 2022-07-26T15:33:00Z
+    webUrl: "https://www.bobsguide.com/articles/accounts-payable-fintech-finexio-raises-14-million-in-series-b/"
+    type: article
+    provider:
+      name: Bobs Guide
+      domain: bobsguide.com
+    quality: 39
+    images:
+      - url: "https://www.bobsguide.com/wp-content/uploads/2017/01/72807.jpg"
+        width: 320
+        height: 217
+        isCached: true
   - title: "Important Technologies And Developments Shaping The Future Of Fintech"
     excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
     publishedDateTime: 2022-07-22T20:39:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T11:52:00Z
 originalUrl: "https://techxplore.com/news/2022-07-deep-technology-enables-faster-accurate.html"
 webUrl: "https://techxplore.com/news/2022-07-deep-technology-enables-faster-accurate.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: techxplore

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 748
         isCached: true
+  - title: "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1"
+    excerpt: "NVIDIA announced the general availability of NVIDIA AI Enterprise 2.1, offering users advanced data science and an updated low-code tool."
+    publishedDateTime: 2022-07-26T14:03:00Z
+    webUrl: "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 71
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
   - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
     excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
     publishedDateTime: 2022-07-25T13:20:00Z

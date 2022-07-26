@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:02:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-26-wyrestorm-introduces-focus-180a-4k-autofocus-webcam-with-ai-tracking-for-personal-video-conferencing-and-live-streaming"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-26-wyrestorm-introduces-focus-180a-4k-autofocus-webcam-with-ai-tracking-for-personal-video-conferencing-and-live-streaming"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

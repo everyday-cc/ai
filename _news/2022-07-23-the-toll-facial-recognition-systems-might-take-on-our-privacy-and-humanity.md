@@ -36,6 +36,20 @@ related:
         width: 4912
         height: 3264
         isCached: true
+  - title: "Retailers vow to avoid facial recognition"
+    excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+    publishedDateTime: 2022-07-24T17:30:00Z
+    webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 54
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe"
     excerpt: "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
     publishedDateTime: 2022-07-25T02:54:00Z
@@ -81,22 +95,6 @@ related:
       - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
         width: 401
         height: 300
-        isCached: true
-  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
-    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
-    publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
-        width: 620
-        height: 372
         isCached: true
   - title: "Australia remains an AI laggard, new report warns"
     excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
@@ -170,6 +168,15 @@ related:
         width: 1500
         height: 1500
         isCached: true
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 3
 
 secured: "E1CcGYwiBz1KG/6IV69ZOsUlLsxfpfxmRbzzH/ptRgjVNwldCqu7toRdE+7/k4nDiyEu/usyUftGkxPPAWJomKVMbspQ65CiBQYIm4JpxJaZiiMhMb4FTWLwXpkEvp70+S0sDVkI/3pBaQ5GDaYzGFXTZMMeDhWV/mT2GudTIa9DSvsaeoubO3eeSpG8GL3Ap+e+SHHrH+1oXiXDV/A+lZduj/47LbE08pFTpE8Vc3BZSxbI52Rd+TzoP8bB9sfoF6OV219sOOyUsGHVrJVhYQDWHC+iatcvaxo2oMA7H1Ywg/cPAKDfE0f6ln5Wt5fJ34mV/ttdqn6Mq6K/nXU3FlFgItMDVo+5amJPlou4/fawP7rbPOBHx82ulYrgqcp7CC9VL79DJrnz/POLN9nwY5REnFpHwzrsuQ2UTMi77ixxeHZsPO+ztiqBuYv6M67qWpAUiVpAh71cOS2W6duaSGh/I0+c4VCNJ68kCC8iLuBlLfQ+lFMOTg5IzFBYEsxD85n1eWbUGV/ND0FL6a6zOw==;W9OfmALGbgJ06uXWqY7VCw=="
 ---

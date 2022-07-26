@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finall
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Research: Artificial intelligence can fuel racial bias in healthcare, but can mitigate it, too"
+    excerpt: "While some healthcare algorithms exacerbate inequitable medical care, other algorithms can actually close such gaps, a growing body of research shows."
+    publishedDateTime: 2022-07-25T01:18:00Z
+    webUrl: "https://www.themandarin.com.au/195364-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 42
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/07/robot-doctor.jpg"
+        width: 795
+        height: 530
         isCached: true
 
 secured: "FooiDE2XHgEA4psMMx0syFCUb2CIVbAkRh751XDmSWFLVVdQnXyzXwyIMTwIqYUAB/liP3LU9EHEfbSXyNe0DnQw23gRJgf3JiXTE7HGEMiGK3skXzPoR8qdpiFL/9U2haUgEIc9ItX1hNRdLeaSIzSySR/pmiuXpYmx8lSzOeBYklB77yzoyxsl1NaUZb+qsw2zcMEESgKpbN0IZgdplNzSr8JrEyfo5Gq/scBF8N1zqA43BO5fH0VdfpS1Ij95Jl7YwKbZYo4eI+8bV5Z2TmEVvuLhm840tv872rs5Vp2MTOwW8LzbRB12FW9EKW6BVzEkeAAHjHp05BACQww5jeU+/BvZN/7EPUU3S7bb7mESaH8wrr1e5pzgguEhSEjRiUvyMuhXxssahZPeWvSyaotE1uMcxK7zFWZePVw9JT30FazWOX/z8BA8+IcY1z/YYSTcSmxoN8ULnO/dk6vjKic2GCu2Fk9UVoRfdGRu+04KZ3P+PegVxFCbLy1xnZief6sbJYefa965LGPGWOFrBQ==;Fc1kCDHBs2vMGWT0xYbLTw=="

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "N.O. council votes to allow facial recognition software by police"
-    excerpt: "Mayor LaToya Cantrell and the NOPD leadership had been seeking the additional “tools in the toolbox” to help with identifying and tracking violent crime suspects."
-    publishedDateTime: 2022-07-21T19:45:00Z
-    webUrl: "https://www.wwltv.com/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
-    ampWebUrl: "https://www.wwltv.com/amp/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
-    cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/crime/new-orleans-city-council-facial-recognition-technology-approved/289-9c6bf4ee-e249-43b1-b945-434d0c18cfdd"
+  - title: "Take an inside look at how NOPD's facial recognition tech works"
+    excerpt: "According to the NOPD, the department’s facial recognition policy has already been approved by the Department of Justice."
+    publishedDateTime: 2022-07-22T22:20:00Z
+    webUrl: "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3"
+    ampWebUrl: "https://www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3"
+    cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3"
     type: article
     provider:
       name: WWLTV
       domain: wwltv.com
     quality: 59
     images:
-      - url: "https://media.wwltv.com/assets/WWL/images/87385aa0-0014-48a9-89d4-63e269e9fa49/87385aa0-0014-48a9-89d4-63e269e9fa49_1140x641.jpg"
+      - url: "https://media.wwltv.com/assets/WWL/images/3111947a-0bb6-4e4e-93b9-887b75ffbdc3/3111947a-0bb6-4e4e-93b9-887b75ffbdc3_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

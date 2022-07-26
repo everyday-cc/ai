@@ -82,6 +82,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Research: Artificial intelligence can fuel racial bias in healthcare, but can mitigate it, too"
+    excerpt: "While some healthcare algorithms exacerbate inequitable medical care, other algorithms can actually close such gaps, a growing body of research shows."
+    publishedDateTime: 2022-07-25T01:18:00Z
+    webUrl: "https://www.themandarin.com.au/195364-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 42
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/07/robot-doctor.jpg"
+        width: 795
+        height: 530
+        isCached: true
 
 secured: "3vz0G524KkVQNLkZvhNCSWWNFfWBqyz8YOcFHR9PSnlyhcrUqCIbbHo/9IB33F+pOEGQessfBREr8FouP3qXJ73Wt8hZ8y461OozXpcWp7iUHJFi0KZDs1z/HSWL8dLP1hrO5REM/g600CAeAgD9Doekn9ArFD3QO7YKcOi6Q6YzYK7SEtLW3hc/+s6krgb8vIuGDBK68x5mfLZjcv8bddcH2ouuI/zsQvYfVLtxN6ZLYBqy1HAEreVSilabvafANMUQpLtJusNnRhAy9qeDqC2lxT5eUHSP+px4w0Bd+5D/FdUrWE0U54zF9tfRt8Xgve1dWQU/5WjLD1ZpThfBv+PfKjvTwKFQgptyp4jfY9L8VR8MSaenfR6VHWpGo3fbj6QoxSZmoxNV7lrwKkzvTPuw8qpSk1X3omk5m90gqmd2SzrpyV4eMx0i2Vvu1JUP51JtMEoC3fqjWzRpkmYDaa7uddZUS6VpySQGgeOcERnlbjIIn+rtopuW1xoBXkPNfXML8BCWfCbLL2htkAANoQ==;Izk4+Y+61ZeDiXz3jCPlZg=="
 ---

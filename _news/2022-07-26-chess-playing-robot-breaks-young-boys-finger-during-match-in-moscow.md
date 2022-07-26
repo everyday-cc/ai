@@ -163,6 +163,20 @@ related:
         width: 754
         height: 424
         isCached: true
+  - title: "Chess playing robot breaks finger of 7-year old boy for moving his piece too early"
+    excerpt: "A chess playing robot grabbed the finger of a 7-year old boy and broke it because its opponent tried to move a piece too early."
+    publishedDateTime: 2022-07-26T14:42:00Z
+    webUrl: "https://thelibertyline.com/2022/07/26/chess-playing-robot-breaks-finger/"
+    type: article
+    provider:
+      name: Liberty Line
+      domain: thelibertyline.com
+    quality: 33
+    images:
+      - url: "https://i0.wp.com/thelibertyline.com/wp-content/uploads/2022/07/WordPress-Featured-Image-Sizing-38.jpg?fit=2240%2C1260&ssl=1"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Chess-Playing Robot Breaks 7-Year-Old Opponent's Finger at Moscow Tournament"
     excerpt: "Russian media have reported that a chess-playing robot broke the finger of a seven-year-old boy during the Moscow Chess Open tournament. A video shared on social media showed the robot grabbing the child’s finger as he attempted to make a move during last week’s tournament."
     publishedDateTime: 2022-07-25T18:34:00Z

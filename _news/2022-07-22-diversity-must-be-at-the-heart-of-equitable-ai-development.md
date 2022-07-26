@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The hype around artificial intelligence"
+    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
+    publishedDateTime: 2022-07-26T13:32:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "The Development Of The Games Industry. Meta Universes And Artificial Intelligence"
     excerpt: "The future is approaching at a high speed. Technology is improving every day with new innovations and revolutionary ideas. Obviously, technological"
     publishedDateTime: 2022-07-22T18:58:00Z

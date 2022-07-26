@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/26/stop-drowning-in-data-how-consumer-goods-can-put-ai-into-action/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/26/stop-drowning-in-data-how-consumer-goods-can-put-ai-into-action/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

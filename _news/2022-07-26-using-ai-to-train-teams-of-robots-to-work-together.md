@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220725124120.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220725124120.htm"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/07/Tony-Staffieri-e1657624125282.jpg"
         width: 650
         height: 399
+        isCached: true
+  - title: "Aruba Central Gets AI Infusion To Tie Together Network, Security Insights"
+    excerpt: "HPE-owned Aruba Networks' flagship Aruba Central network management platform will now include a handful of new AI features aimed at bringing together network and security information in one place for partners and IT administrators,"
+    publishedDateTime: 2022-07-26T15:19:00Z
+    webUrl: "https://www.crn.com/news/networking/aruba-central-gets-ai-infusion-to-tie-together-network-security-insights"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 55
+    images:
+      - url: "https://www.crn.com/resources/0277-15b77e0622f0-49d0dd49ccea-1000/aruba_image_resized.jpg"
+        width: 599
+        height: 464
         isCached: true
   - title: "Using AI to train teams of robots to work together"
     excerpt: "University of Illinois Urbana-Champaign researchers developed a method to train multiple agents such as robots or drones to work together using multi-agent reinforcement learning, a type of artificial intelligence."

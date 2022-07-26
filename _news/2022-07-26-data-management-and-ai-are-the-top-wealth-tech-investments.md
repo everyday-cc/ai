@@ -24,45 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics and AI are going from cage to stage"
-    excerpt: "Discussion of some of the most obvious technical considerations founders need to keep in mind when shifting from a research to a mass production process."
-    publishedDateTime: 2022-07-21T21:05:00Z
-    webUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/"
-    ampWebUrl: "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/"
+  - title: "Data Management, AI, Automation are Investment Priorities"
+    excerpt: "With as many as 98% of respondents’ companies investing in their front-to-back-office workflow management, more than one-quarter (27%) of respondents cite data management tools as their firm’s priority investment."
+    publishedDateTime: 2022-07-25T06:00:00Z
+    webUrl: "https://www.tradersmagazine.com/am/data-management-ai-automation-are-investment-priorities/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
     images:
-      - url: "https://i.ytimg.com/vi/PWfC5mhmynE/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/04/Vijay-Mayadas.jpeg"
+        width: 350
+        height: 350
         isCached: true
-  - title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
-    excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
-    publishedDateTime: 2022-07-22T09:52:00Z
-    webUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
+  - title: "Data Management, AI Automation Tools Are Top Investment for Financial Firms, Broadridge Survey Reveals"
+    excerpt: "In addition to data management, firms are also “investing in AI and automation (23%), more human capital ... As covered, Broadridge Financial Solutions is a global Fintech “with $5 billion in revenues, provides the critical infrastructure that powers ..."
+    publishedDateTime: 2022-07-23T11:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai-automation-tools-are-top-investment-for-financial-firms-broadridge-survey-reveals/"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 50
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 23
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
-        width: 600
-        height: 365
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Tools-Work-Fix-Wrenches.jpg"
+        width: 1280
+        height: 906
         isCached: true
-  - title: "AI asked to show an image from inside a black hole"
-    excerpt: "A new artificial intelligence system has been asked to produce an image from inside of a black hole, and the results are stunning."
-    publishedDateTime: 2022-07-25T08:45:00Z
-    webUrl: "https://www.tweaktown.com/news/87562/ai-asked-to-show-an-image-from-inside-black-hole/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "Fb9LpiZ1KEAegmhNIAG7M1UoNtmlzi3UAyY/lyCKhOIWxMhiQtozWgDIOcIDp7YLx7Ab0oVOFYdjeLJEPQm3Bo62kUF1D2tZ4VA39Fnob8IfcJdM6rgI5Kukz1MG1h32Tw+tRDUarxkTB1oSqDETtw+GU0C/nz5eXbklCTsymoa+jJA750LnYNsxLg4h23PxB9CqBL7VJMfJ96V8Jr7rHQwFwowDkm2ZWPpf1C0+rGhsbpRvDMTIy/yCk7OcleZ+53B3X6SwBymQlB3gZwcch1wCiVSE13QEkareNJdD1glwJYD8yYZvkBq/5WvUwaAAYyb7XowWjzO+zA+aq0IteUveCJj+dxLfoa32GQwRjY4=;1CL5IPV1BrCU7tQO8rmXUw=="
 ---

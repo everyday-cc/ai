@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evalua
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -26,6 +26,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
+    excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
+    publishedDateTime: 2022-07-22T09:52:00Z
+    webUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 50
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Challenges facing AI in science and engineering"
     excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
     publishedDateTime: 2022-07-25T18:07:00Z

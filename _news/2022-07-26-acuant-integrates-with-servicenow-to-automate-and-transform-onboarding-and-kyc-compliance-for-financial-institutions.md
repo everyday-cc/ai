@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T12:36:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/acuant-integrates-with-servicenow-to-automate-and-transform-onboarding-and-kyc-compliance-for-financial-institutions-1031615228"
 webUrl: "https://markets.businessinsider.com/news/stocks/acuant-integrates-with-servicenow-to-automate-and-transform-onboarding-and-kyc-compliance-for-financial-institutions-1031615228"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Business Insider

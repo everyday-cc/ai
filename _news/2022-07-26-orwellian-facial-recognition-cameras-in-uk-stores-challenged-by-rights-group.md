@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:25:00Z
 originalUrl: "https://www.usnews.com/news/technology/articles/2022-07-26/orwellian-facial-recognition-cameras-in-uk-stores-challenged-by-rights-group"
 webUrl: "https://www.usnews.com/news/technology/articles/2022-07-26/orwellian-facial-recognition-cameras-in-uk-stores-challenged-by-rights-group"
 type: article
+quality: 45
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -18,6 +21,63 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Facial recognition cameras in UK retail chain challenged by privacy group"
+    excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
+    publishedDateTime: 2022-07-26T07:56:00Z
+    webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/63c7fa627d5de49dd67ec3b571fa5320578b51d0/0_1092_4478_2687/master/4478.jpg?width=620&quality=85&auto=format&fit=max&s=71dc317674ea7ffee3f6564b789793fb"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Privacy group slams 'unlawful' Co-op facial recognition cameras"
+    excerpt: "A PRIVACY rights group has submitted a complaint against the use of facial recognition cameras at Southern Co-operative stores, claiming it"
+    publishedDateTime: 2022-07-26T08:28:00Z
+    webUrl: "https://www.theargus.co.uk/news/20571801.privacy-group-slams-unlawful-co-op-facial-recognition-cameras/"
+    ampWebUrl: "https://www.theargus.co.uk/news/20571801.amp/"
+    cdnAmpWebUrl: "https://www-theargus-co-uk.cdn.ampproject.org/c/s/www.theargus.co.uk/news/20571801.amp/"
+    type: article
+    provider:
+      name: The Argus
+      domain: theargus.co.uk
+    quality: 59
+    images:
+      - url: "https://www.theargus.co.uk/resources/images/14303211/?type=responsive-gallery"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Privacy group complains of ‘unlawful’ facial recognition at convenience stores"
+    excerpt: "Privacy rights group Big Brother Watch has submitted a complaint against Southern Co-Operative’s use of facial recognition cameras, claiming it is “Orwellian” and “unlawful”.According to the complaint made to the Information"
+    publishedDateTime: 2022-07-26T07:21:00Z
+    webUrl: "https://jerseyeveningpost.com/morenews/uknews/2022/07/26/privacy-group-complains-of-unlawful-facial-recognition-at-convenience-stores/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 50
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/07/26072138/Img33880174.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
+    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
+    publishedDateTime: 2022-07-26T12:53:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 15
 
 secured: "c0efzHfWNTvchQR9FfQ2g0HqUqFpc5JLDAUvia6/S7xWQQiBeUn3eCygGVoAe881u0L5pGJV9bLuomzOEvyvRGx2EI1HxyFJATCjTdEYH4fEG0Js6kSY9uADKg1/Z2s4Lf0b5R46SwPqXfEEanom3Nny+mVSP59yDxkuE0t1E8icd+QNXIUhuH3HikpUj346EwGOoveNlMe0mof/7wCNfWN0uBIW7XTniVfC+QpSCHj9YoJhduJcWse3dIaTJvlTMtPvr/BHMuV7hYAAKxlh/5Ul1PiBYrFkRPzp9a1fxHj9yeq6eF/JFGQa78QkEMjFrV24WZ+uO6JZBXnc6fpiJT0F89UYAHezfOD9q/zqbNRbge4h9oC7m7wAVU5noavOZ6NCIsvo8Pf+7SFu+6cjdgeP6l2GtykRqFxQCnhWICmC7DmfvRGO3dRSvXblodnm3WaFFiUdeQnKFxRwdnWeI60U611xzk2ytKGEqRp1E+kando5bBg4awAhqfOWIrKucZib92foPbdOnQQ8z+1PLw==;T61qMuAUTvaiC2/EQP8TQQ=="
 ---

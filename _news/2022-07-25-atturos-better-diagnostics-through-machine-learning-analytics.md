@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/start-ups/atturos-ucd-diagnostics-
 webUrl: "https://www.siliconrepublic.com/start-ups/atturos-ucd-diagnostics-proteomics-life-sciences-psoriatic-arthritis"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating Data Literacy In The World Of Augmented Analytics"
+    excerpt: "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data."
+    publishedDateTime: 2022-07-26T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62def46c309ce98e9087f3de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "GFT among Europe's leaders for data analytics and machine learning in the Google Cloud"
     excerpt: "GFT has been identified as a leader in ISG's Provider Lens™ evaluation for Europe – Google Cloud Partner ecosystem data analytics and machine learning 2022 \"Strong visual inspection capabilities make GFT a leader on data analytics and machine learning ..."
     publishedDateTime: 2022-07-26T07:30:00Z

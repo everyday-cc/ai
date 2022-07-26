@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T10:24:00Z
 originalUrl: "https://musically.com/2022/07/26/creative-intell-raises-3m-for-ai-music-dealmaking-tech/"
 webUrl: "https://musically.com/2022/07/26/creative-intell-raises-3m-for-ai-music-dealmaking-tech/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Music Ally

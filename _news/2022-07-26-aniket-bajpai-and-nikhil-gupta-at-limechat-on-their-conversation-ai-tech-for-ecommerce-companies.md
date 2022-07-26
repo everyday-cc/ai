@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:19:00Z
 originalUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-conver-sation/aniket-bajpai-and-nikhil-gupta-at-limechat-on-their-conver-sation-ai-tech-for-ecommerce-companies/78447"
 webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-conver-sation/aniket-bajpai-and-nikhil-gupta-at-limechat-on-their-conver-sation-ai-tech-for-ecommerce-companies/78447"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Forbes India

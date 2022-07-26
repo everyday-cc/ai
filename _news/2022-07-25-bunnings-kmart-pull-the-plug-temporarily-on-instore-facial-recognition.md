@@ -41,6 +41,20 @@ related:
         width: 4912
         height: 3264
         isCached: true
+  - title: "Retailers vow to avoid facial recognition"
+    excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+    publishedDateTime: 2022-07-24T17:30:00Z
+    webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 54
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bunnings, Kmart hit pause on facial recognition technology amid privacy watchdog probe"
     excerpt: "Wesfarmers-owned retail chains Bunnings and Kmart have bowed to public pressure and hit pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
     publishedDateTime: 2022-07-25T02:54:00Z
@@ -86,22 +100,6 @@ related:
       - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
         width: 401
         height: 300
-        isCached: true
-  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
-    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
-    publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
-        width: 620
-        height: 372
         isCached: true
   - title: "Australia remains an AI laggard, new report warns"
     excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
@@ -170,6 +168,15 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 19
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 3
 
 secured: "BtoOJnzlOjqZ6eu190n8OaD0y4cKHIe1mQPY1xGHTWjVz+AvdIEU+DaRR+i0hoivs4qTN9f9eGC77QiW9LEuqEok4iXPb+/G4COgYP4dxsq4a7jDP6EGriwi4oswCGbaXRTZa9qKw1ZbH9tzU/HuSnZ7NcJ2o+YLKLs4msMlAbm+mSmm/MbRec7jRg8GAsauvcsbEefT9gihZMLv5SHoaGtOZSdya9FPtbpG0qBoS2POrOM9hptPm4l6BvWrJmUjVP6/ueiUGP9XPUxmVzdTvG6h277ClXJc+UYfjVeRH75w5DZrrc+rQLugIt2vJKVyvAbR3hMG5W0sgIuLn1ER+haEXUSiCmHdWPuisTIGiw8=;TusIR9koaXyoy53dgG7jMw=="
 ---

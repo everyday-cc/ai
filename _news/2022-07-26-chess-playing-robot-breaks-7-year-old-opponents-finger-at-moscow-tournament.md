@@ -168,6 +168,20 @@ related:
         width: 754
         height: 424
         isCached: true
+  - title: "Chess playing robot breaks finger of 7-year old boy for moving his piece too early"
+    excerpt: "A chess playing robot grabbed the finger of a 7-year old boy and broke it because its opponent tried to move a piece too early."
+    publishedDateTime: 2022-07-26T14:42:00Z
+    webUrl: "https://thelibertyline.com/2022/07/26/chess-playing-robot-breaks-finger/"
+    type: article
+    provider:
+      name: Liberty Line
+      domain: thelibertyline.com
+    quality: 33
+    images:
+      - url: "https://i0.wp.com/thelibertyline.com/wp-content/uploads/2022/07/WordPress-Featured-Image-Sizing-38.jpg?fit=2240%2C1260&ssl=1"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "89P07Dp/6mT29w6peyDg3s2xRoGbDBKNFeL0BTmdaEH/VaUB1QWCQVhtIG9QMppU0YheTQgeU23/gP30dqJewDSEBstTZ4ONf13PvK3k9pym6H49eUye/uc3bKBFik2eJdWVpToxFJBXhdNqIhRU21iF+w89YcePUpL93BsCJaQvEmOwDFJcJ2lPI4GEYLOgHUbzfzfj4HlVrjWMYibC8PrlN/017ZBifCB7h5vkc6xoDIgToDrbx6hCsGnyKmz38KIsi5smrPLi9/WFn7qTlJzD3ObaJFqi5MjqMYxWk9OZlQZZOmEz1NIgFD10X/oUdDNyLvYRlvcdvWPGAlIW1gnesFCMk5Lb25ubQKPdidjvTvssX3B9iOUmy6CQPYVtNs2s8YMWx7qTzDjtMx7g0R99dxVmsT+Yt0fNiVkTpQUstrCFb5L+CWYdUwTUysVZWW6Aomf8PkxzprtB7omyAU43veiPKC4P2I1+6tNpcy0+iwcuHPbOZda36/Rp8FmOS4+CBfZSQPePs8XIYIIARQ==;o/QOd1c0SsHdQ4HJDfMkKg=="
 ---

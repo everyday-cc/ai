@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/07/26/kpmg-automotive-chips-to-surpass-250b-by-2040/"
 webUrl: "https://venturebeat.com/2022/07/26/kpmg-automotive-chips-to-surpass-250b-by-2040/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

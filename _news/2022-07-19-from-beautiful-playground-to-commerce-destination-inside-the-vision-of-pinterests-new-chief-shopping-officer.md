@@ -1,10 +1,10 @@
 ---
 category: news
 title: "From ‘Beautiful Playground’ to ‘Commerce Destination’: Inside the Vision of Pinterest’s New Chief Shopping Officer"
-excerpt: "Pinterest’s role in the world of social media is blurry — consumers use the platform very differently than they do Instagram or TikTok, for example. But following a series of major strategic moves, the role Pinterest hopes to play in the burgeoning realm of social commerce is crystal clear."
+excerpt: "RTP talks with Julie Bornstein, new Chief Shopping Officer at Pinterest, about the role the platform hopes to play in social commerce."
 publishedDateTime: 2022-07-19T13:00:00Z
-originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
-webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer"
+originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions"
+webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/pinterest-chief-shopping-officer-social-commerce-ambitions"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "4v0dnJB8BB/PLGvnDgaFD6h2OdCbXZWL95U6uTfkbz9olEN+KOaRbPFAKiExGY20qJUsZ4Oty4M+aEK7kmfyGgc7R1l5uzbdnjNd2CS3jIu8unfiTV0wzCNIlBw3or/XTkAnZ82B3Yw9tKAKLLSCtgDFeWy/g+n8/7YhQWkhDCcwtqi3vJ9YivWbwRKg3t6V7ODr5IPXOPGxeJfqKcZ++LsHeqHKMVGKoeQ57JNIxwoKdbfGbWa+ydtuDcn6hnavKohhNoHyrwUQkMppaYDJO8HhaGzLjEA2L6z5Sii5t0tk4gI+2wqLxNA/pCIsSf+r+lp2v0w7NicQ9icdL2p41+dxp4pBOBEsH5ha9ueoyWGTdFdozFg5JI8qL1LR6nsJJUod3Z4pBVK2YDPcoZgDXNR2R5EWCE5tBRnvP5llF2yTYAt2y/mQAAhWNOblVX2aY9FJDfYkjNKaAn2gAwtyL2S3GY0TQDdyCFOBUDliB7oLj+vohfvT/BjqNEsRDQvaoTRNPQ8vEPgYhf5En5g99A==;UAkxxE+MRd60sdLGFaHEJQ=="
+images:
+  - url: "https://www.retailtouchpoints.com/wp-content/uploads/2022/07/1587616751003-300x300.jpg"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "u3sOAEEgcsrUfC6ZMeG8RlN1JSclugX7m960ZQYb0IdBncz7l04kPvZZwC95ypv2u+tYkoIrf3ZXr/1BZfg4js7uX1Rgvn2tGOCwMqPAJLPfMn+wrIJ2+3vR2G39S+zNdZ1XzoTrsV7vuGWMfWv31ansMldYLpYr5TalyOE32QZYWI/a4iAhp78uox5YAQcQT107+Hb1zETnnO49WSd6okEKksvzI5HQREpcU5K0oeno3HO/tL+tOoUmDgolhpxAjmvbLcRBakTUI9PawCJSfDv1Ve2WdTddFqV2GsZAj4eqmcKudwYMtMCfEbPbRrMRQzxRnlncmbBiwP+NYtuFBQLaJS9qBmdZQF/9E9Cjv5Y=;Cle+zrXd8DtjfgFTcFrFhA=="
 ---
 

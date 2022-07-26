@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China's Baidu Reveals the Apollo RT6, a Fully Autonomous, Production Ready Level-4 Robotaxi with Removable Steering Wheel"
-    excerpt: "China’s technology giant Baidu Inc, which is the equivalent of Google in its home country, held its “Baidu World 2022” annual tech conference this week which included several major announcements. Among them was the unveiling of Baidu’s production-ready Apollo RT6 robotaxi,"
-    publishedDateTime: 2022-07-21T21:00:00Z
-    webUrl: "https://www.futurecar.com/5525/China’s-Baidu-Reveals-the-Apollo-RT6-a-Fully-Autonomous-Production-Ready-Level-4-Robotaxi-with-Removable-Steering-Wheel"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 14
-    images:
-      - url: "https://img.futurecar.com/202207/21/l_62d9bbaf250dc.jpeg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "xIu7DhpRwzG29Byw6vvFmvh+eE1hScJkOflYDF+U2C/gxSAugF1TlVJlUktwXqI9caQRU0de7RjlaOL88rCITIjmop2+IWWi9D1l++zyTQTXkZr0OJ6Zj4p0agbzVe8hvmp8gxsfH/zsMHQ4TukvZPWDVLtglsV2oPOqZw6Xhva/VcGBAX+eMrtFBTfqNnncoIn3RGu5UNsaibhbEQAZ1PvfEUwLSke3wHOf3oCIK1GI/LrH51bks9bsOpgsNDMt9Sl9YJH6T8oUSPKbib5HT9UZpToOGSbqsqIDcUZUpnBXHil/xAuJGQ6ZjXlm30NgGI+AyZINIvi4lk9juD9JT0cYQ/fwZ+r402Q8apvdpAk=;g7LK8+/UwEwKeXp4naYw2A=="
 ---

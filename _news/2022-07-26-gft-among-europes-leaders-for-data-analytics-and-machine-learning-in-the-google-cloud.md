@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating Data Literacy In The World Of Augmented Analytics"
+    excerpt: "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data."
+    publishedDateTime: 2022-07-26T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62def46c309ce98e9087f3de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Atturos: Better diagnostics through machine learning analytics"
     excerpt: "UCD biotech spin-out Atturos is combining algorithms and the study of proteins to better detect disease biomarkers in blood samples."
     publishedDateTime: 2022-07-25T08:52:00Z

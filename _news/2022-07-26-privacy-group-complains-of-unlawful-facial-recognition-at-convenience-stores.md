@@ -57,6 +57,24 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "'Orwellian' Facial Recognition Cameras in UK Stores Challenged by Rights Group"
+    excerpt: "Orwellian' Facial Recognition Cameras in UK Stores Challenged by Rights Group LONDON (Reuters) - Shoppers at a supermarket chain in southern England are being tracked by facial recognition cameras, prompting a legal complaint by a privacy rights group."
+    publishedDateTime: 2022-07-26T13:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-07-26/orwellian-facial-recognition-cameras-in-uk-stores-challenged-by-rights-group"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
+  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
+    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
+    publishedDateTime: 2022-07-26T12:53:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 15
 
 secured: "t3Yvopx5kNtnomNrRwrkrOSVVNfJWx7m8PhBKwjBgvapI95G1GhdBJ8vMdHZUNKGFMxZYnZ2mO4myMzdgs0jnBUHpZFiunJ/TXxt5HfQkSs+sNY0filWewKMgz71WniHC3ZFqiCljmbh13i6kd/uIqQK9uGM7uIjgzbxnueNFUXa9PM8eF9B/hbDr0/vgV6g9i6O1wrGV9mSLTUYR9h1OtZePl3mfu4cSUXLglFKZXOsAUdXMLsvXSJBiqr/9VzPgFSa9ZdBplP5bEwWZxnYOSBIoJGoqdDYMS/Sov/dE9ftaRM4HkcgL1pkfxg9PfxBdO0yOQrZ7VuVZl+j0Rt4DrtqdxO6PThT/M60wvZooGQmywFA/dXxDCGRnZ2pZNo4RWhZnQ92CH6k0opCQY/FfLUto8n2qign+do4OiSGxTryCJAsivdAWsDCpIePMOzNVO3sjM4szX8ojFEPmCO8hf7WCymXwl4gOXwZYS6mm4OUJyYD9CTcRMSPtDL8uK9Fm5GPZV6U2zQc8HYT9x2lyQ==;+hleTBq7prLg6xdaCl+fGw=="
 ---

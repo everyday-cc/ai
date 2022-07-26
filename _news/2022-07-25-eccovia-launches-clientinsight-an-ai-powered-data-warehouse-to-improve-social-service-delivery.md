@@ -43,7 +43,12 @@ related:
     provider:
       name: insidebigdata.com
       domain: insidebigdata.com
-    quality: 6
+    quality: 26
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/RunAILogo2020-03-31_15-07-21.jpg"
+        width: 339
+        height: 208
+        isCached: true
 
 secured: "xv36QsIvFPMu1DXJ43eKHi/P/2brScpiOGAfKNh7T24A9BuQAUz+KX134nKNSVN0GMOrvg8dsF8bka9pPAVIuUqFgmlac9Q/OofqTsJcAPNSeznABh0rum07Eag3Gm0xca1XbHTC3rbEIaDAElZs2VaIzygfOhxGLkoAT12W0ga1ODAw/Dqd6KuJY21B63V6FiouJue2LeLFHxpLTfaULtEowt2cBArduYz779dpiRwk8wsMmwry5Ffl5ErPkjtbONAmgVJdNoDdmk4lbk01sYKlg/P8Vf9I1vQwc3CcwlyXnoSKp5yg0wUvvtmLJ098iWJvytowL+QfLpKCwGku5JYWRmfB1F1binWCpzpzOBE=;e8/wXX0kX5LIN5UjtpOifg=="
 ---

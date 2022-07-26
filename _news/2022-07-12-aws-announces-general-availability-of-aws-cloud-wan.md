@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Cloud WAN"
-excerpt: "New managed service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises environments Avalara, Foundation Medicine,"
-publishedDateTime: 2022-07-12T14:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28035557/aws-announces-general-availability-of-aws-cloud-wan"
+excerpt: "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,"
+publishedDateTime: 2022-07-12T16:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "o5RyKOcjA+NYQdVfU03Z3SDWNZeivI3oL7q2+liM8bzAmlntA5RndIxuO73rsMi/CoWh3vGszn2UUGDPYPhfBru4w5S2a4NTknuiUammDl1Tjoftzdb03DtCYpy3n6r/0x1rEKz4ua9Pzb/O5NemZf+zjDkA640NNDP8Ty6YjwgIAGkrzfWx9X4Ex8098QlWjSkCClZtlsOHngIdsmIAUghwf1uS2waW0/YGLbZKwWJFDk0dX1xzmlIm0LybpI8sMlsK3PteIms1H6MugODc4c8K7ozGU/HrQICFF2Jc/kytfuNFT7XS23vWktOBpkLae05sY06yL1Vlf7RyOdDz1QgJ6uOPH6xbQfRamK2EcSg=;W6caykr5fC4s/10Yf7G5ew=="
+secured: "snN9/79qRwa8pj1Ohin5krs3IdGFuNCF6LCLoESk1s5cdqmNHeFZXqAav6fd0xH6sJPcU6UllQEIAtAny+qCTyWOtwVc9xrWak7pxvFWpe2r2uo58sUu9M+Hh9aj2bEI9VvKD6vODLQerGzLekJRzieJwoNHP6vlhiGp6ygn6X9hJguBtfzx3Igy65PLL19OwXJZi3S2wyphDWkcENMCIsFrDAeRqkrtH8lfD3KW7yu7JLZ/nKVkYK9a7Yvq//BZpXtvO8Ev6Gs/h/7W5ejLoeJqbSmTMT3Mlnw2F0l5HCZyxL62ZXMBj6P8bzctZVFptnGw7lgTeNpOHhEBeu5RqwedfCaEuzC+c3yb24UwuRM=;NZdNy8ftSGxZic+KkKvgGg=="
 ---
 

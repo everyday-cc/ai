@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T12:21:00Z
 originalUrl: "https://musically.com/2022/07/26/musicube-launches-free-ai-tagging-tech-for-music-catalogues/"
 webUrl: "https://musically.com/2022/07/26/musicube-launches-free-ai-tagging-tech-for-music-catalogues/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Music Ally

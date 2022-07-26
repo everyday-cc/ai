@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Run:ai Releases Advanced Model Serving Functionality to Help Organizations Simplify AI Deployment"
+    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get machine learning models into production."
+    publishedDateTime: 2022-07-25T19:20:00Z
+    webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 26
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/RunAILogo2020-03-31_15-07-21.jpg"
+        width: 339
+        height: 208
+        isCached: true
   - title: "Eccovia Launches ClientInsight, an AI-Powered Data Warehouse to Improve Social Service Delivery"
     excerpt: "Eccovia, a leading provider of cloud-based SaaS solutions for the health and human services sector, announces the release of an unprecedented data warehouse and community-analytics platform, ClientInsight."
     publishedDateTime: 2022-07-25T13:39:00Z
@@ -35,15 +49,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
-  - title: "Run:ai Releases Advanced Model Serving Functionality to Help Organizations Simplify AI Deployment"
-    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get machine learning models into production."
-    publishedDateTime: 2022-07-25T19:20:00Z
-    webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 6
 
 secured: "7PCmgc3Uu6NWYQDwBAWaGZLTteyIrPZmUDFtc3kbYZkrJPAC2I4tbaoRt8xW2tkS530kZf/FYlnNSDPwtUHzRKGA4dAzdryK+wgXcp39csY5amDJizL58yUGGM+873O1fGQDjhqpS85MOhHMOWMBjTKkRCdx25wVlf/fPQzTMvWaK0yM9LkFvzb9pt3YdhRk1HfWD+MsmT9IsJGcVlH6ob6iXFHGl6Xa5vYWIHhXIms4rEyifwlqVu1AM+lZzOiEQpYpiUiI/HkSu3EHYOOTmrn8dWVXnkI11M43GL8BAW4KIm9JYOzzaEpWF0U6h2B7GTaR68gs9WoB+RAPtwn5J/cmd8M7/YQskbsUizX2+Kw=;7KKgOGntn/BUIHDCN58WpQ=="
 ---

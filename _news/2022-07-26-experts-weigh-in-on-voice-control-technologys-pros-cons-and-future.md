@@ -5,7 +5,12 @@ excerpt: "Perhaps you’ve had desperate moments with voice control technology i
 publishedDateTime: 2022-07-26T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/"
 webUrl: "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/"
+ampWebUrl: "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Forbes
@@ -18,7 +23,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
-secured: "MLkTeuMVBEcwACFyqOGWAQZZ9R05TNfHMOBoBoGFbzPAex1ZQ/3jxaFIvkZNMlBw7Uok51BHu1ml6jBDbtK1t1kI3ed5oIJRg2NjeLWmYDWtkaIO9sk1wO9prl5kMhSW/f1d1pDHw31L4iN27gz6f0bv0JU9s8LijgVJDIxYAqZI9tbE94vnP2tNJVl1ZDDa+PvB5lDYi8gzu7LHzSwPYpXJfbTvSpwAs/o1Wt/PS4u81J/QgreeX8IefEeexe3MgBpzEhOSV3iLHRqZbGWwIBcyUFELqucMMkCctbeogSW+g6K3JdSurwHuBQpz2gqRfN/SrrDA1jN+sk/bhPioSVr2euDTJ4kBenhe0XWw99YG9eoPOF5SmosTtMRvjICsY/rn05Yx6kxIcgNIDR+uwugOsVmd8Gs/QyRZ5hNzIQTmcxtQlHGdfSFHtNP/UQe6otAEa8bk6jPY7fRfh/wqUcFmDYB2hYTrVl7Uwfb50y3ZB99ZlJsWBBVql/yVCij7CI73yeeUvET/u31xfqhPdA==;/Rw5AdrSikq9EK/7MnXmHg=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/62df283e2cad6567902ace2e/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "f6AnTNOi0O8eN2INosGpUGFUATmwk4+4GmJ5xvE0AT9NqgPpyQGS8mqJN/z55LXRdOZczDZJ8Yy7BpCDNTjbugX4gNKLofLjoPXhQDEE1exGfs9G3d2//X1oZIWV8Ji2hQa1mX9d8c2Uxapv4d7ICXAx49t11wm7uQk1waAfZ5r+OAQaaHYrdHHF3TKGFQckmGHlfl0CgG6/QF9L+ure/eFog3QDgpGb8EXzWcJOE1q5fry54XSTzArm3oG6d6SyIh7usItT2c9F3z1PSTT3/qL2xqtZ+pw2h31UMXe0hSNkeEApahMa/O9M2SizbhetjoYLU+Y20ZfBZG3onmg7dm0DBnHUmO2cnbBEAArSB6M=;Ldrpi5tIw1FGAugMPtmZ7w=="
 ---
 

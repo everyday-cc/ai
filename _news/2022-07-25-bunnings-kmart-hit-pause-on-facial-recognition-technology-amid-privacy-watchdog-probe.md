@@ -43,6 +43,20 @@ related:
         width: 4912
         height: 3264
         isCached: true
+  - title: "Retailers vow to avoid facial recognition"
+    excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
+    publishedDateTime: 2022-07-24T17:30:00Z
+    webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 54
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
     excerpt: "Hardware giant Bunnings has switched off use of facial recognition technology in its stores amid an investigation by the nation’s privacy watchdog into how the retailer is using it. The Office of the Australian Information Commissioner (OAIC) confirmed earlier this month it had opened a probe into how retailers Bunnings and Kmart were handling customers’ personal information."
     publishedDateTime: 2022-07-25T09:26:00Z
@@ -72,22 +86,6 @@ related:
       - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
         width: 401
         height: 300
-        isCached: true
-  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
-    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
-    publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
-        width: 620
-        height: 372
         isCached: true
   - title: "Australia remains an AI laggard, new report warns"
     excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
@@ -170,6 +168,15 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 19
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 3
 
 secured: "zjgQJL2D7owuagAEbtfDTo93a7WBHfKTbYCaHyRMMLDQJ0YCm9rk4rocsNsflte/G2mAXN5zCo6Qg3y3EOf4flw+9dpBj22irIgFqiJ9xLboNexRtqr38idTKuIspYoq8NbniFP2g4IMJgjR1MWl1ArCeDCjVC2viU/dX4foBv6RyZrHzrc8X18Zer7WgnyOGqcwwtnDFqIm/m81yXKNkmOHZc2VdcFsih3/hm+rV/mlbHqlvcgTwWQcUYK45KpJvDBto5vCcPQZcvj7/vfOLHwSIa2+mRnI/5Mo9N2M3fdQOb5gI64O72oqXMPh42Ep38tdFEEGs+22LAR0ARtVSnxNed9P8nxqnIccfZMmQ7s=;nQeX1U1oPmCEaFj3l46LeA=="
 ---

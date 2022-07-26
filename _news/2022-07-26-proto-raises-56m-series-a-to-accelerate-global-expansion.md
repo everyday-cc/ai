@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:09:00Z
 originalUrl: "https://apnews.com/press-release/newswire/e2164e3e3810742c04eb7e491c1e8047"
 webUrl: "https://apnews.com/press-release/newswire/e2164e3e3810742c04eb7e491c1e8047"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press

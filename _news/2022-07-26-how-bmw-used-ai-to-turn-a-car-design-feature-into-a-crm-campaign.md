@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T10:00:00Z
 originalUrl: "https://adage.com/article/marketing-news-strategy/bmws-hofmeister-kink-design-part-crm-campaign/2424101"
 webUrl: "https://adage.com/article/marketing-news-strategy/bmws-hofmeister-kink-design-part-crm-campaign/2424101"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Ad Age

@@ -19,6 +19,24 @@ topics:
   - AI
 
 related:
+  - title: "Botminds Document AI is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store providing applications, and services for use on Azure. Botminds' customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2022-07-25T14:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-botminds-document-ai-now-available-the-microsoft-azure-/2022/07/25/9644238.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 48
+  - title: "Microsoft Becomes the First in Big Tech To Retire This AI Technology. The Science Just Doesn't Hold Up"
+    excerpt: "So, to build truly 'intelligent' AI that adequately serves humanity, the ability to detect and understand human emotion ought to take center-stage, right? This was part of the reasoning behind Microsoft and Apple's vision when they dove into the topic of AI-powered emotion recognition."
+    publishedDateTime: 2022-07-22T13:58:00Z
+    webUrl: "https://www.inc.com/nick-hobson/microsoft-becomes-first-in-big-tech-to-retire-this-ai-technology-science-just-doesnt-hold-up.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 18
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
     publishedDateTime: 2022-07-25T15:57:00Z

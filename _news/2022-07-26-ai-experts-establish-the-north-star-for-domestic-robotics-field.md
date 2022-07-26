@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-st
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/"
 type: article
 quality: 119
-heat: 121
+heat: 122
 published: true
 
 provider:

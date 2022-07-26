@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-25T19:20:00Z
 originalUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
 webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://insidebigdata.com/wp-content/uploads/2020/03/RunAILogo2020-03-31_15-07-21.jpg"
+    width: 339
+    height: 208
+    isCached: true
 
 related:
   - title: "Beeline Loans launches AI-powered investor loan application"
@@ -45,6 +51,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "A/HaHQ88fu9+2ZEEq3LvqhDLpsbP9tp5BITl1gOwy8ur8BeUdni3ZMQoInlGD8g+PVJcjBTSyAudYhDVn2JasqrfN03OmbIbTRUeejR6VIapb6O0CyF0ZIOA/G1TGD0byE5tj1/CzYVaddU8e5ByLEkQRieme2CqttPVl4UNGk8kp7OP3AMAgjaGwdYUJ7yx9F9hh12ujsT0+BUGVtiesR+nhH0bhXEpVb6E8iChHZpCYsyEoRYqCwZuxdSx/uzQJp6AT+o80Rmo0Z3Py91is1vH3ySof6ZluhzoHrLWqPYMi4u20lXsPjQYuKbQz5n6idvbk7YpXUd/hMQI+yDm+VzRGgEX3ZBLbF10ddkPoys=;LKjcngyUvG/FYxYswS03dA=="
+secured: "MQ9TWO+e5umQQmPDOnb5ZbBeNmVAJ98RMmUAt/gEWZYHSOmJEQ88Rb8lOyqIOLBRJoWPNyO1yOAiO/nmx8Fz2UvDg9JGnwK4rYBAYWWhh2Mir8sCRjSL9Dd5UjEds2hXy3LKxtLVYooDed5MbfavQdfIeRA+RLvDPnfYQLkd9SmJ6+hCyrg/CELlJICBCO8t6XyCrkxSRidoyfm5C+Grn/3v1QXNFQeynlvJwsEurmvXIpoidh2Ge6EhLF25ZpYHD239EZSdSOEYhszLbeIshN41XrpjONPESsPWPzChF3xZQ/MPVc69JL55dMZTNG7uh9e5js6JT6vwGDroZiCPcclZ/gUCOFo21xNk11hr9Jo=;7p/AgLue/pIz3DPhgQ0/Rw=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "BigID Announces Intelligent Access Control for AWS Cloud Infrastructure"
+    excerpt: "BigID, the leading data intelligence platform that enables organizations to know their enterprise data and take action for"
+    publishedDateTime: 2022-07-26T15:37:00Z
+    webUrl: "https://www.datanami.com/this-just-in/bigid-announces-intelligent-access-control-for-aws-cloud-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
 secured: "pDOznFP68Lt3A8478b5Amne93TMtU7LV/J0yb7Txk7JrFPbJsEWVet2cYriG3w+Y7ZB2C4OMFWHbcfM2qnErtao4/e6ClIulVjAgnyBUwkdJMRSeHm1Z9fNBYaINKPsPyBxMwud9tnocT0hNB9EZjPc6S6szlbAlYWTYtY9D0sveFv4kiSCc9lGg8mKQ4K1tulNb4/h/9Mo8n6+iCNF7D6skcBbgUUcipIeMVnoOxRVSIz2Vzf5ofzhhAXeumzKcb4WFBh3VAdKYGwrQ59x1661FloRcKo1Wu9rMZQRoBN6eufrMwuGgzS/2MxDqVq7PbDQc+eev2zqqiPYQbm9JXMMFCICU8AP/KpwxF7RHqoY=;akSfYNOkBktcUSOff2ES3Q=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T11:53:00Z
 originalUrl: "https://newsonair.com/2022/07/26/aryabhat-1-making-analog-chipsets-an-ai-thing/"
 webUrl: "https://newsonair.com/2022/07/26/aryabhat-1-making-analog-chipsets-an-ai-thing/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: NEWS ON AIR

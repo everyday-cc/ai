@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cam
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -61,6 +61,24 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "'Orwellian' Facial Recognition Cameras in UK Stores Challenged by Rights Group"
+    excerpt: "Orwellian' Facial Recognition Cameras in UK Stores Challenged by Rights Group LONDON (Reuters) - Shoppers at a supermarket chain in southern England are being tracked by facial recognition cameras, prompting a legal complaint by a privacy rights group."
+    publishedDateTime: 2022-07-26T13:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-07-26/orwellian-facial-recognition-cameras-in-uk-stores-challenged-by-rights-group"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
+  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
+    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
+    publishedDateTime: 2022-07-26T12:53:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 15
 
 secured: "34vxm3njpAmIXempHHRGUDxOnLLJQNB3+IThiyZ7LFTPfEud+oRgQoXEQknadHLbHIi0IIJp20sJW4vHESSqPQ3Kiii52sv+vUjDOkNw5MdXbPYQyQFIZqcYN6GTYGuXplC+N8xvkruN/FOrMgmeLsCwvrsl4ih+vYBKJTjLKHvMxxg7aLtbKBJ1fG7tY1DIaifui0eV2a9SR2DObykrJwwUtEbRU2fg61hUTf7owHqdK6Wb+c1wzgFR1KC+xkHbf+TmJWiDtF19Ap79OCDNXRqwKRwEmU+UH8ydiAwKDwe5hk9heJapC6z+t95Ik0XNuVFGLnSLnrNfRil64tVKmzgLG+E7SSshbsPwo4HNol611TigzuJKcvZU6oHh5knnB8Zp+5Ei2B0HfYXRoV+CQZQcifrfeoMU777As09TK533n7FL74rwvd4x196RMQi8X2zGsFqGZ6u06KVe3Xq9b00PjHhCNIB+TM3aTwe++egHNFJ/BPUFKDxTl2PdEPlISGZPwXRUsTMJLh/Dl6TimQ==;nSWCTy6AWd2ohFbE2rOUaQ=="
 ---

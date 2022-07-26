@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:10:00Z
 originalUrl: "https://www.avinteractive.com/news/display/ai-maradona-hologram-answers-questions-in-flying-museum-26-07-2022/"
 webUrl: "https://www.avinteractive.com/news/display/ai-maradona-hologram-answers-questions-in-flying-museum-26-07-2022/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: avinteractive.com

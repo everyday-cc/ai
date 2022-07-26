@@ -275,6 +275,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Google fires employee who claimed AI system had become sentient"
+    excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
+    publishedDateTime: 2022-07-26T15:40:00Z
+    webUrl: "https://www.1011now.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+    ampWebUrl: "https://www.1011now.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+    cdnAmpWebUrl: "https://www-1011now-com.cdn.ampproject.org/c/s/www.1011now.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+    type: article
+    provider:
+      name: 1011 Now
+      domain: 1011now.com
+    quality: 57
+    images:
+      - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Zwjgensj-wfyNd_dY4CSqoeo_KE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MP3U6TEZEND5ZGSGPZLKA4JUOE.jpeg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person"
     excerpt: "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,"
     publishedDateTime: 2022-07-25T17:37:00Z

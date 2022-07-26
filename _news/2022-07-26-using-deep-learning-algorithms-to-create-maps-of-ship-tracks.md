@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:42:00Z
 originalUrl: "https://phys.org/news/2022-07-deep-learning-algorithms-ship-tracks.html"
 webUrl: "https://phys.org/news/2022-07-deep-learning-algorithms-ship-tracks.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

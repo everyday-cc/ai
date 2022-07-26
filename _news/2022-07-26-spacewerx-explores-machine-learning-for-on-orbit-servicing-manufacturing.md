@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T12:00:00Z
 originalUrl: "https://www.fedscoop.com/spacewerx-explores-machine-learning-for-on-orbit-servicing-manufacturing/"
 webUrl: "https://www.fedscoop.com/spacewerx-explores-machine-learning-for-on-orbit-servicing-manufacturing/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: FedScoop

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T13:00:00Z
 originalUrl: "https://www.zdnet.com/article/home-ownership-ai-may-be-your-best-hope/"
 webUrl: "https://www.zdnet.com/article/home-ownership-ai-may-be-your-best-hope/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet
