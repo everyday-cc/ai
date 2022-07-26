@@ -294,14 +294,14 @@ related:
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
     publishedDateTime: 2022-07-25T16:10:00Z
-    webUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+    webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
+      name: KVIA
+      domain: kvia.com
     quality: 37
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+      - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
         width: 2560
         height: 1440
         isCached: true
@@ -365,6 +365,15 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 17
+  - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
+    excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
+    publishedDateTime: 2022-07-25T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
   - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
     excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
     publishedDateTime: 2022-07-25T11:49:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indica
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,6 +42,20 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg"
         width: 1200
         height: 1000
+        isCached: true
+  - title: "AI spots early mental illness"
+    excerpt: "Autism, schizophrenia and Alzheimer's all spotted early A new artificial intelligence (AI) is capable of spotting mental health conditions by sifting through brain imaging data to find patterns linked to autism,"
+    publishedDateTime: 2022-07-26T09:29:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55208-ai-spots-early-mental-illness"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f7b00ef0f13aa14589ffb4721908513a_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "QA6xkLmm9gs+yq2EZE/cAblspg/8K6ps6WSpdHSoKZ3KYv6NbyTJMLmgmGsubBy+RGk+jQfv0T63icFDKg4I0DR7JCMfR4DMQI0YP17doLVfpukqZCuy0gESYt3UTF3QbTQ4DZFa+H1eD9kRT4owhS2zGqrmRzHsRrXbsG4yhM8lELev+qLRBx8hU3MtKhZyvbFvf5vLNefgQxve+bM31MxwsCERIy3GNpXNvoRbU5AomVQoin3pMqbsOkGlc8igMsZJpKZcF5lexUt6K3HY9KI0NlBdhPiCNnyUo9WUjaK6qgjEDTbXSxnst4VPOQjeIMdgTIFk6/3Ybez30vG2U1CpfQXwVpc86UHB5bWepj4=;f/4AuBKW9/aOwLE0tHN4xA=="

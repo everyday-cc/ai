@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
+  - title: "Canadian telco Rogers to invest C$10 billion in AI & testing after massive outage"
+    excerpt: "Rogers Communications plans to invest C$10 billion ($7.74bn) over the next three years, following a devastating outage that took out a quarter of Internet services in Canada. The telecoms operator said that it would invest in artificial intelligence,"
+    publishedDateTime: 2022-07-26T09:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/canadian-telco-rogers-to-invest-c10-billion-in-ai-testing-after-massive-outage/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Rogers-Plus-store.2e16d0ba.fill-1200x630.jpg"
+        width: 470
+        height: 247
+        isCached: true
   - title: "Rogers Communications to invest 7.7 billion USD in AI"
     excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
     publishedDateTime: 2022-07-26T06:46:00Z

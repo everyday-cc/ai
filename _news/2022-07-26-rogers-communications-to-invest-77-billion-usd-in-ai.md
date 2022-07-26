@@ -77,6 +77,20 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
+  - title: "Canadian telco Rogers to invest C$10 billion in AI & testing after massive outage"
+    excerpt: "Rogers Communications plans to invest C$10 billion ($7.74bn) over the next three years, following a devastating outage that took out a quarter of Internet services in Canada. The telecoms operator said that it would invest in artificial intelligence,"
+    publishedDateTime: 2022-07-26T09:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/canadian-telco-rogers-to-invest-c10-billion-in-ai-testing-after-massive-outage/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Rogers-Plus-store.2e16d0ba.fill-1200x630.jpg"
+        width: 470
+        height: 247
+        isCached: true
 
 secured: "CTHMJr7UFxxquCVWdM2hjCuJZqVr9R9vjwOcjROGgOgOGIt711rZURh3Znz+3QCOqe7t/fkG8cO2sw8Rf3+PcioC1B4oqEFk7SngUPZ9DY2m6/SxvUJOdRGe0zmNGzHyrSo1WnoNLbk06jAEfeB87C5vHyxQvEg2fQ5rD9/1YUZD+M/ONuxVUCWVGNLJDo4lj9UbOgo+DzT/amAoIUOMj7+Kfg/7NbowdoGP37j/G4kAV/Zj+mWrRAgxJdXJ7FppKHoZYL+ArFYHTDf4hNMd4fYvygxOYtexbSnAw52hy2ZH/9HxdaHkIOVe2Tpj+ppkcB9T7FQx26dha2du7I59b2n/MQmWT9Xdgv6FXHCnrJ4GTK2ZFYybe2XYMBp+EDh4g8j93M27fbA6hgP4b1aYyrUM0ggz1XcZCq/+lu7DPYOibRqaXE2ZmbnUSbrrXGZ5hXEyVz42IfD0/8BeN3GqOZHCqhr44Q30wJfxwcW2KG5+Qy8TUUPhdANemEhDhZy15ycC7JqAaHykpKSuw4U2YA==;agbBGTqE1mAxnBL2+yBWxA=="
 ---

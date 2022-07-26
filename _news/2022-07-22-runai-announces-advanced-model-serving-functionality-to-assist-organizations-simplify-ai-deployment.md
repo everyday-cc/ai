@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Oracle Announces virtual AI summit 2022 – Accelerating AI journey for organisations"
+    excerpt: "Join us at the Oracle AI Summit 2022, a virtual short-format conference that aims to bring together business leaders & innovators to discuss a detailed framework that can help organisations to take the next step in their AI journey."
+    publishedDateTime: 2022-07-26T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/oracle-announces-virtual-ai-summit-2022-accelerating-ai-journey-for-organisations/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/oracle-ai-summit-rev-2-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "+q7QBj0Aj0tVL5wF8EFEWXupOVbB2HcSObOHbtrjE3wNvfLUWIRNgs+JmwDrF1GjeNcn+gxjMOwuZo9H8mU2FR8rHze6uZyBdNGzGfDRh63bWJV1dEtkgC+MczUVZX3YqtVaMREhngKXkmy74JSktl8NI+ZWLzqAssZQ4l4W/iKiNlLwGCy7PCVxHKj+ZzZZFHgFvi5PdMkwREwyggIpsaMxo/wdc6YbDoJWaKvCHH3B6/KSy4l3kwdsHu9ssgGZEDc1U9AMFqHOcYhc5v7RN9BrDXfZLG+fPFQpfDUmFBRgHXSXzioh9yjtLsF/RH27x4dRKilFmS5mClv+oxLUcK18eoHzJD2+kwcxgQL8T0/Xn3LwzPVCbwSs/h9xZ9ZSzK9Zb6I9/SxT5OSeSFlXstAWTJLyojmmzHBocXIA+60RBDD7QwKhQolImGZw4x4C7CuvQiACJWsRTP8trVpnHz76kXkibpeXEESgE6+mLmAluzE9J3/Vr6vroLkpMwMcWGgti6vJ7ntSLwlfXO6ing==;JVc73sSaQj7nMewEdsMrsw=="
 ---
 

@@ -3,22 +3,22 @@ category: news
 title: "Google fires engineer who contended its AI technology was sentient"
 excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
 publishedDateTime: 2022-07-25T16:10:00Z
-originalUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
-webUrl: "https://abc17news.com/money/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+originalUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC 17 News
-  domain: abc17news.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://abc17news.b-cdn.net/abc17news.com/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+  - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
     width: 2560
     height: 1440
     isCached: true
@@ -357,6 +357,15 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 17
+  - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
+    excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
+    publishedDateTime: 2022-07-25T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
   - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
     excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
     publishedDateTime: 2022-07-25T18:19:00Z
@@ -376,6 +385,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "L38KWKCvm5oUJWbJfHWcIJvsM2zN/rEsguo2CNoUhJ4tXbdIyt+ylEyQm7Ykcj2hgIdJfa0ONp+X7nPtQeNlZ1Wsyx49bvwWyouCQvIEI28Jdv8cozHrkInzMA+WEPXghviA80xtQ9QMED/rEGyoe5HMGo+OemCbAWbFFjnukNoCBv0IZXqo5YxjBQSLxOqAO2J9R4XBkSLWXtLwMmJVt3JOJhuX/36acNi1fxh5GbqhbnUMVcF1a9hSWNPSQQnfgu8oQkadWtgGT75AiNlPVLQBejGUS76jHta80k5fUSqHtIL7efdQzpEI6ZWzoPuKq/KzIDQvSkE0LdXKRagSggjeKhfzBq9xvPwy9KBNXVA=;vSQIEfxSZbEyAimAEfLEyg=="
+secured: "YldKaHxlnu+BRWcnpQadYi/7AB1oT/qUI0Af732FVgW2eWCsnLbSooql+BFpKZVnA1bnh1wAHA6ysKJhbXFXpvqVSDvpdGQxFCPENRN94X2K71CBTgajHkY7rHxFp+D2efCuHBKwzsBktOKszQR8V4TC5XB4YAshwhdy7AACIw9BgPBzdv4zE3Nxh6lj1xN3U8Lyl6ACKpb+op5Rl8TbFLDPAERbd/YWX8o9ma5D8iZ7rklbJejdG6sNd9LTQJsz8AHFYZaOJy6EluHbMMvO6WzOfcO0mCybZWgedyy5PgYlVjHRgC4c/f1HqMMhYL+iAwMVuQapirhIjVrhI8wIAhnAUH/Ca2NSz7Gg2IfRBDI=;cglM2gFI+koaYblhk2rsrw=="
 ---
 

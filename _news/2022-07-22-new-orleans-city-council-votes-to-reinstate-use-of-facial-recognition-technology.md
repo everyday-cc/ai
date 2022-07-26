@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance"
+    excerpt: "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech."
+    publishedDateTime: 2022-07-26T09:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition"
+    ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 61
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
   - title: "NOLA Coalition Praises Council’s Vote Allowing Facial Recognition Tech"
     excerpt: "The NOLA Coalition — a collection of local nonprofits, civic organizations and businesses that have joined forces to address crime and quality-of-life issues — has expressed support for the City Council’s July 21 vote that approved pay raises for New Orleans police officers and overturned a previous council ban on using existing facial recognition technology to"
     publishedDateTime: 2022-07-22T17:06:00Z

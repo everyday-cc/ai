@@ -34,22 +34,6 @@ related:
         width: 660
         height: 461
         isCached: true
-  - title: "AI Flight Diverts To Mumbai After Pilot Reports Cabin Pressure Loss; DGCA Grounds Crew, Plane"
-    excerpt: "Air India's Dubai-Kochi flight was diverted to Mumbai on Thursday after the pilot-in-command reported a loss in cabin pressure, officials of aviation regulator DGCA said."
-    publishedDateTime: 2022-07-21T15:45:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/ai-flight-diverts-to-mumbai-after-pilot-reports-cabin-pressure-loss-dgca-grounds-crew-plane-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/ai-flight-diverts-to-mumbai-after-pilot-reports-cabin-pressure-loss-dgca-grounds-crew-plane-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/ai-flight-diverts-to-mumbai-after-pilot-reports-cabin-pressure-loss-dgca-grounds-crew-plane-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 46
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/a1kufve5lh3hygkt_1658418309.jpeg"
-        width: 768
-        height: 439
-        isCached: true
 
 secured: "hR70790t8Uonq5ML16DOu+FO8/VWIdYiwn8rLtThzZgyFModebXQHa4nGxdCwMRbbQCy7ySq7aydtYqohjYs2nykWvQ9lb80JkxsTbxY9M3r0/pmx9P2QXQKBt5iAyteH+yaaP6O2SBTA7AvY1ndVXAwipakeUo7OSOO0U9OGJ1tjORmlYIwz6mJo8MsBwTWfTAqAZfvYTrWdqBMh/lR5v45NzyWWH+9Tzucwk9Zv7q0XKUY6VOvuSPBgP4AnG5whW+RnZZYZeYwUdpCAoI7Z2l/PWtePntUFtGZfUdfusJQRCp9iJx5Mlc0WJVIEURTlpXpaCWe3/r6rugBY9xzjCVH3sBjWze3slX9dDjCiFA=;e/JcuJr6JaDmMJHl0paENg=="
 ---

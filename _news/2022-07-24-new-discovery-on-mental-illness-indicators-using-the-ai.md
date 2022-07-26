@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 720
         isCached: true
+  - title: "AI spots early mental illness"
+    excerpt: "Autism, schizophrenia and Alzheimer's all spotted early A new artificial intelligence (AI) is capable of spotting mental health conditions by sifting through brain imaging data to find patterns linked to autism,"
+    publishedDateTime: 2022-07-26T09:29:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55208-ai-spots-early-mental-illness"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f7b00ef0f13aa14589ffb4721908513a_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "WqClnj0+kDgWCnFyJmP6+DB1eUHvYviSOgMHy9RMjaNMnfmReqD16sUPNy5n6+SJwH7kfk7vhd0IMCU3YZ1lGcWlANP4GH0ghV7ioEl3Pgsutqwt4uX4gik2X4jkb6MdT7wxNMeRG7ph3gQV7Jt97mIEnbTyGf5Nvv6xJWFHoC//nkFEAiWlR1YiSVRjgMcmKQYeNxYINYr01y9XDuS41c3vnYya3Qk+ih1AMRTuNc2tJDBH2+j2XileMkEa0mGXW6ttGQ+jCL5OnRLKUbgo7jEGAYXZZh7oz7W4HTZqVXdeJFaYxDBywmV0/mcwLjEJnTGAFsuBiH7zjrg3PPqVixxPcDFrl/80BOSN+Qbjp5I=;chnRPG3s+tsHYAvMhLCTmA=="
 ---

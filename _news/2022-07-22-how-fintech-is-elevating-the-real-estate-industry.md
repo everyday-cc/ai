@@ -71,6 +71,20 @@ related:
         width: 640
         height: 407
         isCached: true
+  - title: "Global Fintech Funding is On The Decline with Largest Quarterly Fall in a Decade"
+    excerpt: "After a blockbuster year 2021, the venture capital (VC) market for startup investment is now pulling back amid uncertain macroeconomic conditions and market turmoil."
+    publishedDateTime: 2022-07-26T09:00:00Z
+    webUrl: "https://fintechnews.sg/62801/funding/global-fintech-funding-is-on-the-decline-with-largest-quarterly-fall-in-a-decade/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 19
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Global-Fintech-Funding-is-On-The-Decline-with-Largest-Quarterly-Fall-in-a-Decade.jpg?x82653"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "+SE+OX/1i7qVywCS9GRB65b2puYWHwjdegBXYENqVqAu9uGF+otim2naC0ZFLBCvkwt0YQeY3vMbq3sx0mdFDKjVPagKVllpUZoOzvIvNownNkAL4RAVaY/aONExAv4TUSc3/c8SFZtp2NkiibCJ9+OVW0KHQTYiB7gnIp6zdC/zVvMV+RS3t14UsTs59GUG4jZZWWqw8uZ6r0WscPOBThvpU7ijlyU0NP6oW17u7AczppOq8OHrI1ZVzs1f0i5YYFCmSgdXDrVbu0A8TaL2q5UfNcdj6OWqtBj1gGcIQl44ZoQnKjoFnRaszEEQDhTPlWZ3KVtpvqwcYWCnavCS6r1gmR5t5fk8JTgtUIv6DpwDHr23MubHFiZhrR+DAwea7ld268dzX2El2AD9irnGRonrzXEG7i2YP7qY3QiiinySUX53/zKqtcCWRda2KEWBvANlEnjaqW1FYYQNIXS3Wrfj+bDGXiwXpUF2jdangHywNpMg1sjNA9U95nCz8l+ZS1ZDtxhIiWhVUpor35IVPw==;ok2PqXbtSt9/M878PBHZ5g=="
 ---

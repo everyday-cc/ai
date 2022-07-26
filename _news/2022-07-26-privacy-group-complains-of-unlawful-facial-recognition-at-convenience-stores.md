@@ -25,21 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "Southern Co-op receives complaints over 'Orwellian' facial recognition system"
-    excerpt: "The group said the independent grocery chain had installed the surveillance technology in 35 stores across southern England"
-    publishedDateTime: 2022-07-26T07:54:00Z
-    webUrl: "https://www.herefordtimes.com/news/20568608.southern-co-op-receives-complaints-orwellian-facial-recognition-system/"
+  - title: "Facial recognition cameras in UK retail chain challenged by privacy group"
+    excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
+    publishedDateTime: 2022-07-26T07:56:00Z
+    webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
     type: article
     provider:
-      name: Hereford Times
-      domain: herefordtimes.com
-    quality: 51
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
     images:
-      - url: "https://www.herefordtimes.com/resources/images/14303145/?type=og-image"
-        width: 1060
-        height: 591
+      - url: "https://i.guim.co.uk/img/media/63c7fa627d5de49dd67ec3b571fa5320578b51d0/0_1092_4478_2687/master/4478.jpg?width=620&quality=85&auto=format&fit=max&s=71dc317674ea7ffee3f6564b789793fb"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Privacy group slams 'unlawful' Co-op facial recognition cameras"
+    excerpt: "A PRIVACY rights group has submitted a complaint against the use of facial recognition cameras at Southern Co-operative stores, claiming it"
+    publishedDateTime: 2022-07-26T08:28:00Z
+    webUrl: "https://www.theargus.co.uk/news/20571801.privacy-group-slams-unlawful-co-op-facial-recognition-cameras/"
+    ampWebUrl: "https://www.theargus.co.uk/news/20571801.amp/"
+    cdnAmpWebUrl: "https://www-theargus-co-uk.cdn.ampproject.org/c/s/www.theargus.co.uk/news/20571801.amp/"
+    type: article
+    provider:
+      name: The Argus
+      domain: theargus.co.uk
+    quality: 59
+    images:
+      - url: "https://www.theargus.co.uk/resources/images/14303211/?type=responsive-gallery"
+        width: 650
+        height: 433
         isCached: true
 
-secured: "RV0q+Ew6Axi5tndLhP3sIpXp11yUTyArWBRj7d6LpGFB2SEHXbAW1lgo4wrZbjTidbh6JmfITGZ1igIQ4XUrXz9wePUlay9Xna/3HeAipxeu7RSYZZq5W8Tj/hIDnzTvuoaUHBAH68WmvAsRFsxiLRKflpkCCYVOy+9g2md5vKAqrw1K5Wvy/PeZXaKI2AImP4l5LduamuLOOI9C6WU1TD9bDg1pyUufyG1s6lF6shacYH1hTyZDWI9BFMqhrQCaxhRG7NNHmZycUCDPBwTUyBSpJCSbKxkevS4SAdNxEtdJAuOCbwFwc+OAdRA7mEkYOcr7uW2vBiIfaqOu6hhgatVZwiqN264Q+rtKBhUpUsk=;bAkCFeEnnclvaXccAGYmww=="
+secured: "t3Yvopx5kNtnomNrRwrkrOSVVNfJWx7m8PhBKwjBgvapI95G1GhdBJ8vMdHZUNKGFMxZYnZ2mO4myMzdgs0jnBUHpZFiunJ/TXxt5HfQkSs+sNY0filWewKMgz71WniHC3ZFqiCljmbh13i6kd/uIqQK9uGM7uIjgzbxnueNFUXa9PM8eF9B/hbDr0/vgV6g9i6O1wrGV9mSLTUYR9h1OtZePl3mfu4cSUXLglFKZXOsAUdXMLsvXSJBiqr/9VzPgFSa9ZdBplP5bEwWZxnYOSBIoJGoqdDYMS/Sov/dE9ftaRM4HkcgL1pkfxg9PfxBdO0yOQrZ7VuVZl+j0Rt4DrtqdxO6PThT/M60wvZooGQmywFA/dXxDCGRnZ2pZNo4RWhZnQ92CH6k0opCQY/FfLUto8n2qign+do4OiSGxTryCJAsivdAWsDCpIePMOzNVO3sjM4szX8ojFEPmCO8hf7WCymXwl4gOXwZYS6mm4OUJyYD9CTcRMSPtDL8uK9Fm5GPZV6U2zQc8HYT9x2lyQ==;+hleTBq7prLg6xdaCl+fGw=="
 ---
 

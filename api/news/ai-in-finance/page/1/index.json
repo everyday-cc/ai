@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -132,49 +132,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-22-morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup.md",
-      "title": "Morgan Stanley-Backed Fintech Teams With Schwab on Advisor AI Solutions: Tech Roundup",
-      "excerpt": "Morgan Stanley-backed fintech firm CogniCor established a formal relationship with Charles Schwab to provide artificial intelligence-enabled solutions to affiliated RIAs through Schwab’s Managed Account Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2022/07/21/morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup/",
-      "originalUrl": "https://www.thinkadvisor.com/2022/07/21/morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/08/08_Stocks_Charts_Digital_Technology_Shutter_640x640.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thinkadvisor.com/2022/07/21/morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup/?amp=1",
-      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2022/07/21/morgan-stanley-backed-fintech-teams-with-schwab-on-advisor-ai-solutions-tech-roundup/?amp=1",
-      "publishedDateTime": "2022-07-21T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
       "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
       "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
@@ -259,6 +216,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
+      "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {

@@ -73,6 +73,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."
+    publishedDateTime: 2022-07-26T08:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-africa-d369649341184ee987ee99d032095502"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "LeZBUHwNHFBmO9/p76kF1RCURTiLo8QSEFF5GfuBUMzzuuo3t/jZJPHF7ZbAJB1LcJsn9+p19sg/fsL8r8sh1HwWP6ChK2YmY6DC6USVu47kIhRK4Y7YN+G75eSDarCmYampd/BFoWCjLr/73Y9Vc/GGlOMgNNXtSUc7Ngrjj9k1UQnAUKTAUCErSacCw2jWcPgirwcKrByWXIeiVcWKUjD+PwW6R2VBqhumF5eGOE5WQl3W3ASEqk8Hb1j410PoDCGTzVA4r9V1YT4pbzI/94zWjp5mGD+TBKZiyWLDkREOnxezPNEZP+pziXTAd4Jmyz2K4AwAQj2uk2GWS4dDjQ2k150RLHTc9MTzwUpOYRc=;IEVOe45LDIVzsut/aI1abg=="
 ---

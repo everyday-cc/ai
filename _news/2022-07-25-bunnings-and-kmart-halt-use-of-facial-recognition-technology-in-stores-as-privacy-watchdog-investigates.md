@@ -3,8 +3,8 @@ category: news
 title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
 excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
 publishedDateTime: 2022-07-25T04:38:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 type: article
@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Hashtag Trending July 26 – Australian companies stop use of facial recognition tech; U.S. social media laws; Intel and MediaTek agreement"
+    excerpt: "Australian retailers stop the use of facial recognition technology, more American states are working on laws to control social media, and Intel announces that it will produce chips for Taiwan’s MediaTek."
+    publishedDateTime: 2022-07-26T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 26
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
   - title: "The Toll Facial Recognition Systems Might Take on Our Privacy and Humanity"
     excerpt: "Learn about the facial recognition privacy concerns that have been raised by experts and consumers in recent years."
     publishedDateTime: 2022-07-22T18:54:00Z
@@ -159,6 +175,6 @@ related:
       domain: itbusinessedge.com
     quality: 19
 
-secured: "t//kb0HR8EUVX+PD3TLqJ01hDUQhFiMwIi/YVIa3XJOzQiHamtpOUVvd4TnH857hAsMazGwFVSmRghgeyrwjLpIBIMtY0CsyTSt5uQGyvADK410vVS2p15WKNP1LeqQDArdFKNuVhv2EQX9tPB4SE9De6/YEs5jJbgsI9s0D1LvQTAXKjoNZklGlkItbVbla8La96ASKNdEvyjYWkvy5fBS/zVSHA9DReUDGZ6s4K+Zrs+qd4oeXOu9ycwnlttVJ7CmF79v/5dmOnywoEYP2ppH1Kd0ijBLpiKlUVkb4N+ZYjzzs999NQQjrHqA92Z7HVpMUNOd1m3fSt48S9vOuAnDHmLczo0i//7ENbezBR48=;O3GYbLQpmuwirz9C4CF79Q=="
+secured: "ztYX5artPDMjr3aDou1AGRvEaW24vx9RP6ex3fPRQBl7XOZSjZ/VhBrXvoAARKlyav32Qbtk/RYjMsXmtaZG+l12R7NGKWDbqfW/GSSRtrYAYJhg/gr+s79Jhl1XvxWocN27yGeNTDNQDvbdlIAw9bk86wEUybX9O2ucQHitwo9tsvGKdzoDhEaU0uep16eSrK3bDvKGWHLCo2hX01kMy6KVK94ibHVsbAuDfBPAcbZM3noMLyMxkJv+TVIRtKfvW7lKBReZ3w1ivsg/fVO94ASaUjHSWKXmfSbLjK3gQxCDR4skAkjGF2lc1oh5GQXLhJiLYo00UDvAEtyyxXMFajkSzhzJ98O5Q5TN2jHzS9I=;7qVSRfV8y3sgyUERqac0kQ=="
 ---
 

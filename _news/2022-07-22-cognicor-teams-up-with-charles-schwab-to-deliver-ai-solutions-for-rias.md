@@ -34,20 +34,6 @@ related:
         width: 640
         height: 640
         isCached: true
-  - title: "Advantech and Overview Combine Technology Expertise for Real-Time, AI-Based Inspection System Solution"
-    excerpt: "Detect and identify defective products early in the manufacturing process with automated inspection from Advantech and Overview."
-    publishedDateTime: 2022-07-21T16:11:00Z
-    webUrl: "https://www.automation.com/en-us/products/july-2022/advantech-overview-real-time-ai-inspection-system"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 23
-    images:
-      - url: "https://www.automation.com/getmedia/12df3948-f582-4a39-9259-e2f364f248da/Advantech-July-21-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "7idNawF/PYQtzLqaccynX2jnflUD0If0VFhuw/7JfnGPqaqkJQfDZZIRXccUkOXjlz1UwFIZ2CcSf0ttZV5gnJTVGEQVkwCczuJHDH8Tm0xs1RhPuojqkM45+qw37PEOmzovCP9hr0eMbHufH3guSSxVAOLpwsew7XBhJvANSAdQPMZIqIlXt5jnfSsW5Tk+ElfM4FgZK4zfhnXl2Ezk3TLmmSExM3eJE6d5lkqRIzCCUlFU0CxkxXhVfBwhg4ldlb0OycCK0nAHO2nx/RQmnWOVYOeiRWwgWTqDD/Ls6a5TX4Rcqw47keKYeUwq04SBC9KaOgEI13WTLe3CHGDj1OJUsxLGEu72ztfq2quTEZGq/B66H0YETePXHdshE5xI7tzU75XX1E5rMh/gZyReda5NMCykE3vMwKRoX8TIwRIhnSohLib7rO9MEYpvfnDSyBfZd90YL8AWBUisLUh5S2T1yXH1SLKy0zm7HZK+cJDP8bF+nKHvH3UK7EkNrzZoG/yip1p3+jCXRHlSqhnPjw==;2pda6DyahVcD56KxC2yaIA=="
 ---

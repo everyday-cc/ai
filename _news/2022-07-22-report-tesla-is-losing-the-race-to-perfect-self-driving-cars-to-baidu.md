@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Baidu unveils new autonomous vehicle Apollo RT6"
-    excerpt: "Apollo RT6, an all-electric, production-ready model with a detachable steering wheel on Thursday. Designed for complex urban environments, Apollo RT6 will come into operation in China in 2023 on Apollo Go,"
-    publishedDateTime: 2022-07-21T15:32:00Z
-    webUrl: "https://www.globaltimes.cn/page/202207/1271140.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-07-21/ad60ef9a-9f25-4bf1-b948-25db9d09338d.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "New Baidu self-driving taxi is 50% cheaper"
     excerpt: "SHANGHAI: Baidu Inc yesterday unveiled a new version of its robotaxi that it says costs nearly half as much to make as the previous model, opening the opportunity for cheaper travel."
     publishedDateTime: 2022-07-21T21:00:00Z
