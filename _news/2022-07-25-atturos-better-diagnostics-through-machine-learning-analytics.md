@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAP Acquires Startup Focused on Search-driven Analytics 'Askdata'"
+    excerpt: "SAP SE announced that it has acquired Askdata, a startup focused on search-driven analytics. With the acquisition of Askdata, SAP strengthens its ability to help organizations take better-informed decisions by leveraging AI-driven natural language searches."
+    publishedDateTime: 2022-07-26T01:13:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/26462-sap-acquires-startup-focused-on-search-driven-analytics-askdata"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/bae5cec759c6a03e7fb78a7e60411c40.jpg?t=20220726_011055"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Risk analytics platform Zesty.ai raises $33M in Series B round"
     excerpt: "AI-powered property risk analytics platform provider Zesty.ai has raised $33 million in a Series B round of funding led by Centana Growth Partners, it said this week. The company said the funds will be used to scope expansion of its property and climate risk products,"
     publishedDateTime: 2022-07-21T12:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintec
 webUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/07/How-Fintech-Is-Elevating-the-Real-Estate-Industry.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Meet 26 rising-star fintech VCs excited about what's next in the sector — even during a market and investing pullback"
-    excerpt: "Fintech startups have been hit hard by the market downturn, but several VCs remain bullish on the sector, believing it's integral to people's lives."
-    publishedDateTime: 2022-07-21T09:00:00Z
-    webUrl: "https://www.businessinsider.com/rising-fintech-vc-still-excited-about-startups-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-    images:
-      - url: "https://i.insider.com/62d6c8d4bc4c770018b76346?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Important Technologies And Developments Shaping The Future Of Fintech"
     excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."

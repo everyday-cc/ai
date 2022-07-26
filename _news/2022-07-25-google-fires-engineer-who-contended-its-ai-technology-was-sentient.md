@@ -1,32 +1,27 @@
 ---
 category: news
 title: "Google fires engineer who contended its AI technology was sentient"
-excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-publishedDateTime: 2022-07-25T02:53:00Z
-originalUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
-webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
+excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
+publishedDateTime: 2022-07-25T16:10:00Z
+originalUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -382,6 +377,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "WwfVXksTxd6IvOo7cVAAAnZlr50O2rpLwCiOfGNJA2mH/bFwDP7+f1L2k3jMOXnA5cmuHkVYGQc+a9Pb7xvD+dmwXnRjW8dFC55yG5+2QKVLW6j6Zr8Br4oh1JfkqA+w1aD4KsAoL4pYYFQc94+I9rdM/fbZ1LRj6Vlhgae+cLWj+iryKdyf8FzgyzmcwVVRngcnU0e4ofAuuiARiLwD+r/E9Ybjci9H/dqMLshAkBSTJia3cOmlBQc+zFPCmOjl6giGjQ3cGxRdrbGUqjd44Bb+fRgzYqUffvteM9GfwdSfIV1R21RJWBpPga9O3pxA6o9E2Qod02o13Y1MWLPrjy7escDyHcY51GZZEpx183Y=;NXM78IIU8tm8o5IAXDRBDw=="
+secured: "F7WI7eCxsrfRVXAhRYEObPoRoauezFwTCx67WQGc2M+hP1wNRsq5kKLjPHUeB/dqzwDimiiCCnJqk0gK1dNjKL9PvtauRS7omgkMaxoVboPd34J7qN1KdYjZ8tvEqHvL2uxemTIInW4yWiI5ITDR1n9qIfhx7THL+ax5tGSL+FkTsjKOlWWdDKGGsnmk5bSJ8h1qhIbcGHAjpNFlL+8SSsJ7xiHsHESZVZm2emqp8IM2KJQldwl9nuOf60RvQhwsNZzi6Gxy62hjWLz9L3wgh2yOP0hx1E2+z8rJIZjPYe9pTP8yaHH74aMHXErv85naKJgjQQJJoU7975ZUoQgwZzJOFbpi7zJsSt36nM8rm+Q=;f6D5/XzAggybvXhdOnvqoQ=="
 ---
 

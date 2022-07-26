@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-25T23:51:00Z
 originalUrl: "https://www.arnnet.com.au/article/700110/don-t-get-too-emotional-about-emotion-reading-ai/"
 webUrl: "https://www.arnnet.com.au/article/700110/don-t-get-too-emotional-about-emotion-reading-ai/"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_127872518.jpg"
@@ -41,6 +43,6 @@ related:
         height: 801
         isCached: true
 
-secured: "oVbK+jci/8LLRaB1HECqAKFl5IUEqDKr5WbLOLFGf5PNIk+Y3Vg7C1sgn/EkRpOVseTOE0YhteFVZ0E0Jucxy/jN9jI/Ik+eJwRQ8VlwlxRTq8ETAIwPJmIhjlV6mN+UpV38F2GW/rg2giJc2611ZmAonUdFRnqAdC9KafiMcOGQoyefuD3FQoEgQWlyhO40JhAS353DinTgZDJD2yeA5l40SbohuWgCyH5fiwup/Jo9Dk6tNLgTHXaZf/WneBW8+ds0Q8TRt/nIWND/vcj4Io9VwYEJvc66BIYEEWnUpGgzBcNebwaY2vhva7LD4qsv6dJKCiGv+aEPadk29F7ifKo1mrlhA3seUCxvpX2/VUE=;Tuawft8GJD2vXIlipzbpNA=="
+secured: "b6WvbkN6QX8IjGfNIg7HZwO/HN0pRZlEfERmorobZGDI9Rvig/bhTwfOQ+l96Xa+UDbCg1bJzIc+moIIiHIIJ/qQJzZ1fxymAvHEHox0MllE9z/ogvxvC2lbRqv27I0FHoTjwD6pzRg5akQ+ZZhPeS9+jfMdQQir/l3neYBfy6ERtCvygcMHE3bN8Kgn1mukGEexuxuRpBbY70GcKWB4TiCmbHEFn+MZAliHcpMXDRIKtT3Vw32KY7lzuTdKBtE1FL4C4D16u4GMbfhQi9Qtjg5aZiRFIqB0C5vJV6/x1tcH96soZ6bcxGs9PKd+rIHP36dRaS1iZ7WluDy6MgbmMcyjozFn4MxefL6QmhGUZaqUprVZy9Ve1MeDwpb/L/26lY4jdFg6YNhVMRE4fmjDU4Vv5XrK7Q1ybskaiKvnt4+vfsPQ/lgkWkR9WdvtnvPWMlsVnvIMId0MijCkbij7yP3+Qs+Mls4p6sqBK9845xXbNNNgC+tAF8sv7SiwAlK2oxK8l4knTWOxcv25Nzo8HQ==;jYkPWVQfwKV5zylVB5WnZw=="
 ---
 

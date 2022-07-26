@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
 type: article
 quality: 82
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://images.perthnow.com.au/publication/C-7639490/ecaf881619aabefe9bd6b8d2da6024e398e47746.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Bunnings, Kmart Suspend Use Of Facial Recognition System Amidst OAIC Investigation"
+    excerpt: "Following a report from consumer advocacy group Choice that revealed both Kmart and Bunnings were taking biometric information regarding their customers and an investigation from the OAIC, both companies have now announced they will be temporarily shutting down the facial recognition systems."
+    publishedDateTime: 2022-07-25T23:53:00Z
+    webUrl: "https://www.bandt.com.au/bunnings-kmart-suspend-use-of-facial-recognition-system-amidst-oaic-investigation/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 48
+    images:
+      - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
+        width: 401
+        height: 300
         isCached: true
   - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
     excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"

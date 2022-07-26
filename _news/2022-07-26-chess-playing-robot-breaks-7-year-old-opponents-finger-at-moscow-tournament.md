@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chess robot breaks finger of 7yo child opponent"
+    excerpt: "A chess-playing robot has broken the finger of a 7-year-old player in Russia. Video footage of the incident, which happened last week at the Moscow Open, shows a robotic arm in a table surrounded by three chess boards which it can play on simultaneously."
+    publishedDateTime: 2022-07-26T01:44:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/chess-robot-broke-finger-of-child-opponent.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/chess%20robot%20child.jpg"
+        width: 754
+        height: 424
+        isCached: true
 
 secured: "89P07Dp/6mT29w6peyDg3s2xRoGbDBKNFeL0BTmdaEH/VaUB1QWCQVhtIG9QMppU0YheTQgeU23/gP30dqJewDSEBstTZ4ONf13PvK3k9pym6H49eUye/uc3bKBFik2eJdWVpToxFJBXhdNqIhRU21iF+w89YcePUpL93BsCJaQvEmOwDFJcJ2lPI4GEYLOgHUbzfzfj4HlVrjWMYibC8PrlN/017ZBifCB7h5vkc6xoDIgToDrbx6hCsGnyKmz38KIsi5smrPLi9/WFn7qTlJzD3ObaJFqi5MjqMYxWk9OZlQZZOmEz1NIgFD10X/oUdDNyLvYRlvcdvWPGAlIW1gnesFCMk5Lb25ubQKPdidjvTvssX3B9iOUmy6CQPYVtNs2s8YMWx7qTzDjtMx7g0R99dxVmsT+Yt0fNiVkTpQUstrCFb5L+CWYdUwTUysVZWW6Aomf8PkxzprtB7omyAU43veiPKC4P2I1+6tNpcy0+iwcuHPbOZda36/Rp8FmOS4+CBfZSQPePs8XIYIIARQ==;o/QOd1c0SsHdQ4HJDfMkKg=="
 ---

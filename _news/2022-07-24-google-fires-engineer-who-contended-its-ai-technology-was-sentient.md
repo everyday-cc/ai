@@ -78,22 +78,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-    publishedDateTime: 2022-07-25T02:53:00Z
-    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Google has fired a software engineer who claimed an AI chatbot was sentient"
     excerpt: "Blake Lemoine was placed on leave last month. Google and many leading scientists were quick to dismiss Lemoine’s views as misguided."
     publishedDateTime: 2022-07-23T05:01:00Z
@@ -303,6 +287,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Google fires engineer who contended its AI technology was sentient"
+    excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
+    publishedDateTime: 2022-07-25T16:10:00Z
+    webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Google sacks senior engineer who said its AI program was sentient"
     excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"
     publishedDateTime: 2022-07-24T23:01:00Z

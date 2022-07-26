@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bunnings, Kmart Suspend Use Of Facial Recognition System Amidst OAIC Investigation"
+    excerpt: "Following a report from consumer advocacy group Choice that revealed both Kmart and Bunnings were taking biometric information regarding their customers and an investigation from the OAIC, both companies have now announced they will be temporarily shutting down the facial recognition systems."
+    publishedDateTime: 2022-07-25T23:53:00Z
+    webUrl: "https://www.bandt.com.au/bunnings-kmart-suspend-use-of-facial-recognition-system-amidst-oaic-investigation/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 48
+    images:
+      - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
+        width: 401
+        height: 300
+        isCached: true
   - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
     excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
     publishedDateTime: 2022-07-25T04:38:00Z

@@ -36,7 +36,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 37
+    quality: 41
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_127872518.jpg"
         width: 504
