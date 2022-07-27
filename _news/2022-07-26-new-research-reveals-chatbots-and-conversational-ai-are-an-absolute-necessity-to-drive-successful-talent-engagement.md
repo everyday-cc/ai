@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "On the Talent Hunt: AI chatbots for staff built by my startup help us work smarter and attract new staff"
-    excerpt: "... 2016 to build artificial intelligence (AI) chatbots that help businesses improve operational efficiency and marketing effectiveness. We have 16 full-time employees across Singapore and Malaysia. As a startup, we struggled with manpower issues from day one."
-    publishedDateTime: 2022-07-24T00:29:00Z
-    webUrl: "https://www.todayonline.com/voices/talent-hunt-ai-chatbots-staff-built-my-startup-help-us-work-smarter-and-attract-new-staff-1951051"
+  - title: "Data Management, AI Automation Tools Are Top Investment for Financial Firms, Broadridge Survey Reveals"
+    excerpt: "In addition to data management, firms are also “investing in AI and automation (23%), more human capital ... As covered, Broadridge Financial Solutions is a global Fintech “with $5 billion in revenues, provides the critical infrastructure that powers ..."
+    publishedDateTime: 2022-07-23T11:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai-automation-tools-are-top-investment-for-financial-firms-broadridge-survey-reveals/"
     type: article
     provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 20
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 23
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--Ziz76HOq--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/07/22/20220722_ili_chuang_shin_wee_on_the_talent_hunt-1.jpg?itok=2ehR7UC0"
-        width: 1200
-        height: 676
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Tools-Work-Fix-Wrenches.jpg"
+        width: 1280
+        height: 906
         isCached: true
 
 secured: "qhFhlqiQ3OoNtC+S5koCubBUZnX+7NQlzQ+lF7gXGkIU59l1g+XQo1NWtxCaJsyyeiGp9wt1BGXZUCMrqeMyF38/8qfT585G/u8/5q8CsMuQsFy6v8TYZWYdbaBNJZr1x2hQqqPEvZC/7Q0XNd5ePAl+x+eAQQH16Cc9d2G5tR+o9MVyN0w6GUUCBOcIicjfa330fLfpxZck37+MCDgspfzmvhocaKhR2Vgfm7+mjC5Pv8PPyJrxMuth+1vzHsBh7358oaT8tT0t5J5WdR+rV/sJ+L4ujNnZM05zpAbRcq10d2TKeewRlvWX1HG8IjcT2qNpAfPWedDRP5ngBrlqYSjXre6WliSdeXW2p9R6Lig=;tFEv/QZ8OB1vnTLEJKQejw=="

@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-21-the-dall-e-ai-image-generator-just-entered-a-limited-open-beta.md",
+      "title": "The Dall-E AI image generator just entered a limited open beta",
+      "excerpt": "OpenAI's Dall-E image generator is both powerful and weird. So far, the developers have only allowed a handful of AI researchers to use the tool. However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html",
+      "originalUrl": "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-20-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-driverless-tractors-are-here-and-thats-just-the-beginning-for-the-future-of-farming.md",
+      "title": "Driverless tractors are here, and that's just the beginning for the future of farming",
+      "excerpt": "\"We launched the first driverless tractor that actually ... Camera images also run through an artificial intelligence process that recognizes humans, animals, equipment and other dangerous obstacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
+      "originalUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-techsee-launches-visual-intelligence-platform.md",
+      "title": "TechSee Launches Visual Intelligence Platform",
+      "excerpt": "TechSee, a provider of computer vision solutions for customer service, today launched its Visual Intelligence (VI) Platform to help companies customize their computer vision automation applications. Computer vision AI identifies specific models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/146677-0722_HappierAgents_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-dall-es-powerful-ai-image-generator-is-now-available-in-beta.md",
       "title": "DALL-E's powerful AI image generator is now available in beta",
       "excerpt": "The beta also expands the usage rights to include commercial projects. You can print the images on shirts or children's books, for instance. OpenAI will still reject DALL-E image uploads that include realistic faces,",
@@ -1041,153 +1178,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
-      "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
-      "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1394403496-BlackSalmon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "publishedDateTime": "2022-07-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
-      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
-      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959388",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
-      "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
-      "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d8528da7572ca2299391bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

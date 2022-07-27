@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-27-safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta.md",
+      "title": "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta",
+      "excerpt": "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment.md",
+      "title": "Ping An Upgrades AI-based ESG Evaluation System to Drive Responsible Investment",
+      "excerpt": "Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318) upgraded its proprietary ESG evaluation system to meet the Group's rising demand for high quality ESG scoring data. Growing attention to environmental,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1828519/Ping_An_logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system.md",
       "title": "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System",
       "excerpt": "Ondas Holdings Inc. (Nasdaq:ONDS), a leading provider of private wireless data, drone and automated data solutions through its wholly owned subsidiaries, Ondas Networks Inc. and American Robotics, Inc.",
@@ -537,7 +631,7 @@
       "originalUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1002,7 +1096,7 @@
       "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1094,112 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
-      "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
-      "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "publishedDateTime": "2022-07-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
-      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
-      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "publishedDateTime": "2022-07-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Data management and AI are the top wealth tech investments"
+    excerpt: "Financial service firms are investing in their technology capabilities to improve overall efficiencies Financial services firms are investing in tech to help with data management, as a top priority towards driving efficiency."
+    publishedDateTime: 2022-07-26T10:46:00Z
+    webUrl: "https://www.wealthprofessional.ca/news/industry-news/data-management-and-ai-are-the-top-wealth-tech-investments/368522"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0405_637944291857362873.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "gFKwlXxSHs3Ut12AbHoTPlXiEsk9nzVYxPPl8oaXUR1G9qNafiX8vsPbPSXlgW+Bqq5rjo2Id0sbnNgNHNd9j8UR8NItZEsW6FqvRlB4KI9360rgr8dEqPgMxNoiFfzXieeQgtkcVkOTJV8xn+l/WHgGvx0+tOzLs45KfY+aK+FRpqtfojWsp7ObH7igMyWEhSBQgLcnf6DG59dk0ai7Gbeo0o27Mp2U/IT2uFmCnwM0z8a/iq3n9Q2dUAtXSU5RnK4HbBB1inb8XFE4h7a1I6y1yUJK5cKJWWl9DlqLPkrgBG7/vJwPsnrJSGvkkxt9PhRjB4k2gEi9DDeva823a94vQaLYgkXQHJYv+0mwCykZXfdOgHPGpqOzy7rDynqadlu1rypG6LMbl5WRio5hZbJX6/DPaLGeVloqbugbb5HgffTkrCJKF+kt65opk0c7EMaPS5g9rzqVBHo5zDqnh1jegq/qj1rabyymaHgZkern+tzozRqYPZJM95yJUYmff53HFZzi2oH2fbknr2fHng==;6TMiuFioGn8gicZqSzdc6Q=="
 ---

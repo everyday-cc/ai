@@ -2,6 +2,198 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-05-18-the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research.md",
+      "title": "The role of AI and machine learning in revolutionizing clinical research",
+      "excerpt": "The goal of implementing artificial intelligence and machine learning in clinical research is not to replace humans with digital tools but to increase their productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research/",
+      "originalUrl": "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/04/INVEST-PharmaTech-2022-Email-Header.jpg",
+          "width": 600,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028.md",
+      "title": "Healthcare AI Market Size & Share, Industry Analysis, Key Trends, Growth, Value Chain, Business Opportunities and Forecasts 2022-2028",
+      "excerpt": "Healthcare AI Market Dynamics 2022-2028 ... Imagen Technologies, IBM Watson Health, Health Fidelity, Google Deepmind Health, GE Healthcare, Apple London, UK — (SBWIRE) — 05/17/2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents.md",
+      "title": "Arteria AI, Goldman Sachs, And The Transformation Of Financial Legal Documents",
+      "excerpt": "Arteria AI is working with companies like Goldman Sachs to use AI to help transform the creation and negotiation of financial legal contracts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6283e05c1e567fc242d534e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/amp/",
+      "publishedDateTime": "2022-05-17T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-argo-ai-launches-driverless-autonomous-vehicle-testing-in-miami-austin.md",
+      "title": "Argo AI launches driverless autonomous vehicle testing in Miami, Austin",
+      "excerpt": "Argo AI, the autonomous vehicle technology company backed by Ford and Volkswagen, is launching driverless operations in Miami and Austin, a significant milestone for the startup that illustrates its progress towards commercialization.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/",
+      "originalUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/",
+      "publishedDateTime": "2022-05-17T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
       "title": "Customize pronunciation using lexicons in Amazon Polly",
       "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
@@ -975,204 +1167,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
-      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
-      "excerpt": "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-545425/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "publishedDateTime": "2022-05-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles.md",
-      "title": "North America is seeing a hiring boom in retail industry machine learning roles",
-      "excerpt": "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/",
-      "originalUrl": "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/05/WdKIv-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%",
-      "excerpt": "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-human-centered-ai-book-review-a-roadmap-for-people-first-artificial-intelligence.md",
-      "title": "Human-Centered AI, book review: A roadmap for people-first artificial intelligence",
-      "excerpt": "As if. As Shneiderman writes in his new book, Human-Centered AI, he's somewhat modified his stance in the intervening years, giving greater weight to ending the tedium of performing the same tasks over and over. However, he remains sceptical that AI will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
-      "originalUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2bc742f40b259164cd692288cfd4dab0a17877dd/2022/05/17/e9b93a46-659a-4596-9497-944b9778a275/human-centred-ai-main.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
-      "publishedDateTime": "2022-05-17T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

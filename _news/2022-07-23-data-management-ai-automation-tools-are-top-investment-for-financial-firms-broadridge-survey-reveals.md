@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai
 webUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai-automation-tools-are-top-investment-for-financial-firms-broadridge-survey-reveals/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Data Management, AI, Automation are Investment Priorities"
-    excerpt: "With as many as 98% of respondents’ companies investing in their front-to-back-office workflow management, more than one-quarter (27%) of respondents cite data management tools as their firm’s priority investment."
-    publishedDateTime: 2022-07-25T06:00:00Z
-    webUrl: "https://www.tradersmagazine.com/am/data-management-ai-automation-are-investment-priorities/"
+  - title: "New Research Reveals Chatbots and Conversational AI are an Absolute Necessity to Drive Successful Talent Engagement"
+    excerpt: "Sense, the market leader in AI-driven talent engagement solutions for enterprise recruiting, uncovers the role and impact that Conversational AI and chatbots have in today’s competitive recruiting landscape."
+    publishedDateTime: 2022-07-26T11:01:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-26-new-research-reveals-chatbots-and-conversational-ai-are-an-absolute-necessity-to-drive-successful-talent-engagement"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/04/Vijay-Mayadas.jpeg"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Data management and AI are the top wealth tech investments"
-    excerpt: "Financial service firms are investing in their technology capabilities to improve overall efficiencies Financial services firms are investing in tech to help with data management, as a top priority towards driving efficiency."
-    publishedDateTime: 2022-07-26T10:46:00Z
-    webUrl: "https://www.wealthprofessional.ca/news/industry-news/data-management-and-ai-are-the-top-wealth-tech-investments/368522"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 37
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0405_637944291857362873.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "UXwPv4mVtor2X5eZt2QEZZz/8QZ+xBLQ37U/uCY/KD/eHlP9fycWSXUmvW889ssaKarwUEaeeeeaNkQeTvwYL2kTQEZMWHlMovq7BRCjtP/n3zZ2Ll05h7QKKhAzVGKP/gEW4NF06tuuRNfb5r87OpBoGr4kzPakAYwILWLXfCsyO7SVyQX5xSYzTBBlAPKy8kSqkYH0jzbKj+hy1zd/BwTLFhmAb/PZVeLlg82cBV+ovXEtjKZflSeTJXe1lJHbvm08WuV5dBhm0yaR8CkuEFydDobr5Gew6EMRqutt8DBMqZC8PiYSYDuAdRu7sw91RYJ48dZ+aXbsbMxiKL4g2C7CV2z8Y7wZT1wIP7iMLto=;J4DL2dKLkct90BaoqD5NYg=="
 ---

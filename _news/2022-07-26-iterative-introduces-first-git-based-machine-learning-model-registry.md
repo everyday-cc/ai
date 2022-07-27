@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Iterative Introduces First Git-based Machine Learning Model Registry"
-excerpt: "Iterative, the MLOps company dedicated to streamlining the workflow of data scientists and Machine Learning (ML) engineers, today launched the first machine learning model registry based on GitOps principles,"
+excerpt: "Based on engagement with hundreds of organizations across industries of various sizes, Iterative found that more than 80% of organizations do not have the necessary visibility and control over their ML models or how they’re deployed throughout the ML model development lifecycle."
 publishedDateTime: 2022-07-26T13:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-562ec90cc07a49ea98b39bf7d24da94e"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-562ec90cc07a49ea98b39bf7d24da94e"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-562ec90cc07a49ea98b39bf7d24da94e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-562ec90cc07a49ea98b39bf7d24da94e"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "49+G0F/lsLS7OghXxo4E4MuCrTcrXhX7xdGV57FUU5n4TDFMbthWGIkOu6oWW1VjtfpkJbQU3BhQXa+0Ln9sLWKx20bzPcnnzgerZzdfBgTXBCmv9qVmBLJT7IqqUFaco0m307ivGlk/UAjTjZ6YewLpwYN0ypYhpgTRr7h57RUGquEABAPOkSu+f8/0tcqbf64zzZMM5KUXAwNk/xw6D6wwjhb8MsmTJ2QYx8U0shACI6xTfBm8QeSf5jX8NyMJHp/zqTSZAqj45awRHCfCUnsd0k+LMXKRL7QUpnapNNVtUQePmPCzjPjwhIij1LFrufkzBEOYpCvNMbDe3k/J04pj83qBnEd1M8ptlVlpQ6k=;9EqvtI1JVV7pA0HCOfrY5A=="
+secured: "TjuIsLuh3pDQfCrW5ezlK15JAy0yAi8XXpnsFSMvcjT0gR6BoU6SSy7myMrBhIB+KxF/3o8USEPWaTcDG5KgEstyHaMPhISJ4JbpRG6UXSchTcGuY1Cyh+iNKG4Vzd3mSPCP5SShHxqEK7NmSpK1T2MfGOhkI+X0VRxH3veEqFS7wYp5ptY3kbcg+ko/8sbORVVHSKvdygiOb3zuKxTvPn2ERnh/+iZz+Jp25KaolLsZi1I9MUYqN/rmWnE4Z937XYhzasiLD2Q43yndlL2fbfwHvCBNYN+u+lnPPM4+q980ZLOkqn2dNkjY7uHmZrjx6Ww+gps8Vevo2lilJScdfEmk3HXm8Pl2EjIwx11Gbp0=;twMJfgg4vg26MIBrXzk2Qg=="
 ---
 

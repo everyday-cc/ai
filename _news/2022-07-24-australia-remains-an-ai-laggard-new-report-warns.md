@@ -115,6 +115,22 @@ related:
         width: 401
         height: 300
         isCached: true
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Bunnings, Kmart hit pause on in-store facial recognition"
     excerpt: "Bunnings and Kmart Australia have paused the use of facial recognition while the privacy watchdog investigates their personal information handling practices. The Wesfarmers-owned retailers took the decision over the weekend,"
     publishedDateTime: 2022-07-25T04:03:00Z
@@ -173,24 +189,6 @@ related:
         width: 1500
         height: 1500
         isCached: true
-  - title: "The Toll Facial Recognition Systems Might Take on Our Privacy and Humanity"
-    excerpt: "Learn about the facial recognition privacy concerns that have been raised by experts and consumers in recent years."
-    publishedDateTime: 2022-07-22T18:54:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/facial-recognition-privacy-concerns/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 19
-  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
-    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
-    publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 3
 
 secured: "a/RGO/2bVpueth+QbBEAutQDw/wzU8GuAl6dxCmd/o3ezby1BUGyNb7Ilk8f8Asq+025xhBcnpY3dXG+bhjkTIEkpMNYwShgRcT4dgnwroEDUd4+fEDqQbbj82eZelme0SefxzpCgDqktTMYAH/45g/QWvO4sc31FUFCJmBEaEg2QV9wLdrkgeCJ7QNes54fCBADK0otidoit8ZCltqHZS6f1pHnOy5zJnt+n0s2X7sArQdlynag/UAGjsBi+Kcqhr/iSeVfsT3hFCcohjEo1UN7cl9FZlLD9z/zXoDSeFzINpKIUVHIxbuDu0cVKAHHAwzRnctzxV0N+XqpVnSxt8/f6mKEQgTB0qunaQ/SqLspoDLCd7dpNNwRGCIxJ4gGrGV8cXRmMAfE3KJ/efsb+RqAHqiGE5juXBnXHx/o4Mmr42go0GchISvsS88dicqkmYLjWH+9eEqkkT8wifSKxGTGsgxfKfJJeFU98LxFhVt9sPzBV7nusR7rlMM4wxv5DAu/Xtc16n2+9NQRwQhvhg==;IFqO7YBbumG5o9l+dH+f3A=="
 ---

@@ -3,10 +3,12 @@ category: news
 title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
 excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
 publishedDateTime: 2022-07-25T04:38:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
 type: article
-quality: 3
+quality: 43
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Kmart halts use of in-store facial recognition amid Australian privacy investigation"
@@ -185,16 +193,7 @@ related:
         width: 1500
         height: 1500
         isCached: true
-  - title: "The Toll Facial Recognition Systems Might Take on Our Privacy and Humanity"
-    excerpt: "Learn about the facial recognition privacy concerns that have been raised by experts and consumers in recent years."
-    publishedDateTime: 2022-07-22T18:54:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/facial-recognition-privacy-concerns/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 19
 
-secured: "2a7bkwzCK9zSNDJhbKclRrh5ci2cZ1MO7xISCTVOeetCppj+UvLdpNidaf3yjsxNSKLhVDLpTZM1tGkfKAZ4STi6nFUA0yuK8EE2sasiAOBAEYmeRIAkLT+2gpCZZUMH9AD8FerlvraPH+OHAEMfonmHQThqkye8bwAAurbFErMNLDssdUtq6X7VMXRTK1rSrbCBb9EmXa6k+TaRjGY7IKg7ThoFGVaYGbCUmQ96FzeZbGrqiEz56c0FIawf030KthCPzDBwqIbH2/Z7PUuwFJwHopTIHU2Q3DMCWxNDNv9NSAHTVrkEeS6RlHXT1wfomKIpEWJP9ijL7Kf4TzXp2zkIyfdjfmkbpprZbq7SwLWpWSWCot1cUucR4QER9b8D+ko3rwlWND1EemsIzQtrlsjBqMBnuUwHBK0uXFAUp1f0R/JAvFl91e3h9PE0pt/gBNpu3OtNhvAGtyQ4e8Gue417N6RcnH6r9yBCoWGozp5BepewVohLzwXtCdF8U5lj5QdlzJkmuX55A63wRddtpg==;ppgTxzM4xE6uUL11FPyv6g=="
+secured: "7zr7WkhNokIbuk/VSRFcXIbU6/nqKmC4yh+YyyUHdnVgSunepXiUUgwRO1M+JArNkxSTdodbBEJclU2vPseZVblLYA1kasvQIqdPiYeQ3/Svto5rWtpfBRsAG5nZE2aCZEkqRZuGHns9b6fFQJX6Iu/Z5c2q3XYbECcbjIrvkrbGYtEP4wmR7jJM6zKenr4yF0dUKw2kvEEVnTPAzFlGoFUQha98R5B06uMsmPr1fHgUvLwtV1OioawLw3KIu3DEyG8Umlo5fFRJqy2ieRmt6P+tcjAGNVoHjgrFwO/BUEsaMuo9QUBO4ZgDl1MNKepklEOkpfw+OarrjNfMtuaa2aNzGxzktjM8Ubv/Ns7K0Cg=;Qgk++C4IHy52hY0QmkKB0g=="
 ---
 

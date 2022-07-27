@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Botminds Document AI is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store providing applications, and services for use on Azure. Botminds' customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-07-25T14:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-botminds-document-ai-now-available-the-microsoft-azure-/2022/07/25/9644238.htm"
+  - title: "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta"
+    excerpt: "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard"
+    publishedDateTime: 2022-07-27T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 48
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
     publishedDateTime: 2022-07-25T15:57:00Z

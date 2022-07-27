@@ -24,33 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Data Management, AI, Automation are Investment Priorities"
-    excerpt: "With as many as 98% of respondents’ companies investing in their front-to-back-office workflow management, more than one-quarter (27%) of respondents cite data management tools as their firm’s priority investment."
-    publishedDateTime: 2022-07-25T06:00:00Z
-    webUrl: "https://www.tradersmagazine.com/am/data-management-ai-automation-are-investment-priorities/"
+  - title: "The hype around artificial intelligence"
+    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
+    publishedDateTime: 2022-07-26T13:32:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
     quality: 39
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/04/Vijay-Mayadas.jpeg"
-        width: 350
-        height: 350
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Data Management, AI Automation Tools Are Top Investment for Financial Firms, Broadridge Survey Reveals"
-    excerpt: "In addition to data management, firms are also “investing in AI and automation (23%), more human capital ... As covered, Broadridge Financial Solutions is a global Fintech “with $5 billion in revenues, provides the critical infrastructure that powers ..."
-    publishedDateTime: 2022-07-23T11:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai-automation-tools-are-top-investment-for-financial-firms-broadridge-survey-reveals/"
+  - title: "The transatlantic AI divide"
+    excerpt: "Tech regulators on both sides of the Atlantic hope to prevent a split on AI rules like one seen on data privacy, where regulators in Europe got out ahead of their U.S. counterparts and sparked all kinds of havoc that continue to threaten transatlantic data flows."
+    publishedDateTime: 2022-07-26T20:11:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/07/26/the-transatlantic-ai-divide-00048016"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 23
+      name: Politico
+      domain: politico.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Tools-Work-Fix-Wrenches.jpg"
-        width: 1280
-        height: 906
+      - url: "https://static.politico.com/29/1a/a9600dec4386907f5c9b7c30c4f1/download-71.jpeg"
+        width: 1160
+        height: 629
         isCached: true
 
 secured: "Fb9LpiZ1KEAegmhNIAG7M1UoNtmlzi3UAyY/lyCKhOIWxMhiQtozWgDIOcIDp7YLx7Ab0oVOFYdjeLJEPQm3Bo62kUF1D2tZ4VA39Fnob8IfcJdM6rgI5Kukz1MG1h32Tw+tRDUarxkTB1oSqDETtw+GU0C/nz5eXbklCTsymoa+jJA750LnYNsxLg4h23PxB9CqBL7VJMfJ96V8Jr7rHQwFwowDkm2ZWPpf1C0+rGhsbpRvDMTIy/yCk7OcleZ+53B3X6SwBymQlB3gZwcch1wCiVSE13QEkareNJdD1glwJYD8yYZvkBq/5WvUwaAAYyb7XowWjzO+zA+aq0IteUveCJj+dxLfoa32GQwRjY4=;1CL5IPV1BrCU7tQO8rmXUw=="
