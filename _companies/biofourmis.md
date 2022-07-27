@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "wZntXYibolLW3ONv3E74zpKLzmidzyf9ldfTYOonwCaFdhw2xQGOa/D2MS4YQC/VQ4MoO1f+/3ybPQ4/T+g9pbP5eXTavYm6DbIwviXeszwk+JLTUK/r9B3it3ySv+ue2NNm+psNG8fKSrfrjtt7yGzSw60RYWyQxktYFWLf85NM2dktu6qAXIUMTXqbR8MbRCWPYnqMCaS1n2yPh2Ze2KyaIEJn2jbqL0no1snxVRflAQNwYz15tmGZoP/Hvauul28jz8jbY2BHt4EGzyu7L8hnuHIZqOfBcJJMnl4dEWgIw4Xr4Y7ezqJkXAQrDO1qSxctYmf1yzg1DwNFBc3JABY4KCqGCh7HJ8OCcNuE4n59MswjkWmm2i7udwQPYjL3h0dVmD6Sx6F5fcVAlSs+nS4AhQn4yrEazRtbZlmisks=;FrBG9j4+rDDEBLUhmCOHcg=="
+secured: "EMJ5MHjx/Ix5MyWIbOAZzubQLfwimVeM1u0pQxZmhFHUoVIdlEbamCDmfzs6C9XmMorIoQrWo+yF1QVG7AdAlS6fjh2dRMvAiIhNIfsUUdo/CBZHOS1f7KIUOQuONnLVCIJ9h3/aNqzu1q9RFDfR1cUDvV4QMa2uIU0aQhzoAdMKv1OX8ZZXX5fhdYV1Bl4QL1bhJGfyKJR0gQ5tklTzajkppkGYOGkRMHwOeMvB5AwqlLTuRJtnnDoytA6uiTLEI5Q/UwW16tUBVZ0WkwBIKh6YrqUXFMupTzMj6tmMT7gMg+87OQomGzkdHNSsKu2cs5/pwPTuzo42udnVpiH69FT88F3BJFv3DqgghzqTcVBQsuMmucPst5M3Yb6oXtBRMprNGOfa649dwehGqQY1VN5x1G+ttT57IF9maEAKw8o=;SBN4SubZG/95zkcY419WZg=="
 ---
 
