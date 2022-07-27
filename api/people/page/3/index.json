@@ -93,7 +93,7 @@
       "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 197743
+        "citations": 197835
       },
       "affiliation": {
         "path": "",
@@ -161,7 +161,7 @@
       "bio": "Professor Emeritus, EECS, UC Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=S6H-0RAAAAAJ",
-        "citations": 230631
+        "citations": 230632
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lotfi_A._Zadeh"
@@ -235,7 +235,7 @@
       "bio": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Q6pxNZYAAAAJ",
-        "citations": 33109
+        "citations": 33107
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lydia_Kavraki"
@@ -274,7 +274,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-        "citations": 41394
+        "citations": 41399
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Maja_Matari%C4%87"
@@ -310,7 +310,7 @@
       "bio": "CERN",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3vZMAs4AAAAJ",
-        "citations": 207450
+        "citations": 207557
       },
       "affiliation": {
         "path": "",
@@ -377,7 +377,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 235567
+        "citations": 235637
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
@@ -455,7 +455,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17773
+        "followers": 17772
       },
       "topics": [
         "AI"
@@ -518,7 +518,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 131439
+        "citations": 131442
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
@@ -602,7 +602,7 @@
       "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 96834
+        "citations": 96848
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
@@ -630,7 +630,7 @@
       "website": "https://mila.quebec/en/yoshua-bengio/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 548615
+        "citations": 548951
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
@@ -671,7 +671,7 @@
       "twitter": {
         "username": "clmt",
         "url": "https://twitter.com/clmt",
-        "followers": 11017
+        "followers": 11016
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/clementfarabet"
@@ -715,14 +715,14 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 977
+        "followers": 976
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 16448
+        "citations": 16450
       },
       "affiliation": {
         "path": "",
@@ -797,7 +797,7 @@
       "twitter": {
         "username": "MFordFuture",
         "url": "https://twitter.com/MFordFuture",
-        "followers": 48529
+        "followers": 48527
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
@@ -830,7 +830,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27354
+        "followers": 27353
       },
       "topics": [
         "AI"
@@ -861,11 +861,11 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1518740
+        "followers": 1518719
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 10949
+        "citations": 10942
       },
       "weibo": {
         "url": "https://www.weibo.com/kaifulee",
@@ -909,11 +909,11 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 26634
+        "followers": 26637
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 42128
+        "citations": 42133
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
@@ -1013,7 +1013,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 64737
+        "followers": 64735
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
