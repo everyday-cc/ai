@@ -3,24 +3,24 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-ampWebUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+originalUrl: "https://www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WTNH
-  domain: wtnh.com
+  name: Kxnet
+  domain: kxnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+  - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
@@ -36,6 +36,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "PKWfIqvTAyVFP2jGxQsswUcASOAV/qDiEbjsFd9HcZcTgSQRva5nggmOzmeVQ22pKAh3WpnoHi+vGhGu0BuvNP6G1tqdW84HCZbDVvUI+fSO3odUx8HIJFG/HlwJR2Z13yFn6GQpqFEh/hEGrbU/Q/Zn8SX5KcWC22CK0BdgCIVGfo32cktFSG1Joz/zj440F1aJFMeJDut+d2nhEaOlUudvsLxnz3yzmwcXhXcmzKFu3d1mEPN8ZcjR8P6WYb7FNf+F9vjoka6kFHZLtlJA2WIOWDdmlhSKPJmU2jCDFsUxLxfJjOExZXgo2a38E1v2fk0JNSnPrW9ygBfoATnNY0xZcQOZ2BzxUt2VY4Fyafc=;4+o8UNNX8AnZehyHV4skQw=="
+secured: "Ltou1p15EObX/j5lRv1/Hf5xa/bYT3ztYutcEuhmNI+KVUWk0YAtT0CiWttS0SwW2JDhYcZvbcodYMNDVqy4Htb5+yCtHMWuA4Lk9FCMNJ3eI9+65Uwn7u8eCAyd9u7DEklluChBREZppaMyrQ4SAi1/5wT8cpcQg4QajV7dx5AqYnKooDBuLnSvB3myIf/2bhGwrIaHup0kqmJp0fsSOvrgz8yDBjUy2G8bviU3CM04Kbhl8hgUIDJ1ysCZAbanvGZw2DdFRkZK5ajCTBPZu4+NVwmmhzbuxyzRR1/Wp2BLnHh7FI3y71SBxfRg3kn5w7LXDaJ38dRadN40MvhBknopFwc8arJEfsfp8q64uKY=;+kwcGKCr1J0jE6eapKV29Q=="
 ---
 

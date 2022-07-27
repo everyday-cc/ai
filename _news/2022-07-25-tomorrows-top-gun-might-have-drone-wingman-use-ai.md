@@ -40,20 +40,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
-    excerpt: "Maverick’s next wingman could be a drone. In the movies, fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
-    publishedDateTime: 2022-07-22T12:38:00Z
-    webUrl: "https://apnews.com/article/technology-england-64ccd15f9cc32d9ce865af07ed8923a7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/912dcee1a8e647c29a84fa6932d0f583/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "wCzWAlYpqw8G34nzwpFRY9Jw/X6GvWCRk9erPdHpFkRCz5iVjeq4axHExRdqrTMhrJwvvndfJ/HNqc9B2iTQiNkyQYIrdILvSQCfnIJB/kCNKPyOCfO10UqvO4g5UWON/1a5JN2gB6Ti2swv1Extu9O+r5c+rZOqI1065ajj/u7ifFqNavlYWJEmy3CkYopyZQt+N25T2zd49sskaR+AMCXeymyyrpETMkqa3vff4wMloBrZyM4b8cMTGV4W2FP0k9M6EUYUsX3wey7A0a94YK9sTIf7NxwpfQ4e/esKu1MRm06PvcuWCeVYmdKmIpfYdnDRRVp+PVju4xPkA1nz8dGOOolOuEtNY4G9D1foWik=;UZbZ27aGtWmmH1w2FqQfTg=="
 ---

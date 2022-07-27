@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge"
+    excerpt: "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls."
+    publishedDateTime: 2022-07-27T05:14:00Z
+    webUrl: "https://www.arnnet.com.au/article/700192/aruba-boosts-ai-capabilities-help-enterprises-manage-troubleshoot-edge/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 33
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_155254129_8.jpg"
+        width: 473
+        height: 315
+        isCached: true
 
 secured: "vG9orVtj44IfC4ydVFvZ3n+ggSOPkwF1ln+jNdcjMGojl0aSM1I241Z3Tmg+VgdtufgeiacTqiZWgflgsDUy7wAlcBPxOaYjhhVzLcHMsLtYFQzVDVmOIMJXWnwu++Gs57vgFaP9P1dlxXKSSONS92cBZ5DeYPATKD441V6ZVOxQI4JntOsOBP2pTR2CShhLgxFX9C7uNG3+CYuds/ZbGcN6j3PW2LdTHdE81I7mTmtul0648uvP8qCG4Xd+enJTanXaepUIOErNwHJMwPfAnYHYLYtyA2qu0kklFhUsyedR4d8/exLrHyZzRHRvJdl/BoTOywDoYOgNAABGa4kFqWi9HfUENypT7rqFWWpWBaY=;zgtTK5Hkc7cZiIAoQeTXQg=="
 ---

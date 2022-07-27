@@ -9,8 +9,8 @@ ampWebUrl: "https://www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wing
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Voice of America
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
-    excerpt: "Maverick’s next wingman could be a drone. In the movies, fighter pilots are depicted as highly trained military aviators with the skills and experience to defeat adversaries in thrilling aerial dogfights."
-    publishedDateTime: 2022-07-22T12:38:00Z
-    webUrl: "https://apnews.com/article/technology-england-64ccd15f9cc32d9ce865af07ed8923a7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/912dcee1a8e647c29a84fa6932d0f583/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Tomorrow’s ‘Top Gun’ might have drone wingman, use AI"
     excerpt: "In the sequel, an ageing Maverick, now a test pilot, learns the top secret hypersonic plane he’s working on is being cancelled so the funding can be used for a pilotless drone programme. It’s a debate that’s been playing out for years in the real world."
     publishedDateTime: 2022-07-25T05:15:00Z

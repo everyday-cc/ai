@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-16-ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully.md",
+      "title": "AI Ethics Cautiously Assessing Whether Offering AI Biases Hunting Bounties To Catch And Nab Ethically Wicked Fully...",
+      "excerpt": "The latest in AI Ethics consists of AI bias bounty hunting, though this raises a lot of questions, including as considered for aiming at AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x182,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/",
+      "publishedDateTime": "2022-07-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.md",
       "title": "Scientists combine robotics with biology to construct biohybrid microrobots",
       "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
@@ -1096,58 +1148,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-4-key-opportunities-to-leverage-in-fintech-and-beyond.md",
-      "title": "4 Key Opportunities to Leverage in Fintech and Beyond",
-      "excerpt": "As we move more toward digitalization, we know fintech is here to stay. So what is fintech and how can we leverage the opportunities in this sector?",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/429429",
-      "originalUrl": "https://www.entrepreneur.com/article/429429",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1657300438-GettyImages-1328506527.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

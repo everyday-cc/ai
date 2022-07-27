@@ -271,19 +271,19 @@
     {
       "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
+      "excerpt": "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
-      "originalUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
+      "webUrl": "https://www.nsnews.com/automotive/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-5605977",
+      "originalUrl": "https://www.nsnews.com/automotive/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-5605977",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600",
-          "width": 600,
-          "height": 600,
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/07/20220720230752-62d8cd890e4c200aa581bdb2jpeg.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -293,11 +293,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T21:16:00-07:00",
+      "publishedDateTime": "2022-07-20T21:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDRB",
-        "domain": "wdrb.com",
+        "name": "News",
+        "domain": "nsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

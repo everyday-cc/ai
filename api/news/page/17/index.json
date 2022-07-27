@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-07-07-ai-at-the-forefront-of-media-and-entertainment.md",
+      "title": "AI At The Forefront Of Media And Entertainment",
+      "excerpt": "Malav Shah is a Data Scientist II at DIRECTV. In this wide-ranging interview, he shares best practices for deploying machine learning models at the forefront of media and telecommunications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c5ede123bc69e839783dae/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "publishedDateTime": "2022-07-07T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-kiromic-biopharma-achieves-milestone-with-timely-completion-of-expanded-cgmp-manufacturing-facility-to-support-cell-therapy-oncology-pipeline.md",
       "title": "Kiromic BioPharma Achieves Milestone with Timely Completion of Expanded cGMP Manufacturing Facility to Support Cell Therapy Oncology Pipeline",
       "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (\"Kiromic\" or the \"Company\"), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
@@ -1123,49 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-tech-firms-slug-it-out-to-create-ultimate-ai-translator.md",
-      "title": "Tech firms slug it out to create ultimate AI translator",
-      "excerpt": "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator",
-      "originalUrl": "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/658931.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php",
-      "publishedDateTime": "2022-07-06T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

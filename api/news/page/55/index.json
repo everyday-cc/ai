@@ -2,6 +2,40 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-06-10-driverless-hyundai-ioniq-5-hits-streets-of-seoul.md",
+      "title": "Driverless Hyundai Ioniq 5 hits streets of Seoul",
+      "excerpt": "The manufacturing giant converted two electric Hyundai Ioniq 5 cars to work as RoboRide taxis, adding new sensors and software to the machines with the help of artificial intelligence specialist ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.weeklytimesnow.com.au/machine/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14",
+      "originalUrl": "https://www.weeklytimesnow.com.au/machine/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Weekly Times",
+        "domain": "weeklytimesnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-2022-imagine-cup-junior-ai-for-good-winners-top-outstanding-creativity.md",
       "title": "2022 Imagine Cup Junior AI For Good Winners - Top Outstanding Creativity",
       "excerpt": "Outstanding inspiring creativity from the top 10 global winners in the annual Imagine Cup Junior AI for Good Challenge. The announcement June 9, 2022 is the culmination of thousands of students, aged 13-18,",
@@ -1134,49 +1168,6 @@
       "provider": {
         "name": "Pharm Exec",
         "domain": "pharmexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
-      "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
-      "excerpt": "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined in 1980 by researchers Thomas Nelson and Louis Narens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic907815.jpg?itok=4iHfALuG",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "publishedDateTime": "2022-06-09T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null

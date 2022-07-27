@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
+      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
+      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
+      "publishedDateTime": "2022-07-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-on-artificial-general-intelligence-ai-sentience-and-large-language-models.md",
+      "title": "On Artificial General Intelligence, AI Sentience, And Large Language Models",
+      "excerpt": "In case you haven’t noticed, artificial intelligence systems have been behaving in increasingly astonishing ways lately. Meanwhile, DeepMind recently announced a new model called Gato that can single-handedly perform hundreds of different tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db485e94b10276a09391bd/0x0.jpg?format=jpg&crop=768,432,x0,y0,safe&width=1200",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/",
+      "publishedDateTime": "2022-07-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-rogers-to-invest-10-billion-in-ai-testing-after-massive-outage.md",
       "title": "Rogers to invest $10 billion in AI, testing after massive outage",
       "excerpt": "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country.",
@@ -135,48 +243,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-tomorrows-top-gun-might-have-drone-wingman-use-ai.md",
-      "title": "Tomorrow's 'Top Gun' Might Have Drone Wingman, Use AI",
-      "excerpt": "New technologies, though, are set to redefine what it means to be a \"Top Gun,\" as algorithms, data and machines take on a bigger role in the cockpit — changes hinted at in \"Top Gun: Maverick\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html",
-      "originalUrl": "https://www.voanews.com/a/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/09680000-0a00-0242-088e-08da6bd7e0c6_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html",
-      "publishedDateTime": "2022-07-23T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -430,7 +496,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1092,58 +1158,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
-      "title": "New Orleans reverses facial recognition ban amid surging crime",
-      "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
-      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae14444a-8801-419c-a5e8-91ea9a737fd1/e322ffb4-4448-495b-8740-72f544425087/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
-      "publishedDateTime": "2022-07-21T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

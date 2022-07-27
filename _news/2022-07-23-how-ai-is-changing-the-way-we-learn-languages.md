@@ -25,16 +25,16 @@ related:
   - title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
     excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
     publishedDateTime: 2022-07-25T14:51:00Z
-    webUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-    ampWebUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    webUrl: "https://www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+    ampWebUrl: "https://www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    cdnAmpWebUrl: "https://www-kxnet-com.cdn.ampproject.org/c/s/www.kxnet.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
     type: article
     provider:
-      name: WTNH
-      domain: wtnh.com
+      name: Kxnet
+      domain: kxnet.com
     quality: 44
     images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+      - url: "https://www.kxnet.com/wp-content/uploads/sites/16/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
         width: 1040
         height: 585
         isCached: true

@@ -34,6 +34,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Challenges facing AI in science and engineering"
+    excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
+    publishedDateTime: 2022-07-25T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Rediscovering analog computing for achieving effective edge AI performance"
     excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
     publishedDateTime: 2022-07-23T13:50:00Z

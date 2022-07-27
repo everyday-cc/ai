@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System"
+    excerpt: "Ondas Holdings Inc. (Nasdaq:ONDS), a leading provider of private wireless data, drone and automated data solutions through its wholly owned subsidiaries, Ondas Networks Inc. and American Robotics, Inc."
+    publishedDateTime: 2022-07-27T05:48:00Z
+    webUrl: "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/"
+    ampWebUrl: "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 65
+    images:
+      - url: "https://www.suasnews.com/wp-content/uploads/2022/07/loss-of-containment-social-post.jpg"
+        width: 2500
+        height: 1308
+        isCached: true
+  - title: "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System"
     excerpt: "New loss of containment capabilities will enable automatic detection of crude oil loss at oil and gas facilities. WALTHAM, MA / ACCESSWIRE / July 26, 2022 / Ondas Holdings Inc. (N"
     publishedDateTime: 2022-07-26T11:02:00Z
     webUrl: "https://apnews.com/press-release/accesswire/technology-robotics-artificial-intelligence-climate-and-environment-60c063f515e575759d18d67f9b2d3dbe"

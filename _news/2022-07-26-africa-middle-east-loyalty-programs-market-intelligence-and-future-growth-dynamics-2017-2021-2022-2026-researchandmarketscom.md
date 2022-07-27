@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Size Future Scope, Demands and Projected Industry Growths to 2025"
-    excerpt: "The global Artificial Intelligence (AI) in Education market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of % in the forecast period of 2020 to 2025 and will expected to reach USD million by 2025,"
-    publishedDateTime: 2022-07-22T11:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rising Demand for AI Powered Robots in Industrial Automation Drives Artificial Intelligence (AI) Robots Market"
-    excerpt: "The rising use of artificial intelligence in robotics sector is propelling the growth of the artificial intelligence (AI) robots market. The manufatcurers and product designers from the robotics manufacturing sectors are focusing on the investing in high-end hardware solutions that are enabled by AI technologies."
-    publishedDateTime: 2022-07-22T11:05:00Z
-    webUrl: "https://techbullion.com/rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market/"
-    ampWebUrl: "https://techbullion.com/rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/rising-demand-for-ai-powered-robots-in-industrial-automation-drives-artificial-intelligence-ai-robots-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Chatbot Market Size to Grow to USD 3,411 Million by 2030 Propelled By the Growing Use of Bots for Marketing and Promotion Activities"
     excerpt: "The Global Chatbot Market size accounted for USD 521 Million in 2021 and is expected to reach USD 3,411 Million by 2030 growing at a CAGR of 23.7% during the forecast period"
     publishedDateTime: 2022-07-25T23:00:00Z
@@ -69,6 +39,76 @@ related:
       - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
         width: 900
         height: 594
+        isCached: true
+  - title: "Computer Vision Market Is Expected To Grow High CAGR Of 16.0% By 2030 | Top Impacting Factors"
+    excerpt: "Computer Vision Market The global computer vision market share was dominated by industrial market segment and is expected to maintain its"
+    publishedDateTime: 2022-07-25T04:23:00Z
+    webUrl: "https://menafn.com/1104583417/Computer-Vision-Market-Is-Expected-To-Grow-High-CAGR-Of-160-By-2030-Top-Impacting-Factors"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/24/EP_7bae1image_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
+  - title: "Industrial Robots (Warehousing and Storage Robots) Global Market Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The global industrial robots (warehousing and storage robots) market is expected to grow from $4.65 billion in 2021 to $4.98 billion in 2022 at a compound annual growth rate (CAGR) of 7.1%. The market is expected to grow to $6."
+    publishedDateTime: 2022-07-26T10:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-fanuc-corp-omron-yaskawa-electric-8d792a034b9949fe872ec5e79fce43b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Chatbots Market Size in 2022 is Estimated to Grow at a Modest CAGR of 24.1 % with Trends Shaping & Robust Research Methodology Upto 2028"
+    excerpt: "Impressive Compound annual growth rate (CAGR) 24.1% With Multiple million USD ] \"\"Chatbots Market\"\" Insights 2022"
+    publishedDateTime: 2022-07-25T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbots-market-size-in-2022-is-estimated-to-grow-at-a-modest-cagr-of-241-with-trends-shaping-robust-research-methodology-upto-2028-2022-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Edge Computing Market Report 2022-2026: Growing Use of Edge AI Technology in Transportation and Traffic Management - ResearchAndMarkets.com"
+    excerpt: "The “Global AI Edge Computing Market 2022-2026” report has been added to ResearchAndMarkets.com’s offering. The AI edge computing market is forecast to grow by $14.28 billion during 2022-2026, accelerating at a CAGR of 20.27% during the forecast period."
+    publishedDateTime: 2022-07-25T09:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-transportation-traffic-fc5bfd0e52d74e009c5e5de05c46f09d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Data Intelligence & Governance Market Report 2022-2026: Exponential Growth in Data Volume Fueling Expansion - ResearchAndMarkets.com"
+    excerpt: "The global data intelligence & governance market in 2021 was valued at US$20.55 billion, and is likely to reach US$36.27 billion by 2026. The data intelligence & governance market is projected to grow at a CAGR of 13."
+    publishedDateTime: 2022-07-26T10:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-d2eade83fafd40b09211272a31176b83"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "K/UDrnuTd88q9TUFOpfw1ncsKGqek8zWQ1fZ5Yskeg6uWsu1tLf4XR4lKjP8+AJIS1CfvTLpGlYroRa8qIfiGVrUAvi5NbVznIppkXaqSmMyv1WOs3czpEr+a0YfYRDpDuibf/Ny72RH/ygqRHF+MUqxoiVuqeqR0njb1EQapZF49qUxthQ5jEDlIfqobV+5XYDuXDiiEN0L6VYhkk0h6opszKftypQlhll49FVLIYuvQh7rFANCIRg8rsbcpFlLn/y4EA2qXSqlHXa0/o3/DMFb0s2W9LHWE/Q5L+z93eYPfSzZ3GCO+Guwqml0E+m5YVS9FHT6XUwhqDNq1SLvdTR3u4xNH8ygBZCPNM/rBXs=;Zu5GqJgt62sDWCQqxr9E1Q=="

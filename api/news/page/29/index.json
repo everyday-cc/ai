@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-06-28-self-driving-cars-do-you-trust-them-poll.md",
+      "title": "Self-driving cars: Do you trust them? POLL",
+      "excerpt": "More info The Transport Select Committee announced that it had launched an inquiry into the development and deployment of self-driving vehicles. They will assess safety issues and consider the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/Driverless-car-safety-trust-1632238.jpg?r=1656685782440",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt/amp",
+      "publishedDateTime": "2022-06-28T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam.md",
       "title": "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam",
       "excerpt": "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ...",
@@ -1079,49 +1122,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience.md",
-      "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
-      "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience",
-      "originalUrl": "https://www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/8d5b0eb/2147483647/strip/true/crop/3784x2130+0+195/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F07%2F10%2Fgettyimages-1240647400_custom-001103f3b4084fa17ed9f55cf1d7ccd2ffd58fac.jpg",
-          "width": 430,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true",
-      "cdnAmpWebUrl": "https://www-kasu-org.cdn.ampproject.org/c/s/www.kasu.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true",
-      "publishedDateTime": "2022-06-27T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KASU",
-        "domain": "kasu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

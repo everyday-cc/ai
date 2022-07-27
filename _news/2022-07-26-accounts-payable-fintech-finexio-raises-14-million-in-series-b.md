@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How cloud technology is shaping the future of fintech industry"
-    excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
-    publishedDateTime: 2022-07-22T11:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Souparno-Bagchi-COO-Balancehero-India.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Important Technologies And Developments Shaping The Future Of Fintech"
     excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
     publishedDateTime: 2022-07-22T20:39:00Z

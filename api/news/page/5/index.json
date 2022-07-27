@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
+      "title": "Should We Worry About Artificial Intelligence?",
+      "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
+      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami",
@@ -1099,58 +1142,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-darktrace-launches-new-family-of-security-ai-tools.md",
-      "title": "Darktrace launches new family of security AI tools",
-      "excerpt": "Darktrace announces the launch of a new family of security AI tools that use AI that can \"think like an attacker.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/darktrace-security-ai/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/darktrace-security-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334692234.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/darktrace-security-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/darktrace-security-ai/amp/",
-      "publishedDateTime": "2022-07-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

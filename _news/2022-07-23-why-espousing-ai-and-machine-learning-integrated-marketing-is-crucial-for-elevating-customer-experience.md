@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-an
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Challenges facing AI in science and engineering"
+    excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
+    publishedDateTime: 2022-07-25T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Rediscovering analog computing for achieving effective edge AI performance"
     excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
     publishedDateTime: 2022-07-23T13:50:00Z

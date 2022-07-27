@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How cloud technology is shaping the future of fintech industry"
-    excerpt: "Though businesses around the world battled with the pandemic, in many ways digital technologies experienced an exponential rate of adoption and cloud technology emerged to be a crucial facilitator. Cloud technology has assisted organisations"
-    publishedDateTime: 2022-07-22T11:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-cloud-technology-is-shaping-the-future-of-fintech-industry/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Souparno-Bagchi-COO-Balancehero-India.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Accounts payable fintech, Finexio, raises $14 million in Series B"
     excerpt: "US accounts payable payments as a service company, Finexio scored $14 million in the initial close of the Series B funding round."
     publishedDateTime: 2022-07-26T15:33:00Z

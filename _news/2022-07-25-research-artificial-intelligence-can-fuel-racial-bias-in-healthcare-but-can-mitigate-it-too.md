@@ -57,15 +57,6 @@ related:
         width: 1195
         height: 796
         isCached: true
-  - title: "AI, Data And Healthcare: Buzzword Bingo Or Elevator Pitch?"
-    excerpt: "After hearing the terms \"AI,\" \"data\" and \"healthcare,\" will this be your next investment, or should you flash your buzzword sheet and be skeptical?"
-    publishedDateTime: 2022-07-22T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/22/ai-data-and-healthcare-buzzword-bingo-or-elevator-pitch/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "The Future Is Bright For Artificial Intelligence In The Middle East"
     excerpt: "Artificial intelligence has seen a slew of investments throughout the Middle East, with many nations seeing the tech as playing a key role in creating a more sustainable future"
     publishedDateTime: 2022-07-23T17:00:00Z

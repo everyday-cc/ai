@@ -9,8 +9,8 @@ ampWebUrl: "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabil
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Network World
@@ -39,6 +39,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/aruba.png"
         width: 795
         height: 447
+        isCached: true
+  - title: "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge"
+    excerpt: "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls."
+    publishedDateTime: 2022-07-27T05:14:00Z
+    webUrl: "https://www.arnnet.com.au/article/700192/aruba-boosts-ai-capabilities-help-enterprises-manage-troubleshoot-edge/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 33
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_155254129_8.jpg"
+        width: 473
+        height: 315
         isCached: true
 
 secured: "Yy+07pcxBf5HNan6aXdeJGMlGFV8qzYZ2i8xFVe0LsBAxt1e9jEyCJjwkcEiIWzRmn97A7Nf/E/D4UToAD2QytsOcvzdNbzPkqUzONxOsUYj1n6JfflYZxHy3CaMZJLHwXKWnXzLR7umR4BXc28INz9Aix88P17up6UW2VOmbO8yeX+2irG1QbfAIQTieNyHCeVKyES7v2pQpmM67oGkhQNfX0rmXBZ3TMYu9fXNG2shltD/HjzpurEfBZ7+YUt7JM/WYnBoxO+tFFK25Hy4BKsEf8EMahubpHSSdIzSauym0DFaOqF3zlxr712a3ICaGfN9QXu2IZcPUvhXj4O68xpC1bmtVvbvDDzdnmoKok0=;pZMzBG7iW7oUeOOCKlWHdQ=="

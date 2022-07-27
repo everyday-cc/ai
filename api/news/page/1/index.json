@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-27-ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system.md",
+      "title": "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System",
+      "excerpt": "Ondas Holdings Inc. (Nasdaq:ONDS), a leading provider of private wireless data, drone and automated data solutions through its wholly owned subsidiaries, Ondas Networks Inc. and American Robotics, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "originalUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.suasnews.com/wp-content/uploads/2022/07/loss-of-containment-social-post.jpg",
+          "width": 2500,
+          "height": 1308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "publishedDateTime": "2022-07-26T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-scientists-create-robotics-using-dead-spiders.md",
       "title": "Scientists create robotics using dead spiders",
       "excerpt": "I learned about necrobotics and wish I hadn’t. This is a wolf spider: Admittedly it’s kinda cute (for a spider) and not venomous enough to kill you with its … Read More",
@@ -202,6 +245,48 @@
       ]
     },
     {
+      "path": "_news/2022-07-26-aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.md",
+      "title": "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge",
+      "excerpt": "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
+      "originalUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html",
+      "publishedDateTime": "2022-07-26T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-navigating-data-literacy-in-the-world-of-augmented-analytics.md",
       "title": "Navigating Data Literacy In The World Of Augmented Analytics",
       "excerpt": "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data.",
@@ -366,7 +451,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -855,7 +940,7 @@
       "originalUrl": "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1103,114 +1188,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
-      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
-      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "publishedDateTime": "2022-07-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-on-artificial-general-intelligence-ai-sentience-and-large-language-models.md",
-      "title": "On Artificial General Intelligence, AI Sentience, And Large Language Models",
-      "excerpt": "In case you haven’t noticed, artificial intelligence systems have been behaving in increasingly astonishing ways lately. Meanwhile, DeepMind recently announced a new model called Gato that can single-handedly perform hundreds of different tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62db485e94b10276a09391bd/0x0.jpg?format=jpg&crop=768,432,x0,y0,safe&width=1200",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/",
-      "publishedDateTime": "2022-07-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],

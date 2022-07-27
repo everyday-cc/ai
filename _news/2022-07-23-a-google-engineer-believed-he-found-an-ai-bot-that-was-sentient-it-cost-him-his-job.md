@@ -294,17 +294,17 @@ related:
         isCached: true
   - title: "Google fires employee who claimed AI system had become sentient"
     excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
-    publishedDateTime: 2022-07-26T15:40:00Z
-    webUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-    ampWebUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wkyt-com.cdn.ampproject.org/c/s/www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+    publishedDateTime: 2022-07-26T14:40:00Z
+    webUrl: "https://www.ktre.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+    ampWebUrl: "https://www.ktre.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
     type: article
     provider:
-      name: WKYT
-      domain: wkyt.com
+      name: KTRE
+      domain: ktre.com
     quality: 57
     images:
-      - url: "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/689FO99Do4LRnuas80nvQFP0_oE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QC72IULIUBEZVHGIQHEKZJP7Y4.jpg"
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/VgZK1uAkNN7WjrSOwA974rGhXkU=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZASIZRAFFVHDNFGMW4SIMOXJ2E.jpg"
         width: 800
         height: 450
         isCached: true

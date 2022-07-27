@@ -44,16 +44,16 @@ related:
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.salemnews.com/news/lawmakers-seek-limits-on-facial-recognition/article_5b7a4a71-eb47-5486-a91f-b3d41c834843.html"
+    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
     type: article
     provider:
-      name: The Salem News
-      domain: salemnews.com
+      name: Eagle-Tribune
+      domain: eagletribune.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
         width: 600
-        height: 315
+        height: 333
         isCached: true
 
 secured: "vc99OliyGobQmE+ifLv9YBRM6FXkqwkBFTEvodS4ef8sgDIxiC/Kj1BhWb4/bWjIZS3TQIbigGOu3UhR+2NZZEPH82EncMy51Q+TI0Jwh4hE0/ud0mu9Vuo3VgmE+5lliJwzxASbdtQQDh1vR6gN9v8GJr5Un/mnQJfYzyzXVuf5fpvd0PNlqUFzuS7TLSnAguRYQmCHIa4tnTaudS9J+im500GQBsAgygg+Ebtbi03sh0vWwgHLKlYXfsSr4VmonLLkRw9rCPhv+QsGnhSDg/5yabfzTAYwO0KiqfZEym+efd1mCqOyo19a9Upuupm405VwEhUhqjk/p2MugTJpSPbTCa0EqqXoEctfwVAqd/Kllw64nOhk/xKTZ0zO9zo8jFn4GMyjZj63esnXiZXlIYN+KGvr3pH38CjHbGT1pkXEbpWy4c/lGDe03mMdlwTi5a6XEKI9eHfeAFxOYtbgTdL0GG4jKUfb73PAXduTnVIxz/xMhLbQmgB6tizIZWZqALVJ+VkuYhzBiGW49EjD+g==;wB3AtyAvGTZY7FMsGsCMJA=="

@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-18-riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content.md",
+      "title": "Riot Games and AWS are teaming up to deliver fresh esports content",
+      "excerpt": "Riot Games is teaming up with Amazon Web Services to bring all new data analytics and experiences to esports fans around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Riot_AWS-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/",
+      "publishedDateTime": "2022-07-18T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-github-copilot-can-this-ai-programmer-really-improve-developer-productivity.md",
+      "title": "GitHub Copilot: Can this 'AI programmer' really improve developer productivity?",
+      "excerpt": "GitHub knows Copilot's code suggestions aren't always accurate or fast, but its engineers argue that misses the point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
+      "originalUrl": "https://www.zdnet.com/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/github-copilot-can-the-ai-programmer-really-improve-developer-productivity/",
+      "publishedDateTime": "2022-07-18T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in-growing-category.md",
       "title": "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category",
       "excerpt": "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey.",
@@ -284,49 +378,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists' concerns",
-      "excerpt": "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/as-ai-language-skills.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-ai-language-skills-scientists.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-language-skills-scientists.amp",
-      "publishedDateTime": "2022-07-18T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1149,58 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully.md",
-      "title": "AI Ethics Cautiously Assessing Whether Offering AI Biases Hunting Bounties To Catch And Nab Ethically Wicked Fully...",
-      "excerpt": "The latest in AI Ethics consists of AI bias bounty hunting, though this raises a lot of questions, including as considered for aiming at AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x182,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/",
-      "publishedDateTime": "2022-07-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -59,15 +59,6 @@ related:
         width: 1195
         height: 796
         isCached: true
-  - title: "AI, Data And Healthcare: Buzzword Bingo Or Elevator Pitch?"
-    excerpt: "After hearing the terms \"AI,\" \"data\" and \"healthcare,\" will this be your next investment, or should you flash your buzzword sheet and be skeptical?"
-    publishedDateTime: 2022-07-22T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/22/ai-data-and-healthcare-buzzword-bingo-or-elevator-pitch/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Research: Artificial intelligence can fuel racial bias in healthcare, but can mitigate it, too"
     excerpt: "While some healthcare algorithms exacerbate inequitable medical care, other algorithms can actually close such gaps, a growing body of research shows."
     publishedDateTime: 2022-07-25T01:18:00Z
