@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:37:00Z
 originalUrl: "https://techxplore.com/news/2022-07-ai-big-field-hydraulic-fracturing.html"
 webUrl: "https://techxplore.com/news/2022-07-ai-big-field-hydraulic-fracturing.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: techxplore

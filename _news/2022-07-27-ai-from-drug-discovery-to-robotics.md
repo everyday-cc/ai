@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/"
 type: article
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: Forbes

@@ -2,19 +2,28 @@
 category: news
 title: "Innovative Smartphone and Artificial Intelligence-Based Tests Featured at the 2022 AACC Annual Scientific Meeting"
 excerpt: "Test With Smartphone App May Predict Blood Clot Risk People who take the blood-thinning medication warfarin to prevent blood clots—which can lead to heart attacks—need frequent blood testing to ensure that the drug is working."
-publishedDateTime: 2022-07-26T00:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9645260.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9645260.htm"
+publishedDateTime: 2022-07-26T14:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "osVGCStFFjvFGRwvWl0g3kqRdIs2qJO6tqwMcZiZ42zWSTuBBN1vhEkMrXGR51xXSKH/r8re1qPPFAmSKgcxXoRfocOIgvEg/KW+FJjzHZ/iOWbqegnWULAjpWNHgcyrhSpIuq/Ea358NQnIPPAIQ2GBlsRCXG4aEhNcTgbZpB3vF02vx2td1VCrn5pmFfucoVwjliTNDdOlyo+ikYXyMt2uK64CW4nrLPDwIAZJpDyK3iE1Av1qs5nPLVIu8Jk762FZmllms2t3Lh90lDSA74eSa9Z792yEKvPh/dtLYI2glwRbQR9+wi7LYyBj7RhyWd3UO7CGtMMVAIvTcAT4QmYhnNxROBS+pXROGj8334I=;oCFU7A483hlGA7BJ7qXUVw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "YLeAHoA4UyG4ruXXIDWOSPVW9jJer5kc3hEUeCGSQwY5x9GHjaAawbYmd4rtTjNm7Smvr5aKm6eQirJmvh6tSop+TuXKtMIG4bakqJH//9nbYAg7Y4cLv896FT+EtYs0w0eo1LuQmIXc4aNnKAzrugbwsu3YjR5tuqYNxyuFgQjl1AHG7uP7VE0JKxmtxWcIFFKvRZyVcGykOkpjxeXmVZd/5CHg1vH2sgyQxLOmHqFdXRHvnA1w8b+KICNcDTW6WzfwgdCDA0U9KY8VmO9qfJeZs+k9GxcnlUO9q4mt6zCkmv9XFYTpn+0NTEl2tMIOT6AnChrWmH24l8025UQ2ceQKpV3/Gdmzxza81rdD4hs=;baBaV6C662NgNMawIVAQ0g=="
 ---
 

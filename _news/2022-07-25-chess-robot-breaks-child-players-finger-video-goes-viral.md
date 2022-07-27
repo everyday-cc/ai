@@ -107,6 +107,15 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
+    excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
+    publishedDateTime: 2022-07-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/27/ai-ethics-and-that-viral-story-of-the-chess-playing-robot-that-broke-the-finger-of-a-seven-year-old-during-a-heated-chess-match-proffers-spellbinding-autonomous-systems-lessons/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
   - title: "Chess Robot Breaks A Kid's Finger During A Match, Has Skynet's Uprising Begun?"
     excerpt: "A Russian robot trained to play chess fractured a seven-year-old opponent's finger during the Moscow Chess Open tournament."
     publishedDateTime: 2022-07-25T16:04:00Z
@@ -183,6 +192,15 @@ related:
       name: NBC New York
       domain: nbcnewyork.com
     quality: 16
+  - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
+    excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."
+    publishedDateTime: 2022-07-27T12:50:00Z
+    webUrl: "https://techxplore.com/news/2022-07-robot-finger-year-old-lesson-stronger.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 12
 
 secured: "0I7q1I6wL9b5pC6dYYv18qzSxPr3h8sV72AauVtpwMDihaOXI+x3jiSFj9c3WZRIb31S548aTRXCtLlWLRoZ00ZRn1TXzdIzkoiCO3cxR7aKgmvfk3BGj2q6wPf3DOgvC8xoufu/+G829G2uMtTLr5nQ+wUNHq5M4rPu/SujWPqhej8DGtNKkmV0ZuF7B7SK65w4nZ8RnCSKoh4zchcvu0XNenjIjm+gSWzzO3kDf/wGymPjQP+C3J7voqHjc9A7PjVycsAJi8IRZYrDsVxFa/KToj4DW/wk0z500V77Voi7yPpbyPYJNlK5NYZlqZRpp3W0IY/tcJKWDIQtF4Q38JZ3gafDFBZwOvrRfzKJ6ZdOc7ceY/FbxzuEGBH+7Bk7oGjGXjR0dYHHmrxTsp0GwSIr306mRcjzZnNs2RYASPsqYzcIAokIN3BDgf3Ood9rQv6GCwp6z/wx3j10myTaH1FBzUSfIxmEPj1XBhSRhb+so16gr/dbyHcO3aZuYp3LgOcnmbQjMIEpqu5jPFduGA==;A55GVwjllRX4dIVIr2m95w=="
 ---

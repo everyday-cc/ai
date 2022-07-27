@@ -123,6 +123,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
+    excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
+    publishedDateTime: 2022-07-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/27/ai-ethics-and-that-viral-story-of-the-chess-playing-robot-that-broke-the-finger-of-a-seven-year-old-during-a-heated-chess-match-proffers-spellbinding-autonomous-systems-lessons/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
   - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
     excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
     publishedDateTime: 2022-07-25T17:22:00Z
@@ -183,6 +192,15 @@ related:
       name: NBC New York
       domain: nbcnewyork.com
     quality: 16
+  - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
+    excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."
+    publishedDateTime: 2022-07-27T12:50:00Z
+    webUrl: "https://techxplore.com/news/2022-07-robot-finger-year-old-lesson-stronger.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 12
 
 secured: "jcv6yu5Ja4WFTWisXSRfwVq2iTIhWxXrPIwKCm2QV7zhrmz7BxJAqIILV2711vHEVAMFuns62fmoFJqcd8uWN3jcd11b/LVpsQkxhjswl8vLqGvbz5w6J9dTPSrKMzYw13p7Gx06ZkcNfNV6nI4HqMGUT9p1oI+Fw87FPd0gg4vrTfwL4pKKsyYe8uo9c/8SHDaaNThg4JbgtTMxVoeYgUkCx2X+BPZ6IolF+B7ugytfBMnQ/1gbIifBl3D+lLMHUlWvKYtep8IwP1MzF0OUSUEMPrNPUgQgP042yESYI9l4pIvmUy+vt2AQ0Otgw5poIw72Mpm0nJZdB3At6tdlQ0nG/CPw2I/DdrjNdj82C6cUwoquZiAWj1lwuI27Elycgcw2RWHJU2W6ME49LKXOXJNJatc3w3t8U/JP1JlEP0LvyFdw1pBVYHcsXs7jTBp/u2lZK/Tt/dCP9kJqTvZNi2qcXoeUVqHSwD467tdykHtP29cuo8NSfoSvI3Vy7RRpAqtC+U9HbsqWTy4DGtlGUw==;Taji2xCrMg5A4z4bcxTWNQ=="
 ---

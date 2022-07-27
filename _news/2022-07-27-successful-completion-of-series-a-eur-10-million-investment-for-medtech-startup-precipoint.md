@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:25:00Z
 originalUrl: "https://venturebeat.com/2022/07/27/successful-completion-of-series-a-eur-10-million-investment-for-medtech-startup-precipoint/"
 webUrl: "https://venturebeat.com/2022/07/27/successful-completion-of-series-a-eur-10-million-investment-for-medtech-startup-precipoint/"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: VentureBeat

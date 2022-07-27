@@ -53,20 +53,6 @@ related:
         width: 320
         height: 217
         isCached: true
-  - title: "Important Technologies And Developments Shaping The Future Of Fintech"
-    excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
-    publishedDateTime: 2022-07-22T20:39:00Z
-    webUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
-        width: 640
-        height: 407
-        isCached: true
   - title: "Global Fintech Funding is On The Decline with Largest Quarterly Fall in a Decade"
     excerpt: "After a blockbuster year 2021, the venture capital (VC) market for startup investment is now pulling back amid uncertain macroeconomic conditions and market turmoil."
     publishedDateTime: 2022-07-26T09:00:00Z

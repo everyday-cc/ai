@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:29:00Z
 originalUrl: "https://menafn.com/1104601514/Canvass-AI-Named-In-2022-CB-Insights-Advanced-Manufacturing-50-List"
 webUrl: "https://menafn.com/1104601514/Canvass-AI-Named-In-2022-CB-Insights-Advanced-Manufacturing-50-List"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

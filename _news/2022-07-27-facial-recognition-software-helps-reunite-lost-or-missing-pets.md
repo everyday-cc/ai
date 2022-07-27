@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ksby.com/news/local-news/facial-recognition-software-hel
 cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KSBY 6
@@ -27,20 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "The ultimate retail experience starts with facial recognition"
-    excerpt: "This eBook will explore biometric technology and how retailers can leverage it to enhance the customer journey without compromising trust and security."
-    publishedDateTime: 2022-07-22T22:36:00Z
-    webUrl: "https://www.biometricupdate.com/202207/the-ultimate-retail-experience-starts-with-facial-recognition"
+  - title: "Facial recognition: The tool of despair and hope"
+    excerpt: "There is increasing use of biometric solutions like facial recognition to reduce fraud, protect data, and safeguard operations."
+    publishedDateTime: 2022-07-25T20:37:00Z
+    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-the-tool-of-despair-and-hope"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/22182737/shopping-face-phone-scaled.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
         width: 2048
-        height: 1365
+        height: 1536
         isCached: true
+  - title: "Lawmakers seek limits on facial recognition"
+    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
+    publishedDateTime: 2022-07-26T21:00:00Z
+    webUrl: "https://www.salemnews.com/news/lawmakers-seek-limits-on-facial-recognition/article_5b7a4a71-eb47-5486-a91f-b3d41c834843.html"
+    type: article
+    provider:
+      name: The Salem News
+      domain: salemnews.com
+    quality: 19
 
 secured: "AdLq6r0VOI1xpY0tC7AP8ASqOm6nutSGMsEyh5tvvj/lkgatPA+5o5UDBb1jFV1AwKum6vJOBUX5Y3MtnczkN3czdxqRMS/AWHsXOZZCN3k5FWLcZLl5Sd4qYWxmKZBTCRDQoVxrEIl2mOXyBAB6+2QC7ZWN0LtlbKCfKQNa013mi2HtoWCi6nJj/VGvq1lmE6Lx+l7bcUQlOSQ8iIPrjcgBK2CGdgFQCzkLGtdvXfLJuFDnOgLFSIS8qNBnMJd7hCt9sLPZA/D+OOrPZ9SBp4pYLrKFDubqZjsD84zvEycMFBif5WSV+aymp9DyD4jcI+oY5ZWvgxcqcdMtVg9uR16f0CCmfEsukTGzLJTvc2puTwh3JUAK/Ta6a+zzgO3n8YvhB+rL7R2ElOpQUp8hkPw63GNuX1SJTcqA8WURwUji3tkRGKy7eM4tJS2/MKSNWdEhL7m1QMwcbKfmjJMMHIIl0SrA2x/L6VA+h52ytYQCTi6mSgAVDXmKg/JIRNl4ZV+ttpYHm9a6RXJoG7BAkA==;ryQ77+DkQ3sp1WpBEBRaoQ=="
 ---

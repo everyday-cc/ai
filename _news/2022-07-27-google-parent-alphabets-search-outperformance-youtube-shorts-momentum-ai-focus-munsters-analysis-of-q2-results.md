@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:59:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/google-parent-alphabet-s-search-outperformance-youtube-shorts-momentum-ai-focus-munster-s-analysis-of-q2-results-1031620455"
 webUrl: "https://markets.businessinsider.com/news/stocks/google-parent-alphabet-s-search-outperformance-youtube-shorts-momentum-ai-focus-munster-s-analysis-of-q2-results-1031620455"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Business Insider

@@ -24,6 +24,17 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Automatic Content Recognition Market Size is Projected To Reach USD 4879.5 Million By 2028, at a CAGR of 17.4% - Valuates Reports"
+    excerpt: "Automatic Content Recognition Market is Segmented by Type - Acoustic & Digital Video Fingerprinting, Digital Audio, Video & Image"
+    publishedDateTime: 2022-07-27T13:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/automatic-content-recognition-market-size-is-projected-to-reach-usd-4879-5-million-by-2028-at-a-cagr-of-17-4-valuates-reports-832032972.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
+
 secured: "X8eErgqSyN8oCe1A0JCkxIImPAPMS+MJAgLs4wrqpAUP1dHWDYjfnSqAc7Qz8RcqZCa0fPZf+UhnxcfATFue+3MfHIczxEeW7zXsMCubzt2KdOxWwyz4xRyRD8VObEZeU/51ISYWYamOQf9flGr0zLB5RzFywrjm5JraJUmlC/7U2eM03z8HZqcT0cSGybw4GKlcYastEuPOWjSjnpmf6W3gN4iy2J6F9AmKKovobVjNYHfbzdCl419koXqwdEYinoneZ36LT9nPXlOMvj7it5lY4igIVm+vYDRUwLAbXHHOX79FFT6IFOeFRNan13xOpa5O1RnI5+wyl2ZA5m+lv7knA+JKozvaSqQNaxO8PRQ=;cqZijjOqg4cJFGuuhHHH0g=="
 ---
 

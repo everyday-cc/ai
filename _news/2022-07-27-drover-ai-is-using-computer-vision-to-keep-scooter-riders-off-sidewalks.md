@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/07/27/drover-ai-is-using-computer-vision-to-keep-scooter-riders-off-sidewalks/"
 webUrl: "https://techcrunch.com/2022/07/27/drover-ai-is-using-computer-vision-to-keep-scooter-riders-off-sidewalks/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

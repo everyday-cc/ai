@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintec
 webUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.bobsguide.com/wp-content/uploads/2017/01/72807.jpg"
         width: 320
         height: 217
-        isCached: true
-  - title: "Important Technologies And Developments Shaping The Future Of Fintech"
-    excerpt: "Fintech is rapidly advancing. No matter who you are or what industry you're in, it's worth paying attention to the latest developments. In case you aren't already familiar,“fintech” is a combination of the words“financial technology."
-    publishedDateTime: 2022-07-22T20:39:00Z
-    webUrl: "https://menafn.com/1104577184/Important-Technologies-And-Developments-Shaping-The-Future-Of-Fintech"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/22/V_83d23image_story.jpg"
-        width: 640
-        height: 407
         isCached: true
   - title: "The future of fintech and how to get involved"
     excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."

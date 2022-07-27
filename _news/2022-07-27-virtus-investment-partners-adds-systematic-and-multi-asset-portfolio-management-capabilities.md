@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:36:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/virtus-investment-partners-adds-systematic-and-multi-asset-portfolio-management-capabilities-1031620271"
 webUrl: "https://markets.businessinsider.com/news/stocks/virtus-investment-partners-adds-systematic-and-multi-asset-portfolio-management-capabilities-1031620271"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Business Insider

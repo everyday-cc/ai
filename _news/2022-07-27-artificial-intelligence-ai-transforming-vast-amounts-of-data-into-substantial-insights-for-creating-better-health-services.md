@@ -8,8 +8,8 @@ webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligenc
 ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-ai-transforming-vast-amounts-of-data-into-substantial-insights-for-creating-better-health-services/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-ai-transforming-vast-amounts-of-data-into-substantial-insights-for-creating-better-health-services/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

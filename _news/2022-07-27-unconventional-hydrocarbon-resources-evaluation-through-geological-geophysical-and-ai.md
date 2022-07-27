@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:47:00Z
 originalUrl: "https://www.frontiersin.org/research-topics/43632/unconventional-hydrocarbon-resources-evaluation-through-geological-geophysical-and-ai"
 webUrl: "https://www.frontiersin.org/research-topics/43632/unconventional-hydrocarbon-resources-evaluation-through-geological-geophysical-and-ai"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Frontiers

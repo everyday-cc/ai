@@ -24,6 +24,17 @@ images:
     height: 490
     isCached: true
 
+related:
+  - title: "Republican who voted against marriage equality gave moving speech at son’s gay wedding"
+    excerpt: "\"We love it when they find their one true love, especially when they become a part of our families then. That’s what we’re rooting for,\" Rep. Glenn Thompson"
+    publishedDateTime: 2022-07-27T12:36:00Z
+    webUrl: "https://www.lgbtqnation.com/2022/07/republican-voted-marriage-equality-gave-moving-speech-sons-gay-wedding/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 11
+
 secured: "hD5a+MeLkfkvQtTaDM1HBuiadp51wYlKgRpTxpJVWiwlytVtt6FF1L/AUkrzvosw73sW8az54NFz4mpBUQ2veR1Y1DlHinUJnQlXrnh7ha3/PBo0WvSCpsMG1nBZLrytGkrDd8V2APsUdwgyxv/+UxmP0bcgI5MTZuzRs1ugZ3h6IhLUs2IzugU4m8YX19Zqh5hTbYK7hmAj5hGTwv6xEZ4lp7uTvtl/UpV9SFeLfFdkI4c1l8eqPcnJG1wIi/JqVcFJXiTfthlThUoc0efkA8Rx3fwuZd3dUCgqDob7O8Ks99n11scJqmPbguTwRcIkZGTrCBTDFG4wxYnqZBqeqetWKRkd/7ORbV5AUwhx2CJzq+BBVWLLudfQr2jYZ0rRmoyRfXWUG4GDNdkCLr+UZh14Dy6eS1BUq+t6L3BvNxoV8r4gVR9QiIDCM+eGT5YmQgaEOCzhS04VKdFTZbMfD/A5hPx2F+2k17pX7/n4EuYhcRPkC6IZSFe6zQf9naBchV9vBW9SbW4yk29bnVY68g==;F5ljGdeHNQy+mvWVQ0su0g=="
 ---
 

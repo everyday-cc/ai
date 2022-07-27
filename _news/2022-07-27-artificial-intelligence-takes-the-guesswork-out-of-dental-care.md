@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:22:00Z
 originalUrl: "https://scitechdaily.com/artificial-intelligence-takes-the-guesswork-out-of-dental-care/"
 webUrl: "https://scitechdaily.com/artificial-intelligence-takes-the-guesswork-out-of-dental-care/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SciTech Daily

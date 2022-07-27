@@ -85,22 +85,15 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
-    excerpt: "Kanverse.ai, a Hyperautomation company, has announced the global launch of the Iolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Iolite release in"
-    publishedDateTime: 2022-07-26T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28210328"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28210328"
+  - title: "Lawyers Expect Growing Litigation From AI Hiring Tools Violating Discrimination Laws"
+    excerpt: "As more state, federal and international regulations are shining a light on how AI hiring tools can discriminate, lawyers say employers need to be prepared, as it's only a matter of time before we start seeing lawsuits."
+    publishedDateTime: 2022-07-27T02:48:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2022/07/25/lawyers-expect-growing-litigation-from-ai-hiring-tools-violating-discrimination-laws/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 10
 
 secured: "A/2yuo65Q/LHBf4VeirNcblYqE1I05DJNgu2upWyi+W2GIenDk3NLf5h+xKfmQ4gYjSjd9Lv6kwoJy07L94dNxPykiUE4deAgvpDvKXW0DXwe7e7V0nP2qaUSSk7cOfsXiyfxmqwcJrQaYwj/pcUmUznMHQUQkeiabZwxldjBhScEUnXfKOXdvXZkA+V2Uu21vqxWsYHk9VCzOkss6dCBetIYyyQ8tTNBWVFQraHL23kKwE9Qej0JgqtD7gb3jNMhLQvuhoDXSsBSZrkCYwGru7rkvEutE7Zo/4bULzxxF2nc+2Y77Po28wJ/ILKIi4IOGUr4HhtOawZhTMf+aMJTHdzd+otIgUVfEfsETtnVdsB1IMhn+ZKMwhor1khSvWa8l95rq43LOOo04AH5wVCujW1tilsQtQDmYKLnkZ9WCvOL4FH4FvEHNKxrOw3nvJHkqZI2k6fI5Ohy4sVgDT1EFRikaDWCPZhjGPBt3hvCq6KBkPh+eBPqQCX2RpkGH4R+JK8NDEZg6jOmEbJ4O0uVg==;2sKzs/84m2p2Izi307n/6g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:01:00Z
 originalUrl: "https://www.9news.com/article/sports/nfl/denver-broncos/cocktail-bar-empower-field/73-a23dcd1c-1b42-48ca-86ad-9a7331b73242"
 webUrl: "https://www.9news.com/article/sports/nfl/denver-broncos/cocktail-bar-empower-field/73-a23dcd1c-1b42-48ca-86ad-9a7331b73242"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: 9NEWS

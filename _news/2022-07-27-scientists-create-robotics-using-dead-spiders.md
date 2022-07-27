@@ -9,7 +9,7 @@ ampWebUrl: "https://thoughtforyourpenny.com/scientists-create-robotics-using-dea
 cdnAmpWebUrl: "https://thoughtforyourpenny-com.cdn.ampproject.org/c/s/thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

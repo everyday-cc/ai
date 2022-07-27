@@ -9,8 +9,8 @@ ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recogni
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: 61
+published: false
 
 provider:
   name: Protocol
@@ -25,31 +25,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "US local and state leaders push for police use of facial recognition"
-    excerpt: "New Orleans ban on the police use of facial recognition has been reversed. City council this week returned use of the surveillance tool."
-    publishedDateTime: 2022-07-22T21:14:00Z
-    webUrl: "https://www.biometricupdate.com/202207/us-local-and-state-leaders-push-for-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "New Orleans OKs some police use of facial recognition"
-    excerpt: "The New Orleans City Council has reversed itself and approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes. The ordinance, approved by the council on a 4-to-2 vote Thursday,"
-    publishedDateTime: 2022-07-22T19:45:00Z
-    webUrl: "https://www.chron.com/news/article/New-Orleans-OKs-some-police-use-of-facial-17323307.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "X3kXlVvwI0Bq4J8ffIBtszdhXsAia7XOgXPTCge1w2Yle2gEe8gWgf9uwO8W1q7/aWXFADA4zFcwFscN8/ohlXNJtzQcoWglukHzIVfRdRYAsSOO1B7A6LFwMr/k2+wq5JQ5O3nWTcP6iwv5abTaJUpNuK5lkAeYFyZlpMtsJPcaGmNExuA7/SXiJxf8iMl3B/wJ7dGdWeid+tz1lZElH2dsd4figmI/urx3KKIPYoPG9x66ztORMNysxYTOOnzOI6xHn1XENR81QR1YQgnnjv4IJYUnaOP9QyQpG/3PCX/V5il/7yCDdT4yvIshE+m3cXx8z7+r9QwdNDTy9JlIujZ2hANlnBA5SY6IwIF/POG8ubgor2KkeutKAhI3x3ivLRTesfkWxY4N6pO3avB8PxeT14UfT+SYvSYkFXQcS5CoHzemTC4CsBlFK4wRWEs71QecO55eQN5RaV95vSpp2AljxjO8UTJtkxmOkhoyRWwulJx14NjDFveYW/YYN8XSsnEo8jC531pGr2J6CtuWrA==;v8hCQPojYzL4rUsbplcR/A=="
 ---

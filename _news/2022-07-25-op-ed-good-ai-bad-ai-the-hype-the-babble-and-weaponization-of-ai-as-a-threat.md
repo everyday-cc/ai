@@ -64,6 +64,15 @@ related:
         width: 600
         height: 480
         isCached: true
+  - title: "Automatic recognition of jellyfish with artificial intelligence"
+    excerpt: "The jellyfish sighting app, MedusApp, recently incorporated artificial intelligence (AI) to automatically recognize different species of jellyfish. Until now, this app only required users to select the species of jellyfish from a catalog provided;"
+    publishedDateTime: 2022-07-27T13:28:00Z
+    webUrl: "https://phys.org/news/2022-07-automatic-recognition-jellyfish-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "w0IXW6yzo+vZPNB2X5Mj7xuTKiHk9KQo/IgInsyik+B88kvHXLgFf3OaxDw+ySx/zPomwq1iUPtszAszsmA0HCA5vXTemNxPH/f7gO/YvvDieHfrM2pgjbdCWntyTjuftj/aOh8OUCoS4Yys4bGi4ZEFdhcTQRB6Z72e/YeCyPV0lVsWHtMZnBypkjM26pe0qtvEfbNTFqtuCTyEJfHtBzAoHVyD0CAqT6hC0BG6BueRawn2KtW3voSVj6lFDGM7Ja79uR6ICMPXRbALN3z9ce4cFGxttxtElvZGPeRZqg8tw8eST+/gFWDK6EDrOelIkTRbCNy8qiVkQsvmOxwYN6cDnmAGXaF4/w0LLJ3WbtTAB7Tj0PyAOPmFI10rhmBWSWFTRmBGJeKQ6QToqMPbwi0pjVR90RpMCBvj9VlEdoBA+ORNGE5L0ERxi/C0d/aYRLrAyhtHKc1Tc6DQ09dUN/LKAq8QS7Uxv7t4sJh4xiUER2rKP0zowS7e1OU5Ef0Qp3Qw44rsYJHgd+/g+wQNog==;c0uNDQ+OS0kF44CPCKi3cg=="
 ---

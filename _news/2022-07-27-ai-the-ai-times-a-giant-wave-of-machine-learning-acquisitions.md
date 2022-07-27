@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:25:00Z
 originalUrl: "https://betakit.com/ai-the-ai-times-a-giant-wave-of-machine-learning-acquisitions/"
 webUrl: "https://betakit.com/ai-the-ai-times-a-giant-wave-of-machine-learning-acquisitions/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: BetaKit

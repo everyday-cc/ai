@@ -1,29 +1,45 @@
 ---
 category: news
-title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
-excerpt: "Dubai is just months away from launching its first driverless taxi and e-hail services. By 2023, Dubai will be the first city in the world to commercially operate Cruise self-driving vehicles outside the US."
-publishedDateTime: 2022-07-25T10:16:00Z
-originalUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
-webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
+title: "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists"
+excerpt: "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ..."
+publishedDateTime: 2022-07-25T08:41:00Z
+originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
+webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675"
-    width: 1200
-    height: 675
+  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "C6VN3IpvaIrTyPcWrQaN4sq2kAX3nhZCcbI/vXXwnf3+cgtpTUIuF5NAR+3L5sp0Wlmfg2qtyyw4og12wlUX38bN00IuhSoHMxRlipocnapagqM9bH2OpoxkYvFsomhVAvTC/mI+ZKYQvfVo6El9qLhFnB3oMXmgBrGvplNskBRlwHxj8BROXfpG5sxwiOaNbWsCnhG91m6oC0rIo4RlpKQkk2TRsZyDc+eRYX2uCHrr7OqNEMmzq/zesM19Unn+uG1ZtWdJ8IfX61B4AuQQQEKms11TFo+esPkB3w1RpiIdd4YA1BnPRCfWyxTyWsHKml7VF+8dcX61MNVgJ5GtEEVW80TrC5PcGIVE1MGNcuM=;EB7ki7wz3KSiWc7tnPOxKw=="
+related:
+  - title: "Pioneering partnership could involve Lotus in driverless revolution"
+    excerpt: "Lotus Engineering has teamed up with a Swiss-based invention firm in a move to help revolutionise how we travel, including"
+    publishedDateTime: 2022-07-27T15:08:00Z
+    webUrl: "https://www.edp24.co.uk/news/business/lotus-engineering-partnership-with-iprova-9172038"
+    type: article
+    provider:
+      name: EDP 24
+      domain: edp24.co.uk
+    quality: 39
+    images:
+      - url: "https://images.cm.archant.co.uk/service/social-media-image/267776/8743520/1/6217202-2/Lotus.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "rykjNYuSp8FnzvM48iHtDsxoBiu4U7IbXlxuPEmqEzxBBqg/KKlbJKrUtOBM+rdauRoxBvsw5S7eFqKBmKaizT7Z7tI2fIkFJk+KkNeMB9rFyH3Bd5vN8HSfNrf3dZ4KK9AJrksDMEkSvAm/ii58yU9E4KmTZX7oGg/RajrOfOpQXSYa4uFC3Etd7N9yxv6ko/yZlr/nkfznlmjZT9NpR6Udas4eGF0AH0+T4kfE9jH8DW7okqAzIpfdr/kBceaDNhDdJijZVJTu8jgMya0IIERUnkW9zleGDsufDWBJyw/kGbLCvQ6qZMlg3kch8GSe/ZswoHPYNFpIWH6cGgpo3We5dAwKBKshaPdni3iFxXQ=;kTn7ccsPYRBRNcdrZGvPVQ=="
 ---
 

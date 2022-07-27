@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T12:05:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/etrendy-2022-7-27-ai-powered-crypto-start-up-sumo-signals-closes-55-million-funding-round-led-by-ondeck-venture"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/etrendy-2022-7-27-ai-powered-crypto-start-up-sumo-signals-closes-55-million-funding-round-led-by-ondeck-venture"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Daily Herald

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:40:00Z
 originalUrl: "https://medicalxpress.com/news/2022-07-link-dopamine-based-reward-machine.html"
 webUrl: "https://medicalxpress.com/news/2022-07-link-dopamine-based-reward-machine.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Medical Xpress

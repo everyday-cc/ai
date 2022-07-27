@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-in
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Medindia
@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Dynamic mental illness indicators caught by advanced AI in brain imaging"
-    excerpt: "New research by Georgia State University's TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer's disease, schizophrenia and autism—in time to help prevent and more easily treat these disorders."
-    publishedDateTime: 2022-07-22T19:41:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp"
+  - title: "New AI technology may aid in the discovery of therapeutic agents for neurodegenerative disorders"
+    excerpt: "A research group from Nagoya University in Japan has developed an artificial intelligence for analyzing cell images that uses machine learning to predict the therapeutic effect of drugs."
+    publishedDateTime: 2022-07-26T02:40:00Z
+    webUrl: "https://www.news-medical.net/news/20220725/New-AI-technology-may-aid-in-the-discovery-of-therapeutic-agents-for-neurodegenerative-disorders.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220725/New-AI-technology-may-aid-in-the-discovery-of-therapeutic-agents-for-neurodegenerative-disorders.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220725/New-AI-technology-may-aid-in-the-discovery-of-therapeutic-agents-for-neurodegenerative-disorders.aspx"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg"
-        width: 1920
-        height: 720
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/6/synapse-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Five alternatives to using AI in the recruitment process"
+    excerpt: "AI can highlight recruitment keywords, but it can’t read between the lines or recognise talented people who may not have on-target resumes."
+    publishedDateTime: 2022-07-25T00:37:00Z
+    webUrl: "https://www.smartcompany.com.au/plus/ai-artificial-intelligence-recruitment-alternatives/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/07/recruitment-ai.jpg"
+        width: 733
+        height: 358
         isCached: true
   - title: "AI spots early mental illness"
     excerpt: "Autism, schizophrenia and Alzheimer's all spotted early A new artificial intelligence (AI) is capable of spotting mental health conditions by sifting through brain imaging data to find patterns linked to autism,"

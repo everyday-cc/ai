@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Data Management, AI Automation Tools Are Top Investment for Financial Firms, Broadridge Survey Reveals"
-    excerpt: "In addition to data management, firms are also “investing in AI and automation (23%), more human capital ... As covered, Broadridge Financial Solutions is a global Fintech “with $5 billion in revenues, provides the critical infrastructure that powers ..."
-    publishedDateTime: 2022-07-23T11:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/193971-data-management-ai-automation-tools-are-top-investment-for-financial-firms-broadridge-survey-reveals/"
+  - title: "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA"
+    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations."
+    publishedDateTime: 2022-07-27T13:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 23
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Tools-Work-Fix-Wrenches.jpg"
-        width: 1280
-        height: 906
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
 
 secured: "qhFhlqiQ3OoNtC+S5koCubBUZnX+7NQlzQ+lF7gXGkIU59l1g+XQo1NWtxCaJsyyeiGp9wt1BGXZUCMrqeMyF38/8qfT585G/u8/5q8CsMuQsFy6v8TYZWYdbaBNJZr1x2hQqqPEvZC/7Q0XNd5ePAl+x+eAQQH16Cc9d2G5tR+o9MVyN0w6GUUCBOcIicjfa330fLfpxZck37+MCDgspfzmvhocaKhR2Vgfm7+mjC5Pv8PPyJrxMuth+1vzHsBh7358oaT8tT0t5J5WdR+rV/sJ+L4ujNnZM05zpAbRcq10d2TKeewRlvWX1HG8IjcT2qNpAfPWedDRP5ngBrlqYSjXre6WliSdeXW2p9R6Lig=;tFEv/QZ8OB1vnTLEJKQejw=="
 ---

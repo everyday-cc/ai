@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:19:00Z
 originalUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
 webUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SciTech Daily

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:31:00Z
 originalUrl: "https://www.dbta.com/Editorial/News-Flashes/SAP-Acquires-Askdata-to-Support-AI-Driven-Search-154072.aspx"
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/SAP-Acquires-Askdata-to-Support-AI-Driven-Search-154072.aspx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: dbta.com

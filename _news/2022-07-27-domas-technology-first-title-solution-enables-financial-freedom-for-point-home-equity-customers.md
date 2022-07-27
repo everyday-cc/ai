@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:10:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-8d2a4015e15b4b028f2ee53fd4d94a10"
 webUrl: "https://apnews.com/press-release/business-wire/technology-8d2a4015e15b4b028f2ee53fd4d94a10"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

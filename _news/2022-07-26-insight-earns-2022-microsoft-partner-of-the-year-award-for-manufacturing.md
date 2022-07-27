@@ -20,14 +20,14 @@ topics:
 
 related:
   - title: "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta"
-    excerpt: "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard"
-    publishedDateTime: 2022-07-27T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837"
+    excerpt: "SafeGuard Cyber, the leading provider of security and compliance solutions for email and communication-based threats, today announces automated response and multi-channel user onboarding with Microsoft Azure AD and Okta integrations for its security and risk management platform."
+    publishedDateTime: 2022-07-27T11:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-451a3c55fc56cafe7e01e55450a757cb"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
     publishedDateTime: 2022-07-25T15:57:00Z

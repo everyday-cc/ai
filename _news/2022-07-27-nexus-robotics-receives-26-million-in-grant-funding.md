@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:05:00Z
 originalUrl: "https://www.futurefarming.com/tech-in-focus/field-robots/nexus-robotics-receives-2-6-million-in-grant-funding/"
 webUrl: "https://www.futurefarming.com/tech-in-focus/field-robots/nexus-robotics-receives-2-6-million-in-grant-funding/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: futurefarming

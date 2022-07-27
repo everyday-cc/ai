@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "The Download: Chinese robotaxi drivers, and AI gun detection"
+    excerpt: "A day in the life of a Chinese robotaxi driver When Liu Yang started his current job, he found it hard to go back to driving his own car: “I instinctively went for the passenger seat. Or when I was driving,"
+    publishedDateTime: 2022-07-27T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/27/1056476/download-chinese-robotaxi-drivers-baidu-ai-gun-detection-schools/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+
 secured: "gzCb8itBKrgqKHerQyobsbZ/NmmxGGtVYYUjebTRufmffVQqAR/IvvSyuVMalnQhkAU9IPoWwVNylAA9RbjrtUnFskbhFoy29p9lShOZiRKKTMFx033HX6XXyOCRq5lvFCLJ1t3IxvosMruV0EP3bbjHa9bRQBEXpRngfJdrAekfgne3e2VebmRL/lQ8q7DVzAOOi3RkBRVG3iaptbrz2O1poP0RrueYSZadXhm59B5rLuElmLoxOxI+c1vd5DZMY6ls+OqGkROasEKwAAi4PdureLGvgakFGEhA49Bri7rvHON8JCsh480JZlSlQKEyiR3AFb5NBJx6lH5bRULWKgWN8k+TwVsJjChMNvitJkcKWfv4Cmt4BGUIsoYMxm632SPWcq4UqBAo9luYWR9U/+YL2UF0KmiSV/nxRkgDHJgA1Bi0KPcUgKB8Undt2omBs1YFKGLwitWQBL9pZ4GzxKMX/Ry5n7j0eOF1ruNQNdPCh8IXOj9bYqMbKxMlhrUS5MEtEdF6gHrdoNX7Q5fLvw==;SfSyNePyWXiQ6RB3EM9OnA=="
 ---
 

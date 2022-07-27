@@ -24,6 +24,17 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "How facial recognition is being used to track and protect pandas"
+    excerpt: "Researchers at the Chengdu Panda Base in China have developed facial recognition technology for pandas to help aid in the conservation of the beloved creatures. NBC’s Janice Mackey Frayer reports for TODAY on the AI technology."
+    publishedDateTime: 2022-07-26T12:38:00Z
+    webUrl: "https://www.today.com/video/how-facial-recognition-is-being-used-to-track-and-protect-pandas-144805445811"
+    type: article
+    provider:
+      name: Today
+      domain: today.com
+    quality: 19
+
 secured: "neRBfi7Be9w1inf+Ct7jKdfDw2i7gSZmz32ECIa9e5Dr8YKCq9VvAR1BnxEBCCGs4+T4a37kOb8QaN9+3kf7ScMr+xsI/9hI+KUaPc4qV4290SzuRRWdbvq4OPZi6BuSc8FtqXFuAhZi7mrE9kUS4YXbEDDFAUY/YFBsC11/ImMvS7RL8ztZNP65tatwTn66y+R2100RaB9BOtxij6H+cS7CagK2KA5qSgtz0oInQXCj0EeY/1sVA3kkJE/4olNdTlcjvD8guSiZVRKiCjqY8Ix6xA3V/KcQNUSQBGbt3I/6ve7ftfuPxfoB4SCZx4huWRMK+bd7ad2DyemmPg2WZQ+phdDqL5s/yKPrvEntrlc=;z21kjU3uglbpRmS3pWM5Bg=="
 ---
 

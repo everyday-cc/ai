@@ -101,22 +101,6 @@ related:
         width: 401
         height: 300
         isCached: true
-  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
-    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
-    publishedDateTime: 2022-07-25T04:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/2a97f735d6e90e45fd0c7ff8e12a4ea850373cac/0_0_5207_3126/master/5207.jpg?width=620&quality=85&auto=format&fit=max&s=3ef6ea1d542584779a81d907da4e31ce"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Australia remains an AI laggard, new report warns"
     excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
     publishedDateTime: 2022-07-24T15:08:00Z
@@ -173,6 +157,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Kmart and Bunnings pause using facial recognition after OAIC investigation: Report"
+    excerpt: "The Office of the Australian Information Commissioner (OAIC) began probing after Bunnings, Kmart were reported to use facial recognition tech in stores"
+    publishedDateTime: 2022-07-27T12:13:00Z
+    webUrl: "https://www.medianama.com/2022/07/223-australia-information-comissioner-kmart-bunnings-facial-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 28
   - title: "Hashtag Trending July 26 – Australian companies stop use of facial recognition tech; U.S. social media laws; Intel and MediaTek agreement"
     excerpt: "Australian retailers stop the use of facial recognition technology, more American states are working on laws to control social media, and Intel announces that it will produce chips for Taiwan’s MediaTek."
     publishedDateTime: 2022-07-26T09:00:00Z
@@ -189,6 +182,15 @@ related:
         width: 1500
         height: 1500
         isCached: true
+  - title: "Bunnings and Kmart halt use of facial recognition technology in stores as privacy watchdog investigates"
+    excerpt: "Office of the Australian Information Commissioner examining whether use of the technology is consistent with privacy laws"
+    publishedDateTime: 2022-07-25T04:38:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/25/bunnings-and-kmart-halt-use-of-facial-recognition-in-stores-as-australian-privacy-watchdog-investigates?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 3
 
 secured: "MoHsGB2W8AG3OoSlqJvZaRamMlTh+QehsOoqIX4XNGX4h8ABbBo0vMH7n5lyHK0VLa7P9lMxeldozBC7jTuRgKfpK2jy8hAMdkMKd5iDajo67NFQauTdqu2l6VRvrgfF6fLJXIDd1UXKOqaj0b+7INU9UH69mmnF9wAVUIKXOq2KcA5oXX/SfueoDhykrGevkDqIVSCH1iILizyUyDstDsrvWGwPlfz1QCA/4P6KnrTb7chH3l36T2qDFfYgYrBJ/dd0ToZ2h/kakOOEVJyM2688K7OxWudpXeXn3RwWImn1DAYSRar4oEHSnJBM79Md7zHGo98EW/TXee20tUJ4ja2+9DlFGSiZayqYTIT0F2zwZqu3ZV7EW5RIL94/iq59ec8Tj2P1NQ8iCtshCXjsG9PJ8esDaUfQn7RZlRxyZi0SI8u+mbWcJOAoFqwSpi+vjdfQRwHtZS9Uulg/EcPmKNCpULqixSMWcEHTOnblNlqRjE8L77FaTU7pdmljKxWofkHwmvYgm/AEvu9EL6ljEw==;yymY+bxECW0LN2+dlvGhbQ=="
 ---

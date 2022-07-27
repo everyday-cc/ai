@@ -107,6 +107,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
+    excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
+    publishedDateTime: 2022-07-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/27/ai-ethics-and-that-viral-story-of-the-chess-playing-robot-that-broke-the-finger-of-a-seven-year-old-during-a-heated-chess-match-proffers-spellbinding-autonomous-systems-lessons/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
   - title: "Chess Robot Breaks A Kid's Finger During A Match, Has Skynet's Uprising Begun?"
     excerpt: "A Russian robot trained to play chess fractured a seven-year-old opponent's finger during the Moscow Chess Open tournament."
     publishedDateTime: 2022-07-25T16:04:00Z
@@ -183,6 +192,15 @@ related:
       name: NBC New York
       domain: nbcnewyork.com
     quality: 16
+  - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
+    excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."
+    publishedDateTime: 2022-07-27T12:50:00Z
+    webUrl: "https://techxplore.com/news/2022-07-robot-finger-year-old-lesson-stronger.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 12
 
 secured: "5HLdR5R2fPmaclz8+WRd4LBBbTxa8bXN2XhMNgYvFImfAeYueH5zHyQH+7H7rJwI7nqg0cC4hHENeot1SujeBZk2ISOcnCUBIn7D2S3lBiPokacpf84rdWCLRstIhamZkJO4SAiw8UAX9aOlT29hiq+BQ3Jbwzhk3S1YNO8GLXpxx/bx/cBmdUVF7UAxIaUSbOnnGNmSwQd4vXaE9Hbl+oj3JM+p5FyrUtZyZU3BDV/i0xu19Q/49B+umbaLuZE/npIetuaz076NlwQigfgp4Ej2EkYPclNr4hHEJEot/ZXD5/uMQH1uRONITs+K1I6+OY45ibXvqj2/eYWJhrlTICLtBim7nHZSEOTS3tTlSAM=;1VSMQId8E2JVeWnHH7pOQA=="
 ---

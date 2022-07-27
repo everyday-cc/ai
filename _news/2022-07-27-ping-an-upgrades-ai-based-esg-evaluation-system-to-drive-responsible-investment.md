@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-27T09:47:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523"
 webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523"
 type: article
-quality: 63
-heat: 73
+quality: 65
+heat: 75
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mma.prnewswire.com/media/1828519/Ping_An_logo.jpg"
