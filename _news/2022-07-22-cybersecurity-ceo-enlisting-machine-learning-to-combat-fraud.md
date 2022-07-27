@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
-
-related:
-  - title: "Robots Join the Fight for Cyber Security"
-    excerpt: "The massive number of threats, cyber criminals and skill shortages have left many organizations more vulnerable to malware attacks. The cost of attacks was estimated to rise to USD$10 trillion annually by 2025 according to a 2020 report and may yet exceed that amount."
-    publishedDateTime: 2022-07-22T08:00:00Z
-    webUrl: "https://i-hls.com/archives/115130"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 56
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2022/07/robot-2301646_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BcGb3HrjuecxT8Kdi8xK37ZG1AoGPCV8qOQKzY7iKVqfjkuyimNMzI1ssrZ4rGh0z8Agx6dcx/fMRUcQU9VGUfE1BUY58wSjQvC+RASUHhF+mtT3IVdscWatY55uCZuBkg0P3cW0Iy3MF2Iym7SnUiwpCQ/3jOb8L3AErJQNVqzlMNKqCAb4o47DvUL42Ms5YGRmAaXtH78h4t6hdwPisUagsrah53a5dAdNBxInTAlJHde4sKWIQ6lKmkPsuRggzqUFs0U+FZe57gGeR85V2X8I+dRi1GtxP2oOtvp0cRnB3zFCoK02YCCy21XiKB7I8ApS0DbIaVBkNj/yUfz9x/TOwT6ZZLnCkEGAOBjiZ0aqglpe+TUZ2nQ5Nj6WUbwgetq0XzVZEq7B30j7p9fvc6LWFW5tPxivrx37OG5ivLMpNIuHLJsKbreEkCzQvnzZXMsrG+WfHPnssD0CDEr1C3f8LQz6v3mkAPAjOghvo34H2c+GesxaCKKmfbkiS2bCSwkGCKyJ9XL7QzEBMjyCKQ==;QOwnh7t/bzGPnJeyCBU8Cg=="
 ---

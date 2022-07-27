@@ -34,7 +34,7 @@ related:
     provider:
       name: IT Business Edge
       domain: itbusinessedge.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/AI-and-Business-Intelligence.jpeg"
         width: 1200

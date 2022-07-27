@@ -2,11 +2,11 @@
 category: news
 title: "How We Scan the Visual Scene Using Top-Down Brain Control"
 excerpt: "We see details in only a small portion of the world in front of us, one point at a time, guided by and processed in regions of the brain detected in new research described by Christian Kiefer and his colleagues in Frontiers in Neuroscience in February 2022."
-publishedDateTime: 2022-07-25T15:24:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
-webUrl: "https://www.psychologytoday.com/us/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control?amp"
+publishedDateTime: 2022-07-25T16:33:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
+webUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control?amp"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ivIwuAljofdYD/AUd+cM7vlYxBWXfGdpYZHNaDJM1L3eGzmwQs6hWQGewAzmE47Y8ix+jlTrIYxQyN3/I+FK7HYezU1QXgyka5exH+HJSD1PajDNCfVIt1xDTwWZeN6GlSYYdwv4D3F7vU7lNEhxBrPM6NMkdiATsaUykGK2mbHTRrhuuC9Kp9gZM0IXqdK/Yfn8sJSSHvtT7oW8d4RATJlM0Btl1Cza/spsNUO4DD6+U/DtdowQVhpljQLkm49f04QqAJaIC8NzXMV2OiUdJsl3XNCU2SQD/D+RHHTif3OpttGOCBbYISkXhTzoMS2b6qQEkLQRp69FZSP5OGjBzfksQ1fJNC5TErrbaKFw8Ek=;QLqLtXXEBGlxNrDnDMdRKQ=="
+secured: "Aj0NVABhvucMZGAz4UhXJRSVn8OVgP5TuzhfeI1b7uupxQEVI/pb/jySSrA/4quy3OGxEh6cOQFjJCNINREWBdZTKO7sAnW9GQ/If9U4EsBa+xk6cMWU6fuhDT4qRfJ4v41jumIOcTfmEToLDL+ri13CNgbdX+bh96xCHKRkzbHtDx5GwCvKLoGaRolweDfd5P9x0E6JFOPb6P4jYWPGm6EnPUrc0UC88LunN90IAJGhWxiIlRW+fmtxI09WeYP3zLSKgpr67eHXst5IYv8WEU0OwirCik15MA/ATLWxwIEhEONBr5os+2eUulK/VTvYqhM+pPqEXpxKYLbXpEHOQgx4iU9xhCHhTtUns9qtjMg=;CyTu9WDIM2MlFeHJWQv/gw=="
 ---
 

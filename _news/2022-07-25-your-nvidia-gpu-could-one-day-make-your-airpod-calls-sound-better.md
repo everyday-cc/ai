@@ -59,6 +59,22 @@ related:
         width: 628
         height: 246
         isCached: true
+  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
+    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
+    publishedDateTime: 2022-07-26T17:49:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
     excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
     publishedDateTime: 2022-07-25T13:20:00Z

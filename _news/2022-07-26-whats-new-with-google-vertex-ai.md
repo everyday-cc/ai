@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-26T15:00:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/google-vertex-ai/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/google-vertex-ai/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI Hardware
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/AI-and-Business-Intelligence.jpeg"
@@ -44,6 +45,6 @@ related:
         height: 640
         isCached: true
 
-secured: "7SAVa2EMgKTetqW72xy6/zAfGbOnDPVHCmaQbrEyhVHigHlNiA2DbebSLepfPy6hBGr7s0SBUG35oHSPCl83VprSmq35IyKXfLmHd1fPzjkVv01QLBErSr2aAF0oiqneK3L2QkKBmV/cTwCdRJyMIpIT5LIZU4Eq+OkDDAYfKsFvvZhFqs1TbkfZwqpACAx2uPJ5mAh/JTLecaimkZ+Fu4TphqkLIp04Y9ca1wyYGik6eNaWhL0yYT8fwXtsuIfL3wLyRDGGRDAdyVMuzsfLZVDUP/3F/7f0dcUC7Om+oNQd7/9yEzlP/upVzCU97L18WLJr4KdbAd22TKpiThLbLXwCkoNvKvIdeKNXBRoHrHY=;QJVENU8VSljChLPIQlsv8Q=="
+secured: "T7k2NYn1xeyoV9wlDDdm5JDuMH32h9HE5LDFuLRiulNat9RemZscp36EyFwtYtrQ9ip1rPacNlh9uP0qH55s4QrZ0MHlxg1qPHdfMCj90oKq5fMlofMRgsz55WzIgQSJcqnyEU+cn6hiixZTxxVOzaHTZ7kWjJftiYH+TCy6p/mLnCw2cqzeJpGFq1txePDTZH4URoCV2exqJ5nn3c5cu9YbwIZ0HGncvIQffKGaoWNHacRyu9XXYxLPH30E3Hb+//tP1AQpBKjPoW8lwobkerylm+Q+vdr3KTH2cJtlfJNrj9ka2DPX+8T2psLEt6P2MlcJNblDZoAQSFEpeVhhCR96tYlarhnYk9w4I/Iht61/RZ5xYIxyWDLhovRYXivdq9W4ugp70GNZhxWYr2DVCcMN0jEqfItpbYQ4ST1brpXXcTpIsR46RqkjlxRQHWJB5xAh5hkkZBUT7FuZkkcOD3Oj+bJ3vGH6RHNf6KL6n0WMt6q2JfGzV/AdehFAeRZUTdfoeaz9Qb1kb+bo99d0jQ==;OSZmFl1ejl8Aj/CuL5hwAQ=="
 ---
 

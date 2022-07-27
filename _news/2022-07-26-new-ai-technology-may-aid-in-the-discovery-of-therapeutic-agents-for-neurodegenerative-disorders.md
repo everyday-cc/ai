@@ -25,6 +25,24 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "AI analyzes neuron changes to detect whether drugs are effective for neurodegenerative disease patients"
+    excerpt: "tested the AI on a model of cells being treated for Kennedy disease, a neurodegenerative disorder that leads to motor neuron death. in silico FOCUS constructed a robust image-based classification ..."
+    publishedDateTime: 2022-07-26T13:46:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-ai-neuron-drugs-effective-neurodegenerative.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-07-ai-neuron-drugs-effective-neurodegenerative.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-ai-neuron-drugs-effective-neurodegenerative.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-analyses-neuron-cha.jpg"
+        width: 1057
+        height: 745
+        isCached: true
+
 secured: "d8PI0cTIvKXO8bASzE287socMfKvef7LzeBGVscxwIDny7A1dG20GkFWBmtBv1NGI9pICVBHkI/m0jMOI1ffqJsVLCseLPEynM1spj67UkkpS+qO7VAenX5VEAtIJR8WmfUGg+F25kZFIjJbofOfMPexRr7+T8AFco+fyoacACIlRPom8KCs0I3pUIvLGPZkwxj2F7LQxdLLKdlQZ/2vaD7RabiVtFAre8wrheRY50wdFNR3jkPu2XQ6lasB9TsJcRJAIefP61hJQlUR7yrewoWodM5yYFo4cMQyg2YMoPUVVNFQJ28cOmxeUmqKf7mYv3kbMcaUSPz5nG0GeHuq+/fgqM+xt+ymOXafuLe2MRA=;LZlT53zX3pvz7eYMGmnyAQ=="
 ---
 

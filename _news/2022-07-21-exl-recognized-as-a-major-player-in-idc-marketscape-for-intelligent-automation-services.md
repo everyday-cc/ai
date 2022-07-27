@@ -1,28 +1,26 @@
 ---
 category: news
 title: "EXL recognized as a Major Player in IDC MarketScape for Intelligent Automation Services"
-excerpt: "EXL (NASDAQ:EXLS), a leading data analytics and digital operations and solutions company, today announced that it has been named a Major Player in the IDC MarketScape:"
-publishedDateTime: 2022-07-21T14:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services"
-ampWebUrl: "https://www.benzinga.com/amp/content/28153084"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28153084"
+excerpt: "Focused on novel uses of artificial intelligence (AI), machine learning and cloud to automate knowledge work and decisioning environments, the IDC MarketScape spotlights the evolution of business process management into an increasingly data-intensive,"
+publishedDateTime: 2022-07-21T14:38:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-health-artificial-intelligence-01896e050648de4166c2d841e21c1aa9"
+webUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-health-artificial-intelligence-01896e050648de4166c2d841e21c1aa9"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-    width: 900
-    height: 594
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "8vi/OpGZ8Ge29eNgAnOeSWAT+JW9us2Vp1FgSqF80x92vgYVzL0IHpaxeauTf+HLYtp04TtElbNmRgBCX7zzgdV4rq5Uvb+B4P231XWxN986i1Cn99SRDHqa3iHlWh9zEHU+N6PczNs4YxBRo0kfM1EA6i2ceZBUpUCZ1uakGAiza/l0mOjAF3QOmstwzD/UA8FYKCZEbVBGwFd1linSXKDfbuIPJF5UL8tC+hhQVmSaf4/Q/LlbjSj9y2Bq6bsaJKCdqnkIK6hXOefZkIOh0gwuKTzQuAJo52cmLKb0Ttch6w4iZE3bwaC/VvZgbhpvV+5SP57p3OPOuahxTdtnTOSP2sdk03XJMIUYQhEIT+0=;oLPzhdAwKAXh4jxY41rn2g=="
+secured: "fx3U0nd7/QpP5hU53BEpiqFrU5Gi7nBX9gsvsRNi2jAIt8IXIozKAsBXDWbepNkg7Lya+/+ctxTM+UHgZ9kY3xIVjtCNJwLdklk21bw7y2Zrqs1NC4VkiSCFanrIV9xpwk4G48bNv7rO8//97giNjl89sw029HEdPDEC734YoibxICkQpy/c8toNKDm1MjVy5iIjJpd8e1MUTOqDw+KoTkgBivD28FcEpnVZwH7Db1wtTKcAQxMS0laI99QmbWHxT74Kjj0F9AXkhbox05Hlqszm9WZQI4Nj6aGx1ZZVnVRuwI62kHBw52PPRPILNQ3eybMVH7P7Lbm5as+g4EVVVLZ9NRsy6AyTfhlznNLGbWc=;93Lk7N0mYNZCQtgXVddj6Q=="
 ---
 

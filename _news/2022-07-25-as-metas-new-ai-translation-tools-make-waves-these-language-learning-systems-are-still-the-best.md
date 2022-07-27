@@ -3,24 +3,24 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://www.counton2.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://www.counton2.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-ampWebUrl: "https://www.counton2.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+originalUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WCBD
-  domain: counton2.com
+  name: WTNH
+  domain: wtnh.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+  - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
@@ -36,6 +36,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "lxgLsdiAbE4Kqg4bRon/ycRtykS51IovpR1r4blHyS+skon7PvfQWDleW0b1A3/2kYmnV+GzPGUnQ2WkQHk6XaFX6vc1U16hgEGdOOixrCBet89yFyx/qUgWN5iqFybnIbFX+8Dey4O0o9ZzLjvCH1WaV0kGR5xx/boBOSP0C69LR4750m0uHGelFubjnXeR2D/tjgHoapXxazOWri6cJsvaFSgOvYGZLQPKIL4MMvphhu/IeUDrSrkPd44I54AgDP0l7EMq9AbZ/rg6ONfqNcGMK+/H6mxhLywMtq2tVuNbK0gC5NQG2NPAG3QMepx330VtqXaeBXcAPD52aOHC1kPbk2euLuOV2XLpy8b08jo=;m++37XZUGdnNKC//2s3lJQ=="
+secured: "n7FqjhSYzTvW5pABB39jicGiMPCs2Lpr9ylgYleSzfMp5i1WOwEdG3Z1fdNth31FI17LadpGMckIOqG47W/oKT2OY4OOpNXQk0K37zMOov96LcOJh652ClqMcWkHf3RWn+d1XU8UbtZoAIU2sBL9MT/bxbhxLoAQyHldytzghkZK0VNuJXB0ilvvSq72alJBw1PmXDYggMEyIT7/b3vt4pwZ0c291jY3s/8jquzsNo88c0JYEjhkpnrpyN4hv7XvNDJwYHCtnWjZH0b/b8IvNlFl+FjROH5YKNDVUfhftR+EUtTvuWwMQtmOhckILMc9hiXGe4UoilA+8LRo4VS7l0lgjZZ9gXsPR7mceQiJJSE=;lJQTpsxyI1eT3IyA92/yrA=="
 ---
 

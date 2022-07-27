@@ -69,6 +69,22 @@ related:
         width: 628
         height: 246
         isCached: true
+  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
+    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
+    publishedDateTime: 2022-07-26T17:49:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
     excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
     publishedDateTime: 2022-07-25T13:20:00Z
@@ -102,6 +118,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "4rirMdyFdcDrUB0uyhgDPtHY4zpC0VeH6n3yc+ZMrpMhR33LvRVxDyuYZuYtWuO16ES9FIMqAgGSPjC7yMvusEnRE+8yucYGoakMAbUVQxL++/XlFZ+OOeTw1/V9t9dBoiyyXHE+kQIjrfLdQ5YK0dOnLeAD1dBCOyr9GA/6nGaPSzMBEXSjQ5N5T/wzNZp0updLIo7tEWsA9XgBQutewt/DK0hzR1nyrU6sZAHBMAaKWEf3+UH+Sk23WMzWMuQ8k16RVFsxkwTD2lPNTjy9D1ggeaqCxCOIH2KWFOM0SGrywr3jOLbsCkllAxVsFahNspzphDgPoVUU5bz+iRTE9s+YJ7tFEcli7tJfApaXrSw=;05qpGQQT0gX2tebRhoxuYw=="
+secured: "3kkEoSTHzp1lH2uVjFUguHptEQrHTTybZcJoy5Pt8A6OElkgPZnEU/QrKgU2+TTmYWX8Q3w1hc6OtWy7s/zZiz599HWE6+HEGhE9Nb8rX/5AANy/K8+NGE4WJ3iXdIytfuxxTmdWW1auMBnV+pgixujTpCj1i4E00dym2walzkYKveeSPv2W0iiB9bpb3lM+Gj0FArCz6hgRU/6n8YGVSoS+w6RMxN8tWN1ss7QZ0HfSOZnyYFK1PuDwYsE4Oi4YBrT8vWoZQDx+4HfJ+asF5ft0F+OfPuP78iGnL5nxtoPeUAyw1+wrUZrPqE2iPfNuQSCfTbc0rqdhz5/PGwoCZLVjEIc8R7MdybtUushS8Wy6gMxJ3SSiFcSAncTTZtHZeLo7116WgjAR5aGqyBAzFKp0EIoOrDCBLVBFqZQCizzcQZeu6LP97BOIVb0tPg6KIpnwJF8TuLKz8cxYpyllZXMSlMUClt9U/d/8+SizJQkCDYVK6VuFZLq+v3OSeuLe/naXIeof9LyXN4HaFxxbAw==;pqsakyRSTXzxUAXHFTLuSg=="
 ---
 

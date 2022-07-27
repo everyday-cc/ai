@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-je
 webUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-jet-feature-ai-assisted.html"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "41J/3RkH9k3kcCYECGQYkoowStX2bfsJaOk7OketvCHcslQdMeoOQgP8JLtic+svbqCxmpLjtescklByRqGqYPxu6UKcR3ScA4BqIGd6zKm5lWFa3dgF1az/HOCuAYQ99nsRnGIfePSQFkhU+M/Cyqmo0tz5jFjS+zvqDapT1UmVVKqS/PJsZOhsAUiam2urUIAolCkYpTfeRT8taLUGmT8da+xup5kDkwci7D3ZYitadXXOG6e/a1+yqF4IrcYJ2StTqI9tP+oImB6ioRYxTitX+OhZXg1cJ8+jk1RGOAIhuN2b9gAhvLp28k80UXzhO/XR/ET2RuwKsY6lfv/j3/RR+c4KdG19HrrpPtZn7dA=;2BO70igLhu92NNPyZ/hFJA=="
+secured: "E3Ccfk16bQ3qFyo0bYP74XxNms1ycxJQist4CGE5BU6J1SHAEYx7NgE7RLW37AjbidvzCRh3GxhvnLsjeMzIxu0l7XlUH1LjCZXXtI2tRLtCQYuEQiuzsmsc50FsgpqbObGaYLPTNJwsGYTJe9wkLWqg3XyPqAsPqp9XbcFuX3TLHXOeBJH2zBxt8W1pFg+KMHWunjJbDpBJ9lKJ09Rwf8nNKmlEjmdP5BI4uTpRZMP8BXAzEBhHUKT5xvMA+9muKWgND5oT/41zplfIXZXlD75VFMtCyJ4RngNzK2d7DjmAw/ZdB9GlD0RUMZmfLHbFzSkqzkbtID325eEF1cUYcHaZJuCPu1tZMnDW3kwaZ70tstnjGMP25LEM5vg/f11Zd/o2qndnVfuGmWbGmLhnpIEvwAKHw5ptwVoSdFqmpc7kKhecnIasw6vqj6CK0DRPZ18F+7xo/kTH8w9ZS1YDnBv0GN9XM0ZAQ2emn3elIw+cBaAUxe2bg/Ky4yNSVUBqwlEUvFlpyfO9UN6g/SxdPA==;yD2jsaCIPUcpVI9VPTawkg=="
 ---
 

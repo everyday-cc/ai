@@ -1,22 +1,29 @@
 ---
 category: news
-title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
-excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
-publishedDateTime: 2022-07-26T02:33:00Z
-originalUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
-webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
+title: "Nvidia AI Enterprise 2.1 enhances open source support"
+excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
+publishedDateTime: 2022-07-26T17:49:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
+webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
+    width: 700
+    height: 400
+    isCached: true
 
 related:
   - title: "Nvidia AI Enterprise 2.1 bolsters support for open source"
@@ -63,22 +70,6 @@ related:
         width: 628
         height: 246
         isCached: true
-  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
-    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
-    publishedDateTime: 2022-07-26T17:49:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
     excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
     publishedDateTime: 2022-07-25T13:20:00Z
@@ -116,7 +107,16 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
+    excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
+    publishedDateTime: 2022-07-26T02:33:00Z
+    webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
-secured: "g21HKWiEZr7GPo1olwy4tqoJCUtTnIaVyL0qUsYXJwBk+s8DGB2B8Nn1FZX+sYntQzaKD1G5EIGvx70jSLHuCu163wrTtRoy89Z/Vb5pjHuPhYh4IzS7334MTMBBwID7D4N2WOP2GSxYfkpNBmx32ZaD53SvYaVR96zdBiQzUHAsABVQSUFYRJrkO9xLDUig6F9dBzffjgyz/zXefWhMy78SwBU2hKBAzH03aoS0o0B1zoWIoD2hNj6odPA8E4J6xokTC62yjDUKreETM9Xf6u8xlLcBqZdTIbBhCGmqQNY+eKRLLyJeqIQFvHSbyS3Bk12P8SDMvVYRY+/tuEJ5dhDAAxRaASCCrId41Z2g8oQ=;cFDpX6zcTk7eB12DIARhQw=="
+secured: "pcvz9LNYrh3q4TjMNAbcFzWd4C8vH3AkuwBkskGa30r/YD2b2f8Y1F8KsfN97vRM1bcU7m7oKlJ+OcXYzzKTlWZDHUASCXk9+Jcn2oCzKqdiPmgMWZliqI4Yg5v2ldUEEkgQdUq/50QAV5gyHKZlDpOE3s39i6yIc/buv27otAcC4jAhhcbZHQL4Kg5g4dyR828QnA0PloGtzYFoh51QCNYtVO8KVpLK3CBLeaxH6xkBXymu0hpu3+iYlVhVRoWC9P+BMMCEZRxwoTfh07KZ1KsEnXgzJeERM6fe36xYPvU0fqS6yEkcXDwL2RAxzhuzkd+w5LkJ84ZU2z1cTJ55edrHN7bj2rJ2uaknP7hA35o=;oo5cafeh6eTdSESo2wUiZg=="
 ---
 
