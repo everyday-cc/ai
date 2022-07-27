@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aidocmed"
   url: "https://twitter.com/aidocmed"
-  followers: 2590
+  followers: 2591
 
 size: 11-50 employees
 yearFounded: 2008
