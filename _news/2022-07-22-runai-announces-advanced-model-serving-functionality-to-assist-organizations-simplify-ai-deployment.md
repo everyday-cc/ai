@@ -52,20 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
-    excerpt: "CemAI announces its entry into artificial intelligence solutions for cement plant operations. CemAI offers a predictive maintenance solution, that combines a proprietary licensed software with a continuous monitoring and incident resolution service for cement manufacturing lines around the world."
-    publishedDateTime: 2022-07-26T15:45:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Oracle Announces virtual AI summit 2022 – Accelerating AI journey for organisations"
     excerpt: "Join us at the Oracle AI Summit 2022, a virtual short-format conference that aims to bring together business leaders & innovators to discuss a detailed framework that can help organisations to take the next step in their AI journey."
     publishedDateTime: 2022-07-26T09:30:00Z

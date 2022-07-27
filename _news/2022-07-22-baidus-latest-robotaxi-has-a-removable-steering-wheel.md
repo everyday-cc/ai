@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-ste
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu unveils self-driving taxi without steering wheel"
-    excerpt: "News Agency Baidu unveils self-driving taxi without steering wheel. Posted . China's search engine giant Baidu has unveiled its new autonomous vehicle with a detachable steering w"
-    publishedDateTime: 2022-07-22T06:38:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOV356621072022RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20220721&i=OV356621072022RP1&r=OV356621072022RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Baidu unveils self-driving robotaxi with removable steering wheel"
-    excerpt: "The RT6 is Baidu’s sixth-generation autonomous vehicle, but the first model to be based on the company’s in-house Xinghe self-driving platform, which is specially designed for Level 4 autonomous driving capability."
-    publishedDateTime: 2022-07-22T05:22:00Z
-    webUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/"
-    ampWebUrl: "https://www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/baidu-unveils-self-driving-robotaxi-with-removable-steering-wheel/2602313/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Baidu: Beating Tesla In Potential $200 Billion Robotaxi Opportunity"
     excerpt: "Baidu's Apollo Go is quickly emerging as a leader in the Chinese robotaxi industry, with operations spanning 10 cities. Read why it's beating Tesla."
     publishedDateTime: 2022-07-26T17:06:00Z

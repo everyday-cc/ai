@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category"
-excerpt: "Ed Vance, Advance Auto Parts No. 1 fan, represents the voice of emerging DIYers in an authentic, relatable, entertaining and category-exclusive bilingual voice. (Photo: Business Wire) In Ed Vance, Advance is providing an authentic,"
+excerpt: "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey."
 publishedDateTime: 2022-07-18T12:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/automobiles-b9ad94f93a0a47889df84c131e83df0e"
-webUrl: "https://apnews.com/press-release/BusinessWire/automobiles-b9ad94f93a0a47889df84c131e83df0e"
+originalUrl: "https://www.eagletribune.com/region/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_16de7f77-c5f6-5ee8-90c5-853b9fc41150.html"
+webUrl: "https://www.eagletribune.com/region/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_16de7f77-c5f6-5ee8-90c5-853b9fc41150.html"
 type: article
-quality: 2
-heat: 2
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/e6/1e65d6a8-e5b3-5876-bb95-69512b6fd302/62d54cee2262b.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "2CYpn3L9xmK7eEWDlsr7trG79QzPWFcMLCQCftUzd9lKkrDavrufZa2dP5qSkQ6gcrRKmNiEkbKT5eteaQP70+6KzX1WRtkPjvRkXQoFMVtIoUA34yjIWC1+k5skjrFRxOq5AhhItk3mHK3/U+jyJkqzhDifuyypdr5JlO5cvofQBT4RXL2ywXtULh8SYfBxG2Fw8Cj94DGj/e6lfdmBpjOnhXp3BwOkWokCgKIcOafXJm8Csisa2fRHVyFF7jQl4thl0kkrt36XzzLhF7oi/FX4hNT8qnkkav999f72G61A5IFNBW4GmeDwgQCu8q5xyt20vs2KsQ1+yC3hvxcq71fBgAR67Weppk7as2VBNdc=;pbN+2kqw35gcfMRA98ve+Q=="
+secured: "ZxUCxAg//eNzsQ5iToJRpLFoqmTeKofsVIIeTdBPgwQjKTiOIlFO8YcbOlKyVDNBPWwEnUPsw1sKZl2SWpQ+iv+65Vfe2fm/foDY/VdJGykrstI5YLP+CHf95rTTiNgciOUTGkzt4LFBf/cRgXAKX8/VE4MrutXFgumVyH6tMY5W5bMRDgOOLWkdx8OcmEicmMa/AGxM1i8BcwcqnomHxVX4vY6Ai4aE1T1Kf8bjDqxuj+BlqZQBDpdBkDOYCWgq0tG8FMJmcW1cbiI2Tq9CZRMqGk3hWwpD6wpjvXklb2FrJavLFVutJAS08/dLapLLrHbqZHF2lD1JUlAG4oIM5ZZpnwo9Y0Zrr5PH6uVkpCc=;ZjVIhvTgkgTFX/F1r2Q4+g=="
 ---
 

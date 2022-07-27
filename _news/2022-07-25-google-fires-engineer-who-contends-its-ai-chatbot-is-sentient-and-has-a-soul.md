@@ -319,6 +319,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
+    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
+    publishedDateTime: 2022-07-25T18:17:00Z
+    webUrl: "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 57
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
     publishedDateTime: 2022-07-25T16:10:00Z
@@ -378,15 +394,6 @@ related:
     provider:
       name: techworm.net
       domain: techworm.net
-    quality: 17
-  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-    publishedDateTime: 2022-07-25T23:17:00Z
-    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
     quality: 17
   - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
     excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."

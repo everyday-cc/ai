@@ -36,9 +36,9 @@ related:
         height: 748
         isCached: true
   - title: "Your Nvidia GPU could one day make your AirPod calls sound better"
-    excerpt: "The first neural network suppresses any sound that isn’t the caller’s voice, while the second amplifies and improves the clarity of that voice. The result is a significant improvement in the removal of background noise,"
-    publishedDateTime: 2022-07-25T11:33:00Z
-    webUrl: "https://www.techradar.com/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
+    excerpt: "A small group of computer science and engineering students at the University of Washington have designed a new set of wireless earbuds that use AI-powered technology to provide a better standard ..."
+    publishedDateTime: 2022-07-25T11:35:00Z
+    webUrl: "https://www.techradar.com/in/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
     type: article
     provider:
       name: TechRadar
@@ -85,6 +85,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
         width: 500
         height: 281
+        isCached: true
+  - title: "Nvidia’s AI Enterprise 2.1 makes running AI models ‘simpler’"
+    excerpt: "AI Enterprise 2.1 promises more accessibility across hybrid or multi-cloud environments to support AI. It adds support for Red Hat’s OpenShift, the software family that features a hybrid cloud platform as a service,"
+    publishedDateTime: 2022-07-26T20:12:00Z
+    webUrl: "https://www.crn.com.au/news/nvidias-ai-enterprise-21-makes-running-ai-models-simpler-583206"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220727071246_0_0_0_0_70__News_20220218090141_crn-14_nvidia_sign_iStock-502379459_(1).jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "g21HKWiEZr7GPo1olwy4tqoJCUtTnIaVyL0qUsYXJwBk+s8DGB2B8Nn1FZX+sYntQzaKD1G5EIGvx70jSLHuCu163wrTtRoy89Z/Vb5pjHuPhYh4IzS7334MTMBBwID7D4N2WOP2GSxYfkpNBmx32ZaD53SvYaVR96zdBiQzUHAsABVQSUFYRJrkO9xLDUig6F9dBzffjgyz/zXefWhMy78SwBU2hKBAzH03aoS0o0B1zoWIoD2hNj6odPA8E4J6xokTC62yjDUKreETM9Xf6u8xlLcBqZdTIbBhCGmqQNY+eKRLLyJeqIQFvHSbyS3Bk12P8SDMvVYRY+/tuEJ5dhDAAxRaASCCrId41Z2g8oQ=;cFDpX6zcTk7eB12DIARhQw=="

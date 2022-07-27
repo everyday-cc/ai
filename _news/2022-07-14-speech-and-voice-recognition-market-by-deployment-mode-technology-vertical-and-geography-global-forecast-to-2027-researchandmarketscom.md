@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com"
-excerpt: "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding"
+excerpt: "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc"
 publishedDateTime: 2022-07-14T08:41:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
-webUrl: "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b"
 type: article
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "CKsseKw2UdtrB/0X9BQj1sLCDDBGV5zTIX4SyeCNJAveNB/VN9j12ySaL4vx/o7sjGUJqLZqiBWvPo+8xxQrSZlCOk0DBwmZuxFJDXPfyBVw4Mo2kL9ri0Zu6yt3LTXpVAoSAC3yTY+xsgc85fiRmfN2whtwBSRu9FvaolA9kbTFQpxpPs9gO/mDdHE2XAPfWseQRk5Qz7WLtv/Owkqa2anKLsZvz7eb8OIePTHwQs9U8BU1384Bdc1PXJ13BOzNm9wxxkPjFi34omyfb3CVrcQb+kVb5Zm0MoDnBaf7eVu5WgrYQzL75zEu4O6IVCiihGtxlIHxAJRVFVT2DmN+QnXWifzk1NNr+FJ9JJmbAoE=;tlwqvNgYYTHvp0j/p+0bCQ=="
+secured: "+2Q7kE0eIgT0D3jD3mu+pCYyfR0dJf/k5aaVNEubLHzDqk4K4w2/Csjv252fuL3SfSsu608RLkfNtklFErCXz+Du31nrlH+o/NpsCDyM4PmDji/BmyJN6PmwmXzyzvjdeTHZ6R+ISjKaXpCPGt7RBzoyzGc/mOzZuqbKKFHD/a6//hGso/c5Kf6tQ/KzBwGjK00uIU0exgCQBkO1V+/l1rdZ9k9rA5oRk/7a6T87TB+n57QPvEmp5R30oDWVJ2qZAikMu75+KGXRQjpusVOwcoDwbguiCI2j4HJH42k187Bv2L98PFhKWZqbF5y3kKmG2eKP6ebZDI2gTjo8VhAddc8YzK0fePyGiEOIoqncsAA=;NcC30tP1ajKhYEJO7W8aqg=="
 ---
 

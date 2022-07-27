@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Commercial image-generating AI raises all sorts of thorny legal issues"
-    excerpt: "DALL-E 2, OpenAI's image-generating AI, is now a paid product. That brings all sorts of legal issues, including whether owners of images in the training data are entitled to compensation."
-    publishedDateTime: 2022-07-22T13:08:00Z
-    webUrl: "https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/"
+  - title: "Next-generation RAF fighter jet to feature AI-assisted operation"
+    excerpt: "The Tempest – the United Kingdom's planned fighter jet of the future – will have a cockpit without physical switches or screens. Its systems will also"
+    publishedDateTime: 2022-07-26T23:14:00Z
+    webUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-jet-feature-ai-assisted.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-26-image-17.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
+  - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
+    excerpt: "CemAI announces its entry into artificial intelligence solutions for cement plant operations. CemAI offers a predictive maintenance solution, that combines a proprietary licensed software with a continuous monitoring and incident resolution service for cement manufacturing lines around the world."
+    publishedDateTime: 2022-07-26T15:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "jxq1c0lARVY7nXbmXlVpGdgPSlNYnjJzLt3B3VBtXChcQ5NYvHV/4eR1fdjCDW8NtW279VJ7/XuQKdcJJ9h8pCfHfQ27z+EfPZYh3WSBQndO2QxItpHtBnZpbGDsMZgvYYpL3yE1BVXcHOv6dvkljR9pnNryL+xlQygjCaZoBWMKwrK2L888un2jOMkhQUA3crxpp5lzR/AsZeWehAxUxiL/pTzPJwNdTLEfLR91+oEk1MAQVWpatlNnXIcWaJtNZ5Ee7Lra2/Fmz72eAi++Vuhmuq6mO111MRoHC03hvxiVECHmvuZmqk8hPJm7p6jj+GySaQE0p6EeNoXC5e5ch+TcWU4WSYn7jmqFSF5kyA0pmXggx7D8jhPh/zoRxMTmzghRvaZL7X6mLwq9s9dPt3XpF9Z4sTIzOfF5Ge3WGUcTbtOj8RTsjDTAO8/xIWC3JKKt3n4bGmHmrsmAajOwmTck4MtimpsOwOLXy1VghhC8nnb8iM2I/cyK3ZOKnzo2tOoxPM67b47Rd48zx98/QA==;9kiybMcrM6toBQ0FBGtZwA=="
 ---

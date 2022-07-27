@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Your Nvidia GPU could one day make your AirPod calls sound better"
-excerpt: "The first neural network suppresses any sound that isn’t the caller’s voice, while the second amplifies and improves the clarity of that voice. The result is a significant improvement in the removal of background noise,"
-publishedDateTime: 2022-07-25T11:33:00Z
-originalUrl: "https://www.techradar.com/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
-webUrl: "https://www.techradar.com/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
+excerpt: "A small group of computer science and engineering students at the University of Washington have designed a new set of wireless earbuds that use AI-powered technology to provide a better standard ..."
+publishedDateTime: 2022-07-25T11:35:00Z
+originalUrl: "https://www.techradar.com/in/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
+webUrl: "https://www.techradar.com/in/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
 type: article
 quality: 84
 heat: -1
@@ -82,6 +82,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Nvidia’s AI Enterprise 2.1 makes running AI models ‘simpler’"
+    excerpt: "AI Enterprise 2.1 promises more accessibility across hybrid or multi-cloud environments to support AI. It adds support for Red Hat’s OpenShift, the software family that features a hybrid cloud platform as a service,"
+    publishedDateTime: 2022-07-26T20:12:00Z
+    webUrl: "https://www.crn.com.au/news/nvidias-ai-enterprise-21-makes-running-ai-models-simpler-583206"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220727071246_0_0_0_0_70__News_20220218090141_crn-14_nvidia_sign_iStock-502379459_(1).jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
     excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
     publishedDateTime: 2022-07-26T02:33:00Z
@@ -92,6 +106,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "s95RJBxVXsaJoHvfyZ2M5fcZvEpuHyUBctQ5iN2b4KuClX8a+Wjjkwmh73VMM2FCz0hXCzGh8SxB+VWOoO66spyln1F8IOdc3XQDYs3EUouKb/Pmee0pubdAD9vRvvIm7EV0X7Z016FY+yY8F68FyL16MI8psGKv7BWdMT3QmBz7SjErjS/0CUzamsBkoRpFcVUT0QULgE/TdRMRQKCFmd4o+/1d764tcI9kindr72bHVPVn+vn4iZ2gvooIeFNXAdJ+5bvr03rYldr+j8fCPuigpHTBB3/sd2N/tOkYgfX/dtSMyeeXoQnAX+yaHAJA+EW6KD2/LUdOuFgEHtpnH7MjiXrVm2HCybHnEtr5Te0=;37HvlETQ0dpFqOhpkpEMCA=="
+secured: "GYbGthcNi5Z2/Nko4WielguTzlR1rwTyid+uSmWl7sdCzP3+kgGRh1lGM+VFMhHOfMy7psp2uhNUE7HHvBNkfbbQfocNAfiHL1OGEMEjCgI67VbjCi3ExffTQRCOwjNRsFT4H2usqABLd1TPLdF/2pBWLg68p5QciCxGa62poS/SOr2VqpZu4lNorANYeOuzUj3a6iscuJryUeQy1XBDodZBQdR8HlUgvAKYzSav38ZKyP2yfp49UiIBuCnZJh1FFwYYseAOD91QugydVAoumkbp800RNhdHgR+iuwZmoUlQfhU0vBx70INBgoJVdsi93bwW37joNUHSfzQ/qMLKZdeYkIZ/qG6rEub2d675EkY=;qR+fxH+QYZscWk+yeA5LLw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1323
     height: 662
     isCached: true
+
+related:
+  - title: "AWS Announced Synthetic Data Generation for SageMaker Ground Truth"
+    excerpt: "The 2022 QCon London and QCon Plus tracks featured in-depth technical talks from senior software practitioners covering developer enablement, resilient architectures, modern Java, Machine Learning ..."
+    publishedDateTime: 2022-07-25T08:00:00Z
+    webUrl: "https://www.infoq.com/news/2022/07/aws-synthetic-data-sagemaker/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/07/aws-synthetic-data-sagemaker/en/headerimage/generatedHeaderImage-1658435509607.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4CoKDrPtGCTWfPtzIy1IkoDKgRdSSsR5rJ1MpF7nte5O1LDss9UANKyKBKfW23F74p65L7Bg3AnRLuR1bG2my0tIGUEU7YV/uQKHEurD67AGus4v2hMm4eBjwhPnbGgTwKpejto+EGvkyw1h1hTDCCMFgoYij7FcUr4h8WbS7WB/7ZN8scGXdvSXp/D5MRVY4BPmUsVBIcrm+aLbtbkosz642BEwJHAKv7LKRCL9wzSNbLmScHPtqUBFp+4wwFmpxxinCPzTCDPzbnUH10gdOfcqvp8VD88GeQ8ft7epjyvbWNVF/6TTrxJnYSknH1ZlrcNOeJZQXgfglQ6ntI58pxG6r5NPq7vdAM79/Odt/FM=;/wcK67PXrAecWJJCYqeXOw=="
 ---
