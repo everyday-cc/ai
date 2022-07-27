@@ -72,20 +72,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Healthcare AI a Trend Towards a Zero-Click Solution"
-    excerpt: "AI keeps patients at the center of care; it allows providers to capture their true stories. Although nascent, AI is promising because it automates the mindless non-clinical, non-value-adding processes embedded in the healthcare system."
-    publishedDateTime: 2022-07-22T11:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-af098ee0e6bf049e56ed4d9c5de3b3bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Research: Artificial intelligence can fuel racial bias in healthcare, but can mitigate it, too"
     excerpt: "While some healthcare algorithms exacerbate inequitable medical care, other algorithms can actually close such gaps, a growing body of research shows."
     publishedDateTime: 2022-07-25T01:18:00Z

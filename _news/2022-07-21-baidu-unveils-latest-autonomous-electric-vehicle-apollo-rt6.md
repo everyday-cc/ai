@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
-publishedDateTime: 2022-07-21T04:17:00Z
-originalUrl: "https://www.nsnews.com/automotive/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-5605977"
-webUrl: "https://www.nsnews.com/automotive/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-5605977"
+excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-21T04:16:00Z
+originalUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
+webUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
 type: article
 
 provider:
-  name: News
-  domain: nsnews.com
+  name: WDRB
+  domain: wdrb.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/07/20220720230752-62d8cd890e4c200aa581bdb2jpeg.jpg;w=1200;h=800;mode=crop"
-    width: 1200
-    height: 800
+  - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
-secured: "0GP7drvO/yjtRFQxR9vYGCLuIVTKAHcI1AEx0VxrL7Ukr2Oq/NBIrcfvlh15fA0GKEG7x8jQu/KYIArdJQqF/NQAkLRPbEprHZmvtWvsHQ5c9IofV2kg+WWBRcrbwiNPW2FpCSGu3I2EZYkEeohAWxeJ0zMQGFNJIXSH0lrFENUd3M2RivJ7gvU11rM9EOVUUqf7fyjqBsoUo24KaS04ZVIjdYmcmy0Ge6daQrmy/O/jEs7XOKfdSGVTlJDvxLD4oobZBcPkBg2zZc9sNY9+eTUeAQPItzwCamtfrXAfBLg61aZXcoANpCMMibg4sHMRm3pAXvA2rkFCo8ps9//vgAheWKJ7rkyWHUUGoYkA+s4=;oKjNXqbBzYkDdf5mKwc6eQ=="
+secured: "C9uvQop0iKBZl6c+izbuIizCbTJhycQVfbY3tIFxsDpejMp2ssFY+c9nTngDx/M03QuJEGTy8eKmiui2/OJHwkMOEWt9AOXJg2891raINsBUSd70eLPnSPGawB/VIMY05EPI3yckpryie5MphW+N7nHxylO/GEnUSPUUBOwYc46GcRjv9WVpLRhQEEi/mPZQEPsV9ifWtwSDImDJrTzPA25oX2vSE6pfJaCr60Xn+HadaNWagoZKZ2SuUe5lr8odL5LJIuYiWbvyBk6enFrm3JmVDuXwIgRMc92UtWwABbXrVWfBLg/n332skvYMa2qYYoBBEnCWojupjk8AJFfD1vMtbRGl0tm7zVadDDJpmf8=;DozcVFs3VFNOl/VUu4CqPA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
-    excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
-    publishedDateTime: 2022-07-22T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
         isCached: true
   - title: "Chatbot Market Size to Grow to USD 3,411 Million by 2030 Propelled By the Growing Use of Bots for Marketing and Promotion Activities"
     excerpt: "The Global Chatbot Market size accounted for USD 521 Million in 2021 and is expected to reach USD 3,411 Million by 2030 growing at a CAGR of 23.7% during the forecast period"

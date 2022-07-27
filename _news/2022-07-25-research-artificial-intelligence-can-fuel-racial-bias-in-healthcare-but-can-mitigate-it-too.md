@@ -82,20 +82,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Healthcare AI a Trend Towards a Zero-Click Solution"
-    excerpt: "AI keeps patients at the center of care; it allows providers to capture their true stories. Although nascent, AI is promising because it automates the mindless non-clinical, non-value-adding processes embedded in the healthcare system."
-    publishedDateTime: 2022-07-22T11:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-af098ee0e6bf049e56ed4d9c5de3b3bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Vy/vQ0d8bZesQZUKgbW6L89gXYfPMrenM6JM1s/gKa/9s70RXO7szW/4xRT2L9WQwHVYhH99hrWEgLUOy9SpKwLZbv/UcO2Y2C1jMyceNdvjdDabuTjsSnIrq0MqXeJtLcL9+iNM1pe7alm9dQIrEk5XwwS77uiFW6PqnuSXZlfTUQskKPnhMu0IsPUS3HNG63kZi7TrsjVhzU6K+FpeQ7FSMdiVTDFE4wplEF2IvUDYjVE2kPBThzPQ0T7m20lh2VnQLnHdl2I0o1FFTNlqEmX8g5Ya+JZkD5dhJkz2ZORnoIi3P6w3FULjv/yVbnr/LxB8g///dChRORfKvCXp+Xo1qCblo1b4ttOjZVRvUandbQQ/ydE3O25nhj9XWPYxS9rO+NL/34zlVH46gzIhWtvnnl0ZpmvGxWb+vfEmR+cxJis1AQ7ehkbYTmJS6i/vnpF5h1FhrPzluCwsJnoF/erF/FzWwcniLfWffvmrWVReXXs3P/AEKn4dkBXMmi0177vjBFRkv8ivQ8NbvfYaqw==;2SwZ1vdZgAfFrGOzu8+59Q=="
 ---

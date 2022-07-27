@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-je
 webUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-jet-feature-ai-assisted.html"
 type: article
 quality: 67
-heat: 88
+heat: 89
 published: true
 
 provider:

@@ -33,20 +33,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 101
-  - title: "Bringing robots and artificial intelligence out of the cage and onto the stage"
-    excerpt: "A professor at UC Berkeley and co-founder of Covariant, Pieter Abbeel is building a new generation of warehouse robots (he just received the ACM Prize – belated congrats, Pieter). Some of the most apparent technical challenges founders need to bear in mind while transitioning from research to mass production were addressed by our panellists."
-    publishedDateTime: 2022-07-22T09:52:00Z
-    webUrl: "https://bestgamingpro.com/bringing-robots-and-artificial-intelligence-out-of-the-cage-and-onto-the-stage/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 50
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Taking-robotics-and-AI-from-cage-to-stage.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "R2U1Jqhl1MRaQz8VtR3QrjxWyq77Lu2ZCZme0MN7ympiGlAR2xMo/jRbG2cSCFBF5hssPI/oxnB8OYnUxEy1KthDWyub2j9GSy012bGAYeYjOgcTeNCwtLjSY4iqzITMvdR+blkjO7T7mDpgFeOfKmeRwO3OqDRrib/LpeZrVYpG1YTQzKqdRxls2YONUrtRSlA+LhcyKtll4CV+ihoJeQB+UApBMpIECOZMbcZxE1QQPYcohn2u3MPPfTBMAMflA7DoVQAWr0CcQ9aGnRLfV7iEtWWzU234AtLhRq/WLLmJzre636QNEiaUJ3NimlA4dKd8EP7Rre+474/faUM2ye44U7ov2MQT3vI7PnwFzcSBKbO42AZsxse+7F2QR7UzNfoBZ/8cKCVhooLZCoxy6Z5+puyFuD/FO5o0kuQoc22riiDK86f7r6Cr4mQ6Gj9txhmPAKsfz+EvDotsJNcyKHHzmCK+dM4NJHCvDdm70JYW0Mwva7QJjvDx7pGhmp2wKc2ciXmTohrefvIWfp/4vA==;Z/lKWjXLmqN1B3Ib0dZjxQ=="
 ---

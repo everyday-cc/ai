@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/digital-transformation-up-aws-instit
 webUrl: "https://za.investing.com/news/digital-transformation-up-aws-institute-train-sa-public-sector-2589491"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 251
     height: 282
     isCached: true
+
+related:
+  - title: "Lost in translation: A new approach to AI navigates world literature"
+    excerpt: "English readers of digital foreign-language novels have long despaired over the poor quality of translation, especially when the original versions were published in a non-Romance language and written with a high-literary sensibility."
+    publishedDateTime: 2022-07-26T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/959992"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7cdae3ef-1814-4c2f-9683-be755b166553/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "fJXhaEVAk1ckVSA38eh+Qz8P1K/MOf81a8h9oar8ZWoyikx3ArawBam1EjMocbji+/bcNl8RwsmQL9LYc2zvYq47s4MSZW1AmL2B1rMK/cmXnWV9dh6mn7Uoib4YYpB53UMtCUMyhn46jj/pwng80VX5vcziJwdH8PVAxEBJxgbpqopc8+wEd94241d0QVM0mrca/LkUQXiP4czGW28TdiU0xCFciKZFoFW8W70utKnwOnrVAl7R/VZoBCxZTZJHANPDkaW+US4+aIILTvltU9GLPjuk8nmtl4NibwHeRxn+rkuKxIBptG2aSJmMJB6E9j2h3K+715mTKRoQgma50Ks/IKJe9rUtCbTnMbMm7gGzE9Lw+KRj6waJQisllF/cUObhzvfbTBdviLB2PvsN52U9t1gVqwhfSk5Y6P6Jl9D7mrgPOONBOKaukqzq4vXLKC25pTdtgzCv4NO9bj0+WbKmE//CEtKtmk/nlf0ziOJRdDPuXH7a0++0ZHIeAbGzttJ7+DCAwC1U81JMeHRLnQ==;HrXI9rActlSjWrXwziPOxg=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Fintech Is Elevating the Real Estate Industry"
-    excerpt: "There is hardly one industry unimpacted by the rise of smartphones and all the surrounding technology, and the world of real estate is no different. “Fintech,” a short form for financial technology, refers to technology like software or mobile applications that improve and automate traditional forms of finance for businesses and consumers."
-    publishedDateTime: 2022-07-22T11:01:00Z
-    webUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/"
-    ampWebUrl: "https://techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-is-elevating-the-real-estate-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/How-Fintech-Is-Elevating-the-Real-Estate-Industry.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Accounts payable fintech, Finexio, raises $14 million in Series B"
     excerpt: "US accounts payable payments as a service company, Finexio scored $14 million in the initial close of the Series B funding round."
     publishedDateTime: 2022-07-26T15:33:00Z

@@ -58,22 +58,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "The Worldwide Artificial Intelligence in Aviation Industry is Projected to Reach $32.6 Billion by 2027"
-    excerpt: "The \"Global Artificial Intelligence in Aviation Market (2022-2027) by Offerings, Technology, Applications, Geography, Competitive Analysis and the Impact of Covid-19 with"
-    publishedDateTime: 2022-07-22T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28165147/the-worldwide-artificial-intelligence-in-aviation-industry-is-projected-to-reach-32-6-billion-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28165147"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28165147"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
   - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
     excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."
     publishedDateTime: 2022-07-26T08:52:00Z

@@ -38,22 +38,6 @@ related:
         width: 750
         height: 532
         isCached: true
-  - title: "Run:ai Announces Advanced Model Serving Functionality to Assist Organizations Simplify AI Deployment"
-    excerpt: "Run:ai announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get"
-    publishedDateTime: 2022-07-22T09:55:00Z
-    webUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/"
-    ampWebUrl: "https://enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-announces-advanced-model-serving-functionality-to-assist-organizations-simplify-ai-deployment/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 44
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Run-ai-Announces-Advanced-Model-Serving-Functionality-to-Assist-Organizations-Simplify-AI-Deployment.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Oracle Announces virtual AI summit 2022 – Accelerating AI journey for organisations"
     excerpt: "Join us at the Oracle AI Summit 2022, a virtual short-format conference that aims to bring together business leaders & innovators to discuss a detailed framework that can help organisations to take the next step in their AI journey."
     publishedDateTime: 2022-07-26T09:30:00Z
