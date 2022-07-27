@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finall
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1195
         height: 796
         isCached: true
+  - title: "4 healthcare AI trends: CVS Health data scientist shares details"
+    excerpt: "Eugenio Zuccarelli, a data scientist at CVS Health, shared his thoughts on some of the top trends he sees in healthcare AI right now."
+    publishedDateTime: 2022-07-27T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
   - title: "The Future Is Bright For Artificial Intelligence In The Middle East"
     excerpt: "Artificial intelligence has seen a slew of investments throughout the Middle East, with many nations seeing the tech as playing a key role in creating a more sustainable future"
     publishedDateTime: 2022-07-23T17:00:00Z

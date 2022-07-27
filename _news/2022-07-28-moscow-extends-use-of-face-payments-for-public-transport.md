@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T19:20:00Z
 originalUrl: "https://www.finextra.com/pressarticle/93547/moscow-extends-use-of-face-payments-for-public-transport"
 webUrl: "https://www.finextra.com/pressarticle/93547/moscow-extends-use-of-face-payments-for-public-transport"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra

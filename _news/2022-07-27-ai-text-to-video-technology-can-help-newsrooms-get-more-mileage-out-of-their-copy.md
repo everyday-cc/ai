@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T16:42:00Z
 originalUrl: "https://www.journalism.co.uk/ampnews/newsrooms-need-to-embrace-ai-text-to-video-technology-or-risk-falling-behind/s435/a950545/"
 webUrl: "https://www.journalism.co.uk/ampnews/newsrooms-need-to-embrace-ai-text-to-video-technology-or-risk-falling-behind/s435/a950545/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Journalism.co.uk

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T17:47:00Z
 originalUrl: "https://www.foxnews.com/us/air-force-testing-system-stop-active-shooters-robots-drones"
 webUrl: "https://www.foxnews.com/us/air-force-testing-system-stop-active-shooters-robots-drones"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Fox News

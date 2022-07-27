@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
-publishedDateTime: 2022-07-27T12:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
+publishedDateTime: 2022-07-27T12:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-secured: "E1mh2APD75fEwLr49tDEHeRWgGhboEzgsGfcOl/dCywphJq+ZhqQcdnIDGqTQJdoxmMCDn/s/9BlnFvRz2lMuqk1bjWepT2ve318vR2T/55AGmWf+H0/RgJlCygHPCp7k69bg74WemlqzaszCIMDrBErvug2362/lqz4MgpXlscj/3uYiLd/FFWctoKVxq++qqt/p0xO7/KBN+4ksGSYXwOpP8Mfh1taNRGbSoMLPzh5ZbuRgNI/lbwI9KSzson0uUuaB5WYSjB7UWFnUS+Mq/tPJGK1o4v6K4uC9b7Ulyx+4Qe9iwTlT5NnjFUm/AxswhopifubmZHqc/l2ColxFfPFikNWqCvWLWeS6qvBMW0=;pHhhhTmStLM+c6S3vpaqCw=="
+secured: "jD4hw4JpApRTmYDD/cMve1MWudDM7uGqpFUWrxJr3a7jn9A4nFMEjYtBtAgf3gN4hrvd50TAQlZwmVTYGe37L6IyimeYb20mBr8rVFgLlT4c0hFz6nNwMVDPLmEJvzN27ICuf5Z5EQafz/U7jTkWmGZNId+OgaDZoeRnsElgLL+sye62YvzHw3Dy75lg+XZLM1atnER2FZXr3J0QgR6VZzWpiDQOPI+zY6LMLI9Ta9tHvmBxYYgKoqPH6eyb4RgEr+oYqlR+eKvD+06n8KUnpK4cDGHh5TF1H7ifxzu3FzKijbj5Zz3lQavQGmMpjJx4TlgHLsVeYL28v8QcQL0ER2pWyJP3rHQdkZ5XYyUFDng=;r7HSpz+kwxcV4KBI0ouqdw=="
 ---
 

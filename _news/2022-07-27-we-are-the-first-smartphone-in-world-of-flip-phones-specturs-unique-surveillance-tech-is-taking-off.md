@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T11:52:00Z
 originalUrl: "https://stockhead.com.au/tech/we-are-the-first-smartphone-in-world-of-flip-phones-specturs-unique-surveillance-tech-is-taking-off/"
 webUrl: "https://stockhead.com.au/tech/we-are-the-first-smartphone-in-world-of-flip-phones-specturs-unique-surveillance-tech-is-taking-off/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: stockhead

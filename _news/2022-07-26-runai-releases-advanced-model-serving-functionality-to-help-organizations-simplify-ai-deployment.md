@@ -64,6 +64,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
+  - title: "Zest AI and Origence Partner to Integrate Powerful AI Within Origence Arc OS Loan Origination System"
+    excerpt: "Origence will integrate Zest AI's Model Management System (MMS) credit scoring technology into the automated underwriting module for its consumer lending platform – arc OS (prev"
+    publishedDateTime: 2022-07-27T19:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-zest-ai-origence-partner-integrate-powerful-ai-with-/2022/07/27/9646246.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "mRhfyQLNkycmGN8kX6r3MPmgPXypa6rRrwJF18jPpQEEgp6QCXv6UM4VSLyj3cWhA2q+Jv00GWI6ixZjDFz1NVasyVWXxNE1TiJqA5CGa8RS9HTOfasLDFnZWRE3hJhA1HGb5ja60WqIVXrCLNVqssWq5x6WmIUd+ZMw28YPY8oppwN6UbhXc7dEj9JtHCXhHkG01eD1Pu3r0beL9MmLn+ACiTgzUSfVF7IJdj7gEJlDnO3B9A0fHx+f41uiicmp8reRQbPFCPjUuyX681S0UoHkGn38yki7NTcntI3OefiPF8ZW7Dm7VSMEDxd23PCMPYJjw63Nd7CabHJDubPqJg8x/21P8Qeq8/+PhrZO5wZaaMrQcDGf6UjKRMZ9alNnYn5O8YZxkRtBK+ooMLQjCTjG/7aIvRxnKSZEVX7xfB2bp8Mifps+Hg9MtSPmL2M6mYsVIzo6GmLBFZ+f3cHT3O+NM3QAnm1JWoUC0wzMPbKEbi9U25P/j/Ua+2ESqjc/NVKJ4s9xmNpVJ5j4cdxhGg==;YgTIIeG4DLTedTPxqOwe8g=="
 ---

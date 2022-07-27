@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition cameras in UK retail chain challenged by privacy group"
 excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-publishedDateTime: 2022-07-26T07:56:00Z
-originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+publishedDateTime: 2022-07-26T07:39:00Z
+originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
+webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
 ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
@@ -25,7 +25,7 @@ topics:
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/63c7fa627d5de49dd67ec3b571fa5320578b51d0/0_1092_4478_2687/master/4478.jpg?width=620&quality=85&auto=format&fit=max&s=71dc317674ea7ffee3f6564b789793fb"
+  - url: "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/1_332_2666_1600/master/2666.jpg?width=620&quality=85&auto=format&fit=max&s=8749557b920f7e7ccb7eed1ddc70f1fc"
     width: 620
     height: 372
     isCached: true
@@ -119,6 +119,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "34vxm3njpAmIXempHHRGUDxOnLLJQNB3+IThiyZ7LFTPfEud+oRgQoXEQknadHLbHIi0IIJp20sJW4vHESSqPQ3Kiii52sv+vUjDOkNw5MdXbPYQyQFIZqcYN6GTYGuXplC+N8xvkruN/FOrMgmeLsCwvrsl4ih+vYBKJTjLKHvMxxg7aLtbKBJ1fG7tY1DIaifui0eV2a9SR2DObykrJwwUtEbRU2fg61hUTf7owHqdK6Wb+c1wzgFR1KC+xkHbf+TmJWiDtF19Ap79OCDNXRqwKRwEmU+UH8ydiAwKDwe5hk9heJapC6z+t95Ik0XNuVFGLnSLnrNfRil64tVKmzgLG+E7SSshbsPwo4HNol611TigzuJKcvZU6oHh5knnB8Zp+5Ei2B0HfYXRoV+CQZQcifrfeoMU777As09TK533n7FL74rwvd4x196RMQi8X2zGsFqGZ6u06KVe3Xq9b00PjHhCNIB+TM3aTwe++egHNFJ/BPUFKDxTl2PdEPlISGZPwXRUsTMJLh/Dl6TimQ==;nSWCTy6AWd2ohFbE2rOUaQ=="
+secured: "J84LOZuM1rZDDfVzkG0LdeQOgtxTimHD5zwVX52rS4fkYECixht9qeZ1Mh3E1FYeKgTq4h0pGGAjjX34T7F1B9pcVQ5n3c2o/+bIFp5xR98PUYWq9PR22kUk7GHgBkczc7wmifkWsw98CGaZTKjKPuA8jKtXWu04NQ0kMAx8IiUcFyFRxUeSVdZSISuY3n43A6q7gFa2+iXseEehlnOUMcIiEQBHf+ACX1wMscmsLi5DMPRkiaW0tgGKShDGtHm2N/pL88zKt32J6nfQFN28uWyqZIAUXSnYYQAHOsrcLds0DVJRP4zzMc21S8oTY3IY//SwlYdYyxQIQS2G1hZgQ9n1pFavHQs2oy0otAcSn00=;snHgETtBhasbiKY3EzPudg=="
 ---
 

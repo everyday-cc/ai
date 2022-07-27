@@ -66,22 +66,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Google has fired a software engineer who claimed an AI chatbot was sentient"
-    excerpt: "Blake Lemoine was placed on leave last month. Google and many leading scientists were quick to dismiss Lemoine’s views as misguided."
-    publishedDateTime: 2022-07-23T05:01:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/google-fired-software-engineer-claimed-ai-chatbot-was-sentient-rcna39679"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39679"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39679"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 85
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220723-google-cc-0100a-a0662f.jpg"
-        width: 5400
-        height: 3600
-        isCached: true
   - title: "Google fires software engineer that claimed that its AI chatbot is self aware"
     excerpt: "Google announced that it has just fired a senior software engineer after he began claiming that the company’s AI (artificial intelligence) chatbot was a sentient being (became self aware). According to a Reuters report,"
     publishedDateTime: 2022-07-25T09:51:00Z
@@ -97,22 +81,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/20220321101605.jpg"
         width: 670
         height: 446
-        isCached: true
-  - title: "A Google engineer believed he found an AI bot that was sentient. It cost him his job."
-    excerpt: "Blake Lemoine published conversations between himself and the Google AI chatbot LaMDA, which led him to believe the bot was sentient."
-    publishedDateTime: 2022-07-23T03:38:00Z
-    webUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7"
-    ampWebUrl: "https://www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-claimed-ai-bot-sentient-fired-google-2022-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/62b98fe79f5e550019aab870?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Google fires software engineer who claimed its AI chatbot is sentient"
     excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
@@ -267,15 +235,15 @@ related:
         height: 450
         isCached: true
   - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
-    publishedDateTime: 2022-07-25T18:17:00Z
-    webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
+    publishedDateTime: 2022-07-25T23:17:00Z
+    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"

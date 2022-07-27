@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T19:09:00Z
 originalUrl: "https://www.fedscoop.com/radio/harnessing-ai-at-dol-compute-power-and-data-at-dod-intersection-of-cloud-and-ai-ml/"
 webUrl: "https://www.fedscoop.com/radio/harnessing-ai-at-dol-compute-power-and-data-at-dod-intersection-of-cloud-and-ai-ml/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: FedScoop

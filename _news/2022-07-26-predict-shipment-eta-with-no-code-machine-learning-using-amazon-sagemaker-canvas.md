@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Integrate Amazon SageMaker Data Wrangler with MLOps workflows"
+    excerpt: "As enterprises move from running ad hoc machine learning (ML) models to using AI/ML to transform their business at scale, the adoption of ML Operations (MLOps) becomes inevitable. As shown in the following figure, the ML lifecycle begins with framing a business problem as an ML use case followed by a"
+    publishedDateTime: 2022-07-27T18:00:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "AWS Announced Synthetic Data Generation for SageMaker Ground Truth"
     excerpt: "The 2022 QCon London and QCon Plus tracks featured in-depth technical talks from senior software practitioners covering developer enablement, resilient architectures, modern Java, Machine Learning ..."
     publishedDateTime: 2022-07-25T08:00:00Z

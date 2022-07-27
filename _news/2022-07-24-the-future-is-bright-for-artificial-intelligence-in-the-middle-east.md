@@ -59,6 +59,15 @@ related:
         width: 1195
         height: 796
         isCached: true
+  - title: "4 healthcare AI trends: CVS Health data scientist shares details"
+    excerpt: "Eugenio Zuccarelli, a data scientist at CVS Health, shared his thoughts on some of the top trends he sees in healthcare AI right now."
+    publishedDateTime: 2022-07-27T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
   - title: "Artificial Intelligence in Healthcare: The Need for Compliance is Now"
     excerpt: "Right now, the regulation of artificial intelligence is high on the agenda for policymakers and regulators. allocate responsibility and governance for AI projects not only internally, but with partnering organisations,"
     publishedDateTime: 2022-07-27T08:48:00Z

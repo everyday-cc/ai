@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T19:12:00Z
 originalUrl: "https://cacm.acm.org/news/263063-ai-designs-proteins-with-potential-for-medicines-vaccines/fulltext"
 webUrl: "https://cacm.acm.org/news/263063-ai-designs-proteins-with-potential-for-medicines-vaccines/fulltext"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: acm.org

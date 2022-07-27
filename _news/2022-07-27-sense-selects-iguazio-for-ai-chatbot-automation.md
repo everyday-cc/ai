@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sentient chatbots, Douglas Hofstadter, and why general AI is still a long ways off"
+    excerpt: "One of the the fields leading thinkers, Melanie Mitchell talks about why humans are unlikely to develop general AI anytime soon."
+    publishedDateTime: 2022-07-27T19:06:00Z
+    webUrl: "https://interestingengineering.com/science/sentient-chatbots-douglas-hofstadter-and-why-general-ai-is-still-a-long-ways-off"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 11
 
 secured: "KcFL+PUS8sRd21iYkA7ZKo2EIbJtzCmnhuYz9CxBtv6bYhLsxJhNfVswd4tmTICQzVg3e0lvQQTo2tM9+tUwk/yBlBW0bAIcz53nCowm0ryZKJw6CN+lM4+MNIyxtaM/v8vdABsLTIrUvMxnXCKWT7KmyKcwvjM40SCVvlWzgPQLfgvrGzOR4+MAAa9R8DQCnjGxhekVzoz+umta8siccjjlrR9elaeswNKP24+6ZYWrWaSjtWm1Ha1boBM2k9DHDFxzKzyB4aoWQBRphDq9j77BIaa3bgUzJgjwB4t9oBRHe7cE6eOqWsRsXe1K7cmAFchCW2naK3BE8LJmD3L2ZIXp0EGMjqRvSvIcPp8NRDY=;2qzgOQeoOPht70PaEOBT3w=="
 ---

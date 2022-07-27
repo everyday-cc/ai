@@ -38,6 +38,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How to Prevent Phishing Using Visual AI"
+    excerpt: "Various researchers and organizations concerned with cybercrime understand the severity of the increase in phishing attacks. Therefore, phishing awareness training and detection are two of the best ways to prevent the most significant cause of data breaches globally."
+    publishedDateTime: 2022-07-26T13:52:00Z
+    webUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/"
+    ampWebUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/Visua-Picture.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rediscovering analog computing for achieving effective edge AI performance"
     excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
     publishedDateTime: 2022-07-23T13:50:00Z
@@ -97,6 +113,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 0
+  - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
+    excerpt: "Kanverse.ai, a Hyperautomation company, has announced the global launch of the Iolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Iolite release in"
+    publishedDateTime: 2022-07-26T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "R2U1Jqhl1MRaQz8VtR3QrjxWyq77Lu2ZCZme0MN7ympiGlAR2xMo/jRbG2cSCFBF5hssPI/oxnB8OYnUxEy1KthDWyub2j9GSy012bGAYeYjOgcTeNCwtLjSY4iqzITMvdR+blkjO7T7mDpgFeOfKmeRwO3OqDRrib/LpeZrVYpG1YTQzKqdRxls2YONUrtRSlA+LhcyKtll4CV+ihoJeQB+UApBMpIECOZMbcZxE1QQPYcohn2u3MPPfTBMAMflA7DoVQAWr0CcQ9aGnRLfV7iEtWWzU234AtLhRq/WLLmJzre636QNEiaUJ3NimlA4dKd8EP7Rre+474/faUM2ye44U7ov2MQT3vI7PnwFzcSBKbO42AZsxse+7F2QR7UzNfoBZ/8cKCVhooLZCoxy6Z5+puyFuD/FO5o0kuQoc22riiDK86f7r6Cr4mQ6Gj9txhmPAKsfz+EvDotsJNcyKHHzmCK+dM4NJHCvDdm70JYW0Mwva7QJjvDx7pGhmp2wKc2ciXmTohrefvIWfp/4vA==;Z/lKWjXLmqN1B3Ib0dZjxQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T18:00:00Z
 originalUrl: "https://techxplore.com/news/2022-07-human-like-features-robot-behavior-response.html"
 webUrl: "https://techxplore.com/news/2022-07-human-like-features-robot-behavior-response.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: techxplore

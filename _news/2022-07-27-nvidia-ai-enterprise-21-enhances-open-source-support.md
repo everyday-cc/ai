@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "Your Nvidia GPU could one day make your AirPod calls sound better"
     excerpt: "A small group of computer science and engineering students at the University of Washington have designed a new set of wireless earbuds that use AI-powered technology to provide a better standard ..."
-    publishedDateTime: 2022-07-25T13:18:00Z
-    webUrl: "https://www.techradar.com/nz/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
+    publishedDateTime: 2022-07-25T11:35:00Z
+    webUrl: "https://www.techradar.com/in/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
     type: article
     provider:
       name: TechRadar

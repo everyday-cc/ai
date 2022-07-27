@@ -9,7 +9,7 @@ ampWebUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-appl
 cdnAmpWebUrl: "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
+  - title: "Zest AI and Origence Partner to Integrate Powerful AI Within Origence Arc OS Loan Origination System"
+    excerpt: "Origence will integrate Zest AI's Model Management System (MMS) credit scoring technology into the automated underwriting module for its consumer lending platform – arc OS (prev"
+    publishedDateTime: 2022-07-27T19:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-zest-ai-origence-partner-integrate-powerful-ai-with-/2022/07/27/9646246.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "onSFNa8+acmfiB9I/qb/LW5Ls4WrwsSLrw8RhCMqNvAGPmLWAZyzseKLAWOOEC3SS9ymqbHACSB5tACRWtk7ljq7BMXep0OrV0Fv6N92qNbHhM0RGjjnhuJnOheJY4OJR5POhvx+U+NhYLdVVstTWzj/G00OY0UiVMjpoTJmCfm1lHB//EIqWeSuUwWS7e+9T98xQjmaC4i26Wa+xw4QA+y9NogyhP4KFB/C2faxIoYpI/bgivCjIxqLSSwTA5DmWPHbu34GSO96ZZVb+qwdcM/Dc7ZJ2U56s5B5FdT8dN9EZt0YP216kQubvaBhLuWzSAeP2NeJTKg39s1+zk9st3KLf4rVfoyjl9SKwx8OoOyVeggScxYCSzqha8xseY3AuipSlNxVRPRssjWYje0sEACakSuf9Gue35xmpv70r0XWKPHZmLmKFo6BkmIb8j5SgAE+PR9gtxwM68Ds71TZ2XaKSPIg0Dbzjn/i5pubyxyoIl6unjqgpzylc5l19Ia4uiQlpI/XrODBKpTlKNYq3A==;axpr6Tb30+JVniHEBL12ug=="
 ---

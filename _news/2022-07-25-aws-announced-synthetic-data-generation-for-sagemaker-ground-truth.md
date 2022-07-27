@@ -39,6 +39,15 @@ related:
         width: 1323
         height: 662
         isCached: true
+  - title: "Integrate Amazon SageMaker Data Wrangler with MLOps workflows"
+    excerpt: "As enterprises move from running ad hoc machine learning (ML) models to using AI/ML to transform their business at scale, the adoption of ML Operations (MLOps) becomes inevitable. As shown in the following figure, the ML lifecycle begins with framing a business problem as an ML use case followed by a"
+    publishedDateTime: 2022-07-27T18:00:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
 
 secured: "UHMkV8VuOVeid01E3hXnIqaJaM87oy0YrK/SE0qU7+WVeHDUViPWoSC6In1RHcdpe1fMLMTv1DYbbgfNO9g4SszoPt3te9soXGY36Uc/BdD6qABeC0XJYHVlsVz55/zJKnfbVYnDOKJz1xDa58iykvbHOaIpJYqatmilJGYLqepiR9nbhTQRroggxeqMnzOCDeadMwgFA7JTcjuumg4r/wUdZcVbBJEM5h0xQT6jUUpVs5QJb8VKyo/iOgFJEuzY0c+7YOdXXCB2qv1TbG/bKp/yJFskfGfAoUIcNiaMdIUcnhTojtgN+Atjc84IPzaD53xDLZHbAvME+zq7wLSYiVojr7AdbwNVhJPTLHAxlrU=;A9Ta9GBbzW9R8e1yCnfOjQ=="
 ---

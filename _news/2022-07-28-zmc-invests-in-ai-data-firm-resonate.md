@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T19:19:00Z
 originalUrl: "https://www.pehub.com/zmc-invests-in-ai-data-firm-resonate/"
 webUrl: "https://www.pehub.com/zmc-invests-in-ai-data-firm-resonate/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: PE Hub

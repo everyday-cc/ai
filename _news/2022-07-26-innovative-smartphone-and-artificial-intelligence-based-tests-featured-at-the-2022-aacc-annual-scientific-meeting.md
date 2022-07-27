@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T14:56:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recogni
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Protocol
@@ -25,6 +25,17 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
+    excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
+    publishedDateTime: 2022-07-27T19:31:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21275564/new-orleans-city-council-approves-police-use-of-facial-recognition-reversing-earlier-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 10
 
 secured: "X3kXlVvwI0Bq4J8ffIBtszdhXsAia7XOgXPTCge1w2Yle2gEe8gWgf9uwO8W1q7/aWXFADA4zFcwFscN8/ohlXNJtzQcoWglukHzIVfRdRYAsSOO1B7A6LFwMr/k2+wq5JQ5O3nWTcP6iwv5abTaJUpNuK5lkAeYFyZlpMtsJPcaGmNExuA7/SXiJxf8iMl3B/wJ7dGdWeid+tz1lZElH2dsd4figmI/urx3KKIPYoPG9x66ztORMNysxYTOOnzOI6xHn1XENR81QR1YQgnnjv4IJYUnaOP9QyQpG/3PCX/V5il/7yCDdT4yvIshE+m3cXx8z7+r9QwdNDTy9JlIujZ2hANlnBA5SY6IwIF/POG8ubgor2KkeutKAhI3x3ivLRTesfkWxY4N6pO3avB8PxeT14UfT+SYvSYkFXQcS5CoHzemTC4CsBlFK4wRWEs71QecO55eQN5RaV95vSpp2AljxjO8UTJtkxmOkhoyRWwulJx14NjDFveYW/YYN8XSsnEo8jC531pGr2J6CtuWrA==;v8hCQPojYzL4rUsbplcR/A=="
 ---

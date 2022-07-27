@@ -25,8 +25,8 @@ topics:
 related:
   - title: "Facial recognition cameras in UK retail chain challenged by privacy group"
     excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-    publishedDateTime: 2022-07-26T07:56:00Z
-    webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+    publishedDateTime: 2022-07-26T07:39:00Z
+    webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
     ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
     type: article
@@ -35,7 +35,7 @@ related:
       domain: theguardian.com
     quality: 73
     images:
-      - url: "https://i.guim.co.uk/img/media/63c7fa627d5de49dd67ec3b571fa5320578b51d0/0_1092_4478_2687/master/4478.jpg?width=620&quality=85&auto=format&fit=max&s=71dc317674ea7ffee3f6564b789793fb"
+      - url: "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/1_332_2666_1600/master/2666.jpg?width=620&quality=85&auto=format&fit=max&s=8749557b920f7e7ccb7eed1ddc70f1fc"
         width: 620
         height: 372
         isCached: true

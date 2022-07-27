@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T18:05:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-driven-internal-talent-marketplaces-are-key-to-talent-growth-and-retention-reports-hr-research-firm-mclean-company-1031621888"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-driven-internal-talent-marketplaces-are-key-to-talent-growth-and-retention-reports-hr-research-firm-mclean-company-1031621888"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Business Insider

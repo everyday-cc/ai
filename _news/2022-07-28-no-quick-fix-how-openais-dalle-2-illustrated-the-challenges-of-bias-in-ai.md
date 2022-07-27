@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T19:41:00Z
 originalUrl: "https://www.nbcnews.com/tech/tech-news/no-quick-fix-openais-dalle-2-illustrated-challenges-bias-ai-rcna39918"
 webUrl: "https://www.nbcnews.com/tech/tech-news/no-quick-fix-openais-dalle-2-illustrated-challenges-bias-ai-rcna39918"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: NBC News

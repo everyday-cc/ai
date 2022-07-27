@@ -42,6 +42,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How to Prevent Phishing Using Visual AI"
+    excerpt: "Various researchers and organizations concerned with cybercrime understand the severity of the increase in phishing attacks. Therefore, phishing awareness training and detection are two of the best ways to prevent the most significant cause of data breaches globally."
+    publishedDateTime: 2022-07-26T13:52:00Z
+    webUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/"
+    ampWebUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/Visua-Picture.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Challenges facing AI in science and engineering"
     excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
     publishedDateTime: 2022-07-25T18:07:00Z
@@ -96,6 +112,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 0
+  - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
+    excerpt: "Kanverse.ai, a Hyperautomation company, has announced the global launch of the Iolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Iolite release in"
+    publishedDateTime: 2022-07-26T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "jDSNfes3zAH+KhOtUTk2iasX9sSoAXDXOG5SIEFKuci3iNjdnbv85ocKyuEHoXCY60MZYLrLbaxYGw6wmzxC17/SX9fj9BSQ4MDkYI7+XEjydyRcKuyNHnrebBQ9YlwqAytJR/byQiUIIimJvN1v4skOY3kpfSQYoOWhW+KlnWMrvFOvsSsY2aNixgstIXQVqDRQFEKkUZ6kBjZqrW2fDwDi7W/ZNFXSmcYuquEpnH2q/GLQsLGCKNxp4barmfkjHDNhnWECw4Uabqml2yT2VBsBQfoVqVy0fIlLOAOJ/EIiPHqoin7gsBXnKBaBcGB7TD3nZzdIaq2Kyerdem1nYsStBL4DQIPkjvWJAdFnpcp6Fv9cFlM5w8FbMJeiubQvLwbUTuUaZXWezhbZVqaK/SdyDUdQERN0XQa3wKit7MD8tr094551W9oh3gP0TbkGi+KhkVwdi2JhUxF007muqmCXWHV7/isKvsV0lRHqcyalaQGiQA+VIHNBTwxQ8POktWT3UxGVQ21/WcTS+dlLBg==;VDAfACvnjtXSnmPIuXg21Q=="

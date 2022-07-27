@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T17:13:00Z
 originalUrl: "https://www.globalbankingandfinance.com/3-ways-ai-is-revolutionising-the-insurance-industry/"
 webUrl: "https://www.globalbankingandfinance.com/3-ways-ai-is-revolutionising-the-insurance-industry/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: List of Banks in Belarus
