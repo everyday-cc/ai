@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-in
 webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Diversity must be at the heart of equitable AI development"
-    excerpt: "As artificial intelligence becomes a part of everyday life, developers need to make sure that the models it learns from provide an accurate reflection of the real world."
-    publishedDateTime: 2022-07-22T15:05:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/07/why-is-diversity-so-important-to-developing-effective-ai/"
+  - title: "The transatlantic AI divide"
+    excerpt: "Tech regulators on both sides of the Atlantic hope to prevent a split on AI rules like one seen on data privacy, where regulators in Europe got out ahead of their U.S. counterparts and sparked all kinds of havoc that continue to threaten transatlantic data flows."
+    publishedDateTime: 2022-07-26T20:11:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/07/26/the-transatlantic-ai-divide-00048016"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
+      name: Politico
+      domain: politico.com
+    quality: 37
     images:
-      - url: "https://eandt.theiet.org/media/18926/dreamstime_l_153875977.jpg?crop=0,0.37333333333333335,0,0.13447916666666659&cropmode=percentage&width=1200&height=450&rnd=133029769190000000"
-        width: 1200
-        height: 450
+      - url: "https://static.politico.com/29/1a/a9600dec4386907f5c9b7c30c4f1/download-71.jpeg"
+        width: 1160
+        height: 629
         isCached: true
-  - title: "The Development Of The Games Industry. Meta Universes And Artificial Intelligence"
-    excerpt: "The future is approaching at a high speed. Technology is improving every day with new innovations and revolutionary ideas. Obviously, technological"
-    publishedDateTime: 2022-07-22T18:58:00Z
-    webUrl: "https://nerdbot.com/2022/07/22/the-development-of-the-games-industry-meta-universes-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Nerdbot
-      domain: nerdbot.com
-    quality: 14
 
 secured: "l9F1laMmuomiIBs35PhZO9NB6Rmy7CG4jH7taytzwJhGyk5Xy6BPrgmtW49mrrz3S93vQe/HJYwqMyNB1kYTmV6LlvKrCPNVobNi/CVxdX+XIjwMwdabuHyvIoNTwustnjv19CdaQcfL7bK3Sx3kYWK26wGAVkQDEPOkwN9jjGwwdBK4mmKcnWHmQlNNMzO6147qDft/YX3QIUwQmxEtbBAaGpasLEg2Ie4d9uQeZJbV0Gw0iHu4Tf5UvdrhgV3e6Rsal3rfYh79imOPRu1qa1AZw0+Ehq8wIafgBJvbFZ2XvHyUwRj93xawJo3v1wAOTsVm4SxZGwNCLoH7SRj+XrJiBDw3zbVx7MAxl269wGo=;a5TPhD3MbJFfrfCGkMTdEg=="
 ---

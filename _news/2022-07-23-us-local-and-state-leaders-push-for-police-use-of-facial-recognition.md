@@ -55,20 +55,6 @@ related:
         width: 800
         height: 499
         isCached: true
-  - title: "Clancy DuBos: Facial recognition vote a win for Cantrell, but not for everybody"
-    excerpt: "By a 4-2 vote on July 21, the council passed an ordinance allowing the New Orleans Police Department to use facial recognition evidence and other surveillance tools that Cantrell has touted for months in response to the city’s surge in violent crime."
-    publishedDateTime: 2022-07-22T15:30:00Z
-    webUrl: "https://www.nola.com/gambit/news/clancy_dubos/article_5d428f50-09ce-11ed-befb-cf116adadc6f.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/fb/9fba878e-09ce-11ed-a3bf-e719d18565e4/62d04deb3d365.image.jpg?crop=1716%2C901%2C0%2C153&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Orleans OKs some police use of facial recognition"
     excerpt: "The New Orleans City Council has reversed itself and approved police use of facial recognition software and cellphone surveillance towers to investigate violent crimes. The ordinance, approved by the council on a 4-to-2 vote Thursday,"
     publishedDateTime: 2022-07-22T19:45:00Z

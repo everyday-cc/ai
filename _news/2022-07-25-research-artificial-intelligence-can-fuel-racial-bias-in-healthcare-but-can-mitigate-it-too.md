@@ -73,6 +73,20 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Artificial Intelligence in Healthcare: The Need for Compliance is Now"
+    excerpt: "Right now, the regulation of artificial intelligence is high on the agenda for policymakers and regulators. allocate responsibility and governance for AI projects not only internally, but with partnering organisations,"
+    publishedDateTime: 2022-07-27T08:48:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/artificial-intelligence-in-healthcare-the-need-for"
+    type: article
+    provider:
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 54
+    images:
+      - url: "http://res-3.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/big_data_and_artificial_intelligence_concept-1040557296_guxpv3"
+        width: 2571
+        height: 1166
+        isCached: true
 
 secured: "Vy/vQ0d8bZesQZUKgbW6L89gXYfPMrenM6JM1s/gKa/9s70RXO7szW/4xRT2L9WQwHVYhH99hrWEgLUOy9SpKwLZbv/UcO2Y2C1jMyceNdvjdDabuTjsSnIrq0MqXeJtLcL9+iNM1pe7alm9dQIrEk5XwwS77uiFW6PqnuSXZlfTUQskKPnhMu0IsPUS3HNG63kZi7TrsjVhzU6K+FpeQ7FSMdiVTDFE4wplEF2IvUDYjVE2kPBThzPQ0T7m20lh2VnQLnHdl2I0o1FFTNlqEmX8g5Ya+JZkD5dhJkz2ZORnoIi3P6w3FULjv/yVbnr/LxB8g///dChRORfKvCXp+Xo1qCblo1b4ttOjZVRvUandbQQ/ydE3O25nhj9XWPYxS9rO+NL/34zlVH46gzIhWtvnnl0ZpmvGxWb+vfEmR+cxJis1AQ7ehkbYTmJS6i/vnpF5h1FhrPzluCwsJnoF/erF/FzWwcniLfWffvmrWVReXXs3P/AEKn4dkBXMmi0177vjBFRkv8ivQ8NbvfYaqw==;2SwZ1vdZgAfFrGOzu8+59Q=="
 ---

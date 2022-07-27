@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
-excerpt: "CemAI announces its entry into artificial intelligence solutions for cement plant operations. CemAI offers a predictive maintenance solution, that combines a proprietary licensed software with a continuous monitoring and incident resolution service for cement manufacturing lines around the world."
+excerpt: "CemAI’s solution complements the expertise of local plant maintenance teams by adding the dimension of predictive analytics, bringing cement plant maintenance into the digital age of AI. CemAI leverages machine learning technology that processes in real-time the operating data of entire cement plants,"
 publishedDateTime: 2022-07-26T15:45:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
 type: article
 quality: 33
 heat: -1
@@ -53,6 +53,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "bgt6GpmpiOqr2x5JZ312dW5dd90YISS1mmj6bDtZYMofHTozqFzVcREjzcLbxYRyrc9ND9mEk8/K4Hbtrz/6kXVMO3fBGSAG7kSw3RhrNCCqPTaph8fvHPQeCn06EFNaWMCe1MCSaxAuto8z2vu2lB2erTThK7Iuk38c8Urbcmy+iTbsVaWvOYQQZenWZiJldG4qkJvZWYHE2XsQB/67fgB++koFjNmFN/mHBjH04hwAA+hCxWsb0QJ+EBdu4IYRuh2tM2sFBJLQxqhQin1SDmWURCnd+eF3gK+1OfNwELLEMrgxeajgrzR7PL30BD+LK1mSeKS1SjfhjAy0mk+81TOXOR9v9fe/tKAap0L8FfM=;czBHVVj9A1xXtT+Peh11MA=="
+secured: "MxfubYTP6G/8ccPu9H2Mxul9+6xpksBq+UtPqM8MQQ+0zWaV5CTufSKjNB16OxQHtbHmbnZ3dGBglMP3nm1ifcizHGE9xze7J93c1dd0WEQ4t7BhN4w9d4UMHdYFCke9kbtNxGfHPq2E3BIGNV9pjxJ0pQQTcXA0ktkuFpNFX1O8y9g1LMgoJi16T+Pf3oxUzijRA+XeYdWntzaCkN9ISEwrhtpSNsLG1YTuiWYKBVhY/7jatyf1Io3ebsAnwFBko9pHp3C7y0oA6S0N8tLJ43ct8be84pSLeFwGpNH5YW+KCZJwa5PMzi6B/R+bsmPdCrwLDNgbKb6pHMim7XZROentzPPPPsWFTgpNCkLZKa8=;GIKn5+794qxb1qfhn7vZAw=="
 ---
 

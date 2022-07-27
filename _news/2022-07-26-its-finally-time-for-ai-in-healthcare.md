@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finall
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-07-22_acy6gef9yk.jpg"
         width: 718
         height: 300
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare: The Need for Compliance is Now"
+    excerpt: "Right now, the regulation of artificial intelligence is high on the agenda for policymakers and regulators. allocate responsibility and governance for AI projects not only internally, but with partnering organisations,"
+    publishedDateTime: 2022-07-27T08:48:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/artificial-intelligence-in-healthcare-the-need-for"
+    type: article
+    provider:
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 54
+    images:
+      - url: "http://res-3.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/big_data_and_artificial_intelligence_concept-1040557296_guxpv3"
+        width: 2571
+        height: 1166
         isCached: true
   - title: "Research: Artificial intelligence can fuel racial bias in healthcare, but can mitigate it, too"
     excerpt: "While some healthcare algorithms exacerbate inequitable medical care, other algorithms can actually close such gaps, a growing body of research shows."

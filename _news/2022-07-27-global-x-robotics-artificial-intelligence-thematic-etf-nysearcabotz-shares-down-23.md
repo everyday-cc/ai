@@ -28,6 +28,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 36
+  - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Acquired by Truist Financial Corp"
+    excerpt: "Truist Financial Corp lifted its position in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 8.0% during the first quarter, HoldingsChannel reports. The firm owned 10,196 shares of the company’s stock after purchasing an additional 752 shares during the quarter."
+    publishedDateTime: 2022-07-27T08:14:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/27/ishares-self-driving-ev-and-tech-etf-nysearcaidrv-shares-acquired-by-truist-financial-corp.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 0
 
 secured: "8tqVhGfg4pWnymg9CmpxpX2Aj+RbRa8AXmw76KPVjAVzisLg1jfTdkbdi2qSx5zErFE2/twCvrY+s6ykrSEZ19Qf4jhORo2XgLVoXZdjH3AmZFUnCHoM6Wjray75KDh3r5Lo1FUj1DSHOfZibNGFj0hjwFs9W5wLb37dNrI4xBpi01ymuEYrswWQXBjv0x8I2hXANYJINCvIjwPmNo/rS67pUzoQSycZw31Mk1RLw7VUQAcaG7lj3+2Xj7+Abm9FmvRP+mytrJNTHifsVRJhv8s+IhbPFfiKQjPP1Qnfj0vwy0FVFB3WzVMSCylhQERrYm4ErQmSKXnhBTZztWUv1jTPEm8DeJRn79zECCR0nCY=;2UEIv2i3jQ3SfhP9VwczGw=="
 ---

@@ -33,6 +33,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Insightly AI Secures Funding Round To Address Solve Developer Productivity And Burnout"
+    excerpt: "Businesses around the world have been grappling with worker productivity to drive greater performance and success for everyone. With a sharp focus on developers and engineering teams, Insightly Analytics a software development analytics platform is announcing a $1m seed funding round led by Together Fund as it seeks to help engineering leaders build better teams and ship software faster."
+    publishedDateTime: 2022-07-27T08:07:00Z
+    webUrl: "https://menafn.com/1104597882/Insightly-AI-Secures-Funding-Round-To-Address-Solve-Developer-Productivity-And-Burnout"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/27/ND_b7db7image_story.jpg"
+        width: 1988
+        height: 1326
+        isCached: true
   - title: "MegaPortraits: Samsung AI Center researchers develop animated megapixel neural head avatars"
     excerpt: "Have you ever seen a painting come to life, like the portraits in Harry Potter? Researchers from the Samsung AI Center have developed a new neural technology to animate static images with impressive realism and resolution."
     publishedDateTime: 2022-07-26T13:34:00Z

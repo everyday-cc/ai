@@ -2,25 +2,25 @@
 category: news
 title: "Google fires employee who claimed AI system had become sentient"
 excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
-publishedDateTime: 2022-07-26T14:40:00Z
-originalUrl: "https://www.wtvm.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-webUrl: "https://www.wtvm.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-ampWebUrl: "https://www.wtvm.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
-cdnAmpWebUrl: "https://www-wtvm-com.cdn.ampproject.org/c/s/www.wtvm.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+publishedDateTime: 2022-07-26T15:40:00Z
+originalUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+webUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+ampWebUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+cdnAmpWebUrl: "https://www-wkyt-com.cdn.ampproject.org/c/s/www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WTVM
-  domain: wtvm.com
+  name: WKYT
+  domain: wkyt.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wtvm-prod.cdn.arcpublishing.com/resizer/z6haloT_CNfSUs3-ReB_9ncyew8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PMVMF7UEXNE6NHY4TTUBSDA44E.png"
+  - url: "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/YTiKiN9cbnJXnRBnBydYnpvywo0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RODA7G367NEOHISL5CEWETXS3A.png"
     width: 800
     height: 450
     isCached: true
@@ -422,6 +422,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "RbwPYTiUrxQaFHDl5SC+fyDrtf7jtWwWwU5/DD3KMAgae9kUHqXomDYITos+LL9fQ3nyt/omYA2y1eDAitLU2rr4lCi8Y9Y4npWJAKrruB375aPcWK8Nlv8RGxqPUI7kyfvxKAqSehbwew8j1X5OsAABJ1TLgg+1ALyYFtd/1wRBygVfi0vJa9T1oIrwU9IrhvBsNuLDvvXlefNd64lKGWhkA/uvmpD5dkiJ4zQ7/+p/kzdGbDmZmngMwIYSyFx588ojQvqlS5EhG5EyqcNXUM2l+AjfVhPFTnPEtDXulMSke6wv2YBxzER8XDdJLn9pXE47v4G8FFCd8NjQ3m5RU8wagmqwX2ctK1lytu7g/EA=;A5eml1XWIYp4HVDg7SiHsQ=="
+secured: "CnlvXzsD8C+LJpmyc7nFbz5o+gXP0llpBaMBUplNuavIvc1v3Ue/pp6Cf6E0Pw4LO0wJIwGjmQMw8SE7KcC8MJYSSldMG0VYHhs8p4By3LpqYQ+ydPaREWm8uCYJcC1vDAR4ZJN0nIbJsLeKsi+qdHjg8BFXNoenMEFqi2zfEwNjyGqKAipIzGw6y9DH6t8n/inx3DgL4tkgGcAB+ow94AjQh7AQKFdnVEO4wYzel1osKiagTwW19UcftqE3r99KnvW9irpKUBBEpVtW0IkHFWogPQ76GcZA+PGixVeFIvjMlPgtIw38gcChs6IvxQVOBuV91iRGVfB/11zbej41p5k6KpfTGzW8rCYu/9tPp34=;KC1/rgQHTvc+AX6FYTYZ3A=="
 ---
 

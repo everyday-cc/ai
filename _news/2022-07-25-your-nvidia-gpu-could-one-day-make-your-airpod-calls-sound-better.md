@@ -2,9 +2,9 @@
 category: news
 title: "Your Nvidia GPU could one day make your AirPod calls sound better"
 excerpt: "A small group of computer science and engineering students at the University of Washington have designed a new set of wireless earbuds that use AI-powered technology to provide a better standard ..."
-publishedDateTime: 2022-07-25T11:35:00Z
-originalUrl: "https://www.techradar.com/in/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
-webUrl: "https://www.techradar.com/in/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
+publishedDateTime: 2022-07-25T13:18:00Z
+originalUrl: "https://www.techradar.com/nz/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
+webUrl: "https://www.techradar.com/nz/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
 type: article
 quality: 84
 heat: -1
@@ -136,6 +136,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "GYbGthcNi5Z2/Nko4WielguTzlR1rwTyid+uSmWl7sdCzP3+kgGRh1lGM+VFMhHOfMy7psp2uhNUE7HHvBNkfbbQfocNAfiHL1OGEMEjCgI67VbjCi3ExffTQRCOwjNRsFT4H2usqABLd1TPLdF/2pBWLg68p5QciCxGa62poS/SOr2VqpZu4lNorANYeOuzUj3a6iscuJryUeQy1XBDodZBQdR8HlUgvAKYzSav38ZKyP2yfp49UiIBuCnZJh1FFwYYseAOD91QugydVAoumkbp800RNhdHgR+iuwZmoUlQfhU0vBx70INBgoJVdsi93bwW37joNUHSfzQ/qMLKZdeYkIZ/qG6rEub2d675EkY=;qR+fxH+QYZscWk+yeA5LLw=="
+secured: "FOn42b3WbJtMSamvYonL4XewzrYNWu77ulGf0YeT85FyjnS6EYRCjgDcuREbbCT+m4CJXEd/UlOfhmjxc9Q0OHldBLilLB9rAVe/bV1oFi887rjfK8yE5bXXZ3MpR9osRHNaCIaJg1k1pwaiMBkb/rgGZwr4w+uAUu9uwKWFFBzmkx+RtpbvMfifJw/HHTkama+Saq/70HNUpKIpKJsgmO+emdY4ASHkhcByYf9++rxP95QZzgZpVbv6nHYaLxDhe3hWOCZs0VmXdUZdVl+mH8a9FPsZZvwD0EvFJov+wT29QTbKjQye+z1OjXcgs6k4znbmOf52bkoQrdj+YgIS9yuskxgf0i5FAC6mLf4io2w=;bcpdx807SPaJE5BuLhk/aw=="
 ---
 
