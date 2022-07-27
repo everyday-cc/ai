@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence"
-excerpt: "Anumana, Inc., an AI-driven health technology company and portfolio company of nference, has launched a multi-year strategic collaboration with Novartis Pharmaceuticals Corporation (“Novartis”) to deploy a series of artificial intelligence (AI)-powered software solutions that will detect hidden cardiovascular conditions."
+excerpt: "The collaboration will support Anumana’s efforts to implement AI-enabled diagnostic software that can detect signals from ECGs that humans cannot interpret. The collaboration will initially focus on cardiovascular diseases."
 publishedDateTime: 2022-07-13T12:47:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-software-heart-disease-8655d6d76122477285fc87247bdc2a0a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-software-heart-disease-8655d6d76122477285fc87247bdc2a0a"
+originalUrl: "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "LlurBBJtA7eesILmcrc+RcCvoNcJGWJY+gADaK10SZSB+k5Mm6jxpHXAo/74xybOAufNY7JWCHxVf/H7rGyedtUE0Q+GM0u2ZKSQJ3I6xQlHkc3tzwocBxU7YyTfir8Oze4YL7M8mJEJwt4xyyzEwbc52coUpeMh8UcmET1Fxa9hxr/2tfb+SxTFd7C359hkukz+6C/Tk34pGTmgw91AxoPjSDKojad+/l1XaxFyllOeYkUr7gr2Xe1qvrze6oI2tdYsujVAkoP7A3Jog/E9Q2G5i1lSfux4BgRvhGK5qWpMMez/+t9pUmth9/1C2/F0ZdHANCsWyKsnKGRdKWLETIE0zOSJ67P+21nEsptVDK4=;yKzFjwBFboxmkI3fd+NJUg=="
+secured: "6ziX8E0v+xV9NxvuwD7qZMlLcyG+LzInIldSLFgN/8xESACdU4R+uwHXDokFcAP6diNlcob4yZZ2mjGOOORJ5TuUYE/LdGSyg5BXgQiZnR+Ocq6ETX+FLLvjpAUVUdSTuqULCkwxF18V72Y4MbU0nJoC2Y1Ix6KR4SjwjKquumnf7KPLPW2QzPX0QjjpR3BsW1tfPQqB0Rj/OlSrJvNW9IsM0RjtqGN0fN/UBhflKv++ImZhT8lzYiuQQZ6RCE7meSfaITmtD522vbMMOVKQF9ra24lE3Q/ogfFgPhr/ly46dTIP0LeaT0ad/tBYaT+dVJzx9Sz1IOTPOJGP8Y+57Bgzwrsp+iO8Jb2rqTRTfVo=;cKV5jIa9nH+xGG/rctlMqQ=="
 ---
 

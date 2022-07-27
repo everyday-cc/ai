@@ -175,6 +175,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-16-bacteria-based-biohybrid-microrobots-on-a-mission-to-one-day-battle-cancer.md",
+      "title": "Bacteria-based biohybrid microrobots on a mission to one day battle cancer",
+      "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html",
+      "originalUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/bacteria-based-biohybr.jpg",
+          "width": 2880,
+          "height": 1383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-bacteria-based-biohybrid-microrobots-mission-day.amp",
+      "publishedDateTime": "2022-07-15T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
       "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
       "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers.",
@@ -229,24 +272,33 @@
     {
       "path": "_news/2022-07-15-phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions.md",
       "title": "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions",
-      "excerpt": "The $25M Series A will help Phaidra accelerate its mission of increasing Fortune 100 profitability while reducing emissions with artificial intelligence and deep reinforcement learning. Company ...",
+      "excerpt": "\"At DeepMind, my co-founders and I saw first-hand how deep reinforcement learning was creating breakthroughs in multiple real-world applications. We started Phaidra to bring the benefits of this ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/article_2e1f2fc7-ed6a-5739-8dfb-dec45da6027b.html",
-      "originalUrl": "https://www.news-journal.com/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/article_2e1f2fc7-ed6a-5739-8dfb-dec45da6027b.html",
+      "webUrl": "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/",
+      "originalUrl": "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T08:52:00-07:00",
+      "publishedDateTime": "2022-07-15T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1036,8 +1088,8 @@
       "title": "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!",
       "excerpt": "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tw-cities-selected-as-host-site-artificial-intelligence-/2022/07/14/9639397.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1115,40 +1167,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

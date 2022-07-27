@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-lite
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/Atturos_RP_SP_Lab_2.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Harnessing AI & analytics to establish a smarter, adaptive Supply Chain"
+    excerpt: "Businesses are looking to deploy adaptive Digital Supply Chains that are equipped to deal with uncertainties and can process and analyze."
+    publishedDateTime: 2022-07-27T06:41:00Z
+    webUrl: "https://www.pcquest.com/harnessing-ai-analytics-to-establish-a-smarter-adaptive-supply-chain/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 39
+    images:
+      - url: "https://www.pcquest.com/wp-content/uploads/2022/07/Harnessing-AI-analytics-to-establish-a-smarter-adaptive-Supply-Chain.jpg"
+        width: 800
+        height: 451
         isCached: true
   - title: "GFT among Europe's leaders for data analytics and machine learning in the Google Cloud"
     excerpt: "GFT has been identified as a leader in ISG's Provider Lens™ evaluation for Europe – Google Cloud Partner ecosystem data analytics and machine learning 2022 \"Strong visual inspection capabilities make GFT a leader on data analytics and machine learning ..."

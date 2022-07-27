@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Edge Computing Market Report 2022-2026: Growing Use of Edge AI Technology in Transportation and Traffic Management - ResearchAndMarkets.com"
-    excerpt: "The “Global AI Edge Computing Market 2022-2026” report has been added to ResearchAndMarkets.com’s offering. The AI edge computing market is forecast to grow by $14.28 billion during 2022-2026, accelerating at a CAGR of 20.27% during the forecast period."
-    publishedDateTime: 2022-07-25T09:17:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-transportation-traffic-fc5bfd0e52d74e009c5e5de05c46f09d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Data Intelligence & Governance Market Report 2022-2026: Exponential Growth in Data Volume Fueling Expansion - ResearchAndMarkets.com"
     excerpt: "The global data intelligence & governance market in 2021 was valued at US$20.55 billion, and is likely to reach US$36.27 billion by 2026. The data intelligence & governance market is projected to grow at a CAGR of 13."
     publishedDateTime: 2022-07-26T10:33:00Z

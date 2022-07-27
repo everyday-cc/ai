@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Edge Computing Market Report 2022-2026: Growing Use of Edge AI Technology in Transportation and Traffic Management - ResearchAndMarkets.com"
-    excerpt: "The “Global AI Edge Computing Market 2022-2026” report has been added to ResearchAndMarkets.com’s offering. The AI edge computing market is forecast to grow by $14.28 billion during 2022-2026, accelerating at a CAGR of 20.27% during the forecast period."
-    publishedDateTime: 2022-07-25T09:17:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-transportation-traffic-fc5bfd0e52d74e009c5e5de05c46f09d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
     excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."
     publishedDateTime: 2022-07-26T08:52:00Z

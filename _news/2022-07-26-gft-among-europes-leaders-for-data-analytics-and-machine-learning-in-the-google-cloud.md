@@ -56,6 +56,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Harnessing AI & analytics to establish a smarter, adaptive Supply Chain"
+    excerpt: "Businesses are looking to deploy adaptive Digital Supply Chains that are equipped to deal with uncertainties and can process and analyze."
+    publishedDateTime: 2022-07-27T06:41:00Z
+    webUrl: "https://www.pcquest.com/harnessing-ai-analytics-to-establish-a-smarter-adaptive-supply-chain/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 39
+    images:
+      - url: "https://www.pcquest.com/wp-content/uploads/2022/07/Harnessing-AI-analytics-to-establish-a-smarter-adaptive-Supply-Chain.jpg"
+        width: 800
+        height: 451
+        isCached: true
   - title: "SAP Acquires Startup Focused on Search-driven Analytics 'Askdata'"
     excerpt: "SAP SE announced that it has acquired Askdata, a startup focused on search-driven analytics. With the acquisition of Askdata, SAP strengthens its ability to help organizations take better-informed decisions by leveraging AI-driven natural language searches."
     publishedDateTime: 2022-07-26T01:13:00Z

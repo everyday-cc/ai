@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-21-dall-es-powerful-ai-image-generator-is-now-available-in-beta.md",
+      "title": "DALL-E's powerful AI image generator is now available in beta",
+      "excerpt": "The beta also expands the usage rights to include commercial projects. You can print the images on shirts or children's books, for instance. OpenAI will still reject DALL-E image uploads that include realistic faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
+      "originalUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/08fb3150-084c-11ed-8bae-00915c7d9e77",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine.md",
       "title": "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine",
       "excerpt": "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI.",
@@ -1136,49 +1187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
-      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "publishedDateTime": "2022-07-19T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cam
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 45
+  - title: "Southern Co-op faces legal challenge for facial recognition CCTV ‘adding shoppers to watch-lists’"
+    excerpt: "Southern Co-op is facing a legal challenge for its use of cameras that capture biometric data of customers. Privacy rights group Big Brother Watch said the independent grocery chain had installed the surveillance technology in 35 stores across the UK and claimed supermarket staff could add people to a secret ‘blacklist’ without them knowing However,"
+    publishedDateTime: 2022-07-27T07:02:00Z
+    webUrl: "https://www.retailgazette.co.uk/blog/2022/07/southern-co-op-faces-legal-challenge-for-facial-recognition-cctv-adding-shoppers-to-watch-lists/"
+    type: article
+    provider:
+      name: Retail Gazette
+      domain: retailgazette.co.uk
+    quality: 26
+    images:
+      - url: "https://www.retailgazette.co.uk/wp-content/uploads/2022/07/shutterstock_1323541409.jpg"
+        width: 1000
+        height: 607
+        isCached: true
   - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
     excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
     publishedDateTime: 2022-07-26T12:53:00Z

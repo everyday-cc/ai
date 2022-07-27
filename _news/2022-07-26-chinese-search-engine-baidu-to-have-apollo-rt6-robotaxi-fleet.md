@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/chinese-search-engine-baidu-to-have-apollo-rt
 webUrl: "https://techstory.in/chinese-search-engine-baidu-to-have-apollo-rt6-robotaxi-fleet/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Baidu's latest robotaxi has a removable steering wheel"
-    excerpt: "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,"
-    publishedDateTime: 2022-07-22T14:51:00Z
-    webUrl: "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
-    ampWebUrl: "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f"
-        width: 1920
-        height: 1281
-        isCached: true
-  - title: "Baidu: Beating Tesla In Potential $200 Billion Robotaxi Opportunity"
-    excerpt: "Baidu's Apollo Go is quickly emerging as a leader in the Chinese robotaxi industry, with operations spanning 10 cities. Read why it's beating Tesla."
-    publishedDateTime: 2022-07-26T17:06:00Z
-    webUrl: "https://seekingalpha.com/article/4525897-baidu-beating-tesla-in-200b-robotaxi-opportunity"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926948/image_1392926948.jpg?io=getty-c-w750"
-        width: 750
-        height: 490
-        isCached: true
-  - title: "Baidu introduces its autonomous vehicle with removable steering wheel"
-    excerpt: "Baidu, Inc., a Chinese tech firm specializing in Internet-related services and products, and artificial intelligence, has unveiled its fully autonomous vehicle called Apollo RT6. The next-generation AV is an"
-    publishedDateTime: 2022-07-25T07:22:00Z
-    webUrl: "https://www.econotimes.com/Baidu-introduces-its-autonomous-vehicle-with-removable-steering-wheel-1638005"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202207255a539c65dcddbb243_th_1024x0.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "gzCb8itBKrgqKHerQyobsbZ/NmmxGGtVYYUjebTRufmffVQqAR/IvvSyuVMalnQhkAU9IPoWwVNylAA9RbjrtUnFskbhFoy29p9lShOZiRKKTMFx033HX6XXyOCRq5lvFCLJ1t3IxvosMruV0EP3bbjHa9bRQBEXpRngfJdrAekfgne3e2VebmRL/lQ8q7DVzAOOi3RkBRVG3iaptbrz2O1poP0RrueYSZadXhm59B5rLuElmLoxOxI+c1vd5DZMY6ls+OqGkROasEKwAAi4PdureLGvgakFGEhA49Bri7rvHON8JCsh480JZlSlQKEyiR3AFb5NBJx6lH5bRULWKgWN8k+TwVsJjChMNvitJkcKWfv4Cmt4BGUIsoYMxm632SPWcq4UqBAo9luYWR9U/+YL2UF0KmiSV/nxRkgDHJgA1Bi0KPcUgKB8Undt2omBs1YFKGLwitWQBL9pZ4GzxKMX/Ry5n7j0eOF1ruNQNdPCh8IXOj9bYqMbKxMlhrUS5MEtEdF6gHrdoNX7Q5fLvw==;SfSyNePyWXiQ6RB3EM9OnA=="
 ---

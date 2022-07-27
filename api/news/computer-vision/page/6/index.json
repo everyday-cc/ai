@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-24-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
+      "title": "Why Mastercard's new face recognition payment system raises concerns",
+      "excerpt": "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
+      "publishedDateTime": "2022-05-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images.md",
       "title": "UK regulator fines facial recognition company $9M for illegally storing images",
       "excerpt": "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials.",
@@ -1333,50 +1376,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
-      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
-      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "publishedDateTime": "2022-05-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

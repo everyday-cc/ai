@@ -35,6 +35,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "How this machine learning researcher brings art and data together"
+    excerpt: "Artist and researcher Caroline Sinders is using research-based art projects to examine data and technology’s impact on society."
+    publishedDateTime: 2022-07-27T06:00:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/machine-learning-data-research-art"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/Caroline-Sinders.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "HtzS3ru5PkmPtM9TH0i5wxq3V6ntackiQHZ6lpPP/nGNN4qLtc2cM6QO/fSMWP6gXjqBN1nrEwSeqO1jyHs4/K9VKmiP+CwF6sAem0jot5vKBCo/nqFFyrHwZKa14gOgUXKc4ipC2KiJ/ghSGn6HDb6UH894flKAh0AxRaHa6/jtFOmiyYKOA6FpxYidH7i045y8b/obLgP/CTDjokQGeeBnV/Vw8xaVl9aJ9TwBz9NfORy4jUa09VD2tA7vEjBaPfHwrZHuaDuH72vzA3NT6WoHhSJ/2L10akJf4AnMazU1IC0AUIySLCuCXJtc2nFNV17qvTXNA6OA4xd7bWBzDh9i7Ws74TMKNRzoz8Nd150IB6DfJz7xwdV42+CW4thfjvyayVYLKubZS3bs1DLOZoUlgCQtS0dCsYnvEnTfJYBFKz56hSfVDcYHBrBJaC9N+BCAYFkU1Dmnla1whcZ7aXjTBajmFkYxJdQtGd8x7J7LD2YLEA8VJagLa9xaUHMiNSUCOnnJZGVn4rtUff2U1Q==;c8U7liMClNDA3H+gINKWbA=="
 ---

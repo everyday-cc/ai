@@ -814,6 +814,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-12-global-machine-learning-as-a-service-market-to-garner-30266-billion-by-2030-states-the-report-by-allied-market-research.md",
+      "title": "Global Machine Learning as a Service Market to Garner $302.66 Billion by 2030, States the Report by Allied Market Research",
+      "excerpt": "Surge in demand for cloud computing, increased deployment of technologies including artificial intelligence and cognitive ... Amazon Web Services, Yottamine Analytics, Microsoft Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-garner-302-66-billion-by-2030-states-the-report-by-allied-market-research",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-garner-302-66-billion-by-2030-states-the-report-by-allied-market-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-the-cambridge-handbook-of-working-memory-and-language.md",
       "title": "The Cambridge Handbook of Working Memory and Language",
       "excerpt": "Measuring Individual Differences in Working Memory Capacity and Attention Control and Their Contribution to Language Comprehension Working memory and language are tightly intertwined cognitive systems. Working memory enables language acquisition and ...",
@@ -1377,58 +1421,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-cognitive-spending-systems-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028.md",
-      "title": "Cognitive Spending Systems Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)",
-      "excerpt": "The \"Cognitive Spending Systems Market Research Report\" published by Report Mines gives information about Cognitive Spending Systems market structure (perfect competition, monopolistic competition, oligopoly,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-07-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-07-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

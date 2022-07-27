@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-17-flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-aiml-startups.md",
+      "title": "Flying Fish raises $70M fund and will cast net beyond Seattle to back more AI/ML startups",
+      "excerpt": "Seattle-based venture capital firm Flying Fish landed $70 million for its second fund to invest in more machine learning and artificial intelligence startups across a bevy of verticals… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
+      "originalUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
+      "publishedDateTime": "2022-05-17T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles.md",
       "title": "North America is seeing a hiring boom in retail industry machine learning roles",
       "excerpt": "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year.",

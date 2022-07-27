@@ -2,6 +2,101 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-06-19-dementia-two-childhood-factors-that-can-lead-to-cognitive-decline-in-midlife-new-study.md",
+      "title": "Dementia: Two childhood factors that can lead to cognitive decline in midlife - new study",
+      "excerpt": "They were then followed up between 2017 and 2019 - aged between 39 and 50 - when their cognitive function was assessed using a range of computerised tests. These participants were followed up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/1627736_1.jpg?r=1655626056776",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
+      "publishedDateTime": "2022-06-19T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-19-forget-sentience-the-worry-is-that-ai-copies-human-bias.md",
+      "title": "Forget sentience… the worry is that AI copies human bias",
+      "excerpt": "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
+      "publishedDateTime": "2022-06-18T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-cognitive-restructuring-and-its-techniques.md",
       "title": "Cognitive restructuring and its techniques",
       "excerpt": "Cognitive restructuring is a technique that helps people change the way they think. It can help people feel differently about things that worry or frustrate them, and this in turn can affect ...",
@@ -1070,91 +1165,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026.md",
-      "title": "Artificial Intelligence Robotics Market Size, Share, Study Overview, Dynamics, Manufacturing Cost Analysis and Forecast Outlook 2026",
-      "excerpt": "Artificial Intelligence Robotics Market research study provides an in-depth analysis of current industry scenarios like Size, Share, Revenue, Leading Competitors, Risk, and Growth factors that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/749967692b9d1f63cada0512a324a03291f1b519-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions.md",
-      "title": "Maruti invests Rs 2 crore in artificial intelligence startup Sociograph Solutions",
-      "excerpt": "The country's largest carmaker Maruti Suzuki India on Friday said it has invested around Rs 2 crore in Sociograph Solutions Pvt Ltd (SSPL), a startup specialising in artificial intelligence. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions",
-      "originalUrl": "https://www.freepressjournal.in/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions",
-      "publishedDateTime": "2022-06-17T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

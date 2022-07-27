@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
-      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
-      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
+      "path": "_news/2022-07-25-irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony.md",
+      "title": "Irony machine: why are AI researchers teaching computers to recognise irony?",
+      "excerpt": "Irony is linked to the ability to say one thing while thinking another – which means it’s also intrinsic to being human. What does new research into artificial intelligence and irony reveal?",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "webUrl": "https://theconversation.com/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
+      "originalUrl": "https://theconversation.com/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
+          "url": "https://images.theconversation.com/files/473359/original/file-20220711-19-5d335n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "publishedDateTime": "2022-07-25T04:30:00-07:00",
+      "ampWebUrl": "https://theconversation.com/amp/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
+      "publishedDateTime": "2022-07-24T21:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
@@ -156,8 +145,8 @@
       "title": "Chips and the China Challenge",
       "excerpt": "Without federal support for semiconductors and other important technologies, the U.S. simply isn’t playing to win.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510?mod=latest_headlines",
+      "webUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
+      "originalUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -496,7 +485,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {

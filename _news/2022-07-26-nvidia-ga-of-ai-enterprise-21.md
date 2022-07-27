@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
         width: 1200
@@ -95,6 +95,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "NVIDIA Announces GA of AI Enterprise 2.1"
+    excerpt: "which enables affordable GPU sharing.” NVIDIA said the updated version enables customers to stay current with AI development and deployment tools, along with support and updates from NVIDIA. Support will continue for those relying on earlier ..."
+    publishedDateTime: 2022-07-25T18:45:00Z
+    webUrl: "https://insidehpc.com/2022/07/nvidia-announces-ga-of-ai-enterprise-2-1/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Nvidia’s AI Enterprise 2.1 makes running AI models ‘simpler’"
     excerpt: "AI Enterprise 2.1 promises more accessibility across hybrid or multi-cloud environments to support AI. It adds support for Red Hat’s OpenShift, the software family that features a hybrid cloud platform as a service,"
     publishedDateTime: 2022-07-26T20:12:00Z

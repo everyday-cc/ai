@@ -3,8 +3,8 @@ category: news
 title: "Chips and the China Challenge"
 excerpt: "Without federal support for semiconductors and other important technologies, the U.S. simply isn’t playing to win."
 publishedDateTime: 2022-07-24T18:01:00Z
-originalUrl: "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510"
+webUrl: "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510"
 ampWebUrl: "https://www.wsj.com/amp/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "QH96KYMjpfL5Q9SoUDIoAtsJDkfiKPCoMfGueeyTgcZvHUTY5SZtj6x+GsaTyKae/qwG7wk9UF6liG7U0PqGGL5YlRRaa3MLAXgIL2Pg3nWhdhrCh+bgUfdh3Am7v+HxgWAxD/j48gCdAMKZxL/PjvR9ejMduW3ffiJ8lPwRSZY6kJc5Z1xtL2vqcK32vmwIupzohYVCea1zWlR7G/+w04oLe7XEvCTkjmRtrwmlBoBIOb4fsTIjhrU4hZ4xsgXkeFi/yf56za9SHds3dm4iGcGOELp3woS990zl2yyyDcl+E74xO5CUJx0ISd9/rnPrKleq0Yn9KZdPuaoh247SkscprR0VngcY1L65ypHT800SWDc6P5MHARJWtKwDSnSajNiHS0cCJYjMtpzjNspz5lAqu0zzEG/dD09f1IpJz9LQL76c3eMQffxbX4i/FMNThV5l9UeXIn0sSy+n2clab3c743i2xS3Xh1dl46DGA/O1wEvuTZ03mM92AhH6zzrsXlLmvswVFoZF2wwSMMQbig==;qj65163mwrNRd9fpBUOxWg=="
+secured: "i/jI9/FitiN5x4zUlfxy8VG+G3uI2YPVDfBi9xx9K0qYpVOimZghUd4iQMGCrFYnfe1zg2ZuCnkqJUOJgrfj5VsNZ2m5B4WxXe4Xbk6lzyiPHJykrpemntnvtYeq7IkTOAFtUtYAbRjZZR2Mh8AXDOpYlucy+pfHevS2kBIvFUVUmkGux1ehAG4XmaC6x6bfOaKZ/J7eNU/K2nDr5tuuw8qytf6XFgzUI1qjzAYYFjwFrQGxqmhzQ3wqPwBlANcTEaa5mSIHwJozVgcPZ1vP7fiyo0KlUoNhbuSmLDbh2fvbraiKbVuaoT/zzeAJ0OMaJg/TERYLoYdKB1O8PS7SEx47m9Fzb3hWqEAGTF4w/X4=;CpSjlMRz/vVwd05RR/fGCQ=="
 ---
 

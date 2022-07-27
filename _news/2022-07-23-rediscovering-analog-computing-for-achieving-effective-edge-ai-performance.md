@@ -79,6 +79,22 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
+    excerpt: "Kanverse.ai, a Hyperautomation company, has announced the global launch of the Iolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Iolite release in"
+    publishedDateTime: 2022-07-26T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28210328"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28210328"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
+    images:
+      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+        width: 900
+        height: 594
+        isCached: true
   - title: "Cross-pollination among neuroscience, psychology and AI research yields a foundational understanding of thinking"
     excerpt: "Progress in artificial intelligence has enabled the creation of AIs that perform tasks previously thought only possible for humans, such as translating languages, driving cars, playing board games at world-champion level and extracting the structure of proteins."
     publishedDateTime: 2022-07-26T13:47:00Z

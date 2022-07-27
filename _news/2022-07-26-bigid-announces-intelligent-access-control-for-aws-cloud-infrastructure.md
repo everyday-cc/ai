@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BigID Announces Intelligent Access Control for AWS Cloud Infrastructure"
-excerpt: "BigID, the leading data intelligence platform that enables organizations to know their enterprise data and take action for"
-publishedDateTime: 2022-07-26T15:37:00Z
-originalUrl: "https://www.datanami.com/this-just-in/bigid-announces-intelligent-access-control-for-aws-cloud-infrastructure/"
-webUrl: "https://www.datanami.com/this-just-in/bigid-announces-intelligent-access-control-for-aws-cloud-infrastructure/"
+excerpt: "BigID, the leading data intelligence platform that enables organizations to know their enterprise data and take action for privacy, security, and governance, today announced security and privacy aware access control for AWS Cloud infrastructure,"
+publishedDateTime: 2022-07-26T12:23:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-853888409524f22c5714fd7fd40070f0"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-853888409524f22c5714fd7fd40070f0"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "BigID Expands Its Data Protection Leadership in AWS Coverage & Integration"
@@ -43,6 +49,6 @@ related:
       domain: businessinsider.com
     quality: 33
 
-secured: "Lc/OhDqq/mHM0p3Tc1U7r6fL2s+VPxRqAZFy/wuoaaTCq5qqeqMYgddRl+q8/cGv5wBZV8tEEk+Y09Bs7UczzrRyIESSDrhrKIANVuh/g8w0UddO3Bl851btZhdYCPEugIZQ/ERxhvcB3YQatOWyi3VuqWZM57FHaloqBRIZX+JJZEPP6s/80cISer/8Sx2Kc/AxEy2lZCAsFfUDut01EQjdyaK1CsR4cX5pSx4qdYI+e6mjAVFSKgLfKzQQeNaO7Banwn598w2WwuLb/qGcU+sl/uEmb1z3ckarQKDOmxtPrXyKaZIQeRRwbI14AG8V0tfYlafZiKCoYyIpnXxe7ADC8AKGhuqHuC4xLx2kxTw=;0PyJDGlDDmq/VbU3bC6iPw=="
+secured: "mAVSu50m0cMjxMdMKSSkrUc6YG3hgU6LM9DOBIXCxa+XyGOqJRtNcb9cKSyocPK4Mu3vwUN9g3g5I7OakBpIyZuPO6O6AoQtlnJDLmnqV2ta++8d6qPuYjgK7p/e1NLoMmkZ+EfXwOCJHsPA/v8kO+JS4uXBMUHGgIMVAoEB3qFkfRnf90twNkJ9jI0IAPa9Az7NeITvxpWUUsTTipzgdiMltz3yu4xtAzOc//f3i9rtotB5s54sG9geVANcBmm0vf39Cf8s2shXMaEGEnPARjQ8gMQA8xJKrq8hRHgZ7hgnw9GdmekWzdDEUGKVCe/dL9SLuQ0R3sjn304Dp37Ou7JFjh+jlgRF0y+9TsdFTsg=;bg5GT1AsOJKsiw0DCPuqbw=="
 ---
 
