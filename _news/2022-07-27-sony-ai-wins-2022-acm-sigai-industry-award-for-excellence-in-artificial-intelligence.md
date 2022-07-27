@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
-publishedDateTime: 2022-07-27T12:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
-webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
+publishedDateTime: 2022-07-27T12:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
-secured: "UAMRaWmMQiQ/D3NfG07crsLtHNWBU0jKrLmcGakY/KBg15GPufuwRvwgHXXns8sYhyE6ipL5+2P0VM67s8EdgMIRD0kkf7PzaCMD2/fGl4qs6/qQHPEPwOceAzhjLJhqhJAH8Op1XmKyK4Md0O9KCzBdpmvoRm0narjqJya8RF+W7uBHtfM6XzSVBVVvTGMmYyqYatN3DP0tWGdQO458WAVhQEJYQ9DqrtHbtwDeRZnkjSjVQL7C8LA4QV4rlWI/YWQ+g79VqyjdfHiDV89gP9xGd4+yvpwcOBs6sw7hnS6qy60zHd1r31GPdcIm9cldxU5hprkBMs6/2220fLtURkprEt78olQyAQDvevmrv8E=;pYAAbUvcKtp0zLVUnKu+RA=="
+secured: "E1mh2APD75fEwLr49tDEHeRWgGhboEzgsGfcOl/dCywphJq+ZhqQcdnIDGqTQJdoxmMCDn/s/9BlnFvRz2lMuqk1bjWepT2ve318vR2T/55AGmWf+H0/RgJlCygHPCp7k69bg74WemlqzaszCIMDrBErvug2362/lqz4MgpXlscj/3uYiLd/FFWctoKVxq++qqt/p0xO7/KBN+4ksGSYXwOpP8Mfh1taNRGbSoMLPzh5ZbuRgNI/lbwI9KSzson0uUuaB5WYSjB7UWFnUS+Mq/tPJGK1o4v6K4uC9b7Ulyx+4Qe9iwTlT5NnjFUm/AxswhopifubmZHqc/l2ColxFfPFikNWqCvWLWeS6qvBMW0=;pHhhhTmStLM+c6S3vpaqCw=="
 ---
 

@@ -2,27 +2,19 @@
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
 excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T04:23:00Z
-originalUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-webUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
-ampWebUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
-cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+publishedDateTime: 2022-07-21T03:59:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
+webUrl: "https://www.mysanantonio.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
 type: article
 
 provider:
-  name: KTAR News
-  domain: ktar.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://ktar.com/wp-content/uploads/2022/07/ap_202c0950542c4f0385a16dcf90640f88.jpg"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "3SRmLF+PXG2LB6icCNGlpUlc6S1N/2mAFmMz6bv6JBql2e2AqbtX5Cenv4NZHHgq+6F5zYS4t093zVoWUJMnFccDrMTYLaIef0LyE6lkwWCIFjDp4gaCdifFcinUX1pdwusPEcduSfUKNQmNidYYBxSUL/vAsN/jBt+E2z50fRTGMH7BrT/CUx1KyYLWncRg5m2GRB4F3qxmm49uydvABpSUpcnA/6W/iWCtECXp2IweiRVOY6WJZbkuOT6EKnxXp/YMJaZIHX4SGVZZ6lDTujtOjwtgqQljnkmKxo2uEq/M4eN9D870rYjsVW3jygLPsFz1uljSaV73z6AetGSoJpqEhOBkuWs8uNnCQj3boIo=;BsF/hpzTL736S1uac4OpMQ=="
+secured: "Y0p8xOx2MOGko2YBvBOfsSVezEUTMSiWNsP436zipD3jUfKEjAosng8gFThTa6/6bsMRJ8Vdo/HYfl79P5Q9nbOnYyhbsiOE6mpNSghGJVQU769z7IKrXMVILRKL5hDY0rdppmJnFFN32XRJOWcDDegzFwaDOU/sh03vkVpfs7NAdvGSvuQN71DhoAQyQo6jBgH29jYg+TWEag3Q+nEkD3aEP1zob9Pt3JejA9VY3nlTsBKAluoPD5rZ99xZpndigxiFXGRpe5DARhudv7OcX04pM8OFA2V8AyrS3PuaAARG8MaymvPuEeWJAyRxV7ELtuKcxypL8ZDbPfrhSmtL+6IuaLQ/ymiLOGmJJdoRfWo=;KhpYkS/OYh/c40mMKgk4hQ=="
 ---
 
