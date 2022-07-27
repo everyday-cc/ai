@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-27-microsoft-fy-2023-outlook-signals-growth-azured.md",
+      "title": "Microsoft FY 2023 Outlook Signals Growth 'Azure'd'",
+      "excerpt": "Microsoft continues to demonstrate sustained growth and a strong balance sheet despite near-term downside risks. Click here for a full analysis of Microsoft's latest earnings report.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-signals-growth-azured",
+      "originalUrl": "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-signals-growth-azured",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402827481/image_1402827481.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Xoriant X·CELERATE IoT Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide now gain access to X·CELERATE IoT to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.",
@@ -31,6 +74,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-physical-cognitive-activity-linked-to-cognitive-reserve.md",
+      "title": "Physical, Cognitive Activity Linked to Cognitive Reserve",
+      "excerpt": "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a",
+      "sourceUrl": null,
+      "webUrl": "https://dothaneagle.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_bfe934c4-9dfe-51d4-80b0-befe29728224.html",
+      "originalUrl": "https://dothaneagle.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_bfe934c4-9dfe-51d4-80b0-befe29728224.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/dothaneagle.com/content/tncms/assets/v3/editorial/9/a2/9a2a00b9-13f8-5761-8e60-93a06ee040f4/62dad7c64b3d2.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dothan Eagle",
+        "domain": "dothaneagle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1308,101 +1394,6 @@
         "AI",
         "Computer Vision",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time.md",
-      "title": "Imagine Cup 2022: Creating accessibility to sign language, one sentence at a time",
-      "excerpt": "With the help of the Microsoft Azure Learning Machine, the team integrated the AI model built using technology for sign recognition into Sign2Sign app effortlessly. The app provides real-time feedback for users to have two-way signing conversations through ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-sg/2022/07/07/imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time/",
-      "originalUrl": "https://news.microsoft.com/en-sg/2022/07/07/imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/07/Team-Sign2Sign-Image-Card.png",
-          "width": 1298,
-          "height": 728,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women.md",
-      "title": "PTSD Linked to Faster Cognitive Decline in Middle-Aged Women",
-      "excerpt": "WEDNESDAY, July 6, 2022 (HealthDay News) -- Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline among middle-aged women, according to a study published online ...",
-      "sourceUrl": null,
-      "webUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
-      "originalUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/f/71/f718e248-224e-5de2-b802-ccde29fac952/62c5d4e51e610.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Telegram",
-        "domain": "columbustelegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

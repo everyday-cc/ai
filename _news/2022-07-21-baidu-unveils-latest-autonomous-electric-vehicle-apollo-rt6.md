@@ -2,25 +2,27 @@
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
 excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T04:16:00Z
-originalUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
-webUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
+publishedDateTime: 2022-07-21T04:23:00Z
+originalUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+webUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+ampWebUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
 type: article
 
 provider:
-  name: WDRB
-  domain: wdrb.com
+  name: KTAR News
+  domain: ktar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://ktar.com/wp-content/uploads/2022/07/ap_202c0950542c4f0385a16dcf90640f88.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
-secured: "J/zwpwmqjLbR4Aszuqqmkx/v1zHGRYNuCn9RyuWFGhNkdQU2F3Lu9dzLW0tUecM5LOiNeUcT54VjVsGlJno3pM5Nk2qg1ZlCqbPa/dHdQOuUC6m0h/JfSkKh2aSMA+UFIdQj5gIPJUdNnGu0Ze6i11nVFkF5A3fB58si09b5RU5gUZ1yf+7ldHfPp7NFwblvzJWhULpuGpS5wnryhznZoNnfOubdJkMishuAeSkJMKGjfw0EyKCJ26FeClnXDAv+CuNgVP2txlrIh+MM76MkhVNO1uiC9hc0lpsZucwdWjtbxxOBSoTz67m8eeSgRqdYqLcF2qCNBS67ByOxyRtvk+locrodxu2LyGZFPd3jk+M=;v+864v/48s8e2bot8nuZHw=="
+secured: "3SRmLF+PXG2LB6icCNGlpUlc6S1N/2mAFmMz6bv6JBql2e2AqbtX5Cenv4NZHHgq+6F5zYS4t093zVoWUJMnFccDrMTYLaIef0LyE6lkwWCIFjDp4gaCdifFcinUX1pdwusPEcduSfUKNQmNidYYBxSUL/vAsN/jBt+E2z50fRTGMH7BrT/CUx1KyYLWncRg5m2GRB4F3qxmm49uydvABpSUpcnA/6W/iWCtECXp2IweiRVOY6WJZbkuOT6EKnxXp/YMJaZIHX4SGVZZ6lDTujtOjwtgqQljnkmKxo2uEq/M4eN9D870rYjsVW3jygLPsFz1uljSaV73z6AetGSoJpqEhOBkuWs8uNnCQj3boIo=;BsF/hpzTL736S1uac4OpMQ=="
 ---
 

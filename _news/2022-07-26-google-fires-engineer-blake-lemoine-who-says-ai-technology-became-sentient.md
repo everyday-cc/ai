@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-publishedDateTime: 2022-07-25T23:17:00Z
-originalUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+publishedDateTime: 2022-07-25T18:17:00Z
+originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: WTVD
+  domain: abc11.com
 
 topics:
-  - AI Ethics
+  - AWS AI
   - AI
 
 images:
@@ -42,38 +42,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Google Fires Engineer Who Warned That Company's AI Reached Sentience"
-    excerpt: "The engineer worried that Google's LaMDA AI had become self-aware. Google disagrees. On Friday, Google fired Blake Lemoine, a software engineer who went public with his concerns that a conversational technology the company was developing had achieved sentience."
-    publishedDateTime: 2022-07-23T00:24:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-engineer-who-warned-that-companys-ai-reached-sentience/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/3c6e824649059cee1eb77cd18b219a490ccb82df/2020/09/08/73b42cab-8609-4015-9954-db77b44f2ea0/gettyimages-1207206237.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Parts With Engineer Who Claimed Its AI System Is Sentient"
-    excerpt: "Tech company had suspended Blake Lemoine and dismisses his claims about its LaMDA artificial-intelligence chatbot technology."
-    publishedDateTime: 2022-07-23T00:40:00Z
-    webUrl: "https://www.wsj.com/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-    ampWebUrl: "https://www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-parts-with-engineer-who-claimed-its-ai-system-is-sentient-11658538296"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-576950/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
@@ -168,20 +136,6 @@ related:
       - url: "https://www.reuters.com/resizer/i84Ji0Rk-qI2Do9-_bgKbPryP6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GXQAE7Q6ZBKZXOIXJJWDFYBFZE.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Google fires researcher who claimed LaMDA AI was sentient"
-    excerpt: "After public claims that Googe's LaMDA had attained sentience and even possessed a soul, researcher Blake Lemoine has been let go.."
-    publishedDateTime: 2022-07-23T00:59:00Z
-    webUrl: "https://www.engadget.com/blake-lemoide-fired-google-lamda-sentient-001746197.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/4d715d50-eb32-11ec-bffb-ca31c9bdd8c8"
-        width: 4480
-        height: 2987
         isCached: true
   - title: "Google has fired the AI engineer who said its chatbot is sentient"
     excerpt: "Lemoine, also an ordained Christian mystic priest, made headlines worldwide last month after claiming LaMDA was sentient. The conversations he published included the bot's views on"
@@ -423,6 +377,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "Jdjd56hfjLIKUvcrBvFzGWZ02py1aC6+J1Aw7DI9ovmZgegrUhyWQp5ufvtZyLx2nACYM99xSP3LKf21T9oo9txS9aP1V0xwmD1OHdIncLHKN3U1P7WErkxKKhgNWCIgU5wk+1QhHeMfLupxWisr+1iY+EzM5A7wYHIDJTCqJf9MYlPwdBh961O92yM59fszc0584hkCo8Y913UA14Mdz/cGD4Vud2xypx/y+26Lv3e8QP/+9oXIb+ObCGLsjKzJ1cyvL1dNCFW/kQuJStNfl/T+wEoNFdcfn/xOKRURz6pZB3LgeSzdNbPGURx6wtwjg/ejqVLyESmiP+C1sgYxp3iLmZQfnP4fcKg3dMTpfI8=;xsHvhgiXmFJNt0p9utb2xA=="
+secured: "fvgjfdrBX/x8VL+usQeBo/fcRo6ieW/enTIxFF1qzFMrXqQXFv6xPiubaRwOVA0kV7h+bnFTcB/IFmhodAH5QS1Nwtu+7RKxZvBcNRklLXHET/5NGwFmKHEYA97K01v5ulYWmCddpjkGXjdijd0NHop49oMC+rwSDMT37yfPy2wWr47D9AwbamgM1kvQJUgOsR4HRsyy5SHCaNKGGUok2JJpStNQak8IMvKqUmBsL+ENzth8NgcE8gCNRlph0ijjM6sIuufTb/WKjjW/a/vm5N7VdlhctjgCNRCfJXMg2NjP2COL3IzVkKapcf31Vgvd1Kehigdr3ZIfLRRVXoTFrhzkAk2pECAfyZSnkd38aKY=;4Q1aPIpKBvf4N4irW+vIXw=="
 ---
 

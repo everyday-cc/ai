@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta"
-    excerpt: "SafeGuard Cyber, the leading provider of security and compliance solutions for email and communication-based threats, today announces automated response and multi-channel user onboarding with Microsoft Azure AD and Okta integrations for its security and risk management platform."
-    publishedDateTime: 2022-07-27T11:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-451a3c55fc56cafe7e01e55450a757cb"
+  - title: "Microsoft FY 2023 Outlook Signals Growth 'Azure'd'"
+    excerpt: "Microsoft continues to demonstrate sustained growth and a strong balance sheet despite near-term downside risks. Click here for a full analysis of Microsoft's latest earnings report."
+    publishedDateTime: 2022-07-27T15:22:00Z
+    webUrl: "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-signals-growth-azured"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402827481/image_1402827481.jpg?io=getty-c-w750"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
     publishedDateTime: 2022-07-25T15:57:00Z

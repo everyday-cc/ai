@@ -3,24 +3,25 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://www.koin.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://www.koin.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-ampWebUrl: "https://www.koin.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+originalUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
@@ -36,6 +37,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "EdDfnyoJpBF2HLnkWv3GwZY9CEDVfu/+ulmxGY3Q5HNLSTN7R+vNP/Pvin7VySeSfxtFlhCYwf3ilGXQO78bWbmXjXJER1YFH02qxptOVS1Z3gAMZPC4iChbkp/bdjll4MVFLwSQIbs9MaNVsX84Dm7o6BVzLsyjpjOd3/CAblXLsvU3tw9DlmC3mG1W134i1rn54XJ8fbeht7bXNr0ZF/vHbgJuKHOcZcmVB8X/veB/brEzeMjEp0kj9QsQvKp9aKrQowJfM7/z2z2PAAMXRvdITXh7dv1K8ZmNdWwKLa2wmJSwK+fSp/nIDDwok5DF0SFVEOalNaaN+gL02t9I44MtNJG+L0MPieBTxbJKoPs=;+leOAiLemDGzu5KKAZEXvw=="
+secured: "Q7f7DZrs7I4jNX0qow2Z97yiw7WweiQgFIc88Zg3RWvSUUYIdozksPPffV5vAtr2QBgNicvk89X+56VRijO1j3DXVo3RzmTZlDfaZD5D8IxbkxBXI0RFgALrunEKeCkCFfSBzkUBRfGkDs5KLY/DhfbsOULif34BM34LcqQfNQyQ2L/nzt+7IWU06cbco0xrJtL1dt+8qNs9iR49sJkAZMQ9QwO9QIXlFcJMq5Zn2NTV3x5P7TUFTKNAK875MBWOvKNU+jLU2xyWrwNnkHZf1M06ei7u5ULZdC9/O67X7m/qJ3g1vNhWw6Jw50wZxgA0Obg9fC7A4nftfHo8NN4mWp5pIFVpOFPcCnEMWQ7Mz8M=;YxqanmlHCOnA2ZP2lgivZQ=="
 ---
 
