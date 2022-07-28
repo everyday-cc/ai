@@ -45,6 +45,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "QWFPltWOM6o+hG57N2DQA/1ZxYT5MDxtQm6sev0z0DFcliZyf6X4Zre/bdQlruM+HQuFew3E+7AQOC+BzKn5m3/hl2NRj/OeKFE/4b2MQ1dZnOds/XIeuFDNeE6lWuovdU2buakqyqXU2mTBGO3s5lbxrEfkNiPzr0bJj6OhfshQhAoslmfTH4OgR+ouJTPPk93gYlg/YDflYWciBrZDMdO5t/vbPnxDNMxoNhPxvskU7D54C4BJ4JdLTSZfu5FH4aJHrOSbS8EM7xZtPiLUsghsgh3krg3p1Iss8fjVThgSEGgbK3dGuTXxaY1y96SkR15smuQNf7hQzDe6H0LbspQWGszeTHBMC/WNalQ/wCU=;ubxrCLj4afLLrE4Vo5/54w=="
+secured: "kaoXuMpJ7eS2H+/veBRzZhEdnorvudALyrkp3PZfNk8XxyZfWg6SAD5lZnrxfzs3sjxzEuz6i6ng5sUnVjSRBgSR1TW0REFLcLur0H6/F3iDM1B2nWAEaiqDXwh3TCYyqeHLjrwHXV7gb2q/TI4LcnGjjSAmnQMnGK6Iwt4lilPbWAZCTSKEzEmRLDMk5qgEMu7b/h+tdJak5atnXRhCpZHcKmjeHIA09IIaZaRjwwLsapMCZbd4s/uaCnVlHzhDs/LQYMaavU/XHuQ9fE0Ce9TYZpDMDW/gVOBu6zyLJN21lFXrPtC+zTaJX0Dd8vYByxJXNHJWC50E8DZyvsCPzpRG4XD8IbbLmOnGKT8uX7c=;6LPSDRagOZ+10AVdCp+0+w=="
 ---
 
