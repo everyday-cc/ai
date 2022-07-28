@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T19:16:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/kisspr-2022-7-28-image-recognition-football-startup-started-crowdfunding"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/kisspr-2022-7-28-image-recognition-football-startup-started-crowdfunding"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Daily Herald

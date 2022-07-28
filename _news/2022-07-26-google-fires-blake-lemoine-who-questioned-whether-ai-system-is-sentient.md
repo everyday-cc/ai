@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-b
 webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
+    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
+    publishedDateTime: 2022-07-25T23:17:00Z
+    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 57
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DWzcNyGfAtaD/GnMZBvbVzjGwtxxPY+RnNW8lvdzMb9aIEejwzyhj0q3WYuNelFYQlTojQInR/hWojdbrqhA6eb7dS37TgM7lh28OU+JWU2yRwP6+aKK2Rpxew2yf7IGY1JHw1IZW7xJaUSdz067DPeLLoa42vfkeVsm2eSpSwziHx86ZvlhOjUlfd9GV2fQBowcaBHoBuLSE+btXFUh9ufHo/0HhGcY+NBOPBwFvdGMcJlLoaSyLrp/J/S0wum59GY7ucblB9KmlxqrS2A+gyKZrojnjMXiw4w3bD2DstsKqDrssW9TorPJwm7OS0hQmHihO2XRPdZ8eoBjZycFa6q2YkcOlwEhw9X+pvMUC0JOwTikUorYDfSdRN91/CbPhpKwL/X0C92naag922zS/l2DGtjH78TiOGWtd+eAz6V8qw4GIEZlcAg+jXeyceHwGN8rzMuCBLNRDKRhaFTHTF6YFvjlH220uIVs+Lz+aEamz/87q9zx2KrsYZ3jYw/zhKBRrj4l5zUdheVudJNnEg==;CUz3p5hdT1KdS5RPZpiS5g=="
 ---

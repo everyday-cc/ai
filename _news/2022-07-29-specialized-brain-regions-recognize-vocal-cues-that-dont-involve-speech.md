@@ -1,20 +1,31 @@
 ---
 category: news
-title: "Specialized brain regions recognize vocal cues that don’t involve speech"
-excerpt: "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,"
-publishedDateTime: 2022-07-28T18:03:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/959561"
-webUrl: "https://www.eurekalert.org/news-releases/959561"
+title: "Specialized brain regions recognize vocal cues that don't involve speech"
+excerpt: "Specific parts of the brain recognize complex cues in human vocal sounds that do not involve speech, such as crying, coughing or gasping—found researchers from the University of Pittsburgh."
+publishedDateTime: 2022-07-28T18:00:00Z
+originalUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html"
+webUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "MuELvI+tFMetd04ynCG4c+uwHXah5t7NhHI5NAwGaQTh9ybO2FNd6A2pdaWkNpwM8CTPBjOaxj5d6iOfRo50gKLNvSY8bG4RLuUHechlse4B8MOgsrxccR7bnJR9k4L6ZGA6Odj1ShJFUN/+DS7uZ4fvQRRnEt40xvRpvf9VYkg+iQkQNzqYGy0h3XwlCBBaYjAu4m3PE6FoTVYnXiysSCyachqutzpWDROFjMif6lNIs8Sxnc6P+czJ5cPnwCugiTrmot5nXaS3gTrN8rRVkTmitVLNmAlxHuOaKvk/ZSalncVP48xaqiXSmZ3jc4zcqObinP1hAbAvqnAroWjxeAyue7KbrQGwHsX183/YNaLbc2TNimfVQsdM/JhSekSvpzhLrNIApEIz0Q8XXbAq7hXFkJ0jQblC8q9CyXYcHHNvuVfqlBpIvIHLWl+YL/8rIqBZWHfY5KwE7MoqgE9ov8tHV11x1aXTrhMdZiMjYaTAQxohmhY+WImBhb03APSnclCGbtpbwmrJtRS1e73a9g==;KPmFKZuBjFNOYCEHEugWIg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/specialized-brain-regi.jpg"
+    width: 2146
+    height: 790
+    isCached: true
+
+secured: "BjN/fSozvsXJKIz1fBzmQtHFvi3iT7sw11G9wjWLhpChqav29kpDiJ2TCAIjjWoCfJmn0fI/RAvM/2ByOVbPIwncX3BydmsIN6lPrQuN4TuFbGVDm9o6z+9jZduCVU4F0qdjl2DeyFZOTvDzKMBkwJmqeeZXO9nUYpPiRZJKE3kpaeLnbT7FZb+zA4uU/eU9jF5nZdwUE3c+/MdsCPBbYBM0ETQlQmNs70E+uAI86xAAUiThg4kl+oysZUD+4Y2OD0fkAk0zuAol5MMN91l1AIVuqWfCEvm7AYo2dEF5djLGhD4q+H5VtD9ToJLfTFMynaTXXz32JnC1vsCx+3fe7Y+gDwnjQ2ga6oOh+n6UKHU=;7wOLsFY/p/XyeWigD47Inw=="
 ---
 

@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered investment advisor Delphia appoints ex-AWS Andrew Arnold"
+    excerpt: "Delphia is an investment advisor that rewards investors for sharing data to improve their returns. The firm's hedge fund has disclosed that it achieved an average of 72% net returns in its first year of performance (59% net return to those paying the highest fees)."
+    publishedDateTime: 2022-07-28T14:15:00Z
+    webUrl: "https://financefeeds.com/ai-powered-investment-advisor-delphia-appoints-ex-aws-andrew-arnold/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 34
   - title: "AWS exec joins quant hedge fund Delphia"
     excerpt: "Delphia appointed Andrew Arnold as chief science officer as the firm’s hedge fund discloses an average of 72% net returns during the first year of performance."
     publishedDateTime: 2022-07-27T12:00:00Z

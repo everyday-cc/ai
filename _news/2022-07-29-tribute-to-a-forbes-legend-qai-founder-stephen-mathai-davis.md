@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T19:11:00Z
 originalUrl: "https://www.forbes.com/sites/randalllane/2022/07/28/tribute-to-a-forbes-legend-qai-founder-stephen-mathai-davis/"
 webUrl: "https://www.forbes.com/sites/randalllane/2022/07/28/tribute-to-a-forbes-legend-qai-founder-stephen-mathai-davis/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

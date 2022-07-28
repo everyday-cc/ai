@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T02:42:00Z
 originalUrl: "https://www.ccr-mag.com/leverage-ai-marketing-three-sways/"
 webUrl: "https://www.ccr-mag.com/leverage-ai-marketing-three-sways/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: ccr-mag

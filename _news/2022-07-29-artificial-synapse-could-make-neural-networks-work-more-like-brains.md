@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T18:00:00Z
 originalUrl: "https://www.newscientist.com/article/2331368-artificial-synapse-could-make-neural-networks-work-more-like-brains/"
 webUrl: "https://www.newscientist.com/article/2331368-artificial-synapse-could-make-neural-networks-work-more-like-brains/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: New Scientist

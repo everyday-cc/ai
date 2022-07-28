@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentral
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 718
     isCached: true
+
+related:
+  - title: "Another AI security company creates an ethics policy for code development and use"
+    excerpt: "Prosegur Security says it is getting serious about responsible AI, creating a responsible AI policy and hiring a chief ethics officer."
+    publishedDateTime: 2022-07-28T21:03:00Z
+    webUrl: "https://www.biometricupdate.com/202207/another-ai-security-company-creates-an-ethics-policy-for-code-development-and-use"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 68
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/28170217/responsible-ai-scaled.jpg"
+        width: 2048
+        height: 1024
+        isCached: true
 
 secured: "Xb+hwACmBTzLS2iL5kRlKDMRv+kyedBXgzWD6NnsLMXxvIR8j0kdoc5LNn1bWxBFTAxW8TFhoJYBSi3dL4YH3xk3mzaGtSybnHpzpM8w1XFVLluCISyZKuInyK4RzaqMAjhT1yeXKEGLM7qyKxWxwwiRp+fzcdu0H5+MOk0qd7WqxIwDhSq5VO3EbTFWrOCWUzZGOZeLlA9KRBgigmk9l1BcgW7Pjeupe6dqz9OFpTITnA2pv01T6LhnJF26u3ZnUAHg5VAheK+Y/6zLFbRKBZPoxNWvYHmfu3fCS2ZG3nGydu1jXV5Np9cXjHJD2fUoPp4v5/5oHx0sfzY4Bzr7zQTZeiyRoyJTP7o1f6U+GKM0jI6xdU2PeCwBXBaYEA36CzqnXtNvMLQgyp8TWih3c6ggXEXrkcMIvwTDCEsTc1CwQnvcotC9TWHoi6CPbeCsxtvBGS/z4zBT8y8hFSmSXTFDnU4k1ZL3/dHbuJS74X0yzYeL+fLSuH9rnKUZyKiok0Z5GNcqbwNZdkwjDzjrSQ==;xPIwVKrs0ly+rVi6SqtwZQ=="
 ---

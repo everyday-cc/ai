@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T19:42:00Z
 originalUrl: "https://theconversation.com/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers-183068"
 webUrl: "https://theconversation.com/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers-183068"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Conversation

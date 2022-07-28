@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T19:36:00Z
 originalUrl: "https://www.bangordailynews.com/2022/07/28/politics/proposed-marijuana-rules-violates-facial-surveillance-ban-aclu/"
 webUrl: "https://www.bangordailynews.com/2022/07/28/politics/proposed-marijuana-rules-violates-facial-surveillance-ban-aclu/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Bangor Daily News

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/gau-vision-app-iim-a
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/gau-vision-app-iim-ahmedabad-paper-proposes-new-facial-recognition-tool-for-stray-cows-article-93109079/amp"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy"
-    excerpt: "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development."
-    publishedDateTime: 2022-07-24T04:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "Milking Tech: IIM Ahmedabad Paper Proposes Face Recognition Tool To Modernise Cow-based Economy"
-    excerpt: "An IIMA study has come out with a model using facial recognition technology for stray cows to link them with donors to achieve cow-based development."
-    publishedDateTime: 2022-07-24T03:56:00Z
-    webUrl: "https://www.republicworld.com/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 47
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ve1rp3lagm4jqoil_1658634953.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Milking tech: IIM Ahmedabad paper proposes face recognition tool to modernise cow-based economy"
     excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour OSTPID Times Internet 1 Year HTTPS used to sync accross portals fpid Times Internet 1 Year HTTPS Browser Fingerprinting to uniquely identify client browsers Cows are considered the backbone of rural economy,"
     publishedDateTime: 2022-07-25T02:19:00Z

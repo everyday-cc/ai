@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T18:27:00Z
 originalUrl: "https://techcrunch.com/2022/07/28/shinkei-systems-ai-guided-fish-harvesting-is-more-humane-and-less-wasteful/"
 webUrl: "https://techcrunch.com/2022/07/28/shinkei-systems-ai-guided-fish-harvesting-is-more-humane-and-less-wasteful/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: TechCrunch

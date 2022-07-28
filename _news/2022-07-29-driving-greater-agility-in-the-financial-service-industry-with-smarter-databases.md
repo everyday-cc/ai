@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T18:22:00Z
 originalUrl: "https://www.globalbankingandfinance.com/driving-greater-agility-in-the-financial-service-industry-with-smarter-databases/"
 webUrl: "https://www.globalbankingandfinance.com/driving-greater-agility-in-the-financial-service-industry-with-smarter-databases/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: List of Banks in Belarus

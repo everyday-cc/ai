@@ -44,6 +44,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 63
+  - title: "Google's DeepMind AI Solves 3D Structures of the 'Entire Protein Universe'"
+    excerpt: "This breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-28T19:15:00Z
+    webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 62
   - title: "DeepMind has predicted the structure of almost every protein known to science"
     excerpt: "DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science. From today, the Alphabet-owned AI lab is offering its database of over 200 million proteins to anyone for free."
     publishedDateTime: 2022-07-28T11:00:00Z
@@ -78,6 +87,24 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 34
+  - title: "DeepMind AI has unlocked the ‘protein universe’ – and it could help to cure Parkinson’s"
+    excerpt: "Access to the 3D-mapping AlphaFold technology is having a major impact on research into antibodies and disease treatments"
+    publishedDateTime: 2022-07-28T19:43:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/07/28/protein-universe-revealed-ai-could-help-cure-parkinsons/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
+  - title: "Google DeepMind AI reveals 3D structure of 200 million proteins contained in EVERY living thing"
+    excerpt: "Scroll down for video DeepMind claims it has followed a 'responsible' path by consulting with more than 30 experts across biology, ethics, security and safety so that the AI's benefits could be shared in a way that minimizes potential risks."
+    publishedDateTime: 2022-07-28T19:19:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11058243/Google-DeepMind-AI-reveals-3D-structure-200-million-proteins-contained-living-thing.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 24
 
 secured: "/aH8Qy3HRazBuEmLkN/il8kDvzIkrTjy8W9zQYjN5p94CuzibG7ANDCWcIzPbDdOgIMdFYi09yo9bSRwb4cn6slHFwmyAY9VjujbXDkDjeY3REglzjTDzokIZ1xQI+6LfA996oq/gLBj/Yo1pYNScori7jnotOCZ2rjuY1dxup5N0rnRy1Xbp3FpU6PMzh1DHEiKoVJJsa68vOmj0MqkoC/l9yeQ+A4OgB7Hu8ZdoTAs17KoWXekpmkXwUcD4QkYxixbfr5Bo1r2gD3XQUSwJfCn9skGcwLABm8MoeEjScfcrLQ8ZXfaty8DqHn7US+UuPivD6TYn8qRt/PaP/sg8d6SZcmiV/1Ppt60wDq9/qCjTuqbAfKDO3ra2B+BoGVs2YzSRGyJ076xabxzJNTBJEjJ1geWzkjPr7ohc9Vak6oHIOi029c5Ejkkw60WztmQAYdcPlU0DmpJK00G1/Tzawr8kiB46AOFoQJMiiUKmUF8NJR+CHSkhpScOOCWuFQN+IVLqBlQZrG9baiqQzw1lA==;P1x6NJtFsgFPFq0LTEDg7Q=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy"
-    excerpt: "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development."
-    publishedDateTime: 2022-07-24T04:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "GAU Vision App: IIM Ahmedabad Paper Proposes New Facial Recognition Tool for Stray Cows"
     excerpt: "Cows are considered the backbone of rural economy, but face neglect on becoming unproductive, and now a top business school has proposed a facial recognition technology-based development model integrating stray bovines."
     publishedDateTime: 2022-07-25T09:44:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://static.tnn.in/thumb/msid-93109079,imgsize-100,width-1280,height-720,resizemode-75/93109079.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Milking Tech: IIM Ahmedabad Paper Proposes Face Recognition Tool To Modernise Cow-based Economy"
-    excerpt: "An IIMA study has come out with a model using facial recognition technology for stray cows to link them with donors to achieve cow-based development."
-    publishedDateTime: 2022-07-24T03:56:00Z
-    webUrl: "https://www.republicworld.com/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/education/news/milking-tech-iim-ahmedabad-paper-proposes-face-recognition-tool-to-modernise-cow-based-economy-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 47
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ve1rp3lagm4jqoil_1658634953.jpeg"
-        width: 768
-        height: 439
         isCached: true
 
 secured: "1Z8xwtxHdGtUjCGE9AUJZQwX9ddtZSQ3QQqfUL8PwC63S3MOLuPENbhHgiw6N62KNN/KeaG6VwJ9qioBcrcCcqImlZLxZnkVX7lMtHO+w2nispj7ZPgaF4nbeZkgba5XhTNRWryYpzinrGrCf/xae9r7OD/zb7mSPHzdeMKk4rbirVaYeGGXNqEvXDCekWYYSEeSR+7tJ87LdWBBnR+6AhFUkVadyBrV+38ICEvoUJC6RbVjhXEV75VF5AU0Dy95VWb3N077MlB2nD7oWuKQN9DIDxaMny8E2M1ZopEMP1VGyhhzAmY95E6qs+nK0hG+DseKIh9TSGmqTxxVFrcLCT/m70WMxHtOI1iO35fu7AI=;ZfmRVt0Ccc84IVHc9xttfg=="

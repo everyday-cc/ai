@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T19:49:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-7-28-donald-h-lacy-ii-pens-self-help-book-helping-readers-become-more-self-aware"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-7-28-donald-h-lacy-ii-pens-self-help-book-helping-readers-become-more-self-aware"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Daily Herald
