@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-25T08:41:00Z
 originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
 webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
 type: article
-quality: 36
-heat: -1
-published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -18,28 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-related:
-  - title: "Pioneering partnership could involve Lotus in driverless revolution"
-    excerpt: "Lotus Engineering has teamed up with a Swiss-based invention firm in a move to help revolutionise how we travel, including"
-    publishedDateTime: 2022-07-27T15:08:00Z
-    webUrl: "https://www.edp24.co.uk/news/business/lotus-engineering-partnership-with-iprova-9172038"
-    type: article
-    provider:
-      name: EDP 24
-      domain: edp24.co.uk
-    quality: 39
-    images:
-      - url: "https://images.cm.archant.co.uk/service/social-media-image/267776/8743520/1/6217202-2/Lotus.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
-secured: "y1fWLXN4oktNgp+lN43zHIJiLjUX1WbBOCpTrcxVK9tzFlpSnERYrSYbT9A8LoCjfMt3XU3Qe8wRV9qkNXs0T0eVIfn4akcOGgWgqkECYKojWViJD5RRyPGje/03+ity9UUUafq0EMpexRZwF4vpqv2iEwsIDb9v+MB46lTVH4iiJUa9gSMKlWwYAt6RvqMpqvA5S4suK7O2ks8n3kBPlWmH+RZGew36n2ynkiJeeseYBOTPWRaiYkmTnG+c50lJaXEKoFkZ3AyH4MC+RqyooVMGhSqUTzfX+ScTy/xoc2Y1J7GK84wDG+47Pz479KZpjBkSZfhkDWoHsbC/fwiI2/c1j6sPTevo4dX2ATROjII=;2ti/cT0fdaMMh0yVTxorUA=="
+secured: "Zjh/DL7T8tL+yz6veev2N9y95eNT+rlUPvAVmXBPV++5l0TbA07rOhZjgNklxjDKTWBuaqwHz2ZRlZpltchHyBWZSOt2CmBXtkfV8yc561DGvp7SUYUI6E3NYqHYvirRhVNpAF+UJx4IuSH/j9j0uZCri5QUxyq5lveq8kP78thg/z38cpUaif5xoImuxDVACYrs7UlTBvo72OJsfUrYGbbEMSJJ4sE84XQZv1j54xtZPkKJ6z9ni67cwmL4vPH4fGSBS/eeilHMrktP8kvmZSKMjk04zonxJKBNLsy/kOgDvDEEhWQp/CkRrGrnhMLcyKAaeu2WYmwKafjRgrDFSkcvl4gu+VbdtoEqwgYeCok=;6XnFO+IFpdLVOghLNbOKsg=="
 ---
 

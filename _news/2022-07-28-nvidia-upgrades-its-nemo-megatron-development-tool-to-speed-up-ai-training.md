@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/44658024474_23169e4910_b.jpg"
@@ -59,6 +60,6 @@ related:
         height: 645
         isCached: true
 
-secured: "SNLXmTnN290ZABvIq4iVYZ7DUSEVnjnIHar7vueZYEionZQ6ihdW7PBxlBrPaM6iXaeSlfILN0SsO0dHNrfjMvV1VLWSm9X5bpKt3CLbx55TpqllgDbhgadnCDqem9wd8JNkqXr3xoM088jY+9Xf37tHcXvQWV/hyJwrrA3TPIAcwWAGEwGpooGxxokQrVyATb3nYMO5oBavidUdCaj1da6poj26UBBH4b1/LsEsxR3RJxRTYuXmpP69LSreWv8K9+GtQrinnl6xvqg1/Mo25D5294oeqlOTuBlozqO/PuJ7LkqP+Wy79gbrkzEg6Fkr8lCI5SY6qnx0Iq6ZAE8TEtglre2Xjaf0JRkSs5Fe6Fg=;QMAz9Wmqo9M5QfplP4C22g=="
+secured: "36uAckt/GzW9x88ymkhszAVo06zZ0TyZVcsjyEjfB3zpcn9gwuRJEG0VXB7LwxnUmJBSExT08AK/HnuceHZM3DqbeH+UT88fiM6cwBpKm3PE8+wduJq557OfpYzSDkhZOMGM5d3Co7+LIKeWsXzk+cXfdm3TfT1xUvx9MF14I83UsY4M12RDC6mcN2YyBU6+WFOQIl8Riak4JL/PbAsU4wiyHEln0rz3QoT0qqKEB0cKFLx8wLFHcDCDCRP2prFQmDR/j+IcU77pVa+ht95zPsdhflX0i7WdhLrA8c1omb/JvB07kNW3c+mT4W4yjWvQIhtvT1cba2uHyjGMtUVr3AfjUuJWSPIU2ruMBrZt09mduP9mrlM/Zpwj/FTHw6gB0f8cHpMaMtATdYyNoK7NMzFoA3fgRURcUR8y2H26TF2DduY4KlptMldYr5KwK2vjPU7JT/bLdkkUIwGx8W37T3S0/w+sgJvESvxKwNDSNALdCoiGLdCM6jhKpGyxyTIngBcp+iFV0yUp4gG/fwCgiQ==;5sRmTdJIIZA3ruirwGiODQ=="
 ---
 

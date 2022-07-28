@@ -2,25 +2,19 @@
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
 excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T04:16:00Z
-originalUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
-webUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
+publishedDateTime: 2022-07-21T04:23:00Z
+originalUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+webUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
 type: article
 
 provider:
-  name: WDRB
-  domain: wdrb.com
+  name: KTAR News
+  domain: ktar.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
-
-secured: "iCfcnoGwk2gAy0F4PdvENGsIuKynbOGr42KXv1Vo9NJd0vDMf+VdQ2DS5OgOYy5chqVXx85vE7UfDeFZojtT3iB3wi9qakkqlpx8YuujFQ7ZMwtU/WdEZHz+YIQLKQUwHMdaOGuxXvq0AgbBn3Yxe5LF4azRRILj+njIuNlS02jhFpfo3w2P/axtaNXpyBlcDHgbkxCNwffAlp867ceErh/PektKo9vlc/cBDcfbHyjHwPNnuR/M8Ot+ACcq5li0JYaOHdGjIPv0e9xKJ0/GHJmHcIAVZV0Dy2FPK18H7TnALPZiHwgh4TPi15UG9yXAssRS+5fTI1r31NdJyUqGPCyitN+EIS42799CWyN8588=;D1Hls4Io1TZBK9rx6EZ9Pw=="
+secured: "/cdGLI9poU9coiIFVWvPvThuvlJ5Gicnliw1Qy7o/wvrNTQ7xfDZuMcviYAJmig4FeBoaHn6B0RuN3oZD984nx/gZKUuCK229VSHubYhgrPP1kLBlnZOWsIVY9CncEkO7d8fkyXE/EmjbxFbxlZ9BdT3WSfRcU29UhF/Tt3JF2SWGYQC5QT8tA00DHGDrLgioRfBZ9g1t02OYfXi5NwEui68h0CvlYt6Eg9ItO/gDT4xhSWZrazyQIHXgm8f0UIzZLcGtyjfNOh5YyTTexXFKirlEKmGauTxP4Xy8rYoTAh8u8/h94ZbrTQ6N+WZdJz/ma5W8jxp1SDhKd9/Q3VtxOqEuroSO3wQppJLiNjdiEc=;5UcT6hH7FQ3+KhKsIf/2Hw=="
 ---
 

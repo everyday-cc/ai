@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1354
     isCached: true
 
-secured: "vypy5aPIroFWJT921vY927m+aTVrzVg7Gghe8d9euJXKeORs1xmW85aljhWrjOsZZa16lLaKYLB38wvkuu+maiWr4aADXsqSVqNJI0vj1KosxXEu7Su1e7ReYm8xY3asid11IuyeQ3S90X1yb9RIFT/VBr8fQ6wq6nBark3i2wVg1paAmRnsyNP8H7i8n5vj2ZemomCTFEGgw++pfhZQIhJI2sVOOu7N7HEMjQ5xRGPYZc+dofZ9RKvQLgDiNwWYWwjt3v2p92/4aCvDEXtPVje9Ni/56s8DnbeVf5J5VAiRypYhgrfd8PnWzsiKVnAx347kPUDnc0Ui9iNFGOXX10D6nnwEbQ3jnuwLWF8N+8U=;BmkzjVr0Erx91A5neyYsdg=="
+secured: "Hrhg4p+G1cEjP+vpiM3EzDfgy7HAB1TEC3nUE3kuUHGyOgZzE+F73u7ZSspVLWu0OO7qmm4k3CexhNSQwTH3Ytvp6RsV69w0GtWA78piFugnfLxV2qtEGIBLGoKs4PiKgetWlPY/lhSFKQKQ8ye46nrtNlI/Qg7eFAy1ZdDArKwv3FCR6e2F4rMS7MLm2JPt7tAVwC9YuLxq8WnTzagxggj6t6KsOkX+RBSfgHrHyyrwO1zeTMUbuQGAAtocvI6jbxnT2u+pE5fU283Sp+aByGkZmSGMNrXg/Og09NqOjFSl0d6Kh7rhtHAiQtmilGBQkyuWPCsyJVX9N9APT7EPIF1WltpGlQV59g68Jc/q/aSXlo/gkR08e/jE+d4O38LeVj/EnqdJOSbwQaI1H6EG0eZ93wZJEknGtXgo3CQkf8sr1F5QWedPNWKh9eQs0oIW8RJUIYzLqsbs+slSAmwM/NkAoseD8DSycqi8yP8V+kQ8iZWELFmTehF87zqYChibfRDYA2hVJ/qfBpp+sXaORg==;z38NQW8TAe2TcncSMXHseQ=="
 ---
 
