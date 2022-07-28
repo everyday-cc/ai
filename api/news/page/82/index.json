@@ -2,6 +2,51 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-05-24-artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030.md",
+      "title": "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030",
+      "excerpt": "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-africas-ai-and-startup-scene-prepares-to-change-the-world.md",
       "title": "Africa’s AI and startup scene prepares to change the world",
       "excerpt": "Global perceptions of Africa’s tech landscape does not do justice to the many bright minds who bring revolutionary products to market, writes CELINA LEE, CEO of Zindi",
@@ -1023,58 +1068,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-23T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030.md",
-      "title": "Artificial Neural Networks Market 2022 Scope, Demand, Trends, Growth, and Forecasts till 2030",
-      "excerpt": "May 23, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the Artificial Neural Networks market. In order to comprehend a market holistically, a variety of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030-2022-05-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030-2022-05-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T07:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

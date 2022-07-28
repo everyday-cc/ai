@@ -36,20 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Rediscovering analog computing for achieving effective edge AI performance"
-    excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
-    publishedDateTime: 2022-07-23T13:50:00Z
-    webUrl: "https://www.embedded.com/rediscovering-analog-computing-for-achieving-effective-edge-ai-performance/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/07/Edge-AI-.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "MxhYcbZIYBlNx2BaZDli1cbBbsOAM2S43/0UCD/tFUHAC+or3rxPNdneCvv9YoZ6AIs0cF0N18WXEdiEPzR4tMhKdGEkmLnczZd/HwSKLqciEvmbINygCOwaZbo0lDtyCQlumzFp9XrH4x9Zct4F+lPNt3kGmURR5UtlOfE9fHG/XXcBhiuBTXflQoMYXDJavcc7RsAI0IeTFolszgd53WZkgT2S7E4npjuQSSIkJQBdCH2h+w4NjFdh6HpmLkXhANreR/ESptMGZorKoFQh8tGiYi3tW9ag+FZ1SyoFq6KolQDKoQD9LavMZ+Avdg55TZOp2wabA6ttkUt5yCS++SxtEo5JsAKSdFU5lG1g5Sw=;I7FBQJJYs50Lwh02o2S05w=="
 ---

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Sense Selects Iguazio for AI Chatbot Automation"
+    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
+    publishedDateTime: 2022-07-27T14:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sense-selects-iguazio-for-ai-chatbot-automation/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "New Research Reveals Chatbots and Conversational AI are an Absolute Necessity to Drive Successful Talent Engagement"
     excerpt: "Sense, the market leader in AI-driven talent engagement solutions for enterprise recruiting, uncovers the role and impact that Conversational AI and chatbots have in today’s competitive recruiting landscape."
     publishedDateTime: 2022-07-26T11:01:00Z

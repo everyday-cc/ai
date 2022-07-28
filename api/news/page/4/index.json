@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-21-prosegur-security-launches-worlds-first-responsible-artificial-intelligence-framework-globally.md",
+      "title": "Prosegur Security Launches World’s First Responsible Artificial Intelligence Framework Globally",
+      "excerpt": "Prosegur Security, a global security leader, has launched a new Responsible Artificial Intelligence (AI) Policy in an effort to proactively decrease risks associated with AI use. The policy will serve as a guideline for the ethical,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
       "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
       "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
@@ -538,17 +582,17 @@
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
       "sourceUrl": null,
-      "webUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
-      "originalUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
+      "webUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
+      "originalUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600",
-          "width": 600,
-          "height": 600,
+          "url": "https://ktar.com/wp-content/uploads/2022/07/ap_202c0950542c4f0385a16dcf90640f88.jpg",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -556,13 +600,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T21:16:00-07:00",
+      "ampWebUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/",
+      "publishedDateTime": "2022-07-20T21:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDRB",
-        "domain": "wdrb.com",
+        "name": "KTAR News",
+        "domain": "ktar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1097,40 +1141,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-2082-billion-by-2030.md",
-      "title": "The Worldwide AI in Healthcare Industry is Expected to Reach $208.2 Billion by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. The growing demand for personalized medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

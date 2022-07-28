@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-14-5-biggest-challenges-of-data-security-in-the-financial-service-industry.md",
+      "title": "5 Biggest Challenges of Data Security in the Financial Service Industry",
+      "excerpt": "Collaboration and a proactive approach are essential in discovering new data security risks, regulations, and measures in the financial service industry. Given the fact that companies within the financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/431354",
+      "originalUrl": "https://www.entrepreneur.com/article/431354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-431354.jpeg",
+          "width": 624,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business.md",
       "title": "Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business",
       "excerpt": "AssemblyAI, which is developing API-based services for AI-powered audio and video analysis services, has closed a $30M funding round led by Insight Partners.",
@@ -1114,48 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-jcc-joins-intel-artificial-intelligence-program.md",
-      "title": "JCC joins Intel artificial intelligence program",
-      "excerpt": "WATERTOWN — Jefferson Community College has been selected as one of four community colleges in the state to join the Artificial Intelligence Incubator Network, an initiative launched in January by",
-      "sourceUrl": null,
-      "webUrl": "https://www.nny360.com/communitynews/education/jcc-joins-intel-artificial-intelligence-program/article_43170b98-8f82-5e38-850c-1e2503fb3d86.html",
-      "originalUrl": "https://www.nny360.com/communitynews/education/jcc-joins-intel-artificial-intelligence-program/article_43170b98-8f82-5e38-850c-1e2503fb3d86.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/9/91/991778af-82d2-5e7e-b370-330c81cfbd4a/62cf5d1b44ae4.image.jpg?crop=1770%2C929%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NNY360",
-        "domain": "nny360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

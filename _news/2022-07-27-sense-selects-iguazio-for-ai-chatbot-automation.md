@@ -19,31 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being"
-    excerpt: "The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you ..."
-    publishedDateTime: 2022-07-23T13:36:00Z
-    webUrl: "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/"
-    ampWebUrl: "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/"
+  - title: "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA"
+    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations."
+    publishedDateTime: 2022-07-27T13:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 57
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sentient chatbots, Douglas Hofstadter, and why general AI is still a long ways off"
-    excerpt: "One of the the fields leading thinkers, Melanie Mitchell talks about why humans are unlikely to develop general AI anytime soon."
-    publishedDateTime: 2022-07-27T19:06:00Z
-    webUrl: "https://interestingengineering.com/science/sentient-chatbots-douglas-hofstadter-and-why-general-ai-is-still-a-long-ways-off"
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+  - title: "New Research Reveals Chatbots and Conversational AI are an Absolute Necessity to Drive Successful Talent Engagement"
+    excerpt: "Sense, the market leader in AI-driven talent engagement solutions for enterprise recruiting, uncovers the role and impact that Conversational AI and chatbots have in today’s competitive recruiting landscape."
+    publishedDateTime: 2022-07-26T11:01:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-26-new-research-reveals-chatbots-and-conversational-ai-are-an-absolute-necessity-to-drive-successful-talent-engagement"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 11
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "KcFL+PUS8sRd21iYkA7ZKo2EIbJtzCmnhuYz9CxBtv6bYhLsxJhNfVswd4tmTICQzVg3e0lvQQTo2tM9+tUwk/yBlBW0bAIcz53nCowm0ryZKJw6CN+lM4+MNIyxtaM/v8vdABsLTIrUvMxnXCKWT7KmyKcwvjM40SCVvlWzgPQLfgvrGzOR4+MAAa9R8DQCnjGxhekVzoz+umta8siccjjlrR9elaeswNKP24+6ZYWrWaSjtWm1Ha1boBM2k9DHDFxzKzyB4aoWQBRphDq9j77BIaa3bgUzJgjwB4t9oBRHe7cE6eOqWsRsXe1K7cmAFchCW2naK3BE8LJmD3L2ZIXp0EGMjqRvSvIcPp8NRDY=;2qzgOQeoOPht70PaEOBT3w=="
 ---

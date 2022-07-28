@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-15-twin-cities-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!",
+      "excerpt": "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler.md",
       "title": "Achieve enterprise-grade monitoring for your Amazon SageMaker models using Fiddler",
       "excerpt": "This is a guest blog post by Danny Brock, Rajeev Govindan and Krishnaram Kenthapadi at Fiddler AI. Your Amazon SageMaker models are live. They’re handling millions of inferences each day and driving better business outcomes for your company. They’re performing exactly as well as the day they were launched.",
@@ -791,6 +825,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
+      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
+      "excerpt": "Washington, DC (CNN)Andrej Karpathy, Tesla's director of artificial intelligence ... including Alphabet's Waymo and General Motors' Cruise. \"Is that person distracted and on their phone?",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "publishedDateTime": "2022-07-14T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots-humans.md",
       "title": "Are We Getting The Best Out Of Our Bots? Co-Intelligence Between Robots & Humans",
       "excerpt": "When inflation is soaring, utility bills are hitting record heights and job vacancies far outstrip the number of people seeking work, it’s tempting to see technology as the solution. But after over two years of reduced human contact are we starting to see a thirst for human contact?",
@@ -890,58 +976,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "publishedDateTime": "2022-07-14T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1072,59 +1106,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-5-biggest-challenges-of-data-security-in-the-financial-service-industry.md",
-      "title": "5 Biggest Challenges of Data Security in the Financial Service Industry",
-      "excerpt": "Collaboration and a proactive approach are essential in discovering new data security risks, regulations, and measures in the financial service industry. Given the fact that companies within the financial",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/431354",
-      "originalUrl": "https://www.entrepreneur.com/article/431354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-431354.jpeg",
-          "width": 624,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

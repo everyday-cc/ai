@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft FY 2023 Outlook Signals Growth 'Azure'd'"
-    excerpt: "Microsoft continues to demonstrate sustained growth and a strong balance sheet despite near-term downside risks. Click here for a full analysis of Microsoft's latest earnings report."
-    publishedDateTime: 2022-07-27T15:22:00Z
-    webUrl: "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-signals-growth-azured"
+  - title: "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta"
+    excerpt: "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard"
+    publishedDateTime: 2022-07-27T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402827481/image_1402827481.jpg?io=getty-c-w750"
-        width: 750
-        height: 563
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
     publishedDateTime: 2022-07-25T15:57:00Z

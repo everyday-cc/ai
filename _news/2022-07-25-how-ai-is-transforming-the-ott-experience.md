@@ -7,7 +7,7 @@ originalUrl: "https://www.streamingmedia.com/Articles/Post/Blog/How-AI-Is-Transf
 webUrl: "https://www.streamingmedia.com/Articles/Post/Blog/How-AI-Is-Transforming-the-OTT-Experience-154060.aspx"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,33 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How AI is changing the way we learn languages"
-    excerpt: "There are some exciting developments happening in the AI voice recognition space right now. Here's what this means for language-learners."
-    publishedDateTime: 2022-07-23T13:40:00Z
-    webUrl: "https://venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
-    excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
-    publishedDateTime: 2022-07-25T14:51:00Z
-    webUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-    ampWebUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 46
-    images:
-      - url: "https://wgntv.com/wp-content/uploads/sites/5/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
-        width: 1040
-        height: 585
-        isCached: true
 
 secured: "LjrsxIEZ9MZmu08kaEkmryvNUb8u62Pz3ltHTDJMBgQA+2tP7xKKSXkl0oYjpAZMnHSIFD2bZUnLl8N9teLuNm1gUJYJUdyRJJnKl5oAGaUtZy6sPSHdnJaE/AfQpiA19Dvt4oo3vGSijo+LOhGuuZCxHHsnR6sxh/jqPTkMKm+nvMFM4nP2a16S/0qPztyKffAR+ObpyUjxXJSa6NG8mvzgYENjxB2EMIOjnAzOJ8nwXn0pdaypdH72lYZc6xf8gKbrbaJSF+g9IGy0N4GDlz53yRnopxaR5Q2/ADYoKr2oJ4WrdkxtJXLRchBaf8OLwCZFEX9TfaRgwCqe5rxJT0uxy7iEvHDjdRbdK9YHV3Y=;RiwFu/OTLk+JdwAyfvEzag=="
 ---

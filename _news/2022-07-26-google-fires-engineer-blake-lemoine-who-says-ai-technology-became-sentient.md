@@ -3,18 +3,18 @@ category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
 excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
 publishedDateTime: 2022-07-25T18:17:00Z
-originalUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC30 Action News
-  domain: abc30.com
+  name: WTVD
+  domain: abc11.com
 
 topics:
   - AWS AI
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-    publishedDateTime: 2022-07-23T14:49:00Z
-    webUrl: "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
     publishedDateTime: 2022-07-23T19:37:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/20220321101605.jpg"
         width: 670
         height: 446
-        isCached: true
-  - title: "Google has fired the AI engineer who said its chatbot is sentient"
-    excerpt: "Lemoine, also an ordained Christian mystic priest, made headlines worldwide last month after claiming LaMDA was sentient. The conversations he published included the bot's views on"
-    publishedDateTime: 2022-07-23T14:51:00Z
-    webUrl: "https://www.techspot.com/news/95403-google-has-fired-ai-engineer-who-chatbot-sentient.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-15-image-29.jpg"
-        width: 2500
-        height: 1899
         isCached: true
   - title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
     excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
@@ -283,6 +253,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "5IR8y7ACZU721+6SLZ5AHLFQehtEYMyYX3to71wy5bDHBmCIXKIYLMe66+l3lhYS3/5ngGtRTA5sh68PU0wAYDW8zfNCXccrnMIE7CpfuVwBS4LmnoD+kiECo4GI/rn823EN2Z75s6oNxIfDG2+HtnP/TGJd3mQDP0dttJLSrz1WkfuXibuDhXuWJSEhz3Sc9tjKo8JlkmsNqGES+M4qa9EJBb8Kq7BfSSUI5kwpOQWPE0AYhNRj+zWVIwJpH1Gl6torNPVYm2m/BzGbnYjrZ6JMimzGBy1xBtkoiIXSy9h+mVSgSnkoqy83szcsTsPHGTUmfhdmFDPRNX+ptMMLAfKhTpHbvgG2dExAsqgmck4=;2msH1npEDoNBYz71YMW23A=="
+secured: "7rpFVLoQcSMIHm9rlmctRs/A2IHEp4j30dTIi0h6KBVOQxMD0BFbahdt/nrfC9bYHenN/1/NmDDxbgMuxorQhpcnrFdt2aJiY+LAdabYIJ0IqKYSnnfLtLRJY8qVYEaG2rBqAnRXfW3YFLReFB/Rzev/3zBlSUJf2yt+B77lShnVowt8oSg30gp5GHPW1DSJRS93emnPy7tiyDn6Tc2T4cURrkUdZvGlpKhJMcGpiQCuk6b3HQMFvSbYe+7RT+UgSakdZIsqahQmTYKxuwlgE6qDMnO6epxu5XEhuJEvuiM8TQ7soPgSwjilv717A9Wc+KMHEZ83OZhgTNNSMLsLmrTU10YfdgJmkdmUSzOpYC8=;oh8v+bunX5YkbRmg8LXLkw=="
 ---
 

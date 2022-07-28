@@ -38,20 +38,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Rediscovering analog computing for achieving effective edge AI performance"
-    excerpt: "X performance improvement over current digital approaches, and analog compute-in-memory systems provide the only viable path forward."
-    publishedDateTime: 2022-07-23T13:50:00Z
-    webUrl: "https://www.embedded.com/rediscovering-analog-computing-for-achieving-effective-edge-ai-performance/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/07/Edge-AI-.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "R2U1Jqhl1MRaQz8VtR3QrjxWyq77Lu2ZCZme0MN7ympiGlAR2xMo/jRbG2cSCFBF5hssPI/oxnB8OYnUxEy1KthDWyub2j9GSy012bGAYeYjOgcTeNCwtLjSY4iqzITMvdR+blkjO7T7mDpgFeOfKmeRwO3OqDRrib/LpeZrVYpG1YTQzKqdRxls2YONUrtRSlA+LhcyKtll4CV+ihoJeQB+UApBMpIECOZMbcZxE1QQPYcohn2u3MPPfTBMAMflA7DoVQAWr0CcQ9aGnRLfV7iEtWWzU234AtLhRq/WLLmJzre636QNEiaUJ3NimlA4dKd8EP7Rre+474/faUM2ye44U7ov2MQT3vI7PnwFzcSBKbO42AZsxse+7F2QR7UzNfoBZ/8cKCVhooLZCoxy6Z5+puyFuD/FO5o0kuQoc22riiDK86f7r6Cr4mQ6Gj9txhmPAKsfz+EvDotsJNcyKHHzmCK+dM4NJHCvDdm70JYW0Mwva7QJjvDx7pGhmp2wKc2ciXmTohrefvIWfp/4vA==;Z/lKWjXLmqN1B3Ib0dZjxQ=="
 ---
